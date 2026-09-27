@@ -60,7 +60,7 @@ Stav k 2026-09-27: fáze 1 hotová, fáze 2 rozjetá (mapa 2236 objektů, histor
 
 - [x] Podklad „Krajina + města“ (výchozí: lesy, reliéf, řeky + hranice a města) a „Jen města“, multi-výběr rodů jako chipy + reset, náhled při najetí myší, přidávání návštěv v rozhraní.
 - [x] Filtr návštěv: místo matoucího „jen nenavštívené“ výběr všechny / jen navštívené / jen nenavštívené, pokrytý E2E testem.
-- [x] Návštěvy pro každého návštěvníka zvlášť: prázdný start, prohlížeč / připojený soubor / `serve.py`, export a import (viz níže a README).
+- [x] Návštěvy pro každého návštěvníka zvlášť: prázdný start, prohlížeč / připojený soubor / `serve.py`, export a import (viz níže a docs/DEVELOPMENT.md).
 - [x] Náhledy fotek při najetí myší jako lokální miniatury (`scripts/fetch_thumbs.py` -> `data/thumbs/<QID>.webp`, ~14 kB, autor a licence do `data/build/thumbs.json`, zobrazují se jako popisek fotky). Náhledy z Commons používají jen standardní šířky (jiné Commons od 2026 odmítá).
 
 - [ ] Nasazení na GitHub Pages (vytvořit repo, push - na tvoje schválení). Předtím:
@@ -84,7 +84,7 @@ CARTO (původní světlý podklad) nově vyžaduje API klíč a bez něj ukazuje
 
 ## Návštěvy pro více uživatelů
 
-Hotovo (2026-09-27): veřejný web začíná prázdný, návštěvy jsou v prohlížeči nebo v souboru připojeném přes File System Access API (Chromium), export / import JSON všude; `data/visited.json` jen přes lokální `serve.py`. Popis v README (Navštívená místa).
+Hotovo (2026-09-27): veřejný web začíná prázdný, návštěvy jsou v prohlížeči nebo v souboru připojeném přes File System Access API (Chromium), export / import JSON všude; `data/visited.json` jen přes lokální `serve.py`. Popis v docs/DEVELOPMENT.md (Navštívená místa).
 
 - [ ] Volitelně později, pokud to bude používat víc lidí napříč zařízeními i ve Firefoxu / Safari: hostovaný backend (Supabase / Firebase) s přihlášením; stávající režimy nechat jako variantu bez účtu. Ověřit aktuální limity bezplatných tarifů a GDPR (ukládání e-mailů).
 - [ ] Import neumí přenést smazání návštěv (slučuje) - případně přidat volbu „nahradit vše“.

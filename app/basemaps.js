@@ -34,7 +34,7 @@ function citiesLayer({ terrain = false } = {}) {
   const attr = "hranice © <a href='https://www.cuzk.cz'>ČÚZK</a> (CC BY 4.0), města Wikidata";
   group.getAttribution = () => (terrain ? `${STADIA_ATTR} | ${attr}` : attr);
   if (terrain) {
-    // localhost needs no key; a public domain must be registered (free) at stadiamaps.com - see README
+    // localhost needs no key; a public domain must be registered (free) at stadiamaps.com - see docs/DEVELOPMENT.md
     L.tileLayer("https://tiles.stadiamaps.com/tiles/stamen_terrain_background/{z}/{x}/{y}{r}.png", { maxZoom: 18 }).addTo(group);
   }
   let map = null;
