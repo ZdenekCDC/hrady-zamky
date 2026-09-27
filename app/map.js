@@ -49,22 +49,34 @@ function saveState() {
 
 /* ---------- marker glyphs ---------- */
 
-function shapePath(kind, r) {
-  switch (kind) {
-    case "hrad": return `<rect x="${-r}" y="${-r}" width="${2 * r}" height="${2 * r}" rx="${r * 0.25}"/>`;
-    case "hradozamek": return `<path d="M0 ${-r * 1.25} L${r * 1.25} 0 L0 ${r * 1.25} L${-r * 1.25} 0 Z"/>`;
-    case "zricenina": return `<path d="M0 ${-r * 1.2} L${r * 1.15} ${r * 0.85} L${-r * 1.15} ${r * 0.85} Z"/>`;
-    default: return `<circle r="${r}"/>`;
-  }
+// Pictograms in a unit box (x, y in -1..1, y down); drawn scaled to the marker, the outline keeps its px width.
+const PICTOGRAMS = {
+  // tower with battlements
+  hrad: "M-.72 1V-.5H-.92V-1H-.54V-.74H-.19V-1H.19V-.74H.54V-1H.92V-.5H.72V1Z",
+  // chateau: wide house with a roof and a domed turret
+  zamek: "M-1 .8V-.05L-.82-.4H-.28V-.58C-.28-1.02 .28-1.02 .28-.58V-.4H.82L1-.05V.8Z",
+  // castle keep with a chateau wing
+  hradozamek: "M-1 1V-1H-.77V-.8H-.53V-1H-.3V-.26L.02-.56H.68L1-.24V1Z",
+  // broken walls with a jagged top
+  zricenina: "M-.95 1V-.46H-.7V-.92H-.44V-.3L-.16-.06L.1-.44L.34 0V-.6H.6V-.28H.95V1Z",
+};
+
+// pictograms need more room than the old circles / squares to stay readable; sizes elsewhere stay as they were
+const PICTO_SCALE = 1.35;
+
+/** Pixel size of the square SVG that glyph() draws for a style size. */
+export function glyphBox(size) {
+  return Math.round(size * PICTO_SCALE) + 4;
 }
 
 export function glyph(kind, { size, fill, stroke, strokeWidth = 2, check = false, opacity = 1 }) {
-  const r = size / 2 - strokeWidth;
-  const box = size + 4;
+  const box = glyphBox(size);
+  const r = (box - 4) / 2 - strokeWidth / 2;
   const c = box / 2;
-  const tick = check ? `<path d="M${-r * 0.45} 0 l${r * 0.32} ${r * 0.35} l${r * 0.6} ${-r * 0.7}" fill="none" stroke="#fff" stroke-width="${Math.max(1.6, r * 0.28)}" stroke-linecap="round" stroke-linejoin="round"/>` : "";
+  const t = r * 0.42; // tick in the solid lower half of every pictogram
+  const tick = check ? `<path d="M${-t} ${r * 0.42} l${t * 0.7} ${t * 0.7} l${t * 1.3} ${-t * 1.3}" fill="none" stroke="#fff" stroke-width="${Math.max(1.6, r * 0.24)}" stroke-linecap="round" stroke-linejoin="round"/>` : "";
   return `<svg width="${box}" height="${box}" viewBox="${-c} ${-c} ${box} ${box}" style="opacity:${opacity}">
-    <g fill="${fill}" stroke="${stroke}" stroke-width="${strokeWidth}">${shapePath(kind, r)}</g>${tick}</svg>`;
+    <path d="${PICTOGRAMS[kind] || PICTOGRAMS.zamek}" transform="scale(${r})" fill="${fill}" stroke="${stroke}" stroke-width="${strokeWidth}" vector-effect="non-scaling-stroke" stroke-linejoin="round"/>${tick}</svg>`;
 }
 
 /** First highlighted family that ever owned the place (or null). */
@@ -91,7 +103,7 @@ function markerStyle(p) {
   const hl = fams.length ? highlightedOwner(p) : null;
   const dim = fams.length && !hl;
   if (p.visited) return { size: 20, fill: hl ? ownerColor(D.families, hl, true) : "var(--mk-accent)", stroke: "var(--mk-bg)", check: true, opacity: dim ? 0.25 : 1 };
-  if (hl) return { size: 17, fill: "var(--mk-bg)", stroke: ownerColor(D.families, hl, true), strokeWidth: 3.5 };
+  if (hl) return { size: 17, fill: "var(--mk-bg)", stroke: ownerColor(D.families, hl, true), strokeWidth: 3 };
   if (p.access === "vstupne") return { size: 15, fill: "var(--mk-bg)", stroke: "var(--mk-ink)", opacity: dim ? 0.2 : 1 };
   if (p.access === "volne") return { size: 13, fill: "var(--mk-bg)", stroke: "var(--mk-muted)", opacity: dim ? 0.2 : 1 };
   return { size: 9, fill: "var(--mk-muted)", stroke: "var(--mk-bg)", strokeWidth: 1, opacity: dim ? 0.15 : 0.8 };
@@ -150,14 +162,14 @@ function refresh() {
   });
 }
 
+/** Leaflet icon of a place glyph, anchored at its centre. */
+export function glyphIcon(kind, st, className = "mk") {
+  const box = glyphBox(st.size);
+  return L.divIcon({ className, html: glyph(kind, st), iconSize: [box, box], iconAnchor: [box / 2, box / 2] });
+}
+
 function icon(p, st) {
-  const box = st.size + 4;
-  return L.divIcon({
-    className: "mk" + (selected === p.id ? " sel" : ""),
-    html: glyph(p.kind, st),
-    iconSize: [box, box],
-    iconAnchor: [box / 2, box / 2],
-  });
+  return glyphIcon(p.kind, st, "mk" + (selected === p.id ? " sel" : ""));
 }
 
 /* ---------- sidebar: filters + legend ---------- */
@@ -288,7 +300,7 @@ function renderLegend() {
     html += item(dot("var(--mk-bg)", { stroke: "var(--mk-ink)", strokeWidth: 2.5 }), "navštíveno (tmavý okraj)");
   } else {
     for (const f of state.families) {
-      html += item(glyph("zamek", { size: 15, fill: "var(--mk-bg)", stroke: ownerColor(D.families, f, true), strokeWidth: 3.5 }), familyName(D.families, f), f);
+      html += item(glyph("zamek", { size: 15, fill: "var(--mk-bg)", stroke: ownerColor(D.families, f, true), strokeWidth: 3 }), familyName(D.families, f), f);
     }
     html += item(glyph("zamek", { size: 20, fill: "var(--mk-accent)", stroke: "var(--mk-bg)", check: true }), "navštíveno");
     html += item(glyph("zamek", { size: 15, fill: "var(--mk-bg)", stroke: "var(--mk-ink)" }), "zpřístupněné");

@@ -2,7 +2,7 @@
 import { HOW, KIND, NOW, commonsThumb, esc, familyName, isInstitution, ownerColor, yearRange } from "./data.js";
 import { attachBaseLayers } from "./basemaps.js";
 import { renderGantt } from "./gantt.js";
-import { glyph } from "./map.js";
+import { glyphIcon } from "./map.js";
 
 let D;
 let familyMap = null;
@@ -133,7 +133,7 @@ function renderFamilyCharts(f) {
       : { size: 15, fill: "var(--mk-bg)", stroke: ownerColor(D.families, f.id, true), strokeWidth: 3 };
     L.marker([p.lat, p.lon], {
       title: p.name,
-      icon: L.divIcon({ className: "mk", html: glyph(p.kind, st), iconSize: [st.size + 4, st.size + 4], iconAnchor: [(st.size + 4) / 2, (st.size + 4) / 2] }),
+      icon: glyphIcon(p.kind, st),
     }).on("click", () => { location.hash = `#/misto/${p.id}`; }).bindTooltip(`${p.name} (${KIND[p.kind]})`).addTo(familyMap);
   }
   if (pts.length) familyMap.fitBounds(pts, { padding: [30, 30], maxZoom: 11 });
