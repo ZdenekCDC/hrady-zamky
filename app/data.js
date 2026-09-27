@@ -9,10 +9,11 @@ export const KIND = {
   zricenina: "zřícenina",
 };
 
+// label = layer switch in the filters, legend = map legend, short = badges and hover
 export const ACCESS = {
-  vstupne: { label: "Zpřístupněné (vstupné, prohlídky)", short: "vstupné" },
-  volne: { label: "Volně přístupné zříceniny", short: "volně přístupné" },
-  neznamo: { label: "Ostatní (přístupnost neznámá)", short: "přístupnost neznámá" },
+  vstupne: { label: "Se vstupným (prohlídky, expozice)", legend: "se vstupným", short: "vstupné" },
+  volne: { label: "Volně přístupné zříceniny", legend: "volně přístupné", short: "volně přístupné" },
+  neznamo: { label: "Ostatní (přístupnost neznámá)", legend: "přístupnost neznámá", short: "přístupnost neznámá" },
 };
 
 export const HOW = {

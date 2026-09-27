@@ -6,7 +6,7 @@ Interaktivní mapa českých hradů, zámků a zřícenin, kde si můžeš odšk
 
 ## Co na mapě najdeš
 
-- **Přes 2 200 míst** z celé republiky: hrady, zámky i zříceniny. Zvlášť jsou vidět ty, které jsou zpřístupněné (se vstupným nebo prohlídkami), a volně přístupné zříceniny.
+- **Přes 2 200 míst** z celé republiky: hrady, zámky i zříceniny. Zvlášť jsou vidět místa se vstupným (prohlídky, expozice) a volně přístupné zříceniny; typ poznáš podle piktogramu a barvy.
 - **Filtry a hledání:** typ, kraj, správce (NPÚ / ostatní), století vzniku, navštívená / nenavštívená; hledat jde místa i šlechtické rody.
 - **Detail místa:** fotka, vznik, stručná historie, časová osa vlastníků, důležité události, návštěvnost, odkazy na web, Wikipedii a navigaci a „Co je poblíž“ - nenavštívená místa do zvolené vzdálenosti.
 - **Stroj času:** posuneš rok a mapa se obarví podle toho, který rod tehdy místa vlastnil.
@@ -31,7 +31,7 @@ Mapa stojí na otevřených datech. Díky všem, kdo je tvoří.
 | [Wikidata](https://www.wikidata.org) | seznam míst, poloha, typ, odkazy | CC0 |
 | [Wikipedie](https://cs.wikipedia.org) | historie vlastníků, události, popisy rodů | CC BY-SA |
 | [Wikimedia Commons](https://commons.wikimedia.org) | fotky a erby; autor a licence jsou uvedeny u každé fotky | podle souboru (hlavně CC BY-SA) |
-| [NPÚ](https://www.npu.cz), [NIPOS](https://www.nipos.cz) | zpřístupněné objekty, návštěvnost 2025 | veřejná statistika |
+| [NPÚ](https://www.npu.cz), [NIPOS](https://www.nipos.cz) | místa se vstupným, návštěvnost 2025 | veřejná statistika |
 | [OpenStreetMap](https://www.openstreetmap.org) | podkladové mapy, doplňující údaje o otevření | ODbL |
 | [Stadia Maps](https://stadiamaps.com) / Stamen | terén výchozí mapy | © Stadia Maps, Stamen, OpenMapTiles, OSM |
 | [ČÚZK](https://cuzk.gov.cz) | hranice ČR a krajů | CC BY 4.0 |

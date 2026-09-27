@@ -42,6 +42,12 @@
   --mk-kind-zamek: #f08f7a;
   --mk-kind-hradozamek: #b49cf0;
   --mk-kind-zricenina: #7fd0cf;
+  /* freely accessible places: the same hues mixed 50 % with --mk-bg, darker grey outline than --mk-muted */
+  --mk-kind-hrad-soft: #fae8b3;
+  --mk-kind-zamek-soft: #f6c6ba;
+  --mk-kind-hradozamek-soft: #d8ccf6;
+  --mk-kind-zricenina-soft: #bee6e5;
+  --mk-free: #5f5e59;
   font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
 }
 @media (prefers-color-scheme: dark) {

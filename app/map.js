@@ -69,14 +69,16 @@ export function glyphBox(size) {
   return Math.round(size * PICTO_SCALE) + 4;
 }
 
-export function glyph(kind, { size, fill, stroke, strokeWidth = 2, check = false, opacity = 1 }) {
+export function glyph(kind, { size, fill, stroke, strokeWidth = 2, check = false, opacity = 1, halo = true }) {
   const box = glyphBox(size);
   const r = (box - 4) / 2 - strokeWidth / 2;
   const c = box / 2;
+  const d = PICTOGRAMS[kind] || PICTOGRAMS.zamek;
   const t = r * 0.42; // tick in the solid lower half of every pictogram
   const tick = check ? `<path d="M${-t} ${r * 0.42} l${t * 0.7} ${t * 0.7} l${t * 1.3} ${-t * 1.3}" fill="none" stroke="#fff" stroke-width="${Math.max(1.6, r * 0.24)}" stroke-linecap="round" stroke-linejoin="round"/>` : "";
   return `<svg width="${box}" height="${box}" viewBox="${-c} ${-c} ${box} ${box}" style="opacity:${opacity}">
-    <path d="${PICTOGRAMS[kind] || PICTOGRAMS.zamek}" transform="scale(${r})" fill="${fill}" stroke="${stroke}" stroke-width="${strokeWidth}" vector-effect="non-scaling-stroke" stroke-linejoin="round"/>${tick}</svg>`;
+    ${halo ? /* white ring lifts the marker off the terrain tiles */ `<path d="${d}" transform="scale(${r})" fill="none" stroke="var(--mk-bg)" stroke-width="${strokeWidth + 2.5}" vector-effect="non-scaling-stroke" stroke-linejoin="round" opacity=".9"/>` : ""}
+    <path d="${d}" transform="scale(${r})" fill="${fill}" stroke="${stroke}" stroke-width="${strokeWidth}" vector-effect="non-scaling-stroke" stroke-linejoin="round"/>${tick}</svg>`;
 }
 
 /** First highlighted family that ever owned the place (or null). */
@@ -85,7 +87,12 @@ function highlightedOwner(p) {
   return owners ? state.families.find((f) => owners.some((o) => o.owner === f)) || null : null;
 }
 
-const kindFill = (kind) => `var(--mk-kind-${kind})`;
+const kindFill = (kind, soft = false) => `var(--mk-kind-${kind}${soft ? "-soft" : ""})`;
+// outline = access: bold black with admission, thin grey for free ruins (shared by the map and the legend)
+const ACCESS_STYLE = {
+  vstupne: { size: 15, stroke: "var(--mk-ink)", strokeWidth: 2.25 },
+  volne: { size: 13, stroke: "var(--mk-free)", strokeWidth: 1.5 },
+};
 
 function markerStyle(p) {
   const fams = state.families;
@@ -106,8 +113,7 @@ function markerStyle(p) {
   const dim = fams.length && !hl;
   if (p.visited) return { size: 20, fill: hl ? ownerColor(D.families, hl, true) : "var(--mk-accent)", stroke: "var(--mk-bg)", check: true, opacity: dim ? 0.25 : 1 };
   if (hl) return { size: 17, fill: kindFill(p.kind), stroke: ownerColor(D.families, hl, true), strokeWidth: 3 };
-  if (p.access === "vstupne") return { size: 15, fill: kindFill(p.kind), stroke: "var(--mk-ink)", opacity: dim ? 0.2 : 1 };
-  if (p.access === "volne") return { size: 13, fill: kindFill(p.kind), stroke: "var(--mk-muted)", opacity: dim ? 0.2 : 1 };
+  if (ACCESS_STYLE[p.access]) return { ...ACCESS_STYLE[p.access], fill: kindFill(p.kind, p.access === "volne"), opacity: dim ? 0.2 : 1 };
   return { size: 9, fill: "var(--mk-muted)", stroke: "var(--mk-bg)", strokeWidth: 1, opacity: dim ? 0.15 : 0.8 };
 }
 
@@ -305,9 +311,9 @@ function renderLegend() {
       html += item(glyph("zamek", { size: 15, fill: "var(--mk-bg)", stroke: ownerColor(D.families, f, true), strokeWidth: 3 }), familyName(D.families, f), f);
     }
     html += item(glyph("zamek", { size: 20, fill: "var(--mk-accent)", stroke: "var(--mk-bg)", check: true }), "navštíveno");
-    html += item(glyph("zamek", { size: 15, fill: "var(--mk-bg)", stroke: "var(--mk-ink)" }), "zpřístupněné");
-    html += item(glyph("zamek", { size: 13, fill: "var(--mk-bg)", stroke: "var(--mk-muted)" }), "volně přístupné");
-    html += item(glyph("zamek", { size: 9, fill: "var(--mk-muted)", stroke: "var(--mk-bg)", strokeWidth: 1 }), "ostatní");
+    html += item(glyph("zamek", { ...ACCESS_STYLE.vstupne, fill: "var(--mk-bg)" }), ACCESS.vstupne.legend);
+    html += item(glyph("zamek", { ...ACCESS_STYLE.volne, fill: "var(--mk-bg)" }), ACCESS.volne.legend);
+    html += item(glyph("zamek", { size: 9, fill: "var(--mk-muted)", stroke: "var(--mk-bg)", strokeWidth: 1 }), ACCESS.neznamo.legend);
     for (const [k, label] of Object.entries(KIND)) html += item(glyph(k, { size: 12, fill: kindFill(k), stroke: "var(--mk-ink)", strokeWidth: 1.5 }), label);
   }
   el.innerHTML = html;

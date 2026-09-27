@@ -26,7 +26,7 @@ function renderStats() {
   const visitedOpen = open.filter((p) => p.visited).length;
   const visited = D.places.filter((p) => p.visited).length;
   document.getElementById("stats").innerHTML =
-    `navštíveno <b>${visited}</b> · ze zpřístupněných <b>${visitedOpen}</b> / ${open.length}`;
+    `navštíveno <b>${visited}</b> · z míst se vstupným <b>${visitedOpen}</b> / ${open.length}`;
 }
 
 function initSearch() {

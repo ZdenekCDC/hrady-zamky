@@ -12,7 +12,7 @@ python3 scripts/serve.py        # otevři http://localhost:8000
 
 ## Co umí
 
-- **Mapa**: vrstvy zpřístupněné (vstupné, prohlídky) / volně přístupné zříceniny / ostatní (přístupnost neznámá, skrytá). Piktogram značky = typ (věž s cimbuřím hrad, budova s kupolí zámek, věž s křídlem hrad a zámek, rozpadlé zdi zřícenina) a světlá výplň = typ (žlutá hrad, korálová zámek, šeříková hrad a zámek, tyrkysová zřícenina); obrys černý = zpřístupněné, šedý = volně přístupné; plná modrá s fajfkou = navštíveno.
+- **Mapa**: vrstvy se vstupným (prohlídky, expozice) / volně přístupné zříceniny / ostatní (přístupnost neznámá, skrytá). Piktogram značky = typ (věž s cimbuřím hrad, budova s kupolí zámek, věž s křídlem hrad a zámek, rozpadlé zdi zřícenina) a světlá výplň = typ (žlutá hrad, korálová zámek, šeříková hrad a zámek, tyrkysová zřícenina); se vstupným = plná výplň a silný černý obrys, volně přístupné = zesvětlená výplň a tenký šedý obrys; plná modrá s fajfkou = navštíveno; všechny značky mají bílý lem, aby se odlišily od terénu.
 - **Filtry**: typ, kraj, správce (NPÚ / ostatní), století vzniku, návštěvy (všechny / jen navštívené / jen nenavštívené), jen s historií; hledání (místa i rody); „resetovat vše“.
 - **Zvýraznit rody**: více rodů najednou jako chipy (× odebere, „zrušit výběr“ vše); značky rodu dostanou jeho barvu, ostatní se ztlumí. Totéž kliknutím v legendě.
 - **Náhled při najetí myší**: fotka (lokální miniatura z `data/thumbs/`, rychlá i na GitHub Pages), typ, obec, vznik, přístupnost, rody (ve stroji času vlastník v daném roce).
@@ -55,8 +55,8 @@ Popis všech souborů a formátů: [`data/SCHEMA.md`](../data/SCHEMA.md).
 | Wikidata | seznam objektů, souřadnice, typ, obrázek, web, obec, kraj | CC0 |
 | Wikimedia Commons | fotky objektů (detail) a jejich miniatury v `data/thumbs/`; autor a licence u každé fotky | licence podle souboru (hlavně CC BY-SA) |
 | Wikipedie (cs, doplňkově de/en) | historie vlastníků, události, rody | CC BY-SA |
-| NPÚ (seznam na cs.wiki) | objekty ve správě NPÚ = zpřístupněné | - |
-| NIPOS, návštěvnost památek 2025 | zpřístupněné za vstupné, návštěvnost, web | veřejná statistika |
+| NPÚ (seznam na cs.wiki) | objekty ve správě NPÚ = se vstupným | - |
+| NIPOS, návštěvnost památek 2025 | místa se vstupným, návštěvnost, web | veřejná statistika |
 | NIPOS, návštěvnost muzeí 2025 | hrady a zámky ve správě muzeí (pobočky podle názvu, sídla podle webu) | veřejná statistika |
 | Stadia Maps / Stamen Terrain Background | terén pod podkladem „Krajina + města“ | © Stadia Maps, Stamen, OpenMapTiles, OSM |
 | OpenStreetMap (Overpass) | doplňkové signály otevření (opening_hours, fee, tourism) | ODbL |
