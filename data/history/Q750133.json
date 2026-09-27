@@ -1,0 +1,30 @@
+{
+ "id": "Q750133",
+ "name": "Kunštát",
+ "founded": {"year": 1265, "approx": true, "text": "Hrad nechal v 60. letech 13. století vystavět Kuna ze Zbraslavi a Kunštátu, syn Gerharda ze Zbraslavi, doložený na hradě roku 1279; dříve se předpokládal vznik již v 1. polovině 13. století podle románských prvků, novější výzkum to však vyvrátil."},
+ "summary": "Hrad Kunštát založil v 60. letech 13. století Kuna ze Zbraslavi a Kunštátu a do roku 1414 jej drželi jeho potomci z kunštátské větve pánů z Kunštátu; poté jej získala poděbradská větev téhož rodu (mimo jiné Jiří z Poděbrad), která hrad rozšiřovala až do prodeje roku 1521. Vilém z Pernštejna jej brzy prodal Janu Černčickému z Kácova, jenž zahájil renesanční přestavbu na zámek; následovali hrabata z Hardeku a od roku 1680 Lamberkové, kteří provedli barokní přestavbu. Od roku 1903 zámek zdědili Coudenhove-Honrichsové, poslední šlechtičtí majitelé, kteří jej roku 1939 darovali Kongregaci sester Těšitelek Božského srdce Ježíšova; po nucené správě za protektorátu byl roku 1948 zestátněn a dnes je ve správě Národního památkového ústavu.",
+ "owners": [
+  {"owner": "pani-z-kunstatu-a-podebrad", "owner_wiki": "Páni z Kunštátu a Poděbrad", "person": "Kuna ze Zbraslavi a Kunštátu", "from": 1265, "to": 1414, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "kunštátská větev rodu; poslední mužský potomek Erhart mladší z Kunštátu zemřel 1414"},
+  {"owner": "pani-z-kunstatu-a-podebrad", "owner_wiki": "Páni z Kunštátu a Poděbrad", "person": "Boček starší z Poděbrad", "from": 1414, "to": 1521, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "poděbradská větev rodu; mj. Jiří z Poděbrad, Procek z Kunštátu a Opatovic, Jan Heralt z Kunštátu a Líšnice, Hynek Boček z Polné; roku 1436 hrad oblehl a dobyl rakouský vévoda Albrecht"},
+  {"owner": "pernstejnove", "owner_wiki": "Pernštejnové", "person": "Vilém z Pernštejna", "from": 1521, "to": 1529, "from_approx": false, "to_approx": false, "how": "koupe"},
+  {"owner": "cerncicti-z-kacova", "owner_wiki": "Černčičtí z Kácova", "person": "Jan Černčický z Kácova", "from": 1529, "to": 1593, "from_approx": false, "to_approx": false, "how": "koupe", "note": "zahájil renesanční přestavbu hradu na zámek"},
+  {"owner": "hardekove", "owner_wiki": "Hardekové", "person": "hrabata z Hardeku", "from": 1593, "to": 1680, "from_approx": false, "to_approx": false, "how": "koupe"},
+  {"owner": "lambergove", "owner_wiki": "Lambergové", "person": "Kašpar Fridrich z Lamberka", "from": 1680, "to": 1903, "from_approx": false, "to_approx": true, "how": "koupe", "note": "1680 barokní přestavba; kolem 1800 klasicistní úpravy provedli Honrichsové, přesný okamžik přechodu panství na tuto větev/rodinu zdroj neuvádí"},
+  {"owner": "coudenhove-honrichsove", "owner_wiki": null, "person": "František Josef Coudenhove-Honrichs, od 1912 dcera Františka Leopoldina", "from": 1903, "to": 1939, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "poslední šlechtičtí majitelé zámku; Františka Leopoldina od 1916 řeholnicí, roku 1939 zámek darovala kongregaci"},
+  {"owner": "cirkev", "owner_wiki": null, "person": "Kongregace sester Těšitelek Božského srdce Ježíšova", "from": 1939, "to": 1941, "from_approx": false, "to_approx": false, "how": "dar"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1941, "to": 1945, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "nucená správa říšského protektora; zámek sloužil jako ubytovna pro brněnské sirotky"},
+  {"owner": "cirkev", "owner_wiki": null, "person": "Kongregace sester Těšitelek Božského srdce Ježíšova", "from": 1945, "to": 1948, "from_approx": false, "to_approx": false, "how": "jine", "note": "vlastnictví vráceno kongregaci"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1948, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "zestátněno 1948 (kongregace neuplatnila restituční nárok); sloužil jako depozitář Moravského zemského archivu v Brně, od 1. 1. 2005 ve správě NPÚ a zpřístupněn veřejnosti"}
+ ],
+ "events": [
+  {"year": 1279, "text": "Kuna ze Zbraslavi a Kunštátu doložen jako majitel hradu"},
+  {"year": 1414, "text": "vymřela kunštátská větev rodu, hrad získala poděbradská větev (Boček starší z Poděbrad)"},
+  {"year": 1436, "text": "rakouský vévoda Albrecht oblehl a dobyl hrad, jehož majitel Heralt z Kunštátu a Líšnice byl jeho odbojníkem"},
+  {"year": 1521, "text": "hrad koupil Vilém z Pernštejna, čímž jej rod Kunštátů natrvalo ztratil"},
+  {"year": 1529, "text": "Jan Černčický z Kácova zahájil renesanční přestavbu hradu na zámek"},
+  {"year": 1680, "text": "Kašpar Fridrich z Lamberka provedl barokní přestavbu zámku"},
+  {"year": 1939, "text": "Františka Coudenhove-Honrichsová darovala zámek Kongregaci sester Těšitelek Božského srdce Ježíšova"},
+  {"year": 1948, "text": "zámek zestátněn, později sloužil jako depozitář Moravského zemského archivu; od 2005 ve správě NPÚ"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Kunštát_(zámek)"]
+}

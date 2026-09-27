@@ -1,0 +1,367 @@
+{
+ "id": "Q1011134",
+ "name": "Boskovice",
+ "founded": {
+  "year": 1230,
+  "approx": true,
+  "text": "Hrad založili pravděpodobně již v první polovině 13. století páni z Boskovic; první písemná zmínka o boskovickém hradu je až z roku 1312, k roku 1222 je doložen šlechtic Jimram z Boskovic, možná ještě na jiném opevněném sídle."
+ },
+ "summary": "Hrad založili ve 13. století páni z Boskovic, kteří jej s přestávkami (zástava Ederům ze Štiavnice, mezidobí pánů z Kunštátu a Poděbrad za husitských válek) drželi až do roku 1547. Poté hrad vlastnili postupně Ederové ze Štiavnice, páni ze Zástřizl, kteří jej renesančně přestavěli, a od roku 1690 Ditrichštejnové, kteří kolem roku 1720 přesídlili do nového barokního sídla ve městě, takže hrad chátral a byl roku 1784 opuštěn. Od roku 1856 patří rodině Mensdorff-Pouilly (s výjimkou komunistické konfiskace 1950-1991), která jej vlastní dodnes.",
+ "owners": [
+  {
+   "owner": "boskovicove",
+   "owner_wiki": "Boskovicové",
+   "person": "Jimram z Boskovic a potomci (Lambert, Velen, Jimram mladší, Oldřich)",
+   "from": 1222,
+   "to": 1312,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "zalozeni",
+   "note": "první doložený příslušník rodu Jimram z Boskovic 1222 (možná ještě na jiném sídle zvaném Bašta); hrad na dnešním místě založen nejspíše v 1. pol. 13. stol., první písemná zmínka 1312, kdy jej dobyl Jan Lucemburský majiteli Arklebovi z Boskovic"
+  },
+  {
+   "owner": "boskovicove",
+   "owner_wiki": "Boskovicové",
+   "person": "Arkleb z Boskovic",
+   "from": 1313,
+   "to": 1342,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "roku 1312 mu král Jan Lucemburský hrad zabavil za odboj, roku 1313 na přímluvu panstva odpuštěno a majetek vrácen; postavil nové sídlo na místě dnešního hradu"
+  },
+  {
+   "owner": "boskovicove",
+   "owner_wiki": "Boskovicové",
+   "person": "Ješek z Boskovic",
+   "from": 1342,
+   "to": 1363,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "nejvyšší komorník moravského zemského soudu, rozmnožil rodové statky"
+  },
+  {
+   "owner": "boskovicove",
+   "owner_wiki": "Boskovicové",
+   "person": "Oldřich z Boskovic a syn Jan Ozor z Boskovic",
+   "from": 1363,
+   "to": 1389,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "Jan Ozor z Boskovic se v moravských markraběcích válkách postavil proti markraběti Joštovi, který roku 1389 hrad dobyl a vypálil; Jan Ozor při obraně zahynul (jiná literatura uvádí smrt až 1401)"
+  },
+  {
+   "owner": "pani-z-kunstatu-a-podebrad",
+   "owner_wiki": "Páni z Kunštátu a Poděbrad",
+   "person": "Erhart z Kunštátu starší",
+   "from": 1398,
+   "to": 1406,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "markrabě Jošt zničený hrad zabavil a přidělil svému straníkovi Erhartovi z Kunštátu s povolením jej obnovit"
+  },
+  {
+   "owner": "pani-z-kunstatu-a-podebrad",
+   "owner_wiki": "Páni z Kunštátu a Poděbrad",
+   "person": "Erhart z Kunštátu mladší",
+   "from": 1406,
+   "to": 1414,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "zemřel bez potomků, kunštátská větev vymřela, majetek přešel na poděbradskou větev"
+  },
+  {
+   "owner": "pani-z-kunstatu-a-podebrad",
+   "owner_wiki": "Páni z Kunštátu a Poděbrad",
+   "person": "Viktorín Boček z Kunštátu a Poděbrad",
+   "from": 1414,
+   "to": 1437,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "husitský hejtman, otec Jiřího z Poděbrad; hrad v letech 1423-1424 dočasně obsazen vojskem biskupa Jana Železného, poté opět v rukou pánů z Kunštátu"
+  },
+  {
+   "owner": "pani-z-kunstatu-a-podebrad",
+   "owner_wiki": "Páni z Kunštátu a Poděbrad",
+   "person": "Jiří z Poděbrad",
+   "from": 1437,
+   "to": 1458,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "roku 1458 vrátil boskovické panství jako úhradu dluhů Vaňkovi Černohorskému mladšímu z Boskovic"
+  },
+  {
+   "owner": "boskovicove",
+   "owner_wiki": "Boskovicové",
+   "person": "Vaněk Černohorský mladší z Boskovic",
+   "from": 1458,
+   "to": 1465,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "jine",
+   "note": "hrad mu vrácen Jiřím z Poděbrad jako úhrada dluhů; zemřel 1465 nebo 1466"
+  },
+  {
+   "owner": "boskovicove",
+   "owner_wiki": "Boskovicové",
+   "person": "Václav z Boskovic",
+   "from": 1465,
+   "to": 1482,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi"
+  },
+  {
+   "owner": "boskovicove",
+   "owner_wiki": "Boskovicové",
+   "person": "Jaroslav z Boskovic",
+   "from": 1482,
+   "to": 1485,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "kancléř uherského krále Matyáše Korvína, popraven ve Vídni 1485 pro obvinění ze zrady"
+  },
+  {
+   "owner": "boskovicove",
+   "owner_wiki": "Boskovicové",
+   "person": "Ladislav Velen z Boskovic",
+   "from": 1485,
+   "to": 1520,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "přesunul rodové sídlo do Moravské Třebové; zemřel 1520 v Letovicích"
+  },
+  {
+   "owner": "boskovicove",
+   "owner_wiki": "Boskovicové",
+   "person": "Magdalena Berková z Dubé",
+   "from": 1520,
+   "to": 1527,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "vdova po Ladislavu Velenovi, roku 1527 prodala podíl na správě panství synovi Kryštofovi"
+  },
+  {
+   "owner": "boskovicove",
+   "owner_wiki": "Boskovicové",
+   "person": "Kryštof z Boskovic",
+   "from": 1527,
+   "to": 1547,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "poslední Boskovic na hradě; kvůli dluhům z oprav hradu a válečných výprav prodal 1547 panství i s městem Šimonu Ederovi ze Štiavnice"
+  },
+  {
+   "owner": "ederove-ze-stiavnice",
+   "owner_wiki": "Ederové ze Štiavnice",
+   "person": "Šimon Eder ze Štiavnice",
+   "from": 1547,
+   "to": 1567,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "zbohatlý hornický podnikatel, povýšen do rytířského stavu 1545; zahájil renesanční přestavbu hradu"
+  },
+  {
+   "owner": "ederove-ze-stiavnice",
+   "owner_wiki": "Ederové ze Štiavnice",
+   "person": "Vít Eder ze Štiavnice",
+   "from": 1567,
+   "to": 1567,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "syn Šimona Edera, ihned po zdědění panství je prodal Jarošovi ze Zástřizl"
+  },
+  {
+   "owner": "pani-ze-zastrizl",
+   "owner_wiki": "Páni ze Zástřizl",
+   "person": "Jaroš ze Zástřizl",
+   "from": 1567,
+   "to": 1583,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "postavil renesanční věž hlásku a nový portál hlavní brány se zástřizlovským erbem"
+  },
+  {
+   "owner": "pani-ze-zastrizl",
+   "owner_wiki": "Páni ze Zástřizl",
+   "person": "Václav starší Morkovský ze Zástřizl",
+   "from": 1583,
+   "to": 1600,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "dokončil renesanční přestavbu hradu; zemřel bezdětný, zadlužené panství zůstalo vdově Kunce z Korotína"
+  },
+  {
+   "owner": "pani-ze-zastrizl",
+   "owner_wiki": "Páni ze Zástřizl",
+   "person": "Bohuš ze Zástřizl",
+   "from": 1607,
+   "to": 1612,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "bratr Jaroše ze Zástřizl, panství převzal po smrti vdovy Kunky z Korotína roku 1607; povýšen do panského stavu 1606"
+  },
+  {
+   "owner": "pani-ze-zastrizl",
+   "owner_wiki": "Páni ze Zástřizl",
+   "person": "Václav mladší Morkovský ze Zástřizl",
+   "from": 1612,
+   "to": 1632,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "zemský soudce, konvertoval ke katolictví; po jeho smrti spravovala panství vdova Alžběta Pruskovská z Pruskova"
+  },
+  {
+   "owner": "pani-ze-zastrizl",
+   "owner_wiki": "Páni ze Zástřizl",
+   "person": "Alžběta Pruskovská z Pruskova",
+   "from": 1632,
+   "to": 1647,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "vdova po Václavu mladším Morkovském ze Zástřizl, spravovala panství za nezletilého dědice"
+  },
+  {
+   "owner": "pani-ze-zastrizl",
+   "owner_wiki": "Páni ze Zástřizl",
+   "person": "Jan Bohuše ze Zástřizl",
+   "from": 1647,
+   "to": 1687,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "vybudoval dominikánský klášter a panský pivovar; zemřel bezdětný, zástřizlovský rod jím vymřel po meči"
+  },
+  {
+   "owner": "ditrichstejnove",
+   "owner_wiki": "Ditrichštejnové",
+   "person": "Walter Xaver z Ditrichštejna",
+   "from": 1690,
+   "to": 1738,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "snatek",
+   "note": "vyženil panství sňatkem se Zuzanou Prakšickou ze Zástřizl, vdovou po Janu Bohuši ze Zástřizl; posledním pánem bydlícím na hradě (do 1720), poté postavil nové barokní sídlo ve městě (dokončeno 1728), hrad začal chátrat"
+  },
+  {
+   "owner": "ditrichstejnove",
+   "owner_wiki": "Ditrichštejnové",
+   "person": "Jan Leopold z Ditrichštejna",
+   "from": 1738,
+   "to": 1850,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "hrad byl opuštěn roku 1784 a chátral; boskovická větev pokračovala až k Františku Xaveru z Ditrichštejna, který zemřel 1850 - přesné mezidata cs.wiki neuvádí, panství postupně připadlo jeho dcerám Marii a Terezii"
+  },
+  {
+   "owner": "ditrichstejnove",
+   "owner_wiki": "Ditrichštejnové",
+   "person": "Marie a Terezie z Ditrichštejna",
+   "from": 1850,
+   "to": 1856,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "dcery Františka Xavera z Ditrichštejna, jímž vymřela boskovická větev po meči"
+  },
+  {
+   "owner": "mensdorff-pouilly",
+   "owner_wiki": "Mensdorff-Pouilly",
+   "person": "Terezie z Ditrichštejna, provd. Mensdorff-Pouilly",
+   "from": 1850,
+   "to": 1856,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "zdědila panství spolu se sestrou Marií 1850; provdala se už 1843 za hraběte Alfonse Mensdorff-Pouilly; zemřela 1856 a dědictví přešlo na rodinu jejího manžela"
+  },
+  {
+   "owner": "mensdorff-pouilly",
+   "owner_wiki": "Mensdorff-Pouilly",
+   "person": null,
+   "from": 1856,
+   "to": 1950,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "rodina Mensdorff-Pouilly"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1950,
+   "to": 1991,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "veškerý majetek rodiny včetně hradu zabavila komunistická moc"
+  },
+  {
+   "owner": "mensdorff-pouilly",
+   "owner_wiki": "Mensdorff-Pouilly",
+   "person": null,
+   "from": 1991,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "restituce",
+   "note": "rodina hrad získala zpět v rámci restitucí a vlastní jej dodnes"
+  }
+ ],
+ "events": [
+  {
+   "year": 1312,
+   "text": "první písemná zmínka o hradu, dobyt vojskem krále Jana Lucemburského"
+  },
+  {
+   "year": 1389,
+   "text": "markrabě Jošt hrad dobyl a vypálil, majitel Jan Ozor z Boskovic zahynul při obraně"
+  },
+  {
+   "year": 1547,
+   "text": "Kryštof z Boskovic prodal panství Šimonu Ederovi ze Štiavnice, poslední Boskovic na hradě"
+  },
+  {
+   "year": 1583,
+   "text": "1567-1600 renesanční přestavba hradu za pánů ze Zástřizl (věž hláska, nový portál)"
+  },
+  {
+   "year": 1728,
+   "text": "dokončeno nové barokní sídlo Ditrichštejnů ve městě, hrad přestal sloužit k bydlení"
+  },
+  {
+   "year": 1784,
+   "text": "hrad definitivně opuštěn a chátrá"
+  },
+  {
+   "year": 1950,
+   "text": "komunistická konfiskace majetku rodiny Mensdorff-Pouilly"
+  },
+  {
+   "year": 1991,
+   "text": "hrad vrácen rodině Mensdorff-Pouilly v restituci"
+  }
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Boskovice_(hrad)"
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "id": "Q370672",
+ "name": "Nebílovy",
+ "founded": {"year": 1706, "approx": false, "text": "Na místě renesanční tvrze (přestavěné v 60. letech 17. století na arkádový zámeček) nechal hrabě Adam Jindřich ze Steinau v letech 1706-1719 postavit barokní zámek podle plánů Johanna Lukase von Hildebrandta."},
+ "summary": "Barokní zámek v Nebílovech vznikl v letech 1706-1719 přestavbou starší renesanční tvrze pro válečníka Adama Jindřicha ze Steinau podle plánů Johanna Lukase von Hildebrandta; dokončení stavby se nedožil, po jeho smrti (1712) panství zdědila dcera provdaná z Vrtby, která je prodala Černínům z Chudenic. Ti stavbu dokončili a v letech 1785-1789 nechali interiéry vymalovat Antonínem Tuvorou; po smrti bezdětného Jana Vojtěcha Černína (1816) zámek zdědili Valdštejnové, kteří jej ale neobývali a nechali chátrat. Roku 1919 byl zabrán v pozemkové reformě, roku 1967 jej získal stát, roku 1992 byl krátce předán obci a od roku 1998 je zpřístupněn veřejnosti ve správě Národního památkového ústavu.",
+ "owners": [
+  {"owner": "z-steinau", "owner_wiki": null, "person": "Adam Jindřich ze Steinau", "from": 1705, "to": 1712, "from_approx": false, "to_approx": false, "how": "koupe", "note": "v lednu 1705 koupil panství Nebílovy, Chlumčany a Žinkovy; zemřel 31. října 1712, stavbu zámku nedokončil; cs.wiki má o rodu jen rozcestník bez samostatného článku"},
+  {"owner": "pani-z-vrtby", "owner_wiki": "Páni z Vrtby", "person": "Marie Terezie ze Steinau, provdaná z Vrtby", "from": 1712, "to": 1715, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "dcera Adama Jindřicha; panství s manželem Františkem Václavem z Vrtby prodali Černínům; přesný rok prodeje zdroj neuvádí (stavbu zámku dokončila Antonie Černínová před rokem 1720)"},
+  {"owner": "cerninove-z-chudenic", "owner_wiki": "Černínové z Chudenic", "person": "Antonie Černínová z Chudenic, později Jan Vojtěch Černín z Chudenic", "from": 1715, "to": 1816, "from_approx": true, "to_approx": false, "how": "koupe", "note": "Antonie dokončila stavbu zámku před rokem 1720; Jan Vojtěch provedl 1785-1789 rekonstrukci a nechal vymalovat interiéry Antonínem Tuvorou; zemřel bezdětný 1816"},
+  {"owner": "valdstejnove", "owner_wiki": "Valdštejnové", "person": "Kristián Vincenc Waldstein-Wartenberg", "from": 1816, "to": 1919, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "prasynovec Jana Vojtěcha Černína; centrum panství bylo ve Šťáhlavech, zámek Nebílovy neobývali a nechali jej chátrat k hospodářským účelům"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "sadařské družstvo a místní obyvatelé", "from": 1919, "to": 1967, "from_approx": false, "to_approx": false, "how": "jine", "note": "1919 zabráno v rámci pozemkové reformy, 1924 rozděleno mezi členy sadařského družstva a místní obyvatele"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1967, "to": 1992, "from_approx": false, "to_approx": false, "how": "jine", "note": "od 1968 prováděny záchranné práce, mj. transfer nástropní malby Antonína Tuvory"},
+  {"owner": "mesto", "owner_wiki": null, "person": "obec Nebílovy", "from": 1992, "to": 1998, "from_approx": false, "to_approx": false, "how": "jine", "note": "krátce v obecním vlastnictví, poté vrácen státu"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1998, "to": null, "from_approx": false, "to_approx": false, "how": "jine", "note": "4. července 1998 poprvé zpřístupněn veřejnosti, ve správě Národního památkového ústavu (Památkového ústavu v Plzni)"}
+ ],
+ "events": [
+  {"year": 1705, "text": "Adam Jindřich ze Steinau kupuje panství Nebílovy"},
+  {"year": 1706, "text": "zahájena stavba barokního zámku podle plánů J. L. von Hildebrandta"},
+  {"year": 1789, "text": "dokončena rekonstrukce zámku za Jana Vojtěcha Černína, výmalba interiérů Antonínem Tuvorou"},
+  {"year": 1919, "text": "areál zabrán v rámci pozemkové reformy"},
+  {"year": 1967, "text": "zámek získává československý stát, začíná transfer Tuvorovy nástropní malby"},
+  {"year": 1998, "text": "zámek poprvé zpřístupněn veřejnosti"},
+  {"year": 2013, "text": "dokončeno restaurování freskové výzdoby tanečního sálu"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Nebílovy_(zámek)"]
+}

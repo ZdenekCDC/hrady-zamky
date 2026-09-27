@@ -1,0 +1,17 @@
+{
+ "id": "Q31208247",
+ "name": "Dobrohoř",
+ "founded": {"year": null, "approx": true, "text": "na místě bývalého poplužního dvora zamýšleli Sternbachové vystavět klasicistní zámek; cs.wiki neuvádí přesný rok"},
+ "summary": "Na místě dnešního zámku Dobrohoř (německy Ebergersch) stával poplužní dvůr, který koupili Herbersteinové a po nich jej zdědili Sternbachové, kteří jej zamýšleli přestavět na klasicistní zámek. Po roce 1945 byl objekt ve správě státních statků a roku 2013 jej koupili noví majitelé, kteří jej postupně rekonstruují; dnes slouží jako galerie s kavárnou a možností ubytování.",
+ "owners": [
+  {"owner": "herbersteinove", "owner_wiki": "Herbersteinové", "person": null, "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "koupe", "note": "koupili poplužní dvůr na místě dnešního zámku; cs.wiki neuvádí rok"},
+  {"owner": "sternbachove", "owner_wiki": null, "person": null, "from": null, "to": 1945, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "zdědili dvůr po Herbersteinech a zamýšleli jej přestavět na klasicistní zámek; přesný rok nabytí cs.wiki neuvádí"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": 2013, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "objekt byl ve správě státních statků"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "noví majitelé (od 2013)", "from": 2013, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "postupně objekt rekonstruují; dnes galerie, kavárna a možnost ubytování"}
+ ],
+ "events": [
+  {"year": 1945, "text": "objekt přechází do správy státních statků"},
+  {"year": 2013, "text": "zámek koupili noví majitelé a zahájili jeho rekonstrukci"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Dobrohoř"]
+}

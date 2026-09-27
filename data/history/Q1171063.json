@@ -1,0 +1,30 @@
+{
+ "id": "Q1171063",
+ "name": "Hořovice",
+ "founded": {"year": 1690, "approx": true, "text": "Na přelomu 17. a 18. století nechal Jan František Bruntálský z Vrbna postavit raně barokní nový zámek; jeho podoba je doložena inventářem z roku 1709"},
+ "summary": "Nový zámek v Hořovicích postavili na přelomu 17. a 18. století Bruntálští z Vrbna, kteří zde sídlili šest generací do roku 1852. Poté jej koupil hesensko-kasselský kurfiřt Fridrich Vilém I. pro svou morganatickou manželku a rodině, povýšené na knížata z Hanau a Hořovic, patřil s přestávkou po roce 1917 až do roku 1945. Po druhé světové válce byl zámek na základě Benešových dekretů znárodněn a dnes je ve správě Národního památkového ústavu, přístupný veřejnosti.",
+ "owners": [
+  {"owner": "martinicove-a-clam-martinicove", "owner_wiki": "Martinicové a Clam-Martinicové", "person": "Bernard Ignác z Martinic", "from": 1622, "to": 1690, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "pobělohorské konfiskace; rod sídlil jinde, starý hořovický zámek byl opuštěn, i když stavebně upravován"},
+  {"owner": "bruntalsti-z-vrbna", "owner_wiki": "Bruntálští z Vrbna", "person": "Jan František Bruntálský z Vrbna", "from": 1690, "to": 1705, "from_approx": false, "to_approx": true, "how": "koupe", "note": "koupil panství od Terezie Františky z Martinic (manželky), založil českou větev rodu a zahájil stavbu nového zámku; zemřel 1705"},
+  {"owner": "bruntalsti-z-vrbna", "owner_wiki": "Bruntálští z Vrbna", "person": "Eugen Václav, Rudolf Jan a Eugen Dominik Bruntálští z Vrbna (a jejich matka Marie Aloisie jako poručnice)", "from": 1705, "to": 1848, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "postupní držitelé; 1737-1756 druhá etapa výstavby zámku (boční křídla, sál s freskou), přelom 18./19. stol. další úpravy za Rudolfa Jana"},
+  {"owner": "bruntalsti-z-vrbna", "owner_wiki": "Bruntálští z Vrbna", "person": "hrabě Dominik Bruntálský z Vrbna", "from": 1848, "to": 1852, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "poslední majitel z rodu, kvůli zadlužení panství prodal"},
+  {"owner": "hanavsti", "owner_wiki": "Hanavští", "person": "Fridrich Vilém I. Hesenský a synové (Moritz, Wilhelm, Karl, Heinrich)", "from": 1852, "to": 1917, "from_approx": false, "to_approx": false, "how": "koupe", "note": "kurfiřt koupil panství pro morganatickou manželku Gertrudu, povýšenou na kněžnu z Hanau; zřízen rodový fideikomis, 1855 rakouský predikát 'z Hanau a Hořovic'; 1856-1868 a 1889-1896 zámek přestavěn"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1917, "to": 1921, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "rod v přímé linii vymřel smrtí knížete Heinricha (1842-1917), majetek zestátněn, na konci války zde zajatecký tábor"},
+  {"owner": "hanavsti", "owner_wiki": "Hanavští", "person": "hrabě (od 1930 kníže) Heinrich von Hanau (1900-1971)", "from": 1921, "to": 1945, "from_approx": false, "to_approx": false, "how": "restituce", "note": "vnuk vyděděného prince Friedricha Wilhelma; po soudním sporu mu čs. soud roku 1921 vrátil rodový majetek, 1930 mu bavorský soud přiznal právo na jméno von Hanau"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "znárodněno na základě Benešových dekretů; dnes ve správě Národního památkového ústavu, přístupné veřejnosti"}
+ ],
+ "events": [
+  {"year": 1622, "text": "pobělohorské konfiskace, Hořovice získává rod Martiniců"},
+  {"year": 1690, "text": "Jan František Bruntálský z Vrbna kupuje panství a zahajuje stavbu nového raně barokního zámku"},
+  {"year": 1737, "text": "1737-1756 druhá etapa výstavby - boční křídla, dispozice do písmene H, slavnostní sál s freskou Jana Ferdinanda Schora"},
+  {"year": 1852, "text": "panství kupuje hesensko-kasselský kurfiřt Fridrich Vilém I. pro manželku Gertrudu, kněžnu z Hanau"},
+  {"year": 1868, "text": "dokončena pozdně klasicistní přestavba podle projektu Gottloba Engelhardta"},
+  {"year": 1917, "text": "rod knížat z Hanau v přímé linii vymírá, zámek zestátněn"},
+  {"year": 1945, "text": "po druhé světové válce zámek vydrancován Rudou armádou a na základě Benešových dekretů znárodněn"},
+  {"year": 2002, "text": "zámek vyhlášen národní kulturní památkou"}
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Hořovice_(nový_zámek)",
+  "https://cs.wikipedia.org/wiki/Hanavští"
+ ]
+}

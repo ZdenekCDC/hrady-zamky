@@ -1,0 +1,17 @@
+{
+ "id": "Q2243834",
+ "name": "Velké Březno (nový zámek)",
+ "founded": {"year": 1842, "approx": false, "text": "V letech 1842-1845 nechal hrabě Karel Chotek z Chotkova a Vojnína, nejvyšší purkrabí Království českého, postavit pozdně empírový zámek podle návrhu vídeňského architekta Ludwiga Förstera."},
+ "summary": "Nový zámek ve Velkém Březně postavil v letech 1842-1845 hrabě Karel Chotek z Chotkova a Vojnína podle návrhu Ludwiga Förstera; v letech 1885-1910 jej rodina novorenesančně přestavěla podle plánů Ernsta Fleischera. Na konci 19. století zde pobývala Žofie Chotková, zavražděná roku 1914 spolu s manželem Františkem Ferdinandem d'Este při sarajevském atentátu. Chotkové zámek drželi až do roku 1945, kdy jim byl podle Benešových dekretů zabaven; poté sloužil mimo jiné jako dětský domov, politická škola a vojenský sklad, od 80. let 20. století je přístupný veřejnosti a dnes je ve správě Národního památkového ústavu.",
+ "owners": [
+  {"owner": "chotkove-z-chotkova", "owner_wiki": "Chotkové z Chotkova", "person": "Karel Chotek z Chotkova a Vojnína", "from": 1842, "to": 1945, "from_approx": false, "to_approx": false, "how": "zalozeni", "note": "1885-1910 novorenesanční přestavba (rozšíření o podkroví a věž) podle Ernsta Fleischera; na konci 19. stol. zde pobývala Žofie Chotková"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "zabaveno podle Benešových dekretů; sloužil jako dětský domov, politická škola a sklad Československé lidové armády, veřejnosti přístupný od 80. let 20. stol., dnes ve správě NPÚ"}
+ ],
+ "events": [
+  {"year": 1845, "text": "dokončena stavba empírového zámku"},
+  {"year": 1910, "text": "dokončena novorenesanční přestavba (podkroví, čtverhranná věž)"},
+  {"year": 1914, "text": "Žofie Chotková zavražděna spolu s manželem Františkem Ferdinandem d'Este v Sarajevu"},
+  {"year": 1945, "text": "zámek zabaven Chotkům podle Benešových dekretů"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Velké_Březno_(nový_zámek)"]
+}

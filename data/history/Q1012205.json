@@ -1,0 +1,23 @@
+{
+ "id": "Q1012205",
+ "name": "Hartenštejn",
+ "founded": {"year": 1470, "approx": true, "text": "Hrad založil Jindřich III. z Plavna jako vojenský opěrný bod někdy před rokem 1473, ze kterého pochází první písemná zmínka"},
+ "summary": "Pozdně gotický hrad Hartenštejn u Bochova založil krátce před rokem 1473 Jindřich III. z Plavna. Poté hrad vystřídal několik zástavních a šlechtických držitelů, roku 1573 je poprvé zmiňován jako pustý a zčásti obnoven, definitivně opuštěn byl po roce 1609, kdy jej Linhart Colonna z Felsu připojil k panství Andělská Hora. Dnes je zříceninou chráněnou jako kulturní památka.",
+ "owners": [
+  {"owner": "plavensti-z-plavna", "owner_wiki": "Plavenští z Plavna", "person": "Jindřich III. z Plavna", "from": 1470, "to": 1473, "from_approx": true, "to_approx": true, "how": "zalozeni", "note": "hrad založen jako vojenský opěrný bod, první písemná zmínka před rokem 1473"},
+  {"owner": "pani-ze-svamberka", "owner_wiki": "Páni ze Švamberka", "person": "Bohuslav ze Švamberka", "from": 1473, "to": 1496, "from_approx": false, "to_approx": true, "how": "lenni", "note": "hrad v zástavě"},
+  {"owner": "soukromnik", "person": "Anna Cedvicová", "from": 1496, "to": 1519, "from_approx": false, "to_approx": true, "how": "lenni", "note": "hrad v zástavě"},
+  {"owner": "kolovratove", "owner_wiki": "Kolovratové", "person": "Jan Maštovský z Kolovrat", "from": 1519, "to": 1554, "from_approx": true, "to_approx": true, "how": "neznamo"},
+  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": "Jindřich Mikuláš Hasištejnský z Lobkovic", "from": 1554, "to": 1573, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "hasištejnská větev rodu; roku 1573 je hrad poprvé označen jako pustý"},
+  {"owner": "soukromnik", "person": "Adam starší Štensdorf ze Štensdorfu", "from": 1573, "to": 1609, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "hrad alespoň částečně obnovil"},
+  {"owner": "colonnove-z-felsu", "owner_wiki": "Colonnové z Felsu", "person": "Linhart Colonna z Felsu", "from": 1609, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil panství a připojil je k Andělské Hoře; hrad byl poté úplně opuštěn, další majitelé v článku neuvedeni"}
+ ],
+ "events": [
+  {"year": 1473, "text": "první písemná zmínka o hradu, založeném Jindřichem III. z Plavna"},
+  {"year": 1567, "text": "do tohoto roku byla součástí hartenštejnské manské soustavy tvrz v Herstošicích"},
+  {"year": 1573, "text": "hrad poprvé označován jako pustý"},
+  {"year": 1609, "text": "Linhart Colonna z Felsu koupil panství a připojil je k Andělské Hoře, hrad definitivně opuštěn"},
+  {"year": 1964, "text": "zřícenina prohlášena kulturní památkou"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Hartenštejn"]
+}

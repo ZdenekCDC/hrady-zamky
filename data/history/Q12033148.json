@@ -1,0 +1,39 @@
+{
+ "id": "Q12033148",
+ "name": "Letovice",
+ "founded": {"year": 1250, "approx": true, "text": "Původní dřevěná tvrz patřila Bořitovi (1203-1255); na hrad ji nechal přestavět nejspíše Heřman z Letovic, od něhož pocházejí první zmínky z let 1250-1274."},
+ "summary": "Hrad Letovice nad Trstenickou stezkou vznikl přestavbou starší tvrze rodu pánů z Letovic a z Ronova, kteří jej drželi až do zničení husity roku 1424. Po obnově se v majetku vystřídali páni z Lomnice, Boskovicové, Hardekové a další šlechtické rody, než jej roku 1668 ostřihomský arcibiskup Szelepczenyi přestavěl na raně barokní zámek. Od roku 1820 (nejistě) patřil rodu Kálnokyů až do roku 1945, po válce připadl státní správě a v restituci se vrátil rodině Kálnoky; roku 2004 jej koupil a zrekonstruoval Bohumil Vavříček, který jej od roku 2022 nabízí k prodeji.",
+ "owners": [
+  {"owner": "z-letovic", "owner_wiki": null, "person": "Bořita", "from": 1203, "to": 1255, "from_approx": true, "to_approx": true, "how": "zalozeni", "note": "vlastník původní dřevěné tvrze; uvedená léta 1203-1255 jsou jeho životní data, ne nutně přesná držba"},
+  {"owner": "z-letovic", "owner_wiki": null, "person": "Heřman z Letovic", "from": 1250, "to": 1274, "from_approx": true, "to_approx": true, "how": "jine", "note": "pravděpodobně přestavěl tvrz na hrad, první zmínky o něm 1250-1274"},
+  {"owner": "z-letovic", "owner_wiki": null, "person": "Stanimír z Letovic", "from": 1316, "to": 1316, "from_approx": true, "to_approx": true, "how": "neznamo"},
+  {"owner": "z-letovic", "owner_wiki": null, "person": "páni z Letovic a z Ronova", "from": 1360, "to": 1424, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "hrad písemně doložen 1360 v jejich držení; roku 1424 jej oblehli, dobyli a zničili husité"},
+  {"owner": "pani-z-lomnice", "owner_wiki": "Páni z Lomnice", "person": null, "from": 1446, "to": 1505, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "vlastnili polovinu hradu a panství"},
+  {"owner": "boskovicove", "owner_wiki": "Boskovicové", "person": null, "from": 1446, "to": 1505, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "vlastnili druhou polovinu panství"},
+  {"owner": "boskovicove", "owner_wiki": "Boskovicové", "person": "Kryštof z Boskovic", "from": 1505, "to": 1544, "from_approx": false, "to_approx": false, "how": "koupe", "note": "roku 1505 získali i druhou polovinu od pánů z Lomnice a drželi celé panství; ve 2. pol. 15. stol. proběhla pozdně gotická přestavba hradu"},
+  {"owner": "hardekove", "owner_wiki": "Hardekové", "person": "Kryštof z Hardeka a Kladska, později Hanuš Fridrich z Hardeka", "from": 1544, "to": 1614, "from_approx": false, "to_approx": false, "how": "koupe", "note": "Kryštof koupil hrad a panství od Kryštofa z Boskovic; Hanuš Fridrich upravil interiér a zesílil opevnění o dva prstence příkopů a opevněné předhradí"},
+  {"owner": "z-thurnu", "owner_wiki": null, "person": "Jindřich Václav Thurn", "from": 1614, "to": 1645, "from_approx": false, "to_approx": true, "how": "snatek", "note": "sňatek s Reginou Juliánou z Hardeka; roku 1645 hrad dobyli za třicetileté války Švédové"},
+  {"owner": "z-thurnu", "owner_wiki": null, "person": "Karel Kašpar Thurn", "from": 1645, "to": 1654, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "roku 1654 prodal hrad za 60000 zlatých Jiřímu Štěpánovi Bruntálskému z Vrbna"},
+  {"owner": "bruntalsti-z-vrbna", "owner_wiki": "Bruntálští z Vrbna", "person": "Jiří Štěpán Bruntálský z Vrbna", "from": 1654, "to": 1664, "from_approx": false, "to_approx": true, "how": "koupe", "note": "nechal opravit válečné škody"},
+  {"owner": "erdodyove", "owner_wiki": "Erdödyové", "person": "Eva Erdödy, rozená Forgačová", "from": 1664, "to": 1666, "from_approx": false, "to_approx": false, "how": "neznamo"},
+  {"owner": "z-nachoda", "owner_wiki": null, "person": "Eliška z Náchoda, rozená Sunioginová", "from": 1666, "to": 1668, "from_approx": false, "to_approx": false, "how": "neznamo"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Jiří Szelepczenyi z Pohronce, ostřihomský arcibiskup", "from": 1668, "to": 1711, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil hrad za 60000 zlatých a nechal jádro přestavět na raně barokní zámek s půdorysem nepravidelného trojúhelníku"},
+  {"owner": "z-roggendorfu", "owner_wiki": null, "person": "Karel Ludvík z Roggendorfu", "from": 1711, "to": 1724, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil zámek a panství za 170000 zlatých"},
+  {"owner": "blumegenove", "owner_wiki": null, "person": null, "from": 1724, "to": 1820, "from_approx": false, "to_approx": true, "how": "koupe", "note": "roku 1724 zámek i s městečkem vyhořel, poté proběhly barokní přestavby (dokončen hlavní palác, 1730 nové hospodářské a úřední budovy)"},
+  {"owner": "z-korospataku", "owner_wiki": null, "person": "rodina Kálnokyů z Kőröspataku", "from": 1820, "to": 1945, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "rok 1820 je ve zdroji označen jako nejistý ([zdroj?]); provedeny empírové a pseudogotické úpravy a romanticko-gotický park; Gustav Kálnoky byl 1881-1885 ministrem zahraničí Rakouska-Uherska"},
+  {"owner": "mesto", "owner_wiki": null, "person": "MěNV Letovice", "from": 1945, "to": 1990, "from_approx": false, "to_approx": true, "how": "konfiskace", "note": "po roce 1945 sídlil v zámku internát a třídy Masarykovy školy práce; rok navrácení v restituci není přesně uveden"},
+  {"owner": "z-korospataku", "owner_wiki": null, "person": "Alexandr Kálnoky", "from": 1990, "to": 2004, "from_approx": true, "to_approx": false, "how": "restituce", "note": "po dlouhých průtazích navrácen v restitučním řízení, poté investoval spolu s městem do statického zajištění a sanace sklepení"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Bohumil Vavříček z Boskovic", "from": 2004, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil zámek a park za 2 mil. Kč a zrekonstruoval jej za cca 30 mil. Kč; od počátku roku 2022 zámek ze zdravotních důvodů majitele nabízen k prodeji"}
+ ],
+ "events": [
+  {"year": 1250, "text": "první zmínky o Heřmanovi z Letovic, přestavba tvrze na hrad"},
+  {"year": 1360, "text": "hrad písemně doložen v držení pánů z Letovic a z Ronova"},
+  {"year": 1424, "text": "hrad oblehli, dobyli a zničili husité"},
+  {"year": 1544, "text": "hrad koupili Hardekové od Kryštofa z Boskovic"},
+  {"year": 1645, "text": "za třicetileté války hrad dobyli Švédové"},
+  {"year": 1668, "text": "arcibiskup Szelepczenyi přestavuje jádro hradu na raně barokní zámek"},
+  {"year": 1724, "text": "zámek i městečko vyhořely, následné barokní přestavby"},
+  {"year": 2004, "text": "zámek koupil a zrekonstruoval Bohumil Vavříček"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Letovice_(zámek)"]
+}

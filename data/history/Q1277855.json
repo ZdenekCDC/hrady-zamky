@@ -1,0 +1,39 @@
+{
+ "id": "Q1277855",
+ "name": "Vimperk",
+ "founded": {
+  "year": 1260,
+  "approx": true,
+  "text": "Hrad založil pravděpodobně Přemysl Otakar II. kolem roku 1260; roku 1264 je s přídomkem z Vimperka doložen zvíkovský purkrabí Purkart z Janovic."
+ },
+ "summary": "Raně gotický hrad nad Volyňkou založil kolem roku 1260 pravděpodobně Přemysl Otakar II. a spravovali jej purkrabí z rodu Janoviců, poté Bavorové ze Strakonic a Kaplířové ze Sulevic. V roce 1494 jej zdědili Malovcové z Chýnova, kteří o něj přišli účastí na stavovském povstání proti Ferdinandovi I.; zabavený hrad postupně vlastnili Jáchym z Hradce, Rožmberkové, Novohradští z Kolovrat, Eggenbergové a od roku 1719 Schwarzenbergové, za nichž byl v letech 1622-1624 a 1857 přestavěn do dnešní novorenesanční podoby. Po roce 1945 připadl státu, později městu Vimperk a Správě Národního parku Šumava, a od roku 2015 jej spravuje a postupně opravuje Národní památkový ústav.",
+ "owners": [
+  {"owner": "koruna", "owner_wiki": null, "person": "Přemysl Otakar II.", "from": 1260, "to": 1264, "from_approx": true, "to_approx": true, "how": "zalozeni"},
+  {"owner": "janovici", "owner_wiki": "Janovici", "person": "Purkart z Janovic", "from": 1264, "to": 1300, "from_approx": false, "to_approx": true, "how": "lenni", "note": "zvíkovský purkrabí, možná i purkrabí na Vimperku, který mohl získat od krále do manství nebo do vlastního majetku"},
+  {"owner": "bavorove-ze-strakonic", "owner_wiki": "Bavorové ze Strakonic", "person": "Bavor ze Strakonic", "from": 1300, "to": 1312, "from_approx": true, "to_approx": false, "how": "neznamo"},
+  {"owner": "rotlevove", "owner_wiki": null, "person": "Jan Rotlev", "from": 1312, "to": 1395, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "cs.wiki jej zmiňuje jen k roku 1375, přesné období držby neuvedeno"},
+  {"owner": "kaplirove-ze-sulevic", "owner_wiki": "Kaplířové ze Sulevic", "person": "vladykové ze Sulevic", "from": 1395, "to": 1494, "from_approx": false, "to_approx": false, "how": "lenni", "note": "hrad dostali od krále Václava IV.; roku 1479 spojeny hrad a město v opevněný celek a postavena bašta Haselburk"},
+  {"owner": "malovcove-z-malovic", "owner_wiki": "Malovcové z Malovic", "person": "Malovcové z Chýnova", "from": 1494, "to": 1547, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "chýnovská větev rodu; o hrad přišli účastí na stavovském povstání proti Ferdinandovi I."},
+  {"owner": "koruna", "owner_wiki": null, "person": null, "from": 1547, "to": 1553, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "hrad zabaven Malovcům za účast na povstání"},
+  {"owner": "pani-z-hradce", "owner_wiki": "Páni z Hradce", "person": "Jáchym z Hradce", "from": 1553, "to": 1554, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil zabavený hrad"},
+  {"owner": "rozmberkove", "owner_wiki": "Rožmberkové", "person": null, "from": 1554, "to": 1601, "from_approx": false, "to_approx": false, "how": "jine", "note": "cs.wiki neuvádí přesný způsob nabytí od Jáchyma z Hradce"},
+  {"owner": "kolovratove", "owner_wiki": "Kolovratové", "person": null, "from": 1601, "to": 1630, "from_approx": false, "to_approx": false, "how": "jine", "note": "větev Novohradští z Kolovrat"},
+  {"owner": "eggenbergove", "owner_wiki": "Eggenbergové", "person": null, "from": 1630, "to": 1719, "from_approx": false, "to_approx": false, "how": "koupe"},
+  {"owner": "schwarzenbergove", "owner_wiki": "Schwarzenbergové", "person": "Adam František ze Schwarzenbergu", "from": 1719, "to": 1945, "from_approx": false, "to_approx": false, "how": "koupe", "note": "hrad poškozený požárem při obležení 1619 přestavěli 1622-1624 na renesanční zámek, další velké úpravy po požáru 1857"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": 1993, "from_approx": false, "to_approx": true, "how": "konfiskace", "note": "zestátnění dovršeno 1948 (Československo), od 1993 Česká republika"},
+  {"owner": "mesto", "owner_wiki": null, "person": "město Vimperk", "from": 1993, "to": null, "from_approx": true, "to_approx": true, "how": "restituce", "note": "po roce 1990 připadl zámek městu; přesný rok cs.wiki neuvádí"},
+  {"owner": "stat", "owner_wiki": null, "person": "Správa Národního parku Šumava (Ministerstvo životního prostředí)", "from": null, "to": 2014, "from_approx": true, "to_approx": false, "how": "koupe", "note": "město prodalo zámek za sedm milionů korun; v části zámku bylo umístěno muzeum"},
+  {"owner": "stat", "owner_wiki": null, "person": "Národní památkový ústav (Ministerstvo kultury)", "from": 2015, "to": null, "from_approx": false, "to_approx": false, "how": "jine", "note": "od 1. ledna 2015 svěřena správa NPÚ, probíhají rozsáhlé opravy zahájené 2019"}
+ ],
+ "events": [
+  {"year": 1264, "text": "první zmínka o purkrabím s přídomkem z Vimperka"},
+  {"year": 1479, "text": "hrad a město spojeny v opevněný celek, postavena předsunutá bašta Haselburk"},
+  {"year": 1547, "text": "Malovcové přišli o hrad účastí na stavovském povstání proti Ferdinandovi I."},
+  {"year": 1619, "text": "hrad obléhaný stavovským vojskem poškozen požárem"},
+  {"year": 1622, "text": "zahájena přestavba na renesanční zámek (dokončena 1624)"},
+  {"year": 1857, "text": "po požáru z 20. července proběhly poslední velké novorenesanční stavební úpravy"},
+  {"year": 1948, "text": "zámek zestátněn"},
+  {"year": 2015, "text": "správa zámku svěřena Národnímu památkovému ústavu, zahájeny rozsáhlé opravy"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Vimperk_(zámek)"]
+}

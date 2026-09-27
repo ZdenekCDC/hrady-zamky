@@ -1,0 +1,98 @@
+{
+ "id": "Q43573247",
+ "name": "Choltice",
+ "founded": {
+  "year": 1285,
+  "approx": true,
+  "text": "Choltice jsou poprvé písemně zmíněny 1285, kdy zde stála vodní tvrz patřící pravděpodobně rodu Sedlnických z Choltic; nynější barokní zámek nechal na místě přestavěné tvrze postavit od roku 1683 Romedius Konstantin z Thun-Hohensteinu."
+ },
+ "summary": "Vodní tvrz v Cholticích náležela od roku 1285 pravděpodobně Sedlnickým z Choltic, později se majitelé střídali (mj. Boubínští z Újezda) až po Jiřího Gerštorfa z Gerštorfu, jehož potomkům bylo panství po stavovském povstání zkonfiskováno. Od roku 1623 (s krátkou přestávkou 1719-1731) patřily Choltice až do roku 1945 Thun-Hohensteinům, kteří v letech 1683-1695 vystavěli na místě staré tvrze nový barokní zámek s kaplí sv. Romedia. Po roce 1945 byl majetek zkonfiskován podle Benešových dekretů a připadl státu, od roku 1991 je zámek ve vlastnictví městysu Choltice a je přístupný veřejnosti.",
+ "owners": [
+  {
+   "owner": "sedlnicti-z-choltic",
+   "owner_wiki": null,
+   "person": "Beneš z Choltic",
+   "from": 1285,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "roku 1285 doložen jako svědek na listině Václava II.; wiki uvádí jako pravděpodobného příslušníka rodu Sedlnických z Choltic, jemuž tehdy patřila vodní tvrz"
+  },
+  {
+   "owner": "boubinsti-z-ujezda",
+   "owner_wiki": null,
+   "person": null,
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "wiki zmiňuje mezi dalšími se střídajícími majiteli tvrze do roku 1541; roku 1469 tvrz přečkala vpád vojsk Matyáše Korvína, poté byla přestavěna na čtvercový zámek s věží; přesná léta držby neuvedena"
+  },
+  {
+   "owner": "gerstorfove-z-gerstorfu",
+   "owner_wiki": "Gerštorfové z Gerštorfu",
+   "person": "Jiří Gerštorf z Gerštorfu",
+   "from": 1541,
+   "to": 1620,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "panství jeho potomkům zkonfiskováno kvůli účasti na stavovském povstání 1618-1620"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1620,
+   "to": 1623,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "pobělohorská konfiskace, panství prodáno 1623"
+  },
+  {
+   "owner": "thun-hohensteinove",
+   "owner_wiki": "Thun-Hohensteinové",
+   "person": "Kryštof Šimon z Thun-Hohensteinu",
+   "from": 1623,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "první příslušník rodu v Čechách; po něm synovec Jan Zikmund, dále Romedius Konstantin (postavil nový zámek 1683-1695), od 1785 choltická větev založená Janem Nepomukem, posledním majitelem byl Leopold Maria Thun (1888-1944); wiki uvádí, že panství s krátkou přestávkou v letech 1719-1731 (okolnosti a jiný vlastník v tomto období neuvedeny) patřilo rodu až do roku 1945"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": 1991,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "konfiskace podle Benešových dekretů; 1946 zřízeno vlastivědné muzeum, 1947 ozdravovna mateřských škol; syn Leopolda Thuna Berchtold po roce 1989 usiloval o restituci zámku, soud mu přiřkl jen část mobiliáře"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "městys Choltice",
+   "from": 1991,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "wiki přesně neuvádí způsob přechodu na městys; zámek dnes veřejně přístupný"
+  }
+ ],
+ "events": [
+  {"year": 1469, "text": "tvrz přečkala vpád uherských vojsk Matyáše Korvína, ale byla poškozena a přestavěna na čtvercový zámek s věží"},
+  {"year": 1683, "text": "zahájena stavba nového barokního zámku podle návrhu Luky di Rossi na místě staré tvrze"},
+  {"year": 1695, "text": "z finančních důvodů stavba ukončena, vystavěna jen polovina plánované budovy; štuková výzdoba kaple sv. Romedia od Antonia Nuvoloneho"},
+  {"year": 1795, "text": "požár zámku, následné opravy"},
+  {"year": 1945, "text": "konfiskace majetku Thun-Hohensteinů podle Benešových dekretů"},
+  {"year": 1991, "text": "zámek přechází do vlastnictví městysu Choltice"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Choltice_(zámek)"]
+}

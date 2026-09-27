@@ -1,0 +1,99 @@
+{
+ "id": "Q37851622",
+ "name": "Mokrosuky",
+ "founded": {
+  "year": null,
+  "approx": true,
+  "text": "Gotická tvrz z 15. století, kterou po roce 1579 přestavěl Volf Gothart Perglár z Perglasu (nebo jeho syn Václav Otakar) na renesanční tvrz obehnanou vodním příkopem; první písemná zmínka o vsi je z roku 1418."
+ },
+ "summary": "Vesnice Mokrosuky patřila od 14. století k velhartickému panství. Roku 1560 ji získal Václav Vyntíř z Vlčkovic jako součást kolineckého panství, roku 1579 ji koupil Volf Gothart Perglár z Perglasu, jehož rod zde nechal přestavět starší gotickou tvrz na renesanční sídlo. Po konfiskaci majetku Václava Otakara Perglára za účast ve stavovském povstání panství roku 1628 koupil Humprecht Račín z Račína, po němž je spravovala jeho dcera Apolena Lidmila Althannová a od roku 1679 bratr Arnošt Vojtěch Račín, který je připojil k hrádeckému panství až do zrušení poddanství.",
+ "owners": [
+  {
+   "owner": "pani-z-velhartic",
+   "owner_wiki": "Páni z Velhartic",
+   "person": null,
+   "from": 1300,
+   "to": 1560,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "vesnice patřila od 14. století k velhartickému panství; první písemná zmínka o Mokrosukách je z roku 1418"
+  },
+  {
+   "owner": "vyntirove-z-vlckovic",
+   "owner_wiki": null,
+   "person": "Václav Vyntíř z Vlčkovic",
+   "from": 1560,
+   "to": 1579,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Mokrosuky se staly součástí jeho blízkého kolineckého panství"
+  },
+  {
+   "owner": "perglarove-z-perglasu",
+   "owner_wiki": null,
+   "person": "Volf Gothart Perglár z Perglasu, poté syn Václav Otakar Perglár",
+   "from": 1579,
+   "to": 1623,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "nechali přestavět starší gotickou tvrz na renesanční sídlo s vodním příkopem; Václav Otakar se 1618-1620 účastnil stavovského povstání, roku 1623 odsouzen ke ztrátě majetku, později omilostněn"
+  },
+  {
+   "owner": "marradasove",
+   "owner_wiki": null,
+   "person": "Baltasar Marradas (vojáci jeho pluku)",
+   "from": 1623,
+   "to": 1628,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "po konfiskaci Perglárova majetku se v Mokrosukách utábořili jeho vojáci, žold jim byl vyplácen z výnosů panství; od 1628 financoval pobyt pluk Martina de Hoeff-Huerty sídlící na Velharticích; nešlo o vlastnictví v pravém slova smyslu, spíše o vojenské obsazení"
+  },
+  {
+   "owner": "racinove-z-racina",
+   "owner_wiki": "Račínové z Račína",
+   "person": "Humprecht Račín z Račína",
+   "from": 1628,
+   "to": 1670,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil statek s vesnicemi Mokrosuky, Čermná, Lešišov a Nemanice"
+  },
+  {
+   "owner": "althannove",
+   "owner_wiki": "Althannové",
+   "person": "Apolena Lidmila Althannová",
+   "from": 1670,
+   "to": 1679,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "dcera Humprechta Račína, spravovala zadlužené mokrosucké panství, roku 1679 je předala bratrovi"
+  },
+  {
+   "owner": "racinove-z-racina",
+   "owner_wiki": "Račínové z Račína",
+   "person": "Arnošt Vojtěch Račín z Račína",
+   "from": 1679,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "připojil Mokrosuky k hrádeckému panství, u kterého zůstaly až do zrušení poddanství (1848); pozdější majitelé cs.wiki neuvádí"
+  }
+ ],
+ "events": [
+  {"year": 1418, "text": "první písemná zmínka o Mokrosukách"},
+  {"year": 1560, "text": "Václav Vyntíř z Vlčkovic získává Mokrosuky jako součást kolineckého panství"},
+  {"year": 1579, "text": "Volf Gothart Perglár z Perglasu kupuje Mokrosuky"},
+  {"year": 1623, "text": "Václav Otakar Perglár odsouzen ke ztrátě majetku za účast ve stavovském povstání"},
+  {"year": 1628, "text": "panství kupuje Humprecht Račín z Račína"},
+  {"year": 1679, "text": "Mokrosuky připojeny k hrádeckému panství"},
+  {"year": 1964, "text": "zámecký areál prohlášen kulturní památkou"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Mokrosuky_(zámek)"]
+}

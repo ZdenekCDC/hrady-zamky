@@ -1,6 +1,6 @@
 # TODO
 
-Stav k 2026-09-27: fáze 1 hotová, fáze 2 rozjetá (mapa 2236 objektů, historie vlastníků 109 objektů, 346 rodů). Web je připravený na veřejné nasazení (prázdná mapa pro každého, vlastní úložiště návštěv, lokální náhledy fotek).
+Stav k 2026-09-27: fáze 1 hotová, fáze 2 rozjetá (mapa 2236 objektů, historie vlastníků 209 objektů, 559 rodů). Web je připravený na veřejné nasazení (prázdná mapa pro každého, vlastní úložiště návštěv, lokální náhledy fotek).
 
 ## Priorita 1 - ověřit a doplnit základ
 
@@ -11,7 +11,7 @@ Stav k 2026-09-27: fáze 1 hotová, fáze 2 rozjetá (mapa 2236 objektů, histor
 
 ## Priorita 2 - data
 
-- [ ] **Fáze 2 historie**: zbývá 186 zpřístupněných objektů bez `data/history/<QID>.json` (hotovo 60 nejnavštěvovanějších v dávkách 1-6, 2026-09-27). Jedna dávka = 10 objektů, 2 agenti Sonnet po 5, cca 200k tokenů, ~12 min. Postup, pravidla a šablona zadání v [docs/history-batches.md](docs/history-batches.md); seznam další dávky vypíše `scripts/next_history_batch.py`. Počet dávek odsouhlasit předem. 5 objektů nemá článek na cs.wiki (Neustupov, Orlice, Chuchelná, Dolní Životice, Dubová) - jiný zdroj.
+- [ ] **Fáze 2 historie**: zbývá 86 zpřístupněných objektů bez `data/history/<QID>.json` (hotovo 160 nejnavštěvovanějších v dávkách 1-16, 2026-09-27). Jedna dávka = 10 objektů, 2 agenti Sonnet po 5, cca 200k tokenů, ~12 min. Postup, pravidla a šablona zadání v [docs/history-batches.md](docs/history-batches.md); seznam další dávky vypíše `scripts/next_history_batch.py`. Počet dávek odsouhlasit předem. 5 objektů nemá článek na cs.wiki (Neustupov, Orlice, Chuchelná, Dolní Životice, Dubová) - jiný zdroj.
 - [ ] Ověřit nejistá místa v historiích (hlášená agenty):
   - Karlštejn - roky zástavních držitelů cca 1648-1690 odhadnuté; Tereziánský ústav šlechtičen zařazen jako `cirkev` (diskutabilní).
   - Slatiňany - rané vlastníky (Otháj, Talmberkové, Šárovcové…) jen v pořadí, roky odhadnuté.
@@ -45,6 +45,42 @@ Stav k 2026-09-27: fáze 1 hotová, fáze 2 rozjetá (mapa 2236 objektů, histor
   - Jezeří - návrat Lobkowiczům 1945-1948 jen odvozený (článek uvádí znárodnění po 1948); Kravaře - majitelé 1553-1636 a 1853-1911 neznámí; Chvaly - mezery 1462-1614 a 1848-1918 `neznamo`.
   - Nové Město n. M. - způsob nabytí u 6 rodů neuveden; Horšovský Týn - zástavní držitelé 15. stol. approx.
   - Košumberk - konec jezuitské správy, nabytí Thurn-Taxisy a přechod na Luži bez let; Stekník - Lobkovicové -> Kaplířové 1595 vs. 1594, přechod na stát 1949; Brandýs n. L. - přechod komora -> Leopold II. Toskánský (1860).
+  - Jemniště - roky Rottenhan / Chotek / Buquoy chybí, konfiskace ~1953; Týnec - po 1927 sloučeno se starým zámkem, restituent po 1989 neuveden; Houska - jméno princezny Hohenlohe neuvedeno, přechod na stát 1945-1950 přibližně.
+  - Vizovice - roky Anny ze Žerotína, Tetoura a Löwenthurnova regentství přibližné; Vimperk - přechod město -> Správa NP Šumava bez roku; Mnichovo Hradiště - 1250-1550 `neznamo` (zástavní držitelé); Uherčice - Collaltové 1768-1945 v jednom záznamu.
+  - Albrecht z Kolovrat veden jednou jako `kolovratove`, jednou jako `kolowrat-krakowsti` (větev) - sjednotit spolu s větvemi rodů.
+  - Nové Hrady (Ústí n. O.) - mezera mezi Kostky z Postupic (~1450) a Chamaré (1750), restituce Bartoňům ~1990, prodej Bergerovi 1903 vs. 1904; Plumlov - koupě Lichtenštejny kladena k požáru 1586.
+  - Rychmburk (34 vlastníků) - mezera 1644-1650 u Berků; Choustník - přechod Voračičtí (do 1838) -> Rohanové nedoložen; `homutove-z-harasova` je jiný rod než `hrzanove-z-harasova`.
+  - Hrubý Rohozec - vlastník `stat`, restituce Des Fours Walderode (Kammerlanderová) sporná, čeká na Ústavní soud - ověřit aktuální stav.
+  - Fryštát - roky raných Piastovců odhadnuté; Žampach z Potštejna veden jako `z-potstejna` (jiný rod než `pani-z-potstejna-a-litic`?); Helfenburk - nabytí státem 1928 bez způsobu.
+  - Náměšť n. O. - sňatek Žerotín / Lomnice a předání Verda -> Enkenvoirt bez přesného roku; Potštejn (25 vlastníků) - přechod Harbuval Chamaré -> Dobřenští nedoložen, rané zástavy přibližně.
+  - Hasištejn - založení ~1324, konec Martiniců a Karschů bez roku, přechod na obec Místo neznámý; Krásný Dvůr - zakladatel Václav Pětipeský sporný (Sedláček ho neuvádí), prodej Údrčtí -> Michna bez roku, znárodnění Černínů ~1945.
+  - Litice - držba Pušů 1309-1310 jen dedukce ze zdroje; Manětín - konfiskace Šlikům -> Hrobčičtí jen „krátce“ (1544-1560); Valeč - založení ~1450, počátek Kyšperských z Vřesovic ~1500.
+  - Moravská Třebová - přechod Kunštátové -> Jiří z Poděbrad a stát -> město bez roku; Rotštejn a Valečov - po 15. stol. vlastníci nedoloženi (`neznamo`), Valečov: přechod Valdštejnové -> obec Boseň 1994 bez předchozího vlastníka.
+  - Březnice - koruna / Lokšanové 1547-1558 odhadnuté; Kozí hrádek - roky prvních tří držitelů před 1406 odhadnuté (`z-ujezda` = Vilém z Újezda, jiný rod než `jeniskove-z-ujezda`).
+  - Benešov n. Pl. - přechod Aldringenové -> Clary-Aldringenové ~1750, Horní a Dolní zámek sloučeny do jedné osy; Bučovice - konec Boskoviců 1597 a přechod na stát 1945 agent doplnil „z obecné historie“, ne z článku - ověřit; Tovačov - přechody Salmové / Petřvaldští odhadnuté.
+  - Hořovice - generace Bruntálských z Vrbna 1705-1848 odhadnuté; Zvířetice - 1610-1623 Vratislav z Mitrovic / Vlk z Kvítkova odhadnuto, po Valdštejnech (18.-20. stol.) nic; Žirovnice - několik mezidat odhadnutých.
+  - Brumov - konec Meziříčských (1620) a prodej Illésházyů (1848) odhadnuté, vlastník zříceniny po Dreherovi neuveden; Krašov - vlastník po zrušení náboženského fondu nejasný; Svitákové z Landštejna vedeni jako `z-landstejna` (jiný rod než `landstejnove`?).
+  - Kunštát - přechod Lambergové -> Coudenhove-Honrichs ~1903; Červená Řečice - počátek biskupské držby (~1100), znárodnění a dnešní soukromý majitel bez let; Uherský Ostroh - kníže Fridrich 1439-1446 jako `neznamo`; Doudleby - restituce ~1990, přechod na Barboru Tomáškovou bez roku.
+  - Bystřice p. H. - konec Rottalů ~1780 a prodej Loudonů státu ~1935 odhadnuté; Nový hrad (Jimlín) - smrt Kristiána Viléma Hohenzollerna / prodej dědici jen rozmezím; Šluknov - konfiskace Staršedlovi datovaná 1618 (dle zdroje), Nostic-Rieneck ~1930.
+  - Nebílovy - prodej Vrtbové -> Černínové ~1715; Chanovice - roky uvnitř rodu Chanovských 1542-1717 jen pořadím, Becherové -> stát / obec 1948 a 1990 odhadnuté.
+  - Bechyně - přechod Rožmberkové -> Kunštátové ~1340 odhadnutý, prodej Paarů společnosti APS bez roku; Lipý - nabytí Kounici, emigrace Altschula / Müllera ~1938, roky Harrachů; Svijany - mezera 1814-1820 před Rohany; Dobrohoř - roky Herbersteinů a Sternbachů chybí (zdroj stručný).
+  - Červený Újezd - jen novostavba Pavla Orny (2001-2002); historický zámek Žďárských ze Žďáru ve stejném článku záměrně vynechán - případně samostatný objekt.
+  - Stránov - mezidobí 1468-1545 a konce Biberštejnů / Slavatů bez let; Linhartovy - mezera 1566-1578; Choltice - přestávka Thunů 1719-1731; Poláky - Strojetičtí / Warmsbach / Questenberkové 1662-1738 nerozlišeni; Slezské Rudoltice - léta Steuer / Brücker a přechod 1945 chybí.
+  - Jindřich z Lipé veden jednou jako `pani-z-lipe`, jednou jako `ronovci` (větev) - sjednotit s větvemi rodů.
+  - Chyše - mezera 1365-1397 (žlutické panství) vynechána, přechody Griselda ze Švamberka / Berka z Dubé bez let; Bor - Švamberkové 1533-1650 bez jmenovaného držitele; Holešov - prodej Lobkovicové -> Rottalové 1650 vs. 1651 (rozpor v článku).
+  - Hofmannové z Grünbühelu sjednoceni na `hofmannove` (dříve `z-grunbuchlu`, Grabštejn, Starý Jičín, Janovice).
+  - Rýzmberk - držba 1622-1676 (Habsburkové, Kracové, Colonnové z Felsu, Černínové) bez přesných let, KČT Kdyně 1908-90. léta odvozeno; Zelená Hora - prodej Auerspergem Plavcovým 1852-1931, přechod na stát po Karlu Blažkovi.
+  - Tachov (23 vlastníků) - krátké zástavy sloučené; Šelmberk - větev pánů z Dubé u Petra Mrackého neurčena, 1620-1820 chybí; Červené Poříčí - vlastníci 1400-1550 nejmenovaní.
+  - Jenštejn (21 vlastníků) - drobní držitelé 15.-16. stol. jen přibližně, vlastník 1568-1608 neuveden, nabytí obcí bez roku; Aleš Škopek z Dubé veden jako `z-dube` (větev pánů z Dubé?).
+  - Letovice - nástup Kálnokyů 1820 zdroj sám značí [zdroj?], restituce ~1990; Pátek - prodej Ditrichštejnům 1676 vs. 1679 (Sedláček / Anděl), použit Anděl; Miroslav - „hrabata z Náchoda“ 1621-1661 jako `neznamo`; Hošťálkovy - převod stát -> Spolek Renesance 2006-2015.
+  - Chropyně - Hanuš Haugvic z Biskupic možná jen stavebník, ne vlastník; Osečany (22 vlastníků) - Tiegel von Lindenkron / Pulpán von Feldstein možná tatáž osoba, prodej 1928 vs. 1931 rozporný; Aichelburg - vlastnictví 1883-1996 nezmíněno; Růžkovy Lhotice - JZD vedeno jako `stat`.
+  - Kámen (27 vlastníků) - mezera 1872-1916 bez majitele, převod na Kraj Vysočina ~2001; Hartenštejn - po 1609 vlastník neuveden, hasištejnská větev jako `lobkovicove`; Maleč - léta Beneda z Nečtin a Schönfeldů chybí, předání Macháčkové-Riegerové synovi bez roku.
+  - Brtnice - současné vlastnictví sporné (SBD Svébyt v likvidaci vs. Nadace Svébyt); Jílové - konfiskace 1945 a předání městu bez let.
+  - Paskov (26 vlastníků) - lenní držitelé biskupství 1267-1530 bez let; Vartenberk - Lichtenštejnové / Hartigové / Valdštejn 1563-1645 bez let; Poběžovice - léta Matyáše z Vunšic a Königsfeldů chybí; Skalka - přechod Schönbornů na stát po 1945 bez roku.
+  - Rokytnice v O. h. - zdroj nezmiňuje konec Nosticů ani majitele ve 20.-21. stol. (poslední záznam otevřený) - doplnit z jiného zdroje; `z-rysmburka` je jiný rod než páni z Rýzmburka.
+  - Colonnové z Felsu sjednoceni na `colonnove-z-felsu` (dříve `z-felsu` u Rýzmberku).
+  - Bartošovice - převzetí Hugem Meinertem a Czeczowiczkovými bez roku, dcera Josefína (Taaffe vs. Canal) nejednoznačná; Blansko (zámek) - biskupská držba 12.-16. stol. jen rámcově; Bruntál - stavebník hradu a nabytí pány z Vrbna neuvedeny; Chotěboř - roky Kinských, Brachfelda a Vančurů chybí.
+  - Blansko (hrad) - mezera 1407-1416, přechod Thunové -> stát -> obec Ryjice bez let; Bolatice - nabytí Lichnovskými neznámé; Budyně n. O. - léta Bernarda z Kamence a Griffiny Haličské neznámá (agent je doplnil odhadem, vráceno na null); Chebský hrad - připojení Chebska ~1322; Cimburk (Trnávka) - Lichtenštejnové -> obec bez roku.
   - Vítkův hrádek - Sezema z Chotěnic jako poslední majitel je jen odhad A. Sedláčka (`z-chotenic` je jiný rod než `z-chotemic`).
 - [ ] Rody bez článku na cs.wiki (144 z 346, z toho 117 id typu `z-...`): dohledat, zda nepatří k existujícímu rodu (např. Licek z Rýzmburka, Mazanec z Frymburka, Jetřich z Janovic u Náchoda).
 - [ ] Zkontrolovat duplicity / větve rodů (Valdštejnové vs. Valdštejnové-Vartenberkové, Lobkovicové a jejich větve) - rozhodnout, zda větve slučovat.

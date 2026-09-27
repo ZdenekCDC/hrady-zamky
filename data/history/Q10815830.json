@@ -1,0 +1,27 @@
+{
+ "id": "Q10815830",
+ "name": "Cimburk",
+ "founded": {"year": 1300, "approx": true, "text": "Kolem roku 1300 si u Trnávky nechal postavit hrad Ctibor z Lipnice, první moravský člen rodu pánů z Cimburka; hrad byl nazýván Cimburk (podle rodového erbu - cimbuří) nebo Trnávka podle vsi."},
+ "summary": "Hrad Cimburk (Trnávka) postavil kolem roku 1300 Ctibor z Lipnice, zakladatel moravské větve pánů z Cimburka, po jehož synech přešel hrad na páni z Lipé a poté na moravská markrabata. Roku 1406 jej markrabě Jošt postoupil Markétě ze Šumvaldu a Dobši z Popovic, před rokem 1446 jej Dobeš prodal Vaňkovi z Boskovic, v jehož rodě zůstal do roku 1547, a poté se vystřídali Ederové ze Štiavnice a Věžníkové z Věžník. Roku 1629 Magdalena z Věžník postoupila zboží knížeti Karlu z Lichtenštejna, od té doby patřil Cimburk k panství Moravská Třebová, hrad ale postupně chátral, po požáru od blesku roku 1776 zůstal zříceninou a dnes je majetkem obce Městečko Trnávka.",
+ "owners": [
+  {"owner": "pani-z-cimburka", "owner_wiki": "Páni z Cimburka", "person": "Ctibor z Lipnice, poté synové Bernart a Ctibor z Cimburka", "from": 1300, "to": 1308, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "synové hrad zdědili 1308; krátce nato přešel do majetku pánů z Lipé, zatímco Bernart si kolem 1320 postavil jiný hrad téhož jména u Koryčan"},
+  {"owner": "pani-z-lipe", "owner_wiki": "Páni z Lipé", "person": null, "from": 1308, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "drželi hrad jen krátce, poté panství přešlo do rukou moravských markrabat"},
+  {"owner": "koruna", "owner_wiki": null, "person": "Jošt Lucemburský, markrabě moravský", "from": null, "to": 1406, "from_approx": true, "to_approx": false, "how": "jine", "note": "zeměpanský majetek moravských markrabat; roku 1406 markrabě Jošt postoupil hrad s městečkem Trnávkou Markétě ze Šumvaldu"},
+  {"owner": "z-popovic", "owner_wiki": null, "person": "Markéta ze Šumvaldu, manželka Dobše z Popovic", "from": 1406, "to": 1446, "from_approx": false, "to_approx": true, "how": "dar", "note": "za husitských válek patřil hrad k čelným opěrným bodům husitů; před rokem 1446 jej Dobeš z Popovic prodal Vaňkovi z Boskovic"},
+  {"owner": "boskovicove", "owner_wiki": "Boskovicové", "person": "Vaněk z Boskovic, poté syn Oldřich z Boskovic", "from": 1446, "to": 1547, "from_approx": true, "to_approx": false, "how": "koupe", "note": "Oldřich provedl na hradě drobné úpravy a založil pod hradem rybník"},
+  {"owner": "ederove-ze-stiavnice", "owner_wiki": "Ederové ze Štiavnice", "person": null, "from": 1547, "to": null, "from_approx": false, "to_approx": true, "how": "neznamo", "note": "poté se v majetku hradu a panství vystřídalo několik dalších rodů"},
+  {"owner": "veznikove-z-veznik", "owner_wiki": "Věžníkové z Věžník", "person": "Magdalena z Věžník, rozená z Říčan", "from": null, "to": 1629, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "na konci 16. století drželi Cimburk Věžníkové z Věžník; roku 1629 Magdalena zboží postoupila knížeti Karlu z Lichtenštejna"},
+  {"owner": "lichtenstejnove", "owner_wiki": "Lichtenštejnové", "person": "Karel z Lichtenštejna a potomci", "from": 1629, "to": null, "from_approx": false, "to_approx": true, "how": "dar", "note": "od té doby měly Cimburk, Trnávka a Moravská Třebová stejné držitele; roku 1645 na hradě umístěna zatěžující císařská posádka, od 1766 hrad opuštěn, 1776 vyhořel po úderu blesku; zdroj přesně neuvádí, dokdy zůstal v majetku Lichtenštejnů"},
+  {"owner": "mesto", "owner_wiki": null, "person": "obec Městečko Trnávka", "from": null, "to": null, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "dnes je zřícenina majetkem obce Městečko Trnávka a je zařazena do seznamu významných státních památek"}
+ ],
+ "events": [
+  {"year": 1308, "text": "hrad zdědili synové Ctibora z Lipnice, Bernart a Ctibor"},
+  {"year": 1406, "text": "markrabě Jošt postoupil hrad s městečkem Trnávkou Markétě ze Šumvaldu"},
+  {"year": 1547, "text": "hrad opouští rod Boskoviců, majetek dalších rodů (Ederové ze Štiavnice, Věžníkové z Věžník)"},
+  {"year": 1629, "text": "Magdalena z Věžník postoupila zboží knížeti Karlu z Lichtenštejna"},
+  {"year": 1645, "text": "za švédského vpádu na Moravu umístěna na hrad císařská posádka, po jejím odchodu do Brna hrad chátrá"},
+  {"year": 1776, "text": "opuštěný hrad vyhořel po úderu blesku"},
+  {"year": 1934, "text": "při archeologickém průzkumu (na popud Řádu německých rytířů) nalezen poklad přes 2500 stříbrných mincí ze 13. století"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Cimburk_(hrad,_okres_Svitavy)"]
+}

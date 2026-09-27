@@ -1,0 +1,67 @@
+{
+ "id": "Q1383301",
+ "name": "Chropyně",
+ "founded": {
+  "year": 1615,
+  "approx": false,
+  "text": "Roku 1615 koupil městečko Chropyni olomoucký biskup kardinál František z Dietrichštejna a nechal vybudovat renesanční zámek; není zdokumentováno, zda šlo o přestavbu starší tvrze. Od roku 1579 zde předtím stavěl panské sídlo Hanuš Haugvic z Biskupic, který roku 1580 zemřel."
+ },
+ "summary": "Renesanční zámek v Chropyni založil roku 1615 olomoucký biskup kardinál František z Dietrichštejna po koupi městečka; od roku 1617 patřil olomoucké diecézi. Za biskupa Karla Lotrinského byl v letech 1701-1703 přestavěn do dnešní podoby. Po roce 1949 připadl státu, po roce 1989 byl navrácen Olomoucké arcidiecézi.",
+ "owners": [
+  {
+   "owner": "haugvicove-z-biskupic",
+   "owner_wiki": "Haugvicové z Biskupic",
+   "person": "Hanuš Haugvic z Biskupic",
+   "from": null,
+   "to": 1615,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "od roku 1579 stavěl panské sídlo, roku 1580 náhle zemřel; cs.wiki neuvádí přesně, zda šlo o vlastníka panství nebo jen stavebníka, ani rok počátku jeho držby"
+  },
+  {
+   "owner": "cirkev",
+   "owner_wiki": null,
+   "person": "František z Dietrichštejna, olomoucký biskup a kardinál",
+   "from": 1615,
+   "to": 1949,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil městečko Chropyni 1615; od 1617 zámek majetkem olomoucké diecéze; za biskupa Karla Lotrinského přestavba 1701-1703, autor projektu pravděpodobně Giovanni Pietro Tencalla"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1949,
+   "to": 1989,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "využíván pro kanceláře a byty zaměstnanců lesní správy, sklady, školní jídelnu a družinu; od 1972 ve správě Okresního muzea v Kroměříži, po rekonstrukci zpřístupněn veřejnosti 1983"
+  },
+  {
+   "owner": "cirkev",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1989,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "restituce",
+   "note": "navrácen Olomoucké arcidiecézi; na provozu se podílí Město Chropyně a Muzeum Kroměřížska, od 2022 provozuje příspěvková organizace SLOCH"
+  }
+ ],
+ "events": [
+  {"year": 1579, "text": "Hanuš Haugvic z Biskupic začíná stavět panské sídlo, roku 1580 umírá"},
+  {"year": 1615, "text": "kardinál František z Dietrichštejna kupuje Chropyni a zakládá zámek"},
+  {"year": 1701, "text": "1701-1703 přestavba zámku za biskupa Karla Lotrinského do dnešní podoby"},
+  {"year": 1892, "text": "požár ničí střechu věže, dostává novou podobu vysokého osmibokého jehlanu"},
+  {"year": 1949, "text": "zámek přechází do vlastnictví státu"},
+  {"year": 1972, "text": "zámek převeden do správy Okresního muzea v Kroměříži"},
+  {"year": 1983, "text": "po rekonstrukci zpřístupněn veřejnosti, zřízena expozice Emila Filly"},
+  {"year": 1989, "text": "zámek navrácen Olomoucké arcidiecézi"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Chropyně_(zámek)"]
+}

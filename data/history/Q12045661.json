@@ -1,0 +1,123 @@
+{
+ "id": "Q12045661",
+ "name": "Plumlov",
+ "founded": {
+  "year": 1300,
+  "approx": true,
+  "text": "Hrad byl podle archeologických nálezů založen na přelomu 13. a 14. století, snad Mikulášem I. Opavským."
+ },
+ "summary": "Hrad Plumlov založil na přelomu 13. a 14. století patrně Mikuláš I. Opavský, po roce 1310 jej koupil král Jan Lucemburský a v letech 1322-1325 jej prodal Vokovi z Kravař. Páni z Kravař hrad drželi do vymření rodu po meči roku 1466, poté připadl Kunštátům a od roku 1490 Pernštejnům. Po požáru roku 1586 jej přestavěl a opevnil Karel z Lichtenštejna, jehož potomek Jan Adam Ondřej v letech 1680-1690 postavil vedle starého hradu nový manýristický zámek; hrad byl roku 1801 zbořen. Lichtenštejnům byl zámek zabrán při pozemkové reformě 1931, poté patřil postupně státním institucím a od roku 1994 je majetkem města Plumlova.",
+ "owners": [
+  {
+   "owner": "opavsti-premyslovci",
+   "owner_wiki": "Opavští Přemyslovci",
+   "person": "Mikuláš I. Opavský",
+   "from": 1300,
+   "to": 1310,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "za zakladatele bývá uváděn i Přemysl Otakar II., archeologie ale svědčí spíše pro Mikuláše I. Opavského a dobu kolem roku 1300"
+  },
+  {
+   "owner": "koruna",
+   "person": "Jan Lucemburský",
+   "from": 1310,
+   "to": 1325,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "koupil hrad a panství od Mikuláše II. Opavského, mezi lety 1322-1325 je prodal Vokovi z Kravař"
+  },
+  {
+   "owner": "pani-z-kravar",
+   "owner_wiki": "Páni z Kravař",
+   "person": "Vok z Kravař",
+   "from": 1325,
+   "to": 1466,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "rod vymřel po meči roku 1466 smrtí Jiřího z Kravař"
+  },
+  {
+   "owner": "pani-z-kunstatu-a-podebrad",
+   "owner_wiki": "Páni z Kunštátu a Poděbrad",
+   "person": "Jan Heralt z Kunštátu",
+   "from": 1466,
+   "to": 1490,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "snatek",
+   "note": "manžel Johanky, dcery posledního mužského Kravaře; zemřel bez mužského potomka roku 1490"
+  },
+  {
+   "owner": "pernstejnove",
+   "owner_wiki": "Pernštejnové",
+   "person": "Vratislav I. z Pernštejna",
+   "from": 1490,
+   "to": 1586,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "snatek",
+   "note": "oženil se s Ludmilou, dcerou Jana Heralta z Kunštátu; Pernštejnové si vybudovali novou rezidenci v Prostějově a plumlovský hrad zanedbali, roku 1586 vyhořel"
+  },
+  {
+   "owner": "lichtenstejnove",
+   "owner_wiki": "Lichtenštejnové",
+   "person": "Karel z Lichtenštejna",
+   "from": 1586,
+   "to": 1619,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "zahájil rekonstrukci hradu (arkády, opevnění); rok koupě od Pernštejnů zdroj přesně neuvádí, dosazen k roku požáru 1586; roku 1619 hrad vyplenilo stavovské vojsko"
+  },
+  {
+   "owner": "lichtenstejnove",
+   "owner_wiki": "Lichtenštejnové",
+   "person": "Jan Adam Ondřej z Lichtenštejna",
+   "from": 1619,
+   "to": 1931,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "v letech 1680-1690 nechal podle návrhu otce Karla Eusebia postavit nový manýristický zámek; roku 1801 dal poškozený starý hrad zbořit; rod zámek vlastnil až do pozemkové reformy 1931"
+  },
+  {
+   "owner": "stat",
+   "person": "Státní pozemkový fond",
+   "from": 1931,
+   "to": 1994,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "zabráno při pozemkové reformě; postupně jej spravovaly Vojenské lesy Plumlov (od 60. let), Památkový ústav Brno a Muzeum Prostějovska"
+  },
+  {
+   "owner": "mesto",
+   "person": null,
+   "from": 1994,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "zámek předán do majetku města Plumlova, které zahájilo opravy; v noci z 10. na 11. října 2016 poškodil levé křídlo požár"
+  }
+ ],
+ "events": [
+  {"year": 1300, "text": "založení hradu, snad Mikulášem I. Opavským"},
+  {"year": 1325, "text": "hrad kupuje Vok z Kravař"},
+  {"year": 1466, "text": "vymřením Kravařů po meči přechází hrad na Jana Heralta z Kunštátu"},
+  {"year": 1490, "text": "hrad sňatkem získává Vratislav I. z Pernštejna"},
+  {"year": 1586, "text": "hrad poškozen požárem"},
+  {"year": 1619, "text": "stavovské vojsko hrad vyplení, za třicetileté války jej vypálí a poboří Švédové"},
+  {"year": 1680, "text": "Jan Adam Ondřej z Lichtenštejna zahajuje stavbu nového manýristického zámku"},
+  {"year": 1801, "text": "poškozený starý hrad zbořen"},
+  {"year": 1931, "text": "zámek zabrán Lichtenštejnům při pozemkové reformě"},
+  {"year": 1994, "text": "zámek předán do majetku města Plumlova"}
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Plumlov_(zámek)"
+ ]
+}

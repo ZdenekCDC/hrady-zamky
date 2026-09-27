@@ -1,0 +1,28 @@
+{
+ "id": "Q13219408",
+ "name": "Maleč",
+ "founded": {"year": 1278, "approx": true, "text": "Roku 1278 se zde zmiňuje dvůr rytíře Vintíře, nevylučuje se, že šlo o sídlo opevněné; dnešní zámek nechal na základech starší tvrze postavit Jan Beneda z Nečtin roku 1602"},
+ "summary": "Na místě zámku Maleč stál od roku 1278 dvůr rytíře Vintíře a po zániku hradu Sokolov zde v 15. století vzniklo rytířské sídlo, poprvé zmiňované roku 1515. Na jeho základech nechal roku 1602 Jan Beneda z Nečtin postavit pozdně renesanční zámek, který později vlastnili Voračičtí z Paběnic, Schönfeldové a Auerspergové, jež zámek po roce 1827 upravili v empírovém slohu. Od roku 1862 patřil politiku Františku Ladislavu Riegrovi, jehož tchán František Palacký zde tvořil své dílo; po vyvlastnění roku 1948 a období státního muzea byl roku 1995 vrácen v restituci rodině a dnes jej vlastní Václav Macháček-Rieger.",
+ "owners": [
+  {"owner": "soukromnik", "person": "rytíř Vintíř", "from": 1278, "to": null, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "dvůr rytíře Vintíře, nevylučuje se, že šlo o opevněné sídlo"},
+  {"owner": "soukromnik", "person": "Jiří Přibek z Otaslavic", "from": 1515, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "první zmínka o novém rytířském sídle, vystavěném po zániku hradu Sokolov"},
+  {"owner": "soukromnik", "person": "Jan Beneda z Nečtin", "from": 1602, "to": 1687, "from_approx": true, "to_approx": true, "how": "koupe", "note": "na základech starší tvrze postavil roku 1602 pozdně renesanční zámek; přesný rok nabytí a předání dalšímu majiteli zdroj neuvádí"},
+  {"owner": "soukromnik", "person": "Augustin Norbert Voračický z Paběnic", "from": 1687, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil panství a nechal sídlo upravit"},
+  {"owner": "schonfeldove", "owner_wiki": "Schönfeldové", "person": null, "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "zámek drželi po Voračickém z Paběnic, přesná jména a roky zdroj neuvádí"},
+  {"owner": "auerspergove", "owner_wiki": "Auerspergové", "person": "František Xaver z Auerspergu", "from": null, "to": 1862, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "Auerspergové zdědili zámek po Schönfeldech; František Xaver z Auerspergu jej po roce 1827 upravil a rozšířil v empírovém slohu"},
+  {"owner": "soukromnik", "person": "František Ladislav Rieger", "from": 1862, "to": 1948, "from_approx": false, "to_approx": false, "how": "koupe", "note": "v letních měsících zde pobýval jeho tchán František Palacký a psal Dějiny národu českého; od 1874 hospodářským správcem Riegrův zeť Václav Červinka"},
+  {"owner": "stat", "person": null, "from": 1948, "to": 1995, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "vyvlastněno Riegerovým potomkům po únoru 1948; v 70. a 80. letech 20. stol. zde bylo muzeum české hudby s pracovnou Františka Palackého"},
+  {"owner": "soukromnik", "person": "Věra Macháčková-Riegerová", "from": 1995, "to": null, "from_approx": false, "to_approx": true, "how": "restituce", "note": "restituce; zámek dnes vlastní její syn Václav Macháček-Rieger, přesný rok předání zdroj neuvádí"}
+ ],
+ "events": [
+  {"year": 1278, "text": "první zmínka o dvoře rytíře Vintíře"},
+  {"year": 1515, "text": "první zmínka o novém rytířském sídle jako majetku Jiřího Přibka z Otaslavic"},
+  {"year": 1602, "text": "Jan Beneda z Nečtin nechal na základech tvrze postavit pozdně renesanční zámek"},
+  {"year": 1687, "text": "panství koupil Augustin Norbert Voračický z Paběnic"},
+  {"year": 1862, "text": "zámek koupil František Ladislav Rieger, jeho tchán František Palacký zde psal Dějiny národu českého"},
+  {"year": 1948, "text": "zámek vyvlastněn Riegerovým potomkům"},
+  {"year": 1995, "text": "zámek vrácen v restituci Věře Macháčkové-Riegerové"},
+  {"year": 2018, "text": "zámek nově zpřístupněn veřejnosti"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Maleč_(zámek)"]
+}

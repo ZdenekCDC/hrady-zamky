@@ -1,0 +1,26 @@
+{
+ "id": "Q11354311",
+ "name": "Brumov",
+ "founded": {"year": 1220, "approx": true, "text": "Hrad byl založen v první polovině 13. století jako zemská pevnost střežící Vlárský průsmyk do Uher; první písemná zmínka je z roku 1255"},
+ "summary": "Zemský hrad Brumov, založený v první polovině 13. století, střežil Vlárský průsmyk a byl spravován královskými purkrabími; za husitských válek byl dvakrát dobyt vojskem Zikmunda a jeho purkrabí Pankrác ze Svatého Mikuláše z něj řadu let přepadal okolí. Roku 1520 jej koupil Jan Meziříčský z Lomnice, panství se pak v 17.-18. století majetkoprávně rozdělilo a největší díl získali roku 1727 Illésházyové. Po požárech 1760 a 1820 byl hrad definitivně opuštěn a jako zřícenina zůstal součástí velkostatku, který koupili bankéř Georg Simon Sina a od roku 1894 podnikatel Anton Dreher; od roku 1964 je chráněn jako kulturní památka.",
+ "owners": [
+  {"owner": "koruna", "owner_wiki": null, "person": "purkrabí Smil ze Střílek a Brumova (1255), Oldřich z Hradce (1294-1303), Pankrác ze Svatého Mikuláše (za husitských válek)", "from": 1220, "to": 1520, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "zeměpanský (královský) hrad spravovaný purkrabími; za husitských válek dvakrát obléhán a dobyt vojskem Zikmunda"},
+  {"owner": "meziricti-z-lomnice", "owner_wiki": null, "person": "Jan Meziříčský z Lomnice", "from": 1520, "to": 1620, "from_approx": false, "to_approx": true, "how": "koupe", "note": "pokračoval v opevňovacích pracích; přesný rok konce jeho/rodového vlastnictví není v cs.wiki uveden"},
+  {"owner": "neznamo", "owner_wiki": null, "person": null, "from": 1620, "to": 1727, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "během 17. a 18. století vládly na panství složité majetkoprávní poměry, celek byl rozdělen na několik dílů mezi blíže neuvedené držitele"},
+  {"owner": "illeshazyove", "owner_wiki": null, "person": "rod Illésházyů (majitelé sousedního Vsetína)", "from": 1727, "to": 1848, "from_approx": false, "to_approx": true, "how": "koupe", "note": "získali největší díl rozděleného panství; po požáru 1760 hrad provizorně opraven, po dalším požáru 1820 definitivně opuštěn; poslední z rodu Štěpán Illésházy panství prodal, přesný rok prodeje neuveden"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Georg Simon Sina", "from": 1848, "to": 1894, "from_approx": true, "to_approx": false, "how": "koupe", "note": "bankéř řeckého původu; brumovské panství koupil od Illésházyů"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Anton Dreher", "from": 1894, "to": null, "from_approx": false, "to_approx": true, "how": "koupe", "note": "rakouský podnikatel (pivovarník), koupil velkostatek od Sinových potomků; cs.wiki dále neuvádí, kdy a jak přešla zřícenina do současné (patrně veřejné/památkové) správy"}
+ ],
+ "events": [
+  {"year": 1255, "text": "první písemná zmínka o hradu, purkrabí Smil ze Střílek a Brumova"},
+  {"year": 1520, "text": "Jan Meziříčský z Lomnice kupuje hrad a pokračuje v opevňování"},
+  {"year": 1727, "text": "největší díl rozděleného panství získávají Illésházyové"},
+  {"year": 1760, "text": "požár hradu, poté provizorně opraven"},
+  {"year": 1820, "text": "další požár, hrad definitivně opuštěn"},
+  {"year": 1894, "text": "velkostatek kupuje rakouský podnikatel Anton Dreher"},
+  {"year": 1964, "text": "zřícenina vyhlášena kulturní památkou"}
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Brumov_(hrad)"
+ ]
+}

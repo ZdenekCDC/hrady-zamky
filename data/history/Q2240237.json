@@ -1,0 +1,133 @@
+{
+ "id": "Q2240237",
+ "name": "Benešov nad Ploučnicí",
+ "founded": {
+  "year": 1479,
+  "approx": true,
+  "text": "První zmínky o novém vrchnostenském sídle v Benešově jsou z roku 1479, kdy je vlastnil Zikmund z Vartenberka; areál dnešního Horního a Dolního zámku pak vystavěli v letech 1522-1578 Salhausenové"
+ },
+ "summary": "Zámecký komplex Benešova nad Ploučnicí (Horní a Dolní zámek) vznikl na místě staršího vrchnostenského sídla, které v letech 1522-1578 vystavěl rod Salhausenů. Po nich se v majetku vystřídali Kinští, Aldringenové (později Clary-Aldringenové), v 19. století pak měšťanští a šlechtičtí majitelé (Karel Lumbe, hraběnka Aloisie Černínová, rodina Grohmannů). Roku 1945 byl areál jako německý majetek zkonfiskován a přešel do vlastnictví československého státu, od roku 2001 je národní kulturní památkou ve správě Národního památkového ústavu.",
+ "owners": [
+  {
+   "owner": "vartenberkove",
+   "owner_wiki": "Vartenberkové",
+   "person": "Zikmund z Vartenberka",
+   "from": 1479,
+   "to": 1479,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "první zmínka o novém vrchnostenském sídle v Benešově; krátce poté panství koupil Mikuláš Trčka z Lípy"
+  },
+  {
+   "owner": "trckove-z-lipy",
+   "owner_wiki": "Trčkové z Lípy",
+   "person": "Mikuláš Trčka z Lípy",
+   "from": 1479,
+   "to": 1515,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "pokračoval v rozvoji sídla"
+  },
+  {
+   "owner": "salhausenove",
+   "owner_wiki": "Salhausenové",
+   "person": "Jiří ze Salhausenu a synové Bedřich, Hanuš a Wolf",
+   "from": 1515,
+   "to": 1614,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "šlechtický rod z Míšně přijatý mezi českou šlechtu; v letech 1522-1578 vystavěli Horní i Dolní zámek, roku 1522 si synové majetek rozdělili; Janův palác prodal Antonín ze Salhausenu 1612 Janovi z Vartenberka, ten jej 1614 prodal Radslavu Kinskému"
+  },
+  {
+   "owner": "kinsti",
+   "owner_wiki": "Kinští",
+   "person": "Radslav Kinský z Vchynic, poté Vilém Kinský z Vchynic",
+   "from": 1614,
+   "to": 1634,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Vilém Kinský zavražděn roku 1634 spolu s Albrechtem z Valdštejna; Horní zámek podle textu později drželi i Kinští a Thunové jako letní sídlo, přesné roky nejsou v článku uvedeny"
+  },
+  {
+   "owner": "z-aldringenu",
+   "owner_wiki": null,
+   "person": "Jan z Aldringenu",
+   "from": 1634,
+   "to": 1750,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dar",
+   "note": "získal majetek popraveného/zavražděného Kinského; rok přechodu na dědice z rodu Clary-Aldringenů není v článku uveden, odhad"
+  },
+  {
+   "owner": "clary-aldringenove",
+   "owner_wiki": "Clary-Aldringenové",
+   "person": "kníže Edmund Mořic z Clary-Aldringenu",
+   "from": 1750,
+   "to": 1856,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "dědic třetí generace po Janu z Aldringenu; roku 1856 prodal dolní zámek s částí bynoveckého panství"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Karel Lumbe",
+   "from": 1856,
+   "to": 1877,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "lékař a velkostatkář, koupil dolní zámek za 80000 zlatých"
+  },
+  {
+   "owner": "cerninove-z-chudenic",
+   "owner_wiki": "Černínové z Chudenic",
+   "person": "hraběnka Aloisie Černínová",
+   "from": 1877,
+   "to": 1888,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "nechala přistavět novorenesanční Černínský palác (1878)"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "rodina Grohmannů",
+   "from": 1888,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "textilní továrníci německé národnosti"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "zkonfiskováno jako německý majetek po 2. světové válce; 1961 vyhlášen národní kulturní majetek a státní zámek, 2001 areál prohlášen národní kulturní památkou, dnes ve správě NPÚ"
+  }
+ ],
+ "events": [
+  {"year": 1392, "text": "Jan z Michalovic uděluje Benešovu městská práva"},
+  {"year": 1479, "text": "první zmínka o novém vrchnostenském sídle, patřícím Zikmundovi z Vartenberka"},
+  {"year": 1522, "text": "Bedřich ze Salhausenu zahajuje výstavbu Horního zámku"},
+  {"year": 1540, "text": "výstavba Dolního zámku pro Hanuše ze Salhausenu (1540-1544)"},
+  {"year": 1614, "text": "zámek koupil Radslav Kinský z Vchynic"},
+  {"year": 1856, "text": "kníže Edmund Mořic z Clary-Aldringenu prodal dolní zámek Karlu Lumbemu"},
+  {"year": 1945, "text": "areál zkonfiskován jako německý majetek a převeden do vlastnictví československého státu"},
+  {"year": 2001, "text": "zámecký areál prohlášen národní kulturní památkou"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Benešov_nad_Ploučnicí_(zámek)"]
+}

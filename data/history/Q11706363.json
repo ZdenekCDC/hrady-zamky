@@ -1,0 +1,27 @@
+{
+ "id": "Q11706363",
+ "name": "Bystřice pod Hostýnem",
+ "founded": {"year": 1440, "approx": true, "text": "Gotickou vodní tvrz založili páni z Tvorkova po zániku hradu Obřany, poprvé doložena 1440."},
+ "summary": "Barokně-klasicistní zámek v Bystřici pod Hostýnem vznikl přestavbou gotické vodní tvrze, kterou po zániku hradu Obřany založili páni z Tvorkova (poprvé doložena 1440); v polovině 16. století na jejím místě vznikl renesanční zámek, jehož konečnou podobu roku 1616 dali Bohunka z Vítkova a Václav Bítovský z Bítova. Po Bílé hoře byl zámek Bítovským zkonfiskován, krátce patřil Lobkovicům a od roku 1650 rakouskému rodu Rottalů, za nichž byl v letech 1765-1768 podle návrhu F. A. Grimma doplněn o klasicistní křídla. Dalšími majiteli byli hrabata della Rovere di Monte l'Abbate a od roku 1827 do 30. let 20. století Loudonové, poté zámek koupil stát (1935-1990 vojenské sklady) a od roku 1991 patří městu, které jej zpřístupnilo veřejnosti.",
+ "owners": [
+  {"owner": "tvorkovsti-z-kravar", "owner_wiki": "Tvorkovští z Kravař", "person": "páni z Tvorkova", "from": 1440, "to": null, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "první písemná zmínka o tvrzi 1440; přesný rok založení a konec držby rodu zdroj neuvádí"},
+  {"owner": "z-vitkova", "owner_wiki": null, "person": "Bohunka z Vítkova", "from": 1616, "to": 1620, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "spolumajitelka se svým manželem Václavem Bítovským z Bítova; roku 1616 dali zámku konečnou renesanční podobu (kamenné erby nad vstupní branou); rod bez vlastního článku na cs.wiki"},
+  {"owner": "bitovsti-z-bitova", "owner_wiki": "Bítovští z Bítova", "person": "Václav Bítovský z Bítova", "from": 1616, "to": 1620, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "po Bílé hoře zámek zkonfiskován"},
+  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": null, "from": 1620, "to": 1650, "from_approx": true, "to_approx": false, "how": "konfiskace", "note": "pobělohorská konfiskace Bítovským; krátká držba před prodejem Rottalům"},
+  {"owner": "rottalove", "owner_wiki": "Rottalové", "person": "František Antonín z Rottalu, poté dcera Marie Amalie", "from": 1650, "to": 1780, "from_approx": false, "to_approx": true, "how": "koupe", "note": "za posledních členů rodu (František Antonín a dcera Marie Amalie) opraven zámek do dnešní podoby (1765-1768); přesný rok konce držby rodu zdroj neuvádí"},
+  {"owner": "della-rovere-di-monte-labbate", "owner_wiki": null, "person": "František Antonín della Rovere di Monte l'Abbate", "from": 1780, "to": 1827, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "italský hraběcí rod, samostatná větev bez vlastního článku na cs.wiki (obecný článek Della Rovere popisuje jinou, vymřelou italskou linii); založil zámecké divadlo a keramickou manufakturu"},
+  {"owner": "loudonove", "owner_wiki": null, "person": null, "from": 1827, "to": 1935, "from_approx": false, "to_approx": true, "how": "koupe", "note": "potomci rakouského generála Ernsta Gideona von Laudon; kvůli finančním potížím ve 30. letech 20. století zámek prodali státu; rod bez vlastního článku na cs.wiki"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1935, "to": 1991, "from_approx": true, "to_approx": false, "how": "koupe", "note": "1935-1990 vojenské sklady zdravotnického materiálu"},
+  {"owner": "mesto", "owner_wiki": null, "person": "město Bystřice pod Hostýnem", "from": 1991, "to": null, "from_approx": false, "to_approx": false, "how": "jine", "note": "způsob převodu na město zdroj neuvádí; zámek postupně renovován a zpřístupněn veřejnosti"}
+ ],
+ "events": [
+  {"year": 1440, "text": "první písemná zmínka o vodní tvrzi, kterou založili páni z Tvorkova"},
+  {"year": 1616, "text": "Bohunka z Vítkova a Václav Bítovský z Bítova dávají zámku konečnou renesanční podobu"},
+  {"year": 1650, "text": "zámek získává rakouský rod Rottalů"},
+  {"year": 1768, "text": "dokončena klasicistní přestavba podle návrhu F. A. Grimma"},
+  {"year": 1897, "text": "zámek navštívil císař František Josef I."},
+  {"year": 1935, "text": "Loudonové prodávají zámek státu, do roku 1990 zde vojenské sklady"},
+  {"year": 1991, "text": "zámek přechází do vlastnictví města a je postupně zpřístupňován veřejnosti"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Bystřice_pod_Hostýnem_(zámek)"]
+}

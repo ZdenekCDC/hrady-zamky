@@ -1,0 +1,36 @@
+{
+ "id": "Q366697",
+ "name": "Hrubý Rohozec",
+ "founded": {
+  "year": 1280,
+  "approx": true,
+  "text": "Hrad založil kolem roku 1280 Jaroslav z Ralska se synem Havlem Rybou z Lemberka, z rodu Markvarticů."
+ },
+ "summary": "Hrad Rohozec založil kolem roku 1280 Jaroslav z Ralska se synem Havlem Rybou z Lemberka. Od 70. let 14. století jej vlastnil Markvart z Vartenberka, jemuž ho pro spory s Lužicí zabavil král Václav IV., a od roku 1422 páni z Michalovic. Od poloviny 15. do poloviny 16. století hrad postupně přestavěli na zámek Tovačovští z Cimburka, Krajířové z Krajku, Šelmberkové a znovu Vartenberkové. Po Bílé hoře jej získal Albrecht z Valdštejna a daroval jej Mikuláši Desfoursovi, jehož rod (později Des Fours Walderode) zámek přestavěl barokně i klasicistně a vlastnil jej až do vyvlastnění státem v roce 1946; o restituci dodnes vedou potomci soudní spory.",
+ "owners": [
+  {"owner": "lemberkove", "owner_wiki": "Lemberkové", "person": "Jaroslav z Ralska a syn Havel Ryba z Lemberka", "from": 1280, "to": 1370, "from_approx": true, "to_approx": true, "how": "zalozeni", "note": "z rodu Markvarticů; přesný rok přechodu na Markvarta z Vartenberka zdroj neuvádí"},
+  {"owner": "vartenberkove", "owner_wiki": "Vartenberkové", "person": "Markvart z Vartenberka", "from": 1370, "to": 1400, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "napadal kvůli osobním sporům lužické sousedy, což vzbudilo nevoli krále Václava IV., ten mu hrad (spolu se Žleby a Zbirohem) zabavil a Markvarta uvěznil"},
+  {"owner": "koruna", "person": "Václav IV.", "from": 1400, "to": 1422, "from_approx": true, "to_approx": false, "how": "konfiskace", "note": "hrad patřil královské komoře; za husitských válek jej jménem krále Zikmunda spravoval katolík Jan Kruhlata z Michalovic"},
+  {"owner": "pani-z-michalovic", "owner_wiki": "Páni z Michalovic", "person": "Jan Kruhlata z Michalovic", "from": 1422, "to": 1468, "from_approx": false, "to_approx": false, "how": "koupe"},
+  {"owner": "pani-z-cimburka", "owner_wiki": "Páni z Cimburka", "person": "Jan Tovačovský z Cimburka", "from": 1468, "to": 1506, "from_approx": false, "to_approx": false, "how": "koupe"},
+  {"owner": "krajirove-z-krajku", "owner_wiki": "Krajířové z Krajku", "person": "Johanka z Krajku (vdova po Janu Tovačovském)", "from": 1506, "to": 1516, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "zahájila přestavbu hradu, pokračovali v ní Jan ze Šelmberka a Kunrát Krajíř z Krajku; roku 1516 hrad získal dnešní půdorys"},
+  {"owner": "selmberkove", "owner_wiki": "Šelmberkové", "person": "Jan ze Šelmberka", "from": 1516, "to": 1534, "from_approx": false, "to_approx": true, "how": "jine", "note": "podílel se spolu s Kunrátem Krajířem z Krajku na dokončení přestavby"},
+  {"owner": "vartenberkove", "owner_wiki": "Vartenberkové", "person": "Karel z Vartenberka", "from": 1534, "to": 1620, "from_approx": false, "to_approx": true, "how": "koupe", "note": "přeměnil hrad zvýšením a přestavbami na zámek (arkáda, sgrafitová výzdoba)"},
+  {"owner": "valdstejnove", "owner_wiki": "Valdštejnové", "person": "Albrecht z Valdštejna", "from": 1620, "to": 1622, "from_approx": true, "to_approx": true, "how": "konfiskace", "note": "zámek mu připadl po porážce stavovského vojska na Bílé hoře; brzy jej daroval svému válečníkovi Mikuláši Desfoursovi"},
+  {"owner": "desfoursove", "owner_wiki": "Desfoursové", "person": "Mikuláš Desfours", "from": 1622, "to": 1675, "from_approx": true, "to_approx": true, "how": "dar", "note": "za rodu Desfoursů získal statek přídomek Hrubý (Velký) na rozlišení od Malého Rohozce"},
+  {"owner": "desfoursove", "owner_wiki": "Desfoursové", "person": "Albrecht Maxmilián Des Fours", "from": 1675, "to": 1822, "from_approx": true, "to_approx": true, "how": "dedictvi", "note": "roku 1675 zahájil barokní přestavbu (kaple Nejsvětější Trojice); v 19. století rod dal zámku klasicistní a empírovou podobu (architekt Jan Filip Joendl po roce 1822)"},
+  {"owner": "desfoursove", "owner_wiki": "Desfoursové", "person": "rod Des Fours Walderode, naposledy Karel Des Fours Walderode", "from": 1822, "to": 1946, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "roku 1946 byl zámek vyvlastněn státem na základě Benešových dekretů; Karlu Des Fours Walderode bylo 1947 vráceno občanství, ale ne majetek"},
+  {"owner": "stat", "person": null, "from": 1946, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "spravuje Národní památkový ústav, národní kulturní památka od 2002; potomci Karla Des Fours Walderode (manželka Johanna Kammerlanderová) vedou o restituci zámku dlouhodobé soudní spory, v roce 2019 jim odvolací soud restituci potvrdil, v roce 2021 ji okresní soud podle rozhodnutí Nejvyššího soudu nepravomocně zamítl; podle článku má být zámek na základě rozhodnutí Ústavního soudu navrácen"}
+ ],
+ "events": [
+  {"year": 1280, "text": "založení hradu Jaroslavem z Ralska a Havlem Rybou z Lemberka"},
+  {"year": 1422, "text": "hrad po konfiskaci Vartenberkům získávají páni z Michalovic"},
+  {"year": 1506, "text": "Johanka z Krajku zahajuje přestavbu hradu na zámek, dokončenou 1516"},
+  {"year": 1622, "text": "Albrecht z Valdštejna daruje zámek Mikuláši Desfoursovi"},
+  {"year": 1675, "text": "Albrecht Maxmilián Des Fours zahajuje barokní přestavbu, statek získává přídomek Hrubý Rohozec"},
+  {"year": 1822, "text": "počátek klasicistních a empírových úprav podle Jana Filipa Joendla"},
+  {"year": 1946, "text": "zámek vyvlastněn státem na základě Benešových dekretů"},
+  {"year": 2019, "text": "odvolací soud potvrzuje restituční nárok rodu Des Fours Walderode"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Hrubý_Rohozec_(zámek)"]
+}

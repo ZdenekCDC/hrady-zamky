@@ -1,6 +1,6 @@
 # Fáze 2 historie - postup dávek
 
-Historie vlastníků (`data/history/<QID>.json`) se doplňují po dávkách agenty z cs.wiki. Ověřeno na dávce 1 (2026-09-27): 10 objektů, 2 agenti Sonnet po 5, cca 200k tokenů, ~9 min, žádné HTTP 429.
+Historie vlastníků (`data/history/<QID>.json`) se doplňují po dávkách agenty z cs.wiki. Ověřeno na dávkách 1-16 (2026-09-27): 10 objektů na dávku, 2 agenti Sonnet po 5, ~12 min a asi 7-8 % pětihodinového okna na dávku, žádné HTTP 429. Využití okna čte stavový řádek do `/tmp/claude/statusline-usage-cache-*.json` (`five_hour.utilization`).
 
 ## Pravidla (šetří kredity i Wikipedii)
 
@@ -18,6 +18,7 @@ Historie vlastníků (`data/history/<QID>.json`) se doplňují po dávkách agen
    - `.venv/bin/python scripts/fetch_families.py` (síť: cs.wikipedia.org, query.wikidata.org). Sám přepíše `owner_wiki` z přesměrování na cílový článek, skončí chybou u neexistujícího článku (opravit na `z-<predikat>` s `owner_wiki` null nebo na správný název) a hlásí osiřelé soubory rodů (po kontrole smazat).
    - `.venv/bin/python scripts/build_history.py` - musí projít bez chyb (WARN o dopočítaných letech jsou v pořádku).
    - Zkontrolovat nová id bez článku (`z-...`): nepatří rod k existujícímu rodu s článkem (např. Vilém Zub z Landštejna -> `landstejnove`)? Nemá stejná osoba v různých objektech různá id?
+   - Hlídat, co agenti rádi pokazí (dávky 7-16): `owner_wiki` u neexistujícího článku (fetch_families skončí chybou -> `null`), diakritika v id, nový rod místo existujícího (`z-marradasu` vs. `marradasove`), stejná osoba pod dvěma id, roky „z obecné znalosti“ nebo vymyšlené kvůli buildu (vrátit na `null`).
    - Zběžně projít podezřelé výsledky (otevřený poslední vlastník, dlouhé `neznamo`), případně ověřit přímo v článku.
    - E2E test: `.venv/bin/python tests/e2e.py`.
    - Nejistoty z hlášení agentů zapsat do `TODO.md` (Priorita 2 - ověřit nejistá místa) a aktualizovat počty.
@@ -50,6 +51,8 @@ Tvoje objekty (QID | název | typ | obec | článek):
 Pravidla obsahu:
 - Česky, `summary` 2-4 věty. `owners` chronologicky od založení po současnost (včetně státu po 1945/1948, restitucí apod.). Používej jen to, co je ve zdroji; nic si nevymýšlej. Nejisté roky -> `*_approx: true`, neznámé roky uvnitř řetězce nech `null` (build je dopočítá). Poznámky k nejistotám dej do `note`.
 - `events`: 3-8 důležitých událostí (stavby, přestavby, dobytí, požáry, zpřístupnění).
+- Id rodu jen malá písmena bez diakritiky, číslice a pomlčky (`illeshazyove`, ne `illesháziove`). Roky ani vlastníky nedoplňuj z obecné znalosti - co zdroj neuvádí, nech `null` a napiš do `note`.
+- `owner_wiki` vyplň jen u článku, jehož existenci ti potvrdil `prop=info` (odpověď bez `"missing"`); jinak `owner_wiki: null`.
 - Než založíš nové id rodu, zkus `grep -ril "<příjmení>" data/history data/families` - stejná osoba / rod už může mít id z jiného objektu.
 - `sources`: URL použitých článků.
 - Po zápisu každého souboru ověř validitu: `python3 -c "import json;json.load(open('data/history/<QID>.json'))"`.

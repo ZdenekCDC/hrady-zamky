@@ -1,0 +1,31 @@
+{
+ "id": "Q1014003",
+ "name": "Skalka",
+ "founded": {
+  "year": 1357,
+  "approx": true,
+  "text": "První písemná zmínka pochází z roku 1357 v predikátu Petra ze Skalky; šlechtický hrad byl založen ve 14. století nedaleko staršího slovanského hradiště."
+ },
+ "summary": "Hrad Skalka u Vlastislavi založil ve 14. století rod, po němž jej získali Kaplířové ze Sulevic, Vřesovicové a znovu Kaplířové, než jej roku 1578 sňatkem získali Hrzánové z Harasova. Po zpustošení hradu Švédy roku 1639 postavili Hrzánové na jeho úpatí barokní zámek, který později patřil pánům z Hatzfeldu a Schönbornům. Od roku 2001 je majitelem obec Vlastislav, která zámek zpřístupňuje veřejnosti s výstavami o Českém středohoří.",
+ "owners": [
+  {"owner": "ze-skalky", "owner_wiki": null, "person": "Petr ze Skalky", "from": 1357, "to": 1414, "from_approx": true, "to_approx": true, "how": "zalozeni", "note": "rod zakladatelů hradu jej vlastnil do začátku 15. století, přesný rok konce zdroj neuvádí"},
+  {"owner": "kaplirove-ze-sulevic", "owner_wiki": null, "person": "Hanuš Kaplíř ze Sulevic", "from": 1414, "to": null, "from_approx": false, "to_approx": true, "how": "neznamo", "note": "uveden jako majitel roku 1414; poté hrad ztratili ve prospěch Jana II. Žlutického z Vřesovic, přesný rok zdroj neuvádí"},
+  {"owner": "pani-z-vresovic", "owner_wiki": null, "person": "Jan II. Žlutický z Vřesovic", "from": null, "to": 1544, "from_approx": true, "to_approx": false, "how": "koupe", "note": "koupil hrad poté, co ztratil Žlutice, a sídlil na něm až do roku 1544, kdy jej prodal zpět Kaplířům a odstěhoval se neznámo kam"},
+  {"owner": "kaplirove-ze-sulevic", "owner_wiki": null, "person": null, "from": 1544, "to": 1578, "from_approx": false, "to_approx": false, "how": "koupe", "note": "hrad vlastnili do roku 1578, kdy jej sňatkem s Annou Kaplířovou získal Adam Hrzán z Harasova"},
+  {"owner": "hrzanove-z-harasova", "owner_wiki": null, "person": "Adam Hrzán z Harasova (†1619), poté Zdeslav Hrzán z Harasova", "from": 1578, "to": 1681, "from_approx": false, "to_approx": true, "how": "snatek", "note": "Zdeslav Hrzán za třicetileté války lavíroval mezi válčícími stranami a uhájil Skalku před konfiskací; po zpustošení hradu Švédy 1639 nechali Hrzánové na jeho úpatí postavit barokní zámek, pravděpodobně za Jana Adama Hrzána z Harasova (†1681, od 1650 panský stav, od 1666 říšský hrabě)"},
+  {"owner": "z-adlerthurnu", "owner_wiki": null, "person": "Marie Putzová z Adlerthurnu", "from": 1719, "to": 1730, "from_approx": false, "to_approx": true, "how": "neznamo", "note": "panství Skalka bylo roku 1719 spojeno s dominii Dlažkovice a Podsedice, zámek se stal jejich správním střediskem"},
+  {"owner": "hatzfeldove", "owner_wiki": null, "person": null, "from": 1730, "to": 1796, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "páni z Hatzfeldu"},
+  {"owner": "schonbornove", "owner_wiki": "Schönbornové", "person": null, "from": 1796, "to": 1945, "from_approx": false, "to_approx": true, "how": "neznamo", "note": "zdroj přesně neuvádí konec držby; po druhé válce sloužil zámek jako depozitář Státního oblastního archivu v Litoměřicích; 22. 1. 1945 se na zámku narodil kardinál Christoph Schönborn"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": 2001, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "po válce zámek sloužil jako depozitář Státního oblastního archivu v Litoměřicích; zdroj neuvádí přesný způsob ani rok přechodu na stát"},
+  {"owner": "mesto", "owner_wiki": null, "person": "Obec Vlastislav", "from": 2001, "to": null, "from_approx": false, "to_approx": false, "how": "jine", "note": "od jara do podzimu přístupná expozice výtvarníků a fotografů a výstava o historii hradu"}
+ ],
+ "events": [
+  {"year": 1357, "text": "první písemná zmínka o hradu v predikátu Petra ze Skalky"},
+  {"year": 1578, "text": "Adam Hrzán z Harasova získal hrad sňatkem s Annou Kaplířovou"},
+  {"year": 1639, "text": "hrad zpustošen švédským vojskem a přestal být obýván"},
+  {"year": 1719, "text": "panství Skalka spojeno s dominii Dlažkovice a Podsedice"},
+  {"year": 1945, "text": "22. ledna se na zámku narodil Kryštof Maria Schönborn, pozdější vídeňský kardinál"},
+  {"year": 2001, "text": "majitelem zámku se stala obec Vlastislav"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Skalka_(hrad_a_zámek_ve_Vlastislavi)"]
+}

@@ -1,0 +1,28 @@
+{
+ "id": "Q37001702",
+ "name": "Bartošovice",
+ "founded": {"year": 1425, "approx": true, "text": "V 1. polovině 15. století stála v Bartošovicích gotická tvrz Drslava z Ochab, jejíž podoba není známa."},
+ "summary": "Gotická tvrz Drslava z Ochab z 1. poloviny 15. století patřila od roku 1522 Sedlnickým z Choltic, kteří ji renesančně přestavěli, a od roku 1616 do 1768 Podstatským z Prusinovic, za nichž získala barokní podobu. Po roce 1768 se v majetku vystřídali hraběnka Marie Brigita Taaffová (rozená Chotková), její dcera Josefína a Hugo Meinert, v 60. letech 19. století přešel zámek na rodinu Josefa Aresin-Fattona, který jej v letech 1869-1877 přestavěl novorenesančně. Poslední soukromí majitelé, rodina Czeczowiczkova, opustili zámek roku 1938 z obav před nacisty a roku 1948 se s ní stát finančně vypořádal; od roku 1994 patří obci Bartošovice.",
+ "owners": [
+  {"owner": "z-ochab", "owner_wiki": null, "person": "Drslav z Ochab", "from": 1400, "to": 1522, "from_approx": true, "to_approx": true, "how": "zalozeni", "note": "gotická tvrz, 1. polovina 15. století; podoba tvrze není známa"},
+  {"owner": "sedlnicti-z-choltic", "owner_wiki": "Sedlničtí z Choltic", "person": null, "from": 1522, "to": 1616, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "za jejich držby renesanční přestavba, doložená nálezem portálu s letopočtem 1583"},
+  {"owner": "podstatsti-z-prusinovic", "owner_wiki": "Podstatští z Prusinovic", "person": "Jan Felix Podstatský z Prusinovic", "from": 1616, "to": 1768, "from_approx": false, "to_approx": false, "how": "koupe", "note": "nejvyšší písař knížectví opavského; za rodu přebudován zámek do barokní podoby (urbář 1674 popisuje dvoupatrový objekt s věží)"},
+  {"owner": "taaffeove", "owner_wiki": null, "person": "Marie Brigita Taaffová, rozená Chotková", "from": 1768, "to": 1786, "from_approx": false, "to_approx": false, "how": "koupe", "note": "ovdovělá hraběnka; druhým manželem se stal botanik Josef Emanuel Canal"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Josefína (1770-1833)", "from": 1786, "to": null, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "dcera Marie Brigity; wikipedie píše 'jejich dcera', vztah k otci (Taaffe nebo Canal) není jednoznačný"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Hugo Meinert", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "dedictvi", "note": "syn Josefíny; přesný rok převzetí zámku wikipedie neuvádí"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "rodina Josefa Aresin-Fattona (1833-1899)", "from": 1860, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "rakouský politik a velkostatkář; rodina získala panství v 60. letech 19. stol., v letech 1869-1877 novorenesanční přestavba zámku"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "rodina Czeczowiczkova", "from": null, "to": 1948, "from_approx": true, "to_approx": false, "how": "konfiskace", "note": "poslední soukromí majitelé, opustili zámek 1938 z obav před nacisty, roku 1948 se s rodinou stát finančně vypořádal"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1948, "to": 1994, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "zámek využíván mj. Školním zemědělským podnikem brněnské Vysoké školy veterinární, po 1970 část upravena na hotelové pokoje"},
+  {"owner": "mesto", "owner_wiki": null, "person": null, "from": 1994, "to": null, "from_approx": false, "to_approx": false, "how": "jine", "note": "obec Bartošovice; od roku 2000 využívá Region Poodří, svazek obcí Novojičínska"}
+ ],
+ "events": [
+  {"year": 1522, "text": "vesnice s tvrzí se stala majetkem Sedlnických z Choltic"},
+  {"year": 1583, "text": "doložena renesanční přestavba (nález kamenného portálu s tímto letopočtem)"},
+  {"year": 1616, "text": "majitelem se stal Jan Felix Podstatský z Prusinovic, nejvyšší písař knížectví opavského"},
+  {"year": 1768, "text": "zámek prodán hraběnce Marii Brigitě Taaffové, rozené Chotkové"},
+  {"year": 1869, "text": "1869-1877 historizující přestavba ve stylu italské novorenesance"},
+  {"year": 1938, "text": "rodina Czeczowiczkova opustila zámek z obav před nacisty"},
+  {"year": 1994, "text": "zámek se stal majetkem obce Bartošovice"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Bartošovice_(zámek)"]
+}

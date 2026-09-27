@@ -1,0 +1,56 @@
+{
+ "id": "Q33317426",
+ "name": "Rudoltice (Nový zámek)",
+ "founded": {
+  "year": 1699,
+  "approx": false,
+  "text": "Nový zámek u Rudoltic založil koncem 17. století Jan Adam I. z Lichtenštejna jako vrchnostenské sídlo lanškrounského panství; stavba probíhala 1699-1712 podle projektu Domenica Martinelliho"
+ },
+ "summary": "Nový zámek u Rudoltic nechal na přelomu 17. a 18. století postavit Jan Adam I. z Lichtenštejna podle projektu architekta Domenica Martinelliho. Krátce po dokončení roku 1714 vyhořel a přes částečné opravy byl mezi lety 1756 a 1780 z větší části zbořen, dochovala se jen věž. Rod Lichtenštejnů jej vlastnil až do roku 1945, kdy byl zabaven; od roku 1969 patří městu Lanškroun a od roku 2007 je torzo zámku zpřístupněno veřejnosti.",
+ "owners": [
+  {
+   "owner": "lichtenstejnove",
+   "owner_wiki": "Lichtenštejnové",
+   "person": "Jan Adam I. z Lichtenštejna",
+   "from": 1699,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "po dokončení stavby (1712) zámek 1714 vyhořel, opravy vedl syn Jan Nepomuk Karel a poručník Josef Václav z Lichtenštejna; 1756 nařízeno zboření, do 1780 zbořena většina budovy"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": 1969,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "budova zabavena Lichtenštejnům a upravena na zemědělskou usedlost"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1969,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "přešlo na lanškrounský městský národní výbor, dnes majetek města Lanškroun; oprava zchátralé budovy 2006, zpřístupněno veřejnosti 2007"
+  }
+ ],
+ "events": [
+  {"year": 1699, "text": "Jan Adam I. z Lichtenštejna zahajuje stavbu zámku podle projektu Domenica Martinelliho"},
+  {"year": 1714, "text": "krátce po dokončení zámek vyhořel"},
+  {"year": 1756, "text": "Josef Václav z Lichtenštejna nařídil zboření zámku"},
+  {"year": 1780, "text": "většina budovy zbořena, dochovala se jen třípatrová věž"},
+  {"year": 1802, "text": "torzo zámku upraveno na hostinec"},
+  {"year": 1945, "text": "budova zabavena Lichtenštejnům"},
+  {"year": 1969, "text": "zámek přešel na lanškrounský městský národní výbor"},
+  {"year": 2007, "text": "po opravě zpřístupněn veřejnosti"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Rudoltice_(zámek)"]
+}

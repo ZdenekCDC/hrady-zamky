@@ -1,0 +1,31 @@
+{
+ "id": "Q2244318",
+ "name": "Zelená Hora",
+ "founded": {"year": 1425, "approx": true, "text": "Na místě staršího opevněného kostela (asi 70.-80. léta 13. stol., znovu opevněného 1419 Mikulášem z Husi) nechal po husitských válkách hrad postavit Hynek Krušina ze Švamberka"},
+ "summary": "Na Zelené Hoře nad Nepomukem stával původně opevněný kostel, který po husitských válkách nechal Hynek Krušina ze Švamberka přestavět na hrad; roku 1465 se zde sešli čeští páni odpůrci Jiřího z Poděbrad a založili zelenohorskou jednotu. Hrad později držely rody ze Šternberka, z Rožmitálu, znovu ze Šternberka, kteří jej v letech 1669-1696 přestavěli na barokní zámek, poté Martinicové, Colloredo-Mansfeldové a Auerspergové. Ve 20. století zámek koupili manželé Plavcovi a poté Karel Blažek, kvůli nezaplaceným poplatkům připadl státu, po roce 1948 sloužil armádě a od roku 1992 patřil obci Klášter; v roce 2025 jej obec i přes protesty prodala firmě KLAUS Timber.",
+ "owners": [
+  {"owner": "pani-ze-svamberka", "owner_wiki": "Páni ze Švamberka", "person": "Bohuslav ze Švamberka, poté Hynek Krušina ze Švamberka", "from": 1420, "to": 1460, "from_approx": false, "to_approx": true, "how": "jine", "note": "Bohuslav ze Švamberka roku 1420 dobyl opevnění Mikuláše z Husi; Hynek Krušina ze Švamberka poté nechal postavit vlastní hrad"},
+  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": "Zdeněk ze Šternberka", "from": 1460, "to": 1529, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "Zdeněk ze Šternberka držel hrad pravděpodobně již před rokem 1464; roku 1465 zde odpůrci Jiřího z Poděbrad založili zelenohorskou jednotu; cs.wiki neuvádí, jak hrad získal ani přesný konec jeho držby"},
+  {"owner": "pani-z-rozmitalu", "owner_wiki": "Páni z Rožmitálu", "person": "Zdeněk Lev z Rožmitálu", "from": 1529, "to": 1536, "from_approx": false, "to_approx": false, "how": "lenni", "note": "král hrad zapsal Zdeňku Lvovi z Rožmitálu"},
+  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": null, "from": 1536, "to": 1726, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "hrad v letech 1669-1696 přestavěn na barokní zámek"},
+  {"owner": "martinicove-a-clam-martinicove", "owner_wiki": "Martinicové a Clam-Martinicové", "person": null, "from": 1726, "to": 1784, "from_approx": false, "to_approx": false, "how": "neznamo"},
+  {"owner": "colloredove", "owner_wiki": "Colloredové", "person": null, "from": 1784, "to": 1852, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "cs.wiki uvádí rod jako 'Colloredo-Mansfeldové'"},
+  {"owner": "auerspergove", "owner_wiki": "Auerspergové", "person": "Vilemína Josefina z Auerspergu, poté syn Engelbert z Auerspergu", "from": 1852, "to": 1931, "from_approx": false, "to_approx": true, "how": "neznamo", "note": "Vilemína Josefina (1826-1898) nechala zámek přestavět (1868-1870, 1886-1888); po ní vlastnil syn Engelbert (1859-1942), který jej po pozemkové reformě prodal manželům Plavcovým; přesný rok prodeje cs.wiki neuvádí, uvedeno jen rozmezí 1852-1931"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "manželé Plavcovi", "from": 1931, "to": 1938, "from_approx": true, "to_approx": false, "how": "koupe"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Karel Blažek", "from": 1938, "to": null, "from_approx": false, "to_approx": true, "how": "koupe", "note": "nezaplatil státu převodní poplatky, proto zámek připadl státu; přesný rok přechodu neuveden"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": null, "to": 1992, "from_approx": true, "to_approx": false, "how": "konfiskace", "note": "do roku 1947 otevřeny zámecké sbírky veřejnosti, po roce 1948 sloužil armádě jako sídlo pomocného technického praporu; armáda areál opustila 1990"},
+  {"owner": "mesto", "owner_wiki": null, "person": "obec Klášter", "from": 1992, "to": 2025, "from_approx": false, "to_approx": false, "how": "jine", "note": "obec zámek postupně rekonstruovala; roku 2021 podepsáno memorandum o obnově, obec ale uvedla, že na péči o zámek nemá finance"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "KLAUS Timber a.s.", "from": 2025, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupě dřevozpracující firmou 13. listopadu 2025 za 30 milionů Kč, navzdory nesouhlasu Ministerstva kultury, Plzeňského kraje i petici veřejnosti"}
+ ],
+ "events": [
+  {"year": 1419, "text": "Mikuláš z Husi opevnil kopec a pojmenoval jej Olivetská hora"},
+  {"year": 1420, "text": "opevnění dobyl Bohuslav ze Švamberka"},
+  {"year": 1465, "text": "na hradě se čeští páni v opozici vůči Jiřímu z Poděbrad sešli a založili zelenohorskou jednotu"},
+  {"year": 1669, "text": "1669-1696 Šternberkové přestavěli hrad na barokní zámek"},
+  {"year": 1817, "text": "na zámku údajně nalezen Rukopis zelenohorský"},
+  {"year": 1948, "text": "po únorovém převratu zámek přebírá armáda, slouží jako sídlo pomocného technického praporu"},
+  {"year": 1992, "text": "zámek přebírá obec Klášter"},
+  {"year": 2025, "text": "obec zámek i přes protesty a memorandum o obnově prodala firmě KLAUS Timber a.s."}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Zelená_Hora_(zámek)"]
+}

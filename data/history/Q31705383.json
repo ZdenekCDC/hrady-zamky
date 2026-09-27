@@ -1,0 +1,27 @@
+{
+ "id": "Q31705383",
+ "name": "Chotěboř",
+ "founded": {"year": 1350, "approx": true, "text": "Na místě dnešního zámku stála gotická tvrz, postavená pravděpodobně ve 2. polovině 14. století; wikipedie neuvádí, kdo ji nechal postavit, sloužila hlavně k hospodářským a správním účelům."},
+ "summary": "Chotěboř byla poprvé zmíněna roku 1265, roku 1329 ji koupil král Jan Lucemburský a roku 1331 povýšil na město; poté se držitelé panství často střídali. Na místě zaniklé gotické tvrze (zničené patrně požárem 1692) postavili po roce 1698 Kinští raně barokní zámek (1701-1702), po nich se majitelé opět střídali (mj. Vančurové z Řehnic). Roku 1836 získal panství sňatkem s Marií Wanczurovou z Rzehnic Jan Josef Dobrzenský a od té doby patří zámek (s výjimkou let 1948-1992, kdy po emigraci rodiny připadl státu) rodině Dobřenských z Dobřenic.",
+ "owners": [
+  {"owner": "koruna", "owner_wiki": null, "person": "Jan Lucemburský", "from": 1329, "to": 1331, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil osadu kvůli okolním stříbrným dolům a výhodné poloze, 1331 ji povýšil na město"},
+  {"owner": "neznamo", "owner_wiki": null, "person": null, "from": 1331, "to": 1698, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "držitelé panství se často střídali, wikipedie je nejmenuje; na místě stála gotická tvrz (2. pol. 14. stol.), chátrala od poloviny 17. stol. a byla zničena patrně požárem roku 1692"},
+  {"owner": "kinsti", "owner_wiki": "Kinští", "person": null, "from": 1698, "to": null, "from_approx": false, "to_approx": true, "how": "koupe", "note": "v letech 1701-1702 postavili na základech tvrze nový raně barokní zámek s kaplí; rok konce jejich držby wikipedie neuvádí, poté se majitelé opět často střídali"},
+  {"owner": "z-brachfeldu", "owner_wiki": null, "person": "Jan Pavel, rytíř z Brachfeldu", "from": null, "to": 1813, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "doložen jako někdejší majitel zámku klasicistním náhrobkem svým a manželky Johany z roku 1813 v zámeckém parku; přesné roky držby wikipedie neuvádí"},
+  {"owner": "vancurove-z-rehnic", "owner_wiki": "Vančurové z Řehnic", "person": "Marie Wanczurová z Rzehnic", "from": null, "to": 1836, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "přesný rok nabytí panství wikipedie neuvádí; roku 1836 se Marie Wanczurová z Rzehnic provdala za Jana Josefa Dobrzenského a panství tak přešlo na Dobřenské"},
+  {"owner": "dobrensti-z-dobrenic", "owner_wiki": "Dobřenští z Dobřenic", "person": "Jan Josef Dobrzenský", "from": 1836, "to": 1948, "from_approx": false, "to_approx": false, "how": "snatek", "note": "sňatek s Marií Wanczurovou z Rzehnic; roku 1948 Jan Maxmilián Dobřenský s rodinou emigroval"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1948, "to": 1992, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "od roku 1952 v zámku sídlilo Městské muzeum"},
+  {"owner": "dobrensti-z-dobrenic", "owner_wiki": "Dobřenští z Dobřenic", "person": null, "from": 1992, "to": null, "from_approx": false, "to_approx": false, "how": "restituce", "note": "po roce 1989 se Dobřenští vrátili a 1992 získali zámek zpět; muzeum v zámku sídlilo do konce roku 2019"}
+ ],
+ "events": [
+  {"year": 1265, "text": "první zmínka o Chotěboři"},
+  {"year": 1331, "text": "Chotěboř povýšena na město"},
+  {"year": 1692, "text": "gotická tvrz zničena patrně požárem"},
+  {"year": 1701, "text": "1701-1702 postaven nový raně barokní zámek na základech tvrze"},
+  {"year": 1865, "text": "1865-1870 novorenesanční přestavba části prvního patra, 1870-1875 vznik anglického parku"},
+  {"year": 1927, "text": "rekonstrukce zámku po požáru, vznik charakteristické zvoničky"},
+  {"year": 1948, "text": "po emigraci rodiny Dobřenských zámek převzal stát"},
+  {"year": 1992, "text": "zámek vrácen v restituci rodině Dobřenských z Dobřenic"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Chotěboř_(zámek)"]
+}

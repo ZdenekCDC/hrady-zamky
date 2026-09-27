@@ -48,6 +48,10 @@ def fill_unknown_years(owners):
         hi = min((j for j in known if j > k), default=None)
         if lo is not None and hi is not None:
             bounds[k] = round(bounds[lo] + (bounds[hi] - bounds[lo]) * (k - lo) / (hi - lo))
+            own_end = owners[k]["to"]
+            if own_end is not None and bounds[k] > own_end:
+                # a gap may follow this owner: interpolate towards its own known end instead
+                bounds[k] = round(bounds[lo] + (own_end - bounds[lo]) * (k - lo) / (k - lo + 1))
             filled += 1
     for k, o in enumerate(owners):
         if o["from"] is None and bounds[k] is not None:

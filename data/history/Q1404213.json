@@ -1,0 +1,23 @@
+{
+ "id": "Q1404213",
+ "name": "Valečov",
+ "founded": {"year": 1300, "approx": true, "text": "Po roce 1300 založili dřevěný skalní hrad Valečovští z Valečova."},
+ "summary": "Skalní hrad Valečov založili po roce 1300 Valečovští z Valečova, kteří jako přívrženci husitů přišli o hrad roku 1439, kdy jej dobyl a vypálil Jindřich z Vartenberka; po přestavbě z kamene se na Valečov později vrátili a roku 1472 je zde doložen Vaněk z Valečova. Poté se majitelé rychle střídali, až jej počátkem 17. století získali Valdštejnové, kteří jej používali jen jako správní středisko panství - roku 1652 je hrad uváděn jako zpustlý. Od roku 1994 hrad vlastní obec Boseň, na jejímž území leží.",
+ "owners": [
+  {"owner": "valecovsti-z-valecova", "owner_wiki": "Valečovští z Valečova", "person": null, "from": 1300, "to": 1439, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "přívrženci Jana Žižky z Trocnova"},
+  {"owner": "vartenberkove", "owner_wiki": "Vartenberkové", "person": "Jindřich z Vartenberka", "from": 1439, "to": 1443, "from_approx": false, "to_approx": true, "how": "konfiskace", "note": "hrad dobyl a vypálil, poté přestavěn z kamene; do hradu přišlo tažení Pražanů 1443-1444"},
+  {"owner": "valecovsti-z-valecova", "owner_wiki": "Valečovští z Valečova", "person": "Vaněk z Valečova", "from": 1443, "to": null, "from_approx": true, "to_approx": true, "how": "jine", "note": "roku 1472 doložen jako podkomoří královských měst za Jiřího z Poděbrad; poté se majitelé hradu rychle střídali"},
+  {"owner": "neznamo", "owner_wiki": null, "person": null, "from": null, "to": 1600, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "majitelé se v 15.-16. století rychle střídali, jména wikipedie neuvádí; během 16. století zde žili současně dva majitelé, oba paláce byly upraveny se samostatnými vstupy"},
+  {"owner": "valdstejnove", "owner_wiki": "Valdštejnové", "person": null, "from": 1600, "to": null, "from_approx": true, "to_approx": true, "how": "koupe", "note": "získali panství počátkem 17. století; hrad sloužil jen jako správní středisko, roku 1652 uváděn jako zpustlý; datum konce jejich držby wikipedie neuvádí"},
+  {"owner": "mesto", "owner_wiki": null, "person": "obec Boseň", "from": 1994, "to": null, "from_approx": false, "to_approx": false, "how": "jine", "note": "od 1994 hrad vlastní obec Boseň; způsob a předchozí vlastník před rokem 1994 nejsou ve zdroji uvedeny"}
+ ],
+ "events": [
+  {"year": 1439, "text": "hrad dobyl a vypálil Jindřich z Vartenberka po husitských válkách"},
+  {"year": 1472, "text": "na hradě doložen Vaněk z Valečova, podkomoří královských měst"},
+  {"year": 1652, "text": "hrad uváděn jako zpustlý"},
+  {"year": 1892, "text": "obyvatelé skalních světniček byli 5. října násilně vystěhováni nařízením okresního hejtmanství"},
+  {"year": 1967, "text": "zřícenina prohlášena kulturní památkou"},
+  {"year": 1994, "text": "hrad přešel do vlastnictví obce Boseň"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Valečov"]
+}

@@ -1,0 +1,44 @@
+{
+ "id": "Q2243897",
+ "name": "Vizovice",
+ "founded": {
+  "year": 1261,
+  "approx": true,
+  "text": "Roku 1261 založen cisterciácký klášter, na jehož místě a základech vznikl po zániku kláštera renesanční zámek dokončený 1570; dnešní barokní podoba je dílem výstavby z let 1747-1778."
+ },
+ "summary": "Zámek Vizovice stojí v centru města na místě cisterciáckého kláštera založeného roku 1261, který po husitských válkách postupně ovládly šlechtické rody a koncem 15. století zanikl. Renesanční zámek zde nechal roku 1570 dokončit Zdeněk Kavka z Říčan, po němž se vlastníci často střídali (Žerotínové, Tetourové z Tetova, Dóczyové, Majthényiové, Gollenové), než roku 1746 panství koupil Heřman Hannibal Blümegen a v letech 1747-1778 zde podle projektu Františka Antonína Grimma vybudoval nový barokní zámek. V 19. a 20. století zámek patřil Stillfriedům z Ratenic, po jejich odsunu roku 1945 připadl státu a dnes jej spravuje Národní památkový ústav.",
+ "owners": [
+  {"owner": "cirkev", "owner_wiki": null, "person": "cisterciácký klášter Vizovice", "from": 1261, "to": 1454, "from_approx": false, "to_approx": true, "how": "zalozeni", "note": "klášter pod ochranou moravských markrabat trpěl vpády vojsk; po husitských válkách jej šlechtické rody (Šternberkové, páni z Kunštátu) postupně zmocňovaly násilím, koncem 15. stol. zanikl"},
+  {"owner": "pani-z-cimburka", "owner_wiki": "Páni z Cimburka", "person": "Jan Tovačovský z Cimburka", "from": 1454, "to": 1470, "from_approx": true, "to_approx": true, "how": "lenni", "note": "Jiří z Poděbrad postoupil klášterní majetek jako zástavu; přesný rok postoupení cs.wiki neuvádí"},
+  {"owner": "pani-z-kunstatu-a-podebrad", "owner_wiki": "Páni z Kunštátu a Poděbrad", "person": "příbuzní Jiřího z Poděbrad", "from": 1470, "to": 1549, "from_approx": true, "to_approx": false, "how": "lenni", "note": "páni z Cimburka přenechali zástavní právo příbuzným Jiřího z Poděbrad; ačkoli šlo formálně o zástavu, nakládali s klášterními statky jako s vlastními"},
+  {"owner": "boskovicove", "owner_wiki": "Boskovicové", "person": "Václav z Boskovic", "from": 1549, "to": 1568, "from_approx": false, "to_approx": false, "how": "koupe", "note": "zemřel 1554, panství zůstalo v držení rodu do prodeje 1568"},
+  {"owner": "pani-z-rican", "owner_wiki": "Páni z Říčan", "person": "Zdeněk Kavka z Říčan", "from": 1568, "to": 1578, "from_approx": false, "to_approx": false, "how": "koupe", "note": "hned po koupi zahájil stavbu renesančního zámku dokončeného 1570; zemřel 1582"},
+  {"owner": "zerotinove", "owner_wiki": "Žerotínové", "person": "Anna ze Žerotína, rozená Kropáčová z Nevědomí", "from": 1578, "to": null, "from_approx": false, "to_approx": true, "how": "koupe"},
+  {"owner": "tetourove-z-tetova", "owner_wiki": "Tetourové z Tetova", "person": "Václav Tetour z Tetova", "from": null, "to": 1594, "from_approx": true, "to_approx": false, "how": "koupe", "note": "panství získal od dětí Anny ze Žerotína"},
+  {"owner": "doczyove", "owner_wiki": null, "person": "Emerich Dóczy", "from": 1594, "to": 1615, "from_approx": false, "to_approx": true, "how": "koupe", "note": "uherský šlechtic, násilně prosazoval rekatolizaci; zemřel 1615"},
+  {"owner": "doczyove", "owner_wiki": null, "person": "Melichar Dóczy", "from": 1615, "to": 1644, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "syn Emericha, musel prchnout za stavovského povstání i před vojsky Gábora Bethlena; zemřel 1644"},
+  {"owner": "majthenyiove", "owner_wiki": null, "person": "Zuzana Dóczyová, provdaná Majthényiová", "from": 1644, "to": 1682, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "sestra a dědička Melichara Dóczyho, zemřela 1682"},
+  {"owner": "gollenove", "owner_wiki": null, "person": "Vilém Gervasius Gollen", "from": 1682, "to": 1686, "from_approx": false, "to_approx": false, "how": "dar", "note": "sekretář dvorské komory, který zneužitím nejasných majetkových poměrů přiměl Zuzanu Majthényiovou přepsat závěť v jeho prospěch; zemřel 1686"},
+  {"owner": "gollenove", "owner_wiki": null, "person": "Prokop Gervasius Gollen", "from": 1686, "to": 1726, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "syn Viléma Gervasia; po vpádu Rákociho vojsk provedl barokní přestavbu zámku"},
+  {"owner": "gollenove", "owner_wiki": null, "person": "nezletilé dcery Prokopa Gollena (poručnice matka Anna Marie z Löwenthurnu)", "from": 1726, "to": 1746, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "kvůli zadlužení panství byla roku 1740 nařízena exekuce a majetek nabídnut k prodeji"},
+  {"owner": "blumegenove", "owner_wiki": "Blümegenové", "person": "Heřman Hannibal Blümegen", "from": 1746, "to": 1774, "from_approx": false, "to_approx": false, "how": "koupe", "note": "kupní cenu 176 500 zlatých fakticky uhradili jeho bratři Jindřich Kajetán a Jan Kryštof Blümegenové; v letech 1747-1778 nechal podle projektu F. A. Grimma vystavět nový barokní zámek"},
+  {"owner": "blumegenove", "owner_wiki": "Blümegenové", "person": "Petr Alcantara z Blümegenu", "from": 1774, "to": 1813, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "synovec Heřmana Hannibala, sběratel umění; zemřel bez potomků a majetek odkázal manželce"},
+  {"owner": "blumegenove", "owner_wiki": "Blümegenové", "person": "Marie Františka Blümegenová, rozená Stillfriedová", "from": 1813, "to": 1838, "from_approx": false, "to_approx": false, "how": "dedictvi"},
+  {"owner": "stillfriedove-z-ratenic", "owner_wiki": "Stillfriedové z Ratenic", "person": "Filip Stillfried z Ratenic", "from": 1838, "to": 1887, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "synovec Marie Františky Blümegenové; ve Vizovicích se narodily všechny jeho děti"},
+  {"owner": "stillfriedove-z-ratenic", "owner_wiki": "Stillfriedové z Ratenic", "person": "Rudolf Stillfried", "from": 1887, "to": 1921, "from_approx": false, "to_approx": false, "how": "dedictvi"},
+  {"owner": "stillfriedove-z-ratenic", "owner_wiki": "Stillfriedové z Ratenic", "person": "Gabriela Stillfriedová, provdaná Draškovićová", "from": 1921, "to": 1944, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "dcera Rudolfa Stillfrieda"},
+  {"owner": "stillfriedove-z-ratenic", "owner_wiki": "Stillfriedové z Ratenic", "person": "Marie Anna Stillfriedová, provdaná Boos-Waldecková", "from": 1921, "to": 1945, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "dcera Rudolfa Stillfrieda; se svým mužem Viktorem Boos-Waldeckem ve Vizovicích pobývala naposledy v létě 1944, po válce rodina jako osoby německé národnosti odsunuta"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": true, "to_approx": false, "how": "konfiskace", "note": "po odsunu rodiny zámek zařazen mezi památkové objekty; od 1953 spravovalo Krajské muzeum v Gottwaldově, od 2002 Národní památkový ústav"}
+ ],
+ "events": [
+  {"year": 1261, "text": "založení cisterciáckého kláštera ve Vizovicích"},
+  {"year": 1570, "text": "Zdeněk Kavka z Říčan dokončil výstavbu renesančního zámku"},
+  {"year": 1740, "text": "kvůli zadlužení panství nařízena exekuce, majetek nabídnut k prodeji"},
+  {"year": 1746, "text": "panství koupil Heřman Hannibal Blümegen"},
+  {"year": 1747, "text": "zahájena výstavba nového barokního zámku podle projektu Františka Antonína Grimma (dokončena 1778)"},
+  {"year": 1945, "text": "rodina Stillfriedů jako německá menšina odsunuta, zámek připadl státu"},
+  {"year": 1953, "text": "Krajské muzeum v Gottwaldově zpřístupnilo zámecké interiéry veřejnosti jako muzeum barokní bytové kultury"},
+  {"year": 2001, "text": "zámek zařazen mezi národní kulturní památky"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Vizovice_(zámek)"]
+}

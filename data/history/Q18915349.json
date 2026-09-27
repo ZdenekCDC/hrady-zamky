@@ -1,0 +1,36 @@
+{
+ "id": "Q18915349",
+ "name": "Holešov",
+ "founded": {
+  "year": 1275,
+  "approx": false,
+  "text": "Nejstarší zmínka o feudálním sídle v Holešově pochází z roku 1275, v souvislosti s biskupským leníkem Hugem z Holešova, sídlícím na holešovské tvrzi."
+ },
+ "summary": "Holešovská tvrz, doložená od roku 1275, byla na přelomu 13. a 14. století přestavěna na hrad, poničený za husitských válek a poté v držení Šternberků, Žerotínů, Haugwiczů z Biskupic a Lobkoviců. Zničené panství koupil roku 1650 Jan hrabě z Rottalu a nechal je přestavět na barokní zámek, který po vymření Rottalů roku 1762 zdědily jejich dcery a přes rody Nádasdy, Erdődy a Bruntálských z Vrbna se udrželo v šlechtickém vlastnictví do poloviny 20. století. Roku 1948 byl zámek zestátněn, roku 1995 vrácen v restituci a roku 2005 jej odkoupilo město Holešov, které jej postupně obnovuje.",
+ "owners": [
+  {"owner": "z-holesova", "owner_wiki": null, "person": "Hugo z Holešova", "from": 1275, "to": null, "from_approx": false, "to_approx": false, "how": "lenni", "note": "biskupský leník sídlící na holešovské tvrzi; na přelomu 13./14. stol. přestavba na hrad, za husitských válek hrad dobyt a poničen; článek o rodu na cs.wiki neexistuje"},
+  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": null, "from": 1430, "to": 1589, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "po husitských válkách vybudovali v průběhu 15. století nový hrad; přesný rok nabytí článek neuvádí"},
+  {"owner": "zerotinove", "owner_wiki": "Žerotínové", "person": null, "from": 1589, "to": 1604, "from_approx": false, "to_approx": true, "how": "neznamo"},
+  {"owner": "haugvicove-z-biskupic", "owner_wiki": "Haugvicové z Biskupic", "person": "bratři Václav, Jan Vilém, Jan Bartoloměj a Alexander Jošt Haugwiczové z Biskupic, synové Hanuše Haugwicze z Biskupic (1517-1582)", "from": 1604, "to": null, "from_approx": true, "to_approx": false, "how": "neznamo"},
+  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": "Václav Eusebius, kníže z Lobkovic", "from": null, "to": 1650, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "roku 1643 zámek vypálen švédským vojskem za třicetileté války; Lobkovic panství prodal roku 1650 Janovi z Rottalu (na jiném místě článku uveden rok 1651)"},
+  {"owner": "rottalove", "owner_wiki": "Rottalové", "person": "Jan hrabě z Rottalu", "from": 1650, "to": 1762, "from_approx": false, "to_approx": false, "how": "koupe", "note": "zřídil zde rodové sídlo, zahájil barokní přestavbu (architekti Filiberto Lucchese, po jeho smrti 1666 Giovanni Pietro Tencalla); rod vymřel roku 1762, dědičkami se staly dcery Františka Antonína z Rottalu"},
+  {"owner": "nadasdyove", "owner_wiki": null, "person": "polní maršál František Leopold z Nádasdy", "from": 1763, "to": 1770, "from_approx": false, "to_approx": false, "how": "jine", "note": "spravoval panství jménem svých nezletilých dětí; článek o rodu na cs.wiki neexistuje"},
+  {"owner": "erdodyove", "owner_wiki": "Erdődyové", "person": "Marie Barbora z Nádasdy, provdaná hraběnka Erdődy", "from": 1770, "to": 1833, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "roku 1833 syn Karel hrabě Erdődy předal Holešov své dceři Barboře"},
+  {"owner": "bruntalsti-z-vrbna", "owner_wiki": "Bruntálští z Vrbna", "person": "Barbora Erdődyová, provdaná hraběnka Bruntálská z Vrbna, a Rudolf Wrbna (1892-1936)", "from": 1833, "to": 1936, "from_approx": false, "to_approx": false, "how": "snatek", "note": "sňatkem Barbory přešel Holešov do vlastnictví hrabat z Vrbna; po tragické smrti Rudolfa Wrbny 1936 nastaly složité vlastnické poměry, roku 1941 uvalena nucená správa Zemského úřadu v Brně"},
+  {"owner": "bruntalsti-z-vrbna", "owner_wiki": "Bruntálští z Vrbna", "person": "Barbora Vrbnová (poslední předválečná majitelka)", "from": 1941, "to": 1948, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "po druhé světové válce zámek přechodně sloužil k internaci Němců čekajících na odsun; nucená správa zrušena říjen 1945 a zámek vrácen Barboře Vrbnové; v březnu 1948 znovu uvalena národní správa, v říjnu 1948 zámek zestátněn a převeden na Družstvo kulturního domu"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1948, "to": 1995, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "v 50. letech majitelem Okresní národní výbor v Holešově, po zrušení okresu Městský národní výbor; v zámku sídlily mj. divadlo, hudební škola, archiv a muzeum"},
+  {"owner": "bruntalsti-z-vrbna", "owner_wiki": "Bruntálští z Vrbna", "person": "příbuzní Barbory Vrbnové", "from": 1995, "to": 2005, "from_approx": false, "to_approx": false, "how": "restituce", "note": "následující desetiletí neúspěšného hledání kupce a chátrání zámku"},
+  {"owner": "mesto", "owner_wiki": null, "person": null, "from": 2005, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "město Holešov koupilo zámek za 13,4 milionu Kč a zahájilo novou etapu obnovy"}
+ ],
+ "events": [
+  {"year": 1275, "text": "nejstarší zmínka o feudálním sídle, biskupský leník Hugo z Holešova"},
+  {"year": 1420, "text": "hrad za husitských válek dobyt a poničen (přesný rok článek neuvádí)"},
+  {"year": 1643, "text": "zámek vypleněn a vypálen švédským vojskem za třicetileté války"},
+  {"year": 1650, "text": "zničené panství kupuje Jan hrabě z Rottalu, zahajuje barokní přestavbu"},
+  {"year": 1658, "text": "v hrubých obrysech dokončena barokní podoba čtyřkřídlého zámku"},
+  {"year": 1717, "text": "František Antonín z Rottalu nechává přebudovat zámeckou zahradu ve francouzském stylu"},
+  {"year": 1948, "text": "zámek zestátněn"},
+  {"year": 2005, "text": "zámek odkupuje město Holešov a zahajuje jeho obnovu"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Holešov_(zámek)"]
+}

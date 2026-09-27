@@ -1,0 +1,39 @@
+{
+ "id": "Q12024521",
+ "name": "Jenštejn",
+ "founded": {"year": 1341, "approx": true, "text": "První písemná zmínka pochází z roku 1341, kdy hrad vlastnil Jenec z Janovic, pravděpodobně jeho zakladatel."},
+ "summary": "Hrad Jenštejn založil nejspíše ve 14. století Jenec z Janovic, po němž jej koupil královský notář Pavel, zakladatel rodu pánů z Jenštejna - podle nich se hrad jmenuje dodnes. Nejvýznamnějším majitelem byl arcibiskup Jan z Jenštejna, který hrad reprezentativně přestavěl, než mu jej roku 1390 zkonfiskoval Václav IV. Poté se na hradě vystřídala řada drobných šlechtických držitelů, až kolem roku 1568-1608 zpustl jako součást brandýského panství. Dnes je zříceninou ve vlastnictví a správě obce Jenštejn, zpřístupněnou veřejnosti od roku 1977.",
+ "owners": [
+  {"owner": "z-janovic", "owner_wiki": null, "person": "Jenec z Janovic", "from": 1341, "to": 1368, "from_approx": true, "to_approx": true, "how": "zalozeni", "note": "první písemná zmínka 1341, pravděpodobný zakladatel hradu, po němž byl pojmenován (Jencestein)"},
+  {"owner": "jenstejnove", "owner_wiki": "Jenštejnové", "person": "Pavel z Jenštejna", "from": 1368, "to": 1375, "from_approx": true, "to_approx": false, "how": "koupe", "note": "notář královské komory, bratr pražského arcibiskupa Jana Očka z Vlašimi; po koupi začal používat přídomek z Jenštejna, zemřel 1375"},
+  {"owner": "jenstejnove", "owner_wiki": "Jenštejnové", "person": "Jan z Jenštejna (případně i bratr Martin)", "from": 1375, "to": 1390, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "cs.wiki uvádí, že hrad mohli zdědit synové Pavla Martin (+1380) a Jan, ale není známo, který z nich, případně zda drželi hrad nedílem; přestavbu na reprezentativní sídlo provedl arcibiskup Jan z Jenštejna"},
+  {"owner": "koruna", "owner_wiki": null, "person": "Václav IV.", "from": 1390, "to": 1390, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "hrad zkonfiskován Janovi z Jenštejna po sporu s králem; téhož roku předán Zikmundu Hulerovi z Orlíku"},
+  {"owner": "z-orlika", "owner_wiki": null, "person": "Zikmund Huler z Orlíku", "from": 1390, "to": 1398, "from_approx": false, "to_approx": true, "how": "dar", "note": "podkomoří; obdržel hrad od krále po konfiskaci; není jasné, jak dlouho jej držel - roku 1398 už mu hrad možná nepatřil"},
+  {"owner": "z-cernic", "owner_wiki": null, "person": "Oldřich z Černčic", "from": 1400, "to": 1435, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "doložen na počátku 15. století; před ním snad (nejistě) Ctibor z Jenštejna. Krátce poté i Jindřich z Cách, který připojil k panství Čelákovice a Mochov; možným dalším držitelem nebo purkrabím byl kolem 1410 jakýsi Hron"},
+  {"owner": "z-dube", "owner_wiki": null, "person": "Aleš Škopek z Dubé", "from": 1426, "to": 1435, "from_approx": true, "to_approx": true, "how": "koupe", "note": "koupil hrad někdy po roce 1426, jako jenštejnský pán poprvé zmíněn 1431, zemřel nejpozději 1435"},
+  {"owner": "z-liblic", "owner_wiki": null, "person": "Jan z Liblic", "from": 1447, "to": 1448, "from_approx": false, "to_approx": false, "how": "neznamo"},
+  {"owner": "z-kosina", "owner_wiki": null, "person": "Baltazar z Košína", "from": 1448, "to": 1502, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "po něm později Václav Holec z Květnice, přesná léta držby obou neuvedena"},
+  {"owner": "z-ocedelic", "owner_wiki": null, "person": "Bohuslav Ojíř z Očedělic", "from": 1502, "to": 1507, "from_approx": true, "to_approx": true, "how": "neznamo"},
+  {"owner": "z-ocedelic", "owner_wiki": null, "person": "Jan Ojíř z Očedělic", "from": 1507, "to": 1521, "from_approx": false, "to_approx": true, "how": "neznamo"},
+  {"owner": "z-plotist", "owner_wiki": null, "person": "Jan Zachař z Plotišť", "from": 1507, "to": 1521, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "zemřel na počátku 1521 a odkázal Jenštejn Ladislavovi ze Šternberka; zdroj neuvádí, jak hrad přešel od Ojířů z Očedělic na Zachaře"},
+  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": "Ladislav ze Šternberka", "from": 1521, "to": 1526, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "odkaz závětí Jana Zachaře z Plotišť"},
+  {"owner": "z-chlumu", "owner_wiki": null, "person": "Jan Litoborský z Chlumu", "from": 1521, "to": 1526, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "nástupce Ladislava ze Šternberka, roku 1526 hrad prodal"},
+  {"owner": "z-hrusova", "owner_wiki": null, "person": "Jan Hrušovský z Hrušova a synové", "from": 1526, "to": 1539, "from_approx": false, "to_approx": false, "how": "koupe", "note": "po jeho smrti drželi synové Milota, Jetřich, Bedřich, Petr, Jiří, Mikuláš, Jindřich a Bohuše, kteří roku 1539 hrad prodali"},
+  {"owner": "z-usavy", "owner_wiki": null, "person": "Mikuláš Rendl z Úšavy", "from": 1539, "to": 1542, "from_approx": false, "to_approx": true, "how": "koupe", "note": "roku 1541 nechal zápis v zemských deskách přepsat na místopísaře Hynka Krabice z Veitmile"},
+  {"owner": "hrzanove-z-harasova", "owner_wiki": "Hrzánové z Harasova", "person": "Václav a Mikuláš Hrzánové z Harasova", "from": 1542, "to": 1544, "from_approx": false, "to_approx": false, "how": "koupe", "note": "bratři, společná držba do rozdělení majetku"},
+  {"owner": "hrzanove-z-harasova", "owner_wiki": "Hrzánové z Harasova", "person": "Václav Hrzán z Harasova", "from": 1544, "to": 1560, "from_approx": false, "to_approx": false, "how": "jine", "note": "při dělení bratrského majetku 1544 získal Jenštejn se dvorem a ctěnickým panstvím"},
+  {"owner": "z-dobrichova", "owner_wiki": null, "person": "Jan Dobřichovský z Dobřichova", "from": 1560, "to": 1568, "from_approx": false, "to_approx": false, "how": "koupe", "note": "roku 1568 prodal Jenštejn Ladislavovi staršímu z Lobkovic, ale kvůli nesplaceným pokutám neměl hrad zapsaný v zemských deskách a nemohl jej předat; po jeho smrti spravovala panství sestra Dorota Lipská z Prahy"},
+  {"owner": "neznamo", "owner_wiki": null, "person": null, "from": 1568, "to": 1608, "from_approx": true, "to_approx": true, "how": "konfiskace", "note": "pro nezaplacené pokuty Jana Dobřichovského se Jenštejna zmocnil brandýský hejtman, hrad se stal součástí brandýského panství a přestal být obýván; roku 1608 zapsán jako zámek starý a spustlý. Majitel brandýského panství není ve zdroji uveden"},
+  {"owner": "mesto", "owner_wiki": null, "person": null, "from": null, "to": null, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "dnešním majitelem a správcem hradu je obec Jenštejn; rok nabytí není v článku uveden. Po opravě zpřístupněn veřejnosti 1977, od 1966 chráněn jako kulturní památka"}
+ ],
+ "events": [
+  {"year": 1341, "text": "první písemná zmínka o hradu, majitelem Jenec z Janovic"},
+  {"year": 1368, "text": "hrad koupil královský notář Pavel, zakladatel rodu pánů z Jenštejna"},
+  {"year": 1380, "text": "arcibiskup Jan z Jenštejna provádí reprezentativní přestavbu hradu"},
+  {"year": 1390, "text": "Václav IV. hrad Janovi z Jenštejna zkonfiskoval po vzájemném sporu"},
+  {"year": 1608, "text": "hrad zapsán jako starý a spustlý, součást brandýského panství"},
+  {"year": 1966, "text": "hrad prohlášen kulturní památkou"},
+  {"year": 1977, "text": "po opravě zpřístupněn veřejnosti, dnes ve správě obce Jenštejn s expozicí Oblastního muzea Praha-východ"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Jenštejn_(hrad)"]
+}

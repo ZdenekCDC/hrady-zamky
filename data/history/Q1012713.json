@@ -1,0 +1,25 @@
+{
+ "id": "Q1012713",
+ "name": "Kozí hrádek",
+ "founded": {"year": 1370, "approx": true, "text": "Zakladatel není znám, první zmínka o hradu pochází z roku 1377, kdy byl v držení Vlčka z Kozího."},
+ "summary": "Kozí hrádek je poprvé zmiňován roku 1377 v držení Vlčka z Kozího, zakladatel hradu není znám. Poté jej vlastnil Jan z Hardeka, od roku 1391 Jindřich z Hradce a od roku 1406 Vilém z Újezda, jehož synové Jan a Ctibor na hrad roku 1412 pozvali mistra Jana Husa, který zde s přestávkami pobýval do jara 1414. Roku 1438 hrad za válečného tažení Albrechta II. Habsburského vyhořel a roku 1542 je v zemských deskách zapsán jako pustý, součást majetku města Tábora; od roku 1991 je zřícenina v majetku města Sezimovo Ústí.",
+ "owners": [
+  {"owner": "z-koziho", "owner_wiki": null, "person": "Vlček z Kozího", "from": 1370, "to": 1385, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "první doložený držitel, zmíněn 1377; přesná data počátku a konce držby nejsou známa"},
+  {"owner": "hardekove", "owner_wiki": "Hardekové", "person": "Jan z Hardeka", "from": 1385, "to": 1391, "from_approx": true, "to_approx": false, "how": "neznamo"},
+  {"owner": "pani-z-hradce", "owner_wiki": "Páni z Hradce", "person": "Jindřich z Hradce", "from": 1391, "to": 1406, "from_approx": false, "to_approx": false, "how": "neznamo"},
+  {"owner": "z-ujezda", "owner_wiki": null, "person": "Vilém z Újezda", "from": 1406, "to": 1412, "from_approx": false, "to_approx": true, "how": "neznamo"},
+  {"owner": "z-ujezda", "owner_wiki": null, "person": "Jan a Ctibor z Kozího (synové Viléma z Újezda)", "from": 1412, "to": 1438, "from_approx": true, "to_approx": true, "how": "dedictvi", "note": "roku 1412 pozvali na hrad mistra Jana Husa, který zde pobýval na podzim 1412 a od jara 1413 do 15. července 1414; roku 1438 hrad pravděpodobně vyhořel při tažení Albrechta II. Habsburského"},
+  {"owner": "mesto", "owner_wiki": null, "person": "Tábor", "from": 1438, "to": 1991, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "roku 1542 zápis v zemských deskách o majetku táborském uvádí 'Kozí hrad pustý'; další staletí sloužil jen jako zdroj stavebního kamene, majitel v tomto období blíže nedoložen"},
+  {"owner": "mesto", "owner_wiki": null, "person": "Sezimovo Ústí", "from": 1991, "to": null, "from_approx": false, "to_approx": false, "how": "jine", "note": "od 1991 zřícenina v majetku města Sezimovo Ústí"}
+ ],
+ "events": [
+  {"year": 1377, "text": "první zmínka o hradu, v držení Vlčka z Kozího"},
+  {"year": 1412, "text": "na hrad přichází mistr Jan Hus, dokončuje zde Postilu a píše traktáty O svatokupectví, O církvi a O šesti bludiech"},
+  {"year": 1414, "text": "15. července Hus odchází z jižních Čech na hrad Krakovec"},
+  {"year": 1438, "text": "hrad pravděpodobně vyhořel během tažení Albrechta II. Habsburského"},
+  {"year": 1542, "text": "zemské desky zaznamenávají hrad jako pustý"},
+  {"year": 1899, "text": "archeolog Josef Švehla zahajuje desetileté systematické odkrývání trosek hradu"},
+  {"year": 1962, "text": "30. března prohlášen národní kulturní památkou pro spojitost se životem Jana Husa"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Kozí_hrádek"]
+}

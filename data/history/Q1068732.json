@@ -1,0 +1,23 @@
+{
+ "id": "Q1068732",
+ "name": "Chebský hrad",
+ "founded": {"year": 1180, "approx": true, "text": "Kolem roku 1180 nechal císař Fridrich Barbarossa na místě staršího kamenného hradu postavit románskou falc; té předcházel kamenný hrad Děpolta II. z Vohburgu z 1. poloviny 12. století a ještě starší slovanské hradiště z 9.-počátku 12. století."},
+ "summary": "Chebský hrad vznikl přestavbou staršího slovanského hradiště a kamenného hradu pánů z Vohburgu na výstavnou románskou falc, kterou si kolem roku 1180 nechal postavit císař Fridrich Barbarossa poté, co roku 1165 Chebsko připadlo jemu. Po připojení Chebska k Českému království se falc stala královským hradem, ale král Václav II. nechal na protějším břehu Ohře postavit nový Václavský hrad, takže starší falc byla dále jen udržována a větší přestavby (mj. barokní opevnění valy a bastiony) se dočkala až koncem 15. století a po třicetileté válce. Roku 1634 na hradě zavraždili irští žoldnéři důstojníky Albrechta z Valdštejna a roku 1742 hrad těžce poškodilo francouzské vojsko; dnes je národní kulturní památkou ve správě státu.",
+ "owners": [
+  {"owner": "z-vohburgu", "owner_wiki": null, "person": "Děpolt II. z Vohburgu", "from": null, "to": 1165, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "v 1. polovině 12. století si na hradištní akropoli nechal postavit kamenný hrad; wiki o rodu Vohburgů nemá samostatný článek"},
+  {"owner": "koruna", "owner_wiki": null, "person": "Fridrich Barbarossa (římsko-německý císař)", "from": 1165, "to": 1322, "from_approx": false, "to_approx": true, "how": "jine", "note": "roku 1165 mu připadlo Chebsko, kolem 1180 nechal postavit románskou falc; zdroj přesně neuvádí rok připojení k Českému království, orientačně 1322"},
+  {"owner": "koruna", "owner_wiki": null, "person": "České království", "from": 1322, "to": null, "from_approx": true, "to_approx": true, "how": "jine", "note": "po připojení Chebska k Českému království se falc stala královským hradem, ale význam ztratila ve prospěch nového Václavského hradu; větší přestavba koncem 15. stol. a po třicetileté válce (barokní valy a bastiony); 1634 zavražděni Valdštejnovi důstojníci, 1742 hrad těžce poškodilo francouzské vojsko za válek o rakouské dědictví"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "dnes národní kulturní památka (od 2017) ve správě státu; zdroj neuvádí přesný rok přechodu z panovnického majetku na československý/český stát"}
+ ],
+ "events": [
+  {"year": 1165, "text": "Chebsko připadlo císaři Fridrichu Barbarossovi"},
+  {"year": 1180, "text": "kolem tohoto roku postavena románská falc, jediná ukázka štaufské falce v Česku"},
+  {"year": 1322, "text": "Chebsko připojeno k Českému království, falc se stala královským hradem"},
+  {"year": 1634, "text": "25. února v rámci atentátu na Albrechta z Valdštejna zavražděni na hradě jeho důstojníci"},
+  {"year": 1742, "text": "za válek o rakouské dědictví hrad těžce poškodilo francouzské vojsko"},
+  {"year": 1970, "text": "hrad chráněn jako kulturní památka"},
+  {"year": 2017, "text": "hrad prohlášen národní kulturní památkou"},
+  {"year": 2018, "text": "zahájena rekonstrukce"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Cheb_(hrad)"]
+}

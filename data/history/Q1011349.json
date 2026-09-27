@@ -1,0 +1,31 @@
+{
+ "id": "Q1011349",
+ "name": "Choustník",
+ "founded": {
+  "year": 1262,
+  "approx": true,
+  "text": "Hrad založil Beneš z Choustníka krátce po roce 1262."
+ },
+ "summary": "Hrad Choustník založil krátce po roce 1262 Beneš z Choustníka, jehož synové Beneš a Jan rozdělili hradní jádro na dvě samostatné části (vzácný český příklad tzv. ganerbenburgu). Roku 1322 jej páni z Choustníka vyměnili s Petrem I. z Rožmberka, jehož rod hrad držel jako pohraniční pevnost až do roku 1596, kdy jej Petr Vok z Rožmberka prodal Jiříku Homutovi z Harasova; od roku 1614 je hrad uváděn jako pustý. Přes dědice Homutů a Černínů přešlo panství roku 1674 na Jana Šporka a roku 1706 na rod Voračických z Paběnic, kteří je drželi do roku 1838. Posledním předválečným majitelem byl Raoul Benjamin Rohan, jemuž byl majetek roku 1948 vyvlastněn; zřícenina je dnes přístupná veřejnosti.",
+ "owners": [
+  {"owner": "pani-z-choustnika", "owner_wiki": "Páni z Choustníka", "person": "Beneš z Choustníka, poté synové Beneš a Jan z Choustníka", "from": 1262, "to": 1322, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "synové rozdělili hradní jádro na dvě samostatné části"},
+  {"owner": "rozmberkove", "owner_wiki": "Rožmberkové", "person": "Petr I. z Rožmberka", "from": 1322, "to": 1596, "from_approx": false, "to_approx": false, "how": "vymena", "note": "páni z Choustníka hrad vyměnili za Chlumec nad Cidlinou a Choustníkovo Hradiště; za Oldřicha II. z Rožmberka posílena obranná funkce hradu, za husitských válek sloužil jako vězení pro husitské kněze, 1467 centrum válečných příprav Jana II. z Rožmberka, 1470-1476 dočasně v držení Zdeňka ze Šternberka; Petr Vok z Rožmberka jej roku 1596 prodal"},
+  {"owner": "homutove-z-harasova", "owner_wiki": null, "person": "Jiřík Homut z Harasova, poté dcera Zuzana a její potomci", "from": 1596, "to": 1650, "from_approx": false, "to_approx": true, "how": "koupe", "note": "koupil hrad s pivovarem, chmelnicemi, mlýnem, dvorem a osmi vesnicemi; od roku 1614 je hrad uváděn jako pustý; rok přechodu na Černíny zdroj přesně neuvádí"},
+  {"owner": "cerninove-z-chudenic", "owner_wiki": "Černínové z Chudenic", "person": "Heřman Václav Černín z Chudenic", "from": 1650, "to": 1674, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "potomek Zuzany Homutové; roku 1674 panství postoupil svému věřiteli Janu Šporkovi"},
+  {"owner": "sporkove", "owner_wiki": "Šporkové", "person": "Jan Šporek, poté dcera jeho synovce Marie Konstancie Šporková", "from": 1674, "to": 1706, "from_approx": false, "to_approx": false, "how": "jine", "note": "Jan Šporek panství získal jako věřitel Heřmana Václava Černína"},
+  {"owner": "voracicti-z-pabenic", "owner_wiki": "Voračičtí z Paběnic", "person": "Karel Josef Voračický z Paběnic (druhý manžel Marie Konstancie)", "from": 1706, "to": 1838, "from_approx": false, "to_approx": false, "how": "snatek", "note": "v rodině Voračických zůstal Choustník do roku 1838; na blízkém panství strávila mládí hraběnka Eleonora Kounicová, přítelkyně Boženy Němcové"},
+  {"owner": "rohanove", "owner_wiki": "Rohanové", "person": "Raoul Benjamin Rohan", "from": 1838, "to": 1948, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "zdroj neuvádí, jak a kdy přesně panství přešlo od Voračických na Rohany; roku 1948 byl Rohanovi majetek vyvlastněn"},
+  {"owner": "stat", "person": null, "from": 1948, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "zřícenina byla zrestaurována a zpřístupněna veřejnosti, věž slouží jako rozhledna"}
+ ],
+ "events": [
+  {"year": 1262, "text": "založení hradu Benešem z Choustníka"},
+  {"year": 1322, "text": "páni z Choustníka vyměňují hrad s Petrem I. z Rožmberka"},
+  {"year": 1420, "text": "po zboření hradu Příběnice vzrůstá význam Choustníku, slouží jako vězení pro husitské kněze"},
+  {"year": 1467, "text": "hrad centrem válečných příprav Jana II. z Rožmberka proti Zdeňkovi ze Šternberka"},
+  {"year": 1596, "text": "Petr Vok z Rožmberka prodává hrad Jiříku Homutovi z Harasova"},
+  {"year": 1614, "text": "hrad poprvé uváděn jako pustý"},
+  {"year": 1674, "text": "Heřman Václav Černín postupuje panství Janu Šporkovi"},
+  {"year": 1948, "text": "majetek vyvlastněn Raoulu Benjaminu Rohanovi"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Choustník_(hrad)"]
+}

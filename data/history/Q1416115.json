@@ -1,0 +1,22 @@
+{
+ "id": "Q1416115",
+ "name": "Bruntál",
+ "founded": {"year": 1490, "approx": true, "text": "Původní městský pozdně gotický hrad byl vystavěn koncem 15. století; wikipedie neuvádí, kdo hrad nechal postavit."},
+ "summary": "Původní pozdně gotický městský hrad z konce 15. století přestavěli ve 2. polovině 16. století Bruntálští z Vrbna na renesanční sídlo s arkádovým nádvořím. Po bitvě na Bílé hoře jej jako konfiskát získal Řád německých rytířů, který zámek po poškození za třicetileté války v letech 1766-1769 přestavěl do dnešní barokně-renesanční podoby a vlastnil jej (s vnucenou správou po roce 1919) až do roku 1945, kdy přešel do správy československého státu. Dnes v zámku sídlí regionální muzeum; Řád německých rytířů usiluje o jeho navrácení.",
+ "owners": [
+  {"owner": "neznamo", "owner_wiki": null, "person": null, "from": 1490, "to": 1550, "from_approx": true, "to_approx": true, "how": "zalozeni", "note": "wikipedie neuvádí stavebníka ani majitele gotického hradu z konce 15. stol., pouze pozdější přestavbu pány z Vrbna"},
+  {"owner": "bruntalsti-z-vrbna", "owner_wiki": "Bruntálští z Vrbna", "person": null, "from": 1550, "to": 1620, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "2. polovina 16. stol., renesanční přestavba na representační sídlo; přesný rok nabytí wikipedie neuvádí"},
+  {"owner": "cirkev", "owner_wiki": null, "person": null, "from": 1620, "to": 1945, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "Řád německých rytířů; zámek konfiskován po Bílé hoře, poškozen za třicetileté války, 1766-1769 přestavěn do dnešní podoby; po 1. sv. válce (od března 1919) uvalena na velkostatek vnucená správa ministerstva zemědělství"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "správa zámku přešla do rukou československého státu; dnes sídlo regionálního muzea, Řád německých rytířů nyní usiluje o navrácení zámku"}
+ ],
+ "events": [
+  {"year": 1490, "text": "vystavěn původní pozdně gotický městský hrad"},
+  {"year": 1620, "text": "po bitvě na Bílé hoře zámek konfiskován a získán Řádem německých rytířů"},
+  {"year": 1766, "text": "1766-1769 poslední velká přestavba, vznik dnešní barokně-renesanční podoby"},
+  {"year": 1919, "text": "ministerstvo zemědělství uvalilo na velkostatek Řádu vnucenou správu"},
+  {"year": 1945, "text": "správa zámku přešla do rukou československého státu"},
+  {"year": 1963, "text": "zámek prohlášen nemovitou kulturní památkou"},
+  {"year": 2002, "text": "zámek zařazen mezi národní kulturní památky"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Bruntál_(zámek)"]
+}

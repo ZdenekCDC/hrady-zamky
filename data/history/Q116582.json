@@ -1,0 +1,26 @@
+{
+ "id": "Q116582",
+ "name": "Hasištejn",
+ "founded": {"year": 1324, "approx": true, "text": "Hrad byl postaven nejspíše ve dvacátých až třicátých letech 14. století, pravděpodobně z podnětu Fridricha IV. ze Šumburka jako léno k ochraně a kolonizaci severozápadní hranice a k dolování v Krušných horách; dendrochronologie datuje dřevo do let 1315-1331."},
+ "summary": "Hrad Hasištejn nad obcí Místo v Krušných horách založili ve 14. století páni ze Šumburka. Po dobytí roku 1418 jej získali Lobkovicové, za Bohuslava Hasištejnského z Lobkovic byl na počátku 16. století rozšířen a stal se centrem humanismu s rozsáhlou knihovnou. Po rozdrobení dědictví přešel přes Štampachy ze Štampachu k Martinicům, kteří jej neudržovali, a hrad postupně zchátral; koncem 19. století jej částečně opravil Emanuel Karsch a zřídil v něm hostinec. Dnes zřícenina patří obci Místo a je přístupná veřejnosti.",
+ "owners": [
+  {"owner": "sumburkove", "owner_wiki": "Šumburkové", "person": "Fridrich IV. ze Šumburka a jeho potomci (Bedřich, Heřman, Bernard)", "from": 1324, "to": 1412, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "Fridrich IV. získal hasištejnské panství jako léno kolem 1324 a hrad postavil; rod jej držel až do roku 1412, kdy Bedřich ze Šumburka přenechal hrad Jindřichu mladšímu Reussovi z Plavna"},
+  {"owner": "plavensti-z-plavna", "owner_wiki": "Plavenští z Plavna", "person": "Jindřich mladší Reuss z Plavna", "from": 1412, "to": 1418, "from_approx": false, "to_approx": false, "how": "jine", "note": "dostal se do sporů s Václavem IV. a spolčoval se s loupeživými rytíři; královské vojsko hrad roku 1418 po dvouměsíčním obléhání dobylo"},
+  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": "Mikuláš Chudý z Lobkovic a jeho potomci (Mikuláš II., Bohuslav Hasištejnský z Lobkovic ad.)", "from": 1418, "to": 1594, "from_approx": false, "to_approx": false, "how": "lenni", "note": "hrad byl Mikuláši Chudému z Lobkovic ihned po dobytí zastaven, od 1421 jako dědičné korunní léno; za Bohuslava Hasištejnského z Lobkovic (do 1510) rozšířen a založena knihovna; po jeho smrti se panství postupně rozdrobilo mezi mnoho potomků, hlavní podíl (Jiří Popel z Lobkovic) zkonfiskován 1594"},
+  {"owner": "koruna", "owner_wiki": null, "person": "Rudolf II.", "from": 1594, "to": 1606, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "sedm osmin panství připadlo císaři po konfiskaci Jiřímu Popelovi z Lobkovic; zbylý osmý díl vlastnil ještě Kryštof Hasištejnský z Lobkovic, prodán 1606"},
+  {"owner": "stampachove-ze-stampachu", "owner_wiki": "Štampachové ze Štampachu", "person": "Linhart starší a Jan Richard Štampach ze Štampachu, poté Linhart mladší", "from": 1606, "to": 1621, "from_approx": false, "to_approx": true, "how": "koupe", "note": "Linhart starší koupil od císaře díl po Rudolfovi II., syn Jan Richard 1609 přikoupil i díl Kryštofa Hasištejnského; Linhart mladší přišel o majetek za účast na stavovském povstání 1618-1620, přesný rok konfiskace není uveden"},
+  {"owner": "martinicove-a-clam-martinicove", "owner_wiki": "Martinicové a Clam-Martinicové", "person": "Jaroslav Bořita z Martinic", "from": 1622, "to": null, "from_approx": false, "to_approx": true, "how": "koupe", "note": "koupil zkonfiskovaný majetek Štampachů; hrad byl už tehdy označen jako pustý, Martinicové jej neudržovali a roku 1687 využívali už jen sklepy k uskladnění piva; zdroj přesně neuvádí, dokdy panství drželi"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Emanuel Karsch, majitel velkostatku Prunéřov-Ahníkov", "from": 1891, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "v letech 1891-1892 nechal hrad částečně opravit a zřídil v něm hostinec (vyhořel 1976); zdroj neuvádí, jak a kdy panství získal ani kdy přešlo na dalšího vlastníka"},
+  {"owner": "mesto", "owner_wiki": null, "person": null, "from": null, "to": null, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "dnes zřícenina patří obci Místo, přesný rok přechodu do obecního vlastnictví není ve zdroji uveden"}
+ ],
+ "events": [
+  {"year": 1348, "text": "první písemná zmínka o Hasištejnu v zákoníku Majestas Carolina, hrad tehdy vlastnil Bedřich ze Šumburka"},
+  {"year": 1418, "text": "královské vojsko po dvouměsíčním obléhání dobylo hrad a král jej ihned zastavil Mikuláši Chudému z Lobkovic"},
+  {"year": 1491, "text": "Hasištejn se stal hlavním sídlem Bohuslava Hasištejnského z Lobkovic, který jej výrazně rozšířil a založil zde knihovnu"},
+  {"year": 1594, "text": "konfiskace hlavního podílu panství Jiřímu Popelovi z Lobkovic"},
+  {"year": 1622, "text": "zkonfiskovaný majetek Štampachů koupil Jaroslav Bořita z Martinic, hrad byl již označen jako pustý"},
+  {"year": 1891, "text": "1891-1892 Emanuel Karsch nechal hrad částečně opravit a zřídil v něm hostinec"},
+  {"year": 1998, "text": "1998-1999 částečná konzervace zříceniny"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Hasištejn"]
+}

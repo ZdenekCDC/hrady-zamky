@@ -1,0 +1,36 @@
+{
+ "id": "Q11176080",
+ "name": "Červená Řečice",
+ "founded": {"year": 1270, "approx": true, "text": "Řečické panství vlastnili už ve 12. století pražští biskupové, kteří ve 2. polovině 13. století nechali v místě dnešního zámku vystavět tvrz; biskup Tobiáš z Bechyně ji nechal opevnit proti nájezdům Oty Braniborského a Vítkovců, počátkem 14. století byla za arcibiskupa Arnošta z Pardubic přestavěna na gotický hrad."},
+ "summary": "Řečické panství s tvrzí, později hradem, patřilo od 12. do počátku 15. století pražským biskupům a arcibiskupům; po roce 1415 se v držení rychle střídali světští páni (Chotěmicové, Lamberkové, Trčkové z Lípy, koruna, Sezimové z Ústí, Šelmberkové), než v 60. letech 16. století Leskovcové z Leskovce přestavěli hrad na renesanční zámek. Po roce 1597 jej drželi páni z Říčan, po Bílé hoře byl zkonfiskován a roku 1623 jej císař vrátil pražským arcibiskupům, v jejichž majetku zůstal až do znárodnění ve 20. století. Dnes je zámek v soukromých rukou a od roku 2020 probíhá jeho rozsáhlá rekonstrukce; veřejnosti byl znovu zpřístupněn roku 2023.",
+ "owners": [
+  {"owner": "cirkev", "owner_wiki": null, "person": "pražští biskupové, od 14. stol. arcibiskupové (mj. Arnošt z Pardubic, Jan z Jenštejna, Konrád z Vechty)", "from": 1100, "to": 1415, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "pražské biskupství drželo řečické panství už od 12. století; tvrz nechal vystavět některý z biskupů ve 2. pol. 13. stol., počátkem 14. stol. přestavěna na gotický hrad za arcibiskupa Arnošta z Pardubic"},
+  {"owner": "z-chotemic", "owner_wiki": null, "person": "Jan Svídnický z Chotěmic", "from": 1415, "to": 1422, "from_approx": false, "to_approx": true, "how": "koupe", "note": "koupil hrad od arcibiskupa Konráda z Vechty; jako katolík musel odejít do vyhnanství, kolem 1422 hrad pravděpodobně obsadili husité"},
+  {"owner": "z-lamberka", "owner_wiki": null, "person": "Mikuláš Sokol z Lamberka", "from": 1428, "to": 1436, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "vyjednal zde mír s Oldřichem II. z Rožmberka (1428) a organizoval odtud výpravu do Dolních Rakous (1431); roku 1436 vrátil císař Zikmund panství Janu z Chotěmic"},
+  {"owner": "z-chotemic", "owner_wiki": null, "person": "Jan z Chotěmic", "from": 1436, "to": 1437, "from_approx": false, "to_approx": false, "how": "jine", "note": "panství mu vrátil císař Zikmund, hned roku 1437 je zastavil Mikuláši Trčkovi z Lípy"},
+  {"owner": "trckove-z-lipy", "owner_wiki": "Trčkové z Lípy", "person": "Mikuláš Trček z Lípy", "from": 1437, "to": 1453, "from_approx": false, "to_approx": false, "how": "lenni", "note": "zástava; po jeho smrti 1453 připadlo panství Ladislavu Pohrobkovi"},
+  {"owner": "koruna", "owner_wiki": null, "person": "Ladislav Pohrobek", "from": 1453, "to": 1454, "from_approx": false, "to_approx": false, "how": "dedictvi"},
+  {"owner": "sezimove-z-usti", "owner_wiki": "Sezimové z Ústí", "person": "Jindřich ze Stráže", "from": 1454, "to": 1466, "from_approx": false, "to_approx": false, "how": "jine", "note": "získal panství od Ladislava Pohrobka"},
+  {"owner": "sezimove-z-usti", "owner_wiki": "Sezimové z Ústí", "person": "Michal ze Stráže", "from": 1466, "to": 1467, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "postavil se proti králi Jiřímu z Poděbrad, roku 1467 mu hrad dobyl Petr Břekovec z Ostromeče"},
+  {"owner": "z-ostromece", "owner_wiki": null, "person": "Petr Břekovec z Ostromeče", "from": 1467, "to": 1467, "from_approx": false, "to_approx": false, "how": "dar", "note": "pán na Kamenici a Loutkově; hrad po dobytí připadl králi, který mu jej daroval, krátce poté jej prodal Trčkům z Lípy"},
+  {"owner": "trckove-z-lipy", "owner_wiki": "Trčkové z Lípy", "person": "Trčkové z Lípy", "from": 1467, "to": 1480, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupili hrad od Petra Břekovce z Ostromeče; roku 1480 se o panství jako dědictví po Jindřichovi ze Stráže přihlásil Jan ze Šelmberka"},
+  {"owner": "selmberkove", "owner_wiki": "Šelmberkové", "person": "Jan ze Šelmberka", "from": 1480, "to": 1497, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "nejvyšší kancléř, manžel Johanky ze Stráže; nárokoval panství jako dědictví po Jindřichovi ze Stráže"},
+  {"owner": "leskovcove-z-leskovce", "owner_wiki": "Leskovcové z Leskovce", "person": "Bohuslav Leskovec z Leskovce", "from": 1497, "to": 1582, "from_approx": false, "to_approx": false, "how": "koupe", "note": "za Šebestiána Leskovce z Leskovce (přídomek na Nové Řečici) proběhla v 60. letech 16. stol. renesanční přestavba hradu na zámek"},
+  {"owner": "leskovcove-z-leskovce", "owner_wiki": "Leskovcové z Leskovce", "person": "vdova Žofie z Nečtin, od 1585 Kryštof starší z Leskovce, po 1595 sestra Anna (provdaná Šlejnicová)", "from": 1582, "to": 1597, "from_approx": false, "to_approx": false, "how": "dedictvi"},
+  {"owner": "pani-z-rican", "owner_wiki": "Páni z Říčan", "person": "Heřman z Říčan, od 1612 Jan z Říčan", "from": 1597, "to": 1620, "from_approx": false, "to_approx": true, "how": "koupe", "note": "Albrecht Šebestián Leskovec zámek krátce po prodeji obsadil, zůstal ale v držení pánů z Říčan; po Bílé hoře o něj Jan z Říčan přišel"},
+  {"owner": "koruna", "owner_wiki": null, "person": "Ferdinand III.", "from": 1620, "to": 1623, "from_approx": true, "to_approx": false, "how": "konfiskace", "note": "konfiskováno Janu z Říčan po Bílé hoře"},
+  {"owner": "cirkev", "owner_wiki": null, "person": "arcibiskup Arnošt Vojtěch z Harrachu, později mj. Matouš Ferdinand Sobek z Bílenberka, František Kordač, Karel Kašpar", "from": 1623, "to": null, "from_approx": false, "to_approx": true, "how": "dar", "note": "postoupeno pražským arcibiskupům; Harrach zde za třicetileté války hledal úkryt, další arcibiskupové se o zámek příliš nezajímali kromě oprav M. F. Sobka z Bílenberka; poslední velká rekonstrukce před znárodněním proběhla za Kordače a Kašpara - přesný rok konce církevního vlastnictví (znárodnění) zdroj neuvádí"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": null, "from": null, "to": null, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "zámek je dnes v soukromých rukou; přesný rok a okolnosti přechodu z církevního/státního vlastnictví do současných soukromých rukou zdroj neuvádí. Od 2011 zahájeny opravy, 2020 rozsáhlá rekonstrukce, od 1. 7. 2023 zpřístupněno veřejnosti"}
+ ],
+ "events": [
+  {"year": 1415, "text": "arcibiskup Konrád z Vechty prodal hrad Janu Svídnickému z Chotěmic"},
+  {"year": 1436, "text": "první přestavba a spory o hrad za husitských válek, panství se rychle střídá mezi majiteli"},
+  {"year": 1467, "text": "hrad dobyl Petr Břekovec z Ostromeče, odpůrce krále Jiřího z Poděbrad"},
+  {"year": 1560, "text": "60. léta 16. stol. - Šebestián Leskovec z Leskovce přestavěl hrad na renesanční zámek"},
+  {"year": 1623, "text": "císař Ferdinand III. postoupil zkonfiskované panství arcibiskupu Arnoštu Vojtěchu z Harrachu"},
+  {"year": 2014, "text": "15. května vypukl na zámku požár, zničil střechu severní věžičky"},
+  {"year": 2020, "text": "zahájena rozsáhlá rekonstrukce zámku"},
+  {"year": 2023, "text": "1. července zámek znovu zpřístupněn veřejnosti"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Červená_Řečice_(zámek)"]
+}

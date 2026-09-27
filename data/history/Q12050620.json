@@ -1,0 +1,63 @@
+{
+ "id": "Q12050620",
+ "name": "Růžkovy Lhotice",
+ "founded": {
+  "year": null,
+  "approx": true,
+  "text": "Menší barokní zámeček byl postaven na místě bývalé tvrze ve 2. polovině 18. století; jméno nese po majitelích Janu a Jiřím Růžkových."
+ },
+ "summary": "Barokní zámeček v Růžkových Lhoticích vznikl ve 2. polovině 18. století na místě starší tvrze a jméno nese po majitelích Janu a Jiřím Růžkových. V letech 1835-1844 jej vlastnila rodina Františka Smetany, otce hudebního skladatele Bedřicha Smetany, který zde jako chlapec pobýval. Po druhé světové válce připadl místnímu JZD, od roku 1973 patří Okresnímu muzeu v Benešově a je zde umístěna expozice Muzea Podblanicka věnovaná hudebním tradicím regionu.",
+ "owners": [
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Jan a Jiří Růžkovi",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "zámek po nich nese jméno; cs.wiki neuvádí, zda šlo o stavebníky nebo pozdější majitele, ani žádné letopočty jejich držby"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "František Smetana",
+   "from": 1835,
+   "to": 1844,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "otec hudebního skladatele Bedřicha Smetany, který zde jako dítě pobýval; zámek si nejprve najal, později koupil, rodiče jej prodali roku 1844"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": "místní jednotné zemědělské družstvo (JZD)",
+   "from": 1945,
+   "to": 1973,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "zámek předán JZD po druhé světové válce; přesný rok mezi 1844 a předáním JZD cs.wiki neuvádí, majitelé pro toto období nejsou jmenováni"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": "Okresní muzeum v Benešově",
+   "from": 1973,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "zámek zrekonstruován do podoby z dob pobytu Bedřicha Smetany, 1984 otevřena hudební expozice; dnes pobočka Muzea Podblanicka"
+  }
+ ],
+ "events": [
+  {"year": 1835, "text": "zámek si najímá a poté kupuje František Smetana, otec Bedřicha Smetany"},
+  {"year": 1844, "text": "rodiče Bedřicha Smetany zámek prodávají"},
+  {"year": 1973, "text": "zámek získává Okresní muzeum v Benešově"},
+  {"year": 1984, "text": "otevřena hudební expozice"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Růžkovy_Lhotice_(zámek)"]
+}

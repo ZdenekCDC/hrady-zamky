@@ -1,0 +1,25 @@
+{
+ "id": "Q31953758",
+ "name": "Svijany",
+ "founded": {"year": 1565, "approx": true, "text": "roku 1565 získal ves Svijany Jaroslav z Vartenberka a vystavěl zde renesanční tvrz"},
+ "summary": "Svijany se poprvé připomínají roku 1345 jako majetek kláštera v Mnichově Hradišti; roku 1565 zde Jaroslav z Vartenberka postavil renesanční tvrz. Po jeho smrti ji získal Jáchym Ondřej Šlik, popravený 1621 na Staroměstském náměstí, poté Svijany připadly Valdštejnům, kteří tvrz přestavěli na zámek a hospodařili zde do roku 1814. Od roku 1820 do roku 1945 zámek patřil Rohanům, poté byl zkonfiskován a znárodněn (Severočeské pivovary); od 90. let jej vlastní soukromí majitelé, naposledy od roku 2013 společnost Pivovar Svijany, která zámku vrátila podobu z přelomu 17. a 18. století.",
+ "owners": [
+  {"owner": "vartenberkove", "owner_wiki": "Vartenberkové", "person": "Jaroslav z Vartenberka", "from": 1565, "to": null, "from_approx": false, "to_approx": true, "how": "koupe", "note": "vystavěl renesanční tvrz; cs.wiki neuvádí rok jeho smrti"},
+  {"owner": "slikove", "owner_wiki": "Šlikové", "person": "Jáchym Ondřej Šlik", "from": null, "to": 1621, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "získal Svijany po smrti Jaroslava z Vartenberka, způsob nabytí cs.wiki neuvádí; popraven 1621 na Staroměstském náměstí jako jeden z českých pánů"},
+  {"owner": "valdstejnove", "owner_wiki": "Valdštejnové", "person": null, "from": 1621, "to": 1814, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "získali majetek popraveného Šlika; starou tvrz přestavěli na zámek a rozšířili sousední pivovar, hospodařili zde do 1814"},
+  {"owner": "rohanove", "owner_wiki": "Rohanové", "person": null, "from": 1820, "to": 1945, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "cs.wiki neuvádí, kdo zámek vlastnil 1814-1820 ani jak jej Rohanové získali"},
+  {"owner": "stat", "owner_wiki": null, "person": "Severočeské pivovary, n. p.", "from": 1945, "to": 1996, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "zámek zkonfiskován a posléze znárodněn"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Milan Rýdlo z Čápovky (Rytířský řád svatého Václava)", "from": 1996, "to": 2013, "from_approx": false, "to_approx": false, "how": "koupe", "note": "zámek sloužil jako sídlo Rytířského řádu svatého Václava"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Pivovar Svijany, a. s.", "from": 2013, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "chátrajícímu zámku vrátila během necelých tří let podobu z přelomu 17. a 18. století, dnes muzeum a hotel"}
+ ],
+ "events": [
+  {"year": 1345, "text": "první zmínka o Svijanech jako majetku kláštera v Mnichově Hradišti"},
+  {"year": 1564, "text": "první zmínka o svijanském pivovaru"},
+  {"year": 1565, "text": "Jaroslav z Vartenberka staví renesanční tvrz"},
+  {"year": 1621, "text": "Jáchym Ondřej Šlik popraven na Staroměstském náměstí, Svijany připadly Valdštejnům"},
+  {"year": 1814, "text": "konec valdštejnského hospodaření; tvrz mezitím přestavěna na zámek"},
+  {"year": 1945, "text": "zámek zkonfiskován a znárodněn, připadl Severočeským pivovarům"},
+  {"year": 2017, "text": "dokončena druhá etapa rekonstrukce, otevřeno hotelové ubytování a restaurace"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Svijany_(zámek)"]
+}
