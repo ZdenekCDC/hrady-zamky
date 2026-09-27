@@ -1,0 +1,29 @@
+{
+ "id": "Q105310",
+ "name": "Buchlov",
+ "founded": {"year": 1230, "approx": true, "text": "královský hrad založen v 1. polovině 13. století (odhad kolem 1250) jako strategický a správní bod se sídlem loveckého práva"},
+ "summary": "Buchlov byl založen českým králem v 1. polovině 13. století jako strategický a správní hrad s vlastní soudní pravomocí (tzv. lovecké právo). Po staletí zůstával majetkem koruny a byl opakovaně dáván do zástavy moravským šlechtickým rodům, roku 1511 jej Vladislav Jagellonský natrvalo daroval Arklebu Trnavskému z Boskovic. Poté hrad vlastnili Žerotínové, Zástřizlové, páni z Petřvaldu a od roku 1763 hrabata Berchtoldové z Uherčic, kteří v něm vybudovali rozsáhlé přírodovědné a historické sbírky. V roce 1945 přešel Buchlov do vlastnictví československého státu a dnes jej spravuje Národní památkový ústav.",
+ "owners": [
+  {"owner": "koruna", "from": 1230, "to": 1511, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "královský hrad, po staletí opakovaně zastavován zámožným moravským rodům (např. dle de.wikipedia páni ze Zahrádky a z Cimburka v 15. stol.); jména a přesná období jednotlivých zástavních držitelů nejsou v dostupných zdrojích specifikována"},
+  {"owner": "boskovicove", "owner_wiki": "Boskovicové", "person": "Arkleb Trnavský z Boskovic", "from": 1511, "to": 1520, "from_approx": false, "to_approx": false, "how": "dar", "note": "darováno králem Vladislavem Jagellonským za služby proti Turkům"},
+  {"owner": "zerotinove", "owner_wiki": "Žerotínové", "from": 1520, "to": 1542, "from_approx": false, "to_approx": true, "how": "koupe", "note": "cs.wikipedia uvádí konec držby 1542, de.wikipedia 1544"},
+  {"owner": "pani-ze-zastrizl", "owner_wiki": "Páni ze Zástřizl", "person": "Jan Ždánský ze Zástřizl", "from": 1542, "to": 1644, "from_approx": true, "to_approx": false, "how": "koupe", "note": "renesanční přestavba hradu; rod vymřel roku 1644, mnozí příslušníci ztratili majetek konfiskacemi po stavovském povstání"},
+  {"owner": "petrvaldsti-z-petrvaldu", "owner_wiki": "Petřvaldští z Petřvaldu", "from": 1644, "to": 1763, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "1698-1701 vystavěli zámek v Buchlovicích, kam se přestěhovali; způsob nabytí Buchlova po vymření Zástřizlů zdroje blíže neuvádějí"},
+  {"owner": "berchtoldove-z-uhercic", "owner_wiki": "Berchtoldové z Uherčic", "person": "Leopold I. Berchtold", "from": 1763, "to": 1945, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "od 1751 hrad trvale neobydlen, ale udržován; rodina zde vytvořila přírodovědné a historické muzeum (zejména Leopold I. a Bedřich Všemír Berchtold)"},
+  {"owner": "stat", "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "od roku 1945 vlastnictví československého, dnes českého státu; spravuje Národní památkový ústav"}
+ ],
+ "events": [
+  {"year": 1230, "text": "založení královského hradu jako strategického a správního centra s loveckým právem (odhad, 1. polovina 13. stol.)"},
+  {"year": 1300, "text": "první písemná zmínka - purkrabí Protiv z Buchlova (dle de.wikipedia)"},
+  {"year": 1511, "text": "král Vladislav Jagellonský natrvalo daroval hrad Arklebu Trnavskému z Boskovic, čímž přestal být majetkem koruny"},
+  {"year": 1554, "text": "renesanční přestavba hradu za Jana Ždánského ze Zástřizl (přestavba probíhala 1540-1558)"},
+  {"year": 1644, "text": "po vymření Zástřizlů připadl hrad pánům z Petřvaldu"},
+  {"year": 1701, "text": "dokončení nového barokního zámku v Buchlovicích, kam se majitelé přestěhovali; hrad od 1751 trvale neobydlen"},
+  {"year": 1763, "text": "panství přechází na hrabata Berchtoldy z Uherčic, kteří na hradě zřídili přírodovědné a historické muzeum"},
+  {"year": 1945, "text": "hrad přechází do vlastnictví československého státu; dnes je národní kulturní památkou ve správě NPÚ"}
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Buchlov",
+  "https://de.wikipedia.org/wiki/Burg_Buchlov"
+ ]
+}

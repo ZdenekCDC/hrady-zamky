@@ -1,0 +1,40 @@
+{
+ "id": "Q1013033",
+ "name": "Lukov",
+ "founded": {
+  "year": 1230,
+  "approx": true,
+  "text": "Doba vzniku ani zakladatel nejsou známi; nejstarší části hradu podle použité techniky zdění pocházejí z druhé čtvrtiny 13. století, první zmínky o markrabském hradě jsou z let 1219 a 1235."
+ },
+ "summary": "Hrad Lukov byl založen jako zeměpanský (markrabský) hrad nejspíše ve druhé čtvrtině 13. století. Od 14. do počátku 16. století jej v mnoha generacích drželi páni ze Šternberka a Lukova, s krátkým výkupem do korunního majetku Karlem IV. kolem roku 1342. Roku 1511 přešel na pány z Kunštátu, 1547 na Nekše z Landeka a sňatkem s poslední z rodu roku 1609 na Albrechta z Valdštejna; roku 1724 jej koupil hrabě ze Seilern-Aspangu, který přemístil správu panství do vsi, a hrad od konce 18. století chátral až zpustl.",
+ "owners": [
+  {"owner": "koruna", "owner_wiki": null, "person": "moravský markrabě", "from": 1230, "to": 1332, "from_approx": true, "to_approx": true, "how": "zalozeni", "note": "zeměpanský hrad, první zmínky 1219 a 1235 (dle článku o obci Lukov); do zástavy Šternberkům se dostal nejpozději před rokem 1332"},
+  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": "Zdeslav ze Šternberka, po jeho smrti vdova Markéta", "from": null, "to": 1342, "from_approx": true, "to_approx": false, "how": "lenni", "note": "první věrohodná písemná zmínka o hradu je z roku 1332 (listina vdovy Markéty); hrad držen v zástavě"},
+  {"owner": "koruna", "owner_wiki": null, "person": "Karel IV.", "from": 1342, "to": 1342, "from_approx": true, "to_approx": true, "how": "koupe", "note": "Karel IV. hrad vykoupil ze zástavy zpět do korunního majetku a krátce poté (po 1342) jej prodal Matoušovi ze Šternberka"},
+  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": "Matouš ze Šternberka", "from": 1342, "to": null, "from_approx": false, "to_approx": true, "how": "koupe"},
+  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": "Zdeněk a Ješek ze Šternberka", "from": null, "to": 1409, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "synové Matouše ze Šternberka"},
+  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": "Albrecht ze Šternberka a Lukova", "from": 1409, "to": 1425, "from_approx": false, "to_approx": true, "how": "neznamo", "note": "syn Zdeňka; roku 1409 si musel na strýci vojenskou silou vydobýt právo na užívání poloviny Lukova"},
+  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": "Jiřík a Lacek ze Šternberka a Lukova", "from": 1425, "to": null, "from_approx": false, "to_approx": true, "how": "neznamo", "note": "postoupili příbuznému Albrechtovi ze Šternberka a Holešova polovinu Holešova"},
+  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": "Albrecht starší ze Šternberka a Lukova", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "vymena", "note": "Lackův syn; vyměnil Lukov za Holešov se svým prastrýcem Matoušem ze Šternberka a Holešova"},
+  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": "Matouš ze Šternberka a Holešova", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "vymena"},
+  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": "Albrecht mladší ze Šternberka a Lukova", "from": null, "to": 1500, "from_approx": true, "to_approx": true, "how": "dedictvi", "note": "syn Matouše; opravoval hrad poničený za česko-uherských válek (1468-1478); zemřel bez mužského potomka, dědila jeho dcera Ludmila"},
+  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": "Ludmila ze Šternberka a Lukova", "from": 1500, "to": 1511, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "zasnoubila se se Smilem Kunou z Kunštátu, zásnuby později zrušila, ale majetek přesto připadl rodu pánů z Kunštátu"},
+  {"owner": "pani-z-kunstatu-a-podebrad", "owner_wiki": "Páni z Kunštátu a Poděbrad", "person": "Jan Kuna z Kunštátu", "from": 1511, "to": 1547, "from_approx": false, "to_approx": false, "how": "jine", "note": "majetkovými převody uvnitř rodu se dostal do rukou Jana Kuny z Kunštátu, jehož synové Lukov roku 1547 prodali"},
+  {"owner": "neksove-z-landeka", "owner_wiki": "Nekšové z Landeka", "person": "rod Nekšů z Landeka, naposledy Lukrécie Nekšovna z Landeka", "from": 1547, "to": 1609, "from_approx": false, "to_approx": false, "how": "koupe"},
+  {"owner": "valdstejnove", "owner_wiki": "Valdštejnové", "person": "Albrecht z Valdštejna", "from": 1609, "to": 1724, "from_approx": false, "to_approx": false, "how": "snatek", "note": "panství vyženil sňatkem s Lukrécií Nekšovnou z Landeka po jejím ovdovění; za třicetileté války hrad obsadili vzbouření Valaši i Švédové, kteří jej při odchodu vypálili"},
+  {"owner": "seilern-und-aspang", "owner_wiki": "Seilern und Aspang", "person": "Jan Fridrich ze Seilern-Aspangu", "from": 1724, "to": null, "from_approx": false, "to_approx": true, "how": "koupe", "note": "přemístil vrchnostenské kanceláře z chátrajícího hradu do vsi; od roku 1793 hrad neobydlen, 1804 uváděn jako zřícenina; další osudy vlastnictví panství nejsou v dostupných zdrojích popsány"}
+ ],
+ "events": [
+  {"year": 1332, "text": "první věrohodná písemná zmínka o hradu (listina vdovy Markéty po Zdeslavu ze Šternberka)"},
+  {"year": 1342, "text": "Karel IV. hrad vykoupil ze zástavy a poté jej prodal Matoušovi ze Šternberka"},
+  {"year": 1469, "text": "hrad patrně dobylo vojsko Matyáše Korvína za česko-uherských válek"},
+  {"year": 1511, "text": "Lukov připadl rodu pánů z Kunštátu"},
+  {"year": 1609, "text": "Albrecht z Valdštejna vyženil panství sňatkem s Lukrécií Nekšovnou z Landeka"},
+  {"year": 1724, "text": "panství koupil hrabě Jan Fridrich ze Seilern-Aspangu a přesídlil správu do vsi"},
+  {"year": 1804, "text": "hrad je poprvé uváděn jako zřícenina"}
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Lukov_(hrad)",
+  "https://cs.wikipedia.org/wiki/Lukov_(okres_Zlín)"
+ ]
+}

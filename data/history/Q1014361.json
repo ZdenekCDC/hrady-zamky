@@ -1,0 +1,142 @@
+{
+ "id": "Q1014361",
+ "name": "Valdštejn (hrad)",
+ "founded": {
+  "year": 1270,
+  "approx": true,
+  "text": "hrad postavila v letech 1260-1280 větev rodu Markvarticů (Jaroslav z Hruštice/Lemberka, případně jeho syn Zdeněk), kteří se podle sídla začali psát páni z Valdštejna"
+ },
+ "summary": "Hrad Valdštejn v Českém ráji postavila v letech 1260-1280 větev rodu Markvarticů, po níž se tento rod začal nazývat páni z Valdštejna (Valdštejnové); drželi jej asi sto let. Koncem 14. století sídlo získali příbuzní Vartenberkové, roku 1424 jej dobyl Jan Žižka, poté se vystřídali další drobní držitelé (Šofové z Helfenburka, od 1514 Smiřičtí ze Smiřic) a kolem roku 1550 hrad vyhořel a zpustl. Od roku 1620 patřilo panství opět rodu Valdštejnů, po nich v letech 1821-1945 Aehrenthalům, kteří ze zříceniny vybudovali romantické poutní místo. Dnes je hrad v držení města Turnova a slouží mimo jiné jako horolezecké centrum.",
+ "owners": [
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Jaroslav z Hruštice (z Lemberka)",
+   "from": 1270,
+   "to": 1390,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "zalozeni",
+   "note": "větev Markvarticů; drželi hrad asi 100 let (mj. Zdeněk, Hynek a Jan z Valdštejna)"
+  },
+  {
+   "owner": "vartenberkove",
+   "owner_wiki": "Vartenberkové",
+   "person": "Jindřich z Vartenberka",
+   "from": 1390,
+   "to": 1424,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "další větev Markvarticů; roku 1424 hrad dobyl Jan Žižka z Trocnova"
+  },
+  {
+   "owner": "valecovsti-z-valecova",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1424,
+   "to": 1438,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "jine",
+   "note": "Žižka po dobytí svěřil hrad svému příteli, pánu z Valečova; 1427 zde rok vězněn Zikmund Korybutovič"
+  },
+  {
+   "owner": "neznamo",
+   "person": null,
+   "from": 1438,
+   "to": 1440,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "hradu se zmocnily tlupy loupežníků, roku 1440 jej dobyla zemská hotovost"
+  },
+  {
+   "owner": "sofove-z-helfenburka",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1440,
+   "to": 1514,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "přesné okolnosti nabytí nejsou v pramenech uvedeny"
+  },
+  {
+   "owner": "smirsti-ze-smiric",
+   "owner_wiki": "Smiřičtí ze Smiřic",
+   "person": null,
+   "from": 1514,
+   "to": 1550,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "kolem roku 1550 hrad při požáru lehl popelem a zpustl"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": null,
+   "from": 1620,
+   "to": 1821,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "panství se vrátilo rodu Valdštejnů; ze zříceniny budovali romantické poutní místo (schody 1713, kaple sv. Jana Nepomuckého 1722, kaplička sv. Jana Křtitele 1817)"
+  },
+  {
+   "owner": "lexove-z-aehrenthalu",
+   "owner_wiki": "Lexové z Aehrenthalu",
+   "person": null,
+   "from": 1821,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "pokračovali v úpravě poutního místa (vstupní brána 1836); přesné okolnosti nabytí a ztráty majetku nejsou v článku uvedeny"
+  },
+  {
+   "owner": "mesto",
+   "person": null,
+   "from": 1945,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "dnes je zřícenina v držení města Turnova; přesné datum a okolnosti přechodu z majetku Aehrenthalů nejsou v článku uvedeny"
+  }
+ ],
+ "events": [
+  {
+   "year": 1424,
+   "text": "Jan Žižka z Trocnova dobývá hrad Valdštejn"
+  },
+  {
+   "year": 1427,
+   "text": "na hradě rok vězněn Zikmund Korybutovič"
+  },
+  {
+   "year": 1440,
+   "text": "zemská hotovost dobývá hrad obsazený loupežníky"
+  },
+  {
+   "year": 1550,
+   "text": "požár ničí hrad, který se mění ve zříceninu"
+  },
+  {
+   "year": 1713,
+   "text": "vznikají kamenné schody v rámci budování poutního místa"
+  },
+  {
+   "year": 1722,
+   "text": "vybudována kaple sv. Jana Nepomuckého na prvním nádvoří"
+  },
+  {
+   "year": 1949,
+   "text": "končí nájem restaurace rodinou Čihulkových, hrad přechází pod sokolské družstvo Vzlet"
+  }
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Valdštejn_(hrad)"
+ ]
+}

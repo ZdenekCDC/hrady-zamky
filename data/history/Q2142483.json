@@ -1,0 +1,212 @@
+{
+ "id": "Q2142483",
+ "name": "Hluboká nad Vltavou",
+ "founded": {
+  "year": 1250,
+  "approx": true,
+  "text": "13. stol. - založení hradu Fronburg, zakladatelem pravděpodobně český král Václav I."
+ },
+ "summary": "Hrad Fronburg (dnešní Hluboká) byl po většinu středověku majetkem české koruny, často zastavovaným různým šlechticům a i české královně Johance z Rožmitálu. Od roku 1490 patřil postupně Pernštejnům, pánům z Hradce, Malovcům z Malovic a po pobělohorské konfiskaci Baltasaru Marradasovi. Od roku 1661 byl přes tři století sídlem jihočeské větve Schwarzenbergů, kteří zámek v 19. století přestavěli v novogotickém stylu podle vzoru anglického Windsoru. V roce 1947 byl majetek Schwarzenbergů zkonfiskován (tzv. Lex Schwarzenberg) a zámek přešel do vlastnictví státu, který jej spravuje dodnes.",
+ "owners": [
+  {
+   "owner": "koruna",
+   "from": 1250,
+   "to": 1260,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "zalozeni",
+   "note": "hrad Fronburg založil pravděpodobně král Václav I."
+  },
+  {
+   "owner": "z-budivojovic",
+   "owner_wiki": null,
+   "person": "Čéč z Budivojovic",
+   "from": 1260,
+   "to": 1278,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "lenni",
+   "note": "hrad dán do zástavy Václavem I., odebrán Přemyslem Otakarem II. a začleněn zpět mezi královské hrady"
+  },
+  {
+   "owner": "koruna",
+   "from": 1278,
+   "to": 1280,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "jine"
+  },
+  {
+   "owner": "pani-z-krumlova",
+   "owner_wiki": "Páni z Krumlova",
+   "person": "Vítek z Krumlova",
+   "from": 1280,
+   "to": 1290,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "původně purkrabí, později držitel hradu; po popravě jeho bratra Záviše z Falkenštejna 1290 se hrad vrátil královské komoře"
+  },
+  {
+   "owner": "koruna",
+   "from": 1290,
+   "to": 1420,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "konfiskace"
+  },
+  {
+   "owner": "chudi-z-ujezda",
+   "owner_wiki": null,
+   "person": "Mikuláš Chudý z Újezda",
+   "from": 1420,
+   "to": 1454,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "hrad se vsí zastavil císař Zikmund Lucemburský"
+  },
+  {
+   "owner": "koruna",
+   "person": "Johanka z Rožmitálu",
+   "from": 1454,
+   "to": 1475,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dar",
+   "note": "Jiří z Poděbrad hrad vykoupil a zapsal jako věno své druhé ženě Johance z Rožmitálu, kterou od 1458 držela jako česká královna; v letech 1471-1473 hrad dočasně zabral Jindřich Roubík z Hlavatec a vrátil jej až po zaplacení válečných škod"
+  },
+  {
+   "owner": "pani-z-rozmitalu",
+   "owner_wiki": "Páni z Rožmitálu",
+   "person": "Jaroslav Lev z Rožmitálu a na Blatné",
+   "from": 1475,
+   "to": 1490,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "bratr královny Johanky"
+  },
+  {
+   "owner": "pernstejnove",
+   "owner_wiki": "Pernštejnové",
+   "person": "Vilém II. z Pernštejna",
+   "from": 1490,
+   "to": 1534,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "panství zastaveno Vladislavem Jagellonským; po Vilémovi drželi synové Vojtěch a Jan IV. z Pernštejna"
+  },
+  {
+   "owner": "ungnadove-z-weissenwolffu",
+   "owner_wiki": "Ungnadové z Weissenwolffu",
+   "person": "Ondřej Ungnad ze Suneku",
+   "from": 1534,
+   "to": 1561,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dar",
+   "note": "Jan IV. z Pernštejna panství postoupil svému švagrovi"
+  },
+  {
+   "owner": "koruna",
+   "from": 1561,
+   "to": 1562,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "královská komora vykoupila panství od Ungnadů"
+  },
+  {
+   "owner": "pani-z-hradce",
+   "owner_wiki": "Páni z Hradce",
+   "person": "Jáchym z Hradce",
+   "from": 1562,
+   "to": 1598,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe"
+  },
+  {
+   "owner": "malovcove-z-malovic",
+   "owner_wiki": "Malovcové z Malovic",
+   "person": "Bohuslav Malovec z Malovic",
+   "from": 1598,
+   "to": 1622,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "prodal zadlužený Jáchym Oldřich z Hradce; majetek Malovcům zkonfiskován za účast na stavovském povstání"
+  },
+  {
+   "owner": "marradasove",
+   "owner_wiki": null,
+   "person": "Baltasar Marradas",
+   "from": 1622,
+   "to": 1661,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dar",
+   "note": "španělský aristokrat a císařský polní maršál získal zkonfiskované panství; po jeho smrti 1638 zdědil synovec Francesco de Salant y Marradas"
+  },
+  {
+   "owner": "schwarzenbergove",
+   "owner_wiki": "Schwarzenbergové",
+   "person": "Jan Adolf I. ze Schwarzenbergu",
+   "from": 1661,
+   "to": 1947,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil od Bartoloměje, syna Francesca de Salant y Marradas; jihočeské sídlo rodu téměř tři století, posledním soukromým majitelem byl Adolf ze Schwarzenbergu (1890-1950), který 1939 emigroval"
+  },
+  {
+   "owner": "stat",
+   "from": 1947,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "konfiskace na základě zákona č. 143/1947 Sb. (tzv. Lex Schwarzenberg); dnes ve správě Národního památkového ústavu"
+  }
+ ],
+ "events": [
+  {
+   "year": 1250,
+   "text": "založení hradu Fronburg českým králem Václavem I.",
+   "approx": true
+  },
+  {
+   "year": 1290,
+   "text": "poprava Záviše z Falkenštejna, hrad se vrací královské komoře"
+  },
+  {
+   "year": 1490,
+   "text": "panství zastaveno Pernštejnům, rozvoj rybníkářství"
+  },
+  {
+   "year": 1598,
+   "text": "prodej zadluženými pány z Hradce Bohuslavu Malovcovi z Malovic"
+  },
+  {
+   "year": 1622,
+   "text": "pobělohorská konfiskace, panství získává Baltasar Marradas"
+  },
+  {
+   "year": 1661,
+   "text": "koupě Janem Adolfem I. ze Schwarzenbergu, počátek téměř třísetletého sídla rodu"
+  },
+  {
+   "year": 1841,
+   "text": "zahájení přestavby na novogotický zámek podle vzoru anglického Windsoru (dokončeno 1871)"
+  },
+  {
+   "year": 1947,
+   "text": "konfiskace majetku Schwarzenbergů (Lex Schwarzenberg), přechod do vlastnictví státu"
+  }
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Hluboká_nad_Vltavou_(zámek)"
+ ]
+}

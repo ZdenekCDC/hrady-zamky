@@ -1,0 +1,25 @@
+{
+ "id": "Q1014755",
+ "name": "Šternberk (hrad)",
+ "founded": {"year": 1260, "approx": true, "text": "Hrad založil po polovině 13. století Zdeslav ze Šternberka, odměněný titulem královského číšníka za zásluhy při odražení vpádu Kumánů roku 1253; první písemná zmínka je z roku 1269."},
+ "summary": "Hrad Šternberk založil po polovině 13. století Zdeslav ze Šternberka a rod Šternberků jej držel do konce 14. století, kdy jej za biskupa Albrechta Aleše ze Šternberka přestavěli na biskupskou rezidenci. Roku 1397 jej získal Petr z Kravař, od jehož rodu jej sňatkem vyženil Jan Berka z Dubé a Lipé, za nějž proběhla renesanční přestavba po požáru. Roku 1570 hrad sňatkem přešlo na slezská knížata z Minsterberka, kteří vymřeli v polovině 17. století, a na přelomu 17. a 18. století jej koupili Lichtenštejnové, kterým patřil až do zestátnění roku 1945.",
+ "owners": [
+  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": "Zdeslav ze Šternberka, poté Štěpán, Albrecht Aleš (litomyšlský biskup) a Petr ze Šternberka", "from": 1260, "to": 1397, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "za biskupa Albrechta Aleše (od 1357) přestavěn na biskupskou rezidenci s vyzdobenou kaplí ve stylu dvora Karla IV."},
+  {"owner": "pani-z-kravar", "owner_wiki": "Páni z Kravař", "person": "Petr z Kravař", "from": 1397, "to": null, "from_approx": false, "to_approx": true, "how": "koupe", "note": "roku 1430 hrad obsadili husité; přesný rok konce držby Kravařů cs.wiki neuvádí"},
+  {"owner": "berkove-z-dube", "owner_wiki": "Berkové z Dubé", "person": "Jan Berka z Dubé a Lipé", "from": null, "to": 1570, "from_approx": true, "to_approx": false, "how": "snatek", "note": "hrad od Kravařů vyženil; za jeho rodu proběhla po požáru renesanční přestavba s Vizitkovým sálem a hráňovými klenbami, vybudován i systém budov v podhradí"},
+  {"owner": "minsterberkove", "owner_wiki": "Minsterberkové", "person": "slezská knížata z Minsterberka, potomci Jiřího z Poděbrad", "from": 1570, "to": 1650, "from_approx": false, "to_approx": true, "how": "snatek", "note": "přestavěný hrad vyženili; za třicetileté války hrad značně utrpěl; rod vymřel v polovině 17. století"},
+  {"owner": "lichtenstejnove", "owner_wiki": "Lichtenštejnové", "person": "kníže Jan Adam Ondřej z Lichtenštejna", "from": 1700, "to": 1945, "from_approx": true, "to_approx": false, "how": "koupe", "note": "koupě na přelomu 17. a 18. století; hrad po roce 1886 regotizován podle projektu Karla Gandolpha Kaysera, 1907-1909 založen lesopark"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "zestátnění; dnes ve správě NPÚ, přístupný veřejnosti"}
+ ],
+ "events": [
+  {"year": 1253, "text": "Zdeslav ze Šternberka se zaslouží o odražení vpádu Kumánů a je odměněn zdejším okolím"},
+  {"year": 1269, "text": "první písemná zmínka o hradu"},
+  {"year": 1357, "text": "Albrecht Aleš ze Šternberka, litomyšlský biskup, přestavuje hrad na biskupskou rezidenci"},
+  {"year": 1430, "text": "hrad obsadili husité"},
+  {"year": 1570, "text": "hrad sňatkem přechází na slezská knížata z Minsterberka"},
+  {"year": 1945, "text": "hrad zestátněn"},
+  {"year": 1886, "text": "po roce 1886 regotizace hradu podle projektu Karla Gandolpha Kaysera"},
+  {"year": 2022, "text": "dokončena rozsáhlá rekonstrukce několika hradních částí včetně lesoparku (2019-2022)"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Šternberk_(hrad)"]
+}

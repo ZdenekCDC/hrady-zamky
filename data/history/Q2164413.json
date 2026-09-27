@@ -1,0 +1,43 @@
+{
+ "id": "Q2164413",
+ "name": "Veltrusy",
+ "founded": {
+  "year": 1706,
+  "approx": false,
+  "text": "Václav Antonín Chotek se rozhodl postavit zámek na ostrově nejspíše roku 1704, podle plánů Giovanniho Battisty Alliprandiho; výstavba začala 1706 a hrubá stavba byla dokončena v první polovině roku 1709."
+ },
+ "summary": "Vrcholně barokní zámek ve Veltrusích nechal od roku 1706 postavit Václav Antonín Chotek na pozemcích, které jeho manželka Marie Terezie ze Scheidleru zdědila roku 1698; plány navrhl Giovanni Battista Alliprandi, drobné úpravy provedl Jan Blažej Santini-Aichel. Zámek s rozsáhlým krajinářským parkem zůstal nepřetržitě v majetku Chotků z Chotkova až do roku 1945, kdy byl posledním majitelům Karlu Mariovi Chotkovi a jeho manželce Livii Mailáthové zkonfiskován na základě Benešových dekretů. Dnes jej spravuje Národní památkový ústav; po rozsáhlé rekonstrukci byl areál po 19 letech od uzavření znovu zpřístupněn veřejnosti v červenci 2021.",
+ "owners": [
+  {
+   "owner": "chotkove-z-chotkova",
+   "owner_wiki": "Chotkové z Chotkova",
+   "person": "Václav Antonín Chotek",
+   "from": 1706,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "pozemky zdědila 1698 jeho manželka Marie Terezie ze Scheidleru; zámek stavěn od 1706, rod jej vlastnil nepřetržitě do roku 1945; posledními soukromými majiteli byli Karel Maria Chotek (březenská větev) a jeho manželka Livie Mailáthová de Székhely"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "zkonfiskováno na základě Benešových dekretů, majitelé opustili Československo; dnes ve správě Národního památkového ústavu"
+  }
+ ],
+ "events": [
+  {"year": 1706, "text": "zahájena výstavba zámku podle plánů Giovanniho Battisty Alliprandiho"},
+  {"year": 1709, "text": "dokončena hrubá stavba, následovaly výzdobné práce (štuky Giovanni Domenico Spazio)"},
+  {"year": 1754, "text": "v zámeckých a parkových prostorách se koná první vzorkový veletrh na světě (Velký trh tovarů Království českého)"},
+  {"year": 1945, "text": "zámek zkonfiskován Chotkům na základě Benešových dekretů"},
+  {"year": 2002, "text": "srpnová povodeň zaplavila a poškodila velkou část parku a staveb"},
+  {"year": 2021, "text": "24. července kompletně otevřen obnovený areál po 19 letech od uzavření"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Veltrusy_(zámek)"]
+}

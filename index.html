@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="cs">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hrady a zámky ČR</title>
+<link rel="stylesheet" href="app/vendor/leaflet/leaflet.css">
+<link rel="stylesheet" href="app/style.css">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="#/">Hrady a zámky</a>
+  <nav class="tabs">
+    <a href="#/" data-view="map">Mapa</a>
+    <a href="#/rody" data-view="families">Rody</a>
+  </nav>
+  <div class="search">
+    <input id="search" type="search" placeholder="Hledat hrad, zámek, obec, rod…" autocomplete="off">
+    <ul id="search-results" hidden></ul>
+  </div>
+  <div id="stats" class="stats"></div>
+</header>
+
+<main>
+  <section id="view-map" class="view">
+    <div id="map"></div>
+    <aside id="sidebar">
+      <div id="panel-filters"></div>
+      <div id="panel-detail" hidden></div>
+    </aside>
+  </section>
+  <section id="view-families" class="view" hidden></section>
+</main>
+
+<div id="tooltip" role="tooltip" hidden></div>
+<script src="app/vendor/leaflet/leaflet.js"></script>
+<script type="module" src="app/main.js"></script>
+</body>
+</html>

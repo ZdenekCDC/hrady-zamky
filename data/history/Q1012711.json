@@ -1,0 +1,122 @@
+{
+ "id": "Q1012711",
+ "name": "Kokořín",
+ "founded": {
+  "year": 1320,
+  "approx": true,
+  "text": "Hrad byl postaven po roce 1320, pravděpodobně pražským purkrabím Hynkem Berkou z Dubé."
+ },
+ "summary": "Hrad Kokořín postavil po roce 1320 patrně Hynek Berka z Dubé; roku 1426 jej dobyla a poničila husitská vojska, poté se v 15. a 16. století vystřídalo více šlechtických majitelů (Jan Řitka z Bezdědic, páni z Klinštejna, Beřkovští ze Šebířova, Kaplířové ze Sulevic) a od roku 1544 je uváděn jako pustý, později zařazen mezi tzv. prokleté hrady, které se nesměly udržovat. Roku 1894 zříceninu koupil pražský podnikatel Václav Špaček, jehož syn Jan ji v letech 1911-1916 nechal novogoticky zrekonstruovat; roku 1951 byl hrad zestátněn (zkonfiskován) a roku 2006 navrácen rodině Špačků v restituci.",
+ "owners": [
+  {
+   "owner": "berkove-z-dube",
+   "owner_wiki": "Berkové z Dubé",
+   "person": "Hynek Berka z Dubé",
+   "from": 1320,
+   "to": 1426,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "pravděpodobný stavitel hradu; roku 1426 hrad dobyla a poničila husitská vojska (podle jiných zdrojů šlo jen o romantickou představu a zpustnutí způsobila nešťastná poloha hradu)"
+  },
+  {
+   "owner": "z-bezdedic",
+   "owner_wiki": null,
+   "person": "Jan Řitka z Bezdědic",
+   "from": null,
+   "to": null,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "jeden z majitelů po husitských válkách, 15. století; přesné pořadí a data cs.wiki neuvádí"
+  },
+  {
+   "owner": "pani-z-klinstejna",
+   "owner_wiki": "Páni z Klinštejna",
+   "person": null,
+   "from": null,
+   "to": null,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "jeden z majitelů po husitských válkách, 15. století; přesné pořadí a data cs.wiki neuvádí"
+  },
+  {
+   "owner": "berkovsti-ze-sebirova",
+   "owner_wiki": "Beřkovští ze Šebířova",
+   "person": null,
+   "from": null,
+   "to": null,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "jeden z majitelů v 16. století; přesné pořadí a data cs.wiki neuvádí"
+  },
+  {
+   "owner": "kaplirove-ze-sulevic",
+   "owner_wiki": "Kaplířové ze Sulevic",
+   "person": null,
+   "from": null,
+   "to": 1544,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "jeden z majitelů v 16. století; od roku 1544 je hrad uváděn jako pustý"
+  },
+  {
+   "owner": "neznamo",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1544,
+   "to": 1894,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "hrad uváděn jako pustý; císař Ferdinand II. jej zařadil mezi tzv. prokleté hrady, které se nesměly udržovat; přesní vlastníci mezi 1544 a 1894 nejsou v článku uvedeni"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Václav Špaček, poté syn Jan Špaček",
+   "from": 1894,
+   "to": 1951,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "pražský podnikatel koupil zříceninu, syn Jan ji nechal 1911-1916 novogoticky zrekonstruovat architektem Eduardem Sochorem"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1951,
+   "to": 2006,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "hrad zestátněn/zkonfiskován; roku 2001 se stal národní kulturní památkou, což ztížilo (ne však znemožnilo) pozdější restituci"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "rodina Špačků",
+   "from": 2006,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "restituce",
+   "note": "hrad navrácen potomkům Václava Špačka"
+  }
+ ],
+ "events": [
+  {"year": 1320, "text": "hrad postaven pravděpodobně Hynkem Berkou z Dubé"},
+  {"year": 1426, "text": "hrad dobyla a poničila husitská vojska"},
+  {"year": 1544, "text": "hrad od tohoto roku uváděn jako pustý"},
+  {"year": 1894, "text": "zříceninu kupuje pražský podnikatel Václav Špaček"},
+  {"year": 1916, "text": "dokončena novogotická rekonstrukce hradu podle plánů architekta Eduarda Sochora"},
+  {"year": 1951, "text": "hrad zestátněn (zkonfiskován)"},
+  {"year": 2001, "text": "hrad se stává národní kulturní památkou"},
+  {"year": 2006, "text": "hrad navrácen rodině Špačků v restituci"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Kokořín_(hrad)"]
+}

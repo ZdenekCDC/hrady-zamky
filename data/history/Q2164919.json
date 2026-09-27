@@ -1,0 +1,119 @@
+{
+ "id": "Q2164919",
+ "name": "Český Krumlov",
+ "founded": {
+  "year": 1220,
+  "approx": true,
+  "text": "Hrad založen v první třetině 13. století pány z Krumlova (krumlovská větev Vítkovců); první spolehlivá písemná zmínka je z 1. dubna 1253 v přídomku Vítka z Krumlova. Za zakladatele bývá považován Vítek I. z Krumlova, jeho otec Záviš z Nechanic nebo děd Vítek II. starší z Krumlova."
+ },
+ "summary": "Hrad založili ve 13. století páni z Krumlova, po jejichž vymření roku 1302 jej zdědili Rožmberkové, kteří z něj učinili hlavní rodové sídlo a renesančně jej přestavěli. Zadlužený Petr Vok z Rožmberka prodal panství v letech 1601/1602 císaři Rudolfovi II. a Krumlov se stal komorním panstvím, až jej Ferdinand II. roku 1622 daroval Eggenberkům. Od roku 1719 patřil Schwarzenberkům, roku 1947 byl na základě tzv. Lex Schwarzenberg převeden na zemi Českou a od roku 1950 je ve vlastnictví státu, který jej spravuje prostřednictvím Národního památkového ústavu.",
+ "owners": [
+  {
+   "owner": "pani-z-krumlova",
+   "owner_wiki": "Páni z Krumlova",
+   "person": null,
+   "from": 1220,
+   "to": 1302,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "Krumlovská větev Vítkovců; zakladatelem snad Vítek I. z Krumlova, Záviš z Nechanic nebo Vítek II. starší z Krumlova."
+  },
+  {
+   "owner": "rozmberkove",
+   "owner_wiki": "Rožmberkové",
+   "person": "Jindřich I. z Rožmberka",
+   "from": 1302,
+   "to": 1602,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "Zdědil po vymření krumlovské větve Vítkovců a přesídlil sem; posledním rožmberským majitelem byl Petr Vok, který Krumlov definitivně opustil 3. dubna 1602."
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Rudolf II.",
+   "from": 1602,
+   "to": 1622,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Prodej realizován 1601/1602 za 422 000 kop míšeňských grošů; komorní (zeměpanské) panství, nikoli soukromý majetek Habsburků. V letech 1606-1609 zde pobýval císařův nemanželský syn Julius Caesar d'Austria (Julio Caesar)."
+  },
+  {
+   "owner": "eggenbergove",
+   "owner_wiki": "Eggenbergové",
+   "person": "Jan Oldřich z Eggenbergu",
+   "from": 1622,
+   "to": 1719,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dar",
+   "note": "Dar císaře Ferdinanda II. za služby; 1628 povýšeno na krumlovské vévodství. Mužská linie Eggenberků vymřela 1717, Schwarzenbergové převzali panství dědictvím 1719."
+  },
+  {
+   "owner": "schwarzenbergove",
+   "owner_wiki": "Schwarzenbergové",
+   "person": "Adam František ze Schwarzenbergu",
+   "from": 1719,
+   "to": 1947,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "Od 1871 sídlili Schwarzenbergové na Hluboké; pozemková reforma zabrala panství Český Krumlov už v letech 1921-1923 (zbytkové statky rozprodány)."
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1947,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "1947 převod na zemi Českou (tzv. Lex Schwarzenberg), od 1950 majetek Československého státu; dnes Česká republika, správa Národní památkový ústav."
+  }
+ ],
+ "events": [
+  {
+   "year": 1253,
+   "text": "První spolehlivá písemná zmínka o hradu (přídomek Vítka z Krumlova na listině Přemysla Otakara II.)."
+  },
+  {
+   "year": 1302,
+   "text": "Po vymření krumlovské větve Vítkovců přešel hrad na Rožmberky; Jindřich I. z Rožmberka rozšířil Dolní hrad."
+  },
+  {
+   "year": 1347,
+   "text": "V první polovině 14. století dal Petr I. z Rožmberka († 1347) postavit Horní hrad."
+  },
+  {
+   "year": 1602,
+   "text": "Petr Vok z Rožmberka prodal Krumlov císaři Rudolfovi II. a přesídlil do Třeboně."
+  },
+  {
+   "year": 1622,
+   "text": "Ferdinand II. daroval Krumlov Eggenberkům; následovaly barokní přestavby a roku 1680 první dřevěné divadlo."
+  },
+  {
+   "year": 1766,
+   "text": "V letech 1766-1767 vzniklo barokní zámecké divadlo (Plášťový most z roku 1764)."
+  },
+  {
+   "year": 1989,
+   "text": "Zámecký areál prohlášen národní kulturní památkou."
+  },
+  {
+   "year": 1992,
+   "text": "Zápis na seznam světového dědictví UNESCO spolu s historickým centrem města."
+  }
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Český_Krumlov_(hrad_a_zámek)",
+  "https://cs.wikipedia.org/wiki/Petr_Vok_z_Rožmberka",
+  "https://cs.wikipedia.org/wiki/Julio_Caesar",
+  "https://cs.wikipedia.org/wiki/Krumlovské_vévodství",
+  "https://en.wikipedia.org/wiki/Český_Krumlov_Castle"
+ ]
+}

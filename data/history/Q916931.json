@@ -1,0 +1,27 @@
+{
+ "id": "Q916931",
+ "name": "Cimburk (hrad, okres Kroměříž)",
+ "founded": {"year": 1330, "approx": true, "text": "Hrad dal v letech 1327-1333 postavit Bernard z Cimburka, který na něj roku 1348 přesídlil z původního hradu Cimburk v okrese Svitavy."},
+ "summary": "Hrad Cimburk u Koryčan postavil ve 20.-30. letech 14. století Bernard z Cimburka. Roku 1358 jej koupil moravský markrabě Jan Jindřich, poté byl několikrát zastavován (Zikmund z Letovic, Čeněk z Drahotuš, Vokové z Holštejna, Štěpán ze Zdounek a Vartnova) a za česko-uherských válek jej dobyl uherský král Matyáš Korvín. Po dalších neurčených vlastnických přesunech jej roku 1523 koupil Vilém z Víckova, později patřil Horeckým, a od počátku 18. století, kdy pominulo nebezpečí tureckého vpádu, byl opuštěn a chátral. Od roku 1994 o záchranu zříceniny pečuje občanské sdružení Polypeje.",
+ "owners": [
+  {"owner": "pani-z-cimburka", "owner_wiki": "Páni z Cimburka", "person": "Bernard z Cimburka", "from": 1327, "to": 1358, "from_approx": false, "to_approx": false, "how": "zalozeni", "note": "postavil hrad 1327-1333 a roku 1348 na něj přesídlil z původního Cimburku (okres Svitavy)"},
+  {"owner": "koruna", "owner_wiki": null, "person": "Jan Jindřich, markrabě moravský", "from": 1358, "to": 1375, "from_approx": false, "to_approx": false, "how": "koupe"},
+  {"owner": "z-letovic", "owner_wiki": null, "person": "Zikmund z Letovic", "from": 1375, "to": 1398, "from_approx": false, "to_approx": false, "how": "lenni", "note": "hrad mu byl zastaven markrabětem"},
+  {"owner": "z-drahotus", "owner_wiki": null, "person": "Čeněk z Drahotuš, poté jeho dcery zvané \"panny cimburské\"", "from": 1398, "to": 1407, "from_approx": false, "to_approx": false, "how": "lenni", "note": "investoval do obrany hradu; dcery po něm zvýšily severní zeď paláce a vybudovaly nový parkán"},
+  {"owner": "pani-z-holstejna", "owner_wiki": "Páni z Holštejna", "person": "Vok IV. a Vok V. z Holštejna", "from": 1407, "to": 1429, "from_approx": false, "to_approx": false, "how": "jine", "note": "Vok IV. jako další zástavní držitel hrad roku 1407 přepadl a násilím obsadil; Vok V. jej 1429 přenechal příbuznému"},
+  {"owner": "z-zdounek", "owner_wiki": null, "person": "Štěpán ze Zdounek a Vartnova", "from": 1429, "to": 1470, "from_approx": false, "to_approx": true, "how": "dar", "note": "za česko-uherských válek hrad dobyl uherský král Matyáš Korvín; přesný rok cs.wiki neuvádí"},
+  {"owner": "koruna", "owner_wiki": null, "person": "Matyáš Korvín, uherský král", "from": 1470, "to": 1523, "from_approx": true, "to_approx": false, "how": "konfiskace", "note": "po dobytí následovalo několik blíže neurčených vlastnických přesunů až do prodeje roku 1523"},
+  {"owner": "prusinovsti-z-vickova", "owner_wiki": "Prusinovští z Víckova", "person": "Vilém z Víckova", "from": 1523, "to": null, "from_approx": false, "to_approx": true, "how": "koupe", "note": "po česko-uherských válkách doplnil předhradí o bašty a přesunul vstup na severní stranu"},
+  {"owner": "horecti", "owner_wiki": null, "person": "František Horecký", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "kolem roku 1661 nechal snížit hlavní věž a upravit okna; cs.wiki neuvádí přesná léta jeho držby ani jak k hradu přišel"},
+  {"owner": "neznamo", "owner_wiki": null, "person": null, "from": 1700, "to": null, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "od počátku 18. století, kdy pominulo nebezpečí tureckého vpádu, byl hrad opuštěn a chátral; další majitelé nejsou v cs.wiki uvedeni; od 1994 o obnovu pečuje občanské sdružení Polypeje"}
+ ],
+ "events": [
+  {"year": 1348, "text": "Bernard z Cimburka přesídluje z původního hradu Cimburk (okres Svitavy) na nově postavený hrad"},
+  {"year": 1407, "text": "Vok IV. z Holštejna hrad jako zástavní držitel přepadl a obsadil"},
+  {"year": 1523, "text": "hrad koupil Vilém z Víckova"},
+  {"year": 1661, "text": "František Horecký nechává snížit hlavní věž a upravit okna"},
+  {"year": 1930, "text": "první záchranné práce - opravy hradeb a portálů"},
+  {"year": 1994, "text": "obnovu hradu přebírá občanské sdružení Polypeje"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Cimburk_(hrad,_okres_Kroměříž)"]
+}

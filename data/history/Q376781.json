@@ -1,0 +1,28 @@
+{
+ "id": "Q376781",
+ "name": "Tolštejn",
+ "founded": {"year": 1300, "approx": true, "text": "Gotický hrad byl postaven začátkem 14. století, nejstaršími doloženými majiteli byli Vartenberkové (první písemná zmínka 1337, prvním doloženým vlastníkem Vaněk z Vartenberka)."},
+ "summary": "Hrad Tolštejn na Šluknovsku postavili počátkem 14. století Vartenberkové, po nich jej od počátku 15. století drželi Berkové z Dubé, po jejich konfiskaci roku 1464 opět Vartenberkové a od roku 1471 saští vévodové Wettinové, kteří jej roku 1485 prodali Šlejnicům. Po Šlejnicích, Mehlech ze Střelic a Vchynských z Vchynic a Tetova (rod Kinských) hrad za třicetileté války roku 1642 vypálili Švédové a od té doby zůstal zříceninou. Od roku 1681 patřil Lichtenštejnům, kteří jej roku 1923 prodali československému státu; dnes je volně přístupnou zříceninou.",
+ "owners": [
+  {"owner": "vartenberkove", "owner_wiki": "Vartenberkové", "person": "Vaněk z Vartenberka", "from": 1300, "to": 1404, "from_approx": true, "to_approx": true, "how": "zalozeni", "note": "první písemná zmínka 1337 (nedoložený Bohuslav z Vartenberka); prvním doloženým vlastníkem byl Vaněk z Vartenberka, po jeho smrti 1364 drželi hrad synové a vnukové, naposledy Václav řečený z Tolštejna, zemřelý před květnem 1404"},
+  {"owner": "berkove-z-dube", "owner_wiki": "Berkové z Dubé", "person": "Hynek Berka z Dubé a jeho synové, naposledy Albrecht Berka z Dubé", "from": 1404, "to": 1464, "from_approx": false, "to_approx": false, "how": "koupe", "note": "hrad rozdělen mezi syny Hynka Berky po roce 1417, Tolštejn připadl Janu mladšímu, po jeho smrti 1426 bratřím; král Jiří z Poděbrad dal 12. června 1464 Tolštejn Albrechtu Berkovi zkonfiskovat pro urážku královské důstojnosti"},
+  {"owner": "vartenberkove", "owner_wiki": "Vartenberkové", "person": "Jan z Vartenberka, poté synové Jindřich a Zikmund a Kryštof z Vartenberka", "from": 1464, "to": 1471, "from_approx": false, "to_approx": false, "how": "dar", "note": "král zkonfiskovaný Tolštejn daroval Janovi z Vartenberka; Kryštof z Vartenberka jej pro dluhy z válek a cestování prodal"},
+  {"owner": "wettinove", "owner_wiki": "Wettinové", "person": "saští vévodové Arnošt a Albrecht", "from": 1471, "to": 1485, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupili Tolštejn a Šluknov za 8300 grošů; roku 1475 je pronajali hejtmanovi Oldřichovi z Rechtenberka, roku 1485 prodali Hugoltovi ze Šlejnic"},
+  {"owner": "slejnicove", "owner_wiki": "Šlejnicové", "person": "Hugolt ze Šlejnic a potomci, naposledy bratři Kryštof a Hanuš ze Šlejnic", "from": 1485, "to": 1586, "from_approx": false, "to_approx": false, "how": "koupe", "note": "roku 1558 vyňat z manství jako zpupné statek; po smrti Hugoltova syna Jindřicha (1518) rozdělen mezi vnuky, později opět scelen; roku 1586 bratři panství s Tolštejnem prodali"},
+  {"owner": "z-strelic", "owner_wiki": null, "person": "Dr. Jiří Mehl ze Střelic, poté syn Baltazar Mehl ze Střelic", "from": 1586, "to": 1600, "from_approx": false, "to_approx": true, "how": "koupe", "note": "vicekancléř dvora Rudolfa II.; za Baltazarova zadlužení hrad zpustl, přesný rok dalšího prodeje cs.wiki neuvádí (roku 1607 už uváděn jako pustý)"},
+  {"owner": "kinsti", "owner_wiki": "Kinští", "person": "Radslav ze Vchynic a Tetova", "from": 1600, "to": 1681, "from_approx": true, "to_approx": false, "how": "koupe", "note": "koupil zpustlý hrad za 3000 kop jako součást rumburského panství; roku 1642 za třicetileté války jej při obléhání švédským generálem Wrangelem vypálila císařská posádka, od té doby je zříceninou; přesný okamžik dalšího prodeje Lichtenštejnům cs.wiki neuvádí"},
+  {"owner": "lichtenstejnove", "owner_wiki": "Lichtenštejnové", "person": "kníže Florian z Lichtenštejna a nástupci (Josef Václav, František, Alois, Alois Johann)", "from": 1681, "to": 1923, "from_approx": false, "to_approx": false, "how": "koupe", "note": "za jejich držby se na zřícenině usadili loupeživí rytíři (18. stol.), roku 1782-1804 obnovena a znovu zastavena těžba stříbra v Jiřetíně; Alois z Lichtenštejna zakázal rozebírání hradu na stavební materiál"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1923, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupě od Lichtenštejnů; dnes chráněná kulturní památka, volně přístupná zřícenina"}
+ ],
+ "events": [
+  {"year": 1337, "text": "první písemná zmínka o hradu, vojska lužického Šestiměstí jej dobyla a zničila kvůli loupežím purkrabího"},
+  {"year": 1404, "text": "hrad koupil Hynek Berka z Dubé"},
+  {"year": 1464, "text": "král Jiří z Poděbrad nechal Tolštejn zkonfiskovat Albrechtu Berkovi a daroval jej Janovi z Vartenberka"},
+  {"year": 1471, "text": "Kryštof z Vartenberka prodal Tolštejn saským vévodům Arnoštovi a Albrechtovi"},
+  {"year": 1485, "text": "saští vévodové prodali hrad Hugoltovi ze Šlejnic"},
+  {"year": 1558, "text": "král Ferdinand I. vyňal Tolštejn z manství jako zpupný statek"},
+  {"year": 1642, "text": "za třicetileté války hrad při obléhání švédským generálem Wrangelem vyhořel a stal se zříceninou"},
+  {"year": 1923, "text": "Lichtenštejnové prodali Tolštejn československému státu"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Tolštejn"]
+}

@@ -1,0 +1,21 @@
+{
+ "id": "Q193369",
+ "name": "Pražský hrad",
+ "founded": {"year": 870, "approx": true, "text": "9. století - opevněné přemyslovské hradiště, nejstarší doložená stavba (kostel Panny Marie) po roce 885"},
+ "summary": "Pražský hrad byl od 9. století sídlem českých knížat a králů a příležitostně i císařů Svaté říše římské, postupně přestavovaným z raně středověkého hradiště na rozsáhlý komplex paláců a katedrálu sv. Víta. Po vzniku Československa v roce 1918 se stal sídlem prezidenta republiky a tuto funkci si podržel dodnes. V zadání se u Pražského hradu sleduje pouze úroveň koruna/stát, bez detailu jednotlivých panovnických rodů, které se na trůnu vystřídaly (Přemyslovci, Lucemburkové, Jagellonci, Habsburkové).",
+ "owners": [
+  {"owner": "koruna", "owner_wiki": null, "person": null, "from": 870, "to": 1918, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "zeměpanský majetek českého knížectví a království; postupně Přemyslovci, Lucemburkové, Jagellonci, Habsburkové a Habsbursko-lotrinská dynastie"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1918, "to": null, "from_approx": false, "to_approx": false, "how": "jine", "note": "sídlo prezidenta Československé republiky, od 1993 České republiky; dílčí objekty (katedrála sv. Víta, arcibiskupský palác) spravují církevní subjekty"}
+ ],
+ "events": [
+  {"year": 885, "text": "kníže Bořivoj I. nechal postavit kostel Panny Marie, nejstarší doloženou stavbu na hradě", "approx": true},
+  {"year": 973, "text": "založení pražského biskupství, rotunda sv. Víta se stává biskupským kostelem"},
+  {"year": 1135, "text": "kníže Soběslav I. zahájil přestavbu hradiště na kamenný hrad"},
+  {"year": 1344, "text": "položen základní kámen katedrály svatého Víta"},
+  {"year": 1541, "text": "ničivý požár Malé Strany a Hradčan poškodil hrad i katedrálu"},
+  {"year": 1583, "text": "Rudolf II. učinil z Pražského hradu svou trvalou rezidenci"},
+  {"year": 1918, "text": "hrad se stal sídlem prezidenta Československé republiky"},
+  {"year": 1929, "text": "dokončení katedrály svatého Víta"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Pražský_hrad"]
+}

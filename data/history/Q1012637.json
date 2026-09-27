@@ -1,0 +1,31 @@
+{
+ "id": "Q1012637",
+ "name": "Kašperk",
+ "founded": {"year": 1356, "approx": false, "text": "hrad založil roku 1356 jako pohraniční pevnost Karel IV., stavbu vedl Vít Hedvábný, dokončena 1361, původně nazván Karlsberg"},
+ "summary": "Hrad Kašperk založil roku 1356 Karel IV. jako pohraniční pevnost chránící hornické podnikání a obchodní cestu do Pasova. V královské správě zůstal jen do roku 1365, poté byl téměř po celou dobu existence zastavován řadě šlechticů a věřitelů (Jan Očko z Vlašimi, Petr Zmrzlík ze Svojšína, Šternberkové, Švamberkové, Jiří z Lokšan, Kinští ze Vchynic aj.). Ve druhé polovině 16. století panství postupně rozprodáno a hrad připadl české komoře, od roku 1617 jej vlastnilo město Kašperské Hory. Za třicetileté války byl určen k demolici, k té sice nedošlo, ale hrad chátral a stal se zdrojem stavebního materiálu, čímž se změnil ve zříceninu. Dnes je chráněnou kulturní památkou přístupnou veřejnosti.",
+ "owners": [
+  {"owner": "koruna", "person": "Karel IV.", "from": 1356, "to": 1365, "from_approx": false, "to_approx": false, "how": "zalozeni", "note": "hrad postavil stavitel Vít Hedvábný, dokončen 1361 jako Karlsberg"},
+  {"owner": "soukromnik", "person": "Jan Očko z Vlašimi", "from": 1365, "to": 1402, "from_approx": false, "to_approx": false, "how": "lenni", "note": "zástava do jeho smrti; nesídlil na hradě, spravovali jej jím dosazení purkrabí"},
+  {"owner": "soukromnik", "person": "Habart z Hartenberka", "from": 1402, "to": 1411, "from_approx": false, "to_approx": false, "how": "lenni", "note": "koupě zástavy od Jana z Leuchtenberka; roku 1411 zástavu vyplatil Petr Zmrzlík ze Svojšína"},
+  {"owner": "soukromnik", "person": "Petr Zmrzlík ze Svojšína (starší a mladší)", "from": 1411, "to": 1454, "from_approx": false, "to_approx": false, "how": "lenni", "note": "za husitských válek na husitské straně; hrad prodán 1454 Zdeňkovi Konopišťskému ze Šternberka"},
+  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": "Zdeněk Konopišťský ze Šternberka", "from": 1454, "to": 1487, "from_approx": false, "to_approx": false, "how": "koupe", "note": "po jeho smrti hrad zdědil syn Zdislav ze Šternberka, který jej 1487 prodal Bohuslavovi ze Švamberka"},
+  {"owner": "pani-ze-svamberka", "owner_wiki": "Páni ze Švamberka", "person": "Bohuslav VII., Hynek, Volf, Bohuslav VIII. a Jan IV. ze Švamberka", "from": 1487, "to": 1525, "from_approx": false, "to_approx": true, "how": "koupe", "note": "roku 1525/1526 Jan z Roupova zástavu od Kryštofa ze Švamberka vyplatil"},
+  {"owner": "soukromnik", "person": "Jan z Roupova", "from": 1525, "to": 1526, "from_approx": false, "to_approx": false, "how": "lenni", "note": null},
+  {"owner": "soukromnik", "person": "Václav z Velhartic", "from": 1526, "to": 1533, "from_approx": false, "to_approx": false, "how": "lenni", "note": null},
+  {"owner": "soukromnik", "person": "Jiří z Lokšan", "from": 1533, "to": 1553, "from_approx": false, "to_approx": false, "how": "lenni", "note": "se souhlasem Ferdinanda I. hrad vyplatil a doživotně užíval; 1547 hrad sloužil jako královský opěrný bod proti stavovskému odboji"},
+  {"owner": "soukromnik", "person": "Ludvík Tovar z Enzesfeldu a rodina", "from": 1553, "to": 1579, "from_approx": false, "to_approx": false, "how": "lenni", "note": "po jeho smrti drželi vdova Zuzana, syn Ludvík mladší a poručníci Bernarta Tovara; zástavu 1579 vyplatil Jan Kinský ze Vchynic"},
+  {"owner": "kinsti", "owner_wiki": "Kinští", "person": "Jan starší Kinský z Vchynic", "from": 1579, "to": 1584, "from_approx": false, "to_approx": true, "how": "lenni", "note": "zástava pro sebe a šest let pro dědice; poté hrad připadl české komoře a panství bylo rozprodáváno"},
+  {"owner": "koruna", "person": null, "from": 1584, "to": 1617, "from_approx": true, "to_approx": false, "how": "jine", "note": "hrad ve správě české komory, panství postupně rozprodáváno; hrad byl v tomto období opakovaně pronajímán (mj. městu Kašperské Hory, Mikuláši Černohorskému z Hořiměřic)"},
+  {"owner": "mesto", "person": null, "from": 1617, "to": null, "from_approx": false, "to_approx": true, "how": "koupe", "note": "roku 1617 hrad definitivně koupilo od císaře Matyáše město Kašperské Hory, tehdy již jako 'zámek pustý Karlšperk'; za třicetileté války určen k demolici, k níž nedošlo, přesto zpustl na zříceninu"}
+ ],
+ "events": [
+  {"year": 1356, "text": "Karel IV. zakládá hrad Karlsberg (Kašperk)"},
+  {"year": 1365, "text": "hrad poprvé zastaven Janu Očkovi z Vlašimi"},
+  {"year": 1454, "text": "hrad kupuje Zdeněk Konopišťský ze Šternberka"},
+  {"year": 1547, "text": "hrad slouží jako královský opěrný bod proti stavovskému odboji"},
+  {"year": 1617, "text": "město Kašperské Hory kupuje hrad od císaře Matyáše"},
+  {"year": 1648, "text": "hrad určen k demolici na příkaz Ferdinanda III., k faktickému zboření nedochází"},
+  {"year": 1861, "text": "u příležitosti 500 let od založení postaveno schodiště v západní věži"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Kašperk"]
+}

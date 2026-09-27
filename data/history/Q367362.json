@@ -1,0 +1,32 @@
+{
+ "id": "Q367362",
+ "name": "Jindřichův Hradec",
+ "founded": {"year": 1220, "approx": true, "text": "hrad založil nejspíše Přemysl Otakar I. v první polovině 13. století; ještě nedostavěný jej roku 1220 získal Jindřich I. z Hradce z rodu Vítkovců"},
+ "summary": "Hrad založil nejspíše král Přemysl Otakar I., ale ještě nedostavěný jej získal Jindřich I. z Hradce z rodu Vítkovců, jejichž zdejší větev se poté nazývala páni z Hradce; ti hrad (s jedinou krátkou výjimkou) vlastnili až do vymření rodu po meči roku 1604. V 16. století jej Adam I., Jáchym a Adam II. z Hradce přestavěli na renesanční zámek. Sňatkem s poslední dědičkou Lucií Otýlií z Hradce jej získal Vilém Slavata z Chlumu a Košumberka, jehož rod (Slavatové) zámek vlastnil do roku 1694, kdy sňatkem s Marií Josefou Slavatovou přešel na Černíny z Chudenic. Ti jej drželi až do zestátnění ve 20. století; dnes je zámek majetkem státu ve správě Národního památkového ústavu a patří k největším zámeckým komplexům v Česku.",
+ "owners": [
+  {"owner": "koruna", "person": "Přemysl Otakar I.", "from": 1200, "to": 1220, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "zakladatel hradu; nedostavěný hrad získal Jindřich I. z Hradce"},
+  {"owner": "pani-z-hradce", "owner_wiki": "Páni z Hradce", "person": "Jindřich I. z Hradce", "from": 1220, "to": 1257, "from_approx": false, "to_approx": true, "how": "jine", "note": "z rodu Vítkovců; stavbu hradu dokončili jeho potomci Vítek a Oldřich I. z Hradce"},
+  {"owner": "pani-z-hradce", "owner_wiki": "Páni z Hradce", "person": "Oldřich I. a Oldřich III. z Hradce", "from": 1257, "to": 1348, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "1277 Přemysl Otakar II. hrad dočasně dobyl, po jeho smrti se páni z Hradce dohodli s Otou Braniborským a hrad získali zpět"},
+  {"owner": "pani-z-hradce", "owner_wiki": "Páni z Hradce", "person": "Jindřich II. a Heřman z Hradce", "from": 1348, "to": 1453, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "1353-1354 rozdělení majetku mezi bratry; dále drželi Jindřich III., Menhart II. a Oldřich z Hradce"},
+  {"owner": "pani-z-hradce", "owner_wiki": "Páni z Hradce", "person": "Jindřich IV. z Hradce", "from": 1453, "to": 1507, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "pozdně gotická přestavba hradu; zemřel při loveckém úrazu 1507"},
+  {"owner": "pani-z-hradce", "owner_wiki": "Páni z Hradce", "person": "Adam I. z Hradce", "from": 1507, "to": 1546, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "zahájil přestavbu hradu na renesanční zámek, pokračovali syn Jáchym a vnuk Adam II."},
+  {"owner": "pani-z-hradce", "owner_wiki": "Páni z Hradce", "person": "Jáchym a Adam II. z Hradce", "from": 1546, "to": 1596, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "v posledních dvou desetiletích 16. století intenzivní renesanční stavební činnost (B. Maggi a další)"},
+  {"owner": "pani-z-hradce", "owner_wiki": "Páni z Hradce", "person": "Jáchym Oldřich z Hradce", "from": 1596, "to": 1604, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "smrtí bezdětného Jáchyma Oldřicha na počátku 1604 rod pánů z Hradce vymřel po meči; dědičkou se stala jeho sestra Lucie Otýlie"},
+  {"owner": "slavatove-z-chlumu-a-kosumberka", "owner_wiki": "Slavatové z Chlumu a Košumberka", "person": "Vilém Slavata z Chlumu a Košumberka", "from": 1604, "to": 1652, "from_approx": false, "to_approx": false, "how": "snatek", "note": "sňatek s Lucií Otýlií z Hradce; nejvyšší kancléř po Bílé hoře, za Slavatů zámek přestal být trvalou panskou rezidencí"},
+  {"owner": "slavatove-z-chlumu-a-kosumberka", "owner_wiki": "Slavatové z Chlumu a Košumberka", "person": "Adam Pavel Slavata", "from": 1652, "to": 1657, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": null},
+  {"owner": "slavatove-z-chlumu-a-kosumberka", "owner_wiki": "Slavatové z Chlumu a Košumberka", "person": "Ferdinand Vilém, Jan Jiří Jáchym a František Leopold Slavata", "from": 1657, "to": 1694, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "mezi dědici spory o zadlužený majetek; nakonec zdědila Marie Josefa Slavatová, dcera Jana Jiřího"},
+  {"owner": "cerninove-z-chudenic", "owner_wiki": "Černínové z Chudenic", "person": "Heřman Jakub Černín", "from": 1694, "to": 1945, "from_approx": false, "to_approx": true, "how": "snatek", "note": "sňatek Heřmana Jakuba Černína s Marií Josefou Slavatovou; velký požár 1773 zničil třetí nádvoří; rozsáhlá obnova za Evžena II. Jaromíra Černína od 1906, přerušená pozemkovou reformou; přesné datum a okolnosti přechodu do vlastnictví státu nejsou v článku uvedeny"},
+  {"owner": "stat", "person": null, "from": 1945, "to": null, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "dnes majetek státu ve správě Národního památkového ústavu; přesné datum a způsob zestátnění článek neuvádí"}
+ ],
+ "events": [
+  {"year": 1220, "text": "Jindřich I. z Hradce získává nedostavěný hrad"},
+  {"year": 1421, "text": "Oldřich Vavák z Hradce vězní na hradě kazatele Martina Húsku"},
+  {"year": 1581, "text": "začátek intenzivní renesanční přestavby zámku (Baldassare Maggi)"},
+  {"year": 1604, "text": "vymření pánů z Hradce po meči, dědictví přechází na Slavaty"},
+  {"year": 1694, "text": "sňatkem přechází zámek na Černíny z Chudenic"},
+  {"year": 1773, "text": "velký požár ničí budovy třetího nádvoří"},
+  {"year": 1906, "text": "začátek rozsáhlé obnovy nejstarších částí zámku za Evžena II. Jaromíra Černína"},
+  {"year": 1995, "text": "zámek zapsán na seznam národních kulturních památek"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Jindřichův_Hradec_(zámek)"]
+}

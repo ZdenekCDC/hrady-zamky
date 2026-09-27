@@ -1,0 +1,29 @@
+{
+ "id": "Q1592121",
+ "name": "Hazmburk",
+ "founded": {"year": 1320, "approx": true, "text": "Gotický hrad zřejmě postavili v první polovině 14. století Lichtenburkové; první bezpečná zmínka o hradu je z roku 1335."},
+ "summary": "Hrad postavili patrně v první polovině 14. století Lichtenburkové; roku 1335 jej získal výměnou král Jan Lucemburský a hned nato prodal Zbyňku Zajíci z Valdeka, který jej přejmenoval na Hazmburk (podle zajíce ve znaku) a učinil rodovým sídlem Zajíců z Hazmburka. Rod jej držel až do roku 1558, kdy jej koupili Lobkovicové; po konfiskaci Lobkovicům (1594) hrad patřil postupně Báthoryům, Šternberkům, Ditrichštejnům a Herbersteinům, ale sídlem už nebyl a od 16. století pustl. Od roku 1945 je majetkem státu, zřícenina je od roku 1997 přístupná veřejnosti a spravuje ji Národní památkový ústav.",
+ "owners": [
+  {"owner": "lichtenburkove", "owner_wiki": "Lichtenburkové", "person": null, "from": 1320, "to": 1335, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "podoba a přesná doba vzniku hradu jsou nejisté; nelze vyloučit ani založení králem Václavem II. koncem 13. století"},
+  {"owner": "koruna", "owner_wiki": null, "person": "Jan Lucemburský", "from": 1335, "to": 1336, "from_approx": false, "to_approx": false, "how": "vymena", "note": "král získal panství výměnou od Hynka z Lichtenburka a téhož roku (dle opisu listiny 1336) je prodal Zbyňku Zajíci z Valdeka"},
+  {"owner": "zajicove-z-hazmburka", "owner_wiki": "Zajícové z Hazmburka", "person": "Zbyněk Zajíc z Valdeka a jeho potomci", "from": 1336, "to": 1558, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupeno za 2300 kop pražských grošů; Zbyněk hrad přejmenoval na Hazmburk a od 1337/1341 užíval tento přídomek; roku 1393 rozdělen mezi šest synů, později opět sjednocen; poslední Zajícové (Jan mladší, Kryštof) sídlili už na Budyni, hrad zmiňován 1586 jako pustý"},
+  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": "Kryštof z Hazmburka (prodávající), Jiří Popel z Lobkovic", "from": 1558, "to": 1594, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupeno a připojeno k libochovickému panství; roku 1594 Jiřímu Popelovi z Lobkovic zkonfiskováno"},
+  {"owner": "koruna", "owner_wiki": null, "person": null, "from": 1594, "to": 1602, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "panství spravovala královská komora"},
+  {"owner": "bathoryove", "owner_wiki": "Báthoryové", "person": "Zikmund Báthory", "from": 1602, "to": 1613, "from_approx": false, "to_approx": false, "how": "jine", "note": "sedmihradský vévoda, synovec polského krále Štěpána Báthoryho, získal panství do doživotního užívání"},
+  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": null, "from": 1613, "to": 1676, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "způsob nabytí článek neuvádí"},
+  {"owner": "ditrichstejnove", "owner_wiki": "Ditrichštejnové", "person": null, "from": 1676, "to": 1858, "from_approx": false, "to_approx": false, "how": "koupe"},
+  {"owner": "herbersteinove", "owner_wiki": "Herbersteinové", "person": null, "from": 1858, "to": 1945, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "příbuzní Ditrichštejnů"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "zestátněno 1945; od roku 2002 spravuje Národní památkový ústav"}
+ ],
+ "events": [
+  {"year": 1335, "text": "první bezpečná zmínka o hradu; král Jan Lucemburský jej získal výměnou od Hynka z Lichtenburka"},
+  {"year": 1336, "text": "král prodal hrad Zbyňku Zajíci z Valdeka, který jej přejmenoval na Hazmburk"},
+  {"year": 1424, "text": "Jan Žižka dobyl Libochovice, ale obléhání hradu neuspělo; podobně neúspěšně husité útočili i 1429"},
+  {"year": 1558, "text": "Kryštof z Hazmburka prodal panství Lobkovicům, hrad přestal být sídlem rodu"},
+  {"year": 1586, "text": "hrad zmiňován jako pustý"},
+  {"year": 1594, "text": "libochovické panství zkonfiskováno Jiřímu Popelovi z Lobkovic"},
+  {"year": 1900, "text": "sesuvy půdy na přelomu 19. a 20. století poškodily obec Klapý pod hradem"},
+  {"year": 1997, "text": "zřícenina zpřístupněna veřejnosti"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Hazmburk"]
+}

@@ -1,0 +1,30 @@
+{
+ "id": "Q877062",
+ "name": "Valtice",
+ "founded": {"year": 1175, "approx": true, "text": "koncem 12. století zde stával dřevohlinitý hrad, v první polovině 13. století rozšířený v pozdně románském slohu"},
+ "summary": "Na místě dnešního zámku stával od konce 12. století valtický hrad, který koncem 14. století získali Lichtenštejnové a učinili z něj trvalé sídlo jedné z větví rodu. Od počátku 17. století, kdy byl Karel I. z Lichtenštejna povýšen do knížecího stavu, procházel areál rozsáhlou barokní přestavbou (architekti Tencalla, Erna, Martinelli, Fischer z Erlachu), vyvrcholenou za Karla Eusebia a Jana Adama I. z Lichtenštejna; středověký hrad byl definitivně zbořen v letech 1744/1745. Zámek zůstal knížecím sídlem Lichtenštejnů až do roku 1945, kdy byl rodu bez náhrady vyvlastněn na základě Benešových dekretů. Od té doby je majetkem československého, resp. českého státu; spolu se zámkem Lednice je součástí Lednicko-valtického areálu zapsaného na seznam světového dědictví UNESCO.",
+ "owners": [
+  {"owner": "neznamo", "person": null, "from": 1175, "to": 1390, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "dřevohlinitý a později kamenný hrad před příchodem Lichtenštejnů, majitelé blíže nedoloženi"},
+  {"owner": "lichtensteinove", "owner_wiki": "Lichtenštejnové", "person": null, "from": 1390, "to": 1608, "from_approx": true, "to_approx": false, "how": "koupe", "note": "areál získali koncem 14. století; za Hartmana I. z Lichtenštejna (+1539/1540) se stal trvalým sídlem jedné z větví rodu; 1606 zřízen rodinný fideikomis"},
+  {"owner": "lichtensteinove", "owner_wiki": "Lichtenštejnové", "person": "Karel I. z Lichtenštejna", "from": 1608, "to": 1627, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "1608 povýšen do knížecího stavu, zahájil barokní rozšíření sídla"},
+  {"owner": "lichtensteinove", "owner_wiki": "Lichtenštejnové", "person": "Karel Eusebius z Lichtenštejna", "from": 1627, "to": 1684, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "hlavní iniciátor barokní přestavby zámku, zakladatel Lednicko-valtické kulturní krajiny"},
+  {"owner": "lichtensteinove", "owner_wiki": "Lichtenštejnové", "person": "Jan Adam I. z Lichtenštejna", "from": 1684, "to": 1712, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "syn Karla Eusebia, dále rozvinul barokní podobu zámku"},
+  {"owner": "lichtensteinove", "owner_wiki": "Lichtenštejnové", "person": null, "from": 1712, "to": 1858, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "mj. Alois I. Josef (1759-1805), za kterého bylo 1788-1790 postaveno zámecké divadlo; středověký hrad definitivně zbořen 1744/1745"},
+  {"owner": "lichtensteinove", "owner_wiki": "Lichtenštejnové", "person": "Jan II. z Lichtenštejna", "from": 1858, "to": 1929, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "vládl přes 70 let, na zámku zemřel roku 1929; po 1. světové válce Valtice připadly Československu (Saint-Germainská smlouva 1919), pozemková reforma připravila rod o 60 % majetku"},
+  {"owner": "lichtensteinove", "owner_wiki": "Lichtenštejnové", "person": "František I. z Lichtenštejna", "from": 1929, "to": 1938, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "poslední lichtenštejnský kníže trvale sídlící na zámku, zemřel zde 1938"},
+  {"owner": "lichtensteinove", "owner_wiki": "Lichtenštejnové", "person": "František Josef II.", "from": 1938, "to": 1945, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "za nacistické okupace již sídlil v Lichtenštejnsku, na zámku Valtice trvale nepobýval"},
+  {"owner": "stat", "person": null, "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "vyvlastnění rodu Lichtenštejnů bez náhrady na základě Benešových dekretů; restituční nároky knížete Hanse Adama II. po roce 1989 dosud nebyly vyřešeny; dnes ve správě Národního památkového ústavu"}
+ ],
+ "events": [
+  {"year": 1377, "text": "před branou areálu postavena kaple sv. Mikuláše a sv. Kiliána (zbořena 1649)"},
+  {"year": 1606, "text": "Lichtenštejnové zřizují rodinný fideikomis, do nějž spadaly i Valtice"},
+  {"year": 1608, "text": "Karel I. z Lichtenštejna povýšen do knížecího stavu, začátek barokní přestavby sídla"},
+  {"year": 1727, "text": "založen zámecký park"},
+  {"year": 1745, "text": "definitivní zboření středověkého hradu"},
+  {"year": 1790, "text": "slavnostní otevření nového zámeckého divadla"},
+  {"year": 1929, "text": "smrt knížete Jana II. z Lichtenštejna na zámku po více než 70 letech vlády"},
+  {"year": 1945, "text": "vyvlastnění majetku Lichtenštejnů bez náhrady, zámek přechází do vlastnictví státu"},
+  {"year": 1996, "text": "Lednicko-valtický areál zapsán na seznam světového dědictví UNESCO"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Valtice_(zámek)"]
+}

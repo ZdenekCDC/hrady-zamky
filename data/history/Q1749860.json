@@ -1,0 +1,115 @@
+{
+ "id": "Q1749860",
+ "name": "Třeboň",
+ "founded": {
+  "year": 1379,
+  "approx": true,
+  "text": "Na místě zámku stával panský dvorec pánů z Landštejna, postupně přestavěný na hrad, poprvé písemně doložený až roku 1379, kdy již patřil Rožmberkům."
+ },
+ "summary": "Třeboňský hrad založili páni z Landštejna, roku 1366 jej od nich koupili příbuzní Rožmberkové, kteří město povýšili a hrad postupně přestavěli - od Voka II. jako své sídelní město a za Viléma z Rožmberka (1565-1575) na renesanční zámek. Po smrti posledního Rožmberka Petra Voka (1611) zámek zdědili Švamberkové, kterým byl po Bílé hoře roku 1621 zkonfiskován; od roku 1660 jej vlastnili Schwarzenbergové, kteří jej barokně dostavěli. Roku 1940 zámek zabralo gestapo, po válce byla zavedena národní správa a roku 1947 byl znárodněn; dnes je majetkem státu a spravuje jej Národní památkový ústav.",
+ "owners": [
+  {
+   "owner": "landstejnove",
+   "owner_wiki": "Landštejnové",
+   "person": null,
+   "from": null,
+   "to": 1366,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "postavili původní dvorec/hrad, poprvé písemně doložený teprve roku 1379 (již pod Rožmberky); přesný rok založení cs.wiki neuvádí"
+  },
+  {
+   "owner": "rozmberkove",
+   "owner_wiki": "Rožmberkové",
+   "person": "Vok II. z Rožmberka, Jindřich VII. z Rožmberka, Vilém z Rožmberka, Petr Vok z Rožmberka",
+   "from": 1366,
+   "to": 1611,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupili od Landštejnů, 1376 povýšili Třeboň na poddanské město; Vok II. si ji 1479 zvolil za sídelní město, Vilém z Rožmberka nechal 1565-1575 přestavět hrad na renesanční zámek; Petr Vok, poslední z rodu, na zámku zemřel 1611"
+  },
+  {
+   "owner": "pani-ze-svamberka",
+   "owner_wiki": "Páni ze Švamberka",
+   "person": null,
+   "from": 1611,
+   "to": 1621,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "zdědili po Petru Vokovi z Rožmberka; po Bílé hoře přišli o většinu majetku"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Ferdinand II.",
+   "from": 1621,
+   "to": 1660,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "konfiskace",
+   "note": "třeboňské panství zkonfiskováno císařem po Bílé hoře; přesné mezidržení do prodeje Schwarzenberkům není v článku popsáno"
+  },
+  {
+   "owner": "schwarzenbergove",
+   "owner_wiki": "Schwarzenbergové",
+   "person": "Jan Adolf II. ze Schwarzenbergu a další",
+   "from": 1660,
+   "to": 1940,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "obohatili zámek barokními dostavbami; po pozemkové reformě ve 20. letech 20. stol. jim zůstala jen budova zámku, pronajímaná v létě jako hotel"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1940,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "1940 zámek zabralo gestapo, 1945 zavedena národní správa, 1947 znárodněn; dnes národní kulturní památka ve správě Národního památkového ústavu"
+  }
+ ],
+ "events": [
+  {
+   "year": 1366,
+   "text": "Rožmberkové kupují Třeboň od pánů z Landštejna"
+  },
+  {
+   "year": 1376,
+   "text": "Třeboň povýšena na poddanské město"
+  },
+  {
+   "year": 1479,
+   "text": "Vok II. z Rožmberka si volí Třeboň za sídelní město a rozšiřuje hrad"
+  },
+  {
+   "year": 1562,
+   "text": "požár města zasáhl i hrad"
+  },
+  {
+   "year": 1575,
+   "text": "dokončena přestavba na renesanční zámek podle plánů Antonia Ericera a Domenika Bendetta Cometty"
+  },
+  {
+   "year": 1611,
+   "text": "na zámku umírá poslední Rožmberk, Petr Vok"
+  },
+  {
+   "year": 1621,
+   "text": "třeboňské panství zkonfiskováno Švamberkům po Bílé hoře"
+  },
+  {
+   "year": 1947,
+   "text": "zámek znárodněn po poválečné národní správě"
+  }
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Třeboň_(zámek)"
+ ]
+}

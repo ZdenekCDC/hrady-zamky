@@ -1,0 +1,32 @@
+{
+ "id": "Q11730719",
+ "name": "Chvaly",
+ "founded": {"year": 1428, "approx": true, "text": "První písemná zmínka o gotické tvrzi pochází z roku 1428; ves Chvaly je doložena už roku 1088/1130 jako majetek Vyšehradské kapituly."},
+ "summary": "Ves Chvaly patřila od 12. století Vyšehradské kapitule, později (2. pol. 14. stol.) různým pražským měšťanům; gotická tvrz je poprvé doložena roku 1428. Po konfiskaci 1420 a několika změnách majitelů ji od roku 1652 vlastnili pražští jezuité, kteří k ní přistavěli kapli sv. Anny; po zrušení řádu 1773 připadla Zemskému studijnímu fondu. Od roku 1918 patřila státu, od 1993 hlavnímu městu Praze a poté městské části Horní Počernice, která zámek zrekonstruovala (dokončeno 2008).",
+ "owners": [
+  {"owner": "cirkev", "owner_wiki": null, "person": null, "from": 1130, "to": 1350, "from_approx": false, "to_approx": true, "how": "neznamo", "note": "Vyšehradská kapitula; ves doložena jako její majetek 1088/1130"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "různí pražští měšťané", "from": 1350, "to": 1420, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "ve 2. polovině 14. století přecházely Chvaly do majetku různých pražských měšťanů"},
+  {"owner": "cirkev", "owner_wiki": null, "person": "kostel sv. Michala v Opatovicích na Novém Městě", "from": 1420, "to": 1436, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "Chvaly konfiskovány Pražany a darovány kostelu"},
+  {"owner": "z-hartenberku", "owner_wiki": null, "person": "Habart z Hartenbergu", "from": 1436, "to": 1462, "from_approx": false, "to_approx": false, "how": "neznamo"},
+  {"owner": "neznamo", "owner_wiki": null, "person": null, "from": 1462, "to": 1614, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "majitelé mezi rokem 1462 a 1614 nejsou v článku uvedeni"},
+  {"owner": "z-neuenperka", "owner_wiki": null, "person": "Eustachius Betengel z Neuenperka", "from": 1614, "to": 1614, "from_approx": false, "to_approx": true, "how": "koupe", "note": "koupil chvalský statek, tvrz a ves, ale brzy jej prodal"},
+  {"owner": "z-vtelna", "owner_wiki": null, "person": "Jiří Vtelenský ze Vtelna", "from": 1614, "to": 1622, "from_approx": true, "to_approx": false, "how": "koupe", "note": "za účast na českém stavovském povstání odsouzen 1622 ke ztrátě poloviny majetku"},
+  {"owner": "z-kaprstejna", "owner_wiki": null, "person": "Jan Daniel Kapr z Kaprštejna", "from": 1622, "to": 1652, "from_approx": false, "to_approx": false, "how": "koupe", "note": "císařský rada a místosudí apelačního soudu; panství mu prodáno po konfiskaci poloviny majetku Vtelenských"},
+  {"owner": "cirkev", "owner_wiki": null, "person": "pražští jezuité", "from": 1652, "to": 1773, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "roku 1660 vystavěli kapli sv. Anny přiléhající k tvrzi; 1734 tvrz vyhořela a byla opravena do zámecké podoby"},
+  {"owner": "stat", "owner_wiki": null, "person": "Zemský studijní fond nadační", "from": 1773, "to": 1848, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "po zrušení jezuitského řádu 1773 získal Chvaly zemský nadační fond"},
+  {"owner": "neznamo", "owner_wiki": null, "person": null, "from": 1848, "to": 1918, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "majitelé mezi rokem 1848 a 1918 nejsou v článku uvedeni; v polovině 19. stol. zbořeno jižní křídlo zámku"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1918, "to": 1993, "from_approx": false, "to_approx": false, "how": "jine", "note": "areál Chvalské tvrze převeden do majetku státu; 1950-konec 80. let užívaly Československé státní statky, 1988 Státní statek hl. m. Prahy"},
+  {"owner": "mesto", "owner_wiki": null, "person": null, "from": 1993, "to": null, "from_approx": false, "to_approx": false, "how": "jine", "note": "zdevastovaný objekt přešel do majetku hlavního města Prahy a poté městské části Horní Počernice, která provedla rekonstrukci (dokončena 2008)"}
+ ],
+ "events": [
+  {"year": 1428, "text": "první písemná zmínka o gotické tvrzi"},
+  {"year": 1420, "text": "Chvaly konfiskovány Pražany a darovány kostelu sv. Michala v Opatovicích"},
+  {"year": 1652, "text": "Chvaly se stávají majetkem pražských jezuitů"},
+  {"year": 1660, "text": "jezuité vystavěli kapli sv. Anny přiléhající k tvrzi (později kostel sv. Ludmily)"},
+  {"year": 1734, "text": "tvrz vyhořela a byla opravena do zámecké podoby"},
+  {"year": 1773, "text": "po zrušení jezuitského řádu přechází zámek na Zemský studijní fond"},
+  {"year": 1918, "text": "areál převeden do majetku státu"},
+  {"year": 2008, "text": "dokončena rekonstrukce zámku městskou částí Horní Počernice"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Chvaly_(zámek)"]
+}

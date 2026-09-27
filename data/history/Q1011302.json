@@ -1,0 +1,29 @@
+{
+ "id": "Q1011302",
+ "name": "Bítov",
+ "founded": {"year": 1046, "approx": true, "text": "hrad založen v 11. století na místě velkomoravského hradiště jako první z řetězce hradů chránících jižní hranici přemyslovského státu; první písemná zmínka pochází z roku 1061"},
+ "summary": "Bítov patřil od 11. do počátku 14. století přemyslovským knížatům a byl jedním z hradů chránících jižní hranici přemyslovského státu. Počátkem 14. století jej získali Lichtenburkové z Bítova, po nich se v raném novověku vystřídali Jankovští z Vlašimi (přestavba na barokní opevněný zámek) a Daunové, kteří v letech 1811-1863 provedli romantickou gotizující přestavbu. Na konci 19. a počátku 20. století patřil postupně Haugvicům z Biskupic a Haasům z Hasenfelsu, jimž byl roku 1945 konfiskován; od té doby je hrad majetkem státu a spravuje jej Národní památkový ústav.",
+ "owners": [
+  {"owner": "koruna", "from": 1046, "to": 1307, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "zeměpanský hrad spravovaný řadou přemyslovských správců; 1185 odolal tažení knížete Bedřicha proti znojemskému Konrádu II. Otovi"},
+  {"owner": "lichtenburkove", "owner_wiki": "Lichtenburkové", "from": 1307, "to": 1572, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "Lichtenburkové z Bítova vybudovali jádro hradu na východní straně v místech dnešního paláce"},
+  {"owner": "neznamo", "from": 1572, "to": 1612, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "majitelé v tomto období nejsou v přehledu majitelů na cs. wikipedii uvedeni"},
+  {"owner": "jankovsti-z-vlasimi", "owner_wiki": "Jankovští z Vlašimi", "from": 1612, "to": 1739, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "za jejich držby byl hrad v 17. stol. přestavěn na barokní opevněný zámek"},
+  {"owner": "neznamo", "from": 1739, "to": 1755, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "majitelé v tomto období nejsou v přehledu majitelů na cs. wikipedii uvedeni"},
+  {"owner": "daunove", "owner_wiki": "Daunové", "from": 1755, "to": 1890, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "1811-1863 romantická gotizující přestavba hradu; 1846 nová podoba hradní kaple a zřízení rodové hrobky (Jindřich Daun)"},
+  {"owner": "haugvicove-z-biskupic", "owner_wiki": "Haugvicové z Biskupic", "from": 1890, "to": 1906, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "v přehledu majitelů uvedeni jako Haugwitzové"},
+  {"owner": "neznamo", "from": 1906, "to": 1912, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "majitelé v tomto období nejsou v přehledu majitelů na cs. wikipedii uvedeni"},
+  {"owner": "haasove-z-hasenfelsu", "owner_wiki": "Haasové z Hasenfelsu", "person": "Georg Haas z Hasenfelsu (pro syna Jiřího Haase)", "from": 1912, "to": 1945, "from_approx": false, "to_approx": false, "how": "koupe", "note": "velkovýrobce porcelánu Georg Haas koupil hrad pro syna barona Jiřího Haase, který je pohřben v hradní kapli"},
+  {"owner": "stat", "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "hrad spravuje Národní památkový ústav"}
+ ],
+ "events": [
+  {"year": 1061, "text": "první písemná zmínka o hradu Bítov"},
+  {"year": 1185, "text": "hrad odolal tažení knížete Bedřicha proti znojemskému Konrádu II. Otovi"},
+  {"year": 1307, "text": "Bítov získávají Lichtenburkové"},
+  {"year": 1612, "text": "hrad přechází na Jankovské z Vlašimi, přestavba na barokní opevněný zámek"},
+  {"year": 1846, "text": "Jindřich Daun nechává novou podobu hradní kaple a zřizuje rodovou hrobku"},
+  {"year": 1863, "text": "dokončena romantická gotizující přestavba hradu za Daunů"},
+  {"year": 1912, "text": "Georg Haas z Hasenfelsu kupuje hrad pro syna barona Jiřího Haase"},
+  {"year": 1945, "text": "konfiskace majetku Haasů, hrad přechází pod stát"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Bítov_(hrad)"]
+}

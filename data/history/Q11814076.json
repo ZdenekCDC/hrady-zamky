@@ -1,0 +1,33 @@
+{
+ "id": "Q11814076",
+ "name": "Doksy",
+ "founded": {
+  "year": 1558,
+  "approx": true,
+  "text": "Zakladatel renesančního zámku je nejasný: podle Augusta Sedláčka jde o Jana z Vartenberka, podle Rudolfa Anděla vznikl po roce 1553 za Salomény z Janovic a jejího manžela Mikuláše Zajíce z Hazmburka jako náhrada za hrad Bezděz, podle Pavla Vlčka je stavebníkem západního křídla Adam Berka z Dubé, který Doksy získal roku 1558."
+ },
+ "summary": "Renesanční zámek v Doksech měl podle různých teorií založit Jan z Vartenberka, Saloména z Janovic s manželem Mikulášem Zajícem z Hazmburka, nebo Adam Berka z Dubé. Roku 1593 jej Jan z Vartenberka přepsal na manželku, která se po jeho smrti provdala za Václava Berku z Dubé; po Bílé hoře byl zkonfiskován a roku 1622 jej získal Albrecht z Valdštejna. Valdštejnové (s krátkou přestávkou po Albrechtově vraždě 1634) zámek drželi až do roku 1945, kdy jim byl na základě Benešových dekretů zkonfiskován; po armádním a školním využití jej stát převedl na Liberecký kraj, který jej roku 2015 bezplatně předal městu Doksy.",
+ "owners": [
+  {"owner": "vartenberkove", "owner_wiki": "Vartenberkové", "person": "Jan z Vartenberka", "from": null, "to": 1593, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "podle Augusta Sedláčka stavebník nejstaršího panského domu; roku 1593 přepsal zámek na svou manželku"},
+  {"owner": "vartenberkove", "owner_wiki": "Vartenberkové", "person": "manželka Jana z Vartenberka (jméno wikipedie neuvádí)", "from": 1593, "to": null, "from_approx": false, "to_approx": false, "how": "dar", "note": "po smrti Jana z Vartenberka se o tři roky později podruhé provdala za Václava Berku z Dubé"},
+  {"owner": "berkove-z-dube", "owner_wiki": "Berkové z Dubé", "person": "Václav Berka z Dubé", "from": null, "to": 1620, "from_approx": false, "to_approx": true, "how": "snatek", "note": "získal zámek sňatkem s vdovou po Janu z Vartenberka, nechal postavit druhé křídlo; po bitvě na Bílé hoře mu bylo panství zkonfiskováno a musel emigrovat, budovy poničili žoldnéři Maxmiliána Bavorského i okolní sedláci"},
+  {"owner": "valdstejnove", "owner_wiki": "Valdštejnové", "person": "Adam z Valdštejna", "from": 1622, "to": 1622, "from_approx": false, "to_approx": false, "how": "koupe", "note": "získal zkonfiskovaný zámek a téhož roku jej prodal synovci Albrechtovi z Valdštejna"},
+  {"owner": "valdstejnove", "owner_wiki": "Valdštejnové", "person": "Albrecht z Valdštejna", "from": 1622, "to": 1634, "from_approx": false, "to_approx": false, "how": "koupe", "note": "roku 1634 byl v Chebu zavražděn"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Walter Butler", "from": 1634, "to": null, "from_approx": false, "to_approx": false, "how": "jine", "note": "jeden z vrahů Albrechta z Valdštejna, po jeho smrti se stal majitelem zámku"},
+  {"owner": "valdstejnove", "owner_wiki": "Valdštejnové", "person": "Valdštejnové", "from": 1680, "to": 1945, "from_approx": false, "to_approx": false, "how": "koupe", "note": "rod zámek koupí získal zpět roku 1680 a sídlil zde až do roku 1945, kdy jim byl na základě Benešových dekretů zkonfiskován"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "1952-1962 zámek sloužil armádě, od 1963 patřil ministerstvu zemědělství (zemědělské učiliště a domov mládeže) až do roku 2012; rodinná galerie odvezena do Národní galerie, knihovna a mobiliář rozprodány či rozptýleny na jiné památky"},
+  {"owner": "mesto", "owner_wiki": null, "person": "Liberecký kraj", "from": null, "to": 2015, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "později přešel na Liberecký kraj; wikipedie neuvádí přesný rok tohoto přechodu"},
+  {"owner": "mesto", "owner_wiki": null, "person": "město Doksy", "from": 2015, "to": null, "from_approx": false, "to_approx": false, "how": "dar", "note": "v dubnu 2015 jej Liberecký kraj bezplatně přenechal městu Doksy; pro veřejnost otevřen v prosinci 2019"}
+ ],
+ "events": [
+  {"year": 1593, "text": "Jan z Vartenberka přepsal zámek na svou manželku"},
+  {"year": 1620, "text": "po bitvě na Bílé hoře zkonfiskováno Václavu Berkovi z Dubé, budovy poničeny"},
+  {"year": 1634, "text": "po vraždě Albrechta z Valdštejna v Chebu se majitelem stal jeho vrah Walter Butler"},
+  {"year": 1680, "text": "Valdštejnové zámek koupí získali zpět"},
+  {"year": 1945, "text": "zámek Valdštejnům zkonfiskován na základě Benešových dekretů"},
+  {"year": 1952, "text": "1952-1962 zámek sloužil armádě jako škola a výzkumné středisko"},
+  {"year": 2015, "text": "Liberecký kraj bezplatně přenechal zámek městu Doksy"},
+  {"year": 2019, "text": "zámek po stavebních úpravách otevřen veřejnosti"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Doksy_(zámek)"]
+}

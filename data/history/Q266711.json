@@ -1,0 +1,53 @@
+{
+ "id": "Q266711",
+ "name": "Hrádek u Nechanic",
+ "founded": {
+  "year": 1839,
+  "approx": false,
+  "text": "Zámek nechal v letech 1839-1854 postavit na tzv. Lubenském vrchu František Arnošt hrabě z Harrachu jako nové reprezentativní sídlo hrabat z Harrachu, ve stylu romantické neogotiky (tzv. Tudorské gotiky) podle úprav architekta Karla Fischera."
+ },
+ "summary": "Hrádek u Nechanic je jeden z nejmladších zámků v Česku, novogotická stavba postavená v letech 1839-1854 jako nové reprezentativní sídlo hrabat z Harrachu. Sádovské panství s Nechanicemi koupili Harrachové roku 1829 od Schaffgotschů. Krátce po dostavbě zde za bitvy u Hradce Králové sídlil vojenský lazaret, roku 1945 byl zámek na základě Benešových dekretů znárodněn a dnes je ve správě Národního památkového ústavu.",
+ "owners": [
+  {
+   "owner": "schaffgotschove",
+   "owner_wiki": "Schaffgotschové",
+   "person": null,
+   "from": null,
+   "to": 1829,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "drželi sádovské panství s Nechanicemi před rokem 1829, kdy je od nich koupili Harrachové; přesný rok počátku jejich držby článek neuvádí"
+  },
+  {
+   "owner": "harrachove",
+   "owner_wiki": "Harrachové",
+   "person": "František Arnošt hrabě z Harrachu",
+   "from": 1829,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupili sádovské panství s Nechanicemi a v letech 1839-1854 postavili nový zámek na Lubenském vrchu jako své reprezentativní sídlo"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "znárodněno na základě Benešových dekretů; roku 1945 zde krátce sídlil generálmajor Govorov, velitel jedné z armád Ukrajinského frontu Rudé armády; od 1953 přístupné veřejnosti, dnes ve správě NPÚ"
+  }
+ ],
+ "events": [
+  {"year": 1829, "text": "Harrachové koupili sádovské panství s Nechanicemi od Schaffgotschů"},
+  {"year": 1854, "text": "dokončena stavba neogotického zámku podle úprav architekta Karla Fischera"},
+  {"year": 1866, "text": "po bitvě u Hradce Králové byl v zámku zřízen vojenský lazaret"},
+  {"year": 1945, "text": "zámek znárodněn na základě Benešových dekretů"},
+  {"year": 1953, "text": "zámek zpřístupněn veřejnosti"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Hrádek_u_Nechanic_(zámek)"]
+}

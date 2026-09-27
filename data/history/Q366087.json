@@ -1,0 +1,29 @@
+{
+ "id": "Q366087",
+ "name": "Rabí",
+ "founded": {"year": 1230, "approx": true, "text": "1. polovina 13. století, hrad postavil patrně rod Wittelsbachů v severní části svého panství"},
+ "summary": "Rabí je největší hradní zřícenina v Čechách, založená ve 13. století Wittelsbachy a od roku 1273 v držení pánů z Velhartic/Budětic, po nichž hrad zdědili Švihovští z Rýzmberka. Ti jej na konci 15. a počátkem 16. století rozšířili velkorysou pozdně gotickou přestavbou, finančně ji ale nezvládli a roku 1549 hrad prodali. Po sérii dalších majitelů hrad roku 1708 koupili Lambergové, za nichž vyhořel a přestal být obýván. Ve 20. století přešel do veřejného vlastnictví a od roku 2003 jej jako zříceninu a muzeum spravuje Národní památkový ústav.",
+ "owners": [
+  {"owner": "wittelsbachove", "owner_wiki": "Wittelsbachové", "from": 1230, "to": 1273, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "založení hradu v severní části wittelsbašského panství, které roku 1273 připadlo k Českému království"},
+  {"owner": "pani-z-velhartic", "owner_wiki": "Páni z Velhartic", "from": 1273, "to": 1380, "from_approx": false, "to_approx": true, "how": "neznamo", "note": "větev pánů z Velhartic sídlící na blízkých Buděticích; první písemná zmínka o hradu je až z roku 1380, kdy už patřil Švihovským"},
+  {"owner": "svihovsti-z-ryzmberka", "owner_wiki": "Švihovští z Rýzmberka", "person": "Půta Švihovský z Rýzmberka", "from": 1380, "to": 1549, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "postupně vlastnili Půta, Břeněk, Jan Rabský, Vilém mladší, Půta ml. a jeho synové Břetislav a Vilém; za husitských válek hrad roku 1420-1421 obléhal Jan Žižka, pozdně gotickou přestavbu s Benediktem Rejtem zahájil Půta Švihovský; kvůli vysokým nákladům přestavby rod roku 1549 hrad prodal"},
+  {"owner": "z-trachenberka", "owner_wiki": null, "person": "Jindřich Krucpach z Trachenberka", "from": 1549, "to": 1557, "from_approx": false, "to_approx": false, "how": "koupe"},
+  {"owner": "z-libejovic", "owner_wiki": null, "person": "Diviš Malovec z Libějovic", "from": 1557, "to": 1559, "from_approx": false, "to_approx": false, "how": "koupe"},
+  {"owner": "rozmberkove", "owner_wiki": "Rožmberkové", "person": "Vilém z Rožmberka", "from": 1559, "to": 1563, "from_approx": false, "to_approx": false, "how": "koupe"},
+  {"owner": "chanovsti-z-dlouhe-vsi", "owner_wiki": "Chanovští z Dlouhé Vsi", "person": "Adam Chanovský z Dlouhé Vsi", "from": 1563, "to": 1708, "from_approx": false, "to_approx": false, "how": "koupe", "note": "za třicetileté války hrad vyplenilo vojsko generála Mansfelda; po smrti Jana Viléma Chanovského (1625) byl majetek mezi dědice rozdělen, sjednocen zpět až Janem Vilémem mladším roku 1694, který již neobyvatelný hrad roku 1708 prodal"},
+  {"owner": "lambergove", "owner_wiki": "Lambergové", "person": "Jan Filip z Lambergu", "from": 1708, "to": 1920, "from_approx": false, "to_approx": false, "how": "koupe", "note": "krátce po koupi hrad vyhořel (1708/1710) a přestal být obýván; posledním soukromým vlastníkem byl hrabě Jindřich Lamberg, který se v souvislosti s pozemkovou reformou roku 1920 vzdal nároků na hrad za symbolickou 1 Kč"},
+  {"owner": "soukromnik", "person": "Spolek pro zachování, udržování a zabezpečení historických, uměleckých a církevních památek v okresech strakonickém, sušickém a horažďovickém", "from": 1920, "to": 1953, "from_approx": false, "to_approx": true, "how": "dar", "note": "krajanský spolek se sídlem v Horažďovicích prováděl opravy a archeologický výzkum hradu až do roku 1947"},
+  {"owner": "stat", "from": 1953, "to": null, "from_approx": false, "to_approx": false, "how": "dar", "note": "1953 prohlášen státním kulturním majetkem, formální darovací smlouva se spolkem uzavřena 1954; ve 20. stol. spravováno ministerstvem školství a poté Státním ústavem památkové péče a ochrany přírody v Plzni, od roku 2003 Národním památkovým ústavem"}
+ ],
+ "events": [
+  {"year": 1421, "text": "husité pod velením Jana Žižky hrad podruhé obléhají a dobývají; Žižka zde přišel o druhé oko"},
+  {"year": 1500, "text": "pozdně gotická přestavba Půty Švihovského, na níž se podílel stavitel Benedikt Rejt", "approx": true},
+  {"year": 1549, "text": "zadlužení Švihovští prodávají hrad kvůli nákladné přestavbě"},
+  {"year": 1625, "text": "smrt Jana Viléma Chanovského vyvolává dlouholeté dědické spory a rozdělení panství"},
+  {"year": 1708, "text": "hrad kupují Lambergové, krátce poté vyhořel a zůstal neobydlený"},
+  {"year": 1920, "text": "hrabě Jindřich Lamberg se v rámci pozemkové reformy vzdává hradu za symbolickou korunu ve prospěch horažďovického spolku"},
+  {"year": 1953, "text": "hrad prohlášen státním kulturním majetkem"},
+  {"year": 1986, "text": "po rekonstrukci a zabezpečovacích pracích znovu zpřístupněn veřejnosti"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Rabí_(hrad)"]
+}

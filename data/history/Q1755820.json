@@ -1,0 +1,30 @@
+{
+ "id": "Q1755820",
+ "name": "Sychrov",
+ "founded": {"year": 1690, "approx": false, "text": "Na místě starší gotické tvrzi zaniklé za třicetileté války postavili Lamottové z Frintropu v letech 1690-1693 dvoupatrový barokní zámek."},
+ "summary": "Barokní zámek Sychrov postavili koncem 17. století Lamottové z Frintropu. V roce 1820 jej koupil francouzský knížecí rod Rohanů, kteří jej v letech 1847-1862 přestavěli na novogotické sídlo a shromáždili zde rozsáhlé sbírky včetně portrétní galerie. Po druhé světové válce byl majetek poslednímu majiteli Alainu Rohanovi zkonfiskován a od roku 1950 je zámek zpřístupněn veřejnosti ve správě státu (NPÚ).",
+ "owners": [
+  {"owner": "lamottove-z-frintropu", "owner_wiki": "Lamottové z Frintropu", "person": null, "from": 1650, "to": 1820, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "Přesný rok nabytí Sychrova rodem není znám; doloženi jako majitelé při stavbě barokního zámku 1690-1693, prodali panství 1820."},
+  {"owner": "rohanove", "owner_wiki": "Rohanové", "person": "Karel Alain Gabriel Rohan", "from": 1820, "to": 1836, "from_approx": false, "to_approx": false, "how": "koupe", "note": "Koupil Sychrov od hraběnky de la Motte, zemřel na Sychrově 1836."},
+  {"owner": "rohanove", "owner_wiki": "Rohanové", "person": "Kamil Josef Idesbald Filip Rohan", "from": 1846, "to": 1892, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "Vlastnictví Sychrova mezi lety 1836-1846 (hlavou rodu byl Louis Victor Meriadec de Rohan) není v dostupných zdrojích jednoznačně doloženo. Kamil provedl v letech 1847-1862 novogotickou přestavbu zámku."},
+  {"owner": "rohanove", "owner_wiki": "Rohanové", "person": "Alain Benjamin Arthur Rohan", "from": 1892, "to": 1914, "from_approx": false, "to_approx": false, "how": "dedictvi"},
+  {"owner": "rohanove", "owner_wiki": "Rohanové", "person": "Alain Rohan (Alain Anton Josef Rohan)", "from": 1914, "to": 1945, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "Poslední rohanský majitel, přijal ve 30. letech německé občanství a vstoupil do NSDAP."},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "Konfiskováno na základě dekretu prezidenta republiky č. 12/1945 Sb. Od roku 1950 zpřístupněno veřejnosti, spravuje Národní památkový ústav. Pokus dědiců o restituci po roce 1989 neuspěl."}
+ ],
+ "events": [
+  {"year": 1650, "text": "Zánik starší gotické tvrze za třicetileté války (odhad)."},
+  {"year": 1693, "text": "Dokončení barokního zámku Lamottů z Frintropu."},
+  {"year": 1820, "text": "Sychrov kupuje francouzský knížecí rod Rohanů a činí z něj hlavní české sídlo."},
+  {"year": 1862, "text": "Dokončení rozsáhlé novogotické přestavby zámku podle plánů Bernharda Gruebera a Josefa Pruvota za knížete Kamila Rohana."},
+  {"year": 1945, "text": "Konfiskace majetku Rohanů československým státem podle dekretu č. 12/1945 Sb."},
+  {"year": 1950, "text": "Zámek postupně zpřístupněn veřejnosti."},
+  {"year": 1995, "text": "Zámek prohlášen národní kulturní památkou."}
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Sychrov_(zámek)",
+  "https://cs.wikipedia.org/wiki/Charles_Alain_de_Rohan",
+  "https://cs.wikipedia.org/wiki/Kamil_Rohan",
+  "https://cs.wikipedia.org/wiki/Alain_Rohan",
+  "https://de.wikipedia.org/wiki/Schloss_Sychrov"
+ ]
+}

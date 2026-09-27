@@ -1,0 +1,30 @@
+{
+ "id": "Q940492",
+ "name": "Bouzov",
+ "founded": {"year": 1317, "approx": true, "text": "hrad pravděpodobně postaven na přelomu 13. a 14. století; prvním písemně doloženým majitelem byl Búz z Bouzova v letech 1317-1339"},
+ "summary": "Hrad Bouzov byl založen na přelomu 13. a 14. století, prvním doloženým majitelem byl v letech 1317-1339 Búz z Bouzova. Vystřídala se na něm řada šlechtických rodů (páni z Vildenberka, markrabě Jošt, páni z Kunštátu, Haugvicové z Biskupic, Podstatští z Prusinovic), roku 1696 jej koupil Řád německých rytířů, který jej vlastnil (s přerušením v letech 1918-1923 a zabráním nacisty za 2. světové války) až do roku 1945. Současnou romanticky historizující podobu dostal přestavbou v letech 1895-1910 na popud velmistra řádu arcivévody Evžena Rakousko-Těšínského. Od roku 1945 je majetkem československého, resp. českého státu ve správě Národního památkového ústavu; Řád německých rytířů se o navrácení hradu neúspěšně uchází dodnes.",
+ "owners": [
+  {"owner": "soukromnik", "person": "Búz z Bouzova", "from": 1317, "to": 1339, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "první písemně doložený majitel hradu"},
+  {"owner": "pani-z-vildenberka", "owner_wiki": "Páni z Vildenberka", "person": null, "from": 1339, "to": 1382, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "od poloviny 14. století; roku 1382 prodali hrad markraběti Joštovi"},
+  {"owner": "koruna", "person": "Jošt Moravský", "from": 1382, "to": 1396, "from_approx": false, "to_approx": false, "how": "koupe", "note": "moravský markrabě; roku 1396 hrad přenechal pánům z Kunštátu"},
+  {"owner": "pani-z-kunstatu-a-podebrad", "owner_wiki": "Páni z Kunštátu a Poděbrad", "person": null, "from": 1396, "to": 1466, "from_approx": false, "to_approx": true, "how": "dar", "note": "hrad upravovali a opevňovali, drželi jej přibližně 70 let"},
+  {"owner": "neznamo", "person": null, "from": 1466, "to": 1494, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "vystřídalo se více majitelů, blíže nespecifikováno"},
+  {"owner": "haugvicove-z-biskupic", "owner_wiki": "Haugvicové z Biskupic", "person": "Jan Hanuš Haugvic z Biskupic", "from": 1494, "to": 1649, "from_approx": false, "to_approx": false, "how": "koupe", "note": "1502 povýšení do panského stavu; Jan Hanuš zemřel na hradě 1524, dále drželi dědicové"},
+  {"owner": "podstatsti-z-prusinovic", "owner_wiki": "Podstatští z Prusinovic", "person": "Eugenie Podstatská z Prusinovic", "from": 1649, "to": 1696, "from_approx": false, "to_approx": false, "how": "koupe", "note": "roku 1696 syn Eugenie hrad prodal Řádu německých rytířů"},
+  {"owner": "rad-nemeckych-rytiru", "owner_wiki": "Řád německých rytířů", "person": null, "from": 1696, "to": 1939, "from_approx": false, "to_approx": false, "how": "koupe", "note": "1918-1923 hrad okupován československým vojskem kvůli konfiskaci majetku arcivévody Evžena Rakousko-Těšínského, majetek řádu vrácen po rozhodnutí Haagského soudu; 1895-1910 romantická přestavba podle plánů Georga von Hauberrissera"},
+  {"owner": "stat", "person": null, "from": 1939, "to": 1945, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "hrad zabrán jednotkami SS, které jej užívaly jako základnu"},
+  {"owner": "stat", "person": null, "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "po válce zkonfiskován československým státem, dosud ve státní správě (NPÚ); snahy Řádu německých rytířů o navrácení hradu zatím neúspěšné"}
+ ],
+ "events": [
+  {"year": 1382, "text": "páni z Vildenberka prodávají hrad markraběti Joštovi"},
+  {"year": 1396, "text": "Jošt přenechává hrad pánům z Kunštátu"},
+  {"year": 1494, "text": "Jan Hanuš Haugvic z Biskupic kupuje hrad Bouzov"},
+  {"year": 1558, "text": "požár hradu, obnoven až roku 1620"},
+  {"year": 1696, "text": "hrad kupuje Řád německých rytířů"},
+  {"year": 1895, "text": "začátek romantické přestavby hradu podle Georga von Hauberrissera (dokončena 1910)"},
+  {"year": 1939, "text": "hrad zabírají jednotky SS"},
+  {"year": 1945, "text": "poválečná konfiskace hradu československým státem"},
+  {"year": 1999, "text": "hrad zapsán na seznam národních kulturních památek"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Bouzov_(hrad)"]
+}

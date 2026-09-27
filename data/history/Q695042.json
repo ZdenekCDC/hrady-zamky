@@ -1,0 +1,31 @@
+{
+ "id": "Q695042",
+ "name": "Žebrák",
+ "founded": {
+  "year": 1265,
+  "approx": true,
+  "text": "Šlechtický hrad založil ve druhé polovině 13. století Oldřich Zajíc z Valdeka nedaleko obchodní stezky z Prahy do Bavorska."
+ },
+ "summary": "Žebrák založil ve druhé polovině 13. století Oldřich Zajíc z Valdeka, roku 1336 jej získal výměnou král Jan Lucemburský a hrad se stal oblíbenou rezidencí Karla IV. a zejména Václava IV., který jej nákladně přestavěl. Po založení sousedního Točníku na konci 14. století význam Žebráku klesal; přestože za husitských válek dvakrát odolal obléhání, zůstal po požáru roku 1532 neobnoven a změnil se ve zříceninu. Osudy hradu byly úzce spjaty se sousedním Točníkem (společné zbirožské panství); v době první republiky patřil Klubu československých turistů a od roku 1953 je majetkem státu, spravovaným Národním památkovým ústavem.",
+ "owners": [
+  {"owner": "zajicove-z-hazmburka", "owner_wiki": "Zajícové z Hazmburka", "person": "Oldřich Zajíc z Valdeka, syn Oldřich IV., bratr Zbyněk Zajíc z Hazmburka", "from": 1265, "to": 1336, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "zakladatel patřil k větvi Zajíců z Valdeka; Zbyněk roku 1336 vyměnil Žebrák s králem za výnosnější budyňské panství"},
+  {"owner": "koruna", "owner_wiki": null, "person": "Jan Lucemburský", "from": 1336, "to": 1341, "from_approx": false, "to_approx": false, "how": "vymena"},
+  {"owner": "lucemburkove", "owner_wiki": "Lucemburkové", "person": "Jan Jindřich Lucemburský (bratr Karla IV.)", "from": 1341, "to": 1349, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil zchátralý hrad, roku 1349 jej prodal zpět Karlovi IV."},
+  {"owner": "koruna", "owner_wiki": null, "person": "Karel IV.", "from": 1349, "to": 1358, "from_approx": false, "to_approx": true, "how": "koupe", "note": "často na hradě pobýval, roku 1351 zde zemřel jeho prvorozený syn Václav; přesto hrad před rokem 1358 zastavil"},
+  {"owner": "z-magdeburku", "owner_wiki": null, "person": "purkrabí Purkart", "from": 1358, "to": 1380, "from_approx": true, "to_approx": true, "how": "lenni", "note": "magdeburský purkrabí, hrad mu byl zastaven navzdory tomu, že jej Karel IV. sám vyňal ze statků nesměnitelných do zástavy; přesné roky nejsou v pramenech uvedeny"},
+  {"owner": "koruna", "owner_wiki": null, "person": "Václav IV.", "from": 1380, "to": 1420, "from_approx": true, "to_approx": false, "how": "jine", "note": "vyplatil hrad ze zástavy a nákladně jej přestavěl na oblíbenou rezidenci; roku 1395 hrad vyhořel, poté opraven"},
+  {"owner": "kolovratove", "owner_wiki": "Kolovratové", "person": "Hanuš z Kolovrat", "from": 1422, "to": 1460, "from_approx": true, "to_approx": true, "how": "lenni", "note": "zástavní držitel, sídlil na sousedním Točníku; Žebrák po husitských válkách nechal opravit (doloženo 1460 vysvěcení kaple po rekonstrukci)"},
+  {"owner": "krajirove-z-krajku", "owner_wiki": "Krajířové z Krajku", "person": "Volf Krajíř z Krajku", "from": null, "to": 1553, "from_approx": true, "to_approx": false, "how": "lenni", "note": "mezi Kolovraty a Krajířem hrad patrně sdílel osud s Točníkem (zástavní majitelé zbirožského panství); Krajíř na hradě hledal poklady a urychlil tak jeho zkázu po požáru 1532, roku 1553 byl hrad označen jako pustý"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Klub československých turistů", "from": null, "to": 1953, "from_approx": true, "to_approx": true, "how": "jine", "note": "vlastnil zříceninu v době první republiky; plánovaná konzervace zdiva byla zahájena až za války a přerušena kvůli nacistickým omezením stavebních materiálů"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1953, "to": null, "from_approx": true, "to_approx": false, "how": "jine", "note": "spravuje Národní památkový ústav; konzervace a archeologický výzkum probíhaly ve 2. polovině 20. století"}
+ ],
+ "events": [
+  {"year": 1336, "text": "Zbyněk Zajíc z Hazmburka vyměnil Žebrák s Janem Lucemburským za budyňské panství"},
+  {"year": 1351, "text": "na hradě zemřel prvorozený syn Karla IV., Václav"},
+  {"year": 1395, "text": "hrad vyhořel, patrně zapálen vojskem Jindřicha III. z Rožmberka, poté opraven"},
+  {"year": 1425, "text": "neúspěšné obléhání husitským vojskem"},
+  {"year": 1430, "text": "druhé obléhání, ukončeno po devíti týdnech přechodem Hanuše z Kolovrat na stranu husitů"},
+  {"year": 1532, "text": "hrad vyhořel a nebyl již obnoven, roku 1553 označen jako pustý"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Žebrák_(hrad)"]
+}

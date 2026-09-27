@@ -1,0 +1,37 @@
+{
+ "id": "Q2164885",
+ "name": "Litomyšl",
+ "founded": {"year": 1145, "approx": true, "text": "kolem poloviny 12. stol. založena premonstrátská kanonie s románskou bazilikou na místě dnešního zámeckého návrší"},
+ "summary": "Na zámeckém návrší v Litomyšli stála nejprve premonstrátská kanonie, od poloviny 14. století sídlo litomyšlského biskupství, po husitských válkách přeměněné na panské sídlo Kostků z Postupic. Současnou renesanční podobu dal areálu v letech 1568-1581 Vratislav II. z Pernštejna, po jehož rodu se na zámku vystřídali Trauttmansdorffové, Valdštejnové-Vartenberkové a Thurn-Taxisové. Od roku 1945 je většina areálu v majetku státu (spravuje NPÚ), část je po restituci majetkem města; v roce 1999 byl zámek zapsán na seznam světového dědictví UNESCO.",
+ "owners": [
+  {"owner": "cirkev", "from": 1145, "to": 1344, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "premonstrátská kanonie s románskou bazilikou"},
+  {"owner": "cirkev", "from": 1344, "to": 1421, "from_approx": false, "to_approx": true, "how": "jine", "note": "sídlo nově zřízeného litomyšlského biskupství, zaniklo v důsledku husitských válek"},
+  {"owner": "koruna", "from": 1421, "to": 1432, "from_approx": true, "to_approx": false, "how": "konfiskace", "note": "zeměpanský majetek po zabrání bývalého biskupského jmění za husitských válek"},
+  {"owner": "kostkove-z-postupic", "owner_wiki": "Kostkové z Postupic", "person": "Vilém Kostka z Postupic", "from": 1432, "to": 1547, "from_approx": false, "to_approx": false, "how": "lenni", "note": "1432 od panovníka, 1436 do dědičné zástavní držby; Kostkové sídlili v bývalém biskupském paláci"},
+  {"owner": "koruna", "from": 1547, "to": 1547, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "konfiskace po stavovském odboji proti Ferdinandu I."},
+  {"owner": "pernstejnove", "owner_wiki": "Pernštejnové", "person": "Jaroslav z Pernštejna", "from": 1547, "to": 1567, "from_approx": true, "to_approx": true, "how": "lenni", "note": "zástavní držba; roku 1552 doloženo držení Jaroslavem z Pernštejna"},
+  {"owner": "pernstejnove", "owner_wiki": "Pernštejnové", "person": "Vratislav II. z Pernštejna", "from": 1567, "to": 1582, "from_approx": true, "to_approx": false, "how": "lenni", "note": "zástava udělená císařem Maxmiliánem II.; 1568-1581 postavil renesanční zámek"},
+  {"owner": "pernstejnove", "owner_wiki": "Pernštejnové", "person": "Marie Manrique de Lara y Mendoza", "from": 1582, "to": 1608, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "manželka Vratislava II."},
+  {"owner": "pernstejnove", "owner_wiki": "Pernštejnové", "person": "Polyxena z Lobkovic, rozená z Pernštejna", "from": 1608, "to": 1627, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "dcera Vratislava II., správa panství za nezletilého Vratislava Eusebia"},
+  {"owner": "pernstejnove", "owner_wiki": "Pernštejnové", "person": "Vratislav Eusebius z Pernštejna", "from": 1608, "to": 1631, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "vnuk Vratislava II."},
+  {"owner": "pernstejnove", "owner_wiki": "Pernštejnové", "person": "Frebonie Eusebie z Pernštejna", "from": 1631, "to": 1646, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "sestra Vratislava Eusebia, rod Pernštejnů s ní vymírá po přeslici"},
+  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": "Václav Eusebius Popel z Lobkovic", "from": 1646, "to": 1649, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "syn Polyxeny a Zdeňka Vojtěcha Popela z Lobkovic; roku 1649 panství prodal"},
+  {"owner": "trauttmansdorffove", "owner_wiki": "Trauttmansdorffové", "person": "Maxmilián z Trauttmansdorfu", "from": 1649, "to": 1753, "from_approx": false, "to_approx": false, "how": "koupe", "note": "1649-1650 Maxmilián, dále synové a vnuci; litomyšlská linie rodu vymřela po meči 1753"},
+  {"owner": "valdstejnove", "owner_wiki": "Valdštejnové", "person": "František Josef Jiří z Valdštejna-Vartenberka", "from": 1757, "to": 1855, "from_approx": false, "to_approx": false, "how": "snatek", "note": "větev Valdštejnové-Vartenberkové; zámek vyženil sňatkem s Marií Františkou Josefou z Trauttmansdorffu; poslední majitel Antonín II. panství pro dluhy prodal v dražbě"},
+  {"owner": "thurn-taxisove", "owner_wiki": "Thurn-Taxisové", "person": "Maxmilián Karel z Thurn-Taxisu", "from": 1855, "to": 1945, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupě v dražbě; rodina na zámku trvale nesídlila; roku 1945 majetek zkonfiskován Benešovými dekrety"},
+  {"owner": "stat", "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "zámek spravuje Národní památkový ústav"},
+  {"owner": "mesto", "from": 1990, "to": null, "from_approx": true, "to_approx": false, "how": "restituce", "note": "areál rozdělen restitucí na část státní a městskou (pivovar, jízdárna, konírna, I. nádvoří)"}
+ ],
+ "events": [
+  {"year": 1344, "text": "kanonie přeměněna v sídlo nově zřízeného litomyšlského biskupství"},
+  {"year": 1432, "text": "Vilém Kostka z Postupic získává Litomyšl a bývalé biskupské jmění"},
+  {"year": 1568, "text": "Vratislav II. z Pernštejna zahajuje stavbu renesančního zámku podle návrhu G. B. Aostalliho"},
+  {"year": 1581, "text": "dokončení hlavní stavby renesančního zámku"},
+  {"year": 1796, "text": "výstavba zámeckého divadla za Jiřího Josefa z Valdštejna-Vartenberka"},
+  {"year": 1855, "text": "zadlužené panství koupeno v dražbě Thurn-Taxisy"},
+  {"year": 1945, "text": "konfiskace majetku Thurn-Taxisů na základě Benešových dekretů"},
+  {"year": 1949, "text": "zámek zpřístupněn veřejnosti, první ročník festivalu Smetanova Litomyšl"},
+  {"year": 1999, "text": "zápis zámku na Seznam světového dědictví UNESCO"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Litomyšl_(zámek)"]
+}

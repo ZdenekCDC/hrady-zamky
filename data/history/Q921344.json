@@ -1,0 +1,236 @@
+{
+ "id": "Q921344",
+ "name": "Veveří",
+ "founded": {
+  "year": 1059,
+  "approx": true,
+  "text": "podle pověsti založen kolem roku 1059 moravským údělným knížetem Konrádem I. Brněnským, první písemná zmínka je z roku 1213"
+ },
+ "summary": "Veveří je jeden z nejstarších a nejrozsáhlejších hradních areálů na Moravě, založený jako zeměpanský hrad moravských Přemyslovců a později Lucemburků. V raném novověku byl v držení šlechtických rodů (Teuffenbachové, Sinzendorfové) a od 19. století patřil řadě soukromých majitelů včetně švédského prince Gustava Vasy a filantropa Maurice de Hirsche. Od roku 1925 je majetkem státu, za druhé světové války jej zabral Wehrmacht a SS, a dnes jej spravuje Národní památkový ústav.",
+ "owners": [
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Konrád I. Brněnský",
+   "from": 1059,
+   "to": 1311,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "moravský zeměpanský hrad; od 1213 doložen správce Štěpán z Medlova"
+  },
+  {
+   "owner": "vartenberkove",
+   "owner_wiki": "Vartenberkové",
+   "person": "Jan z Vartenberka",
+   "from": 1311,
+   "to": 1334,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "lenni",
+   "note": "hrad zastaven; roku 1334 se o navrácení zasadil markrabě Karel (pozdější Karel IV.)"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Jan Jindřich",
+   "from": 1334,
+   "to": 1424,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "moravský markrabě, bratr Karla IV., hrad rozšiřoval a opevňoval; užíván jako zemská pevnost a pokladnice"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Albrecht II. Habsburský",
+   "from": 1424,
+   "to": 1440,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "lenni",
+   "note": "za husitských válek na hradě posádka vévody Albrechta; roku 1424 neúspěšné obléhání husity"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Přemysl II. Těšínský",
+   "from": 1440,
+   "to": 1468,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "těšínský kníže, spojenec Jiřího z Poděbrad za česko-uherské války"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Matyáš Korvín",
+   "from": 1468,
+   "to": 1490,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "konfiskace",
+   "note": "hrad dobyt uherským vojskem"
+  },
+  {
+   "owner": "z-ludanic",
+   "owner_wiki": "Páni z Ludanic",
+   "person": "Václav z Ludanic",
+   "from": 1490,
+   "to": 1550,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "na konci 15. století; poté se majitelé podle zdroje střídali blíže neurčeně"
+  },
+  {
+   "owner": "teuffenbachove",
+   "owner_wiki": "Teuffenbachové",
+   "person": null,
+   "from": 1550,
+   "to": 1707,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "uvedeni v infoboxu článku mezi dalšími majiteli panství, přesná data nabytí zdroj neuvádí; roku 1645 hrad odolal švédskému obléhání za třicetileté války"
+  },
+  {
+   "owner": "sinzendorfove",
+   "owner_wiki": "Sinzendorfové",
+   "person": "Prosper ze Sinzendorfu",
+   "from": 1707,
+   "to": 1804,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "barokní úpravy hradu, mj. fresky v jídelně; roku 1741 hrad vyplenilo pruské vojsko"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Vilém Mundy",
+   "from": 1804,
+   "to": 1825,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "průmyslník, spojil panství s tišnovským"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Jan Mundy",
+   "from": 1825,
+   "to": 1830,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "dědic Viléma Mundyho"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Gustav Vasa",
+   "from": 1830,
+   "to": 1844,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "syn sesazeného švédského krále Gustava IV. Adolfa"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Georg Simon von Sina",
+   "from": 1844,
+   "to": 1856,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "vídeňský podnikatel řeckého původu"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Helena Ypsilanti",
+   "from": 1856,
+   "to": 1881,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "vnučka Georga Simona von Sina; po roce 1870 vznikl anglický park"
+  },
+  {
+   "owner": "hirschove-z-gereuthu",
+   "owner_wiki": "Hirschové z Gereuthu",
+   "person": "Maurice de Hirsch",
+   "from": 1881,
+   "to": 1896,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "židovský filantrop a obchodník; roku 1908 na hradě strávil část svatební cesty Winston Churchill jako host jeho nástupce"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Mořic Arnold de Forest-Bischofsheim",
+   "from": 1896,
+   "to": 1925,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "anglický baron, příbuzný manželky Maurice de Hirsche; vedl spor s Československou republikou o pozemkovou reformu"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1925,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "od 1999 ve správě Národního památkového ústavu; v letech 1942-1945 zabaven Wehrmachtem a SS, 1953-1999 užíván školami a VUT Brno"
+  }
+ ],
+ "events": [
+  {
+   "year": 1213,
+   "text": "první písemná zmínka o hradu, správcem Štěpán z Medlova"
+  },
+  {
+   "year": 1311,
+   "text": "hrad zastaven Janovi z Vartenberka"
+  },
+  {
+   "year": 1424,
+   "text": "neúspěšné obléhání husitskými vojsky"
+  },
+  {
+   "year": 1468,
+   "text": "hrad dobyt vojskem Matyáše Korvína"
+  },
+  {
+   "year": 1645,
+   "text": "hrad odolal obléhání švédskými vojsky za třicetileté války"
+  },
+  {
+   "year": 1925,
+   "text": "hrad přechází do vlastnictví československého státu"
+  },
+  {
+   "year": 1945,
+   "text": "poškození hradu při osvobozovacích bojích o Brno po německé okupaci 1942-1945"
+  },
+  {
+   "year": 2002,
+   "text": "po rozsáhlé rekonstrukci znovu trvale otevřen veřejnosti"
+  }
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Veveří_(hrad)"
+ ]
+}

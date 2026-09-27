@@ -1,0 +1,99 @@
+{
+ "id": "Q1011508",
+ "name": "Dívčí kámen",
+ "founded": {
+  "year": 1358,
+  "approx": true,
+  "text": "Král Karel IV. roku 1349 povolil bratrům Joštovi, Petrovi, Janovi a Oldřichovi z Rožmberka stavbu hradu; ta proběhla v následujícím desetiletí, hrad je prokazatelně stál roku 1383 (pod německým jménem Maidstein)."
+ },
+ "summary": "Gotický hrad Dívčí kámen (Maidštejn) postavili od roku 1349 bratři z Rožmberka na ostrohu nad soutokem Křemžského potoka s Vltavou; roku 1394 zde Jindřich III. z Rožmberka věznil zajatého krále Václava IV. a roku 1420 hrad odolal obléhání Jana Žižky. Rožmberkové jej drželi až do poloviny 16. století, kdy přestal být udržován a roku 1541 zpustl; ve zdroji není uvedeno, kdo hrad vlastnil mezi tímto rokem a přechodem na hlubocko-krumlovskou větev Schwarzenbergů zhruba v 18. století. Po znárodnění roku 1947 (Lex Schwarzenberg) spravovaly zříceninu Lesy České republiky, od roku 2005 patří městysu Křemže.",
+ "owners": [
+  {
+   "owner": "rozmberkove",
+   "owner_wiki": "Rožmberkové",
+   "person": "Jošt, Petr, Jan a Oldřich z Rožmberka",
+   "from": 1349,
+   "to": 1420,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "hrad stavěn v následujícím desetiletí po povolení 1349; od 1394 jej držel Jindřich III. z Rožmberka (roku 1394 zde vězněn král Václav IV.), po jeho smrti 1412 Oldřich II. z Rožmberka, který hrad na počátku husitských válek postoupil Vilémovi z Potštejna"
+  },
+  {
+   "owner": "z-potstejna",
+   "owner_wiki": null,
+   "person": "Vilém z Potštejna",
+   "from": 1420,
+   "to": 1426,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "roku 1420 hrad obléhalo a nedobylo vojsko Jana Žižky (poboření podhradního městečka); roku 1426 se hrad vrátil Oldřichu II. z Rožmberka"
+  },
+  {
+   "owner": "rozmberkove",
+   "owner_wiki": "Rožmberkové",
+   "person": "Oldřich II., Jan a Petr z Rožmberka",
+   "from": 1426,
+   "to": 1541,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "jine",
+   "note": "Oldřich z hradu učinil na sklonku života své sídlo, po jeho smrti zdědil syn Jan, poté Petr z Rožmberka, jenž roku 1506 provedl poslední opravy; roku 1541 se hrad připomíná jako pustý"
+  },
+  {
+   "owner": "neznamo",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1541,
+   "to": 1700,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "cs.wiki neuvádí konkrétní držitele mezi rokem 1541 (hrad pustý) a přechodem na hlubocko-krumlovskou větev Schwarzenbergů \"zhruba od 18. století\""
+  },
+  {
+   "owner": "schwarzenbergove",
+   "owner_wiki": "Schwarzenbergové",
+   "person": "Adolf Schwarzenberg",
+   "from": 1700,
+   "to": 1947,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "hlubocko-krumlovská větev rodu; roku 1936 Adolf Schwarzenberg zříceninu pronajal Klubu československých turistů v Českých Budějovicích"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1947,
+   "to": 2005,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "znárodněno jako součást lesních pozemků na základě zákona Lex Schwarzenberg; spravováno Lesy České republiky, 1951 vyhlášena přírodní rezervace"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": null,
+   "from": 2005,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "převedeno ze správy Lesů ČR do vlastnictví městyse Křemže, který provoz pronajal firmě Dívčí hrady"
+  }
+ ],
+ "events": [
+  {"year": 1349, "text": "Karel IV. povolil bratrům z Rožmberka stavbu hradu"},
+  {"year": 1383, "text": "hrad prokazatelně stojí, doložen pod jménem Maidstein"},
+  {"year": 1394, "text": "Jindřich III. z Rožmberka zde vězní zajatého krále Václava IV."},
+  {"year": 1420, "text": "hrad odolal obléhání husitského vojska Jana Žižky"},
+  {"year": 1541, "text": "hrad se poprvé připomíná jako pustý"},
+  {"year": 1947, "text": "znárodnění zříceniny na základě zákona Lex Schwarzenberg"},
+  {"year": 2005, "text": "zřícenina převedena do vlastnictví městyse Křemže"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Dívčí_kámen"]
+}

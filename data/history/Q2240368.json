@@ -1,0 +1,25 @@
+{
+ "id": "Q2240368",
+ "name": "Boskovice",
+ "founded": {"year": 1682, "approx": false, "text": "1682 - Jan Bohuš ze Zástřizl založil na místě dnešního zámku dominikánský klášter s kostelem; vlastní empírový zámek vznikl přestavbou v letech 1819-1826."},
+ "summary": "Dnešní empírový zámek Boskovice vznikl přestavbou zrušeného dominikánského kláštera, který v roce 1682 založil Jan Bohuš ze Zástřizl. Po zrušení kláštera za Josefa II. objekt roku 1784 koupili Ditrichštejnové a v letech 1819-1826 jej přestavěli na zámek. Od roku 1856 patřil rodu Mensdorff-Pouilly, kterému byl v roce 1950 znárodněn a v roce 1991 vrácen v restituci.",
+ "owners": [
+  {"owner": "pani-ze-zastrizl", "owner_wiki": "Páni ze Zástřizl", "person": "Jan Bohuš ze Zástřizl", "from": 1682, "to": 1682, "from_approx": false, "to_approx": false, "how": "zalozeni", "note": "založil na místě dnešního zámku dominikánský klášter s kostelem"},
+  {"owner": "cirkev", "owner_wiki": null, "person": null, "from": 1682, "to": 1784, "from_approx": false, "to_approx": false, "how": "dar", "note": "dominikánský klášter; zrušen za Josefa II. v roce 1784"},
+  {"owner": "ditrichstejnove", "owner_wiki": "Ditrichštejnové", "person": "František Xaver Ditrichštejn", "from": 1784, "to": 1856, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupili zrušený klášter, provozovali zde manufakturu na barvy, v letech 1819-1826 přestavba na zámek"},
+  {"owner": "mensdorff-pouilly", "owner_wiki": "Mensdorff-Pouilly", "person": null, "from": 1856, "to": 1950, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "zdroj neuvádí způsob nabytí; roku 1950 majetek znárodněn"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1950, "to": 1991, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "znárodnění; v zámku mj. Muzeum Boskovicka a středoškolský internát"},
+  {"owner": "mensdorff-pouilly", "owner_wiki": "Mensdorff-Pouilly", "person": null, "from": 1991, "to": null, "from_approx": false, "to_approx": false, "how": "restituce", "note": "provozuje MP Holding, a.s."}
+ ],
+ "events": [
+  {"year": 1682, "text": "založení dominikánského kláštera Janem Bohušem ze Zástřizl"},
+  {"year": 1784, "text": "zrušení kláštera za Josefa II., odkup Ditrichštejny"},
+  {"year": 1826, "text": "dokončení přestavby na empírový zámek (1819-1826)"},
+  {"year": 1829, "text": "stavba empírového skleníku"},
+  {"year": 1916, "text": "zřícení vnitřní části západního křídla vlivem narušení statiky"},
+  {"year": 1945, "text": "za 2. světové války zámek sloužil armádě (čs. štáb, lazaret wehrmachtu, štáb Rudé armády)"},
+  {"year": 1950, "text": "znárodnění majetku rodu Mensdorff-Pouilly"},
+  {"year": 1991, "text": "restituce majetku rodině Mensdorff-Pouilly"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Boskovice_(zámek)"]
+}

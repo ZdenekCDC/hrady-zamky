@@ -1,0 +1,33 @@
+{
+ "id": "Q744016",
+ "name": "Konopiště",
+ "founded": {"year": 1294, "approx": true, "text": "konec 13. století (nejpravděpodobněji kolem 1294), založení připisováno biskupu Tobiáši z Bechyně nebo přímo panovníkovi"},
+ "summary": "Konopiště patřilo od počátku 14. století Benešovicům, poté téměř 260 let Šternberkům, kteří hrad roku 1467-1468 úspěšně ubránili při obléhání vojskem Jiřího z Poděbrad. Po řadě dalších majitelů (Hodějovští, Valdštejn, Michnové, Vrtbové, Lobkovicové) koupil zámek v roce 1887 arcivévoda František Ferdinand d'Este, jehož zavraždění v Sarajevu 1914 odstartovalo první světovou válku. Po vzniku Československa byl habsburský majetek roku 1921 zkonfiskován a Konopiště od té doby patří státu.",
+ "owners": [
+  {"owner": "benesovici", "owner_wiki": "Benešovici", "person": "Beneš a Dobeš z Benešoviců", "from": 1294, "to": 1327, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "první písemná zmínka 1318, rod vymřel 1327"},
+  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": "Petr Konopišťský ze Šternberka, od 1440 Zdeněk Konopišťský ze Šternberka", "from": 1327, "to": 1590, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "1467-1468 osmnáctiměsíční obležení vojskem Jiřího z Poděbrad, hrad se ubránil"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Dorota Hodějovská z Harasova", "from": 1590, "to": 1603, "from_approx": true, "to_approx": false, "how": "koupe", "note": "panství prodáno komisionálně 1603 za 110 000 kop grošů míšeňských"},
+  {"owner": "hodejovsti-z-hodejova", "owner_wiki": "Hodějovští z Hodějova", "person": "Bernard Hodějovský", "from": 1603, "to": 1623, "from_approx": false, "to_approx": false, "how": "koupe", "note": "protestantská rodina, po stavovském povstání 1618-1620 majetek zkonfiskován"},
+  {"owner": "valdstejnove", "owner_wiki": "Valdštejnové", "person": "Albrecht z Valdštejna", "from": 1623, "to": 1623, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupě pobělohorské konfiskace za 65 000 zlatých"},
+  {"owner": "michnove-z-vacinova", "owner_wiki": "Michnové z Vacínova", "person": null, "from": 1623, "to": 1673, "from_approx": false, "to_approx": false, "how": "koupe"},
+  {"owner": "sinzendorfove", "owner_wiki": "Sinzendorfové", "person": "Jiří Ludvík ze Sinzendorfu", "from": 1673, "to": 1701, "from_approx": false, "to_approx": false, "how": "koupe"},
+  {"owner": "prehorovsti-z-kvasejovic", "owner_wiki": "Přehořovští z Kvasejovic", "person": "František Karel Přehořovský z Kvasejovic", "from": 1701, "to": 1716, "from_approx": false, "to_approx": false, "how": "koupe"},
+  {"owner": "pani-z-vrtby", "owner_wiki": "Páni z Vrtby", "person": "Jan Josef z Vrtby", "from": 1716, "to": 1830, "from_approx": false, "to_approx": false, "how": "koupe", "note": "barokní přestavba brány F. M. Kaňkou, sochy M. B. Brauna"},
+  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": null, "from": 1830, "to": 1887, "from_approx": false, "to_approx": false, "how": "koupe", "note": "první novogotická přestavba před rokem 1872"},
+  {"owner": "habsburkove", "owner_wiki": "Habsburkové", "person": "František Ferdinand d'Este", "from": 1887, "to": 1914, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupě od křimických Lobkoviců, přestavba Josefem Mockerem, poslední sídlo následníka trůnu"},
+  {"owner": "hohenbergove", "owner_wiki": "Hohenbergové", "person": null, "from": 1914, "to": 1921, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "morganatičtí potomci Františka Ferdinanda a Žofie Chotkové"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1921, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "konfiskace habsburského majetku zákonem z r. 1921; restituční nárok rodiny Hohenbergů/Nostitz-Rieneckových po roce 1989 nebyl uznán"}
+ ],
+ "events": [
+  {"year": 1294, "text": "založení gotického hradu"},
+  {"year": 1318, "text": "první písemná zmínka, majitelé Benešovici"},
+  {"year": 1468, "text": "kapitulace posádky po 18měsíčním obležení Jednotou zelenohorskou"},
+  {"year": 1623, "text": "pobělohorské konfiskace, Albrecht z Valdštejna a Michnové"},
+  {"year": 1887, "text": "koupě zámku Františkem Ferdinandem d'Este, novogotická přestavba J. Mockera"},
+  {"year": 1914, "text": "atentát na Františka Ferdinanda v Sarajevu, počátek 1. světové války"},
+  {"year": 1921, "text": "konfiskace habsburského majetku, přechod na československý stát"}
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Konopiště"
+ ]
+}

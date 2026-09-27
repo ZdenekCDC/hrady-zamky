@@ -1,0 +1,29 @@
+{
+ "id": "Q2241928",
+ "name": "Kravaře",
+ "founded": {"year": 1553, "approx": true, "text": "Tvrz na místě dnešního zámku je poprvé připomínána roku 1553; starší tvrz pánů z Kravař (obec zmiňována 1224) stála na neznámém místě."},
+ "summary": "Zámek v Kravařích navazuje na tvrz doloženou od roku 1553, jejíž majitelé před rokem 1636 nejsou známi. Od roku 1636 patřil rodu Eichendorffů, kteří zde postavili raně barokní zámek radikálně přestavěný v letech 1721-1728 na honosné barokní sídlo. Po zadlužení rodu Kravaře roku 1782 koupili Schaffgotschové, poté se v 19. a na počátku 20. století vystřídalo několik dalších majitelů, roku 1937 zámek téměř vyhořel a po roce 1921 jej spravoval československý stát; od roku 1990 je majetkem města Kravaře.",
+ "owners": [
+  {"owner": "neznamo", "owner_wiki": null, "person": null, "from": null, "to": 1636, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "majitelé tvrze doložené 1553 nejsou v článku uvedeni"},
+  {"owner": "eichendorffove", "owner_wiki": "Eichendorffové", "person": "Jan Rudolf z Eichendorffu", "from": 1636, "to": 1782, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "krátce po třicetileté válce postavili raně barokní zámek, 1721-1728 radikální přestavba za Jana Rudolfa z Eichendorffu; rod se zadlužil a Kravaře roku 1782 prodal"},
+  {"owner": "schaffgotschove", "owner_wiki": "Schaffgotschové", "person": null, "from": 1782, "to": 1815, "from_approx": false, "to_approx": false, "how": "koupe", "note": "trvale zde sídlili"},
+  {"owner": "rudzinsti", "owner_wiki": null, "person": "Gabriel Rudzinski", "from": 1815, "to": 1844, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "hrabě, vztah ke Schaffgotschům není v článku upřesněn"},
+  {"owner": "renardove", "owner_wiki": null, "person": "Eufemie Renardová, roz. Rudzinská", "from": 1844, "to": 1853, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "sestra Gabriela Rudzinského, provdaná hraběnka Renardová"},
+  {"owner": "neznamo", "owner_wiki": null, "person": null, "from": 1853, "to": 1911, "from_approx": false, "to_approx": true, "how": "neznamo", "note": "majitelé mezi rokem 1853 a 1911 nejsou v článku uvedeni"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Felix Luschka", "from": 1911, "to": 1914, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "kravařský rodák, právník a poslanec Národního shromáždění, poslední soukromý majitel"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Centrální hospodářská společnost pro Moravu a Slezsko", "from": 1918, "to": 1921, "from_approx": false, "to_approx": true, "how": "neznamo", "note": "majitel mezi rokem 1914 a 1918 není v článku uveden"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1921, "to": 1990, "from_approx": false, "to_approx": false, "how": "jine", "note": "od 1921 spravoval čs. stát, zřídil zde hospodářskou školu; 1937 zámek téměř vyhořel, obnoven 1955-1970; od 1970 Muzeum revolučních bojů a osvobození v Ostravě"},
+  {"owner": "mesto", "owner_wiki": null, "person": null, "from": 1990, "to": null, "from_approx": false, "to_approx": false, "how": "jine", "note": "město Kravaře, provozuje regionální Zámecké muzeum"}
+ ],
+ "events": [
+  {"year": 1553, "text": "první zmínka o tvrzi na místě dnešního zámku"},
+  {"year": 1636, "text": "Kravaře se stávají majetkem Eichendorffů, krátce nato postaven raně barokní zámek"},
+  {"year": 1721, "text": "1721-1728 radikální barokní přestavba na honosné sídlo za Jana Rudolfa z Eichendorffu"},
+  {"year": 1782, "text": "zadlužení Eichendorffové prodávají Kravaře hrabatům Schaffgotschům"},
+  {"year": 1937, "text": "zámek téměř úplně vyhořel, dochovala se jen kaple"},
+  {"year": 1945, "text": "zámek poškozen bombardováním během Ostravské operace"},
+  {"year": 1955, "text": "1955-1970 poválečná obnova zámku po požáru"},
+  {"year": 1990, "text": "zámek přechází do majetku města Kravaře"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Kravaře_(zámek)"]
+}

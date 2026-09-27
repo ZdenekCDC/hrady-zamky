@@ -1,0 +1,241 @@
+{
+ "id": "Q1012520",
+ "name": "Hukvaldy",
+ "founded": {
+  "year": 1285,
+  "approx": true,
+  "text": "Hrad postavili páni z Příbora (potomci Franka z Hückeswagenu) jako náhradu za ztracený hrad Jičín, nejspíše mezi lety 1260-1270; první písemná zmínka pochází z roku 1285."
+ },
+ "summary": "Hukvaldy postavili ve 13. století páni z Příbora, od roku 1359 hrad s panstvím trvale vlastnilo olomoucké biskupství, s výjimkou opakovaných zástav a krátkodobých držav světských pánů během markraběcích a husitských válek (Rýzmburkové, Volfsberkové, Falkenberkové, Tovačovští z Cimburka, Lamberkové, Jan Čapek ze Sán aj.). V letech 1466-1511 hrad osobně vlastnil rod pánů z Boskovic, poté se natrvalo vrátil biskupství, které jej v 16. století přebudovalo na mohutnou pevnost proti tureckému nebezpečí (biskupové Thurzo, Khuen a další). Dnes je zříceninou a kulturní památkou; poslední zmíněný majitel v pramenu je biskup František z Dietrichsteina (od 1599), pozdější osud a dnešní vlastnická situace nejsou v použitém článku popsány.",
+ "owners": [
+  {
+   "owner": "z-pribora",
+   "owner_wiki": null,
+   "person": "Frank z Hückeswagenu a jeho synové, páni z Příbora",
+   "from": 1260,
+   "to": 1316,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "postavili hrad jako náhradu za ztracený hrad Jičín (dnešní Starý Jičín); první písemná zmínka o Hukvaldech 1285"
+  },
+  {
+   "owner": "z-fulstejna",
+   "owner_wiki": null,
+   "person": "Dětřich a Jindřich z Fulštejna, olomoučtí kanovníci",
+   "from": 1316,
+   "to": 1321,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo"
+  },
+  {
+   "owner": "z-kytlic",
+   "owner_wiki": null,
+   "person": "Jindřich z Kytlic",
+   "from": 1321,
+   "to": 1327,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe"
+  },
+  {
+   "owner": "cirkev",
+   "owner_wiki": null,
+   "person": "Jan Volek (nemanželský syn Václava II.), poté Jan Očko z Vlašimi",
+   "from": 1337,
+   "to": 1359,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "olomoucké biskupství; majitelé 1327-1337 nejsou v pramenu uvedeni; 1355 papež Inocenc VI. zakázal hrad zastavovat; definitivně vykoupen 1359, kdy jej Karel IV. daroval olomouckým biskupům"
+  },
+  {
+   "owner": "pani-z-ryzmburka",
+   "owner_wiki": "Páni z Rýzmburka",
+   "person": "Mikuláš z Rýzmburka",
+   "from": 1359,
+   "to": 1389,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "spravoval hrad jménem biskupství; během markraběcích válek jej 1389 nucen zastavit"
+  },
+  {
+   "owner": "z-volfsberka",
+   "owner_wiki": null,
+   "person": "Jošt z Volfsberka",
+   "from": 1389,
+   "to": 1390,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni"
+  },
+  {
+   "owner": "z-belin",
+   "owner_wiki": null,
+   "person": "Jakub Ščeně z Bělin",
+   "from": 1390,
+   "to": 1428,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "lenni",
+   "note": "obrana hradu zůstala jeho starostí i za dalších formálních zástavních držitelů"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Bolek, kníže falkenberský",
+   "from": 1428,
+   "to": 1434,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "slezské knížectví Falkenberk; roku 1434 se hradu krátce zmocnili hornoslezští husité"
+  },
+  {
+   "owner": "pani-z-cimburka",
+   "owner_wiki": "Páni z Cimburka",
+   "person": "Jan Tovačovský z Cimburka",
+   "from": 1434,
+   "to": 1434,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "ještě téhož roku (nebo 1435) prodal hrad Mikuláši Sokolovi z Lamberka"
+  },
+  {
+   "owner": "z-lamberka",
+   "owner_wiki": null,
+   "person": "Mikuláš Sokol z Lamberka",
+   "from": 1434,
+   "to": 1437,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "koupe"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Zikmund Lucemburský",
+   "from": 1437,
+   "to": 1438,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "ihned zastavil hrad Janu Čapkovi ze Sán"
+  },
+  {
+   "owner": "z-san",
+   "owner_wiki": null,
+   "person": "Jan Čapek ze Sán",
+   "from": 1438,
+   "to": 1452,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "učinil z Hukvald své druhé sídlo, podnikal odtud výpravy do Polska, Uher a Rakouska, hrad nechal opevnit"
+  },
+  {
+   "owner": "z-ostrova",
+   "owner_wiki": null,
+   "person": "Jan Talafús z Ostrova",
+   "from": 1452,
+   "to": 1465,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "zeť Jana Čapka ze Sán"
+  },
+  {
+   "owner": "pani-z-kunstatu-a-podebrad",
+   "owner_wiki": "Páni z Kunštátu a Poděbrad",
+   "person": "Jiří z Poděbrad",
+   "from": 1465,
+   "to": 1466,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe"
+  },
+  {
+   "owner": "boskovicove",
+   "owner_wiki": "Boskovicové",
+   "person": "Tas (Protasius) Černohorský z Boskovic, poté bratři Dobeš a Beneš",
+   "from": 1466,
+   "to": 1511,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "biskup Tas vlastnil čtvrtinu hradu, zbytek bratři; po Benešově smrti 1507 zdědila dcera Kateřina, roku 1511 hrad odkoupil zpět biskup Thurzo"
+  },
+  {
+   "owner": "cirkev",
+   "owner_wiki": null,
+   "person": "Stanislav Thurzo, poté Bernard Zoubek ze Zdětína a Jan Dubravius",
+   "from": 1511,
+   "to": 1545,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "olomoucké biskupství; přestavba na renesanční pevnost proti tureckému nebezpečí"
+  },
+  {
+   "owner": "z-perkova",
+   "owner_wiki": null,
+   "person": "Jeroným Syrakovský z Pěrkova",
+   "from": 1545,
+   "to": 1553,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni"
+  },
+  {
+   "owner": "cirkev",
+   "owner_wiki": null,
+   "person": "Marek Khuen, Vilém Prusinovský z Víckova, Jan Mezon z Telče, Stanislav Pavlovský z Pavlovic, František z Dietrichsteina",
+   "from": 1553,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "olomoucké biskupství; poslední biskup zmíněný v článku je František z Dietrichsteina (od 1599); pozdější osud hradu (zánik jako sídla, dnešní vlastník) v použitém článku není popsán"
+  }
+ ],
+ "events": [
+  {
+   "year": 1260,
+   "text": "páni z Příbora staví hrad jako náhradu za ztracený hrad Jičín"
+  },
+  {
+   "year": 1359,
+   "text": "Karel IV. daruje hrad s panstvím olomouckým biskupům, kteří jej od té doby trvale drží"
+  },
+  {
+   "year": 1434,
+   "text": "hradu se krátce zmocnili hornoslezští husité"
+  },
+  {
+   "year": 1466,
+   "text": "hrad kupuje Tas Černohorský z Boskovic, rod Boskoviců jej vlastní do roku 1511"
+  },
+  {
+   "year": 1511,
+   "text": "biskup Stanislav Thurzo hrad odkupuje zpět pro biskupství a zahajuje jeho přestavbu na pevnost"
+  },
+  {
+   "year": 1585,
+   "text": "na hradě vězněn kanovník Jan Filopon Dambrovský, obviněný z otrávení tří biskupů"
+  },
+  {
+   "year": 1592,
+   "text": "biskup nechá obehnat hradní studnu kamennou hradbou"
+  },
+  {
+   "year": 2015,
+   "text": "hrad jako zřícenina a kulturní památka navštívilo 56 037 návštěvníků"
+  }
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Hukvaldy_(hrad)"
+ ]
+}

@@ -1,0 +1,185 @@
+{
+ "id": "Q1012808",
+ "name": "Křivoklát",
+ "founded": {
+  "year": 1230,
+  "approx": true,
+  "text": "nejstarší zmínky o Křivoklátu (v Kosmově kronice) se vztahují k letům 1110-1113; kamenný hrad na současném místě budoval od cca 1230 Přemysl Otakar I. a stavba pokračovala do konce vlády Přemysla Otakara II."
+ },
+ "summary": "Křivoklát byl jedním z nejvýznamnějších hradů přemyslovských a lucemburských panovníků, doloženým už v Kosmově kronice k létům 1110-1113; kamenný hrad zde budoval od cca 1230 Přemysl Otakar I. Hrad zůstával po staletí v majetku koruny, opakovaně však byl zastavován věřitelům a šlechtě (Vilém Zajíc z Valdeka, Oldřich Pluh z Rabštejna, Aleš Holický ze Šternberka aj.); podobu, v níž se v hlavních rysech dochoval dodnes, mu dal roku 1471 Vladislav Jagellonský. V 16. století sloužil Habsburkům jako obávané státní vězení, v 17.-18. století byl postupně zastaven Schwarzenberkům, prodán Valdštejnům a sňatkem přešel na Fürstenberky. Roku 1929 jej Maxmilián Egon II. z Fürstenberku prodal Československému státu; dnes hrad spravuje Národní památkový ústav.",
+ "owners": [
+  {
+   "owner": "koruna",
+   "person": null,
+   "from": 1230,
+   "to": 1310,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "zalozeni",
+   "note": "přemyslovský hrad; nejstarší zmínky 1110-1113"
+  },
+  {
+   "owner": "soukromnik",
+   "person": "Vilém Zajíc z Valdeka",
+   "from": 1310,
+   "to": 1319,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "obsadil hrad po Rudolfu Habsburském, Jan Lucemburský mu jej ponechal v zástavě; zemřel 1319, hrad se vrátil koruně"
+  },
+  {
+   "owner": "koruna",
+   "person": "Jan Lucemburský",
+   "from": 1319,
+   "to": 1331,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "na hradě pobýval mladý princ Václav (pozdější Karel IV.), 1319-1323"
+  },
+  {
+   "owner": "z-rabstejna",
+   "owner_wiki": "Pluhové z Rabštejna",
+   "person": "Oldřich Pluh z Rabštejna",
+   "from": 1331,
+   "to": 1333,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "zástavní držitel od prosince 1331; Karel IV. hrad roku 1333 vykoupil"
+  },
+  {
+   "owner": "z-janovic",
+   "owner_wiki": "Janovici",
+   "person": "Jenčík, Vavřinec, Herbort a Pešek z Janovic",
+   "from": 1335,
+   "to": 1340,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "lenni",
+   "note": "král Jan Lucemburský hrad znovu zastavil, přesná data nejsou v pramenech uvedena"
+  },
+  {
+   "owner": "soukromnik",
+   "person": "Heinlin Jílovský",
+   "from": 1340,
+   "to": 1347,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "kutnohorský měšťan, zástavní věřitel markraběte Karla; roku 1343 zástava obnovena ve výši 2766 kop grošů"
+  },
+  {
+   "owner": "koruna",
+   "person": null,
+   "from": 1347,
+   "to": 1422,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "Karel IV. řadil Křivoklát mezi hrady nezastavitelné (Majestas Carolina); po Karlovi hrad užíval Václav IV."
+  },
+  {
+   "owner": "sternberkove",
+   "owner_wiki": "Šternberkové",
+   "person": "Aleš Holický ze Šternberka",
+   "from": 1422,
+   "to": 1455,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "zástava (spolu s hradem Týřov) ve výši 3960 kop grošů za zásluhy v boji s husity; sídlil zde až do smrti 1455, krátce předtím hrad vyplatil král Ladislav Pohrobek"
+  },
+  {
+   "owner": "koruna",
+   "person": "Vladislav Jagellonský",
+   "from": 1455,
+   "to": 1655,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "jine",
+   "note": "1471 Vladislav II. hrad pozdněgoticky přestavěl do dnešní podoby; v 16. století za Habsburků sloužil jako státní vězení"
+  },
+  {
+   "owner": "schwarzenberkove",
+   "owner_wiki": "Schwarzenbergové",
+   "person": null,
+   "from": 1655,
+   "to": 1685,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "zastaveno 1655 (podle jiných pramenů 1658)"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": null,
+   "from": 1685,
+   "to": 1730,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "hrad prodán Valdštejnům roku 1685"
+  },
+  {
+   "owner": "furstenbergove",
+   "owner_wiki": "Fürstenbergové",
+   "person": null,
+   "from": 1730,
+   "to": 1929,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "snatek",
+   "note": "podle pramenů přešlo sňatkem na Fürstenbergy v rozmezí let 1723/1733-1734/1756, přesné datum nejisté"
+  },
+  {
+   "owner": "stat",
+   "person": "Maximilián Egon II. z Fürstenbergu",
+   "from": 1929,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "prodáno Československému státu za 118,5 milionu korun po pozemkové reformě; dnes ve správě Národního památkového ústavu"
+  }
+ ],
+ "events": [
+  {
+   "year": 1110,
+   "text": "nejstarší zmínka o Křivoklátu v Kosmově kronice (vězení Oty Olomouckého)"
+  },
+  {
+   "year": 1319,
+   "text": "na hradě pobývá mladý princ Václav, pozdější Karel IV."
+  },
+  {
+   "year": 1422,
+   "text": "požár hradu, zanikl Manský dům"
+  },
+  {
+   "year": 1471,
+   "text": "Vladislav Jagellonský nechává hrad pozdněgoticky přestavět"
+  },
+  {
+   "year": 1547,
+   "text": "začátek šestnáctiletého věznění biskupa Jednoty bratrské Jana Augusty"
+  },
+  {
+   "year": 1826,
+   "text": "poslední velký požár hradu"
+  },
+  {
+   "year": 1880,
+   "text": "začátek puristické rekonstrukce hradu (J. Mocker, K. Hilbert)"
+  },
+  {
+   "year": 1929,
+   "text": "Maximilián Egon II. z Fürstenbergu prodává hrad Československému státu"
+  }
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Křivoklát"
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "id": "Q1701829",
+ "name": "Karlova Koruna",
+ "founded": {"year": 1721, "approx": false, "text": "1721-1723 stavba barokního zámku podle plánů Jana Blažeje Santiniho-Aichela a Františka Maxmiliána Kaňky, pojmenován na počest návštěvy císaře Karla VI."},
+ "summary": "Prvním šlechtickým sídlem v Chlumci nad Cidlinou byla tvrz, které se roku 1424 zmocnil husitský válečník Boček z Poděbrad. Počátkem 17. století získal chlumecké panství Václav Vchynský z Vchynic za podporu poskytnutou arcivévodovi Matyášovi proti Rudolfu II. a od té doby drželi panství Kinští téměř nepřetržitě až do roku 1948. František Ferdinand Kinský nechal v letech 1721-1723 postavit nový barokní zámek Karlova Koruna, který po požáru roku 1943 a poválečném znárodnění spravoval stát a od roku 1969 v něm byla expozice Národní galerie; roku 1992 byl majetek restituován rodině Kinských.",
+ "owners": [
+  {"owner": "pani-z-kunstatu-a-podebrad", "owner_wiki": "Páni z Kunštátu a Poděbrad", "person": "Boček z Poděbrad", "from": 1424, "to": 1440, "from_approx": false, "to_approx": true, "how": "konfiskace", "note": "husitský válečník se zmocnil zdejší tvrze; počátkem 16. stol. dostala tvrz nové renesanční opevnění"},
+  {"owner": "neznamo", "from": 1440, "to": 1600, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "majitelé chlumeckého panství v 15.-16. století nejsou z dostupného textu cs. wikipedie specifikováni"},
+  {"owner": "kinsti", "owner_wiki": "Kinští", "person": "Václav Vchynský z Vchynic", "from": 1611, "to": 1948, "from_approx": true, "to_approx": false, "how": "dar", "note": "za podporu poskytnutou arcivévodovi Matyášovi v boji proti Rudolfu II. získal chlumecké panství; rod Kinských (Vchynští z Vchynic a Tetova) je držel obratnou politikou i přes třicetiletou válku; František Ferdinand Kinský nechal 1721-1723 postavit zámek Karlova Koruna"},
+  {"owner": "stat", "from": 1948, "to": 1992, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "po znárodnění zámek spravoval stát; od roku 1969 zde měla expozici \"Barok v Čechách\" Národní galerie Praha"},
+  {"owner": "kinsti", "owner_wiki": "Kinští", "person": "rodina Kinských", "from": 1992, "to": null, "from_approx": false, "to_approx": false, "how": "restituce", "note": "majetek navrácen restitucí, spravuje společnost Kinský dal Borgo, a.s."}
+ ],
+ "events": [
+  {"year": 1424, "text": "Boček z Poděbrad se zmocňuje chlumecké tvrze"},
+  {"year": 1611, "text": "Václav Vchynský z Vchynic získává chlumecké panství, počátek držby rodu Kinských"},
+  {"year": 1721, "text": "František Ferdinand Kinský zahajuje stavbu nového zámku podle plánů J. B. Santiniho-Aichela"},
+  {"year": 1723, "text": "dokončení stavby, zámek pojmenován Karlova Koruna na počest návštěvy Karla VI."},
+  {"year": 1943, "text": "velký požár poškodil zámek, zachráněný mobiliář byl rozvezen po zámcích v Československu"},
+  {"year": 1948, "text": "znárodnění majetku Kinských, zámek přechází pod stát"},
+  {"year": 1969, "text": "zámek po rekonstrukci zpřístupněn veřejnosti, Národní galerie otevírá expozici Barok v Čechách"},
+  {"year": 1992, "text": "majetek navrácen restitucí rodině Kinských"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Karlova_Koruna"]
+}

@@ -1,0 +1,25 @@
+{
+ "id": "Q366074",
+ "name": "Vodní hrad Švihov",
+ "founded": {
+  "year": 1375,
+  "approx": true,
+  "text": "Hrad založil rod Švihovských z Rýzmberka, poprvé je zmiňován roku 1375."
+ },
+ "summary": "Gotický vodní hrad Švihov založili Švihovští z Rýzmberka, kteří jej za husitských válek úspěšně bránili a v letech 1480-1489 za Půty Švihovského nákladně přestavěli v pozdně gotickém slohu (na dostavbě opevnění se podílel Benedikt Rejt). Roku 1548 jej převzali Kavkové z Říčan a po jejich špatném hospodaření jej roku 1598 koupili Černínové z Chudenic, kteří jej vlastnili (s malými přestávkami) až do roku 1945. Po neúspěšném obležení Švédy za třicetileté války měl být hrad na příkaz Ferdinanda III. zbořen, k čemuž nakonec došlo jen částečně; po konfiskaci Černínům roku 1945 je hrad majetkem státu a od roku 1950 postupně citlivě rekonstruován.",
+ "owners": [
+  {"owner": "svihovsti-z-ryzmberka", "owner_wiki": "Švihovští z Rýzmberka", "person": "Vilém III. Švihovský z Rýzmberka, poté syn Půta Švihovský z Rýzmberka a jeho synové", "from": 1375, "to": 1548, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "Vilém III. za husitských válek patřil k předním odpůrcům husitů, hrad roku 1434 odolal obléhání; Půta jej 1480-1489 nákladně přestavěl v pozdní gotice, na stavbě opevnění pracoval i Benedikt Rejt"},
+  {"owner": "pani-z-rican", "owner_wiki": "Páni z Říčan", "person": "Kavkové z Říčan", "from": 1548, "to": 1598, "from_approx": false, "to_approx": false, "how": "koupe", "note": "špatné hospodaření je donutilo hrad roku 1598 prodat"},
+  {"owner": "cerninove-z-chudenic", "owner_wiki": "Černínové z Chudenic", "person": null, "from": 1598, "to": 1945, "from_approx": false, "to_approx": false, "how": "koupe", "note": "hrad drželi s malými přestávkami až do roku 1945; za třicetileté války jej neúspěšně obléhali Švédové, po válce nařídil Ferdinand III. demolici, provedenou jen částečně"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "konfiskováno na základě Benešových dekretů; od 1950 rekonstrukce pod vedením Břetislava Štorma, dnes spravuje Národní památkový ústav"}
+ ],
+ "events": [
+  {"year": 1434, "text": "hrad obléhalo husitské vojsko, posádka se vzdala až po vypuštění příkopů"},
+  {"year": 1480, "text": "1480-1489 nákladná pozdně gotická přestavba za Půty Švihovského z Rýzmberka, na opevnění pracoval Benedikt Rejt"},
+  {"year": 1598, "text": "Černínové z Chudenic kupují hrad od zadlužených Kavků z Říčan"},
+  {"year": 1648, "text": "neúspěšné obléhání švédskými vojsky za třicetileté války"},
+  {"year": 1945, "text": "hrad konfiskován Černínům na základě Benešových dekretů"},
+  {"year": 1950, "text": "zahájeny programové rekonstrukční práce pod vedením Břetislava Štorma"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Švihov_(hrad)"]
+}

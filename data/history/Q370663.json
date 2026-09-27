@@ -1,0 +1,24 @@
+{
+ "id": "Q370663",
+ "name": "Kozel",
+ "founded": {
+  "year": 1784,
+  "approx": false,
+  "text": "1784-1789 postaven jako letní a lovecké sídlo hraběte Jana Vojtěcha Černína z Chudenic podle projektu architekta Václava Haberditze; v 90. letech 18. století Ignác Palliardi přidal jízdárnu, kapli, lokajnu a konírnu."
+ },
+ "summary": "Klasicistní lovecký zámek Kozel nechal v letech 1784-1789 postavit hrabě Jan Vojtěch Černín z Chudenic, nejvyšší lovčí království českého na dvoře Josefa II. Po jeho smrti roku 1816 bez mužského dědice zámek zdědil prasynovec Kristián Vincenc Valdštejn, jehož rod na Kozlu hospodařil až do roku 1945, kdy byl zámek zestátněn. Dnes je majetkem státu, spravuje jej Národní památkový ústav a je přístupný veřejnosti.",
+ "owners": [
+  {"owner": "cerninove-z-chudenic", "owner_wiki": "Černínové z Chudenic", "person": "Jan Vojtěch Černín z Chudenic", "from": 1784, "to": 1816, "from_approx": false, "to_approx": false, "how": "zalozeni", "note": "nechal zámek postavit jako letní a lovecké sídlo; zemřel 1816 bez mužského dědice, touto větví rod Černínů vymřel po meči"},
+  {"owner": "valdstejnove", "owner_wiki": "Valdštejnové", "person": "Kristián Vincenc Valdštejn", "from": 1816, "to": 1945, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "Jan Vojtěch Černín mu před smrtí odkázal svá panství jako prasynovci; rod na Kozlu hospodařil až do roku 1945"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "po roce 1945 zámek zestátněn; sloužil jako svozový zámek zkonfiskovaného mobiliáře z jiných zámků regionu, dnes ve správě Národního památkového ústavu"}
+ ],
+ "events": [
+  {"year": 1784, "text": "1784-1789 stavba zámku pro Jana Vojtěcha Černína z Chudenic architektem Václavem Haberditzem"},
+  {"year": 1790, "text": "Ignác Palliardi doplnil areál o jízdárnu, kapli, lokajnu a konírnu, sochařskou výzdobu vytvořil Ignác Platzer mladší"},
+  {"year": 1816, "text": "smrt Jana Vojtěcha Černína, zámek dědí prasynovec Kristián Vincenc Valdštejn"},
+  {"year": 1945, "text": "zámek zestátněn, slouží jako svozové místo zkonfiskovaného mobiliáře z regionu"},
+  {"year": 1963, "text": "zámek prohlášen kulturní památkou"},
+  {"year": 2002, "text": "od 1. ledna zámek prohlášen národní kulturní památkou ČR"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Kozel_(zámek)"]
+}

@@ -1,0 +1,29 @@
+{
+ "id": "Q1014196",
+ "name": "Svojanov",
+ "founded": {"year": 1265, "approx": true, "text": "hrad založil král Přemysl Otakar II. pravděpodobně souběžně se založením Poličky roku 1265"},
+ "summary": "Svojanov (německy Fürstenberg) je královský hrad, který spravoval jako strážní pevnost na zemské stezce mezi Čechami a Moravou. Krátce jej vlastnil Záviš z Falkenštejna, poté zůstal v majetku Koruny, později byl zastaven pánům z Boskovic a v 17.-18. století patřil Zárubům z Hustířan a Salm-Neuburgům. Od roku 1910 (s přestávkou 1945-1992) patří městu Poličce.",
+ "owners": [
+  {"owner": "koruna", "owner_wiki": null, "person": "Přemysl Otakar II.", "from": 1265, "to": 1285, "from_approx": false, "to_approx": true, "how": "zalozeni"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Záviš z Falkenštejna", "from": 1285, "to": 1289, "from_approx": true, "to_approx": false, "how": "dar", "note": "první písemná zmínka o hradu 1287; po Závišově uvěznění 1289 hrad připadl panovníkovi"},
+  {"owner": "koruna", "owner_wiki": null, "person": null, "from": 1289, "to": 1420, "from_approx": false, "to_approx": true, "how": "konfiskace", "note": "Karel IV. zahrnul Svojanov mezi hrady nezcizitelné z majetku koruny (Majestas Carolina)"},
+  {"owner": "boskovicove", "owner_wiki": "Boskovicové", "person": null, "from": 1420, "to": 1600, "from_approx": true, "to_approx": true, "how": "lenni", "note": "Zikmund Lucemburský zastavil hrad pánům z Boskovic za husitských válek; přesný rok konce zástavy prameny neuvádějí"},
+  {"owner": "zarubove-z-hustiran", "owner_wiki": "Zárubové z Hustířan", "person": null, "from": 1600, "to": 1650, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "přesné roky přechodu vlastnictví nejsou v cs.wiki článku uvedeny"},
+  {"owner": "salmove-wigerichovci", "owner_wiki": "Salmové (Wigerichovci)", "person": null, "from": 1650, "to": 1910, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "hrad poškozen požárem a Švédy za třicetileté války; v 19. stol. v areálu provozována manufaktura na grafitovou keramiku"},
+  {"owner": "mesto", "owner_wiki": null, "person": null, "from": 1910, "to": 1945, "from_approx": false, "to_approx": false, "how": "koupe", "note": "město Polička"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": 1992, "from_approx": false, "to_approx": false, "how": "konfiskace"},
+  {"owner": "mesto", "owner_wiki": null, "person": null, "from": 1992, "to": null, "from_approx": false, "to_approx": false, "how": "restituce", "note": "město Polička"}
+ ],
+ "events": [
+  {"year": 1265, "text": "založení hradu Přemyslem Otakarem II. spolu s Poličkou"},
+  {"year": 1287, "text": "první písemná zmínka, majitel Záviš z Falkenštejna"},
+  {"year": 1327, "text": "Karel IV. zahrnuje Svojanov mezi neodcizitelné hrady koruny (Majestas Carolina)"},
+  {"year": 1842, "text": "požár ukončuje provoz grafitové manufaktury v areálu hradu"},
+  {"year": 1910, "text": "hrad kupuje město Polička"},
+  {"year": 1945, "text": "znárodnění hradu státem"},
+  {"year": 1992, "text": "restituce hradu městu Polička"}
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Svojanov_(hrad)"
+ ]
+}

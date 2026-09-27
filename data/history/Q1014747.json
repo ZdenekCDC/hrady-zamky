@@ -1,0 +1,27 @@
+{
+ "id": "Q1014747",
+ "name": "Český Šternberk",
+ "founded": {"year": 1241, "approx": false, "text": "hrad založil roku 1241 Zdeslav z Divišova, jméno odvozeno od erbu hvězdy (Stern-Berg)"},
+ "summary": "Český Šternberk založil roku 1241 Zdeslav z Divišova, jehož potomci si podle hradu začali říkat Šternberkové. Rod (větev Holických ze Šternberka) hrad úspěšně ubránil při obléhání vojskem Jiřího z Poděbrad (1467) a držel jej do vymření větve po meči 1712. Roku 1841 hrad koupil zpět Zdeněk ze Šternberka a rodina jej vlastnila až do znárodnění 1949; po restituci 1992 je opět v majetku Sternbergů a patří k nejnavštěvovanějším hradům v Česku.",
+ "owners": [
+  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": "Zdeslav z Divišova", "from": 1241, "to": 1467, "from_approx": false, "to_approx": true, "how": "zalozeni", "note": "od 15. století drží hrad větev Holických ze Šternberka; hrad dobyt 1467 vojskem Jiřího z Poděbrad"},
+  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": "Holičtí ze Šternberka (větev), naposledy Jan Václav ze Šternberka", "from": 1479, "to": 1712, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "hrad vrácen rodu králem Vladislavem Jagellonským 1479, větev vymřela po meči 1712"},
+  {"owner": "neznamo", "owner_wiki": null, "person": null, "from": 1712, "to": 1841, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "hrad se dědictvím i prodejem dostal mimo rod Šternberků, konkrétní držitelé nejsou v pramenech blíže specifikováni"},
+  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": "Zdeněk ze Šternberka", "from": 1841, "to": 1949, "from_approx": false, "to_approx": false, "how": "koupe"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1949, "to": 1992, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "Jiří Douglas Sternberg zůstal na hradě kastelánem"},
+  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": "Zdeněk Sternberg", "from": 1992, "to": 2021, "from_approx": false, "to_approx": true, "how": "restituce"},
+  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": "Filip Sternberg", "from": 2021, "to": null, "from_approx": true, "to_approx": false, "how": "dedictvi"}
+ ],
+ "events": [
+  {"year": 1241, "text": "založení hradu Zdeslavem z Divišova"},
+  {"year": 1467, "text": "dobytí hradu vojskem Jiřího z Poděbrad, stavba předsunuté bašty"},
+  {"year": 1479, "text": "navrácení hradu Šternberkům Vladislavem Jagellonským"},
+  {"year": 1712, "text": "vymření větve Holických ze Šternberka po meči"},
+  {"year": 1841, "text": "koupě hradu zpět Zdeňkem ze Šternberka"},
+  {"year": 1949, "text": "znárodnění komunistickým státem"},
+  {"year": 1992, "text": "restituce hradu Zdeňku Sternbergovi"}
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Český_Šternberk_(hrad)"
+ ]
+}

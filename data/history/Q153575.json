@@ -1,0 +1,21 @@
+{
+ "id": "Q153575",
+ "name": "Buchlovice",
+ "founded": {"year": 1707, "approx": false, "text": "zámek postaven 1707 jako pohodlnější sídlo panství namísto studeného hradu Buchlova"},
+ "summary": "Barokní zámek Buchlovice nechal postavit Jan Dětřich z Petřvaldu jako nové sídlo panství namísto nedalekého hradu Buchlova. Od roku 1800 patřil zámek Berchtoldům z Uherčic, kteří jej zvelebili a rozšířili park, až do znárodnění na základě Benešových dekretů v roce 1945. Dnes je ve vlastnictví státu a spravuje jej Národní památkový ústav.",
+ "owners": [
+  {"owner": "petrvaldsti-z-petrvaldu", "owner_wiki": "Petřvaldští z Petřvaldu", "person": "Jan Dětřich z Petřvaldu", "from": 1700, "to": 1800, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "stavba zámku dokončena 1707"},
+  {"owner": "berchtoldove-z-uhercic", "owner_wiki": "Berchtoldové z Uherčic", "person": "Leopold I. Berchtold, Leopold II. Berchtold", "from": 1800, "to": 1945, "from_approx": false, "to_approx": false, "how": "koupe", "note": "rozšíření anglického parku, úpravy architekta Dominika Feye"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "zestátněno na základě Benešových dekretů, 1946 předáno Národní kulturní komisi, dnes NPÚ"}
+ ],
+ "events": [
+  {"year": 1707, "text": "dokončení stavby barokního zámku"},
+  {"year": 1800, "text": "Buchlovice získávají Berchtoldové z Uherčic"},
+  {"year": 1805, "text": "Leopold I. Berchtold zřizuje v zámku vojenskou nemocnici"},
+  {"year": 1913, "text": "dokončení úprav zámku architektem Dominikem Feyem"},
+  {"year": 1945, "text": "zestátnění zámku, o rok později předán Národní kulturní komisi"}
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Buchlovice_(zámek)"
+ ]
+}

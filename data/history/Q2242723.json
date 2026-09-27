@@ -1,0 +1,29 @@
+{
+ "id": "Q2242723",
+ "name": "Nové Město nad Metují",
+ "founded": {"year": 1501, "approx": false, "text": "Roku 1501 zde Jan Černčický z Kácova postavil hrad, který byl zahrnut do opevnění zakládaného města."},
+ "summary": "Renesanční zámek v Novém Městě nad Metují vznikl přestavbou hradu, který roku 1501 založil Jan Černčický z Kácova; po vyhoření města v 16. století jej Pernštejnové a Stubenberkové přestavěli na renesanční sídlo a Walter Leslie jej v letech 1655-1661 barokně přestavěl podle plánů Carla Luraga. Od roku 1908 patřil průmyslnickému rodu Bartoňů z Dobenína, kteří jej nechali v letech 1909-1913 upravit podle plánů Dušana Jurkoviče. V roce 1948 byl zámek Bartoňům zkonfiskován a připadl státu, roku 1992 jim byl vrácen v restituci.",
+ "owners": [
+  {"owner": "cerncicti-z-kacova", "owner_wiki": "Černčičtí z Kácova", "person": "Jan Černčický z Kácova", "from": 1501, "to": 1527, "from_approx": false, "to_approx": false, "how": "zalozeni"},
+  {"owner": "pernstejnove", "owner_wiki": "Pernštejnové", "person": null, "from": 1527, "to": 1547, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "wikipedie neuvádí způsob nabytí; po vyhoření města zámek přestavěli na renesanční sídlo"},
+  {"owner": "stubenberkove", "owner_wiki": "Stubenberkové", "person": null, "from": 1548, "to": 1623, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "wikipedie neuvádí způsob nabytí ani konkrétní osoby"},
+  {"owner": "valdstejnove", "owner_wiki": "Valdštejnové", "person": "Albrecht z Valdštejna", "from": 1623, "to": 1624, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "krátká držba, wikipedie neuvádí způsob nabytí ani zcizení"},
+  {"owner": "trckove-z-lipy", "owner_wiki": "Trčkové z Lípy", "person": "Adam Erdman Trčka z Lípy", "from": 1624, "to": 1634, "from_approx": false, "to_approx": false, "how": "neznamo"},
+  {"owner": "lesliove", "owner_wiki": "Lesliové", "person": "Walter Leslie", "from": 1634, "to": 1802, "from_approx": false, "to_approx": false, "how": "koupe", "note": "Walter Leslie získal panství po pádu Trčků zapojených do valdštejnského spiknutí (1634); nechal zámek 1655-1661 barokně přestavět podle plánů Carla Luraga"},
+  {"owner": "ditrichstejnove", "owner_wiki": "Ditrichštejnové", "person": null, "from": 1802, "to": 1858, "from_approx": false, "to_approx": false, "how": "neznamo"},
+  {"owner": "lambergove", "owner_wiki": "Lambergové", "person": null, "from": 1858, "to": 1908, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "\"Lambergové a dědicové\" dle přehledu majitelů"},
+  {"owner": "bartonove-z-dobenina", "owner_wiki": "Bartoňové z Dobenína", "person": "Josef a Cyril Bartoňové z Dobenína", "from": 1908, "to": 1948, "from_approx": false, "to_approx": false, "how": "koupe", "note": "průmyslníci, nechali zámek 1909-1913 upravit podle plánů Dušana Jurkoviče"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1948, "to": 1992, "from_approx": false, "to_approx": false, "how": "konfiskace"},
+  {"owner": "bartonove-z-dobenina", "owner_wiki": "Bartoňové z Dobenína", "person": "Josef Bartoň z Dobenína", "from": 1992, "to": null, "from_approx": false, "to_approx": false, "how": "restituce", "note": "od června 2020 je zámek nabízen k prodeji, stát má předkupní právo"}
+ ],
+ "events": [
+  {"year": 1501, "text": "Jan Černčický z Kácova postavil hrad, zahrnutý do opevnění zakládaného města"},
+  {"year": 1548, "text": "po vyhoření města přestavba na renesanční zámek Pernštejny a Stubenberky"},
+  {"year": 1655, "text": "1655-1661 barokní přestavba za Waltera Leslieho podle plánů Carla Luraga"},
+  {"year": 1909, "text": "1909-1913 úpravy podle plánů Dušana Jurkoviče pro Bartoně z Dobenína, včetně zámecké zahrady a kryté lávky"},
+  {"year": 1948, "text": "zámek zkonfiskován Bartoňům, přechod do státní správy"},
+  {"year": 1992, "text": "zámek vrácen v restituci Josefu Bartoňovi z Dobenína"},
+  {"year": 2008, "text": "zámek prohlášen národní kulturní památkou"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Nové_Město_nad_Metují_(zámek)"]
+}

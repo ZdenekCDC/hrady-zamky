@@ -1,0 +1,28 @@
+{
+ "id": "Q2240326",
+ "name": "Blatná",
+ "founded": {"year": 1235, "approx": true, "text": "první písemná zmínka o \"blatném hradě\" 1235, jádro pochází z 13. století"},
+ "summary": "Blatná patřila od 13. století pánům Bavorům ze Strakonic, od konce 14. století pánům z Rožmitálu, za nichž byla za Zdeňka Lva z Rožmitálu v 15. století přestavěna Benediktem Rejtem na reprezentační sídlo. Od roku 1798 vlastnili hrad přestavěný na zámek Hildprandtové z Ottenhausenu, kterým byl v letech 1948-1952 zkonfiskován. Po restituci v roce 1992 je zámek opět v majetku rodiny Hildprandtů a je přístupný veřejnosti.",
+ "owners": [
+  {"owner": "bavori-ze-strakonic", "owner_wiki": "Bavorové ze Strakonic", "person": null, "from": 1235, "to": 1391, "from_approx": true, "to_approx": false, "how": "zalozeni"},
+  {"owner": "pani-z-rozmitalu", "owner_wiki": "Páni z Rožmitálu", "person": "Zdeněk Lev z Rožmitálu", "from": 1391, "to": 1541, "from_approx": false, "to_approx": false, "how": "koupe", "note": "vrchol rozvoje za Zdeňka Lva z Rožmitálu (15. stol.), přestavba s Benediktem Rejtem"},
+  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": null, "from": 1541, "to": 1579, "from_approx": false, "to_approx": false, "how": "dedictvi"},
+  {"owner": "z-rozdrazova", "owner_wiki": null, "person": "Jan z Rozdražova, syn Václav z Rozdražova", "from": 1579, "to": 1695, "from_approx": false, "to_approx": false, "how": "koupe"},
+  {"owner": "serenyiove", "owner_wiki": "Serényiové", "person": null, "from": 1695, "to": 1798, "from_approx": false, "to_approx": false, "how": "koupe", "note": "za Serényiů zámek vyhořel, opravy 1763-1767"},
+  {"owner": "hildprandtove-z-ottenhausenu", "owner_wiki": "Hildprandtové z Ottenhausenu", "person": "Karel Hildprandt", "from": 1798, "to": 1948, "from_approx": false, "to_approx": false, "how": "koupe", "note": "regotizace 1850-1856 za Roberta Hildprandta"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1948, "to": 1992, "from_approx": false, "to_approx": false, "how": "konfiskace"},
+  {"owner": "hildprandtove-z-ottenhausenu", "owner_wiki": "Hildprandtové z Ottenhausenu", "person": "Kornelie, Josefina a Jana Hildprandtové", "from": 1992, "to": null, "from_approx": false, "to_approx": false, "how": "restituce", "note": "současní majitelé Stefanos-Filipos Germenis a Jana Germenis-Hildprandt"}
+ ],
+ "events": [
+  {"year": 1235, "text": "první písemná zmínka o blatenském hradu"},
+  {"year": 1470, "text": "přestavba paláce a opevnění pro Zdeňka Lva z Rožmitálu (Benedikt Rejt)"},
+  {"year": 1695, "text": "hrad získávají uherská hrabata Serényiové, po požáru opravy 1763-1767"},
+  {"year": 1798, "text": "koupě baronem Karlem Hildprandtem"},
+  {"year": 1856, "text": "dokončení novogotické regotizace zámku (Bernard Grueber)"},
+  {"year": 1948, "text": "konfiskace majetku Hildprandtů komunistickým státem"},
+  {"year": 1992, "text": "restituce zámku rodině Hildprandtů"}
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Blatná_(zámek)"
+ ]
+}

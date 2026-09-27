@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+# personal visits, written by scripts/serve.py (the public site starts empty)
+data/visited.json
+# local, not part of the site
+.claude/
+aa/

@@ -1,0 +1,246 @@
+{
+ "id": "Q1708948",
+ "name": "Častolovice",
+ "founded": {
+  "year": 1250,
+  "approx": true,
+  "text": "Kolem poloviny 13. století založil tvrz nejspíše Častolov z rodu Ronovců, pravděpodobně v místech dnešního kostela sv. Víta (Na Skalce); nová vodní tvrz na dřevěných pilotech v místě dnešního zámku je doložena roku 1342 za Půty z Častolovic."
+ },
+ "summary": "Renesanční zámek v Častolovicích vznikl přestavbou vodní tvrze, kterou od poloviny 13. století držel nejspíše Častolov z rodu Ronovců a od 14. století páni z Častolovic z rodu Drslaviců. Po častém střídání majitelů (Lichtenburkové, Jiří z Poděbrad, Pernštejnové, zástavní držitelé, císařská komora) jej Oppersdorfové po roce 1588 přestavěli na renesanční zámek. Od roku 1694 patřil Šternberkům, roku 1948 připadl státu a roku 1992 byl v restituci vrácen Dianě Sternbergové-Phipps; po její smrti roku 2024 jej zdědila dcera Alexandra Hardegg.",
+ "owners": [
+  {
+   "owner": "ronovci",
+   "owner_wiki": "Ronovci",
+   "person": "Častolov",
+   "from": 1250,
+   "to": 1342,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "zalozeni",
+   "note": "pravděpodobný zakladatel tvrze; cs.wiki uvádí jako nejisté"
+  },
+  {
+   "owner": "drslavici",
+   "owner_wiki": "Drslavici",
+   "person": "Půta z Častolovic nejstarší",
+   "from": 1342,
+   "to": 1440,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "páni z Častolovic; doloženi 1342, rod vymřel smrtí Půty III. roku 1435, poté statky spravovala jeho matka Anna Osvětimská za nezletilé dcery a roku 1440 je prodala"
+  },
+  {
+   "owner": "lichtenburkove",
+   "owner_wiki": "Lichtenburkové",
+   "person": "Hynek Krušina z Lichtenburka",
+   "from": 1440,
+   "to": 1454,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe"
+  },
+  {
+   "owner": "pani-z-kunstatu-a-podebrad",
+   "owner_wiki": "Páni z Kunštátu a Poděbrad",
+   "person": "Jiří z Poděbrad",
+   "from": 1454,
+   "to": 1471,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "součást litického panství"
+  },
+  {
+   "owner": "minsterberkove",
+   "owner_wiki": "Minsterberkové",
+   "person": "Jindřich, kníže minsterberský",
+   "from": 1471,
+   "to": 1495,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "syn Jiřího z Poděbrad"
+  },
+  {
+   "owner": "pernstejnove",
+   "owner_wiki": "Pernštejnové",
+   "person": "Vilém II. z Pernštejna",
+   "from": 1495,
+   "to": 1556,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupeno za 25000 kop grošů, připojeno k panství Potštejn; poté synové Vojtěch a Jan a Janův syn Jaroslav, který panství prodal"
+  },
+  {
+   "owner": "wittelsbachove",
+   "owner_wiki": "Wittelsbachové",
+   "person": "Arnošt",
+   "from": 1556,
+   "to": 1570,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "cs.wiki uvádí kupce jako 'rýnského kurfiřta Arnošta'; přiřazení k Wittelsbachům je odvozené"
+  },
+  {
+   "owner": "z-regeru",
+   "owner_wiki": null,
+   "person": "Jindřich z Regeru",
+   "from": 1556,
+   "to": 1570,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "zapsáno za dluh 4796 kop grošů; přesný rok zápisu neuveden"
+  },
+  {
+   "owner": "z-brukstejna",
+   "owner_wiki": null,
+   "person": "Albrecht Bryknar z Brukštejna",
+   "from": 1570,
+   "to": 1575,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "královský prokurátor, postoupeno pro dluh 6100 kop grošů"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Maxmilián II., Rudolf II.",
+   "from": 1575,
+   "to": 1577,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "prodáno císaři Maxmiliánovi II., roku 1577 pro dluh postoupeno Rudolfu II., krátce komorní panství"
+  },
+  {
+   "owner": "oppersdorfove",
+   "owner_wiki": "Oppersdorfové",
+   "person": "Jan, Jiří a Vilém z Oppersdorfu; od 1588 Friedrich z Oppersdorfu",
+   "from": 1577,
+   "to": 1684,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupeno od komory za 11500 kop grošů; Friedrich postavil renesanční zámek"
+  },
+  {
+   "owner": "cerninove-z-chudenic",
+   "owner_wiki": "Černínové z Chudenic",
+   "person": "Tomáš Zacheus Černín z Chudenic",
+   "from": 1684,
+   "to": 1694,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe"
+  },
+  {
+   "owner": "sternberkove",
+   "owner_wiki": "Šternberkové",
+   "person": "Adolf Vratislav ze Šternberka",
+   "from": 1694,
+   "to": 1942,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "roku 1701 začleněno do fideikomisu se Zásmuky; 1830 přešlo na jinou rodovou větev"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1942,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "konfiskace",
+   "note": "zábor Němci poté, co se Leopold Sternberg přihlásil k české národnosti"
+  },
+  {
+   "owner": "sternberkove",
+   "owner_wiki": "Šternberkové",
+   "person": "Leopold Sternberg",
+   "from": 1945,
+   "to": 1948,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "jine",
+   "note": "návrat rodiny po válce"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1948,
+   "to": 1992,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "po únoru 1948 rodina emigrovala, zámek připadl státu"
+  },
+  {
+   "owner": "sternberkove",
+   "owner_wiki": "Šternberkové",
+   "person": "Franziska Diana Sternbergová-Phipps",
+   "from": 1992,
+   "to": 2024,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "restituce",
+   "note": "de.wiki uvádí rok restituce 1993"
+  },
+  {
+   "owner": "sternberkove",
+   "owner_wiki": "Šternberkové",
+   "person": "Alexandra Hardegg (Phipps-Sternberg)",
+   "from": 2024,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "jediná dcera Diany Sternbergové, žije v Rakousku; na zámku bydlí její syn Henry s manželkou"
+  }
+ ],
+ "events": [
+  {
+   "year": 1342,
+   "text": "Půta z Častolovic doložen jako majitel, Jan Lucemburský udělil Častolovicím privilegia městečka"
+  },
+  {
+   "year": 1454,
+   "text": "Častolovice koupil Jiří z Poděbrad, součást litického panství"
+  },
+  {
+   "year": 1577,
+   "text": "panství koupili od komory bratři z Oppersdorfu"
+  },
+  {
+   "year": 1588,
+   "text": "Friedrich z Oppersdorfu jediným majitelem, zahájena stavba renesančního zámku"
+  },
+  {
+   "year": 1694,
+   "text": "zámek koupil Adolf Vratislav ze Šternberka, roku 1701 zřízen fideikomis"
+  },
+  {
+   "year": 1858,
+   "text": "1858-1872 přestavba ve stylu anglické neogotiky za Jaroslava ze Šternberka"
+  },
+  {
+   "year": 1948,
+   "text": "po únorovém převratu Sternbergové emigrovali, zámek připadl státu"
+  },
+  {
+   "year": 1992,
+   "text": "zámek vrácen v restituci Dianě Sternbergové-Phipps"
+  }
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Častolovice_(zámek)",
+  "https://de.wikipedia.org/wiki/Schloss_Častolovice"
+ ]
+}

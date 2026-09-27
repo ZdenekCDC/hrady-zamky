@@ -1,0 +1,38 @@
+{
+ "id": "Q1012998",
+ "name": "Lipnice nad Sázavou",
+ "founded": {
+  "year": 1310,
+  "approx": true,
+  "text": "Kolem roku 1310 dal hrad postavit moravský hejtman Raimund z Lichtenburka; první přímá zmínka o hradu pochází z roku 1316."
+ },
+ "summary": "Hrad Lipnice založil kolem roku 1310 Raimund z Lichtenburka, poté často měnil majitele (Páni z Dražic, česká koruna, Páni z Lipé, Páni z Kunštátu a Poděbrad, Vítek z Landštejna, Vartenberkové), než jej roku 1436 koupili Trčkové z Lípy, kteří jej za téměř dvě století přestavěli na pozdně gotickou renesanční rezidenci. Po vymření Trčků roku 1634 patřil Vernierům a později rodu z Palmu, roku 1842 jej koupila Josefína Trauttmansdorffová; hrad chátral a roku 1869 vyhořel. Dnes je majetkem státu, spravuje jej Národní památkový ústav a je přístupný veřejnosti.",
+ "owners": [
+  {"owner": "lichtenburkove", "owner_wiki": "Lichtenburkové", "person": "Raimund z Lichtenburka", "from": 1310, "to": 1319, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "moravský hejtman, dal hrad postavit; roku 1319 jej prodal Řehníkovi z Dražic"},
+  {"owner": "pani-z-drazic", "owner_wiki": "Páni z Dražic", "person": "Řehník z Dražic", "from": 1319, "to": 1319, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil hrad od Raimunda z Lichtenburka, téhož roku jej zkonfiskoval král Jan Lucemburský"},
+  {"owner": "pani-z-lipe", "owner_wiki": "Páni z Lipé", "person": "Jindřich z Lipé", "from": 1319, "to": null, "from_approx": false, "to_approx": false, "how": "dar", "note": "král Jan Lucemburský mu hrad předal jako náhradu za prodej Žitavy; rok jeho smrti wikipedie neuvádí"},
+  {"owner": "pani-z-lipe", "owner_wiki": "Páni z Lipé", "person": "synové Jindřicha z Lipé (Jan, Jindřich, Čeněk a probošt Pertold)", "from": null, "to": 1347, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "po otcově smrti zdědili hrad čtyři synové; vyšehradský probošt Pertold jej spravoval v letech 1338-1347"},
+  {"owner": "koruna", "owner_wiki": null, "person": "Karel IV.", "from": 1370, "to": 1376, "from_approx": false, "to_approx": false, "how": "jine", "note": "hrad patřil České koruně, poté jej Karel IV. dal do zástavy Bočkovi z Poděbrad"},
+  {"owner": "pani-z-kunstatu-a-podebrad", "owner_wiki": "Páni z Kunštátu a Poděbrad", "person": "Boček z Poděbrad", "from": 1376, "to": null, "from_approx": false, "to_approx": false, "how": "lenni", "note": "zástava od Karla IV.; od něj hrad získal Vítek z Landštejna"},
+  {"owner": "landstejnove", "owner_wiki": "Landštejnové", "person": "Vítek z Landštejna", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "roku 1380 zřídil z purkrabského domu kapitulu pro šest kanovníků a děkana; hrad později sňatkem vnučky Kateřiny přešel na Čeňka z Vartenberka"},
+  {"owner": "vartenberkove", "owner_wiki": "Vartenberkové", "person": "Čeněk z Vartenberka", "from": null, "to": 1436, "from_approx": false, "to_approx": false, "how": "snatek", "note": "získal hrad sňatkem s Kateřinou z Landštejna; za jeho držby zde 1417 vysvěceni první husitští kněží a snad vznikla Lipnická bible (1421); roku 1436 hrad s městečkem prodán Trčkům z Lípy"},
+  {"owner": "trckove-z-lipy", "owner_wiki": "Trčkové z Lípy", "person": "Trčkové z Lípy", "from": 1436, "to": 1561, "from_approx": false, "to_approx": true, "how": "koupe", "note": "téměř dvě století přestavovali hrad na pozdně gotickou residenci"},
+  {"owner": "z-thurnu", "owner_wiki": null, "person": "Martin z Thurnu", "from": 1561, "to": 1593, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "přistavěl dvouramenné schodiště a renesančně upravil druhé patro starého paláce; cs.wiki neuvádí způsob nabytí ani vztah k rodu Trčků"},
+  {"owner": "trckove-z-lipy", "owner_wiki": "Trčkové z Lípy", "person": "Trčkové z Lípy, naposledy Jan Rudolf Trčka", "from": 1594, "to": 1634, "from_approx": false, "to_approx": false, "how": "jine", "note": "Trčkové se na hrad vrátili 1594; rod vymřel smrtí Jana Rudolfa roku 1634"},
+  {"owner": "vernierove", "owner_wiki": "Vernierové", "person": "Matouš Vernier z Rougemontu", "from": 1634, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "francouzský císařský důstojník; Vernierové na hradě sami nebydleli"},
+  {"owner": "z-palmu", "owner_wiki": null, "person": "Karel Josef z Palmu a jeho potomci", "from": null, "to": 1842, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "za jejich držby v 18. století hrad chátral, oceňován jen ve výši stavebního materiálu; wikipedie neuvádí, jak panství získali od Vernierů"},
+  {"owner": "trauttmansdorffove", "owner_wiki": "Trauttmansdorffové", "person": "Josefína Trauttmansdorffová", "from": 1842, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "manželka rakouského diplomata hraběte Josefa Trauttmansdorffa; za jejich držby hrad 1869 vyhořel"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "dnes majetek státu ve správě Národního památkového ústavu; wikipedie přesný rok přechodu do vlastnictví státu neuvádí"}
+ ],
+ "events": [
+  {"year": 1316, "text": "první přímá písemná zmínka o hradu"},
+  {"year": 1380, "text": "Vítek z Landštejna zřídil z purkrabského domu kapitulu pro šest kanovníků a děkana"},
+  {"year": 1421, "text": "za Čeňka z Vartenberka snad na hradě vznikl rukopis Lipnická bible"},
+  {"year": 1436, "text": "hrad s městečkem a Německým Brodem koupili Trčkové z Lípy"},
+  {"year": 1561, "text": "1561-1593 Martin z Thurnu přistavěl schodiště a renesančně upravil palác"},
+  {"year": 1634, "text": "smrtí Jana Rudolfa Trčky rod vymřel, hrad získal Matouš Vernier z Rougemontu"},
+  {"year": 1639, "text": "neúspěšné švédské obležení hradu za třicetileté války"},
+  {"year": 1869, "text": "hrad při požáru vyhořel"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Lipnice_nad_Sázavou_(hrad)"]
+}

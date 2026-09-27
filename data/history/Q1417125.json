@@ -1,0 +1,244 @@
+{
+ "id": "Q1417125",
+ "name": "Vranov nad Dyjí",
+ "founded": {
+  "year": 1100,
+  "approx": true,
+  "text": "zeměpanský pohraniční hrad proti Rakousku, podle de.wiki založený knížetem Břetislavem I., poprvé zmíněný v Kosmově kronice k roku 1100"
+ },
+ "summary": "Vranov vznikl jako přemyslovský pohraniční hrad na Dyji, doložený k roku 1100, který Jan Lucemburský roku 1323 postoupil Jindřichovi z Lipé. Od husitských válek jej drželi Lichtenburkové, v 16. století se majitelé rychle střídali a roku 1614 hrad koupili Althannové, kterým byl po Bílé hoře zkonfiskován. Michael Jan z Althannu jej roku 1680 získal zpět a nechal podle plánů J. B. Fischera z Erlachu přestavět na barokní zámek se Sálem předků. Po Althannech následovali Hilgartner z Lilienbornu, Mniszkové a Stadničtí, za protektorátu baron von der Wense a od roku 1945 je zámek majetkem státu.",
+ "owners": [
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1100,
+   "to": 1323,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "zeměpanský hrad, podle de.wiki postavený Břetislavem I."
+  },
+  {
+   "owner": "pani-z-lipe",
+   "owner_wiki": "Páni z Lipé",
+   "person": "Jindřich z Lipé",
+   "from": 1323,
+   "to": 1421,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "lenni",
+   "note": "en.wiki uvádí zástavu, cs.wiki směnu za Tachov; konec držby nejasný"
+  },
+  {
+   "owner": "lichtenburkove",
+   "owner_wiki": "Lichtenburkové",
+   "person": null,
+   "from": 1421,
+   "to": 1516,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "1421 ovládli hrad za husitských válek, 1499 jim jej Vladislav II. dal do dědičného držení; bítovská větev"
+  },
+  {
+   "owner": "boskovicove",
+   "owner_wiki": "Boskovicové",
+   "person": "Arkleb z Boskovic",
+   "from": 1516,
+   "to": null,
+   "from_approx": false,
+   "to_approx": null,
+   "how": "neznamo"
+  },
+  {
+   "owner": "pernstejnove",
+   "owner_wiki": "Pernštejnové",
+   "person": "Jan z Pernštejna",
+   "from": null,
+   "to": null,
+   "from_approx": null,
+   "to_approx": null,
+   "how": "neznamo"
+  },
+  {
+   "owner": "pani-z-lomnice",
+   "owner_wiki": "Páni z Lomnice",
+   "person": "Zdeněk (Sidonius) z Lomnice",
+   "from": null,
+   "to": null,
+   "from_approx": null,
+   "to_approx": null,
+   "how": "neznamo",
+   "note": "větev Meziříčtí z Lomnice"
+  },
+  {
+   "owner": "krajirove-z-krajku",
+   "owner_wiki": "Krajířové z Krajku",
+   "person": "Wolf Krajíř z Krajku",
+   "from": null,
+   "to": null,
+   "from_approx": null,
+   "to_approx": null,
+   "how": "neznamo"
+  },
+  {
+   "owner": "ditrichstejnove",
+   "owner_wiki": "Ditrichštejnové",
+   "person": null,
+   "from": null,
+   "to": 1614,
+   "from_approx": null,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "cs.wiki mezi majiteli 16. století uvádí také Štrejny ze Švarcenavy a Čertorejské z Čertorej, bez dat"
+  },
+  {
+   "owner": "althannove",
+   "owner_wiki": "Althannové",
+   "person": "Wolf Dietrich z Althannu",
+   "from": 1614,
+   "to": 1621,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "konfiskováno za účast na stavovském povstání"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1621,
+   "to": 1629,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "konfiskace"
+  },
+  {
+   "owner": "z-scherfenbergu",
+   "owner_wiki": null,
+   "person": "Jan Arnošt ze Scherfenbergu",
+   "from": 1629,
+   "to": 1665,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "Valdštejnův generál, koupil zkonfiskované panství"
+  },
+  {
+   "owner": "starhembergove",
+   "owner_wiki": "Starhembergové",
+   "person": null,
+   "from": 1665,
+   "to": 1680,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo"
+  },
+  {
+   "owner": "althannove",
+   "owner_wiki": "Althannové",
+   "person": "Michael Jan II. z Althannu",
+   "from": 1680,
+   "to": 1793,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "barokní přestavba; 1793 konkurz Michaela Josefa z Althannu"
+  },
+  {
+   "owner": "z-lilienbornu",
+   "owner_wiki": null,
+   "person": "Johann Hilgartner z Lilienbornu",
+   "from": 1793,
+   "to": 1799,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "pražský advokát, koupil panství z konkurzní podstaty"
+  },
+  {
+   "owner": "mniszkove",
+   "owner_wiki": null,
+   "person": "Stanisław Mniszek",
+   "from": 1799,
+   "to": 1876,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "polský hraběcí rod"
+  },
+  {
+   "owner": "stadnicti",
+   "owner_wiki": null,
+   "person": "Adam Stadnický",
+   "from": 1876,
+   "to": 1941,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "za protektorátu zkonfiskováno"
+  },
+  {
+   "owner": "z-wense",
+   "owner_wiki": null,
+   "person": "Gebhard von der Wense-Mörse",
+   "from": 1941,
+   "to": 1945,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil zámek jako říšský konfiskát, přesný rok neuveden"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "správa Národní památkový ústav"
+  }
+ ],
+ "events": [
+  {
+   "year": 1100,
+   "text": "první zmínka o hradu v Kosmově kronice"
+  },
+  {
+   "year": 1323,
+   "text": "Jan Lucemburský postoupil Vranov Jindřichovi z Lipé"
+  },
+  {
+   "year": 1614,
+   "text": "hrad koupil Wolf Dietrich z Althannu, po Bílé hoře mu byl zkonfiskován"
+  },
+  {
+   "year": 1665,
+   "text": "rozsáhlý požár po poškození hradu Švédy za třicetileté války"
+  },
+  {
+   "year": 1687,
+   "text": "zahájena stavba Sálu předků podle plánů J. B. Fischera z Erlachu (dokončen 1695)"
+  },
+  {
+   "year": 1699,
+   "text": "stavba zámecké kaple Nejsvětější Trojice s althannskou hrobkou"
+  },
+  {
+   "year": 1793,
+   "text": "konkurz Michaela Josefa z Althannu, panství koupil Hilgartner z Lilienbornu"
+  },
+  {
+   "year": 1945,
+   "text": "zámek zkonfiskován a převeden do majetku státu"
+  }
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Vranov_nad_Dyj%C3%AD_(z%C3%A1mek)",
+  "https://de.wikipedia.org/wiki/Schloss_Vranov_nad_Dyj%C3%AD",
+  "https://en.wikipedia.org/wiki/Vranov_nad_Dyj%C3%AD_Castle"
+ ]
+}

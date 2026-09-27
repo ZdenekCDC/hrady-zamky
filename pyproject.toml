@@ -1,0 +1,10 @@
+[project]
+name = "hrady-zamky"
+version = "0.1.0"
+description = "Data scripts for a personal map of Czech castles and chateaux"
+requires-python = ">=3.12"
+dependencies = [
+    "openpyxl>=3.1.5",
+    "pillow>=12.3.0",
+    "requests>=2.34.2",
+]

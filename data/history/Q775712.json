@@ -1,0 +1,74 @@
+{
+ "id": "Q775712",
+ "name": "Rožmberk",
+ "founded": {"year": 1250, "approx": true, "text": "Hrad založil před polovinou 13. století Vok I. z Rožmberka; první písemná zmínka je z roku 1250."},
+ "summary": "Hrad Rožmberk založil před polovinou 13. století Vok I. z Rožmberka a jeho potomkům patřil s krátkými zástavami až do vymření rodu roku 1611. Poté jej krátce vlastnili Zrinští a páni ze Švamberka, než jej roku 1619-1620 po stavovském povstání získal Karel Bonaventura Buquoy, jehož rodu hrad patřil až do roku 1945. Na přelomu 16. a 17. století byl zchátralý hrad přestavěn na renesanční zámek, novogoticky jej v letech 1840-1857 rozšířil Jiří Jan Jindřich Buquoy. Od roku 1945 je majetkem státu, dnes je ve správě Národního památkového ústavu a zpřístupněn veřejnosti.",
+ "owners": [
+  {
+   "owner": "rozmberkove",
+   "owner_wiki": "Rožmberkové",
+   "person": "Vok I. z Rožmberka a jeho potomci",
+   "from": 1250,
+   "to": 1611,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "hrad byl dvakrát dán do zástavy: Reinprechtovi z Walsee (1420-1456, vyplaceno syny Oldřicha II.) a Janu Popelovi z Lobkovic (1464-1469); v roce 1469 jej krátce zradou dobyl Zdeněk ze Šternberka a téhož roku jej za úplatu vrátil Rožmberkům; rod vymřel smrtí Petra Voka z Rožmberka roku 1611"
+  },
+  {
+   "owner": "zrinsti",
+   "owner_wiki": "Zrinští",
+   "person": "Jan Zrinský ze Serynu",
+   "from": 1611,
+   "to": 1612,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dar",
+   "note": "Petr Vok z Rožmberka mu Rožmberk daroval už roku 1597 (synovec), s výminkou vrácení v případě dřívější Janovy smrti; plně nastoupil po smrti Petra Voka 1611 a sám zemřel už 1612"
+  },
+  {
+   "owner": "pani-ze-svamberka",
+   "owner_wiki": "Páni ze Švamberka",
+   "person": "Jan Jiří ze Švamberka, od 1615 syn Petr ze Švamberka",
+   "from": 1612,
+   "to": 1619,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "podle dohody z roku 1610 měli Švamberkové zdědit majetek Jana Zrinského; Petr ze Švamberka se jako direktor zúčastnil stavovského povstání a o zámek přišel po dobytí Buquoyem roku 1619"
+  },
+  {
+   "owner": "buquoyove",
+   "owner_wiki": "Buquoyové",
+   "person": "Karel Bonaventura Buquoy",
+   "from": 1619,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "roku 1619 dobyl zámek císařský generál Karel Bonaventura Buquoy, císař Ferdinand II. mu jej 6. února 1620 formálně daroval jako náhradu nákladů na vydržování vojska; hlavním rodovým sídlem se staly Nové Hrady, Rožmberk patřil rodu do znárodnění po druhé světové válce"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "znárodněno podle Benešových dekretů; dnes ve správě Národního památkového ústavu, zpřístupněno veřejnosti"
+  }
+ ],
+ "events": [
+  {"year": 1250, "text": "první písemná zmínka o hradu, který založil Vok I. z Rožmberka"},
+  {"year": 1420, "text": "Oldřich II. z Rožmberka dal hrad kvůli dluhům do zástavy Reinprechtovi z Walsee"},
+  {"year": 1469, "text": "Zdeněk ze Šternberka zradou dobyl hrad, téhož roku jej za úplatu vrátil Rožmberkům"},
+  {"year": 1522, "text": "9. dubna vyhořel celý Horní hrad"},
+  {"year": 1556, "text": "začala přestavba zchátralého Dolního hradu na renesanční zámek"},
+  {"year": 1611, "text": "smrtí Petra Voka z Rožmberka rod Rožmberků vymřel"},
+  {"year": 1619, "text": "Rožmberk po obléhání dobyl císařský generál Karel Bonaventura Buquoy"},
+  {"year": 1857, "text": "dokončena novogotická přestavba Dolního zámku za Jiřího Jana Jindřicha Buquoye (1840-1857)"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Rožmberk_(hrad)"]
+}

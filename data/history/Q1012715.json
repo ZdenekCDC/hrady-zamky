@@ -1,0 +1,88 @@
+{
+ "id": "Q1012715",
+ "name": "Košumberk",
+ "founded": {
+  "year": 1255,
+  "approx": true,
+  "text": "Založení gotického hradu je odhadováno na druhou polovinu 13. století (nejstarší dendrochronologicky datované dřevo skáceno po roce 1255), první písemná zmínka je z roku 1312."
+ },
+ "summary": "Gotický hrad Košumberk založil neznámý zakladatel ve druhé polovině 13. století; od roku 1372 jej drželi páni z Chlumu, zakladatelé rodu Slavatů z Chlumu a Košumberka, kteří jej po požáru roku 1573 přestavěli a kolem roku 1600 přistavěli renesanční zámek. Roku 1684 panství získali jezuité, kteří zde zřídili rezidenci a kostel; koncem 18. století hrad zpustl a chátral jako zřícenina. Roku 1922 daroval zříceninu tehdejší vlastník košumberského panství kníže z Thurn-Taxisů Družstvu pro záchranu hradu Košumberka, které ji zakonzervovalo a zřídilo v purkrabství hradní muzeum; dnes je hrad ve správě města Luže.",
+ "owners": [
+  {
+   "owner": "neznamo",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1255,
+   "to": 1372,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "zakladatel hradu není v cs.wiki uveden; první písemná zmínka je z roku 1312"
+  },
+  {
+   "owner": "slavatove-z-chlumu-a-kosumberka",
+   "owner_wiki": "Slavatové z Chlumu a Košumberka",
+   "person": "páni z Chlumu",
+   "from": 1372,
+   "to": 1684,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "roku 1372 doloženi jako vlastníci páni z Chlumu, zakladatelé rodu Slavatů z Chlumu a Košumberka; hrad přestavěli goticky, po požáru 1573 a kolem 1600 přistavěli renesanční zámek"
+  },
+  {
+   "owner": "cirkev",
+   "owner_wiki": null,
+   "person": "jezuité",
+   "from": 1684,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "jezuitský řád zřídil na Košumberku kostel a rezidenci; cs.wiki neuvádí přesný rok konce jejich správy, koncem 18. století je hrad již uváděn jako pustý"
+  },
+  {
+   "owner": "thurn-taxisove",
+   "owner_wiki": "Thurn-Taxisové",
+   "person": "kníže z Thurn-Taxisů",
+   "from": null,
+   "to": 1922,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "cs.wiki neuvádí, kdy ani jak Thurn-Taxisové košumberské panství získali, jen že jej roku 1922 darovali jako vlastníci"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Družstvo pro záchranu hradu Košumberka",
+   "from": 1922,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dar",
+   "note": "spolek zříceninu zakonzervoval a zřídil hradní muzeum; přesný rok přechodu správy na město Luže není v článku uveden"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": null,
+   "from": null,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "dnes je zřícenina ve správě města Luže"
+  }
+ ],
+ "events": [
+  {"year": 1312, "text": "první písemná zmínka o hradu"},
+  {"year": 1372, "text": "jako vlastníci doloženi páni z Chlumu, zakladatelé rodu Slavatů z Chlumu a Košumberka"},
+  {"year": 1573, "text": "hrad vyhořel"},
+  {"year": 1600, "text": "k hradu přistavěn velký renesanční zámek"},
+  {"year": 1684, "text": "panství se stalo majetkem jezuitů, kteří zde zřídili kostel a rezidenci"},
+  {"year": 1868, "text": "v letech 1868 a 1869 se na hradě konaly tábory lidu k uctění Jana Husa"},
+  {"year": 1922, "text": "kníže z Thurn-Taxisů daroval zříceninu Družstvu pro záchranu hradu Košumberka, které ji zakonzervovalo a zřídilo hradní muzeum"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Košumberk"]
+}

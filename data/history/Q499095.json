@@ -1,0 +1,137 @@
+{
+ "id": "Q499095",
+ "name": "Sloup",
+ "founded": {
+  "year": 1300,
+  "approx": true,
+  "text": "Skalní hrad postavili pravděpodobně na počátku 14. století Ronovci, jeho prvním doloženým majitelem byl Čeněk z Lipé."
+ },
+ "summary": "Skalní hrad Sloup postavili počátkem 14. století Ronovci (páni z Lipé), po roce 1330 jej koupili příbuzní Berkové z Dubé. Koncem husitských válek jej ovládl loupeživý rytíř Mikeš Pancíř ze Smojna, než jej roku 1471 znovu koupili Berkové z Dubé; roku 1639 hrad za třicetileté války zničila švédská vojska a už nebyl obnoven. Roku 1679 skálu se zbytky hradu získal hrabě Ferdinand Hroznata z Kokořova a věnoval ji poustevníkům, od roku 1780 skálu vlastnili Kinští, kteří ji upravili na výletní místo; roku 1940 ji zdědil Vilém Emanuel Preysing a roku 1945 mu byl majetek zkonfiskován - dnes je ve správě státu jako kulturní památka.",
+ "owners": [
+  {
+   "owner": "pani-z-lipe",
+   "owner_wiki": "Páni z Lipé",
+   "person": "Čeněk z Lipé",
+   "from": 1300,
+   "to": 1330,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "hrad postavili pravděpodobně Ronovci; Čeněk z Lipé je jeho prvním doloženým majitelem"
+  },
+  {
+   "owner": "berkove-z-dube",
+   "owner_wiki": "Berkové z Dubé",
+   "person": null,
+   "from": 1330,
+   "to": 1427,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "koupili od příbuzných pánů z Lipé"
+  },
+  {
+   "owner": "pancirove-ze-smojna",
+   "owner_wiki": "Pancířové ze Smojna",
+   "person": "Mikeš (Mikuláš) Pancíř ze Smojna, od 1455 jeho synové",
+   "from": 1427,
+   "to": 1471,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "jine",
+   "note": "loupeživý rytíř se na hradě usídlil pod ochranou pánů z Vartenberka a podnikal odtud výpravy do Lužice; 1444 a 1445 hrad obléhán vojsky z Lužice, 1445 vypálen, do tří let obnoven, 1455 předán synům"
+  },
+  {
+   "owner": "berkove-z-dube",
+   "owner_wiki": "Berkové z Dubé",
+   "person": null,
+   "from": 1471,
+   "to": 1639,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "roku 1639 byl hrad za třicetileté války zničen švédskými vojsky generála Johana Banéra a už nebyl obnoven"
+  },
+  {
+   "owner": "kokorovcove-z-kokorova",
+   "owner_wiki": "Kokořovcové z Kokořova",
+   "person": "Ferdinand Hroznata z Kokořova, poté Štěpán Vilém Oldřich",
+   "from": 1679,
+   "to": 1780,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "hrabě získal sloupské panství se skálou a zřícenou zbytky hradu, věnoval skálu poustevníkům; po jeho smrti 1708 pokračoval v úpravách Štěpán Vilém Oldřich"
+  },
+  {
+   "owner": "kinsti",
+   "owner_wiki": "Kinští",
+   "person": "Filip Josef Kinský, ... August František Kinský",
+   "from": 1780,
+   "to": 1940,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "roku 1785 byla zdejší poustevna úředně zrušena josefínskými reformami; Kinští skálu upravili na výletní místo pro hosty"
+  },
+  {
+   "owner": "z-preysingu",
+   "owner_wiki": null,
+   "person": "Vilém Emanuel Preysing",
+   "from": 1940,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "po smrti Augusta Františka Kinského převzal poustevnu i obec; přesný způsob nabytí (dědictví/koupě) cs.wiki neuvádí"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "majetek zkonfiskován, skála zůstala opuštěná; 1953 prohlášena kulturní památkou, kastelánem a nájemcem je od 1998 Ivan Volman"
+  }
+ ],
+ "events": [
+  {
+   "year": 1300,
+   "text": "hrad postaven pravděpodobně Ronovci na počátku 14. století"
+  },
+  {
+   "year": 1427,
+   "text": "hrad ovládl loupeživý rytíř Mikeš Pancíř ze Smojna"
+  },
+  {
+   "year": 1445,
+   "text": "hrad po obležení vojsky z Lužice vypálen, do tří let jej Mikeš obnovil"
+  },
+  {
+   "year": 1471,
+   "text": "hrad znovu koupili Berkové z Dubé"
+  },
+  {
+   "year": 1639,
+   "text": "hrad zničen švédskými vojsky za třicetileté války a nebyl již obnoven"
+  },
+  {
+   "year": 1679,
+   "text": "hrabě Ferdinand Hroznata z Kokořova věnuje skálu poustevníkům, začíná barokní přestavba na poustevnu"
+  },
+  {
+   "year": 1785,
+   "text": "poustevna zrušena josefínskými reformami"
+  },
+  {
+   "year": 1945,
+   "text": "majetek zkonfiskován Vilému Emanuelu Preysingovi, skála zůstala opuštěná"
+  }
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Sloup_(skalní_hrad)"
+ ]
+}

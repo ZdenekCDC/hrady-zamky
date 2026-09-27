@@ -1,0 +1,100 @@
+{
+ "id": "Q370894",
+ "name": "Kratochvíle",
+ "founded": {
+  "year": 1583,
+  "approx": false,
+  "text": "V letech 1583-1589 nechal Vilém z Rožmberka podle plánů vlašského stavitele Baldassara Maggiho z Arogna vystavět renesanční letohrádek po vzoru italských předměstských vil; na jeho místě předtím stával hospodářský dvůr Leptáč."
+ },
+ "summary": "Kratochvíle je renesanční zámek u Netolic, který nechal jako lovecký letohrádek v letech 1583-1589 postavit Vilém z Rožmberka podle plánů Baldassara Maggiho z Arogna. Po Rožmbercích přešla roku 1602 s celým krumlovským panstvím koupí na císaře Rudolfa II. a po stavovském povstání ji získali Eggenbergové, po jejich vymření roku 1719 dědictvím Schwarzenbergové. Za pozemkové reformy ve 20. letech 20. století byl netolický velkostatek vyvlastněn a zámek připadl státu; dnes je ve správě Národního památkového ústavu a je veřejně přístupný.",
+ "owners": [
+  {
+   "owner": "z-jelcan",
+   "owner_wiki": null,
+   "person": "Jakub Krčín z Jelčan",
+   "from": 1569,
+   "to": 1579,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dar",
+   "note": "Vilém z Rožmberka mu věnoval hospodářský dvůr Leptáč; Krčín zde postavil nový dvůr a založil rozsáhlou oboru"
+  },
+  {
+   "owner": "rozmberkove",
+   "owner_wiki": "Rožmberkové",
+   "person": "Vilém z Rožmberka",
+   "from": 1579,
+   "to": 1592,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "vymena",
+   "note": "dvůr si od Krčína směnil za městečko Sedlčany s deseti vesnicemi; 1583-1589 zde nechal vystavět renesanční zámek"
+  },
+  {
+   "owner": "rozmberkove",
+   "owner_wiki": "Rožmberkové",
+   "person": "Petr Vok z Rožmberka",
+   "from": 1592,
+   "to": 1602,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "kvůli zadlužení rožmberského dědictví a neúrodě roku 1600 prodal celé krumlovské panství včetně Kratochvíle"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Rudolf II.",
+   "from": 1602,
+   "to": 1622,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "koupil krumlovské panství (respektive královská komora); zámek chátral a roku 1611 byl poškozen vpádem pasovských"
+  },
+  {
+   "owner": "eggenbergove",
+   "owner_wiki": "Eggenbergové",
+   "person": "Jan Oldřich z Eggenbergu, později Jan Kristián z Eggenbergu a Marie Ernestina Schwarzenbergová",
+   "from": 1622,
+   "to": 1719,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "dar",
+   "note": "po porážce stavovského povstání dostal krumlovské panství darem od Ferdinanda II.; provedeny provizorní opravy, roku 1684 opravena vstupní věž, ve dvou etapách (1654 a 1696) zbořena tvrz Jakuba Krčína; přesný rok vymření rodu Eggenbergů článek neuvádí"
+  },
+  {
+   "owner": "schwarzenbergove",
+   "owner_wiki": "Schwarzenbergové",
+   "person": "Josef Adam ze Schwarzenberku a další; naposledy Jan Nepomuk ze Schwarzenberku",
+   "from": 1719,
+   "to": 1923,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "po vymření Eggenbergů zdědili spřízněný rod Schwarzenbergů; 1762-1764 radikální přestavba za Josefa Adama, v 19. století byty úředníků, sirotčinec a archiv; velkostatek Netolice vyvlastněn v první etapě pozemkové reformy po vzniku Československa, přesný rok článek neuvádí"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1923,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "jine",
+   "note": "vyvlastnění v rámci pozemkové reformy; 1950 převzala objekt Národní kulturní komise, od 2006 ve správě Národního památkového ústavu, obnova 2006-2011 (projekt Renesance renesance)"
+  }
+ ],
+ "events": [
+  {"year": 1583, "text": "Vilém z Rožmberka zahájil stavbu renesančního letohrádku podle plánů Baldassara Maggiho z Arogna"},
+  {"year": 1589, "text": "dokončena stavba zámku, vysvěcena zámecká kaple Narození Panny Marie"},
+  {"year": 1602, "text": "Petr Vok prodal krumlovské panství s Kratochvílí císaři Rudolfovi II."},
+  {"year": 1611, "text": "zámek vážně poškozen při vpádu pasovských"},
+  {"year": 1622, "text": "Ferdinand II. daroval krumlovské panství Janu Oldřichovi z Eggenbergu"},
+  {"year": 1719, "text": "po vymření Eggenbergů přešlo panství dědictvím na Schwarzenbergy"},
+  {"year": 1950, "text": "objekt převzala Národní kulturní komise a zařadila jej mezi památky I. kategorie"},
+  {"year": 2011, "text": "dokončena obnova zámku (projekt Renesance renesance) v době 400. výročí úmrtí Petra Voka"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Kratochvíle_(zámek)"]
+}

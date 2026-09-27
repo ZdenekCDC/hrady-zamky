@@ -1,0 +1,29 @@
+{
+ "id": "Q2240705",
+ "name": "Děčín",
+ "founded": {"year": 1250, "approx": true, "text": "polovina 13. století - královský kamenný hrad na místě raně středověkého hradiště (doloženého už v 10.-13. stol.)"},
+ "summary": "Děčínský hrad byl původně královským majetkem, od počátku 14. století jej téměř dvě století drželi Vartenberkové. Po několika dalších majitelích (Trčka z Lípy, Salhausenové, páni z Bünau) jej roku 1628 koupili Thunové, kteří sídlo přestavěli barokně a klasicistně a drželi je 300 let. Roku 1932 zámek prodali československému státu, který jej využíval jako kasárna; od roku 1991 patří městu Děčín.",
+ "owners": [
+  {"owner": "koruna", "owner_wiki": null, "person": "Heřman ze Šumburka (podle A. Sedláčka)", "from": 1249, "to": 1305, "from_approx": false, "to_approx": true, "how": "zalozeni", "note": "1278-1283 dočasně obsazen Janem z Michalovic"},
+  {"owner": "vartenberkove", "owner_wiki": "Vartenberkové", "person": "Jan, Beneš a Václav z Vartenberka", "from": 1305, "to": 1511, "from_approx": true, "to_approx": false, "how": "lenni", "note": "král Václav III. udělil hrad bratrům z Vartenberka do dědičného držení; četné vnitrorodové dělby, 1444 hrad dobyt a vypálen Lužičany"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Mikuláš Trčka z Lípy", "from": 1511, "to": 1515, "from_approx": false, "to_approx": false, "how": "koupe"},
+  {"owner": "salhausenove", "owner_wiki": "Salhausenové", "person": "Hanuš, Volf a Bedřich ze Salhausenu", "from": 1515, "to": 1534, "from_approx": false, "to_approx": false, "how": "koupe"},
+  {"owner": "rytiri-z-bunau", "owner_wiki": "Rytíři z Bünau", "person": "Rudolf z Bünau a potomci", "from": 1534, "to": 1628, "from_approx": false, "to_approx": false, "how": "koupe", "note": "1573 renesanční přestavba; po Bílé hoře 1620 museli luteránští páni z Bünau majetek prodat"},
+  {"owner": "thun-hohensteinove", "owner_wiki": "Thun-Hohensteinové", "person": "Kryštof Šimon z Thunu", "from": 1628, "to": 1932, "from_approx": false, "to_approx": false, "how": "koupe", "note": "barokní přestavba 1668-1683 (Maxmilián z Thunu), klasicistní přestavba 1786-1792 (Jan Václav Kosch); prodej Františkem Antonínem IV. z Thun-Hohensteinu 1932"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1932, "to": 1991, "from_approx": false, "to_approx": false, "how": "koupe", "note": "zámek sloužil jako kasárna, za 2. sv. války Wehrmacht, 1968-1991 sovětská armáda"},
+  {"owner": "mesto", "owner_wiki": null, "person": null, "from": 1991, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "statutární město Děčín"}
+ ],
+ "events": [
+  {"year": 1249, "text": "Václav I. uděluje Děčín Heřmanovi ze Šumburka"},
+  {"year": 1444, "text": "dobytí a vypálení hradu vojsky Lužického Šestiměstí"},
+  {"year": 1573, "text": "renesanční přestavba za pánů z Bünau"},
+  {"year": 1628, "text": "koupě panství Kryštofem Šimonem z Thunu"},
+  {"year": 1683, "text": "dokončení barokní přestavby za Maxmiliána z Thunu"},
+  {"year": 1792, "text": "dokončení klasicistní přestavby Janem Václavem Koschem"},
+  {"year": 1932, "text": "prodej zámku československému státu"},
+  {"year": 1991, "text": "převod zámku městu Děčín"}
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Děčín_(zámek)"
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "id": "Q2536208",
+ "name": "Vítkův hrádek",
+ "founded": {
+  "year": 1230,
+  "approx": true,
+  "text": "Hrad založili v první polovině 13. století páni z Hradce, za konkrétního stavitele bývá považován Vítek z Hradce."
+ },
+ "summary": "Vítkův hrádek u Blažejova založili v první polovině 13. století páni z Hradce; roku 1267 jej Vítek z Hradce věnoval řádu německých rytířů z Jindřichova Hradce, který jej vlastnil pravděpodobně do počátku 15. století. Podle Augusta Sedláčka byl posledním majitelem Sezema z Chotěnic, zmiňovaný roku 1416, a roku 1458 byl hrad již pustý. Dnes je zříceninou chráněnou jako kulturní památka.",
+ "owners": [
+  {"owner": "pani-z-hradce", "owner_wiki": "Páni z Hradce", "person": "Vítek z Hradce", "from": 1230, "to": 1267, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "za konkrétního stavitele hradu bývá považován Vítek z Hradce; hrad založen v 1. polovině 13. století"},
+  {"owner": "cirkev", "owner_wiki": "Řád německých rytířů", "person": null, "from": 1267, "to": null, "from_approx": false, "to_approx": true, "how": "dar", "note": "Vítek z Hradce daroval hrad řádu německých rytířů z komendy v Jindřichově Hradci; řád jej vlastnil pravděpodobně do počátku 15. století"},
+  {"owner": "z-chotenic", "owner_wiki": null, "person": "Sezema z Chotěnic", "from": null, "to": 1416, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "August Sedláček jej považoval za posledního majitele hradu, zmiňovaného k roku 1416; přesný způsob a rok nabytí neuvedeny, roku 1458 byl hrad již pustý"}
+ ],
+ "events": [
+  {"year": 1267, "text": "Vítek z Hradce daroval hrad řádu německých rytířů"},
+  {"year": 1416, "text": "posledním doloženým majitelem podle A. Sedláčka Sezema z Chotěnic"},
+  {"year": 1458, "text": "hrad je zmiňován jako již pustý"},
+  {"year": 1963, "text": "zřícenina prohlášena kulturní památkou"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Vítkův_hrádek_(okres_Jindřichův_Hradec)"]
+}

@@ -1,0 +1,35 @@
+{
+ "id": "Q874734",
+ "name": "Dětenice",
+ "founded": {"year": 1295, "approx": true, "text": "1295 založil zdejší tvrz Beneš z Hruštic, první písemná zmínka o tvrzi pochází z roku 1404"},
+ "summary": "Středověkou tvrz získali roku 1503 Křinečtí z Ronova, kteří ji koncem 16. století přestavěli renesančně; po bitvě na Bílé hoře byl majetek Jiřího Křineckého konfiskován a přešel na Valdštejny. Od poloviny 18. století zámek vlastnili Clam-Gallasové, kteří jej v letech 1762-1765 přestavěli do dnešní pozdně barokní podoby, poté se vystřídali pražský velkoobchodník Jakub Wimmer a rakouský diplomat Jan Filip Wesenberk z Ampringen. Jeho vnuk Filip Wesenberk zámek roku 1873 jako rytíř maltézského řádu odkázal Maltézskému řádu, který jej vlastnil do roku 1903, kdy jej koupil průmyslník Adolf Bloch; po znárodnění 1948 sloužil zámek jako škola a výchovný ústav a od roku 1998 je v soukromém vlastnictví manželů Ondráčkových, kteří jej zrekonstruovali a provozují jako zámecký resort.",
+ "owners": [
+  {"owner": "z-hrustic", "owner_wiki": null, "person": "Beneš z Hruštic a potomci", "from": 1295, "to": 1503, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "založil zdejší tvrz; první písemná zmínka o tvrzi 1404"},
+  {"owner": "krinecti-z-ronova", "owner_wiki": "Křinečtí z Ronova", "person": "Bohuslav Křinecký z Ronova", "from": 1503, "to": 1600, "from_approx": false, "to_approx": true, "how": "neznamo", "note": "roku 1587 přestavěl gotickou tvrz na renesanční zámek"},
+  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": "Václav z Lobkovic (druhý manžel Bohuslavovy vdovy)", "from": 1600, "to": 1615, "from_approx": true, "to_approx": true, "how": "snatek", "note": "spravoval zámek s manželkou do zletilosti nevlastního syna Jiřího Křineckého"},
+  {"owner": "krinecti-z-ronova", "owner_wiki": "Křinečtí z Ronova", "person": "Jiří Křinecký z Ronova", "from": 1615, "to": 1620, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "1619 postavil dochovanou věž; po bitvě na Bílé hoře 1620 mu byl majetek konfiskován, před popravou uprchl do Saska"},
+  {"owner": "valdstejnove", "owner_wiki": "Valdštejnové", "person": "Albrecht z Valdštejna", "from": 1622, "to": 1625, "from_approx": false, "to_approx": true, "how": "koupe", "note": "získal zkonfiskovaný majetek Jiřího Křineckého; o několik let později jej vyměnil s nejvyšším hofmistrem české koruny Adamem z Valdštejna za jiné pozemky"},
+  {"owner": "valdstejnove", "owner_wiki": "Valdštejnové", "person": "Adam z Valdštejna a potomci (Karel, Jan Kryštof, Ladislav Octavián z Valdštejna)", "from": 1625, "to": 1750, "from_approx": false, "to_approx": true, "how": "vymena", "note": "Ladislav Octavián z Valdštejna (1670-1717) se zasazoval o rekatolizaci kraje; po jeho smrti zdědila zámek jeho dcera"},
+  {"owner": "soukromnik", "person": "hrabě Batthyány (druhý manžel dcery Ladislava Octaviána z Valdštejna)", "from": 1750, "to": 1762, "from_approx": true, "to_approx": true, "how": "snatek", "note": "vychovatel budoucího císaře Josefa II., zámek spravoval od roku 1760"},
+  {"owner": "clam-gallasove", "owner_wiki": "Clam-Gallasové", "person": "Jan Kristián (Christian) hrabě Clam-Gallas a syn Karel Clam-Gallas", "from": 1762, "to": 1797, "from_approx": false, "to_approx": false, "how": "koupe", "note": "1762-1765 pozdně barokní přestavba stavitelem Zachariášem Fiegertem do dnešní podoby; syn Karel zámek spravoval 1775-1783, rodina jej nakonec 1797 prodala"},
+  {"owner": "soukromnik", "person": "Jakub Wimmer (z Wimmersberka)", "from": 1797, "to": 1808, "from_approx": false, "to_approx": false, "how": "koupe", "note": "pražský velkoobchodník, zbohatl jako dodavatel císařské armády za napoleonských válek, později o majetek přišel kvůli burzovním ztrátám"},
+  {"owner": "soukromnik", "person": "Jan Filip Wesenberk z Ampringen", "from": 1808, "to": 1848, "from_approx": false, "to_approx": false, "how": "koupe", "note": "rakouský diplomat a ministerský předseda habsburské monarchie, po revoluci 1848 musel uprchnout"},
+  {"owner": "soukromnik", "person": "Filip Wesenberk (vnuk)", "from": 1848, "to": 1873, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "1873 obviněn ze zrady, spáchal ve Vídni sebevraždu; jako rytíř maltézského řádu zámek odkázal řádu"},
+  {"owner": "cirkev", "from": 1873, "to": 1903, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "Maltézský řád; 1881 udělen řádovému velkopřevorovi Otheniovi Lichnovskému knížecí titul, dalšími správci byli Quido Thun-Hohenstein a hrabě Hardegg, zámek navštívila i španělská královna Marie Kristýna"},
+  {"owner": "soukromnik", "person": "Adolf Bloch, poté syn Rudolf Bloch", "from": 1903, "to": 1927, "from_approx": false, "to_approx": false, "how": "koupe", "note": "velkoprůmyslník; syn Rudolf později prohrál majetek na burze"},
+  {"owner": "soukromnik", "person": "Emanuel Řehák", "from": 1927, "to": 1948, "from_approx": false, "to_approx": false, "how": "koupe", "note": "architekt a vlastenec, hospodářsky podporoval region a část zámku zpřístupnil veřejnosti"},
+  {"owner": "stat", "from": 1948, "to": 1998, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "vyvlastnění československým státem; v zámku zřízena zahradnická dívčí škola, později výchovný ústav pro obtížně vychovatelnou mládež"},
+  {"owner": "soukromnik", "person": "manželé Ondráčkovi", "from": 1998, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupili a zrekonstruovali zámek, dnes součást Zámeckého resortu Dětenice"}
+ ],
+ "events": [
+  {"year": 1404, "text": "první písemná zmínka o zdejší tvrzi"},
+  {"year": 1503, "text": "Křinečtí z Ronova získávají Dětenice"},
+  {"year": 1587, "text": "Bohuslav Křinecký z Ronova přestavuje tvrz na renesanční zámek"},
+  {"year": 1620, "text": "konfiskace majetku Jiřího Křineckého po bitvě na Bílé hoře"},
+  {"year": 1765, "text": "dokončena pozdně barokní přestavba zámku za Clam-Gallasů podle projektu Zachariáše Fiegerta"},
+  {"year": 1873, "text": "Filip Wesenberk odkazuje zámek Maltézskému řádu"},
+  {"year": 1948, "text": "znárodnění zámku československým státem"},
+  {"year": 1998, "text": "manželé Ondráčkovi kupují a obnovují zámek"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Dětenice_(zámek)", "https://de.wikipedia.org/wiki/Schloss_Dětenice"]
+}

@@ -1,0 +1,39 @@
+{
+ "id": "Q13217210",
+ "name": "Bečov nad Teplou (hrad)",
+ "founded": {"year": 1320, "approx": true, "text": "doba založení a stavebník jsou nejasné; za možného zakladatele je považován Boreš III. z Rýzmburka, v první polovině 14. století; první písemná zmínka je z roku 1346"},
+ "summary": "Hrad Bečov nad Teplou pravděpodobně založil v první polovině 14. století Boreš III. z Rýzmburka; první písemná zmínka pochází z roku 1346. Vystřídala se na něm řada šlechtických rodů a zástavních držitelů (Zajícové z Hazmburka, Plavenští z Plavna, Erkinger ze Seinsheimu, Šlikové, Pluhové z Rabštejna), po stavovském povstání roku 1623 jej získali Questenberkové, kteří v letech 1701-1714 postavili v podhradí nový barokní zámek. Sňatkem přešel na rod Beaufort-Spontinů, kteří jej vlastnili až do roku 1945, kdy museli na základě Benešových dekretů opustit republiku a hrad byl zkonfiskován. Od té doby je majetkem státu; v roce 1985 byl v hradní kapli objeven relikviář svatého Maura, který zde Beaufortové před odchodem ukryli.",
+ "owners": [
+  {"owner": "pani-z-ryzmburka", "owner_wiki": "Páni z Rýzmburka", "person": "Boreš III. z Rýzmburka", "from": 1320, "to": 1407, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "po Borešovi V. (+ kolem 1385) zdědili synové Boreš starší a mladší; roku 1407 prodali Bečov Ondřejovi Zajícovi z Hazmburka"},
+  {"owner": "zajicove-z-hazmburka", "owner_wiki": "Zajícové z Hazmburka", "person": "Ondřej Zajíc z Hazmburka", "from": 1407, "to": 1411, "from_approx": false, "to_approx": false, "how": "koupe", "note": "roku 1411 postoupil Bečov Jindřichovi z Plavna"},
+  {"owner": "plavensti-z-plavna", "owner_wiki": "Plavenští z Plavna", "person": "Jindřich I. z Plavna", "from": 1411, "to": 1428, "from_approx": false, "to_approx": true, "how": "koupe", "note": "roku 1424 (nebo 1428) zastavil Bečov Erkingerovi ze Seinsheimu"},
+  {"owner": "soukromnik", "person": "Erkinger ze Seinsheimu", "from": 1428, "to": 1437, "from_approx": true, "to_approx": false, "how": "lenni", "note": "zástavní držitel; roku 1437 Bečov prodal svému zeti Matyáši Šlikovi"},
+  {"owner": "slikove", "owner_wiki": "Šlikové", "person": "Matyáš Šlik", "from": 1437, "to": 1447, "from_approx": false, "to_approx": true, "how": "koupe", "note": "přesná data přechodu na Petra Holického ze Šternberka nejsou v pramenech uvedena"},
+  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": "Petr Holický ze Šternberka", "from": 1447, "to": 1450, "from_approx": true, "to_approx": true, "how": "snatek", "note": "oženil se s Erkingerovou vnučkou"},
+  {"owner": "plavensti-z-plavna", "owner_wiki": "Plavenští z Plavna", "person": "Jindřich II. z Plavna", "from": 1450, "to": 1485, "from_approx": true, "to_approx": false, "how": "koupe", "note": "1465 mu Jiří z Poděbrad za účast v zelenohorské jednotě konfiskoval léno, Bečov ale nevydal; 1485 se zástavním pánem stal Arnošt z Gleichenu"},
+  {"owner": "soukromnik", "person": "Arnošt z Gleichenu", "from": 1485, "to": 1489, "from_approx": false, "to_approx": true, "how": "lenni", "note": "zástavní pán; poté se Plavenským podařilo zástavu vyplatit"},
+  {"owner": "plavensti-z-plavna", "owner_wiki": "Plavenští z Plavna", "person": null, "from": 1489, "to": 1495, "from_approx": true, "to_approx": false, "how": "jine", "note": "vyplatili zástavu, ale pro finanční potíže panství roku 1495 prodali Hynčíkovi Pluhovi z Rabštejna"},
+  {"owner": "pluhove-z-rabstejna", "owner_wiki": "Pluhové z Rabštejna", "person": "Hynčík Pluh z Rabštejna", "from": 1495, "to": 1537, "from_approx": false, "to_approx": false, "how": "koupe", "note": "1501 zdědil syn Hanuš Pluh z Rabštejna, výrazně rozšířil rodový majetek a hrad přestavěl; zemřel 1537"},
+  {"owner": "koruna", "person": null, "from": 1537, "to": 1542, "from_approx": false, "to_approx": false, "how": "jine", "note": "statky prohlášeny za odúmrť; spor s Kašparem Pluhem z Rabštejna urovnán u dvorského soudu 1542"},
+  {"owner": "pluhove-z-rabstejna", "owner_wiki": "Pluhové z Rabštejna", "person": "Kašpar Pluh z Rabštejna", "from": 1542, "to": 1547, "from_approx": false, "to_approx": false, "how": "lenni", "note": "vůdce stavovského povstání 1547, po bitvě u Mühlberka odsouzen ke ztrátě majetku, uprchl do Míšně"},
+  {"owner": "plavensti-z-plavna", "owner_wiki": "Plavenští z Plavna", "person": "Jindřich IV. z Plavna", "from": 1547, "to": 1558, "from_approx": false, "to_approx": true, "how": "lenni", "note": "po konfiskaci se Bečov stal komorním majetkem a byl mu zastaven; zůstal mu do jeho smrti"},
+  {"owner": "slikove", "owner_wiki": "Šlikové", "person": "Jindřich III. Šlik", "from": 1558, "to": 1568, "from_approx": false, "to_approx": false, "how": "lenni", "note": "zástava za deset tisíc tolarů, bez dolů a lesů"},
+  {"owner": "koruna", "person": null, "from": 1568, "to": 1573, "from_approx": false, "to_approx": false, "how": "jine", "note": "hrad spravovala královská komora"},
+  {"owner": "slikove", "owner_wiki": "Šlikové", "person": "Šebestián Šlik", "from": 1573, "to": 1594, "from_approx": true, "to_approx": false, "how": "lenni", "note": "zástava za dvacet tisíc tolarů a předání Rabštejna nad Střelou; po jeho smrti 1594 spravovala vdova Sibyla"},
+  {"owner": "mesto", "person": null, "from": 1597, "to": 1623, "from_approx": false, "to_approx": false, "how": "koupe", "note": "24. dubna 1597 Bečov koupilo město Horní Slavkov; roku 1623 mu byl za účast ve stavovském povstání zkonfiskován"},
+  {"owner": "questenberkove", "owner_wiki": "Questenberkové", "person": "Gerhard z Questenberka", "from": 1624, "to": 1802, "from_approx": false, "to_approx": true, "how": "koupe", "note": "koupě zabaveného panství za 60000 kop míšeňských grošů; 1701-1714 Jan Adam z Questenberka postavil v podhradí nový barokní zámek"},
+  {"owner": "beaufort-spontinove", "owner_wiki": "Beaufort-Spontinové", "person": "Alfréd Beaufort-Spontini", "from": 1802, "to": 1945, "from_approx": true, "to_approx": false, "how": "snatek", "note": "přesný rok přechodu na rod není v textu uveden; roku 1945 museli na základě Benešových dekretů opustit republiku, hrad zkonfiskován"},
+  {"owner": "stat", "person": null, "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "od roku 1945 majetek státu; roku 1985 nalezen relikviář svatého Maura ukrytý Beauforty v hradní kapli"}
+ ],
+ "events": [
+  {"year": 1346, "text": "první písemná zmínka o hradu"},
+  {"year": 1400, "text": "vysvěcena hradní kaple Navštívení Panny Marie"},
+  {"year": 1495, "text": "hrad kupuje Hynčík Pluh z Rabštejna"},
+  {"year": 1547, "text": "vůdce stavovského povstání Kašpar Pluh z Rabštejna přichází o majetek"},
+  {"year": 1623, "text": "konfiskace panství Hornímu Slavkovu za účast na stavovském povstání"},
+  {"year": 1701, "text": "Jan Adam z Questenberka zahajuje stavbu nového barokního zámku (dokončena 1714)"},
+  {"year": 1945, "text": "Beaufort-Spontinové nuceni opustit republiku, hrad zkonfiskován"},
+  {"year": 1985, "text": "objev relikviáře svatého Maura v hradní kapli"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Bečov_nad_Teplou_(hrad)"]
+}

@@ -1,0 +1,44 @@
+{
+ "_doc": "Manual corrections. nipos_match: NIPOS row name -> Wikidata QIDs it covers. extra_qids: castles to fetch from Wikidata although not typed as castle/chateau/ruin. places: QID -> fields overriding the built place (e.g. access, kind, name).",
+ "nipos_match": {
+  "Státní hrady Žebrák a Točník": [
+   "Q695042",
+   "Q1014274"
+  ],
+  "Státní zámek Vranov nad Dyjí se zříceninou Nový Hrádek u Lukova": [
+   "Q1417125",
+   "Q1577660"
+  ],
+  "Zámek Slavkov - Austerlitz": [
+   "Q1418278"
+  ],
+  "Hrad Hartenštejn s Karlovarskou věží, Bochov": [
+   "Q1012205"
+  ],
+  "Průhonický park a zámek, Průhonice": [
+   "Q10968666"
+  ],
+  "Chvalský zámek, Praha 9": [
+   "Q11730719"
+  ],
+  "Hrad Orlík nad Humpolcem": [
+   "Q12042921"
+  ],
+  "Hrad Aichelburg": [
+   "Q10722595"
+  ],
+  "Zámek Český Rudolec - Malá Hluboká": [
+   "Q10938001"
+  ]
+ },
+ "extra_qids": [
+  "Q11730719",
+  "Q10722595",
+  "Q10938001"
+ ],
+ "places": {
+  "Q1012711": {
+   "kind": "hrad"
+  }
+ }
+}

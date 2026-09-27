@@ -1,0 +1,54 @@
+{
+ "id": "Q2241691",
+ "name": "Humprecht",
+ "founded": {
+  "year": 1666,
+  "approx": false,
+  "text": "V letech 1666-1668 nechal Humprecht Jan Černín z Chudenic, císařský velvyslanec v Benátkách, postavit lovecký zámeček s elipsovitým půdorysem podle návrhu Carla Luraga; stavbu vedl Francesco Ceresola, který zámek po požáru roku 1678 opravil a zvýšil o patro."
+ },
+ "summary": "Humprecht je lovecký zámeček s výraznou elipsovitou dispozicí u Sobotky, postavený v letech 1666-1668 jako letní sídlo Humprechta Jana Černína z Chudenic podle návrhu Carla Luraga. Po Černínech jej roku 1738 koupili Netoličtí z Eisenberku, za jejichž držby zámek chátral. V rámci pozemkové reformy připadl roku 1926 městu Sobotka, kterému patří dodnes; ve 20. století prošel několika rekonstrukcemi (1937-39, 70. léta, 2021-2023).",
+ "owners": [
+  {
+   "owner": "cerninove-z-chudenic",
+   "owner_wiki": "Černínové z Chudenic",
+   "person": "Humprecht Jan Černín z Chudenic",
+   "from": 1666,
+   "to": 1738,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "nechal zámeček postavit jako letní sídlo; pojmenován po něm"
+  },
+  {
+   "owner": "netolicti-z-eisenberka",
+   "owner_wiki": "Netoličtí z Eisenberka",
+   "person": "Václav Kasimír Netolický z Eisenberku",
+   "from": 1738,
+   "to": 1926,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "za jejich držby zámek postupně chátral"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1926,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "v rámci pozemkové reformy připadl zámek městu Sobotka, jehož majetkem je dodnes"
+  }
+ ],
+ "events": [
+  {"year": 1668, "text": "dokončena stavba loveckého zámečku podle návrhu Carla Luraga"},
+  {"year": 1678, "text": "zámek poškozen požárem, Francesco Ceresola jej opravil a zvýšil o patro"},
+  {"year": 1738, "text": "zámek koupila rodina Netolických z Eisenberku"},
+  {"year": 1926, "text": "v rámci pozemkové reformy připadl zámek městu Sobotka"},
+  {"year": 1939, "text": "dokončena rekonstrukce zámku (1937-1939)"},
+  {"year": 2023, "text": "dokončena rekonstrukce zámku (2021-2023)"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Humprecht"]
+}
