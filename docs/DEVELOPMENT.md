@@ -12,7 +12,7 @@ python3 scripts/serve.py        # otevři http://localhost:8000
 
 ## Co umí
 
-- **Mapa**: vrstvy zpřístupněné (vstupné, prohlídky) / volně přístupné zříceniny / ostatní (přístupnost neznámá, skrytá). Piktogram značky = typ (věž s cimbuřím hrad, budova s kupolí zámek, věž s křídlem hrad a zámek, rozpadlé zdi zřícenina), plná modrá s fajfkou = navštíveno.
+- **Mapa**: vrstvy zpřístupněné (vstupné, prohlídky) / volně přístupné zříceniny / ostatní (přístupnost neznámá, skrytá). Piktogram značky = typ (věž s cimbuřím hrad, budova s kupolí zámek, věž s křídlem hrad a zámek, rozpadlé zdi zřícenina) a světlá výplň = typ (žlutá hrad, korálová zámek, šeříková hrad a zámek, tyrkysová zřícenina); obrys černý = zpřístupněné, šedý = volně přístupné; plná modrá s fajfkou = navštíveno.
 - **Filtry**: typ, kraj, správce (NPÚ / ostatní), století vzniku, návštěvy (všechny / jen navštívené / jen nenavštívené), jen s historií; hledání (místa i rody); „resetovat vše“.
 - **Zvýraznit rody**: více rodů najednou jako chipy (× odebere, „zrušit výběr“ vše); značky rodu dostanou jeho barvu, ostatní se ztlumí. Totéž kliknutím v legendě.
 - **Náhled při najetí myší**: fotka (lokální miniatura z `data/thumbs/`, rychlá i na GitHub Pages), typ, obec, vznik, přístupnost, rody (ve stroji času vlastník v daném roce).

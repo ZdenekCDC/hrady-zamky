@@ -130,7 +130,7 @@ function renderFamilyCharts(f) {
     pts.push([p.lat, p.lon]);
     const st = p.visited
       ? { size: 18, fill: ownerColor(D.families, f.id, true), stroke: "var(--mk-ink)", strokeWidth: 2.5 }
-      : { size: 15, fill: "var(--mk-bg)", stroke: ownerColor(D.families, f.id, true), strokeWidth: 3 };
+      : { size: 15, fill: `var(--mk-kind-${p.kind})`, stroke: ownerColor(D.families, f.id, true), strokeWidth: 3 };
     L.marker([p.lat, p.lon], {
       title: p.name,
       icon: glyphIcon(p.kind, st),

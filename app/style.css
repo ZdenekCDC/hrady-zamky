@@ -37,6 +37,11 @@
   --mk-series-6: #008300;
   --mk-series-7: #4a3aa7;
   --mk-series-8: #e34948;
+  /* light fill per place type (validated: worst CVD ΔE 10.3, normal 16.9, incl. the visited blue) */
+  --mk-kind-hrad: #f7d36b;
+  --mk-kind-zamek: #f08f7a;
+  --mk-kind-hradozamek: #b49cf0;
+  --mk-kind-zricenina: #7fd0cf;
   font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
 }
 @media (prefers-color-scheme: dark) {

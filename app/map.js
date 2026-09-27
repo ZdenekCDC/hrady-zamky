@@ -85,6 +85,8 @@ function highlightedOwner(p) {
   return owners ? state.families.find((f) => owners.some((o) => o.owner === f)) || null : null;
 }
 
+const kindFill = (kind) => `var(--mk-kind-${kind})`;
+
 function markerStyle(p) {
   const fams = state.families;
   if (state.tm) {
@@ -103,9 +105,9 @@ function markerStyle(p) {
   const hl = fams.length ? highlightedOwner(p) : null;
   const dim = fams.length && !hl;
   if (p.visited) return { size: 20, fill: hl ? ownerColor(D.families, hl, true) : "var(--mk-accent)", stroke: "var(--mk-bg)", check: true, opacity: dim ? 0.25 : 1 };
-  if (hl) return { size: 17, fill: "var(--mk-bg)", stroke: ownerColor(D.families, hl, true), strokeWidth: 3 };
-  if (p.access === "vstupne") return { size: 15, fill: "var(--mk-bg)", stroke: "var(--mk-ink)", opacity: dim ? 0.2 : 1 };
-  if (p.access === "volne") return { size: 13, fill: "var(--mk-bg)", stroke: "var(--mk-muted)", opacity: dim ? 0.2 : 1 };
+  if (hl) return { size: 17, fill: kindFill(p.kind), stroke: ownerColor(D.families, hl, true), strokeWidth: 3 };
+  if (p.access === "vstupne") return { size: 15, fill: kindFill(p.kind), stroke: "var(--mk-ink)", opacity: dim ? 0.2 : 1 };
+  if (p.access === "volne") return { size: 13, fill: kindFill(p.kind), stroke: "var(--mk-muted)", opacity: dim ? 0.2 : 1 };
   return { size: 9, fill: "var(--mk-muted)", stroke: "var(--mk-bg)", strokeWidth: 1, opacity: dim ? 0.15 : 0.8 };
 }
 
@@ -190,7 +192,7 @@ function renderFilters() {
     <div class="filter-group"><div class="label">Typ</div>
       <div class="row">${Object.entries(KIND).map(([k, label]) => `
         <label class="check"><input type="checkbox" data-kind="${k}" ${state.kinds[k] ? "checked" : ""}>
-        ${glyph(k, { size: 12, fill: "var(--mk-bg)", stroke: "var(--mk-ink)", strokeWidth: 1.5 })}${label}</label>`).join("")}</div>
+        ${glyph(k, { size: 12, fill: kindFill(k), stroke: "var(--mk-ink)", strokeWidth: 1.5 })}${label}</label>`).join("")}</div>
     </div>
     <div class="filter-group"><div class="label">Kraj a správce</div>
       <div class="row">
@@ -306,7 +308,7 @@ function renderLegend() {
     html += item(glyph("zamek", { size: 15, fill: "var(--mk-bg)", stroke: "var(--mk-ink)" }), "zpřístupněné");
     html += item(glyph("zamek", { size: 13, fill: "var(--mk-bg)", stroke: "var(--mk-muted)" }), "volně přístupné");
     html += item(glyph("zamek", { size: 9, fill: "var(--mk-muted)", stroke: "var(--mk-bg)", strokeWidth: 1 }), "ostatní");
-    for (const [k, label] of Object.entries(KIND)) html += item(glyph(k, { size: 12, fill: "var(--mk-bg)", stroke: "var(--mk-ink)", strokeWidth: 1.5 }), label);
+    for (const [k, label] of Object.entries(KIND)) html += item(glyph(k, { size: 12, fill: kindFill(k), stroke: "var(--mk-ink)", strokeWidth: 1.5 }), label);
   }
   el.innerHTML = html;
   el.querySelectorAll("[data-fam]").forEach((i) => i.addEventListener("click", () => {
