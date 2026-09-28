@@ -1,5 +1,5 @@
 {
- "_doc": "Manual corrections. nipos_match: NIPOS row name -> Wikidata QIDs it covers. npu_qid: NPÚ list link title -> correct Wikidata QID (the cs.wiki list links the wrong article). extra_qids: castles to fetch from Wikidata although not typed as castle/chateau/ruin. places: QID -> fields overriding the built place (e.g. access, kind, name).",
+ "_doc": "Manual corrections. nipos_match: NIPOS row name -> Wikidata QIDs it covers. npu_qid: NPÚ list link title -> correct Wikidata QID (the cs.wiki list links the wrong article). extra_qids: castles to fetch from Wikidata although not typed as castle/chateau/ruin. exclude: QID -> why it is left out (duplicate Wikidata items). places: QID -> fields overriding the built place (e.g. access, kind, name).",
  "nipos_match": {
   "Státní hrady Žebrák a Točník": [
    "Q695042",
@@ -39,9 +39,57 @@
   "Q10722595",
   "Q10938001"
  ],
+ "exclude": {
+  "Q136722727": "duplicate of Pražský hrad Q193369 (no article, generic coordinates)",
+  "Q55118939": "duplicate of Lžín Q108098261",
+  "Q30202831": "duplicate of Bečov nad Teplou Q13217210 (monument record of the same castle)",
+  "Q11878900": "duplicate of zámek Velká Černá Hať Q28913223"
+ },
  "places": {
   "Q1012711": {
    "kind": "hrad"
+  },
+  "Q1012637": {
+   "kind": "hrad"
+  },
+  "Q1013464": {
+   "kind": "hrad"
+  },
+  "Q1012308": {
+   "kind": "hrad"
+  },
+  "Q1014187": {
+   "kind": "hrad"
+  },
+  "Q847039": {
+   "kind": "hrad"
+  },
+  "Q12024521": {
+   "kind": "hrad"
+  },
+  "Q12033634": {
+   "kind": "hrad"
+  },
+  "Q18164": {
+   "kind": "hrad"
+  },
+  "Q745696": {
+   "kind": "hrad"
+  },
+  "Q187633": {
+   "kind": "zricenina"
+  },
+  "Q12018569": {
+   "kind": "zricenina"
+  },
+  "Q1592121": {
+   "kind": "zricenina"
+  },
+  "Q1013542": {
+   "kind": "zricenina"
+  },
+  "Q1577660": {
+   "kind": "zricenina"
   }
  }
 }

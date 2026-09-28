@@ -51,8 +51,8 @@ def short_name(name):
 
 def classify(item, npu_kind):
     types = set(item["types"])
-    if npu_kind == "Hrad a zámek" or (not types and npu_kind in KIND_FROM_NPU):
-        return KIND_FROM_NPU[npu_kind]
+    if npu_kind in ("Hrad", "Hrad a zámek") or (not types and npu_kind in KIND_FROM_NPU):
+        return KIND_FROM_NPU[npu_kind]  # NPÚ "Hrad" = castle with roofed, visitable parts, even if Wikidata says ruin
     if "zricenina" in types or RUIN_STATES & set(item["states"]):
         return "zricenina"
     if {"hrad", "zamek"} <= types:
@@ -154,6 +154,8 @@ def main():
         q = it["qid"]
         if set(it["part_of"]) & qids and q not in npu and q not in nipos:
             continue  # building/part of another castle in the dataset
+        if q in overrides["exclude"]:
+            continue  # duplicate Wikidata item of a place already in the dataset
         if not it["types"] and q not in npu and q not in overrides["extra_qids"]:
             continue  # fetched only because of a stale NPÚ link (see overrides npu_qid)
         kind = classify(it, npu.get(q, {}).get("kind"))

@@ -1,6 +1,6 @@
 # Místa bez fotografie
 
-239 z 2236 míst nemá ve Wikidatech obrázek (P18), proto nemají fotku v detailu ani miniaturu. Fotku přidáš nahráním na Wikimedia Commons a doplněním P18 do položky na Wikidatech; pak `fetch_wikidata.py`, `build_places.py`, `fetch_thumbs.py`.
+237 z 2231 míst nemá ve Wikidatech obrázek (P18), proto nemají fotku v detailu ani miniaturu. Fotku přidáš nahráním na Wikimedia Commons a doplněním P18 do položky na Wikidatech; pak `fetch_wikidata.py`, `build_places.py`, `fetch_thumbs.py`.
 
 ## Jihomoravský kraj (14)
 
@@ -21,7 +21,7 @@
 | Čechyně | zámek | Rousínov | neznámo | [Wikidata](https://www.wikidata.org/wiki/Q110947240) |
 | Žďárec | hrad | Rojetín | neznámo | [Wikidata](https://www.wikidata.org/wiki/Q10296655), [cs.wiki](https://cs.wikipedia.org/wiki/Žďárec_(hrad)) |
 
-## Jihočeský kraj (20)
+## Jihočeský kraj (19)
 
 | Místo | Typ | Obec | Přístup | Odkazy |
 |---|---|---|---|---|
@@ -36,7 +36,6 @@
 | Jistebnice | zámek | Jistebnice | neznámo | [Wikidata](https://www.wikidata.org/wiki/Q33407490) |
 | Kostelní Vydří | zámek | Kostelní Vydří | neznámo | [Wikidata](https://www.wikidata.org/wiki/Q31148708), [cs.wiki](https://cs.wikipedia.org/wiki/Kostelní_Vydří_(zámek)) |
 | Ledenice | hrad | Ledenice | neznámo | [Wikidata](https://www.wikidata.org/wiki/Q21534318), [cs.wiki](https://cs.wikipedia.org/wiki/Ledenice_(hrad)) |
-| Lžín | zámek | Lžín | neznámo | [Wikidata](https://www.wikidata.org/wiki/Q55118939) |
 | Mostky | zámek | Mostky | neznámo | [Wikidata](https://www.wikidata.org/wiki/Q12038762), [cs.wiki](https://cs.wikipedia.org/wiki/Mostky_(zámek)) |
 | Na Stožecké skále | hrad | České Žleby | neznámo | [Wikidata](https://www.wikidata.org/wiki/Q12020553), [cs.wiki](https://cs.wikipedia.org/wiki/Hrad_na_Stožecké_skále) |
 | Ohrazenice | zámek | Ratibořské Hory | neznámo | [Wikidata](https://www.wikidata.org/wiki/Q33324747) |
@@ -252,11 +251,10 @@
 | Zámek | zámek | Staré Sedliště | neznámo | [Wikidata](https://www.wikidata.org/wiki/Q38137914) |
 | Újezd u Plánice | zámek | Újezd u Plánice | neznámo | [Wikidata](https://www.wikidata.org/wiki/Q116036592) |
 
-## Praha (3)
+## Praha (2)
 
 | Místo | Typ | Obec | Přístup | Odkazy |
 |---|---|---|---|---|
-| Pražský hrad | hrad | Praha | neznámo | [Wikidata](https://www.wikidata.org/wiki/Q136722727) |
 | Vysočany | zámek | Vysočany | neznámo | [Wikidata](https://www.wikidata.org/wiki/Q115862720), [cs.wiki](https://cs.wikipedia.org/wiki/Vysočany_(zámek)) |
 | Zahradní pavilon Zapova 20 | hrad | Smíchov | neznámo | [Wikidata](https://www.wikidata.org/wiki/Q31954108), [cs.wiki](https://cs.wikipedia.org/wiki/Zahradní_pavilon_Zapova_(Smíchov)) |
 

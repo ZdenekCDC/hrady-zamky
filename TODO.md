@@ -1,6 +1,6 @@
 # TODO
 
-Stav k 2026-09-28: web běží na GitHub Pages (<https://zdenekcdc.github.io/hrady-zamky/>), mapa 2235 objektů, historie vlastníků 289 objektů (všechny zpřístupněné s článkem na cs.wiki), 694 rodů.
+Stav k 2026-09-28: web běží na GitHub Pages (<https://zdenekcdc.github.io/hrady-zamky/>), mapa 2231 objektů, historie vlastníků 289 objektů (všechny zpřístupněné s článkem na cs.wiki), 694 rodů.
 
 ## Priorita 1 - ověřit a doplnit základ
 
@@ -115,8 +115,6 @@ Stav k 2026-09-28: web běží na GitHub Pages (<https://zdenekcdc.github.io/hra
 - [ ] Erby chybí u 506 z 694 rodů, popis u 401 (hlavně rody bez článku) - doplnit z Commons / Wikipedie.
 - [ ] Zbylé chybějící zpřístupněné objekty (muzea, která mají jiný web než Wikidata, soukromé zámky mimo statistiku) - přidávat do `data/overrides.json` (`places.<QID>.access = "vstupne"`); nahlas mi, co ti chybí.
 - [ ] Nenapárovaná položka NIPOS: zřícenina Putna (není na Wikidatech jako hrad).
-- [ ] Projít klasifikaci typu u známých objektů (Wikidata vede např. Kašperk, Rabí jako zříceniny) - opravy do `overrides.json`.
-- [ ] Podivné duplicity z Wikidat (např. druhý „Karlštejn“ Q1505765 jako zámek ze 70. let 18. stol.) - vyřadit přes overrides.
 
 ## Priorita 3 - web
 
