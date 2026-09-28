@@ -1,0 +1,65 @@
+{
+ "id": "Q21587658",
+ "name": "Domažlice",
+ "founded": {
+  "year": null,
+  "approx": true,
+  "text": "Hrad založil spolu s městem král Přemysl Otakar II.; přesný rok založení není v článku uveden."
+ },
+ "summary": "Hrad v Domažlicích založil král Přemysl Otakar II. společně s městem. Roku 1592 při požáru města vyhořel a v 17. století se o majetková práva k jeho zbytkům vedl vleklý spor mezi městem a Volfem Maxmiliánem Lamingerem, který byl roku 1671 rozhodnut ve prospěch města. To nechalo zříceninu v letech 1726-1728 přestavět na solnici s věží, v 19. století v objektu sídlil městský úřad a škola, od 30. let 20. století Chodské muzeum; po požáru při rekonstrukci v roce 1995 byla oprava dokončena 1998 a hrad zpřístupněn veřejnosti 1999.",
+ "owners": [
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Přemysl Otakar II.",
+   "from": null,
+   "to": 1592,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "zalozeni",
+   "note": "založil hrad spolu s městem; přesný rok založení ani další osud v držení koruny/města do požáru 1592 nejsou v článku popsány"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "Domažlice",
+   "from": 1592,
+   "to": 1671,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "po požáru 1592 veden vleklý spor o majetková práva k hradu mezi městem a Volfem Maxmiliánem Lamingerem"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Volf Maxmilián Laminger",
+   "from": 1592,
+   "to": 1671,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "protistrana města ve sporu o majetková práva k hradu v 17. století; rodová příslušnost (predikát) není v článku uvedena, spor rozhodnut 1671 ve prospěch města"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "Domažlice",
+   "from": 1671,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "spor rozhodnut ve prospěch města; zbytky hradu přestavěny 1726-1728 na solnici, v 19. stol. sídlo úřadu a školy, od 30. let 20. stol. Chodské muzeum"
+  }
+ ],
+ "events": [
+  {"year": 1592, "text": "hrad vyhořel při požáru města"},
+  {"year": 1671, "text": "spor o majetková práva k hradu rozhodnut ve prospěch města"},
+  {"year": 1727, "text": "1726-1728 přestavba zbytků hradu na solnici s věží"},
+  {"year": 1930, "text": "od 30. let 20. století v objektu sídlí Chodské muzeum"},
+  {"year": 1995, "text": "hrad při rekonstrukčních pracích znovu vyhořel"},
+  {"year": 1999, "text": "po opravě (dokončena 1998) zpřístupněn veřejnosti"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Domažlice_(hrad)"]
+}

@@ -1,0 +1,31 @@
+{
+ "id": "Q439598",
+ "name": "Jevišovice (starý zámek)",
+ "founded": {
+  "year": null,
+  "approx": false,
+  "text": "Hrad postavili páni z Kunštátu v první třetině 15. století poté, co byl jejich starší hrad na protější straně údolí Jevišovky rozbořen; současnou podobu (gotické jádro s renesanční a raně barokní přestavbou) získal v 16. a 17. století, úpravy dokončil v 17. století Jan Ludvík Raduit de Souches."
+ },
+ "summary": "Starý zámek Jevišovice vznikl jako hrad pánů z Kunštátu v první třetině 15. století na místě po zbořeném starším hradu; současnou renesančně-barokní podobu získal v 16. a 17. století, kdy zde svá nejvýznamnější stavební období prožil pod hrabaty de Souches, jejichž nejslavnějším příslušníkem byl obránce Brna Jan Ludvík Raduit de Souches. Po Kunštátech se v majitelích vystřídali Minsterbersko-olešničtí, císař Ferdinand III., de Souchesové, Ugartové, Biedermannové, Ofenheimové a Larisch-Mönnichové, než byl zámek roku 1945 na základě Benešových dekretů zkonfiskován. Od roku 1973 je ve správě Moravského zemského muzea v Brně a slouží jako muzejní expozice.",
+ "owners": [
+  {"owner": "pani-z-kunstatu-a-podebrad", "owner_wiki": "Páni z Kunštátu a Poděbrad", "person": "páni z Kunštátu", "from": null, "to": 1600, "from_approx": false, "to_approx": false, "how": "zalozeni", "note": "hrad postaven v první třetině 15. století; zdroj neuvádí přesný rok ani konkrétní jméno stavebníka"},
+  {"owner": "minsterberkove", "owner_wiki": "Minsterberkové", "person": "knížata Minsterbersko-olešnická", "from": 1600, "to": 1647, "from_approx": false, "to_approx": false, "how": "neznamo"},
+  {"owner": "koruna", "owner_wiki": null, "person": "Ferdinand III.", "from": 1647, "to": 1649, "from_approx": false, "to_approx": false, "how": "neznamo"},
+  {"owner": "de-souches", "owner_wiki": null, "person": "Jan Ludvík Raduit de Souches, poté syn Karel Ludvík Raduit de Souches", "from": 1649, "to": 1736, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "rod de Souches nemá vlastní článek na cs.wiki; Jan Ludvík byl obránce Brna proti Švédům (1645), Karel Ludvík padl 1691 v bitvě u Slankamenu"},
+  {"owner": "ugartove", "owner_wiki": "Ugartové", "person": "hrabata Ugarte", "from": 1736, "to": 1879, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "rod spřízněný s de Souches"},
+  {"owner": "biedermannove", "owner_wiki": null, "person": "Robert Biedermann z Turony", "from": 1898, "to": 1916, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "1903 povýšen do stavu svobodných pánů, poslední potomek rodu; rod nemá vlastní článek na cs.wiki"},
+  {"owner": "ofenheimove", "owner_wiki": null, "person": "Ofenheimové", "from": 1916, "to": 1939, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "rod nemá vlastní článek na cs.wiki"},
+  {"owner": "larischove", "owner_wiki": "Larischové", "person": "hrabě Eduard Larisch-Mönnich", "from": 1939, "to": 1945, "from_approx": false, "to_approx": false, "how": "neznamo"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "zkonfiskováno na základě Benešových dekretů; od 1973 ve správě Moravského zemského muzea v Brně"}
+ ],
+ "events": [
+  {"year": 1647, "text": "po vymření Minsterbersko-olešnických panství na tři roky připadá císaři Ferdinandu III."},
+  {"year": 1649, "text": "panství získávají hrabata de Souches"},
+  {"year": 1691, "text": "Karel Ludvík Raduit de Souches padl v bitvě u Slankamenu v osmansko-habsburských válkách"},
+  {"year": 1736, "text": "zámek přechází na spřízněný rod Ugarte"},
+  {"year": 1905, "text": "požár ničí šindelovou střechu zámku"},
+  {"year": 1945, "text": "velkostatek zkonfiskován na základě Benešových dekretů"},
+  {"year": 1973, "text": "objekt přebírá do správy Moravské zemské muzeum"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Jevišovice_(starý_zámek)"]
+}

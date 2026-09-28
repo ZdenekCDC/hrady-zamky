@@ -1,0 +1,28 @@
+{
+ "id": "Q960890",
+ "name": "Rychnov nad Kněžnou",
+ "founded": {"year": 1258, "approx": true, "text": "V místech dnešního kostela Nejsvětější Trojice stávala již před rokem 1258 tvrz královského komorníka Heřmana z Rychnova, později nazývaná hradem."},
+ "summary": "Na místě dnešního barokního zámku stávala od doby před rokem 1258 tvrz, později hrad, rodu pánů z Rychnova, který jej roku 1497 prodal Pernštejnům. Po dalších majitelích (Trčkové z Lípy, Kryštof Betengel) se roku 1640 panství dostalo do rukou Libštejnských z Kolowrat, kteří po požáru 1704 nechali zámek přestavět patrně podle návrhu Jana Blažeje Santiniho-Aichela. Po vymření liebsteinské větve roku 1861 zámek zdědila krakowská větev Kolowratů, po znárodnění 1948 a navrácení v restituci 1992 jej rod vlastní dodnes.",
+ "owners": [
+  {"owner": "z-rychnova", "owner_wiki": null, "person": "Heřman z Rychnova, poté bratři z Rychnova", "from": 1258, "to": 1497, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "tvrz/hrad byl opakovaně obýván příslušníky dvorské šlechty rodu; bratři z Rychnova hrad roku 1497 prodali"},
+  {"owner": "pernstejnove", "owner_wiki": "Pernštejnové", "person": null, "from": 1497, "to": 1556, "from_approx": false, "to_approx": false, "how": "koupe", "note": "roku 1556 panství prodali pro dluhy; hrad přestal být obýván ve 2. polovině 16. století"},
+  {"owner": "trckove-z-lipy", "owner_wiki": "Trčkové z Lípy", "person": "Burjan Trčka z Lípy", "from": 1577, "to": null, "from_approx": false, "to_approx": true, "how": "koupe", "note": "vybudoval starý renesanční zámek s vlastním pivovarem a sladovnou; zdroj neuvádí, kdy panství prodal"},
+  {"owner": "betengelove", "owner_wiki": null, "person": "Kryštof Betengel", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "další majitel po Trčkovi z Lípy, přestavěl u hradu kostel Nejsvětější Trojice; přesná léta držby ani způsob nabytí zdroj neuvádí"},
+  {"owner": "libstejnsti-z-kolovrat", "owner_wiki": "Libštejnští z Kolovrat", "person": "Albrecht Libštejnský z Kolowrat, poté syn František Karel I. a vnuk František Karel II.", "from": 1640, "to": 1861, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "František Karel I. dal roku 1676 zbořit starý zámek a postavit ranou barokní budovu; po požáru 1704 provedena přestavba v letech 1720-1724 patrně podle Jana Blažeje Santiniho-Aichela pro Františka Karla II.; liebsteinská větev vymřela po meči 1861"},
+  {"owner": "kolowrat-krakowsti", "owner_wiki": "Kolowrat-Krakowští", "person": null, "from": 1861, "to": 1948, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "po vymření liebsteinské větve 1861 přešel Rychnov na krakowskou větev, která obdržela svolení užívat přídomek Krakowský Liebsteinský; za 2. světové války uvalili Němci na panství nucenou správu, roku 1945 je rodina převzala zpět"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1948, "to": 1992, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "zámek byl znárodněn 1948"},
+  {"owner": "kolowrat-krakowsti", "owner_wiki": "Kolowrat-Krakowští", "person": "Jan Egon Kolowrat Krakowský Liebsteinský", "from": 1992, "to": null, "from_approx": false, "to_approx": false, "how": "restituce", "note": "zámek vrácen rodu v restituci 1992; současným majitelem je Jan Egon Kolowrat Krakowský Liebsteinský"}
+ ],
+ "events": [
+  {"year": 1497, "text": "bratři z Rychnova prodávají hrad Pernštejnům"},
+  {"year": 1577, "text": "Burjan Trčka z Lípy kupuje panství a staví starý renesanční zámek"},
+  {"year": 1640, "text": "panství získává Albrecht Libštejnský z Kolowrat"},
+  {"year": 1676, "text": "František Karel I. nechává zbořit starý zámek a postavit novou raně barokní budovu"},
+  {"year": 1704, "text": "zámek poškozen požárem"},
+  {"year": 1720, "text": "zahájena přestavba zámku patrně podle Jana Blažeje Santiniho-Aichela, dokončena 1724"},
+  {"year": 1861, "text": "vymření liebsteinské větve Kolowratů, panství přechází na krakowskou větev"},
+  {"year": 1948, "text": "znárodnění zámku"},
+  {"year": 1992, "text": "zámek vrácen Kolowratům v restituci"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Rychnov_nad_Kněžnou_(zámek)"]
+}

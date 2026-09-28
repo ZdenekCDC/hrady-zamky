@@ -1,0 +1,33 @@
+{
+ "id": "Q10938001",
+ "name": "Český Rudolec",
+ "founded": {"year": 1353, "approx": false, "text": "Gotická vodní tvrz na dubových pilotách, první přímá zpráva o ní je z roku 1353 (obec Rudolec zmiňována už 1343); tehdy náležela vladykům z Rudolce."},
+ "summary": "Vodní tvrz v Českém Rudolci patřila od poloviny 14. století místním vladykům a poté se v rychlém sledu střídala v rukou drobné šlechty, mimo jiné pánů z Miličína, Dolan, Maříže a Osečan; v polovině 16. století ji zdědili Hodičtí z Hodic. Po prodeji roku 1630 moravskému hejtmanovi Ferrantu Coquiovi se majitelé opět rychle střídali, tvrz byla přestavěna na renesanční a poté (za Trautsonů) barokní zámek. Po požáru roku 1860 ji rytíř Michael Angelo von Picchioni přestavěl v novogotickém stylu; roku 1948 byl zámek znárodněn a dlouho chátral, roku 2001 jej koupila obec a od roku 2004 patří soukromým společnostem, které od roku 2010 provádějí jeho postupnou rekonstrukci.",
+ "owners": [
+  {"owner": "z-rudolce", "owner_wiki": null, "person": "vladykové z Rudolce", "from": 1353, "to": 1406, "from_approx": false, "to_approx": false, "how": "zalozeni", "note": "první přímá zpráva o tvrzi 1353, obec zmiňována už 1343"},
+  {"owner": "z-milicina", "owner_wiki": null, "person": "Vilém z Miličína", "from": 1406, "to": 1446, "from_approx": false, "to_approx": false, "how": "dar", "note": "roku 1406 mu tvrz předal markrabě Jošt a zbavil ji lenního závazku; roku 1446 Beneš z Miličína postoupil Rudolec Janu Crhovi z Dolan"},
+  {"owner": "z-dolan", "owner_wiki": null, "person": "Jan Crha z Dolan", "from": 1446, "to": 1464, "from_approx": false, "to_approx": true, "how": "jine", "note": "spolu s dalšími statky (Lidéřovice, Markvarec, Radíkov aj.); přesný rok konce držby neuveden, dalším majitelem je uváděn Václav z Maříže roku 1464"},
+  {"owner": "z-marize", "owner_wiki": null, "person": "Václav z Maříže", "from": 1464, "to": 1499, "from_approx": false, "to_approx": false, "how": "neznamo"},
+  {"owner": "z-osecan", "owner_wiki": null, "person": "Jan z Osečan", "from": 1499, "to": null, "from_approx": false, "to_approx": false, "how": "snatek", "note": "vyženil tvrz roku 1499"},
+  {"owner": "hodicti-z-hodic", "owner_wiki": "Hodičtí z Hodic", "person": null, "from": null, "to": 1630, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "tvrz přešla na Hodické z Hodic v polovině 16. století v rámci příbuzenských svazků po smrti Jana z Osečan; Jan Hodický z Hodic je s rodinou pohřben v místním kostele; roku 1630 prodala Kateřina z Hodic tvrz Ferrantu Coquiovi"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Ferrant Coqui", "from": 1630, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "moravský císařský hejtman; poté se majitelé podle zdroje střídali v rychlém sledu, jednotlivá jména neuvedena"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "hraběnka Tokelliová", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "kolem 17. století přestavěla tvrz na renesanční zámek, vznikl park se skleníky (na místě mlýna), pivovar a lihovar; ve skleníku později vypěstován první ananas na kontinentě; přesný rok neuveden"},
+  {"owner": "trautsonove", "owner_wiki": "Trautsonové", "person": "Marie Terezie Trautsohnová", "from": null, "to": 1741, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "koncem 17. století za Trautsonů barokní přestavba zámku; roku 1741 majitelka Marie Terezie Trautsohnová zemřela, sepsán první známý inventář zámku"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Michael Angelo von Picchioni", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "rytíř, majitel velkostatku v době přestavby zámku po požáru 1860; sám vypracoval plán novogotické přestavby (1860-1861); pozdější generaci rodu představoval rytíř Ludvík von Picchioni"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1948, "to": 2001, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "zámek znárodněn 1948; od 50. do 70. let sloužil k bydlení zaměstnanců Státního statku Český Rudolec; 1987/1989 bezúplatně převeden na JZD Chýně, vlastníkem ale zůstal stát, což potvrdil soudní spor trvající do roku 1998"},
+  {"owner": "mesto", "owner_wiki": null, "person": "obec Český Rudolec", "from": 2001, "to": 2004, "from_approx": false, "to_approx": false, "how": "koupe", "note": "obec koupila zámek za 2,5 milionu korun"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Pragoprojekt a.s.", "from": 2004, "to": 2007, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupě od obce za čtyři miliony korun; slíbená rekonstrukce na hotel s masážním salonem a hipoterapeutickou konírnou nebyla uskutečněna"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "NMS a.s.", "from": 2007, "to": null, "from_approx": false, "to_approx": false, "how": "jine", "note": "společnost odštěpená od Pragoprojektu; od roku 2010 probíhá postupná rekonstrukce, 2011 zpřístupněno veřejnosti, oprava věže dokončena 2016; podle externího odkazu na webu zámku vystupuje i pod jménem Malá Hluboká a.s."}
+ ],
+ "events": [
+  {"year": 1353, "text": "první přímá zpráva o gotické vodní tvrzi"},
+  {"year": 1630, "text": "Kateřina z Hodic prodala tvrz Ferrantu Coquiovi"},
+  {"year": 1741, "text": "úmrtí majitelky Marie Terezie Trautsohnové, sepsán první inventář zámku"},
+  {"year": 1860, "text": "zámek zničil požár, následně 1860-1861 přestavěn v novogotickém stylu podle plánu Michaela Angela von Picchioni"},
+  {"year": 1948, "text": "zámek znárodněn"},
+  {"year": 1998, "text": "soudní spor mezi státem a JZD Chýně potvrdil, že zámek patří státu"},
+  {"year": 2001, "text": "zámek koupila obec Český Rudolec"},
+  {"year": 2010, "text": "zahájena postupná rekonstrukce, 2011 zpřístupněno veřejnosti"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Český_Rudolec_(zámek)"]
+}

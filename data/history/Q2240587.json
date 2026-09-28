@@ -1,0 +1,144 @@
+{
+ "id": "Q2240587",
+ "name": "Ctěnice",
+ "founded": {
+  "year": null,
+  "approx": true,
+  "text": "První písemná zmínka o gotické tvrzi pochází z roku 1372, kdy ji od Gery Galmové koupil pražský měšťan Jan Zeiselmeister; přesná doba založení tvrze není v článku uvedena."
+ },
+ "summary": "Gotická tvrz ve Ctěnicích je poprvé doložena roku 1372, kdy ji koupil pražský měšťan Jan Zeiselmeister. Od roku 1502 ji přes sto let drželi Hrzánové z Harasova, kteří ji kolem poloviny 16. století přestavěli na renesanční zámek, po nich se majitelé (mj. Myškové ze Žlunic, Zajícové z Hazmburka, Valdštejnové) často střídali až do nástupu Windischgrätzů, kteří panství drželi do roku 1803 a nechali zámek ve 30. letech 18. století přestavět v klasicizujícím barokním stylu. Od roku 1849 patřil podnikatelské rodině Schoellerů, za druhé světové války byl zestátněn a po válce připadl Státnímu statku hl. m. Prahy; dnešním vlastníkem je Hlavní město Praha, od roku 2012 areál spravuje Muzeum Prahy.",
+ "owners": [
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Gera Galmová",
+   "from": null,
+   "to": 1372,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "první doložená držitelka tvrze; okolnosti a doba jejího nabytí nejsou v článku uvedeny"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Jan Zeiselmeister",
+   "from": 1372,
+   "to": 1502,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "pražský měšťan; rok konce jeho/jeho nástupců držby odvozen od nástupu Hrzánů 1502"
+  },
+  {
+   "owner": "hrzanove-z-harasova",
+   "owner_wiki": "Hrzánové z Harasova",
+   "person": "Václav Hrzán z Harasova",
+   "from": 1502,
+   "to": 1572,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "po Václavovi zdědil 1520 syn Adam, 1544 vnuk Mikuláš (kolem 1550 přestavěl tvrz na renesanční zámek); po Mikulášově smrti spravoval statek poručník Václav, syn Adam jej musel prodat před rokem 1572"
+  },
+  {
+   "owner": "z-zlunic",
+   "owner_wiki": null,
+   "person": "Petr Myška ze Žlunic",
+   "from": 1572,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil před rokem 1572; rod bez vlastního článku na cs.wiki"
+  },
+  {
+   "owner": "zajicove-z-hazmburka",
+   "owner_wiki": "Zajícové z Hazmburka",
+   "person": null,
+   "from": null,
+   "to": null,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "článek uvádí jen, že se mezi častěji střídajícími se majiteli po Myškovi ze Žlunic vystřídali i Hazmburkové, bez let"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": null,
+   "from": null,
+   "to": null,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "článek uvádí jen, že se mezi častěji střídajícími se majiteli vystřídali i Valdštejnové, bez let"
+  },
+  {
+   "owner": "windischgratzove",
+   "owner_wiki": "Windischgrätzové",
+   "person": null,
+   "from": null,
+   "to": 1803,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "podle článku klíčové období, panství drželi do roku 1803; ve 30. letech 18. století nechali zámek přestavět v klasicizujícím barokním stylu (architekt Václav Špaček)"
+  },
+  {
+   "owner": "desfoursove",
+   "owner_wiki": "Desfoursové",
+   "person": "Aloisie hraběnka Desfoursová",
+   "from": 1803,
+   "to": 1849,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "poslední majitelkou před rokem 1849 byla Aloisie hraběnka Desfoursová, po níž koupil zámek jako pozůstalost Alexander Schoeller; způsob a přesný rok nabytí Desfoursovými neuveden"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Wilhelm Alexander Ritter von Schoeller (Alexander Schoeller)",
+   "from": 1849,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "velkoobchodník, povýšen do rakouského rytířského stavu 1863; zámek v rukou rodiny až do druhé světové války, kdy byl zestátněn - přesný rok zestátnění neuveden"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": 1945,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "konfiskace",
+   "note": "zestátnění za druhé světové války; po válce areál připadl Státnímu statku hl. m. Prahy"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "Státní statek hl. m. Prahy / Hlavní město Praha",
+   "from": 1945,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "jine",
+   "note": "po válce spravoval Státní statek hl. m. Prahy, dnešním vlastníkem je Hlavní město Praha; od 1995 správa Pražská informační služba, od 2012 Muzeum Prahy"
+  }
+ ],
+ "events": [
+  {"year": 1372, "text": "první písemná zmínka o gotické tvrzi, koupě Janem Zeiselmeisterem od Gery Galmové"},
+  {"year": 1550, "text": "Mikuláš Hrzán z Harasova kolem tohoto roku přestavěl tvrz na renesanční zámek"},
+  {"year": 1572, "text": "zámek koupil Petr Myška ze Žlunic"},
+  {"year": 1730, "text": "Windischgrätzové nechali ve 30. letech 18. století zámek přestavět v klasicizujícím barokním stylu"},
+  {"year": 1803, "text": "konec držby Windischgrätzů"},
+  {"year": 1849, "text": "zámek koupil velkoobchodník Alexander Schoeller"},
+  {"year": 1995, "text": "areál svěřen do správy Pražské informační služby"},
+  {"year": 2012, "text": "správu areálu přebírá Muzeum Prahy"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Ctěnice_(zámek)"]
+}

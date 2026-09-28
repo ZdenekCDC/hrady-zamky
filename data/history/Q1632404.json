@@ -1,0 +1,26 @@
+{
+ "id": "Q1632404",
+ "name": "Vrchotovy Janovice",
+ "founded": {"year": 1350, "approx": false, "text": "Původně gotická vodní tvrz z roku 1350, sídlo pánů z Janovic znaku orlice."},
+ "summary": "Vrchotovy Janovice (dříve Herbortovy Janovice) byly původním sídlem pánů z Janovic, kteří zde roku 1350 vystavěli gotickou vodní tvrz. Roku 1453 se zde usadil Štěpán Vrchota z Vrchotic, po němž tvrz převzali páni z Vrtby a roku 1807 ji Adam z Vrtby prodal hraběti Františku Josefu Vratislavovi z Mitrovic; koncem 19. století přešel zámek na rod Nádherných z Borutína, jejichž poslední majitelkou byla mecenáška Sidonie Nádherná. Roku 1949 byl zámek vyvlastněn, chátral a od roku 1957 jej opravuje a spravuje Národní muzeum, které je zde dodnes veřejnosti přístupné s několika expozicemi.",
+ "owners": [
+  {"owner": "janovici", "owner_wiki": "Janovici", "person": null, "from": 1350, "to": 1453, "from_approx": false, "to_approx": false, "how": "zalozeni", "note": "páni z Janovic znaku orlice, původní sídlo, od nichž je odvozeno jméno obce; tvrz z roku 1350"},
+  {"owner": "z-vrchotic", "owner_wiki": null, "person": "Štěpán Vrchota z Vrchotic", "from": 1453, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "od jeho jména je odvozen dnešní název Vrchotovy Janovice; rok konce držby zdroj neuvádí"},
+  {"owner": "pani-z-vrtby", "owner_wiki": "Páni z Vrtby", "person": "Adam z Vrtby", "from": null, "to": 1807, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "rok nabytí zdroj neuvádí, roku 1807 Adam z Vrtby zámek prodal"},
+  {"owner": "vratislavove-z-mitrovic", "owner_wiki": "Vratislavové z Mitrovic", "person": "František Josef Vratislav z Mitrovic", "from": 1807, "to": null, "from_approx": false, "to_approx": false, "how": "koupe"},
+  {"owner": "nadherni-z-borutina", "owner_wiki": "Nádherní z Borutína", "person": "Karel Ludvík Nádherný", "from": 1879, "to": null, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "roku 1879 již byl uváděn jako nový majitel, který zadal novogotickou rekonstrukci; přesný rok nabytí zdroj neuvádí"},
+  {"owner": "nadherni-z-borutina", "owner_wiki": "Nádherní z Borutína", "person": "Sidonie Nádherná z Borutína", "from": null, "to": 1949, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "poslední soukromá majitelka, mecenáška a organizátorka kulturního života; roku 1943 zámek zabrala SS jako velitelství a kasárna, 1945 jej obsadila sovětská a československá armáda"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1949, "to": 1957, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "zámek vyvlastněn, sloužil jako sklad textilu a sbírky okresního archivu, chátral"},
+  {"owner": "stat", "owner_wiki": null, "person": "Národní muzeum", "from": 1957, "to": null, "from_approx": false, "to_approx": false, "how": "jine", "note": "objekt získalo Národní muzeum, postupně opraveno, dnes veřejnosti přístupné"}
+ ],
+ "events": [
+  {"year": 1350, "text": "vznik gotické vodní tvrze"},
+  {"year": 1453, "text": "na tvrzi se usazuje Štěpán Vrchota z Vrchotic"},
+  {"year": 1760, "text": "barokní přestavba zámku"},
+  {"year": 1807, "text": "Adam z Vrtby prodává zámek Františku Josefu Vratislavovi z Mitrovic"},
+  {"year": 1856, "text": "novogotická úprava exteriéru zámku"},
+  {"year": 1949, "text": "zámek vyvlastněn"},
+  {"year": 1957, "text": "zámek získává Národní muzeum a zahajuje opravy"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Vrchotovy_Janovice_(zámek)"]
+}

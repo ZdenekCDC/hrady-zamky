@@ -8,7 +8,7 @@ import re
 
 import openpyxl
 
-from common import RAW, get, save, session
+from common import DATA, RAW, get, load, save, session
 
 NIPOS_YEAR = 25  # file suffix of the latest NIPOS release (2025 data)
 NIPOS_KRAJE = {
@@ -70,8 +70,9 @@ def fetch_npu():
         rows.append({"title": m.group(1), "name": m.group(2) or m.group(1),
                      "kind": cells[idx + 1] if idx + 1 < len(cells) else None})
     qids = titles_to_qids(r["title"] for r in rows)
+    fixed = load(DATA / "overrides.json")["npu_qid"]
     for r in rows:
-        r["qid"] = qids.get(r["title"])
+        r["qid"] = fixed.get(r["title"], qids.get(r["title"]))
     return rows
 
 

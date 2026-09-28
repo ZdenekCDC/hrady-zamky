@@ -1,0 +1,78 @@
+{
+ "id": "Q33405615",
+ "name": "Kyjovice",
+ "founded": {
+  "year": 1783,
+  "approx": false,
+  "text": "1783 nechal hrabě Quido Antonín z Kalkreuthu postavit barokní zámek."
+ },
+ "summary": "Barokní zámek v Kyjovicích nechal roku 1783 postavit hrabě Quido Antonín z Kalkreuthu. V první polovině 19. století jej hrabě Arnošt Falkenhayn z Glošku upravil v empírovém slohu a založil okolní park. Od roku 1915 zámek vlastnil rod Stolbergů, dokud nebyl roku 1945 vypovězen a majetek převeden pod správu Charity; od roku 1950 sloužil školským účelům a od roku 1967 je v něm domov důchodců.",
+ "owners": [
+  {
+   "owner": "kalkreuthove",
+   "owner_wiki": "Kalkreuthové",
+   "person": "Quido Antonín z Kalkreuthu",
+   "from": 1783,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "zalozeni",
+   "note": "rok konce jeho vlastnictví zdroj neuvádí"
+  },
+  {
+   "owner": "falkenhaynove",
+   "owner_wiki": "Falkenhaynové",
+   "person": "Arnošt Falkenhayn z Glošku",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "majitelem v první polovině 19. století; přesné roky nástupu i konce držby zdroj neuvádí"
+  },
+  {
+   "owner": "stolbergove",
+   "owner_wiki": "Stolbergové",
+   "person": "Bedřich Theodor hrabě Stolberg",
+   "from": 1915,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "rod Stolbergů zde sídlil až do vypovězení roku 1945; způsob nabytí v roce 1915 zdroj neuvádí"
+  },
+  {
+   "owner": "cirkev",
+   "owner_wiki": null,
+   "person": "Charita",
+   "from": 1945,
+   "to": 1950,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "majetek převeden pod správu Charity po vypovězení Stolbergů"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1950,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "jine",
+   "note": "od 1950 postupně Okresní pomocná škola, Krajská škola pro mládež, učňovská škola, od 1966 Okresní výbor - Odbor sociálního zabezpečení, od 1967 domov důchodců; přesný právní vlastník dnes zdrojem neuveden"
+  }
+ ],
+ "events": [
+  {"year": 1783, "text": "postaven barokní zámek hrabětem Quidem Antonínem z Kalkreuthu"},
+  {"year": 1915, "text": "majitelem se stává Bedřich Theodor hrabě Stolberg"},
+  {"year": 1945, "text": "rod Stolbergů vypovězen, majetek převeden pod správu Charity"},
+  {"year": 1950, "text": "v zámku zřízena Okresní pomocná škola"},
+  {"year": 1967, "text": "v zámku umístěn domov důchodců"},
+  {"year": 1999, "text": "1999-2002 rozsáhlá rekonstrukce budovy zámku"}
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Kyjovice_(zámek)"
+ ]
+}

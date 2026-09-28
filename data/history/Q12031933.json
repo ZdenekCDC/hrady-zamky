@@ -1,0 +1,27 @@
+{
+ "id": "Q12031933",
+ "name": "Kunín",
+ "founded": {"year": 1726, "approx": false, "text": "1726-1734 barokní přestavba starší tvrze či menšího zámečku podle návrhu Johanna Lucase von Hildebrandta"},
+ "summary": "Barokní zámek v Kuníně nechali v letech 1726-1734 přestavět z původní tvrze či menšího zámečku Bedřich August z Harrachu-Rohrau a jeho manželka Eleonora z Lichtenštejna. Nejvýznamnější majitelkou byla jejich vnučka, hraběnka Marie Walburga z Waldburg-Zeilu, která na zámku založila proslulé vzdělávací filantropinum; po ní zámek zdědil její adoptivní syn Emil Schindler a poté se v majetku vystřídali Fürstenbergové a podnikatelská rodina Bauerů z Brna. Po druhé světové válce byl zámek zdevastován a připadl státu, mimo jiné jej využívala Vysoká škola veterinární v Brně jako kolej; od roku 1999 patří obci Kunín, která jej opravila a v roce 2003 zpřístupnila veřejnosti.",
+ "owners": [
+  {"owner": "harrachove", "owner_wiki": "Harrachové", "person": "Bedřich August z Harrachu-Rohrau", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "spolu s manželkou nechal 1726-1734 přestavět starší tvrz/zámeček na barokní zámek; přesná léta získání a předání panství zdroj neuvádí"},
+  {"owner": "lichtenstejnove", "owner_wiki": "Lichtenštejnové", "person": "Eleonora z Lichtenštejna", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "snatek", "note": "manželka Bedřicha Augusta z Harrachu, spolustavebnice zámku; znak Lichtenštejnů je na štítu zámku"},
+  {"owner": "z-waldburg-zeilu", "owner_wiki": null, "person": "Marie Walburga hraběnka Truchsess-Waldburg-Zeil", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "vnučka Harrachů; na zámku založila výchovný ústav (filantropinum), kde se vzdělával i František Palacký; rod bez vlastního článku na cs.wiki, přesná léta držby zdroj neuvádí"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Friedrich Emil Schindler", "from": null, "to": 1870, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "syn tajemníka hraběnky, jí adoptovaný a určený za dědice; rok úmrtí 1870 odvozen z textu ('tři roky po jeho smrti v roce 1870 prodaly jeho děti zámek')"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "děti Friedricha Emila Schindlera", "from": 1870, "to": 1873, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "zámek prodaly tři roky po otcově smrti (1870) a rodina se odstěhovala do Korutan"},
+  {"owner": "furstenbergove", "owner_wiki": "Fürstenbergové", "person": "Ernst Egon Fürstenberg (rakouská terciogenitura rodu)", "from": 1873, "to": 1895, "from_approx": true, "to_approx": false, "how": "koupe", "note": "zámek pro lankraběte koupil jeho bratr, olomoucký arcibiskup kardinál Bedřich Fürstenberg; sloužil jako letní sídlo; syn Josef Friedrich (Fritz) zámek 1895 kvůli dluhům prodal"},
+  {"owner": "bauerove", "owner_wiki": null, "person": "rytíři Bauerové z Brna, naposledy Dr. Victor Bauer", "from": 1895, "to": null, "from_approx": false, "to_approx": true, "how": "koupe", "note": "podnikatelská rodina, zámek sloužil jako letní sídlo; poslední majitel Dr. Victor Bauer zemřel na zámku v srpnu 1939, další osud majetku rodiny do znárodnění zdroj přesně neuvádí"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": 1999, "from_approx": true, "to_approx": false, "how": "konfiskace", "note": "koncem války zámek zdevastovali sovětští vojáci a okolní obyvatelé, poté sloužil jako ubytovna, sklad a od 70. let 20. století jako kolej Vysoké školy veterinární Brno"},
+  {"owner": "mesto", "owner_wiki": null, "person": null, "from": 1999, "to": null, "from_approx": false, "to_approx": false, "how": "jine", "note": "obec Kunín získala zdevastovaný zámek a opravila jej ve spolupráci s Muzeem Novojičínska"}
+ ],
+ "events": [
+  {"year": 1726, "text": "zahájena barokní přestavba starší tvrze/zámečku podle Johanna Lucase von Hildebrandta, dokončena 1734"},
+  {"year": 1895, "text": "Josef Friedrich (Fritz) Fürstenberg zámek pro dluhy prodal rodině Bauerů z Brna"},
+  {"year": 1939, "text": "na zámku zemřel jeho poslední soukromý majitel Dr. Victor Bauer"},
+  {"year": 1945, "text": "konec 2. světové války - zámek vyplenili sovětští vojáci a obyvatelé z okolí"},
+  {"year": 1999, "text": "zdevastovaný zámek získala do majetku obec Kunín a zahájila rekonstrukci"},
+  {"year": 2003, "text": "zámek zpřístupněn veřejnosti"},
+  {"year": 2009, "text": "zámek zatopen při bleskových povodních"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Kunín_(zámek)"]
+}

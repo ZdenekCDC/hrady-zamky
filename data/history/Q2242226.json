@@ -1,0 +1,168 @@
+{
+ "id": "Q2242226",
+ "name": "Lnáře",
+ "founded": {
+  "year": 1670,
+  "approx": true,
+  "text": "Okolo roku 1670 založil nový barokní zámek Aleš Ferdinand Vratislav z Mitrovic, stavbu dokončili až Černínové z Chudenic v letech 1683-1686."
+ },
+ "summary": "Nový barokní zámek ve Lnářích založil okolo roku 1670 Aleš Ferdinand Vratislav z Mitrovic, ale zemřel před jeho dokončením a dcery panství roku 1675 prodaly Humprechtu Janu Černínovi; stavbu podle plánů G. B. Maderny dokončil v letech 1683-1686 jeho syn Tomáš Zachariáš Černín. Přes dědičky pak zámek přešel na rody Künigl, Swéerts-Sporck, krátce Thun-Hohenstein, dále na svobodné pány z Linkeru a rodinu Lilgenau, roku 1923 jej koupil Karel Bondy a roku 1936 advokát Jindřich A. Vaníček. Za války jej využívala Hitlerjugend a americká armáda, po únoru 1948 byl znárodněn a zkonfiskován, sloužil generální prokuratuře a Úřadu vlády, a roku 1992 byl vrácen potomkům Vaníčka v restituci; od roku 1999 je přístupný veřejnosti.",
+ "owners": [
+  {
+   "owner": "vratislavove-z-mitrovic",
+   "owner_wiki": "Vratislavové z Mitrovic",
+   "person": "Aleš Ferdinand Vratislav z Mitrovic",
+   "from": null,
+   "to": 1675,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "rok získání lnářského panství je sporný - August Sedláček uvádí 20. 6. 1629, Karel Tříska rok 1660; zemřel před dokončením nového zámku, dcery Marie Terezie a Eva Konstancie jej 21. 1. 1675 prodaly"
+  },
+  {
+   "owner": "cerninove-z-chudenic",
+   "owner_wiki": "Černínové z Chudenic",
+   "person": "Humprecht Jan Černín",
+   "from": 1675,
+   "to": 1682,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil za 180000 florénů; v Lnářích nebydlel, roku 1679 jej zastupoval hejtman Jan František Grejnár z Veveří; zemřel 1682"
+  },
+  {
+   "owner": "cerninove-z-chudenic",
+   "owner_wiki": "Černínové z Chudenic",
+   "person": "Tomáš Zachariáš Černín",
+   "from": 1682,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "dokončil stavbu zámku podle plánů G. B. Maderny v letech 1683-1686; rok jeho smrti zdroj neuvádí, po ní panství spravovala za dcery vdova Zuzana Renata z Martinic"
+  },
+  {
+   "owner": "cerninove-z-chudenic",
+   "owner_wiki": "Černínové z Chudenic",
+   "person": "Marie Josefa Černínová, provdaná hraběnka Künigl (za manžela Leopolda Josefa Künigla)",
+   "from": null,
+   "to": 1726,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "dcera Tomáše Zachariáše Černína, po smrti vdovy Zuzany Renaty z Martinic; zemřela 1726"
+  },
+  {
+   "owner": "kuniglove",
+   "owner_wiki": null,
+   "person": "Leopold Josef Künigl, po něm syn František Josef Künigl",
+   "from": 1726,
+   "to": 1745,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "ovdovělý Leopold Künigl nechal 1727 zámek opravit (kamenný most, věž s hodinami); dědicem ze synů z prvního manželství se stal František Josef Künigl, od nějž Lnáře roku 1745 koupil hrabě Swéerts-Sporck; cs.wiki neuvádí, že by na Küniglovy měl vlastní článek"
+  },
+  {
+   "owner": "sweerts-sporckove",
+   "owner_wiki": "Swéerts-Sporckové",
+   "person": "František Karel Rudolf Swéerts-Sporck (†1757), poté syn Jan František Kristián a vnuk Josef Swéerts-Sporck",
+   "from": 1745,
+   "to": 1803,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Josef Swéerts-Sporck panství roku 1803 prodal Leopoldovi z Thun-Hohensteinu"
+  },
+  {
+   "owner": "thun-hohensteinove",
+   "owner_wiki": "Thun-Hohensteinové",
+   "person": "Leopold z Thun-Hohensteinu",
+   "from": 1803,
+   "to": 1803,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "ještě téhož roku 1803 panství prodal dál svobodnému pánu Janu Františku z Linkeru"
+  },
+  {
+   "owner": "z-linkeru",
+   "owner_wiki": null,
+   "person": "Jan František z Linkeru (†1811), poté syn Václav Kliment",
+   "from": 1803,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "rok konce držby a přechodu na rodinu Lilgenau zdroj neuvádí"
+  },
+  {
+   "owner": "z-lilgenau",
+   "owner_wiki": null,
+   "person": "rodina Lilgenau (mj. Karel Theodor svobodný pán z Lilgenau, 1818-1881)",
+   "from": null,
+   "to": 1923,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "přesný rok nástupu zdroj neuvádí; roku 1923 se majitelem stal Karel Bondy"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Karel Bondy",
+   "from": 1923,
+   "to": 1936,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "nechal upravit průčelí do dnes dochované podoby"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Jindřich A. Vaníček, pražský advokát",
+   "from": 1936,
+   "to": 1948,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "za 2. světové války využívala zámek Hitlerjugend, na konci války zde byli ubytováni vojáci americké 3. armády a kapituloval zde generál Andrej Vlasov; po válce se Vaníček vrátil, ale 1948 byl zámek znárodněn a zkonfiskován"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1948,
+   "to": 1992,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "zámek chátral do 1972, poté kanceláře generální prokuratury, od 1985 rekreační středisko Úřadu vlády pro komunistické funkcionáře; počátkem 90. let zde byly schvalovány privatizační projekty a jednalo se o rozdělení Československa"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "potomci Jindřicha A. Vaníčka (dnes spravuje Ivan Vaníček)",
+   "from": 1992,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "restituce",
+   "note": "cs.wiki uvádí rok restituce 1992 nebo 1993; od 1999 zámek zpřístupněn veřejnosti"
+  }
+ ],
+ "events": [
+  {"year": 1675, "text": "dcery Aleše Ferdinanda Vratislava z Mitrovic prodávají nedokončený zámek Humprechtu Janu Černínovi"},
+  {"year": 1686, "text": "dokončena stavba barokního zámku podle plánů G. B. Maderny"},
+  {"year": 1727, "text": "oprava zámku Leopoldem Küniglem, nový kamenný most a věž s hodinami"},
+  {"year": 1803, "text": "panství třikrát mění majitele (Swéerts-Sporck, Thun-Hohenstein, z Linkeru)"},
+  {"year": 1936, "text": "zámek kupuje advokát Jindřich A. Vaníček"},
+  {"year": 1948, "text": "zámek znárodněn a zkonfiskován"},
+  {"year": 1992, "text": "zámek vrácen v restituci potomkům Jindřicha A. Vaníčka"},
+  {"year": 1999, "text": "zámek zpřístupněn veřejnosti"}
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Lnáře_(nový_zámek)"
+ ]
+}

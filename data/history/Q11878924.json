@@ -1,0 +1,18 @@
+{
+ "id": "Q11878924",
+ "name": "Velké Heraltice",
+ "founded": {"year": 1260, "approx": true, "text": "Hrad byl postaven pravděpodobně v letech 1255-1265 Vojslavem z Lublic, poprvé psaným po Heralticích roku 1265."},
+ "summary": "Hrad ve Velkých Heralticích postavil kolem let 1255-1265 Vojslav z Lublic, po němž se dochovala mohutná válcová věž inspirovaná nedalekým hradem Cvilínem. Roku 1668 koupil zámek i celé heraltické panství hrabě Jiří Štěpán Bruntálský z Vrbna, který jej v 70. letech 17. století nechal italským stavitelem Lorencem Nicolem barokně přestavět; stavba nebyla při jeho smrti ještě dokončena. Dnes je zámek ve vlastnictví Moravskoslezského kraje a využívá jej střední škola s dětským domovem.",
+ "owners": [
+  {"owner": "z-lublic", "owner_wiki": null, "person": "Vojslav z Lublic", "from": 1260, "to": null, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "poprvé psán po Heralticích 2. února 1265; další majitelé mezi založením a rokem 1668 nejsou ve zdroji uvedeni"},
+  {"owner": "bruntalsti-z-vrbna", "owner_wiki": "Bruntálští z Vrbna", "person": "Jiří Štěpán Bruntálský z Vrbna", "from": 1668, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil zámek i celé heraltické panství, zahájil barokní přestavbu, kterou nedokončil; zdroj neuvádí rok konce držby rodu"},
+  {"owner": "mesto", "owner_wiki": null, "person": null, "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "dnes ve vlastnictví Moravskoslezského kraje, využívá střední škola a dětský domov; zdroj neuvádí rok přechodu"}
+ ],
+ "events": [
+  {"year": 1260, "text": "stavba hradu Vojslavem z Lublic (kolem 1255-1265), inspirace hradem Cvilín"},
+  {"year": 1265, "text": "Vojslav z Lublic se poprvé píše po Heralticích"},
+  {"year": 1668, "text": "zámek s panstvím koupil Jiří Štěpán Bruntálský z Vrbna"},
+  {"year": 1964, "text": "zámek registrován jako kulturní památka"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Velké_Heraltice_(zámek)"]
+}

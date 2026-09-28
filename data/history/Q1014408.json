@@ -1,0 +1,35 @@
+{
+ "id": "Q1014408",
+ "name": "Vlčtejn",
+ "founded": {"year": null, "approx": true, "text": "Koncem 13. století byl majitelem hradu Holen z Vlčtejna; v 1. polovině 14. století Rožmberkové přestavěli původní dřevěný hrad do dnešní podoby"},
+ "summary": "Hrad Vlčtejn koncem 13. století vlastnil Holen z Vlčtejna, přívrženec Záviše z Falkenštejna, v první polovině 14. století jej získali Rožmberkové a přestavěli jej z dřevěného na kamenný. Roku 1421 jej při tažení na Plzeňsko ovládl Jan Žižka, od roku 1446 jej vlastnil Bedřich z Donína a roku 1450 se zde sešla schůzka vedoucí k tzv. vlčtejnské smlouvě. V dalších staletích se majitelé často střídali (Bubnové z Litic, páni z Roupova, Hradišťští z Hořovic, páni z Gutštejna, Vratislavové z Mitrovic, Krakovští z Krakova), naposledy roku 1872 přešel majetek do držení rodu Pálffyů; zřícenina je od roku 1963 chráněna jako kulturní památka.",
+ "owners": [
+  {"owner": "z-vlctejna", "owner_wiki": null, "person": "Holen z Vlčtejna", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "zalozeni", "note": "koncem 13. století majitel hradu, přívrženec Záviše z Falkenštejna; přesné roky držby zdroj neuvádí"},
+  {"owner": "rozmberkove", "owner_wiki": "Rožmberkové", "person": null, "from": null, "to": 1446, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "v 1. polovině 14. století přestavěli původní dřevěný hrad do dnešní podoby a sídlil zde jejich purkrabí; roku 1421 hrad při tažení na Plzeňsko ovládl Jan Žižka a purkrabím ustanovil Viléma Kostku z Postupic, po bitvě u Lipan (1434) byl purkrabím Svojše ze Zahrádky - zdroj neuvádí, že by se přitom majitel formálně změnil"},
+  {"owner": "pani-z-donina", "owner_wiki": "Páni z Donína", "person": "Bedřich z Donína", "from": 1446, "to": null, "from_approx": false, "to_approx": true, "how": "neznamo", "note": "stoupenec poděbradské jednoty; roku 1450 si Jiří z Poděbrad vybral hrad pro schůzku se strakonickou jednotou (vlčtejnská smlouva z 11. června 1450); zdroj sám označuje přechod majetku kolem let 1514-1525 na Jana Varlejcha z Bubna jako nejasný ('[ujasnit]')"},
+  {"owner": "bubnove-z-litic", "owner_wiki": "Bubnové z Litic", "person": "Jan Varlejch z Bubna", "from": 1514, "to": 1525, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil Vlčtejn s městečkem Blovice; zdroj označuje dataci i souběh s dalším majitelem jako nejasný ('[ujasnit]')"},
+  {"owner": "pani-z-roupova", "owner_wiki": "Páni z Roupova", "person": "Jan z Roupova", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "zdroj uvádí, že 'zároveň jako majitel vystupuje' Jan z Roupova, který od Bedřicha z Donína koupil sousední Spálené Poříčí a Žákavu; vztah k souběžné držbě Jana Varlejcha z Bubna a přesné roky nejsou v textu jasné"},
+  {"owner": "pani-z-roupova", "owner_wiki": "Páni z Roupova", "person": "Kryštof z Roupova", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "syn Jana z Roupova, Vlčtejn prodal Janu Hradišťskému z Hořovic; roky prodeje zdroj neuvádí"},
+  {"owner": "hradiststi-z-horovic", "owner_wiki": "Hradišťští z Hořovic", "person": "Jan Hradišťský z Hořovic", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil Vlčtejn od Kryštofa z Roupova"},
+  {"owner": "hradiststi-z-horovic", "owner_wiki": "Hradišťští z Hořovic", "person": "Markéta Karlova z Hořovic", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "dcera Jana Hradišťského z Hořovic, vlastnila i sousední Hradiště u Blovic a oba statky spojila; jejím manželem byl Petr Tobiáš Karel ze Svárova"},
+  {"owner": "ze-svarova", "owner_wiki": null, "person": "Petr Tobiáš Karel ze Svárova", "from": null, "to": 1620, "from_approx": false, "to_approx": true, "how": "snatek", "note": "manžel Markéty Karlovy z Hořovic; jako stoupenec Fridricha Falckého mu byl po bitvě na Bílé Hoře (1620) statek zkonfiskován, poté vrácen jeho synům"},
+  {"owner": "ze-svarova", "owner_wiki": null, "person": "synové Petra Tobiáše Karla ze Svárova", "from": 1620, "to": null, "from_approx": true, "to_approx": false, "how": "jine", "note": "statek jim byl po pobělohorské konfiskaci vrácen; po jejich smrti jej získal Maxmilián Rudolf z Gutštejna, manžel zemřelé dcery Kryštofa Rudolfa"},
+  {"owner": "pani-z-gutstejna", "owner_wiki": "Páni z Gutštejna", "person": "Maxmilián Rudolf z Gutštejna", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "snatek", "note": "manžel zemřelé dcery Kryštofa Rudolfa; neměl potomky, statky po něm zdědila vdova"},
+  {"owner": "vratislavove-z-mitrovic", "owner_wiki": "Vratislavové z Mitrovic", "person": "Polyxena Kateřina Vratislavová z Mitrovic", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "vdova po Maxmiliánu Rudolfu z Gutštejna, znovu se provdala za Jana Josefa z Újezda"},
+  {"owner": "z-ujezda", "owner_wiki": null, "person": "Jan Josef z Újezda", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "snatek", "note": "druhý manžel Polyxeny Kateřiny Vratislavové z Mitrovic; po vymření rodu získali Hradiště a Vlčtejn Krakovští z Krakova"},
+  {"owner": "z-krakova", "owner_wiki": null, "person": null, "from": null, "to": 1872, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "Krakovští z Krakova (bez vlastního článku na cs.wiki) získali Hradiště a Vlčtejn po vymření předchozího rodu; roku 1872 přešel majetek na Pálffye"},
+  {"owner": "palffyove", "owner_wiki": "Pálffyové", "person": null, "from": 1872, "to": null, "from_approx": false, "to_approx": false, "how": "jine", "note": "zdroj neuvádí způsob nabytí ani další vlastníky; hrad je od roku 1963 chráněn jako kulturní památka"}
+ ],
+ "events": [
+  {"year": 1421, "text": "hrad při tažení na Plzeňsko ovládl Jan Žižka, purkrabím ustanovil Viléma Kostku z Postupic"},
+  {"year": 1434, "text": "po bitvě u Lipan byl purkrabím Svojše ze Zahrádky"},
+  {"year": 1446, "text": "majitelem hradu se stal Bedřich z Donína"},
+  {"year": 1450, "text": "na hradě se 9. a 11. června sešla schůzka uzavírající vlčtejnskou (vildštejnskou) smlouvu mezi Jiřím z Poděbrad a strakonickou jednotou"},
+  {"year": 1620, "text": "po bitvě na Bílé hoře byl hradišťánský statek Petru Tobiáši Karlovi ze Svárova zkonfiskován, poté vrácen jeho synům"},
+  {"year": 1872, "text": "majetek přešel do držení rodu Pálffyů"},
+  {"year": 1963, "text": "zřícenina prohlášena kulturní památkou"}
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Vlčtejn_(hrad)"
+ ]
+}

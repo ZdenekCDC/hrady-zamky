@@ -1,0 +1,101 @@
+{
+ "id": "Q1012766",
+ "name": "Kyšperk",
+ "founded": {
+  "year": null,
+  "approx": false,
+  "text": "Hrad založil na počátku 14. století buď přímo král Jan Lucemburský, nebo Ota z Bergova, kterého panovník stavbou pověřil a vzápětí mu jej udělil v léno."
+ },
+ "summary": "Hrad Kyšperk nad Unčínem založil na počátku 14. století král Jan Lucemburský nebo jím pověřený Ota z Bergova, jemuž jej panovník udělil v léno; první písemná zmínka je z roku 1319. Roku 1334 jej Ota z Bergova prodal pražskému biskupovi Janovi z Dražic a hrad zůstal v majetku pražského (arci)biskupství, které jej roku 1415 se souhlasem krále Zikmunda zastavilo purkrabímu Rydkéři z Polenska. Během husitských válek hrad odolal dvěma útokům a kolem roku 1433 jej dobyl Jakoubek z Vřesovic, jehož potomci (kyšperská větev pánů z Vřesovic) jej drželi až do prodeje kolem roku 1522 Janu Glacovi ze Starého Dvora; po požáru roku 1526 už nebyl obnoven a zůstal zříceninou.",
+ "owners": [
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Jan Lucemburský",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "podle cs.wiki buď přímo král, nebo jím pověřený Ota z Bergova; hrad vzápětí udělen v léno Otovi z Bergova, přesný rok neuveden (počátek 14. stol.)"
+  },
+  {
+   "owner": "pani-z-bergova",
+   "owner_wiki": "Páni z Bergova",
+   "person": "Ota z Bergova",
+   "from": null,
+   "to": 1334,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "doložen jako držitel k roku 1319; roku 1327 získal od krále Bílinu a roku 1334 prodal Kyšperk biskupovi"
+  },
+  {
+   "owner": "cirkev",
+   "owner_wiki": null,
+   "person": "Jan z Dražic, pražský biskup",
+   "from": 1334,
+   "to": 1415,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "pražské (od 1344 arci)biskupství; hrad přejmenován na Biskupskou horu (název se neujal); za Arnošta z Pardubic a Jana z Jenštejna (ten nechal přistavět kapli a velkou obytnou věž) spravován purkrabími, konec tohoto období (zástava 1415) je přibližný"
+  },
+  {
+   "owner": "z-polenska",
+   "owner_wiki": null,
+   "person": "Rydkéř z Polenska",
+   "from": 1415,
+   "to": 1433,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "lenni",
+   "note": "arcibiskup Konrád z Vechty mu hrad se souhlasem krále Zikmunda zastavil; konec držby odvozen od dobytí hradu husity"
+  },
+  {
+   "owner": "pani-z-vresovic",
+   "owner_wiki": "Páni z Vřesovic",
+   "person": "Jakoubek z Vřesovic",
+   "from": 1433,
+   "to": 1440,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "jine",
+   "note": "hrad dobyl během husitských válek nejspíše až roku 1433, ač se 'sezením na Kyšperku' psal již 1430; útoky husitů 1428 a 1430 byly neúspěšné"
+  },
+  {
+   "owner": "pani-z-vresovic",
+   "owner_wiki": "Páni z Vřesovic",
+   "person": "Jan z Vřesovic (syn Jakoubka), poté Jaroš, zakladatel kyšperské větve, dále Václav a Albrecht Kyšperský z Vřesovic",
+   "from": 1440,
+   "to": 1522,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "Jan se roku 1440 stal spolumajitelem; hrad zdědil Jarošův syn Albrecht, který na hradě prostavěl 500 kop grošů a získal od krále Vladislava Jagellonského povolení připočíst tuto sumu k výplatní ceně hradu; prodej Janu Glacovi je datován 'asi 1522'"
+  },
+  {
+   "owner": "z-stareho-dvora",
+   "owner_wiki": null,
+   "person": "Jan Glac ze Starého Dvora (případně spolu s bratrem Zikmundem)",
+   "from": 1522,
+   "to": 1526,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "po požáru 1526 přesídlil na tvrz v Soběchlebech, hrad již nebyl obnoven a zpustl"
+  }
+ ],
+ "events": [
+  {"year": 1319, "text": "první písemná zmínka o hradu, v držení Oty z Bergova"},
+  {"year": 1334, "text": "Ota z Bergova prodává hrad biskupovi Janovi z Dražic"},
+  {"year": 1415, "text": "arcibiskup Konrád z Vechty zastavuje hrad Rydkéři z Polenska se souhlasem krále Zikmunda"},
+  {"year": 1426, "text": "v blízkosti hradu při bitvě u Ústí nad Labem zahynulo při útěku asi 300 bojovníků Kateřiny Míšeňské"},
+  {"year": 1433, "text": "hrad dobyl husitský hejtman Jakoubek z Vřesovic"},
+  {"year": 1522, "text": "Albrecht Kyšperský z Vřesovic prodává hrad Janu Glacovi ze Starého Dvora"},
+  {"year": 1526, "text": "hrad vyhořel a nebyl již obnoven"}
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Kyšperk_(hrad,_okres_Teplice)"
+ ]
+}

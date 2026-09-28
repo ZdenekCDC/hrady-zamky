@@ -1,0 +1,32 @@
+{
+ "id": "Q12032119",
+ "name": "Kynžvart",
+ "founded": {"year": 1242, "approx": true, "text": "Hrad založen jako královský strážní bod patrně krátce po roce 1242, kdy byl pomezní hvozd připojen k Českému království; zakladatelem pravděpodobně Václav I., dostavěn snad za Přemysla Otakara II."},
+ "summary": "Hrad Kynžvart založil jako královský strážní bod na zemské hranici a Norimberské cestě patrně krátce po roce 1242 Václav I. Od konce 13. století jej jako léno drželi Hartenberkové, po jejich vzpouře proti chebským měšťanům jej roku 1347 na příkaz Karla IV. pobořila trestná výprava; v následujících staletích se v jeho držení vystřídalo přes deset šlechtických rodů (Nothaftové, páni z Rýzmburka, Pluhové z Rabštejna, Leuchtenberkové, páni z Plavna, Gutštejnové, Zedtwitzové/Cedvicové). Roku 1623 panství získali Metternichové, za třicetileté války byl hrad roku 1647 dobyt a rozbořen a od té doby zůstal zříceninou; část jeho kamene byla v 80. letech 17. století použita na stavbu nedalekého zámku Kynžvart.",
+ "owners": [
+  {"owner": "koruna", "owner_wiki": null, "person": "Václav I., dostavba snad Přemysl Otakar II.", "from": 1242, "to": 1287, "from_approx": true, "to_approx": true, "how": "zalozeni", "note": "přesná datace založení sporná, možná i před rokem 1245; první písemná zmínka o hradu 1287"},
+  {"owner": "z-hartenberku", "owner_wiki": null, "person": "Tuto, Engelhart a Albert z Kynžvartu (z Hartenberka)", "from": 1287, "to": 1360, "from_approx": false, "to_approx": true, "how": "lenni", "note": "štaufský ministeriální rod; roku 1347 dal Karel IV. hrad za jejich přepady chebských kupců pobořit a zakázal obnovu, poté jim jej vrátil jen jako léno bez práva se na něm usídlit; kolem roku 1360 přenechali majetky Nothaftům"},
+  {"owner": "nothaftove", "owner_wiki": "Nothaftové", "person": null, "from": 1360, "to": 1373, "from_approx": true, "to_approx": false, "how": "jine", "note": "Hartenberkové jim kolem 1360 přenechali majetky; roku 1373 hrad odkoupil Boreš z Rýzmburka"},
+  {"owner": "pani-z-ryzmburka", "owner_wiki": "Páni z Rýzmburka", "person": "Boreš z Rýzmburka", "from": 1373, "to": 1392, "from_approx": false, "to_approx": false, "how": "koupe", "note": "jeho syn panství roku 1392 prodal"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Zikmund Huler", "from": 1392, "to": 1395, "from_approx": false, "to_approx": false, "how": "koupe", "note": "roku 1395 vyměnil hrad s Hynčíkem Pluhem z Rabštejna za hrad Orlík"},
+  {"owner": "pluhove-z-rabstejna", "owner_wiki": "Pluhové z Rabštejna", "person": "Hynčík Pluh z Rabštejna", "from": 1395, "to": 1400, "from_approx": false, "to_approx": false, "how": "vymena", "note": "roku 1398 získal od Václava IV. povolení k obnově zbořeného hradu; obnovený hrad roku 1400 prodal"},
+  {"owner": "leuchtenberkove", "owner_wiki": "Leuchtenberkové", "person": "Jan I. z Leuchtenberka", "from": 1400, "to": 1402, "from_approx": false, "to_approx": false, "how": "koupe", "note": "roku 1402 hrad koupil Jindřich I. z Plavna"},
+  {"owner": "plavensti-z-plavna", "owner_wiki": "Plavenští z Plavna", "person": "Jindřich I. z Plavna", "from": 1402, "to": 1491, "from_approx": false, "to_approx": false, "how": "koupe", "note": "jeho potomci hrad drželi až do roku 1491"},
+  {"owner": "pani-z-gutstejna", "owner_wiki": "Páni z Gutštejna", "person": null, "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "jeden z majitelů konce 15. a 16. století; přesné pořadí a léta držby zdroj neuvádí"},
+  {"owner": "koruna", "owner_wiki": null, "person": "Vladislav Jagellonský", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "uveden mezi majiteli konce 15. a 16. století; přesné pořadí a léta držby zdroj neuvádí"},
+  {"owner": "pluhove-z-rabstejna", "owner_wiki": "Pluhové z Rabštejna", "person": null, "from": null, "to": 1583, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "znovu uvedeni mezi majiteli konce 15. a 16. století; přesné pořadí a léta držby zdroj neuvádí"},
+  {"owner": "zedtwitzove", "owner_wiki": "Zedtwitzové", "person": null, "from": 1583, "to": 1623, "from_approx": false, "to_approx": false, "how": "koupe", "note": "v článku uváděni jako Cedvicové (přesměrování na Zedtwitzové); panství získali 1583, hrad už nevyužívali k bydlení"},
+  {"owner": "metternichove", "owner_wiki": "Metternichové", "person": null, "from": 1623, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "hrad roku 1647 za třicetileté války dobyt a pobořen a zůstal zříceninou; zdroj neuvádí, zda a kdy přešla samotná zřícenina po roce 1945 do jiných rukou"}
+ ],
+ "events": [
+  {"year": 1287, "text": "první písemná zmínka o hradu, v držení Hartenberků"},
+  {"year": 1347, "text": "Karel IV. nechal hrad pobořit kvůli přepadům chebských kupců bratry z Kynžvartu"},
+  {"year": 1373, "text": "hrad od Nothaftů koupil Boreš z Rýzmburka"},
+  {"year": 1398, "text": "Hynčík Pluh z Rabštejna získal povolení k obnově zbořeného hradu"},
+  {"year": 1623, "text": "panství s hradem získali Metternichové"},
+  {"year": 1647, "text": "za třicetileté války hrad dobyt a pobořen Švédy i císařským vojskem"},
+  {"year": 1680, "text": "část kamene z rozbořeného hradu použita na stavbu zámku Kynžvart (80. léta 17. století)"},
+  {"year": 1963, "text": "zřícenina prohlášena kulturní památkou"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Kynžvart_(hrad)"]
+}

@@ -1,0 +1,65 @@
+{
+ "id": "Q11863116",
+ "name": "Děvičky",
+ "founded": {
+  "year": 1222,
+  "approx": true,
+  "text": "Hrad je poprvé zmiňován roku 1222 pod názvem Dewiczky jako pomezní zeměpanský hrad v královském držení; dochoval se i jméno prvního purkrabího, Štěpána z Medlova."
+ },
+ "summary": "Děvičky vznikly jako pomezní zeměpanský hrad, poprvé doložený roku 1222, spravovaný jménem krále purkrabími (Štěpán z Medlova, Lipolt z Hardeggu, Crha z Ceblovic). Roku 1334 jej Jan Lucemburský udělil v léno Lichtenštejnům a roku 1572 koupil mikulovské panství s hradem Adam z Ditrichštejna, jehož syn Zikmund jej přestavěl na renesanční sídlo. Za třicetileté války byl hrad vypleněn a vypálen odcházející švédskou posádkou, po nejnutnějších opravách sloužil jen jako strážní stanoviště až do požáru 1744 a nejpozději počátkem 19. století byl definitivně opuštěn a zchátral; dnes je vlastníkem stát (Lesy České republiky), zříceninu si od něj pronajal a o její záchranu pečuje spolek Památky Pálavy.",
+ "owners": [
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1222,
+   "to": 1334,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "pomezní zeměpanský hrad v královském držení, spravovaný purkrabími (Štěpán z Medlova, Lipolt z Hardeggu, od 1244 Crha z Ceblovic); mezi lety 1247-1294 o hradu zpráv není, snad zničen nájezdem Kumánů 1253, obnoven koncem 13. stol. za Václava II."
+  },
+  {
+   "owner": "lichtenstejnove",
+   "owner_wiki": "Lichtenštejnové",
+   "person": null,
+   "from": 1334,
+   "to": 1572,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "hrad jim udělil v léno král Jan Lucemburský; v tomto období pravděpodobně přestavěn a rozšířen o předhradí, opevnění posíleno 1529 při obléhání Vídně Turky"
+  },
+  {
+   "owner": "ditrichstejnove",
+   "owner_wiki": "Ditrichštejnové",
+   "person": "Adam z Ditrichštejna",
+   "from": 1572,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "Adam koupil celé mikulovské panství, syn Zikmund hrad přestavěl na sídlo; za třicetileté války vypleněn a vypálen odcházející švédskou posádkou (táhnoucí po bitvě u Jankova na Vídeň, přesný rok článek neuvádí), po opravě sloužil jako strážnice do požáru 1744, opuštěn nejpozději počátkem 19. stol.; přesný okamžik a způsob přechodu z majetku Ditrichštejnů na stát článek neuvádí"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": "Lesy České republiky",
+   "from": null,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "dnešním vlastníkem je stát (Lesy České republiky); zříceninu si od něj pronajal spolek dobrovolníků Památky Pálavy, který pečuje o její záchranu (plánovaná první etapa oprav do roku 2028)"
+  }
+ ],
+ "events": [
+  {"year": 1222, "text": "první písemná zmínka o hradu pod názvem Dewiczky"},
+  {"year": 1253, "text": "hrad snad zničen při nájezdu Kumánů"},
+  {"year": 1334, "text": "Jan Lucemburský uděluje hrad v léno Lichtenštejnům"},
+  {"year": 1572, "text": "Adam z Ditrichštejna kupuje mikulovské panství s hradem"},
+  {"year": null, "text": "za třicetileté války (posádka táhla po bitvě u Jankova na Vídeň) hrad vypleněn a vypálen odcházející švédskou posádkou"},
+  {"year": 1744, "text": "požár, poté hrad sloužil už jen jako strážnice"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Děvičky"]
+}

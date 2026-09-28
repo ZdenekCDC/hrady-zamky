@@ -154,6 +154,8 @@ def main():
         q = it["qid"]
         if set(it["part_of"]) & qids and q not in npu and q not in nipos:
             continue  # building/part of another castle in the dataset
+        if not it["types"] and q not in npu and q not in overrides["extra_qids"]:
+            continue  # fetched only because of a stale NPÚ link (see overrides npu_qid)
         kind = classify(it, npu.get(q, {}).get("kind"))
         if q in npu and npu[q]["kind"] not in KIND_FROM_NPU:
             continue  # NPÚ monasteries, churches, gardens: not castles

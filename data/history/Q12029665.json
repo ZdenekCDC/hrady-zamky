@@ -1,0 +1,28 @@
+{
+ "id": "Q12029665",
+ "name": "Kněžice (zámek, okres Klatovy)",
+ "founded": {
+  "year": 1595,
+  "approx": true,
+  "text": "Ves Kněžice byla od středověku součástí velhartického panství; v 90. letech 16. století zde byla založena tvrz, kterou v první polovině 18. století přestavěli na barokní zámek s valbovou střechou."
+ },
+ "summary": "Zámek v Kněžicích vznikl přestavbou tvrze založené v 90. letech 16. století, barokní podobu získal v první polovině 18. století. Během asi 600 let se na Kněžicích vystřídalo jedenáct šlechtických rodů, z nichž zdroj jmenovitě uvádí jen Hubatiusy (Hubáčky) z Kotnova a na počátku 20. století Oskara Heintschela von Heinegg, který nechal zámek přestavět podle projektu architekta Leopolda Bauera (1906). Po roce 1945 byl zámek zestátněn, 1955-2002 sloužil jako domov důchodců a roku 2003 byl prodán zahraniční společnosti, která jej přestavěla na hotel a restauraci.",
+ "owners": [
+  {"owner": "neznamo", "owner_wiki": null, "person": null, "from": 1595, "to": null, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "tvrz založena v 90. letech 16. století, zakladatel v článku neuveden; celkem se na Kněžicích během 600 let vystřídalo 11 šlechtických rodů, zdroj jmenuje jen dva z nich"},
+  {"owner": "hubatiove-z-kotnova", "owner_wiki": null, "person": null, "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "čeští Hubatiusové (Hubáčkové), rytíři z Kotnova; jeden z jedenácti rodů, které Kněžice v průběhu 600 let vlastnily, přesné období držby zdroj neuvádí"},
+  {"owner": "heintschel-heinegg", "owner_wiki": "Heintschel-Heinegg", "person": "Oskar Heintschel von Heinegg", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "na jeho objednávku byla roku 1906 podle projektu Leopolda Bauera upravena zámecká i hospodářská budova; přesné roky vlastnictví zdroj neuvádí"},
+  {"owner": "neznamo", "owner_wiki": null, "person": null, "from": null, "to": 1945, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "zdroj hovoří o zadlužení 'následujících majitelů', kvůli němuž byly od roku 1929 pozemky panství parcelovány a rozprodávány; jména těchto majitelů neuvedena"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": 2003, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "obec Petrovice se zámku nikdy nedomohla; 1955-2002 objekt sloužil jako domov důchodců"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "zahraniční společnost (jméno v článku neuvedeno)", "from": 2003, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "zámek přestavěn na hotel a restauraci, otevřeno 2004; hotel byl později uzavřen a objekt znovu nabízen k prodeji"}
+ ],
+ "events": [
+  {"year": 1595, "text": "založena tvrz v Kněžicích (90. léta 16. století)"},
+  {"year": 1906, "text": "přestavba zámku a hospodářských budov podle projektu architekta Leopolda Bauera pro Oskara Heintschela von Heinegg"},
+  {"year": 1929, "text": "kvůli zadlužení majitelů začíná parcelace a rozprodej pozemků panství"},
+  {"year": 1945, "text": "zámek zestátněn"},
+  {"year": 1955, "text": "zřízen domov důchodců, provoz do roku 2002"},
+  {"year": 2003, "text": "zámek prodán zahraniční společnosti"},
+  {"year": 2004, "text": "otevřen hotel a restaurace v přestavěném zámku"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Kněžice_(zámek,_okres_Klatovy)"]
+}

@@ -1,0 +1,114 @@
+{
+ "id": "Q31431735",
+ "name": "Stará Ves nad Ondřejnicí",
+ "founded": {
+  "year": 1565,
+  "approx": true,
+  "text": "Renesanční zámek začal stavět Jaroš Syrakovský z Pěrkova po vyhrané při o statek roku 1564, dokončil jej syn Ctibor Syrakovský; úvod článku uvádí (patrně chybně) roky 1665-1670, tělo článku i článek o obci hovoří o stavbě v letech 1560-1578"
+ },
+ "summary": "Renesanční zámek ve Staré Vsi nahradil starší tvrz rodu z Bruneswerde, manský statek olomouckého biskupství. Po soudních sporech jej roku 1564 získal Jaroš Syrakovský z Pěrkova, který zahájil stavbu nového sídla dokončenou synem Ctiborem; od roku 1620 patřil Podstatským z Prusinovic, kteří jej drželi až do roku 1904, kdy jej koupila olomoucká kapitula. Od roku 1930 je majitelem město (dnes obec) Stará Ves, respektive tehdejší Moravská Ostrava; po rozsáhlé rekonstrukci dokončené 2019 je zámek přístupný veřejnosti.",
+ "owners": [
+  {
+   "owner": "z-bruneswerde",
+   "owner_wiki": null,
+   "person": null,
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "starší tvrz založena příslušníky rodu z Bruneswerde ve 2. polovině 14. století, manský statek olomouckého biskupství; poloha tvrze nejistá"
+  },
+  {
+   "owner": "z-belku",
+   "owner_wiki": null,
+   "person": "Bohuš Čeple z Belku",
+   "from": null,
+   "to": 1559,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "první písemná zmínka o tvrzi 1551, kdy se ujal její správy; po jeho smrti 1559 si statek nárokovalo více šlechticů, spor rozhodl olomoucký biskup"
+  },
+  {
+   "owner": "z-perkova",
+   "owner_wiki": null,
+   "person": "Jaroš Syrakovský z Pěrkova",
+   "from": 1564,
+   "to": 1570,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "spor o statek vyhrál 1564; zahájil stavbu renesančního zámku; zemřel 1570"
+  },
+  {
+   "owner": "z-perkova",
+   "owner_wiki": null,
+   "person": "Ctibor Syrakovský z Pěrkova",
+   "from": 1570,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "syn Jaroše, dokončil stavbu zámku"
+  },
+  {
+   "owner": "z-perkova",
+   "owner_wiki": null,
+   "person": "Ctibor Syrakovský z Pěrkova (mladší, stejnojmenný syn)",
+   "from": null,
+   "to": 1620,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "dostal se do sporu s biskupem Františkem z Ditrichštejna, v jehož důsledku mu bylo staroveské léno odebráno; podle Františka Spurného byla Stará Ves naopak zkonfiskována Hanuši Syrakovskému za účast na stavovském povstání 1618-1620 - zdroj uvádí obě verze"
+  },
+  {
+   "owner": "podstatsti-z-prusinovic",
+   "owner_wiki": "Podstatští z Prusinovic",
+   "person": "Kryštof Karel Podstatský z Prusinovic",
+   "from": 1620,
+   "to": 1904,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "roku 1620 uveden jako nový majitel; rod držel Starou Ves až do roku 1904"
+  },
+  {
+   "owner": "cirkev",
+   "owner_wiki": null,
+   "person": "olomoucká kapitula",
+   "from": 1904,
+   "to": 1930,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "olomoucká kapitula koupila zámek od Podstatských z Prusinovic"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "Moravská Ostrava, dnes obec Stará Ves",
+   "from": 1930,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "v roce 1930 se majitelem stalo město Moravská Ostrava; zdroj další změnu vlastníka neuvádí, po rekonstrukci dokončené 2019 je zámek přístupný veřejnosti"
+  }
+ ],
+ "events": [
+  {"year": 1551, "text": "první písemná zmínka o starší tvrzi, správy se ujal Bohuš Čeple z Belku"},
+  {"year": 1564, "text": "Jaroš Syrakovský z Pěrkova vyhrál soudní spor o statek a zahájil stavbu renesančního zámku"},
+  {"year": 1643, "text": "zámek za třicetileté války údajně obsadili Švédové"},
+  {"year": 1704, "text": "požár na zámku, škody opraveny do roku 1705"},
+  {"year": 1904, "text": "zámek koupila olomoucká kapitula"},
+  {"year": 1930, "text": "majitelem se stalo město Moravská Ostrava"},
+  {"year": 1952, "text": "rozsáhlé stavební úpravy, při nichž zanikla řada původních prvků"},
+  {"year": 2019, "text": "dokončena rozsáhlá rekonstrukce zámku"}
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Stará_Ves_nad_Ondřejnicí_(zámek)",
+  "https://cs.wikipedia.org/wiki/Stará_Ves_nad_Ondřejnicí"
+ ]
+}

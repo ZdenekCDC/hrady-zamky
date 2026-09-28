@@ -1,0 +1,37 @@
+{
+ "id": "Q11816103",
+ "name": "Dolní Kounice",
+ "founded": {
+  "year": 1330,
+  "approx": false,
+  "text": "Ve 20. letech 14. století postavil premonstrátský klášter Rosa Coeli na místě starší opevněné pevnosti gotický hrad, dokončený roku 1330."
+ },
+ "summary": "Zámek Dolní Kounice vznikl přestavbou gotického hradu, který ve 20. letech 14. století na místě starší pevnosti nechal postavit premonstrátský klášter Rosa Coeli, jemuž panství předal jeho zakladatel Vilém (z Pulína). Po zrušení kláštera v 16. století hrad připadl králi Ferdinandovi I., který jej roku 1537 prodal Jiřímu Žabkovi z Limberka; ten i pozdější majitelé Drnovští z Drnovic jej přestavěli v renesančním slohu. Po Bílé hoře jej roku 1622 koupili Dietrichštejnové, od roku 1862 patřil Herbersteinům a ve 20. století se vystřídala řada soukromých i státních vlastníků; po restituci roku 1992 jej koupila brněnská firma L.V.P., která zámek vlastní dosud a postupně jej opravuje.",
+ "owners": [
+  {"owner": "z-pulina", "owner_wiki": null, "person": "Vilém (z Pulína)", "from": 1162, "to": 1181, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "roku 1162 obdržel erb jako první doložený majitel opevněného místa; za nájezdy do Rakous jej papež exkomunikoval, klatby se zbavil závazkem postavit klášter"},
+  {"owner": "cirkev", "owner_wiki": null, "person": "premonstrátský klášter Rosa Coeli", "from": 1181, "to": null, "from_approx": false, "to_approx": true, "how": "dar", "note": "Vilém klášter roku 1181 založil a předal mu své původní panství (sám získal od panovníka jiné); klášter ve 20. letech 14. století postavil na místě pevnosti gotický hrad (dokončen 1330); klášter byl zrušen v 16. století, přesný rok zdroj neuvádí"},
+  {"owner": "koruna", "owner_wiki": null, "person": "Ferdinand I.", "from": null, "to": 1537, "from_approx": true, "to_approx": false, "how": "jine", "note": "po zrušení kláštera v 16. století hrad připadl moravskému markraběti a králi"},
+  {"owner": "zabkove-z-limberka", "owner_wiki": "Žabkové z Limberka", "person": "Jiří Žabka z Limberka", "from": 1537, "to": null, "from_approx": false, "to_approx": true, "how": "koupe", "note": "místokancléř Českého království, koupil hrad od Ferdinanda I. a přestavěl jej v renesančním slohu"},
+  {"owner": "drnovsti-z-drnovic", "owner_wiki": "Drnovští z Drnovic", "person": null, "from": null, "to": 1622, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "vlastnili na přelomu 16. a 17. století, provedli další renesanční přestavbu; po porážce stavovského povstání jim byl zámek zabaven"},
+  {"owner": "ditrichstejnove", "owner_wiki": "Ditrichštejnové", "person": null, "from": 1622, "to": 1862, "from_approx": false, "to_approx": false, "how": "koupe", "note": "zámek sloužil jen jako sídlo správy dolnokounického panství"},
+  {"owner": "herbersteinove", "owner_wiki": "Herbersteinové", "person": null, "from": 1862, "to": 1927, "from_approx": false, "to_approx": false, "how": "koupe", "note": "zámek využívali k hospodářským účelům, což poznamenalo některé prostory"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Emil Tomec", "from": 1927, "to": 1937, "from_approx": false, "to_approx": false, "how": "koupe", "note": "bývalý správce panství, koupě po pozemkové reformě"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Karel Rubeš", "from": 1937, "to": 1945, "from_approx": false, "to_approx": false, "how": "koupe", "note": "městský tajemník"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Václav Edl", "from": 1945, "to": 1974, "from_approx": false, "to_approx": false, "how": "koupe", "note": "od roku 1948 se spolumajitelem stal místní státní statek"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1948, "to": 1974, "from_approx": false, "to_approx": false, "how": "jine", "note": "místní státní statek se stal spolumajitelem vedle Václava Edla"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1974, "to": 1992, "from_approx": false, "to_approx": false, "how": "jine", "note": "zestátnění; převzal Státní podnik památkové péče a ochrany přírody v Brně, od 1986 Státní vědecká knihovna v Brně (dnešní Moravská zemská knihovna)"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "rodina Edlových", "from": 1992, "to": 1992, "from_approx": false, "to_approx": false, "how": "restituce", "note": "zámek vrácen v restituci a téhož roku prodán brněnské firmě L.V.P."},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "L.V.P. (firma)", "from": 1992, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "od roku 2006 rozsáhlá rekonstrukce a zpřístupnění veřejnosti; v srpnu 2022 nabídla firma zámek k prodeji"}
+ ],
+ "events": [
+  {"year": 1181, "text": "Vilém z Pulína zakládá premonstrátský klášter Rosa Coeli, kterému předává panství"},
+  {"year": 1330, "text": "dokončena stavba gotického hradu klášterem"},
+  {"year": 1537, "text": "Ferdinand I. prodává hrad Jiřímu Žabkovi z Limberka, který jej přestavuje renesančně"},
+  {"year": 1622, "text": "po Bílé hoře zámek zabaven Drnovským a koupen Dietrichštejny"},
+  {"year": 1862, "text": "zámek získávají Herbersteinové"},
+  {"year": 1974, "text": "zámek zestátněn"},
+  {"year": 1992, "text": "restituce rodině Edlových a prodej firmě L.V.P."},
+  {"year": 2022, "text": "vlastníci nabízejí areál k prodeji za odhadovanou půl miliardu korun"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Dolní_Kounice_(zámek)"]
+}

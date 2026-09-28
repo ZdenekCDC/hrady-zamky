@@ -1,0 +1,85 @@
+{
+ "id": "Q1013354",
+ "name": "Nové Hrady",
+ "founded": {"year": 1250, "approx": true, "text": "gotický hrad postaven podle archeologických nálezů okolo poloviny 13. století, poprvé zmíněn roku 1279 spolu s majitelem Vítkovcem Ojířem ze Svin"},
+ "summary": "Gotický hrad Nové Hrady vznikl kolem poloviny 13. století a poprvé je doložen roku 1279 s majitelem Ojířem ze Svin z rodu Vítkovců; později patřil dalším Vítkovcům, pánům z Landštejna, a od roku 1359 Rožmberkům. Po smrti posledního Rožmberka Petra Voka (1611) přešlo panství na pány ze Švamberka a od roku 1635 na Buquoye, kteří si vybudovali rezidenci ve městě a hrad sloužil jen hospodářsky. Po druhé světové válce byl Buquoyům zkonfiskován, připadl státu a od roku 2002 jej spravuje Národní památkový ústav.",
+ "owners": [
+  {
+   "owner": "vitkovci",
+   "owner_wiki": "Vítkovci",
+   "person": "Ojíř ze Svin",
+   "from": 1250,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "hrad poprvé doložen 1279 spolu s majitelem, synem Vítka z Klokot; přesný rok konce jeho držby cs.wiki neuvádí"
+  },
+  {
+   "owner": "landstejnove",
+   "owner_wiki": "Landštejnové",
+   "person": null,
+   "from": null,
+   "to": 1359,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "hrad později v držení Vítkovců - pánů z Landštejna; cs.wiki neuvádí přesný rok přechodu"
+  },
+  {
+   "owner": "rozmberkove",
+   "owner_wiki": "Rožmberkové",
+   "person": null,
+   "from": 1359,
+   "to": 1611,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "od roku 1359 hrad drželi Rožmberkové až do smrti posledního z rodu Petra Voka roku 1611; způsob nabytí cs.wiki neuvádí"
+  },
+  {
+   "owner": "pani-ze-svamberka",
+   "owner_wiki": "Páni ze Švamberka",
+   "person": null,
+   "from": 1611,
+   "to": 1635,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "panství přešlo na základě dědické smlouvy po smrti Petra Voka z Rožmberka; rok konce držby odvozen od nástupu Buquoyů"
+  },
+  {
+   "owner": "buquoyove",
+   "owner_wiki": "Buquoyové",
+   "person": null,
+   "from": 1635,
+   "to": 1945,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "od roku 1635 si Buquoyové nechali na novohradském náměstí vybudovat rezidenci, hrad pak sloužil jen hospodářsky (byty úředníků, lesní správa, od konce 18. stol. rodinný archiv a knihovna); přesný způsob a rok nabytí panství cs.wiki neuvádí"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "po druhé světové válce Buquoyům panství zkonfiskováno; od roku 2002 ve správě Národního památkového ústavu"
+  }
+ ],
+ "events": [
+  {"year": 1279, "text": "první písemná zmínka o hradu spolu s majitelem Ojířem ze Svin"},
+  {"year": 1359, "text": "hrad přechází do držení Rožmberků"},
+  {"year": 1573, "text": "hrad těžce poškozen požárem a výbuchem střelného prachu od úderu blesku"},
+  {"year": 1590, "text": "hrad poškozen silným zemětřesením"},
+  {"year": 1605, "text": "zahájena obnova hradu podle návrhů Antonia Canevalla"},
+  {"year": 1611, "text": "smrtí Petra Voka z Rožmberka přechází panství na pány ze Švamberka"},
+  {"year": 1792, "text": "1792-1798 přestavba paláce na úřednické byty za Jana Nepomuka Buquoye"},
+  {"year": 2002, "text": "hrad zapsán na Seznam národních kulturních památek a přechází do správy Národního památkového ústavu"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Nové_Hrady_(hrad)"]
+}

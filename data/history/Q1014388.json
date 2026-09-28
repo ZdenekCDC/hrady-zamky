@@ -1,0 +1,26 @@
+{
+ "id": "Q1014388",
+ "name": "Vikštejn",
+ "founded": {"year": 1265, "approx": true, "text": "Hrad založil ve druhé polovině 13. století Vítek z Kravař; první písemná zmínka je z roku 1377."},
+ "summary": "Hrad Vikštejn nad řekou Moravicí založil ve druhé polovině 13. století Vítek z Kravař, jehož hostem měl být i minnesänger Walther von der Vogelweide. Od konce 14. století patřil opavským knížatům, poté vladykům z Moravice a Bírkům z Násile; roku 1474 jej dobyl a pobořil Matyáš Korvín. Po opravě kolem roku 1530 Planknary z Kynšperka hrad vlastnili Oderští z Lidéřova (konec 16. stol. - 1708) a poté Reichové, za nichž sloužil už jen hospodářským účelům a byl po roce 1776 - po vybudování zámku v Horním Vikštejně - definitivně opuštěn.",
+ "owners": [
+  {"owner": "pani-z-kravar", "owner_wiki": "Páni z Kravař", "person": "Vítek z Kravař", "from": 1265, "to": null, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "založení ve 2. pol. 13. stol., první písemná zmínka 1377; přesný rok konce držby neuveden, zdroj jen říká, že hrad 'od konce 14. století' patřil opavským knížatům"},
+  {"owner": "opavsti-premyslovci", "owner_wiki": "Opavští Přemyslovci", "person": null, "from": null, "to": 1447, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "hrad patřil opavským knížatům 'od konce 14. století'; přesný rok zdroj neuvádí"},
+  {"owner": "z-moravice", "owner_wiki": null, "person": null, "from": 1447, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "vladykové z Moravice; rok konce držby zdroj neuvádí"},
+  {"owner": "birkove-z-nasile", "owner_wiki": "Bírkové z Násile", "person": null, "from": null, "to": 1474, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "rok počátku držby neuveden; roku 1474 hrad dobyl a pobořil Matyáš Korvín"},
+  {"owner": "planknarove", "owner_wiki": null, "person": null, "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "Planknarové z Kynšperka získali hrad po roce 1474, kolem roku 1530 jej nechali opravit; přesné roky nabytí a konce držby zdroj neuvádí"},
+  {"owner": "z-liderova", "owner_wiki": null, "person": null, "from": null, "to": 1708, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "Oderští z Lidéřova drželi hrad 'od konce 16. století' do roku 1708; za třicetileté války hrad poškozen Dány a Švédy, roku 1648 vyhozen do povětří císařským vojskem"},
+  {"owner": "reichove", "owner_wiki": null, "person": null, "from": 1708, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "za Reichů sloužil hrad již jen hospodářským potřebám; po vybudování zámku v Horním Vikštejně (Dubová) byl hrad po roce 1776 definitivně opuštěn, další vlastník zdroj neuvádí"}
+ ],
+ "events": [
+  {"year": 1265, "text": "založení hradu Vítkem z Kravař"},
+  {"year": 1377, "text": "první písemná zmínka o hradu"},
+  {"year": 1447, "text": "hrad přechází do vlastnictví vladyků z Moravice"},
+  {"year": 1474, "text": "hrad dobyt a pobořen Matyášem Korvínem"},
+  {"year": 1530, "text": "Planknarové z Kynšperka nechávají hrad opravit"},
+  {"year": 1648, "text": "za třicetileté války hrad vyhozen do povětří císařským vojskem"},
+  {"year": 1776, "text": "hrad definitivně opuštěn po vybudování zámku v Horním Vikštejně"},
+  {"year": 1964, "text": "zřícenina chráněna jako kulturní památka"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Vikštejn"]
+}

@@ -1,0 +1,25 @@
+{
+ "id": "Q188015",
+ "name": "Veliš",
+ "founded": {"year": null, "approx": true, "text": "Původně královský hrad, postavený pravděpodobně Václavem II. koncem 13. století; písemně poprvé doložen roku 1316"},
+ "summary": "Zřícenina hradu Veliš nad Podhradím byla původně královským hradem, postaveným pravděpodobně Václavem II. a poprvé písemně doloženým roku 1316. Během své existence mnohokrát změnil vlastníky, mezi nimi byli Jan Lucemburský, Vartenberkové, Albrecht z Valdštejna, Jiří z Poděbrad či Šlikové; od roku 1500 zde bylo po dobu sta let uchováváno basilejské kompaktáta. Koncem 16. století provedl poslední stavební úpravy Vilém Trčka z Lípy, za třicetileté války hrad neúspěšně obléhali Švédové a roku 1658 byl z císařského rozkazu zbořen, aby nemohl padnout do rukou nepřátel.",
+ "owners": [
+  {"owner": "koruna", "owner_wiki": null, "person": "Václav II.", "from": null, "to": 1316, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "pravděpodobný stavebník hradu; přesný rok založení zdroj neuvádí, hrad je poprvé písemně doložen roku 1316"},
+  {"owner": "koruna", "owner_wiki": null, "person": "Jan Lucemburský", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "cs.wiki uvádí jen jako jednoho z příkladů vlastníků ('byli jimi např.'), bez let a bez jisté chronologie mezi jednotlivými uvedenými vlastníky"},
+  {"owner": "vartenberkove", "owner_wiki": "Vartenberkové", "person": null, "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "uveden jen jako jeden z příkladů vlastníků, bez let a bez jisté chronologie"},
+  {"owner": "valdstejnove", "owner_wiki": "Valdštejnové", "person": "Albrecht z Valdštejna", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "uveden jen jako jeden z příkladů vlastníků, bez let a bez jisté chronologie; obecně znám jako majitel řady panství v 1. čtvrtině 17. stol."},
+  {"owner": "pani-z-kunstatu-a-podebrad", "owner_wiki": "Páni z Kunštátu a Poděbrad", "person": "Jiří z Poděbrad", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "uveden jen jako jeden z příkladů vlastníků, bez let a bez jisté chronologie"},
+  {"owner": "slikove", "owner_wiki": "Šlikové", "person": null, "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "uvedeni jen jako jeden z příkladů vlastníků, bez let a bez jisté chronologie; zdroj zmiňuje, že od roku 1500 zde bylo sto let uchováváno basilejské kompaktáta, bez přímého spojení s konkrétním vlastníkem"},
+  {"owner": "trckove-z-lipy", "owner_wiki": "Trčkové z Lípy", "person": "Vilém Trčka z Lípy", "from": null, "to": 1658, "from_approx": false, "to_approx": true, "how": "neznamo", "note": "koncem 16. století provedl poslední stavební úpravy hradu; zdroj neuvádí, zda hrad vlastnil ještě v roce 1658, kdy byl z císařského rozkazu zbořen, ani žádného pozdějšího vlastníka"}
+ ],
+ "events": [
+  {"year": 1316, "text": "hrad poprvé písemně doložen"},
+  {"year": 1500, "text": "počátek stoleté úschovy basilejských kompaktát na hradě"},
+  {"year": 1600, "text": "koncem 16. století Vilém Trčka z Lípy provedl poslední stavební úpravy hradu"},
+  {"year": 1658, "text": "hrad z císařského rozkazu zbořen, aby nemohl padnout do rukou nepřátelských vojsk za třicetileté války"},
+  {"year": 1964, "text": "zřícenina prohlášena kulturní památkou"}
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Veliš_(hrad)"
+ ]
+}

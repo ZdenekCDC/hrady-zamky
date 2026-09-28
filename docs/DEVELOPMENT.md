@@ -78,7 +78,7 @@ Požadavky: Python 3.12+ a venv: `python3 -m venv .venv && .venv/bin/pip install
 .venv/bin/python scripts/build_history.py    # data/history + families -> data/build/*.json (validace)
 ```
 
-- Ruční opravy (párování NIPOS, typ, přístupnost) patří do `data/overrides.json`, ne do vygenerovaných souborů.
+- Ruční opravy (párování NIPOS, chybné odkazy v seznamu NPÚ, typ, přístupnost) patří do `data/overrides.json`, ne do vygenerovaných souborů.
 - Historii nového objektu přidáš jako `data/history/<QID>.json` podle `data/SCHEMA.md` (ručně nebo agentem z cs.wiki), pak `fetch_families.py` a `build_history.py`. Hromadné doplňování po dávkách: [docs/history-batches.md](history-batches.md), další dávku vypíše `scripts/next_history_batch.py`.
 - NIPOS vydává data jednou ročně; při novém ročníku uprav `NIPOS_YEAR` a URL v `scripts/fetch_access.py`.
 

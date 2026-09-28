@@ -1,0 +1,28 @@
+{
+ "id": "Q118256",
+ "name": "Špilberk",
+ "founded": {"year": 1277, "approx": true, "text": "Hrad založil ve druhé polovině 13. století moravský markrabě a pozdější český král Přemysl Otakar II. jako oporu panovnické moci a sídlo vládců Moravy; nejstarší písemné záznamy o hradu pocházejí z let 1277-1279"},
+ "summary": "Hrad Špilberk nad Brnem založil ve druhé polovině 13. století Přemysl Otakar II. jako přední královský hrad na Moravě; trvalým sídlem moravských markrabat se stal v letech 1350-1411 za Jana Jindřicha a jeho syna Jošta Moravského. Od konce 15. století hrad chátral, roku 1469 jej dobyl Matyáš Korvín, 1560 jej koupili moravští stavové a prodali městu Brnu, po roce 1620 byl městu zkonfiskován a přebudován na mohutnou barokní pevnost, která roku 1645 odolala švédskému obléhání. Od roku 1783 sloužil jako obávaná věznice, od poloviny 19. století jako vojenská kasárna a od roku 1960 je sídlem Muzea města Brna, přičemž od roku 1962 je národní kulturní památkou.",
+ "owners": [
+  {"owner": "koruna", "owner_wiki": null, "person": "Přemysl Otakar II.", "from": 1277, "to": 1350, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "založil hrad jako oporu panovnické moci a rezidenci moravských markrabat; panovníci jej navštěvovali spíše příležitostně"},
+  {"owner": "koruna", "owner_wiki": null, "person": "Jan Jindřich, markrabě moravský", "from": 1350, "to": 1375, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "mladší bratr Karla IV., učinil ze Špilberku trvalé sídlo moravských markrabat"},
+  {"owner": "koruna", "owner_wiki": null, "person": "Jošt Moravský", "from": 1375, "to": 1411, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "syn Jana Jindřicha; 1410 zvolen římsko-německým králem, zemřel na hradě 1411; poslední moravský markrabě sídlící na Špilberku"},
+  {"owner": "koruna", "owner_wiki": null, "person": "Zikmund a Albrecht Rakouský", "from": 1411, "to": 1469, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "hrad ztratil funkci rezidence a nabyl významu jako vojenská pevnost; sídlil zde zemský hejtman Viktorín z Poděbrad"},
+  {"owner": "koruna", "owner_wiki": null, "person": "Matyáš Korvín", "from": 1469, "to": 1560, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "1469 obsadil hrad (předtím jej obléhalo město Brno) a získal vládu na Moravě; od konce 15. stol. hrad chátral a byl opakovaně zastavován, roku 1560 jej i s panstvím koupili moravští stavové"},
+  {"owner": "mesto", "owner_wiki": null, "person": "Brno", "from": 1560, "to": 1620, "from_approx": false, "to_approx": false, "how": "koupe", "note": "moravští stavové Špilberk s panstvím koupili 1560 a vzápětí prodali městu Brnu"},
+  {"owner": "koruna", "owner_wiki": null, "person": "Ferdinand II.", "from": 1620, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "po bělohorské porážce stavovského povstání zkonfiskován městu Brnu; přebudován na barokní pevnost, 1645 odolal švédskému obléhání, 1742 pruským vojskům; od 1783 zde civilní věznice pro nejtěžší zločince"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": null, "to": 1959, "from_approx": false, "to_approx": true, "how": "jine", "note": "přechod z habsburského na československý stát není v textu přesně datován; roku 1855 zrušena věznice a zřízena vojenská kasárna, ta zde byla do roku 1959, kdy Špilberk opustila posádka čs. armády"},
+  {"owner": "mesto", "owner_wiki": null, "person": "Muzeum města Brna", "from": 1960, "to": null, "from_approx": false, "to_approx": false, "how": "jine", "note": "hrad se stal sídlem Muzea města Brna, příspěvkové organizace statutárního města Brna; 1962 prohlášen národní kulturní památkou"}
+ ],
+ "events": [
+  {"year": 1277, "text": "nejstarší písemné záznamy o hradu"},
+  {"year": 1410, "text": "Jošt Moravský zvolen římsko-německým králem, Špilberk se krátce stal sídlem vládce říše; roku 1411 zde zemřel"},
+  {"year": 1469, "text": "Matyáš Korvín dobyl hrad a získal vládu na Moravě"},
+  {"year": 1560, "text": "moravští stavové koupili Špilberk a prodali jej městu Brnu"},
+  {"year": 1620, "text": "po bělohorském povstání zkonfiskován městu, později přebudován na barokní pevnost"},
+  {"year": 1645, "text": "Brno se Špilberkem pod velením Raduita de Souches odolalo tříměsíčnímu švédskému obléhání"},
+  {"year": 1783, "text": "Josef II. rozhodl o přeměně pevnosti na civilní věznici pro nejtěžší zločince"},
+  {"year": 1960, "text": "hrad se stal sídlem Muzea města Brna"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Špilberk"]
+}

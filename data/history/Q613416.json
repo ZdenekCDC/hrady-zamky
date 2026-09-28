@@ -1,0 +1,21 @@
+{
+ "id": "Q613416",
+ "name": "Janův hrad",
+ "founded": {
+  "year": 1801,
+  "approx": false,
+  "text": "1801-1808 postavena jako pseudogotická umělá zřícenina podle projektu Josefa Hardtmutha; stavbu zahájil kníže Alois I. z Lichtenštejna a po jeho smrti ji ve zmenšené podobě dokončil bratr Jan Josef I. z Lichtenštejna."
+ },
+ "summary": "Janův hrad je umělá zřícenina hradu v Lednicko-valtickém areálu, postavená v letech 1801-1808 jako lovecký zámeček a myslivna podle projektu Josefa Hardtmutha; nese jméno Jana I. z Lichtenštejna, prvního majitele lednického panství. Hrad náležel Lichtenštejnům až do roku 1945, poté připadl státu a dnes je ve správě Národního památkového ústavu, veřejnosti přístupný.",
+ "owners": [
+  {"owner": "lichtenstejnove", "owner_wiki": "Lichtenštejnové", "person": "Alois I. z Lichtenštejna, dokončil bratr Jan Josef I. z Lichtenštejna", "from": 1801, "to": 1945, "from_approx": false, "to_approx": false, "how": "zalozeni"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "dnes ve vlastnictví ČR, ve správě Národního památkového ústavu"}
+ ],
+ "events": [
+  {"year": 1801, "text": "zahájena stavba umělé hradní zříceniny podle projektu Josefa Hardtmutha"},
+  {"year": 1808, "text": "stavba dokončena Janem Josefem I. z Lichtenštejna ve zmenšené podobě"},
+  {"year": 1945, "text": "konec vlastnictví Lichtenštejnů, hrad připadl státu"},
+  {"year": 2006, "text": "Janův hrad se stává zastavením Kristkovy podyjské glyptotéky"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Janův_hrad"]
+}

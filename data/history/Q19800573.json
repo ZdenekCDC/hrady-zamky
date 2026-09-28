@@ -1,0 +1,27 @@
+{
+ "id": "Q19800573",
+ "name": "Dršťka",
+ "founded": {
+  "year": null,
+  "approx": true,
+  "text": "Přesná doba založení není známa; první možný majitel Dobrohost z Ronšperka je zmiňován bez data, jisté zprávy o hradu jsou až z roku 1390."
+ },
+ "summary": "Zřícenina hradu Dršťka (též Ronšperk, Losumberk) v Brdech u Skořic je doložena jen nepřímo - prvním možným majitelem byl Dobrohost z Ronšperka, po němž hrad drželi jeho synové či vnuci z rodu pánů z Dršťky, zmiňovaní roku 1390. Po vymření větve, která hrad držela, jej roku 1454 zemský soud prohlásil za odúmrť a král jej daroval Oldřichu z Rakové a z Radyně; ten jej snad přenechal Václavu Lukavovi z Račína. V 70. letech 15. století bylo panství hradu připojeno k Rožmitálu a hrad již tehdy nikdo neobýval, v polovině 16. století je uváděn jako pustý.",
+ "owners": [
+  {"owner": "z-ronsperka", "owner_wiki": null, "person": "Dobrohost z Ronšperka", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "první možný majitel hradu; predikát 'z Ronšperka' mohl náležet i tvrzišti u Mirošova, nejistota v přiřazení"},
+  {"owner": "z-drstky", "owner_wiki": null, "person": "Nachval, Sezema, Břeněk a Zdeněk (synové nebo vnuci Dobrohosta)", "from": 1390, "to": 1447, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "roku 1390 vykonávali patronátní právo u skořického kostela; hrad zřejmě zůstal Břeňkovi, roku 1421 snad odolal husitskému útoku, 1427 byl opěrným bodem křižáků na Plzeňsku; Břeněk zemřel bez dědiců po roce 1447"},
+  {"owner": "pani-z-rican", "owner_wiki": "Páni z Říčan", "person": "Zachař z Říčan na Štěkni", "from": 1447, "to": 1454, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "hrad mu připadl po bezdětné smrti Břeňka"},
+  {"owner": "koruna", "owner_wiki": null, "person": null, "from": 1454, "to": 1454, "from_approx": false, "to_approx": false, "how": "jine", "note": "zemský soud prohlásil hrad za odúmrť; Břeňkovi příbuzní rozhodnutí soudně napadli, spor vyřešen mimosoudně do roku 1460, příbuzní se roku 1459 přesídlili do Poběžovic, kde postavili Nový Ronšperk"},
+  {"owner": "z-rakove", "owner_wiki": null, "person": "Oldřich z Rakové a z Radyně", "from": 1454, "to": null, "from_approx": false, "to_approx": true, "how": "lenni", "note": "hrad mu král věnoval po odúmrti"},
+  {"owner": "racinove-z-racina", "owner_wiki": "Račínové z Račína", "person": "Václav Lukava z Račína", "from": null, "to": 1475, "from_approx": true, "to_approx": true, "how": "jine", "note": "zdroj uvádí opatrně 'Oldřich z Rakové snad Dršťku přenechal'; v 70. letech 15. století bylo panství hradu připojeno k Rožmitálu, hrad byl už tehdy opuštěný a v polovině 16. století je uváděn jako pustý"}
+ ],
+ "events": [
+  {"year": 1390, "text": "čtyři majitelé z rodu pánů z Dršťky vykonávají patronátní právo u skořického kostela"},
+  {"year": 1421, "text": "hrad snad napaden husitským vojskem, které zničilo nedaleké proboštství Teslíny, ale ubránil se"},
+  {"year": 1427, "text": "hrad je opěrným bodem křižáků na Plzeňsku"},
+  {"year": 1454, "text": "zemský soud prohlašuje hrad za odúmrť, král jej daruje Oldřichu z Rakové a z Radyně"},
+  {"year": 1475, "text": "panství hradu připojeno k Rožmitálu, hrad je již opuštěný"},
+  {"year": 1550, "text": "hrad uváděn jako pustý (v polovině 16. století)"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Drštka"]
+}

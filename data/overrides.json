@@ -1,5 +1,5 @@
 {
- "_doc": "Manual corrections. nipos_match: NIPOS row name -> Wikidata QIDs it covers. extra_qids: castles to fetch from Wikidata although not typed as castle/chateau/ruin. places: QID -> fields overriding the built place (e.g. access, kind, name).",
+ "_doc": "Manual corrections. nipos_match: NIPOS row name -> Wikidata QIDs it covers. npu_qid: NPÚ list link title -> correct Wikidata QID (the cs.wiki list links the wrong article). extra_qids: castles to fetch from Wikidata although not typed as castle/chateau/ruin. places: QID -> fields overriding the built place (e.g. access, kind, name).",
  "nipos_match": {
   "Státní hrady Žebrák a Točník": [
    "Q695042",
@@ -30,6 +30,9 @@
   "Zámek Český Rudolec - Malá Hluboká": [
    "Q10938001"
   ]
+ },
+ "npu_qid": {
+  "Uherčice (okres Břeclav)": "Q1440293"
  },
  "extra_qids": [
   "Q11730719",

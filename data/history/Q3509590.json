@@ -1,0 +1,29 @@
+{
+ "id": "Q3509590",
+ "name": "Rychlebský hrad",
+ "founded": {
+  "year": null,
+  "approx": false,
+  "text": "Archeologické nálezy datují počátky hradu spolehlivě do závěru 13., případně počátku 14. století; jméno hradu i jeho zakladatelé nejsou známi"
+ },
+ "summary": "Rychlebský hrad (Rychleby, německy Reichenstein) je moderní název zříceniny hradu ve Slezsku, jehož skutečné jméno, zakladatelé i majitelé nejsou známi. Podle archeologických nálezů vznikl na konci 13. nebo počátku 14. století a zanikl náhle při násilném přepadu spojeném s požárem, buď ještě ve 14. století, nebo za husitských válek - nejpravděpodobněji na jaře 1428, kdy husité při tažení proti vratislavskému biskupovi obsadili nedaleký Javorník. Poté zůstal v rozvalinách, na počátku 20. století proběhly první konzervační práce a od roku 1964 je chráněn jako kulturní památka.",
+ "owners": [
+  {
+   "owner": "neznamo",
+   "owner_wiki": null,
+   "person": null,
+   "from": null,
+   "to": 1428,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "cs.wiki výslovně uvádí, že jde o hrad 'neznámého jména a neznámých zakladatelů a majitelů'; půdorysné řešení jádra je architektonicky podobné hradům budovaným loupeživým rodem Wüstehube (Frýdberk, Kolštejn), ale článek to neuvádí jako doklad jejich vlastnictví tohoto hradu; zánik hradu se klade nejpravděpodobněji do jara 1428 (husitské obsazení Javorníku), případně již do 14. století"
+  }
+ ],
+ "events": [
+  {"year": 1428, "text": "nejpravděpodobnější datum násilného zániku hradu požárem, spojované s husitskou výpravou proti vratislavskému biskupovi a obsazením Javorníku"},
+  {"year": 1910, "text": "první konzervačně-rekonstrukční práce na zřícenině, postavena vyhlídka"},
+  {"year": 1964, "text": "zřícenina chráněna jako kulturní památka"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Rychlebský_hrad"]
+}

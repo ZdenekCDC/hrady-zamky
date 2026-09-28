@@ -1,0 +1,36 @@
+{
+ "id": "Q36334493",
+ "name": "Šilheřovice",
+ "founded": {"year": 1560, "approx": true, "text": "Na místě zámku stála renesanční tvrz, vybudovaná údajně v druhé polovině 16. století rodem Vrbenských (Bruntálských z Vrbna), kteří Šilheřovice drželi v letech 1560-1609."},
+ "summary": "Renesanční tvrz v Šilheřovicích vybudovali v druhé polovině 16. století Bruntálští z Vrbna a poté se zde vystřídali Stošové z Kounic, Geraltovští z Geraltovic a Šlikové, než ji roku 1666 získali jezuité opavské koleje. Po zrušení jezuitského řádu 1773 připadlo panství královské komoře, která je roku 1787 prodala Karlu Larischovi ze Lhoty; ten je hned prodal Johannu Friedrichovi z Eichendorffu, jenž zde postavil klasicistní zámek. Roku 1844 zámek koupil Salomon Meyer Rothschild; rodině byl v květnu 1939 zkonfiskován nacisty a po roce 1945 nebyl navrácen, zámek sloužil různým institucím (domov mládeže, učiliště), až jej roku 2008 koupila společnost RACIMOLO RONI a.s., která jej rekonstruuje a částečně zpřístupňuje veřejnosti.",
+ "owners": [
+  {"owner": "bruntalsti-z-vrbna", "owner_wiki": "Bruntálští z Vrbna", "person": "Jan z Vrbna", "from": 1560, "to": 1609, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "rod Vrbenských vybudoval renesanční tvrz; roku 1609 Jan z Vrbna panství prodal, na listině se poprvé objevuje zmínka o tvrzi"},
+  {"owner": "stosove-z-kounic", "owner_wiki": "Stošové z Kounic", "person": "Bohunka Stošová z Kounic", "from": 1609, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "panství později podstoupila svému manželovi Janu Geraltovskému z Geraltovic, rok podstoupení neuveden"},
+  {"owner": "geraltovsti-z-geraltovic", "owner_wiki": "Geraltovští z Geraltovic", "person": "Jan Geraltovský z Geraltovic", "from": null, "to": 1617, "from_approx": false, "to_approx": false, "how": "jine", "note": "statek mu podstoupila manželka Bohunka Stošová z Kounic; roku 1617 zdědil syn Václav"},
+  {"owner": "geraltovsti-z-geraltovic", "owner_wiki": "Geraltovští z Geraltovic", "person": "Václav Geraltovský z Geraltovic", "from": 1617, "to": 1619, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "o dva roky později prodal statek za 5000 tolarů svému bratrovi Jáchymovi"},
+  {"owner": "geraltovsti-z-geraltovic", "owner_wiki": "Geraltovští z Geraltovic", "person": "Jáchym Geraltovský z Geraltovic", "from": 1619, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "po jeho smrti připadl majetek manželce, která se znovu provdala za Jana Jindřicha Šlika"},
+  {"owner": "slikove", "owner_wiki": "Šlikové", "person": "Jan Jindřich Šlik", "from": null, "to": 1639, "from_approx": false, "to_approx": false, "how": "snatek", "note": "statek získal sňatkem s vdovou po Jáchymu Geraltovském z Geraltovic"},
+  {"owner": "slikove", "owner_wiki": "Šlikové", "person": "Vilém Jindřich Šlik", "from": 1639, "to": 1660, "from_approx": false, "to_approx": false, "how": "dedictvi"},
+  {"owner": "slikove", "owner_wiki": "Šlikové", "person": "Marie Žofie Šliková", "from": 1660, "to": 1662, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "dcera Viléma Jindřicha Šlika, zemřela roku 1662"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "hrabě František Borro", "from": 1662, "to": 1666, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "zdroj neuvádí vztah k rodu Šliků ani způsob nabytí; po jeho smrti 1666 statek zdědila neteř Barbora Perpetua"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Barbora Perpetua", "from": 1666, "to": null, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "neteř Františka Borra; prodala celý šilheřovický statek opavské jezuitské koleji"},
+  {"owner": "cirkev", "owner_wiki": null, "person": "opavská jezuitská kolej", "from": null, "to": 1773, "from_approx": false, "to_approx": false, "how": "koupe", "note": "jezuité nechali tvrz pravděpodobně zpustnout; roku 1773 byl jezuitský řád zrušen"},
+  {"owner": "koruna", "owner_wiki": null, "person": null, "from": 1773, "to": 1787, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "po zrušení jezuitského řádu připadlo panství královské komoře, která je 1787 prodala"},
+  {"owner": "larischove", "owner_wiki": "Larischové", "person": "Karel Larisch ze Lhoty", "from": 1787, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "záhy statek prodal Johannu Friedrichovi z Eichendorffu za 79200 zlatých"},
+  {"owner": "eichendorffove", "owner_wiki": "Eichendorffové", "person": "Johann Friedrich z Eichendorffu", "from": null, "to": 1844, "from_approx": false, "to_approx": false, "how": "koupe", "note": "nechal postavit klasicistní zámek, navštěvoval jej i básník Joseph von Eichendorff; roku 1844 zámek koupil Salomon Meyer Rothschild"},
+  {"owner": "rothschildove", "owner_wiki": "Rothschildové", "person": "Salomon Meyer Rothschild", "from": 1844, "to": 1939, "from_approx": false, "to_approx": false, "how": "koupe", "note": "za Rothschildů rozšířen park a skleníky, v 2. pol. 19. stol. pseudobarokní přestavba; posledním majitelem před znárodněním byl Alfons Rothschild, jemuž byl majetek zkonfiskován už v květnu 1939"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1939, "to": 2008, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "nacisty zkonfiskovaný zámek sloužil jako polní nemocnice (padlí vojáci pochováváni v parku); po roce 1945 nebyl rodu navrácen; 1951 domov mládeže pro řecké děti, od 1962 hornické učiliště, od 1966 využíván n.p. Restaurace a jídelny, učiliště fungovalo do roku 2002"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "RACIMOLO RONI a.s.", "from": 2008, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "zahájila rozsáhlou rekonstrukci, zámek částečně zpřístupněn veřejnosti pro komerční akce, svatby a plesy"}
+ ],
+ "events": [
+  {"year": 1377, "text": "první písemná zmínka o Šilheřovicích"},
+  {"year": 1609, "text": "první zmínka o tvrzi, Jan z Vrbna prodal panství Bohunce Stošové z Kounic"},
+  {"year": 1666, "text": "statek prodán opavské jezuitské koleji"},
+  {"year": 1787, "text": "po zrušení jezuitského řádu prodáno panství Karlu Larischovi ze Lhoty"},
+  {"year": 1844, "text": "zámek koupil Salomon Meyer Rothschild"},
+  {"year": 1939, "text": "majetek Alfonse Rothschilda zkonfiskován nacisty, zámek přeměněn na polní nemocnici"},
+  {"year": 1951, "text": "zámek přebudován na domov mládeže pro řecké děti"},
+  {"year": 2008, "text": "zámek koupila RACIMOLO RONI a.s. a zahájila rekonstrukci"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Šilheřovice_(zámek)"]
+}

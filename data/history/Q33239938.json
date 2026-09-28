@@ -1,0 +1,65 @@
+{
+ "id": "Q33239938",
+ "name": "Město Albrechtice (nový zámek)",
+ "founded": {
+  "year": 1837,
+  "approx": false,
+  "text": "1837 postavili majitelé albrechtického panství Vincent Keil a Vincent Tlach namísto nákladné rekonstrukce starého zámku nový empírový zámek se zámeckým parkem."
+ },
+ "summary": "Nový empírový zámek v Městě Albrechticích nechali roku 1837 postavit opavští obchodníci se železem Vincent Keil a Vincent Tlach, kteří albrechtické panství koupili roku 1825 od Karla Traugotta Skrbenského z Hříště. Po smrti obou zakladatelů spravovaly majetek do roku 1847 obě rodiny společně, později jej vlastnily rodiny Brunnerů a Bayerů, spoluvlastníci albrechtického velkostatku. Roku 1945 byl zámek rodině Brunnerů zkonfiskován a připadl místnímu národnímu výboru, v 60. letech byly vnitřní prostory upraveny na byty a roku 1998 byly byty rozprodány jednotlivým vlastníkům.",
+ "owners": [
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Vincent Keil a Vincent Tlach (firma Tlach & Keil)",
+   "from": 1837,
+   "to": 1847,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "albrechtické panství koupili už 1825 od Karla Traugotta Skrbenského z Hříště; po smrti obou zakladatelů (Keil zemřel 1837, Tlach později) spravovaly majetek obě rodiny společně do rozdělení roku 1847"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "rodiny Brunnerova a Bayerova",
+   "from": 1847,
+   "to": 1945,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "cs.wiki nespecifikuje přesný přechod majetku mezi rozdělením v roce 1847 a doloženým spoluvlastnictvím rodin Brunnerů a Bayerů, kteří velkostatek Město Albrechtice vlastnili na počátku 20. století"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": 1998,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "konfiskace",
+   "note": "zámek zkonfiskován rodině Brunnerů, přešel do vlastnictví MěNV Město Albrechtice; v 60. letech 20. století upraven na byty"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "jednotliví vlastníci bytů",
+   "from": 1998,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "byty v zámku byly rozprodány jednotlivým vlastníkům"
+  }
+ ],
+ "events": [
+  {"year": 1825, "text": "Vincent Keil a Vincent Tlach koupili albrechtické panství od Karla Traugotta Skrbenského z Hříště"},
+  {"year": 1837, "text": "postaven nový empírový zámek se zámeckým parkem, oranžérií a rodinnou hrobkou"},
+  {"year": 1847, "text": "majetek rozdělen mezi rodiny Keilovu a Tlachovu, k hlavní budově přistavěna dvě křídla"},
+  {"year": 1855, "text": "na okraji parku postavena vila Hirsch"},
+  {"year": 1945, "text": "zámek zkonfiskován rodině Brunnerů a přešel na MěNV Město Albrechtice"},
+  {"year": 1998, "text": "byty v zámku rozprodány jednotlivým vlastníkům"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Město_Albrechtice_(nový_zámek)"]
+}

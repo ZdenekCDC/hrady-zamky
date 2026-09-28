@@ -1,17 +1,16 @@
 # TODO
 
-Stav k 2026-09-27: fáze 1 hotová, fáze 2 rozjetá (mapa 2236 objektů, historie vlastníků 209 objektů, 559 rodů). Web je připravený na veřejné nasazení (prázdná mapa pro každého, vlastní úložiště návštěv, lokální náhledy fotek).
+Stav k 2026-09-28: web běží na GitHub Pages (<https://zdenekcdc.github.io/hrady-zamky/>), mapa 2235 objektů, historie vlastníků 289 objektů (všechny zpřístupněné s článkem na cs.wiki), 694 rodů.
 
 ## Priorita 1 - ověřit a doplnit základ
 
 - [ ] Otevřít web v normálním prohlížeči a zkontrolovat podklady OpenStreetMap / OpenTopoMap a fotku v detailu (Wikimedia Commons) - v sandboxu se nenačítaly, ověřené je jen rozvržení. Náhledy při najetí myší jsou nově lokální (`data/thumbs/`).
 - [ ] Ručně vyzkoušet připojený soubor návštěv v Chrome / Edge (Vytvořit soubor…, uložit návštěvu, restart prohlížeče, Povolit zápis) - E2E test to ověřuje jen s náhradou souborového dialogu.
 - [ ] Doplnit datum, hodnocení a poznámku k 5 navštíveným - v detailu místa (sekce Návštěva), web spusť přes `python3 scripts/serve.py` (zapisuje do `data/visited.json`, který je v `.gitignore`).
-- [x] Dark mode: značky měly tmavé barvy na světlé mapě - opraveno (značky mají pevnou světlou paletu), ověřeno screenshotem.
 
 ## Priorita 2 - data
 
-- [ ] **Fáze 2 historie**: zbývá 86 zpřístupněných objektů bez `data/history/<QID>.json` (hotovo 160 nejnavštěvovanějších v dávkách 1-16, 2026-09-27). Jedna dávka = 10 objektů, 2 agenti Sonnet po 5, cca 200k tokenů, ~12 min. Postup, pravidla a šablona zadání v [docs/history-batches.md](docs/history-batches.md); seznam další dávky vypíše `scripts/next_history_batch.py`. Počet dávek odsouhlasit předem. 5 objektů nemá článek na cs.wiki (Neustupov, Orlice, Chuchelná, Dolní Životice, Dubová) - jiný zdroj.
+- [ ] **Fáze 2 historie**: z cs.wiki hotovo všech 240 zpřístupněných objektů s článkem (dávky 1-25, 2026-09-27 a 28). Zbývá 5 objektů bez článku na cs.wiki (Neustupov, Orlice, Chuchelná, Dolní Životice, Dubová) - potřebují jiný zdroj (web objektu, NPÚ, obec). Postup, pravidla a šablona zadání v [docs/history-batches.md](docs/history-batches.md); seznam vypíše `scripts/next_history_batch.py`.
 - [ ] Ověřit nejistá místa v historiích (hlášená agenty):
   - Karlštejn - roky zástavních držitelů cca 1648-1690 odhadnuté; Tereziánský ústav šlechtičen zařazen jako `cirkev` (diskutabilní).
   - Slatiňany - rané vlastníky (Otháj, Talmberkové, Šárovcové…) jen v pořadí, roky odhadnuté.
@@ -58,6 +57,36 @@ Stav k 2026-09-27: fáze 1 hotová, fáze 2 rozjetá (mapa 2236 objektů, histor
   - Moravská Třebová - přechod Kunštátové -> Jiří z Poděbrad a stát -> město bez roku; Rotštejn a Valečov - po 15. stol. vlastníci nedoloženi (`neznamo`), Valečov: přechod Valdštejnové -> obec Boseň 1994 bez předchozího vlastníka.
   - Březnice - koruna / Lokšanové 1547-1558 odhadnuté; Kozí hrádek - roky prvních tří držitelů před 1406 odhadnuté (`z-ujezda` = Vilém z Újezda, jiný rod než `jeniskove-z-ujezda`).
   - Benešov n. Pl. - přechod Aldringenové -> Clary-Aldringenové ~1750, Horní a Dolní zámek sloučeny do jedné osy; Bučovice - konec Boskoviců 1597 a přechod na stát 1945 agent doplnil „z obecné historie“, ne z článku - ověřit; Tovačov - přechody Salmové / Petřvaldští odhadnuté.
+  - Ctěnice - Hazmburkové / Valdštejnové bez let, zestátnění 1945 odhadnuté; Dolní Benešov - přechody mezi rody jen po stoletích (roky null), konec Rothschildů za války bez roku; Domažlice (hrad) - mezera od založení do 1592, Laminger veden jako `soukromnik`.
+  - Děvičky a Gutštejn - přechod na stát bez roku; Cvilín - opavští Přemyslovci -> Korvín a konec Lichtenštejnů po 1622 bez let; Dolní Kounice - rok zrušení kláštera (16. stol.) neznámý.
+  - Dršťka - zdroj sám jen „snad / možná“, roky přibližné; Frýdek - mezera 1798-1822 u Habsburků, zástavní držitelé 15.-16. stol. `neznamo`; Helfenburk u Úštěka - 1538-1620 `neznamo`, Rožmberkové...Ilburkové jen v pořadí.
+  - Helfštýn - založení 1306/1312 vs. konec 14. stol., zástava Přemyslu Opavskému a přechod stát -> Olomoucký kraj bez roku; Jiřík z Landštejna (1467) veden jako `z-landstejna` (Svitákové?) - nepatří k `landstejnove`?; Vok ze Sovince `z-sovince` (Pňovští ze Sovince, bez článku).
+  - Jevišovice - založení jen „1. třetina 15. stol.“, mezera 1879-1898; Kněžice - zdroj zná jen 2 z 11 rodů; Kostelec n. Č. l. - výměna Ješkovi z Náchoda 1316 vs. ~1325.
+  - Hlavnice - konec Gusnarů a osud po konfiskaci 1945 (obec / družstvo) bez let; Jenčov - jen koruna, zakladatel Přemysl Otakar II. v rozporu s datací; Kadaň - právní vztah Lobkoviců k hradu nejasný.
+  - Konice - 1655-1699 `neznamo`, přechod na město bez roku; Kovanice (25 vlastníků) - Morzin zemřel 1697, ale prodej ~1700; Colloredo / Gallas 1668 pořadí nejasné.
+  - Krnov - rok koupě Hohenzollerny a vlastník po 1945 zdrojem neuvedeny; Kyjovice - konec Kalkreuthů a roky Falkenhaynů chybí; Kyšperk - dobytí Vřesovici ~1433, prodej Glacovi ~1522.
+  - Lnáře - nabytí Vratislavy 1629 (Sedláček) vs. 1660 (Tříska); Mladá Boleslav - přechody Michalovici -> Cimburkové a Krajíři -> město bez let.
+  - Kunín - roky Harrachů / Lichtenštejnů / Waldburg-Zeilů chybí, osud Bauerů 1939-1945 neznámý; Kynžvart (hrad) - Gutštejnové / Vladislav / Pluhové bez let, vlastník zříceniny po 1945 neuveden (otevření Metternichové); Litultovice - mezery 1614-1621 a 1694-1714.
+  - Mikulov - úmrtí Kerecsenyiho a císařská správa 1566-1575 bez let; Mělník - přechod zástava -> koupě u Černínů bez roku.
+  - Město Albrechtice (nový zámek) - přechod 1847 -> Brunnerové / Bayerové nepopsán; Nová Horka - mezidobí 1722-1742 u Vetterů, kraj od 2003 jako `mesto`; Nový Světlov - znárodnění ~1948 a restituce ~1991 přibližně; Kereczenyiové zde `kereczenyiove`, v Mikulově Kerecsenyi jako `soukromnik` - sjednotit.
+  - Oltářík - stavba 1434-1438 (zvolen 1436), zánik hradu bez roku; Pardubice - vlastníci před Pernštejny (1491) chybí, převod stát -> Pardubický kraj bez roku.
+  - Nelahozeves - roky Ofky z Bubna / dcery Veroniky chybí; Nové Hrady - Ojíř ze Svin veden jako `vitkovci`, přechod na Landštejny a Buquoye bez způsobu; Okoř - kupec 1391 neznámý.
+  - Pajrek - rok obléhání a popravy Jindřicha Kostomlatského chybí; Pecka - zdroj zná jen pořadí vlastníků do 1612, všechny roky dopočítané.
+  - Petrohrad - konfiskace 1619-1622 přibližně; Písek (hrad) - zástavy 15.-17. stol. přibližně, `mesto` od 1637 jen odvozené; Radim - 7 rodů (Valdštejnové...Kinští) bez let a jistého pořadí, vlastníci po 2005 nejmenovaní.
+  - Rosice - většina let jen po stoletích (null), převod stát -> město bez roku; Rychnov n. K. - mezera 1556-1577, Libštejnští (`libstejnsti-z-kolovrat`) vs. `kolowrat-krakowsti` - sjednotit s větvemi Kolovratů.
+  - Průhonice - 1685-1802 `neznamo`; Přimda - sporný zakladatel, přechod Kolovratové -> veřejná správa nepopsán; Račice - 1620-1830 `neznamo`, epizoda Viléma z Náměště jen v poznámce.
+  - Rychlebský hrad - vlastníci neznámí (jediný záznam `neznamo`); Skály - mezera 1484-1488, zakladatel Rubín ze Žampachu jen alternativa; `spetlove-z-janovic` - nepatří k `janovici`?
+  - Sovinec - konfiskace Řádu německých rytířů za okupace bez roku, `stat` za okupace; Strakonice - vliv pozemkové reformy 1918 na vlastnictví johanitů nejasný; Střela - vlastníci 1889-1948 neuvedeni, konfiskace Boubínským bez roku.
+  - Templštejn - koruna po 1312 a po 1620 bez dalších let, od kdy Lesy ČR neznámo; Troja - prodej Židlických Svobodovi a převod stát -> Praha bez roku.
+  - Stará Ves n. O. - založení 1665-1670 (úvod) vs. 1560-1578 (text), dvě verze ztráty léna ~1620; Střekov - Lobkovicové 1945-1992 bez mechanismu; Svojšín - konec Příchovských 1781 vs. 1795, ztráta Podevillem 1945 nejasná.
+  - Trnávka - `z-harasova` (Hrzánové nebo Homutové?), mezera 1720-1947; Týřov - zástavy Šternberků / Ensidlů bez let, po 1578 (Lobkovicové -> Křivoklát) vlastníci chybí.
+  - Velké Heraltice - převod na Moravskoslezský kraj bez roku; Vikštejn - řada let jen po stoletích; Vrchotovy Janovice - nabytí Nádhernými „po 1879“; Výrov - jediný vlastník (Černčičtí z Kácova), zmínka 1483 se hradu podle zdroje možná netýká.
+  - Veliš - zdroj zná jen neúplný nechronologický výčet majitelů (vše null), po zboření 1658 nic; Velké Hoštice - stavba zámku a nástup Gašínů přibližně; Vlčtejn - souběh Bubnů a Roupovských 1514-1525 (zdroj sám „ujasnit“).
+  - Vízmburk - nabytí státem bez roku; Znojmo (hradozámek) - po vymření Deblínů vlastník a roky neuvedeny.
+  - Úsov - zástava Šternberků ~1330-1350 („cca 20 let“); Červený hrádek (37 vlastníků) - sporná držba 1428-1449 jen v poznámce u Ilburků; Špilberk - přechod Habsburkové -> čs. stát bez roku; Ždánice - dnešní vlastník od 1992 bez jména.
+  - Černá Hora - konce držeb (Arpád z Florencie, páni z Lipé, Lichtenštejnové, Auerspergové) dopočítané; Český Rudolec - Tokelliová a Picchioni bez let; Šilheřovice - postoupení Bohunky Stošové a vztah hraběte Borra nejasné.
+  - Švamberk - generační přechody Švamberků přibližně, po Heisenštejnovi vlastníci neuvedeni; Valašské Meziříčí (Žerotínů) - převod stát -> město bez roku.
+  - Žinkovy - roky Steinau / Vrtbové / Lobkovicové / Harrachové / Wessely chybí, zestátnění po 1945 bez roku.
   - Hořovice - generace Bruntálských z Vrbna 1705-1848 odhadnuté; Zvířetice - 1610-1623 Vratislav z Mitrovic / Vlk z Kvítkova odhadnuto, po Valdštejnech (18.-20. stol.) nic; Žirovnice - několik mezidat odhadnutých.
   - Brumov - konec Meziříčských (1620) a prodej Illésházyů (1848) odhadnuté, vlastník zříceniny po Dreherovi neuveden; Krašov - vlastník po zrušení náboženského fondu nejasný; Svitákové z Landštejna vedeni jako `z-landstejna` (jiný rod než `landstejnove`?).
   - Kunštát - přechod Lambergové -> Coudenhove-Honrichs ~1903; Červená Řečice - počátek biskupské držby (~1100), znárodnění a dnešní soukromý majitel bez let; Uherský Ostroh - kníže Fridrich 1439-1446 jako `neznamo`; Doudleby - restituce ~1990, přechod na Barboru Tomáškovou bez roku.
@@ -68,7 +97,6 @@ Stav k 2026-09-27: fáze 1 hotová, fáze 2 rozjetá (mapa 2236 objektů, histor
   - Stránov - mezidobí 1468-1545 a konce Biberštejnů / Slavatů bez let; Linhartovy - mezera 1566-1578; Choltice - přestávka Thunů 1719-1731; Poláky - Strojetičtí / Warmsbach / Questenberkové 1662-1738 nerozlišeni; Slezské Rudoltice - léta Steuer / Brücker a přechod 1945 chybí.
   - Jindřich z Lipé veden jednou jako `pani-z-lipe`, jednou jako `ronovci` (větev) - sjednotit s větvemi rodů.
   - Chyše - mezera 1365-1397 (žlutické panství) vynechána, přechody Griselda ze Švamberka / Berka z Dubé bez let; Bor - Švamberkové 1533-1650 bez jmenovaného držitele; Holešov - prodej Lobkovicové -> Rottalové 1650 vs. 1651 (rozpor v článku).
-  - Hofmannové z Grünbühelu sjednoceni na `hofmannove` (dříve `z-grunbuchlu`, Grabštejn, Starý Jičín, Janovice).
   - Rýzmberk - držba 1622-1676 (Habsburkové, Kracové, Colonnové z Felsu, Černínové) bez přesných let, KČT Kdyně 1908-90. léta odvozeno; Zelená Hora - prodej Auerspergem Plavcovým 1852-1931, přechod na stát po Karlu Blažkovi.
   - Tachov (23 vlastníků) - krátké zástavy sloučené; Šelmberk - větev pánů z Dubé u Petra Mrackého neurčena, 1620-1820 chybí; Červené Poříčí - vlastníci 1400-1550 nejmenovaní.
   - Jenštejn (21 vlastníků) - drobní držitelé 15.-16. stol. jen přibližně, vlastník 1568-1608 neuveden, nabytí obcí bez roku; Aleš Škopek z Dubé veden jako `z-dube` (větev pánů z Dubé?).
@@ -78,15 +106,13 @@ Stav k 2026-09-27: fáze 1 hotová, fáze 2 rozjetá (mapa 2236 objektů, histor
   - Brtnice - současné vlastnictví sporné (SBD Svébyt v likvidaci vs. Nadace Svébyt); Jílové - konfiskace 1945 a předání městu bez let.
   - Paskov (26 vlastníků) - lenní držitelé biskupství 1267-1530 bez let; Vartenberk - Lichtenštejnové / Hartigové / Valdštejn 1563-1645 bez let; Poběžovice - léta Matyáše z Vunšic a Königsfeldů chybí; Skalka - přechod Schönbornů na stát po 1945 bez roku.
   - Rokytnice v O. h. - zdroj nezmiňuje konec Nosticů ani majitele ve 20.-21. stol. (poslední záznam otevřený) - doplnit z jiného zdroje; `z-rysmburka` je jiný rod než páni z Rýzmburka.
-  - Colonnové z Felsu sjednoceni na `colonnove-z-felsu` (dříve `z-felsu` u Rýzmberku).
   - Bartošovice - převzetí Hugem Meinertem a Czeczowiczkovými bez roku, dcera Josefína (Taaffe vs. Canal) nejednoznačná; Blansko (zámek) - biskupská držba 12.-16. stol. jen rámcově; Bruntál - stavebník hradu a nabytí pány z Vrbna neuvedeny; Chotěboř - roky Kinských, Brachfelda a Vančurů chybí.
   - Blansko (hrad) - mezera 1407-1416, přechod Thunové -> stát -> obec Ryjice bez let; Bolatice - nabytí Lichnovskými neznámé; Budyně n. O. - léta Bernarda z Kamence a Griffiny Haličské neznámá (agent je doplnil odhadem, vráceno na null); Chebský hrad - připojení Chebska ~1322; Cimburk (Trnávka) - Lichtenštejnové -> obec bez roku.
   - Vítkův hrádek - Sezema z Chotěnic jako poslední majitel je jen odhad A. Sedláčka (`z-chotenic` je jiný rod než `z-chotemic`).
-- [ ] Rody bez článku na cs.wiki (144 z 346, z toho 117 id typu `z-...`): dohledat, zda nepatří k existujícímu rodu (např. Licek z Rýzmburka, Mazanec z Frymburka, Jetřich z Janovic u Náchoda).
+- [ ] Rody bez článku na cs.wiki (401 z 694, z toho 311 id typu `z-...`): dohledat, zda nepatří k existujícímu rodu (např. Licek z Rýzmburka, Mazanec z Frymburka, Jetřich z Janovic u Náchoda).
 - [ ] Zkontrolovat duplicity / větve rodů (Valdštejnové vs. Valdštejnové-Vartenberkové, Lobkovicové a jejich větve) - rozhodnout, zda větve slučovat.
 - [ ] Doplnit `related` (příbuzné rody, sňatky, větve) v `data/families/*.json` - zatím prázdné; vazby „od koho / komu“ se počítají z převodů automaticky.
-- [ ] Erby chybí u 208 z 346 rodů, popis u 144 (hlavně rody bez článku) - doplnit z Commons / Wikipedie.
-- [x] Zámky ve správě muzeí (Pardubice, Mikulov, Špilberk, Znojmo, Hukvaldy…) - doplněno ze statistiky muzeí NIPOS (+15 objektů).
+- [ ] Erby chybí u 506 z 694 rodů, popis u 401 (hlavně rody bez článku) - doplnit z Commons / Wikipedie.
 - [ ] Zbylé chybějící zpřístupněné objekty (muzea, která mají jiný web než Wikidata, soukromé zámky mimo statistiku) - přidávat do `data/overrides.json` (`places.<QID>.access = "vstupne"`); nahlas mi, co ti chybí.
 - [ ] Nenapárovaná položka NIPOS: zřícenina Putna (není na Wikidatech jako hrad).
 - [ ] Projít klasifikaci typu u známých objektů (Wikidata vede např. Kašperk, Rabí jako zříceniny) - opravy do `overrides.json`.
@@ -94,16 +120,10 @@ Stav k 2026-09-27: fáze 1 hotová, fáze 2 rozjetá (mapa 2236 objektů, histor
 
 ## Priorita 3 - web
 
-- [x] Podklad „Krajina + města“ (výchozí: lesy, reliéf, řeky + hranice a města) a „Jen města“, multi-výběr rodů jako chipy + reset, náhled při najetí myší, přidávání návštěv v rozhraní.
-- [x] Filtr návštěv: místo matoucího „jen nenavštívené“ výběr všechny / jen navštívené / jen nenavštívené, pokrytý E2E testem.
-- [x] Návštěvy pro každého návštěvníka zvlášť: prázdný start, prohlížeč / připojený soubor / `serve.py`, export a import (viz níže a docs/DEVELOPMENT.md).
-- [x] Náhledy fotek při najetí myší jako lokální miniatury (`scripts/fetch_thumbs.py` -> `data/thumbs/<QID>.webp`, ~14 kB, autor a licence do `data/build/thumbs.json`, zobrazují se jako popisek fotky). Náhledy z Commons používají jen standardní šířky (jiné Commons od 2026 odmítá).
-
-- [ ] Nasazení na GitHub Pages (vytvořit repo, push - na tvoje schválení). Předtím:
-  - první commit (zkontrolovat, že `data/visited.json`, `.venv/`, `.claude/` a `aa/` nejsou v commitu - jsou v `.gitignore`),
+- [ ] Dokončit nasazení na GitHub Pages (repo i web už běží):
   - zaregistrovat doménu na stadiamaps.com (zdarma), jinak se na webu nezobrazí terén výchozího podkladu,
   - na Mapy.com klíč (pokud se použije) omezit na doménu Pages,
-  - po nasazení projít web na mobilu (Safari = jen prohlížeč + export / import).
+  - projít web na mobilu (Safari = jen prohlížeč + export / import).
 - [ ] Zvýraznit hrad vybraný přes hledání (i kliknutím): teď po přiblížení na mapě splývá s okolními značkami - vybraná značka má jen slabý stín (`.mk.sel` v `app/style.css`). Např. větší značka + výrazný kroužek / pulzování na pár sekund, nahoru nad ostatní (z-index).
 - [ ] Tabulkové zobrazení vlastníků v detailu (přístupnost - barvy ve stroji času rozliší barvoslepý jen omezeně; teď pomáhá jen zvýraznění rodu a tooltip).
 - [ ] Volitelně: statistiky navštíveného (po krajích, typech, rodech).
@@ -119,8 +139,6 @@ CARTO (původní světlý podklad) nově vyžaduje API klíč a bez něj ukazuje
 - ve statickém webu je klíč veřejně vidět - v nastavení klíče omezit na doménu (localhost / GitHub Pages).
 
 ## Návštěvy pro více uživatelů
-
-Hotovo (2026-09-27): veřejný web začíná prázdný, návštěvy jsou v prohlížeči nebo v souboru připojeném přes File System Access API (Chromium), export / import JSON všude; `data/visited.json` jen přes lokální `serve.py`. Popis v docs/DEVELOPMENT.md (Navštívená místa).
 
 - [ ] Volitelně později, pokud to bude používat víc lidí napříč zařízeními i ve Firefoxu / Safari: hostovaný backend (Supabase / Firebase) s přihlášením; stávající režimy nechat jako variantu bez účtu. Ověřit aktuální limity bezplatných tarifů a GDPR (ukládání e-mailů).
 - [ ] Import neumí přenést smazání návštěv (slučuje) - případně přidat volbu „nahradit vše“.

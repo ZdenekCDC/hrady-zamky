@@ -1,0 +1,89 @@
+{
+ "id": "Q14970110",
+ "name": "Mladá Boleslav",
+ "founded": {
+  "year": null,
+  "approx": false,
+  "text": "Po polovině 13. století vznikl na místě staršího raně středověkého přemyslovského hradiště (doloženého nejpozději na přelomu 10. a 11. století) královský hrad."
+ },
+ "summary": "Na ostrožně nad soutokem Klenice a Jizery stálo nejpozději od přelomu 10. a 11. století přemyslovské hradiště, na jehož místě po polovině 13. století vznikl královský hrad. Nejpozději roku 1334 přešel do rukou pánů z Michalovic, po nich jej drželi Tovačovští z Cimburka a od počátku 16. století Krajířové z Krajku, kteří mu dali goticko-renesanční podobu; po výkupu města z poddanství roku 1595 hrad ztrácel rezidenční charakter a do majetku města přešel až po polovině 17. století, kdy byl už zčásti zničen třicetiletou válkou. V polovině 18. století jej převzal stát a v letech 1752-1783 jej přestavěl na kasárna, která sloužila armádě (za války i jako internační středisko pro Židy 1940-1943) až do 20. století; od roku 1972 v něm sídlí muzeum a okresní archiv.",
+ "owners": [
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": null,
+   "from": null,
+   "to": 1334,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "zalozeni",
+   "note": "královský hrad vznikl po polovině 13. století (přesný rok neuveden); v držení panovníka zůstal i v prvních desetiletích 14. století, zatímco okolí hradu drželi již páni z Michalovic; nejpozději roku 1334 patřil hrad již jim"
+  },
+  {
+   "owner": "pani-z-michalovic",
+   "owner_wiki": "Páni z Michalovic",
+   "person": "Jindřich II. Kruhlata (poslední michalovický pán)",
+   "from": 1334,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "hlavním sídlem rodu zůstaly nedaleké Michalovice, mladoboleslavský hrad byl michalovickými pány stavebně upraven na městský hrad; rok smrti Jindřicha II. Kruhlaty zdroj neuvádí"
+  },
+  {
+   "owner": "pani-z-cimburka",
+   "owner_wiki": "Páni z Cimburka",
+   "person": "Tovačovští z Cimburka",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "zdědili rozsáhlý michalovický majetek po smrti Jindřicha II. Kruhlaty; přesná léta držby zdroj neuvádí, od počátku 16. století přešel hrad na Krajíře z Krajku"
+  },
+  {
+   "owner": "krajirove-z-krajku",
+   "owner_wiki": "Krajířové z Krajku",
+   "person": null,
+   "from": null,
+   "to": null,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "drželi hrad od počátku 16. století jako hlavní sídlo, prošel několika přestavbami do goticko-renesanční podoby (za účasti Jana ze Šelmberka, snad Benedikta Rejta, a stavitele Mattea Borgorelliho); po výkupu města z poddanství 1595 hrad ztrácel rezidenční charakter, přesný rok konce jejich držby zdroj neuvádí"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": null,
+   "from": null,
+   "to": 1752,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "město Mladá Boleslav usilovalo o získání hradu už od výkupu z poddanství 1595, kvůli majetkovým sporům a třicetileté válce k tomu došlo až po polovině 17. století; hrad byl tou dobou už částečně zničen (císařská a švédská posádka, rozebírání na stavební materiál)"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1752,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "v letech 1752-1783 přestavěn na kasárna, sloužil rakouské a poté československé armádě do roku 1953, v letech 1940-1943 zde bylo internační středisko pro Židy z Mladé Boleslavi před transporty; poté sklad textilu, od 1972 předán Okresnímu muzeu, dnes Muzeum Mladoboleslavska a Státní okresní archiv"
+  }
+ ],
+ "events": [
+  {"year": 1334, "text": "na ploše hradiště formálně vysazeno poddanské město Mladá Boleslav, hrad již v držení pánů z Michalovic"},
+  {"year": 1595, "text": "město se vykoupilo z poddanství, hrad postupně ztrácí rezidenční charakter"},
+  {"year": 1752, "text": "hradní areál přebírá stát, zahájena přestavba na kasárna (dokončena 1783)"},
+  {"year": 1940, "text": "1940-1943 kasárna slouží jako internační středisko pro Židy před transporty do koncentračních táborů"},
+  {"year": 1953, "text": "konec vojenského využívání československou armádou"},
+  {"year": 1972, "text": "zdevastovaný hrad předán Okresnímu muzeu Mladá Boleslav, zahájena rekonstrukce"}
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Mladá_Boleslav_(hrad)"
+ ]
+}

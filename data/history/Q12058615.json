@@ -1,0 +1,29 @@
+{
+ "id": "Q12058615",
+ "name": "Templštejn",
+ "founded": {"year": 1290, "approx": true, "text": "Hrad založil řád templářů mezi lety 1281-1298 (komenda řádu v nedalekých Jamolicích je doložena už 1279)."},
+ "summary": "Templštejn je jeden z mála moravských hradů založených řádem templářů, po jehož zrušení a konfiskaci majetku roku 1312 hrad koupil Bertold Pirkner. Dále se vystřídali Šelmberkové, páni z Lipé, Osovští z Doubravice (opět Páni z Doubravice) a znovu páni z Lipé, jejichž poslednímu majiteli Pertoldovi z Lipé bylo panství po stavovském povstání zkonfiskováno - hrad byl už tehdy pustý, zpustl patrně po požáru v první polovině 16. století. Novodobým vlastníkem byly státní Lesy České republiky, které zříceninu roku 2011 ve veřejné soutěži prodaly Davidu Hamzovi, jenž ji od té doby postupně zabezpečuje a konzervuje.",
+ "owners": [
+  {"owner": "cirkev", "owner_wiki": null, "person": "Řád templářů", "from": 1290, "to": 1312, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "hrad založen mezi 1281-1298; roku 1312 byl templářský řád zrušen a jeho majetek zkonfiskován"},
+  {"owner": "koruna", "owner_wiki": null, "person": null, "from": 1312, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "majetek zrušeného řádu templářů zkonfiskován; přesný okamžik dalšího prodeje Pirknerovi není ve zdroji uveden"},
+  {"owner": "pirknerove", "owner_wiki": null, "person": "Bertold Pirkner", "from": null, "to": 1349, "from_approx": false, "to_approx": false, "how": "koupe", "note": "roku 1349 jeho synové hrad prodali Přibíkovi ze Šelmberka"},
+  {"owner": "selmberkove", "owner_wiki": "Šelmberkové", "person": "Přibík ze Šelmberka", "from": 1349, "to": 1379, "from_approx": false, "to_approx": false, "how": "koupe"},
+  {"owner": "pani-z-lipe", "owner_wiki": "Páni z Lipé", "person": null, "from": 1379, "to": 1482, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "hrad rozšiřovali a přestavovali"},
+  {"owner": "pani-z-doubravice", "owner_wiki": "Páni z Doubravice", "person": null, "from": 1482, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "ve zdroji uvedeni jako Osovští z Doubravice (článek na cs.wiki přesměrovává na Páni z Doubravice); hrad se stal jejich sídlem"},
+  {"owner": "pani-z-lipe", "owner_wiki": "Páni z Lipé", "person": "Pertold z Lipé", "from": null, "to": 1620, "from_approx": false, "to_approx": false, "how": "jine", "note": "páni z Lipé hrad znovu získali zpět, přesný rok neuveden; zpustl už v 1. pol. 16. stol. v důsledku požáru; poslední majitel Pertold z Lipé se účastnil stavovského povstání 1618-1620, hrad byl už pustý, když mu bylo panství roku 1620 zkonfiskováno"},
+  {"owner": "koruna", "owner_wiki": null, "person": null, "from": 1620, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "panství zkonfiskováno po stavovském povstání; další osudy vlastnictví hrad jako pusté zříceniny až do 20./21. století zdroj neuvádí"},
+  {"owner": "stat", "owner_wiki": null, "person": "Lesy České republiky, s. p.", "from": null, "to": 2011, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "zdroj neuvádí, odkdy byly Lesy ČR vlastníkem, jen že zříceninu jako vlastník v roce 2011 nabídly a prodaly ve veřejné soutěži"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "David Hamza", "from": 2011, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "postupně zříceninu konzervuje a opravuje ve spolupráci s dobrovolníky a památkáři; od 2017 probíhá záchranný archeologický výzkum"}
+ ],
+ "events": [
+  {"year": 1279, "text": "doložena komenda templářů v nedalekých Jamolicích"},
+  {"year": 1290, "text": "založení hradu templáři (mezi 1281-1298)"},
+  {"year": 1312, "text": "zrušení řádu templářů a konfiskace jeho majetku"},
+  {"year": 1349, "text": "synové Bertolda Pirknera prodali hrad Přibíkovi ze Šelmberka"},
+  {"year": 1482, "text": "hrad se stal sídlem Osovských (pánů) z Doubravice"},
+  {"year": 1620, "text": "panství Pertolda z Lipé zkonfiskováno po stavovském povstání, hrad byl už pustý"},
+  {"year": 2011, "text": "Lesy České republiky prodaly zříceninu ve veřejné soutěži Davidu Hamzovi"},
+  {"year": 2014, "text": "dokončen dřevěný srub a informační tabule, vybudováno vyhlídkové schodiště"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Templ%C5%A1tejn"]
+}

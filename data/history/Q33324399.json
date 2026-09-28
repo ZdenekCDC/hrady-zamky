@@ -1,0 +1,40 @@
+{
+ "id": "Q33324399",
+ "name": "Trnávka",
+ "founded": {
+  "year": 1720,
+  "approx": true,
+  "text": "Barokní zámek postavil ve 20. letech 18. století na místě původní středověké tvrze pravděpodobně Josef Viktorín z Harasova"
+ },
+ "summary": "Zámek Trnávka vznikl ve 20. letech 18. století v barokním stylu na místě starší středověké tvrze, jeho stavitelem byl pravděpodobně Josef Viktorín z Harasova. Dnešní pozdně barokní podobu získal kolem roku 1780. Zdroj neuvádí další vlastníky mezi stavbou zámku a rokem 1947, kdy zámek připadl obci Trnávka, která v něm dodnes sídlí obecním úřadem a využívá jej ke společenským akcím.",
+ "owners": [
+  {
+   "owner": "z-harasova",
+   "owner_wiki": null,
+   "person": "Josef Viktorín z Harasova",
+   "from": 1720,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "zdroj uvádí stavitele jen jako 'pravděpodobně Josef Viktorín z Harasova', bez určení konkrétní rodové větve (predikát z Harasova nesou např. Hrzánové i Homutové); další osud vlastnictví do 1947 zdroj neuvádí"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "obec Trnávka",
+   "from": 1947,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "od roku 1947 patří zámek obci Trnávka, sídlí v něm obecní úřad; způsob nabytí zdroj neuvádí"
+  }
+ ],
+ "events": [
+  {"year": 1720, "text": "postaven barokní zámek na místě starší tvrze"},
+  {"year": 1780, "text": "zámek získal současnou pozdně barokní podobu"},
+  {"year": 1947, "text": "zámek připadl obci Trnávka"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Trnávka_(zámek)"]
+}

@@ -1,0 +1,26 @@
+{
+ "id": "Q31698034",
+ "name": "Ždánice",
+ "founded": {"year": 1349, "approx": true, "text": "Středověký ždánický hrad severně od města v poloze Palánek je poprvé doložen k roku 1349; za česko-uherských válek byl roku 1468 poškozen a patrně jen provizorně opraven"},
+ "summary": "Středověký ždánický hrad je poprvé doložen roku 1349; roku 1500 získali panství Zástřizlové, kteří hrad opustili a u městečka si postavili tvrz. Na jejím místě vybudoval ve druhé polovině 60. let 16. století Oldřich z Kounic renesanční zámek, od roku 1622 patřil Lichtenštejnům, kteří jej v 18. století přestavěli barokně. Po druhé světové válce byl zámek státem zkonfiskován, roku 1990 jej získalo město Ždánice a od roku 1992 je v soukromém vlastnictví.",
+ "owners": [
+  {"owner": "neznamo", "owner_wiki": null, "person": null, "from": 1349, "to": 1500, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "hrad prvně doložen 1349, roku 1468 poškozen za česko-uherských válek; majitelé před rokem 1500 nejsou v textu uvedeni"},
+  {"owner": "pani-ze-zastrizl", "owner_wiki": "Páni ze Zástřizl", "person": null, "from": 1500, "to": 1566, "from_approx": false, "to_approx": false, "how": "jine", "note": "hrad opustili a přímo u městečka si postavili tvrz (poprvé doložena 1538)"},
+  {"owner": "kounicove", "owner_wiki": "Kounicové", "person": "Oldřich z Kounic", "from": 1566, "to": 1622, "from_approx": false, "to_approx": false, "how": "koupe", "note": "na místě tvrze vybudoval ve druhé polovině 60. let 16. století renesanční zámek"},
+  {"owner": "lichtenstejnove", "owner_wiki": "Lichtenštejnové", "person": null, "from": 1622, "to": 1945, "from_approx": false, "to_approx": true, "how": "koupe", "note": "v 18. století zámek přestavěli barokně; po 1850 zde sídlil okresní soud a berní úřad; od 1878 do 40. let 20. stol. na zámku žila rodina podnikatele Eduarda Seidla, která měla od Lichtenštejnů pronajaty statky a cukrovar; rok konfiskace zdroj přesně neuvádí ('po druhé světové válce')"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": 1990, "from_approx": true, "to_approx": false, "how": "konfiskace", "note": "zámek zkonfiskován státem po druhé světové válce"},
+  {"owner": "mesto", "owner_wiki": null, "person": null, "from": 1990, "to": 1992, "from_approx": false, "to_approx": false, "how": "jine", "note": "po sametové revoluci zámek získalo město Ždánice; od 1946 v jižním křídle sídlí městské Vrbasovo muzeum, založené Jakubem Vrbasem"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": null, "from": 1992, "to": null, "from_approx": false, "to_approx": false, "how": "jine", "note": "od roku 1992 je zámek v soukromém vlastnictví; konkrétní vlastník ani okolnosti prodeje nejsou v textu uvedeny"}
+ ],
+ "events": [
+  {"year": 1349, "text": "první písemná zmínka o ždánickém hradu"},
+  {"year": 1468, "text": "hrad poškozen za česko-uherských válek"},
+  {"year": 1538, "text": "první zmínka o tvrzi postavené Zástřizly u městečka"},
+  {"year": 1566, "text": "Oldřich z Kounic zahájil stavbu renesančního zámku na místě tvrze"},
+  {"year": 1622, "text": "ždánické panství se zámkem získali Lichtenštejnové"},
+  {"year": 1945, "text": "zámek po druhé světové válce zkonfiskován státem"},
+  {"year": 1990, "text": "po sametové revoluci zámek získalo město Ždánice"},
+  {"year": 1992, "text": "zámek přešel do soukromého vlastnictví"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Ždánice_(zámek)"]
+}

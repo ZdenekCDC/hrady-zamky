@@ -39529,29 +39529,6 @@
   "unesco": false
  },
  {
-  "id": "Q1023814",
-  "name": "Uherčice",
-  "wd_label": "Uherčice",
-  "kind": "zamek",
-  "lat": 48.96783,
-  "lon": 16.65344,
-  "kraj": "Jihomoravský kraj",
-  "obec": "správní obvod obce s rozšířenou působností Hustopeče",
-  "founded": null,
-  "founded_text": null,
-  "access": "vstupne",
-  "access_sources": [
-   "npu"
-  ],
-  "manager": "NPÚ",
-  "website": "http://uhercice.cz/",
-  "cswiki": "https://cs.wikipedia.org/wiki/Uherčice_(okres_Břeclav)",
-  "image": "Uherčice hospoda.JPG",
-  "visitors": null,
-  "nkp": false,
-  "unesco": false
- },
- {
   "id": "Q1440293",
   "name": "Uherčice",
   "wd_label": "zámek Uherčice",
@@ -39564,9 +39541,10 @@
   "founded_text": null,
   "access": "vstupne",
   "access_sources": [
+   "npu",
    "nipos"
   ],
-  "manager": null,
+  "manager": "NPÚ",
   "website": "http://www.zamek-uhercice.cz",
   "cswiki": "https://cs.wikipedia.org/wiki/Uherčice_(zámek)",
   "image": "Uherčice castle.JPG",

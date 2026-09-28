@@ -1,0 +1,42 @@
+{
+ "id": "Q20057388",
+ "name": "Frýdek",
+ "founded": {
+  "year": 1327,
+  "approx": false,
+  "text": "První zmínka o frýdeckém hradu pochází z roku 1327, kdy jej nechal postavit těšínský kníže Kazimír I. z rodu Piastovců jako strážce zemské hranice mezi Moravou a Slezskem, spolu se současně zakládaným městem Frýdek."
+ },
+ "summary": "Frýdecký hrad založil roku 1327 těšínský kníže Kazimír I. z rodu Piastovců, kteří jej vlastnili až do 16. století, s přestávkami, kdy byl v zástavě (od 1545 Pernštejnové). V letech 1580-1636 se vystřídali olomoucký biskup Stanislav Pavlovský a Bruntálští z Vrbna, poté hrad koupili Oppersdorfové, kteří jej přestavěli na barokní zámek, a od počátku 18. století jej zdědili Pražmové z Bílkova. Roku 1797 jej koupila arcivévodkyně Marie Kristina a zámek zůstal v majetku Habsburků (naposledy arcivévody Bedřicha Rakousko-Těšínského) až do zestátnění roku 1918; od roku 1960 jej spravuje město a dnes v něm sídlí Muzeum Beskyd.",
+ "owners": [
+  {"owner": "piastovci", "owner_wiki": "Piastovci", "person": "Kazimír I. těšínský", "from": 1327, "to": 1434, "from_approx": false, "to_approx": false, "how": "zalozeni", "note": "hrad postavil těšínský kníže Kazimír I.; ve vlastnictví se vystřídalo několik těšínských knížat, Václav I. dal panství poprvé do zástavy roku 1434 kvůli zadlužení za husitských válek"},
+  {"owner": "neznamo", "owner_wiki": null, "person": null, "from": 1434, "to": null, "from_approx": false, "to_approx": true, "how": "lenni", "note": "během 15. a 16. století se vystřídalo několik blíže nejmenovaných zástavních držitelů, poté byl Frýdek znovu přímým majetkem těšínských knížat"},
+  {"owner": "piastovci", "owner_wiki": "Piastovci", "person": "Boleslav II. a Kazimír II. těšínští", "from": null, "to": 1545, "from_approx": true, "to_approx": false, "how": "jine", "note": "znovu přímý majetek těšínských knížat; za jejich vlády ve 2. polovině 15. století proběhly obranné stavební úpravy hradu"},
+  {"owner": "pernstejnove", "owner_wiki": "Pernštejnové", "person": "Jan z Pernštejna zvaný Bohatý, později jeho synové", "from": 1545, "to": 1580, "from_approx": false, "to_approx": false, "how": "lenni", "note": "zástavní držitel; v této době zahájena přestavba hradu na renesanční zámek"},
+  {"owner": "cirkev", "owner_wiki": null, "person": "Stanislav Pavlovský, olomoucký biskup", "from": 1580, "to": 1584, "from_approx": false, "to_approx": false, "how": "koupe", "note": "připojil Frýdek s Místkem k biskupskému panství Hukvaldy; pro nízké předpokládané výnosy panství jej brzy prodal"},
+  {"owner": "bruntalsti-z-vrbna", "owner_wiki": "Bruntálští z Vrbna", "person": "Bartoloměj Bruntálský z Vrbna a dědicové", "from": 1584, "to": 1636, "from_approx": false, "to_approx": false, "how": "koupe", "note": "zámek se po dlouhé době stal šlechtickou rezidencí; po Bartolomějově smrti (1604) dědicové na Frýdku nesídlili a zámek zpustl, přispěl k tomu požár města 1607 a vpád Mansfeldových vojsk 1626"},
+  {"owner": "oppersdorfove", "owner_wiki": "Oppersdorfové", "person": "Jiří z Oppersdorfu", "from": 1636, "to": 1651, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil zámek jako věřitel Bruntálských z Vrbna; postavil zámeckou kapli sv. Barbory a vyhlídkový gloriet, vznikl zámecký park"},
+  {"owner": "oppersdorfove", "owner_wiki": "Oppersdorfové", "person": "Matyáš Rudolf z Oppersdorfu", "from": 1651, "to": 1666, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "mladší syn Jiřího, zemřel náhle krátce po zletilosti během kavalírské cesty v Paříži"},
+  {"owner": "oppersdorfove", "owner_wiki": "Oppersdorfové", "person": "František Eusebius z Oppersdorfu", "from": 1666, "to": 1691, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "starší nevlastní bratr Matyáše Rudolfa; po požáru města 1688 provedl zásadní přestavbu (hlavní zámecká věž, rozšíření Rytířského sálu)"},
+  {"owner": "oppersdorfove", "owner_wiki": "Oppersdorfové", "person": "Anna Zuzana z Oppersdorfu, rozená Beesová", "from": 1691, "to": null, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "vdova po Františku Eusebiovi, zdědila panství"},
+  {"owner": "prazmove-z-bilkova", "owner_wiki": "Pražmové z Bílkova", "person": "Marie Ludovika Pražmová z Bílkova (roz. Oppersdorfová)", "from": null, "to": 1708, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "dcera Anny Zuzany, provdaná za Pražmu z Bílkova"},
+  {"owner": "prazmove-z-bilkova", "owner_wiki": "Pražmové z Bílkova", "person": "František Vilém Pražma z Bílkova", "from": 1708, "to": 1731, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "dokončil opravu kaple sv. Barbory poškozené požárem 1688, založil sbírku erbů slezské šlechty v Rytířském sále"},
+  {"owner": "prazmove-z-bilkova", "owner_wiki": "Pražmové z Bílkova", "person": "Jan Nepomuk Pražma z Bílkova", "from": 1731, "to": 1797, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "správu panství fakticky převzal až po zletilosti roku 1746; zadlužil se stavbami a nákladným životem, roku 1797 Frýdek prodal, aby udržel kmenový majetek ve Falkenberku"},
+  {"owner": "habsburkove", "owner_wiki": "Habsburkové", "person": "arcivévodkyně Marie Kristina", "from": 1797, "to": 1798, "from_approx": false, "to_approx": false, "how": "koupe", "note": "dcera Marie Terezie, provdaná za sasko-těšínského knížete Alberta Kazimíra; Frýdek začleněn do majetku Těšínské komory"},
+  {"owner": "habsburkove", "owner_wiki": "Habsburkové", "person": "arcivévoda Karel", "from": 1822, "to": null, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "vojevůdce napoleonských válek; vlastnictví v mezidobí 1798-1822 zdroj blíže neupřesňuje"},
+  {"owner": "habsburkove", "owner_wiki": "Habsburkové", "person": "arcivévoda Albrecht", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "dedictvi", "note": "syn arcivévody Karla (žil 1817-1895)"},
+  {"owner": "habsburkove", "owner_wiki": "Habsburkové", "person": "arcivévoda Bedřich Rakousko-Těšínský", "from": null, "to": 1918, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "poslední soukromý majitel zámku, c. k. polní maršál a generální inspektor rakousko-uherské armády, patřil k nejbohatším lidem Evropy; zámek byl okrajovou destinací jeho rozsáhlého majetku"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1918, "to": 1960, "from_approx": false, "to_approx": false, "how": "jine", "note": "zestátněno hned po vzniku Československa; od 1923 převzalo bývalý majetek ministerstvo zemědělství a umístilo správu státních lesů a statků, 1923-1934 zde sídlilo Národopisné a vlastivědné muzeum v nájmu, zámecký inventář byl roku 1952 rozprodán do bazaru"},
+  {"owner": "mesto", "owner_wiki": null, "person": null, "from": 1960, "to": null, "from_approx": false, "to_approx": false, "how": "jine", "note": "zámek převzal Městský národní výbor ve Frýdku a umístil sem muzeum (od 1998 Muzeum Beskyd Frýdek-Místek, od 2003 příspěvková organizace Moravskoslezského kraje); část zámeckého parku přešla roku 2007 do majetku statutárního města Frýdek-Místek"}
+ ],
+ "events": [
+  {"year": 1327, "text": "těšínský kníže Kazimír I. nechává postavit hrad Frýdek spolu s městem"},
+  {"year": 1434, "text": "Václav I. dává panství poprvé do zástavy kvůli zadlužení za husitských válek"},
+  {"year": 1584, "text": "panství kupují Bruntálští z Vrbna, zámek se stává šlechtickou rezidencí"},
+  {"year": 1636, "text": "Jiří z Oppersdorfu kupuje zámek a staví kapli sv. Barbory a zámecký park"},
+  {"year": 1688, "text": "požár města si vynutí zásadní přestavbu, vzniká hlavní zámecká věž"},
+  {"year": 1797, "text": "Jan Nepomuk Pražma z Bílkova prodává zadlužený Frýdek arcivévodkyni Marii Kristině"},
+  {"year": 1918, "text": "majetek Habsburků je zestátněn po vzniku Československa"},
+  {"year": 1960, "text": "zámek přebírá Městský národní výbor ve Frýdku, vzniká zde muzeum"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Frýdek_(zámek)"]
+}

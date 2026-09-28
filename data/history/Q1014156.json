@@ -1,0 +1,22 @@
+{
+ "id": "Q1014156",
+ "name": "Strakonice",
+ "founded": {"year": 1220, "approx": true, "text": "Hrad byl založen mezi lety 1220-1235 Bavorem I. ze Strakonic."},
+ "summary": "Hrad ve Strakonicích založil počátkem 13. století Bavor I., roku 1243 s manželkou darovali východní polovinu hradu řádu maltézských rytířů (johanitů), který roku 1402 získal hrad celý a učinil jej sídlem svých velkopřevorů. Řád zde působil i přes zábor hospodářského zázemí panství při pozemkové reformě po roce 1918, byty pro členy NSDAP za okupace a perzekuci komunistickým režimem po roce 1948 (akce K, věznění posledního převora Antonína Voráčka). V roce 2022 získalo prostory hradu od římskokatolické církve Muzeum středního Pootaví, které v nich vybudovalo expozici o maltézském řádu.",
+ "owners": [
+  {"owner": "bavorove-ze-strakonic", "owner_wiki": "Bavorové ze Strakonic", "person": "Bavor I., Bavor II., Bavor III.", "from": 1220, "to": 1402, "from_approx": true, "to_approx": true, "how": "zalozeni", "note": "roku 1243 darovali východní polovinu hradu maltézským rytířům (johanitům); počátkem 14. stol. Bavor III. přestavěl západní opevnění; roku 1402 získal řád hrad celý, přesný okamžik ztráty zbylé části rodem není ve zdroji uveden"},
+  {"owner": "cirkev", "owner_wiki": null, "person": "Řád maltézských rytířů (johanité, maltézský velkopřevorský řád)", "from": 1243, "to": 2022, "from_approx": false, "to_approx": false, "how": "dar", "note": "zpočátku jen východní polovina hradu (komenda), od 1402 celý hrad, od 1421 sídlo velkopřevorů; po roce 1918 první pozemková reforma zabrala hrad a hospodářské budovy velkostatku, řád v areálu přesto dál působil; 1939-1940 zřízeny v severním křídle byty pro členy NSDAP; Benešovy dekrety (1946) a komunistické represe od akce K (1949) postihly konvent, poslední tajně zvolený převor Antonín Voráček byl 1954 uvězněn a vrátil se až 1960; roku 2022 předala církev prostory hradu muzeu"},
+  {"owner": "mesto", "owner_wiki": null, "person": "Muzeum středního Pootaví", "from": 2022, "to": null, "from_approx": false, "to_approx": false, "how": "jine", "note": "muzeum získalo prostory hradu od římskokatolické církve; přesná právní forma vlastnictví není ve zdroji upřesněna, v areálu dále sídlí Šmidingerova knihovna a ZUŠ Strakonice"}
+ ],
+ "events": [
+  {"year": 1235, "text": "dokončena první stavební fáze hradu (opevnění, kostel, palác s kapitulní síní)"},
+  {"year": 1243, "text": "Bavor I. daroval východní polovinu hradu řádu maltézských rytířů"},
+  {"year": 1402, "text": "johanité získali celý hrad"},
+  {"year": 1449, "text": "Václav z Michalovic ustavil na hradě Jednotu strakonickou proti kališníkům"},
+  {"year": 1620, "text": "hrad dobyt a vypleněn stavovskými vojsky"},
+  {"year": 1721, "text": "dokončena barokní zámecká přístavba (stavební úpravy 1714-1721)"},
+  {"year": 1918, "text": "první pozemková reforma zabrala hrad a hospodářské budovy velkostatku"},
+  {"year": 2022, "text": "Muzeum středního Pootaví získalo od církve prostory hradu a otevřelo expozici o maltézském řádu"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Strakonice_(hrad)"]
+}

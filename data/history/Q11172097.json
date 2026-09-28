@@ -1,0 +1,36 @@
+{
+ "id": "Q11172097",
+ "name": "Černá Hora",
+ "founded": {"year": 1279, "approx": false, "text": "Hrad byl postaven v letech 1279-1298 Matoušem z Černé Hory, který působil jako moravský komorník."},
+ "summary": "Hrad Černá Hora postavil v letech 1279-1298 Matouš z Černé Hory, po jehož smrti bez mužského potomka jej roku 1305 obdržel královský mincmistr Arpád z Florencie a poté jej drželi páni z Lipé. Před rokem 1348 jej získali páni z Boskovic, kteří jej vlastnili přes tři století až do vymření rodu po meči roku 1597, kdy jej vyženil Karel I. z Lichtenštejna a roku 1719 Jindřich Josef z Auersperga. Roku 1857 zámek koupila Henrietta Pereira-Arnstein a s rodinou Friessů jej přestavěla na pseudorenesanční zámek; roku 1945 byl zkonfiskován a zřízen v něm sociální ústav.",
+ "owners": [
+  {"owner": "z-cerne-hory", "owner_wiki": null, "person": "Matouš z Černé Hory", "from": 1279, "to": 1305, "from_approx": false, "to_approx": false, "how": "zalozeni", "note": "moravský komorník, postavil hrad; zemřel bez mužského potomka"},
+  {"owner": "z-florencie", "owner_wiki": null, "person": "Arpád z Florencie", "from": 1305, "to": 1320, "from_approx": false, "to_approx": true, "how": "lenni", "note": "královský mincmistr, hrad obdržel po vymření rodu zakladatele; rok konce jeho držby není uveden, jen že roku 1320 už hrad vlastnil Jindřich z Lipé"},
+  {"owner": "pani-z-lipe", "owner_wiki": "Páni z Lipé", "person": "Jindřich z Lipé", "from": 1320, "to": 1330, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "zdroj neuvádí způsob ani přesný rok nabytí"},
+  {"owner": "pani-z-lipe", "owner_wiki": "Páni z Lipé", "person": "Jindřich Železný z Lipé", "from": 1330, "to": 1348, "from_approx": true, "to_approx": true, "how": "dedictvi", "note": "syn Jindřicha z Lipé; hrad získali páni z Boskovic před rokem 1348"},
+  {"owner": "boskovicove", "owner_wiki": "Boskovicové", "person": null, "from": 1348, "to": 1390, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "zdroj neuvádí způsob nabytí; roku 1390 se výslovně uvádí Vaněk Černohorský z Boskovic"},
+  {"owner": "boskovicove", "owner_wiki": "Boskovicové", "person": "Vaněk Černohorský z Boskovic", "from": 1390, "to": 1471, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "roku 1423 hrad dobyla vojska olomouckého biskupa, Vaněk jej získal zpět po konverzi ke katolictví; roku 1471 přebírá syn Beneš"},
+  {"owner": "boskovicove", "owner_wiki": "Boskovicové", "person": "Beneš Černohorský z Boskovic", "from": 1471, "to": null, "from_approx": false, "to_approx": false, "how": "dedictvi"},
+  {"owner": "boskovicove", "owner_wiki": "Boskovicové", "person": "Jaroslav Černohorský z Boskovic", "from": null, "to": 1550, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "neměl mužské potomky, panství zdědily čtyři dcery, které je roku 1550 prodaly"},
+  {"owner": "boskovicove", "owner_wiki": "Boskovicové", "person": "Václav Bučovický z Boskovic", "from": 1550, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil panství od čtyř dcer Jaroslava Černohorského z Boskovic"},
+  {"owner": "boskovicove", "owner_wiki": "Boskovicové", "person": "Albrecht Bučovický z Boskovic", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "syn Václava, provedl na hradě renesanční úpravy"},
+  {"owner": "boskovicove", "owner_wiki": "Boskovicové", "person": "Jan Šembera z Boskovic", "from": null, "to": 1597, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "poslední mužský potomek Černohorských z Boskovic, zemřel 1597"},
+  {"owner": "lichtenstejnove", "owner_wiki": "Lichtenštejnové", "person": "Karel I. z Lichtenštejna", "from": 1597, "to": 1627, "from_approx": false, "to_approx": true, "how": "snatek", "note": "panství vyženil"},
+  {"owner": "lichtenstejnove", "owner_wiki": "Lichtenštejnové", "person": "Karel Eusebius z Lichtenštejna", "from": 1627, "to": 1719, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "držel panství 1627-1684 podle zdroje, rod nesídlil na hradě a spravoval ho purkrabí; hrad poškozen za třicetileté války, roku 1719 vyženil panství Jindřich Josef z Auerspergu (přesný rok předání mezi 1684 a 1719 neuveden)"},
+  {"owner": "auerspergove", "owner_wiki": "Auerspergové", "person": "Jindřich Josef z Auersperga", "from": 1719, "to": 1857, "from_approx": false, "to_approx": true, "how": "snatek", "note": "vyženil černohorské panství; roku 1726 hrad vyhořel a byl provizorně opraven, roku 1818 opuštěn; přesný rok konce auerspergské držby zdroj neuvádí"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Henrietta Pereira-Arnstein", "from": 1857, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupila zámek a započala pseudorenesanční přestavbu hradu na zámek"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Mořic Friess z Friessenburgu", "from": null, "to": 1945, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "zeť Henrietty Pereira-Arnstein, v letech 1859-1861 dokončil přestavbu na zámek; roku 1945 byl zámek Friessům zkonfiskován"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "po konfiskaci zde zřízen sociální ústav"}
+ ],
+ "events": [
+  {"year": 1279, "text": "Matouš z Černé Hory zahájil stavbu hradu, dokončena 1298"},
+  {"year": 1423, "text": "hrad dobyla vojska olomouckého biskupa Jana Železného za husitských válek"},
+  {"year": 1550, "text": "čtyři dcery Jaroslava Černohorského z Boskovic prodaly panství Václavu Bučovickému z Boskovic"},
+  {"year": 1597, "text": "vymřel poslední mužský potomek Černohorských z Boskovic, panství vyženil Karel I. z Lichtenštejna"},
+  {"year": 1719, "text": "černohorské panství vyženil Jindřich Josef z Auersperga"},
+  {"year": 1726, "text": "hrad vyhořel a byl jen provizorně opraven"},
+  {"year": 1857, "text": "Henrietta Pereira-Arnstein koupila zámek a zahájila pseudorenesanční přestavbu hradu; dokončena 1859-1861 jejím zetěm Mořicem Friessem z Friessenburgu"},
+  {"year": 1945, "text": "zámek byl rodině Friessů zkonfiskován, zřízen sociální ústav"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Černá_Hora_(zámek)"]
+}

@@ -1,0 +1,28 @@
+{
+ "id": "Q80843",
+ "name": "Troja",
+ "founded": {"year": 1679, "approx": false, "text": "Zámek nechal v letech 1679-1685 postavit hrabě Václav Vojtěch ze Šternberka jako své letní sídlo."},
+ "summary": "Barokní zámek Troja postavil v letech 1679-1685 jako letní sídlo hrabě Václav Vojtěch ze Šternberka; rod jej vlastnil do roku 1763, kdy jej koupila Marie Terezie pro Ústav šlechtičen. Poté se vystřídali soukromí majitelé Jan Václav Alsterle z Astfeldu a Vydří, kláštery alžbětinek a milosrdných bratří, kníže Alfred Windischgrätz, rodina Židlických a nakonec velkostatkář Alois Svoboda, který zámek s rozsáhlými pozemky roku 1922 věnoval Aloisem Svobodou k výročí republiky československému státu. Dnes je zámek součástí majetku hlavního města Prahy a je s přilehlou zahradou otevřen veřejnosti.",
+ "owners": [
+  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": "Václav Vojtěch ze Šternberka", "from": 1679, "to": 1763, "from_approx": false, "to_approx": false, "how": "zalozeni"},
+  {"owner": "koruna", "owner_wiki": null, "person": "Ústav šlechtičen (nadace Marie Terezie)", "from": 1763, "to": 1776, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupila Marie Terezie pro Ústav šlechtičen, sama tu i pobývala"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Jan Václav Alsterle z Astfeldu a Vydří", "from": 1776, "to": 1832, "from_approx": false, "to_approx": false, "how": "koupe", "note": "roku 1832 zámek odkázán klášterům"},
+  {"owner": "cirkev", "owner_wiki": null, "person": "kláštery alžbětinek a milosrdných bratří", "from": 1832, "to": 1842, "from_approx": false, "to_approx": false, "how": "dedictvi"},
+  {"owner": "windischgratzove", "owner_wiki": "Windischgrätzové", "person": "Alfred kníže Windischgrätz", "from": 1842, "to": 1873, "from_approx": false, "to_approx": false, "how": "koupe", "note": "založil zde vinice; jeho potomci zámek roku 1873 prodali"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "rodina Židlických", "from": 1873, "to": null, "from_approx": false, "to_approx": true, "how": "koupe", "note": "přesný rok konce jejich držby (prodej Aloisi Svobodovi) není ve zdroji uveden"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Alois Svoboda", "from": null, "to": 1922, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "poslední soukromý majitel, velkostatkář; 7. října 1922 věnoval zámek s rozsáhlými pozemky v Troji československému státu u příležitosti 70. narozenin T. G. Masaryka a výročí vzniku republiky"},
+  {"owner": "stat", "owner_wiki": null, "person": "Československo", "from": 1922, "to": null, "from_approx": false, "to_approx": false, "how": "dar", "note": "o pozemcích rozhodovalo Kuratorium trojských nemovitostí, část byla využita pro pražskou zoologickou a botanickou zahradu"},
+  {"owner": "mesto", "owner_wiki": null, "person": "hlavní město Praha", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "dnes je zámek součástí majetku hl. m. Prahy; přesný rok převodu z majetku státu na město není ve zdroji uveden"}
+ ],
+ "events": [
+  {"year": 1679, "text": "zahájena stavba zámku pro Václava Vojtěcha ze Šternberka (dokončena 1685)"},
+  {"year": 1685, "text": "založena přilehlá zámecká zahrada"},
+  {"year": 1692, "text": "dokončena freskvá výzdoba hlavního sálu (Abraham a Isaac Godynové, 1688-1692)"},
+  {"year": 1763, "text": "Marie Terezie koupila zámek od Šternberků pro Ústav šlechtičen"},
+  {"year": 1842, "text": "zámek koupil Alfred kníže Windischgrätz a založil zde vinice"},
+  {"year": 1922, "text": "Alois Svoboda daroval zámek s pozemky československému státu"},
+  {"year": 1989, "text": "dokončena rozsáhlá rekonstrukce zámku (probíhala 1977-1989)"},
+  {"year": 2013, "text": "velká povodeň poškodila dolní část zahrady"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Troja_(z%C3%A1mek)"]
+}

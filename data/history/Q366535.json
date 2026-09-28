@@ -1,0 +1,26 @@
+{
+ "id": "Q366535",
+ "name": "Mikulov",
+ "founded": {"year": null, "approx": false, "text": "Archeologicky doložena roubená stavba z 10.-12. století, po požáru nahrazená kamenným hradem z podnětu Přemysla Otakara I. či Vladislava Jindřicha; poprvé písemně doložen hrad roku 1249."},
+ "summary": "Na Zámeckém kopci stála od 10.-12. století dřevěná strážní stavba, po požáru nahrazená kamenným hradem z podnětu Přemysla Otakara I. či jeho bratra Vladislava Jindřicha; poprvé je hrad písemně doložen roku 1249, kdy jej Přemysl Otakar II. daroval Jindřichu z Lichtenštejna. Lichtenštejnové z Mikulova učinili hlavní sídlo rodu a hrad opevňovali až do roku 1560, kdy jej prodali uherskému šlechtici Ladislavu Kerecsenyimu; po vymření Kerecsenyiů daroval roku 1575 císař Rudolf II. panství Adamovi z Ditrichštejna, jehož rod zámek přestavěl na barokní sídlo a vlastnil až do roku 1945, kdy zámek při osvobozeneckých bojích vyhořel. Po válce byl obnoven Spolkem pro obnovu mikulovského zámku podle návrhu Otakara Oplatka a dnes jej spravuje Regionální muzeum v Mikulově; restituční žalobu kněžny Mercedes Ditrichštejnové soud v roce 2010 zamítl.",
+ "owners": [
+  {"owner": "koruna", "owner_wiki": null, "person": "Přemysl Otakar I. či Vladislav Jindřich (stavba), poté Přemysl Otakar II.", "from": null, "to": 1249, "from_approx": false, "to_approx": false, "how": "zalozeni", "note": "kamenný hrad vznikl z podnětu Přemysla Otakara I. či jeho bratra Vladislava Jindřicha; přesný rok stavby neuveden, poprvé písemně doložen 1249"},
+  {"owner": "lichtenstejnove", "owner_wiki": "Lichtenštejnové", "person": "Jindřich z Lichtenštejna, později Kryštof IV. z Lichtenštejna", "from": 1249, "to": 1560, "from_approx": false, "to_approx": false, "how": "dar", "note": "Přemysl Otakar II. hrad i město daroval Jindřichu z Lichtenštejna; hrad se stal hlavním sídlem rodu; kvůli finančním potížím jej Kryštof IV. z Lichtenštejna roku 1560 prodal"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Ladislav Kerecsenyi", "from": 1560, "to": 1566, "from_approx": false, "to_approx": false, "how": "koupe", "note": "uherský šlechtic, koupil za 60000 tolarů; zajat Osmany a popraven 1566"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Kryštof Kerecsenyi", "from": 1566, "to": null, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "syn Ladislava Kerecsenyiho; jeho smrtí rod vymřel, panství poté přešlo do císařovy správy; přesný rok úmrtí zdroj neuvádí"},
+  {"owner": "koruna", "owner_wiki": null, "person": "císařská správa (Rudolf II.)", "from": null, "to": 1575, "from_approx": false, "to_approx": false, "how": "jine", "note": "po vymření Kerecsenyiů přešlo panství do císařovy správy, než je Rudolf II. roku 1575 daroval Adamovi z Ditrichštejna"},
+  {"owner": "ditrichstejnove", "owner_wiki": "Ditrichštejnové", "person": "Adam z Ditrichštejna, později kardinál František z Ditrichštejna, kníže Ferdinand z Ditrichštejna aj.", "from": 1575, "to": 1945, "from_approx": false, "to_approx": false, "how": "dar", "note": "rod držel zámek do roku 1945; restituční žalobu kněžny Mercedes Ditrichštejnové z roku 2006 soud v roce 2010 zamítl"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "po vyhoření zámku 22.4.1945 obnovu od 1947 vedl Spolek pro obnovu mikulovského zámku; dnes zámek spravuje Regionální muzeum v Mikulově"}
+ ],
+ "events": [
+  {"year": 1249, "text": "první písemná zmínka o hradu, Přemysl Otakar II. jej daroval Jindřichu z Lichtenštejna"},
+  {"year": 1380, "text": "do věže vestavěna osmiboká hradní kaple Panny Marie a Jana Evangelisty"},
+  {"year": 1426, "text": "hrad odolal husitskému útoku"},
+  {"year": 1560, "text": "Kryštof IV. z Lichtenštejna prodal hrad Ladislavu Kerecsenyimu, začala přestavba na renesanční zámek"},
+  {"year": 1575, "text": "Rudolf II. daroval panství Adamovi z Ditrichštejna"},
+  {"year": 1645, "text": "švédská armáda dobyla a vyplenila zámek i knihovnu"},
+  {"year": 1719, "text": "požár zničil město i zámek, následná barokní přestavba podle Christiana Alexandra Oedtla"},
+  {"year": 1945, "text": "zámek při osvobozeneckých bojích 22. dubna vyhořel"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Mikulov_(zámek)"]
+}

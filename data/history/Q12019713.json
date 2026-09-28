@@ -1,0 +1,21 @@
+{
+ "id": "Q12019713",
+ "name": "Hlavnice",
+ "founded": {"year": 1792, "approx": false, "text": "1792-1795 nechal Andreas hrabě Renard postavit empírový zámek jako venkovské sídlo"},
+ "summary": "Empírový zámek v Hlavnici nechal v letech 1792-1795 postavit jako jednoduché venkovské sídlo tehdejší majitel panství Andreas hrabě Renard. Roku 1810 byl zámek s obcí Hlavnice prodán ve veřejné dražbě Josefu Gusnarovi z Komárna a od roku 1832 sloužil k trvalému bydlení. Posledním soukromým majitelem byl od roku 1913 František Bayer z Bayersburgu, po druhé světové válce byl rodině zkonfiskován a připadl obci, poté jej získalo zemědělské družstvo; v roce 2011 byl opraven v původním stylu.",
+ "owners": [
+  {"owner": "renardove", "owner_wiki": null, "person": "Andreas hrabě Renard", "from": 1792, "to": 1810, "from_approx": false, "to_approx": false, "how": "zalozeni", "note": "nechal zámek postavit jako venkovské sídlo panství"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Josef Gusnar z Komárna", "from": 1810, "to": 1913, "from_approx": false, "to_approx": true, "how": "koupe", "note": "zámek s obcí koupil ve veřejné dražbě; článek mezi lety 1810 a 1913 neuvádí další majitele, přesný okamžik dalšího prodeje není znám"},
+  {"owner": "z-bayersburgu", "owner_wiki": null, "person": "František Bayer z Bayersburgu", "from": 1913, "to": 1945, "from_approx": false, "to_approx": true, "how": "koupe", "note": "poslední soukromý majitel, nechal zámek ve 30. letech přestavět; konfiskace proběhla po válce, přesný rok neuveden"},
+  {"owner": "mesto", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": true, "to_approx": true, "how": "konfiskace", "note": "po konfiskaci Bayerům z Bayersburgu zámek patřil obci a následně jej získalo zemědělské družstvo; článek neuvádí konkrétní roky ani pozdější osud vlastnictví"}
+ ],
+ "events": [
+  {"year": 1792, "text": "zahájena stavba empírového zámku"},
+  {"year": 1795, "text": "dokončení stavby zámku"},
+  {"year": 1810, "text": "zámek s obcí prodán ve veřejné dražbě Josefu Gusnarovi z Komárna"},
+  {"year": 1832, "text": "zámek od tohoto roku trvale obydlen"},
+  {"year": 1945, "text": "po válce zkonfiskován Bayerům z Bayersburgu, poté patřil obci a zemědělskému družstvu"},
+  {"year": 2011, "text": "zámek opraven v původním stylu"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Hlavnice_(zámek)"]
+}

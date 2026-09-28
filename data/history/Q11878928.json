@@ -1,0 +1,26 @@
+{
+ "id": "Q11878928",
+ "name": "Velké Hoštice",
+ "founded": {"year": null, "approx": true, "text": "O vzniku zámeckého sídla není doložena žádná zmínka; lze předpokládat stavbu původního renesančního zámku v období, kdy ves držel rod Šlevičtích z Kravař (kolem 1450-1559)"},
+ "summary": "Ves Velké Hoštice je doložena od roku 1220, ve 14. století připadla pánům z Kravař a od poloviny 15. do poloviny 16. století ji drželi Šlevičtí z Kravař, za nichž patrně vznikl původní renesanční zámek. Po hrabatech z Gašína a rychlém střídání dalších majitelů nechal roku 1754 Ignác Dominik Chorynský z Ledské přestavět shořelou starší budovu na pozdně barokní zámek, který se stal významným kulturním střediskem Slezska; po jeho smrti roku 1792 přešlo panství sňatkem na hrabata Sprinzensteiny, kterým patřilo až do roku 1945. Po roce 1945 byl zámek v držení československého státu, sloužil správním, školským a obecním účelům a dnes je v něm vinotéka, restaurace a dům s pečovatelskou službou.",
+ "owners": [
+  {"owner": "pani-z-kravar", "owner_wiki": "Páni z Kravař", "person": "Beneš z Kravař", "from": 1372, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "ves a statky připadly pánům z Kravař po sporu s olomouckou kapitulou, konkrétně roku 1372 Benešovi z Kravař; v 1. polovině 15. století se pak majitelé rychle střídali, zdroj je nejmenuje"},
+  {"owner": "z-slevic", "owner_wiki": null, "person": "Šlevičtí z Kravař", "from": 1450, "to": 1559, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "získali Velké Hoštice kolem roku 1450; předpokládá se, že v tomto období vznikl původní renesanční zámek na místě dnešního"},
+  {"owner": "z-gasinu", "owner_wiki": null, "person": "hrabata z Gašína", "from": 1559, "to": null, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "za jejich držby se roku 1742 statek se zámkem dostal do pruského záboru; Velké Hoštice byly k Československu připojeny až 1922; po Gašínech se držitelé rychle střídali, zdroj je nejmenuje"},
+  {"owner": "z-ledske", "owner_wiki": null, "person": "Ignác Dominik Chorynský z Ledské", "from": 1754, "to": 1792, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "roku 1754 nechal na místě starší zámecké budovy zničené požárem přestavět pozdně barokní zámek; zemřel 1792"},
+  {"owner": "sprinzensteinove", "owner_wiki": null, "person": null, "from": 1792, "to": 1945, "from_approx": false, "to_approx": false, "how": "snatek", "note": "panství přešlo sňatkem na hrabata Sprinzensteiny po smrti Ignáce Chorynského"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "jine", "note": "po roce 1945 v držení československého státu, sídlil zde MNV; 1948-1952 opraven pro správní, školské a obecní účely; zdroj neuvádí pozdější změnu vlastníka, dnes v zámku vinotéka, restaurace a dům s pečovatelskou službou"}
+ ],
+ "events": [
+  {"year": 1220, "text": "první zmínka o vsi Hoštice"},
+  {"year": 1372, "text": "ves připadla Benešovi z Kravař"},
+  {"year": 1742, "text": "statek se zámkem se dostal do pruského záboru"},
+  {"year": 1754, "text": "Ignác Dominik Chorynský z Ledské nechal přestavět shořelou budovu na pozdně barokní zámek"},
+  {"year": 1792, "text": "po smrti hraběte Chorynského přešlo panství sňatkem na hrabata Sprinzensteiny"},
+  {"year": 1922, "text": "Velké Hoštice připojeny k Československu"},
+  {"year": 1945, "text": "zámek přešel do držení československého státu"}
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Velké_Hoštice_(zámek)"
+ ]
+}

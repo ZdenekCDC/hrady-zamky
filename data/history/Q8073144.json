@@ -1,0 +1,96 @@
+{
+ "id": "Q8073144",
+ "name": "Znojmo",
+ "founded": {
+  "year": 1092,
+  "approx": true,
+  "text": "Hrad byl postaven pravděpodobně po roce 1092, kdy vznikl samostatný znojemský úděl; na přelomu 12. a 13. století byl přestavěn ve stylu vrcholně středověkých hradů"
+ },
+ "summary": "Znojemský hrad vznikl pravděpodobně po roce 1092 jako sídlo samostatného znojemského údělu a na přelomu 12. a 13. století byl přestavěn ve stylu vrcholně středověkých hradů; na počátku 15. století jej obsadili stoupenci markraběte Prokopa a roku 1404 úspěšně ubránili při obléhání vévodou Albrechtem Rakouským a králem Zikmundem. Královský hrad byl často zastavován šlechtickým majitelům, mezi jinými Albrechtu z Leskovce nebo Zdeňku z Roupova, kterému byl po bitvě na Bílé hoře zabaven za účast na stavovském povstání. Po roce 1710 nechal Maxmilián z Deblína starý hrad přestavět v barokním slohu; po násilné smrti posledního příslušníka rodu byl zámek upraven na vojenskou nemocnici a později byla velká část hradního areálu poškozena vestavbou pivovaru.",
+ "owners": [
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1092,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "královský hrad; na počátku 15. století jej obsadili stoupenci markraběte Prokopa a roku 1404 úspěšně ubránili obléhání vévodou Albrechtem Rakouským a králem Zikmundem"
+  },
+  {
+   "owner": "leskovcove-z-leskovce",
+   "owner_wiki": "Leskovcové z Leskovce",
+   "person": "Albrecht z Leskovce",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "jeden z příkladů šlechtických zástavních majitelů, kterým byl královský hrad zastavován; zdroj neuvádí roky ani pořadí vůči Zdeňku z Roupova"
+  },
+  {
+   "owner": "pani-z-roupova",
+   "owner_wiki": "Páni z Roupova",
+   "person": "Zdeněk z Roupova",
+   "from": null,
+   "to": 1620,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "zástavní majitel hradu; po bitvě na Bílé hoře (1620) mu byl hrad zabaven za účast na stavovském povstání"
+  },
+  {
+   "owner": "z-deblina",
+   "owner_wiki": null,
+   "person": "Maxmilián z Deblína",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "po roce 1710 nechal starý hrad přestavět v barokním slohu, musel jej tedy vlastnit již dříve; zdroj neuvádí rok nabytí, jen že po násilné smrti posledního příslušníka rodu zámek zanikl jako šlechtické sídlo"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "po vymření Deblínů byl zámek upraven na vojenskou nemocnici a získal pozdně klasicistní fasády, později byla velká část areálu poškozena vestavbou pivovaru; zdroj neuvádí konkrétního vlastníka ani rok"
+  }
+ ],
+ "events": [
+  {
+   "year": 1092,
+   "text": "vznikl samostatný znojemský úděl, pravděpodobně tehdy postaven hrad"
+  },
+  {
+   "year": 1404,
+   "text": "stoupenci markraběte Prokopa úspěšně ubránili hrad při obléhání vévodou Albrechtem Rakouským a králem Zikmundem"
+  },
+  {
+   "year": 1523,
+   "text": "před tímto rokem byl snížen bergfrit"
+  },
+  {
+   "year": 1620,
+   "text": "po bitvě na Bílé hoře zabaven hrad Zdeňku z Roupova za účast na stavovském povstání"
+  },
+  {
+   "year": 1710,
+   "text": "Maxmilián z Deblína nechal starý hrad přestavět v barokním slohu"
+  },
+  {
+   "year": 1892,
+   "text": "zřítila se osmiboká románská věž u brány do předhradí"
+  }
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Znojmo_(zámek)"
+ ]
+}

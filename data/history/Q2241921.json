@@ -1,0 +1,36 @@
+{
+ "id": "Q2241921",
+ "name": "Kostelec nad Černými lesy (zámek)",
+ "founded": {
+  "year": null,
+  "approx": false,
+  "text": "Kostelecký hrad byl založen ve 13. století, nejspíše (dle článku nejisté) Přemyslem Otakarem II. jako méně významný královský hrad."
+ },
+ "summary": "Kostelecký hrad založil ve 13. století nejspíše Přemysl Otakar II.; kolem roku 1325 jej král Jan Lucemburský vyměnil Ješkovi z Náchoda za Náchod a panství pak drželi jeho potomci jako královské léno, později se spolumajiteli stali Půta I. z Častolovic a páni z Klučova. Po prodejích Sekretářům ze Smržova (1415) a Slavatům z Chlumu a Košumberka (1492) byl roku 1547 Slavatům zkonfiskován a po požáru 1548 přestavěn na renesanční zámek; 1558-1621 byl hlavním sídlem Smiřických ze Smiřic, po Bílé hoře zkonfiskován a přes Albrechta z Valdštejna roku 1623 prodán Karlovi I. z Lichtenštejna. Lichtenštejnům patřil až do vyvlastnění při pozemkové reformě 1918, dnes je v majetku státu a sídlí v něm Školní lesní podnik ČZU Praha.",
+ "owners": [
+  {"owner": "koruna", "owner_wiki": null, "person": "Přemysl Otakar II.", "from": null, "to": 1325, "from_approx": false, "to_approx": true, "how": "zalozeni", "note": "hrad založen ve 13. století; autorství Přemysla Otakara II. je podle článku nejisté ('nejspíše')"},
+  {"owner": "pani-z-nachoda", "owner_wiki": "Páni z Náchoda", "person": "Ješek z Náchoda", "from": 1325, "to": 1359, "from_approx": true, "to_approx": false, "how": "vymena", "note": "výměna s Janem Lucemburským za Náchod okolo roku 1325 (článek Páni z Náchoda uvádí odlišně rok 1316 a konfiskaci Náchoda); roku 1340 král omezil Ješkovu manskou pravomoc nad hradními many"},
+  {"owner": "pani-z-nachoda", "owner_wiki": "Páni z Náchoda", "person": "Ješek z Náchoda, od 1359 jako léno; poté synové Hron, Ješek, Mikuláš, Mareš a Oldřich, později Jan z Náchoda", "from": 1359, "to": 1415, "from_approx": false, "to_approx": false, "how": "lenni", "note": "1359 Ješek přenechal hrad Karlu IV. a přijal jej zpět jako léno, manské držení synům potvrzeno 22. 2. 1359; od 1408 spoluvlastníkem Jan z Klučova"},
+  {"owner": "drslavici", "owner_wiki": "Drslavici", "person": "Půta I. z Častolovic", "from": 1366, "to": 1415, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "spoluvlastník od 1366, získal Ješkův nebo Hronův díl (v článku nejisté)"},
+  {"owner": "z-klucova", "owner_wiki": null, "person": "Jan z Klučova", "from": 1408, "to": 1415, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "spoluvlastník s Janem z Náchoda"},
+  {"owner": "ze-smrzova", "owner_wiki": null, "person": "Jan Sekretář ze Smržova", "from": 1415, "to": 1420, "from_approx": false, "to_approx": true, "how": "koupe", "note": "koupil hrad s vesnicí a dvory 1415; padl ve službách Zikmunda v bitvě pod Vyšehradem (1420)"},
+  {"owner": "ze-smrzova", "owner_wiki": null, "person": "Jan ze Smržova, poté synové Jindřich a Všebor", "from": 1420, "to": 1492, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "1471 bratři rozdělili majetek (Jan dostal Svrabov, Všebor zbytek); 1475 Všebor svůj díl prodal Jindřichovi za 500 kop grošů; 1492 Jindřich prodal celé panství"},
+  {"owner": "slavatove-z-chlumu-a-kosumberka", "owner_wiki": "Slavatové z Chlumu a Košumberka", "person": "Slavata z Chlumu a Košumberka, později Diviš Slavata", "from": 1492, "to": 1547, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupě za 1000 kop grošů; Diviši Slavatovi (†1575) byl majetek 1547 zkonfiskován za účast na prvním stavovském povstání"},
+  {"owner": "koruna", "owner_wiki": null, "person": "Ferdinand I. Habsburský", "from": 1547, "to": 1558, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "po požáru 1548 zajistil přestavbu hradu na renesanční zámek (architekti Hans Tirol a Ulrico Aostalli de Sala)"},
+  {"owner": "smiricti-ze-smiric", "owner_wiki": "Smiřičtí ze Smiřic", "person": "Jaroslav Smiřický ze Smiřic", "from": 1558, "to": 1621, "from_approx": false, "to_approx": false, "how": "koupe", "note": "učinil ze zámku hlavní sídlo rodu; majetek zkonfiskován 1621 po Bílé hoře za účast na stavovském povstání a evangelické vyznání"},
+  {"owner": "valdstejnove", "owner_wiki": "Valdštejnové", "person": "Albrecht z Valdštejna", "from": 1621, "to": 1623, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "zkonfiskované černokostelecké panství získal od Ferdinanda II. a roku 1623 je prodal"},
+  {"owner": "lichtenstejnove", "owner_wiki": "Lichtenštejnové", "person": "Karel I. z Lichtenštejna", "from": 1623, "to": 1918, "from_approx": false, "to_approx": false, "how": "koupe", "note": "od 1759 přestavba v barokním stylu za vévodkyně Marie Terezie Savojsko-Lichtenštejnské podle plánů Josefa Jägera; od 1850 část zámku sídlem okresního soudu"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1918, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "vyvlastnění Lichtenštejnům při pozemkové reformě po vzniku Československa; dnes sídlo Školního lesního podniku ČZU Praha, od 2021 v létě přístupný veřejnosti"}
+ ],
+ "events": [
+  {"year": 1359, "text": "Karel IV. potvrzuje manské (lenní) držení hradu synům Ješka z Náchoda"},
+  {"year": 1415, "text": "hrad prodán Janu Sekretáři ze Smržova"},
+  {"year": 1492, "text": "panství koupeno Slavaty z Chlumu a Košumberka"},
+  {"year": 1547, "text": "konfiskace majetku Diviši Slavatovi za účast na stavovském povstání"},
+  {"year": 1548, "text": "hrad částečně zničen požárem, zahájena přestavba na renesanční zámek"},
+  {"year": 1621, "text": "po Bílé hoře zkonfiskován majetek Smiřických ze Smiřic"},
+  {"year": 1759, "text": "barokní přestavba zámku za vévodkyně Marie Terezie Savojsko-Lichtenštejnské"},
+  {"year": 1918, "text": "vyvlastnění Lichtenštejnům při pozemkové reformě, zámek přechází do majetku státu"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Kostelec_nad_Černými_lesy_(zámek)", "https://cs.wikipedia.org/wiki/Páni_z_Náchoda"]
+}

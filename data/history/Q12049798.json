@@ -1,0 +1,26 @@
+{
+ "id": "Q12049798",
+ "name": "Rosice",
+ "founded": {"year": 1259, "approx": false, "text": "První dochovaná zmínka o rosickém hradu je z roku 1259, kdy jsou zmiňováni majitelé bratři Bohuš a Hartman z Rosic; ve 14. století zde byl vybudován gotický hrad rodem Hechtů z Rosic."},
+ "summary": "Rosický hrad je poprvé doložen roku 1259 v souvislosti s majiteli bratry Bohušem a Hartmanem z Rosic, ve 14. a 15. století patřil Hechtům z Rosic. V 16. století jej na zámek začal přestavovat Pertold z Lipé, renesanční přestavbu dokončili v 17. století Žerotínové; v 18. století patřil rosickému panství Jiří Hausperský z Fanalu. Posledním soukromým majitelem byl před první světovou válkou baron Mořic Arnold de Forest-Bischofsheim, který zámek nakonec odprodal státu; od druhé poloviny 20. století sloužil státní správě a koncem 20. století jej získalo do majetku město Rosice, které jej postupně zpřístupnilo veřejnosti.",
+ "owners": [
+  {"owner": "z-rosic", "owner_wiki": null, "person": "Bohuš a Hartman z Rosic", "from": 1259, "to": null, "from_approx": false, "to_approx": true, "how": "zalozeni", "note": "první písemná zmínka o hradu a jeho majitelích 1259; předpokládá se, že ve 13. století zde existovalo menší feudální sídlo"},
+  {"owner": "z-rosic", "owner_wiki": null, "person": "Hechtové z Rosic", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "erb se stříbrnou štikou v červeném poli; drželi Rosice ve 14.-15. století (zdroj neuvádí přesná léta), hrad byl v 15. století poškozen za husitské revoluce a poté opraven"},
+  {"owner": "pani-z-lipe", "owner_wiki": "Páni z Lipé", "person": "Pertold z Lipé", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "za něj byla pravděpodobně zahájena přestavba hradu na renesanční zámek (16. století); zdroj neuvádí přesná léta ani způsob nabytí"},
+  {"owner": "zerotinove", "owner_wiki": "Žerotínové", "person": null, "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "dokončili rozsáhlou renesanční přestavbu zámku v 17. století; přesná léta držby zdroj neuvádí"},
+  {"owner": "z-fanalu", "owner_wiki": null, "person": "Jiří Hausperský z Fanalu", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "majitel rosického panství v 18. století, založil poutní kapli Nejsvětější Trojice; přesná léta držby zdroj neuvádí"},
+  {"owner": "de-forest-bischofsheim", "owner_wiki": null, "person": "Mořic Arnold baron de Forest-Bischofsheim", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "koupe", "note": "poslední soukromý majitel, získal rosické panství spolu s panstvím Veveří před první světovou válkou; vzdoroval pozemkové reformě, ale majetek nakonec odprodal státu; přesné roky nabytí ani prodeje zdroj neuvádí"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "koupe", "note": "roku 1919 uvalilo ministerstvo zemědělství na panství vnucenou správu (Jeroným Marek); od 2. poloviny 20. století v zámku sídlily státní instituce (Veřejná bezpečnost, Civilní obrana, Státní lesy aj.); přesný rok koupě státem zdroj neuvádí"},
+  {"owner": "mesto", "owner_wiki": null, "person": "město Rosice", "from": null, "to": null, "from_approx": true, "to_approx": false, "how": "jine", "note": "koncem 20. století získalo zámek do majetku město Rosice, které přes Správu zámku zahájilo rekonstrukci a zpřístupňování veřejnosti; dnes sídlo knihovny, ZUŠ, SVČ a obecního úřadu s rozšířenou působností"}
+ ],
+ "events": [
+  {"year": 1259, "text": "první písemná zmínka o rosickém hradu a jeho majitelích"},
+  {"year": 1919, "text": "ministerstvo zemědělství uvaluje na rosické panství vnucenou správu"},
+  {"year": 1964, "text": "zámek prohlášen kulturní památkou"},
+  {"year": 2023, "text": "zámek se stal národní kulturní památkou"}
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Rosice_(zámek,_okres_Brno-venkov)",
+  "https://cs.wikipedia.org/wiki/Rosice"
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "id": "Q2242143",
+ "name": "Litultovice",
+ "founded": {"year": null, "approx": false, "text": "První písemná zmínka o tvrzi je z roku 1446 za vlády Václava Kosíře z Litultovic; přesný rok založení zdroj neuvádí."},
+ "summary": "Zámek v Litultovicích vznikl přestavbou tvrze, poprvé doložené roku 1446 za Václava Kosíře z Litultovic. Roku 1573 jej koupil Otík Stoš z Kounic, v letech 1580-1614 jej jako léno drželi Bítovští z Bítova a renesančně přestavěli; po Bílé hoře byl roku 1621 zkonfiskován a stal se lénem olomouckého arcibiskupa, později patřil Orlíkům z Laziska, Tetzlernům, kteří jej v polovině 18. století barokně přestavěli, a od roku 1792 do konce druhé světové války rodu Rollsbergů. Po roce 1945 sloužil zámek JZD, od roku 1947 připadl místnímu národnímu výboru a dnes je v něm sídlo úřadu městyse Litultovice.",
+ "owners": [
+  {"owner": "z-litultovic", "owner_wiki": null, "person": "Václav Kosíř z Litultovic", "from": null, "to": 1573, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "první písemná zmínka o tvrzi 1446 za jeho vlády; rod bez vlastního článku na cs.wiki, přesný rok nabytí zdroj neuvádí"},
+  {"owner": "stosove-z-kounic", "owner_wiki": "Stošové z Kounic", "person": "Otík Stoš z Kounic, poté Jan Stoš z Kounic", "from": 1573, "to": 1580, "from_approx": false, "to_approx": false, "how": "koupe", "note": "Jan Stoš z Kounic dokončil roku 1579 přestavbu zámku"},
+  {"owner": "bitovsti-z-bitova", "owner_wiki": "Bítovští z Bítova", "person": null, "from": 1580, "to": 1614, "from_approx": false, "to_approx": false, "how": "lenni", "note": "drželi zámek jako léno, přestavěli jej, vznikl nový a starý zámek"},
+  {"owner": "cirkev", "owner_wiki": null, "person": "olomoucké arcibiskupství", "from": 1621, "to": 1647, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "majetek zkonfiskován po Bílé hoře a stal se lénem olomouckého arcibiskupa; majitel v letech 1614-1621 zdroj neuvádí"},
+  {"owner": "orlikove-z-laziska", "owner_wiki": "Orlíkové z Laziska", "person": null, "from": 1647, "to": 1694, "from_approx": false, "to_approx": false, "how": "lenni", "note": "zdroj uvádí 'mladší Orlíkové z Laziska'"},
+  {"owner": "tetzlernove", "owner_wiki": null, "person": null, "from": 1714, "to": 1792, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "rod bez vlastního článku na cs.wiki; za jejich držby byl zámek v polovině 18. století barokně přestavěn; majitel v letech 1694-1714 zdroj neuvádí"},
+  {"owner": "rollsbergove", "owner_wiki": null, "person": "baron Karel z Rollsbergu", "from": 1792, "to": 1920, "from_approx": false, "to_approx": false, "how": "koupe", "note": "rod bez vlastního článku na cs.wiki; Karel z Rollsbergu zemřel 1920, jeho jediný syn Maxmilián padl v 1. světové válce v Haliči"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "generál Alfréd Waldsttäten (správce panství)", "from": 1920, "to": 1945, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "po smrti barona Karla z Rollsbergu a bezdětnosti dědice převzal správu panství jako poslední starosta; roku 1945 zatčen jako německý státní příslušník; není jasné, zda šlo o vlastníka nebo jen správce"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": 1947, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "po válce zámek sloužil potřebám JZD"},
+  {"owner": "mesto", "owner_wiki": null, "person": null, "from": 1947, "to": null, "from_approx": false, "to_approx": false, "how": "jine", "note": "přidělen místnímu národnímu výboru; dnes sídlo úřadu městyse Litultovice"}
+ ],
+ "events": [
+  {"year": 1446, "text": "první písemná zmínka o tvrzi za Václava Kosíře z Litultovic"},
+  {"year": 1579, "text": "dokončena renesanční přestavba zámku Janem Stošem z Kounic"},
+  {"year": 1614, "text": "dokončena přestavba Bítovských z Bítova na renesanční zámek (nový a starý zámek)"},
+  {"year": 1621, "text": "konfiskace majetku po Bílé hoře, zámek se stal lénem olomouckého arcibiskupa"},
+  {"year": 1750, "text": "barokní přestavba zámku za Tetzlernů (polovina 18. století)"},
+  {"year": 1945, "text": "konec 2. světové války, zatčení posledního správce panství jako německého státního příslušníka"},
+  {"year": 1979, "text": "dokončena rozsáhlá rekonstrukce navracející zámku původní vzhled (1972-1979)"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Litultovice_(zámek)"]
+}
