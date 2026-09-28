@@ -66,8 +66,9 @@ export function ownerAt(place, year) {
   if (!owners) return null;
   let hit = null;
   for (const o of owners) {
-    const from = o.from ?? -Infinity;
-    const to = o.to ?? NOW;
+    if (o.from == null) continue; // unknown start: cannot place it in time
+    const from = o.from;
+    const to = o.to ?? (o.to_unknown ? from : NOW);
     if (from <= year && year <= to) hit = o;
   }
   return hit;
@@ -124,7 +125,7 @@ export function century(year) {
 
 export function yearRange(o) {
   const f = o.from == null ? "?" : (o.from_approx ? "~" : "") + o.from;
-  const t = o.to == null ? "dosud" : (o.to_approx ? "~" : "") + o.to;
+  const t = o.to == null ? (o.to_unknown ? "?" : "dosud") : (o.to_approx ? "~" : "") + o.to;
   return `${f} - ${t}`;
 }
 

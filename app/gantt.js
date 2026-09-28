@@ -44,7 +44,7 @@ function niceTicks(min, max, width) {
  */
 export function renderGantt(container, rows, events = [], opts = {}) {
   const width = container.clientWidth || 360;
-  const labelW = opts.labelWidth ?? Math.min(150, Math.round(width * 0.38));
+  const labelW = opts.labelWidth ?? Math.min(width > 600 ? 260 : 150, Math.round(width * 0.38)); // wide panels: room for full names
   const rowH = 34;
   const top = 22;
   const years = rows.flatMap((r) => (r.segments || [r]).flatMap((g) => [g.from, g.to ?? NOW])).concat(events.map((e) => e.year)).filter((y) => y != null);
@@ -89,7 +89,8 @@ export function renderGantt(container, rows, events = [], opts = {}) {
     s += lbl;
     if (r.sub) s += `<text class="sub" x="0" y="${y + 26}">${esc(fit(r.sub, labelW, 5.7))}</text>`;
     segs.forEach((g, j) => {
-      const x0 = x(Math.max(min, g.from ?? min));
+      if (g.from == null || (g.to == null && g.toUnknown)) return; // unknown years: no bar, the label says "?"
+      const x0 = x(Math.max(min, g.from));
       const x1 = Math.max(x0 + 4, x(Math.min(max, g.to ?? NOW)));
       const fill = g.fromApprox || g.toApprox ? `url(#g${uid}${i}_${j})` : r.color;
       s += `<rect x="${x0}" y="${y + 10}" width="${x1 - x0}" height="10" rx="4" fill="${fill}"/>`;

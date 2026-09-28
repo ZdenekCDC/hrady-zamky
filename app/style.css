@@ -128,7 +128,12 @@ main { flex: 1; min-height: 0; display: flex; }
   width: 400px; flex: none; overflow-y: auto; background: var(--surface-1);
   border-left: 1px solid var(--border); padding: 14px 16px 40px;
 }
+#sidebar.wide { width: min(1100px, 70vw); }
+#sidebar.wide .hero-img { aspect-ratio: auto; height: 220px; }
+#sidebar.wide #panel-detail select { max-width: 320px; }
 @media (max-width: 800px) {
+  .wide-toggle { display: none; }
+  #sidebar.wide { width: auto; }
   #view-map { flex-direction: column; }
   #map { min-height: 55vh; }
   #sidebar { width: auto; border-left: 0; border-top: 1px solid var(--border); }

@@ -3242,11 +3242,11 @@
    {
     "place": "Q11878924",
     "from": 1668,
-    "to": null,
+    "to": 1847,
     "person": "Jiří Štěpán Bruntálský z Vrbna",
     "how": "koupe",
     "from_approx": false,
-    "to_approx": false
+    "to_approx": true
    },
    {
     "place": "Q12033148",
@@ -3409,7 +3409,7 @@
    },
    {
     "place": "Q11878924",
-    "year": null,
+    "year": 1847,
     "from": "bruntalsti-z-vrbna",
     "to": "mesto",
     "how": "neznamo"
@@ -3591,7 +3591,7 @@
    {
     "place": "Q2240663",
     "from": 1990,
-    "to": null,
+    "to": 2008,
     "person": "Adam Bubna-Litic a Eleonora Dujková (sourozenci)",
     "how": "restituce",
     "from_approx": true,
@@ -3599,11 +3599,11 @@
    },
    {
     "place": "Q2240663",
-    "from": null,
+    "from": 2008,
     "to": null,
     "person": "Barbora Tomášková (vnučka Eleonory Dujkové)",
     "how": "dedictvi",
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": false
    },
    {
@@ -5655,8 +5655,8 @@
   "places": [
    {
     "place": "Q12049798",
-    "from": null,
-    "to": null,
+    "from": 1738,
+    "to": 1834,
     "person": "Mořic Arnold baron de Forest-Bischofsheim",
     "how": "koupe",
     "from_approx": true,
@@ -5666,14 +5666,14 @@
   "transfers": [
    {
     "place": "Q12049798",
-    "year": null,
+    "year": 1738,
     "from": "z-fanalu",
     "to": "de-forest-bischofsheim",
     "how": "koupe"
    },
    {
     "place": "Q12049798",
-    "year": null,
+    "year": 1834,
     "from": "de-forest-bischofsheim",
     "to": "stat",
     "how": "koupe"
@@ -5961,7 +5961,7 @@
    {
     "place": "Q11863116",
     "from": 1572,
-    "to": null,
+    "to": 1799,
     "person": "Adam z Ditrichštejna",
     "how": "koupe",
     "from_approx": false,
@@ -6169,7 +6169,7 @@
    },
    {
     "place": "Q11863116",
-    "year": null,
+    "year": 1799,
     "from": "ditrichstejnove",
     "to": "stat",
     "how": "neznamo"
@@ -12565,11 +12565,11 @@
    {
     "place": "Q1013542",
     "from": 1675,
-    "to": null,
+    "to": 1850,
     "person": "Jan Václav Novohradský z Kolovrat",
     "how": "koupe",
     "from_approx": false,
-    "to_approx": false
+    "to_approx": true
    },
    {
     "place": "Q1014274",
@@ -12713,7 +12713,7 @@
    },
    {
     "place": "Q1013542",
-    "year": null,
+    "year": 1850,
     "from": "kolovratove",
     "to": "stat",
     "how": "neznamo"
@@ -15849,7 +15849,7 @@
    {
     "place": "Q10815830",
     "from": 1629,
-    "to": null,
+    "to": 1828,
     "person": "Karel z Lichtenštejna a potomci",
     "how": "dar",
     "from_approx": false,
@@ -16331,7 +16331,7 @@
    },
    {
     "place": "Q10815830",
-    "year": null,
+    "year": 1828,
     "from": "lichtenstejnove",
     "to": "mesto",
     "how": "neznamo"
@@ -20008,7 +20008,7 @@
    {
     "place": "Q31145809",
     "from": 1650,
-    "to": null,
+    "to": 1744,
     "person": "Otto svobodný pán z Nostitz",
     "how": "neznamo",
     "from_approx": true,
@@ -20016,8 +20016,8 @@
    },
    {
     "place": "Q31145809",
-    "from": null,
-    "to": null,
+    "from": 1744,
+    "to": 1838,
     "person": "Kryštof Václav z Nostic",
     "how": "dedictvi",
     "from_approx": true,
@@ -20025,8 +20025,8 @@
    },
    {
     "place": "Q31145809",
-    "from": null,
-    "to": null,
+    "from": 1838,
+    "to": 1932,
     "person": "Jan Karel hrabě z Nostitz",
     "how": "dedictvi",
     "from_approx": true,
@@ -20034,7 +20034,7 @@
    },
    {
     "place": "Q31145809",
-    "from": null,
+    "from": 1932,
     "to": null,
     "person": "Josef hrabě z Nostic",
     "how": "dedictvi",
@@ -20623,7 +20623,7 @@
    {
     "place": "Q2240221",
     "from": 1990,
-    "to": null,
+    "to": 2008,
     "person": "Alfons Václav Paar, Karel Eduard Paar a Eleonora Markéta Paarová",
     "how": "restituce",
     "from_approx": true,
@@ -20654,7 +20654,7 @@
    },
    {
     "place": "Q2240221",
-    "year": null,
+    "year": 2008,
     "from": "paarove",
     "to": "soukromnik",
     "how": "koupe"
@@ -23241,15 +23241,6 @@
     "to_approx": true
    },
    {
-    "place": "Q188015",
-    "from": null,
-    "to": null,
-    "person": "Jiří z Poděbrad",
-    "how": "neznamo",
-    "from_approx": false,
-    "to_approx": false
-   },
-   {
     "place": "Q2240221",
     "from": 1340,
     "to": 1340,
@@ -23554,20 +23545,6 @@
     "how": "dedictvi"
    },
    {
-    "place": "Q188015",
-    "year": null,
-    "from": "valdstejnove",
-    "to": "pani-z-kunstatu-a-podebrad",
-    "how": "neznamo"
-   },
-   {
-    "place": "Q188015",
-    "year": null,
-    "from": "pani-z-kunstatu-a-podebrad",
-    "to": "slikove",
-    "how": "neznamo"
-   },
-   {
     "place": "Q2240221",
     "year": 1340,
     "from": "rozmberkove",
@@ -23687,7 +23664,7 @@
     "how": "neznamo"
    }
   ],
-  "place_count": 25,
+  "place_count": 24,
   "color_slot": 5
  },
  "pani-z-linavy": {
@@ -23837,8 +23814,8 @@
    },
    {
     "place": "Q12049798",
-    "from": null,
-    "to": null,
+    "from": 1451,
+    "to": 1547,
     "person": "Pertold z Lipé",
     "how": "neznamo",
     "from_approx": true,
@@ -24027,14 +24004,14 @@
    },
    {
     "place": "Q12049798",
-    "year": null,
+    "year": 1451,
     "from": "z-rosic",
     "to": "pani-z-lipe",
     "how": "neznamo"
    },
    {
     "place": "Q12049798",
-    "year": null,
+    "year": 1547,
     "from": "pani-z-lipe",
     "to": "zerotinove",
     "how": "neznamo"
@@ -26258,11 +26235,11 @@
    {
     "place": "Q10502205",
     "from": 1659,
-    "to": null,
+    "to": 1842,
     "person": "Marie Magdalena ze Švamberka (vdova po Janu Bedřichovi)",
     "how": "dedictvi",
     "from_approx": false,
-    "to_approx": false
+    "to_approx": true
    },
    {
     "place": "Q1104565",
@@ -26642,7 +26619,7 @@
    },
    {
     "place": "Q10502205",
-    "year": null,
+    "year": 1842,
     "from": "pani-ze-svamberka",
     "to": "z-heisenstejna",
     "how": "koupe"
@@ -29333,7 +29310,7 @@
   "places": [
    {
     "place": "Q19800573",
-    "from": null,
+    "from": 1464,
     "to": 1475,
     "person": "Václav Lukava z Račína",
     "how": "jine",
@@ -29362,7 +29339,7 @@
   "transfers": [
    {
     "place": "Q19800573",
-    "year": null,
+    "year": 1464,
     "from": "z-rakove",
     "to": "racinove-z-racina",
     "how": "jine"
@@ -33375,15 +33352,6 @@
     "to_approx": false
    },
    {
-    "place": "Q188015",
-    "from": null,
-    "to": null,
-    "person": null,
-    "how": "neznamo",
-    "from_approx": false,
-    "to_approx": false
-   },
-   {
     "place": "Q19800602",
     "from": 1628,
     "to": 1662,
@@ -33552,20 +33520,6 @@
     "how": "dedictvi"
    },
    {
-    "place": "Q188015",
-    "year": null,
-    "from": "pani-z-kunstatu-a-podebrad",
-    "to": "slikove",
-    "how": "neznamo"
-   },
-   {
-    "place": "Q188015",
-    "year": null,
-    "from": "slikove",
-    "to": "trckove-z-lipy",
-    "how": "neznamo"
-   },
-   {
     "place": "Q19800602",
     "year": 1628,
     "from": "stampachove-ze-stampachu",
@@ -33622,7 +33576,7 @@
     "how": "neznamo"
    }
   ],
-  "place_count": 11,
+  "place_count": 10,
   "color_slot": null
  },
  "smiricti-ze-smiric": {
@@ -36345,7 +36299,7 @@
    {
     "place": "Q1011076",
     "from": 1628,
-    "to": null,
+    "to": 1761,
     "person": "Kryštof Šimon z Thunu",
     "how": "koupe",
     "from_approx": false,
@@ -36587,7 +36541,7 @@
    },
    {
     "place": "Q1011076",
-    "year": null,
+    "year": 1761,
     "from": "thun-hohensteinove",
     "to": "stat",
     "how": "neznamo"
@@ -36952,11 +36906,11 @@
    {
     "place": "Q1012998",
     "from": 1842,
-    "to": null,
+    "to": 1934,
     "person": "Josefína Trauttmansdorffová",
     "how": "koupe",
     "from_approx": false,
-    "to_approx": false
+    "to_approx": true
    },
    {
     "place": "Q11176339",
@@ -37059,7 +37013,7 @@
    },
    {
     "place": "Q1012998",
-    "year": null,
+    "year": 1934,
     "from": "trauttmansdorffove",
     "to": "stat",
     "how": "neznamo"
@@ -37582,7 +37536,7 @@
    {
     "place": "Q188015",
     "year": null,
-    "from": "slikove",
+    "from": "koruna",
     "to": "trckove-z-lipy",
     "how": "neznamo"
    },
@@ -38163,15 +38117,6 @@
     "to_approx": true
    },
    {
-    "place": "Q188015",
-    "from": null,
-    "to": null,
-    "person": "Albrecht z Valdštejna",
-    "how": "neznamo",
-    "from_approx": false,
-    "to_approx": false
-   },
-   {
     "place": "Q2164885",
     "from": 1757,
     "to": 1855,
@@ -38723,20 +38668,6 @@
     "how": "koupe"
    },
    {
-    "place": "Q188015",
-    "year": null,
-    "from": "vartenberkove",
-    "to": "valdstejnove",
-    "how": "neznamo"
-   },
-   {
-    "place": "Q188015",
-    "year": null,
-    "from": "valdstejnove",
-    "to": "pani-z-kunstatu-a-podebrad",
-    "how": "neznamo"
-   },
-   {
     "place": "Q2164885",
     "year": 1757,
     "from": "trauttmansdorffove",
@@ -39031,7 +38962,7 @@
     "how": "snatek"
    }
   ],
-  "place_count": 43,
+  "place_count": 42,
   "color_slot": 1
  },
  "valecovsti-z-valecova": {
@@ -39360,15 +39291,6 @@
     "to_approx": true
    },
    {
-    "place": "Q188015",
-    "from": null,
-    "to": null,
-    "person": null,
-    "how": "neznamo",
-    "from_approx": false,
-    "to_approx": false
-   },
-   {
     "place": "Q2240237",
     "from": 1479,
     "to": 1479,
@@ -39666,20 +39588,6 @@
     "how": "jine"
    },
    {
-    "place": "Q188015",
-    "year": null,
-    "from": "koruna",
-    "to": "vartenberkove",
-    "how": "neznamo"
-   },
-   {
-    "place": "Q188015",
-    "year": null,
-    "from": "vartenberkove",
-    "to": "valdstejnove",
-    "how": "neznamo"
-   },
-   {
     "place": "Q2240237",
     "year": 1479,
     "from": "vartenberkove",
@@ -39806,7 +39714,7 @@
     "how": "neznamo"
    }
   ],
-  "place_count": 24,
+  "place_count": 23,
   "color_slot": 6
  },
  "vernierove": {
@@ -42173,7 +42081,7 @@
   "places": [
    {
     "place": "Q2536208",
-    "from": null,
+    "from": 1342,
     "to": 1416,
     "person": "Sezema z Chotěnic",
     "how": "neznamo",
@@ -42184,7 +42092,7 @@
   "transfers": [
    {
     "place": "Q2536208",
-    "year": null,
+    "year": 1342,
     "from": "cirkev",
     "to": "z-chotenic",
     "how": "neznamo"
@@ -42380,7 +42288,7 @@
    {
     "place": "Q8073144",
     "from": 1620,
-    "to": null,
+    "to": 1823,
     "person": "Maxmilián z Deblína",
     "how": "neznamo",
     "from_approx": true,
@@ -42397,7 +42305,7 @@
    },
    {
     "place": "Q8073144",
-    "year": null,
+    "year": 1823,
     "from": "z-deblina",
     "to": "stat",
     "how": "jine"
@@ -42555,7 +42463,7 @@
    {
     "place": "Q12018569",
     "from": 1549,
-    "to": null,
+    "to": 1788,
     "person": "Hanuš Elpognár z Dolního Šenfeldu",
     "how": "koupe",
     "from_approx": false,
@@ -42572,7 +42480,7 @@
    },
    {
     "place": "Q12018569",
-    "year": null,
+    "year": 1788,
     "from": "z-dolniho-senfeldu",
     "to": "stat",
     "how": "neznamo"
@@ -43089,8 +42997,8 @@
   "places": [
    {
     "place": "Q12049798",
-    "from": null,
-    "to": null,
+    "from": 1642,
+    "to": 1738,
     "person": "Jiří Hausperský z Fanalu",
     "how": "neznamo",
     "from_approx": true,
@@ -43100,14 +43008,14 @@
   "transfers": [
    {
     "place": "Q12049798",
-    "year": null,
+    "year": 1642,
     "from": "zerotinove",
     "to": "z-fanalu",
     "how": "neznamo"
    },
    {
     "place": "Q12049798",
-    "year": null,
+    "year": 1738,
     "from": "z-fanalu",
     "to": "de-forest-bischofsheim",
     "how": "koupe"
@@ -43610,18 +43518,18 @@
   "places": [
    {
     "place": "Q10502205",
-    "from": null,
+    "from": 1842,
     "to": null,
     "person": "Jan Kryštof Ferdinand z Heisenštejna",
     "how": "koupe",
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": false
    }
   ],
   "transfers": [
    {
     "place": "Q10502205",
-    "year": null,
+    "year": 1842,
     "from": "pani-ze-svamberka",
     "to": "z-heisenstejna",
     "how": "koupe"
@@ -49195,7 +49103,7 @@
    {
     "place": "Q19800573",
     "from": 1454,
-    "to": null,
+    "to": 1464,
     "person": "Oldřich z Rakové a z Radyně",
     "how": "lenni",
     "from_approx": false,
@@ -49221,7 +49129,7 @@
    },
    {
     "place": "Q19800573",
-    "year": null,
+    "year": 1464,
     "from": "z-rakove",
     "to": "racinove-z-racina",
     "how": "jine"
@@ -49575,7 +49483,7 @@
    {
     "place": "Q12049798",
     "from": 1259,
-    "to": null,
+    "to": 1355,
     "person": "Bohuš a Hartman z Rosic",
     "how": "zalozeni",
     "from_approx": false,
@@ -49583,8 +49491,8 @@
    },
    {
     "place": "Q12049798",
-    "from": null,
-    "to": null,
+    "from": 1355,
+    "to": 1451,
     "person": "Hechtové z Rosic",
     "how": "neznamo",
     "from_approx": true,
@@ -49594,7 +49502,7 @@
   "transfers": [
    {
     "place": "Q12049798",
-    "year": null,
+    "year": 1451,
     "from": "z-rosic",
     "to": "pani-z-lipe",
     "how": "neznamo"
@@ -51663,7 +51571,7 @@
    {
     "place": "Q631338",
     "from": 1415,
-    "to": null,
+    "to": 1720,
     "person": "Ondřej či Vaněk Paldr z Vařin",
     "how": "jine",
     "from_approx": false,
@@ -51680,7 +51588,7 @@
    },
    {
     "place": "Q631338",
-    "year": null,
+    "year": 1720,
     "from": "z-varin",
     "to": "neznamo",
     "how": "neznamo"
@@ -54189,8 +54097,8 @@
    },
    {
     "place": "Q12049798",
-    "from": null,
-    "to": null,
+    "from": 1547,
+    "to": 1642,
     "person": null,
     "how": "neznamo",
     "from_approx": true,
@@ -54467,14 +54375,14 @@
    },
    {
     "place": "Q12049798",
-    "year": null,
+    "year": 1547,
     "from": "pani-z-lipe",
     "to": "zerotinove",
     "how": "neznamo"
    },
    {
     "place": "Q12049798",
-    "year": null,
+    "year": 1642,
     "from": "zerotinove",
     "to": "z-fanalu",
     "how": "neznamo"
@@ -55170,7 +55078,7 @@
    },
    {
     "place": "Q631338",
-    "from": null,
+    "from": 1720,
     "to": null,
     "person": null,
     "how": "neznamo",
@@ -55744,7 +55652,7 @@
    },
    {
     "place": "Q631338",
-    "year": null,
+    "year": 1720,
     "from": "z-varin",
     "to": "neznamo",
     "how": "neznamo"
@@ -56234,7 +56142,7 @@
    {
     "place": "Q1068732",
     "from": 1322,
-    "to": null,
+    "to": 1674,
     "person": "České království",
     "how": "jine",
     "from_approx": true,
@@ -56936,18 +56844,9 @@
    {
     "place": "Q188015",
     "from": null,
-    "to": 1316,
-    "person": "Václav II.",
-    "how": "zalozeni",
-    "from_approx": true,
-    "to_approx": false
-   },
-   {
-    "place": "Q188015",
-    "from": 1316,
     "to": null,
-    "person": "Jan Lucemburský",
-    "how": "neznamo",
+    "person": "Václav II., Jan Lucemburský",
+    "how": "zalozeni",
     "from_approx": true,
     "to_approx": false
    },
@@ -58200,7 +58099,7 @@
    },
    {
     "place": "Q1068732",
-    "year": null,
+    "year": 1674,
     "from": "koruna",
     "to": "stat",
     "how": "neznamo"
@@ -59077,7 +58976,7 @@
     "place": "Q188015",
     "year": null,
     "from": "koruna",
-    "to": "vartenberkove",
+    "to": "trckove-z-lipy",
     "how": "neznamo"
    },
    {
@@ -60009,8 +59908,8 @@
   "places": [
    {
     "place": "Q1011076",
-    "from": null,
-    "to": null,
+    "from": 1761,
+    "to": 1893,
     "person": "Lesy ČR",
     "how": "neznamo",
     "from_approx": true,
@@ -60073,7 +59972,7 @@
    {
     "place": "Q1012308",
     "from": 1945,
-    "to": null,
+    "to": 1986,
     "person": null,
     "how": "konfiskace",
     "from_approx": false,
@@ -60135,11 +60034,11 @@
    },
    {
     "place": "Q1012998",
-    "from": null,
+    "from": 1934,
     "to": null,
     "person": null,
     "how": "neznamo",
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": false
    },
    {
@@ -60189,11 +60088,11 @@
    },
    {
     "place": "Q1013542",
-    "from": null,
+    "from": 1850,
     "to": null,
     "person": null,
     "how": "neznamo",
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": false
    },
    {
@@ -60306,7 +60205,7 @@
    },
    {
     "place": "Q1068732",
-    "from": null,
+    "from": 1674,
     "to": null,
     "person": null,
     "how": "neznamo",
@@ -60486,7 +60385,7 @@
    },
    {
     "place": "Q11863116",
-    "from": null,
+    "from": 1799,
     "to": null,
     "person": "Lesy České republiky",
     "how": "neznamo",
@@ -60522,7 +60421,7 @@
    },
    {
     "place": "Q12018569",
-    "from": null,
+    "from": 1788,
     "to": null,
     "person": null,
     "how": "neznamo",
@@ -60559,7 +60458,7 @@
    {
     "place": "Q12038651",
     "from": 1945,
-    "to": null,
+    "to": 1986,
     "person": null,
     "how": "konfiskace",
     "from_approx": false,
@@ -60621,8 +60520,8 @@
    },
    {
     "place": "Q12049798",
-    "from": null,
-    "to": null,
+    "from": 1834,
+    "to": 1930,
     "person": null,
     "how": "koupe",
     "from_approx": true,
@@ -60811,11 +60710,11 @@
    {
     "place": "Q1418278",
     "from": 1945,
-    "to": null,
+    "to": 1986,
     "person": null,
     "how": "konfiskace",
     "from_approx": true,
-    "to_approx": false
+    "to_approx": true
    },
    {
     "place": "Q1421237",
@@ -61594,7 +61493,7 @@
    {
     "place": "Q28048966",
     "from": 1945,
-    "to": null,
+    "to": 1986,
     "person": null,
     "how": "konfiskace",
     "from_approx": false,
@@ -61765,11 +61664,11 @@
    {
     "place": "Q33417123",
     "from": 1948,
-    "to": null,
+    "to": 1987,
     "person": null,
     "how": "konfiskace",
     "from_approx": true,
-    "to_approx": false
+    "to_approx": true
    },
    {
     "place": "Q3490598",
@@ -61918,7 +61817,7 @@
    {
     "place": "Q369694",
     "from": 1952,
-    "to": null,
+    "to": 1989,
     "person": null,
     "how": "jine",
     "from_approx": false,
@@ -62187,21 +62086,21 @@
    },
    {
     "place": "Q8073144",
-    "from": null,
+    "from": 1823,
     "to": null,
     "person": null,
     "how": "jine",
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": false
    },
    {
     "place": "Q80843",
     "from": 1922,
-    "to": null,
+    "to": 1974,
     "person": "Československo",
     "how": "dar",
     "from_approx": false,
-    "to_approx": false
+    "to_approx": true
    },
    {
     "place": "Q874734",
@@ -62288,14 +62187,14 @@
   "transfers": [
    {
     "place": "Q1011076",
-    "year": null,
+    "year": 1761,
     "from": "thun-hohensteinove",
     "to": "stat",
     "how": "neznamo"
    },
    {
     "place": "Q1011076",
-    "year": null,
+    "year": 1893,
     "from": "stat",
     "to": "mesto",
     "how": "koupe"
@@ -62372,7 +62271,7 @@
    },
    {
     "place": "Q1012308",
-    "year": null,
+    "year": 1986,
     "from": "stat",
     "to": "mesto",
     "how": "jine"
@@ -62442,7 +62341,7 @@
    },
    {
     "place": "Q1012998",
-    "year": null,
+    "year": 1934,
     "from": "trauttmansdorffove",
     "to": "stat",
     "how": "neznamo"
@@ -62498,7 +62397,7 @@
    },
    {
     "place": "Q1013542",
-    "year": null,
+    "year": 1850,
     "from": "kolovratove",
     "to": "stat",
     "how": "neznamo"
@@ -62617,7 +62516,7 @@
    },
    {
     "place": "Q1068732",
-    "year": null,
+    "year": 1674,
     "from": "koruna",
     "to": "stat",
     "how": "neznamo"
@@ -62834,7 +62733,7 @@
    },
    {
     "place": "Q11863116",
-    "year": null,
+    "year": 1799,
     "from": "ditrichstejnove",
     "to": "stat",
     "how": "neznamo"
@@ -62862,7 +62761,7 @@
    },
    {
     "place": "Q12018569",
-    "year": null,
+    "year": 1788,
     "from": "z-dolniho-senfeldu",
     "to": "stat",
     "how": "neznamo"
@@ -62918,7 +62817,7 @@
    },
    {
     "place": "Q12038651",
-    "year": null,
+    "year": 1986,
     "from": "stat",
     "to": "mesto",
     "how": "jine"
@@ -62988,14 +62887,14 @@
    },
    {
     "place": "Q12049798",
-    "year": null,
+    "year": 1834,
     "from": "de-forest-bischofsheim",
     "to": "stat",
     "how": "koupe"
    },
    {
     "place": "Q12049798",
-    "year": null,
+    "year": 1930,
     "from": "stat",
     "to": "mesto",
     "how": "jine"
@@ -63177,7 +63076,7 @@
    },
    {
     "place": "Q1418278",
-    "year": null,
+    "year": 1986,
     "from": "stat",
     "to": "mesto",
     "how": "jine"
@@ -64038,7 +63937,7 @@
    },
    {
     "place": "Q28048966",
-    "year": null,
+    "year": 1986,
     "from": "stat",
     "to": "mesto",
     "how": "jine"
@@ -64283,7 +64182,7 @@
    },
    {
     "place": "Q33417123",
-    "year": null,
+    "year": 1987,
     "from": "stat",
     "to": "mesto",
     "how": "neznamo"
@@ -64437,7 +64336,7 @@
    },
    {
     "place": "Q369694",
-    "year": null,
+    "year": 1989,
     "from": "stat",
     "to": "mesto",
     "how": "jine"
@@ -64710,7 +64609,7 @@
    },
    {
     "place": "Q8073144",
-    "year": null,
+    "year": 1823,
     "from": "z-deblina",
     "to": "stat",
     "how": "jine"
@@ -64724,7 +64623,7 @@
    },
    {
     "place": "Q80843",
-    "year": null,
+    "year": 1974,
     "from": "stat",
     "to": "mesto",
     "how": "neznamo"
@@ -64804,7 +64703,7 @@
   "places": [
    {
     "place": "Q1011076",
-    "from": null,
+    "from": 1893,
     "to": null,
     "person": "obec Ryjice",
     "how": "koupe",
@@ -64831,7 +64730,7 @@
    },
    {
     "place": "Q1012290",
-    "from": null,
+    "from": 1956,
     "to": null,
     "person": null,
     "how": "neznamo",
@@ -64849,7 +64748,7 @@
    },
    {
     "place": "Q1012308",
-    "from": null,
+    "from": 1986,
     "to": null,
     "person": "Olomoucký kraj",
     "how": "jine",
@@ -64894,7 +64793,7 @@
    },
    {
     "place": "Q1012715",
-    "from": null,
+    "from": 1974,
     "to": null,
     "person": null,
     "how": "neznamo",
@@ -64921,7 +64820,7 @@
    },
    {
     "place": "Q1012914",
-    "from": null,
+    "from": 1980,
     "to": null,
     "person": "Třemošnice",
     "how": "jine",
@@ -65020,7 +64919,7 @@
    },
    {
     "place": "Q10815830",
-    "from": null,
+    "from": 1828,
     "to": null,
     "person": "obec Městečko Trnávka",
     "how": "neznamo",
@@ -65065,7 +64964,7 @@
    },
    {
     "place": "Q116582",
-    "from": null,
+    "from": 1958,
     "to": null,
     "person": null,
     "how": "neznamo",
@@ -65128,11 +65027,11 @@
    },
    {
     "place": "Q11878924",
-    "from": null,
+    "from": 1847,
     "to": null,
     "person": null,
     "how": "neznamo",
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": false
    },
    {
@@ -65182,7 +65081,7 @@
    },
    {
     "place": "Q12038651",
-    "from": null,
+    "from": 1986,
     "to": null,
     "person": "Moravská Třebová",
     "how": "jine",
@@ -65200,7 +65099,7 @@
    },
    {
     "place": "Q12047753",
-    "from": null,
+    "from": 2008,
     "to": null,
     "person": "Městys Peruc",
     "how": "dar",
@@ -65245,7 +65144,7 @@
    },
    {
     "place": "Q12049798",
-    "from": null,
+    "from": 1930,
     "to": null,
     "person": "město Rosice",
     "how": "jine",
@@ -65299,11 +65198,11 @@
    },
    {
     "place": "Q1418278",
-    "from": null,
+    "from": 1986,
     "to": null,
     "person": "město Slavkov u Brna",
     "how": "jine",
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": false
    },
    {
@@ -65533,7 +65432,7 @@
    },
    {
     "place": "Q28048966",
-    "from": null,
+    "from": 1986,
     "to": null,
     "person": null,
     "how": "jine",
@@ -65659,11 +65558,11 @@
    },
    {
     "place": "Q33417123",
-    "from": null,
+    "from": 1987,
     "to": null,
     "person": "město Valašské Meziříčí",
     "how": "neznamo",
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": false
    },
    {
@@ -65677,7 +65576,7 @@
    },
    {
     "place": "Q369694",
-    "from": null,
+    "from": 1989,
     "to": null,
     "person": "Pardubický kraj",
     "how": "jine",
@@ -65722,11 +65621,11 @@
    },
    {
     "place": "Q573922",
-    "from": null,
+    "from": 1959,
     "to": null,
     "person": null,
     "how": "neznamo",
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": false
    },
    {
@@ -65749,11 +65648,11 @@
    },
    {
     "place": "Q80843",
-    "from": null,
+    "from": 1974,
     "to": null,
     "person": "hlavní město Praha",
     "how": "neznamo",
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": false
    },
    {
@@ -65778,7 +65677,7 @@
   "transfers": [
    {
     "place": "Q1011076",
-    "year": null,
+    "year": 1893,
     "from": "stat",
     "to": "mesto",
     "how": "koupe"
@@ -65799,7 +65698,7 @@
    },
    {
     "place": "Q1012290",
-    "year": null,
+    "year": 1956,
     "from": "soukromnik",
     "to": "mesto",
     "how": "neznamo"
@@ -65820,7 +65719,7 @@
    },
    {
     "place": "Q1012308",
-    "year": null,
+    "year": 1986,
     "from": "stat",
     "to": "mesto",
     "how": "jine"
@@ -65848,7 +65747,7 @@
    },
    {
     "place": "Q1012715",
-    "year": null,
+    "year": 1974,
     "from": "soukromnik",
     "to": "mesto",
     "how": "neznamo"
@@ -65876,7 +65775,7 @@
    },
    {
     "place": "Q1012914",
-    "year": null,
+    "year": 1980,
     "from": "soukromnik",
     "to": "mesto",
     "how": "jine"
@@ -65967,7 +65866,7 @@
    },
    {
     "place": "Q10815830",
-    "year": null,
+    "year": 1828,
     "from": "lichtenstejnove",
     "to": "mesto",
     "how": "neznamo"
@@ -66016,7 +65915,7 @@
    },
    {
     "place": "Q116582",
-    "year": null,
+    "year": 1958,
     "from": "soukromnik",
     "to": "mesto",
     "how": "neznamo"
@@ -66065,7 +65964,7 @@
    },
    {
     "place": "Q11878924",
-    "year": null,
+    "year": 1847,
     "from": "bruntalsti-z-vrbna",
     "to": "mesto",
     "how": "neznamo"
@@ -66114,7 +66013,7 @@
    },
    {
     "place": "Q12038651",
-    "year": null,
+    "year": 1986,
     "from": "stat",
     "to": "mesto",
     "how": "jine"
@@ -66128,7 +66027,7 @@
    },
    {
     "place": "Q12047753",
-    "year": null,
+    "year": 2008,
     "from": "cirkev",
     "to": "mesto",
     "how": "dar"
@@ -66184,7 +66083,7 @@
    },
    {
     "place": "Q12049798",
-    "year": null,
+    "year": 1930,
     "from": "stat",
     "to": "mesto",
     "how": "jine"
@@ -66247,7 +66146,7 @@
    },
    {
     "place": "Q1418278",
-    "year": null,
+    "year": 1986,
     "from": "stat",
     "to": "mesto",
     "how": "jine"
@@ -66443,7 +66342,7 @@
    },
    {
     "place": "Q28048966",
-    "year": null,
+    "year": 1986,
     "from": "stat",
     "to": "mesto",
     "how": "jine"
@@ -66562,7 +66461,7 @@
    },
    {
     "place": "Q33417123",
-    "year": null,
+    "year": 1987,
     "from": "stat",
     "to": "mesto",
     "how": "neznamo"
@@ -66576,7 +66475,7 @@
    },
    {
     "place": "Q369694",
-    "year": null,
+    "year": 1989,
     "from": "stat",
     "to": "mesto",
     "how": "jine"
@@ -66625,7 +66524,7 @@
    },
    {
     "place": "Q573922",
-    "year": null,
+    "year": 1959,
     "from": "soukromnik",
     "to": "mesto",
     "how": "neznamo"
@@ -66653,7 +66552,7 @@
    },
    {
     "place": "Q80843",
-    "year": null,
+    "year": 1974,
     "from": "stat",
     "to": "mesto",
     "how": "neznamo"
@@ -66710,7 +66609,7 @@
    {
     "place": "Q1012290",
     "from": 1887,
-    "to": null,
+    "to": 1956,
     "person": "Josef von Schroll",
     "how": "koupe",
     "from_approx": false,
@@ -66800,7 +66699,7 @@
    {
     "place": "Q1012715",
     "from": 1922,
-    "to": null,
+    "to": 1974,
     "person": "Družstvo pro záchranu hradu Košumberka",
     "how": "dar",
     "from_approx": false,
@@ -66953,7 +66852,7 @@
    {
     "place": "Q1012914",
     "from": 1933,
-    "to": null,
+    "to": 1980,
     "person": "Klub českých turistů",
     "how": "dar",
     "from_approx": false,
@@ -67267,7 +67166,7 @@
    },
    {
     "place": "Q11176080",
-    "from": null,
+    "from": 1824,
     "to": null,
     "person": null,
     "how": "neznamo",
@@ -67322,7 +67221,7 @@
    {
     "place": "Q116582",
     "from": 1891,
-    "to": null,
+    "to": 1958,
     "person": "Emanuel Karsch, majitel velkostatku Prunéřov-Ahníkov",
     "how": "neznamo",
     "from_approx": true,
@@ -67951,7 +67850,7 @@
    },
    {
     "place": "Q2240221",
-    "from": null,
+    "from": 2008,
     "to": null,
     "person": "společnost registrovaná v Lichtenštejnsku (provoz: Panství Bechyně, Josef Šťáva)",
     "how": "koupe",
@@ -68708,7 +68607,7 @@
    {
     "place": "Q38090398",
     "from": 2005,
-    "to": null,
+    "to": 2016,
     "person": "nejmenovaný nový majitel",
     "how": "koupe",
     "from_approx": false,
@@ -68716,7 +68615,7 @@
    },
    {
     "place": "Q38090398",
-    "from": null,
+    "from": 2016,
     "to": null,
     "person": "nynější nejmenovaný majitel",
     "how": "koupe",
@@ -68780,11 +68679,11 @@
    {
     "place": "Q573922",
     "from": 1892,
-    "to": null,
+    "to": 1959,
     "person": "Turnovský okrašlovací spolek",
     "how": "koupe",
     "from_approx": false,
-    "to_approx": false
+    "to_approx": true
    },
    {
     "place": "Q695042",
@@ -69059,7 +68958,7 @@
    },
    {
     "place": "Q1012290",
-    "year": null,
+    "year": 1956,
     "from": "soukromnik",
     "to": "mesto",
     "how": "neznamo"
@@ -69122,7 +69021,7 @@
    },
    {
     "place": "Q1012715",
-    "year": null,
+    "year": 1974,
     "from": "soukromnik",
     "to": "mesto",
     "how": "neznamo"
@@ -69213,7 +69112,7 @@
    },
    {
     "place": "Q1012914",
-    "year": null,
+    "year": 1980,
     "from": "soukromnik",
     "to": "mesto",
     "how": "jine"
@@ -69542,7 +69441,7 @@
    },
    {
     "place": "Q11176080",
-    "year": null,
+    "year": 1824,
     "from": "cirkev",
     "to": "soukromnik",
     "how": "neznamo"
@@ -69584,7 +69483,7 @@
    },
    {
     "place": "Q116582",
-    "year": null,
+    "year": 1958,
     "from": "soukromnik",
     "to": "mesto",
     "how": "neznamo"
@@ -70130,7 +70029,7 @@
    },
    {
     "place": "Q2240221",
-    "year": null,
+    "year": 2008,
     "from": "paarove",
     "to": "soukromnik",
     "how": "koupe"
@@ -70886,7 +70785,7 @@
    },
    {
     "place": "Q573922",
-    "year": null,
+    "year": 1959,
     "from": "soukromnik",
     "to": "mesto",
     "how": "neznamo"
@@ -71244,7 +71143,7 @@
    {
     "place": "Q11176080",
     "from": 1623,
-    "to": null,
+    "to": 1824,
     "person": "arcibiskup Arnošt Vojtěch z Harrachu, později mj. Matouš Ferdinand Sobek z Bílenberka, František Kordač, Karel Kašpar",
     "how": "dar",
     "from_approx": false,
@@ -71316,11 +71215,11 @@
    {
     "place": "Q12047753",
     "from": 1990,
-    "to": null,
+    "to": 2008,
     "person": null,
     "how": "restituce",
     "from_approx": true,
-    "to_approx": false
+    "to_approx": true
    },
    {
     "place": "Q12058615",
@@ -71496,7 +71395,7 @@
    {
     "place": "Q2536208",
     "from": 1267,
-    "to": null,
+    "to": 1342,
     "person": null,
     "how": "dar",
     "from_approx": false,
@@ -71882,7 +71781,7 @@
    },
    {
     "place": "Q11176080",
-    "year": null,
+    "year": 1824,
     "from": "cirkev",
     "to": "soukromnik",
     "how": "neznamo"
@@ -71980,7 +71879,7 @@
    },
    {
     "place": "Q12047753",
-    "year": null,
+    "year": 2008,
     "from": "cirkev",
     "to": "mesto",
     "how": "dar"
@@ -72197,7 +72096,7 @@
    },
    {
     "place": "Q2536208",
-    "year": null,
+    "year": 1342,
     "from": "cirkev",
     "to": "z-chotenic",
     "how": "neznamo"

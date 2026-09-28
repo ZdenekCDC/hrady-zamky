@@ -291,6 +291,17 @@ def main():
         page.screenshot(path=str(OUT / "02b-selected-marker.png"),
                         clip={"x": box["x"] - 60, "y": box["y"] - 60, "width": box["width"] + 120, "height": box["height"] + 120})
 
+        narrow = page.eval_on_selector("#d-gantt svg", "e => e.getBoundingClientRect().width")
+        page.click("#d-wide")
+        wide = page.eval_on_selector("#d-gantt svg", "e => e.getBoundingClientRect().width")
+        assert wide > narrow * 1.5, f"widened detail did not redraw the owner timeline wider: {narrow} -> {wide}"
+        shot("02c-detail-wide")
+        page.goto(base + "#/misto/Q655633")  # the choice sticks for the next place
+        page.wait_for_selector("#sidebar.wide #d-gantt svg")
+        page.click("#d-wide")
+        assert not page.locator("#sidebar.wide").count(), "narrowing the detail did not work"
+        print(f"detail timeline: {narrow:.0f} px -> wide {wide:.0f} px")
+
         page.goto(base + "#/")
         page.wait_for_function("!document.querySelector('.leaflet-marker-pane .mk.sel')", timeout=2000)  # highlight cleared
         page.check("#f-tm")

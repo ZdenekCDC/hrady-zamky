@@ -6,11 +6,14 @@
   filter in the UI never repaints them); institutions and the rest get no slot (neutral in UI).
 Validates owner ids, years and ordering; prints problems and exits 1 if any are errors.
 """
+import datetime
 import re
 import sys
 import unicodedata
 
 from common import DATA, load, save
+
+NOW = datetime.date.today().year
 
 INSTITUTIONS = {
     "koruna": "Koruna (panovník)",
@@ -32,13 +35,16 @@ def slug(title):
 def fill_unknown_years(owners):
     """Sources often give only the order of owners. A missing year inside the chain is
     interpolated between known neighbours and flagged approx; `to: null` is 'until now'
-    only for owners without a known successor boundary (the last ones)."""
+    only for owners without a known successor boundary (the last ones). The end of the chain
+    is anchored at the present, so e.g. a current owner with an unknown takeover year gets an
+    approximate one instead of none (the founding year is no anchor: it often dates a later rebuild)."""
     n = len(owners)
     if n == 0:
         return 0
     # boundary k = start of owner k (k=0..n-1); boundary n = end of the last owner
-    bounds = [owners[0]["from"]] + [owners[k]["from"] if owners[k]["from"] is not None else owners[k - 1]["to"]
-                                    for k in range(1, n)]
+    bounds = [owners[0]["from"]]
+    bounds += [owners[k]["from"] if owners[k]["from"] is not None else owners[k - 1]["to"] for k in range(1, n)]
+    bounds.append(owners[-1]["to"] if owners[-1]["to"] is not None else NOW)
     filled = 0
     known = [k for k, b in enumerate(bounds) if b is not None]
     for k in range(n):
@@ -56,8 +62,11 @@ def fill_unknown_years(owners):
     for k, o in enumerate(owners):
         if o["from"] is None and bounds[k] is not None:
             o["from"], o["from_approx"] = bounds[k], True
-        if o["to"] is None and k + 1 < n and bounds[k + 1] is not None:
-            o["to"], o["to_approx"] = bounds[k + 1], True
+        if o["to"] is None and k + 1 < n:
+            if bounds[k + 1] is not None:
+                o["to"], o["to_approx"] = bounds[k + 1], True
+            else:
+                o["to_unknown"] = True  # not the last owner, so `to: null` must not read as 'until now'
     return filled
 
 

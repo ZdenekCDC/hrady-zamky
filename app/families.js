@@ -112,7 +112,7 @@ function renderFamilyCharts(f) {
     return {
       label: name, sub: [persons.length > 1 ? `${persons.length} ${persons.length < 5 ? "držitelé" : "držitelů"}` : persons[0], yearRange(span)].filter(Boolean).join(", "),
       color: ownerColor(D.families, f.id), from: span.from, to: span.to,
-      segments: periods.map((o) => ({ from: o.from, to: o.to, fromApprox: o.from_approx, toApprox: o.to_approx })),
+      segments: periods.map((o) => ({ from: o.from, to: o.to, fromApprox: o.from_approx, toApprox: o.to_approx, toUnknown: o.to_unknown })),
       href: `#/misto/${id}`,
       tooltip: `<div class="t">${esc(name)}</div>` + periods.map((o) =>
         `${o.person ? esc(o.person) + ", " : ""}${esc(yearRange(o))} <span class="muted">(${esc(HOW[o.how] || o.how)})</span>`).join("<br>"),

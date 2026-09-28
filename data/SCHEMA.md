@@ -37,7 +37,7 @@
 ```
 
 - `owners` jsou chronologicky. `owner` je id rodu nebo instituce (viz níže). `to` je rok konce, pro současného vlastníka `null`.
-- Zná-li zdroj jen pořadí vlastníků, nech neznámé `from`/`to` jako `null`; `build_history.py` je rovnoměrně dopočítá mezi známými roky a označí jako přibližné.
+- Zná-li zdroj jen pořadí vlastníků, nech neznámé `from`/`to` jako `null`; `build_history.py` je rovnoměrně dopočítá mezi známými roky (konec řetězce = současnost) a označí jako přibližné. Kde chybí kotva (neznámé roky na začátku řetězce), zůstanou `null`, build u nich doplní `to_unknown: true` a osa pro ně nekreslí pruh.
 - `how` = způsob nabytí: `zalozeni`, `koupe`, `dedictvi`, `snatek`, `dar`, `lenni` (udělení panovníkem, zástava), `konfiskace` (i po Bílé hoře, 1945, 1948), `vymena`, `restituce`, `jine`, `neznamo`.
 - `from_approx` / `to_approx` = letopočet je přibližný („kolem 1300“, „poč. 14. stol.“ -> rok 1300/1310 + approx).
 - Spoluvlastnictví / dělení = dva záznamy s překrývajícím se obdobím.

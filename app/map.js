@@ -10,6 +10,7 @@ import {
 } from "./visits.js";
 
 const STORE = "hz-filters-v1";
+const WIDE_STORE = "hz-detail-wide"; // detail panel widened for the owner timeline
 const DEFAULTS = {
   layers: { vstupne: true, volne: true, neznamo: false },
   kinds: { hrad: true, zamek: true, hradozamek: true, zricenina: true },
@@ -343,7 +344,8 @@ function ownerRows(p) {
     const first = items[0];
     const lastTo = items.some((o) => o.to == null) ? null : Math.max(...items.map((o) => o.to));
     const lastItem = items.find((o) => o.to === lastTo) || items[items.length - 1];
-    const span = { from: first.from, to: lastTo, from_approx: first.from_approx, to_approx: lastItem.to_approx };
+    const span = { from: first.from, to: lastTo, from_approx: first.from_approx, to_approx: lastItem.to_approx,
+      to_unknown: lastTo == null && !items.some((o) => o.to == null && !o.to_unknown) };
     const persons = items.map((o) => o.person).filter(Boolean);
     const detail = items.map((o) =>
       `${o.person ? esc(o.person) + ", " : ""}${esc(yearRange(o))} <span class="muted">(${esc(HOW[o.how] || o.how)})</span>${o.note ? "<br><span class='muted'>" + esc(o.note) + "</span>" : ""}`).join("<br>");
@@ -351,7 +353,7 @@ function ownerRows(p) {
       label: name,
       sub: [persons.length > 1 ? `${persons.length} ${persons.length < 5 ? "držitelé" : "držitelů"}` : persons[0], yearRange(span)].filter(Boolean).join(", "),
       color: ownerColor(D.families, owner),
-      from: span.from, to: span.to, fromApprox: span.from_approx, toApprox: span.to_approx,
+      from: span.from, to: span.to, fromApprox: span.from_approx, toApprox: span.to_approx, toUnknown: span.to_unknown,
       href: `#/rod/${owner}`,
       tooltip: `<div class="t">${esc(name)}</div>${detail}`,
     };
@@ -497,7 +499,9 @@ function renderDetail(p, pan = true) {
   const tmOwner = state.tm ? ownerAt(p, state.year) : null;
 
   el.innerHTML = `
-    <div class="detail-head"><h2>${esc(p.name)}</h2><button class="close" title="zavřít" id="d-close">×</button></div>
+    <div class="detail-head"><h2>${esc(p.name)}</h2>
+      <button class="close wide-toggle" id="d-wide"></button>
+      <button class="close" title="zavřít" id="d-close">×</button></div>
     <div class="badges">
       ${p.visited ? `<span class="badge visited">navštíveno${p.visit?.date ? " " + esc(p.visit.date) : ""}</span>` : ""}
       <span class="badge">${KIND[p.kind]}</span>
@@ -561,11 +565,29 @@ function renderDetail(p, pan = true) {
     try { visitSaved(p, await saveVisit(p, null)); } catch (err) { fail(err); }
   });
   const g = el.querySelector("#d-gantt");
-  if (g) renderGantt(g, ownerRows(p), h.events || [], { marker: state.tm ? state.year : null });
+  const drawGantt = () => g && renderGantt(g, ownerRows(p), h.events || [], { marker: state.tm ? state.year : null });
+  const wideBtn = el.querySelector("#d-wide");
+  const setWide = (on) => {
+    document.getElementById("sidebar").classList.toggle("wide", on);
+    wideBtn.textContent = on ? "⤡" : "⤢";
+    wideBtn.title = on ? "zúžit panel" : "zvětšit panel (širší osa vlastníků)";
+    wideBtn.setAttribute("aria-pressed", on);
+    map.invalidateSize();
+    drawGantt(); // the chart is drawn to the panel width
+  };
+  wideBtn.addEventListener("click", () => {
+    const on = !document.getElementById("sidebar").classList.contains("wide");
+    localStorage.setItem(WIDE_STORE, on ? "1" : "");
+    setWide(on);
+    if (on && g) g.previousElementSibling.scrollIntoView({ block: "start", behavior: "smooth" }); // the "Vlastníci" heading
+  });
+  setWide(localStorage.getItem(WIDE_STORE) === "1");
   if (pan) map.setView([p.lat, p.lon], Math.max(map.getZoom(), 10), { animate: true });
 }
 
 function closeDetail() {
+  document.getElementById("sidebar").classList.remove("wide");
+  map?.invalidateSize();
   document.getElementById("panel-detail").hidden = true;
   document.getElementById("panel-filters").hidden = false;
   hideTooltip();
