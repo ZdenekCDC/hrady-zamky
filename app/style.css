@@ -159,6 +159,13 @@ main { flex: 1; min-height: 0; display: flex; }
 .mk { background: none; border: 0; }
 .mk svg { display: block; overflow: visible; }
 .mk.sel svg { filter: drop-shadow(0 0 3px var(--accent)); }
+.mk.sel::before { /* ring around the selected marker, pulses a few times after selection */
+  content: ""; position: absolute; inset: -5px; border-radius: 50%;
+  border: 3px solid var(--accent); box-shadow: 0 0 0 2px var(--mk-bg);
+  animation: mk-pulse 1s ease-out 3; pointer-events: none;
+}
+@keyframes mk-pulse { 0% { transform: scale(1.8); opacity: 0; } 60% { opacity: 1; } 100% { transform: scale(1); opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { .mk.sel::before { animation: none; } }
 
 /* detail */
 .detail-head { display: flex; gap: 10px; align-items: flex-start; }

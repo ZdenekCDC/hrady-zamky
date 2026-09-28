@@ -124,7 +124,6 @@ Stav k 2026-09-28: web běží na GitHub Pages (<https://zdenekcdc.github.io/hra
   - zaregistrovat doménu na stadiamaps.com (zdarma), jinak se na webu nezobrazí terén výchozího podkladu,
   - na Mapy.com klíč (pokud se použije) omezit na doménu Pages,
   - projít web na mobilu (Safari = jen prohlížeč + export / import).
-- [ ] Zvýraznit hrad vybraný přes hledání (i kliknutím): teď po přiblížení na mapě splývá s okolními značkami - vybraná značka má jen slabý stín (`.mk.sel` v `app/style.css`). Např. větší značka + výrazný kroužek / pulzování na pár sekund, nahoru nad ostatní (z-index).
 - [ ] Tabulkové zobrazení vlastníků v detailu (přístupnost - barvy ve stroji času rozliší barvoslepý jen omezeně; teď pomáhá jen zvýraznění rodu a tooltip).
 - [ ] Volitelně: statistiky navštíveného (po krajích, typech, rodech).
 - [ ] Volitelně: podklad Mapy.com - připraveno, stačí vložit API klíč do `app/config.js` (viz níže).

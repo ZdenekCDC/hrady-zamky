@@ -13,7 +13,7 @@ python3 scripts/serve.py        # otevři http://localhost:8000
 ## Co umí
 
 - **Mapa**: vrstvy se vstupným (prohlídky, expozice) / volně přístupné zříceniny / ostatní (přístupnost neznámá, skrytá). Piktogram značky = typ (věž s cimbuřím hrad, budova s kupolí zámek, věž s křídlem hrad a zámek, rozpadlé zdi zřícenina) a světlá výplň = typ (žlutá hrad, korálová zámek, šeříková hrad a zámek, tyrkysová zřícenina); se vstupným = plná výplň a silný černý obrys, volně přístupné = zesvětlená výplň a tenký šedý obrys; plná modrá s fajfkou = navštíveno; všechny značky mají bílý lem, aby se odlišily od terénu.
-- **Filtry**: typ, kraj, správce (NPÚ / ostatní), století vzniku, návštěvy (všechny / jen navštívené / jen nenavštívené), jen s historií; hledání (místa i rody); „resetovat vše“.
+- **Filtry**: typ, kraj, správce (NPÚ / ostatní), století vzniku, návštěvy (všechny / jen navštívené / jen nenavštívené), jen s historií; hledání (místa i rody), vybrané místo má na mapě větší značku s pulzujícím kroužkem nad ostatními; „resetovat vše“.
 - **Zvýraznit rody**: více rodů najednou jako chipy (× odebere, „zrušit výběr“ vše); značky rodu dostanou jeho barvu, ostatní se ztlumí. Totéž kliknutím v legendě.
 - **Náhled při najetí myší**: fotka (lokální miniatura z `data/thumbs/`, rychlá i na GitHub Pages), typ, obec, vznik, přístupnost, rody (ve stroji času vlastník v daném roce).
 - **Detail místa**: fotka (Wikimedia Commons), vznik, shrnutí, časová osa vlastníků (klik na rod -> přehled rodu), události, odkazy (web, Wikipedie, Mapy.com, navigace), návštěvnost (NIPOS), „Co je poblíž“ (nenavštívené do 10-100 km).

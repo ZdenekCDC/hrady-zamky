@@ -153,13 +153,15 @@ function refresh() {
         if (layer.hasLayer(m.marker)) layer.removeLayer(m.marker);
         continue;
       }
-      const st = markerStyle(p);
-      const key = JSON.stringify(st) + (selected === p.id);
+      const sel = selected === p.id;
+      const base = markerStyle(p);
+      const st = sel ? { ...base, size: Math.max(24, Math.round(base.size * 1.3)), opacity: 1 } : base;
+      const key = JSON.stringify(st) + sel;
       if (m.key !== key) {
         m.marker.setIcon(icon(p, st));
         m.key = key;
       }
-      m.marker.setZIndexOffset(p.visited ? 1000 : p.access === "vstupne" ? 500 : 0);
+      m.marker.setZIndexOffset(sel ? 5000 : p.visited ? 1000 : p.access === "vstupne" ? 500 : 0);
       if (!layer.hasLayer(m.marker)) layer.addLayer(m.marker);
     }
     for (const [k, n] of Object.entries(counts)) {

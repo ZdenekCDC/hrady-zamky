@@ -281,8 +281,18 @@ def main():
             f"photo credit without author and license: {credit}"
         print("photo credit:", credit)
         shot("02-detail")
+        sel = page.locator(".leaflet-marker-pane .mk.sel")
+        assert sel.count() == 1, f"expected one highlighted marker, got {sel.count()}"
+        box = sel.bounding_box()
+        z = [int(v) for v in page.eval_on_selector_all(".leaflet-marker-pane .mk", "els => els.map(e => e.style.zIndex || 0)")]
+        assert box["width"] >= 30 and int(sel.evaluate("e => e.style.zIndex")) == max(z), \
+            f"selected marker not enlarged / on top: {box}"
+        page.wait_for_timeout(3200)  # let the pulse finish
+        page.screenshot(path=str(OUT / "02b-selected-marker.png"),
+                        clip={"x": box["x"] - 60, "y": box["y"] - 60, "width": box["width"] + 120, "height": box["height"] + 120})
 
         page.goto(base + "#/")
+        page.wait_for_function("!document.querySelector('.leaflet-marker-pane .mk.sel')", timeout=2000)  # highlight cleared
         page.check("#f-tm")
         page.fill("#f-year", "1550")
         page.dispatch_event("#f-year", "input")
