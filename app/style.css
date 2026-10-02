@@ -37,18 +37,155 @@
   --mk-series-6: #008300;
   --mk-series-7: #4a3aa7;
   --mk-series-8: #e34948;
-  /* light fill per place type (validated: worst CVD ΔE 10.3, normal 16.9, incl. the visited blue) */
+  /* fill per place type, earthy theme (unused types are ready for new kinds) */
+  --mk-kind-hrad: #d9a441;
+  --mk-kind-zamek: #b5523b;
+  --mk-kind-hradozamek: #7d5a7a;
+  --mk-kind-zricenina: #6b8f71;
+  --mk-kind-tvrz: #a67c52;
+  --mk-kind-klaster: #5f7a8c;
+  --mk-kind-kostel: #8a9a5b;
+  --mk-kind-usedlost: #c47f3f;
+  --mk-kind-hospital: #b86b77;
+  --mk-kind-dul: #6e6a62;
+  --mk-kind-vila: #c9b458;
+  --mk-kind-areal: #93a566;
+  --mk-kind-zahrada: #5e8a4f;
+  --mk-kind-pevnost: #a14d4d;
+  --mk-kind-hradby: #8c7660;
+  --mk-kind-kostnice: #b9b3a1;
+  --mk-kind-krypta: #6f5f86;
+  /* freely accessible places: the same hues mixed 50 % with --mk-bg, darker grey outline than --mk-muted */
+  --mk-kind-hrad-soft: #ead09e;
+  --mk-kind-zamek-soft: #d8a79b;
+  --mk-kind-hradozamek-soft: #bcabba;
+  --mk-kind-zricenina-soft: #b4c6b6;
+  --mk-kind-tvrz-soft: #d1bca6;
+  --mk-kind-klaster-soft: #aebbc4;
+  --mk-kind-kostel-soft: #c3cbab;
+  --mk-kind-usedlost-soft: #e0be9d;
+  --mk-kind-hospital-soft: #dab4b9;
+  --mk-kind-dul-soft: #b5b3ae;
+  --mk-kind-vila-soft: #e2d8aa;
+  --mk-kind-areal-soft: #c8d0b0;
+  --mk-kind-zahrada-soft: #adc3a5;
+  --mk-kind-pevnost-soft: #cea4a4;
+  --mk-kind-hradby-soft: #c4b9ae;
+  --mk-kind-kostnice-soft: #dad8ce;
+  --mk-kind-krypta-soft: #b6aec0;
+  --mk-free: #5f5e59;
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+/* icon theme: stone; the default (earthy) one is in :root */
+:root[data-icon-theme="kamen"] {
+  --mk-kind-hrad: #a8a49a;
+  --mk-kind-zamek: #cdb99a;
+  --mk-kind-hradozamek: #8f9aa3;
+  --mk-kind-zricenina: #7d8a78;
+  --mk-kind-tvrz: #9b8f80;
+  --mk-kind-klaster: #b3a58f;
+  --mk-kind-kostel: #d2cbbd;
+  --mk-kind-usedlost: #b08968;
+  --mk-kind-hospital: #c7a9a0;
+  --mk-kind-dul: #6f7378;
+  --mk-kind-vila: #ddd5c4;
+  --mk-kind-areal: #a9b49b;
+  --mk-kind-zahrada: #7f9a6f;
+  --mk-kind-pevnost: #8a8f94;
+  --mk-kind-hradby: #9c9488;
+  --mk-kind-kostnice: #e0dbd0;
+  --mk-kind-krypta: #6e6a73;
+  --mk-kind-hrad-soft: #d2d0ca;
+  --mk-kind-zamek-soft: #e4daca;
+  --mk-kind-hradozamek-soft: #c6cbcf;
+  --mk-kind-zricenina-soft: #bcc3ba;
+  --mk-kind-tvrz-soft: #ccc6be;
+  --mk-kind-klaster-soft: #d8d0c5;
+  --mk-kind-kostel-soft: #e7e4dc;
+  --mk-kind-usedlost-soft: #d6c2b2;
+  --mk-kind-hospital-soft: #e2d2ce;
+  --mk-kind-dul-soft: #b6b8ba;
+  --mk-kind-vila-soft: #ece8e0;
+  --mk-kind-areal-soft: #d2d8cb;
+  --mk-kind-zahrada-soft: #becbb5;
+  --mk-kind-pevnost-soft: #c3c6c8;
+  --mk-kind-hradby-soft: #ccc8c2;
+  --mk-kind-kostnice-soft: #eeece6;
+  --mk-kind-krypta-soft: #b5b3b7;
+}
+/* icon theme: saturated; the default (earthy) one is in :root */
+:root[data-icon-theme="syta"] {
+  --mk-kind-hrad: #f2b705;
+  --mk-kind-zamek: #e8574a;
+  --mk-kind-hradozamek: #7c5cdb;
+  --mk-kind-zricenina: #1fb5b0;
+  --mk-kind-tvrz: #b8892b;
+  --mk-kind-klaster: #3f7fe0;
+  --mk-kind-kostel: #4caf50;
+  --mk-kind-usedlost: #d9822b;
+  --mk-kind-hospital: #e05a9a;
+  --mk-kind-dul: #6b7280;
+  --mk-kind-vila: #c9c02c;
+  --mk-kind-areal: #7cc24d;
+  --mk-kind-zahrada: #2e9e5b;
+  --mk-kind-pevnost: #d1403f;
+  --mk-kind-hradby: #a8795a;
+  --mk-kind-kostnice: #9aa0b8;
+  --mk-kind-krypta: #8e63c9;
+  --mk-kind-hrad-soft: #f7da80;
+  --mk-kind-zamek-soft: #f2aaa2;
+  --mk-kind-hradozamek-soft: #bcaceb;
+  --mk-kind-zricenina-soft: #8ed8d6;
+  --mk-kind-tvrz-soft: #dac293;
+  --mk-kind-klaster-soft: #9ebeee;
+  --mk-kind-kostel-soft: #a4d6a6;
+  --mk-kind-usedlost-soft: #eabf93;
+  --mk-kind-hospital-soft: #eeabca;
+  --mk-kind-dul-soft: #b4b7be;
+  --mk-kind-vila-soft: #e2de94;
+  --mk-kind-areal-soft: #bcdfa4;
+  --mk-kind-zahrada-soft: #95cdab;
+  --mk-kind-pevnost-soft: #e69e9d;
+  --mk-kind-hradby-soft: #d2baaa;
+  --mk-kind-kostnice-soft: #cbceda;
+  --mk-kind-krypta-soft: #c5b0e2;
+}
+/* icon theme: pastel (the original light fills); the default (earthy) one is in :root */
+:root[data-icon-theme="pastel"] {
   --mk-kind-hrad: #f7d36b;
   --mk-kind-zamek: #f08f7a;
   --mk-kind-hradozamek: #b49cf0;
   --mk-kind-zricenina: #7fd0cf;
-  /* freely accessible places: the same hues mixed 50 % with --mk-bg, darker grey outline than --mk-muted */
+  --mk-kind-tvrz: #d6bf86;
+  --mk-kind-klaster: #8fb8f0;
+  --mk-kind-kostel: #9ad28f;
+  --mk-kind-usedlost: #e0b07e;
+  --mk-kind-hospital: #f2a3c8;
+  --mk-kind-dul: #aeb0bd;
+  --mk-kind-vila: #e3dc8d;
+  --mk-kind-areal: #a8dc9c;
+  --mk-kind-zahrada: #8fd3a8;
+  --mk-kind-pevnost: #e69a9a;
+  --mk-kind-hradby: #c3b1a0;
+  --mk-kind-kostnice: #c9c9d6;
+  --mk-kind-krypta: #b7a5d8;
   --mk-kind-hrad-soft: #fae8b3;
   --mk-kind-zamek-soft: #f6c6ba;
   --mk-kind-hradozamek-soft: #d8ccf6;
   --mk-kind-zricenina-soft: #bee6e5;
-  --mk-free: #5f5e59;
-  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mk-kind-tvrz-soft: #e9dec0;
+  --mk-kind-klaster-soft: #c6daf6;
+  --mk-kind-kostel-soft: #cbe7c5;
+  --mk-kind-usedlost-soft: #eed6bc;
+  --mk-kind-hospital-soft: #f7d0e2;
+  --mk-kind-dul-soft: #d5d6dc;
+  --mk-kind-vila-soft: #f0ecc4;
+  --mk-kind-areal-soft: #d2eccc;
+  --mk-kind-zahrada-soft: #c6e8d2;
+  --mk-kind-pevnost-soft: #f1cbca;
+  --mk-kind-hradby-soft: #e0d6ce;
+  --mk-kind-kostnice-soft: #e2e2e8;
+  --mk-kind-krypta-soft: #dad0ea;
 }
 @media (prefers-color-scheme: dark) {
   :root {

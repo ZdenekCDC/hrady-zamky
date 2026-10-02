@@ -51,7 +51,7 @@ function renderOverview() {
       tooltip: `<div class="t">${esc(f.name)}</div>${f.place_count} objektů<br>${a} - ${b >= NOW ? "dosud" : b}`,
     };
   });
-  renderGantt(document.getElementById("overview-gantt"), rows, [], { labelWidth: 210, min: 1100 });
+  renderGantt(document.getElementById("overview-gantt"), rows, [], { labelWidth: 210, min: D.tmMin });
 }
 
 function transfersHtml(f) {

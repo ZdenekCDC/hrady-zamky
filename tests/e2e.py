@@ -69,18 +69,26 @@ FileSystemHandle.prototype.requestPermission = async () => { localStorage.remove
 """
 
 
-def opfs_read(page):
+def kind_color(page):
+    return page.evaluate("getComputedStyle(document.documentElement).getPropertyValue('--mk-kind-hrad').trim()")
+
+
+def opfs_doc(page):
     return json.loads(page.evaluate("""async () => {
         const h = await (await navigator.storage.getDirectory()).getFileHandle("navstevy.json");
         return (await h.getFile()).text();
     }"""))
 
 
-def opfs_write(page, items):
+def opfs_read(page):
+    return opfs_doc(page)["visits"]
+
+
+def opfs_write(page, items, icon_theme=None):
     page.evaluate("""async (text) => {
         const h = await (await navigator.storage.getDirectory()).getFileHandle("navstevy.json", {create: true});
         const w = await h.createWritable(); await w.write(text); await w.close();
-    }""", json.dumps(items, ensure_ascii=False))
+    }""", json.dumps({"iconTheme": icon_theme, "visits": items}, ensure_ascii=False))
 
 
 def static_visits(pw, opts, errors):
@@ -115,7 +123,7 @@ def static_visits(pw, opts, errors):
 
     with page.expect_download() as dl:
         page.click("#v-export")
-    exported = json.loads(Path(dl.value.path()).read_text(encoding="utf-8"))
+    exported = json.loads(Path(dl.value.path()).read_text(encoding="utf-8"))["visits"]
     assert [v["id"] for v in exported] == ["Q655633"] and exported[0]["rating"] == 5, exported
     print("static: export", exported)
 
@@ -159,6 +167,22 @@ def static_visits(pw, opts, errors):
     page.wait_for_selector("#d-visit-msg:not([hidden])")
     assert "navstevy.json" in page.inner_text("#d-visit-msg"), page.inner_text("#d-visit-msg")
     assert "Q2164885" in {v["id"] for v in opfs_read(page)}, "visit not written into the connected file"
+
+    # icon theme travels with the visits file
+    page.goto(base + "#/")
+    page.wait_for_selector("#f-icons")
+    page.select_option("#f-icons", "syta")
+    page.wait_for_function("document.documentElement.dataset.iconTheme === 'syta'")
+    assert kind_color(page) == "#f2b705", kind_color(page)
+    for _ in range(20):
+        if opfs_doc(page).get("iconTheme") == "syta":
+            break
+        page.wait_for_timeout(100)
+    assert opfs_doc(page).get("iconTheme") == "syta", opfs_doc(page)
+    page.reload()
+    page.wait_for_selector("#f-icons")
+    assert page.eval_on_selector("#f-icons", "e => e.value") == "syta", "theme not kept in the connected file / browser"
+    print("icon theme: static + file ok")
 
     # the file changed elsewhere (e.g. synced from another device): it wins on the next load
     opfs_write(page, [{"id": "Q1701829", "name": "Karlova Koruna", "date": None, "rating": None, "note": ""}])
@@ -345,6 +369,23 @@ def main():
         page.check("#f-tm")
         page.fill("#f-year", "1550")
         page.dispatch_event("#f-year", "input")
+        n_1550 = page.locator(".leaflet-marker-pane .mk").count()
+        # the axis starts at the oldest owner (Pražský hrad 870 -> 850) and places not built yet are hidden
+        assert page.get_attribute("#f-year", "min") == "850", page.get_attribute("#f-year", "min")
+        page.fill("#f-year", "870")
+        page.dispatch_event("#f-year", "input")
+        page.wait_for_timeout(300)
+        n_870 = page.locator(".leaflet-marker-pane .mk").count()
+        assert 1 <= n_870 < n_1550 * 0.5, f"time machine 870: {n_870} markers, 1550: {n_1550}"
+        # places without a founding date are hidden by default; the option brings them back
+        page.uncheck("#f-undated")
+        page.wait_for_timeout(300)
+        n_870_all = page.locator(".leaflet-marker-pane .mk").count()
+        assert n_870_all > n_870 + 50, f"undated places: {n_870} hidden vs {n_870_all} shown"
+        page.check("#f-undated")
+        print("time machine markers 870 / 870 with undated / 1550:", n_870, n_870_all, n_1550)
+        page.fill("#f-year", "1550")
+        page.dispatch_event("#f-year", "input")
         shot("03-timemachine-1550")
 
         page.goto(base + "#/rody")
@@ -384,7 +425,7 @@ def main():
         page.click("#d-visit-form button[type=submit]")
         page.wait_for_selector("#d-visit-msg:not([hidden])")
         print("visit save:", page.inner_text("#d-visit-msg"))
-        saved = {v["id"]: v for v in json.loads(VISITED_COPY.read_text(encoding="utf-8"))}
+        saved = {v["id"]: v for v in json.loads(VISITED_COPY.read_text(encoding="utf-8"))["visits"]}
         assert saved.get("Q655633", {}).get("rating") == 4, "visit not written by the API"
         assert saved["Q655633"]["date"], "new visit saved without a date"
 
@@ -393,10 +434,27 @@ def main():
         page.fill("#d-visit-form input[name=date]", "2025-07-14")
         page.click("#d-visit-form button[type=submit]")
         page.wait_for_selector("#d-visit-msg:not([hidden])")
-        saved = {v["id"]: v for v in json.loads(VISITED_COPY.read_text(encoding="utf-8"))}
+        saved = {v["id"]: v for v in json.loads(VISITED_COPY.read_text(encoding="utf-8"))["visits"]}
         assert saved["Q2164885"]["date"] == "2025-07-14", f"date of an existing visit not saved: {saved['Q2164885']}"
         print("visit date edit:", saved["Q2164885"])
         shot("02b-visit-saved")
+
+        # icon theme: switches the marker colours at once and is saved next to the visits
+        page.goto(base + "#/")
+        page.wait_for_selector("#f-icons")
+        assert page.eval_on_selector("#f-icons", "e => e.value") == "zemita", "default icon theme"
+        page.select_option("#f-icons", "kamen")
+        page.wait_for_function("document.documentElement.dataset.iconTheme === 'kamen'")
+        assert kind_color(page) == "#a8a49a", kind_color(page)
+        page.wait_for_function("fetch('api/visited').then(r => r.json()).then(d => d.iconTheme === 'kamen')")
+        assert json.loads(VISITED_COPY.read_text(encoding="utf-8"))["iconTheme"] == "kamen"
+        page.reload()
+        page.wait_for_selector("#f-icons")
+        assert page.eval_on_selector("#f-icons", "e => e.value") == "kamen", "icon theme not kept after reload"
+        shot("02c-theme-kamen")
+        page.select_option("#f-icons", "zemita")
+        page.wait_for_function("fetch('api/visited').then(r => r.json()).then(d => d.iconTheme === null)")
+        print("icon theme: server ok")
 
         dark = browser.new_page(viewport={"width": 1200, "height": 800}, color_scheme="dark")
         dark.on("pageerror", lambda e: errors.append(f"pageerror (dark): {e}"))

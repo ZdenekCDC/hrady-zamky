@@ -6,12 +6,16 @@ import {
 import { attachBaseLayers } from "./basemaps.js";
 import { hideTooltip, renderGantt } from "./gantt.js";
 import {
-  canConnect, createFile, disconnectFile, exportVisits, importVisits, openFile, restoreAccess, saveVisit, storageInfo,
+  canConnect, createFile, disconnectFile, exportVisits, getIconTheme, importVisits, openFile, restoreAccess, saveVisit, setIconTheme,
+  storageInfo,
 } from "./visits.js";
 
 const STORE = "hz-filters-v1";
 const WIDE_STORE = "hz-detail-wide"; // detail panel widened for the owner timeline
 const TABLE_STORE = "hz-detail-table"; // owners shown as a table instead of the timeline
+// colour themes of the icons (CSS variables per theme in style.css); the first one is the default
+const ICON_THEMES = { zemita: "Zemitá", kamen: "Kámen", syta: "Sytá", pastel: "Pastelová" };
+const DEFAULT_ICON_THEME = "zemita";
 const DEFAULTS = {
   layers: { vstupne: true, volne: true, neznamo: false },
   kinds: { hrad: true, zamek: true, hradozamek: true, zricenina: true },
@@ -23,6 +27,7 @@ const DEFAULTS = {
   onlyHistory: false,
   tm: false,
   year: 1600,
+  tmHideUndated: true, // time machine: hide places without a known founding date (unless visited)
   families: [],
   radius: 25,
 };
@@ -39,6 +44,7 @@ function loadState() {
     const s = JSON.parse(localStorage.getItem(STORE)) || {};
     if (typeof s.family === "string") s.families = s.family ? [s.family] : []; // single-select from v1
     delete s.family;
+    if (!Number.isFinite(s.year)) delete s.year;
     return { ...structuredClone(DEFAULTS), ...s, layers: { ...DEFAULTS.layers, ...s.layers }, kinds: { ...DEFAULTS.kinds, ...s.kinds } };
   } catch {
     return structuredClone(DEFAULTS);
@@ -49,18 +55,50 @@ function saveState() {
   localStorage.setItem(STORE, JSON.stringify(state));
 }
 
+function applyIconTheme() {
+  const t = getIconTheme();
+  document.documentElement.dataset.iconTheme = ICON_THEMES[t] ? t : DEFAULT_ICON_THEME;
+}
+
 /* ---------- marker glyphs ---------- */
 
 // Pictograms in a unit box (x, y in -1..1, y down); drawn scaled to the marker, the outline keeps its px width.
+// Subpaths are holes (fill-rule evenodd); designs live in piktogramy/index.html (local only).
 const PICTOGRAMS = {
-  // tower with battlements
-  hrad: "M-.72 1V-.5H-.92V-1H-.54V-.74H-.19V-1H.19V-.74H.54V-1H.92V-.5H.72V1Z",
-  // chateau: wide house with a roof and a domed turret
-  zamek: "M-1 .8V-.05L-.82-.4H-.28V-.58C-.28-1.02 .28-1.02 .28-.58V-.4H.82L1-.05V.8Z",
-  // castle keep with a chateau wing
-  hradozamek: "M-1 1V-1H-.77V-.8H-.53V-1H-.3V-.26L.02-.56H.68L1-.24V1Z",
-  // broken walls with a jagged top
-  zricenina: "M-.95 1V-.46H-.7V-.92H-.44V-.3L-.16-.06L.1-.44L.34 0V-.6H.6V-.28H.95V1Z",
+  // tower with battlements and a lower curtain wall with a gate
+  hrad: "M-.9 1V-1H-.7V-.75H-.55V-1H-.35V-.75H-.2V-1H0V-.1H.15V-.3H.35V-.1H.55V-.3H.75V-.1H1V1ZM.4 1V.55A.2 .2 0 0 1 .8 .55V1Z",
+  // several conical-roofed towers of different heights, gate in the middle
+  zamek: "M-1 1V-.15L-.825-.6L-.65-.15V0H-.45V-.35L-.25-.85L-.05-.35V-.1H.1V-.55L.3-1L.5-.55V0H.7V-.15L.85-.6L1-.15V1ZM-.2 1V.55A.2 .2 0 0 1 .2 .55V1ZM.2-.3H.4V0H.2Z",
+  // battlemented keep on the left, chateau cone towers and a gate on the right
+  hradozamek: "M-1 1V-1H-.85V-.82H-.75V-1H-.6V-.82H-.5V-1H-.35V0H.1V-.55L.3-1L.5-.55V0H.7V-.15L.85-.6L1-.15V1ZM-.72-.4H-.62V-.05H-.72ZM-.1 1V.55A.2 .2 0 0 1 .3 .55V1ZM.2-.3H.4V0H.2Z",
+  // battlemented tower and a crumbling wall
+  zricenina: "M-.9 1V-1H-.7V-.78H-.5V-1H-.3V-.78H-.1V-.4L.1-.5L.15-.1L.4-.15L.5 .25L.75 .2L.95 .6V1ZM-.6-.1H-.4V.3H-.6Z",
+  // slim tower with an overhanging top and an arrow slit
+  tvrz: "M-.55 1L-.45-.55H-.6V-1H-.3V-.8H-.12V-1H.12V-.8H.3V-1H.6V-.55H.45L.55 1ZM-.08-.2H.08V.25H-.08Z",
+  // church with a cross in the middle and two convent wings
+  klaster: "M-.95 1V.15H-.35V-.25L-.07-.55V-.65H-.2V-.78H-.07V-1H.07V-.78H.2V-.65H.07V-.55L.35-.25V.15H.95V1ZM-.1 1V.6A.1 .1 0 0 1 .1 .6V1Z",
+  // spired tower with a cross, nave attached
+  kostel: "M-.8 1V-.05L-.57-.55V-.64H-.7V-.77H-.57V-.97H-.43V-.77H-.3V-.64H-.43V-.55L-.2-.05V.2H.95V1ZM-.58 1V.6A.08 .08 0 0 1 -.42 .6V1ZM.2 .75V.5A.08 .08 0 0 1 .36 .5V.75ZM.6 .75V.5A.08 .08 0 0 1 .76 .5V.75Z",
+  // dwelling with a gable roof and a barn
+  usedlost: "M-.95 1V-.1L-.4-.7L.1-.1L.55-.5L1-.1V1ZM-.55 1V.4H-.25V1ZM.3 1V.3H.8V1Z",
+  // building with a pediment and a cross
+  hospital: "M-1 1V-.2H-.5V-.6L0-1L.5-.6V-.2H1V1ZM-.1-.15H.1V.05H.3V.25H.1V.45H-.1V.25H-.3V.05H-.1Z",
+  // crossed hammers (mining symbol)
+  dul: "M0-.2L.407-.607L.26-.754L.486-.98L.98-.486L.754-.26L.607-.407L.2 0L.8 .6L.6 .8L0 .2L-.6 .8L-.8 .6L-.2 0L-.607-.407L-.754-.26L-.98-.486L-.486-.98L-.26-.754L-.407-.607Z",
+  // functionalist blocks with windows
+  vila: "M-1 1V.1H-.7V-.3H-.15V-.75H.45V-.4H1V1ZM-.55-.1H-.3V.2H-.55ZM-.05-.55H.3V-.25H-.05ZM.2-.1H.85V.1H.2Z",
+  // pavilion with columns and a pediment (colonnade)
+  areal: "M-1 1V.7H-.875V-.2H-.95V-.4H-1L0-1L1-.4H.95V-.2H.875V.7H1V1ZM-.625-.2H-.375V.7H-.625ZM-.125-.2H.125V.7H-.125ZM.375-.2H.625V.7H.375Z",
+  // tree (chateau and flower gardens)
+  zahrada: "M-.18 1L-.1 .29A.65 .65 0 1 1 .1 .29L.18 1Z",
+  // star fortress with a courtyard (Terezín, Josefov)
+  pevnost: "M0-1L.3-.52L.866-.5L.6 0L.866 .5L.3 .52L0 1L-.3 .52L-.866 .5L-.6 0L-.866-.5L-.3-.52ZM0-.3L.26-.15V.15L0 .3L-.26 .15V-.15Z",
+  // town wall with a gate tower
+  hradby: "M-1 1V-.4H-.8V-.2H-.65V-.4H-.45V-1H-.25V-.8H-.08V-1H.08V-.8H.25V-1H.45V-.4H.65V-.2H.8V-.4H1V1ZM-.2 1V.2A.2 .2 0 0 1 .2 .2V1Z",
+  // skull (Sedlec, Brno, Klatovy)
+  kostnice: "M-.7-.1C-.7-.7 -.4-1 0-1C.4-1 .7-.7 .7-.1C.7 .15 .55 .3 .4 .4V.75H.25V1H-.25V.75H-.4V.4C-.55 .3 -.7 .15 -.7-.1ZM-.45-.1A.17 .17 0 1 0 -.11-.1A.17 .17 0 1 0 -.45-.1ZM.11-.1A.17 .17 0 1 0 .45-.1A.17 .17 0 1 0 .11-.1ZM0 .12L.09 .32H-.09Z",
+  // vault with a cross
+  krypta: "M-.9 1V-.1A.9 .9 0 0 1 .9-.1V1ZM-.45 1V.1A.45 .45 0 0 1 .45 .1V1ZM-.07 0H.07V.15H.2V.28H.07V.75H-.07V.28H-.2V.15H-.07Z",
 };
 
 // pictograms need more room than the old circles / squares to stay readable; sizes elsewhere stay as they were
@@ -71,7 +109,7 @@ export function glyphBox(size) {
   return Math.round(size * PICTO_SCALE) + 4;
 }
 
-export function glyph(kind, { size, fill, stroke, strokeWidth = 2, check = false, opacity = 1, halo = true }) {
+export function glyph(kind, { size, fill, stroke, strokeWidth = 2, check = false, opacity = 1 }) {
   const box = glyphBox(size);
   const r = (box - 4) / 2 - strokeWidth / 2;
   const c = box / 2;
@@ -79,8 +117,7 @@ export function glyph(kind, { size, fill, stroke, strokeWidth = 2, check = false
   const t = r * 0.42; // tick in the solid lower half of every pictogram
   const tick = check ? `<path d="M${-t} ${r * 0.42} l${t * 0.7} ${t * 0.7} l${t * 1.3} ${-t * 1.3}" fill="none" stroke="#fff" stroke-width="${Math.max(1.6, r * 0.24)}" stroke-linecap="round" stroke-linejoin="round"/>` : "";
   return `<svg width="${box}" height="${box}" viewBox="${-c} ${-c} ${box} ${box}" style="opacity:${opacity}">
-    ${halo ? /* white ring lifts the marker off the terrain tiles */ `<path d="${d}" transform="scale(${r})" fill="none" stroke="var(--mk-bg)" stroke-width="${strokeWidth + 2.5}" vector-effect="non-scaling-stroke" stroke-linejoin="round" opacity=".9"/>` : ""}
-    <path d="${d}" transform="scale(${r})" fill="${fill}" stroke="${stroke}" stroke-width="${strokeWidth}" vector-effect="non-scaling-stroke" stroke-linejoin="round"/>${tick}</svg>`;
+    <path d="${d}" transform="scale(${r})" fill="${fill}" stroke="${stroke}" stroke-width="${strokeWidth}" vector-effect="non-scaling-stroke" stroke-linejoin="round" fill-rule="evenodd"/>${tick}</svg>`;
 }
 
 /** First highlighted family that ever owned the place (or null). */
@@ -134,7 +171,8 @@ function passes(p) {
   if (state.cFrom && (c == null || c < +state.cFrom)) return false;
   if (state.cTo && (c == null || c > +state.cTo)) return false;
   if (state.tm) {
-    if (p.foundedYear != null && p.foundedYear > state.year) return false;
+    if (p.startYear != null && p.startYear > state.year) return false; // not built yet
+    if (p.startYear == null && state.tmHideUndated && !p.visited) return false;
     if (!p.history && !state.onlyHistory && p.access === "neznamo") return false;
   }
   return true;
@@ -236,7 +274,8 @@ function renderFilters() {
         <div class="row"><span class="year" id="tm-year">${state.year}</span>
           <button id="tm-minus" title="o 10 let zpět">-10</button><button id="tm-plus" title="o 10 let dál">+10</button>
           <button id="tm-play" title="přehrát">▶</button></div>
-        <input type="range" id="f-year" min="1100" max="${NOW}" step="1" value="${state.year}">
+        <label class="check"><input type="checkbox" id="f-undated" ${state.tmHideUndated ? "checked" : ""}> skrýt místa bez data vzniku</label>
+        <input type="range" id="f-year" min="${D.tmMin}" max="${NOW}" step="1" value="${state.year}">
       </div>
     </div>
     <div class="filter-group"><div class="label">Zvýraznit rody
@@ -248,6 +287,9 @@ function renderFilters() {
         ${fams.filter((f) => !state.families.includes(f.id)).map((f) => `<option value="${f.id}">${esc(f.name)} (${f.place_count})</option>`).join("")}
       </select>
     </div>
+    <div class="filter-group"><label class="check">Barvy ikon <select id="f-icons">
+        ${Object.entries(ICON_THEMES).map(([k, label]) => `<option value="${k}" ${document.documentElement.dataset.iconTheme === k ? "selected" : ""}>${label}</option>`).join("")}
+      </select></label></div>
     <div class="filter-group"><div class="label">Legenda</div><div id="legend" class="legend"></div></div>
     <p class="muted" style="font-size:12px">Zdroje: Wikidata, Wikipedie (CC BY-SA), NPÚ, statistika NIPOS 2025, © přispěvatelé OpenStreetMap.</p>`;
 
@@ -269,12 +311,23 @@ function renderFilters() {
     saveState(); renderFilters(); refresh();
   });
   bindStorage(el.querySelector("#v-store"));
+  el.querySelector("#f-icons").addEventListener("change", async (e) => {
+    try {
+      const info = await setIconTheme(e.target.value === DEFAULT_ICON_THEME ? null : e.target.value);
+      applyIconTheme();
+      visitsChanged(info);
+    } catch (err) {
+      bindStorage(el.querySelector("#v-store"), esc(err.message));
+      console.error(err);
+    }
+  });
   on("#f-tm", "change", (e) => {
     state.tm = e.target.checked;
     el.querySelector("#tm-body").hidden = !state.tm;
   });
+  on("#f-undated", "change", (e) => (state.tmHideUndated = e.target.checked));
   const setYear = (y) => {
-    state.year = Math.max(1100, Math.min(NOW, y));
+    state.year = Math.max(D.tmMin, Math.min(NOW, y));
     el.querySelector("#f-year").value = state.year;
     el.querySelector("#tm-year").textContent = state.year;
     saveState();
@@ -288,7 +341,7 @@ function renderFilters() {
   el.querySelector("#tm-play").addEventListener("click", (e) => {
     if (timer) { clearInterval(timer); timer = null; e.target.textContent = "▶"; return; }
     e.target.textContent = "❚❚";
-    if (state.year >= NOW) setYear(1100);
+    if (state.year >= NOW) setYear(D.tmMin);
     timer = setInterval(() => {
       if (state.year >= NOW) { clearInterval(timer); timer = null; e.target.textContent = "▶"; return; }
       setYear(state.year + 5);
@@ -315,9 +368,10 @@ function renderLegend() {
       html += item(glyph("zamek", { size: 15, fill: "var(--mk-bg)", stroke: ownerColor(D.families, f, true), strokeWidth: 3 }), familyName(D.families, f), f);
     }
     html += item(glyph("zamek", { size: 20, fill: "var(--mk-accent)", stroke: "var(--mk-bg)", check: true }), "navštíveno");
-    html += item(glyph("zamek", { ...ACCESS_STYLE.vstupne, fill: "var(--mk-bg)" }), ACCESS.vstupne.legend);
-    html += item(glyph("zamek", { ...ACCESS_STYLE.volne, fill: "var(--mk-bg)" }), ACCESS.volne.legend);
-    html += item(glyph("zamek", { size: 9, fill: "var(--mk-muted)", stroke: "var(--mk-bg)", strokeWidth: 1 }), ACCESS.neznamo.legend);
+    // neutral grey fills (the outline is what carries the access), solid enough to read at legend size
+    html += item(glyph("zamek", { ...ACCESS_STYLE.vstupne, fill: "var(--mk-nodata)" }), ACCESS.vstupne.legend);
+    html += item(glyph("zamek", { ...ACCESS_STYLE.volne, fill: "var(--mk-nodata)" }), ACCESS.volne.legend);
+    html += item(glyph("zamek", { size: 12, fill: "var(--mk-muted)", stroke: "var(--mk-free)", strokeWidth: 1 }), ACCESS.neznamo.legend);
     for (const [k, label] of Object.entries(KIND)) html += item(glyph(k, { size: 12, fill: kindFill(k), stroke: "var(--mk-ink)", strokeWidth: 1.5 }), label);
   }
   el.innerHTML = html;
@@ -479,6 +533,7 @@ function bindStorage(box, msg) {
 
 /** Re-render everything that shows visits (markers, filters with the storage box, stats). */
 function visitsChanged(_, msg) {
+  applyIconTheme(); // an import or a re-read file may bring another theme
   for (const m of markers.values()) m.key = null;
   renderFilters();
   refresh();
@@ -635,6 +690,7 @@ function closeDetail() {
 export function initMap(data) {
   D = data;
   state = loadState();
+  applyIconTheme();
   map = L.map("map", { zoomSnap: 0.25, zoomDelta: 0.5, wheelPxPerZoomLevel: 90 }).fitBounds([[48.55, 12.09], [51.06, 18.86]]);
   attachBaseLayers(map);
   L.control.scale({ imperial: false }).addTo(map);

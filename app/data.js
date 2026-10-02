@@ -41,6 +41,17 @@ async function json(url, fallback) {
   return r.json();
 }
 
+/** Earliest year the place is known to exist: founding year, else the start of the "14. stol." / "1920. léta" text,
+ *  else the oldest year in its history (owners, events); null when nothing is known. */
+function startYear(p) {
+  const founded = p.history?.founded?.year ?? p.founded;
+  if (founded != null) return founded;
+  const m = /^(\d+)\. (stol|léta)/.exec(p.founded_text || "");
+  if (m) return m[2] === "stol" ? (+m[1] - 1) * 100 + 1 : +m[1];
+  const years = [...(p.history?.owners || []).map((o) => o.from), ...(p.history?.events || []).map((e) => e.year)].filter((y) => y != null);
+  return years.length ? Math.min(...years) : null;
+}
+
 export async function loadAll() {
   const [places, history, families, thumbs] = await Promise.all([
     json("data/places.json"),
@@ -56,8 +67,12 @@ export async function loadAll() {
     p.history = history[p.id] || null;
     const hy = p.history?.founded?.year;
     p.foundedYear = hy ?? p.founded ?? null;
+    p.startYear = startYear(p);
   }
-  return { places, byId, families, history };
+  // the time axis starts at the oldest owner of any place, rounded down to 50 years (870 -> 850)
+  const owned = places.flatMap((p) => (p.history?.owners || []).map((o) => o.from)).filter((y) => y != null);
+  const tmMin = Math.floor(Math.min(...owned, 1100) / 50) * 50;
+  return { places, byId, families, history, tmMin };
 }
 
 /** Owner record of a place in a given year (last matching period wins). */

@@ -3,15 +3,18 @@
 //  2. "file":   a visited.json on the user's disk connected via the File System Access API (Chromium);
 //               every change is written straight into it, the handle is remembered in IndexedDB.
 //  3. "browser": localStorage only. Export / import move the data between browsers and people.
+// The file holds {"iconTheme": ..., "visits": [...]}; a plain list of visits (older files) is still read.
 // Outside server mode localStorage always holds the full working copy, so the map works even while a
 // connected file needs its permission renewed; changes made meanwhile are replayed into the file later.
 const LS_VISITS = "hz-visits-v2"; // [visit] working copy
-const LS_DIRTY = "hz-visits-dirty-v2"; // {id: visit | null} changes not yet written to the connected file
+const LS_THEME = "hz-icon-theme"; // chosen colour theme of the icons
+const LS_DIRTY = "hz-visits-dirty-v2"; // {id: visit | null, iconTheme: string | null} changes not yet written to the connected file
 const IDB = { db: "hz", store: "kv", key: "visits-file" };
 const PICKER = { types: [{ description: "Návštěvy (JSON)", accept: { "application/json": [".json"] } }] };
 
 let D;
 let mode = "browser";
+let iconTheme = null; // null = the app default
 const V = new Map(); // id -> visit, the source of truth (also keeps ids that are not in places.json)
 const file = { handle: null, granted: false };
 let writing = Promise.resolve();
@@ -32,14 +35,19 @@ function list() {
 
 /** Same layout as the hand-edited file: one visit per line. */
 function serialize(items) {
-  return items.length ? "[\n" + items.map((v) => " " + JSON.stringify(v)).join(",\n") + "\n]\n" : "[]\n";
+  const theme = iconTheme ? ` "iconTheme": ${JSON.stringify(iconTheme)},\n` : "";
+  const visits = items.length ? "[\n" + items.map((v) => "  " + JSON.stringify(v)).join(",\n") + "\n ]" : "[]";
+  return `{\n${theme} "visits": ${visits}\n}\n`;
 }
 
+const normTheme = (t) => (typeof t === "string" && t ? t : null);
+
 function parse(text) {
-  const raw = text.trim() ? JSON.parse(text) : [];
+  const doc = text.trim() ? JSON.parse(text) : [];
+  const raw = Array.isArray(doc) ? doc : doc?.visits;
   if (!Array.isArray(raw)) throw new Error("Soubor neobsahuje seznam návštěv (JSON pole).");
   const items = raw.map(norm);
-  return { items: items.filter(Boolean), invalid: items.filter((v) => !v).length };
+  return { items: items.filter(Boolean), invalid: items.filter((v) => !v).length, iconTheme: Array.isArray(doc) ? null : normTheme(doc?.iconTheme) };
 }
 
 function replaceAll(items) {
@@ -62,6 +70,8 @@ function readLS(key, fallback) {
 
 function saveLocal() {
   localStorage.setItem(LS_VISITS, JSON.stringify(list()));
+  if (iconTheme) localStorage.setItem(LS_THEME, iconTheme);
+  else localStorage.removeItem(LS_THEME);
 }
 
 function addDirty(changes) {
@@ -99,20 +109,24 @@ function writeFile() {
  *  otherwise: the file is the base (it may have changed on another device) and the changes made
  *  in this browser while the file was unavailable are replayed on top, removals included. */
 async function syncFile(first) {
-  let text, fromFile;
+  let text, fromFile, fileTheme;
   try {
     text = await (await file.handle.getFile()).text();
-    fromFile = new Map(parse(text).items.map((v) => [v.id, v]));
+    const parsed = parse(text);
+    fromFile = new Map(parsed.items.map((v) => [v.id, v]));
+    fileTheme = parsed.iconTheme;
   } catch (e) {
     const why = e.name === "NotFoundError" ? "soubor už neexistuje nebo byl přesunut"
       : e instanceof SyntaxError ? "není to platný JSON" : e.message;
     throw new Error(`Soubor ${file.handle.name} nejde načíst: ${why}. Oprav ho, nebo ho odpoj a připoj jiný; návštěvy zatím zůstávají v prohlížeči.`);
   }
+  iconTheme = fileTheme ?? iconTheme;
   if (first) {
     for (const v of V.values()) if (!fromFile.has(v.id)) fromFile.set(v.id, v);
   } else {
     for (const [id, v] of Object.entries(readLS(LS_DIRTY, {}))) {
-      if (v) fromFile.set(id, v);
+      if (id === "iconTheme") iconTheme = v;
+      else if (v) fromFile.set(id, v);
       else fromFile.delete(id);
     }
   }
@@ -129,7 +143,7 @@ async function useHandle(handle, first) {
   file.granted = (await handle.queryPermission({ mode: "readwrite" })) === "granted"
     || (await handle.requestPermission({ mode: "readwrite" })) === "granted";
   if (file.granted) await syncFile(first);
-  else if (first) addDirty(Object.fromEntries(V)); // the whole browser copy still has to reach the file
+  else if (first) addDirty({ ...Object.fromEntries(V), ...(iconTheme && { iconTheme }) }); // the whole browser copy still has to reach the file
 }
 
 /* ---------- public API ---------- */
@@ -141,10 +155,15 @@ export async function initVisits(data) {
     const r = await fetch("api/visited", { cache: "no-store" });
     if (r.ok) {
       mode = "server";
-      replaceAll((await r.json()).map(norm).filter(Boolean));
+      const doc = await r.json();
+      replaceAll(doc.visits.map(norm).filter(Boolean));
+      iconTheme = normTheme(doc.iconTheme);
     }
   } catch { /* static host: no api/visited */ }
-  if (mode !== "server") replaceAll(readLS(LS_VISITS, []).map(norm).filter(Boolean));
+  if (mode !== "server") {
+    replaceAll(readLS(LS_VISITS, []).map(norm).filter(Boolean));
+    iconTheme = normTheme(localStorage.getItem(LS_THEME));
+  }
   if (mode !== "server" && canConnect()) {
     try {
       file.handle = (await idb((s) => s.get(IDB.key))) || null;
@@ -181,7 +200,7 @@ export function storageInfo() {
 async function persist(changes) {
   if (mode === "server") {
     const r = await fetch("api/visited", {
-      method: "PUT", headers: { "Content-Type": "application/json" }, body: JSON.stringify(list()),
+      method: "PUT", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ iconTheme, visits: list() }),
     });
     if (!r.ok) throw new Error(`Uložení selhalo: ${(await r.json().catch(() => ({}))).error || r.status}`);
     return;
@@ -195,6 +214,16 @@ async function persist(changes) {
     }
   }
   addDirty(changes);
+}
+
+/** Colour theme of the icons chosen by the user (null = the app default). */
+export const getIconTheme = () => iconTheme;
+
+/** Remember the theme next to the visits (server, connected file or browser); resolves to storageInfo(). */
+export async function setIconTheme(theme) {
+  iconTheme = normTheme(theme);
+  await persist({ iconTheme });
+  return storageInfo();
 }
 
 /** Save (visit object) or remove (null) a visit; resolves to storageInfo() after the write. */
@@ -251,6 +280,10 @@ export async function importVisits(f, replace = false) {
   }
   const changes = {};
   let added = 0, updated = 0, removed = 0;
+  if (parsed.iconTheme && parsed.iconTheme !== iconTheme) {
+    iconTheme = parsed.iconTheme;
+    changes.iconTheme = iconTheme;
+  }
   if (replace) {
     const keep = new Set(parsed.items.map((v) => v.id));
     for (const id of [...V.keys()]) {
@@ -269,6 +302,6 @@ export async function importVisits(f, replace = false) {
     changes[v.id] = v;
   }
   applyToPlaces();
-  if (added || updated || removed) await persist(changes);
+  if (Object.keys(changes).length) await persist(changes);
   return { added, updated, removed, invalid: parsed.invalid, unknown: parsed.items.filter((v) => !D.byId.has(v.id)).length };
 }

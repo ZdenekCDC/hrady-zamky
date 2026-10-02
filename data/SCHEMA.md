@@ -67,7 +67,14 @@
 ## visited.json
 
 ```json
-[{"id": "Q1701829", "name": "Karlova Koruna", "date": null, "rating": null, "note": ""}]
+{
+ "iconTheme": "kamen",
+ "visits": [
+  {"id": "Q1701829", "name": "Karlova Koruna", "date": null, "rating": null, "note": ""}
+ ]
+}
 ```
+
+`iconTheme` (volitelné) je zvolené barevné téma ikon (`zemita` je výchozí, dál `kamen`, `syta`, `pastel`); při jeho absenci platí výchozí. Starší soubor jen s polem návštěv se čte dál, první zápis ho převede na tento tvar.
 
 `id` je QID z `places.json`, `name` jen pro čitelnost. `date` ve formátu `YYYY-MM-DD` nebo `YYYY`, `rating` 1-5. Stejný formát má export / import návštěv a soubor připojený v prohlížeči (`app/visits.js`).
