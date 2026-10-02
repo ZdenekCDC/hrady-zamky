@@ -4,63 +4,148 @@
  "founded": {
   "year": 1450,
   "approx": true,
-  "text": "Na začátku druhé poloviny 15. století založil hrad Nový hrad Zdeněk Kostka z Postupic; starší ves Boží Dům je doložena už roku 1293."
+  "text": "Na začátku druhé poloviny 15. století (podle de.wiki zrcadla 1450-1465) založil hrad Nový hrad Zdeněk Kostka z Postupic na návrší nad vsí Boží Dům, doložená už roku 1293; první písemná zmínka o hradu je z let 1468-1471."
  },
- "summary": "Hrad Nový hrad založil na začátku druhé poloviny 15. století Zdeněk Kostka z Postupic na místě staršího sídla u vsi Boží Dům. Roku 1750 koupil panství Jan Ludvík Harbuval-Chamaré a jeho syn Jan Antonín nechal v letech 1773-1777 pod starým hradem vystavět rokokový zámek. Rod Harbuval-Chamaré zámek vlastnil do roku 1903, poté se vystřídalo několik majitelů, mimo jiné od roku 1936 Bartoňové z Dobenína, jimž byl po znárodnění v roce 1948 majetek po roce 1989 vrácen; roku 1997 zámek koupili manželé Kučerovi, za nichž prochází rekonstrukcí.",
+ "summary": "Hrad Nový hrad založil v polovině 15. století Zdeněk Kostka z Postupic; po vymření Kostků (1557) se na panství vystřídali Žatečtí ze Weikersdorfu, Lobkovicové a od roku 1604 Trautsonové. Roku 1750 panství koupili Harbuval-Chamaré a Jan Antonín nechal v letech 1773-1777 pod starým hradem vystavět rokokový zámek. Rod jej vlastnil do roku 1903 (podle některých zdrojů 1904), pak se vystřídalo několik majitelů včetně Bartoňů z Dobenína (od 1936); po znárodnění (1948) a restituci počátkem 90. let jej roku 1997 koupili manželé Kučerovi, za nichž prochází rekonstrukcí.",
  "owners": [
   {
    "owner": "kostkove-z-postupic",
    "owner_wiki": "Kostkové z Postupic",
-   "person": "Zdeněk Kostka z Postupic",
+   "person": "Zdeněk Kostka z Postupic a potomci (poslední Bohuslav Kostka z Postupic)",
    "from": 1450,
-   "to": null,
+   "to": 1557,
    "from_approx": true,
    "to_approx": true,
    "how": "zalozeni",
-   "note": "založil hrad na začátku druhé poloviny 15. století; další osudy panství až do poloviny 18. století nejsou v dostupných zdrojích popsány"
+   "note": "hrad na návrší nad vsí Boží Dům založil Zdeněk Kostka, podle de.wiki (zrcadlo de.zxc.wiki) v letech 1450-1465, první písemná zmínka 1468-1471 (cs.wiki); statky litomyšlského biskupství včetně Božího Domu získal už roku 1434 od krále Zikmunda Vilém Kostka z Postupic; rod vymřel po meči Bohuslavem Kostkou (zemřel 1557) a hrad připadl české koruně (rok 1557 přibližný)"
+  },
+  {
+   "owner": "koruna",
+   "person": null,
+   "from": 1557,
+   "to": 1559,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "jine",
+   "note": "po vymření Kostků v mužské linii připadl hrad koruně (odúmrť); roku 1559 jej Ferdinand I. dědičně zapsal v zemských deskách Janu Žateckému ze Weikersdorfu"
+  },
+  {
+   "owner": "z-weikersdorfu",
+   "owner_wiki": null,
+   "person": "Jan Žatecký ze Weikersdorfu (zemřel 1559), syn Vojtěch (zemřel kolem 1563), poté dvě dcery (mj. Anna Švihovská z Rýzmberka, zemřela 1580)",
+   "from": 1559,
+   "to": 1580,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "lenni",
+   "note": "Ferdinand I. jim panství roku 1559 dědičně zapsal; konec 1580 podle smrti Anny Švihovské (de.wiki zrcadlo de.zxc.wiki); rod nemá článek na cs.wiki"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Mikuláš Popel z Lobkovic",
+   "from": 1580,
+   "to": 1588,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "pražský staroměstský hejtman, panství získal po smrti Anny Švihovské (1580); zemřel 1588 zadlužen a s nezletilými dětmi (de.zxc.wiki, cs.wiki: hrad Nové hrady)"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "děti Mikuláše Popela (Anna, Mikuláš ml., Jan Viktorin), do zletilosti strýc Ladislav Popel z Lobkovic",
+   "from": 1588,
+   "to": 1599,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "Mikuláš ml. dostal Nové hrady při dělení a vedl do 1595 spor s Magdalenou ze Salmu o zápis dluhu; zemřel bezdětný 1599"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Anna z Lobkovic",
+   "from": 1599,
+   "to": 1604,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "zdědila po bratru Mikuláši; zemřela 1604"
+  },
+  {
+   "owner": "trautsonove",
+   "owner_wiki": "Trautsonové",
+   "person": "Pavel Sixt z Trautsonu a jeho potomci (mj. Jan Leopold Donát, Ludvík, Josef)",
+   "from": 1604,
+   "to": 1750,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "Pavel Sixt zdědil po manželce Anně z Lobkovic; za stavovského povstání 1618 mu panství stavové zabavili, po Bílé hoře je dostali zpět; majitelé zde nesídlili, 1731 Ludvík založil pivovar; 5. června 1750 zadlužený Josef Trautson (biskup Jan Josef) panství prodal"
   },
   {
    "owner": "harbuval-chamare",
    "owner_wiki": "Harbuval-Chamaré",
-   "person": "Jan Ludvík Harbuval-Chamaré",
+   "person": "Jan Ludvík Harbuval-Chamaré, resp. Anna Barbora Harbuval-Chamaré (roz. Saunigová)",
    "from": 1750,
-   "to": 1764,
+   "to": 1773,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "koupil panství Nové Hrady za 100000 zlatých; předchozí majitel není v dostupných zdrojích uveden"
+   "note": "zdroje se liší: cs.wiki (Harbuval-Chamaré) uvádí kupce Jana Ludvíka (zemřel 1764, cena 100 000 zl.), cs.wiki (hrad) a hrady.cz svobodnou paní Annu Barboru, matku Jana Antonína, která zemřela 1773; panství se skládalo z hradu, dvora, pivovaru, městečka a 20 vsí"
   },
   {
    "owner": "harbuval-chamare",
    "owner_wiki": "Harbuval-Chamaré",
    "person": "Jan Antonín Harbuval-Chamaré",
-   "from": 1764,
+   "from": 1773,
    "to": 1808,
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "v letech 1773-1777 nechal vystavět rokokový zámek podle vlastního návrhu, projekt zpracoval architekt Josef Jäger"
+   "note": "zdědil po matce; od 1773 nechal vystavět rokokový zámek (1773-1777) podle vlastního návrhu, projekt zpracoval Josef Jäger; zemřel 1808"
   },
   {
    "owner": "harbuval-chamare",
    "owner_wiki": "Harbuval-Chamaré",
-   "person": "potomci Jana Antonína, naposledy Leonard Harbuval-Chamaré",
+   "person": "děti Jana Antonína (Jan Antonín, Jan Ludvík, Marie Anna), po dělení 1826 Jan Ludvík, později další potomci, naposledy Leonard Harbuval-Chamaré",
    "from": 1808,
    "to": 1903,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "od druhé poloviny 19. století zámek téměř nevyužívali a chátral; roku 1903 jej Leonard prodal"
+   "note": "za nezletilých dětí vdova Marie Anna Dobřenská; od druhé poloviny 19. století zámek téměř nevyužívali a chátral; rok prodeje: cs.wiki (zámek) a hrady.cz 1903, cs.wiki (Harbuval-Chamaré) a de.wiki zrcadlo 1904"
   },
   {
    "owner": "soukromnik",
-   "person": "Štěpán Berger a další majitelé",
+   "person": "Štěpán Berger, pražský obchodník",
    "from": 1903,
+   "to": 1905,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "prodej roku 1903 (cs.wiki zámek, hrady.cz; jiné zdroje 1904); 1904-1905 oprava interiérů podle Zdeňka Fierlingera; podle de.wiki zrcadla jej 1905 prodal Václavu Böckingovi"
+  },
+  {
+   "owner": "soukromnik",
+   "person": "Václav Böcking, pražský velkoobchodník",
+   "from": 1905,
+   "to": 1931,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "pouze de.wiki zrcadlo (de.zxc.wiki); cs.wiki uvádí jen 'několik majitelů'; rok konce odvozen z nákupu Švagerou, případní další majitelé mezi tím nejsou ve zdrojích vyloučeni"
+  },
+  {
+   "owner": "soukromnik",
+   "person": "Jiří Švagera, obuvník (Dostál & Švagera) z Kostelce nad Orlicí",
+   "from": 1931,
    "to": 1936,
    "from_approx": false,
    "to_approx": true,
    "how": "koupe",
-   "note": "pražský velkoobchodník Štěpán Berger nechal opravit interiéry; mezi ním a Cyrilem Bartoněm z Dobenína zámek vystřídal ještě několik dalších, blíže neurčených majitelů"
+   "note": "pouze de.wiki zrcadlo, koupil zámek se statkem zmenšeným pozemkovou reformou a sídlil zde; zdroje datují příchod Bartoně 1935 (de.wiki zrcadlo) nebo 1936 (cs.wiki, hrady.cz)"
   },
   {
    "owner": "bartonove-z-dobenina",
@@ -71,7 +156,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "posledním majitelem před znárodněním byl textilní továrník Josef Bartoň z Dobenína z Nového Města nad Metují"
+   "note": "Cyril používal zámek jako letní a lovecký zámek, 1936-1939 oprava podle Fierlingera; posledním majitelem před znárodněním textilní továrník Josef Bartoň z Dobenína"
   },
   {
    "owner": "stat",
@@ -81,7 +166,7 @@
    "from_approx": false,
    "to_approx": true,
    "how": "konfiskace",
-   "note": "po znárodnění doplněn inventářem z jiných zámků; po roce 1989 vrácen vnukům posledního majitele"
+   "note": "1948 znárodněn (cs.wiki; hrady.cz: majetkem státu), po únoru 1948 pod státní správou; východní část od 1945 sloužila škole do 80. let; doplněn inventářem z jiných zámků; po roce 1989 vrácen vnukům posledního majitele (rok restituce zdroje neuvádějí)"
   },
   {
    "owner": "bartonove-z-dobenina",
@@ -92,7 +177,7 @@
    "from_approx": true,
    "to_approx": false,
    "how": "restituce",
-   "note": "rok restituce zdroj neuvádí přesně, jen '​po roce 1989'"
+   "note": "zdroje uvádějí jen 'po roce 1989'; vnuci zámek nabídli k prodeji"
   },
   {
    "owner": "soukromnik",
@@ -102,23 +187,57 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "od koupě zámek i okolí prochází rekonstrukcí"
+   "note": "od koupě zámek i okolí prochází rekonstrukcí; od 2001 zpřístupněn veřejnosti (hrady.cz)"
   }
  ],
  "events": [
-  {"year": 1293, "text": "první písemná zmínka o vsi Boží Dům (dnešní Nové Hrady)"},
-  {"year": 1450, "text": "Zdeněk Kostka z Postupic zakládá hrad Nový hrad"},
-  {"year": 1750, "text": "Jan Ludvík Harbuval-Chamaré kupuje panství Nové Hrady za 100000 zlatých"},
-  {"year": 1773, "text": "1773-1777 stavba rokokového zámku Janem Antonínem Harbuval-Chamaré podle projektu Josefa Jägera"},
-  {"year": 1804, "text": "dokončen ornamentální zámecký areál (tzv. České Versailles)"},
-  {"year": 1903, "text": "poslední Harbuval-Chamaré prodává zámek Štěpánu Bergerovi"},
-  {"year": 1936, "text": "zámek získává Cyril Bartoň z Dobenína"},
-  {"year": 1948, "text": "zámek znárodněn"},
-  {"year": 1997, "text": "zámek kupují manželé Petr a Magda Kučerovi, začíná rekonstrukce"}
+  {
+   "year": 1293,
+   "text": "první písemná zmínka o vsi Boží Dům (dnešní Nové Hrady)"
+  },
+  {
+   "year": 1450,
+   "text": "Zdeněk Kostka z Postupic zakládá hrad Nový hrad (1450-1465)"
+  },
+  {
+   "year": 1604,
+   "text": "panství zdědil Pavel Sixt z Trautsonu po manželce Anně z Lobkovic"
+  },
+  {
+   "year": 1750,
+   "text": "Harbuval-Chamaré kupují novohradské panství od Trautsonů za 100000 zlatých"
+  },
+  {
+   "year": 1773,
+   "text": "1773-1777 stavba rokokového zámku Janem Antonínem Harbuval-Chamaré podle projektu Josefa Jägera"
+  },
+  {
+   "year": 1804,
+   "text": "dokončen ornamentální zámecký areál (tzv. České Versailles)"
+  },
+  {
+   "year": 1903,
+   "text": "Leonard Harbuval-Chamaré prodává zámek Štěpánu Bergerovi (jiné zdroje 1904)"
+  },
+  {
+   "year": 1936,
+   "text": "zámek získává Cyril Bartoň z Dobenína"
+  },
+  {
+   "year": 1948,
+   "text": "zámek znárodněn"
+  },
+  {
+   "year": 1997,
+   "text": "zámek kupují manželé Petr a Magda Kučerovi, začíná rekonstrukce"
+  }
  ],
  "sources": [
   "https://cs.wikipedia.org/wiki/Nové_Hrady_(zámek,_okres_Ústí_nad_Orlicí)",
+  "https://cs.wikipedia.org/wiki/Nové_hrady_(hrad,_okres_Ústí_nad_Orlicí)",
   "https://cs.wikipedia.org/wiki/Nové_Hrady_(okres_Ústí_nad_Orlicí)",
-  "https://cs.wikipedia.org/wiki/Harbuval-Chamaré"
+  "https://cs.wikipedia.org/wiki/Harbuval-Chamaré",
+  "https://www.hrady.cz/zamek-nove-hrady",
+  "https://de.zxc.wiki/wiki/Nov%C3%A9_Hrady_u_Skut%C4%8De"
  ]
 }

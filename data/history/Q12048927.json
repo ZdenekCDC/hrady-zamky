@@ -9,26 +9,48 @@
  "summary": "Ratibořice jsou zámek v Babiččině údolí u České Skalice, dnes národní kulturní památka ve správě NPÚ. Panské sídlo je zde doloženo od 14. století; po zpustlé tvrzi zde v letech 1702-1708 postavil Lorenzo Piccolomini barokní letohrádek, který po roce 1800 v klasicistním a empírovém stylu přestavěla vévodkyně Kateřina Vilemína Zaháňská, předloha paní kněžny z Němcové Babičky. Po ní zámek vlastnili Lippe-Biesterfeldové a poté kníže ze Schaumburg-Lippe, jehož potomkům patřil až do zestátnění v roce 1945.",
  "owners": [
   {
+   "owner": "z-zampachu",
+   "owner_wiki": null,
+   "person": "Vaněk ze Žampachu",
+   "from": 1388,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "de.wiki: ves a tvrz Ratibořice poprvé zmíněny 1388 jako majetek Vaňka ze Žampachu (rok je první zmínka, ne počátek držby); cs.wiki: panské sídlo doloženo ve 14. století, koncem 15. století tvrz neobývaná, v 16. století zpustla"
+  },
+  {
+   "owner": "neznamo",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1464,
+   "to": 1582,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "de.wiki: 1464 patřila ves a tvrz k panství Rýzmburk (vlastník neuveden); 1534 tvrz opuštěná"
+  },
+  {
    "owner": "smiricti-ze-smiric",
    "owner_wiki": "Smiřičtí ze Smiřic",
-   "person": null,
+   "person": "Jaroslav Smiřický ze Smiřic",
    "from": 1582,
-   "to": 1621,
+   "to": 1623,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "koupe",
-   "note": "roku 1582 koupili statek spolu s Rýzmburkem a připojili jej k náchodskému panství; přesný rok zániku jejich držby článek neuvádí, odhad podle konce rodu po stavovském povstání"
+   "note": "1582 koupili statek spolu s Rýzmburkem a připojili jej k náchodskému panství; po Bílé hoře panství zdědil Jindřich Jiří Smiřický s poručníkem Albrechtem z Valdštejna, který je 1623 prodal Trčkům z Lípy (cs.wiki Náchod (zámek))"
   },
   {
    "owner": "trckove-z-lipy",
    "owner_wiki": "Trčkové z Lípy",
    "person": "Adam Erdman Trčka z Lípy",
-   "from": 1621,
+   "from": 1623,
    "to": 1634,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
-   "how": "jine",
-   "note": "náchodské panství získali po bitvě na Bílé hoře, způsob nabytí článek blíže nespecifikuje; Adam Erdman Trčka byl roku 1634 zavražděn v Chebu spolu s Albrechtem z Valdštejna"
+   "how": "koupe",
+   "note": "náchodské panství koupil 1623 od Albrechta z Valdštejna (poručník Jindřicha Jiřího Smiřického); Adam Erdman Trčka byl 1634 zavražděn v Chebu spolu s Albrechtem z Valdštejna"
   },
   {
    "owner": "koruna",
@@ -46,11 +68,22 @@
    "owner_wiki": "Piccolominiové",
    "person": "Ottavio Piccolomini, od 1702 Lorenzo Piccolomini, poté vdovy z rodu",
    "from": 1634,
-   "to": 1792,
+   "to": 1783,
    "from_approx": false,
    "to_approx": false,
    "how": "dar",
-   "note": "Lorenzo Piccolomini nechal 1702-1708 postavit barokní zámeček jako letní sídlo, po jeho smrti 1712 sloužil jako vdovské sídlo dalším ženám z rodu"
+   "note": "císař Ferdinand II. odměnil panstvím generála Ottavia Piccolominiho; Lorenzo Piccolomini nechal 1702-1708 (podle části pramenů 1705-1708) postavit barokní zámeček jako letní lovecké sídlo, po jeho smrti 1712 sloužil jako vdovské sídlo ženám z rodu; větev Piccolomini-Pieri vymřela 1783"
+  },
+  {
+   "owner": "desfoursove",
+   "owner_wiki": "Desfoursové",
+   "person": "Desfoursové",
+   "from": 1783,
+   "to": 1792,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "cs.wiki Náchod (zámek): po vymření větve Piccolomini-Pieri 1783 měli panství několik let Desfoursové; způsob nabytí zdroj neuvádí a roky do 1792 odvozeny z koupě Petrem Bironem"
   },
   {
    "owner": "bironove",
@@ -61,7 +94,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "koupil náchodské panství s Ratibořicemi"
+   "note": "koupil náchodské panství s Ratibořicemi (cs.wiki Náchod (zámek): od Desfoursů); zemřel 1800"
   },
   {
    "owner": "bironove",
@@ -72,7 +105,18 @@
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "nejstarší dcera Petra Birona, zvolila si Ratibořice za stálé letní sídlo a v letech 1810-1812 (nebo 1825-1826) je přestavěla ve stylu klasicismu a empíru; předloha paní kněžny z Babičky Boženy Němcové"
+   "note": "po otci zdědila 1800 náchodské panství; zvolila si Ratibořice za stálé letní sídlo a v letech 1810-1812 (nebo 1825-1826) je přestavěla ve stylu klasicismu a empíru; předloha paní kněžny z Babičky Boženy Němcové; zemřela 1839"
+  },
+  {
+   "owner": "hohenzollernove",
+   "owner_wiki": "Hohenzollernové",
+   "person": "Pavlína, kněžna z Hohenzollern-Hachingen (sestra Kateřiny Vilemíny)",
+   "from": 1839,
+   "to": 1840,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "po smrti sestry zdědila panství a roku 1840 je prodala Octavianu Lippe-Biesterfeldovi (cs.wiki Náchod (zámek), de.wiki Ratibořice); rok začátku odvozen z úmrtí Kateřiny Vilemíny"
   },
   {
    "owner": "lippe-biesterfeld",
@@ -83,18 +127,40 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "koupil panství po smrti Kateřiny Vilemíny; vymínil si však doživotní bydlení na zámku i po dalším prodeji"
+   "note": "koupil panství 1840 od Pavlíny z Hohenzollern; vymínil si doživotní bydlení na zámku i po dalším prodeji"
   },
   {
    "owner": "schaumburg-lippe",
    "owner_wiki": "Schaumburg-Lippe",
-   "person": "kníže Jiří Vilém ze Schaumburg-Lippe a potomci",
+   "person": "kníže Jiří Vilém ze Schaumburg-Lippe",
    "from": 1842,
-   "to": 1945,
+   "to": 1860,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "panství drželi potomci knížete Jiřího Viléma až do zestátnění; za druhé světové války zámek využívala a vnitřek zpustošila německá armáda"
+   "note": "panství koupil pro svého druhorozeného syna Viléma, který je po otcově smrti 1860 zdědil (cs.wiki Náchod (zámek))"
+  },
+  {
+   "owner": "schaumburg-lippe",
+   "owner_wiki": "Schaumburg-Lippe",
+   "person": "princ Vilém ze Schaumburg-Lippe",
+   "from": 1860,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "druhorozený syn Jiřího Viléma; rok jeho úmrtí zdroje neuvádějí"
+  },
+  {
+   "owner": "schaumburg-lippe",
+   "owner_wiki": "Schaumburg-Lippe",
+   "person": "princ Bedřich ze Schaumburg-Lippe",
+   "from": null,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "druhorozený syn Viléma, poslední majitel panství; za druhé světové války zámek využívala německá armáda a vnitřek zpustošila; zemřel 1945 po vyhnání do Polska (de.wiki); rok převzetí zdroje neuvádějí"
   },
   {
    "owner": "stat",
@@ -109,12 +175,46 @@
   }
  ],
  "events": [
-  {"year": 1634, "text": "Ferdinand II. postoupil náchodské panství generálovi Ottaviovi Piccolominimu"},
-  {"year": 1708, "text": "dokončena stavba barokního zámečku Lorenza Piccolominiho jako letního loveckého sídla"},
-  {"year": 1792, "text": "panství koupil Petr Biron, vévoda kuronský a zaháňský"},
-  {"year": 1812, "text": "vévodkyně Kateřina Vilemína Zaháňská přestavěla zámek ve stylu klasicismu a empíru a založila krajinářský park"},
-  {"year": 1842, "text": "panství koupil kníže Jiří Vilém ze Schaumburg-Lippe"},
-  {"year": 1945, "text": "po druhé světové válce, během níž zámek využívala německá armáda, byl majetek zestátněn"}
+  {
+   "year": 1388,
+   "text": "první zmínka o vsi a tvrzi Ratibořice jako majetku Vaňka ze Žampachu (de.wiki)"
+  },
+  {
+   "year": 1582,
+   "text": "Smiřičtí ze Smiřic kupují Ratibořice spolu s Rýzmburkem a připojují je k náchodskému panství"
+  },
+  {
+   "year": 1623,
+   "text": "náchodské panství prodáno Trčkům z Lípy"
+  },
+  {
+   "year": 1634,
+   "text": "Ferdinand II. postoupil náchodské panství generálovi Ottaviovi Piccolominimu"
+  },
+  {
+   "year": 1708,
+   "text": "dokončena stavba barokního zámečku Lorenza Piccolominiho jako letního loveckého sídla"
+  },
+  {
+   "year": 1792,
+   "text": "panství koupil Petr Biron, vévoda kuronský a zaháňský"
+  },
+  {
+   "year": 1812,
+   "text": "vévodkyně Kateřina Vilemína Zaháňská přestavěla zámek ve stylu klasicismu a empíru a založila krajinářský park"
+  },
+  {
+   "year": 1842,
+   "text": "panství koupil kníže Jiří Vilém ze Schaumburg-Lippe"
+  },
+  {
+   "year": 1945,
+   "text": "po druhé světové válce, během níž zámek využívala německá armáda, byl majetek zestátněn"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Ratibořice_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Ratibořice_(zámek)",
+  "https://cs.wikipedia.org/wiki/Náchod_(zámek)",
+  "https://de.wikipedia.org/wiki/Schloss_Ratibořice"
+ ]
 }

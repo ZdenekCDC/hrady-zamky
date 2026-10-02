@@ -1,20 +1,89 @@
 {
  "id": "Q12041601",
  "name": "Náměšť na Hané (hrad)",
- "founded": {"year": 1276, "approx": true, "text": "Roku 1276 se po Náměšti poprvé psal Všebor, syn Idíka ze Švábenic, který zde údajně založil hrad; první přímo doložená zmínka o hradu pochází až z května 1423."},
+ "founded": {
+  "year": 1276,
+  "approx": true,
+  "text": "O vzniku hradu se nedochovala písemná zmínka; po Náměšti se roku 1276 psal Všebor, syn Idíka ze Švábenic, který zde údajně hrad založil (hrady.cz uvádí jako zakladatele Milíče II. ze Švábenic, poprvé psaného po Náměšti 1252, datování je však zpochybňováno); první přímo doložená zmínka o hradu pochází až z května 1423."
+ },
  "summary": "Zaniklý hrad nad obcí Náměšť na Hané založil údajně kolem roku 1276 Všebor ze Švábenic, roku 1371 jej získal Půta z Holštejna a na počátku 15. století byl zřejmě v držení vladyků z Obory. Za husitských válek hrad roku 1423 obsadila husitská posádka Ctibora Tovačovského z Cimburka, po obležení biskupským vojskem však kapitulovala. Po válkách se hrad vrátil původním vlastníkům, rodu z Náměště (Artleb a jeho dcera Alena), avšak během 16. století byl jako malý a nepohodlný opuštěn a za česko-uherských válek zanikl; jeho funkci převzala tvrz na místě pozdějšího Dolního zámku.",
  "owners": [
-  {"owner": "z-svabenic", "owner_wiki": null, "person": "Všebor, syn Idíka ze Švábenic", "from": 1276, "to": 1371, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "údajný zakladatel hradu; o samotném vzniku hradu se nedochovala písemná zmínka"},
-  {"owner": "pani-z-holstejna", "owner_wiki": "Páni z Holštejna", "person": "Půta z Holštejna", "from": 1371, "to": 1400, "from_approx": false, "to_approx": true, "how": "koupe", "note": "přesný konec držby cs.wiki neuvádí"},
-  {"owner": "z-obory", "owner_wiki": null, "person": "vladykové z Obory", "from": 1400, "to": 1423, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "za husitských válek hrad roku 1423 obsadila husitská posádka pod Ctiborem Tovačovským z Cimburka; po obležení vojskem olomouckého biskupa Jana Železného 13. května 1423 kapitulovala a přísahala věrnost Zikmundovi"},
-  {"owner": "z-namesti", "owner_wiki": null, "person": "Artleb z Náměště, poté dcera Alena z Náměště", "from": 1423, "to": 1500, "from_approx": true, "to_approx": true, "how": "jine", "note": "po skončení husitských válek se hrad vrátil původním vlastníkům (další zmínky z let 1480 a 1482); v průběhu 16. století byl jako malý a nepohodlný opuštěn a zanikl za česko-uherských válek, jeho funkci převzala tvrz na místě pozdějšího Dolního zámku"}
+  {
+   "owner": "z-svabenic",
+   "owner_wiki": null,
+   "person": "Všebor, syn Idíka ze Švábenic",
+   "from": 1276,
+   "to": 1371,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "zalozeni",
+   "note": "údajný zakladatel hradu; hrady.cz uvádí zakladatele Milíče II. ze Švábenic (psán po Náměšti 1252, datování zpochybňováno); konec držby Švábeniců zdroje neuvádějí, roku 1371 hrad drží Půta z Holštejna"
+  },
+  {
+   "owner": "pani-z-holstejna",
+   "owner_wiki": "Páni z Holštejna",
+   "person": "Půta z Holštejna (Půta z Holštejna a Zdounek)",
+   "from": 1371,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "roku 1371 mu moravský markrabě udělil lénem hrad Náměšť na Hané s dalšími statky (cs.wiki: Půta z Holštejna a Zdounek); roku 1388 olomoucký biskup zastavil markraběti Joštovi náměšťské zboží, k jehož ochraně hrad mohl být vystavěn; konec Půtovy držby zdroje neuvádějí"
+  },
+  {
+   "owner": "z-obory",
+   "owner_wiki": null,
+   "person": "vladykové z Obory",
+   "from": null,
+   "to": 1423,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "na počátku 15. stol. \"zřejmě\" v držení vladyků z Obory (cs.wiki; nepotvrzeno jiným zdrojem); roku 1423 hrad obsadila husitská posádka pod Ctiborem Tovačovským z Cimburka a po obležení vojskem olomouckého biskupa Jana Železného 13. května 1423 kapitulovala a přísahala věrnost Zikmundovi"
+  },
+  {
+   "owner": "z-namesti",
+   "owner_wiki": null,
+   "person": "Artleb z Náměště, poté dcera Alena z Náměště",
+   "from": null,
+   "to": 1482,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "jine",
+   "note": "po skončení válek se hrad vrátil \"původním vlastníkům\" (rod z Náměště; přesný rok zdroje neuvádějí); naposledy se hrad zmiňuje 1480 a 1482, kdy jej držela Alena z Náměště; nejpozději v 16. stol. byl opuštěn jako malý a nepohodlný a zanikl za česko-uherských válek, funkci sídla převzala tvrz (dolní zámek)"
+  }
  ],
  "events": [
-  {"year": 1141, "text": "první písemná zmínka o Náměšti na Hané jako majetku olomouckého biskupství"},
-  {"year": 1276, "text": "Všebor ze Švábenic se poprvé píše po Náměšti, údajný zakladatel hradu"},
-  {"year": 1371, "text": "hrad získává Půta z Holštejna"},
-  {"year": 1423, "text": "obléhání a kapitulace husitské posádky Ctibora Tovačovského z Cimburka"},
-  {"year": 1482, "text": "poslední písemné zmínky o hradu (1480 a 1482)"}
+  {
+   "year": 1141,
+   "text": "první písemná zmínka o Náměšti na Hané jako majetku olomouckého biskupství"
+  },
+  {
+   "year": 1276,
+   "text": "Všebor ze Švábenic se poprvé píše po Náměšti, údajný zakladatel hradu"
+  },
+  {
+   "year": 1371,
+   "text": "hrad s dalšími statky získává lénem od markraběte Půta z Holštejna"
+  },
+  {
+   "year": 1388,
+   "text": "olomoucký biskup zastavuje náměšťské zboží markraběti Joštovi"
+  },
+  {
+   "year": 1423,
+   "text": "obléhání a kapitulace husitské posádky Ctibora Tovačovského z Cimburka (13. května), první doložená zmínka o hradu"
+  },
+  {
+   "year": 1482,
+   "text": "poslední písemné zmínky o hradu (1480 a 1482), držela jej Alena z Náměště"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Náměšť_na_Hané_(hrad)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Náměšť_na_Hané_(hrad)",
+  "https://cs.wikipedia.org/wiki/Půta_z_Holštejna_a_Zdounek",
+  "https://www.namestnahane.cz/mestys/historie/pamatky/",
+  "https://www.hrady.cz/hrad-namest-na-hane/texty",
+  "https://isad.npu.cz/namest-na-hane-hrad-24166"
+ ]
 }

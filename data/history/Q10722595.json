@@ -6,50 +6,85 @@
   "approx": false,
   "text": "Romantická vyhlídková stavba (zvaná též Hrádek) byla roku 1863 vystavěna lesním personálem panství Maršov na památku zesnulého hraběte Bertholda Aichelburga (+1861), po němž byla pojmenována; stavbu řídil nadlesní Johann Miksch, otevřena byla 9. září 1863."
  },
- "summary": "Aichelburg je romantická napodobenina středověké tvrze postavená roku 1863 lesním personálem panství Maršov na památku hraběte Bertholda Aichelburga. Po roce 1883, kdy panství koupil rod Černín-Morzinů, stavba chátrala a ve 20. století byla popisována jako zřícenina. V devadesátých letech ji obnovila Hradní společnost Aichelburg založená roku 1996, opravy proběhly 1998-1999 a hrádek byl roku 2000 znovu zpřístupněn veřejnosti.",
+ "summary": "Aichelburg je romantická napodobenina středověké tvrze postavená roku 1863 lesním personálem panství Maršov na památku hraběte Bertholda Aichelburga. Po roce 1883, kdy zadlužené panství koupili Černín-Morzinové, stavba chátrala a ve 20. století byla popisována jako zřícenina. Po roce 1945 patřila státu a od roku 1996 je ve vlastnictví Správy Krkonošského národního parku. Obnovu v letech 1998-1999 provedla pronajímatelka, Hradní společnost Aichelburg založená roku 1996, a hrádek byl roku 2000 znovu zpřístupněn veřejnosti.",
  "owners": [
   {
    "owner": "aichelburgove",
    "owner_wiki": "Aichelburgové",
-   "person": "hrabata Aichelburgové (dědicové Bertholda Aichelburga)",
+   "person": "hrabata Aichelburgové (dědicové Bertholda Aichelburga, nejstarší syn Alfons)",
    "from": 1863,
    "to": 1883,
    "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "hrádek vystavěn 1863 lesním personálem panství Maršov na počest zesnulého hraběte Bertholda Aichelburga (+1861); cs.wiki jmenovitě neuvádí, kdo v letech 1863-1883 panství Maršov vlastnil, předpoklad je rodina Aichelburgů"
+   "how": "zalozeni",
+   "note": "hrádek vystavěn 1863 lesním personálem panství Maršov na počest zesnulého hraběte Bertholda Aichelburga (+1861) na pozemcích velkostatku Maršov, jehož majitelem byla rodina Aichelburgů (katastrální přehled v databázi Archa Krkonoš uvádí velkostatek Maršov - Aichelburgové od 1863); Aichelburgové podle Radiožurnálu 1882 zbankrotovali a panství prodali; konec 1883 podle cs.wiki a KRNAP, Archa Krkonoš a web obce Horní Maršov uvádějí prodej 31. 12. 1882"
   },
   {
    "owner": "morzinove",
    "owner_wiki": "Morzinové",
-   "person": null,
+   "person": "Aloisie Czernin-Morzinová, později Rudolf Czernin-Morzin (velkostatek Maršov)",
    "from": 1883,
-   "to": null,
+   "to": 1945,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "cs.wiki uvádí kupce jako 'rod Černín-Morzinů' (spojené jméno); samostatný článek existuje jen pro Morzinové, přiřazení je odvozené. Hrádek byl už opuštěn, chátral a po celé 20. století byl popisován jako zřícenina; cs.wiki neuvádí, kdy a jak vlastnictví panství skončilo (např. konfiskace 1945/1948)"
+   "note": "cs.wiki uvádí kupce jako 'rod Černín-Morzinů' (spojené jméno), KRNAP a infocesko jmenují hraběnku Aloisii Czernin-Morzinovou; samostatný článek existuje jen pro Morzinové, přiřazení k rodu je odvozené. Hrádek byl už opuštěn, chátral a po celé 20. století byl popisován jako zřícenina; konec držby 1945 podle databáze Archa Krkonoš"
   },
   {
-   "owner": "soukromnik",
+   "owner": "stat",
    "owner_wiki": null,
-   "person": "Hradní společnost Aichelburg",
-   "from": 1996,
+   "person": "Československý stát po znárodnění, od 1992 Východočeské státní lesy, od 1996 Správa KRNAP",
+   "from": 1945,
    "to": null,
    "from_approx": false,
    "to_approx": false,
-   "how": "jine",
-   "note": "spolek založený 1996 provedl obnovu hrádku 1998-1999 (historický průzkum již 1992); na financování se podílely okolní obce, Ministerstvo životního prostředí a soukromí dárci, přístupové chodníky obnovila Správa KRNAP; přesný právní vlastník stavby po roce 1996 není v textu výslovně uveden"
+   "how": "konfiskace",
+   "note": "podle databáze Archa Krkonoš (katastrální výpisy): 1945 stát po znárodnění, 1992 Východočeské státní lesy Hradec Králové, 1996 Správa Krkonošského národního parku, která je vlastníkem dosud (2025); Hradní společnost Aichelburg (založena 1996) si hrádek s nádvořím od Správy KRNAP pronajala a v letech 1998-1999 jej obnovila, není jeho vlastníkem"
   }
  ],
  "events": [
-  {"year": 1861, "text": "úmrtí hraběte Bertholda Aichelburga"},
-  {"year": 1863, "text": "9. září slavnostně otevřen nově postavený hrádek na jeho počest"},
-  {"year": 1883, "text": "panství Maršov kupuje rod Černín-Morzinů, hrádek začíná chátrat"},
-  {"year": 1992, "text": "první historický průzkum zchátralé stavby"},
-  {"year": 1998, "text": "1998-1999 obnova hrádku, dřevěná budova nahrazuje původní kamennou síň"},
-  {"year": 2000, "text": "hrádek znovu zpřístupněn veřejnosti"},
-  {"year": 2010, "text": "6. července se propadl dřevěný mostek pod skupinou svatebčanů, sedm zraněných"}
+  {
+   "year": 1861,
+   "text": "úmrtí hraběte Bertholda Aichelburga"
+  },
+  {
+   "year": 1863,
+   "text": "9. září slavnostně otevřen nově postavený hrádek na jeho počest"
+  },
+  {
+   "year": 1883,
+   "text": "panství Maršov kupuje rod Černín-Morzinů, hrádek začíná chátrat"
+  },
+  {
+   "year": 1945,
+   "text": "majetek přechází na stát (znárodnění), později státní lesy a od 1996 Správa KRNAP"
+  },
+  {
+   "year": 1992,
+   "text": "první historický průzkum zchátralé stavby"
+  },
+  {
+   "year": 1996,
+   "text": "založena Hradní společnost Aichelburg, která si hrádek pronajala od Správy KRNAP"
+  },
+  {
+   "year": 1998,
+   "text": "1998-1999 obnova hrádku, dřevěná budova nahrazuje původní kamennou síň"
+  },
+  {
+   "year": 2000,
+   "text": "hrádek znovu zpřístupněn veřejnosti"
+  },
+  {
+   "year": 2010,
+   "text": "6. července se propadl dřevěný mostek pod skupinou svatebčanů, sedm zraněných"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Aichelburg_(hrad)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Aichelburg_(hrad)",
+  "https://www.krnap.cz/navstevnici/tipy-na-vylet/horni-marsov/",
+  "https://veselyvylet.cz/cz/vv8.html (web informačního centra, nezávislý)",
+  "https://archakrkonos-3803.rostiapp.cz/objekty/558-vu1-cp-323-lesni-hradek-aichelburg/ (databáze Archa Krkonoš, uvádí katastrální výpisy; méně formální zdroj)",
+  "https://radiozurnal.rozhlas.cz/lesni-hradek-pripomina-osud-krkonosskeho-mecenase-6264576"
+ ]
 }

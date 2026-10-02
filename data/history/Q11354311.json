@@ -1,26 +1,244 @@
 {
  "id": "Q11354311",
  "name": "Brumov",
- "founded": {"year": 1220, "approx": true, "text": "Hrad byl založen v první polovině 13. století jako zemská pevnost střežící Vlárský průsmyk do Uher; první písemná zmínka je z roku 1255"},
- "summary": "Zemský hrad Brumov, založený v první polovině 13. století, střežil Vlárský průsmyk a byl spravován královskými purkrabími; za husitských válek byl dvakrát dobyt vojskem Zikmunda a jeho purkrabí Pankrác ze Svatého Mikuláše z něj řadu let přepadal okolí. Roku 1520 jej koupil Jan Meziříčský z Lomnice, panství se pak v 17.-18. století majetkoprávně rozdělilo a největší díl získali roku 1727 Illésházyové. Po požárech 1760 a 1820 byl hrad definitivně opuštěn a jako zřícenina zůstal součástí velkostatku, který koupili bankéř Georg Simon Sina a od roku 1894 podnikatel Anton Dreher; od roku 1964 je chráněn jako kulturní památka.",
+ "founded": {
+  "year": 1255,
+  "approx": true,
+  "text": "Hrad vznikl jako zemská pevnost střežící Vlárský průsmyk nejspíše v první polovině 13. století (některé zdroje uvádějí zakladatele olomouckého biskupa Bruna ze Schauenburku, nepotvrzeno); první písemná zmínka z roku 1255 uvádí purkrabího Smila ze Střílek a Brumova"
+ },
+ "summary": "Zemský hrad Brumov střežil Vlárský průsmyk do Uher; první zmínka je z roku 1255, spravovali jej purkrabí, v 15. století jej držela zástava Cimburků a poté Podmaničtí, kteří získali dědičné vlastnictví (1503). Roku 1519 jej koupil Jan z Lomnice (Meziříčští z Lomnice) a od 1574 patřil Kavkům z Říčan; po roce 1622 jej držela uherská šlechta (Forgáchové), po 1662 se panství dělilo mezi více majitelů a většinu roku 1727 získali Illésházyové. Po požárech 1760 a 1820 byl hrad opuštěn a rozebírán, roku 1835 panství koupil bankéř Sina, od 1894 patřilo pivovarníku Antonu Dreherovi a po konfiskaci 1945 přešlo na obec, dnešní město Brumov-Bylnice.",
  "owners": [
-  {"owner": "koruna", "owner_wiki": null, "person": "purkrabí Smil ze Střílek a Brumova (1255), Oldřich z Hradce (1294-1303), Pankrác ze Svatého Mikuláše (za husitských válek)", "from": 1220, "to": 1520, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "zeměpanský (královský) hrad spravovaný purkrabími; za husitských válek dvakrát obléhán a dobyt vojskem Zikmunda"},
-  {"owner": "meziricti-z-lomnice", "owner_wiki": null, "person": "Jan Meziříčský z Lomnice", "from": 1520, "to": 1620, "from_approx": false, "to_approx": true, "how": "koupe", "note": "pokračoval v opevňovacích pracích; přesný rok konce jeho/rodového vlastnictví není v cs.wiki uveden"},
-  {"owner": "neznamo", "owner_wiki": null, "person": null, "from": 1620, "to": 1727, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "během 17. a 18. století vládly na panství složité majetkoprávní poměry, celek byl rozdělen na několik dílů mezi blíže neuvedené držitele"},
-  {"owner": "illeshazyove", "owner_wiki": null, "person": "rod Illésházyů (majitelé sousedního Vsetína)", "from": 1727, "to": 1848, "from_approx": false, "to_approx": true, "how": "koupe", "note": "získali největší díl rozděleného panství; po požáru 1760 hrad provizorně opraven, po dalším požáru 1820 definitivně opuštěn; poslední z rodu Štěpán Illésházy panství prodal, přesný rok prodeje neuveden"},
-  {"owner": "soukromnik", "owner_wiki": null, "person": "Georg Simon Sina", "from": 1848, "to": 1894, "from_approx": true, "to_approx": false, "how": "koupe", "note": "bankéř řeckého původu; brumovské panství koupil od Illésházyů"},
-  {"owner": "soukromnik", "owner_wiki": null, "person": "Anton Dreher", "from": 1894, "to": null, "from_approx": false, "to_approx": true, "how": "koupe", "note": "rakouský podnikatel (pivovarník), koupil velkostatek od Sinových potomků; cs.wiki dále neuvádí, kdy a jak přešla zřícenina do současné (patrně veřejné/památkové) správy"}
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "purkrabí Smil ze Střílek a Brumova (1255), Oldřich z Hradce (1294-1303), Pankrác ze Svatého Mikuláše (v husitských válkách)",
+   "from": 1255,
+   "to": 1440,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "zalozeni",
+   "note": "zeměpanský (královský) hrad spravovaný purkrabími, rok 1255 je první zmínka o hradu; na počátku husitských válek hrad držel Boček mladší z Kunštátu, 1424 zastavil Zikmund část panství Miroslavovi z Cimburka, 1426 hrad odevzdal královně Barboře Celské (hrady.cz); kolem 1440 získali zástavu Cimburkové"
+  },
+  {
+   "owner": "pani-z-cimburka",
+   "owner_wiki": "Páni z Cimburka",
+   "person": "Bernard, Miroslav a Jan Jičínský z Cimburka",
+   "from": 1440,
+   "to": 1468,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "lenni",
+   "note": "zástavní držba; kolem 1468 hrad dobyl Matyáš Korvín (jiný zdroj uvádí 1486)"
+  },
+  {
+   "owner": "z-podmanina",
+   "owner_wiki": null,
+   "person": "Ladislav Podmanický z Podmanína a další Podmaničtí",
+   "from": 1474,
+   "to": 1519,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "nejprve zástava od Matyáše Korvína (Ladislav doložen na Brumově 1474), po 1500 plné vlastnictví potvrzené panovníkem 1503, Brumov tehdy přestal být královským majetkem; 1519 hrad prodali Janovi z Lomnice (hrady.cz)"
+  },
+  {
+   "owner": "meziricti-z-lomnice",
+   "owner_wiki": null,
+   "person": "Jan z Lomnice (1519-1533), Adam z Lomnice (1533-1557, přestavba hradu), poté Jan a Jaroslav z Lomnice, od 1572 Magdalena",
+   "from": 1519,
+   "to": 1574,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "cs.wiki a hrady.cz uvádějí nabytí 1520/1519; Jan z Lomnice pokračoval v opevňování, Adam hrad přestavěl na rodové sídlo; 1574 prodáno Zdeňku Kavkovi z Říčan (hradbrumov.cz)"
+  },
+  {
+   "owner": "pani-z-rican",
+   "owner_wiki": "Páni z Říčan",
+   "person": "Zdeněk Říčanský Kavka z Říčan",
+   "from": 1574,
+   "to": 1582,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "zavražděn 1582 u Zádveřic; panství odkázal synovcům s podmínkou, že se ho ujmou až po jeho vdově"
+  },
+  {
+   "owner": "trckove-z-lipy",
+   "owner_wiki": "Trčkové z Lípy",
+   "person": "Johanka Trčková z Lípy, vdova po Zdeňku Kavkovi",
+   "from": 1582,
+   "to": 1597,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "v užívání panství (vlastnická práva patřila Kavkovým synovcům); o hrad se v letech 1597-1599 přeli Magdalena z Lomnice a Emerich Forgách"
+  },
+  {
+   "owner": "pani-z-rican",
+   "owner_wiki": "Páni z Říčan",
+   "person": "Jan Říčanský Kavka z Říčan",
+   "from": 1599,
+   "to": 1622,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "1604 vyplatil spolumajitele; 1608 mu byl hrad nakrátko zabrán, 1619-1621 konfiskace a správa moravské direktivy, 1621 hrad dobyli vzbouření Valaši a vojsko Bethlena Gábora; 23. 9. 1622 panství prodal"
+  },
+  {
+   "owner": "neznamo",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1622,
+   "to": 1626,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "kupec 1622 nejasný: hradbrumov.cz zmiňuje Kašpara Illésházyho, hrady.cz uherský rod Apponyiů; od 1626 Forgách"
+  },
+  {
+   "owner": "z-gymese",
+   "owner_wiki": null,
+   "person": "Mikuláš Forgách z Gýmeše, od 1635 vdova Ester, poté jejich syn František Forgách (zavražděn 1647) a Ester",
+   "from": 1626,
+   "to": 1662,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "za Forgáchů raně barokní fortifikace (bastiony); po Esteřině smrti panství rozděleno na pět dílů dcerám (rok dělení 1662 podle mistopisy/mistopis.eu); Judita prodala 1661 svůj podíl Ester; Ester odešla z hradu 1684"
+  },
+  {
+   "owner": "illeshazyove",
+   "owner_wiki": null,
+   "person": "Marie Forgách, provd. Illésházy, a manžel Jiří Illésházy (spoluvlastníci dílu; další díly Eva Erdődy, Žofie Frangepán, Selbové 1674, ostřihomský biskup Szelepcsényi 1676, Podstatští 1689, Bartodějští 1681-1684)",
+   "from": 1662,
+   "to": 1695,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "panství rozděleno mezi dcery Mikuláše Forgácha a další spoluvlastníky, Illésházyové tehdy neměli většinu (podíl Marie a Jiřího zanikl 1684/1689); 1695 odkoupil většinu hradu od Bartodějských Volf Ondřej Orsini-Rosenberg"
+  },
+  {
+   "owner": "orsini-rosenbergove",
+   "owner_wiki": "Orsini-Rosenbergové",
+   "person": "Volf Ondřej Orsini-Rosenberg",
+   "from": 1695,
+   "to": 1727,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "1710 držel 41 % (Selbové 25 %, Waldorfové 18 %, Illésházyové 16 %); 1727 prodali většinovou držbu Josefu Illésházymu"
+  },
+  {
+   "owner": "illeshazyove",
+   "owner_wiki": null,
+   "person": "Josef Illésházy (1727-1766), Jan Illésházy (1766-1799), Štěpán Illésházy (1799-1835)",
+   "from": 1727,
+   "to": 1835,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "1731 panství rozděleno na tři části, Illésházyové držely největší díl (Brumov I); 1760 požár, 1767 Jan postavil zámek v podhradí, 1820 druhý požár, hrad opuštěn a rozebírán, správa panství přenesena 1826; Štěpán panství s torzem hradu 1835 prodal (cs.wiki neuvádí rok)"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Georg Simon Sina, od 1856 syn Simon Georg Sina",
+   "from": 1835,
+   "to": 1876,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "bankéř řeckého původu; koupil 1835 (hradbrumov.cz, hrady.cz), 1856 zdědil syn, po jeho smrti 1876 panství získala Ifigenie de Castries; v letech 1870-1873 se zbytky hradního kamene použily na pivovarské sklepy"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Ifigenie de Castries",
+   "from": 1876,
+   "to": 1894,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "po smrti Simona Siny 1876 (způsob nabytí zdroj neuvádí); 1894 prodala Antonu Dreherovi"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Anton Dreher, od 1921 vnuk Oskar Anton Dreher, od 1926 Edeltruda Dreherová (později Kulmerová, Rainer-Harbachová)",
+   "from": 1894,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "schwechatský pivovarník koupil velkostatek 1894 od Ifigenie de Castries (cs.wiki: od Sinových potomků); 1921 přepsáno na nezletilého vnuka, který zemřel, 1926 přešlo na snachu Edeltrudu (hrady.cz o zámku uvádí 1929); Dreherové o záchranu hradu neměli zájem; 1945 majetek konfiskován"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "obec Brumov, dnes město Brumov-Bylnice",
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "po konfiskaci majetku Edeltrudy Dreherové 1945 předáno obci Brumov, později městu Brumov-Bylnice (hradbrumov.cz, treking.cz - sekundární zdroje); hrad je dnes zpřístupněn městem (od 2000), kulturní památka od 1964"
+  }
  ],
  "events": [
-  {"year": 1255, "text": "první písemná zmínka o hradu, purkrabí Smil ze Střílek a Brumova"},
-  {"year": 1520, "text": "Jan Meziříčský z Lomnice kupuje hrad a pokračuje v opevňování"},
-  {"year": 1727, "text": "největší díl rozděleného panství získávají Illésházyové"},
-  {"year": 1760, "text": "požár hradu, poté provizorně opraven"},
-  {"year": 1820, "text": "další požár, hrad definitivně opuštěn"},
-  {"year": 1894, "text": "velkostatek kupuje rakouský podnikatel Anton Dreher"},
-  {"year": 1964, "text": "zřícenina vyhlášena kulturní památkou"}
+  {
+   "year": 1255,
+   "text": "první písemná zmínka o hradu, purkrabí Smil ze Střílek a Brumova"
+  },
+  {
+   "year": 1519,
+   "text": "Podmaničtí prodávají hrad Janovi z Lomnice (cs.wiki uvádí 1520)"
+  },
+  {
+   "year": 1574,
+   "text": "Zdeněk Říčanský Kavka z Říčan kupuje hrad a panství od Lomnických"
+  },
+  {
+   "year": 1622,
+   "text": "Jan Kavka z Říčan prodává panství"
+  },
+  {
+   "year": 1727,
+   "text": "největší díl rozděleného panství získávají Illésházyové"
+  },
+  {
+   "year": 1727,
+   "text": "Josef Illésházy kupuje většinovou držbu od Orsini-Rosenbergů"
+  },
+  {
+   "year": 1760,
+   "text": "požár hradu, poté provizorně opraven"
+  },
+  {
+   "year": 1820,
+   "text": "další požár, hrad definitivně opuštěn"
+  },
+  {
+   "year": 1835,
+   "text": "Štěpán Illésházy prodává panství bankéři Georgu Simonu Sinovi"
+  },
+  {
+   "year": 1894,
+   "text": "velkostatek kupuje pivovarník Anton Dreher"
+  },
+  {
+   "year": 1945,
+   "text": "konfiskace majetku Dreherových a předání obci Brumov"
+  },
+  {
+   "year": 1964,
+   "text": "zřícenina vyhlášena kulturní památkou"
+  }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Brumov_(hrad)"
+  "https://cs.wikipedia.org/wiki/Brumov_(hrad)",
+  "https://www.hradbrumov.cz/hrad/historie-hradu/ (oficiální web hradu)",
+  "https://www.hrady.cz/hrad-brumov-brumov-bylnice",
+  "https://www.treking.cz/regiony/brumov-hrad.htm (komerční web, přebírá text webu hradu)"
  ]
 }

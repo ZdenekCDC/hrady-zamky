@@ -6,27 +6,278 @@
   "approx": false,
   "text": "Statek vznikl ve 13. století v souvislosti s kolonizací nedalekého kláštera Hradiště nad Jizerou, ale žádné panské sídlo zde dlouho nestálo. Teprve Václav Budovec z Budova nechal v letech 1603-1606 postavit dvoukřídlý renesanční zámek."
  },
- "summary": "Statek Mnichovo Hradiště vznikl ve 13. století v souvislosti s kolonizací kláštera Hradiště nad Jizerou a dlouho jej drželi jen zástavní držitelé; teprve v 16. století jej sňatkem dědičně získali Budovcové z Budova a Václav Budovec zde v letech 1603-1606 postavil renesanční zámek. Po jeho popravě za účast na stavovském povstání (1621) byl majetek zkonfiskován a roku 1623 jej koupil Albrecht z Valdštejna; Mnichovo Hradiště pak zůstalo rodovým sídlem Valdštejnů až do roku 1945, přičemž Arnošt Josef z Valdštejna je na přelomu 17. a 18. století přestavěl na barokní zámek podle projektu Marka Antonína Canevalleho. Po znárodnění na základě Benešových dekretů (1945) je od té doby ve vlastnictví státu a spravuje jej Národní památkový ústav.",
+ "summary": "Statek Mnichovo Hradiště vznikl ve 13. století při kolonizaci kláštera Hradiště nad Jizerou, který jej držel do roku 1420; poté se držitelé často střídali, 1547 jej zkonfiskoval Ferdinand I. a 1579 získali Budovcové z Budova. Václav Budovec zde v letech 1603-1606 postavil renesanční zámek; po jeho popravě (1621) panství roku 1623 koupil Albrecht z Valdštejna a od roku 1627 patřilo jeho bratranci Maxmiliánovi a jeho potomkům. Arnošt Josef z Valdštejna je v letech 1697-1703 přestavěl na barokní zámek podle projektu Marka Antonína Canevalleho; mnichovohradištská větev Valdštejnů jej držela do konfiskace podle Benešových dekretů (1945). Dnes je ve vlastnictví státu a spravuje jej Národní památkový ústav.",
  "owners": [
-  {"owner": "neznamo", "owner_wiki": null, "person": null, "from": 1250, "to": 1550, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "statek často střídal majitele, kteří jej drželi jen jako zástavu; cs.wiki neuvádí konkrétní jména"},
-  {"owner": "budovcove-z-budova", "owner_wiki": "Budovcové z Budova", "person": "Budovcové z Budova", "from": 1550, "to": 1621, "from_approx": true, "to_approx": false, "how": "snatek", "note": "dědičně získáno sňatkem v 16. století; ani závěť Kryštofa Budovce (1602) zde ještě nezmiňuje panské sídlo, renesanční zámek postavil až Václav Budovec 1603-1606"},
-  {"owner": "koruna", "owner_wiki": null, "person": null, "from": 1621, "to": 1623, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "Václav Budovec popraven 1621 za účast na stavovském povstání, majetek zkonfiskován"},
-  {"owner": "valdstejnove", "owner_wiki": "Valdštejnové", "person": "Albrecht z Valdštejna", "from": 1623, "to": 1627, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil panství (spolu s Klášterem Hradiště, Chocnějovicemi a Zásadkou) za 216 000 zlatých"},
-  {"owner": "valdstejnove", "owner_wiki": "Valdštejnové", "person": "Maxmilián z Valdštejna", "from": 1627, "to": 1675, "from_approx": false, "to_approx": true, "how": "dar", "note": "bratranec Albrechta z Valdštejna, kterému Hradiště přenechal; po Albrechtově zavraždění (1634) byl nárok na jeho majetek dočasně ohrožen, Mnichovo Hradiště ale zůstalo u rodu"},
-  {"owner": "valdstejnove", "owner_wiki": "Valdštejnové", "person": "Arnošt Josef z Valdštejna", "from": 1675, "to": 1782, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "dal zámek v letech 1697-1703 barokně přestavět podle projektu M. A. Canevalleho; přesný rok konce jeho držby cs.wiki neuvádí"},
-  {"owner": "valdstejnove", "owner_wiki": "Valdštejnové", "person": "Jan Vincenc z Valdštejna", "from": 1782, "to": 1833, "from_approx": true, "to_approx": true, "how": "dedictvi", "note": "koupil zrušený kapucínský klášter (1782) a upravil jej na rodinnou hrobku; za setkání Svaté aliance 1833 upraven i zámek"},
-  {"owner": "valdstejnove", "owner_wiki": "Valdštejnové", "person": "Karel Arnošt z Valdštejna", "from": 1900, "to": 1945, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "roku 1934 nechal pořídit náhrobek Albrechta z Valdštejna, 1941 opravena sala terrena; přesný rok nástupu do držby cs.wiki neuvádí"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "poslední generace Valdštejnů se hlásila k německé národnosti, majetek zkonfiskován na základě Benešových dekretů; od 1946 zde městské muzeum, dnes spravuje Národní památkový ústav"}
+  {
+   "owner": "cirkev",
+   "owner_wiki": null,
+   "person": "cisterciácký klášter Hradiště nad Jizerou",
+   "from": null,
+   "to": 1420,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "statek vznikl ve 13. století v souvislosti s kolonizací kláštera; cs.wiki (Mnichovo Hradiště): mniši město měli ve držení do roku 1420, kdy byl klášter vypálen husity"
+  },
+  {
+   "owner": "neznamo",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1420,
+   "to": 1547,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "držitelé se často střídali, vlastnili jen jako zástavu a docházelo ke sporům; cs.wiki konkrétní jména neuvádí"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Ferdinand I.",
+   "from": 1547,
+   "to": 1556,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "cs.wiki (Mnichovo Hradiště): roku 1547 získal král jako konfiskát"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Jindřich Žibřid z Velechova",
+   "from": 1556,
+   "to": 1579,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "roku 1556 koupil městečko od královské komory; konec držby dosazen k roku 1579, kdy je podle cs.wiki získali Budovcové"
+  },
+  {
+   "owner": "budovcove-z-budova",
+   "owner_wiki": "Budovcové z Budova",
+   "person": "Budovcové z Budova (od 1602 Václav Budovec)",
+   "from": 1579,
+   "to": 1621,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "snatek",
+   "note": "cs.wiki (Mnichovo Hradiště): 1579 Budovcové; zámek cs.wiki: dědičně sňatkem v 16. století; Václav Budovec majitelem panství od 1602, 1603-1606 postavil renesanční zámek; popraven 1621"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1621,
+   "to": 1623,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "Václav Budovec popraven 1621 za účast na stavovském povstání, majetek zkonfiskován; cs.wiki (Mnichovo Hradiště) uvádí, že Albrecht z Valdštejna panství získal o rok později (1622), cs.wiki (zámek) rok 1623"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Albrecht z Valdštejna",
+   "from": 1623,
+   "to": 1627,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil panství (spolu s Klášterem Hradiště, Chocnějovicemi a Zásadkou) za 216 000 zlatých; cs.wiki (Mnichovo Hradiště) uvádí postoupení Maxmiliánovi roku 1624"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Maxmilián z Valdštejna",
+   "from": 1627,
+   "to": 1655,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "jine",
+   "note": "bratranec Albrechta; cs.wiki: Albrecht mu Hradiště přenechal, de.wiki: prodal; po Albrechtově zavraždění (1634) byl nárok ohrožen, v roce 1635 získal panství do dědičného vlastnictví; konec 1655 podle jeho úmrtí (cs.wiki Valdštejnové)"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Ferdinand Arnošt z Valdštejna",
+   "from": 1655,
+   "to": 1657,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "nejstarší syn Maxmiliána (1622-1656); po jeho smrti převzal Mnichovo Hradiště jeho bratr Karel Ferdinand (1657); roky přibližné, cs.wiki Valdštejnové"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Karel Ferdinand z Valdštejna",
+   "from": 1657,
+   "to": 1675,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "převzal po bratru Ferdinandu Arnoštovi (1657); Arnošt Josef od něj Mnichovo Hradiště koupil (cs.wiki Valdštejnové: 1674, cs.wiki zámek: od 1675)"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Arnošt Josef z Valdštejna",
+   "from": 1675,
+   "to": 1708,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "koupil od strýce Karla Ferdinanda; dal zámek v letech 1697-1703 barokně přestavět podle projektu M. A. Canevalleho; konec držby podle jeho úmrtí 1708 (cs.wiki Valdštejnové)"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "František Josef z Valdštejna (zemřel 1722), poté Jan Josef z Valdštejna (zemřel 1731)",
+   "from": 1708,
+   "to": 1731,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "zdroje (cs.wiki Valdštejnové) výslovně neuvádějí, kdo držel Mnichovo Hradiště v letech 1708-1731; po Janu Josefovi je zdědili synovci; přiřazení odvozeno z pořadí dědiců, nejisté"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "František Arnošt z Valdštejna",
+   "from": 1731,
+   "to": 1748,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "zakladatel mnichovohradištské větve (1706-1748), zdědil po strýci Janu Josefovi; rok přechodu dopočten z úmrtí předchůdce (cs.wiki Valdštejnové uvádí pořadí držitelů mnichovohradištské větve a roky narození a úmrtí)"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Vincenc z Valdštejna-Vartenberka",
+   "from": 1748,
+   "to": 1797,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "syn Františka Arnošta (1731-1797); od 1755 panství spravoval (cs.wiki Mnichovo Hradiště), 1782 koupil zrušený kapucínský klášter a upravil jej na rodinnou hrobku (cs.wiki zámek jej jmenuje Jan Vincenc); rok přechodu dopočten z úmrtí předchůdce (cs.wiki Valdštejnové uvádí pořadí držitelů mnichovohradištské větve a roky narození a úmrtí)"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Arnošt Filip z Valdštejna",
+   "from": 1797,
+   "to": 1832,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "(1764-1832); rok přechodu dopočten z úmrtí předchůdce (cs.wiki Valdštejnové uvádí pořadí držitelů mnichovohradištské větve a roky narození a úmrtí)"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Kristián Vincenc z Valdštejna",
+   "from": 1832,
+   "to": 1858,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "(1794-1858); za setkání panovníků (Svatá aliance) 1833 byl zámek upraven; rok přechodu dopočten z úmrtí předchůdce (cs.wiki Valdštejnové uvádí pořadí držitelů mnichovohradištské větve a roky narození a úmrtí)"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Arnošt František z Valdštejna",
+   "from": 1858,
+   "to": 1904,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "(1821-1904), rytíř Řádu zlatého rouna; rok přechodu dopočten z úmrtí předchůdce (cs.wiki Valdštejnové uvádí pořadí držitelů mnichovohradištské větve a roky narození a úmrtí)"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Arnošt Karel z Valdštejna",
+   "from": 1904,
+   "to": 1913,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "(1849-1913), po vymření duchcovské linie (1901) převzal i její majetek; rok přechodu dopočten z úmrtí předchůdce (cs.wiki Valdštejnové uvádí pořadí držitelů mnichovohradištské větve a roky narození a úmrtí)"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Adolf Arnošt z Valdštejna",
+   "from": 1913,
+   "to": 1932,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "(1868-1932), bezdětný bratr předchozího; za něj první pozemková reforma; rok přechodu dopočten z úmrtí předchůdce (cs.wiki Valdštejnové uvádí pořadí držitelů mnichovohradištské větve a roky narození a úmrtí)"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Karel Arnošt z Valdštejna",
+   "from": 1932,
+   "to": 1945,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "(1897-1985), poslední držitel českých statků; 1934 pořídil náhrobek Albrechta z Valdštejna, 1941 oprava sala terrena; rok přechodu dopočten z úmrtí předchůdce (cs.wiki Valdštejnové uvádí pořadí držitelů mnichovohradištské větve a roky narození a úmrtí)"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "poslední generace Valdštejnů se hlásila k německé národnosti, majetek zkonfiskován na základě Benešových dekretů; od 1946 zde městské muzeum, dnes spravuje Národní památkový ústav"
+  }
  ],
  "events": [
-  {"year": 1603, "text": "Václav Budovec z Budova zahájil stavbu renesančního zámku (dokončena 1606)"},
-  {"year": 1621, "text": "Václav Budovec popraven za účast na stavovském povstání, majetek zkonfiskován"},
-  {"year": 1623, "text": "panství koupil Albrecht z Valdštejna"},
-  {"year": 1690, "text": "požár zámku ve Zvířeticích definitivně rozhodl o přenesení hlavního valdštejnského sídla do Mnichova Hradiště"},
-  {"year": 1697, "text": "zahájena barokní přestavba podle projektu Marka Antonína Canevalleho (dokončena 1703)"},
-  {"year": 1782, "text": "Valdštejnové koupili zrušený kapucínský klášter a upravili jej na rodinnou hrobku"},
-  {"year": 1833, "text": "na zámku se sešli evropští panovníci a byla podepsána dohoda o obnovení Svaté aliance"},
-  {"year": 1945, "text": "majetek Valdštejnů zkonfiskován na základě Benešových dekretů, zámek připadl státu"}
+  {
+   "year": 1603,
+   "text": "Václav Budovec z Budova zahájil stavbu renesančního zámku (dokončena 1606)"
+  },
+  {
+   "year": 1621,
+   "text": "Václav Budovec popraven za účast na stavovském povstání, majetek zkonfiskován"
+  },
+  {
+   "year": 1623,
+   "text": "panství koupil Albrecht z Valdštejna"
+  },
+  {
+   "year": 1690,
+   "text": "požár zámku ve Zvířeticích definitivně rozhodl o přenesení hlavního valdštejnského sídla do Mnichova Hradiště"
+  },
+  {
+   "year": 1697,
+   "text": "zahájena barokní přestavba podle projektu Marka Antonína Canevalleho (dokončena 1703)"
+  },
+  {
+   "year": 1782,
+   "text": "Valdštejnové koupili zrušený kapucínský klášter a upravili jej na rodinnou hrobku"
+  },
+  {
+   "year": 1833,
+   "text": "na zámku se sešli evropští panovníci a byla podepsána dohoda o obnovení Svaté aliance"
+  },
+  {
+   "year": 1945,
+   "text": "majetek Valdštejnů zkonfiskován na základě Benešových dekretů, zámek připadl státu"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Mnichovo_Hradiště_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Mnichovo_Hradiště_(zámek)",
+  "https://cs.wikipedia.org/wiki/Mnichovo_Hradiště",
+  "https://cs.wikipedia.org/wiki/Valdštejnové",
+  "https://de.wikipedia.org/wiki/Schloss_Mnichovo_Hradiště"
+ ]
 }

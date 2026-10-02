@@ -6,29 +6,84 @@
   "approx": false,
   "text": "Zámek nechal v letech 1839-1854 postavit na tzv. Lubenském vrchu František Arnošt hrabě z Harrachu jako nové reprezentativní sídlo hrabat z Harrachu, ve stylu romantické neogotiky (tzv. Tudorské gotiky) podle úprav architekta Karla Fischera."
  },
- "summary": "Hrádek u Nechanic je jeden z nejmladších zámků v Česku, novogotická stavba postavená v letech 1839-1854 jako nové reprezentativní sídlo hrabat z Harrachu. Sádovské panství s Nechanicemi koupili Harrachové roku 1829 od Schaffgotschů. Krátce po dostavbě zde za bitvy u Hradce Králové sídlil vojenský lazaret, roku 1945 byl zámek na základě Benešových dekretů znárodněn a dnes je ve správě Národního památkového ústavu.",
+ "summary": "Zámek Hrádek u Nechanic je jeden z nejmladších zámků v Česku, novogotická stavba z let 1839-1854 jako nové reprezentativní sídlo hrabat z Harrachu. Pozemek patřil k nechanickému panství, k němuž roku 1516 patřila i pustá tvrz Hrádek; po Pecingarech, Vchynských a Verdemonech panství od 1661 držel rod Schaffgotschů (sadovské panství), od 1788 Tobias a Johanna von Gränzenstein a 1829 jej koupili Harrachové. Krátce po dostavbě zde za bitvy u Hradce Králové sídlil vojenský lazaret, roku 1945 byl zámek znárodněn a dnes je ve správě Národního památkového ústavu.",
  "owners": [
+  {
+   "owner": "pecingarove-z-bydzina",
+   "owner_wiki": null,
+   "person": "Mikuláš Pecingar z Bydžína",
+   "from": 1516,
+   "to": 1623,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil od Jana z Valdštejna městečko Nechanice s příslušenstvím včetně pusté tvrze Hrádek s dvorem a vsí za 1000 kop pražských grošů; Hrádek tehdy zámek ještě nestál (nechanické panství); konec držby 1623 - Ctibor Pecingar o majetek přišel a koupil jej od císaře Václav Vchynský (nechanice.cz, cs.wiki Nechanice)"
+  },
+  {
+   "owner": "kinsti",
+   "owner_wiki": "Kinští",
+   "person": "Václav Vchynský ze Vchynic a Tetova, po něm syn Jan Oktavián",
+   "from": 1623,
+   "to": 1654,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Václav Vchynský koupil majetek Ctibora Pecingara od císaře 1623, zemřel 1626, panství zdědil syn Jan Oktavián; Hrádek, Nechanice a Kunčice spojeny v kunčický statek; Jan Oktavián musel pro dluhy 2. 9. 1654 panství prodat"
+  },
+  {
+   "owner": "verdemonove",
+   "owner_wiki": null,
+   "person": "Matyáš Verdemon (Veldemon) a příbuzní, později syn František Ignác Josef",
+   "from": 1654,
+   "to": 1661,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "trhová smlouva 2. 9. 1654 (Kunčice s Nechanicemi, Staré Nechanice, Lubno, Hrádek aj.); 1658 vdova Barbora z Veldemonu prosadila prodej ve prospěch sirotka Františka Ignáce Josefa; roky 1654-1661 podle cs.wiki Nechanice"
+  },
   {
    "owner": "schaffgotschove",
    "owner_wiki": "Schaffgotschové",
-   "person": null,
-   "from": null,
+   "person": "Jan Arnošt Schaffgotsch z Kynastu a Greifensteinu a jeho dědicové (fideikomis 1686)",
+   "from": 1661,
+   "to": 1788,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "1661 koupil Kunčice s Nechanicemi za 630 000 zlatých rýnských, od 1662 připojeno k panství Bílá Třemešná, 1678 spojeno v panství Sadová (od 1656 držel Sadovou a Bílou Třemešnou po manželce); cs.wiki Schaffgotschové uvádí prodej Sadové 1786 (Jan Arnošt), Žižka (Průzkumy památek 2023) uvádí prodej hrabětem Josefem Schaffgotschem 1788 za 240 000 zlatých - rozpor, rok přibližný"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Tobias a Johanna von Gränzenstein",
+   "from": 1788,
    "to": 1829,
    "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "drželi sádovské panství s Nechanicemi před rokem 1829, kdy je od nich koupili Harrachové; přesný rok počátku jejich držby článek neuvádí"
+   "how": "koupe",
+   "note": "koupili panství Sadová od Schaffgotsche za 240 000 zlatých; kolem 1790 rozsáhlé úpravy panství a výstavba hospodářských dvorů; prodej Harrachům 1829 (Žižka, Průzkumy památek 2023; cs.wiki zámek Hrádek uvádí jen koupi od Schaffgotschů)"
+  },
+  {
+   "owner": "harrachove",
+   "owner_wiki": "Harrachové",
+   "person": "Jan Nepomuk Arnošt hrabě z Harrachu",
+   "from": 1829,
+   "to": 1833,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil sádovské panství spolu s Nechanicemi; roku 1833 je daroval synovi Františku Arnoštovi"
   },
   {
    "owner": "harrachove",
    "owner_wiki": "Harrachové",
    "person": "František Arnošt hrabě z Harrachu",
-   "from": 1829,
+   "from": 1833,
    "to": 1945,
    "from_approx": false,
    "to_approx": false,
-   "how": "koupe",
-   "note": "koupili sádovské panství s Nechanicemi a v letech 1839-1854 postavili nový zámek na Lubenském vrchu jako své reprezentativní sídlo"
+   "how": "dar",
+   "note": "dostal panství darem od otce (s Kunčicemi, Petrovicemi, Bílou Třemešnou); v letech 1839-1854 postavil na Lubenském vrchu nový zámek Hrádek jako reprezentativní sídlo rodu; dále držitelé z rodu Harrachů (Jan Nepomuk od 1860-61 správce panství) až do 1945"
   },
   {
    "owner": "stat",
@@ -39,15 +94,48 @@
    "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "znárodněno na základě Benešových dekretů; roku 1945 zde krátce sídlil generálmajor Govorov, velitel jedné z armád Ukrajinského frontu Rudé armády; od 1953 přístupné veřejnosti, dnes ve správě NPÚ"
+   "note": "znárodněno na základě Benešových dekretů; roku 1945 zde krátce sídlil generálmajor Govorov; od 1953 přístupné veřejnosti, dnes ve správě NPÚ"
   }
  ],
  "events": [
-  {"year": 1829, "text": "Harrachové koupili sádovské panství s Nechanicemi od Schaffgotschů"},
-  {"year": 1854, "text": "dokončena stavba neogotického zámku podle úprav architekta Karla Fischera"},
-  {"year": 1866, "text": "po bitvě u Hradce Králové byl v zámku zřízen vojenský lazaret"},
-  {"year": 1945, "text": "zámek znárodněn na základě Benešových dekretů"},
-  {"year": 1953, "text": "zámek zpřístupněn veřejnosti"}
+  {
+   "year": 1516,
+   "text": "Mikuláš Pecingar z Bydžína kupuje nechanické panství včetně pusté tvrze Hrádek"
+  },
+  {
+   "year": 1661,
+   "text": "Jan Arnošt Schaffgotsch kupuje Kunčice s Nechanicemi a později je spojuje v panství Sadová"
+  },
+  {
+   "year": 1788,
+   "text": "panství Sadová kupují od Schaffgotschů manželé von Gränzenstein"
+  },
+  {
+   "year": 1829,
+   "text": "Harrachové koupili sádovské panství s Nechanicemi od Schaffgotschů"
+  },
+  {
+   "year": 1854,
+   "text": "dokončena stavba neogotického zámku podle úprav architekta Karla Fischera"
+  },
+  {
+   "year": 1866,
+   "text": "po bitvě u Hradce Králové byl v zámku zřízen vojenský lazaret"
+  },
+  {
+   "year": 1945,
+   "text": "zámek znárodněn na základě Benešových dekretů"
+  },
+  {
+   "year": 1953,
+   "text": "zámek zpřístupněn veřejnosti"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Hrádek_u_Nechanic_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Hrádek_u_Nechanic_(zámek)",
+  "https://cs.wikipedia.org/wiki/Nechanice",
+  "https://cs.wikipedia.org/wiki/Schaffgotschové",
+  "https://pruzkumypamatek.cz/pdfs/prp/2023/02/03.pdf (J. Žižka, Harrachovské hospodářské dvory, Průzkumy památek 2/2023)",
+  "https://www.nechanice.cz/mesto/historie-nechanic/"
+ ]
 }

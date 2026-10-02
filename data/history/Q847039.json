@@ -16,8 +16,8 @@
    "to": 1270,
    "from_approx": true,
    "to_approx": true,
-   "how": "neznamo",
-   "note": "první doložený majitel (listina 1240); vlastnil i hrady Šostýn a Hukvaldy"
+   "how": "zalozeni",
+   "note": "první doložený majitel (listina 1240), dvořan Přemysla Otakara I.; hrad získal kolem 1230 (hrady.cz: vybudoval hrad); vlastnil i hrady Šostýn a Hukvaldy"
   },
   {
    "owner": "z-pnovic",
@@ -38,8 +38,8 @@
    "to": 1434,
    "from_approx": true,
    "to_approx": false,
-   "how": "koupe",
-   "note": "fulnecko-jičínská větev rodu vymřela smrtí Jana z Kravař 1434, jeho manželství s Anežkou Opavskou zůstalo bezdětné"
+   "how": "neznamo",
+   "note": "cs.wiki: mezi roky 1300 až 1310 nabyl starojické panství Vok z Kravař (způsob nabytí zdroje neuvádějí; hrady.cz: 'získal'); po něm Ješek (na hradě od 1337), pak synové Drslava a Jan; fulnecko-jičínská větev vymřela smrtí Jana z Kravař 1434 bezdětně"
   },
   {
    "owner": "pani-z-cimburka",
@@ -49,7 +49,8 @@
    "to": 1437,
    "from_approx": false,
    "to_approx": false,
-   "how": "dedictvi"
+   "how": "dedictvi",
+   "note": "po Janovi z Kravař zdědil panství Starý Jičín, Rožnov a Vsetín; zemřel na přelomu 1436/1437"
   },
   {
    "owner": "z-stareho-jicina",
@@ -93,7 +94,7 @@
    "from_approx": false,
    "to_approx": true,
    "how": "dedictvi",
-   "note": "kolem 1479 se provdala za Petra ze sv. Jiří a Pezinku"
+   "note": "vdova po Jindřichovi z Boskovic; kolem 1479 se provdala za Petra ze sv. Jiří a Pezinku (hrady.cz: panství přešlo 1476-1479 na Petra)"
   },
   {
    "owner": "z-svateho-jiri-a-pezinku",
@@ -159,7 +160,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "vzdálený příbuzný Viléma Bedřicha ze Žerotína; způsob nabytí článek neuvádí"
+   "note": "Mikuláš Frankopan zemřel 1647 a Starý Jičín převzal Wolfgang Friedrich Hoffmann, vzdálený příbuzný Viléma Bedřicha ze Žerotína (jeho manželka byla Anna Hoffmannová z Grünbüchlu); hrady.cz: o panství vedl dlouhý spor, který 1651 vyhrál Annin prasynovec Wolfgang Fridrich Hoffmann; způsob nabytí cs.wiki neuvádí"
   },
   {
    "owner": "ditrichstejnove",
@@ -169,8 +170,8 @@
    "to": 1706,
    "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "dle přehledu majitelů; podrobnosti nabytí článek neuvádí"
+   "how": "snatek",
+   "note": "hrady.cz: v druhé polovině 17. století přešlo sňatkem panství z rukou Hoffmannů do vlastnictví jedné větve rodu Ditrichštejnů; roky 1686-1706 podle tabulky majitelů cs.wiki"
   },
   {
    "owner": "zenove-z-dannhausenu",
@@ -181,29 +182,29 @@
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "dle přehledu majitelů; podrobnosti nabytí článek neuvádí"
+   "note": "hrady.cz: 1706 panství 'získali' Zenonové z Dannhausenu (způsob nabytí neuveden); 1724-1726 Antonín Kašpar Zeno postavil zámek pod hradem, 1745 převzal bratr Václav, po jeho smrti 1761 zadlužené panství zdědil Sebastián"
   },
   {
    "owner": "seilern-und-aspang",
    "owner_wiki": "Seilern und Aspang",
-   "person": null,
+   "person": "Kristián August Seilern-Aspang a potomci",
    "from": 1772,
    "to": 1906,
    "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "dle přehledu majitelů; podrobnosti nabytí článek neuvádí"
+   "how": "koupe",
+   "note": "1772 Sebastián Zeno pro dluhy prodal velkostatek za 220 000 zl. a 200 dukátů hraběti Kristiánu Augustovi Seilern-Aspangovi (hrady.cz, cs.wiki Starý Jičín (zámek)); 1875 prodali zchátralý zámek pod hradem obcím; po smrti Karla Maxmiliána 1905 panství zdědili Julius a František Karel Seilernové"
   },
   {
-   "owner": "deymove-ze-stritez",
+   "owner": "deymove-ze-striteze",
    "owner_wiki": "Deymové ze Stříteže",
    "person": "Bedřich Deym ze Stříteže",
    "from": 1906,
    "to": 1945,
    "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "vlastenecký hrabě, na počátku 20. století usiloval o záchranu zříceniny"
+   "how": "koupe",
+   "note": "vlastenecký hrabě dr. Bedřich Deym ze Stříteže koupil panství od Seilernů 1906 (krasybeskyd.cz: prodej Deymům 1906); chtěl hrad restaurovat, zabránila mu první světová válka a nedostatek financí; 1938 zříceninu od jeho dcer odkoupila Pobeskydská župa čs. turistů v Ostravě, pro německou okupaci koupě nevešla v platnost; cs.wiki uvádí držbu Deymů do 1945"
   },
   {
    "owner": "mesto",
@@ -211,10 +212,10 @@
    "person": null,
    "from": 1945,
    "to": null,
-   "from_approx": false,
+   "from_approx": true,
    "to_approx": false,
    "how": "jine",
-   "note": "po druhé světové válce přešel na obec Starý Jičín; roku 1996 obec zrekonstruovala hradní věž, dále pokračuje v opravách zdí za podpory Ministerstva kultury"
+   "note": "po 1945 změnil hrad několikrát majitele, nakonec jej získal MNV Starý Jičín (hrady.cz), dnes obec Starý Jičín; 1996 obec zrekonstruovala hradní věž, dále pokračuje v opravách zdí za podpory Ministerstva kultury"
   }
  ],
  "events": [
@@ -243,6 +244,18 @@
    "text": "hrad obsadila dánská armáda, o rok později jej dobyla císařská vojska a zřídila zde lazaret"
   },
   {
+   "year": 1651,
+   "text": "spor o panství po Žerotínech nakonec vyhrál Wolfgang Fridrich Hoffmann z Grünbüchlu (hrady.cz; cs.wiki uvádí převzetí 1647 po Frankopanovi)"
+  },
+  {
+   "year": 1772,
+   "text": "Sebastián Zeno prodává zadlužené panství Kristiánu Augustovi Seilern-Aspangovi za 220 000 zl."
+  },
+  {
+   "year": 1906,
+   "text": "panství kupuje Bedřich Deym ze Stříteže, který usiloval o záchranu zříceniny"
+  },
+  {
    "year": 1966,
    "text": "hrad chráněn jako kulturní památka ČR"
   },
@@ -252,6 +265,10 @@
   }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Starý_Jičín_(hrad)"
+  "https://cs.wikipedia.org/wiki/Starý_Jičín_(hrad)",
+  "https://cs.wikipedia.org/wiki/Starý_Jičín_(zámek)",
+  "https://www.hrady.cz/hrad-stary-jicin (regionální popularizační server, méně spolehlivý; text o historii hradu)",
+  "https://www.hrady.cz/zamek-stary-jicin",
+  "http://www.krasybeskyd.cz/hrady/ZamekStaryJicin.htm (turistický web, méně spolehlivý)"
  ]
 }

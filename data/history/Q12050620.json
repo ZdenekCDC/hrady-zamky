@@ -4,20 +4,64 @@
  "founded": {
   "year": null,
   "approx": true,
-  "text": "Menší barokní zámeček byl postaven na místě bývalé tvrze ve 2. polovině 18. století; jméno nese po majitelích Janu a Jiřím Růžkových."
+  "text": "Tvrz je doložena od roku 1363, pustá byla 1542; barokně-klasicistní zámeček postavil na jejím místě František Dorn po roce 1787 (2. polovina 18. století); jméno nese po majitelích Janu a Jiřím Růžkových."
  },
- "summary": "Barokní zámeček v Růžkových Lhoticích vznikl ve 2. polovině 18. století na místě starší tvrze a jméno nese po majitelích Janu a Jiřím Růžkových. V letech 1835-1844 jej vlastnila rodina Františka Smetany, otce hudebního skladatele Bedřicha Smetany, který zde jako chlapec pobýval. Po druhé světové válce připadl místnímu JZD, od roku 1973 patří Okresnímu muzeu v Benešově a je zde umístěna expozice Muzea Podblanicka věnovaná hudebním tradicím regionu.",
+ "summary": "Tvrz ve Lhoticích je doložena od roku 1363; pustou ji roku 1542 koupili svobodníci bratři Jan a Jiří Růžkové, po nichž ves i zámek nesou jméno. Po Růžcích statek koupil hrabě Palm a roku 1787 František Dorn, který na místě tvrze postavil barokně-klasicistní zámeček. V letech 1835-1844 jej vlastnila rodina Františka Smetany, otce hudebního skladatele Bedřicha Smetany, který zde jako chlapec pobýval. Po druhé světové válce budovy užívalo místní JZD, od roku 1973 patří Okresnímu muzeu v Benešově a je zde umístěna expozice Muzea Podblanicka věnovaná hudebním tradicím regionu.",
  "owners": [
   {
    "owner": "soukromnik",
    "owner_wiki": null,
-   "person": "Jan a Jiří Růžkovi",
-   "from": null,
+   "person": "Jan a Jiří Růžkové z Miřetic (později z Rovného) a jejich potomci, naposledy Josef Růžek",
+   "from": 1542,
+   "to": 1777,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupili od Petra Dřítenského z Malovic pustou tvrz s dvorem a celou ves; svobodnický rod, po nich nese zámek jméno; zadlužený Josef Růžek statek prodal (zdroje: 1765 prodej, 1777 dražba)"
+  },
+  {
+   "owner": "palmove",
+   "owner_wiki": null,
+   "person": "Karel Josef hrabě Palm",
+   "from": 1777,
+   "to": 1787,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "majitel Čechtic koupil Lhotice v dražbě, ale nepřivtělil je k panství; prodej uvádí cestyapamatky.cz roku 1781, ostatní zdroje 1787"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "František Dorn",
+   "from": 1787,
+   "to": 1792,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "úředník a hospodářský rada hraběte Palma, koupil za 8000 zlatých; na místě tvrze nechal postavit barokně-klasicistní zámeček (2. polovina 18. století); stavbu finančně neudržel"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Ignác Löffelmann",
+   "from": 1792,
    "to": null,
    "from_approx": false,
    "to_approx": false,
+   "how": "koupe",
+   "note": "v listopadu 1792 mu dvůr propadl za 15000 zlatých; rok konce držby zdroje neuvádějí"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "baron Albert Haak",
+   "from": null,
+   "to": 1835,
+   "from_approx": false,
+   "to_approx": false,
    "how": "neznamo",
-   "note": "zámek po nich nese jméno; cs.wiki neuvádí, zda šlo o stavebníky nebo pozdější majitele, ani žádné letopočty jejich držby"
+   "note": "hospodařil zde (po roce 1819 zřejmě doplnil interiér empirovými kamny); návaznost na Löffelmanna a rok nabytí zdroje neuvádějí"
   },
   {
    "owner": "soukromnik",
@@ -28,18 +72,29 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "otec hudebního skladatele Bedřicha Smetany, který zde jako dítě pobýval; zámek si nejprve najal, později koupil, rodiče jej prodali roku 1844"
+   "note": "sládek, otec Bedřicha Smetany, v červenci 1835 koupil v dražbě (odevzdací listinu získal až o dva roky později); cs.wiki uvádí, že zámek nejprve najal; roku 1844 po hospodářských potížích prodal"
   },
   {
-   "owner": "stat",
+   "owner": "soukromnik",
    "owner_wiki": null,
-   "person": "místní jednotné zemědělské družstvo (JZD)",
-   "from": 1945,
-   "to": 1973,
-   "from_approx": true,
+   "person": "Jan Rombald Fiala",
+   "from": 1844,
+   "to": null,
+   "from_approx": false,
    "to_approx": false,
-   "how": "konfiskace",
-   "note": "zámek předán JZD po druhé světové válce; přesný rok mezi 1844 a předáním JZD cs.wiki neuvádí, majitelé pro toto období nejsou jmenováni"
+   "how": "koupe",
+   "note": "koupil dvůr se zámečkem za 25400 zlatých; majitelé se dále střídali (jména a léta zdroje neuvádějí), koncem 19. století zámek vyhořel"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "místní jednotné zemědělské družstvo (JZD Růžkovy Lhotice)",
+   "from": null,
+   "to": 1973,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "po 2. světové válce (podle jiných zdrojů v 50. letech) zabralo či převzalo budovy místní JZD, od roku 1960 sloučené s JZD Rovnost Čechtice; zámek chátral; právní podoba přechodu a předchozí vlastník nejsou ve zdrojích uvedeny"
   },
   {
    "owner": "stat",
@@ -49,15 +104,40 @@
    "to": null,
    "from_approx": false,
    "to_approx": false,
-   "how": "jine",
-   "note": "zámek zrekonstruován do podoby z dob pobytu Bedřicha Smetany, 1984 otevřena hudební expozice; dnes pobočka Muzea Podblanicka"
+   "how": "koupe",
+   "note": "získalo od JZD (cestyapamatky.cz: koupilo ve zchátralém stavu; část zdrojů uvádí rok 1972); zámek zrekonstruován do podoby z dob pobytu Bedřicha Smetany, 1984 otevřena hudební expozice, 2014 nová expozice Kraj tónů; dnes pobočka Muzea Podblanicka (formální vlastník dnes není ve zdrojích uveden)"
   }
  ],
  "events": [
-  {"year": 1835, "text": "zámek si najímá a poté kupuje František Smetana, otec Bedřicha Smetany"},
-  {"year": 1844, "text": "rodiče Bedřicha Smetany zámek prodávají"},
-  {"year": 1973, "text": "zámek získává Okresní muzeum v Benešově"},
-  {"year": 1984, "text": "otevřena hudební expozice"}
+  {
+   "year": 1542,
+   "text": "bratři Jan a Jiří Růžkové kupují pustou tvrz s vsí"
+  },
+  {
+   "year": 1787,
+   "text": "František Dorn kupuje statek a na místě tvrze staví zámeček"
+  },
+  {
+   "year": 1835,
+   "text": "zámek v dražbě kupuje František Smetana, otec Bedřicha Smetany"
+  },
+  {
+   "year": 1844,
+   "text": "rodiče Bedřicha Smetany zámek prodávají"
+  },
+  {
+   "year": 1973,
+   "text": "zámek získává Okresní muzeum v Benešově"
+  },
+  {
+   "year": 1984,
+   "text": "otevřena hudební expozice"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Růžkovy_Lhotice_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Růžkovy_Lhotice_(zámek)",
+  "https://www.mestyscechtice.cz/ruzkovy-lhotice",
+  "https://www.muzeumpodblanicka.cz/objekt/zamek-ruzkovy-lhotice/",
+  "https://www.cestyapamatky.cz/cestopisy-cesko/kraj-tonu-v-ruzkovych-lhoticich"
+ ]
 }

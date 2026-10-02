@@ -1,17 +1,106 @@
 {
  "id": "Q31208247",
  "name": "Dobrohoř",
- "founded": {"year": null, "approx": true, "text": "na místě bývalého poplužního dvora zamýšleli Sternbachové vystavět klasicistní zámek; cs.wiki neuvádí přesný rok"},
- "summary": "Na místě dnešního zámku Dobrohoř (německy Ebergersch) stával poplužní dvůr, který koupili Herbersteinové a po nich jej zdědili Sternbachové, kteří jej zamýšleli přestavět na klasicistní zámek. Po roce 1945 byl objekt ve správě státních statků a roku 2013 jej koupili noví majitelé, kteří jej postupně rekonstruují; dnes slouží jako galerie s kavárnou a možností ubytování.",
+ "founded": {
+  "year": 1847,
+  "approx": true,
+  "text": "asi roku 1847 nechal Ferdinand von Sternbach přestavět pivovar (postavený 1843 na místě dnešního zámku vedle vrchnostenského poplužního dvora, doloženého nejpozději od 60. let 18. stol.) na jednoduchý klasicistní zámek"
+ },
+ "summary": "Ves Dobrohoř (Ebergersch) se připomíná od roku 1487 jako příslušenství hradu Landštejna; nejpozději od 60. let 18. století zde stál vrchnostenský poplužní dvůr. Na přelomu 18. a 19. století panství držely Herbersteinové, po soudních sporech o dědictví po Ottu Herbersteinu-Moltke je od roku 1846 získali Sternbachové, kteří asi 1847 přestavěli zdejší pivovar (1843) na klasicistní zámek sloužící vrchnostenské správě. Po roce 1945 byl zámek v rukou státního statku Nová Bystřice, později soukromých majitelů a od roku 2013 jej rekonstruují současní majitelé; dnes slouží jako galerie s kavárnou a ubytováním.",
  "owners": [
-  {"owner": "herbersteinove", "owner_wiki": "Herbersteinové", "person": null, "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "koupe", "note": "koupili poplužní dvůr na místě dnešního zámku; cs.wiki neuvádí rok"},
-  {"owner": "sternbachove", "owner_wiki": null, "person": null, "from": null, "to": 1945, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "zdědili dvůr po Herbersteinech a zamýšleli jej přestavět na klasicistní zámek; přesný rok nabytí cs.wiki neuvádí"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": 2013, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "objekt byl ve správě státních statků"},
-  {"owner": "soukromnik", "owner_wiki": null, "person": "noví majitelé (od 2013)", "from": 2013, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "postupně objekt rekonstruují; dnes galerie, kavárna a možnost ubytování"}
+  {
+   "owner": "herbersteinove",
+   "owner_wiki": "Herbersteinové",
+   "person": null,
+   "from": null,
+   "to": 1831,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "landštejnské panství vč. poplužního dvora na přelomu 18. a 19. stol.; po smrti posledního člena rodu hraběte Josefa 1816 zdědil Otto Herberstein-Moltke z vedlejší větve, který zemřel bezdětný 1831 (zamekdobrohor.cz; hrady.cz); způsob a rok nabytí zdroje neuvádějí (cs.wiki: koupili)"
+  },
+  {
+   "owner": "neznamo",
+   "owner_wiki": null,
+   "person": "spravováno právními zástupci",
+   "from": 1831,
+   "to": 1846,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "po smrti Otty Herbersteina-Moltke dlouhé soudní spory o dědictví, majetek spravovaly právnické osoby; zdroj: zamekdobrohor.cz"
+  },
+  {
+   "owner": "sternbachove",
+   "owner_wiki": null,
+   "person": "Ferdinand von Wenzel svobodný pán von Sternbach zu Stock und Luttach",
+   "from": 1846,
+   "to": 1938,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "po sporech získal landštejnské panství Ferdinand, vnuk Josefa Sebastiana von Wenzel-Sternbacha, který se hlásil o dědictví po Herbersteinovi (hrady.cz uvádí rok 1846, zamekdobrohor.cz jen po skončení sporů); asi 1847 přestavěl pivovar na zámek; rodina bydlela v Třešti; zamekdobrohor.cz uvádí držbu do 1938, hrady.cz do 1945; za 2. sv. války zde sídlila Deutsche Ansiedlungsgesellschaft"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": "státní statek Nová Bystřice",
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "zestátnění velkostatku, zámek sloužil jako dílny, kanceláře a ubytování; po revoluci se dostal do soukromých rukou (rok zdroj neuvádí)"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "soukromý majitel (od 2002); předposlední majitel PhDr. Richard Klindera",
+   "from": 2002,
+   "to": 2013,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "hrady.cz (komerční web) uvádí od roku 2002 nového majitele; způsob nabytí neuveden; rok 2002 pochází z jediného zdroje"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Jan a Jana Mužákovi (Zámek Dobrohoř s.r.o.)",
+   "from": 2013,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupili chátrající zámek, postupně jej rekonstruují; galerie, kavárna a ubytování; zdroj: jcted.cz"
+  }
  ],
  "events": [
-  {"year": 1945, "text": "objekt přechází do správy státních statků"},
-  {"year": 2013, "text": "zámek koupili noví majitelé a zahájili jeho rekonstrukci"}
+  {
+   "year": 1487,
+   "text": "první zmínka o Dobrohoři v landštejnském urbáři"
+  },
+  {
+   "year": 1843,
+   "text": "na místě dnešního zámku postaven pivovar"
+  },
+  {
+   "year": 1847,
+   "text": "Ferdinand von Sternbach přestavuje pivovar na klasicistní zámek (údaj 'asi')"
+  },
+  {
+   "year": 1945,
+   "text": "zestátnění velkostatku, zámek využíván státním statkem"
+  },
+  {
+   "year": 2013,
+   "text": "zámek koupili současní majitelé a zahájili rekonstrukci"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Dobrohoř"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Dobrohoř",
+  "https://www.zamekdobrohor.cz/historie-zamku/",
+  "https://www.hrady.cz/zamek-dobrohor-egerber",
+  "https://www.jcted.cz/zamek-dobrohor-zahajil-sezonu-pred-trinacti-lety-majitele-kupovali-ruinu-ted-nabizeji-kulturni-stanek/"
+ ]
 }

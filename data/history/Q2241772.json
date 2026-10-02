@@ -1,45 +1,379 @@
 {
  "id": "Q2241772",
  "name": "Jezeří",
- "founded": {"year": 1360, "approx": true, "text": "Hrad Eisenberk nechal postavit mezi lety 1355 a 1365 Nevlas ze Rvenic."},
+ "founded": {
+  "year": 1360,
+  "approx": true,
+  "text": "Hrad Eisenberk nechal postavit mezi lety 1355 a 1365 Nevlas ze Rvenic."
+ },
  "summary": "Hrad Eisenberk (Jezeří) v Krušných horách nechal v letech 1355-1365 postavit Nevlas ze Rvenic, poté se v držení hradu vystřídala řada nižších šlechtických rodů (z Perče, Kolovratové, ze Slavic, z Kaufunku, z Hochhazu), než jej roku 1513 zdědil Mikuláš Hochhauser z Hochhazu, který jej přestavěl na renesanční zámek. Po konfiskaci roku 1623 získal panství do zástavy Vilém mladší Popel z Lobkovic a rod Lobkoviců jej s přestávkami (zabavení za nacismu 1939-1945, znárodnění 1948-1991) držel až do roku 1996, kdy jej po restituci daroval státu; dnes je zámek majetkem ČR ve správě Národního památkového ústavu.",
  "owners": [
-  {"owner": "z-rvenic", "owner_wiki": null, "person": "Nevlas ze Rvenic, poté synové Bušek a Nevlas", "from": 1360, "to": 1407, "from_approx": true, "to_approx": true, "how": "zalozeni"},
-  {"owner": "z-perce", "owner_wiki": null, "person": "Petr z Perče", "from": 1407, "to": 1410, "from_approx": true, "to_approx": false, "how": "koupe"},
-  {"owner": "kolovratove", "owner_wiki": "Kolovratové", "person": "Albrecht z Kolovrat", "from": 1410, "to": 1413, "from_approx": false, "to_approx": false, "how": "neznamo"},
-  {"owner": "z-slavic", "owner_wiki": null, "person": "Jan Smolík ze Slavic", "from": 1416, "to": 1451, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "majitel mezi 1413 a 1416 není v článku uveden"},
-  {"owner": "z-slavic", "owner_wiki": null, "person": "Zikmund ze Slavic", "from": 1451, "to": 1455, "from_approx": false, "to_approx": false, "how": "neznamo"},
-  {"owner": "z-kaufunku", "owner_wiki": null, "person": "Kunz z Kaufunku", "from": 1455, "to": 1455, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "roku 1455 unesl syny saského kurfiřta Fridricha II., byl zajat a sťat ve Freibergu"},
-  {"owner": "koruna", "owner_wiki": null, "person": "Jiří z Poděbrad", "from": 1455, "to": 1459, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "král obsadil hrad z obavy před saským útokem, kde žila Kunzova manželka a děti"},
-  {"owner": "z-slavic", "owner_wiki": null, "person": "Zikmund ze Slavic", "from": 1459, "to": 1493, "from_approx": false, "to_approx": true, "how": "jine", "note": "zemřel před rokem 1493, panství připadlo nezletilým potomkům (Hanuš, Zikmund, Jiří), spravoval je strýc Smil"},
-  {"owner": "z-slavic", "owner_wiki": null, "person": "Hanuš, Zikmund a Jiří ze Slavic", "from": 1493, "to": 1513, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "hrad později získal (mladší) Zikmund ze Slavic, který jej roku 1513 odkázal švagrovi Mikuláši Hochhauserovi z Hochhazu"},
-  {"owner": "z-hochhazu", "owner_wiki": null, "person": "Mikuláš Hochhauser z Hochhazu", "from": 1513, "to": 1565, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "roku 1549 nechal starý hrad přestavět na renesanční zámek; synové Jiří a Petr se okolo 1565 rozdělili, Petrovi zůstalo Jezeří"},
-  {"owner": "z-hochhazu", "owner_wiki": null, "person": "Petr z Hochhazu", "from": 1565, "to": 1588, "from_approx": true, "to_approx": true, "how": "dedictvi"},
-  {"owner": "z-hochhazu", "owner_wiki": null, "person": "Václav z Hochhazu", "from": 1588, "to": 1588, "from_approx": true, "to_approx": true, "how": "dedictvi", "note": "kvůli neshodám záhy prodal zámek bratru Mikulášovi; roku 1596 zemřel v boji u Egeru"},
-  {"owner": "z-hochhazu", "owner_wiki": null, "person": "Mikuláš z Hochhazu (mladší)", "from": 1588, "to": 1600, "from_approx": true, "to_approx": true, "how": "koupe", "note": "koncem 16. století prodal Jezeří svému strýci Jiřímu z Hochhazu"},
-  {"owner": "z-hochhazu", "owner_wiki": null, "person": "Jiří z Hochhazu na Albrechticích a Velemyšlevsi", "from": 1600, "to": 1602, "from_approx": true, "to_approx": false, "how": "koupe", "note": "zemřel roku 1602"},
-  {"owner": "z-hochhazu", "owner_wiki": null, "person": "Jan Mikuláš z Hochhazu", "from": 1602, "to": 1623, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "roku 1623 mu bylo jezeřské a hliňanské panství zkonfiskováno za účast na stavovském povstání"},
-  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": "Vilém mladší Popel z Lobkovic", "from": 1623, "to": 1647, "from_approx": false, "to_approx": false, "how": "lenni", "note": "získal zkonfiskované panství od císaře do zástavy za půjčku 10000 zlatých; 1627 barokní úprava, 1646 velký požár, zemřel počátkem ledna 1647"},
-  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": "František Vilém Popel z Lobkovic, poté syn Ferdinand Vilém z Lobkovic", "from": 1647, "to": 1713, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "Ferdinand Vilém nechal roku 1696 zámek znovu barokně vybudovat"},
-  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": "Oldřich Felix Popel z Lobkovic", "from": 1713, "to": 1722, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "25. 9. 1713 zámek znovu vyhořel a byl obnoven; bezdětný, zřídil svěřenství, po jeho smrti 1722 je získal Jiří Kristián Lobkovic"},
-  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": "Jiří Kristián Lobkovic", "from": 1722, "to": 1752, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "zakladatel mělnické větve rodu, Jezeří využíval jen jako lovecký zámek a roku 1752 jej prodal Ferdinandu Filipovi z Lobkovic"},
-  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": "Ferdinand Filip z Lobkovic, poté syn Josef František Maxmilián z Lobkovic", "from": 1752, "to": 1848, "from_approx": false, "to_approx": true, "how": "koupe", "note": "za Josefa Františka Maxmiliána (mecenáš a přítel Beethovena) prožil zámek na počátku 19. století největší rozkvět; panství bylo po vzniku Československa rozparcelováno pozemkovou reformou"},
-  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": "Max Lobkowicz", "from": 1848, "to": 1939, "from_approx": true, "to_approx": true, "how": "dedictvi", "note": "poslední předválečný majitel, za 2. světové války vyslanec československé vlády v Londýně"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1939, "to": 1945, "from_approx": true, "to_approx": false, "how": "konfiskace", "note": "majetek za 2. světové války zabaven, na zámku zřízena pobočka koncentračního tábora Flossenbürg"},
-  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": "Max Lobkowicz", "from": 1945, "to": 1948, "from_approx": false, "to_approx": false, "how": "jine", "note": "článek explicitně neuvádí navrácení po válce, ale znárodnění až 'po roce 1948' to naznačuje"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1948, "to": 1991, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "zchátralý zámek znárodněn; 1950 vojenská posádková správa Chomutov, 1955 ministerstvo vnitra, 1958 ministerstvo školství a kultury"},
-  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": null, "from": 1991, "to": 1996, "from_approx": false, "to_approx": false, "how": "restituce", "note": "pro vysoké náklady na rekonstrukci zámek roku 1996 darovali státu"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1996, "to": null, "from_approx": false, "to_approx": false, "how": "dar", "note": "spravuje Národní památkový ústav, územní odborné pracoviště v Ústí nad Labem"}
+  {
+   "owner": "z-rvenic",
+   "owner_wiki": null,
+   "person": "Nevlas ze Rvenic",
+   "from": 1360,
+   "to": 1407,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "zalozeni",
+   "note": "hrad Eisenberk postavil mezi lety 1355 a 1365 (cs.wiki; první písemné zprávy 1363-1365 podle i60.cz), předtím sídlil na tvrzi v Albrechticích; synové Bušek a Nevlas hrad prodali před rokem 1407 Petrovi z Perče"
+  },
+  {
+   "owner": "z-perce",
+   "owner_wiki": null,
+   "person": "Petr z Perče",
+   "from": 1407,
+   "to": 1410,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "kupní rok neuveden, jen že koupě proběhla před 1407"
+  },
+  {
+   "owner": "kolovratove",
+   "owner_wiki": "Kolovratové",
+   "person": "Albrecht z Kolovrat",
+   "from": 1410,
+   "to": 1413,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "způsob nabytí cs.wiki neuvádí"
+  },
+  {
+   "owner": "neznamo",
+   "owner_wiki": null,
+   "from": 1413,
+   "to": 1416,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "majitel mezi 1413 a 1416 není ve zdrojích uveden"
+  },
+  {
+   "owner": "z-slavic",
+   "owner_wiki": null,
+   "person": "Jan Smolík ze Slavic",
+   "from": 1416,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "od roku 1416 udáván jako majitel; konec držby neuveden"
+  },
+  {
+   "owner": "z-slavic",
+   "owner_wiki": null,
+   "person": "Zikmund ze Slavic",
+   "from": null,
+   "to": 1455,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "po Janu Smolíkovi hrad převzal Zikmund, který na něm sídlil ještě 1451; roku 1455 se pánem stal Kunz z Kaufunku"
+  },
+  {
+   "owner": "z-kaufunku",
+   "owner_wiki": null,
+   "person": "Kunz z Kaufunku",
+   "from": null,
+   "to": 1455,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "roku 1455 unesl ze saského hradu Altenburk syny kurfiřta Fridricha II., byl zajat a o několik dní později ve Freibergu sťat; začátek držby není uveden"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Jiří z Poděbrad",
+   "from": 1455,
+   "to": 1459,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "konfiskace",
+   "note": "král hrad z obavy před saským útokem obsadil, žila na něm Kunzova manželka a děti; rok 1459 je nejbližší uvedený návrat Zikmunda ze Slavic"
+  },
+  {
+   "owner": "z-slavic",
+   "owner_wiki": null,
+   "person": "Zikmund ze Slavic",
+   "from": 1459,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "roku 1459 se opět stal držitelem (zamekjezeri.cz: na hrad se navrátili Smolíkové); konec držby není uveden"
+  },
+  {
+   "owner": "z-slavic",
+   "owner_wiki": null,
+   "person": "Petr ze Slavic",
+   "from": 1481,
+   "to": 1493,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "pravděpodobný syn Zikmunda, připomínán na Jezeří 1481; zemřel před rokem 1493 (rok 1493 je horní mez)"
+  },
+  {
+   "owner": "z-slavic",
+   "owner_wiki": null,
+   "person": "Hanuš, Zikmund a Jiří ze Slavic",
+   "from": 1493,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "nezletilí potomci Petra, majetek za ně spravoval strýc Smil; hrad později získal mladší Zikmund ze Slavic"
+  },
+  {
+   "owner": "z-slavic",
+   "owner_wiki": null,
+   "person": "Zikmund ze Slavic",
+   "from": null,
+   "to": 1513,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "roku 1513 hrad odkázal švagrovi Mikuláši Hochhauserovi z Hochhazu"
+  },
+  {
+   "owner": "z-hochhazu",
+   "owner_wiki": null,
+   "person": "Mikuláš Hochhauser z Hochhazu",
+   "from": 1513,
+   "to": 1565,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "rok 1513 je rok odkazu (okamžik převzetí zdroje neuvádějí); 1549 přestavba na renesanční zámek (erb Hochhauserů s letopočtem 1549 nad branou); synové Jiří a Petr se okolo 1565 rozdělili, Petrovi zůstalo Jezeří"
+  },
+  {
+   "owner": "z-hochhazu",
+   "owner_wiki": null,
+   "person": "Petr z Hochhazu",
+   "from": 1565,
+   "to": 1588,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "rok 1588 podle cs.wiki 'okolo roku 1588' zámek připadl Václavovi"
+  },
+  {
+   "owner": "z-hochhazu",
+   "owner_wiki": null,
+   "person": "Václav z Hochhazu",
+   "from": 1588,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "kvůli neshodám zámek prodal bratru Mikulášovi; 1596 se zúčastnil tažení do Uher a zemřel u Egeru"
+  },
+  {
+   "owner": "z-hochhazu",
+   "owner_wiki": null,
+   "person": "Mikuláš z Hochhazu mladší",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koncem 16. století prodal Jezeří starému strýci Jiřímu z Hochhazu (rok neuveden)"
+  },
+  {
+   "owner": "z-hochhazu",
+   "owner_wiki": null,
+   "person": "Jiří z Hochhazu na Albrechticích a Velemyšlevsi",
+   "from": null,
+   "to": 1602,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "zemřel 1602"
+  },
+  {
+   "owner": "z-hochhazu",
+   "owner_wiki": null,
+   "person": "Jan Mikuláš z Hochhazu",
+   "from": 1602,
+   "to": 1622,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "na zámku uváděn 1605; za účast na stavovském povstání mu bylo panství zkonfiskováno (cs.wiki rok 1623, zamekjezeri.cz císařské darování 15. 3. 1622)"
+  },
+  {
+   "owner": "lichtenstejnove",
+   "owner_wiki": "Lichtenštejnové",
+   "person": "Karel z Lichtenštejna",
+   "from": 1622,
+   "to": 1623,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "císař daroval Jezeří listinou z 15. března 1622 spolu s dalšími konfiskovanými panstvími; 24. března 1623 je prodal dál (oficiální web zámku)"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Vilém mladší Popel z Lobkovic",
+   "from": 1623,
+   "to": 1647,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "oficiální web zámku: koupě od Karla z Lichtenštejna za 80 847 kop míšeňských (zaplaceny dvě třetiny, vyrovnání s Hochhausery 1638; 1631 Hochhauserové Jezeří vyplenili); cs.wiki uvádí zástavu od císaře za půjčku 10 000 zlatých; 1627 barokní úprava, únor 1646 velký požár, zemřel počátkem ledna 1647"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "František Vilém Popel z Lobkovic, poté syn Ferdinand Vilém z Lobkovic",
+   "from": 1647,
+   "to": 1713,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "Ferdinand Vilém nechal roku 1696 zámek znovu barokně vybudovat; rok 1713 odpovídá převzetí Oldřichem Felixem (rok jeho nástupu cs.wiki výslovně neuvádí)"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Oldřich Felix Popel z Lobkovic",
+   "from": 1713,
+   "to": 1722,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "25. září 1713 zámek opět vyhořel a byl znovu barokně obnoven; bezdětný, zřídil svěřenství, po jeho smrti 1722 jej získal Jiří Kristián Lobkovic (zamekjezeri.cz uvádí jako dědice Karla Adama)"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Jiří Kristián Lobkovic",
+   "from": 1722,
+   "to": 1752,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "zakladatel mělnické větve, využíval Jezeří jako lovecký zámek; 1752 je prodal Ferdinandu Filipovi z Lobkovic"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Ferdinand Filip z Lobkovic, poté Josef František Maxmilián a další Lobkovicové",
+   "from": 1752,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "největší rozkvět za Josefa Františka Maxmiliána (přítel Beethovena, zámecké divadlo od 1802); 1821 začalo jednání o převodu panství do rodinného fideikomisu, 1868 správcem Mořic z Lobkovic; panství bylo po vzniku Československa rozparcelováno pozemkovou reformou, Lobkovicům zůstalo pět dvorů; přesné roky jednotlivých držitelů zdroje neuvádějí"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Maxmilián Ervín Lobkowicz",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "poslední předválečný majitel, diplomat a vyslanec československé vlády v Londýně; roky nástupu a konce držby před válkou zdroje neuvádějí (cs.wiki dříve uvedený rok 1848 se vztahuje k rozsahu panství, ne k držitelům)"
+  },
+  {
+   "owner": "neznamo",
+   "owner_wiki": null,
+   "person": "Německá říše (zabavený majetek Lobkoviců)",
+   "from": null,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "cs.wiki: za 2. světové války majetek zabaven, na zámku pobočka koncentračního tábora Flossenbürg (96 mužů) a od března 1943 zvláštní tábor pro prominentní vězně; po Mnichovu 1938 byly lobkovické domény v zabraném území podřízeny správě 'věrné ruky' (i60.cz); přesný rok zabavení zdroje neuvádějí"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Maxmilián Ervín Lobkowicz",
+   "from": 1945,
+   "to": 1948,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "restituce",
+   "note": "podle oficiálního webu zámku (zamekjezeri.cz, zamek-jezeri.cz) se po válce zámek i panství vrátily na čas Lobkowiczům; 20. dubna 1948 zavedl Zemský národní výbor národní správu; cs.wiki uvádí znárodnění po roce 1948"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "from": 1948,
+   "to": 1992,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "národní správa od 20. 4. 1948, 21. 10. 1949 převzala Národní kulturní komise, od 1950 vojenská posádková správa Chomutov, 1955 ministerstvo vnitra, 1958 ministerstvo školství a kultury; v 80. letech se počítalo s demolicí kvůli těžbě uhlí"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Martin Lobkowicz",
+   "from": 1992,
+   "to": 1996,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "restituce",
+   "note": "restituční nároky uplatněny 1991, uznány 1992 a zámek vrácen (oficiální web; cs.wiki uvádí 1991); pro vysoké náklady obnovy jej roku 1996 daroval státu"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "from": 1996,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dar",
+   "note": "spravuje Národní památkový ústav, ÚOP v Ústí nad Labem; 2020 zapsán na seznam nejohroženějších památek Evropy (Europa Nostra)"
+  }
  ],
  "events": [
-  {"year": 1360, "text": "1355-1365 Nevlas ze Rvenic staví hrad Eisenberk"},
-  {"year": 1549, "text": "Mikuláš Hochhauser z Hochhazu nechal starý hrad přestavět na renesanční zámek"},
-  {"year": 1623, "text": "konfiskace panství Janu Mikuláši z Hochhazu po stavovském povstání, zástava Vilémovi mladšímu Popelovi z Lobkovic"},
-  {"year": 1696, "text": "Ferdinand Vilém z Lobkovic nechal zámek znovu vybudovat v barokním stylu"},
-  {"year": 1802, "text": "počátek rozkvětu zámku za Josefa Františka Maxmiliána z Lobkovic, zámecké divadlo, návštěvy Goetha a okruhu Beethovenova mecenáše"},
-  {"year": 1939, "text": "za 2. světové války majetek Lobkoviců zabaven, na zámku pobočka koncentračního tábora Flossenbürg"},
-  {"year": 1948, "text": "zchátralý zámek znárodněn"},
-  {"year": 1991, "text": "zámek vrácen Lobkovicům v restituci, roku 1996 darován státu"}
+  {
+   "year": 1360,
+   "text": "1355-1365 Nevlas ze Rvenic staví hrad Eisenberk"
+  },
+  {
+   "year": 1549,
+   "text": "Mikuláš Hochhauser z Hochhazu nechal starý hrad přestavět na renesanční zámek"
+  },
+  {
+   "year": 1623,
+   "text": "konfiskace panství Janu Mikuláši z Hochhazu po stavovském povstání, zástava Vilémovi mladšímu Popelovi z Lobkovic"
+  },
+  {
+   "year": 1696,
+   "text": "Ferdinand Vilém z Lobkovic nechal zámek znovu vybudovat v barokním stylu"
+  },
+  {
+   "year": 1802,
+   "text": "počátek rozkvětu zámku za Josefa Františka Maxmiliána z Lobkovic, zámecké divadlo, návštěvy Goetha a okruhu Beethovenova mecenáše"
+  },
+  {
+   "year": 1939,
+   "text": "za 2. světové války majetek Lobkoviců zabaven, na zámku pobočka koncentračního tábora Flossenbürg"
+  },
+  {
+   "year": 1948,
+   "text": "20. dubna zavedena na zámku národní správa, zchátralý zámek znárodněn"
+  },
+  {
+   "year": 1991,
+   "text": "zámek vrácen Lobkowiczům v restituci (nároky uplatněny 1991, uznány 1992), roku 1996 darován státu"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Jezeří_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Jezeří_(zámek)",
+  "https://www.zamek-jezeri.cz/cs/o-zamku/historie",
+  "https://zamekjezeri.cz/historie/",
+  "https://www.i60.cz/clanek/detail/34767/pozvanka-do-naseho-kraje-jezeri-zamek-na-rozhrani-dvou-svetu"
+ ]
 }

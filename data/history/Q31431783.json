@@ -6,106 +6,128 @@
   "approx": true,
   "text": "První písemná zmínka o Osečanech je z roku 1352 ve spojitosti se jménem Jana z Osečan, který je pokládán za zakladatele zdejší tvrze; tvrz samotná je poprvé výslovně zmíněna až roku 1526."
  },
- "summary": "Tvrz v Osečanech založil nejspíše ve 14. století Jan z Osečan; v držení se dále vystřídali Břízcí a Vojkovští z Milhostic, kteří ji snad ve 2. polovině 16. století přestavěli na renesanční zámek. Po Bílé hoře panství zabavil Albrecht z Valdštejna a směnil je s Pavlem Michnou z Vacínova, roku 1665 je koupil Wolfgang Henneg, jenž zahájil barokní přestavbu na trojkřídlý zámek dokončenou roku 1733 za Jana Václava Bubny z Litic. Poté se v držení vystřídaly rodiny Mayerů z Mayersbachu, Laniusů z Wellenburgu, Pulpánů z Feldsteina, Tiegelů z Lindenkronu a Voithů ze Sterbezu; po nucené parcelaci a prodeji roku 1928 zámek za války poškodilo cvičiště zbraní SS, po roce 1948 sloužil jako sklad, po roce 1989 byl vrácen v restituci a od roku 2018 patří Matěji Stropnickému a Danielu Krejčíkovi.",
+ "summary": "Tvrz v Osečanech založil nejspíše ve 14. století Jan z Osečan; v držení se dále vystřídali další Osečanští, Břízští a Vojkovští z Milhostic, kteří ji snad ve 2. polovině 16. století přestavěli na renesanční zámek. Po Bílé hoře panství zabavené Adamu Řepickému získal Albrecht z Valdštejna a předal jej Pavlu Michnovi z Vacínova; roku 1665 je koupil Wolfgang Henneg, jenž zahájil barokní přestavbu na trojkřídlý zámek dokončenou roku 1733 za Bubnů z Litic. Poté se v držení vystřídali Laniusové z Wellenburgu, Mayerové z Mayersbachu, Pulpánové z Feldsteina, Tiegelové z Lindenkronu a Voithové ze Sterbezu; po zadlužení a nuceném prodeji 1928 zámek přešel na okresní záložnu a okres a později na lékařské družstvo, za války jej poškodilo cvičiště zbraní SS, po roce 1948 sloužil jako sklad, po roce 1989 byl vrácen v restituci a od roku 2018 patří Matěji Stropnickému a Danielu Krejčíkovi.",
  "owners": [
   {
    "owner": "z-osecan",
    "owner_wiki": null,
    "person": "Jan z Osečan a jeho potomci (Osečanští)",
    "from": 1352,
-   "to": null,
+   "to": 1406,
    "from_approx": true,
-   "to_approx": false,
+   "to_approx": true,
    "how": "zalozeni",
-   "note": "předpokládaný zakladatel tvrze; přesný konec držby rodu cs.wiki neuvádí"
+   "note": "předpokládaný zakladatel tvrze; podle obecní historie stopy po prvních majitelích mizí z pramenů kolem roku 1406"
+  },
+  {
+   "owner": "z-osecan",
+   "owner_wiki": null,
+   "person": "Osečanští z Osečan (jiný rod se znakem poutníka)",
+   "from": 1450,
+   "to": 1528,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "podle obecní historie majiteli od poloviny 15. století; zdroj uvádí, že šlo zřejmě o jiný rod než prvotní majitele"
   },
   {
    "owner": "brizsti",
    "owner_wiki": null,
-   "person": null,
-   "from": null,
+   "person": "Břízští z Břízy",
+   "from": 1528,
    "to": null,
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "rod Břízkých, nástupce Osečanských a předchůdce Vojkovských z Milhostic; cs.wiki neuvádí jména ani letopočty"
+   "note": "rok 1528 podle hrady.cz (komerční web); cs.wiki jmenuje Břízské bez letopočtu; konec držby neuveden"
   },
   {
    "owner": "vojkovsti-z-milhostic",
    "owner_wiki": null,
    "person": null,
    "from": null,
-   "to": null,
+   "to": 1611,
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "podle domněnky přestavěli tvrz na renesanční zámek v 2. polovině 16. století"
+   "note": "podle domněnky přestavěli tvrz na renesanční zámek ve 2. polovině 16. století"
+  },
+  {
+   "owner": "z-rican",
+   "owner_wiki": null,
+   "person": "Vilém Lev z Říčan",
+   "from": 1611,
+   "to": 1615,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "majitel od roku 1611 podle cs.wiki článku o obci; způsob nabytí neuveden"
+  },
+  {
+   "owner": "z-sudomere",
+   "owner_wiki": null,
+   "person": "Adam Řepický ze Sudoměře",
+   "from": 1615,
+   "to": 1622,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "účastník stavovského povstání, zemřel 1619; majetek mu byl dodatečně 1622 zabaven; způsob nabytí neuveden"
   },
   {
    "owner": "valdstejnove",
    "owner_wiki": "Valdštejnové",
    "person": "Albrecht z Valdštejna",
-   "from": null,
-   "to": null,
+   "from": 1622,
+   "to": 1623,
    "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "získal zabavené panství po porážce stavovského povstání, vzápětí je směnil"
+   "note": "zabavené panství získal (cs.wiki o obci a web zámku uvádějí koupi) a vzápětí je prodal či směnil s Pavlem Michnou"
   },
   {
    "owner": "michnove-z-vacinova",
    "owner_wiki": "Michnové z Vacínova",
-   "person": "Pavel Michna z Vacínova",
-   "from": null,
+   "person": "Pavel Michna z Vacínova a jeho syn",
+   "from": 1623,
    "to": 1665,
    "from_approx": false,
    "to_approx": false,
    "how": "vymena",
-   "note": "získal směnou od Albrechta z Valdštejna; panství bylo posléze zadlužené"
+   "note": "rok 1623 podle cs.wiki článku o obci; Michnové panství zadlužili a syn je roku 1665 pro dluhy prodal"
   },
   {
    "owner": "hennegove",
    "owner_wiki": null,
    "person": "Wolfgang Henneg",
    "from": 1665,
-   "to": null,
+   "to": 1702,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "koupil zadlužené Osečany, od 1680 stavěl barokní trojkřídlý zámek (letopočet 1683 na vstupní mříži, roku 1701 ještě popisován jako nedostavěný); rod podle cs.wiki o obci roku 1702 vymřel bez dědiců (rok 1702 jako konec držby je přibližný); pro léta 1702-1720 zdroje držitele nejmenují"
+  },
+  {
+   "owner": "bechynove-z-lazan",
+   "owner_wiki": null,
+   "person": "Jan Bechyně z Lažan a Františka Josefa Ludmila Radecká z Radče",
+   "from": 1720,
+   "to": 1725,
    "from_approx": false,
    "to_approx": false,
-   "how": "koupe",
-   "note": "koupil zadlužené Osečany, od 1680 stavěl barokní trojkřídlý zámek (letopočet 1683 na vstupní mříži, roku 1701 ještě popisován jako nedostavěný)"
+   "how": "neznamo",
+   "note": "dali v obci postavit sochu sv. Jana Nepomuckého a panství prodali (cs.wiki o obci)"
   },
   {
    "owner": "bubnove-z-litic",
    "owner_wiki": "Bubnové z Litic",
-   "person": "Jan Václav Bubna z Litic",
-   "from": null,
-   "to": 1733,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "neznamo",
-   "note": "roku 1733 dokončena barokní přestavba, v jižním křídle postavena kaple sv. Anny; přesný rok nabytí panství neuveden"
-  },
-  {
-   "owner": "mayerove-z-mayersbachu",
-   "owner_wiki": null,
-   "person": "Jan Ignác šlechtic Mayer z Mayersbachu",
-   "from": null,
-   "to": null,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "neznamo",
-   "note": "profesor anatomie a chirurgie, osobní lékař Marie Terezie a rektor pražské univerzity (1693-1757); přesný rok nabytí neuveden"
-  },
-  {
-   "owner": "mayerove-z-mayersbachu",
-   "owner_wiki": null,
-   "person": "Mořic August Adolf Mayer z Mayersbachu",
-   "from": null,
+   "person": "hrabata z Bubna Litic (Antonín Vít; Jan Václav Bubna z Litic uveden k roku 1733)",
+   "from": 1725,
    "to": 1761,
    "from_approx": false,
    "to_approx": false,
-   "how": "dedictvi",
-   "note": "syn předchozího, narozen v Osečanech 1730, zemřel v Praze 1816"
+   "how": "neznamo",
+   "note": "roku 1733 dokončena barokní přestavba, v jižním křídle postavena kaple sv. Anny; způsob nabytí neuveden"
   },
   {
    "owner": "laniusove-z-wellenburgu",
@@ -116,7 +138,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "kupní smlouva z 18. dubna 1761; hraběnka založila velký park (5 ha); syn Karl statek roku 1795 prodal"
+   "note": "kupní smlouva z 18. dubna 1761 (kupovala hraběnka, manžel přijat do spoluvlastnictví); hraběnka založila velký park (5 ha); syn Karl statek roku 1795 prodal"
   },
   {
    "owner": "mayerove-z-mayersbachu",
@@ -127,7 +149,7 @@
    "from_approx": false,
    "to_approx": true,
    "how": "koupe",
-   "note": "Gabriela zemřela 1808 v Osečanech, manžel Johann (syn Mořice Mayera z Mayersbachu) zemřel 1851; syn Adolph je jako majitel zmíněn už roku 1829"
+   "note": "Gabriela zemřela 1808 v Osečanech, manžel Johann zemřel 1851; syn Adolph je jako majitel zmíněn už roku 1829; cs.wiki jmenuje jako majitele i Jana Ignáce Mayera (1693-1757) a jeho syna Mořice (1730-1816), bez letopočtů a v rozporu s ostatním pořadím, proto jsou vynechaní"
   },
   {
    "owner": "mayerove-z-mayersbachu",
@@ -138,51 +160,51 @@
    "from_approx": true,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "poslanec zemského sněmu a statkář; přesný konec držby neuveden"
+   "note": "poslanec zemského sněmu a statkář; rok 1829 je jen první zmínka jako majitele, přesný konec držby neuveden"
   },
   {
    "owner": "pulpanove-z-feldsteina",
    "owner_wiki": null,
-   "person": "Johanna Mayer von Mayersbach a manžel Joseph Pulpán Ritter von Feldstein",
+   "person": "Johanna Mayer von Mayersbach a manžel Joseph Pulpán Ritter von Feldstein (1789-1840)",
    "from": null,
    "to": null,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "Johanna, sestra Adolpha, statek zakoupil manžel Joseph Pulpán"
+   "note": "Johanna, sestra Adolpha, statek zakoupil manžel Joseph Pulpán; roky držby cs.wiki neuvádí"
   },
   {
    "owner": "tiegelove-z-lindenkronu",
    "owner_wiki": null,
    "person": "Johanna Tiegel von Lindenkron",
-   "from": 1850,
-   "to": 1860,
-   "from_approx": true,
-   "to_approx": true,
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
    "how": "neznamo",
-   "note": "dala zámek upravit v novogotickém stylu; vztah ke jménu Johanny Pulpán von Feldstein cs.wiki nevysvětluje, patrně tatáž osoba po dalším sňatku"
+   "note": "v letech 1850-1860 dala zámek upravit v novogotickém stylu (jde o dobu úpravy, ne o dobu držby); vztah ke jménu Johanny Pulpán von Feldstein cs.wiki nevysvětluje"
   },
   {
    "owner": "tiegelove-z-lindenkronu",
    "owner_wiki": null,
-   "person": "Anna Pulpán von Feldstein a manžel (Johann) Emanuel Tiegel von Lindenkron",
+   "person": "Anna Pulpán von Feldstein (1831-1862) a manžel (Johann) Emanuel Tiegel von Lindenkron (1822-1911)",
    "from": null,
    "to": null,
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "jediná dcera a dědička Johanny"
+   "note": "jediná dcera a dědička Johanny; podle obecní historie majitelkou od roku 1840 (rok úmrtí Josepha Pulpána), cs.wiki rok neuvádí"
   },
   {
    "owner": "voithove-ze-sterbezu",
    "owner_wiki": null,
-   "person": "Anna (rozená Tiegel von Lindenkron) a baron Rudolf Voith von Sterbez",
+   "person": "Anna (rozená Tiegel von Lindenkron, 1862-1929) a baron Rudolf Voith von Sterbez (1848-1905)",
    "from": 1884,
    "to": 1905,
-   "from_approx": false,
+   "from_approx": true,
    "to_approx": false,
    "how": "snatek",
-   "note": "poslední dědička; manžel opustil armádní kariéru, aby spravoval panství, manželství zůstalo bezdětné"
+   "note": "poslední dědička; rok 1884 je rok sňatku, cs.wiki nevysvětluje, kdy převzali panství; manžel opustil armádní kariéru, aby spravoval panství, manželství zůstalo bezdětné"
   },
   {
    "owner": "voithove-ze-sterbezu",
@@ -193,7 +215,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "hospodařila na panství sama po manželově smrti (1912 betonové silo, za 1. světové války podporovala Červený kříž); 1926 částečná parcelace pozemkovou reformou, 1928 donucena zadlužené panství prodat"
+   "note": "hospodařila na panství sama po manželově smrti (1912 betonové silo, za 1. světové války podporovala Červený kříž); 1926 částečná parcelace pozemkovou reformou, 1928 donucena zadlužené panství prodat; zemřela 1929"
   },
   {
    "owner": "soukromnik",
@@ -202,20 +224,31 @@
    "from": 1928,
    "to": 1931,
    "from_approx": true,
-   "to_approx": false,
+   "to_approx": true,
    "how": "koupe",
-   "note": "největší věřitel; roku 1931 koupila celý velkostatek za 2 750 000 Kč a rozparcelovala jej, zámek s parkem darovala sedlčanskému okresu; vztah k souběžně zmiňovanému prodeji zámku lékařskému spolku v roce 1928 cs.wiki nevysvětluje"
+   "note": "největší věřitel; velkostatek koupila podle cs.wiki 5. června 1931 za 2 750 000 Kč a rozparcelovala, zámek s parkem (9 ha) darovala sedlčanskému okresu; web zámku (majitelé, komerční zdroj) uvádí přechod zámku na záložnu po smrti Anny Voithové 1929; rok 1928 jako začátek je přibližný (rok nuceného prodeje)"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "sedlčanský okres (okresní zastupitelstvo)",
+   "from": 1931,
+   "to": 1938,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dar",
+   "note": "dar od záložny na zřízení dobročinného ústavu; rok darování je přibližný (cs.wiki: v témže roce jako koupě 1931), rok prodeje 1938 podle webu zámku (komerční zdroj)"
   },
   {
    "owner": "soukromnik",
    "owner_wiki": null,
-   "person": "lékařský spolek",
-   "from": 1928,
+   "person": "Restituio, družstvo lékařů (cs.wiki: lékařský spolek)",
+   "from": 1938,
    "to": 1948,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": true,
    "how": "koupe",
-   "note": "záměr zřídit ozdravovnu; 1943 byla obec vystěhována a zámek se stal součástí výcvikového prostoru zbraní SS, poškozen střelbou"
+   "note": "zámek bez hospodářské části koupen se záměrem zřídit oční sanatorium / ozdravovnu (k tomu nedošlo); cs.wiki, hrady.cz a knihovna Benešov uvádějí koupi lékařským spolkem už 1928, rozpor s webem zámku není vyřešen, převzat rok 1938 z webu zámku; 1943 byla obec vystěhována a zámek se stal součástí výcvikového prostoru zbraní SS, poškozen střelbou"
   },
   {
    "owner": "stat",
@@ -226,7 +259,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "adaptován na sklad zdravotnického materiálu"
+   "note": "po Únoru 1948 adaptován na sklad zdravotnického materiálu"
   },
   {
    "owner": "soukromnik",
@@ -234,10 +267,10 @@
    "person": "sedmnáct spoluvlastníků (restituce)",
    "from": 1989,
    "to": 2018,
-   "from_approx": false,
+   "from_approx": true,
    "to_approx": false,
    "how": "restituce",
-   "note": "objekt desítky let bez údržby chátral"
+   "note": "objekt desítky let bez údržby chátral; rok restituce je přibližný (cs.wiki: po roce 1989)"
   },
   {
    "owner": "soukromnik",
@@ -248,20 +281,72 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "koupě za 12 milionů Kč; obnova střechy a krovu dokončena 2021 (celkem 8,2 milionu Kč, dotace Středočeského kraje 5,9 milionu Kč)"
+   "note": "koupě za 12 milionů Kč; obnova střechy a krovu dokončena 2021 (celkem 8,2 milionu Kč, dotace Středočeského kraje 5,9 milionu Kč); majitelé v zámku bydlí a zpřístupňují jej o víkendech"
   }
  ],
  "events": [
-  {"year": 1352, "text": "první písemná zmínka o Osečanech, spojena s Janem z Osečan"},
-  {"year": 1526, "text": "první výslovná zmínka o zdejší tvrzi"},
-  {"year": 1665, "text": "Wolfgang Henneg kupuje zadlužené panství"},
-  {"year": 1683, "text": "letopočet na mříži vstupního portálu dokládá probíhající barokní přestavbu"},
-  {"year": 1733, "text": "dokončena barokní přestavba na trojkřídlý zámek, postavena kaple sv. Anny"},
-  {"year": 1855, "text": "1850-1860 úprava zámku v novogotickém stylu za Johanny Tiegel von Lindenkron"},
-  {"year": 1928, "text": "zadlužené panství prodáno, castle a velkostatek se rozcházejí mezi lékařský spolek a Okresní hospodářskou záložnu v Sedlčanech"},
-  {"year": 1943, "text": "obec vystěhována, zámek součástí výcvikového prostoru zbraní SS a poškozen střelbou"},
-  {"year": 1989, "text": "zámek vrácen v restituci sedmnácti spoluvlastníkům"},
-  {"year": 2018, "text": "zámek kupují Matěj Stropnický a Daniel Krejčík"}
+  {
+   "year": 1352,
+   "text": "první písemná zmínka o Osečanech, spojena s Janem z Osečan"
+  },
+  {
+   "year": 1526,
+   "text": "první výslovná zmínka o zdejší tvrzi"
+  },
+  {
+   "year": 1623,
+   "text": "Albrecht z Valdštejna prodává či směňuje zabavené panství Pavlu Michnovi z Vacínova"
+  },
+  {
+   "year": 1665,
+   "text": "Wolfgang Henneg kupuje zadlužené panství"
+  },
+  {
+   "year": 1683,
+   "text": "letopočet na mříži vstupního portálu dokládá probíhající barokní přestavbu"
+  },
+  {
+   "year": 1733,
+   "text": "dokončena barokní přestavba na trojkřídlý zámek, postavena kaple sv. Anny"
+  },
+  {
+   "year": 1761,
+   "text": "panství kupuje hraběnka Hieronyma Laniusová"
+  },
+  {
+   "year": 1795,
+   "text": "Gabriela Mayerová z Mayersbachu kupuje panství"
+  },
+  {
+   "year": 1855,
+   "text": "1850-1860 úprava zámku v novogotickém stylu za Johanny Tiegel von Lindenkron"
+  },
+  {
+   "year": 1928,
+   "text": "zadlužená Anna Voithová nucena panství prodat; zámek přechází na okresní záložnu v Sedlčanech (velkostatek koupen formálně 1931)"
+  },
+  {
+   "year": 1938,
+   "text": "okres prodává zámek družstvu lékařů Restituio (podle webu zámku)"
+  },
+  {
+   "year": 1943,
+   "text": "obec vystěhována, zámek součástí výcvikového prostoru zbraní SS a poškozen střelbou"
+  },
+  {
+   "year": 1989,
+   "text": "zámek vrácen v restituci sedmnácti spoluvlastníkům"
+  },
+  {
+   "year": 2018,
+   "text": "zámek kupují Matěj Stropnický a Daniel Krejčík"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Osečany_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Osečany_(zámek)",
+  "https://cs.wikipedia.org/wiki/Osečany",
+  "https://www.osecany.cz/z-historie-obce",
+  "https://zamekbude.cz/o-zamku/ (web současných majitelů, komerční zdroj)",
+  "https://www.hrady.cz/zamek-osecany-pribram/ (komerční web)"
+ ]
 }

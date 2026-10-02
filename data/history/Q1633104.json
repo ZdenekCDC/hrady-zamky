@@ -1,7 +1,11 @@
 {
  "id": "Q1633104",
  "name": "Nelahozeves",
- "founded": {"year": 1553, "approx": false, "text": "1553 zahájil stavbu renesančního zámku Florián Gryspek z Gryspachu, který roku 1544 získal Nelahozeves s panstvím"},
+ "founded": {
+  "year": 1553,
+  "approx": false,
+  "text": "1553 zahájil stavbu renesančního zámku Florián Gryspek z Gryspachu, který roku 1544 získal Nelahozeves s panstvím"
+ },
  "summary": "Renesanční zámek v Nelahozevsi nechal od roku 1553 postavit Florián Gryspek z Gryspachu, který zde shromažďoval rozsáhlé sbírky a knihovnu a učinil ze zámku kulturní centrum. Po jeho smrti (1588) zámek zdědil syn Blažej a poté jeho vdova a dcera, které kvůli dluhům musely zadlužené panství roku 1623 prodat Polyxeně z Lobkovic. Od té doby patří s výjimkou let 1950-1993 (znárodnění) roudnické linii rodu Lobkoviců, v současnosti Williamu Lobkowiczovi.",
  "owners": [
   {
@@ -12,8 +16,8 @@
    "to": 1588,
    "from_approx": false,
    "to_approx": false,
-   "how": "koupe",
-   "note": "roku 1544 získal Nelahozeves s panstvím, od 1553 stavěl zámek; zemřel na zámku 29. března 1588"
+   "how": "neznamo",
+   "note": "roku 1544 získal Nelahozeves s panstvím (cs/en/de.wiki; způsob nabytí neuvádějí), od 1553 stavěl zámek; zemřel na zámku 29. března 1588"
   },
   {
    "owner": "gryspekove-z-gryspachu",
@@ -24,7 +28,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "nejmladší syn Floriána, dokončil východní křídlo se dvěma erbovními štíty; zemřel v prosinci 1620, měsíc po bitvě na Bílé hoře"
+   "note": "nejmladší syn Floriána, dokončil východní křídlo se dvěma erbovními štíty (letopočty 1613, 1614 nad portálem); zemřel v prosinci 1620, měsíc po bitvě na Bílé hoře"
   },
   {
    "owner": "gryspekove-z-gryspachu",
@@ -32,10 +36,10 @@
    "person": "Ofka z Bubna",
    "from": 1620,
    "to": null,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "vdova po Blažeji Gryspekovi; kvůli vysokým dluhům na zámku se rozhodla odstěhovat a zadlužený majetek předala dceři Veronice, přesný rok zdroj neuvádí"
+   "note": "vdova po Blažeji; jeho závěť byla po Bílé hoře prohlášena za neplatnou, ale Nelahozeves zůstala v majetku Ofky; hospodařila jen krátce, kvůli dluhům se odstěhovala a majetek předala dceři Veronice; rok předání zdroje neuvádějí (konec držby proto null, build ho dopočítá mezi 1620 a 1623)"
   },
   {
    "owner": "gryspekove-z-gryspachu",
@@ -46,7 +50,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "dcera Blažeje a Ofky, provdaná za Davida Boryně z Lhoty; na císařův rozkaz musela zadlužené panství i s vesnicemi a vinicemi prodat"
+   "note": "dcera Blažeje a Ofky, provdaná za Davida Boryně z Lhoty; na císařův rozkaz musela zadlužené panství prodat (cs.wiki); rok nástupu zdroje neuvádějí; de.wiki uvádí jako prodávající neteř Floriána Gryspeka, což je v rozporu s cs.wiki (dcera Blažeje), zde následuje cs.wiki"
   },
   {
    "owner": "lobkovicove",
@@ -57,7 +61,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "koupě za 40031 kop 18 grošů 4 denáry, zápis do zemských desek 23. června 1623; od té doby zámek náležel roudnické linii rodu Lobkoviců"
+   "note": "koupě za 40031 kop 18 grošů 4 denáry, zápis do zemských desek 23. června 1623 (cs.wiki; en/de.wiki potvrzují rok 1623); od té doby zámek náležel roudnické linii Lobkoviců, Václav Eusebius Popel z Lobkovic po válce zámek obnovil, ale nikdy zde rodina nebydlela, sídlili zde úředníci"
   },
   {
    "owner": "stat",
@@ -83,15 +87,46 @@
   }
  ],
  "events": [
-  {"year": 1553, "text": "Florián Gryspek z Gryspachu zahájil stavbu renesančního zámku"},
-  {"year": 1588, "text": "Florián Gryspek umírá na zámku, dědí syn Blažej"},
-  {"year": 1614, "text": "letopočet nad portálem dokládá dokončení stavebních prací na zámku"},
-  {"year": 1623, "text": "zadlužené panství prodáno Polyxeně z Lobkovic, zápis do zemských desek"},
-  {"year": 1648, "text": "švédská armáda za třicetileté války odvezla bohatou kořist včetně Gryspekovy knihovny"},
-  {"year": 1874, "text": "zámek nalezl využití jako penzion pro šlechtické dcery"},
-  {"year": 1914, "text": "požár poškodil zámek, zanikly téměř všechny kazetové stropy ve druhém podlaží"},
-  {"year": 1950, "text": "zámek znárodněn"},
-  {"year": 1993, "text": "zámek vrácen v restituci knížecí rodině Lobkowiczů"}
+  {
+   "year": 1553,
+   "text": "Florián Gryspek z Gryspachu zahájil stavbu renesančního zámku"
+  },
+  {
+   "year": 1588,
+   "text": "Florián Gryspek umírá na zámku, dědí syn Blažej"
+  },
+  {
+   "year": 1614,
+   "text": "letopočet nad portálem dokládá dokončení stavebních prací na zámku"
+  },
+  {
+   "year": 1623,
+   "text": "zadlužené panství prodáno Polyxeně z Lobkovic, zápis do zemských desek"
+  },
+  {
+   "year": 1648,
+   "text": "švédská armáda za třicetileté války odvezla bohatou kořist včetně Gryspekovy knihovny"
+  },
+  {
+   "year": 1874,
+   "text": "zámek nalezl využití jako penzion pro šlechtické dcery"
+  },
+  {
+   "year": 1914,
+   "text": "požár poškodil zámek, zanikly téměř všechny kazetové stropy ve druhém podlaží"
+  },
+  {
+   "year": 1950,
+   "text": "zámek znárodněn"
+  },
+  {
+   "year": 1993,
+   "text": "zámek vrácen v restituci knížecí rodině Lobkowiczů"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Nelahozeves_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Nelahozeves_(zámek)",
+  "https://en.wikipedia.org/wiki/Nelahozeves",
+  "https://de.wikipedia.org/wiki/Schloss_Nelahozeves"
+ ]
 }

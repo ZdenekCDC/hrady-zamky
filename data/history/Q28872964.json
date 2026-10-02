@@ -2,48 +2,346 @@
  "id": "Q28872964",
  "name": "Zruč nad Sázavou",
  "founded": {
-  "year": 1325,
-  "approx": true,
-  "text": "Hrad založen nejspíše v první polovině 14. století, první písemná zmínka pochází z roku 1335 (predikát Heřmana ze Zruče)."
+  "year": null,
+  "approx": false,
+  "text": "Hrad založen v 1. polovině 14. století (zakladatel Heřman ze Zruče); první písemná zmínka o hradu 1335 v jeho predikátu, o Zruči jako takové 1328"
  },
- "summary": "Hrad ve Zruči nad Sázavou vznikl v první polovině 14. století a od poloviny téhož století jej přes několik generací drželi Kolovratové, později větev Zručtí z Chřenovic, až do prodeje roku 1547. Po dalších majitelích (Střelové z Rokyc, Černčičtí z Kácova, Kalenicové z Kalenic) byl v polovině 16. století přestavěn renesančně; po Bílé hoře byl zkonfiskován a od roku 1623 se v držení vystřídala řada šlechtických rodů (Perglasové z Losenic, Mladotové ze Solopisk, páni z Adlaru, Serinsové z Eichenau a další). Roku 1781 vyhořel, koncem 19. století jej podnikatelská rodina Schebkových přestavěla novogoticky; po konfiskaci roku 1948 a restituci po roce 1989 jej roku 2003 koupilo město Zruč nad Sázavou.",
+ "summary": "Hrad ve Zruči nad Sázavou vznikl v 1. polovině 14. století a od poloviny téhož století jej přes několik generací drželi Kolovratové, později Zručtí z Chřenovic, do prodeje roku 1547. Po Střelovi z Rokyc a Černčickém z Kácova jej od roku 1553 vlastnili Kalenicové, kteří hrad přestavěli na renesanční zámek; roku 1623 jim byl zkonfiskován. V 17. a 18. století se majitelé rychle střídali, zámek roku 1781 vyhořel a opraven byl 1872-1878 za Jana Skrejšovského. Od roku 1885 patřil Schebkům, kteří jej novogoticky přestavěli, po konfiskaci 1948 a restituci po 1989 jej roku 2003 koupilo město Zruč nad Sázavou.",
  "owners": [
-  {"owner": "z-zruce", "owner_wiki": null, "person": "Heřman ze Zruče", "from": 1335, "to": 1355, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "první písemná zmínka o hradu 1335 v jeho predikátu; předpokládá se, že již neobýval starší tzv. Starý zámek"},
-  {"owner": "kolovratove", "owner_wiki": "Kolovratové", "person": "Petr z Kolovrat, Ješek z Kolovrat, Mikuláš Kolovrat ze Zruče, synové Mikuláš a Aleš, později Zručtí z Chřenovic (Zdeněk z Kolovrat)", "from": 1355, "to": 1547, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "hrad se v rodu dědil přes několik generací (Kolovratové, větev Zručtí z Chřenovic v době husitských válek); Zdeněk z Kolovrat jej roku 1547 prodal a odstěhoval se do Dalkovic"},
-  {"owner": "z-rokyc", "owner_wiki": null, "person": "Jindřich Střela z Rokyc", "from": 1547, "to": 1548, "from_approx": false, "to_approx": false, "how": "koupe"},
-  {"owner": "cerncicti-z-kacova", "owner_wiki": "Černčičtí z Kácova", "person": "Jan Černčický z Kácova", "from": 1548, "to": 1553, "from_approx": false, "to_approx": false, "how": "koupe"},
-  {"owner": "kalenicove-z-kalenic", "owner_wiki": "Kalenicové z Kalenic", "person": "Jiří z Kalenic, syn Adam z Kalenic, Jan Starší z Kalenic, Bavor z Kalenic", "from": 1553, "to": 1620, "from_approx": false, "to_approx": true, "how": "koupe", "note": "za jejich držby přestavěn starý hrad renesančně; rodu zámek zabaven po stavovském povstání (přesný rok konfiskace nejistý)"},
-  {"owner": "koruna", "owner_wiki": null, "person": null, "from": 1620, "to": 1623, "from_approx": true, "to_approx": false, "how": "konfiskace", "note": "zabaveno Bavoru z Kalenic po stavovském povstání, do prodeje 1623 patrně komorní majetek"},
-  {"owner": "z-perglasu", "owner_wiki": null, "person": "Arnolt Perglas z Losentic", "from": 1623, "to": null, "from_approx": false, "to_approx": true, "how": "koupe"},
-  {"owner": "z-dobrohoste", "owner_wiki": null, "person": "Markéta Mecerodová z Dobrohoště", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "jedna z řady majitelů v 17. století, cs.wiki neuvádí přesné roky držby"},
-  {"owner": "z-zampachu", "owner_wiki": null, "person": "Albrecht Kryštof Hložek ze Žampachu", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "jedna z řady majitelů v 17. století, cs.wiki neuvádí přesné roky držby"},
-  {"owner": "z-hrachu", "owner_wiki": null, "person": "Lambert František Hřevenář z Hrachu", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "jedna z řady majitelů v 17. století, cs.wiki neuvádí přesné roky držby"},
-  {"owner": "z-nathermannu", "owner_wiki": null, "person": "Vít de Nathermann", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "jedna z řady majitelů v 17. století, cs.wiki neuvádí přesné roky držby"},
-  {"owner": "z-zdaru", "owner_wiki": null, "person": "Johanka Eusebie Millesimová ze Žďáru", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "jedna z řady majitelů v 17. století, cs.wiki neuvádí přesné roky držby"},
-  {"owner": "z-breuneru", "owner_wiki": null, "person": "Cecilie Eleonora hraběnka Breunerová a Maxmilián Ludvík Breuner", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "poslední z řady majitelů v 17. století před rokem 1693, cs.wiki neuvádí přesné roky držby"},
-  {"owner": "mladotove-ze-solopisk", "owner_wiki": "Mladotové ze Solopisk", "person": "Ferdinand Antonín Mladota ze Solopisk", "from": 1693, "to": 1700, "from_approx": false, "to_approx": false, "how": "koupe"},
-  {"owner": "pani-z-adlaru", "owner_wiki": "Páni z Adlaru", "person": "Jan Václav Valkoun z Adlaru", "from": 1700, "to": null, "from_approx": false, "to_approx": true, "how": "dar", "note": "Mladota Zruč roku 1700 postoupil Valkounovi z Adlaru"},
-  {"owner": "z-eichenau", "owner_wiki": null, "person": "Jan Ludvík a Ferdinand Bohuslav Serinsové z Eichenau", "from": null, "to": 1749, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "bratři, zámek kvůli dluhům roku 1749 prodali"},
-  {"owner": "z-rausenbachu", "owner_wiki": null, "person": "Rausové z Rausenbachu", "from": 1749, "to": null, "from_approx": false, "to_approx": true, "how": "koupe"},
-  {"owner": "okelly", "owner_wiki": null, "person": "Macneven O'Kelly", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "časté střídání držitelů v 18./19. stol., cs.wiki neuvádí přesné roky"},
-  {"owner": "rumerskirchove", "owner_wiki": null, "person": "Rumerskirchové", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "časté střídání držitelů v 18./19. stol., cs.wiki neuvádí přesné roky"},
-  {"owner": "windischgratzove", "owner_wiki": "Windischgrätzové", "person": null, "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "časté střídání držitelů v 18./19. stol., cs.wiki neuvádí přesné roky"},
-  {"owner": "z-lowenthalu", "owner_wiki": null, "person": "rytíři z Löwenthalu", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "časté střídání držitelů v 18./19. stol., cs.wiki neuvádí přesné roky"},
-  {"owner": "soukromnik", "owner_wiki": null, "person": "Jan Skrejšovský", "from": null, "to": 1885, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "provedl první velkou opravu a přestavbu zámku (1872-1878) po požáru 1781; rok nabytí neuveden"},
-  {"owner": "soukromnik", "owner_wiki": null, "person": "Jan Schebek, syn Adolf Schebek", "from": 1885, "to": 1948, "from_approx": false, "to_approx": false, "how": "koupe", "note": "podnikatel Jan Schebek koupil zručské statky 1885, syn Adolf nechal zámek přestavět do dnešní novogotické podoby"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1948, "to": 1989, "from_approx": false, "to_approx": true, "how": "konfiskace", "note": "zámek sloužil jako kanceláře MNV, lidová škola umění a knihovna"},
-  {"owner": "soukromnik", "owner_wiki": null, "person": "potomci rodiny Schebkovy", "from": 1989, "to": 2003, "from_approx": true, "to_approx": false, "how": "restituce"},
-  {"owner": "mesto", "owner_wiki": null, "person": null, "from": 2003, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "město Zruč nad Sázavou koupilo zámek i s parkem"}
+  {
+   "owner": "z-zruce",
+   "owner_wiki": null,
+   "person": "Heřman ze Zruče",
+   "from": 1335,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "první zmínka 1335 v predikátu Heřmana ze Zruče; zamek-zruc.cz uvádí Heřmana jako stavitele hradu a první zmínku o panství 1328; konec jeho držby zdroje neuvádějí"
+  },
+  {
+   "owner": "kolovratove",
+   "owner_wiki": "Kolovratové",
+   "person": "Petr z Kolovrat, Ješek z Kolovrat, Mikuláš Kolovrat ze Zruče, synové Mikuláš a Aleš, později Zručtí z Chřenovic (Zdeněk z Kolovrat)",
+   "from": 1355,
+   "to": 1547,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "hrad se v rodu dědil přes několik generací (1355 Petr z Kolovrat, v 1364 Ješek, 1405/1406 Mikuláš a jeho synové, hrad připadl Alešovi 1410; za husitských válek Zručští z Chřenovic); Zdeněk z Kolovrat jej roku 1547 prodal. Rozpor ve zdrojích: hrady.cz uvádí Kolovraty do 1433, pak Milotu z Chřenovic; město a zamek-zruc.cz uvádějí Kolovraty 1334-1553 a koupi Kalenicem 1553 přímo od nich, bez Střely a Černčického"
+  },
+  {
+   "owner": "z-rokyc",
+   "owner_wiki": null,
+   "person": "Jindřich Střela z Rokyc",
+   "from": 1547,
+   "to": 1548,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil od Zdeňka z Kolovrat 1547; podle hrady.cz již 1548 prodal Černčickému"
+  },
+  {
+   "owner": "cerncicti-z-kacova",
+   "owner_wiki": "Černčičtí z Kácova",
+   "person": "Jan Černčický z Kácova",
+   "from": 1548,
+   "to": 1553,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "hrady.cz potvrzuje 1548 koupi a prodej Kalenicovi 1553"
+  },
+  {
+   "owner": "kalenicove-z-kalenic",
+   "owner_wiki": "Kalenicové z Kalenic",
+   "person": "Jiří z Kalenic, syn Adam z Kalenic, Jan Starší z Kalenic, Bavor z Kalenic",
+   "from": 1553,
+   "to": 1623,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "1560 Adam z Kalenic prodal hrad Janu Staršímu z Kalenic; v druhé pol. 16. stol. renesanční přestavba hradu na zámek; 1561 Zruč povýšena na městečko; 1623 panství zkonfiskováno za účast na stavovském povstání (cs.wiki uvádí Bavora z Kalenic, hrady.cz a cs.wiki o městě Albrechta z Kalenic)"
+  },
+  {
+   "owner": "z-perglasu",
+   "owner_wiki": null,
+   "person": "Arnold Perglar z Losentic",
+   "from": 1623,
+   "to": 1642,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil zkonfiskované panství 1623 (cs.wiki: Arnolt Perglas z Losentic); 1642 jeho dcera Bohumila Alžběta panství prodala Markétě Mecerodové (zdroj hrady.cz)"
+  },
+  {
+   "owner": "z-dobrohoste",
+   "owner_wiki": null,
+   "person": "Markéta Mecerodová z Dobrohoště",
+   "from": 1642,
+   "to": 1657,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupila od dcery Arnolta Perglara 1642; roku 1657 postoupila Kryštofovi Hložkovi ze Žampachu (hrady.cz); pořadí a roky dalších majitelů 17. stol. zdroje neuvádějí"
+  },
+  {
+   "owner": "z-zampachu",
+   "owner_wiki": null,
+   "person": "Albrecht Kryštof Hložek ze Žampachu",
+   "from": 1657,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "převzal od Markéty Mecerodové 1657 (hrady.cz); pořadí dalších majitelů v 17. stol. podle cs.wiki, roky neuvedeny"
+  },
+  {
+   "owner": "z-hrachu",
+   "owner_wiki": null,
+   "person": "Lambert František Hřevenář z Hrachu",
+   "from": null,
+   "to": null,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "pořadí podle cs.wiki; roky zdroje neuvádějí"
+  },
+  {
+   "owner": "z-nathermannu",
+   "owner_wiki": null,
+   "person": "Vít de Nathermann",
+   "from": null,
+   "to": null,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "pořadí podle cs.wiki; roky zdroje neuvádějí"
+  },
+  {
+   "owner": "z-zdaru",
+   "owner_wiki": null,
+   "person": "Johanka Eusebie Millesimová ze Žďáru",
+   "from": null,
+   "to": null,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "pořadí podle cs.wiki; roky zdroje neuvádějí"
+  },
+  {
+   "owner": "z-breuneru",
+   "owner_wiki": null,
+   "person": "Cecilie Eleonora hraběnka Breunerová a Maxmilián Ludvík Breuner",
+   "from": null,
+   "to": 1693,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "poslední z řady majitelů před rokem 1693, kdy zámek držel Mladota; roky nástupu zdroje neuvádějí"
+  },
+  {
+   "owner": "mladotove-ze-solopisk",
+   "owner_wiki": "Mladotové ze Solopisk",
+   "person": "Ferdinand Antonín Mladota ze Solopisk",
+   "from": 1693,
+   "to": 1700,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "od roku 1693 (cs.wiki); roku 1700 zámek postoupil Valkounovi z Adlaru"
+  },
+  {
+   "owner": "pani-z-adlaru",
+   "owner_wiki": "Páni z Adlaru",
+   "person": "Jan Václav Valkoun z Adlaru",
+   "from": 1700,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "Mladota Zruč roku 1700 postoupil Valkounovi z Adlaru; rok konce držby zdroje neuvádějí"
+  },
+  {
+   "owner": "z-eichenau",
+   "owner_wiki": null,
+   "person": "Jan Ludvík a Ferdinand Bohuslav Serinsové z Eichenau",
+   "from": null,
+   "to": 1749,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "bratři Serinsové z Eichenau, zámek kvůli dluhům 1749 prodali; rok nástupu neuveden"
+  },
+  {
+   "owner": "z-rausenbachu",
+   "owner_wiki": null,
+   "person": "Rausové z Rausenbachu",
+   "from": 1749,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "koupili 1749; 1781 zámek vyhořel; roky konce držby zdroje neuvádějí"
+  },
+  {
+   "owner": "okelly",
+   "owner_wiki": null,
+   "person": "Macneven O'Kelly",
+   "from": null,
+   "to": null,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "časté střídání držitelů po 1749 (cs.wiki), pořadí ani roky zdroje neuvádějí; požáry zámku 1781, 1826, 1871, větší přestavba od 1834 (město)"
+  },
+  {
+   "owner": "rumerskirchove",
+   "owner_wiki": null,
+   "person": "Rumerskirchové",
+   "from": null,
+   "to": null,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "časté střídání držitelů po 1749 (cs.wiki), pořadí ani roky zdroje neuvádějí; požáry zámku 1781, 1826, 1871, větší přestavba od 1834 (město)"
+  },
+  {
+   "owner": "windischgratzove",
+   "owner_wiki": "Windischgrätzové",
+   "person": null,
+   "from": null,
+   "to": null,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "časté střídání držitelů po 1749 (cs.wiki), pořadí ani roky zdroje neuvádějí; požáry zámku 1781, 1826, 1871, větší přestavba od 1834 (město)"
+  },
+  {
+   "owner": "z-lowenthalu",
+   "owner_wiki": null,
+   "person": "rytíři z Löwenthalu",
+   "from": null,
+   "to": null,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "časté střídání držitelů po 1749 (cs.wiki), pořadí ani roky zdroje neuvádějí; požáry zámku 1781, 1826, 1871, větší přestavba od 1834 (město)"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Jan Stanislav Skrejšovský",
+   "from": 1872,
+   "to": 1878,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "majitel panství v letech 1872-1878 (web města), v tomto období provedl opravu a první přestavbu zámku; způsob nabytí neuveden"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Živnostenská banka",
+   "from": 1878,
+   "to": 1885,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "jine",
+   "note": "podle webu města a Deníku Zruč majetek Skrejšovského propadl bance, protože nemohl splácet půjčku; rok propadnutí neuveden, 1878 odvozen z konce jeho držby"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Jan Schebek, syn Adolf Schebek",
+   "from": 1885,
+   "to": 1948,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "1885 koupil zručské panství od Živnostenské banky podnikatel Jan Schebek (\"král železnic\", zemřel 1889); syn Adolf nechal 1891-1894 zámek novogoticky přestavět (hrady.cz: 1891-1892, zamek-zruc.cz: 1892-1894); rodině roku 1948 zámek vyvlastněn (Deník Zruč uvádí pobyt Schebků do 1945)"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1948,
+   "to": 1989,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "konfiskace",
+   "note": "zámek sloužil jako kanceláře MNV, lidová škola umění a knihovna; od 1951 radnice"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "potomci rodiny Schebkovy",
+   "from": 1989,
+   "to": 2003,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "restituce",
+   "note": "potomkům Schebků vrácen v restitucích po roce 1989 (rok neuveden)"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": null,
+   "from": 2003,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "potomci Schebků zámek městu odprodali a zámecký park darovali; město od 2005 areál opravuje"
+  }
  ],
  "events": [
-  {"year": 1335, "text": "první písemná zmínka o hradu (predikát Heřmana ze Zruče)"},
-  {"year": 1547, "text": "poslední z rodu Kolovratů ve Zruči, Zdeněk z Kolovrat, hrad prodává"},
-  {"year": 1560, "text": "renesanční přestavba starého hradu na zámek"},
-  {"year": 1623, "text": "po konfiskaci za stavovského povstání kupuje zámek Arnolt Perglas z Losentic"},
-  {"year": 1781, "text": "zámek vyhořel, západní křídlo již nebylo obnoveno"},
-  {"year": 1891, "text": "1891-1894 zásadní novogotická přestavba podle plánů Jana Vejrycha"},
-  {"year": 1948, "text": "zámek konfiskován rodině Schebkových"},
-  {"year": 2003, "text": "zámek i s parkem koupilo město Zruč nad Sázavou"}
+  {
+   "year": 1335,
+   "text": "první písemná zmínka o hradu (predikát Heřmana ze Zruče)"
+  },
+  {
+   "year": 1547,
+   "text": "poslední z rodu Kolovratů ve Zruči, Zdeněk z Kolovrat, hrad prodává"
+  },
+  {
+   "year": 1561,
+   "text": "Zruč povýšena na městečko za Kaleniců"
+  },
+  {
+   "year": 1623,
+   "text": "panství zkonfiskováno Kalenicům za stavovského povstání, kupuje je Arnold Perglar z Losentic"
+  },
+  {
+   "year": 1781,
+   "text": "zámek vyhořel, západní křídlo již nebylo obnoveno"
+  },
+  {
+   "year": 1878,
+   "text": "1872-1878 Jan Skrejšovský opravuje a přestavuje zámek po požárech"
+  },
+  {
+   "year": 1885,
+   "text": "zručské panství kupuje od Živnostenské banky Jan Schebek"
+  },
+  {
+   "year": 1891,
+   "text": "1891-1894 novogotická přestavba podle plánů Jana Vejrycha za Adolfa Schebka"
+  },
+  {
+   "year": 1948,
+   "text": "zámek konfiskován rodině Schebkových"
+  },
+  {
+   "year": 2003,
+   "text": "zámek i s parkem koupilo město Zruč nad Sázavou"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Zruč_nad_Sázavou_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Zruč_nad_Sázavou_(zámek)",
+  "https://www.mesto-zruc.cz/mesto/historie-mesta/",
+  "https://www.zamek-zruc.cz/o-zamku",
+  "https://www.hrady.cz/zamek-zruc-nad-sazavou/texty?pos=1000&tid=9033 (komerční web hrady.cz, nižší spolehlivost)",
+  "https://denikzruc.cz/historie/ (regionální deník, nižší spolehlivost)"
+ ]
 }

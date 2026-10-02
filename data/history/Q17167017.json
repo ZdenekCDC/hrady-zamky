@@ -4,42 +4,42 @@
  "founded": {
   "year": 1548,
   "approx": false,
-  "text": "Menší renesanční zámek zbudovali Fulštejnové mezi lety 1548 a 1565 na místě starší středověké tvrze."
+  "text": "Menší renesanční zámek zbudovali Fulštejnové v letech 1548-1565 na místě starší středověké tvrze."
  },
- "summary": "Renesanční zámek postavili v letech 1548-1565 Fulštejnové, po nich jej vlastnili Sedličtí z Choltic, jimž byl za účast na stavovském povstání zkonfiskován; krátce jej držel Maxmilián z Ditrichštejna a roku 1630 jej prodal Jiřímu z Hodic. Rod Hodiců zámek barokně přestavěl a za Alberta Josefa hraběte z Hodic (1706-1778) se stal jedním z kulturních center Slezska zvaným Slezské Versailles, hraběte však nákladný život přivedl k bankrotu. Od roku 1779 se vystřídali Čejkové z Badenfeldu, továrníci Steuer a Brücker a naposledy koňský handlíř Franz Andres (do 1942); za války zde sídlila část Goebbelsova ministerstva propagandy, po válce sloužil zámek různým účelům a od roku 2008 jej vlastní obec Slezské Rudoltice.",
+ "summary": "Renesanční zámek postavili v letech 1548-1565 Fulštejnové, po vymření rodu 1570 jej převzali Sedličtí z Choltic, jimž byl za účast na stavovském povstání zkonfiskován; krátce jej držel Maxmilián z Ditrichštejna a roku 1630 jej prodal Jiřímu z Hodic. Rod Hodiců zámek barokně přestavěl a za Alberta Josefa hraběte z Hodic (1706-1778) se stal jedním z kulturních center Slezska zvaným Slezské Versailles, hraběte však nákladný život přivedl k bankrotu. Od roku 1779 se vystřídali Čejkové z Badenfeldu, továrník Steuer (od 80. let 19. stol.), Heřman Brücker a od roku 1942 koňský handlíř Franz Andres; za války zde sídlila část Goebbelsova ministerstva propagandy. Po válce zámek sloužil různým účelům, naposledy jako sklad státní organizace zdravotnického zabezpečení, a roku 2008 přešel do vlastnictví obce Slezské Rudoltice.",
  "owners": [
   {
    "owner": "z-fulstejna",
    "owner_wiki": null,
    "person": null,
    "from": 1548,
-   "to": 1565,
+   "to": 1570,
    "from_approx": false,
    "to_approx": false,
    "how": "zalozeni",
-   "note": "postavili renesanční zámek na místě starší tvrze"
+   "note": "postavili renesanční zámek (1548-1565) na místě starší tvrze; rod roku 1570 vymřel (web zámku)"
   },
   {
    "owner": "sedlnicti-z-choltic",
    "owner_wiki": null,
    "person": null,
-   "from": 1565,
+   "from": 1570,
    "to": null,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
-   "how": "koupe",
-   "note": "zámek jim byl zkonfiskován za účast na stavovském povstání (1618-1620); přesná léta držby wiki neuvádí"
+   "how": "dedictvi",
+   "note": "po vymření Fulštejnů zámek převzali (web zámku, de.wiki: 1570); po Bílé hoře zkonfiskován za účast na stavovském povstání; přesný rok konfiskace zdroje neuvádějí"
   },
   {
    "owner": "ditrichstejnove",
    "owner_wiki": "Ditrichštejnové",
-   "person": "Maximilián hrabě z Ditrichštejna",
+   "person": "Maxmilián hrabě z Ditrichštejna",
    "from": null,
    "to": 1630,
    "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "zámek vlastnil jen krátce, roku 1630 jej prodal Jiřímu, svobodnému pánu z Hodic"
+   "note": "zámek vlastnil jen krátce, roku 1630 jej prodal za 15 000 zlatých Jiřímu, svobodnému pánu z Hodic"
   },
   {
    "owner": "z-hodic",
@@ -49,7 +49,8 @@
    "to": 1667,
    "from_approx": false,
    "to_approx": false,
-   "how": "koupe"
+   "how": "koupe",
+   "note": "v roce 1641 povýšen do říšského hraběcího stavu (de.wiki)"
   },
   {
    "owner": "z-hodic",
@@ -67,22 +68,22 @@
    "owner_wiki": null,
    "person": "Karel Josef z Hodic",
    "from": 1686,
-   "to": null,
+   "to": 1741,
    "from_approx": false,
-   "to_approx": false,
+   "to_approx": true,
    "how": "dedictvi",
-   "note": "zahájil barokní přestavbu zámku (čtyři jednopatrová křídla kolem nádvoří)"
+   "note": "zahájil barokní přestavbu zámku (čtyři jednopatrová křídla kolem nádvoří); konec držby odvozen od nástupu Alberta Josefa 1741 podle de.wiki, cs.wiki rok neuvádí"
   },
   {
    "owner": "z-hodic",
    "owner_wiki": null,
    "person": "Albert Josef hrabě z Hodic",
-   "from": null,
-   "to": 1779,
+   "from": 1741,
+   "to": 1778,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "dedictvi",
-   "note": "1706-1778; za jeho života dosáhl zámek největšího rozmachu (zámecká kapela, divadlo, rozsáhlý krajinářský park, přezdívka Slezské Versailles), navštěvoval jej i pruský král Bedřich II.; nákladný život jej přivedl k bankrotu, po jeho smrti bylo zařízení a sbírky rozprodány"
+   "note": "1706-1778; za jeho života dosáhl zámek největšího rozmachu (zámecká kapela, divadlo, rozsáhlý krajinářský park, přezdívka Slezské Versailles), navštěvoval jej i pruský král Bedřich II.; nákladný život jej přivedl k bankrotu, po jeho smrti byly zařízení a sbírky rozprodány, panství spravovala nucená správa"
   },
   {
    "owner": "cejkove-z-badenfeldu",
@@ -93,40 +94,51 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "měšťanský rod, jeho erb je dodnes na budově zámecké vinárny"
+   "note": "měšťanský rod, jeho erb je dodnes na budově zámecké vinárny; web obce uvádí, že oddlužené panství předal olomoucký biskup až po nucené správě 1780-1784; konec držby zdroje neuvádějí"
   },
   {
    "owner": "soukromnik",
    "owner_wiki": null,
-   "person": "Steuer z Krnova, poté Heřman Brücker z Červené Vody",
+   "person": "Steuer z Krnova",
    "from": null,
    "to": null,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "továrníci, o zámek se příliš nestarali, byla zde umístěna tkalcovna; přesná léta držby wiki neuvádí"
+   "note": "krnovský továrník, panství koupil v 80. letech 19. století (web obce); o zámek se příliš nestaral, byla zde umístěna tkalcovna; přesný rok zdroje neuvádějí"
   },
   {
    "owner": "soukromnik",
    "owner_wiki": null,
-   "person": "Franz Andres",
+   "person": "Heřman Brücker z Červené Vody",
    "from": null,
    "to": 1942,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "koňský handlíř, poslední soukromý majitel; za 2. světové války v zámku sídlila část Goebbelsova ministerstva propagandy a cvičil zde Hitlerjugend"
+   "note": "od Steuera koupil po 1. světové válce zámek a rudoltický dvůr (web obce, příjmení tam Brückner); přesný rok zdroje neuvádějí"
   },
   {
-   "owner": "mesto",
+   "owner": "soukromnik",
    "owner_wiki": null,
-   "person": null,
+   "person": "Franz Andres",
+   "from": 1942,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "koňský handlíř z Rudoltic, poslední soukromý majitel (statek koupil 1942 podle webu obce, cs.wiki uvádí 'do roku 1942'); za 2. světové války v zámku sídlila část Goebbelsova ministerstva propagandy a cvičil zde Hitlerjugend; konec držby a způsob přechodu na stát zdroje výslovně neuvádějí"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": "Zdravotnické zabezpečení krizových stavů (státní příspěvková organizace zřízená MZ ČR)",
    "from": 1945,
-   "to": null,
+   "to": 2008,
    "from_approx": true,
    "to_approx": false,
-   "how": "jine",
-   "note": "po válce krátce sídlo místního národního výboru, v 70.-80. letech sklad zdravotnického materiálu; wiki nespecifikuje formálního vlastníka v tomto období (patrně stát/obec)"
+   "how": "neznamo",
+   "note": "po válce krátce sídlo místního národního výboru, pak prázdný a chátrající, v 70.-80. letech sklad zdravotnického materiálu; způsob nabytí státem a rok přechodu zdroje neuvádějí, ke 2008 předala objekt obci tato organizace"
   },
   {
    "owner": "mesto",
@@ -137,17 +149,47 @@
    "from_approx": false,
    "to_approx": false,
    "how": "jine",
-   "note": "obec se stala roku 2004 správcem zámku a roku 2008 jeho vlastníkem; v letech 2020-2022 proběhla rekonstrukce z prostředků česko-polského operačního programu EU"
+   "note": "obec se roku 2004 stala správcem zámku, vlastnické právo vzniklo prohlášením z 14. 5. 2008 a objekt byl předán 9. 7. 2008; 2020-2022 rekonstrukce z prostředků česko-polského operačního programu EU"
   }
  ],
  "events": [
-  {"year": 1548, "text": "Fulštejnové zahajují stavbu renesančního zámku (dokončen 1565)"},
-  {"year": 1630, "text": "Maxmilián z Ditrichštejna prodává zámek Jiřímu z Hodic"},
-  {"year": 1709, "text": "na zámku od tohoto roku působí vlastní zámecká kapela"},
-  {"year": 1778, "text": "smrt Alberta Josefa hraběte z Hodic, bankrot, rozprodání zařízení a sbírek"},
-  {"year": 1942, "text": "poslední soukromý majitel Franz Andres přichází o zámek"},
-  {"year": 2008, "text": "obec Slezské Rudoltice se stává vlastníkem zámku"},
-  {"year": 2020, "text": "2020-2022 rekonstrukce zámecké budovy z prostředků EU"}
+  {
+   "year": 1548,
+   "text": "Fulštejnové zahajují stavbu renesančního zámku (dokončen 1565)"
+  },
+  {
+   "year": 1570,
+   "text": "rod Fulštejnů vymírá, zámek přebírají Sedličtí z Choltic"
+  },
+  {
+   "year": 1630,
+   "text": "Maxmilián z Ditrichštejna prodává zámek Jiřímu z Hodic"
+  },
+  {
+   "year": 1709,
+   "text": "na zámku od tohoto roku působí vlastní zámecká kapela"
+  },
+  {
+   "year": 1778,
+   "text": "smrt Alberta Josefa hraběte z Hodic, bankrot, rozprodání zařízení a sbírek"
+  },
+  {
+   "year": 1942,
+   "text": "Franz Andres kupuje statek, poslední soukromý majitel zámku"
+  },
+  {
+   "year": 2008,
+   "text": "obec Slezské Rudoltice se stává vlastníkem zámku"
+  },
+  {
+   "year": 2020,
+   "text": "2020-2022 rekonstrukce zámecké budovy z prostředků EU"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Slezské_Rudoltice_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Slezské_Rudoltice_(zámek)",
+  "https://www.slezskerudoltice.cz/obec/historie/",
+  "https://www.zamekslezskerudoltice.cz/kultura/",
+  "https://de.wikipedia.org/wiki/Slezské_Rudoltice"
+ ]
 }

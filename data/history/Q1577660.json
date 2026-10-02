@@ -4,9 +4,9 @@
  "founded": {
   "year": 1358,
   "approx": true,
-  "text": "První písemná zmínka pochází z roku 1358, zakladatelem byl moravský markrabě Jan Jindřich Lucemburský, bratr Karla IV."
+  "text": "Po roce 1358, kdy území směnil od louckých premonstrátů moravský markrabě Jan Jindřich Lucemburský, nechal zde vybudovat dolní hrad"
  },
- "summary": "Nový Hrádek u Lukova založil roku 1358 moravský markrabě Jan Jindřich Lucemburský; po jeho synu Joštovi hrad v 15. století držela řada šlechtických rodů (Přech z Kojetic, Osvald z Eytzingu, později Kunštátové, Krajířové z Krajku, Ditrichštejnové, Tetourové z Tetova, Čertorejští z Čertorej a Štrejnové ze Švarcenavy) a byl rozšířen o mladší část. V 17. století jej dlouhodobě drželi Althannové, majitelé nedalekého Vranova, roku 1645 jej za třicetileté války dobyla a pobořila švédská vojska, poté sloužil jen ke skladování. Na počátku 19. století jej upravili Mniszkové a Stadničtí, po roce 1948 se ocitl v hraničním pásmu a od roku 1992 je znovu přístupný veřejnosti jako majetek státu.",
+ "summary": "Nový Hrádek u Lukova vybudoval po roce 1358 moravský markrabě Jan Jindřich Lucemburský, jeho syn Jošt jej roku 1403 přenechal Přechovi z Kojetic. Od 1. pol. 15. století jej držel rakouský rod Eytzingů, kteří hrad zásadně přestavěli; v 16. století se na něm v krátkých intervalech vystřídala řada rodů, od roku 1617 jej s přestávkou držel Althannové spolu s Vranovem. Roku 1645 jej obsadili a částečně pobořili Švédové; v letech 1799-1925 patřil Mniszkům a Stadnickým a po pozemkové reformě 1920. let přešel na stát. Po roce 1948 ležel v zakázaném pásmu, znovu zpřístupněn 1992.",
  "owners": [
   {
    "owner": "lucemburkove",
@@ -14,10 +14,10 @@
    "person": "Jan Jindřich Lucemburský, po něm syn Jošt Lucemburský",
    "from": 1358,
    "to": 1403,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "zalozeni",
-   "note": "markrabata moravská; první písemná zmínka o hradu 1358, Jošt jej roku 1403 přenechal svému stoupenci"
+   "note": "markrabata moravská; hrad vystavěl po roce 1358, kdy území směnil s louckými premonstráty; Jošt jej roku 1403 přenechal svému stoupenci"
   },
   {
    "owner": "z-kojetic",
@@ -35,22 +35,33 @@
    "owner_wiki": null,
    "person": "Osvald z Eytzingu",
    "from": 1418,
-   "to": null,
+   "to": 1516,
    "from_approx": false,
    "to_approx": true,
-   "how": "jine",
-   "note": "rakouský šlechtic, vlastnil i sousední hrad Kaja na protějším břehu Dyje"
+   "how": "neznamo",
+   "note": "cs.wiki uvádí rok 1418, web hradu \"nejpozději od roku 1420\" a období Eitzingerů cca 1420-1516; rakouský rod, vlastnil i sousední hrad Kaju na protějším břehu Dyje; za nich zásadní přestavba hradu v 15. stol."
+  },
+  {
+   "owner": "z-backovic",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1516,
+   "to": null,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "pánové z Bačkovic; krátce držené v 16. stol., okolo roku 1525 nechali opevnit východní předhradí; pořadí a roky 16. stol. zdroje neuvádějí"
   },
   {
    "owner": "pani-z-kunstatu-a-podebrad",
    "owner_wiki": "Páni z Kunštátu a Poděbrad",
    "person": null,
-   "from": null,
+   "from": 1516,
    "to": null,
    "from_approx": true,
    "to_approx": true,
    "how": "neznamo",
-   "note": "jeden z majitelů, kteří se na hradě vystřídali v 16. století; cs.wiki neuvádí přesné pořadí ani data"
+   "note": "Kunštátové, spříznění s Bačkovickými, spoludrželi hrad v 16. stol.; pořadí a roky 16. stol. zdroje neuvádějí"
   },
   {
    "owner": "krajirove-z-krajku",
@@ -58,32 +69,10 @@
    "person": null,
    "from": null,
    "to": null,
-   "from_approx": true,
-   "to_approx": true,
-   "how": "neznamo",
-   "note": "jeden z majitelů v 16. století, přesné pořadí a data neuvedeny"
-  },
-  {
-   "owner": "ditrichstejnove",
-   "owner_wiki": "Ditrichštejnové",
-   "person": null,
-   "from": null,
-   "to": null,
-   "from_approx": true,
-   "to_approx": true,
-   "how": "neznamo",
-   "note": "jeden z majitelů v 16. století, přesné pořadí a data neuvedeny"
-  },
-  {
-   "owner": "tetourove-z-tetova",
-   "owner_wiki": "Tetourové z Tetova",
-   "person": null,
-   "from": null,
-   "to": null,
-   "from_approx": true,
-   "to_approx": true,
-   "how": "neznamo",
-   "note": "jeden z majitelů v 16. století, přesné pořadí a data neuvedeny"
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "po předchozích majitelích dominium zakoupili; pořadí a roky 16. stol. zdroje neuvádějí (pořadí podle webu hradu)"
   },
   {
    "owner": "z-certorej",
@@ -91,65 +80,120 @@
    "person": null,
    "from": null,
    "to": null,
-   "from_approx": true,
-   "to_approx": true,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Čertorejští z Čertorej; zakoupili dominium, pořadí a roky 16. stol. zdroje neuvádějí; článek o rodu na cs.wiki neexistuje"
+  },
+  {
+   "owner": "ditrichstejnove",
+   "owner_wiki": "Ditrichštejnové",
+   "person": null,
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Dietrichsteinové; zakoupili dominium, pořadí a roky 16. stol. zdroje neuvádějí"
+  },
+  {
+   "owner": "tetourove-z-tetova",
+   "owner_wiki": "Tetourové z Tetova",
+   "person": null,
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
    "how": "neznamo",
-   "note": "Čertorejští z Čertorej, jeden z majitelů v 16. století; článek o rodu na cs.wiki neexistuje"
+   "note": "uvádí jen cs.wiki mezi majiteli 16. stol.; web hradu je neuvádí; pořadí a roky 16. stol. zdroje neuvádějí"
+  },
+  {
+   "owner": "berkove-z-dube",
+   "owner_wiki": "Berkové z Dubé",
+   "person": null,
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "uvádí web hradu (cs.wiki neuvádí); pořadí a roky 16. stol. zdroje neuvádějí"
   },
   {
    "owner": "z-svarcenavy",
    "owner_wiki": null,
    "person": null,
    "from": null,
-   "to": null,
-   "from_approx": true,
-   "to_approx": true,
-   "how": "neznamo",
-   "note": "Štrejnové ze Švarcenavy, jeden z majitelů v 16. století; článek o rodu na cs.wiki neexistuje"
+   "to": 1617,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Štrejnové ze Švarcenavy (Streinové); poslední majitelé před Althanny; pořadí a roky 16. stol. zdroje neuvádějí; článek o rodu na cs.wiki neexistuje"
   },
   {
    "owner": "althannove",
    "owner_wiki": "Althannové",
+   "person": "majitelé Vranova",
+   "from": 1617,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "poprvé získali hrad a spojili jej s vranovským panstvím; konec první držby web hradu neuvádí"
+  },
+  {
+   "owner": "z-scherfenbergu",
+   "owner_wiki": null,
    "person": null,
    "from": null,
-   "to": 1800,
-   "from_approx": true,
-   "to_approx": true,
+   "to": 1680,
+   "from_approx": false,
+   "to_approx": false,
    "how": "neznamo",
-   "note": "drželi hrad dlouhodobě v 17. století, byli i majiteli nedalekého Vranova; roku 1645 hrad dobyla a pobořila švédská vojska generála Torstensona"
+   "note": "web hradu: za Scherfenbergů dolehla na hrad třicetiletá válka, 1645 obsazen a částečně pobořen Švédy; rok nástupu neuveden"
+  },
+  {
+   "owner": "althannove",
+   "owner_wiki": "Althannové",
+   "person": "majitelé Vranova",
+   "from": 1680,
+   "to": 1799,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "znovu získali vranovsko-novohrádecké panství a drželi je do konce 18. stol.; hrad opuštěn, využíván jen ke skladování"
   },
   {
    "owner": "mniszkove",
    "owner_wiki": null,
-   "person": null,
-   "from": 1800,
-   "to": 1948,
-   "from_approx": true,
-   "to_approx": true,
+   "person": "Stanislav Mniszek",
+   "from": 1799,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
    "how": "neznamo",
-   "note": "spoluvlastníci se Stadnickými na počátku 19. století upravili část hradu k obývání; přesný rok konce držby cs.wiki neuvádí"
+   "note": "polský hrabě; adaptoval budovu na hájovnu (zřejmě 1800), horní hrad upravil pro výletní a lovecké pobyty"
   },
   {
    "owner": "stadnicti",
    "owner_wiki": null,
-   "person": null,
-   "from": 1800,
-   "to": 1948,
-   "from_approx": true,
+   "person": "Luitgarda Stadnická, později Adam Zbyněk Leon Stadnický",
+   "from": null,
+   "to": 1925,
+   "from_approx": false,
    "to_approx": true,
-   "how": "neznamo",
-   "note": "spoluvlastníci s Mniszky na počátku 19. století upravili část hradu k obývání; přesný rok konce držby cs.wiki neuvádí"
+   "how": "dedictvi",
+   "note": "dcera a dědička Stanislava Mniszka; roku 1925 (\"v dvacátých letech\") zkonfiskováno při první pozemkové reformě, pronajato Klubu českých turistů"
   },
   {
    "owner": "stat",
    "owner_wiki": null,
    "person": null,
-   "from": 1948,
+   "from": 1925,
    "to": null,
-   "from_approx": false,
+   "from_approx": true,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "po roce 1948 hrad ležel v přísně střeženém hraničním pásmu, znovu zpřístupněn 1992; dnes spravuje Národní památkový ústav"
+   "note": "konfiskace při první pozemkové reformě ve 20. letech 20. stol. (rok 1925 podle nadpisu webu hradu); pronajato KČT, po roce 1948 hraniční pásmo, od 1992 přístupný; dnes spravuje NPÚ"
   }
  ],
  "events": [
@@ -166,16 +210,24 @@
    "text": "hrad získává rakouský šlechtic Osvald z Eytzingu"
   },
   {
-   "year": 1450,
-   "text": "hrad v 15. století rozšířen o tzv. mladší hrad, na počátku 16. století dosahuje dnešní rozlohy"
+   "year": 1617,
+   "text": "hrad poprvé získávají Althannové, majitelé Vranova"
   },
   {
    "year": 1645,
    "text": "za třicetileté války hrad dobyla a pobořila švédská vojska generála Torstensona, poté sloužil jen ke skladování"
   },
   {
-   "year": 1800,
-   "text": "noví vlastníci Mniszkové a Stadničtí upravují část místností k obývání"
+   "year": 1680,
+   "text": "Althannové znovu získávají vranovsko-novohrádecké panství"
+  },
+  {
+   "year": 1799,
+   "text": "hrad získává polský hrabě Stanislav Mniszek"
+  },
+  {
+   "year": 1925,
+   "text": "zřícenina zkonfiskována při pozemkové reformě a pronajata Klubu českých turistů"
   },
   {
    "year": 1948,
@@ -187,6 +239,7 @@
   }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Nový_Hrádek_(Lukov)"
+  "https://cs.wikipedia.org/wiki/Nový_Hrádek_(Lukov)",
+  "https://hrad-novyhradek.cz/cs/o-hradu/historie"
  ]
 }

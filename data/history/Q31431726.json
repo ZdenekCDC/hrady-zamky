@@ -1,22 +1,110 @@
 {
  "id": "Q31431726",
  "name": "Bolatice",
- "founded": {"year": 1729, "approx": false, "text": "Dnešní podoba zámku vznikla přestavbou v letech 1724-1748 (dokončena 1729); ves i hospodářský dvůr náležely od vrcholného středověku, s přestávkami, cisterciáckému velehradskému klášteru."},
- "summary": "Zámek v Bolaticích nechal ve 20. letech 18. století (dokončeno 1729) přestavět velehradský cisterciácký klášter, jemuž ves náležela od vrcholného středověku. Po zrušení kláštera roku 1784 v rámci josefínských reforem připadly Bolatice Pruskému království, které je vzápětí prodalo Hennebergům, a počátkem 19. století přešel zámek do vlastnictví Lichnovských z Voštic. Ti jej roku 1926 prodali Václavu Bochýnkovi, po roce 1945 se stal majetkem místního národního výboru a dnes po rekonstrukci slouží jako sídlo obecního úřadu.",
+ "founded": {
+  "year": 1729,
+  "approx": false,
+  "text": "Dnešní podoba zámku vznikla přestavbou v letech 1724-1748 (dokončena 1729); ves i hospodářský dvůr náležely od vrcholného středověku, s přestávkami, cisterciáckému velehradskému klášteru."
+ },
+ "summary": "Zámek v Bolaticích nechal ve 20. letech 18. století (dokončeno 1729) přestavět velehradský cisterciácký klášter, jemuž ves náležela od vrcholného středověku. Po zrušení kláštera roku 1784 v rámci josefínských reforem připadly Bolatice Pruskému království, které je 9. 11. 1784 prodalo bratřím Hennům z Henneberku, a roku 1822 jej koupil kníže Eduard Lichnovský a připojil k panství v Chuchelné. Lichnovští jej roku 1926 prodali Václavu Bochýnkovi, po roce 1945 se stal majetkem místního národního výboru a dnes po rekonstrukci slouží jako sídlo obecního úřadu.",
  "owners": [
-  {"owner": "cirkev", "owner_wiki": null, "person": "Velehradský klášter (cisterciáci)", "from": null, "to": 1784, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "ves i dvůr náležely klášteru od vrcholného středověku s přestávkami; klášter nechal 1724-1729 postavit dnešní zámek"},
-  {"owner": "koruna", "owner_wiki": null, "person": "Pruské království", "from": 1784, "to": 1784, "from_approx": false, "to_approx": true, "how": "konfiskace", "note": "po zrušení velehradského kláštera v rámci josefínských reforem připadly Bolatice Pruskému království, které je vzápětí prodalo"},
-  {"owner": "hennegove", "owner_wiki": null, "person": null, "from": 1784, "to": null, "from_approx": false, "to_approx": true, "how": "koupe", "note": "koupili obec od Pruského království"},
-  {"owner": "lichnovsti-z-vostic", "owner_wiki": "Lichnovští z Voštic", "person": null, "from": null, "to": 1926, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "počátkem 19. století přešel zámek se statkem do jejich vlastnictví, způsob nabytí wiki neuvádí"},
-  {"owner": "soukromnik", "owner_wiki": null, "person": "Václav Bochýnek", "from": 1926, "to": 1945, "from_approx": false, "to_approx": true, "how": "koupe", "note": "roku 1927 nechal zámek upravit, při úpravě zničena řada architektonických prvků včetně nástěnných maleb"},
-  {"owner": "mesto", "owner_wiki": null, "person": "místní národní výbor / obec Bolatice", "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "po roce 1945 zámek opraven, dnes po rekonstrukci sídlo obecního úřadu"}
+  {
+   "owner": "cirkev",
+   "owner_wiki": null,
+   "person": "Velehradský klášter (cisterciáci)",
+   "from": null,
+   "to": 1784,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "ves i dvůr náležely klášteru od vrcholného středověku s přestávkami (v 15. stol. držel Bolatice Jindřich z Děhylova, 1544 Drahotušové, po Bílé hoře je klášter získal zpět); klášter nechal 1724-1729 postavit dnešní zámek"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Pruské království",
+   "from": 1784,
+   "to": 1784,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "po zrušení velehradského kláštera (edikt Josefa II. z 27. 9. 1784) připadl majetek na pruském území Pruské královské komoře, která jej 9. 11. 1784 prodala"
+  },
+  {
+   "owner": "hennegove",
+   "owner_wiki": null,
+   "person": "bratři Eugen a Alois Henn z Henneberku",
+   "from": 1784,
+   "to": 1822,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "kupní smlouva 9. 11. 1784, cena 40 000 tolarů podle kroniky obce (oficiální web obce uvádí 41 000); 1786 založili osadu Heneberky (dnes Borová); Alois zemřel 1823, krátce předtím statek prodal"
+  },
+  {
+   "owner": "lichnovsti-z-vostic",
+   "owner_wiki": "Lichnovští z Voštic",
+   "person": "kníže Eduard Lichnovský",
+   "from": 1822,
+   "to": 1926,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "statek koupen 19. 12. 1822 za 83 054 tolarů a připojen k fideikomisnímu panství v Chuchelné (kronika obce, web obce); cs.wiki uvádí jen 'počátkem 19. století'; 1926 zámek prodali Václavu Bochýnkovi"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Václav Bochýnek",
+   "from": 1926,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "1927 nechal zámek upravit, při úpravě zničena řada architektonických prvků včetně nástěnných maleb; rok konce jeho držby zdroje neuvádějí, po roce 1945 zámek připadl MNV"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "místní národní výbor / obec Bolatice",
+   "from": 1945,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "po roce 1945 se zámek stal majetkem místního národního výboru a byl opraven, dnes po celkové rekonstrukci sídlo obecního úřadu; způsob přechodu zdroje neuvádějí (konfiskace je odhad podle kontextu)"
+  }
  ],
  "events": [
-  {"year": 1724, "text": "zahájena přestavba zámku, dokončena 1729"},
-  {"year": 1784, "text": "zrušení velehradského kláštera v rámci josefínských reforem, Bolatice připadly Pruskému království a byly prodány Hennebergům"},
-  {"year": 1926, "text": "Lichnovští z Voštic prodávají zámek Václavu Bochýnkovi"},
-  {"year": 1927, "text": "úprava zámku, při níž byla zničena řada cenných architektonických prvků"},
-  {"year": 1945, "text": "zámek se stává majetkem místního národního výboru a je opraven"}
+  {
+   "year": 1724,
+   "text": "zahájena přestavba zámku, dokončena 1729"
+  },
+  {
+   "year": 1784,
+   "text": "zrušení velehradského kláštera, Bolatice připadly pruské komoře a 9. 11. 1784 byly prodány bratřím Hennům z Henneberku"
+  },
+  {
+   "year": 1822,
+   "text": "kníže Eduard Lichnovský koupil Bolatice od Aloise Henna z Henneberku a připojil je k panství v Chuchelné"
+  },
+  {
+   "year": 1926,
+   "text": "Lichnovští z Voštic prodávají zámek Václavu Bochýnkovi"
+  },
+  {
+   "year": 1927,
+   "text": "úprava zámku, při níž byla zničena řada cenných architektonických prvků"
+  },
+  {
+   "year": 1945,
+   "text": "zámek se stává majetkem místního národního výboru a je opraven"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Bolatice_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Bolatice_(zámek)",
+  "https://www.bolatice.cz/obec-bolatice/informace-o-obci/historie-obce-bolatice/",
+  "https://www.bolatice.cz/modules/file_storage/download.php?file=c5b64fd1%7C105",
+  "https://opavsky.denik.cz/zpravy-region/z-historie-barokni-zamek-nechala-postavit-cirkev/"
+ ]
 }

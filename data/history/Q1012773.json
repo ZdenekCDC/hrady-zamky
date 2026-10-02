@@ -1,46 +1,468 @@
 {
  "id": "Q1012773",
  "name": "Kámen",
- "founded": {"year": 1300, "approx": true, "text": "Gotický hrad z počátku 14. století, první písemná zmínka o Kameni pochází z roku 1316"},
- "summary": "Gotický hrad Kámen u Pacova vznikl na počátku 14. století a do roku 1437 jej většinou drželi vladykové z rodu Tluksů z Vokova. Po částém střídání dalších vladyckých držitelů jej roku 1524 získali Malovcové z Malovic, kteří v 17. století hrad přestavěli na barokní zámek. Od poloviny 18. do poloviny 19. století se majitelé rychle střídali, romantickou novogotickou podobu dostal zámek za Václava Enise z Atteru a Antonína Fleissiga; roku 1948 připadl státu a dnes je pobočkou Muzea Vysočiny Pelhřimov ve vlastnictví Kraje Vysočina.",
+ "founded": {
+  "year": 1300,
+  "approx": true,
+  "text": "Gotický hrad z počátku 14. století, první písemná zmínka o Kameni pochází z roku 1316"
+ },
+ "summary": "Gotický hrad Kámen u Pacova vznikl na počátku 14. století (podle hradkamen.cz již v polovině 13. století) a do roku 1437 jej většinou drželi vladykové z rodu Tluksů z Vokova. Po častém střídání dalších vladyckých držitelů jej roku 1523 získali Malovcové z Malovic, kteří v 17. století hrad přestavěli na barokní zámek. Od roku 1747 se majitelé rychle střídali, romantickou novogotickou podobu dostal zámek za Václava Enise z Atteru a dokončil ji Antonín Fleissig (majitel 1916-1948); po roce 1948 připadl státu a dnes je pobočkou Muzea Vysočiny Pelhřimov ve vlastnictví Kraje Vysočina.",
  "owners": [
-  {"owner": "z-kamene", "owner_wiki": null, "person": "Nemír z Kamene", "from": 1316, "to": 1318, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "první písemně doložený vlastník, ve sporu se Zdíkem z Kamene (zakladatelem rodu Tluksů) o škody ve vsích Dobrá Voda a Věžná"},
-  {"owner": "z-vokova", "owner_wiki": null, "person": "Zdík z Kamene (Tluksa z Vokova)", "from": 1318, "to": 1356, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "vladycký rod Tluksů z Vokova; Bušek Tluksa přijal hrad 1327 v manství od Jana Lucemburského, později jej drželi Přibík Tluksa z Božejova a bratři"},
-  {"owner": "z-ciglheimu", "owner_wiki": null, "person": "Jindřich z Ciglheimu", "from": 1356, "to": 1366, "from_approx": false, "to_approx": true, "how": "koupe", "note": "koupil léno od Tluksů, 1356 mu je Karel IV. jako lenní pán prodal, 1366 povolil založit zlaté doly; přestavěl hradní palác, poté prodal jihočeské statky"},
-  {"owner": "z-vokova", "owner_wiki": null, "person": "Jan Tluksa (a rod Tluksů z Vokova)", "from": 1390, "to": 1437, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "rod na konci 14. stol. hrad opět získal; 1408 doložen Jan Tluksa, po jeho smrti nezletilý syn Hynek pod poručnictvím, 1437 Anna s Hynkem hrad prodali"},
-  {"owner": "ze-zirovnice", "owner_wiki": null, "person": "Purkart ze Žirovnice", "from": 1437, "to": 1456, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil za 600 kop grošů; roku 1450 zde uzavřeli mírovou dohodu Jiří z Poděbrad a Jindřich z Rožmberka"},
-  {"owner": "trckove-z-lipy", "owner_wiki": "Trčkové z Lípy", "person": "Burián, Zdeněk a Mikuláš Trčkové z Lípy", "from": 1456, "to": 1460, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupili za 700 kop grošů"},
-  {"owner": "soukromnik", "person": "Jan Sádlo ze Smilkova", "from": 1460, "to": 1465, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil za 700 kop grošů; 1464 sepsal poslední vůli, po jeho smrti 1465 se dědicové (švagrové a strýcové) rozdělili o majetek"},
-  {"owner": "soukromnik", "person": "Petr Břekovec z Ostromeče a z Kozího hřbetu", "from": 1465, "to": 1468, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "získal Kámen při dělení dědictví po Janu Sádlovi; jeho syn Bohuslav hrad 1468 prodal"},
-  {"owner": "soukromnik", "person": "Oldřich Fifek z Vydří", "from": 1468, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "údajně padělal peníze, vina neprokázána; syn Albert z Vydří hrad prodal Janu z Vojslavic"},
-  {"owner": "z-vojslavic", "owner_wiki": null, "person": "Jan, Markvart a Petr z Vojslavic", "from": null, "to": 1513, "from_approx": true, "to_approx": true, "how": "koupe", "note": "Markvart dosáhl roku 1504 u krále Vladislava propuštění hradu z manství; Petr z Vojslavic před rokem 1513 prodal polovinu hradu Janu Zručskému z Chřenovic, druhá polovina připadla sestře Kateřině"},
-  {"owner": "soukromnik", "person": "Jan Zručský z Chřenovic", "from": 1513, "to": 1524, "from_approx": true, "to_approx": false, "how": "koupe", "note": "koupil polovinu hradu za tisíc kop grošů; roku 1524 tuto polovinu koupil Petr Malovec z Malovic"},
-  {"owner": "malovcove-z-malovic", "owner_wiki": "Malovcové z Malovic", "person": "Petr Malovec z Malovic (s manželkou Kateřinou z Vojslavic)", "from": 1524, "to": 1557, "from_approx": false, "to_approx": false, "how": "koupe", "note": "Kateřina z Vojslavic zdědila druhou polovinu hradu, Petr Malovec ji roku 1524 po sporu s jejím prvním mužem Habartem z Baště získal a koupí od Zručského scelil celé panství"},
-  {"owner": "malovcove-z-malovic", "owner_wiki": "Malovcové z Malovic", "person": "Malovec z Malovic (synové Petr starší a Václav)", "from": 1557, "to": 1640, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "1557 rozdělení panství mezi bratry Jiřího, Malovce a Václava, Kámen připadl Malovci; po jeho smrti spravovali synové Petr starší a Václav, od 1615 sám Václav"},
-  {"owner": "malovcove-z-malovic", "owner_wiki": "Malovcové z Malovic", "person": "Jan Kryštof Malovec z Malovic", "from": 1640, "to": 1690, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "přestavěl zastaralý hrad na barokní zámek; po jeho smrti (uváděno 1677) spravovala nezletilé děti poručnice Marie Veronika Švihovská, majetek rozdělen až 1690"},
-  {"owner": "malovcove-z-malovic", "owner_wiki": "Malovcové z Malovic", "person": "Jan Kryštof Malovec z Malovic (mladší)", "from": 1690, "to": 1747, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "po dělení 1690 získal Kámen (odhad 25 600 zlatých), prodal Františku Karlu Kreslovi z Kvaltenberka; zadlužený Kresl na naléhání věřitelů panství roku 1747 prodal"},
-  {"owner": "kreslove-z-kvaltenberka", "owner_wiki": "Kreslové z Kvaltenberka", "person": "František Karel Kresl z Kvaltenberka", "from": 1690, "to": 1747, "from_approx": true, "to_approx": false, "how": "koupe", "note": "koupil od Jana Kryštofa Malovce mladšího, zadlužené panství pak prodal Janu Františku Baulerovi z Hohenburka"},
-  {"owner": "soukromnik", "person": "Jan František Bauler z Hohenburka", "from": 1747, "to": 1756, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil za 36 000 rýnských zlatých"},
-  {"owner": "soukromnik", "person": "František Karel Streit", "from": 1756, "to": 1774, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil za 24 000 zlatých, držel s manželkou"},
-  {"owner": "soukromnik", "person": "Jan Nepomuk Gynter ze Šterneka", "from": 1774, "to": 1793, "from_approx": false, "to_approx": false, "how": "koupe", "note": "zaplatil 48 000 rýnských zlatých"},
-  {"owner": "soukromnik", "person": "František de Paula", "from": 1793, "to": 1799, "from_approx": false, "to_approx": false, "how": "koupe"},
-  {"owner": "soukromnik", "person": "Václav Pitschmann", "from": 1799, "to": 1806, "from_approx": false, "to_approx": false, "how": "koupe"},
-  {"owner": "soukromnik", "person": "Štěpán von Hackhl Edler von Rosenstein zu Peschwitz", "from": 1806, "to": 1826, "from_approx": false, "to_approx": false, "how": "koupe"},
-  {"owner": "soukromnik", "person": "Alois von Hackhl", "from": 1826, "to": 1860, "from_approx": false, "to_approx": false, "how": "dedictvi"},
-  {"owner": "soukromnik", "person": "Václav Enis z Atteru", "from": 1860, "to": 1872, "from_approx": false, "to_approx": false, "how": "koupe", "note": "zahájil novogotickou přestavbu, kterou dokončil Antonín Fleissig"},
-  {"owner": "soukromnik", "person": "Antonín Fleissig", "from": 1916, "to": 1948, "from_approx": false, "to_approx": false, "how": "koupe", "note": "zdroj neuvádí majitele mezi lety 1872 a 1916, kdy hrad získal Fleissig a dokončil novogotickou přestavbu"},
-  {"owner": "stat", "person": null, "from": 1948, "to": 2001, "from_approx": false, "to_approx": true, "how": "konfiskace", "note": "1948 zestátněno; od 1951 užíváno Československou obcí sokolskou, od 1953 místní osvětovou besedou, od 1964 okresním národním výborem v Pelhřimově, od 1974 muzeem; přesný rok převodu na kraj neuveden, odhad podle vzniku krajů 2000/2001"},
-  {"owner": "mesto", "person": null, "from": 2001, "to": null, "from_approx": true, "to_approx": false, "how": "jine", "note": "dnes pobočka Muzea Vysočiny Pelhřimov, zřizovatelem je Kraj Vysočina"}
+  {
+   "owner": "z-kamene",
+   "owner_wiki": null,
+   "person": "Nemír z Kamene",
+   "from": 1316,
+   "to": 1318,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "první písemně doložený vlastník, ve sporu se Zdíkem z Kamene (zakladatelem rodu Tluksů) o škody ve vsích Dobrá Voda a Věžná"
+  },
+  {
+   "owner": "z-vokova",
+   "owner_wiki": null,
+   "person": "Zdík z Kamene (Tluksa z Vokova)",
+   "from": 1318,
+   "to": 1356,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "vladycký rod Tluksů z Vokova; Bušek Tluksa přijal hrad 1327 v manství od Jana Lucemburského, později jej drželi Přibík Tluksa z Božejova a bratři"
+  },
+  {
+   "owner": "z-ciglheimu",
+   "owner_wiki": null,
+   "person": "Jindřich z Ciglheimu",
+   "from": 1356,
+   "to": 1392,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "koupil léno od Tluksů, 1356 mu je Karel IV. prodal, 1366 povolil založit zlaté doly; přestavěl hradní palác a poté prodal jihočeské statky; hradkamen.cz uvádí návrat Tluksů 1392"
+  },
+  {
+   "owner": "z-vokova",
+   "owner_wiki": null,
+   "person": "Jan Tluksa (a rod Tluksů z Vokova)",
+   "from": 1392,
+   "to": 1437,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "rod na konci 14. stol. hrad opět získal; 1408 doložen Jan Tluksa, po jeho smrti nezletilý syn Hynek pod poručnictvím, 1437 Anna s Hynkem hrad prodali"
+  },
+  {
+   "owner": "ze-zirovnice",
+   "owner_wiki": null,
+   "person": "Purkart ze Žirovnice",
+   "from": 1437,
+   "to": 1456,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil za 600 kop grošů; roku 1450 zde uzavřeli mírovou dohodu Jiří z Poděbrad a Jindřich z Rožmberka"
+  },
+  {
+   "owner": "trckove-z-lipy",
+   "owner_wiki": "Trčkové z Lípy",
+   "person": "Burián, Zdeněk a Mikuláš Trčkové z Lípy",
+   "from": 1456,
+   "to": 1460,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupili za 700 kop grošů"
+  },
+  {
+   "owner": "soukromnik",
+   "person": "Jan Sádlo ze Smilkova",
+   "from": 1460,
+   "to": 1465,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil za 700 kop grošů; 1464 sepsal poslední vůli, po jeho smrti 1465 se dědicové (švagrové a strýcové) rozdělili o majetek"
+  },
+  {
+   "owner": "soukromnik",
+   "person": "Petr Břekovec z Ostromeče a z Kozího hřbetu",
+   "from": 1465,
+   "to": 1468,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "získal Kámen při dělení dědictví po Janu Sádlovi; jeho syn Bohuslav hrad 1468 prodal"
+  },
+  {
+   "owner": "soukromnik",
+   "person": "Oldřich Fifek z Vydří",
+   "from": 1468,
+   "to": 1476,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "údajně padělal peníze, vina neprokázána; Kámen koupil 1468 od Petra Břekovce (hradkamen.cz uvádí syna Alberta z Vydří od 1476)"
+  },
+  {
+   "owner": "soukromnik",
+   "person": "Albert z Vydří",
+   "from": 1476,
+   "to": 1479,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "syn Oldřicha Fifky, roku 1479 prodal Janu z Vojslavic (hradkamen.cz)"
+  },
+  {
+   "owner": "z-vojslavic",
+   "owner_wiki": null,
+   "person": "Jan, Markvart (od 1499) a Petr z Vojslavic",
+   "from": 1479,
+   "to": 1513,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "Jan z Vojslavic koupil 1479 od Alberta z Vydří; roku 1499 zdědil nejstarší syn Markvart, který 1504 dosáhl propuštění hradu z manství; Petr z Vojslavic hrad rozdělil, polovinu před 1513 prodal Janu Zručskému z Chřenovic (podle hradkamen.cz 1505 dělení na poloviny)"
+  },
+  {
+   "owner": "z-vojslavic",
+   "owner_wiki": null,
+   "person": "Kateřina z Vojslavic",
+   "from": 1505,
+   "to": 1523,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "druhá polovina hradu připadla Petrově sestře Kateřině (provdané za Habarta z Baště, poté za Petra Malovce z Malovic), která roku 1523 zapsala majetek Petru Malovci (hradkamen.cz); od roku 1505 podle přehledu majitelů na hradkamen.cz"
+  },
+  {
+   "owner": "soukromnik",
+   "person": "Jan Zručský z Chřenovic",
+   "from": 1513,
+   "to": 1523,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil polovinu hradu s půlkou městečka za tisíc kop grošů; podle hradkamen.cz držel polovinu 1513-1523, cs.wiki uvádí koupi druhé poloviny Malovcem 1524"
+  },
+  {
+   "owner": "malovcove-z-malovic",
+   "owner_wiki": "Malovcové z Malovic",
+   "person": "Petr Malovec z Malovic (s manželkou Kateřinou z Vojslavic)",
+   "from": 1523,
+   "to": 1557,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "podle hradkamen.cz 1523 (cs.wiki 1524 po sporu s Habartem z Baště) získal druhou polovinu po Kateřině z Vojslavic a koupí od Zručského scelil celé panství"
+  },
+  {
+   "owner": "malovcove-z-malovic",
+   "owner_wiki": "Malovcové z Malovic",
+   "person": "Malovec z Malovic",
+   "from": 1557,
+   "to": 1612,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "1557 rozdělení panství mezi bratry Jiřího, Malovce a Václava, Kámen připadl Malovci, který zemřel na počátku 17. století"
+  },
+  {
+   "owner": "malovcove-z-malovic",
+   "owner_wiki": "Malovcové z Malovic",
+   "person": "Petr starší Malovec z Malovic",
+   "from": 1612,
+   "to": 1627,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "synové Petr starší a Vilém se roku 1612 dohodli o vyplacení matky Alény z Paběnic; Petr panství spravoval ještě 1615; konec držby podle přehledu majitelů na hradkamen.cz"
+  },
+  {
+   "owner": "malovcove-z-malovic",
+   "owner_wiki": "Malovcové z Malovic",
+   "person": "Václav František Malovec z Malovic",
+   "from": 1627,
+   "to": 1641,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "hrad připadl mladšímu synu Václavovi, ženatému s Annou Vratislavovou z Mitrovic; zemřel nejspíše 1640"
+  },
+  {
+   "owner": "malovcove-z-malovic",
+   "owner_wiki": "Malovcové z Malovic",
+   "person": "Jan Kryštof Malovec z Malovic (starší)",
+   "from": 1641,
+   "to": 1677,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "starší syn Václava; přestavěl zastaralý hrad na barokní zámek (1673 věž), erby manželek Marie Veroniky Švihovské a Anny Barbory z Kokořova nad vchodem; 1677 uváděn rok jeho smrti, poručnicí dětí Marie Veronika Švihovská"
+  },
+  {
+   "owner": "malovcove-z-malovic",
+   "owner_wiki": "Malovcové z Malovic",
+   "person": "nezletilí synové Malovci z Malovic pod poručnictvím Marie Veroniky Švihovské",
+   "from": 1677,
+   "to": 1690,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "majetek rozdělen mezi čtyři syny a dceru až roku 1690"
+  },
+  {
+   "owner": "malovcove-z-malovic",
+   "owner_wiki": "Malovcové z Malovic",
+   "person": "Jan Kryštof Malovec z Malovic (mladší)",
+   "from": 1690,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "po dělení 1690 získal Kámen (odhad 25 600 zlatých); prodal jej Františku Karlu Kreslovi z Kvaltenberka, hradkamen.cz uvádí prodej na počátku 18. století, přesný rok zdroje neuvádí"
+  },
+  {
+   "owner": "kreslove-z-kvaltenberka",
+   "owner_wiki": "Kreslové z Kvaltenberka",
+   "person": "František Karel Kresl z Kvaltenberka",
+   "from": null,
+   "to": 1747,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil od Jana Kryštofa Malovce mladšího (rok zdroje neuvádí); zadlužený roku 1747 na naléhání věřitelů panství prodal Janu Františku Baulerovi z Hohenburka"
+  },
+  {
+   "owner": "soukromnik",
+   "person": "Jan František Bauler z Hohenburka",
+   "from": 1747,
+   "to": 1756,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil za 36 000 rýnských zlatých"
+  },
+  {
+   "owner": "soukromnik",
+   "person": "František Karel Streit",
+   "from": 1756,
+   "to": 1774,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil za 24 000 zlatých, držel s manželkou"
+  },
+  {
+   "owner": "soukromnik",
+   "person": "Jan Nepomuk Gynter ze Šterneka",
+   "from": 1774,
+   "to": 1793,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "zaplatil 48 000 rýnských zlatých"
+  },
+  {
+   "owner": "soukromnik",
+   "person": "František de Paula von Löwengrimm",
+   "from": 1793,
+   "to": 1799,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "rok nabytí podle cs.wiki 1793; křestní jméno a příjmení podle přehledu majitelů na hradkamen.cz"
+  },
+  {
+   "owner": "soukromnik",
+   "person": "Václav Pitschmann",
+   "from": 1799,
+   "to": 1806,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe"
+  },
+  {
+   "owner": "soukromnik",
+   "person": "Štěpán von Hackhl Edler von Rosenstein zu Peschwitz",
+   "from": 1806,
+   "to": 1826,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe"
+  },
+  {
+   "owner": "soukromnik",
+   "person": "Alois von Hackhl",
+   "from": 1826,
+   "to": 1860,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi"
+  },
+  {
+   "owner": "soukromnik",
+   "person": "Václav Enis z Atteru",
+   "from": 1860,
+   "to": 1870,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "zahájil novogotickou přestavbu (cs.wiki uvádí držbu 1860-1872, hradkamen.cz 1860-1870 a po něm Dombrowského od 1870)"
+  },
+  {
+   "owner": "soukromnik",
+   "person": "Rudolf (Raoul) rytíř Dombrowski",
+   "from": 1870,
+   "to": 1876,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "podle přehledu majitelů na webu hradkamen.cz"
+  },
+  {
+   "owner": "soukromnik",
+   "person": "Esriel a Ida Pordesovi",
+   "from": 1876,
+   "to": 1879,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "podle přehledu majitelů na webu hradkamen.cz"
+  },
+  {
+   "owner": "soukromnik",
+   "person": "Johann Breuer",
+   "from": 1879,
+   "to": 1895,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "podle přehledu majitelů na webu hradkamen.cz"
+  },
+  {
+   "owner": "soukromnik",
+   "person": "Marie Breuerová",
+   "from": 1895,
+   "to": 1898,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "podle přehledu majitelů na webu hradkamen.cz; způsob nabytí nejistý"
+  },
+  {
+   "owner": "soukromnik",
+   "person": "Marie Breuerová-Ježková a Josef Ježek, rytíř z Pravomíru",
+   "from": 1898,
+   "to": 1906,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "podle přehledu majitelů na webu hradkamen.cz"
+  },
+  {
+   "owner": "soukromnik",
+   "person": "Karel Kulík",
+   "from": 1906,
+   "to": 1907,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "držel od 11. 11. 1906 do 2. 1. 1907 (hradkamen.cz)"
+  },
+  {
+   "owner": "soukromnik",
+   "person": "Alexandr Pick",
+   "from": 1907,
+   "to": 1910,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "podle přehledu majitelů na webu hradkamen.cz"
+  },
+  {
+   "owner": "soukromnik",
+   "person": "Jaroslav Bezdíček",
+   "from": 1910,
+   "to": 1916,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "podle přehledu majitelů na webu hradkamen.cz"
+  },
+  {
+   "owner": "soukromnik",
+   "person": "Antonín Fleissig",
+   "from": 1916,
+   "to": 1948,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil 1916 a dokončil novogotickou přestavbu; poslední soukromý majitel, po roce 1948 mu byl hrad konfiskován"
+  },
+  {
+   "owner": "stat",
+   "person": null,
+   "from": 1948,
+   "to": 2003,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "konfiskace",
+   "note": "1948 konfiskováno, za státní kulturní majetek prohlášen 13. 1. 1953; od 1951 užíváno Československou obcí sokolskou, od 1953 osvětovou besedou, 1964-2002 zřizován ONV a poté Okresním úřadem v Pelhřimově, od 1974 muzeum jednostopých vozidel; rok převodu vlastnictví na kraj zdroje neuvádějí výslovně, hrad je od 1. 1. 2003 příspěvkovou organizací Kraje Vysočina"
+  },
+  {
+   "owner": "mesto",
+   "person": "Kraj Vysočina",
+   "from": 2003,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "jine",
+   "note": "hrad byl od 1. 1. 2003 samostatnou příspěvkovou organizací Kraje Vysočina, od 2011 pobočka Muzea Vysočiny Pelhřimov; přesný rok převodu vlastnictví zdroje neuvádějí"
+  }
  ],
  "events": [
-  {"year": 1316, "text": "první písemná zmínka o Kameni"},
-  {"year": 1356, "text": "Jindřich z Ciglheimu přestavuje hradní palác, 1366 povolení k založení zlatých dolů"},
-  {"year": 1450, "text": "na hradě uzavřeli mírovou dohodu Jiří z Poděbrad a Jindřich z Rožmberka"},
-  {"year": 1524, "text": "Petr Malovec z Malovic scelil celé panství pro rod Malovců"},
-  {"year": 1640, "text": "Jan Kryštof Malovec z Malovic nechal sešlý hrad přestavět na barokní zámek"},
-  {"year": 1860, "text": "1860-1872 novogotická přestavba za Václava Enise z Atteru, dokončena Antonínem Fleissigem po 1916"},
-  {"year": 1948, "text": "zámek zestátněn"},
-  {"year": 1974, "text": "v zámku zřízeno muzeum jednostopých vozidel"}
+  {
+   "year": 1316,
+   "text": "první písemná zmínka o Kameni"
+  },
+  {
+   "year": 1356,
+   "text": "Jindřich z Ciglheimu přestavuje hradní palác, 1366 povolení k založení zlatých dolů"
+  },
+  {
+   "year": 1450,
+   "text": "na hradě uzavřeli mírovou dohodu Jiří z Poděbrad a Jindřich z Rožmberka"
+  },
+  {
+   "year": 1523,
+   "text": "Petr Malovec z Malovic scelil celé panství pro rod Malovců (cs.wiki uvádí 1524)"
+  },
+  {
+   "year": 1640,
+   "text": "Jan Kryštof Malovec z Malovic nechal sešlý hrad přestavět na barokní zámek"
+  },
+  {
+   "year": 1860,
+   "text": "1860-1872 novogotická přestavba za Václava Enise z Atteru, dokončena Antonínem Fleissigem po 1916"
+  },
+  {
+   "year": 1948,
+   "text": "zámek zestátněn"
+  },
+  {
+   "year": 1974,
+   "text": "v zámku zřízeno muzeum jednostopých vozidel"
+  },
+  {
+   "year": 2003,
+   "text": "hrad se stal příspěvkovou organizací Kraje Vysočina"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Kámen_(hrad)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Kámen_(hrad)",
+  "https://www.hradkamen.cz/majitele.html",
+  "https://www.hradkamen.cz/historie-hradu/"
+ ]
 }

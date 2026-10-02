@@ -6,7 +6,7 @@
   "approx": true,
   "text": "Manětínsko bylo majetkem českých knížat, král Vladislav je roku 1169 věnoval řádu johanitů; v místech dnešní západní části zámku a přilehlého dvora vznikla johanitská komenda, poprvé připomínaná roku 1187."
  },
- "summary": "Manětín patřil od 12. století řádu johanitů, kteří zde vybudovali komendu; od roku 1420 jej v zástavě drželi Švamberkové, roku 1483 jej Bohuslav VII. ze Švamberka vykoupil do dědičného vlastnictví. Po roce 1544 se panství rychle střídalo (Krajířové z Krajku, Šlikové, Hrobčičtí z Hrobčic, páni z Roupova), až je roku 1622 získala Ester Mitrovská z Nemyšle, rozená Lažanská z Bukové, jejíž rod pak Manětín vlastnil více než 300 let. Za Václava Josefa Lažanského a jeho manželky Marie Gabriely Černínové byl po požáru roku 1712 zámek barokně přestavěn a stal se centrem barokní kultury. Po vymření mužské linie zdědila panství Terezie, provdaná Seilernová z Aspangu, která byla roku 1945 odsunuta; zámek pak připadl státu a dnes jej spravuje Národní památkový ústav.",
+ "summary": "Manětín patřil od 12. století řádu johanitů, kteří zde vybudovali komendu; od roku 1420 jej v zástavě drželi Švamberkové, roku 1483 jej Bohuslav VII. ze Švamberka vykoupil do dědičného vlastnictví. Roku 1544 Švamberkové panství prodali Volfovi Krajířovi z Krajku, kterému bylo 1547 zkonfiskováno a 1548 prodáno Šlikům; od roku 1560 je držel Hrobčičtí z Hrobčic a od 1617 páni z Roupova, až je roku 1622 získala Ester Mitrovská z Nemyšle, rozená Lažanská z Bukové, jejíž rod pak Manětín vlastnil více než 300 let. Za Václava Josefa Lažanského a jeho manželky Marie Gabriely Černínové byl po požáru roku 1712 zámek barokně přestavěn a stal se centrem barokní kultury. Po vymření mužské linie zdědila panství Terezie, provdaná Seilernová z Aspangu, která byla roku 1945 odsunuta; zámek pak připadl státu a dnes jej spravuje Národní památkový ústav.",
  "owners": [
   {
    "owner": "koruna",
@@ -39,29 +39,40 @@
    "from_approx": false,
    "to_approx": false,
    "how": "lenni",
-   "note": "Bohuslav VI. dostal Manětín na počátku husitských válek od krále Zikmunda do zástavy, o dva roky později upadl do husitského zajetí a přešel na jejich stranu; panství právně náleželo johanitům, až je Bohuslav VII. roku 1483 vykoupil do dědičného vlastnictví za 9024 kop grošů; posledním držitelem z rodu byl Jindřich ze Švamberka"
+   "note": "Bohuslav VI. dostal Manětín na počátku husitských válek od krále Zikmunda do zástavy, o dva roky později upadl do husitského zajetí a přešel na jejich stranu; panství právně náleželo johanitům, až je Bohuslav VII. roku 1483 vykoupil do dědičného vlastnictví za 9024 kop grošů; posledním držitelem z rodu byl Jindřich ze Švamberka; Jindřich ze Švamberka panství roku 1544 prodal Volfovi mladšímu Krajířovi z Krajku"
   },
   {
    "owner": "krajirove-z-krajku",
    "owner_wiki": "Krajířové z Krajku",
-   "person": "Volf Krajíř z Krajku",
+   "person": "Volf mladší Krajíř z Krajku",
    "from": 1544,
-   "to": 1544,
+   "to": 1547,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "koupil Manětín 1544, ale panství mu bylo krátce nato zkonfiskováno za účast v protihabsburském odboji"
+   "note": "koupil panství 1544 od Jindřicha ze Švamberka; roku 1547 za účast v povstání proti Ferdinandovi I. musel panství postoupit králi (manetin.cz, mistopisy.cz; cs.wiki uvádí jen 'krátce nato')"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Ferdinand I.",
+   "from": 1547,
+   "to": 1548,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "panství Manětín (tehdy jen 8 vsí) a Švamberk propadlo králi po Krajířově účasti ve stavovském odboji 1547"
   },
   {
    "owner": "slikove",
    "owner_wiki": "Šlikové",
-   "person": null,
-   "from": 1544,
+   "person": "Jeroným Šlik z Holíče a na Rabštejně, poté syn Jáchym Šlik",
+   "from": 1548,
    "to": 1560,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
-   "how": "konfiskace",
-   "note": "krátce byl Manětín majetkem Šliků po konfiskaci Krajířům z Krajku"
+   "how": "koupe",
+   "note": "roku 1548 Ferdinand I. postoupil Manětín a Švamberk za 16000 kop míšeňských grošů Jeronýmu Šlikovi; jeho syn Jáchym prodal 1560 Manětín se 4 vsemi Jeronýmu Hrobčickému (manetin.cz, mistopisy.cz)"
   },
   {
    "owner": "hrobcicti-z-hrobcic",
@@ -133,6 +144,18 @@
    "text": "Bohuslav VII. ze Švamberka vykoupil panství od johanitů do dědičného vlastnictví"
   },
   {
+   "year": 1547,
+   "text": "Volf mladší Krajíř z Krajku ztrácí panství za účast v povstání proti Ferdinandovi I."
+  },
+  {
+   "year": 1548,
+   "text": "Ferdinand I. postupuje Manětín za 16000 kop míšeňských grošů Jeronýmu Šlikovi z Holíče"
+  },
+  {
+   "year": 1560,
+   "text": "Jáchym Šlik prodává Manětín Jeronýmu Hrobčickému z Hrobčic za 5250 kop míšeňských grošů"
+  },
+  {
    "year": 1622,
    "text": "po konfiskaci koupila panství Ester Mitrovská z Nemyšle, rozená Lažanská z Bukové"
   },
@@ -154,6 +177,9 @@
   }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Manětín_(zámek)"
+  "https://cs.wikipedia.org/wiki/Manětín_(zámek)",
+  "https://www.manetin.cz/mesto/historie-a-soucasnost/",
+  "https://www.mistopisy.cz/pruvodce/obec/5061/manetin/historie/",
+  "https://www.zamek-manetin.cz/cs/o-zamku/historie"
  ]
 }

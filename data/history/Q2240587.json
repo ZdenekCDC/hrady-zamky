@@ -6,29 +6,40 @@
   "approx": true,
   "text": "První písemná zmínka o gotické tvrzi pochází z roku 1372, kdy ji od Gery Galmové koupil pražský měšťan Jan Zeiselmeister; přesná doba založení tvrze není v článku uvedena."
  },
- "summary": "Gotická tvrz ve Ctěnicích je poprvé doložena roku 1372, kdy ji koupil pražský měšťan Jan Zeiselmeister. Od roku 1502 ji přes sto let drželi Hrzánové z Harasova, kteří ji kolem poloviny 16. století přestavěli na renesanční zámek, po nich se majitelé (mj. Myškové ze Žlunic, Zajícové z Hazmburka, Valdštejnové) často střídali až do nástupu Windischgrätzů, kteří panství drželi do roku 1803 a nechali zámek ve 30. letech 18. století přestavět v klasicizujícím barokním stylu. Od roku 1849 patřil podnikatelské rodině Schoellerů, za druhé světové války byl zestátněn a po válce připadl Státnímu statku hl. m. Prahy; dnešním vlastníkem je Hlavní město Praha, od roku 2012 areál spravuje Muzeum Prahy.",
+ "summary": "Gotická tvrz ve Ctěnicích je poprvé doložena roku 1372, kdy ji koupil pražský měšťan Jan Zeiselmeister. Od roku 1502 ji přes sto let drželi Hrzánové z Harasova, kteří ji kolem poloviny 16. století přestavěli na renesanční zámek, po nich se majitelé (mj. Myškové ze Žlunic, Zajícové z Hazmburka, Valdštejnové) často střídali až do nástupu Windischgrätzů, kteří panství drželi do roku 1803 a nechali zámek ve 30. letech 18. století přestavět v klasicizujícím barokním stylu. Od roku 1849 patřil podnikatelské rodině Schoellerů, roku 1945 byl znárodněn a připadl Státnímu statku hl. m. Prahy; od roku 1993 je vlastníkem Hlavní město Praha, od roku 2012 areál spravuje Muzeum Prahy.",
  "owners": [
   {
    "owner": "soukromnik",
    "owner_wiki": null,
-   "person": "Gera Galmová",
+   "person": "Gera Galmová (vdova po Volflinu Galmovi)",
    "from": null,
    "to": 1372,
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "první doložená držitelka tvrze; okolnosti a doba jejího nabytí nejsou v článku uvedeny"
+   "note": "první doložená držitelka tvrze (prodala ji 1372); okolnosti a doba nabytí nejsou ve zdrojích uvedeny; podle webu Prague City Tourism vdova po Volflinu Galmovi"
   },
   {
    "owner": "soukromnik",
    "owner_wiki": null,
    "person": "Jan Zeiselmeister",
    "from": 1372,
-   "to": 1502,
+   "to": null,
    "from_approx": false,
    "to_approx": true,
    "how": "koupe",
-   "note": "pražský měšťan; rok konce jeho/jeho nástupců držby odvozen od nástupu Hrzánů 1502"
+   "note": "pražský měšťan, koupil 1372 od vdovy po Volflinu Galmovi; konec držby není uveden"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "pražská obec, poté Martin Zumberger",
+   "from": null,
+   "to": null,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "konfiskace",
+   "note": "za husitských bouří tvrz zabrala pražská obec a přenechala ji Martinu Zumbergerovi (web Prague City Tourism / Muzeum Prahy); roky neuvedeny"
   },
   {
    "owner": "hrzanove-z-harasova",
@@ -61,7 +72,7 @@
    "from_approx": true,
    "to_approx": true,
    "how": "neznamo",
-   "note": "článek uvádí jen, že se mezi častěji střídajícími se majiteli po Myškovi ze Žlunic vystřídali i Hazmburkové, bez let"
+   "note": "článek na cs.wiki uvádí jen, že se po Myškovi ze Žlunic vystřídali i Hazmburkové, bez let; Muzeum Prahy a Žákova kniha (Karolinum) jmenují mezi dalšími majiteli Boryně ze Lhoty, Valdštejny a Losy z Losinthalu (Losyové drželi podle anotace přes 100 let), pořadí a roky nejsou ve zdrojích"
   },
   {
    "owner": "valdstejnove",
@@ -72,7 +83,7 @@
    "from_approx": true,
    "to_approx": true,
    "how": "neznamo",
-   "note": "článek uvádí jen, že se mezi častěji střídajícími se majiteli vystřídali i Valdštejnové, bez let"
+   "note": "cs.wiki i Muzeum Prahy uvádějí Valdštejny mezi majiteli, roky neuvedeny"
   },
   {
    "owner": "windischgratzove",
@@ -83,18 +94,18 @@
    "from_approx": true,
    "to_approx": false,
    "how": "neznamo",
-   "note": "podle článku klíčové období, panství drželi do roku 1803; ve 30. letech 18. století nechali zámek přestavět v klasicizujícím barokním stylu (architekt Václav Špaček)"
+   "note": "panství drželi do roku 1803, začátek držby zdroje neuvádějí; přestavba na klasicizující baroko: cs.wiki článek o zámku uvádí 30. léta 18. stol. (architekt Václav Špaček), článek o osadě 2. polovinu 18. stol., Muzeum Prahy 2. polovinu 18. stol."
   },
   {
    "owner": "desfoursove",
    "owner_wiki": "Desfoursové",
    "person": "Aloisie hraběnka Desfoursová",
-   "from": 1803,
+   "from": null,
    "to": 1849,
    "from_approx": true,
    "to_approx": false,
    "how": "neznamo",
-   "note": "poslední majitelkou před rokem 1849 byla Aloisie hraběnka Desfoursová, po níž koupil zámek jako pozůstalost Alexander Schoeller; způsob a přesný rok nabytí Desfoursovými neuveden"
+   "note": "podle cs.wiki se po 1803 majitelé často měnili; poslední majitelkou před 1849 byla Aloisie hraběnka Desfoursová, po níž koupil zámek jako pozůstalost Alexander Schoeller; způsob a rok nabytí neuvedeny"
   },
   {
    "owner": "soukromnik",
@@ -103,42 +114,75 @@
    "from": 1849,
    "to": 1945,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "koupe",
-   "note": "velkoobchodník, povýšen do rakouského rytířského stavu 1863; zámek v rukou rodiny až do druhé světové války, kdy byl zestátněn - přesný rok zestátnění neuveden"
+   "note": "velkoobchodník, povýšen do rakouského rytířského stavu 1863; zámek zůstal v rukou rodiny do konce druhé světové války; rodový majetek znárodněn dekretem prezidenta republiky z 24. 11. 1945 (komerční web turistik.cz)"
   },
   {
    "owner": "stat",
    "owner_wiki": null,
-   "person": null,
+   "person": "Státní statek hl. m. Prahy",
    "from": 1945,
-   "to": 1945,
-   "from_approx": true,
-   "to_approx": true,
+   "to": 1993,
+   "from_approx": false,
+   "to_approx": false,
    "how": "konfiskace",
-   "note": "zestátnění za druhé světové války; po válce areál připadl Státnímu statku hl. m. Prahy"
+   "note": "po válce připadl Státnímu statku hl. m. Prahy; od roku 1945 bez pravidelné údržby, areál zchátral; k zestátnění dekret z 24. 11. 1945 (komerční web turistik.cz), cs.wiki uvádí jen 'za druhé světové války'"
   },
   {
    "owner": "mesto",
    "owner_wiki": null,
-   "person": "Státní statek hl. m. Prahy / Hlavní město Praha",
-   "from": 1945,
+   "person": "Hlavní město Praha",
+   "from": 1993,
    "to": null,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "jine",
-   "note": "po válce spravoval Státní statek hl. m. Prahy, dnešním vlastníkem je Hlavní město Praha; od 1995 správa Pražská informační služba, od 2012 Muzeum Prahy"
+   "note": "1993 celý objekt bezplatně převeden do vlastnictví hl. m. Prahy (Prague City Tourism); 1995 správa Pražské informační služby (cs.wiki), od 1. 7. 2012 Muzeum Prahy"
   }
  ],
  "events": [
-  {"year": 1372, "text": "první písemná zmínka o gotické tvrzi, koupě Janem Zeiselmeisterem od Gery Galmové"},
-  {"year": 1550, "text": "Mikuláš Hrzán z Harasova kolem tohoto roku přestavěl tvrz na renesanční zámek"},
-  {"year": 1572, "text": "zámek koupil Petr Myška ze Žlunic"},
-  {"year": 1730, "text": "Windischgrätzové nechali ve 30. letech 18. století zámek přestavět v klasicizujícím barokním stylu"},
-  {"year": 1803, "text": "konec držby Windischgrätzů"},
-  {"year": 1849, "text": "zámek koupil velkoobchodník Alexander Schoeller"},
-  {"year": 1995, "text": "areál svěřen do správy Pražské informační služby"},
-  {"year": 2012, "text": "správu areálu přebírá Muzeum Prahy"}
+  {
+   "year": 1372,
+   "text": "první písemná zmínka o gotické tvrzi, koupě Janem Zeiselmeisterem od Gery Galmové"
+  },
+  {
+   "year": 1550,
+   "text": "Mikuláš Hrzán z Harasova kolem tohoto roku přestavěl tvrz na renesanční zámek"
+  },
+  {
+   "year": 1572,
+   "text": "zámek koupil Petr Myška ze Žlunic"
+  },
+  {
+   "year": 1730,
+   "text": "Windischgrätzové nechali ve 30. letech 18. století zámek přestavět v klasicizujícím barokním stylu"
+  },
+  {
+   "year": 1803,
+   "text": "konec držby Windischgrätzů"
+  },
+  {
+   "year": 1849,
+   "text": "zámek koupil velkoobchodník Alexander Schoeller"
+  },
+  {
+   "year": 1993,
+   "text": "areál bezplatně převeden do vlastnictví hl. m. Prahy"
+  },
+  {
+   "year": 1995,
+   "text": "areál svěřen do správy Pražské informační služby"
+  },
+  {
+   "year": 2012,
+   "text": "správu areálu přebírá Muzeum Prahy"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Ctěnice_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Ctěnice_(zámek)",
+  "https://prague.eu/cs/objevujte/muzeum-mesta-prahy-zamecky-areal-ctenice/",
+  "https://www.cupress.cuni.cz/ink2_ext/index.jsp?id=665550&include=podrobnosti",
+  "https://www.turistik.cz/cz/kraje/hlavni-mesto-praha/okres-hlavni-mesto-praha/praha-okres-hlavni-mesto-praha/zamecky-areal-ctenice/"
+ ]
 }

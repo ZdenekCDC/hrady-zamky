@@ -1,34 +1,249 @@
 {
  "id": "Q10816658",
  "name": "Krašov",
- "founded": {"year": 1220, "approx": true, "text": "Hrad založil v první třetině 13. století nejspíše Jetřich (nebo podle jiné teorie Sezema z Krašova) z rozrodu Hroznatovců, patrně před rokem 1232"},
- "summary": "Hrad Krašov založili ve 13. století páni z Krašova z rozrodu Hroznatovců, ve 14. století jej vystřídali Švihovští z Rýzmberka a od konce 70. let 14. století Kolovratové, kterým patřil až do roku 1529. Poté se majitelé rychle střídali (Svitákové z Landštejna, Grafingerové ze Saleku, Ronšperkové z Držkovic, Hrobčičtí z Hrobčic, Příchovští z Příchovic, Boryňové ze Lhoty, Missironové z Lisonu) a po roce 1526 byl přestavěn na renesanční zámek. Od roku 1678 patřil plaskému klášteru, po jeho zrušení 1785 přešel pod náboženský fond, jehož správci nechali kolem roku 1800 sídlo zčásti pobořit; od roku 1931 o zříceninu pečuje dobrovolný spolek.",
+ "founded": {
+  "year": 1232,
+  "approx": true,
+  "text": "Hrad založil v první třetině 13. století nejspíše Jetřich (nebo podle jiné teorie Sezema z Krašova) z rozrodu Hroznatovců, patrně před rokem 1232, kdy Jetřich poprvé užil přídomek z Krašova"
+ },
+ "summary": "Hrad Krašov založili ve 13. století páni z Krašova z rozrodu Hroznatovců, ve 14. století jej vystřídali Švihovští z Rýzmberka a od konce 70. let 14. století Kolovratové, kterým patřil až do roku 1529. Poté se majitelé rychle střídali (Svitákové z Landštejna, Grafingerové ze Saleku, Ronšperkové z Držkovic, Hrobčičtí z Hrobčic, Příchovští z Příchovic, Boryňové ze Lhoty, Missironové z Lisonu) a po roce 1526 byl přestavěn na renesanční zámek. Od roku 1678 patřil plaskému klášteru, po jeho zrušení 1785 přešel pod náboženský fond, jehož správci nechali kolem roku 1800 sídlo zčásti pobořit; od roku 1931 o zříceninu pečuje dobrovolný spolek, který ji v 20. století získal od Metternichů, po jeho zrušení 1979 byl hrad státní a dnes jej vlastní nástupnický Spolek pro ochranu přírodní rezervace a hradu Krašova.",
  "owners": [
-  {"owner": "z-krasova", "owner_wiki": null, "person": "Sezema (Jetřich) z Krašova a jeho syn Bušek, poté vnuk Vilém", "from": 1220, "to": 1339, "from_approx": true, "to_approx": true, "how": "zalozeni", "note": "podle Augusta Sedláčka založil hrad Jetřich (přídomek 1232), podle D. Menclové Sezema z Krašova (doložen 1269, 1284); Bušek/Vilém hrad prodali Vilémovi Švihovskému z Rýzmberka"},
-  {"owner": "svihovsti-z-ryzmberka", "owner_wiki": "Švihovští z Rýzmberka", "person": "Vilém, poté bratři Břeněk a Půta Švihovští z Rýzmberka", "from": 1339, "to": 1380, "from_approx": true, "to_approx": true, "how": "koupe", "note": "majitelé v následujících desetiletích po koupi nejsou jistě doloženi; podle A. Sedláčka drželi hrad kolem 1363 bratři Břeněk a Půta"},
-  {"owner": "kolovratove", "owner_wiki": "Kolovratové", "person": "Albrecht z Kolovrat a jeho potomci (Hanuš, Hanuš II., Albrecht Libštejnský, Jetřich Bezdružický, Jan)", "from": 1380, "to": 1529, "from_approx": true, "to_approx": false, "how": "koupe", "note": "koupeno koncem 70. let 14. stol.; Krašov pro rod nebyl hlavním sídlem; roku 1485 prodán z libštejnské větve Jetřichu Bezdružickému z Kolovrat, jehož nezletilý vnuk Jetřich jej roku 1529 skrze poručníky prodal"},
-  {"owner": "z-landstejna", "owner_wiki": null, "person": "Mikuláš Sviták z Landštejna, poté bratr Vilém Sviták z Landštejna", "from": 1529, "to": 1576, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupeno za 3250 kop grošů; po roce 1526 přestavěn na renesanční zámek; Mikuláš zemřel bezdětný, odkázal Krašov 1534 bratru Vilémovi (majitelem od 1538, vdova Kateřina ze Solopisk spravovala do cca 1558 za nezletilého syna)"},
-  {"owner": "z-saleku", "owner_wiki": null, "person": "Jindřich Grafinger ze Saleku", "from": 1576, "to": 1578, "from_approx": false, "to_approx": true, "how": "koupe", "note": "nebyl schopen zaplatit kupní cenu, panství se vrátilo Vilému Svitákovi"},
-  {"owner": "z-landstejna", "owner_wiki": null, "person": "Vilém Sviták z Landštejna", "from": 1578, "to": 1589, "from_approx": true, "to_approx": false, "how": "jine", "note": "vrácení po nezaplacení kupní ceny Grafingerem; kvůli dluhům pak Krašov znovu prodal"},
-  {"owner": "z-ronsperka", "owner_wiki": null, "person": "Ferdinand Ronšperk z Držkovic", "from": 1589, "to": 1595, "from_approx": false, "to_approx": true, "how": "koupe", "note": "nedokázal panství udržet, roku 1595 nebo 1596 je prodal za 27500 kop míšeňských grošů"},
-  {"owner": "hrobcicti-z-hrobcic", "owner_wiki": "Hrobčičtí z Hrobčic", "person": "Jeroným starší Hrobčický z Hrobčic, poté synové Karel Vratislav, Zdislav Albrecht a Jan Vilém", "from": 1595, "to": 1616, "from_approx": true, "to_approx": false, "how": "koupe", "note": "Jeroným brzy zemřel, 1600 dělení mezi syny; Jan Vilém celé panství 26. 7. 1616 prodal Heleně Regině Příchovské"},
-  {"owner": "prichovsti-z-prichovic", "owner_wiki": "Příchovští z Příchovic", "person": "Helena Regina Příchovská, poté manžel Petr Jiří Příchovský z Příchovic", "from": 1616, "to": 1631, "from_approx": false, "to_approx": false, "how": "koupe", "note": "roku 1617 panství postoupila manželovi; ten je 1631 prodal za 32000 kop míšeňských grošů"},
-  {"owner": "borynove-ze-lhoty", "owner_wiki": "Boryňové ze Lhoty", "person": "Jan David Boryně ze Lhoty", "from": 1631, "to": 1639, "from_approx": false, "to_approx": false, "how": "koupe", "note": "za třicetileté války okolí plenili Švédové, zadlužen prodal zámek 2. 8. 1639 za 16866 zlatých"},
-  {"owner": "missironove-z-lisonu", "owner_wiki": "Missironové z Lisonu", "person": "Jan Gref z Grefenberka a jeho zeť František Miseroni (Missironi) z Lisonu, poté vdova Anna Splendida a synové", "from": 1639, "to": 1678, "from_approx": false, "to_approx": false, "how": "koupe", "note": "František Miseroni se stal jediným majitelem, zemřel 1656; syn Norbert Adolf prodal roku 1676 svůj díl (Třímany) Vojtěchu Hynku Týřovskému z Ensidle, zbytek roku 1678 koupil plaský opat"},
-  {"owner": "cirkev", "owner_wiki": null, "person": "plaský klášter (opat Benedikt Engelken)", "from": 1678, "to": 1785, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupeno za 27500 zlatých a připojeno ke klášternímu panství; klášter sídlo udržoval, bydlel zde polesný a klíčník, proběhly drobné barokní úpravy"},
-  {"owner": "stat", "owner_wiki": null, "person": "Náboženský fond", "from": 1785, "to": null, "from_approx": false, "to_approx": true, "how": "konfiskace", "note": "po zrušení plaského kláštera 1785 přešlo na náboženský fond, jehož administrátoři rozhodli o poboření hradu; část rozebrána na materiál, kolem 1800 zřícenina; od 1931 o ni pečuje Spolek pro záchranu hradu Krašova (dnes Spolek pro ochranu přírodní rezervace a hradu Krašov); přesný současný vlastnický vztah cs.wiki neuvádí"}
+  {
+   "owner": "z-krasova",
+   "owner_wiki": null,
+   "person": "Sezema (Jetřich) z Krašova, později Bušek a jeho syn Vilém",
+   "from": 1232,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "podle Augusta Sedláčka založil hrad Jetřich (přídomek poprvé 1232, rok je horní mez vzniku hradu), podle D. Menclové Sezema z Krašovic/Krašova (doložen 1269, 1284); hrad dostal Bušek, který jej přenechal synovi Vilémovi (Bušek sídlil 1339 na Pušperku); Bušek nebo Vilém hrad prodali Vilémovi Švihovskému z Rýzmberka, rok prodeje zdroj neuvádí"
+  },
+  {
+   "owner": "svihovsti-z-ryzmberka",
+   "owner_wiki": "Švihovští z Rýzmberka",
+   "person": "Vilém, poté bratři Břeněk a Půta Švihovští z Rýzmberka",
+   "from": null,
+   "to": 1380,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "majitelé v následujících desetiletích po koupi nejsou jistě doloženi; podle A. Sedláčka drželi hrad kolem 1363 (podací právo ke kostelu ve Všehrdech) bratři Břeněk a Půta, kteří jej koncem 70. let 14. stol. prodali Albrechtovi z Kolovrat"
+  },
+  {
+   "owner": "kolovratove",
+   "owner_wiki": "Kolovratové",
+   "person": "Albrecht z Kolovrat, od 1392 Albrecht mladší (od 1403 sídlil na Libštejně, hrad spravovali purkrabí), před 1416 po dělení Hanuš, poté Hanuš II. a Albrecht Libštejnský",
+   "from": 1380,
+   "to": 1485,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupeno koncem 70. let 14. stol.; Krašov pro rod nebyl hlavním sídlem; roku 1485 prodal Albrecht Libštejnský z Kolovrat hrad Jetřichovi Bezdružickému z Kolovrat"
+  },
+  {
+   "owner": "kolovratove",
+   "owner_wiki": "Kolovratové",
+   "person": "Jetřich Bezdružický z Kolovrat (zemřel kolem 1508), poté syn Jan (padl 1526 u Moháče) a vnuk Jetřich",
+   "from": 1485,
+   "to": 1529,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "po Jetřichově smrti kolem 1508 spravoval dědictví za nezletilého Jana Jiří Bezdružický z Kolovrat; nezletilého Jetřicha poručníci roku 1529 prodali Krašov Mikuláši Svitákovi z Landštejna"
+  },
+  {
+   "owner": "z-landstejna",
+   "owner_wiki": null,
+   "person": "Mikuláš Sviták z Landštejna, poté bratr Vilém Sviták z Landštejna",
+   "from": 1529,
+   "to": 1576,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupeno za 3250 kop grošů; po roce 1526 přestavěn na renesanční zámek; Mikuláš zemřel bezdětný, odkázal Krašov 1534 bratru Vilémovi (majitelem od 1538, vdova Kateřina ze Solopisk spravovala do cca 1558 za nezletilého syna)"
+  },
+  {
+   "owner": "z-saleku",
+   "owner_wiki": null,
+   "person": "Jindřich Grafinger ze Saleku",
+   "from": 1576,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil 1576 (rok podle cs.wiki 'o čtyři roky později' po 1572), hradním pánem doložen 1587, nebyl schopen zaplatit kupní cenu a panství se vrátilo Vilému Svitákovi; rok návratu zdroj neuvádí"
+  },
+  {
+   "owner": "z-landstejna",
+   "owner_wiki": null,
+   "person": "Vilém Sviták z Landštejna",
+   "from": null,
+   "to": 1589,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "vrácení po nezaplacení kupní ceny Grafingerem (rok neuveden); kvůli dluhům pak roku 1589 Krašov znovu prodal"
+  },
+  {
+   "owner": "z-ronsperka",
+   "owner_wiki": null,
+   "person": "Ferdinand Ronšperk z Držkovic",
+   "from": 1589,
+   "to": 1595,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "koupil 1589, nedokázal panství udržet a v letech 1595 nebo 1596 je za 27500 kop míšeňských grošů přenechal Hrobčickému"
+  },
+  {
+   "owner": "hrobcicti-z-hrobcic",
+   "owner_wiki": "Hrobčičtí z Hrobčic",
+   "person": "Jeroným starší Hrobčický z Hrobčic, poté synové Karel Vratislav, Zdislav Albrecht a Jan Vilém",
+   "from": 1595,
+   "to": 1616,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Jeroným brzy zemřel, 1600 dělení mezi syny; Jan Vilém celé panství 26. 7. 1616 prodal Heleně Regině Příchovské"
+  },
+  {
+   "owner": "prichovsti-z-prichovic",
+   "owner_wiki": "Příchovští z Příchovic",
+   "person": "Helena Regina Příchovská, poté manžel Petr Jiří Příchovský z Příchovic",
+   "from": 1616,
+   "to": 1631,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "roku 1617 panství postoupila manželovi; ten je 1631 prodal za 32000 kop míšeňských grošů"
+  },
+  {
+   "owner": "borynove-ze-lhoty",
+   "owner_wiki": "Boryňové ze Lhoty",
+   "person": "Jan David Boryně ze Lhoty",
+   "from": 1631,
+   "to": 1639,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "za třicetileté války okolí plenili Švédové, zadlužen prodal zámek 2. 8. 1639 za 16866 zlatých"
+  },
+  {
+   "owner": "missironove-z-lisonu",
+   "owner_wiki": "Missironové z Lisonu",
+   "person": "Jan Gref z Grefenberka a jeho zeť František Miseroni (Missironi) z Lisonu, poté vdova Anna Splendida a synové",
+   "from": 1639,
+   "to": 1678,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "cs.wiki: koupě 2. 8. 1639 za 16866 zlatých; web hradu (hradkrasov.cz) uvádí Miseroniovce jako majitele od roku 1649, rozpor nevyřešen; František Miseroni se stal jediným majitelem, zemřel 1656; syn Norbert Adolf prodal roku 1676 svůj díl (Třímany) Vojtěchu Hynkovi Týřovskému z Ensidle, zbytek roku 1678 koupil plaský opat"
+  },
+  {
+   "owner": "cirkev",
+   "owner_wiki": null,
+   "person": "plaský klášter (opat Benedikt Engelken)",
+   "from": 1678,
+   "to": 1785,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupeno za 27500 zlatých a připojeno ke klášternímu panství; klášter sídlo udržoval, bydlel zde polesný a klíčník, proběhly drobné barokní úpravy"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": "Náboženský fond",
+   "from": 1785,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "po zrušení plaského kláštera 1785 přešel hrad na náboženský fond, jehož administrátoři rozhodli o poboření hradu; část rozebrána na stavební materiál, kolem 1800 zřícenina; rok převodu na Metternichy zdroj neuvádí"
+  },
+  {
+   "owner": "metternichove",
+   "owner_wiki": "Metternichové",
+   "person": "kníže Metternich (poslední šlechtický majitel)",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "podle webu hradu (hradkrasov.cz, spolek jako vlastník, nepřímý zdroj) spolek odkoupil hrad od posledního šlechtického majitele knížete Metternicha; cs.wiki Metternicha neuvádí, roky nejsou známy"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Spolek pro záchranu hradu Krašova",
+   "from": null,
+   "to": 1979,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "spolek vznikl 1931 a od té doby o zříceninu pečuje; rok koupě zdroj neuvádí; spolek byl 1979 zrušen pro údajný nesoulad se socialistickým režimem (rozhlas, web hradu)"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1979,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "po zrušení spolku se hrad stal majetkem státu (Český rozhlas Plzeň); rok, kdy skončil, zdroj neuvádí"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Spolek pro ochranu přírodní rezervace a hradu Krašova",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "nástupnický spolek (od 1991) získal hrad opět do majetku, rok zdroj neuvádí; podle Českého rozhlasu Plzeň (2024) a webu hradkrasov.cz hrad vlastní, provozuje a udržuje ve zříceném stavu"
+  }
  ],
  "events": [
-  {"year": 1232, "text": "Jetřich poprvé užívá přídomek z Krašova"},
-  {"year": 1339, "text": "Krašov prodán Vilémovi Švihovskému z Rýzmberka"},
-  {"year": 1485, "text": "hrad prodán Jetřichovi Bezdružickému z Kolovrat"},
-  {"year": 1529, "text": "poručníci nezletilého Jetřicha prodávají Krašov Mikuláši Svitákovi z Landštejna, krátce poté přestavba na renesanční zámek"},
-  {"year": 1639, "text": "zámek prodán Janu Grefovi z Grefenberka a Františku Miseronimu z Lisonu"},
-  {"year": 1678, "text": "zbytek panství kupuje plaský klášter"},
-  {"year": 1785, "text": "zrušení plaského kláštera, správu přebírá náboženský fond"},
-  {"year": 1931, "text": "vzniká Spolek pro záchranu hradu Krašova, který od té doby o zříceninu pečuje"}
+  {
+   "year": 1232,
+   "text": "Jetřich poprvé užívá přídomek z Krašova (hrad tedy stál nejpozději tehdy)"
+  },
+  {
+   "year": 1485,
+   "text": "hrad prodán Jetřichovi Bezdružickému z Kolovrat"
+  },
+  {
+   "year": 1529,
+   "text": "poručníci nezletilého Jetřicha prodávají Krašov Mikuláši Svitákovi z Landštejna, krátce poté přestavba na renesanční zámek"
+  },
+  {
+   "year": 1639,
+   "text": "zámek prodán Janu Grefovi z Grefenberka a Františku Miseronimu z Lisonu"
+  },
+  {
+   "year": 1678,
+   "text": "zbytek panství kupuje plaský klášter"
+  },
+  {
+   "year": 1785,
+   "text": "zrušení plaského kláštera, správu přebírá náboženský fond"
+  },
+  {
+   "year": 1931,
+   "text": "vzniká Spolek pro záchranu hradu Krašova, který od té doby o zříceninu pečuje"
+  },
+  {
+   "year": 1979,
+   "text": "zrušen Spolek pro záchranu hradu Krašova, hrad se stal majetkem státu"
+  }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Krašov_(hrad)"
+  "https://cs.wikipedia.org/wiki/Krašov_(hrad)",
+  "https://www.hradkrasov.cz/historie-hradu/ (web spolku, spolehlivost střední)",
+  "https://plzen.rozhlas.cz/hrad-krasov-spravuje-spolek-dobrovolniku-kteri-se-ho-snazi-zachovat-pro-dalsi-9216037"
  ]
 }

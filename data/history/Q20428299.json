@@ -2,33 +2,33 @@
  "id": "Q20428299",
  "name": "Týnec (starý zámek)",
  "founded": {
-  "year": 1350,
-  "approx": true,
-  "text": "Prvním panským sídlem byla gotická tvrz, kterou snad již ve 14. století vystavěli páni z Týnce; starý zámek vznikl na místě mladší, renesanční tvrze, kterou po zpustnutí obnovil Bořivoj Rochec z Otova po roce 1555."
+  "year": null,
+  "approx": false,
+  "text": "Prvním panským sídlem byla gotická tvrz, kterou snad již ve 14. století vystavěli páni z Týnce (poloha neznámá); starý zámek vznikl na místě mladší, renesanční tvrze, kterou po roce 1555 obnovil či postavil Bořivoj Rochec z Otova."
  },
- "summary": "Starý týnecký zámek stojí na místě bývalých týneckých tvrzí - gotické tvrze pánů z Týnce ze 14. století, zaniklé za husitských či poděbradských válek, a renesanční tvrze, kterou po roce 1555 obnovil Bořivoj Rochec z Otova. Roku 1624 přešlo panství sňatkem na Viléma Albrechta Krakovského z Kolovrat, za jehož potomků byla tvrz v letech 1683-1684 barokně upravena na zámeček a stala se centrem týneckého panství; počátkem 18. století si Kolovratové v sousedství postavili honosnější nový zámek. Kolovratové Týnec drželi až do roku 1927, kdy jej Jindřich Kolovrat-Krakovský prodal; areál poté sloužil jako hotel, sirotčinec, útulek evangelické církve metodistické a armádní objekt, po roce 1989 byl restituován a od roku 2000 jej vlastní sběratel umění Jan Pelánek, který jej postupně opravuje.",
+ "summary": "Starý týnecký zámek stojí na místě bývalých týneckých tvrzí - gotické tvrze pánů z Týnce ze 14. století, zaniklé za husitských či poděbradských válek, a renesanční tvrze, kterou po roce 1555 obnovil Bořivoj Rochec z Otova. Roku 1624 přešlo panství sňatkem na Viléma Albrechta Krakovského z Kolovrat, za jehož potomků byla tvrz v letech 1683-1684 barokně upravena na zámeček a stala se centrem týneckého panství; počátkem 18. století si Kolovratové v sousedství postavili honosnější nový zámek. Kolovratové Týnec drželi až do roku 1927, kdy jej Jindřich Kolovrat-Krakovský prodal; areál poté sloužil jako hotel, sirotčinec, útulek evangelické církve metodistické a armádní objekt, po zestátnění 1951 sloužil armádě a po roce 1989 se v 90. letech vystřídali soukromí majitelé; od konce 1999 jej vlastní sběratel umění Jan Pelánek, který jej postupně opravuje.",
  "owners": [
   {
    "owner": "z-tynce",
    "owner_wiki": null,
    "person": null,
-   "from": 1350,
-   "to": 1420,
-   "from_approx": true,
-   "to_approx": true,
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
    "how": "zalozeni",
-   "note": "páni z Týnce, gotická tvrz, snad již 14. století; tvrz zanikla (vypálena) za husitských či poděbradských válek, poté v 15. století připojena ke hradu Klenová; rod nemá vlastní článek na cs.wiki"
+   "note": "páni z Týnce, gotická tvrz, snad již ve 14. století (cs.wiki; hrady.cz: z druhé poloviny 14. stol.); roku 1555 uváděná jako pustá, zpustnout mohla za husitských či poděbradských válek; v 15. století připojena ke hradu Klenová; roky držby zdroje neuvádějí; rod nemá vlastní článek na cs.wiki"
   },
   {
    "owner": "z-otova",
    "owner_wiki": null,
    "person": "Bořivoj Rochec z Otova",
    "from": 1555,
-   "to": 1581,
+   "to": 1584,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "koupe",
-   "note": "koupil pustou ves, tvrz a dvůr Týnec i ves Vacovy; obnovil panství a vybudoval (či obnovil) nové sídlo; v držení doloženo minimálně do 1581, rod nemá vlastní článek"
+   "note": "roku 1555 koupil pustou ves Týnec s pustou tvrzí a dvorem a ves Vacovy; obnovil panství a vybudoval (či obnovil) nové sídlo, nejisté zda obnovou první tvrze; v držení doloženo minimálně do 1581, roku 1584 prodali panství jeho dědicové; rod nemá vlastní článek"
   },
   {
    "owner": "z-vidrsperku",
@@ -50,7 +50,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "snatek",
-   "note": "získal panství sňatkem s dcerou Jana Vidršpergára; renesanční tvrz v letech 1683-1684 barokně přestavěna na zámeček, panství se stalo centrem týneckého panství"
+   "note": "získal panství sňatkem s dcerou Jana Vidršpergára; renesanční tvrz v letech 1683-1684 barokně přestavěna na zámeček, panství se stalo centrem týneckého panství; roku 1624 si dceru Jana Vidršpergára vzal za manželku"
   },
   {
    "owner": "kolowrat-krakowsti",
@@ -70,20 +70,20 @@
    "from": 1721,
    "to": 1927,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "dedictvi",
-   "note": "zdědil panství 1721, do té doby sídlil na tvrzi v Běšinech; dokončil úpravu nového zámku (kolem 1760); rod pak panství držel až do roku 1927, kdy je Jindřich Kolovrat-Krakovský prodal - přesný sled majitelů v tomto období cs.wiki neuvádí, starý zámek sloužil jako úřednický dům (Amthaus)"
+   "note": "zdědil panství 1721, do té doby sídlil na tvrzi v Běšinech; dokončil úpravu nového zámku (kolem 1760); rod pak panství držel až do roku 1927, kdy je Jindřich Kolovrat-Krakovský prodal - přesný sled majitelů v tomto období cs.wiki neuvádí, starý zámek sloužil jako úřednický dům (Amthaus); podle hrady.cz starý zámek po přestěhování majitelů do nového zámku nejspíše sloužil vrchnostenské správě panství; Kolovratové prodali oba zámky 1927"
   },
   {
    "owner": "soukromnik",
    "owner_wiki": null,
-   "person": "Jaroslav Polívka",
+   "person": "Jaroslav Josef Polívka (architekt)",
    "from": 1927,
    "to": 1935,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "koupil zámecký areál od Jindřicha Kolovrat-Krakovského a přestavěl jej na luxusní hotel, který brzy zkrachoval; údaje se týkají zámeckého areálu (nový i starý zámek)"
+   "note": "roku 1927 koupil od Jindřicha Kolovrat-Krakovského oba zámky (hrady.cz) a přestavěl je na luxusní hotel; za krizových 30. let zkrachoval, správu zámku roku 1934 převzal největší věřitel Záložna ve Velvarech (zámecký web zamektynec.cz), cs.wiki a hrady.cz uvádějí koupi spořitelnou 1935"
   },
   {
    "owner": "soukromnik",
@@ -93,75 +93,104 @@
    "to": 1937,
    "from_approx": false,
    "to_approx": false,
-   "how": "koupe"
+   "how": "koupe",
+   "note": "Městská spořitelna ve Velvarech (zámecký web: Záložna ve Velvarech), věřitel Polívky; po různých pokusech o využití zámek prodala"
   },
   {
-   "owner": "soukromnik",
+   "owner": "cirkev",
    "owner_wiki": null,
-   "person": "Spolek pro péči o sirotky v Praze",
+   "person": "Evangelická církev metodistická (pro Spolek pro péči o sirotky v Praze)",
    "from": 1937,
    "to": 1951,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "provozoval v zámku sirotčinec"
-  },
-  {
-   "owner": "cirkev",
-   "owner_wiki": null,
-   "person": null,
-   "from": 1951,
-   "to": null,
-   "from_approx": false,
-   "to_approx": true,
-   "how": "jine",
-   "note": "pražská evangelická církev metodistická, provozovala útulek pro tělesně postižené děti; cs.wiki neuvádí konec držby"
+   "note": "zámek koupila 15. 6. 1937 církev evangelická metodistická pro sociální ústav Spolku pro péči o sirotky v Praze, který zde zřídil sirotčinec (zámecký web zamektynec.cz; cs.wiki uvádí spolek jako majitele 1937 a církev až od 1951, podle zámeckého webu byla vlastníkem církev)"
   },
   {
    "owner": "stat",
    "owner_wiki": null,
    "person": null,
-   "from": null,
-   "to": 1989,
-   "from_approx": true,
-   "to_approx": false,
-   "how": "jine",
-   "note": "později byl zámek ve státním vlastnictví a sloužil armádě; přesný rok přechodu cs.wiki neuvádí"
-  },
-  {
-   "owner": "soukromnik",
-   "owner_wiki": null,
-   "person": null,
-   "from": 1989,
-   "to": 2000,
+   "from": 1951,
+   "to": 1990,
    "from_approx": false,
    "to_approx": false,
-   "how": "restituce",
-   "note": "po roce 1989 restituován (jméno restituenta cs.wiki neuvádí) a následně prodán neuvedené firmě, která jej zastavila bance"
+   "how": "konfiskace",
+   "note": "zestátněn 1. 10. 1951, sirotčinec (podle cs.wiki útulek pro tělesně postižené děti) vystěhován, do zámku se nastěhovala vojenská posádka z Klatov; vojenské útvary se střídaly do prosince 1988, poté byl zámek vyprázdněn (zamektynec.cz); církev o restituci nepožádala kvůli vysokým nákladům na opravu"
   },
   {
    "owner": "soukromnik",
    "owner_wiki": null,
-   "person": "Jan Pelánek",
-   "from": 2000,
+   "person": "Sipox, s.r.o. Bratislava",
+   "from": 1990,
+   "to": 1990,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "roku 1990 na ni vojenská správa hospodářskou smlouvou převedla zestátněný majetek; téhož roku ji prodala (zamektynec.cz, komerční web majitele areálu)"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Vakam, s.r.o. Praha",
+   "from": 1990,
+   "to": 1999,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "plánovala hotelové zařízení, nevhodně rekonstruovala krov a střechu a vzala si na zámek půjčku; 1995 vyhlášen konkurs, správkyně konkursní podstaty zámek čtyři roky prodávala (zamektynec.cz); cs.wiki místo toho uvádí restituci po 1989 a prodej neuvedené firmě - podle zámeckého webu k restituci nedošlo, církev o ni nepožádala"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Jan Pelánek (Lazarowitz)",
+   "from": 1999,
    "to": null,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "sběratel umění, zahájil postupnou rekonstrukci zámku"
+   "note": "sběratel umění a mecenáš, koupil zámek koncem 1999 (zamektynec.cz; cs.wiki uvádí rok 2000) a zahájil postupnou rekonstrukci; starý zámek zůstával nepovšimnut, než byl 2003 ztotožněn s renesanční tvrzí; údaje o prodejích po 1927 se týkají celého zámeckého areálu (nový i starý zámek)"
   }
  ],
  "events": [
-  {"year": 1555, "text": "Bořivoj Rochec z Otova kupuje pustou ves a tvrz Týnec, obnovuje panství"},
-  {"year": 1624, "text": "sňatkem přechází panství na Viléma Albrechta Krakovského z Kolovrat"},
-  {"year": 1684, "text": "barokní přestavba renesanční tvrze na zámeček (dendrochronologicky doloženo 1683-1684)"},
-  {"year": 1710, "text": "hrubá stavba honosnějšího nového zámku v sousedství je hotova"},
-  {"year": 1927, "text": "Jindřich Kolovrat-Krakovský prodává zámecký areál Jaroslavu Polívkovi"},
-  {"year": 2000, "text": "areál kupuje sběratel umění Jan Pelánek a zahajuje rekonstrukci"},
-  {"year": 2004, "text": "starý zámek prohlášen kulturní památkou České republiky"}
+  {
+   "year": 1555,
+   "text": "Bořivoj Rochec z Otova kupuje pustou ves a tvrz Týnec, obnovuje panství"
+  },
+  {
+   "year": 1624,
+   "text": "sňatkem přechází panství na Viléma Albrechta Krakovského z Kolovrat"
+  },
+  {
+   "year": 1684,
+   "text": "barokní přestavba renesanční tvrze na zámeček (dendrochronologicky doloženo 1683-1684)"
+  },
+  {
+   "year": 1710,
+   "text": "hrubá stavba honosnějšího nového zámku v sousedství je hotova"
+  },
+  {
+   "year": 1927,
+   "text": "Jindřich Kolovrat-Krakovský prodává zámecký areál Jaroslavu Polívkovi"
+  },
+  {
+   "year": 1951,
+   "text": "zámek zestátněn, sirotčinec vystěhován, nastěhovala se armáda (do 1988)"
+  },
+  {
+   "year": 1999,
+   "text": "areál koncem 1999 kupuje sběratel umění Jan Pelánek (cs.wiki: 2000) a zahajuje rekonstrukci"
+  },
+  {
+   "year": 2004,
+   "text": "starý zámek prohlášen kulturní památkou České republiky"
+  }
  ],
  "sources": [
   "https://cs.wikipedia.org/wiki/Týnec_(starý_zámek)",
-  "https://cs.wikipedia.org/wiki/Týnec_(nový_zámek)"
+  "https://cs.wikipedia.org/wiki/Týnec_(nový_zámek)",
+  "https://www.zamektynec.cz/cz/zamek-tynec-v-letech-1934-1999/",
+  "https://hrady-zriceniny.cz/hrad_tynec_stary_zamek.htm",
+  "https://www.hrady.cz/zamek-tynec"
  ]
 }

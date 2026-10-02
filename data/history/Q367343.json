@@ -1,32 +1,205 @@
 {
  "id": "Q367343",
  "name": "Horšovský Týn",
- "founded": {"year": 1250, "approx": true, "text": "Hrad byl založen kolem poloviny 13. století, za jeho zakladatele je považován pražský biskup Jan III. z Dražic; nahradil starší dřevěný biskupský dvorec zaniklý požárem."},
+ "founded": {
+  "year": 1250,
+  "approx": true,
+  "text": "Hrad byl založen kolem poloviny 13. století, za jeho zakladatele je považován pražský biskup Jan III. z Dražic; nahradil starší dřevěný biskupský dvorec zaniklý požárem."
+ },
  "summary": "Hrad Horšovský Týn založil kolem poloviny 13. století pražský biskup Jan III. z Dražic a pražské diecézi patřil až do husitských válek, kdy se v jeho držení vystřídali purkrabí a zástavní držitelé, zejména rod z Ronšperka. Roku 1539 jej koupil Jan mladší Popel z Lobkovic a rod Lobkoviců jej po požáru 1547 přestavěl renesančně; po konfiskaci Vilému z Lobkovic za účast na stavovském povstání jej roku 1622 koupil hrabě Maxmilián z Trauttmansdorffu. Rodu Trauttmansdorffů zámek patřil až do roku 1945, dnes je ve správě Národního památkového ústavu.",
  "owners": [
-  {"owner": "cirkev", "owner_wiki": null, "person": "pražské biskupství (Jan III. z Dražic)", "from": 1250, "to": 1426, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "chod hradu zajišťovali purkrabí (Zbyněk z Osvračína 1331, Petr Libnovec 1400, Otík z Illburka, Petr z Kostelce 1406, Zdeněk z Drštky); Zdeněk z Drštky hrad úspěšně hájil proti husitům 1422 a 1431"},
-  {"owner": "z-drstky", "owner_wiki": null, "person": "Zdeněk z Drštky", "from": 1426, "to": 1438, "from_approx": false, "to_approx": true, "how": "lenni", "note": "získal hrad s městem od císaře Zikmunda do zástavy"},
-  {"owner": "z-ronsperka", "owner_wiki": null, "person": "Zdeněk Kolvín z Ronšperka", "from": 1438, "to": 1445, "from_approx": false, "to_approx": true, "how": "lenni", "note": "Zdeňkův strýc, nový purkrabí a zástavní majitel, pokračoval v boji proti Bavorsku; zemřel okolo 1445, jeho nezletilí synové o hrad přišli, když jej král Ladislav Pohrobek věnoval pražské kapitule"},
-  {"owner": "cirkev", "owner_wiki": null, "person": "pražská kapitula", "from": 1445, "to": 1460, "from_approx": true, "to_approx": true, "how": "dar", "note": "v církevním majetku hrad zůstal jen krátce, poté jej Jiří z Poděbrad zastavil Dobrohostovi z Ronšperka za 2000 kop pražských grošů"},
-  {"owner": "z-ronsperka", "owner_wiki": null, "person": "Dobrohost z Ronšperka, poté synové Jiří a Volf", "from": 1460, "to": 1539, "from_approx": true, "to_approx": false, "how": "lenni", "note": "Dobrohost zajistil zástavní držení i pro pět synů a vnuka; z nich si hrad rozdělili Jiří a Volf, po Jiřího smrti jediným pánem Volf, který se oženil s Kateřinou z Lobkovic a hrad odkázal jí a dětem; roku 1539 koupil hrad od Ferdinanda I. Kateřinin bratr Jan mladší Popel z Lobkovic"},
-  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": "Jan mladší Popel z Lobkovic", "from": 1539, "to": 1574, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil od Ferdinanda I. za 8482 kop pražských grošů do dědičného vlastnictví; po požáru 1547 přestavěl hrad v renesančním slohu"},
-  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": "Alžběta z Roggendorfu (vdova) a syn Kryštof z Lobkovic", "from": 1574, "to": 1590, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "Alžběta se ujala panství po manželově smrti a roku 1574 je předala synovi Kryštofovi"},
-  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": "Vilém z Lobkovic", "from": 1590, "to": 1622, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "při dělení majetku s bratrem Kryštofem připadl Horšovský Týn Vilémovi; dokončena renesanční přestavba (probíhala ještě 1616); jako jeden z třiceti direktorů stavovského povstání mu byl majetek zkonfiskován"},
-  {"owner": "trauttmansdorffove", "owner_wiki": "Trauttmansdorffové", "person": "Maxmilián z Trauttmansdorffu", "from": 1622, "to": 1650, "from_approx": false, "to_approx": false, "how": "koupe", "note": "30. 3. 1622 koupil zabavená panství Horšovského Týna, Čečovic a Mířkova"},
-  {"owner": "trauttmansdorffove", "owner_wiki": "Trauttmansdorffové", "person": "Adam Matyáš z Trauttmansdorffu", "from": 1650, "to": 1684, "from_approx": false, "to_approx": false, "how": "dedictvi"},
-  {"owner": "trauttmansdorffove", "owner_wiki": "Trauttmansdorffové", "person": "Rudolf z Trauttmansdorffu", "from": 1684, "to": 1689, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "po jeho brzké smrti panství spravoval za nezletilé děti strýc Zikmund z Trauttmansdorffu"},
-  {"owner": "trauttmansdorffove", "owner_wiki": "Trauttmansdorffové", "person": "Zikmund, Jan Josef, Ferdinand, Jan Nepomuk, Ferdinand (1803-1859) a Karel z Trauttmansdorffu (1845-1921)", "from": 1689, "to": 1945, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "rod výrazně rozšířil panství, přestavby zámku od cca 1880 podle plánů Josefa Schulze; zámek rodině patřil až do roku 1945"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "článek nespecifikuje okolnosti přechodu na stát v roce 1945; dnes ve správě Národního památkového ústavu"}
+  {
+   "owner": "cirkev",
+   "owner_wiki": null,
+   "person": "pražské biskupství (Jan III. z Dražic)",
+   "from": 1250,
+   "to": 1426,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "chod hradu zajišťovali purkrabí (Zbyněk z Osvračína 1331, Petr Libnovec 1400, Otík z Illburka, Petr z Kostelce 1406, Zdeněk z Drštky); Zdeněk z Drštky hrad úspěšně hájil proti husitům 1422 a 1431"
+  },
+  {
+   "owner": "z-drstky",
+   "owner_wiki": null,
+   "person": "Zdeněk z Drštky",
+   "from": 1426,
+   "to": 1438,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "roku 1426 získal hrad s městem od císaře Zikmunda do zástavy (jako purkrabí hrad hájil 1422 a 1431); 1438 jej vystřídal strýc Zdeněk Kolvín z Ronšperka"
+  },
+  {
+   "owner": "z-ronsperka",
+   "owner_wiki": null,
+   "person": "Zdeněk Kolvín z Ronšperka",
+   "from": 1438,
+   "to": 1445,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "lenni",
+   "note": "Zdeňkův strýc, nový purkrabí a zástavní majitel, pokračoval v boji proti Bavorsku; zemřel okolo 1445, jeho nezletilí synové o hrad přišli, když jej král Ladislav Pohrobek věnoval pražské kapitule"
+  },
+  {
+   "owner": "cirkev",
+   "owner_wiki": null,
+   "person": "pražská kapitula",
+   "from": 1445,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dar",
+   "note": "král Ladislav Pohrobek hrad věnoval pražské kapitule po smrti Zdeňka Kolvína z Ronšperka (okolo 1445); v církevním majetku zůstal jen krátce, rok předání Dobrohostovi z Ronšperka cs.wiki neuvádí (zástava od Jiřího z Poděbrad za 2000 kop pražských grošů)"
+  },
+  {
+   "owner": "z-ronsperka",
+   "owner_wiki": null,
+   "person": "Dobrohost z Ronšperka, poté synové Jiří a Volf",
+   "from": null,
+   "to": 1539,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "zástava od krále Jiřího z Poděbrad za 2000 kop pražských grošů, rok neuveden; Dobrohost (od 1465 člen jednoty zelenohorské) zajistil zástavní držení i pro pět synů a vnuka; hrad si napůl rozdělili Jiří a Volf, po Jiřího smrti jediným pánem Volf, který se oženil s Kateřinou z Lobkovic a hrad odkázal jí a dětem; hrad koupil od Ferdinanda I. Kateřinin bratr Jan mladší Popel z Lobkovic (cs.wiki, de.wiki: 1539; NPÚ uvádí přechod okolo 1535, en.wiki 1542 u panství)"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Jan mladší Popel z Lobkovic",
+   "from": 1539,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil od Ferdinanda I. za 8482 kop pražských grošů do dědičného vlastnictví (1539 podle cs.wiki a de.wiki, NPÚ okolo 1535); panství tvořilo 28 vesnic, dva dvory a pustý hrad Starý Herštejn; po požáru 1547 nechal hrad přestavět v renesančním slohu (NPÚ: o tři roky později, tj. 1550); rok jeho smrti zdroje neuvádějí"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Alžběta z Roggendorfu (vdova po Janu mladším Popelovi)",
+   "from": null,
+   "to": 1574,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "třetí manželka Jana Popela, po jeho smrti se ujala panství a roku 1574 je předala synovi Kryštofovi"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Kryštof z Lobkovic",
+   "from": 1574,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "panství převzal od matky Alžběty; po dospění bratra Viléma se bratři rozdělili o majetek a Horšovský Týn připadl Vilémovi (rok dělení zdroje neuvádějí)"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Vilém z Lobkovic",
+   "from": null,
+   "to": 1622,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "při dělení majetku s bratrem Kryštofem připadl Horšovský Týn Vilémovi, rok dělení neuveden; za něj dokončena renesanční přestavba (probíhala ještě 1616); jako jeden z třiceti direktorů stavovského povstání odsouzen ke konfiskaci majetku (NPÚ: i k trestu smrti)"
+  },
+  {
+   "owner": "trauttmansdorffove",
+   "owner_wiki": "Trauttmansdorffové",
+   "person": "Maxmilián z Trauttmansdorffu",
+   "from": 1622,
+   "to": 1650,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "30. 3. 1622 koupil zabavená panství Horšovského Týna, Čečovic a Mířkova (cs.wiki; NPÚ uvádí koupi 1623 jako levný pobělohorský konfiskát)"
+  },
+  {
+   "owner": "trauttmansdorffove",
+   "owner_wiki": "Trauttmansdorffové",
+   "person": "Adam Matyáš z Trauttmansdorffu",
+   "from": 1650,
+   "to": 1684,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi"
+  },
+  {
+   "owner": "trauttmansdorffove",
+   "owner_wiki": "Trauttmansdorffové",
+   "person": "Rudolf z Trauttmansdorffu",
+   "from": 1684,
+   "to": 1689,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "po jeho brzké smrti panství spravoval za nezletilé děti strýc Zikmund z Trauttmansdorffu"
+  },
+  {
+   "owner": "trauttmansdorffove",
+   "owner_wiki": "Trauttmansdorffové",
+   "person": "Zikmund, Jan Josef, Ferdinand, Jan Nepomuk, Ferdinand (1803-1859) a Karel z Trauttmansdorffu (1845-1921)",
+   "from": 1689,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "rod výrazně rozšířil panství, přestavby zámku od cca 1880 podle plánů Josefa Schulze; zámek rodině patřil až do roku 1945"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "Trauttmansdorffům zámek patřil až do roku 1945; podle NPÚ převzal správu stát na základě Benešových dekretů; dnes státní hrad a zámek ve správě Národního památkového ústavu"
+  }
  ],
  "events": [
-  {"year": 1250, "text": "založení hradu pražským biskupem Janem III. z Dražic"},
-  {"year": 1260, "text": "1260-1270 stavba raně gotické kaple Nejsvětější Trojice v jihozápadní věži"},
-  {"year": 1422, "text": "purkrabí Zdeněk z Drštky úspěšně hájil hrad proti husitskému obléhání (i 1431)"},
-  {"year": 1539, "text": "Jan mladší Popel z Lobkovic kupuje hrad od Ferdinanda I. do dědičného vlastnictví"},
-  {"year": 1547, "text": "velký požár hradu i města, následná renesanční přestavba"},
-  {"year": 1622, "text": "po konfiskaci Vilému z Lobkovic kupuje panství Maxmilián z Trauttmansdorffu"},
-  {"year": 1880, "text": "přestavby zámku podle plánů architekta Josefa Schulze"},
-  {"year": 1945, "text": "konec držby rodu Trauttmansdorffů, přechod na stát"}
+  {
+   "year": 1250,
+   "text": "založení hradu pražským biskupem Janem III. z Dražic"
+  },
+  {
+   "year": 1260,
+   "text": "1260-1270 stavba raně gotické kaple Nejsvětější Trojice v jihozápadní věži"
+  },
+  {
+   "year": 1422,
+   "text": "purkrabí Zdeněk z Drštky úspěšně hájil hrad proti husitskému obléhání (i 1431)"
+  },
+  {
+   "year": 1539,
+   "text": "Jan mladší Popel z Lobkovic kupuje hrad od Ferdinanda I. do dědičného vlastnictví (NPÚ: okolo 1535)"
+  },
+  {
+   "year": 1547,
+   "text": "velký požár hradu i města, následná renesanční přestavba"
+  },
+  {
+   "year": 1622,
+   "text": "po konfiskaci Vilému z Lobkovic kupuje panství Maxmilián z Trauttmansdorffu (NPÚ: 1623)"
+  },
+  {
+   "year": 1880,
+   "text": "přestavby zámku podle plánů architekta Josefa Schulze"
+  },
+  {
+   "year": 1945,
+   "text": "konec držby rodu Trauttmansdorffů, přechod na stát"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Horšovský_Týn_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Horšovský_Týn_(zámek)",
+  "https://de.wikipedia.org/wiki/Hor%C5%A1ovsk%C3%BD_T%C3%BDn",
+  "https://en.wikipedia.org/wiki/Hor%C5%A1ovsk%C3%BD_T%C3%BDn",
+  "https://www.zamek-horsovskytyn.cz/cs/o-zamku/historie"
+ ]
 }

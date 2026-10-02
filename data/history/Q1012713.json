@@ -1,25 +1,168 @@
 {
  "id": "Q1012713",
  "name": "Kozí hrádek",
- "founded": {"year": 1370, "approx": true, "text": "Zakladatel není znám, první zmínka o hradu pochází z roku 1377, kdy byl v držení Vlčka z Kozího."},
- "summary": "Kozí hrádek je poprvé zmiňován roku 1377 v držení Vlčka z Kozího, zakladatel hradu není znám. Poté jej vlastnil Jan z Hardeka, od roku 1391 Jindřich z Hradce a od roku 1406 Vilém z Újezda, jehož synové Jan a Ctibor na hrad roku 1412 pozvali mistra Jana Husa, který zde s přestávkami pobýval do jara 1414. Roku 1438 hrad za válečného tažení Albrechta II. Habsburského vyhořel a roku 1542 je v zemských deskách zapsán jako pustý, součást majetku města Tábora; od roku 1991 je zřícenina v majetku města Sezimovo Ústí.",
+ "founded": {
+  "year": null,
+  "approx": false,
+  "text": "Hrad vznikl pravděpodobně ve 14. století, zakladatel není znám; první písemná zmínka pochází z 21. ledna 1377, kdy jej držel Vlček z Kozího."
+ },
+ "summary": "Kozí hrádek vznikl pravděpodobně ve 14. století a poprvé je zmiňován 21. ledna 1377 v držení Vlčka z Kozího. Poté jej vlastnili Hardekové (do 1387), od roku 1391 Jindřich I. z Hradce a nejpozději od 1406 Vilém z Újezda, jehož synové Jan a Ctibor na hrad roku 1412 pozvali mistra Jana Husa, který zde pobýval s přestávkami do jara 1414. Roku 1438 hrad vyhořel, později připadl městu Táboru a roku 1542 je v zemských deskách zapsán jako pustý; roku 1573 jej koupil Pavel Lučín a poté Zikmund Pek z Římek. Od roku 1991 je zřícenina v majetku města Sezimovo Ústí.",
  "owners": [
-  {"owner": "z-koziho", "owner_wiki": null, "person": "Vlček z Kozího", "from": 1370, "to": 1385, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "první doložený držitel, zmíněn 1377; přesná data počátku a konce držby nejsou známa"},
-  {"owner": "hardekove", "owner_wiki": "Hardekové", "person": "Jan z Hardeka", "from": 1385, "to": 1391, "from_approx": true, "to_approx": false, "how": "neznamo"},
-  {"owner": "pani-z-hradce", "owner_wiki": "Páni z Hradce", "person": "Jindřich z Hradce", "from": 1391, "to": 1406, "from_approx": false, "to_approx": false, "how": "neznamo"},
-  {"owner": "z-ujezda", "owner_wiki": null, "person": "Vilém z Újezda", "from": 1406, "to": 1412, "from_approx": false, "to_approx": true, "how": "neznamo"},
-  {"owner": "z-ujezda", "owner_wiki": null, "person": "Jan a Ctibor z Kozího (synové Viléma z Újezda)", "from": 1412, "to": 1438, "from_approx": true, "to_approx": true, "how": "dedictvi", "note": "roku 1412 pozvali na hrad mistra Jana Husa, který zde pobýval na podzim 1412 a od jara 1413 do 15. července 1414; roku 1438 hrad pravděpodobně vyhořel při tažení Albrechta II. Habsburského"},
-  {"owner": "mesto", "owner_wiki": null, "person": "Tábor", "from": 1438, "to": 1991, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "roku 1542 zápis v zemských deskách o majetku táborském uvádí 'Kozí hrad pustý'; další staletí sloužil jen jako zdroj stavebního kamene, majitel v tomto období blíže nedoložen"},
-  {"owner": "mesto", "owner_wiki": null, "person": "Sezimovo Ústí", "from": 1991, "to": null, "from_approx": false, "to_approx": false, "how": "jine", "note": "od 1991 zřícenina v majetku města Sezimovo Ústí"}
+  {
+   "owner": "z-koziho",
+   "owner_wiki": null,
+   "person": "Vlček z Kozího",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "první doložený držitel, zmíněn 21. ledna 1377; začátek ani konec jeho držby zdroje neuvádějí"
+  },
+  {
+   "owner": "hardekove",
+   "owner_wiki": "Hardekové",
+   "person": "Jan z Hardeka mladší, zvaný 'z Kozí'",
+   "from": null,
+   "to": 1387,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "po Vlčkovi hrad získali Hardekové; podle en.wiki držel hrad do roku 1387; začátek držby není doložen"
+  },
+  {
+   "owner": "pani-z-hradce",
+   "owner_wiki": "Páni z Hradce",
+   "person": "Jindřich I. z Hradce",
+   "from": 1391,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "podle en.wiki byl hrad s panstvím roku 1391 prodán Jindřichovi z Hradce za 2000 pražských grošů; konec držby zdroje neuvádějí (nejpozději 1406)"
+  },
+  {
+   "owner": "z-ujezda",
+   "owner_wiki": null,
+   "person": "Vilém z Újezda",
+   "from": null,
+   "to": 1408,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "cs.wiki: od roku 1406 držitel Vilém z Újezda; podle en.wiki zemřel 1408 a stal se zakladatelem rodu Kozských z Kozího; rok převzetí zdroje neuvádějí (nejpozději 1406)"
+  },
+  {
+   "owner": "z-ujezda",
+   "owner_wiki": null,
+   "person": "Jan a Ctibor z Kozího (synové Viléma z Újezda)",
+   "from": 1408,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "synové Viléma z Újezda; rok 1408 je rok otcovy smrti (en.wiki), přesné datum nabytí není doloženo; roku 1412 pozvali na hrad mistra Jana Husa, který zde pobýval na podzim 1412 a od jara 1413 do 15. července 1414 (en.wiki uvádí Jana jako 'z Ústí'); konec držby zdroje neuvádějí, hrad 1438 vyhořel"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "Tábor",
+   "from": null,
+   "to": 1573,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "podle en.wiki po husitských válkách (hrad byl předtím pod vlivem táborské obce) zpustlý hrad připadl městu Tábor; cs.wiki: 1542 zápis v zemských deskách o majetku táborském 'Kozí hrad pustý'; rok přechodu na Tábor není doložen"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Pavel Lučín",
+   "from": 1573,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "en.wiki: roku 1573 hrad zakoupil básník Pavel Lučín, který jej dále prodal; rok dalšího prodeje není uveden"
+  },
+  {
+   "owner": "z-rimek",
+   "owner_wiki": null,
+   "person": "Zikmund Pek z Římek",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "en.wiki: od Pavla Lučína hrad získal Zikmund Pek z Římek; rok ani konec držby není uveden"
+  },
+  {
+   "owner": "neznamo",
+   "owner_wiki": null,
+   "person": null,
+   "from": null,
+   "to": 1991,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "majitele zříceniny od 16. století do 1991 zdroje neuvádějí; sloužila jako zdroj stavebního kamene pro okolí (např. Meziříčí) a postupně zarostla"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "Sezimovo Ústí",
+   "from": 1991,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "od roku 1991 je zřícenina v majetku města Sezimovo Ústí (cs.wiki, en.wiki); způsob nabytí neuveden"
+  }
  ],
  "events": [
-  {"year": 1377, "text": "první zmínka o hradu, v držení Vlčka z Kozího"},
-  {"year": 1412, "text": "na hrad přichází mistr Jan Hus, dokončuje zde Postilu a píše traktáty O svatokupectví, O církvi a O šesti bludiech"},
-  {"year": 1414, "text": "15. července Hus odchází z jižních Čech na hrad Krakovec"},
-  {"year": 1438, "text": "hrad pravděpodobně vyhořel během tažení Albrechta II. Habsburského"},
-  {"year": 1542, "text": "zemské desky zaznamenávají hrad jako pustý"},
-  {"year": 1899, "text": "archeolog Josef Švehla zahajuje desetileté systematické odkrývání trosek hradu"},
-  {"year": 1962, "text": "30. března prohlášen národní kulturní památkou pro spojitost se životem Jana Husa"}
+  {
+   "year": 1377,
+   "text": "první zmínka o hradu, v držení Vlčka z Kozího"
+  },
+  {
+   "year": 1391,
+   "text": "hrad s panstvím za 2000 pražských grošů kupuje Jindřich I. z Hradce"
+  },
+  {
+   "year": 1412,
+   "text": "na hrad přichází mistr Jan Hus, dokončuje zde Postilu a píše traktáty O svatokupectví, O církvi a O šesti bludiech"
+  },
+  {
+   "year": 1414,
+   "text": "15. července Hus odchází z jižních Čech na hrad Krakovec"
+  },
+  {
+   "year": 1438,
+   "text": "hrad pravděpodobně vyhořel během tažení Albrechta II. Habsburského"
+  },
+  {
+   "year": 1542,
+   "text": "zemské desky zaznamenávají hrad jako pustý"
+  },
+  {
+   "year": 1573,
+   "text": "hrad kupuje básník Pavel Lučín, který jej prodal Zikmundu Pekovi z Římek"
+  },
+  {
+   "year": 1899,
+   "text": "archeolog Josef Švehla zahajuje desetileté systematické odkrývání trosek hradu"
+  },
+  {
+   "year": 1962,
+   "text": "30. března prohlášen národní kulturní památkou pro spojitost se životem Jana Husa"
+  },
+  {
+   "year": 1991,
+   "text": "zřícenina přechází do majetku města Sezimovo Ústí"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Kozí_hrádek"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Kozí_hrádek",
+  "https://en.wikipedia.org/wiki/Kozí_hrádek"
+ ]
 }

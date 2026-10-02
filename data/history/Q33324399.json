@@ -4,20 +4,42 @@
  "founded": {
   "year": 1720,
   "approx": true,
-  "text": "Barokní zámek postavil ve 20. letech 18. století na místě původní středověké tvrze pravděpodobně Josef Viktorín z Harasova"
+  "text": "Ve 20. letech 18. století nechal na místě středověké tvrze postavit menší barokní zámek pravděpodobně Josef Viktorín Harasovský z Harasova (zdroj: cs.wiki, hrady.cz; knihovnatesin.cz uvádí, že výstavbu inicioval)"
  },
- "summary": "Zámek Trnávka vznikl ve 20. letech 18. století v barokním stylu na místě starší středověké tvrze, jeho stavitelem byl pravděpodobně Josef Viktorín z Harasova. Dnešní pozdně barokní podobu získal kolem roku 1780. Zdroj neuvádí další vlastníky mezi stavbou zámku a rokem 1947, kdy zámek připadl obci Trnávka, která v něm dodnes sídlí obecním úřadem a využívá jej ke společenským akcím.",
+ "summary": "Trnávka byla od 16. století v rukou Chorynských z Ledské, po Bílé hoře ji koupil Jan Krištof Orlík z Lažiska a poté ji přes 260 let drželi Harasovští z Harasova. Josef Viktorín Harasovský z Harasova, který roku 1726 vykoupil podíly sourozenců a sloučil lenní statek ve svých rukou, inicioval ve 20. letech 18. století stavbu menšího barokního zámku na místě staré tvrze (pozdně barokní podoba kolem 1780). Roku 1891 statek koupili Vetterové z Lilie, kteří jej vlastnili do roku 1945, a od roku 1947 zámek patří obci Trnávka, která v něm má obecní úřad.",
  "owners": [
   {
    "owner": "z-harasova",
    "owner_wiki": null,
-   "person": "Josef Viktorín z Harasova",
-   "from": 1720,
-   "to": null,
-   "from_approx": true,
+   "person": "Josef Viktorín Harasovský z Harasova",
+   "from": 1726,
+   "to": 1734,
+   "from_approx": false,
    "to_approx": false,
-   "how": "zalozeni",
-   "note": "zdroj uvádí stavitele jen jako 'pravděpodobně Josef Viktorín z Harasova', bez určení konkrétní rodové větve (predikát z Harasova nesou např. Hrzánové i Homutové); další osud vlastnictví do 1947 zdroj neuvádí"
+   "how": "koupe",
+   "note": "20. 9. 1726 vykoupil podíly bratří Antonína Ferdinanda a Jiřího Františka a sloučil lenní statek ve svých rukou (už od 1721 byl spolumajitelem a pronajímal Trnávku); zámek postavil nebo inicioval ve 20. letech 18. stol., zemřel 26. 4. 1734 v Trnávce. Jde o těšínskou/hukvaldskou větev Harasovských z Harasova (Harrasowsky von Harrasow), ne o Hrzány ani Homuty; zdroj knihovnatesin.cz (Biografický slovník Slezska a severní Moravy)"
+  },
+  {
+   "owner": "z-harasova",
+   "owner_wiki": null,
+   "person": "potomci Josefa Viktorína (Harasovští z Harasova)",
+   "from": 1734,
+   "to": 1891,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "obec Trnávka a moravskoslezský kraj uvádějí, že Harasovští drželi panství přes 260 let; poslední jmenovaný člen, rytíř Filip Harasovský, daroval v 19. stol. škole pozemek; konkrétní jména dědiců zdroje neuvádějí"
+  },
+  {
+   "owner": "vetterove-z-lilie",
+   "owner_wiki": "Vetterové z Lilie",
+   "person": null,
+   "from": 1891,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "statek Trnávka koupili 1891 a vlastnili jej do roku 1945 (moravskoslezsky.kraj.cz, encyklopedie)"
   },
   {
    "owner": "mesto",
@@ -28,13 +50,31 @@
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "od roku 1947 patří zámek obci Trnávka, sídlí v něm obecní úřad; způsob nabytí zdroj neuvádí"
+   "note": "od roku 1947 patří zámek obci, sídlí v něm obecní úřad a je využíván ke společenským akcím; způsob nabytí a osud zámku v letech 1945-1947 zdroje neuvádějí"
   }
  ],
  "events": [
-  {"year": 1720, "text": "postaven barokní zámek na místě starší tvrze"},
-  {"year": 1780, "text": "zámek získal současnou pozdně barokní podobu"},
-  {"year": 1947, "text": "zámek připadl obci Trnávka"}
+  {
+   "year": 1726,
+   "text": "Josef Viktorín Harasovský vykoupil podíly sourozenců a sloučil lenní statek Trnávka"
+  },
+  {
+   "year": 1780,
+   "text": "zámek získal současnou pozdně barokní podobu (kolem tohoto roku)"
+  },
+  {
+   "year": 1891,
+   "text": "statek Trnávka koupili Vetterové z Lilie"
+  },
+  {
+   "year": 1947,
+   "text": "zámek připadl obci Trnávka"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Trnávka_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Trnávka_(zámek)",
+  "https://www.knihovnatesin.cz/josef%2Dviktorin%2Dharasovsky%2Dz%2Dharasova%2Dharrasowsky%2Dvon%2Dharrasow/o-2543",
+  "http://moravskoslezsky.kraj.cz/encyklopedie/objekty1.phtml?id=19420",
+  "https://www.trnavka.cz/obec/historie/"
+ ]
 }

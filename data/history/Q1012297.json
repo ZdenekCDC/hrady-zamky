@@ -6,7 +6,7 @@
   "approx": false,
   "text": "21. května 1355 povolil král Karel IV. bratrům Petrovi, Joštovi, Oldřichovi a Janovi z Rožmberka stavbu hradu na vrchu Malošín u Krajníčka za služby při korunovační cestě do Říma."
  },
- "summary": "Hrad Helfenburk založili po polovině 14. století páni z Rožmberka na krajině získané od Bavorů ze Strakonic a drželi jej téměř nepřetržitě až do konce 16. století, s výjimkou krátkých zástav a prodejů (Lobkovicové, Vlčkové z Čenova, další). Po vojenském úpadku hradu v 16. století se stal jen správním centrem panství a roku 1593 jej Petr Vok z Rožmberka prodal Prachaticím. Po pobělohorské konfiskaci Prachaticím jej roku 1622 získali Eggenberkové a po nich roku 1719 Schwarzenberkové; od roku 1928 patří zřícenina státu a je zpřístupněna veřejnosti.",
+ "summary": "Hrad Helfenburk založili po polovině 14. století páni z Rožmberka na krajině získané od Bavorů ze Strakonic a drželi jej téměř nepřetržitě až do konce 16. století, s výjimkou krátkých zástav a prodejů (Lobkovicové, Vlčkové z Čenova, další). Po vojenském úpadku hradu v 16. století se stal jen správním centrem panství a roku 1593 jej Petr Vok z Rožmberka prodal Prachaticím. Po pobělohorské konfiskaci Prachaticím jej roku 1622 získali Eggenberkové a po nich roku 1719 Schwarzenberkové; po pozemkové reformě (1922 podle turistických zdrojů, 1928 podle cs.wiki) připadla zřícenina státu, pronajímal ji Klub českých turistů; dnes ji podle en.wiki vlastní město Bavorov.",
  "owners": [
   {
    "owner": "rozmberkove",
@@ -207,7 +207,7 @@
    "owner_wiki": "Schwarzenbergové",
    "person": null,
    "from": 1719,
-   "to": 1928,
+   "to": 1922,
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
@@ -217,12 +217,23 @@
    "owner": "stat",
    "owner_wiki": null,
    "person": null,
-   "from": 1928,
+   "from": 1922,
    "to": null,
    "from_approx": false,
    "to_approx": false,
    "how": "jine",
-   "note": "cs.wiki neuvádí způsob nabytí; ve 30. letech proběhla konzervace zdí, 1977 upravena jižní věž na rozhlednu"
+   "note": "cs.wiki uvádí 1928 bez způsobu nabytí; jiznicechy.cz a en.wiki uvádějí 1922 (zestátnění Schwarzenberského majetku výnosem o pozemkové reformě, správa Státní lesy a statky Třeboň, zříceninu pronajímal Klub českých turistů); rok 1922 převzat z těchto zdrojů (turistický portál, méně spolehlivé), cs.wiki 1928 může označovat pozdější formální převod; ve 30. letech konzervace zdí, 1977 jižní věž upravena na rozhlednu"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "město Bavorov",
+   "from": null,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "dnešním majitelem je podle en.wiki a treking.cz město Bavorov; rok ani způsob nabytí zdroje neuvádějí (cs.wiki dnešního vlastníka neuvádí)"
   }
  ],
  "events": [
@@ -255,11 +266,14 @@
    "text": "po konfiskaci Prachaticím získávají panství Eggenberkové"
   },
   {
-   "year": 1928,
-   "text": "zřícenina přechází do majetku státu, později konzervována a zpřístupněna"
+   "year": 1922,
+   "text": "zřícenina přechází na stát (pozemková reforma; cs.wiki uvádí 1928), později konzervována a zpřístupněna"
   }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Helfenburk_u_Bavorova"
+  "https://cs.wikipedia.org/wiki/Helfenburk_u_Bavorova",
+  "https://en.wikipedia.org/wiki/Helfenburk",
+  "https://www.jiznicechy.cz/turisticke-cile/196-hrad-helfenburk",
+  "https://www.treking.cz/regiony/hrad-helfenburk.htm"
  ]
 }

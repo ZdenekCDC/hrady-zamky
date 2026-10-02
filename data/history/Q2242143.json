@@ -1,28 +1,214 @@
 {
  "id": "Q2242143",
  "name": "Litultovice",
- "founded": {"year": null, "approx": false, "text": "První písemná zmínka o tvrzi je z roku 1446 za vlády Václava Kosíře z Litultovic; přesný rok založení zdroj neuvádí."},
- "summary": "Zámek v Litultovicích vznikl přestavbou tvrze, poprvé doložené roku 1446 za Václava Kosíře z Litultovic. Roku 1573 jej koupil Otík Stoš z Kounic, v letech 1580-1614 jej jako léno drželi Bítovští z Bítova a renesančně přestavěli; po Bílé hoře byl roku 1621 zkonfiskován a stal se lénem olomouckého arcibiskupa, později patřil Orlíkům z Laziska, Tetzlernům, kteří jej v polovině 18. století barokně přestavěli, a od roku 1792 do konce druhé světové války rodu Rollsbergů. Po roce 1945 sloužil zámek JZD, od roku 1947 připadl místnímu národnímu výboru a dnes je v něm sídlo úřadu městyse Litultovice.",
+ "founded": {
+  "year": null,
+  "approx": false,
+  "text": "První písemná zmínka o tvrzi je z roku 1446 za vlády Václava Kosíře z Litultovic; přesný rok založení zdroj neuvádí."
+ },
+ "summary": "Zámek v Litultovicích vznikl přestavbou tvrze, poprvé doložené roku 1446 za Václava Kosíře z Litultovic; šlo o léno olomouckých biskupů, jehož držitelé se často střídali. Od roku 1516 je držel Stošové z Kounic (Jan Stoš tvrz kolem 1579 přestavěl na renesanční zámek), v letech 1580-1614 Bítovští z Bítova, po nich krátce Rohr ze Stínavy a Rejbnic z Petrovic a od 17. století Orlíkové z Laziska. Po krátké držbě Görtzů z Steina a vydražení 1704 jej od 1714 drželi Tetzlerové, kteří jej v polovině 18. století barokně přestavěli, a od roku 1792 do roku 1945 baroni Putz z Rolsbergu. Po roce 1945 sloužil zámek JZD, od roku 1947 místnímu národnímu výboru a dnes je v něm sídlo úřadu městyse.",
  "owners": [
-  {"owner": "z-litultovic", "owner_wiki": null, "person": "Václav Kosíř z Litultovic", "from": null, "to": 1573, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "první písemná zmínka o tvrzi 1446 za jeho vlády; rod bez vlastního článku na cs.wiki, přesný rok nabytí zdroj neuvádí"},
-  {"owner": "stosove-z-kounic", "owner_wiki": "Stošové z Kounic", "person": "Otík Stoš z Kounic, poté Jan Stoš z Kounic", "from": 1573, "to": 1580, "from_approx": false, "to_approx": false, "how": "koupe", "note": "Jan Stoš z Kounic dokončil roku 1579 přestavbu zámku"},
-  {"owner": "bitovsti-z-bitova", "owner_wiki": "Bítovští z Bítova", "person": null, "from": 1580, "to": 1614, "from_approx": false, "to_approx": false, "how": "lenni", "note": "drželi zámek jako léno, přestavěli jej, vznikl nový a starý zámek"},
-  {"owner": "cirkev", "owner_wiki": null, "person": "olomoucké arcibiskupství", "from": 1621, "to": 1647, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "majetek zkonfiskován po Bílé hoře a stal se lénem olomouckého arcibiskupa; majitel v letech 1614-1621 zdroj neuvádí"},
-  {"owner": "orlikove-z-laziska", "owner_wiki": "Orlíkové z Laziska", "person": null, "from": 1647, "to": 1694, "from_approx": false, "to_approx": false, "how": "lenni", "note": "zdroj uvádí 'mladší Orlíkové z Laziska'"},
-  {"owner": "tetzlernove", "owner_wiki": null, "person": null, "from": 1714, "to": 1792, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "rod bez vlastního článku na cs.wiki; za jejich držby byl zámek v polovině 18. století barokně přestavěn; majitel v letech 1694-1714 zdroj neuvádí"},
-  {"owner": "rollsbergove", "owner_wiki": null, "person": "baron Karel z Rollsbergu", "from": 1792, "to": 1920, "from_approx": false, "to_approx": false, "how": "koupe", "note": "rod bez vlastního článku na cs.wiki; Karel z Rollsbergu zemřel 1920, jeho jediný syn Maxmilián padl v 1. světové válce v Haliči"},
-  {"owner": "soukromnik", "owner_wiki": null, "person": "generál Alfréd Waldsttäten (správce panství)", "from": 1920, "to": 1945, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "po smrti barona Karla z Rollsbergu a bezdětnosti dědice převzal správu panství jako poslední starosta; roku 1945 zatčen jako německý státní příslušník; není jasné, zda šlo o vlastníka nebo jen správce"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": 1947, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "po válce zámek sloužil potřebám JZD"},
-  {"owner": "mesto", "owner_wiki": null, "person": null, "from": 1947, "to": null, "from_approx": false, "to_approx": false, "how": "jine", "note": "přidělen místnímu národnímu výboru; dnes sídlo úřadu městyse Litultovice"}
+  {
+   "owner": "z-litultovic",
+   "owner_wiki": null,
+   "person": "Václav Jindřich Kosíř z Litultovic",
+   "from": 1432,
+   "to": 1446,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "léno olomouckých biskupů; vikštejnský purkrabí, který na hradě sídlil; 1446 první zmínka o tvrzi (baště) postavené nejspíše na obranu vsi; starší držitelé: Henrik de Oppal 1281-1325, Vavřík z Lutholtowitz 1368-1389, Zikmund z Litultovic 1412; rod bez článku na cs.wiki"
+  },
+  {
+   "owner": "birkove-z-nasile",
+   "owner_wiki": "Bírkové z Násile",
+   "person": "Bernart Běrka z Nasilé, poté jeho potomci",
+   "from": 1451,
+   "to": 1516,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "1451 přejímal Litultovice 'se dvorem vlastním'; komoří krále Vladislava II., hejtman Opavského knížectví; vnuk Jiří Běrka z Nasilé prodal 1516 statek Janu Stošovi z Kounic; mezera 1446-1451 ve zdroji"
+  },
+  {
+   "owner": "stosove-z-kounic",
+   "owner_wiki": "Stošové z Kounic",
+   "person": "Jan Stoš z Kounic, poté Matouš, Bedřich a Otík Stošové z Kounic",
+   "from": 1516,
+   "to": 1567,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "1558 Matouš Stoš postoupil Litultovice s tvrzí Bedřichu Stošovi, ten 1560 Otíkovi z Kounic (léno přijal 1565); léno poté spadlo na olomouckého biskupa; de.wiki uvádí držbu Kounických 1518-1594, což neodpovídá obci Litultovice"
+  },
+  {
+   "owner": "z-vickova",
+   "owner_wiki": null,
+   "person": "Bohuslav z Víckova a Jan Bohuslav ze Zdědína",
+   "from": 1567,
+   "to": 1573,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "léno udělil olomoucký biskup; 1573 oba statek prodali Otíkovi Stošovi z Kounic"
+  },
+  {
+   "owner": "stosove-z-kounic",
+   "owner_wiki": "Stošové z Kounic",
+   "person": "Otík Stoš z Kounic, poté Jan Stoš z Kounic",
+   "from": 1573,
+   "to": 1580,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Otík koupil 1573 za 7000 moravských zlatých, téhož roku se utopil v Ostravici; spor o odúmrť (sestry Dorota a Magdalena), léno nakonec uděleno synovci Janu Stošovi za 8500 zl.; Jan tvrz renesančně přestavěl (dokončeno patrně 1579)"
+  },
+  {
+   "owner": "bitovsti-z-bitova",
+   "owner_wiki": "Bítovští z Bítova",
+   "person": "Karel Bítovský z Bítova, poté synové Václav a Jiří",
+   "from": 1580,
+   "to": 1614,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "29. 11. 1580 Karel převzal tvrz, ves a dvůr z rukou biskupa; Bítovští založili 'nový zámek' (letopočet 1609); 1614 Václav léno prodal za 14 000 moravských zlatých"
+  },
+  {
+   "owner": "z-stinavy",
+   "owner_wiki": null,
+   "person": "Mikuláš Rohr ze Stínavy a manželka Barbora Adlšpachová z Nyklštorfu",
+   "from": 1614,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupili léno od Václava Bítovského; další vlastník je doložen až 1618"
+  },
+  {
+   "owner": "z-petrovic",
+   "owner_wiki": null,
+   "person": "Kašpar Rejbnic z Petrovic",
+   "from": 1618,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "1618 doložen jako držitel; po vstupu do služeb Jana Jiřího Hohenzollerna statek málem ztratil, v lednu 1622 mu byla udělena milost a směl zůstat; cs.wiki a de.wiki uvádějí 1621 konfiskaci a léno olomouckého arcibiskupa (podle obce Litultovice držba pokračovala)"
+  },
+  {
+   "owner": "orlikove-z-laziska",
+   "owner_wiki": "Orlíkové z Laziska",
+   "person": "Jan Kryštof Orlík z Laziska (1628 hejtman na Hukvaldech), poté Jan Kryštof, Stanislav a Mikuláš, mladší Orlíkové z Laziska",
+   "from": 1628,
+   "to": 1694,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "1628 doložen Jan Kryštof Orlík; před 1647 udělil biskup léno trojici mladších Orlíků (cs.wiki a obec: od 1647); po smrti posledního z nich léno spadlo zpět na biskupa"
+  },
+  {
+   "owner": "gortzove-z-steina",
+   "owner_wiki": null,
+   "person": "sirotci Görtzové z Steina",
+   "from": 1694,
+   "to": 1704,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "léno udělil biskup sirotkům Görtzům z Steina (de.wiki: Görz von Astein); 1704 bylo panství vydraženo; v letech 1704-1714 zdroje majitele neuvádějí"
+  },
+  {
+   "owner": "tetzlernove",
+   "owner_wiki": null,
+   "person": "Jan Arnošt z Tetzlernu, od 1718 synové Jan Fridrich, Josef Ignác a Jiří Antonín; posledním lenním držitelem Jan Jáchym Bedřich z Tetzlernu (†25. 2. 1792)",
+   "from": 1714,
+   "to": 1792,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "statek získal za 20 000 zlatých (obec: po vydražení 1704; od 1714 podle cs.wiki a webu zámku); v polovině 18. stol. barokní přestavba; rod bez vlastního článku na cs.wiki"
+  },
+  {
+   "owner": "rollsbergove",
+   "owner_wiki": null,
+   "person": "Maxmilián Putz z Rolsbergu, poté Josef (†1841), Maxmilián, od 1875 Karel Putz z Rolsbergu (†1920) a zeť Alfréd Waldstätten",
+   "from": 1792,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "1792 koupil od olomouckého biskupa za 48 000 zlatých; rod bez článku na cs.wiki; po smrti barona Karla (1920, cs.wiki a obec; de.wiki 1921) a pádu jediného syna Maxmiliána v 1. sv. válce převzal správu panství generál Alfréd Waldstätten (zeť, ustanoven závětí), který hospodařil do 1945; v rodině zámek zůstal do 1945"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": 1947,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "1945 rodina vyvlastněna a vyhnána (de.wiki), Waldstätten zatčen a odsouzen k sedmi letům, po dvou letech omilostněn; zámek po válce sloužil potřebám JZD"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "místní národní výbor, dnes městys Litultovice",
+   "from": 1947,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "od 1947 přidělen místnímu národnímu výboru; dnes sídlo úřadu městyse Litultovice; 1972-1979 rekonstrukce"
+  }
  ],
  "events": [
-  {"year": 1446, "text": "první písemná zmínka o tvrzi za Václava Kosíře z Litultovic"},
-  {"year": 1579, "text": "dokončena renesanční přestavba zámku Janem Stošem z Kounic"},
-  {"year": 1614, "text": "dokončena přestavba Bítovských z Bítova na renesanční zámek (nový a starý zámek)"},
-  {"year": 1621, "text": "konfiskace majetku po Bílé hoře, zámek se stal lénem olomouckého arcibiskupa"},
-  {"year": 1750, "text": "barokní přestavba zámku za Tetzlernů (polovina 18. století)"},
-  {"year": 1945, "text": "konec 2. světové války, zatčení posledního správce panství jako německého státního příslušníka"},
-  {"year": 1979, "text": "dokončena rozsáhlá rekonstrukce navracející zámku původní vzhled (1972-1979)"}
+  {
+   "year": 1446,
+   "text": "první písemná zmínka o tvrzi za Václava Kosíře z Litultovic"
+  },
+  {
+   "year": 1516,
+   "text": "Jiří Běrka z Nasilé prodal Litultovice Janu Stošovi z Kounic"
+  },
+  {
+   "year": 1579,
+   "text": "dokončena renesanční přestavba zámku Janem Stošem z Kounic"
+  },
+  {
+   "year": 1614,
+   "text": "dokončena přestavba Bítovských z Bítova na renesanční zámek (nový a starý zámek)"
+  },
+  {
+   "year": 1621,
+   "text": "po Bílé hoře podle cs.wiki a de.wiki konfiskace a léno olomouckého arcibiskupa (obec Litultovice tento zásah neuvádí)"
+  },
+  {
+   "year": 1704,
+   "text": "panství vydraženo po vymření/ztrátě Görtzů z Steina"
+  },
+  {
+   "year": 1750,
+   "text": "barokní přestavba zámku za Tetzlernů (polovina 18. století)"
+  },
+  {
+   "year": 1792,
+   "text": "smrt posledního lenního držitele Jana Jáchyma Bedřicha z Tetzlernu; Maxmilián Putz z Rolsbergu koupil statek od biskupa za 48 000 zl."
+  },
+  {
+   "year": 1945,
+   "text": "konec 2. světové války, zatčení posledního správce panství jako německého státního příslušníka"
+  },
+  {
+   "year": 1979,
+   "text": "dokončena rozsáhlá rekonstrukce navracející zámku původní vzhled (1972-1979)"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Litultovice_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Litultovice_(zámek)",
+  "https://www.litultovice.cz/mestys/historie/",
+  "https://www.litultovice.cz/mestys/pametihodnosti/zamek/",
+  "https://de.wikipedia.org/wiki/Schloss_Leitersdorf"
+ ]
 }

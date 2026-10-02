@@ -1,34 +1,248 @@
 {
  "id": "Q30729875",
  "name": "Uherský Ostroh",
- "founded": {"year": 1265, "approx": true, "text": "Hrad, tehdy nazývaný Stenice, založil nejspíše panovník po roce 1260; první písemná zmínka pochází z roku 1286 a uvádí purkrabího Matouše z Černé Hory."},
- "summary": "Hrad Uherský Ostroh založil po roce 1260 nejspíše panovník, roku 1320 jej získali Šternberkové a po polovině 14. století moravský markrabě Jan Jindřich Lucemburský. Za husitských válek jej ovládl Hašek z Valdštejna a ve 40. a 50. letech 15. století se rychle střídali zástavní držitelé, než se roku 1509 stali dědičnými pány Kunovicové, kteří hrad v 16. a na počátku 17. století přestavěli na renesanční zámek. Po Bílé hoře byl zabaven Janu Bernartu z Kunovic a roku 1625 jej koupili Lichtenštejnové, poslední šlechtičtí majitelé; ve 20. století přestal sloužit jako sídlo a po druhé světové válce se stal sídlem národního výboru, dnes zde sídlí městský úřad a knihovna.",
+ "founded": {
+  "year": 1275,
+  "approx": true,
+  "text": "Zeměpanský hrad (tehdy Stenice) vznikl nejspíše po roce 1260 za Přemysla Otakara II. jako vodní pevnost na moravsko-uherském pomezí; nejstarší doklad je listina z roku 1275, první zmínka purkrabího Matouše z Černé Hory pochází z roku 1286"
+ },
+ "summary": "Hrad Uherský Ostroh (původně Stenice) založil nejspíše po roce 1260 Přemysl Otakar II. jako zeměpanskou vodní pevnost na uherském pomezí. Ve 14. století jej zastavovali biskup Konrád I. a Šternberkové a držel jej markrabě Jan Jindřich a jeho potomci; od 1411 Hašek z Valdštejna, z něhož udělal středisko husitství. V 15. století se rychle střídali zástavní držitelé (kníže Fridrich, Čeněk z Mošnova, Jiskra, Cimburkové, Matyáš Korvín a jeho hejtmani), než se Janu z Kunovic podařilo získat panství (1493, dědičně 1511) a jeho rod hrad přestavěl na renesanční zámek. Po Bílé hoře jej zkonfiskovali a roku 1625 koupili Lichtenštejnové, kterým patřil do roku 1945; dnes slouží jako městský úřad a knihovna.",
  "owners": [
-  {"owner": "koruna", "owner_wiki": null, "person": null, "from": 1265, "to": 1318, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "hrad tehdy nazývaný Stenice, první zmínka 1286 (purkrabí Matouš z Černé Hory)"},
-  {"owner": "cirkev", "owner_wiki": null, "person": "olomoucký biskup Konrád I.", "from": 1318, "to": 1320, "from_approx": false, "to_approx": false, "how": "lenni", "note": "získal hrad do zástavy od krále Jana Lucemburského"},
-  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": "Šternberkové", "from": 1320, "to": 1350, "from_approx": false, "to_approx": true, "how": "jine", "note": "po polovině 14. stol. hrad získal markrabě Jan Jindřich"},
-  {"owner": "lucemburkove", "owner_wiki": "Lucemburkové", "person": "markrabě Jan Jindřich, poté syn Jan Soběslav, po jeho smrti markrabě Prokop", "from": 1350, "to": 1400, "from_approx": true, "to_approx": true, "how": "jine", "note": "Jan Jindřich nechal provést stavební úpravy; k panství tehdy patřily vsi Blatnice, Lhota, zaniklý Smíchov, Stará Blatnice, Milokošť a Kvačice; roku 1400 hrad oblehlo vojsko krále Zikmunda"},
-  {"owner": "valdstejnove", "owner_wiki": "Valdštejnové", "person": "Hašek z Valdštejna", "from": 1400, "to": 1439, "from_approx": true, "to_approx": false, "how": "jine", "note": "učinil z panství středisko husitství, hrad proto během husitských válek několikrát obléhalo Zikmundovo vojsko; husity nakonec vypudil vévoda Albrecht"},
-  {"owner": "neznamo", "owner_wiki": null, "person": "rusko-litevský kníže Fridrich", "from": 1439, "to": 1446, "from_approx": false, "to_approx": true, "how": "lenni", "note": "zástavní držitel po vypuzení husitů; přesná dynastická příslušnost a titul podle zdroje nejasné"},
-  {"owner": "z-mosnova", "owner_wiki": null, "person": "Čeněk z Mošnova", "from": 1446, "to": 1453, "from_approx": false, "to_approx": false, "how": "lenni"},
-  {"owner": "z-brandysa", "owner_wiki": null, "person": "Jan Jiskra z Brandýsa", "from": 1453, "to": 1458, "from_approx": false, "to_approx": false, "how": "lenni"},
-  {"owner": "pani-z-cimburka", "owner_wiki": "Páni z Cimburka", "person": "Jan z Cimburka", "from": 1458, "to": 1464, "from_approx": false, "to_approx": false, "how": "lenni"},
-  {"owner": "lichtenstejnove", "owner_wiki": "Lichtenštejnové", "person": "Jan z Lichtenštejna", "from": 1464, "to": 1468, "from_approx": false, "to_approx": false, "how": "lenni"},
-  {"owner": "landstejnove", "owner_wiki": "Landštejnové", "person": "Landštejnové", "from": 1468, "to": 1468, "from_approx": false, "to_approx": false, "how": "lenni", "note": "téhož roku hrad dobylo vojsko uherského krále Matyáše Korvína"},
-  {"owner": "koruna", "owner_wiki": null, "person": "Matyáš Korvín (zastavováno jeho hejtmanům)", "from": 1468, "to": 1509, "from_approx": false, "to_approx": true, "how": "konfiskace"},
-  {"owner": "pani-z-kunovic", "owner_wiki": "Páni z Kunovic", "person": "Jan z Kunovic", "from": 1509, "to": 1620, "from_approx": false, "to_approx": false, "how": "koupe", "note": "roku 1511 získal hrad do dědičného vlastnictví; rod jej přestavěl na renesanční zámek (první úpravy po 1516, zásadní přestavba po 1566 za Jetřicha z Kunovic, arkádová chodba za Archleba z Kunovic)"},
-  {"owner": "stat", "owner_wiki": null, "person": "Jan Bernart z Kunovic (zabaveno)", "from": 1620, "to": 1625, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "zabaveno po bitvě na Bílé hoře"},
-  {"owner": "lichtenstejnove", "owner_wiki": "Lichtenštejnové", "person": "Gundakar z Lichtenštejna", "from": 1625, "to": null, "from_approx": false, "to_approx": true, "how": "koupe", "note": "poslední šlechtičtí majitelé; roku 1645 zámek dobylo švédské vojsko, později přestal sloužit jako sídlo a stal se střediskem správy panství (pivovar, stáje, hospodářské budovy); po 2. světové válce sídlo MNV, dnes městský úřad a knihovna - přesný rok konce vlastnictví Lichtenštejnů zdroj neuvádí"}
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Přemysl Otakar II., purkrabí Matouš z Černé Hory (1286)",
+   "from": 1275,
+   "to": 1318,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "hrad tehdy nazývaný Stenice; rok 1275 je nejstarší doklad (listina vydaná na hradě), založení po roce 1260 (pamatky-vm.cz); Jan Lucemburský hrad zastavil Chotěborovi ze Střen"
+  },
+  {
+   "owner": "cirkev",
+   "owner_wiki": null,
+   "person": "olomoucký biskup Konrád I.",
+   "from": 1318,
+   "to": 1320,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "získal hrad do zástavy od krále Jana Lucemburského"
+  },
+  {
+   "owner": "sternberkove",
+   "owner_wiki": "Šternberkové",
+   "person": "Zdislav ze Šternberka",
+   "from": 1320,
+   "to": 1322,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "zástavní držba 1320-1322 podle pamatky-vm.cz; cs.wiki uvádí jen, že se roku 1320 stali držiteli Šternberkové"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "zeměpanské držení (král Jan Lucemburský, markrabě)",
+   "from": 1322,
+   "to": 1350,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "jine",
+   "note": "po zástavě Šternberků opět v zeměpanském držení; zdroje neuvádějí přesný rok, kdy hrad získal markrabě Jan Jindřich (cs.wiki: po polovině 14. stol.)"
+  },
+  {
+   "owner": "lucemburkove",
+   "owner_wiki": "Lucemburkové",
+   "person": "markrabě Jan Jindřich, poté syn Jan Soběslav, po jeho smrti markrabě Prokop",
+   "from": 1350,
+   "to": 1411,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "jine",
+   "note": "Jan Jindřich provedl stavební úpravy a panství (vsi Blatnice, Lhota, zaniklý Smíchov, Stará Blatnice, Milokošť a Kvačice) odkázal synovi Janu Soběslavovi; o nárok se s Prokopem přel markrabě Jošt; roku 1400 hrad oblehlo vojsko krále Zikmunda"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Hašek z Dětěnic a z Valdštejna (s bratrem Benešem)",
+   "from": 1411,
+   "to": 1439,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "lenni",
+   "note": "Jošt a Prokop jim hrad přenechali (rok neuveden), Václav IV. zástavu Haškovi potvrdil 1411; Hašek učinil z Ostrohu středisko husitství, hrad opakovaně obléhal Zikmund; 1424 dostal vévoda Albrecht plnou moc hrad odejmout, Hašek 1425 přešel ke Zikmundovi, ale hrad držela husitská posádka hejtmana Fridricha; rok 1439 podle cs.wiki (vypuzení husitů a nástup knížete Fridricha)"
+  },
+  {
+   "owner": "neznamo",
+   "owner_wiki": null,
+   "person": "Fridrich, kníže ruský (rusko-litevský), husitský hejtman",
+   "from": 1439,
+   "to": 1446,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "lenni",
+   "note": "husitský hejtman Fridrich je v Ostrohu doložen od 1425, později přešel ke Zikmundovi (1428 dostal zástavou Veselí) a 1435 zde jako pán uvolnil Ostrožské od robot (pamatky-vm.cz); cs.wiki a medievalheritage.eu uvádějí jeho sídlo od 1439; jeho rodová příslušnost podle zdrojů neurčena"
+  },
+  {
+   "owner": "z-mosnova",
+   "owner_wiki": null,
+   "person": "Čeněk (Papák) z Mošnova",
+   "from": 1446,
+   "to": 1453,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "zástavní držitel doložený 1446; pamatky-vm.cz uvádí též Mikuláše Truchsese (zástava od markraběte Albrechta, obnovena králem Ladislavem 1455) a bratry Arkleba a Ctibora z Kunovic (1447-1448); zdroje si odporují"
+  },
+  {
+   "owner": "z-brandysa",
+   "owner_wiki": null,
+   "person": "Jan Jiskra z Brandýsa",
+   "from": 1453,
+   "to": 1458,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "udělil mu král Ladislav Pohrobek (pamatky-vm.cz: 1458, někdy uváděno 1453) a téhož roku jej předal Janu z Cimburka"
+  },
+  {
+   "owner": "pani-z-cimburka",
+   "owner_wiki": "Páni z Cimburka",
+   "person": "Jan Jičínský z Cimburka",
+   "from": 1458,
+   "to": 1464,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "zástava za 3000 zlatých uherských; Jan zemřel 1464"
+  },
+  {
+   "owner": "landstejnove",
+   "owner_wiki": "Landštejnové",
+   "person": "Jan z Landštejna",
+   "from": 1464,
+   "to": 1468,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "cs.wiki a hrady.cz uvádějí 1464 Jana z Lichtenštejna a od 1468 Landštejnovce, pamatky-vm.cz a medievalheritage.eu 1464 Jana z Landštejna (podle druhého zdroje do 1468 postavil nový obytný palác); pamatky-vm.cz uvádí 1465 Petra Haugvice z Biskupic; 1468 hrad dobylo vojsko Matyáše Korvína; rodová příslušnost (Landštejnové / Svitákové z Landštejna) nejasná"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Matyáš Korvín a jím určení zástavní držitelé (1484 Jan Zelený ze Šanova, před 1490 Mikuláš Lužický z Čečvic, Žofie z Valdštejna a Petr hrabě od sv. Jiří a Pezinku)",
+   "from": 1468,
+   "to": 1493,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "po dobytí 1468 zastavováno hejtmanům a dalším držitelům; roku 1493 Petr z Pezinku udělil panství Janovi z Kunovic (pamatky-vm.cz)"
+  },
+  {
+   "owner": "pani-z-kunovic",
+   "owner_wiki": "Páni z Kunovic",
+   "person": "Jan z Kunovic, poté Jetřich (1545-1582), Jan Jetřich (1582-1609) a Jan Bernard (od 1619)",
+   "from": 1493,
+   "to": 1622,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "cs.wiki uvádí Jana z Kunovic jako držitele od 1509; dědičné vlastnictví získal 1511 (Smil Kuna z Kunštátu své právo postoupil Janovi); rod hrad přestavěl na renesanční zámek (první úpravy po 1516, zásadní přestavba po 1566 za Jetřicha, arkádová chodba za Archleba z Kunovic); po Bílé hoře majetek Jana Bernarda zkonfiskován"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Ferdinand II. (zabavený majetek Jana Bernarta z Kunovic)",
+   "from": 1622,
+   "to": 1625,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "zabaveno po bitvě na Bílé hoře; historickasidla.cz uvádí darování Gundakarovi z Lichtenštejna v říjnu 1622, cs.wiki a pamatky-vm.cz koupi 25. 6. 1625"
+  },
+  {
+   "owner": "lichtenstejnove",
+   "owner_wiki": "Lichtenštejnové",
+   "person": "Gundakar z Lichtenštejna a jeho potomci",
+   "from": 1625,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "poslední šlechtičtí majitelé; roku 1645 zámek dobylo švédské vojsko; zámek přestal být šlechtickým sídlem a sloužil jako středisko správy panství (pivovar, stáje), po 1850 kanceláře velkostatku, byty úředníků a sídlo okresního soudu; 1945 vyvlastněn podle Benešových dekretů"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": "Československo (místní národní výbor)",
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "po vyvlastnění sloužil jako sídlo místního národního výboru; rok přechodu na město zdroje neuvádějí"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "Město Uherský Ostroh",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "podle cs.wiki (infobox) je dnešním majitelem město Uherský Ostroh, zámek slouží jako městský úřad, knihovna a galerie; rok a způsob převodu zdroje neuvádějí"
+  }
  ],
  "events": [
-  {"year": 1286, "text": "první písemná zmínka o hradu (pod názvem Stenice)"},
-  {"year": 1400, "text": "hrad oblehlo vojsko krále Zikmunda za držby Haška z Valdštejna"},
-  {"year": 1468, "text": "hrad dobylo vojsko uherského krále Matyáše Korvína"},
-  {"year": 1511, "text": "Jan z Kunovic získal hrad do dědičného vlastnictví"},
-  {"year": 1566, "text": "po tomto roce zahájena zásadní renesanční přestavba zámku za Jetřicha z Kunovic"},
-  {"year": 1620, "text": "panství zabaveno Janu Bernartu z Kunovic po bitvě na Bílé hoře"},
-  {"year": 1625, "text": "zámek koupil Gundakar z Lichtenštejna"},
-  {"year": 1645, "text": "zámek dobylo švédské vojsko za třicetileté války"}
+  {
+   "year": 1286,
+   "text": "první písemná zmínka o hradu (pod názvem Stenice)"
+  },
+  {
+   "year": 1400,
+   "text": "hrad oblehlo vojsko krále Zikmunda za držby Haška z Valdštejna"
+  },
+  {
+   "year": 1411,
+   "text": "Václav IV. potvrzuje Haškovi z Valdštejna zástavu hradu"
+  },
+  {
+   "year": 1468,
+   "text": "hrad dobylo vojsko uherského krále Matyáše Korvína"
+  },
+  {
+   "year": 1511,
+   "text": "Jan z Kunovic získává hrad do dědičného vlastnictví (první zástavní držba 1493)"
+  },
+  {
+   "year": 1566,
+   "text": "po tomto roce zahájena zásadní renesanční přestavba zámku za Jetřicha z Kunovic"
+  },
+  {
+   "year": 1622,
+   "text": "majetek Jana Bernarta z Kunovic zkonfiskován po Bílé hoře"
+  },
+  {
+   "year": 1625,
+   "text": "zámek koupil Gundakar z Lichtenštejna"
+  },
+  {
+   "year": 1645,
+   "text": "zámek dobylo švédské vojsko za třicetileté války"
+  },
+  {
+   "year": 1945,
+   "text": "zámek vyvlastněn podle Benešových dekretů, sídlo národního výboru"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Uherský_Ostroh_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Uherský_Ostroh_(zámek)",
+  "https://www.pamatky-vm.cz/Pamatky/zamky.php?menu=historie&nazev=uhersky-ostroh (Památky jihovýchodní Moravy, soukromý web M. Zvonka)",
+  "https://www.hrady.cz/zamek-uhersky-ostroh",
+  "https://www.historickasidla.cz/dr-cs/525-uhersky-ostroh.html",
+  "https://medievalheritage.eu/pl/strona-glowna/zabytki/czechy/uhersky-ostroh-zamek/"
+ ]
 }

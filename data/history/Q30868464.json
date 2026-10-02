@@ -6,7 +6,7 @@
   "approx": false,
   "text": "Dochovaný barokní zámek nechala v roce 1723 postavit Judita Příchovská; předchůdcem byla tvrz nedoložená písemnými prameny, ale podle stavební dispozice věže kostela sv. Petra a Pavla existující už ve 12. století, se zdivem tvrze ze 14.-15. století odkrytým archeologickým výzkumem 2008-2010"
  },
- "summary": "Svojšínský zámek vznikl přestavbou starší tvrze, jejíž počátky sahají snad až do 12. století. Od roku 1554, kdy jej věnem získal Jiří Příchovský z Příchovic sňatkem s dědičkou Annou Svojšínskou z Nalžov, drželi panství Příchovští z Příchovic až do konce 18. století; dnešní barokní zámek nechala roku 1723 postavit Judita Příchovská. Po nuceném prodeji v dražbě se majitelem stal chebský rytíř Josef Bigatto a poté rod Junckerů-Bigattů, kterým zámek patřil do roku 1935, na konci druhé světové války o něj rodina přišla. Po využívání jako rekreační zařízení a mateřská škola za socialismu jej v roce 1990 získala obec Svojšín, která jej v letech 2003-2015 zrekonstruovala a zpřístupnila veřejnosti.",
+ "summary": "Svojšínský zámek vznikl přestavbou starší tvrze, jejíž počátky sahají snad až do 12. století. Od roku 1554, kdy jej věnem získal Jiří Příchovský z Příchovic sňatkem s dědičkou Annou Svojšínskou z Nalžov, drželi panství Příchovští z Příchovic až do konce 18. století; dnešní barokní zámek nechala roku 1723 postavit Judita Příchovská. Po nuceném prodeji v dražbě roku 1795 se majitelem stal chebský rytíř Josef Bigatto, který jej roku 1812 odkázal Junckerům-Bigattům; ti zámek drželi do roku 1935, kdy jej zdědil Klement Podeville, a ten jej vlastnil do roku 1945, kdy jej převzal stát. Po využívání jako rekreační zařízení a mateřská škola za socialismu jej v roce 1990 získala obec Svojšín, která jej v letech 2003-2015 zrekonstruovala a zpřístupnila veřejnosti.",
  "owners": [
   {
    "owner": "z-nalzov",
@@ -17,40 +17,40 @@
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "dědička svojšínského panství; zdroj neuvádí starší vlastníky ani doklady o samotné tvrzi"
+   "note": "Svojští z Nalžov (potomci pánů ze Svojšína, první zmínka 1176), Anna Svojská z Nalžov přinesla panství jako věno; sňatek s Jiřím Příchovským z Příchovic 1554"
   },
   {
    "owner": "prichovsti-z-prichovic",
    "owner_wiki": "Příchovští z Příchovic",
-   "person": "Jiří Příchovský z Příchovic, poté potomci vč. Judity Příchovské (stavba zámku 1723) a Jana Václava Příchovského (do 1781)",
+   "person": "Jiří Příchovský z Příchovic, poté potomci vč. Judity Příchovské (stavba zámku 1723), Jana Václava Příchovského (†1781) a Františka Příchovského",
    "from": 1554,
    "to": 1795,
    "from_approx": false,
    "to_approx": false,
    "how": "snatek",
-   "note": "Jiří získal panství věnem sňatkem s Annou Svojšínskou z Nalžov; podle detailního popisu patřilo Janu Václavu Příchovskému do 1781, jeho syn František byl nucen panství prodat ve veřejné dražbě, souhrnná věta článku uvádí, že rod jej vlastnil až do 1795 - přesný rok dražby zdroj neupřesňuje"
+   "note": "Jiří získal panství věnem sňatkem s Annou Svojšínskou z Nalžov (Anna zemřela 1596); Jan Václav Příchovský (†1781) držel panství do své smrti, poté syn František, který panství zadlužil a roku 1795 muselo být prodáno ve veřejné dražbě (rok 1795 potvrzují cs.wiki, obec Svojšín i web zámku)"
   },
   {
    "owner": "soukromnik",
    "owner_wiki": null,
-   "person": "Josef Bigatto",
+   "person": "Josef Jan rytíř z Bigatto",
    "from": 1795,
-   "to": null,
-   "from_approx": true,
+   "to": 1812,
+   "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "chebský rytíř, kupec z veřejné dražby; jako bezdětný odkázal majetek generálporučíku Karlu Antonínu Junckerovi s podmínkou připojení přídomku Bigatto - rok odkazu zdroj neuvádí"
+   "note": "chebský rytíř, vydražil panství 1795; zemřel 28. 3. 1812 jako poslední mužský člen rodu, závětí z 16. 3. 1812 odkázal majetek Antonínu Karlu Josefovi Junckerovi"
   },
   {
    "owner": "juncker-bigatto",
    "owner_wiki": null,
-   "person": "Karel Antonín Juncker(-Bigatto), poté potomci až po Amálii Junckerovou-Bigattovou (†1935)",
-   "from": null,
+   "person": "Antonín Karel Josef Juncker svobodný pán z Ober-Conreuth (†1821), poté potomci až po Amálii Junckerovou-Bigattovou (†1935)",
+   "from": 1812,
    "to": 1935,
    "from_approx": false,
    "to_approx": false,
-   "how": "dar",
-   "note": "generálporučík, dědic Josefa Bigatta; po smrti Amálie Junckerové-Bigattové 1935 zdědil zámek Klement Podeville"
+   "how": "dedictvi",
+   "note": "dědic Josefa Bigatta podle závěti s podmínkou spojení jmen a erbů (potvrzeno 1814); rod Juncker-Bigatto byl vrchností až do konce patrimoniální správy 1850; po smrti Amálie 1935 zdědil zámek Klement Podeville"
   },
   {
    "owner": "soukromnik",
@@ -59,9 +59,9 @@
    "from": 1935,
    "to": 1945,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "dedictvi",
-   "note": "na konci druhé světové války o zámek přišel (zdroj neupřesňuje způsob a přesný rok)"
+   "note": "zdědil po Amálii Junckerové-Bigattové 1935 a vlastnil jej do roku 1945 (zámek, hrady.cz i web zámku); způsob ztráty zdroje neupřesňují"
   },
   {
    "owner": "stat",
@@ -69,10 +69,10 @@
    "person": null,
    "from": 1945,
    "to": 1990,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
-   "how": "konfiskace",
-   "note": "ve 2. polovině 20. století budovu využíval místní národní výbor, sloužila jako rekreační zařízení Veleobce baráčníků a po roce 1965 jako mateřská škola a školní jídelna"
+   "how": "jine",
+   "note": "po roce 1945 zámek převzal stát (zdroje neuvádějí konfiskaci výslovně); krátce jej měla pronajatý Veleobec baráčníků, dále státní statky a obec; po roce 1965 mateřská škola a školní jídelna"
   },
   {
    "owner": "mesto",
@@ -83,17 +83,51 @@
    "from_approx": false,
    "to_approx": false,
    "how": "jine",
-   "note": "obec zámek získala roku 1990, způsob nabytí zdroj neuvádí; v letech 2003-2015 provedla rekonstrukci a zpřístupnila zámek veřejnosti"
+   "note": "obec zámek získala roku 1990 (způsob nabytí zdroj neuvádí); 2003-2015 rekonstrukce, dnes přístupný veřejnosti (kavárna, výstavní sál, ubytovna)"
   }
  ],
  "events": [
-  {"year": 1554, "text": "Jiří Příchovský z Příchovic získal Svojšín věnem sňatkem s Annou Svojšínskou z Nalžov"},
-  {"year": 1723, "text": "Judita Příchovská nechala postavit dnešní barokní zámek"},
-  {"year": 1795, "text": "rod Příchovských přišel o panství, prodáno ve veřejné dražbě"},
-  {"year": 1935, "text": "smrt Amálie Junckerové-Bigattové, zámek zdědil Klement Podeville"},
-  {"year": 1945, "text": "na konci druhé světové války rodina o zámek přišla"},
-  {"year": 1990, "text": "zámek získala obec Svojšín"},
-  {"year": 2003, "text": "2003-2015 rekonstrukce zámku"}
+  {
+   "year": 1554,
+   "text": "Jiří Příchovský z Příchovic získal Svojšín věnem sňatkem s Annou Svojšínskou z Nalžov"
+  },
+  {
+   "year": 1723,
+   "text": "Judita Příchovská nechala postavit dnešní barokní zámek"
+  },
+  {
+   "year": 1781,
+   "text": "smrt Jana Václava Příchovského, panství zdědil syn František"
+  },
+  {
+   "year": 1795,
+   "text": "rod Příchovských přišel o panství, prodáno ve veřejné dražbě"
+  },
+  {
+   "year": 1812,
+   "text": "smrt Josefa Bigatta, závětí zámek zdědil Antonín Karel Josef Juncker (později Juncker-Bigatto)"
+  },
+  {
+   "year": 1935,
+   "text": "smrt Amálie Junckerové-Bigattové, zámek zdědil Klement Podeville"
+  },
+  {
+   "year": 1945,
+   "text": "na konci druhé světové války rodina o zámek přišla"
+  },
+  {
+   "year": 1990,
+   "text": "zámek získala obec Svojšín"
+  },
+  {
+   "year": 2003,
+   "text": "2003-2015 rekonstrukce zámku"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Svojšín_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Svojšín_(zámek)",
+  "https://www.zameksvojsin.cz/o-nas/historie/",
+  "https://www.svojsin.cz/nase-obec/historie/",
+  "https://www.hrady.cz/zamek-svojsin-tachov"
+ ]
 }

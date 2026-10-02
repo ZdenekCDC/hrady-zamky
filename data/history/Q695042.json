@@ -2,30 +2,324 @@
  "id": "Q695042",
  "name": "Žebrák",
  "founded": {
-  "year": 1265,
-  "approx": true,
-  "text": "Šlechtický hrad založil ve druhé polovině 13. století Oldřich Zajíc z Valdeka nedaleko obchodní stezky z Prahy do Bavorska."
+  "year": null,
+  "approx": false,
+  "text": "Šlechtický hrad založil ve 2. pol. 13. stol. Oldřich Zajíc z Valdeka u obchodní stezky z Prahy do Bavorska; hrad existoval nejpozději 1271"
  },
- "summary": "Žebrák založil ve druhé polovině 13. století Oldřich Zajíc z Valdeka, roku 1336 jej získal výměnou král Jan Lucemburský a hrad se stal oblíbenou rezidencí Karla IV. a zejména Václava IV., který jej nákladně přestavěl. Po založení sousedního Točníku na konci 14. století význam Žebráku klesal; přestože za husitských válek dvakrát odolal obléhání, zůstal po požáru roku 1532 neobnoven a změnil se ve zříceninu. Osudy hradu byly úzce spjaty se sousedním Točníkem (společné zbirožské panství); v době první republiky patřil Klubu československých turistů a od roku 1953 je majetkem státu, spravovaným Národním památkovým ústavem.",
+ "summary": "Žebrák založil ve druhé polovině 13. století Oldřich Zajíc z Valdeka; roku 1336 jej výměnou získal král Jan Lucemburský a hrad se stal panovnickou rezidencí Karla IV. a zejména Václava IV., který jej nákladně přestavěl. Po založení Točníku jeho význam klesal; od 1421 byl se Točníkem v zástavě (Kolovratové, Poděbradové, Šumburkové, Gutštejnové, Vartenberkové, Krajířové, Valdštejnové), od 1552 Lobkoviců a po jejich zabavení koncem 16. století komorním majetkem. Po požáru 1532 a hledání pokladů se z něj stala zřícenina; 1864/1865 koupil panství Strousberg, 1875 Colloredo-Mansfeldové, 1923 Klub československých turistů a od roku 1953 je majetkem státu.",
  "owners": [
-  {"owner": "zajicove-z-hazmburka", "owner_wiki": "Zajícové z Hazmburka", "person": "Oldřich Zajíc z Valdeka, syn Oldřich IV., bratr Zbyněk Zajíc z Hazmburka", "from": 1265, "to": 1336, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "zakladatel patřil k větvi Zajíců z Valdeka; Zbyněk roku 1336 vyměnil Žebrák s králem za výnosnější budyňské panství"},
-  {"owner": "koruna", "owner_wiki": null, "person": "Jan Lucemburský", "from": 1336, "to": 1341, "from_approx": false, "to_approx": false, "how": "vymena"},
-  {"owner": "lucemburkove", "owner_wiki": "Lucemburkové", "person": "Jan Jindřich Lucemburský (bratr Karla IV.)", "from": 1341, "to": 1349, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil zchátralý hrad, roku 1349 jej prodal zpět Karlovi IV."},
-  {"owner": "koruna", "owner_wiki": null, "person": "Karel IV.", "from": 1349, "to": 1358, "from_approx": false, "to_approx": true, "how": "koupe", "note": "často na hradě pobýval, roku 1351 zde zemřel jeho prvorozený syn Václav; přesto hrad před rokem 1358 zastavil"},
-  {"owner": "z-magdeburku", "owner_wiki": null, "person": "purkrabí Purkart", "from": 1358, "to": 1380, "from_approx": true, "to_approx": true, "how": "lenni", "note": "magdeburský purkrabí, hrad mu byl zastaven navzdory tomu, že jej Karel IV. sám vyňal ze statků nesměnitelných do zástavy; přesné roky nejsou v pramenech uvedeny"},
-  {"owner": "koruna", "owner_wiki": null, "person": "Václav IV.", "from": 1380, "to": 1420, "from_approx": true, "to_approx": false, "how": "jine", "note": "vyplatil hrad ze zástavy a nákladně jej přestavěl na oblíbenou rezidenci; roku 1395 hrad vyhořel, poté opraven"},
-  {"owner": "kolovratove", "owner_wiki": "Kolovratové", "person": "Hanuš z Kolovrat", "from": 1422, "to": 1460, "from_approx": true, "to_approx": true, "how": "lenni", "note": "zástavní držitel, sídlil na sousedním Točníku; Žebrák po husitských válkách nechal opravit (doloženo 1460 vysvěcení kaple po rekonstrukci)"},
-  {"owner": "krajirove-z-krajku", "owner_wiki": "Krajířové z Krajku", "person": "Volf Krajíř z Krajku", "from": null, "to": 1553, "from_approx": true, "to_approx": false, "how": "lenni", "note": "mezi Kolovraty a Krajířem hrad patrně sdílel osud s Točníkem (zástavní majitelé zbirožského panství); Krajíř na hradě hledal poklady a urychlil tak jeho zkázu po požáru 1532, roku 1553 byl hrad označen jako pustý"},
-  {"owner": "soukromnik", "owner_wiki": null, "person": "Klub československých turistů", "from": null, "to": 1953, "from_approx": true, "to_approx": true, "how": "jine", "note": "vlastnil zříceninu v době první republiky; plánovaná konzervace zdiva byla zahájena až za války a přerušena kvůli nacistickým omezením stavebních materiálů"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1953, "to": null, "from_approx": true, "to_approx": false, "how": "jine", "note": "spravuje Národní památkový ústav; konzervace a archeologický výzkum probíhaly ve 2. polovině 20. století"}
+  {
+   "owner": "zajicove-z-hazmburka",
+   "owner_wiki": "Zajícové z Hazmburka",
+   "person": "Oldřich Zajíc z Valdeka, poté syn Oldřich IV., od 1322-1327 bratr Zbyněk Zajíc z Hazmburka",
+   "from": null,
+   "to": 1336,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "hrad založil ve 2. pol. 13. stol. Oldřich Zajíc z Valdeka (první zmínka 1248, zemřel 1271 podle hrad-zebrak.cz; mistopisy.cz uvádí smrt 1304); Oldřich IV. jej mezi 1322 a 1327 přenechal bratru Zbyňkovi, který 6. 6. 1336 hrad vyměnil s králem za výnosnější budyňské panství"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Jan Lucemburský",
+   "from": 1336,
+   "to": 1341,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "vymena",
+   "note": "král Jan Lucemburský získal hrad s městečkem výměnou za budyňské panství (cs.wiki: obě směny pravděpodobně 1336); od té doby panovnická rezidence"
+  },
+  {
+   "owner": "lucemburkove",
+   "owner_wiki": "Lucemburkové",
+   "person": "Jan Jindřich Lucemburský (bratr Karla IV.)",
+   "from": 1341,
+   "to": 1349,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil značně zchátralý hrad od krále a nechal jej opravit, založil kapli sv. Apolináře a Markéty; 1349 prodal zpět králi (cs.wiki), podle hrad-zebrak.cz převedl hrad na Karla IV. 4. 1. 1350"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Karel IV.",
+   "from": 1349,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "hrad často navštěvoval, 28. 12. 1351 zde zemřel jeho prvorozený syn Václav; zakázal hrad zastavovat, přesto jej zastavil purkrabímu Purkartovi; 1360 byl hrad opět u koruny, na sklonku Karlova života opět v zástavě"
+  },
+  {
+   "owner": "z-magdeburku",
+   "owner_wiki": null,
+   "person": "purkrabí Purkart",
+   "from": null,
+   "to": null,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "lenni",
+   "note": "magdeburský purkrabí, hrad mu zastavil Karel IV. před rokem 1358 (22. 3. 1358 dal na hradě oltář pražskému kostelu), 1360 byl hrad zpět u koruny; roky zástavy zdroje neuvádějí"
+  },
+  {
+   "owner": "vartenberkove",
+   "owner_wiki": "Vartenberkové",
+   "person": "Petr z Vartenberka na Kosti",
+   "from": 1377,
+   "to": 1383,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "jine",
+   "note": "hrad-zebrak.cz: přibližně roku 1377 zde \"panuje\" Petr z Vartenberka; 1383 byl už majitelem opět král Václav IV. (zástavní držba na sklonku Karlova života, přesné roky neuvedeny)"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Václav IV.",
+   "from": 1383,
+   "to": 1419,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "hrad-zebrak.cz: 1383 je už majitelem král Václav IV.; podle cs.wiki vyplatil hrad ze zástavy a nákladně jej přestavěl (zejména 1383-1396); 1395 hrad vyhořel, poté opraven, král založil Točník; 1412 disputace Jana Husa se Štěpánem z Pálče; zemřel 16. 8. 1419"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Zikmund Lucemburský",
+   "from": 1419,
+   "to": 1421,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "po smrti Václava IV. převzal bratr Zikmund, 1421 hrady Žebrák a Točník zastavil Erkingerovi ze Seinsheimu, který zástavu téhož roku převedl na Bedřicha z Kolovrat (cs.wiki a hrad-tocnik.cz)"
+  },
+  {
+   "owner": "kolovratove",
+   "owner_wiki": "Kolovratové",
+   "person": "Bedřich z Kolovrat a Hanuš z Kolovrat, poté Hanuš II. z Kolovrat",
+   "from": 1421,
+   "to": 1461,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "zástava od 1421 (cs.wiki: nejspíše od 1422); 1425 a 1430 obležení husitů; 1427 byli na čas veliteli hradu Hanuš Kuplíř ze Sulevic (Žebrák) a Habart z Adlaru (Točník), poté zástavu opět převzal Hanuš z Kolovrat; Hanuš sídlil na Točníku, ale Žebrák opravil (1460 vysvěcení kaple); 7. 7. 1461 zástavu vykoupil Jiří z Poděbrad"
+  },
+  {
+   "owner": "pani-z-kunstatu-a-podebrad",
+   "owner_wiki": "Páni z Kunštátu a Poděbrad",
+   "person": "Boček, Viktorín, Jindřich a Hynek z Poděbrad",
+   "from": 1461,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "lenni",
+   "note": "7. 7. 1461 král Jiří z Poděbrad zástavu převedl na své čtyři syny, krátce poté ji svěřil Bedřichu ze Šumburka"
+  },
+  {
+   "owner": "sumburkove",
+   "owner_wiki": "Šumburkové",
+   "person": "Bedřich ze Šumburka, pán na Perštejně",
+   "from": null,
+   "to": null,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "lenni",
+   "note": "katolík věrný králi; panství spravoval ještě 1475; roky převzetí a konce neuvedeny"
+  },
+  {
+   "owner": "pani-z-gutstejna",
+   "owner_wiki": "Páni z Gutštejna",
+   "person": "Burian II. z Gutštejna, poté syn Kryštof",
+   "from": 1484,
+   "to": 1509,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "1484 už držel Burian (doloženo nejpozději k tomuto roku), po něm syn Kryštof, který byl 1509 zemským soudem odsouzen a hrady vydal králi Vladislavovi"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Vladislav Jagellonský",
+   "from": 1509,
+   "to": 1517,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "král hrady převzal, zaplatil přibližně polovinu jejich ceny; hejtman 1515 Jan Kozelka ze Hřivic"
+  },
+  {
+   "owner": "pani-z-rozmitalu",
+   "owner_wiki": "Páni z Rožmitálu",
+   "person": "Zdeněk Lev z Rožmitálu",
+   "from": 1517,
+   "to": 1522,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "zdroje popisují především Točník a společné zbirožské panství; nejspíše 1517 dostal do zástavy za půjčku králi"
+  },
+  {
+   "owner": "vartenberkove",
+   "owner_wiki": "Vartenberkové",
+   "person": "Jan z Vartenberka",
+   "from": 1522,
+   "to": 1534,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "vykoupil zástavu od Rožmitála (cs.wiki) / koupil od Ludvíka Jagellonského (web hradu); 1534 vyměnil za Rohozec s Krajířem"
+  },
+  {
+   "owner": "krajirove-z-krajku",
+   "owner_wiki": "Krajířové z Krajku",
+   "person": "Volf starší Krajíř z Krajku, poté Volf mladší Krajíř z Krajku",
+   "from": 1534,
+   "to": 1544,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "vymena",
+   "note": "6. 10. 1534 výměnou za panství Rohozec; Krajířové hledali na hradech poklad a rozebírali zdivo Žebráku; 31. 10. 1544 postoupili Janu ml. z Valdštejna"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Jan mladší z Valdštejna",
+   "from": 1544,
+   "to": 1552,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "31. 10. 1544 převzal panství od Krajířů; po požáru 1532 byl Žebrák již neobnoven, 1553 označen jako pustý"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Jan starší z Lobkovic, od 1569 syn Jan V. Popel z Lobkovic, poté Bohuslav Havel a Ladislav z Lobkovic",
+   "from": 1552,
+   "to": 1597,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "1552 zastaveno, 1557 dědičně prodáno ke zbirožskému panství (cs.wiki Točník); po zapletení Ladislava do protihabsburské aféry zabaveno, web hradu uvádí 1594/1595, cs.wiki k Točníku 1597"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "česká komora (zbirožské panství)",
+   "from": 1597,
+   "to": 1864,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "konfiskace",
+   "note": "komorní majetek spravovaný hejtmany na Zbirohu; hrad již zřícenina; 1858 schválen, ale neuskutečněn prodej Kirchmayerovi a Simundtovi"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Bethel Henry Strousberg",
+   "from": 1864,
+   "to": 1875,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "1864/1865 koupil zbirožské panství s hrady; 1875 prodal Colloredo-Mansfeldům (web Točníku: 3 350 000 zl., cs.wiki: 3 500 000 zl.)"
+  },
+  {
+   "owner": "colloredove",
+   "owner_wiki": "Colloredové",
+   "person": "Colloredo-Mansfeldové, naposledy Josef Colloredo-Mansfeld",
+   "from": 1875,
+   "to": 1923,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "1923 Josef Colloredo-Mansfeld prodal Žebrák (s pivovarskými sklepy) za 8 000 Kčs Klubu československých turistů"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Klub československých turistů",
+   "from": 1923,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupeno za 8 000 Kčs; plánovaná konzervace zdiva zahájena až za druhé světové války a přerušena nacistickými omezeními stavebních materiálů"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Československá obec sokolská",
+   "from": 1945,
+   "to": 1953,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "podle webu hradů se 1945 majitelem stala Československá obec sokolská (způsob nabytí neuveden)"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1953,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "od 1953 vlastní hrad stát; konzervace a archeologický výzkum ve 2. pol. 20. stol.; spravuje Národní památkový ústav (dříve Státní hrady Křivoklátska)"
+  }
  ],
  "events": [
-  {"year": 1336, "text": "Zbyněk Zajíc z Hazmburka vyměnil Žebrák s Janem Lucemburským za budyňské panství"},
-  {"year": 1351, "text": "na hradě zemřel prvorozený syn Karla IV., Václav"},
-  {"year": 1395, "text": "hrad vyhořel, patrně zapálen vojskem Jindřicha III. z Rožmberka, poté opraven"},
-  {"year": 1425, "text": "neúspěšné obléhání husitským vojskem"},
-  {"year": 1430, "text": "druhé obléhání, ukončeno po devíti týdnech přechodem Hanuše z Kolovrat na stranu husitů"},
-  {"year": 1532, "text": "hrad vyhořel a nebyl již obnoven, roku 1553 označen jako pustý"}
+  {
+   "year": 1336,
+   "text": "Zbyněk Zajíc z Hazmburka vyměnil Žebrák s Janem Lucemburským za budyňské panství"
+  },
+  {
+   "year": 1351,
+   "text": "na hradě zemřel prvorozený syn Karla IV., Václav"
+  },
+  {
+   "year": 1383,
+   "text": "hrad je opět v majetku krále Václava IV., který jej v následujících letech nákladně přestavuje"
+  },
+  {
+   "year": 1395,
+   "text": "hrad vyhořel, patrně zapálen vojskem Jindřicha III. z Rožmberka, poté opraven"
+  },
+  {
+   "year": 1425,
+   "text": "neúspěšné obléhání husitským vojskem"
+  },
+  {
+   "year": 1430,
+   "text": "druhé obléhání, ukončeno po devíti týdnech přechodem Hanuše z Kolovrat na stranu husitů"
+  },
+  {
+   "year": 1461,
+   "text": "Jiří z Poděbrad vykupuje zástavu hradů Žebrák a Točník od Hanuše II. z Kolovrat"
+  },
+  {
+   "year": 1532,
+   "text": "hrad vyhořel a nebyl již obnoven, roku 1553 označen jako pustý"
+  },
+  {
+   "year": 1544,
+   "text": "Krajířové postupují hrady Janovi ml. z Valdštejna"
+  },
+  {
+   "year": 1923,
+   "text": "hrad od Colloredo-Mansfelda kupuje Klub československých turistů"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Žebrák_(hrad)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Žebrák_(hrad)",
+  "http://www.hrad-zebrak.cz/cs/o-hradu/historie-hradu",
+  "https://www.hrad-tocnik.cz/cs/o-hradu/historie",
+  "https://cs.wikipedia.org/wiki/Točník_(hrad)",
+  "https://www.mistopisy.cz/pruvodce/body-zajmu/588/zricenina-hradu-zebrak/ (komerční průvodce, nižší spolehlivost)"
+ ]
 }

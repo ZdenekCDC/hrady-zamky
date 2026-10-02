@@ -2,13 +2,17 @@
  "id": "Q1421237",
  "name": "Březnice",
  "founded": {"year": 1224, "approx": true, "text": "Gotickou tvrz na Zlaté stezce z Pasova do Prahy založili příslušníci rodu Buziců, Budislav z Březnice je připomínán od roku 1224; stavebně je hrad kladen do druhé poloviny 13. století."},
- "summary": "Gotickou tvrz v Březnici založili Buzicové, doloženi zde od roku 1224, od roku 1415 ji téměř celé století drželi Zmrzlíkové ze Svojšína a od roku 1506 Malovcové, kterým po účasti ve stavovském odboji proti Ferdinandovi I. panství roku 1547 propadlo královské komoře. Jako konfiskát po Malovcích ji získal Jiří z Lokšan, jehož rodina zahájila renesanční přestavbu na zámek; po účasti Lokšanů na stavovském povstání a její konfiskaci koupil roku 1623 jednotlivé díly panství Přibík Jeníšek z Újezda. Po vymření Jeníšků z Újezda 1728 zámek zdědili Krakovští z Kolovrat a roku 1872 Pálffyové z Erdödu, poslednímu soukromému majiteli Janu Nepomuku Pálffymu byl zámek roku 1945 zestátněn a dnes jej spravuje Národní památkový ústav.",
+ "summary": "Gotickou tvrz v Březnici založili Buzicové, doloženi zde od roku 1224, od roku 1415 ji téměř celé století drželi Zmrzlíkové ze Svojšína a od roku 1506 Malovcové, kterým po účasti ve stavovském odboji proti Ferdinandovi I. panství roku 1547 propadlo královské komoře. Jako konfiskát po Malovcích ji roku 1548 získal Jiří z Lokšan, jehož rodina zahájila renesanční přestavbu na zámek; po účasti Lokšanů na stavovském povstání a její konfiskaci koupil roku 1623 jednotlivé díly panství Přibík Jeníšek z Újezda. Po vymření Jeníšků z Újezda 1728 zámek zdědili Krakovští z Kolovrat a roku 1872 Pálffyové z Erdödu, poslednímu soukromému majiteli Janu Nepomuku Pálffymu byl zámek roku 1945 zestátněn a dnes jej spravuje Národní památkový ústav.",
  "owners": [
-  {"owner": "buzici", "owner_wiki": "Buzici", "person": "Budislav z Březnice", "from": 1224, "to": 1415, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "Budislav z Březnice připomínán od roku 1224"},
-  {"owner": "zmrzlikove-ze-svojsina", "owner_wiki": "Zmrzlíkové ze Svojšína", "person": null, "from": 1415, "to": 1506, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "po husitských válkách tvrz přestavěli"},
-  {"owner": "malovcove-z-malovic", "owner_wiki": "Malovcové z Malovic", "person": null, "from": 1506, "to": 1547, "from_approx": false, "to_approx": false, "how": "koupe", "note": "zapojili se do stavovského odboje proti Ferdinandovi I., panství jim propadlo královské komoře"},
-  {"owner": "koruna", "owner_wiki": null, "person": null, "from": 1547, "to": 1558, "from_approx": false, "to_approx": true, "how": "konfiskace", "note": "komorní majetek; roku 1558 se na zámku narodil arcivévoda Ondřej Rakouský"},
-  {"owner": "z-loksan", "owner_wiki": null, "person": "Jiří z Lokšan, poté manželka Kateřina Lokšanská, dále bratři Adam, Jiří a Václav Lokšanové", "from": 1558, "to": 1623, "from_approx": true, "to_approx": false, "how": "konfiskace", "note": "Jiří z Lokšan, říšský místokancléř, získal Březnici jako konfiskát po Malovcích a zahájil renesanční přestavbu; bratři Lokšanové se zúčastnili stavovského povstání a majetek jim byl znovu zkonfiskován"},
+  {"owner": "buzici", "owner_wiki": "Buzici", "person": "Budislav z Březnice a potomci", "from": 1224, "to": 1406, "from_approx": true, "to_approx": true, "how": "zalozeni", "note": "Budislav připomínán od 1224; hrad drželi jeho potomci do 1406 (hrady.cz, komerční portál)"},
+  {"owner": "z-orlika", "owner_wiki": null, "person": "Ondřej Huler z Orlíka", "from": 1406, "to": 1410, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "1406 získal část majetku Buziců (hrad, městečko Březnici, ves Bubovice); hrady.cz, komerční portál; hrad byl zastaven Půtovi ze Skály"},
+  {"owner": "koruna", "owner_wiki": null, "person": "Václav IV.", "from": 1410, "to": 1415, "from_approx": false, "to_approx": false, "how": "koupe", "note": "na zákrok krále Václava IV. vykoupena 1410 ze zástavy od Půty ze Skály (hrady.cz, komerční portál; oficiální web zámku uvádí krátkou držbu Lucemburků na počátku 15. stol.)"},
+  {"owner": "zmrzlikove-ze-svojsina", "owner_wiki": "Zmrzlíkové ze Svojšína", "person": "Petr Zmrzlík ze Svojšína, nejvyšší mincmistr; později jeho vnuci Jan Václav a Jaroslav", "from": 1415, "to": 1506, "from_approx": false, "to_approx": false, "how": "koupe", "note": "1415 prodána Petru Zmrzlíkovi (hrady.cz); po husitských válkách tvrz přestavěli, koncem 15. století posílili vnější opevnění"},
+  {"owner": "malovcove-z-malovic", "owner_wiki": "Malovcové z Malovic", "person": "Zdeněk Malovec z Chýnova, od 1531 jeho syn Petr", "from": 1506, "to": 1547, "from_approx": false, "to_approx": false, "how": "koupe", "note": "1506 koupil panství Zdeněk Malovec; při dělení 1531 dostal hrad Petr; za účast ve stavovském odboji 1547 propadlo panství královské komoře"},
+  {"owner": "koruna", "owner_wiki": null, "person": "královská komora (Ferdinand I.)", "from": 1547, "to": 1548, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "konfiskát po Malovcích, roku 1548 prodán Jiřímu z Lokšan (hrady.cz, komerční portál; cs.wiki uvádí jen 'konfiskát po Malovcích')"},
+  {"owner": "z-loksan", "owner_wiki": null, "person": "Jiří z Lokšan, říšský místokancléř", "from": 1548, "to": 1551, "from_approx": false, "to_approx": false, "how": "koupe", "note": "zahájil renesanční přestavbu; zemřel 1551 (hrady.cz)"},
+  {"owner": "z-loksan", "owner_wiki": null, "person": "Kateřina Lokšanská z Lokšan, rozená Adlerová", "from": 1551, "to": null, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "vdova, dokončila přestavbu (alianční znak 1567), 1558 knihovna, 1555-1560 pobyty arcivévody Ferdinanda a Filipíny Welserové; konec její držby zdroje neuvádějí"},
+  {"owner": "z-loksan", "owner_wiki": null, "person": "potomci Lokšanů (vnuk Ferdinand, od dělení 1607 jeho synové Adam, Václav a Jiří, kteří drželi panství společně)", "from": null, "to": 1623, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "po Bílé hoře majetek bratří konfiskován, polovinu uhájila Adamova manželka Lidmila Černínová z Chudenic a 1623 ji prodala Jeníškovi (hrady.cz, komerční portál)"},
   {"owner": "jeniskove-z-ujezda", "owner_wiki": "Jeníškové z Újezda", "person": "Přibík Jeníšek z Újezda, poté potomci jeho bratra", "from": 1623, "to": 1728, "from_approx": false, "to_approx": false, "how": "koupe", "note": "královský prokurátor skoupil jednotlivé díly panství po lokšanské konfiskaci; rod vymřel roku 1728 Janem Josefem Jeníškem, jehož závěť podmínila dědictví přijetím erbu a jména Jeníšků z Újezda"},
   {"owner": "kolowrat-krakowsti", "owner_wiki": "Kolowrat-Krakowští", "person": "Vilém Albrecht Krakovský z Kolovrat, poslední hrabě Hanuš z Kolovrat", "from": 1728, "to": 1872, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "český nejvyšší kancléř Vilém Albrecht zdědil Březnici s Hradištěm po vymřelých Jeníškách; kmenová kolovratská panství vázaná fideikomisem přešla na jiné příbuzné, Březnici a Hradiště zdědil 1872 Eduard Pálffy"},
   {"owner": "palffyove", "owner_wiki": "Pálffyové", "person": "Eduard Pálffy z Erdödu, poté Jan Nepomuk Pálffy", "from": 1872, "to": 1945, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "Jan Nepomuk Pálffy, poslední soukromý majitel, se přihlásil k maďarské národnosti; velkostatek byl roku 1945 zestátněn"},
@@ -17,6 +21,7 @@
  "events": [
   {"year": 1422, "text": "tvrz poškozena požárem"},
   {"year": 1547, "text": "Březnice po účasti Malovců ve stavovském odboji propadla královské komoře"},
+  {"year": 1548, "text": "královská komora prodává konfiskované panství Jiřímu z Lokšan"},
   {"year": 1558, "text": "Jiří z Lokšan zahájil renesanční přestavbu tvrze na zámek, vznikla Lokšanská knihovna"},
   {"year": 1623, "text": "Přibík Jeníšek z Újezda skoupil díly panství po konfiskaci lokšanského majetku"},
   {"year": 1625, "text": "1625-1632 postavena zámecká kaple Neposkvrněného Početí Panny Marie"},
@@ -24,5 +29,9 @@
   {"year": 1889, "text": "1889-1890 zámek dostal za Pálffyů novorenesanční sgrafitovou omítku"},
   {"year": 1945, "text": "velkostatek posledního majitele Jana Nepomuka Pálffyho byl zestátněn"}
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Březnice_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Březnice_(zámek)",
+  "https://www.zamek-breznice.cz/cs/o-zamku/historie",
+  "https://www.hrady.cz/zamek-breznice-pribram/texty?tid=1301"
+ ]
 }

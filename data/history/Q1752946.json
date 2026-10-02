@@ -2,172 +2,220 @@
  "id": "Q1752946",
  "name": "Milotice",
  "founded": {
-  "year": 1341,
-  "approx": true,
-  "text": "Na místě dnešního zámku stávala vodní tvrz připomínaná ve 14. století; prvními známými vlastníky byli k roku 1360 páni z Ronova."
+  "year": null,
+  "approx": false,
+  "text": "Vodní tvrz připomínaná ve 14. století; ves poprvé zmíněna 1341 v misálu plebána Hermanna; první známí držitelé Milotic od roku 1360 páni z Ronova"
  },
- "summary": "Vodní tvrz v Miloticích, doložená ve 14. století, patřila postupně pánům z Ronova, pánům z Moravan, pánům z Kravař, pánům z Ojnic a od konce 15. století šedesát let Zástřizlům, kteří z ní vytvořili centrum svého dominia. Po Žerotínech následovalo v 16. a zejména za třicetileté války v 17. století velmi časté střídání majitelů (mimo jiné i Albrecht z Valdštejna), než zpustošené panství roku 1648 koupil Gabriel Serényi; jeho rod dal zámku barokní podobu a vlastnil jej do roku 1811. Po dalším období střídání (Choiseul d'Aillecourt, Hardekové) zámek od roku 1888 do roku 1945 vlastnili Seilernové, poté byl zabaven na základě Benešových dekretů a od té doby je majetkem státu, přístupným veřejnosti od roku 1974.",
+ "summary": "Vodní tvrz v Miloticích, doložená ve 14. století, patřila od roku 1360 pánům z Ronova, poté Moravanům, Kravařům, Ojnicům a Zástřizlům; ve 2. polovině 16. a v 1. polovině 17. století se majitelé rychle střídali (mimo jiné Tovar, který tvrz přestavěl na renesanční zámek, a Valdštejn). Roku 1648 panství koupil Gabriel Serényi, jehož rod dal zámku barokní podobu a držel jej do roku 1811; poté dědictvím přešel přes Choiseul d'Aillecourty a Hardeggy až k Seilernům, kteří jej vlastnili od roku 1888 do konfiskace 1945. Od té doby je majetkem státu, přístupným od roku 1974.",
  "owners": [
   {
    "owner": "ronovci",
    "owner_wiki": "Ronovci",
-   "person": null,
+   "person": "Zdeněk a Čeněk z Ronova",
    "from": 1360,
-   "to": 1410,
-   "from_approx": true,
+   "to": null,
+   "from_approx": false,
    "to_approx": true,
    "how": "neznamo",
-   "note": "prví známí vlastníci Milotic, doloženi k roku 1360 (páni z Ronova)"
+   "note": "první známí držitelé Milotic k roku 1360 (bratři z rodu Hronoviců), sídlili na tvrzi; konec držby zdroje neuvádějí"
   },
   {
    "owner": "z-moravan",
    "owner_wiki": null,
-   "person": "páni z Moravan",
-   "from": 1410,
-   "to": 1460,
-   "from_approx": true,
-   "to_approx": false,
+   "person": "Jan z Moravan",
+   "from": 1412,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
    "how": "neznamo",
-   "note": "od druhého desetiletí 15. stol.; za jejich držby se Milotice staly opevněným sídlem husitů"
+   "note": "1412 zapsány Janovi z Moravan (web obce); cs.wiki uvádí nástup ve 2. desetiletí 15. stol.; za jejich držby významné středisko husitů, po 1427 opevněný tábor"
   },
   {
    "owner": "pani-z-kravar",
    "owner_wiki": "Páni z Kravař",
    "person": null,
    "from": 1460,
-   "to": 1480,
+   "to": null,
    "from_approx": false,
    "to_approx": true,
-   "how": "neznamo"
+   "how": "neznamo",
+   "note": "1460 vystřídali Moravany (cs.wiki); web zámku uvádí střídání Kravařů a Ojnických jen ve 2. pol. 15. stol."
   },
   {
    "owner": "z-ojnic",
    "owner_wiki": null,
    "person": "páni z Ojnic",
    "from": 1480,
-   "to": 1490,
+   "to": null,
    "from_approx": true,
    "to_approx": true,
    "how": "neznamo",
-   "note": "drželi panství od počátku 80. let 15. století"
+   "note": "cs.wiki: na počátku osmdesátých let 15. stol.; roky konce držby zdroje neuvádějí"
   },
   {
    "owner": "pani-ze-zastrizl",
    "owner_wiki": "Páni ze Zástřizl",
    "person": null,
-   "from": 1490,
-   "to": 1550,
+   "from": null,
+   "to": null,
    "from_approx": true,
    "to_approx": true,
    "how": "neznamo",
-   "note": "z Milotic vytvořili centrum svého rozsáhlého dominia; drželi je asi šedesát let"
+   "note": "cs.wiki: na konci 15. stol., z Milotic vytvořili centrum svého dominia, \"šedesátiletá zástřizlovská éra\"; web zámku uvádí Zástřizly v 1. pol. 16. stol.; přesné roky neuvedeny"
   },
   {
    "owner": "zerotinove",
    "owner_wiki": "Žerotínové",
    "person": null,
-   "from": 1550,
-   "to": 1570,
+   "from": null,
+   "to": null,
    "from_approx": true,
    "to_approx": true,
-   "how": "neznamo"
+   "how": "neznamo",
+   "note": "po Zástřizlech; web zámku uvádí Žerotíny ve 2. pol. 16. stol.; roky neuvedeny"
   },
   {
    "owner": "pani-z-lipe",
    "owner_wiki": "Páni z Lipé",
    "person": null,
-   "from": 1570,
-   "to": null,
-   "from_approx": true,
-   "to_approx": true,
-   "how": "neznamo",
-   "note": "začátek období velmi častého střídání majitelů ve 2. pol. 16. stol."
-  },
-  {
-   "owner": "haugvicove-z-biskupic",
-   "owner_wiki": "Haugvicové z Biskupic",
-   "person": null,
    "from": null,
    "to": null,
    "from_approx": true,
    "to_approx": true,
-   "how": "neznamo"
+   "how": "neznamo",
+   "note": "uvádí jen cs.wiki mezi majiteli 2. pol. 16. stol. (web zámku a obce je neuvádějí); roky neuvedeny"
+  },
+  {
+   "owner": "haugvicove-z-biskupic",
+   "owner_wiki": "Haugvicové z Biskupic",
+   "person": "Václav Haugvic z Biskupic",
+   "from": 1572,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "1572 uveden jako majitel Milotic (web obce); roky konce držby neuvedeny"
   },
   {
    "owner": "z-tovaru",
    "owner_wiki": null,
    "person": "Bernard Ludvík Tovar z Enzesfeldu",
    "from": null,
-   "to": 1596,
+   "to": null,
    "from_approx": true,
-   "to_approx": false,
+   "to_approx": true,
    "how": "neznamo",
-   "note": "za jeho držby byla tvrz mezi lety 1586-1596 přestavěna na renesanční zámek"
+   "note": "majitel v době přestavby tvrze na renesanční zámek v letech 1586-1596; roky nabytí a konce držby zdroje neuvádějí"
   },
   {
    "owner": "z-roggendorfu",
    "owner_wiki": null,
    "person": "Kristýna z Roggendorfu",
-   "from": 1596,
-   "to": null,
-   "from_approx": false,
-   "to_approx": true,
-   "how": "neznamo"
-  },
-  {
-   "owner": "valdstejnove",
-   "owner_wiki": "Valdštejnové",
-   "person": "Albrecht z Valdštejna",
    "from": null,
    "to": null,
    "from_approx": true,
    "to_approx": true,
    "how": "neznamo",
-   "note": "jeden z mnoha rychle se střídajících majitelů v 1. pol. 17. stol. během faktického rozvratu panství za třicetileté války"
+   "note": "majitelka ve 2. pol. 16. stol. po Tovarovi; roky neuvedeny"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Václav Albrecht z Valdštejna",
+   "from": 1619,
+   "to": 1623,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "držitelem panství 1619, \"pouhé čtyři roky\" (web obce); jeden z mnoha rychle se střídajících majitelů 1. pol. 17. stol. za třicetileté války"
+  },
+  {
+   "owner": "pani-ze-zastrizl",
+   "owner_wiki": "Páni ze Zástřizl",
+   "person": null,
+   "from": null,
+   "to": null,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "web zámku uvádí v 1. pol. 17. stol. mezi majiteli zástupce Zástřizlů; pořadí vůči Valdštejnovi a Scherfenbergům ani roky neuvedeny"
+  },
+  {
+   "owner": "z-scherfenbergu",
+   "owner_wiki": null,
+   "person": null,
+   "from": null,
+   "to": null,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "web zámku uvádí v 1. pol. 17. stol. zástupce Scherfenberků; pořadí ani roky neuvedeny"
+  },
+  {
+   "owner": "neznamo",
+   "owner_wiki": null,
+   "person": "Maxmiliana, rozená z Harrachu",
+   "from": null,
+   "to": 1648,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "4. 8. 1648 panství prodala Gabrielovi Serényimu za 35 000 zl. (web obce); rok nabytí neuveden"
   },
   {
    "owner": "serenyiove",
    "owner_wiki": "Serényiové",
-   "person": "Gabriel Serényi, poté mj. Karel Antonín Serényi a František Ludvík Serényi",
+   "person": "Gabriel Serényi, poté Jan Karel Serényi, Karel Antonín Serényi, Antonín a Ludvík Serényi, Karel Bernard Serényi",
    "from": 1648,
    "to": 1811,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "koupili zcela zpustošené panství a zahájili jeho sanaci; za rodu vznikla barokní podoba zámku (přestavby 1719-1725 a 1738-1743) i zahrady a bažantnice"
+   "note": "4. 8. 1648 koupil zadlužené a zpustošené panství (web obce); 1702-1746 Karel Antonín Serényi, za něhož barokní přestavby 1719-1725 a 1738-1743; po vymření milotické větve 1750 majetek připadl lomnické větvi; 1811 zemřel poslední mužský příslušník Karel Bernard Serényi"
   },
   {
    "owner": "choiseul-daillecourt",
    "owner_wiki": null,
-   "person": null,
+   "person": "Kristina Serényiová, provdaná Choiseul d'Aillecourt",
    "from": 1811,
-   "to": 1888,
+   "to": 1819,
    "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "mezi vlastníky v letech 1811-1888 se objevují jména z rodů Choiseul d'Aillecourt a Hardegg (souběžně/postupně, dělené dědictví)"
+   "how": "dedictvi",
+   "note": "dcera Karla Bernarda Serényiho, provdaná za hraběte Gabriela Choiseul d'Aillecourt; panství spravovala do své smrti 1819 (web zámku)"
   },
   {
    "owner": "hardekove",
    "owner_wiki": "Hardekové",
-   "person": "Marie Aloisie z Hardeggu",
-   "from": 1811,
-   "to": 1888,
+   "person": "Františka de Paula Hardeggová, rozená Choiseul d'Aillecourt",
+   "from": 1819,
+   "to": 1885,
    "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "Marie Aloisie z Hardeggu jedna z dědiček milotického panství; provdala se 1849 za Karla Maxmiliána ze Seilern-Aspangu"
+   "how": "dedictvi",
+   "note": "dcera Kristiny, provdaná za hraběte Jana Františka z Hardeggu; panství spravovala až do své smrti 1885 (web zámku); cs.wiki uvádí jen obecně \"1811-1888\" bez rozlišení; nejedná se o souběh, držitelé šli po sobě"
   },
   {
    "owner": "seilern-und-aspang",
    "owner_wiki": "Seilern und Aspang",
-   "person": "Karel Maxmilián ze Seilern-Aspangu, syn Karel František ze Seilernu, synovec Ladislav Seilern",
+   "person": "dědicové Františky de Paula Hardeggové",
+   "from": 1885,
+   "to": 1888,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "po smrti Františky 1885 podíly dědiců, než František Karel Seilern 1888 shromáždil všechny dědické podíly; zdroje nerozlišují jednotlivé dědice"
+  },
+  {
+   "owner": "seilern-und-aspang",
+   "owner_wiki": "Seilern und Aspang",
+   "person": "František Karel Seilern, od 1916 synovec Ladislav Seilern",
    "from": 1888,
    "to": 1945,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "Karel František ze Seilernu roku 1888 skoupil všechny dědické podíly; Ladislav Seilern zámek obýval od 1916 do zabavení roku 1945"
+   "note": "1888 skoupil všechny dědické podíly a stal se jediným vlastníkem (web zámku: vnuk Františky de Paula; cs.wiki: syn Karla Maxmiliána ze Seilern-Aspangu, který se 1849 oženil s Marií Aloisií z Hardeggu - rodinné vazby se ve zdrojích liší); 1916 odkázal panství synovci Ladislavu, který zámek obýval do 1945; zabaveno 1945 na základě Benešových dekretů (web zámku: Ladislav se roku 1941 přihlásil k německé státní příslušnosti)"
   },
   {
    "owner": "stat",
@@ -192,7 +240,7 @@
   },
   {
    "year": 1648,
-   "text": "Gabriel Serényi kupuje zcela zpustošené panství a zahajuje obnovu"
+   "text": "4. 8. 1648 Gabriel Serényi kupuje zpustošené panství od Maxmiliány z Harrachu za 35 000 zl."
   },
   {
    "year": 1719,
@@ -216,6 +264,8 @@
   }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Milotice_(zámek)"
+  "https://cs.wikipedia.org/wiki/Milotice_(zámek)",
+  "https://www.zamek-milotice.cz/cs/o-zamkku/historie-a-majitele",
+  "https://www.milotice.cz/o-miloticich/informace/historie/"
  ]
 }

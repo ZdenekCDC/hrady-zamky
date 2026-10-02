@@ -6,7 +6,7 @@
   "approx": true,
   "text": "Hrad byl postaven pravděpodobně po roce 1092, kdy vznikl samostatný znojemský úděl; na přelomu 12. a 13. století byl přestavěn ve stylu vrcholně středověkých hradů"
  },
- "summary": "Znojemský hrad vznikl pravděpodobně po roce 1092 jako sídlo samostatného znojemského údělu a na přelomu 12. a 13. století byl přestavěn ve stylu vrcholně středověkých hradů; na počátku 15. století jej obsadili stoupenci markraběte Prokopa a roku 1404 úspěšně ubránili při obléhání vévodou Albrechtem Rakouským a králem Zikmundem. Královský hrad byl často zastavován šlechtickým majitelům, mezi jinými Albrechtu z Leskovce nebo Zdeňku z Roupova, kterému byl po bitvě na Bílé hoře zabaven za účast na stavovském povstání. Po roce 1710 nechal Maxmilián z Deblína starý hrad přestavět v barokním slohu; po násilné smrti posledního příslušníka rodu byl zámek upraven na vojenskou nemocnici a později byla velká část hradního areálu poškozena vestavbou pivovaru.",
+ "summary": "Královský hrad vznikl pravděpodobně po roce 1092 jako sídlo znojemského údělu. Po husitských válkách byl od roku 1439 často zastavován a léněn šlechtě (Leskovcové, Meziříčtí, Althanové, Krajířové, Roupovští) a roku 1621 byl Vilému z Roupova konfiskován. Roku 1710 jej císař udělil lénem pánům z Deblína, kteří v letech 1710-1721 postavili barokní zámek; část areálu s pivovarem držela od 18. století obec. Po vymření Deblínů 1784 připadl zámek císaři a sloužil jako vojenská nemocnice, od roku 1865 patří městu Znojmo a sídlí v něm Jihomoravské muzeum.",
  "owners": [
   {
    "owner": "koruna",
@@ -23,45 +23,122 @@
    "owner": "leskovcove-z-leskovce",
    "owner_wiki": "Leskovcové z Leskovce",
    "person": "Albrecht z Leskovce",
-   "from": null,
+   "from": 1439,
    "to": null,
    "from_approx": false,
    "to_approx": false,
    "how": "lenni",
-   "note": "jeden z příkladů šlechtických zástavních majitelů, kterým byl královský hrad zastavován; zdroj neuvádí roky ani pořadí vůči Zdeňku z Roupova"
+   "note": "první zástavní majitel hradu po husitských válkách (atlasceska.cz); zástavní majitelé se pak často střídali, zdroje neuvádějí rok konce jeho držby"
+  },
+  {
+   "owner": "meziricti-z-lomnice",
+   "owner_wiki": null,
+   "person": "Václav Meziříčský z Lomnice (od 1554 spolu s Apolonií Meziříčskou)",
+   "from": 1550,
+   "to": 1566,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "držel hrad jako zástavu (hrady.cz)"
+  },
+  {
+   "owner": "meziricti-z-lomnice",
+   "owner_wiki": null,
+   "person": "Hojer Meziříčský z Lomnice",
+   "from": 1571,
+   "to": 1579,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "lenni",
+   "note": "po jeho smrti připadl hrad zpět české koruně; rok konce odvozen z udělení lénem Kryštofu z Althanu 1579 (hrady.cz)"
+  },
+  {
+   "owner": "althannove",
+   "owner_wiki": "Althannové",
+   "person": "Kryštof z Althanu",
+   "from": 1579,
+   "to": 1586,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "léno udělil Rudolf II. (hrady.cz)"
+  },
+  {
+   "owner": "krajirove-z-krajku",
+   "owner_wiki": "Krajířové z Krajku",
+   "person": "Václav Krajíř z Krajku",
+   "from": 1586,
+   "to": 1596,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "léno udělil Rudolf II. (hrady.cz)"
   },
   {
    "owner": "pani-z-roupova",
    "owner_wiki": "Páni z Roupova",
-   "person": "Zdeněk z Roupova",
-   "from": null,
-   "to": 1620,
+   "person": "Vilém z Roupova s manželkou Alenou ze Zástřizl",
+   "from": 1596,
+   "to": 1621,
    "from_approx": false,
    "to_approx": false,
    "how": "lenni",
-   "note": "zástavní majitel hradu; po bitvě na Bílé hoře (1620) mu byl hrad zabaven za účast na stavovském povstání"
+   "note": "krajský hejtman, předák odbojných moravských stavů; hrad mu byl 1621 konfiskován (hrady.cz, muzeum Znojmo); cs.wiki uvádí jako zástavního majitele Zdeňka z Roupova"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "zemská komora Markrabství moravského",
+   "from": 1621,
+   "to": 1710,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "hrad chátral (požár 1630, Švédové 1645, oprava 1697); příslušenství hradu připadlo znojemské jezuitské koleji"
   },
   {
    "owner": "z-deblina",
    "owner_wiki": null,
-   "person": "Maxmilián z Deblína",
-   "from": null,
-   "to": null,
+   "person": "Maxmilián František, Antonín František a František Libor z Deblína; později František Josef z Deblína (1757-1784)",
+   "from": 1710,
+   "to": 1784,
    "from_approx": false,
-   "to_approx": true,
-   "how": "neznamo",
-   "note": "po roce 1710 nechal starý hrad přestavět v barokním slohu, musel jej tedy vlastnit již dříve; zdroj neuvádí rok nabytí, jen že po násilné smrti posledního příslušníka rodu zámek zanikl jako šlechtické sídlo"
+   "to_approx": false,
+   "how": "lenni",
+   "note": "léno udělil Josef I. (muzeum Znojmo uvádí dekret 1709); v letech 1710-1721 postavili barokní zámek; po smrti Josefa z Deblína 1784 bez mužského dědice připadl zámek císaři"
   },
   {
-   "owner": "stat",
+   "owner": "mesto",
    "owner_wiki": null,
-   "person": null,
-   "from": null,
+   "person": "město Znojmo",
+   "from": 1710,
+   "to": 1865,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "část areálu (předhradí s rotundou) připadla městu, které zde 1720 založilo pivovar; zdroje se liší, zda ji město získalo vyčleněním 1710 nebo koupí od Deblínů"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "císař (vojenská nemocnice, kasárna, sklady)",
+   "from": 1784,
+   "to": 1865,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "po vymření Deblínů 1784 byl zámek upraven na vojenskou nemocnici (lazaret), inventář rozprodán"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "město Znojmo",
+   "from": 1865,
    "to": null,
    "from_approx": false,
    "to_approx": false,
-   "how": "jine",
-   "note": "po vymření Deblínů byl zámek upraven na vojenskou nemocnici a získal pozdně klasicistní fasády, později byla velká část areálu poškozena vestavbou pivovaru; zdroj neuvádí konkrétního vlastníka ani rok"
+   "how": "koupe",
+   "note": "město získalo prázdný zámek a postupně sem umístilo Jihomoravské muzeum; od 1922 celá budova muzeem"
   }
  ],
  "events": [
@@ -74,16 +151,32 @@
    "text": "stoupenci markraběte Prokopa úspěšně ubránili hrad při obléhání vévodou Albrechtem Rakouským a králem Zikmundem"
   },
   {
+   "year": 1439,
+   "text": "Albrecht z Leskovce první zástavní majitel hradu"
+  },
+  {
    "year": 1523,
    "text": "před tímto rokem byl snížen bergfrit"
   },
   {
-   "year": 1620,
-   "text": "po bitvě na Bílé hoře zabaven hrad Zdeňku z Roupova za účast na stavovském povstání"
+   "year": 1621,
+   "text": "hrad konfiskován Vilému z Roupova za účast na stavovském povstání (cs.wiki uvádí Zdeňka z Roupova a rok 1620)"
   },
   {
    "year": 1710,
    "text": "Maxmilián z Deblína nechal starý hrad přestavět v barokním slohu"
+  },
+  {
+   "year": 1721,
+   "text": "dokončen barokní zámek Deblínů (stavba od 1710)"
+  },
+  {
+   "year": 1784,
+   "text": "zemřel Josef z Deblína bez mužského dědice, zámek připadl císaři a sloužil jako vojenská nemocnice"
+  },
+  {
+   "year": 1865,
+   "text": "zámek získalo město Znojmo, později zde sídlí Jihomoravské muzeum"
   },
   {
    "year": 1892,
@@ -91,6 +184,9 @@
   }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Znojmo_(zámek)"
+  "https://cs.wikipedia.org/wiki/Znojmo_(zámek)",
+  "https://www.hrady.cz/zamek-znojmo/texty?pos=1000&tid=3536",
+  "https://www.muzeumznojmo.cz/Znojemsky-hrad",
+  "https://www.atlasceska.cz/pamatky/znojemsky-hrad-23589"
  ]
 }

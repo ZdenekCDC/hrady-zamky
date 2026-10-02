@@ -1,33 +1,235 @@
 {
  "id": "Q159971",
  "name": "Lemberk",
- "founded": {"year": 1240, "approx": true, "text": "Kolem roku 1240 založil hrad Havel z Lemberka, příslušník rodu Markvarticů, a stal se tak zakladatelem rodu Lemberků; první listinné zmínky pocházejí z let 1241-1249."},
- "summary": "Hrad Lemberk založil kolem roku 1240 Havel z Lemberka z rodu Markvarticů, po němž jej drželi jeho potomci - Lemberkové. Po husitském vpádu 1427 hrad převzali Berkové z Dubé a v dalších desetiletích se majitelé (Elsnicové, páni z Donína, Ilburkové, Kurzbach z Trachenberka, znovu Berkové z Dubé) často střídali. Po roce 1550 zahájil Jindřich Berka z Dubé přestavbu na renesanční zámek, roku 1634 sňatkem přešel na rod Bredů a roku 1726 jej koupil hrabě Filip Josef z Gallasu, po němž jej zdědili Clam-Gallasové. Po smrti posledního mužského člena rodu roku 1930 zámek zdědila dcera provdaná za knížete z Auerspergu a roku 1945 byl na základě Benešových dekretů vyvlastněn státem.",
+ "founded": {
+  "year": 1240,
+  "approx": true,
+  "text": "Kolem roku 1240 založil hrad Havel z Lemberka, příslušník rodu Markvarticů, a stal se tak zakladatelem rodu Lemberků; první listinné zmínky pocházejí z let 1241-1249."
+ },
+ "summary": "Hrad Lemberk založil kolem roku 1240 Havel z Lemberka z rodu Markvarticů a jeho potomci jej drželi do konce 14. nebo počátku 15. století. Za husitských válek se majitelé rychle střídali, od roku 1430 panství držel rod Berků z Dubé a po nich Elsnicové (od 1471) a dále páni z Donína. Od roku 1518 patřil Ilburkům, poté Kurzbachům z Trachenberka, kteří kolem poloviny 16. století hrad přestavěli na renesanční zámek; po Berkovi z Dubé a pánech z Donína jej po roce 1620 získal Albrecht z Valdštejna a roku 1634 přešel na Jana Rudolfa z Bredy. Roku 1726 jej koupil Filip Josef z Gallasu, po něm jej zdědili Clam-Gallasové, od roku 1930 Auerspergové, a roku 1945 byl zestátněn.",
  "owners": [
-  {"owner": "lemberkove", "owner_wiki": "Lemberkové", "person": "Havel z Lemberka", "from": 1240, "to": 1427, "from_approx": true, "to_approx": true, "how": "zalozeni", "note": "založil hrad kolem 1240; rod Lemberků (větev Markvarticů) jej držel po několik generací, naposledy doložen Gottfried Haugvic z Lemberka roku 1408; roku 1427 hrad obsadili husité pod Alešem ze Žemberka"},
-  {"owner": "berkove-z-dube", "owner_wiki": "Berkové z Dubé", "person": "jeden ze čtyř bratrů Berků z Dubé", "from": 1430, "to": 1471, "from_approx": false, "to_approx": false, "how": "jine", "note": "po husitském vpádu převzal panství rod Berků z Dubé; roku 1471 jej jeden z bratrů prodal"},
-  {"owner": "z-elsnic", "owner_wiki": null, "person": "Hanuš Elsnic z Elsnic", "from": 1471, "to": 1510, "from_approx": false, "to_approx": false, "how": "koupe", "note": "Elsnicové drželi hrad do roku 1510"},
-  {"owner": "pani-z-donina", "owner_wiki": "Páni z Donína", "person": null, "from": 1510, "to": 1518, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "v letech 1510-1518 se majitelé (mj. páni z Donína) často střídali a zpustošené panství drancovali vojáci"},
-  {"owner": "ilburkove", "owner_wiki": "Ilburkové", "person": "Vilém z Ilburka", "from": 1518, "to": null, "from_approx": false, "to_approx": true, "how": "koupe", "note": "fojt z Horní Lužice; koupil zbídačené panství se čtyřmi z šesti pustých vesnic"},
-  {"owner": "z-trachenberka", "owner_wiki": null, "person": "Kurzbach z Trachenberka", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "obnovil zaniklé vesnice a založil další; přesná léta držby cs.wiki neuvádí"},
-  {"owner": "berkove-z-dube", "owner_wiki": "Berkové z Dubé", "person": "Jindřich Berka z Dubé", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "po roce 1550 zahájil přestavbu hradu na renesanční zámek"},
-  {"owner": "pani-z-donina", "owner_wiki": "Páni z Donína", "person": "Kateřina z Donína a její rodina", "from": null, "to": 1634, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "počátkem 17. století zvýšili zámecké křídlo o patro; Kateřina z Donína se provdala za Jana Rudolfa z Bredy"},
-  {"owner": "bredove", "owner_wiki": "Bredové", "person": "Jan Rudolf z Bredy", "from": 1634, "to": 1726, "from_approx": false, "to_approx": false, "how": "snatek", "note": "získal zámek sňatkem s Kateřinou z Donína; rod zámek upravoval podle italských a holandských vzorů"},
-  {"owner": "gallasove", "owner_wiki": "Gallasové", "person": "Filip Josef z Gallasu", "from": 1726, "to": null, "from_approx": false, "to_approx": true, "how": "koupe", "note": "koupil zámek od Bredů; bez mužských potomků odkázal majetek synovci Kristiánu Filipovi z Clamu"},
-  {"owner": "clam-gallasove", "owner_wiki": "Clam-Gallasové", "person": "Kristián Filip z Clam-Gallasu", "from": null, "to": 1930, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "zdědil po strýci a spojil jméno rodů Clam a Gallas; posledním mužským členem byl Franz Clam-Gallas, zemřel 1930"},
-  {"owner": "auerspergove", "owner_wiki": "Auerspergové", "person": "Gabriela Clam-Gallasová, provdaná z Auerspergu", "from": 1930, "to": 1945, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "jedna ze sedmi dcer Franze Clam-Gallase, provdaná za prince Adolfa z Auerspergu"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "zámek rodiny Auerspergů vyvlastněn státem na základě Benešových dekretů"}
+  {
+   "owner": "lemberkove",
+   "owner_wiki": "Lemberkové",
+   "person": "Havel z Lemberka",
+   "from": 1240,
+   "to": 1408,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "zalozeni",
+   "note": "založil hrad kolem 1240 (první listiny 1241-1249); rod Lemberků (větev Markvarticů) jej držel po několik generací; cs.wiki uvádí Gottfrieda Haugvice z Lemberka jako majitele ještě 1408, de.wiki a web zámku označují za konec držby rodu 1398 (Hasko z Lemberka † 1398, resp. konec 14. století)"
+  },
+  {
+   "owner": "neznamo",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1408,
+   "to": 1430,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "za husitských válek se majitelé rychle střídali, většinou z lužické a saské šlechty (de.wiki, web zámku); roku 1427 hrad obsadili husité pod Alešem ze Žemberka; konkrétní držitele zdroje nejmenují"
+  },
+  {
+   "owner": "berkove-z-dube",
+   "owner_wiki": "Berkové z Dubé",
+   "person": "jeden ze čtyř bratrů Berků z Dubé",
+   "from": 1430,
+   "to": 1471,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "panství převzal rod Berků z Dubé; roku 1471 jeden z bratrů Lemberk prodal"
+  },
+  {
+   "owner": "z-elsnic",
+   "owner_wiki": null,
+   "person": "Hanuš Elsnic z Elsnic",
+   "from": 1471,
+   "to": 1510,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Elsnicové drželi hrad do roku 1510"
+  },
+  {
+   "owner": "pani-z-donina",
+   "owner_wiki": "Páni z Donína",
+   "person": null,
+   "from": 1510,
+   "to": 1518,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "v letech 1510-1518 se majitelé (mj. páni z Donína) často střídali a zpustošené panství drancovali vojáci; přesné držení pánů z Donína cs.wiki neuvádí"
+  },
+  {
+   "owner": "ilburkove",
+   "owner_wiki": "Ilburkové",
+   "person": "Vilém z Ilburka",
+   "from": 1518,
+   "to": 1538,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "fojt z Horní Lužice; koupil zbídačené panství se čtyřmi z šesti pustých vesnic; rok smrti 1538 podle de.wiki"
+  },
+  {
+   "owner": "ilburkove",
+   "owner_wiki": "Ilburkové",
+   "person": "vdova po Vilémovi z Ilburka, poté dcera Anna provdaná z Kurzbachu",
+   "from": 1538,
+   "to": 1550,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "de.wiki: po Vilémově smrti 1538 panství připadlo manželce, později dceři Anně († 1554), provdané za Jindřicha I. z Kurzbachu; rok přechodu na ni zdroj neuvádí"
+  },
+  {
+   "owner": "z-trachenberka",
+   "owner_wiki": null,
+   "person": "Jindřich II. Kurzbach z Trachenberka",
+   "from": 1550,
+   "to": 1581,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "web zámku (NPÚ): roku 1550 zdědil panství Jindřich Kurzbach z Trachenberka; obnovil zaniklé vesnice, založil další, mlýny, pily, hamr a pivovar; kolem 1570 přestavěl hrad na renesanční zámek (de.wiki); de.wiki pozdější Annin údaj (Anna † 1554) a rok 1550 se liší, rok 1581 podle de.wiki"
+  },
+  {
+   "owner": "berkove-z-dube",
+   "owner_wiki": "Berkové z Dubé",
+   "person": null,
+   "from": 1581,
+   "to": 1600,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "de.wiki: 1581 získali Berkové z Dubé a Nového Falkenburku; cs.wiki uvádí po Kurzbachovi Jindřicha Berku z Dubé a přestavbu po roce 1550, což si s ostatními zdroji odporuje (přestavbu připisují Kurzbachovi)"
+  },
+  {
+   "owner": "pani-z-donina",
+   "owner_wiki": "Páni z Donína",
+   "person": "Jan z Donína",
+   "from": 1600,
+   "to": 1623,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "de.wiki: 1600 přešel na purkrabí z Donína; počátkem 17. století zvýšili zámecké křídlo o patro, kolem 1610 zhotoven Bajkový sál objednaný Janem z Donína"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Albrecht z Valdštejna",
+   "from": 1623,
+   "to": 1634,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "de.wiki: 1623 koupě; web zámku (NPÚ): panství získal po roce 1620; cs.wiki Valdštejna nezmiňuje"
+  },
+  {
+   "owner": "bredove",
+   "owner_wiki": "Bredové",
+   "person": "Jan Rudolf z Bredy",
+   "from": 1634,
+   "to": 1726,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "cs.wiki: sňatkem Jana Rudolfa z Bredy s Kateřinou z Donína; de.wiki: koupil krátce před svou smrtí od Valdštejna (Valdštejn † 1634), web zámku: po jeho smrti přešel majetek na Bredu - zdroje se rozcházejí v způsobu nabytí; v letech 1660-1680 za Bredů přestavba do raně barokní podoby"
+  },
+  {
+   "owner": "gallasove",
+   "owner_wiki": "Gallasové",
+   "person": "Filip Josef z Gallasu",
+   "from": 1726,
+   "to": 1757,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil panství od Bredů; bez mužských potomků odkázal majetek synovci Kristiánu Filipovi z Clamu; rok přechodu 1757 podle de.wiki"
+  },
+  {
+   "owner": "clam-gallasove",
+   "owner_wiki": "Clam-Gallasové",
+   "person": "Kristián Filip z Clam-Gallasu",
+   "from": 1757,
+   "to": 1930,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "zdědil po strýci a spojil jméno rodů Clam a Gallas; posledním mužským členem byl František (Franz) Clam-Gallas, zemřel 1930; rodina sídlila většinou v Praze, Lemberk sloužil jako venkovské sídlo"
+  },
+  {
+   "owner": "auerspergove",
+   "owner_wiki": "Auerspergové",
+   "person": "Gabriela Clam-Gallasová, provdaná z Auerspergu",
+   "from": 1930,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "jedna ze sedmi dcer Franze Clam-Gallase, provdaná za prince Adolfa z Auerspergu"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "zámek rodiny Auerspergů vyvlastněn státem na základě Benešových dekretů"
+  }
  ],
  "events": [
-  {"year": 1240, "text": "Havel z Lemberka zakládá hrad Löwenberg (Lemberk)"},
-  {"year": 1249, "text": "první jistý listinný doklad - Havel z Lemberka a Jablonného použil ve svém přídomku jméno hradu"},
-  {"year": 1427, "text": "hrad obsadili husité pod vedením Aleše ze Žemberka"},
-  {"year": 1550, "text": "po roce 1550 zahájena přestavba hradu na renesanční zámek za Jindřicha Berky z Dubé"},
-  {"year": 1634, "text": "sňatkem Jana Rudolfa z Bredy s Kateřinou z Donína přešel zámek na rod Bredů"},
-  {"year": 1726, "text": "zámek koupil hrabě Filip Josef z Gallasu"},
-  {"year": 1930, "text": "smrtí Franze Clam-Gallase zámek zdědila dcera Gabriela, provdaná za Adolfa z Auerspergu"},
-  {"year": 1945, "text": "zámek vyvlastněn státem na základě Benešových dekretů"},
-  {"year": 1995, "text": "Zdislava z Lemberka, obyvatelka hradu ve 13. století, byla prohlášena za svatou"}
+  {
+   "year": 1240,
+   "text": "Havel z Lemberka zakládá hrad Löwenberg (Lemberk)"
+  },
+  {
+   "year": 1249,
+   "text": "první jistý listinný doklad - Havel z Lemberka a Jablonného použil ve svém přídomku jméno hradu"
+  },
+  {
+   "year": 1427,
+   "text": "hrad obsadili husité pod vedením Aleše ze Žemberka"
+  },
+  {
+   "year": 1550,
+   "text": "Jindřich Kurzbach z Trachenberka zdědil panství a v dalších desetiletích zámek přestavěl na renesanční (kolem 1570 podle de.wiki)"
+  },
+  {
+   "year": 1623,
+   "text": "panství získal Albrecht z Valdštejna, roku 1634 přešlo na Jana Rudolfa z Bredy"
+  },
+  {
+   "year": 1634,
+   "text": "zámek přešel na Jana Rudolfa z Bredy (podle cs.wiki sňatkem s Kateřinou z Donína, podle de.wiki koupí od Valdštejna)"
+  },
+  {
+   "year": 1726,
+   "text": "zámek koupil hrabě Filip Josef z Gallasu"
+  },
+  {
+   "year": 1930,
+   "text": "smrtí Franze Clam-Gallase zámek zdědila dcera Gabriela, provdaná za Adolfa z Auerspergu"
+  },
+  {
+   "year": 1945,
+   "text": "zámek vyvlastněn státem na základě Benešových dekretů"
+  },
+  {
+   "year": 1995,
+   "text": "Zdislava z Lemberka, obyvatelka hradu ve 13. století, byla prohlášena za svatou"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Lemberk"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Lemberk",
+  "https://de.wikipedia.org/wiki/Lemberk",
+  "https://www.zamek-lemberk.cz/cs/o-zamku/historie"
+ ]
 }

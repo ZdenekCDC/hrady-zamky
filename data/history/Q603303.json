@@ -2,99 +2,154 @@
  "id": "Q603303",
  "name": "Grabštejn",
  "founded": {
-  "year": 1250,
-  "approx": true,
-  "text": "Založení původního gotického hradu bergfritového typu není přesně datováno; ve 2. polovině 13. století za vlády Přemysla Otakara II. se na Grafenštejně objevují jako purkrabí páni z Donína, kteří hrad drželi po tři století."
+  "year": null,
+  "approx": false,
+  "text": "Doba založení původního gotického hradu není známa a mezi historiky o ní není shoda; první písemná zmínka z roku 1286 uvádí jako majitele Otu II., purkrabího z Donína; Donínové hrad drželi po tři století."
  },
  "summary": "Gotický hrad Grabštejn založili nejspíše ve 2. polovině 13. století páni z Donína, kteří jej drželi tři století, včetně obléhání za husitských válek. Ve 2. polovině 16. století jej pro dluhy prodali Jiřímu Mehlovi ze Střelic, který jej v letech 1566-1586 přestavěl na renesanční zámek se slavnou malovanou kaplí sv. Barbory. Poté se v držení vystřídali Hoffmannové z Grünbühelu, Černousové, Nosticové, Trauttmansdorffové a od roku 1704 Gallasové, po nich Clam-Gallasové, kteří provedli další přestavby (klasicistní podoba dolního zámku 1818). Rodině byl majetek roku 1945 zkonfiskován na základě Benešových dekretů; od roku 1953 zámek využívala Československá lidová armáda a po jejím odchodu z horního hradu roku 1973 chátral, než v letech 1988-2010 proběhly rozsáhlé záchranné práce. Dnes je majetkem státu, spravuje jej Národní památkový ústav a je přístupný veřejnosti.",
  "owners": [
   {
    "owner": "pani-z-donina",
    "owner_wiki": "Páni z Donína",
-   "person": null,
-   "from": 1250,
-   "to": 1566,
-   "from_approx": true,
+   "person": "Ota II. z Donína a další purkrabí z Donína",
+   "from": 1286,
+   "to": 1562,
+   "from_approx": false,
    "to_approx": false,
-   "how": "zalozeni",
-   "note": "purkrabí z Donína; hrad za husitských válek v 15. století několikrát obléhán se střídavými úspěchy, jednou odolal i útoku vojsk Šestiměstí; rod jej pro dluhy a spoluvlastnické spory prodal"
+   "how": "neznamo",
+   "note": "první písemná zmínka hradu 1286 s Otou II., purkrabím z Donína (web hradu); cs.wiki uvádí, že Donínové hrad drželi tři století; doba založení hradu je sporná; v 15. stol. hrad za husitských válek několikrát dobýván (podle amatérského webu petanek.org jej 1429-1435 držel husita Mikuláš z Kašperka, od 1437 Hlaváč z Donína); 1549 si hrad rozdělili synové Mikuláše z Donína; pro dluhy a spoluvlastnické spory hrad prodali Jiřímu Mehlovi ze Střelic"
   },
   {
    "owner": "z-strelic",
    "owner_wiki": null,
    "person": "Jiří Mehl ze Střelic",
-   "from": 1566,
+   "from": 1562,
    "to": 1586,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "císařský rada a zemský místokancléř; v letech 1566-1586 přestavěl hrad na renesanční zámek s poplužním dvorem a nechal vyzdobit kapli sv. Barbory (nejspíše malíř Heinrich Bocksberger); po nástupu Rudolfa II. ztratil postavení u dvora a pro finanční potíže musel zámek opustit; rod bez vlastního cs.wiki článku"
+   "note": "císařský rada a místokancléř; rok koupě 1562 podle oficiálního webu hradu a mikroreg.info, cs.wiki uvádí 1566 (začátek přestavby 1564-1566 podle zdroje), jiný zdroj 1569; přestavba na renesanční zámek, kaple sv. Barbory; pro dluhy a nemilost Rudolfa II. byl 27. října 1586 nucen panství prodat"
   },
   {
    "owner": "hofmannove",
    "owner_wiki": "Hofmannové",
    "person": "Ferdinand Hoffmann z Grünbühelu",
    "from": 1586,
-   "to": null,
+   "to": 1607,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "koupe",
-   "note": "cs.wiki neuvádí přesná léta držby ani dalších dvou následujících majitelů (Černousové, Nosticové); rod bez vlastního cs.wiki článku"
+   "note": "štýrský šlechtic, koupil panství 27. října 1586 za 164 000 kop grošů míšeňských (mikroreg.info); oženěn s Eliškou, dcerou Albrechta z Donína; zemřel 1607 (petanek.org i mikroreg.info)"
+  },
+  {
+   "owner": "hofmannove",
+   "owner_wiki": "Hofmannové",
+   "person": "Eliška z Donína, vdova po Ferdinandu Hoffmannovi",
+   "from": 1607,
+   "to": 1610,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "spravovala panství sama a roku 1610 je převedla na třetího manžela Jana z Tschirnhausu (mikroreg.info)"
   },
   {
    "owner": "cernousove",
    "owner_wiki": null,
-   "person": null,
-   "from": null,
-   "to": null,
-   "from_approx": true,
+   "person": "Jan z Tschirnhausu (z Černous)",
+   "from": 1610,
+   "to": 1621,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "snatek",
+   "note": "panství převedeno na třetího manžela Elišky; zemřel 1621 (mikroreg.info)"
+  },
+  {
+   "owner": "cernousove",
+   "owner_wiki": null,
+   "person": "Jan Bedřich a David Jindřich z Tschirnhausu (z Černous)",
+   "from": 1621,
+   "to": 1634,
+   "from_approx": false,
    "to_approx": true,
-   "how": "koupe",
-   "note": "rod Černousů, cs.wiki neuvádí konkrétní léta držby; rok 1622 (požár velké hradní věže) a rok 1645 (obsazení švédskou posádkou) spadají do období mezi Hoffmanny a Trauttmansdorffy; rod bez vlastního cs.wiki článku"
+   "how": "dedictvi",
+   "note": "v noci na 9. dubna 1622 vyhořela hradní věž (cs.wiki uvádí rok 1622); 1628 odešli z Čech jako nekatolíci, David Jindřich se vrátil 1631; rozsudkem komise z ledna 1634 byl majetek převeden Albrechtu z Valdštejna (diplomová práce TUL); amatérský web petanek.org uvádí zábor již 1628"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Albrecht a Maxmilián z Valdštejna",
+   "from": 1634,
+   "to": 1638,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "konfiskát po účasti Černousů ve stavovském povstání; Albrecht z Valdštejna, po něm hrabě Maxmilián z Valdštejna (petanek.org: 1633-1638); císařské rozhodnutí z 9. 8. 1638 vrátilo hrad Černousům, Maxmilián dostal náhradou Milotice"
+  },
+  {
+   "owner": "cernousove",
+   "owner_wiki": null,
+   "person": "David Jindřich a Jiří Zikmund z Tschirnhausu (z Černous)",
+   "from": 1638,
+   "to": 1651,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "restituce",
+   "note": "majetek vrácen Černousům (podle Sedláčka 1637, podle petanek.org rozhodnutí z 9. 8. 1638); 1645 hrad obsadila švédská posádka; 1651 Jiří Zikmund z Černous panství prodal Nosticům"
   },
   {
    "owner": "nosticove",
    "owner_wiki": "Nosticové",
-   "person": null,
-   "from": null,
-   "to": null,
-   "from_approx": true,
-   "to_approx": true,
+   "person": "Jan Hartvík Nostic",
+   "from": 1651,
+   "to": 1651,
+   "from_approx": false,
+   "to_approx": false,
    "how": "koupe",
-   "note": "rod Nosticů, cs.wiki neuvádí konkrétní léta držby"
+   "note": "koupil panství 16. 5. 1651 a o tři měsíce později (16. 8. 1651) je za stejnou cenu prodal dál (mikroreg.info)"
   },
   {
    "owner": "trauttmansdorffove",
    "owner_wiki": "Trauttmansdorffové",
-   "person": "Jan Josef z Trauttmansdorffu",
-   "from": null,
+   "person": "Adam Matyáš z Trauttmansdorffu, později Rudolf Vilém a Jan Josef",
+   "from": 1651,
    "to": 1704,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "roku 1655 na císařský příkaz strženo mohutné hradební opevnění; roku 1704 Jan Josef z Trauttmansdorffu zámek prodal hraběti Janu Václavu Gallasovi"
+   "note": "koupil 16. 8. 1651; 1655 na příkaz císaře strženo opevnění (cs.wiki); Jan Josef pro dluhy hrad na příkaz královské komory prodal Janu Václavu Gallasovi (potvrzeno 18. 11. 1704); dělení mezi dědice Adama Matyáše (zemřel 1684) zdroje neuvádějí"
   },
   {
    "owner": "gallasove",
    "owner_wiki": "Gallasové",
    "person": "Jan Václav Gallas",
    "from": 1704,
-   "to": 1759,
+   "to": 1719,
    "from_approx": false,
    "to_approx": true,
    "how": "koupe",
-   "note": "provedeny další přestavby zámku; rok přechodu na větev Clam-Gallasů odvozen ze spojení rodů sňatkem v polovině 18. století"
+   "note": "koupil hrad s panstvím za 401 500 zl, Grabštejn byl pro něj vedlejším panstvím gallasovského dominia (mikroreg.info); rok konce odvozen z jeho úmrtí 1719"
+  },
+  {
+   "owner": "gallasove",
+   "owner_wiki": "Gallasové",
+   "person": "Filip Josef Gallas",
+   "from": 1719,
+   "to": 1757,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "syn Jana Václava; zemřel 1757 bezdětný a dědicem ustanovil synovce své manželky Kristiána Filipa z Clamu"
   },
   {
    "owner": "clam-gallasove",
    "owner_wiki": "Clam-Gallasové",
-   "person": "Kristián Kryštof Clam-Gallas, František Clam-Gallas",
-   "from": 1759,
+   "person": "Kristián Filip, Kristián Kryštof a František Clam-Gallas",
+   "from": 1757,
    "to": 1930,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "roku 1818 dostal dolní zámek zásluhou Kristiána Kryštofa Clam-Gallase klasicistní podobu a vznikl zámecký park; roku 1930 zemřel poslední mužský příslušník rodu František Clam-Gallas"
+   "note": "Kristián Filip z Clamu zdědil 1757; za Kristiána Kryštofa dolní zámek roku 1818 přebudován na klasicistní podobu a vznikl park; 1843 požár věže za Eduarda Clam-Gallase; 1930 zemřel poslední mužský příslušník rodu František Clam-Gallas"
   },
   {
    "owner": "podstatsti-z-prusinovic",
@@ -105,31 +160,69 @@
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "zdědila hrad i zámek po otci Františku Clam-Gallasovi; komplex užívala s rodinou až do konfiskace 1945, kdy museli kraj opustit v dobytčím vagónu"
+   "note": "dcera Františka Clam-Gallase; užívala komplex do konfiskace 1945"
   },
   {
    "owner": "stat",
    "owner_wiki": null,
-   "person": null,
    "from": 1945,
    "to": null,
    "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "zkonfiskováno na základě Benešových dekretů; od 1953 zámek užívala Československá lidová armáda, po jejím odchodu z horního hradu 1973 areál rychle chátral; záchranné práce 1988-2010; dnes ve správě NPÚ, dolní zámek a park využívá Armáda ČR k výcviku psovodů"
+   "note": "konfiskace podle Benešových dekretů 1945; od 1953 zámek užívala armáda, po 1973 areál chátral; rekonstrukce 1988-2010; dnes ve vlastnictví státu a ve správě NPÚ, dolní zámek využívá Armáda ČR"
   }
  ],
  "events": [
-  {"year": 1622, "text": "na počátku třicetileté války vyhořela velká hradní věž"},
-  {"year": 1645, "text": "hrad obsadila švédská posádka"},
-  {"year": 1655, "text": "na císařský příkaz strženo původní mohutné hradební opevnění"},
-  {"year": 1586, "text": "dokončena dvacetiletá přestavba na renesanční zámek s kaplí sv. Barbory za Jiřího Mehla ze Střelic"},
-  {"year": 1704, "text": "zámek kupuje hrabě Jan Václav Gallas"},
-  {"year": 1818, "text": "dolní zámek získává klasicistní podobu, vzniká park"},
-  {"year": 1945, "text": "majetek zkonfiskován Clam-Gallasům na základě Benešových dekretů"},
-  {"year": 1988, "text": "zahájeny rozsáhlé záchranné práce na zchátralém areálu (do 2010)"}
+  {
+   "year": 1286,
+   "text": "první písemná zmínka o hradu, majitelem Ota II., purkrabí z Donína"
+  },
+  {
+   "year": 1586,
+   "text": "dokončena dvacetiletá přestavba na renesanční zámek s kaplí sv. Barbory za Jiřího Mehla ze Střelic"
+  },
+  {
+   "year": 1622,
+   "text": "na počátku třicetileté války vyhořela velká hradní věž"
+  },
+  {
+   "year": 1634,
+   "text": "majetek Černousů převeden Albrechtu z Valdštejna (po stavovském povstání)"
+  },
+  {
+   "year": 1645,
+   "text": "hrad obsadila švédská posádka"
+  },
+  {
+   "year": 1651,
+   "text": "Nosticové kupují Grabštejn a po třech měsících ho prodávají Trauttmansdorffům"
+  },
+  {
+   "year": 1655,
+   "text": "na císařský příkaz strženo původní mohutné hradební opevnění"
+  },
+  {
+   "year": 1704,
+   "text": "zámek kupuje hrabě Jan Václav Gallas"
+  },
+  {
+   "year": 1818,
+   "text": "dolní zámek získává klasicistní podobu, vzniká park"
+  },
+  {
+   "year": 1945,
+   "text": "majetek zkonfiskován Clam-Gallasům na základě Benešových dekretů"
+  },
+  {
+   "year": 1988,
+   "text": "zahájeny rozsáhlé záchranné práce na zchátralém areálu (do 2010)"
+  }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Grabštejn"
+  "https://cs.wikipedia.org/wiki/Grabštejn",
+  "https://hrad-grabstejn.cz/cs/o-hradu/historie",
+  "http://www.mikroreg.info/index.aspx?rub=111",
+  "https://www.petanek.org/hrady/ZAMEK-GRABSTEJN.htm"
  ]
 }

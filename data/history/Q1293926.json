@@ -6,25 +6,166 @@
   "approx": true,
   "text": "První zmínka o hradu pochází z roku 1281; gotický hrad patrně založil Markvart III. z Ostrého, či jeho syn Beneš z Vartemberka ve 13. století k ochraně obchodní žitavské záhvozdské cesty."
  },
- "summary": "Renesanční zámek Vartenberk (Stráž) ve Stráži pod Ralskem vznikl přestavbou gotického hradu, který od 13. století držel rod pánů z Vartenberka. Od roku 1504 patřil Hyršpergárům, kteří jej roku 1563 přestavěli na renesanční zámek, později se vystřídali Lichtenštejnové, Hartigové i Albrecht z Valdštejna. Po druhé světové válce areál zabrala sovětská armáda, roku 1987 vyhořel a od devadesátých let probíhá jeho postupná obnova.",
+ "summary": "Renesanční zámek Vartenberk (Stráž) ve Stráži pod Ralskem vznikl přestavbou gotického hradu, který od 13. století držel rod pánů z Vartenberka. Od 1504 patřil Hyršpergárům, kteří jej 1563 přestavěli, po Bílé hoře 1623-1633 Albrechtu z Valdštejna, poté Lichtenštejnům-Kastelkornům a Hartigům (do 1922). Po 1945 jej využívala ČKD a sovětská armáda, 1987 vyhořel a od roku 2001 patří městu Stráž pod Ralskem, které jej obnovuje.",
  "owners": [
-  {"owner": "vartenberkove", "owner_wiki": "Vartenberkové", "person": "Markvart III. z Ostrého, případně syn Beneš z Vartemberka", "from": 1281, "to": 1504, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "rod pánů z Vartenberka (čtyři větve - kumburská, kostecká, veselská, děčínská); za husitských válek hrad 1426/1427 obsadili sirotci, 1438 patřil Mikuláši Sokolovi z Lamberka a Děpoltovi z Rýzmburka"},
-  {"owner": "hyrspergarove", "owner_wiki": null, "person": null, "from": 1504, "to": 1563, "from_approx": false, "to_approx": true, "how": "koupe", "note": "šlechtický rod Hyršpergárů koupil hrad 1504, roku 1563 jej přestavěl na renesanční zámek"},
-  {"owner": "lichtenstejnove", "owner_wiki": null, "person": null, "from": 1563, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "zdroj neuvádí přesná léta držby; zámek se dále dostal do vlastnictví Lichtenštejnů, poté Hartigů a na krátkou dobu i Albrechta z Valdštejna, v tomto pořadí"},
-  {"owner": "valdstejnove", "owner_wiki": null, "person": "Albrecht z Valdštejna", "from": null, "to": 1639, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "krátkodobý majitel před vypleněním zámku švédským vojskem 1639 a vypálením 1645; přesná léta zdroj neuvádí"},
-  {"owner": "hartigove", "owner_wiki": null, "person": null, "from": 1645, "to": 1922, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "po dobudování zámku v Mimoni (1830) se vlastníci Vartenberku přestěhovali tam a zdejší zámek se stal sídlem velkostatku (Hartigovský velkostatek); rok nabytí Hartigy zdroj přesně neuvádí"},
-  {"owner": "soukromnik", "owner_wiki": null, "person": "František Melichar", "from": 1922, "to": 1945, "from_approx": false, "to_approx": true, "how": "koupe", "note": "unhošťský učitel a spisovatel, dožil na zámku; krátce před znárodněním byl velkostatek zastaven bankovnímu ústavu; za druhé světové války zde byla věznice"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": true, "to_approx": false, "how": "konfiskace", "note": "po válce areál zabrala sovětská armáda (nemocnice, zotavovna, později ubytovna koncernu ČKD Praha), poté zdevastován a 11. 9. 1987 vyhořel; od 90. let probíhá záchranná obnova, od 2024 částečně zpřístupněn"}
+  {
+   "owner": "vartenberkove",
+   "owner_wiki": "Vartenberkové",
+   "person": "Markvart III. z Ostrého, případně syn Beneš z Vartemberka",
+   "from": 1281,
+   "to": 1426,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "zalozeni",
+   "note": "rod pánů z Vartenberka (čtyři větve - kumburská, kostecká, veselská, děčínská); za husitských válek hrad 1426 nebo 1427 obsadili sirotci, hejtmanem se stal Jan Čapek ze Sán, někteří Vartenberkové s husity spolupracovali; rok 1426 je první doložená ztráta držby"
+  },
+  {
+   "owner": "z-lamberka",
+   "owner_wiki": null,
+   "person": "Mikuláš Sokol z Lamberka, po něm Děpolt z Rýzmburka",
+   "from": 1438,
+   "to": 1504,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "jine",
+   "note": "1438 hrad držel Mikuláš Sokol z Lamberka, po jeho smrti Děpolt z Rýzmburka; po husitských válkách se majitelé rychle střídali až do 1504 (cs.wiki, turistika.cz), další držitele zdroje neuvádějí"
+  },
+  {
+   "owner": "hyrspergarove",
+   "owner_wiki": null,
+   "person": "Bartoloměj Hiršpergár z Königsheimu a Hyršpergárové",
+   "from": 1504,
+   "to": 1623,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "hrad koupil 1504 (původem měšťané); 1563 jej přestavěli na renesanční zámek (letopočet nad branou); rodinná tragédie: Baltazar probodl strýce Erazma; majetek zkonfiskován po Bílé hoře (hrady.cz: pobělohorský konfiskát)"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Albrecht z Valdštejna",
+   "from": 1623,
+   "to": 1633,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "zámek s městečkem Stráž a dalšími statky koupil za 83116 kop míšeňských grošů; Švédové zámek 1639 vyplenili a 1645 vypálili, což už byl majetek dalších držitelů (strazpr.cz, cs.wiki: přesné datum příchodu Valdštejna 1622/1623 se liší)"
+  },
+  {
+   "owner": "lichtenstein-castelcornove",
+   "owner_wiki": "Lichtenstein-Castelcornové",
+   "person": "Kryštof Pavel z Lichtenštejna-Kastelkornu a jeho potomci",
+   "from": 1633,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "1633 koupil od Albrechta z Valdštejna (strazpr.cz); zámek byl podle NPÚ/propamatky obnoven 1681-1711 rodem Lichtenstein-Kastelkorn; rok přechodu na Hartigy zdroje neuvádějí"
+  },
+  {
+   "owner": "hartigove",
+   "owner_wiki": "Hartigové",
+   "person": "Hartigové (mj. František de Paula Hartig)",
+   "from": null,
+   "to": 1922,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupili od Lichtenštejnů (rok nezjištěn); po dobudování zámku v Mimoni 1830 se přestěhovali tam a Vartenberk se stal sídlem velkostatku (Hartigovský velkostatek)"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "František Melichar",
+   "from": 1922,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "unhošťský učitel a spisovatel, dožil na zámku; krátce před znárodněním byl velkostatek zastaven bankovnímu ústavu; za druhé světové války zde byla věznice"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "po válce státní majetek: rekreační zařízení ČKD Praha (do 1969), poté sovětská armáda (nemocnice, zotavovna), 11. 9. 1987 požár"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": null,
+   "from": null,
+   "to": 2001,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "v 90. letech 20. stol. podle databáze prazdnedomy.cz (méně spolehlivý zdroj) v soukromých rukou, majitelé se o objekt nestarali; jména ani roky zdroj neuvádí"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "Město Stráž pod Ralskem",
+   "from": 2001,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "podle databáze prazdnedomy.cz (méně spolehlivý zdroj) odkoupilo 2001 zdevastovaný zámek; od 2004 postupná obnova, 2024 zpřístupněno sedm místností"
+  }
  ],
  "events": [
-  {"year": 1281, "text": "první písemná zmínka o hradu"},
-  {"year": 1337, "text": "rod Vartenberků začal dědičně zastávat úřad nejvyššího číšníka českých králů"},
-  {"year": 1504, "text": "hrad koupili Hyršpergárové"},
-  {"year": 1563, "text": "přestavba hradu na renesanční zámek"},
-  {"year": 1639, "text": "zámek vypleněn a poškozen švédským vojskem, 1645 vypálen"},
-  {"year": 1922, "text": "Hartigovský velkostatek koupil František Melichar"},
-  {"year": 1987, "text": "11. září zámek vyhořel po devastaci sovětskými vojsky"},
-  {"year": 2024, "text": "dokončena část rekonstrukce, prvních sedm místností zpřístupněno návštěvníkům"}
+  {
+   "year": 1281,
+   "text": "první písemná zmínka o hradu"
+  },
+  {
+   "year": 1337,
+   "text": "rod Vartenberků začal dědičně zastávat úřad nejvyššího číšníka českých králů"
+  },
+  {
+   "year": 1504,
+   "text": "hrad koupili Hyršpergárové"
+  },
+  {
+   "year": 1563,
+   "text": "přestavba hradu na renesanční zámek"
+  },
+  {
+   "year": 1633,
+   "text": "Albrecht z Valdštejna prodal panství Kryštofu Pavlovi z Lichtenštejna"
+  },
+  {
+   "year": 1639,
+   "text": "zámek vypleněn a poškozen švédským vojskem, 1645 vypálen"
+  },
+  {
+   "year": 1922,
+   "text": "Hartigovský velkostatek koupil František Melichar"
+  },
+  {
+   "year": 1987,
+   "text": "11. září zámek vyhořel po devastaci sovětskými vojsky"
+  },
+  {
+   "year": 2001,
+   "text": "město Stráž pod Ralskem odkoupilo zdevastovaný zámek"
+  },
+  {
+   "year": 2024,
+   "text": "dokončena část rekonstrukce, prvních sedm místností zpřístupněno návštěvníkům"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Vartenberk"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Vartenberk",
+  "https://www.strazpr.cz/zamek-vartenberk/d-1226",
+  "https://www.hrady.cz/zamek-vartenberk",
+  "http://prazdnedomy.cz/domy/objekty/detail/2192",
+  "https://www.propamatky.cz/index.php/zpravodajstvi/58848-historie-ve-vrstvach-obnova-fasady-zamku-vartenberk"
+ ]
 }

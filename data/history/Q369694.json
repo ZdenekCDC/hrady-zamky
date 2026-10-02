@@ -1,124 +1,203 @@
 {
-  "id": "Q369694",
-  "name": "Pardubice (zámek)",
-  "founded": {
-    "year": null,
-    "approx": false,
-    "text": "Od 13. století zde stál vodní hrad; krátce po husitských válkách byl přestavěn a obehnán novou kamennou hradbou s nárožními věžicemi."
+ "id": "Q369694",
+ "name": "Pardubice (zámek)",
+ "founded": {
+  "year": null,
+  "approx": false,
+  "text": "Od 13. století zde stál vodní hrad; krátce po husitských válkách byl přestavěn a obehnán novou kamennou hradbou s nárožními věžicemi."
+ },
+ "summary": "Panské sídlo zde vzniklo koncem 13. století, panství patřilo mj. Ronovcům (Půta z Dubé), pánům z Pardubic, Hanuši z Milheimu, Viktorinu z Kunštátu a Mrzákům z Miletínka. Roku 1491 koupil panství Vilém z Pernštejna a přestavěl hrad na renesanční palác s mohutným opevněním; roku 1560 jej Pernštejnové prodali králi a stalo se komorním panstvím. V 19. století jej držely banka a soukromí majitelé (Drasche von Wartinberg), 1920 jej koupil Muzejní spolek, 1953 přešel na stát a od roku 2001 jej vlastní Pardubický kraj, sídlí v něm Východočeské muzeum.",
+ "owners": [
+  {
+   "owner": "ronovci",
+   "owner_wiki": "Ronovci",
+   "person": "Půta z Dubé a Frýdlantu, poté synové Hynek Hajman a Hynek Hlaváč z Pardubic",
+   "from": 1318,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "první známý majitel panství (zmíněn 1318; synové 1321); panské sídlo předpokládáno koncem 13. století; synové panství po r. 1320 vyměnili s Arnoštem z Hostýně (rok výměny zdroje neuvádějí)"
   },
-  "summary": "Na místě dnešního renesančního zámku stál od 13. století vodní hrad, přestavěný krátce po husitských válkách. Roku 1491 získal pardubické panství Vilém II. z Pernštejna, který hrad proměnil ve čtyřkřídlý renesanční palác s mohutným opevněním; v úpravách pokračovali jeho synové, posledním pernštejnským vlastníkem byl Jaroslav z Pernštejna. Roku 1560 panství odkoupil král a Pardubice se staly komorním panstvím, v 2. polovině 19. století zámek přešel do soukromých rukou (Privilegovaný rakouský berní ústav, poté baron Drasche von Wartinberg) a roku 1920 jej koupil pardubický muzejní spolek. Roku 1952 byl spolek nucen předat zámek státu; dnes je vlastnictvím Pardubického kraje a sídlí v něm Východočeské muzeum a Východočeská galerie.",
-  "owners": [
-    {
-      "owner": "pernstejnove",
-      "owner_wiki": "Pernštejnové",
-      "person": "Vilém II. z Pernštejna, synové Vojtěch a Jan, vnuk Jaroslav z Pernštejna",
-      "from": 1491,
-      "to": 1560,
-      "from_approx": false,
-      "to_approx": false,
-      "how": "koupe",
-      "note": "Vilém II. přestavěl hrad na renesanční palác s opevněním, v úpravách pokračovali synové Vojtěch a Jan; posledním vlastníkem z rodu byl Jaroslav z Pernštejna, který panství 1560 prodal králi; přesné roky předání mezi jednotlivými členy rodu zdroj neuvádí"
-    },
-    {
-      "owner": "koruna",
-      "owner_wiki": null,
-      "person": null,
-      "from": 1560,
-      "to": 1863,
-      "from_approx": false,
-      "to_approx": false,
-      "how": "koupe",
-      "note": "královské komorní panství; 1574-1579 a koncem 16. stol. úpravy Ulrica Aostalliho de Sala, v 17. stol. zřízen pivovar, v době barokní přestavba Františka Kaňky"
-    },
-    {
-      "owner": "soukromnik",
-      "owner_wiki": null,
-      "person": "Privilegovaný rakouský berní ústav",
-      "from": 1863,
-      "to": 1881,
-      "from_approx": false,
-      "to_approx": false,
-      "how": "koupe"
-    },
-    {
-      "owner": "soukromnik",
-      "owner_wiki": null,
-      "person": "baron Richard Drasche von Wartinberg a dědicové",
-      "from": 1881,
-      "to": 1920,
-      "from_approx": false,
-      "to_approx": false,
-      "how": "koupe"
-    },
-    {
-      "owner": "soukromnik",
-      "owner_wiki": null,
-      "person": "Muzejní spolek v Pardubicích",
-      "from": 1920,
-      "to": 1952,
-      "from_approx": false,
-      "to_approx": false,
-      "how": "koupe",
-      "note": "zahájil obnovu zámku; dochovala se jen utajovaná pernštejnská dubová truhla z konce 15. století"
-    },
-    {
-      "owner": "stat",
-      "owner_wiki": null,
-      "person": null,
-      "from": 1952,
-      "to": null,
-      "from_approx": false,
-      "to_approx": true,
-      "how": "jine",
-      "note": "spolek nucen předat zámek do správy státu, 1953 postátněny i sbírky; obnova přerušena, 1977 se zřítila část stropů, celková rekonstrukce až od 1994; dnes je zámek vlastnictvím Pardubického kraje, přesný rok přechodu na kraj zdroj neuvádí"
-    },
-    {
-      "owner": "mesto",
-      "owner_wiki": null,
-      "person": "Pardubický kraj",
-      "from": null,
-      "to": null,
-      "from_approx": true,
-      "to_approx": false,
-      "how": "jine",
-      "note": "dnešní vlastník; rok převodu ze státu zdroj neuvádí"
-    }
-  ],
-  "events": [
-    {
-      "year": 1491,
-      "text": "Vilém II. z Pernštejna získává panství a přestavuje hrad na renesanční palác"
-    },
-    {
-      "year": 1511,
-      "text": "dokončen parkán obklopující hradní jádro"
-    },
-    {
-      "year": 1560,
-      "text": "panství kupuje král, vzniká královské komorní panství"
-    },
-    {
-      "year": 1920,
-      "text": "zámek kupuje pardubický Muzejní spolek a zahajuje obnovu"
-    },
-    {
-      "year": 1952,
-      "text": "zámek předán do správy státu, obnova přerušena"
-    },
-    {
-      "year": 1977,
-      "text": "zřícení části stropů ve druhém patře paláce"
-    },
-    {
-      "year": 1994,
-      "text": "zahájena celková rekonstrukce zámku"
-    },
-    {
-      "year": 2010,
-      "text": "zámek s opevněním zapsán na seznam národních kulturních památek"
-    }
-  ],
-  "sources": [
-    "https://cs.wikipedia.org/wiki/Pardubice_(zámek)"
-  ]
+  {
+   "owner": "z-pardubic",
+   "owner_wiki": null,
+   "person": "Arnošt z Hostýně (z Pardubic), poté synové včetně Viléma z Pardubic a jeho syna Smila Flašky",
+   "from": null,
+   "to": 1384,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "vymena",
+   "note": "Arnošt nechal po 1332 povýšit Pardubice na město, závěť 1340; rok získání zdroje neuvádějí; po 1384 vyhlásil Václav IV. panství za odúmrť, Smil Flaška se soudil a 1391 se části panství vzdal"
+  },
+  {
+   "owner": "z-milheimu",
+   "owner_wiki": null,
+   "person": "Hanuš z Milheimu",
+   "from": 1384,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "přívrženec Václava IV., který panství získal právem odúmrtě (město a hrad s poplužním dvorem a vesnicemi); parpedie.cz uvádí dohodu se Smilem Flaškou až 1391; rok konce držby zdroje neuvádějí"
+  },
+  {
+   "owner": "pani-z-kunstatu-a-podebrad",
+   "owner_wiki": "Páni z Kunštátu a Poděbrad",
+   "person": "Viktorin z Kunštátu",
+   "from": 1420,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "husitský hejtman, otec Jiřího z Poděbrad; panství vlastnil 1420, nabytí a konec držby zdroje neuvádějí"
+  },
+  {
+   "owner": "z-miletinka",
+   "owner_wiki": null,
+   "person": "Mrzákové z Miletínka, Diviš Bořek z Miletínka (správu měli Vaněk a Jiří Pardubský)",
+   "from": 1434,
+   "to": 1491,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Pardubice získali 1434-1436 a Diviš Bořek je přikoupil ke Kunětické hoře; správu ponechal vedlejší větvi rodu; Jiří Pardubský panství 1491 prodal Vilému z Pernštejna"
+  },
+  {
+   "owner": "pernstejnove",
+   "owner_wiki": "Pernštejnové",
+   "person": "Vilém II. z Pernštejna, synové Vojtěch a Jan, vnuk Jaroslav z Pernštejna",
+   "from": 1491,
+   "to": 1560,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Vilém II. přestavěl hrad na renesanční palác s opevněním, v úpravách pokračovali synové Vojtěch a Jan; posledním vlastníkem z rodu byl Jaroslav z Pernštejna, který panství 1560 prodal králi; Vilém koupil 31. 1. 1491 od Jiříka Pardubského a Zdeslava Jeníka z Mečkova (parpedie.cz), Vojtěch po něm převzal sídlo po 1521, od 1533 Jan, po rozdělení dominia počátkem 50. let 16. stol. Jaroslav; přesné roky předání mezi členy rodu zdroje neuvádějí"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1560,
+   "to": 1855,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "královské komorní panství; 1574-1579 a koncem 16. stol. úpravy Ulrica Aostalliho de Sala, v 17. stol. zřízen pivovar, v době barokní přestavba Františka Kaňky; 1560 prodal Jaroslav z Pernštejna králi Maxmiliánovi (parpedie.cz: 1. 8. 1560)"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Privilegovaná rakouská národní banka",
+   "from": 1855,
+   "to": 1863,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "panství dáno do zástavy, banka se správy ujala 1859 (parpedie.cz)"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Privilegovaný rakouský berní ústav",
+   "from": 1863,
+   "to": 1881,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "parpedie.cz uvádí kupujícího jako Privilegovaný rakouský úvěrní ústav pro obchod a průmysl (koupil 25. 6. 1863 od Národní banky)"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "baron Richard Drasche von Wartinberg a dědicové",
+   "from": 1881,
+   "to": 1920,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Muzejní spolek v Pardubicích",
+   "from": 1920,
+   "to": 1953,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "zahájil obnovu zámku; dochovala se jen utajovaná pernštejnská dubová truhla z konce 15. století; podle cs.wiki spolek zámek 1952 předal do správy státu; podle cs.wiki spolek zámek 1952 předal do správy státu"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1953,
+   "to": 2001,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "1953 přešel zámek do vlastnictví státu (zamekpardubice.cz), postátněny i sbírky; obnova přerušena, 1977 se zřítila část stropů, celková rekonstrukce od 1994, od 1993 řízení oprav převzalo Východočeské muzeum"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "Pardubický kraj",
+   "from": 2001,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "vlastníkem zámku se stal 2001 (zamekpardubice.cz), od 2016 je v majetku kraje i Příhrádek; uživatelem je Východočeské muzeum v Pardubicích"
+  }
+ ],
+ "events": [
+  {
+   "year": 1318,
+   "text": "první doložená zmínka o pardubickém panství (Půta z Dubé)"
+  },
+  {
+   "year": 1491,
+   "text": "Vilém II. z Pernštejna získává panství a přestavuje hrad na renesanční palác"
+  },
+  {
+   "year": 1511,
+   "text": "dokončen parkán obklopující hradní jádro"
+  },
+  {
+   "year": 1560,
+   "text": "panství kupuje král, vzniká královské komorní panství"
+  },
+  {
+   "year": 1920,
+   "text": "zámek kupuje pardubický Muzejní spolek a zahajuje obnovu"
+  },
+  {
+   "year": 1953,
+   "text": "zámek přešel do vlastnictví státu, obnova přerušena"
+  },
+  {
+   "year": 1977,
+   "text": "zřícení části stropů ve druhém patře paláce"
+  },
+  {
+   "year": 1994,
+   "text": "zahájena celková rekonstrukce zámku"
+  },
+  {
+   "year": 2001,
+   "text": "vlastníkem zámku se stal Pardubický kraj"
+  },
+  {
+   "year": 2010,
+   "text": "zámek s opevněním zapsán na seznam národních kulturních památek"
+  }
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Pardubice_(zámek)",
+  "https://zamekpardubice.cz/zamek/historie-zamku/",
+  "http://www.parpedie.cz/cti-zaznam.php?id=Pardubice_panstvi",
+  "http://pktestext.npu.cz/zamek-12701272",
+  "https://www.soupispamatek.cz/arl-kcz/cs/detail-kcz_un_auth-0001100-Zamek-Pardubice/"
+ ]
 }

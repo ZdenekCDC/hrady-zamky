@@ -6,7 +6,7 @@
   "approx": true,
   "text": "Hrad založil pravděpodobně král Přemysl Otakar I. na sklonku své vlády (zemřel 1230); první písemná zmínka je z roku 1234, kdy je doložen purkrabí Konrád z Janovic."
  },
- "summary": "Zvíkov založil zeměpanský hrad král Přemysl Otakar I. a Přemyslovcům patřil až do vymření rodu roku 1306. Poté jej v zástavě drželi Rožmberkové, kolem 1335 vykoupil Karel IV., ale za husitských válek se do zástavy Rožmberků vrátil; od roku 1431 (a s dědičným držením od 1574) jej vlastnili Rožmberkové a poté Švamberkové, kterým byl roku 1622 po účasti na stavovském povstání zkonfiskován. Následně jej vlastnili Eggenberkové a od roku 1719 Schwarzenbergové, kterým byl hrad roku 1948 zabaven a od roku 1950 je státním hradem ve správě Národního památkového ústavu.",
+ "summary": "Zvíkov založil zeměpanský hrad král Přemysl Otakar I. a Přemyslovcům patřil až do vymření rodu roku 1306. Poté jej od roku 1307 drželi v zástavě Rožmberkové, roku 1335 jej vykoupil Karel IV. a za husitských válek, po neúspěšném obléhání 1429, jej král Zikmund roku 1431 zastavil Oldřichu II. z Rožmberka. Roku 1473 hrad s dalším zástavním statkem získal Bohuslav Krušina ze Švamberka a Švamberkové jej roku 1574 (podle de.wiki 1575) koupili od komory do dědičného držení; roku 1622 jim byl po stavovském povstání zkonfiskován a připadl Eggenberkům. Od roku 1719 jej vlastnili Schwarzenbergové, kterým byl roku 1948 zabaven; od roku 1950 je státním hradem ve správě Národního památkového ústavu.",
  "owners": [
   {
    "owner": "koruna",
@@ -35,11 +35,11 @@
    "owner_wiki": null,
    "person": "Karel IV.",
    "from": 1335,
-   "to": 1429,
+   "to": 1431,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "koupe",
-   "note": "vykoupil hrad ze zástavy Rožmberků, v zákoníku Majestas Carolina jej označil za nezcizitelný; během husitských válek (přesný rok neuveden) se hrad vrátil do zástavy Rožmberkům"
+   "note": "vykoupil hrad ze zástavy Rožmberků, v zákoníku Majestas Carolina jej označil za nezcizitelný; za husitských válek (obležení 1429) hrad zůstal v držení koruny, roku 1431 jej král Zikmund zastavil Oldřichu II. z Rožmberka (de.wiki)"
   },
   {
    "owner": "rozmberkove",
@@ -48,8 +48,9 @@
    "from": 1431,
    "to": null,
    "from_approx": false,
-   "to_approx": true,
-   "how": "lenni"
+   "to_approx": false,
+   "how": "lenni",
+   "note": "hrad mu roku 1431 zastavil král Zikmund (de.wiki: ze strachu, že purkrabí Kunata Kapléř přejde k povstalcům); Oldřich II. zde zlepšil opevnění a jmenoval purkrabím Mikuláše Krchlebce; rok jeho smrti zdroje u hradu neuvádějí"
   },
   {
    "owner": "rozmberkove",
@@ -57,9 +58,10 @@
    "person": "Jindřich V. z Rožmberka",
    "from": null,
    "to": 1473,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
-   "how": "dedictvi"
+   "how": "dedictvi",
+   "note": "de.wiki: Jindřich V. převzal přeúvěrované rožmberské panství 1472; zástavní držení zvíkovského panství předal 1473 (viz další záznam); rok přechodu od Oldřicha II. zdroje neuvádějí"
   },
   {
    "owner": "pani-ze-svamberka",
@@ -68,20 +70,20 @@
    "from": 1473,
    "to": null,
    "from_approx": false,
-   "to_approx": true,
-   "how": "dar",
-   "note": "přenechal mu jej strýc Jindřich V. z Rožmberka"
+   "to_approx": false,
+   "how": "koupe",
+   "note": "cs.wiki: Jindřich V. z Rožmberka mu hrad 1473 přenechal (jako strýci); de.wiki: 28. 9. 1473 mu prodal čtvrtinu rožmberských statků včetně zvíkovské zástavy (Bohuslav Krušina označen za bratrance); zástavní držení, rok konce zdroje neuvádějí"
   },
   {
    "owner": "pani-ze-svamberka",
    "owner_wiki": "Páni ze Švamberka",
    "person": "Jindřich III. starší ze Švamberka",
    "from": null,
-   "to": null,
-   "from_approx": true,
-   "to_approx": true,
+   "to": 1574,
+   "from_approx": false,
+   "to_approx": false,
    "how": "dedictvi",
-   "note": "po polovině 16. století zahájil renesanční úpravy hradu; dědičné držení rodu potvrdil až nákup roku 1574"
+   "note": "po polovině 16. století zahájil renesanční úpravy hradu (1550 pivovar, 1554 zvýšena věž Hláska); mezi Bohuslavem Krušinou a Kryštofem II. zdroje další držitele nejmenují, roky přechodů neuvádějí"
   },
   {
    "owner": "pani-ze-svamberka",
@@ -92,7 +94,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "koupil Zvíkov od královské komory a získal jej do dědičného držení rodu"
+   "note": "koupil Zvíkov od královské komory a získal jej do dědičného držení rodu (de.wiki uvádí prodej Maxmiliánem II. roku 1575 Kryštofovi ze Švamberka na Orlíku)"
   },
   {
    "owner": "pani-ze-svamberka",
@@ -111,8 +113,9 @@
    "from": 1592,
    "to": null,
    "from_approx": false,
-   "to_approx": true,
-   "how": "dedictvi"
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "rok smrti ani přechodu na Petra II. zdroje neuvádějí"
   },
   {
    "owner": "pani-ze-svamberka",
@@ -120,10 +123,10 @@
    "person": "Petr II. ze Švamberka",
    "from": null,
    "to": 1622,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "účastnil se stavovského povstání; posádka Zvíkova odmítla kapitulovat a odolávala až do roku 1622, kdy byl hrad obležen, dobyt a vyrabován"
+   "note": "účastnil se stavovského povstání; posádka Zvíkova odmítla kapitulovat a odolávala až do roku 1622, kdy byl hrad obležen, dobyt a vyrabován; rok nástupu zdroje neuvádějí"
   },
   {
    "owner": "eggenbergove",
@@ -133,8 +136,8 @@
    "to": 1719,
    "from_approx": false,
    "to_approx": false,
-   "how": "koupe",
-   "note": "hrad nechal opravit, ale už zde nesídlil, využíval jej k vojenským a hospodářským účelům; za třicetileté války zde byla vojenská posádka"
+   "how": "konfiskace",
+   "note": "majetek Petra ze Švamberka zkonfiskovaný po Bílé hoře dostal Jan Oldřich z Eggenberka (de.wiki); hrad nechal opravit, ale nesídlil zde, využíval jej k vojenským a hospodářským účelům; po 1646 byl hrad opuštěn a využívaly se jen hospodářské budovy (de.wiki); 1717 vymřeli Eggenberkové po meči, hrad získali Schwarzenbergové (cs.wiki 1719)"
   },
   {
    "owner": "schwarzenbergove",
@@ -145,7 +148,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "rod sídlil na sousedním Orlíku, Zvíkov přestal být správním střediskem panství; velký požár 1751, zabezpečovací a stavební úpravy 1840-1844 a po roce 1880 provedl Karel III. ze Schwarzenbergu"
+   "note": "rod sídlil na sousedním Orlíku, Zvíkov přestal být správním střediskem panství; velký požár 1751, zabezpečovací a stavební úpravy 1840-1844 a po roce 1880 provedl Karel III. ze Schwarzenbergu; roku 1790 při dělení rodu připadl mladší linii (de.wiki)"
   },
   {
    "owner": "stat",
@@ -177,6 +180,14 @@
    "text": "husitské vojsko oblehlo hrad"
   },
   {
+   "year": 1431,
+   "text": "král Zikmund zastavil hrad Oldřichu II. z Rožmberka"
+  },
+  {
+   "year": 1473,
+   "text": "Jindřich V. z Rožmberka předal zvíkovskou zástavu Bohuslavu Krušinovi ze Švamberka"
+  },
+  {
    "year": 1574,
    "text": "Kryštof II. ze Švamberka koupil hrad od komory do dědičného držení"
   },
@@ -194,6 +205,8 @@
   }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Zvíkov_(hrad)"
+  "https://cs.wikipedia.org/wiki/Zvíkov_(hrad)",
+  "https://de.wikipedia.org/wiki/Burg_Zvíkov",
+  "https://en.wikipedia.org/wiki/Zvíkov_Castle"
  ]
 }

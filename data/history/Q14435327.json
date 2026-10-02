@@ -1,29 +1,216 @@
 {
  "id": "Q14435327",
  "name": "Červené Poříčí",
- "founded": {"year": 1318, "approx": true, "text": "Poříčí se poprvé připomíná roku 1318, kdy jej vlastnil Jaroslav z Poříčí; tvrz na místě dnešního zámku nechal v polovině 16. století postavit Jindřich Mladota"},
- "summary": "Ves Poříčí se poprvé připomíná roku 1318 v držení Jaroslava z Poříčí, pravděpodobně příbuzného Černínů a Švihovských; při častém střídání majitelů zde v polovině 16. století Jindřich Mladota postavil tvrz, kterou Šicové z Drahenic v roce 1611 přestavěli na renesanční zámek. Po stavovském povstání zámek koupil císařský plukovník Filip Adam z Kronberku, poté jej dědictvím a sňatky získali Haubenové a hrabata z Toerring-Jettenbachu, načež jej roku 1763 koupil bavorský vévoda Klement František. Roku 1803 přešlo panství k Habsburkům jako součást Zákupského vévodství, po vzniku Československa bylo zestátněno a spravováno státními lesy, od roku 1997 je ve správě Národního památkového ústavu, který zámek postupně opravuje a zpřístupňuje veřejnosti.",
+ "founded": {
+  "year": 1318,
+  "approx": false,
+  "text": "Poříčí se poprvé připomíná roku 1318, kdy jej vlastnil Jaroslav z Poříčí; tvrz je poprvé zmíněna až v prodejní smlouvě z roku 1569 (starší literatura ji připisuje Jindřichu Mladotovi); po požáru tvrze 1606 postavil Mikuláš II. Šic z Drahenic renesanční zámek dokončený roku 1611."
+ },
+ "summary": "Ves Poříčí se poprvé připomíná roku 1318 v držení Jaroslava z Poříčí; v 15. a první polovině 16. století ji drželi Radslav z Kočova, Petr Brada z Nekmíře a Rýzmberkové (jako součást Švihova), od roku 1547 Jindřich Mladota. Šicové z Drahenic, kteří statek koupili roku 1569, po požáru tvrze postavili renesanční zámek dokončený roku 1611. Po stavovském povstání jej roku 1623 koupil císařský plukovník Filip Adam z Kronberku, poté jej dědictvím a sňatky získali Haubenové a hrabata z Toerring-Jettenbachu, načež jej roku 1763 koupil bavorský vévoda Klement František. Roku 1803 přešlo panství k Habsburkům jako součást Zákupského vévodství, po vzniku Československa bylo zestátněno a spravováno státními lesy, od roku 1997 je ve správě Národního památkového ústavu, který zámek postupně opravuje a zpřístupňuje veřejnosti.",
  "owners": [
-  {"owner": "z-porici", "owner_wiki": null, "person": "Jaroslav z Poříčí", "from": 1318, "to": 1400, "from_approx": false, "to_approx": true, "how": "neznamo", "note": "první písemná zmínka 1318; pravděpodobně příbuzný Černínů a Švihovských; článek o rodu neexistuje"},
-  {"owner": "neznamo", "owner_wiki": null, "person": null, "from": 1400, "to": 1550, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "časté střídání majitelů, Poříčí bylo jeden čas připojeno ke sousednímu Švihovu; konkrétní jména cs.wiki neuvádí"},
-  {"owner": "mladotove-ze-solopisk", "owner_wiki": "Mladotové ze Solopisk", "person": "Jindřich Mladota", "from": 1550, "to": 1569, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "držel Poříčí jako samostatný statek, nechal zde postavit tvrz (základy nalezeny archeologickým výzkumem v zahradě zámku)"},
-  {"owner": "z-drahenic", "owner_wiki": null, "person": "Šicové z Drahenic, Mikuláš Šic z Drahenic", "from": 1569, "to": 1623, "from_approx": false, "to_approx": false, "how": "koupe", "note": "Mikuláš nechal roku 1611 na místě tvrze postavit renesanční zámek; Mikuláš II. Šic z Drahenic za účast na stavovském povstání ztratil dvě třetiny majetku; článek o rodu neexistuje"},
-  {"owner": "z-kronberku", "owner_wiki": null, "person": "Filip Adam z Kronberku, syn Otto z Kronberku", "from": 1623, "to": 1709, "from_approx": false, "to_approx": false, "how": "koupe", "note": "císařský plukovník koupil Poříčí s dalšími 13 vesnicemi; panství jeden čas neslo název Korunní Poříčí; Filip Adam padl 1634, syn hrabě Otto (1629-1692) zde trvale žil a na zámku zemřel; článek o rodu neexistuje"},
-  {"owner": "z-haubenu", "owner_wiki": null, "person": "Jan Jiří z Haubenu", "from": 1709, "to": 1717, "from_approx": false, "to_approx": false, "how": "koupe", "note": "dcery Otty z Kronberku panství prodaly císařskému generálovi, který předtím koupil i hrad Roupov; padl v tureckých válkách u Bělehradu 1717; článek o rodu neexistuje"},
-  {"owner": "z-toerring-jettenbachu", "owner_wiki": null, "person": "Františka z Haubenu, provdaná hraběnka z Toerring-Jettenbachu, manžel Maxmilián Josef z Toerring-Jettenbachu", "from": 1717, "to": 1763, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "dcera generála Haubena zdědila panství a provdala se za bavorského hraběte; v době Toerringů byl zámek naposledy trvale osídlen, s čilým společenským ruchem; článek o rodu neexistuje"},
-  {"owner": "wittelsbachove", "owner_wiki": "Wittelsbachové", "person": "bavorský vévoda Klement František", "from": 1763, "to": 1803, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil Poříčí v dražbě, v Čechách vlastnil i Zákupy a Kácov; koncem 60. let 18. stol. zámek stavebně upraven, ale majitelé se zde už nezdržovali"},
-  {"owner": "habsburkove", "owner_wiki": "Habsburkové", "person": "Napoleon II. (formálně), poté přímý majetek císaře", "from": 1803, "to": 1918, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "na základě rozhodnutí vídeňského kongresu začleněno do Zákupského vévodství jako doména pro Napoleona II.; po jeho smrti 1832 zůstalo trvalým přímým majetkem císaře; 1829 odvezeno cenné zařízení, poté jen sídlo správy přes 3000 ha velkého velkostatku"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1918, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "habsburský majetek po vzniku Československa zestátněn, zámek připadl Ústřednímu ředitelství státních lesů a zůstal ve správě lesních podniků do roku 1997, kdy jej převzal Národní památkový ústav a zahájil rekonstrukci"}
+  {
+   "owner": "z-porici",
+   "owner_wiki": null,
+   "person": "Jaroslav z Poříčí (od 1321 také ze Skočic)",
+   "from": 1318,
+   "to": 1352,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "první písemná zmínka 1318, doložen do 1352; pravděpodobně příbuzný Černínů a Švihovských (stejný erb); článek o rodu neexistuje"
+  },
+  {
+   "owner": "z-kocova",
+   "owner_wiki": null,
+   "person": "Radslav z Kočova",
+   "from": 1411,
+   "to": 1446,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "doložen 1411, později přesídlil na Měšín a Poříčí prodal kolem 1446 Petru Bradovi z Nekmíře (hrady.cz, komerční web; cs.wiki majitele z tohoto období nejmenuje)"
+  },
+  {
+   "owner": "z-nekmire",
+   "owner_wiki": null,
+   "person": "Petr Brada z Nekmíře",
+   "from": 1446,
+   "to": 1473,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "koupil kolem 1446 od Radslava z Kočova; rok konce držby zdroje neuvádějí, v roce 1473 je doložen Jan z Rýzmberka (hrady.cz)"
+  },
+  {
+   "owner": "svihovsti-z-ryzmberka",
+   "owner_wiki": "Švihovští z Rýzmberka",
+   "person": "Jan z Rýzmberka a na Rábí, později Jindřich z Rýzmberka",
+   "from": 1473,
+   "to": 1547,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "Jan doložen jako majitel 1473; Poříčí bylo připojeno ke Švihovu; Jindřich z Rýzmberka prodal 1547 Jindřichu Mladotovi (hrady.cz, mapin.uhlava.cz, web zámku); rok 1473 je rok první zmínky"
+  },
+  {
+   "owner": "mladotove-ze-solopisk",
+   "owner_wiki": "Mladotové ze Solopisk",
+   "person": "Jindřich Mladota z Jimanic (též Jilmanic, Jelmanic)",
+   "from": 1547,
+   "to": 1569,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil 1547 od Jindřicha z Rýzmberka (web zámku, hrady.cz; cs.wiki uvádí jen 'v polovině 16. století'); držel Poříčí jako samostatný statek; podle cs.wiki a starší literatury zde postavil tvrz, první písemná zmínka o tvrzi je však až z prodejní smlouvy 1569; příslušnost k rodu Mladotů ze Solopisk je převzata z původního záznamu"
+  },
+  {
+   "owner": "z-drahenic",
+   "owner_wiki": null,
+   "person": "Mikuláš Šic z Drahenic (do 1571), poté bratři Adam a Albrecht Šicové, od 1601 Mikuláš II. Šic z Drahenic",
+   "from": 1569,
+   "to": 1622,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Mikuláš I. koupil tvrz, dvůr a ves za 2300 kop grošů míšeňských (1569); po jeho smrti 1571 se ujali statku bratři Adam a Albrecht; 1601 zdědil Albrechtův syn Mikuláš II., který po požáru 1606 postavil zámek dokončený 1611; za účast na stavovském povstání přišel o dvě třetiny majetku (1622-1623); článek o rodu neexistuje"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "královská komora",
+   "from": 1622,
+   "to": 1623,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "statek po konfiskaci připadl královské komoře a byl odhadnut na 87 127 kop grošů míšeňských (web zámku, hrady.cz); cs.wiki tuto etapu neuvádí"
+  },
+  {
+   "owner": "z-kronberku",
+   "owner_wiki": null,
+   "person": "Filip Adam z Kronberku, syn Otto z Kronberku",
+   "from": 1623,
+   "to": 1709,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "císařský plukovník koupil Poříčí s dalšími 13 vesnicemi; panství jeden čas neslo název Korunní Poříčí; Filip Adam padl 1634, syn hrabě Otto (1629-1692) zde trvale žil a na zámku zemřel; po Ottově smrti 1692 panství drželo jeho dcery, které je 1709 prodaly; článek o rodu neexistuje"
+  },
+  {
+   "owner": "z-haubenu",
+   "owner_wiki": null,
+   "person": "Jan Jiří z Haubenu",
+   "from": 1709,
+   "to": 1717,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "dcery Otty z Kronberku panství prodaly císařskému generálovi, který předtím koupil i hrad Roupov; padl v tureckých válkách u Bělehradu (cs.wiki 1717, hrady.cz 1716); článek o rodu neexistuje"
+  },
+  {
+   "owner": "z-toerring-jettenbachu",
+   "owner_wiki": null,
+   "person": "Františka z Haubenu, provdaná hraběnka z Toerring-Jettenbachu (1697-1758), od 1759 její syn Josef",
+   "from": 1717,
+   "to": 1763,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "dcera generála Haubena zdědila panství; cs.wiki uvádí manžela Maxmiliána Josefa, web Šumavský rozcestník Norberta Thörringa (zdroje se rozcházejí); 1752 spojeno s Roupovem; podle Šumavského rozcestníku 1759 přešlo na syna, který je 1763 prodal v dražbě; v době Toerringů byl zámek naposledy trvale osídlen; článek o rodu neexistuje"
+  },
+  {
+   "owner": "wittelsbachove",
+   "owner_wiki": "Wittelsbachové",
+   "person": "bavorský vévoda Klement František",
+   "from": 1763,
+   "to": 1803,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil Poříčí v dražbě, v Čechách vlastnil i Zákupy a Kácov; koncem 60. let 18. stol. zámek stavebně upraven, ale majitelé se zde už nezdržovali; Šumavský rozcestník uvádí vévodu jako majitele již 1758 (rozpor, převzat rok 1763 z cs.wiki a hrady.cz)"
+  },
+  {
+   "owner": "habsburkove",
+   "owner_wiki": "Habsburkové",
+   "person": "Ferdinand III. Toskánský (1803), František Karel, vévoda zákupský (Napoleon II., formálně), po 1832 Leopold II. Toskánský, od poloviny 19. stol. přímý majetek císaře",
+   "from": 1803,
+   "to": 1918,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "1803 přešlo na sekundogenituru Habsburků, podle rozhodnutí vídeňského kongresu určeno pro Napoleona II. (Zákupské vévodství); po jeho smrti 1832 Leopold II. Toskánský do 1847, poté součást korunních statků a přímý majetek císaře; 1829 odvezeno cenné zařízení, poté jen sídlo správy přes 3000 ha velkého velkostatku"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1918,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "habsburský majetek po vzniku Československa zestátněn, zámek připadl Ústřednímu ředitelství státních lesů a zůstal ve správě lesních podniků (1990 Západočeské státní lesy, lesní závod Přeštice) do roku 1997, kdy jej převzal Národní památkový ústav a zahájil rekonstrukci"
+  }
  ],
  "events": [
-  {"year": 1318, "text": "první písemná zmínka o Poříčí, majitel Jaroslav z Poříčí"},
-  {"year": 1611, "text": "Mikuláš Šic z Drahenic nechal na místě tvrze postavit renesanční zámek"},
-  {"year": 1623, "text": "po stavovském povstání koupil panství císařský plukovník Filip Adam z Kronberku"},
-  {"year": 1803, "text": "panství přešlo k Habsburkům a bylo začleněno do Zákupského vévodství"},
-  {"year": 1829, "text": "ze zámku odvezeno cenné zařízení"},
-  {"year": 1918, "text": "habsburský majetek zestátněn po vzniku Československa"},
-  {"year": 1997, "text": "zámek převzal Národní památkový ústav a zahájil rekonstrukci"},
-  {"year": 2010, "text": "zámek prohlášen národní kulturní památkou"}
+  {
+   "year": 1318,
+   "text": "první písemná zmínka o Poříčí, majitel Jaroslav z Poříčí"
+  },
+  {
+   "year": 1547,
+   "text": "Jindřich Mladota z Jimanic kupuje Poříčí od Jindřicha z Rýzmberka"
+  },
+  {
+   "year": 1569,
+   "text": "první zmínka o tvrzi v prodejní smlouvě, Mikuláš Šic z Drahenic kupuje tvrz, dvůr a ves"
+  },
+  {
+   "year": 1606,
+   "text": "požár do základů ničí tvrz s dvorem"
+  },
+  {
+   "year": 1611,
+   "text": "Mikuláš II. Šic z Drahenic dokončuje renesanční zámek (letopočet nad vchodem)"
+  },
+  {
+   "year": 1623,
+   "text": "po stavovském povstání koupil panství císařský plukovník Filip Adam z Kronberku"
+  },
+  {
+   "year": 1709,
+   "text": "dcery Otty z Kronberku prodávají panství Janu Jiřímu z Haubenu"
+  },
+  {
+   "year": 1763,
+   "text": "panství v dražbě kupuje bavorský vévoda Klement František"
+  },
+  {
+   "year": 1803,
+   "text": "panství přešlo k Habsburkům a bylo začleněno do Zákupského vévodství"
+  },
+  {
+   "year": 1829,
+   "text": "ze zámku odvezeno cenné zařízení"
+  },
+  {
+   "year": 1918,
+   "text": "habsburský majetek zestátněn po vzniku Československa"
+  },
+  {
+   "year": 1997,
+   "text": "zámek převzal Národní památkový ústav a zahájil rekonstrukci"
+  },
+  {
+   "year": 2010,
+   "text": "zámek prohlášen národní kulturní památkou"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Červené_Poříčí_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Červené_Poříčí_(zámek)",
+  "http://www.zamek-cerveneporici.cz/cs/o-zamku/historie",
+  "http://www.zamek-cerveneporici.cz/cs/o-zamku/historie-v-datech",
+  "http://www.sumava.cz/rozcestnik/kultura-a-pamatky/zamky/zamek-cervene-porici/ (turistický web)",
+  "https://www.hrady.cz/zamek-cervene-porici/texty?pos=1000&tid=1373 (komerční web)"
+ ]
 }

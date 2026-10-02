@@ -1,28 +1,188 @@
 {
  "id": "Q27733332",
  "name": "Miroslav",
- "founded": {"year": 1398, "approx": true, "text": "Na místě zámku pravděpodobně stála pozdně gotická vodní tvrz, poprvé připomínaná roku 1398; jádro dnešního zámku snad obsahuje její pozůstatky."},
- "summary": "Vodní tvrz v Miroslavi, poprvé připomínaná 1398, od konce 15. století renesančně přestavěli a rozšířili Valečtí z Mírova a po nich Hodičtí z Hodic. Za účast na stavovském povstání byl zámek Hodickým zkonfiskován a prodán hrabatům z Náchoda, po nich jej roku 1692 získali loučtí premonstráti, kteří provedli další velké stavební úpravy. Po zrušení kláštera 1784 zámek vlastnil náboženský fond, poté rodiny Hopfenů a vídeňských cukrovarníků Stummerů, po roce 1945 stát a od počátku 90. let je ve vlastnictví města Miroslav, které jej postupně rekonstruuje.",
+ "founded": {
+  "year": 1398,
+  "approx": true,
+  "text": "Na místě zámku pravděpodobně stála pozdně gotická vodní tvrz, poprvé připomínaná roku 1398; jádro dnešního zámku snad obsahuje její pozůstatky."
+ },
+ "summary": "Vodní tvrz v Miroslavi, poprvé připomínaná koncem 14. století (cs.wiki 1398), od konce 15. století renesančně přestavovali Valečtí z Mírova a po nich Hodičtí z Hodic. Po Bílé hoře statek zkonfiskovaný Hynkovi Hodickému získali Březničtí z Náchoda, od nich 1661 Kounicové a Schaumburgové, 1692 loučtí premonstráti, kteří zámek barokně upravili. Po zrušení kláštera 1784 patřil náboženskému fondu, od 1824 Hopfenům, 1893-1945 Stummerům, poté státu a od počátku 90. let městu Miroslav.",
  "owners": [
-  {"owner": "z-mirova", "owner_wiki": null, "person": "Zikmund Valecký z Mírova a rod Valeckých z Mírova", "from": 1490, "to": 1569, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "vlastnili tvrz od konce 15. století do 60. let 16. století; přistavěli jižní křídlo s arkýřem a zabezpečili komplex plášťovou zdí; roku 1569 vyměnili zámek s Hodickými z Hodic za panství Hostim"},
-  {"owner": "hodicti-z-hodic", "owner_wiki": "Hodičtí z Hodic", "person": null, "from": 1569, "to": 1621, "from_approx": false, "to_approx": true, "how": "vymena", "note": "získáno výměnou za panství Hostim; pokračovali v renesančních úpravách (nové sály s výmalbou, sgrafitová bosáž fasád); pro účast na stavovském povstání jim byl zámek zkonfiskován"},
-  {"owner": "koruna", "owner_wiki": null, "person": null, "from": 1621, "to": 1621, "from_approx": true, "to_approx": true, "how": "konfiskace", "note": "zámek zkonfiskován Hodickým z Hodic pro účast na stavovském povstání a téhož roku za 30000 zlatých prodán hrabatům z Náchoda"},
-  {"owner": "neznamo", "owner_wiki": null, "person": "hrabata z Náchoda", "from": 1621, "to": 1661, "from_approx": true, "to_approx": false, "how": "koupe", "note": "zdroj neupřesňuje, o jaký konkrétní rod jde; časové zařazení (do 1661) by odpovídalo Piccolominiům, kteří tehdy drželi i panství Náchod, ale zdroj to přímo neuvádí, proto ponecháno jako neznámý vlastník; za jejich držení proběhly mírné barokní úpravy a byl zřízen park"},
-  {"owner": "neznamo", "owner_wiki": null, "person": null, "from": 1661, "to": 1692, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "vlastník mezi koncem držby hrabat z Náchoda (1661) a převzetím louckými premonstráty (1692) není ve zdroji uveden"},
-  {"owner": "cirkev", "owner_wiki": null, "person": null, "from": 1692, "to": 1784, "from_approx": false, "to_approx": false, "how": "koupe", "note": "loučtí premonstráti; připojili statek k panství Loděnice a provedli výrazné stavební úpravy (nový vstupní most a portál, monumentální schodiště, přístavba se dvoulodní síní); po požáru v polovině 18. stol. zrušeno cimbuří a přidána mansardová střecha; klášter v Louce zrušen 1784"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1784, "to": 1824, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "po zrušení louckého kláštera připadl zámek náboženskému fondu"},
-  {"owner": "soukromnik", "owner_wiki": null, "person": "Josef Hopfen (lékař) a rodina", "from": 1824, "to": 1893, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil zámek za 130000 zlatých"},
-  {"owner": "soukromnik", "owner_wiki": null, "person": "rodina Stummerů (vídeňští cukrovarníci)", "from": 1893, "to": 1945, "from_approx": false, "to_approx": false, "how": "koupe"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": 1990, "from_approx": false, "to_approx": true, "how": "konfiskace", "note": "po konfiskaci připadl Městskému národnímu výboru, sloužil jako městské muzeum a internát"},
-  {"owner": "mesto", "owner_wiki": null, "person": "Město Miroslav", "from": 1990, "to": null, "from_approx": true, "to_approx": false, "how": "jine", "note": "na počátku 90. let připadl zdevastovaný zámek městu; 2005 neplatné referendum o prodeji; rekonstrukce jihovýchodního křídla dokončena 2015 (dotace 21 mil. Kč z ROP Jihovýchod), oprava střechy věžové budovy 2022 (12 mil. Kč, ocenění Nejlépe opravená kulturní památka Jihomoravského kraje 2022)"}
+  {
+   "owner": "z-mirova",
+   "owner_wiki": null,
+   "person": "Markvart Valecký z Mírova, od 1520 Zikmund Valecký z Mírova (zemřel 1547) a rod Valeckých z Mírova",
+   "from": 1497,
+   "to": 1569,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "snatek",
+   "note": "1497 se majitelkou panství stala Ludmila z Miroslavi, která téhož roku učinila svého manžela Markvarta z Mírova spolumajitelem (hrady.cz, komerční web); Valečtí vlastnili do 60. let 16. století; Zikmund přistavěl jižní křídlo s arkýřem a zabezpečil komplex plášťovou zdí; roku 1569 vyměnili zámek s Hodickými z Hodic za panství Hostim"
+  },
+  {
+   "owner": "hodicti-z-hodic",
+   "owner_wiki": "Hodičtí z Hodic",
+   "person": null,
+   "from": 1569,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "vymena",
+   "note": "získáno výměnou za panství Hostim; Hynek Hodický z Hodic pokračoval v renesančních úpravách (nové sály s výmalbou, sgrafitová bosáž); pro účast na stavovském povstání 1618-1620 mu byl statek zkonfiskován (přesný rok konfiskace zdroje neuvádějí)"
+  },
+  {
+   "owner": "pani-z-nachoda",
+   "owner_wiki": "Páni z Náchoda",
+   "person": "Jiří z Náchoda a Lichtenburka (Březničtí z Náchoda)",
+   "from": 1626,
+   "to": 1661,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "po pobělohorské konfiskaci koupil statek za 30000 zlatých (cs.wiki: hrabata z Náchoda; hrady.cz a kultura.cz: Březničtí z Náchoda; rok 1626 podle de.wikipedia Miroslav (Stadt)); roku 1661 prodal panství jeho syn Ferdinand Leopold; za jejich držení mírné barokní úpravy (štuky) a zřízen park"
+  },
+  {
+   "owner": "kounicove",
+   "owner_wiki": "Kounicové",
+   "person": "Rudolf z Kounic",
+   "from": 1661,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil za 48000 rýnských zlatých od Ferdinanda Leopolda z Náchoda (de.wikipedia)"
+  },
+  {
+   "owner": "z-schaumburgu",
+   "owner_wiki": null,
+   "person": "Rudolf Jindřich ze Schaumburgu",
+   "from": null,
+   "to": 1687,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "další držitel po Kounicích; rok nabytí zdroj neuvádí (de.wikipedia, v němčině Rudolf Heinrich von Schaumburg)"
+  },
+  {
+   "owner": "z-schaumburgu",
+   "owner_wiki": null,
+   "person": "Hannibal ze Schaumburgu",
+   "from": 1687,
+   "to": 1692,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "syn Rudolfa Jindřicha; jeho vdova Marie Kateřina prodala 1692 část panství i s miroslavským zámkem Ferdinandovi Morzinovi za 35300 rýnských zlatých"
+  },
+  {
+   "owner": "morzinove",
+   "owner_wiki": "Morzinové",
+   "person": "Ferdinand Morzin",
+   "from": 1692,
+   "to": 1692,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "v lednu 1692 koupil, ještě téhož roku předal louckému klášteru výměnou za panství Althart a Klupitz (dle de.wikipedia; kultura.cz uvádí Morzina též mezi držiteli)"
+  },
+  {
+   "owner": "cirkev",
+   "owner_wiki": null,
+   "person": "Premonstráti z Louky u Znojma",
+   "from": 1692,
+   "to": 1784,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "vymena",
+   "note": "loučtí premonstráti získali statek 1692 výměnou s Ferdinandem Morzinem; připojili jej k panství Loděnice a provedli výrazné stavební úpravy (nový vstupní most a portál, monumentální schodiště, dvoulodní síň); po požáru v polovině 18. stol. zrušeno cimbuří a přidána mansardová střecha; klášter zrušen 1784 (NPÚ uvádí začátek držby 1665)"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1784,
+   "to": 1824,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "po zrušení louckého kláštera připadl zámek náboženskému fondu"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Josef Hopfen (lékař) a rodina",
+   "from": 1824,
+   "to": 1893,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "lékař Josef Hopfen (hrady.cz: Hopfer) koupil zámek s panstvím od náboženského fondu za 130000 zlatých; rodina vlastnila do 1893"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "rodina Stummerů (vídeňští cukrovarníci)",
+   "from": 1893,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "vídeňští cukrovarníci; podle hrady.cz od 30. let 20. stol. do 1945 sestry Amálie Krescencie a Alberta Stummerovy (jinde též baronka Bettyna von Langenhan); konfiskace 1945"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": 1990,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "konfiskace",
+   "note": "po konfiskaci připadl Městskému národnímu výboru, sloužil jako městské muzeum a internát"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "Město Miroslav",
+   "from": 1990,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "jine",
+   "note": "na počátku 90. let připadl zdevastovaný zámek městu; 2005 neplatné referendum o prodeji; rekonstrukce jihovýchodního křídla dokončena 2015 (dotace 21 mil. Kč z ROP Jihovýchod), oprava střechy věžové budovy 2022 (12 mil. Kč, ocenění Nejlépe opravená kulturní památka Jihomoravského kraje 2022)"
+  }
  ],
  "events": [
-  {"year": 1398, "text": "první písemná zmínka o vodní tvrzi"},
-  {"year": 1569, "text": "Valečtí z Mírova vyměnili zámek s Hodickými z Hodic za panství Hostim"},
-  {"year": 1621, "text": "zámek zkonfiskován Hodickým z Hodic pro účast na stavovském povstání"},
-  {"year": 1692, "text": "loučtí premonstráti získávají statek a zahajují velké stavební úpravy"},
-  {"year": 1945, "text": "konfiskace zámku rodině Stummerů, správu přebírá Městský národní výbor"},
-  {"year": 2015, "text": "dokončena rekonstrukce jihovýchodního křídla za 25 mil. Kč"}
+  {
+   "year": 1398,
+   "text": "první písemná zmínka o vodní tvrzi"
+  },
+  {
+   "year": 1569,
+   "text": "Valečtí z Mírova vyměnili zámek s Hodickými z Hodic za panství Hostim"
+  },
+  {
+   "year": 1626,
+   "text": "statek zkonfiskovaný Hynkovi Hodickému z Hodic kupuje Jiří z Náchoda za 30000 zlatých (rok podle de.wikipedia)"
+  },
+  {
+   "year": 1692,
+   "text": "loučtí premonstráti získávají statek a zahajují velké stavební úpravy"
+  },
+  {
+   "year": 1945,
+   "text": "konfiskace zámku rodině Stummerů, správu přebírá Městský národní výbor"
+  },
+  {
+   "year": 2015,
+   "text": "dokončena rekonstrukce jihovýchodního křídla za 25 mil. Kč"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Miroslav_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Miroslav_(zámek)",
+  "https://www.hrady.cz/zamek-miroslav",
+  "http://www.kultura.cz/profile/5606-zamek-miroslav",
+  "https://www.npu.cz/cs/ohrozene-pamatky/51353-zamek-miroslav",
+  "https://de.wikipedia.org/wiki/Miroslav_(Stadt)"
+ ]
 }

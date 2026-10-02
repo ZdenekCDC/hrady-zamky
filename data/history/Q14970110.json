@@ -6,7 +6,7 @@
   "approx": false,
   "text": "Po polovině 13. století vznikl na místě staršího raně středověkého přemyslovského hradiště (doloženého nejpozději na přelomu 10. a 11. století) královský hrad."
  },
- "summary": "Na ostrožně nad soutokem Klenice a Jizery stálo nejpozději od přelomu 10. a 11. století přemyslovské hradiště, na jehož místě po polovině 13. století vznikl královský hrad. Nejpozději roku 1334 přešel do rukou pánů z Michalovic, po nich jej drželi Tovačovští z Cimburka a od počátku 16. století Krajířové z Krajku, kteří mu dali goticko-renesanční podobu; po výkupu města z poddanství roku 1595 hrad ztrácel rezidenční charakter a do majetku města přešel až po polovině 17. století, kdy byl už zčásti zničen třicetiletou válkou. V polovině 18. století jej převzal stát a v letech 1752-1783 jej přestavěl na kasárna, která sloužila armádě (za války i jako internační středisko pro Židy 1940-1943) až do 20. století; od roku 1972 v něm sídlí muzeum a okresní archiv.",
+ "summary": "Na ostrožně nad soutokem Klenice a Jizery stálo nejpozději od přelomu 10. a 11. století přemyslovské hradiště, na jehož místě po polovině 13. století vznikl královský hrad. Nejpozději 1334 jej drželi páni z Michalovic, od 1468 Tovačovští z Cimburka, od 1502 Johanka z Krajku s Janem ze Šelmberka a od 1513 Krajířové z Krajku, kteří mu dali goticko-renesanční podobu. Po výkupu města z poddanství 1595 hrad ztratil rezidenční charakter, po třicetileté válce byl zpustlý a roku 1678 definitivně přešel do majetku města; od roku 1752 jej stát přestavěl na kasárna, od roku 1972 v něm sídlí muzeum a okresní archiv.",
  "owners": [
   {
    "owner": "koruna",
@@ -17,73 +17,143 @@
    "from_approx": false,
    "to_approx": true,
    "how": "zalozeni",
-   "note": "královský hrad vznikl po polovině 13. století (přesný rok neuveden); v držení panovníka zůstal i v prvních desetiletích 14. století, zatímco okolí hradu drželi již páni z Michalovic; nejpozději roku 1334 patřil hrad již jim"
+   "note": "královský hrad vznikl po polovině 13. století (přesný rok neuveden); v držení panovníka zůstal i v prvních desetiletích 14. století, okolí hradu už drželi páni z Michalovic; nejpozději 1334 patřil hrad michalovickým (mistopisy.cz uvádí, že 1318 Michalovicové koupili Mladou Boleslav od knížecího majetku)"
   },
   {
    "owner": "pani-z-michalovic",
    "owner_wiki": "Páni z Michalovic",
-   "person": "Jindřich II. Kruhlata (poslední michalovický pán)",
+   "person": "Jan z Michalovic Správný (1327-1354) a potomci až po Jindřicha II. Kruhlatu",
    "from": 1334,
-   "to": null,
-   "from_approx": false,
-   "to_approx": true,
+   "to": 1468,
+   "from_approx": true,
+   "to_approx": false,
    "how": "neznamo",
-   "note": "hlavním sídlem rodu zůstaly nedaleké Michalovice, mladoboleslavský hrad byl michalovickými pány stavebně upraven na městský hrad; rok smrti Jindřicha II. Kruhlaty zdroj neuvádí"
+   "note": "nejpozději 1334 hrad držel Jan z Michalovic, který tehdy vysadil město; hlavním sídlem rodu zůstaly Michalovice, hrad byl upraven na městský hrad; hrady.cz uvádí michalovické držení do 1468, kdy hrad získali Tovačovští z Cimburka (cs.wiki: po smrti Jindřicha II. Kruhlaty)"
   },
   {
    "owner": "pani-z-cimburka",
    "owner_wiki": "Páni z Cimburka",
-   "person": "Tovačovští z Cimburka",
-   "from": null,
-   "to": null,
-   "from_approx": false,
-   "to_approx": true,
+   "person": "Jan Tovačovský z Cimburka (manžel Magdaleny z Michalovic), po něm syn Adam",
+   "from": 1468,
+   "to": 1502,
+   "from_approx": true,
+   "to_approx": false,
    "how": "dedictvi",
-   "note": "zdědili rozsáhlý michalovický majetek po smrti Jindřicha II. Kruhlaty; přesná léta držby zdroj neuvádí, od počátku 16. století přešel hrad na Krajíře z Krajku"
+   "note": "Jan hrad 1468 přestavěl a v Boleslavi podporoval Jednotu bratrskou; držba od 1468 podle hrady.cz, způsob nabytí (cs.wiki: dědictví po Michalovických) není u rozdílných zdrojů shodný; 1502 zemřel Adam, poslední z tovačovské větve, a odkázal majetek matce Johance z Krajku"
+  },
+  {
+   "owner": "selmberkove",
+   "owner_wiki": "Šelmberkové",
+   "person": "Johanka z Krajku a její druhý manžel Jan ze Šelmberka (kancléř Království českého)",
+   "from": 1502,
+   "to": 1513,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "Johanka zdědila od syna Adama; za nich proběhla pozdně gotická přestavba (snad za účasti Benedikta Rejta); 1513 hrad zapsala bratru Konrádovi Krajířovi z Krajku (hrady.cz uvádí Konráda již 1516)"
   },
   {
    "owner": "krajirove-z-krajku",
    "owner_wiki": "Krajířové z Krajku",
+   "person": "Konrád Krajíř z Krajku, po něm syn Arnošt, pak jeho synové Karel (†1577) a Adam (†1588)",
+   "from": 1513,
+   "to": 1588,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "hlavní sídlo rodu; 1547 po účasti Arnošta v stavovském povstání uvaleno manství (do 1576, kdy je propustil Maxmilián II.), po 1548 a požáru 1555 renesanční přestavba (Matteo Borgorelli); zdroj označuje zápis od Johanky jako zápis za 1000 kop, nikoli výslovně koupi; 1588 prodaly panství sestry Markéta a Barbora Krajířovy Jiřímu z Lobkovic"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Jiří z Lobkovic (1588), téhož roku Bohuslav Hasištejnský z Lobkovic (†1605), poté vdova Eva",
+   "from": 1588,
+   "to": 1614,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Jiří z Lobkovic panství koupil 1588 a ještě téhož roku prodal Bohuslavu Hasištejnskému z Lobkovic; 1595 se město za 30 000 kop grošů vykoupilo z poddanství; po Bohuslavově smrti 1605 město usilovalo o koupi"
+  },
+  {
+   "owner": "neznamo",
+   "owner_wiki": null,
    "person": null,
-   "from": null,
-   "to": null,
-   "from_approx": true,
-   "to_approx": true,
+   "from": 1614,
+   "to": 1678,
+   "from_approx": false,
+   "to_approx": false,
    "how": "neznamo",
-   "note": "drželi hrad od počátku 16. století jako hlavní sídlo, prošel několika přestavbami do goticko-renesanční podoby (za účasti Jana ze Šelmberka, snad Benedikta Rejta, a stavitele Mattea Borgorelliho); po výkupu města z poddanství 1595 hrad ztrácel rezidenční charakter, přesný rok konce jejich držby zdroj neuvádí"
+   "note": "1614 město koupilo zámek, vdova Eva Hasištejnská si vymínila doživotní užívání; 1620 po Bílé hoře zabaveny městské statky (vráceny 1628), Eva (podruhé provdaná z Hohenlohe) emigrovala a nedostala kupní cenu, proto prodala hrad znovu Gottfriedu Hendrichovi z Pappenheimu; částka zaplacená městem 1631, hrad za třicetileté války zpustl (1648 jej generál Colloredo nechal pobořit); definitivně do majetku města přešel až 1678 po složení částky Černínům z Chudenic (hrady.dejiny.cz); cs.wiki uvádí jen 'po polovině 17. století'"
   },
   {
    "owner": "mesto",
    "owner_wiki": null,
-   "person": null,
-   "from": null,
+   "person": "město Mladá Boleslav",
+   "from": 1678,
    "to": 1752,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "město Mladá Boleslav usilovalo o získání hradu už od výkupu z poddanství 1595, kvůli majetkovým sporům a třicetileté válce k tomu došlo až po polovině 17. století; hrad byl tou dobou už částečně zničen (císařská a švédská posádka, rozebírání na stavební materiál)"
+   "note": "zdroj hrady.dejiny.cz: roku 1678 zámek definitivně přešel do majetku města; hrad byl pustý (dílna zvonaře Pricqueye); 1748 rozhodla vojenská komise o přestavbě na kasárna"
   },
   {
    "owner": "stat",
    "owner_wiki": null,
-   "person": null,
+   "person": "Rakouská monarchie, od 1918 Československo",
    "from": 1752,
    "to": null,
-   "from_approx": false,
+   "from_approx": true,
    "to_approx": false,
    "how": "jine",
-   "note": "v letech 1752-1783 přestavěn na kasárna, sloužil rakouské a poté československé armádě do roku 1953, v letech 1940-1943 zde bylo internační středisko pro Židy z Mladé Boleslavi před transporty; poté sklad textilu, od 1972 předán Okresnímu muzeu, dnes Muzeum Mladoboleslavska a Státní okresní archiv"
+   "note": "podle cs.wiki v polovině 18. stol. areál převzal stát; 1752-1783 přestavba na kasárna, sloužila armádě (rakouské do 1918, pak československé do 1952/1953); 1940-1943 internační středisko pro Židy; do 1972 sklad textilu; od 1972 předáno Okresnímu muzeu, dnes Muzeum Mladoboleslavska a Státní okresní archiv; cs.wiki uvádí jako současného majitele město Mladá Boleslav, hrady.dejiny.cz (okolo 1999) Českou republiku - rozpor nevyřešen"
   }
  ],
  "events": [
-  {"year": 1334, "text": "na ploše hradiště formálně vysazeno poddanské město Mladá Boleslav, hrad již v držení pánů z Michalovic"},
-  {"year": 1595, "text": "město se vykoupilo z poddanství, hrad postupně ztrácí rezidenční charakter"},
-  {"year": 1752, "text": "hradní areál přebírá stát, zahájena přestavba na kasárna (dokončena 1783)"},
-  {"year": 1940, "text": "1940-1943 kasárna slouží jako internační středisko pro Židy před transporty do koncentračních táborů"},
-  {"year": 1953, "text": "konec vojenského využívání československou armádou"},
-  {"year": 1972, "text": "zdevastovaný hrad předán Okresnímu muzeu Mladá Boleslav, zahájena rekonstrukce"}
+  {
+   "year": 1334,
+   "text": "na ploše hradiště formálně vysazeno poddanské město Mladá Boleslav, hrad již v držení pánů z Michalovic"
+  },
+  {
+   "year": 1468,
+   "text": "Jan Tovačovský z Cimburka hrad přestavěl"
+  },
+  {
+   "year": 1502,
+   "text": "zemřel Adam z Cimburka, majetek zdědila Johanka z Krajku"
+  },
+  {
+   "year": 1513,
+   "text": "hrad zapsán Konrádovi Krajířovi z Krajku"
+  },
+  {
+   "year": 1595,
+   "text": "město se za 30 000 kop grošů vykoupilo z poddanství, hrad postupně ztrácí rezidenční charakter"
+  },
+  {
+   "year": 1678,
+   "text": "zámek definitivně přechází do majetku města po vyrovnání Černínům z Chudenic"
+  },
+  {
+   "year": 1752,
+   "text": "hradní areál přebírá stát, zahájena přestavba na kasárna (dokončena 1783)"
+  },
+  {
+   "year": 1940,
+   "text": "1940-1943 kasárna slouží jako internační středisko pro Židy před transporty do koncentračních táborů"
+  },
+  {
+   "year": 1953,
+   "text": "konec vojenského využívání československou armádou"
+  },
+  {
+   "year": 1972,
+   "text": "zdevastovaný hrad předán Okresnímu muzeu Mladá Boleslav, zahájena rekonstrukce"
+  }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Mladá_Boleslav_(hrad)"
+  "https://cs.wikipedia.org/wiki/Mladá_Boleslav_(hrad)",
+  "http://hrady.dejiny.cz/mlboleslav/index.htm",
+  "https://www.hrady.cz/hrad-mlada-boleslav/",
+  "https://www.mistopisy.cz/pruvodce/obec/4350/mlada-boleslav/historie/"
  ]
 }

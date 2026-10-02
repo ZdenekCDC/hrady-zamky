@@ -1,30 +1,161 @@
 {
  "id": "Q17874122",
  "name": "Žirovnice",
- "founded": {"year": 1260, "approx": true, "text": "Hrad byl založen kolem druhé poloviny 13. století, pravděpodobně pány z Hradce"},
- "summary": "Raně gotický hrad Žirovnice založili patrně ve 2. polovině 13. století páni z Hradce, po nich se v majetku vystřídali páni z Ústí a od roku 1393 Kamarétové ze Žirovnice a Vencelíkové z Vrchovišť, kteří hrad rozsáhle přestavěli a vyzdobili freskami. Od 16. do 19. století patřil postupně pánům z Gutštejna, znovu pánům z Hradce, Slavatům a od roku 1693 Šternberkům, kteří jej roku 1910 prodali městu Žirovnici. Po požáru v roce 1964 byl zámek obnoven a od 90. let 20. století slouží jako muzeum.",
+ "founded": {
+  "year": null,
+  "approx": false,
+  "text": "Hrad vznikl někdy kolem poloviny 13. století (podle nálezů tuhové keramiky), pravděpodobně z podnětu pánů z Hradce; přesný rok a zakladatel nejsou doloženy."
+ },
+ "summary": "Raně gotický hrad Žirovnice vznikl kolem poloviny 13. století, patrně z podnětu pánů z Hradce, po nich krátce vládli páni z Ústí a roku 1393 hrad koupili Kamaréti z Lukavce. Roku 1485 jej koupil kutnohorský podnikatel Václav Vencelík z Vrchovišť, který hrad rozsáhle přestavěl a vyzdobil freskami; 1544 jej koupil Albrecht z Gutštejna, roku 1564 Jáchym z Hradce a od 1604 patřil Slavatům. Od roku 1693 jej měli Šternberkové, kteří jej roku 1910 prodali městu Žirovnici. Po požáru v roce 1964 byl zámek obnoven (1972-1992) a slouží jako muzeum.",
  "owners": [
-  {"owner": "pani-z-hradce", "owner_wiki": "Páni z Hradce", "person": "Oldřich III. a Oldřich IV. z Hradce", "from": 1260, "to": 1371, "from_approx": true, "to_approx": true, "how": "zalozeni", "note": "pravděpodobní zakladatelé hradu; roku 1343 doložen Oldřich III., poté syn Oldřich IV."},
-  {"owner": "sezimove-z-usti", "owner_wiki": "Sezimové z Ústí", "person": null, "from": 1371, "to": 1393, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "cs.wiki uvádí jen 'někdy před rokem 1371 získali hrad páni z Ústí'; způsob nabytí neuveden ('Páni z Ústí' je přesměrování na článek Sezimové z Ústí)"},
-  {"owner": "ze-zirovnice", "owner_wiki": null, "person": "Jan Kamarét z Lukavce, poté Diviš Kamarét", "from": 1393, "to": null, "from_approx": false, "to_approx": true, "how": "koupe", "note": "Jan Kamarét koupil hrad 1393 a začal užívat predikát ze Žirovnice; po Divišově smrti prodala vdova Ofka z Vojslavic panství jménem nezletilých synů Prokopa, Jana a Zbyňka"},
-  {"owner": "z-vrchovist", "owner_wiki": null, "person": "Václav Vencelík z Vrchovišť", "from": null, "to": 1544, "from_approx": true, "to_approx": false, "how": "koupe", "note": "koupil od Ofky z Vojslavic jménem nezletilých synů Diviše Kamaréta; provedl nejrozsáhlejší stavební úpravy a nechal hrad vyzdobit dochovanými gotickými freskami"},
-  {"owner": "pani-z-gutstejna", "owner_wiki": "Páni z Gutštejna", "person": "Albrecht z Gutštejna", "from": 1544, "to": 1564, "from_approx": false, "to_approx": false, "how": "koupe", "note": "pokračoval v úpravách hradu"},
-  {"owner": "pani-z-hradce", "owner_wiki": "Páni z Hradce", "person": "Jáchym z Hradce (správu vedla manželka Anna z Rožmberka)", "from": 1564, "to": 1604, "from_approx": false, "to_approx": true, "how": "koupe", "note": "za posledních pánů z Hradce prošel zámek renesančními úpravami; po smrti Jáchyma Oldřicha z Hradce přešlo dědictví na sestru Lucii Otýlii"},
-  {"owner": "slavatove-z-chlumu-a-kosumberka", "owner_wiki": "Slavatové z Chlumu a Košumberka", "person": "Lucie Otýlie z Hradce a Vilém Slavata z Chlumu a Košumberka", "from": 1604, "to": 1693, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "po bitvě u Jankova (1645) zámek obsadil švédský generál Torstenson, 1646 jej při dobývání poškodilo císařské vojsko"},
-  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": null, "from": 1693, "to": 1910, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "provedli první barokní rekonstrukce; další generace na zámku již nesídlily, byly zde kanceláře správy panství a nájemní byty"},
-  {"owner": "mesto", "owner_wiki": null, "person": "město Žirovnice", "from": 1910, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "zámek v roce 1964 vyhořel, obnova 1974-90. léta 20. stol., dnes slouží jako muzeum"}
+  {
+   "owner": "pani-z-hradce",
+   "owner_wiki": "Páni z Hradce",
+   "person": "Oldřich III. z Hradce, poté syn Oldřich IV. (od 1358 spolu s bratrem Heřmanem)",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "pravděpodobní zakladatelé hradu, což nelze doložit; roku 1343 doložen Oldřich III. (cs.wiki), první konkrétní listina 1358 (oficiální web města); někdy před 1371 hrad získali páni z Ústí, přesný rok nezjištěn"
+  },
+  {
+   "owner": "sezimove-z-usti",
+   "owner_wiki": "Sezimové z Ústí",
+   "person": "Oldřich z Ústí",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "krátce vládl, zmiňován k roku 1371, zemřel před rokem 1379 a panství převzala jeho žena (oficiální web města); způsob nabytí neuveden ('Páni z Ústí' je přesměrování na článek Sezimové z Ústí; oficiální web uvádí rod jako Vítkovce)"
+  },
+  {
+   "owner": "ze-zirovnice",
+   "owner_wiki": null,
+   "person": "Jan Kamarét z Lukavce (zemřel 1448-1451), poté syn Purkart (zabit 1467) a jeho syn Diviš Kamarét",
+   "from": 1393,
+   "to": 1485,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Jan Kamarét koupil hrad 1393 a začal užívat predikát ze Žirovnice; Diviš brzy zemřel a vdova Ofka z Vojslavic prodala roku 1485 jménem nezletilých synů celé panství za 1500 kop grošů českých Vencelíkům z Vrchovišť"
+  },
+  {
+   "owner": "z-vrchovist",
+   "owner_wiki": null,
+   "person": "Václav Vencelík z Vrchovišť (zemřel 1515), poté synové, nakonec Petr",
+   "from": 1485,
+   "to": 1544,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "kutnohorský podnikatel v dolování stříbra; po příjezdu na podzim 1485 zahájil přestavbu, nechal hrad vyzdobit gotickými freskami (1490) a hrad dostavěl zhruba do dnešní podoby (1494); 1492 povýšen na říšského pána; po jeho smrti 1515 zdědili panství synové, jediným majitelem se stal zadlužený Petr (zemřel 1543); vdova Amelie z Toletu panství 1544 prodala (zdroj: oficiální web města Žirovnice)"
+  },
+  {
+   "owner": "pani-z-gutstejna",
+   "owner_wiki": "Páni z Gutštejna",
+   "person": "Albrecht z Gutštejna, od 1550 jeho vnuk Šebestián",
+   "from": 1544,
+   "to": 1564,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Albrecht koupil roku 1544 za 6000 kop grošů českých, 1545 rozšířil panství o Štítné, Litkovice a Žďárek a upravoval hrad; jeho syn Kryštof byl zavražděn 1545, po Albrechtově smrti 1550 zdědil panství nezletilý vnuk Šebestián a roku 1564 jej prodal Jáchymovi z Hradce za 10 000 kop"
+  },
+  {
+   "owner": "pani-z-hradce",
+   "owner_wiki": "Páni z Hradce",
+   "person": "Jáchym z Hradce (zemřel 1565), poté syn Adam a jeho syn Jáchym Oldřich (zemřel 24. ledna 1604)",
+   "from": 1564,
+   "to": 1604,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "správu panství vedla manželka Anna z Rožmberka, majitelé zde nesídlili; za Adama stavební úpravy 1576-77 a 1580-84 (počátek přerodu v renesanční zámek); poslední z rodu Jáchym Oldřich postoupil 1602 panství matce Kateřině z Montfortu jen k doživotnímu užívání"
+  },
+  {
+   "owner": "slavatove-z-chlumu-a-kosumberka",
+   "owner_wiki": "Slavatové z Chlumu a Košumberka",
+   "person": "Lucie Otýlie z Hradce a Vilém Slavata, poté syn Adam Pavel (zemřel 1657), Ferdinand (zemřel 1689), Leopold (zemřel 1691) a nakonec Anna Lucie Slavatová",
+   "from": 1604,
+   "to": 1693,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "Lucie Otýlie zdědila panství po bratrovi Jáchymovi Oldřichovi a de facto se majiteli stali Slavatové; 1618 jim bylo panství zkonfiskováno a dostalo se do rukou strany podobojí, po Bílé hoře se vrátili; za švédské okupace a dobývání císařskými roku 1644-1646 byl zámek poškozen (druhé patro rozstřeleno); po vymření mužské linie připadl zámek dceři Ferdinanda Slavaty Anně Lucii"
+  },
+  {
+   "owner": "sternberkove",
+   "owner_wiki": "Šternberkové",
+   "person": "Adolf Vratislav ze Šternberka (manžel Anny Lucie Slavatové), poté Oldřich Adolf Vratislav (zemřel 1703), František Leopold, František Adam (od 1745), synové Adam a Leopold (od 1789), Leopold (zemřel 1899) a Leopold Albert",
+   "from": 1693,
+   "to": 1910,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "snatek",
+   "note": "oficiální web města: panství získal Adolf Vratislav jako věno své manželky Anny Lucie Slavatové (cs.wiki uvádí 'zdědili'); po roce 1693 obnovili zchátralý zámek, další generace zde nesídlily, byly zde kanceláře správy panství a nájemní byty; Leopold Albert prodal 2. května 1910 zámek i panství městu za 1 400 000 korun"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "město Žirovnice",
+   "from": 1910,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupě celého panství za 1 400 000 korun; zámek sloužil úřadům a nájemním bytům, 1964 vyhořel, rekonstrukce 1972-1992 financovaná městem a státem, dnes muzeum"
+  }
  ],
  "events": [
-  {"year": 1343, "text": "Oldřich III. z Hradce doložen jako držitel Žirovnice"},
-  {"year": 1393, "text": "Jan Kamarét z Lukavce kupuje hrad a začíná užívat predikát ze Žirovnice"},
-  {"year": 1544, "text": "Albrecht z Gutštejna kupuje žirovnické panství"},
-  {"year": 1564, "text": "panství kupuje Jáchym z Hradce"},
-  {"year": 1646, "text": "hrad silně poškozen při dobývání císařským vojskem po bitvě u Jankova"},
-  {"year": 1693, "text": "žirovnické panství dědí Šternberkové, provádějí první barokní rekonstrukce"},
-  {"year": 1910, "text": "zámek prodán městu Žirovnici"},
-  {"year": 1964, "text": "zámek vyhořel, obnova zahájena 1974"}
+  {
+   "year": 1343,
+   "text": "Oldřich III. z Hradce doložen jako držitel Žirovnice"
+  },
+  {
+   "year": 1393,
+   "text": "Jan Kamarét z Lukavce kupuje hrad a začíná užívat predikát ze Žirovnice"
+  },
+  {
+   "year": 1485,
+   "text": "Ofka z Vojslavic prodává panství za 1500 kop grošů Václavu Vencelíkovi z Vrchovišť"
+  },
+  {
+   "year": 1490,
+   "text": "vymalování jižního paláce a kaple gotickými nástěnnými malbami"
+  },
+  {
+   "year": 1544,
+   "text": "Albrecht z Gutštejna kupuje žirovnické panství za 6000 kop grošů"
+  },
+  {
+   "year": 1564,
+   "text": "Šebestián z Gutštejna prodává panství Jáchymovi z Hradce za 10 000 kop"
+  },
+  {
+   "year": 1604,
+   "text": "po smrti Jáchyma Oldřicha z Hradce přechází panství na Lucii Otýlii a Viléma Slavatu"
+  },
+  {
+   "year": 1646,
+   "text": "hrad silně poškozen při dobývání císařským vojskem po bitvě u Jankova"
+  },
+  {
+   "year": 1693,
+   "text": "panství získávají Šternberkové (jako věno Anny Lucie Slavatové), provádějí první barokní rekonstrukce"
+  },
+  {
+   "year": 1910,
+   "text": "2. května zámek i panství prodány městu Žirovnici za 1 400 000 korun"
+  },
+  {
+   "year": 1964,
+   "text": "zámek vyhořel, celková rekonstrukce 1972-1992"
+  }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Žirovnice_(zámek)"
+  "https://cs.wikipedia.org/wiki/Žirovnice_(zámek)",
+  "https://zirovnice.cz/historie-zamku/ms-27282"
  ]
 }

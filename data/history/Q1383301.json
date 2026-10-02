@@ -4,31 +4,75 @@
  "founded": {
   "year": 1615,
   "approx": false,
-  "text": "Roku 1615 koupil městečko Chropyni olomoucký biskup kardinál František z Dietrichštejna a nechal vybudovat renesanční zámek; není zdokumentováno, zda šlo o přestavbu starší tvrze. Od roku 1579 zde předtím stavěl panské sídlo Hanuš Haugvic z Biskupic, který roku 1580 zemřel."
+  "text": "Roku 1615 koupil městečko Chropyni olomoucký biskup kardinál František z Dietrichštejna a nechal vybudovat renesanční zámek (letopočet 1615 na portálu); není zdokumentováno, zda šlo o přestavbu starší tvrze. Od roku 1579 zde předtím stavěl nové panské sídlo Hanuš Haugvic z Biskupic, který roku 1580 zemřel."
  },
- "summary": "Renesanční zámek v Chropyni založil roku 1615 olomoucký biskup kardinál František z Dietrichštejna po koupi městečka; od roku 1617 patřil olomoucké diecézi. Za biskupa Karla Lotrinského byl v letech 1701-1703 přestavěn do dnešní podoby. Po roce 1949 připadl státu, po roce 1989 byl navrácen Olomoucké arcidiecézi.",
+ "summary": "Chropyně patřila od roku 1502 pánům z Ludanic, od roku 1567 Hanuši Haugvicovi z Biskupic, který zde od roku 1579 stavěl nedokončené nové sídlo. Po krátkém střídání majitelů koupil panství roku 1615 olomoucký biskup kardinál František z Dietrichštejna a nechal postavit renesanční zámek; krátce nato je vyměnil olomouckému biskupství, jemuž zámek patřil až do roku 1949. Za biskupa Karla Lotrinského byl v letech 1701-1703 přestavěn do dnešní podoby. Po roce 1949 patřil státu, po roce 1989 byl navrácen Olomoucké arcidiecézi.",
  "owners": [
+  {
+   "owner": "pani-z-ludanic",
+   "owner_wiki": "Páni z Ludanic",
+   "person": "páni z Ludanic (Hynek Rokytský z Ludanic, později Jan z Ludanic)",
+   "from": 1502,
+   "to": 1567,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "roku 1502 vyplatil Hynek Rokytský z Ludanic osadu z držby vizovického kláštera; 1535 povýšena na městečko; roku 1567 Jan z Ludanic panství prodal Vratislavovi z Pernštejna, který je téhož roku přeprodal Haugvicovi (podle webu města a SMM Chropyně)"
+  },
   {
    "owner": "haugvicove-z-biskupic",
    "owner_wiki": "Haugvicové z Biskupic",
    "person": "Hanuš Haugvic z Biskupic",
-   "from": null,
-   "to": 1615,
+   "from": 1567,
+   "to": 1580,
    "from_approx": false,
    "to_approx": false,
+   "how": "koupe",
+   "note": "vlastník panství (koupil 1567); roku 1577 získal povolení ke stavbě nového sídla (Nový Haugvicov), od 1579 jej stavěl; stavbu nedokončil, 1580 zemřel; stavebník i vlastník"
+  },
+  {
+   "owner": "cerncicti-z-kacova",
+   "owner_wiki": "Černčičtí z Kácova",
+   "person": null,
+   "from": 1581,
+   "to": 1595,
+   "from_approx": true,
+   "to_approx": true,
    "how": "neznamo",
-   "note": "od roku 1579 stavěl panské sídlo, roku 1580 náhle zemřel; cs.wiki neuvádí přesně, zda šlo o vlastníka panství nebo jen stavebníka, ani rok počátku jeho držby"
+   "note": "podle starší verze cs.wiki hesla Chropyně (zrcadlo z roku 2007); jména ani způsob nabytí neuvedeny; po smrti Haugvice podle webu města panství často měnilo majitele"
+  },
+  {
+   "owner": "prazmove-z-bilkova",
+   "owner_wiki": "Pražmové z Bílkova",
+   "person": null,
+   "from": 1595,
+   "to": 1615,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "podle starší verze cs.wiki hesla Chropyně (zrcadlo z roku 2007) po roce 1595; jména neuvedena"
+  },
+  {
+   "owner": "ditrichstejnove",
+   "owner_wiki": "Ditrichštejnové",
+   "person": "František z Dietrichštejna, olomoucký biskup a kardinál (jako soukromá osoba)",
+   "from": 1615,
+   "to": 1616,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil panství pro sebe, nikoli pro biskupství, za 153 000 zlatých; letopočet 1615 na portálu zámku; roku 1616 (cs.wiki a muchropyne uvádějí 1617) je vyměnil s olomouckým biskupstvím za panství Žďár"
   },
   {
    "owner": "cirkev",
    "owner_wiki": null,
-   "person": "František z Dietrichštejna, olomoucký biskup a kardinál",
-   "from": 1615,
+   "person": "olomoucké biskupství (diecéze)",
+   "from": 1616,
    "to": 1949,
    "from_approx": false,
    "to_approx": false,
-   "how": "koupe",
-   "note": "koupil městečko Chropyni 1615; od 1617 zámek majetkem olomoucké diecéze; za biskupa Karla Lotrinského přestavba 1701-1703, autor projektu pravděpodobně Giovanni Pietro Tencalla"
+   "how": "vymena",
+   "note": "směna se Žďárem 1616 podle webu SMM Chropyně (cs.wiki a web města uvádějí 1617); za biskupa Karla Lotrinského přestavba 1701-1703, autor projektu pravděpodobně Giovanni Pietro Tencalla; po 1850 lovecký zámeček kardinála Fürstenberga; web města uvádí biskupský majetek do 1848 (zánik feudálních vztahů), cs.wiki až do 1949 zestátnění"
   },
   {
    "owner": "stat",
@@ -44,24 +88,62 @@
   {
    "owner": "cirkev",
    "owner_wiki": null,
-   "person": null,
+   "person": "Olomoucká arcidiecéze (arcibiskupství)",
    "from": 1989,
    "to": null,
-   "from_approx": false,
+   "from_approx": true,
    "to_approx": false,
    "how": "restituce",
-   "note": "navrácen Olomoucké arcidiecézi; na provozu se podílí Město Chropyně a Muzeum Kroměřížska, od 2022 provozuje příspěvková organizace SLOCH"
+   "note": "navrácen po roce 1989 (přesný rok není uveden); na provozu se podílelo Město Chropyně a Muzeum Kroměřížska, 2022-2023 provozovala příspěvková organizace SLOCH, od 2024 Správa majetku města Chropyně"
   }
  ],
  "events": [
-  {"year": 1579, "text": "Hanuš Haugvic z Biskupic začíná stavět panské sídlo, roku 1580 umírá"},
-  {"year": 1615, "text": "kardinál František z Dietrichštejna kupuje Chropyni a zakládá zámek"},
-  {"year": 1701, "text": "1701-1703 přestavba zámku za biskupa Karla Lotrinského do dnešní podoby"},
-  {"year": 1892, "text": "požár ničí střechu věže, dostává novou podobu vysokého osmibokého jehlanu"},
-  {"year": 1949, "text": "zámek přechází do vlastnictví státu"},
-  {"year": 1972, "text": "zámek převeden do správy Okresního muzea v Kroměříži"},
-  {"year": 1983, "text": "po rekonstrukci zpřístupněn veřejnosti, zřízena expozice Emila Filly"},
-  {"year": 1989, "text": "zámek navrácen Olomoucké arcidiecézi"}
+  {
+   "year": 1567,
+   "text": "Hanuš Haugvic z Biskupic kupuje chropyňské panství od Jana z Ludanic (přes Vratislava z Pernštejna)"
+  },
+  {
+   "year": 1579,
+   "text": "Hanuš Haugvic z Biskupic začíná stavět panské sídlo, roku 1580 umírá"
+  },
+  {
+   "year": 1615,
+   "text": "kardinál František z Dietrichštejna kupuje Chropyni a zakládá zámek"
+  },
+  {
+   "year": 1616,
+   "text": "kardinál Dietrichštejn směňuje panství s olomouckým biskupstvím (jinde 1617)"
+  },
+  {
+   "year": 1701,
+   "text": "1701-1703 přestavba zámku za biskupa Karla Lotrinského do dnešní podoby"
+  },
+  {
+   "year": 1892,
+   "text": "požár ničí střechu věže, dostává novou podobu vysokého osmibokého jehlanu"
+  },
+  {
+   "year": 1949,
+   "text": "zámek přechází do vlastnictví státu"
+  },
+  {
+   "year": 1972,
+   "text": "zámek převeden do správy Okresního muzea v Kroměříži"
+  },
+  {
+   "year": 1983,
+   "text": "po rekonstrukci zpřístupněn veřejnosti, zřízena expozice Emila Filly"
+  },
+  {
+   "year": 1989,
+   "text": "zámek navrácen Olomoucké arcidiecézi"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Chropyně_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Chropyně_(zámek)",
+  "https://www.smmchropyne.cz/uvod/zamek/historie-zamku/",
+  "https://www.muchropyne.cz/mesto/historie/historie-chropyne/",
+  "https://www.hrady.cz/hrad-chropyne-novy-haugvicov/ (komerční web)",
+  "http://wikipedia2007.classicistranieri.com/cs/c/h/r/Chropyn%C4%9B.html (zrcadlo staré verze cs.wiki, méně spolehlivé)"
+ ]
 }

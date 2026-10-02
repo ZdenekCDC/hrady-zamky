@@ -1,29 +1,230 @@
 {
  "id": "Q10396968",
  "name": "Šelmberk",
- "founded": {"year": 1310, "approx": true, "text": "Hrad vznikl před rokem 1318, kdy je poprvé zmiňován v držení Přibyslava z Křimína z rodu Buziců, zakladatele větve pánů ze Šelmberka"},
- "summary": "Hrad Šelmberk nad říčkou Blanicí založil počátkem 14. století Přibyslav z Křimína z rodu Buziců, zakladatel větve pánů ze Šelmberka, kteří jej drželi do 90. let 14. století. Poté se rychle střídali další majitelé (Rýzmburkové, páni z Radejšína, Ciplové z Kravska, Mračtí z Dubé), až jej roku 1586 koupil Michal Španovský z Lisova a připojil k panství Mladá Vožice, čímž hrad ztratil sídelní funkci a za třicetileté války zpustl. V 19. století nechal Leopold z Kuenburgu upravit věž na romantickou rozhlednu, od roku 1940 je zřícenina majetkem města Mladá Vožice a od roku 2007 ji spravuje občanské sdružení Danar jako vzdělávací centrum.",
+ "founded": {
+  "year": 1318,
+  "approx": true,
+  "text": "Hrad vznikl před rokem 1318, kdy je poprvé zmiňován v držení Přibyslava z Křimína z rodu Buziců, zakladatele větve pánů ze Šelmberka"
+ },
+ "summary": "Hrad Šelmberk nad říčkou Blanicí vznikl před rokem 1318, kdy je poprvé zmiňován v držení Přibyslava z Křimína z rodu Buziců, zakladatele větve pánů ze Šelmberka, kteří jej drželi do 90. let 14. století. Poté se střídali Rýzmburkové, páni z Těchobuze, Hořic a Radejšína, od 1518 Ciplové z Kravska a Mračtí z Dubé. Roku 1586 jej koupil Michal Španovský z Lisova a připojil k panství Mladá Vožice, čímž hrad ztratil sídelní funkci a za třicetileté války zpustl; od 1678 patřil panství Kuenburgů, kteří upravili věž na rozhlednu. Od roku 1940 je zřícenina majetkem města Mladá Vožice a od roku 2007 ji spravuje občanské sdružení Danar jako vzdělávací centrum.",
  "owners": [
-  {"owner": "buzici", "owner_wiki": "Buzici", "person": "Přibyslav z Křimína", "from": 1310, "to": 1341, "from_approx": true, "to_approx": true, "how": "zalozeni", "note": "založil hrad před rokem 1318 (první zmínka), zakladatel větve pánů ze Šelmberka"},
-  {"owner": "selmberkove", "owner_wiki": "Šelmberkové", "person": "Přibík ze Šelmberka, poté bratři Janek, Čeněk a Ondřej ze Šelmberka", "from": 1341, "to": 1390, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "hrad drželi do 90. let 14. století"},
-  {"owner": "pani-z-ryzmburka", "owner_wiki": "Páni z Rýzmburka", "person": "Aleš z Rýzmburka", "from": 1390, "to": 1431, "from_approx": true, "to_approx": true, "how": "koupe", "note": "z 15. století se dochovalo jen málo zpráv; roku 1431 přešel hrad z držení Albera z Těchobuze na Mikuláše z Hořic, mezidobí není v článku popsáno"},
-  {"owner": "z-horic", "owner_wiki": null, "person": "Mikuláš z Hořic", "from": 1431, "to": 1473, "from_approx": false, "to_approx": true, "how": "neznamo", "note": "roku 1431 přešlo vlastnictví z Albera z Těchobuze; Mikuláš z Hořic je připomínán ještě roku 1473; článek o rodu neexistuje"},
-  {"owner": "z-radejsina", "owner_wiki": null, "person": "Václav Předbor z Radejšína a bratři", "from": 1473, "to": 1505, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "další zpráva je až z roku 1505; mezidobí od 1473 cs.wiki nepopisuje; článek o rodu neexistuje"},
-  {"owner": "z-kravska", "owner_wiki": null, "person": "Albrecht Ciplo z Kravska", "from": 1518, "to": 1542, "from_approx": true, "to_approx": false, "how": "koupe", "note": "před rokem 1518 koupil panství od bratří Předborů z Radejšína; zemřel 1542, majetek zdědila dcera Kateřina; v 1. polovině 16. stol. proběhla renesanční přestavba; článek o rodu neexistuje"},
-  {"owner": "pani-z-dube", "owner_wiki": "Páni z Dubé", "person": "Kateřina (roz. Ciplová z Kravska) a manžel Petr Mracký z Dubé", "from": 1542, "to": 1586, "from_approx": false, "to_approx": false, "how": "snatek", "note": "Kateřina zdědila po otci a provdala se za Petra Mrackého z Dubé; podle soupisu panství po jeho smrti (1555) stál u hradu i dvůr a pivovar; není jisté, jde-li o větev Benešoviců či Ronovců"},
-  {"owner": "soukromnik", "owner_wiki": null, "person": "Michal Španovský z Lisova", "from": 1586, "to": 1620, "from_approx": false, "to_approx": true, "how": "koupe", "note": "připojil panství k Mladé Vožici, hrad ztratil sídelní funkci; na kresbě z roku 1602 je jádro zachyceno již jako zřícenina; za třicetileté války zcela opuštěn a zpustl"},
-  {"owner": "kuenburgove", "owner_wiki": "Küenburgové", "person": "Leopold z Kuenburgu", "from": 1820, "to": 1940, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "ve 20. letech 19. stol. nechal upravit věž na romantickou rozhlednu a okolí přeměnit na anglický park; způsob a přesná léta jeho a předchozí (1620-1820) držby cs.wiki neuvádí"},
-  {"owner": "mesto", "owner_wiki": null, "person": "město Mladá Vožice", "from": 1940, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "od roku 2007 areál spravuje (nikoliv vlastní) Občanské sdružení Danar, které zde provozuje historicko-vzdělávací centrum"}
+  {
+   "owner": "buzici",
+   "owner_wiki": "Buzici",
+   "person": "Přibyslav z Křimína, řečený ze Šelmberka",
+   "from": 1318,
+   "to": 1341,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "hrad vznikl před rokem 1318, kdy je poprvé zmiňován v jeho držení; zakladatel větve pánů ze Šelmberka; do 1341 dosazeno podle první zmínky o synu Přibíkovi"
+  },
+  {
+   "owner": "selmberkove",
+   "owner_wiki": "Šelmberkové",
+   "person": "Přibík ze Šelmberka (1341), poté bratři Janek, Čeněk a Ondřej ze Šelmberka",
+   "from": 1341,
+   "to": 1390,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "pánům ze Šelmberka hrad patřil do 90. let 14. století (cs.wiki); rok konce přibližný"
+  },
+  {
+   "owner": "pani-z-ryzmburka",
+   "owner_wiki": "Páni z Rýzmburka",
+   "person": "Aleš z Rýzmburka",
+   "from": 1390,
+   "to": 1417,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "cs.wiki: získal v 90. letech 14. stol.; v roce 1397 jako nový majitel nechal vytvořit oltář v janovském kostele, naposledy jako pán panství 1419; po roce 1417 hrad prodal Albrechtu z Těchobuze (mu-vozice.cz); způsob nabytí neuveden"
+  },
+  {
+   "owner": "z-techobuze",
+   "owner_wiki": null,
+   "person": "Albrecht z Těchobuze",
+   "from": 1417,
+   "to": 1431,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil od Aleše z Rýzmburka po roce 1417 (mu-vozice.cz); 1431 přešlo vlastnictví z Albera z Těchobuze na Mikuláše z Hořic"
+  },
+  {
+   "owner": "z-horic",
+   "owner_wiki": null,
+   "person": "Mikuláš z Hořic",
+   "from": 1431,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "připomínán ještě roku 1473; z 15. století se dochovalo jen několik zpráv, rok konce není znám"
+  },
+  {
+   "owner": "z-radejsina",
+   "owner_wiki": null,
+   "person": "Václav Předbor z Radejšína a bratři",
+   "from": 1505,
+   "to": 1518,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "majitelem doložen 1505; před 1518 panství prodali Albrechtu Ciplovi z Kravska; mezidobí od 1473 do 1505 není ve zdrojích popsáno"
+  },
+  {
+   "owner": "z-kravska",
+   "owner_wiki": null,
+   "person": "Albrecht Ciplo z Kravska",
+   "from": 1518,
+   "to": 1542,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil panství před rokem 1518 od Předborů z Radejšína, zemřel 1542; v 1. polovině 16. stol. renesanční přestavba"
+  },
+  {
+   "owner": "mracti-z-dube",
+   "owner_wiki": null,
+   "person": "Kateřina (roz. Ciplová z Kravska) a manžel Petr Mracký z Dubé",
+   "from": 1542,
+   "to": 1555,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "Kateřina zdědila po otci, provdala se za Petra Mrackého z Dubé; soupis panství po jeho smrti 1555 uvádí dvůr a pivovar; větev Dubských z Dubé není ve zdrojích určena; centrumselmberk.cz"
+  },
+  {
+   "owner": "mracti-z-dube",
+   "owner_wiki": null,
+   "person": "Karel Mracký z Dubé",
+   "from": 1555,
+   "to": 1586,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "po smrti rodičů (i bratrů) dědic panství; 3. 3. 1586 prodal šelmberské panství Michalu Španovskému z Lisova (mu-vozice.cz); rok nabytí přibližný"
+  },
+  {
+   "owner": "z-lisova",
+   "owner_wiki": null,
+   "person": "Michal Španovský z Lisova a na Pacově, nejvyšší písař království českého",
+   "from": 1586,
+   "to": 1603,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil 3. 3. 1586, připojil panství k Mladé Vožici (jež od císaře Rudolfa II. získal 1579), hrad ztratil sídelní funkci; sjednocen renesanční palác; kresba z roku 1602 zachycuje jádro jako zříceninu"
+  },
+  {
+   "owner": "z-funfkirchenu",
+   "owner_wiki": null,
+   "person": "Jan Bernard Fünfkirchen",
+   "from": 1603,
+   "to": 1620,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "mladovožické panství se Šelmberkem koupil od Jáchyma Španovského; jako evangelíkovi mu bylo 1620 zabaveno (centrumselmberk.cz); hrad poté pravděpodobně chátral"
+  },
+  {
+   "owner": "marradasove",
+   "owner_wiki": "Marradasové",
+   "person": "generál Marradas",
+   "from": 1620,
+   "to": 1629,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "krátce majitelem mladovožického panství, 1629 je prodal Veronice Přehořovské z Dlouhé Vsi (mu-vozice.cz); za třicetileté války hrad opuštěn, kolem 1630 ještě obydlen, brzy poté zpustl"
+  },
+  {
+   "owner": "z-dlouhe-vsi",
+   "owner_wiki": null,
+   "person": "Veronika Přehořovská z Dlouhé Vsi",
+   "from": 1629,
+   "to": 1678,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupila mladovožické panství od Marradase"
+  },
+  {
+   "owner": "kuenburgove",
+   "owner_wiki": "Küenburgové",
+   "person": "František Ferdinand z Kuenburgu, později Leopold z Kuenburgu (1741-1812)",
+   "from": 1678,
+   "to": 1940,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "František Ferdinand z Küenburgu koupil panství 1678 a rod je držel až do 1940 (centrumselmberk.cz; zámek v Mladé Vožici rod držel do 1945); Leopold z Kuenburgu nechal věž upravit na rozhlednu s cimbuřím a zřídil obor (cs.wiki: ve 20. letech 19. stol., ale Leopold zemřel 1812; soupispamatek.cz: 1783), okolí přeměněno na anglický park"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "město Mladá Vožice",
+   "from": 1940,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "roku 1940 zřícenina hradu připadla městu; způsob nabytí zdroje neuvádějí; od 2007 areál spravuje (nevlastní) Občanské sdružení Danar, které zde provozuje historicko-vzdělávací centrum"
+  }
  ],
  "events": [
-  {"year": 1318, "text": "první písemná zmínka o hradu, v držení Přibyslava z Křimína"},
-  {"year": 1390, "text": "hrad získal Aleš z Rýzmburka, konec držby pánů ze Šelmberka"},
-  {"year": 1518, "text": "panství koupil Albrecht Ciplo z Kravska"},
-  {"year": 1555, "text": "soupis panství po smrti Petra Mrackého z Dubé zmiňuje u hradu dvůr a pivovar"},
-  {"year": 1586, "text": "Michal Španovský z Lisova koupil hrad a připojil jej k panství Mladá Vožice, hrad ztratil sídelní funkci"},
-  {"year": 1602, "text": "dobová kresba zachycuje hradní jádro už jako zříceninu"},
-  {"year": 1820, "text": "Leopold z Kuenburgu nechal upravit věž na romantickou rozhlednu"},
-  {"year": 1940, "text": "hrad se stal majetkem města Mladá Vožice"}
+  {
+   "year": 1318,
+   "text": "první písemná zmínka o hradu, v držení Přibyslava z Křimína"
+  },
+  {
+   "year": 1390,
+   "text": "hrad získal Aleš z Rýzmburka, konec držby pánů ze Šelmberka"
+  },
+  {
+   "year": 1417,
+   "text": "po tomto roce Aleš z Rýzmburka hrad prodal Albrechtu z Těchobuze"
+  },
+  {
+   "year": 1518,
+   "text": "panství koupil Albrecht Ciplo z Kravska"
+  },
+  {
+   "year": 1555,
+   "text": "soupis panství po smrti Petra Mrackého z Dubé zmiňuje u hradu dvůr a pivovar"
+  },
+  {
+   "year": 1586,
+   "text": "Michal Španovský z Lisova koupil hrad a připojil jej k panství Mladá Vožice, hrad ztratil sídelní funkci"
+  },
+  {
+   "year": 1602,
+   "text": "dobová kresba zachycuje hradní jádro už jako zříceninu"
+  },
+  {
+   "year": 1620,
+   "text": "mladovožické panství se Šelmberkem zabaveno evangelíku Janu Bernardovi Fünfkirchenovi"
+  },
+  {
+   "year": 1678,
+   "text": "panství kupuje František Ferdinand z Kuenburgu, rod je drží do 1940"
+  },
+  {
+   "year": 1800,
+   "text": "Leopold z Kuenburgu nechal upravit věž na romantickou rozhlednu (přibližně; zdroje uvádějí 1783 až 20. léta 19. stol.)"
+  },
+  {
+   "year": 1940,
+   "text": "hrad se stal majetkem města Mladá Vožice"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Šelmberk"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Šelmberk",
+  "http://www.centrumselmberk.cz/cs/castle/history.html",
+  "https://www.mu-vozice.cz/2016/08/12/hrad-selmberk/",
+  "https://www.mu-vozice.cz/2016/08/12/pamatky/",
+  "https://www.soupispamatek.cz/arl-kcz/sk/detail-kcz_un_auth-0004514-Hrad-selmberk/"
+ ]
 }

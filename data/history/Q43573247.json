@@ -6,7 +6,7 @@
   "approx": true,
   "text": "Choltice jsou poprvé písemně zmíněny 1285, kdy zde stála vodní tvrz patřící pravděpodobně rodu Sedlnických z Choltic; nynější barokní zámek nechal na místě přestavěné tvrze postavit od roku 1683 Romedius Konstantin z Thun-Hohensteinu."
  },
- "summary": "Vodní tvrz v Cholticích náležela od roku 1285 pravděpodobně Sedlnickým z Choltic, později se majitelé střídali (mj. Boubínští z Újezda) až po Jiřího Gerštorfa z Gerštorfu, jehož potomkům bylo panství po stavovském povstání zkonfiskováno. Od roku 1623 (s krátkou přestávkou 1719-1731) patřily Choltice až do roku 1945 Thun-Hohensteinům, kteří v letech 1683-1695 vystavěli na místě staré tvrze nový barokní zámek s kaplí sv. Romedia. Po roce 1945 byl majetek zkonfiskován podle Benešových dekretů a připadl státu, od roku 1991 je zámek ve vlastnictví městysu Choltice a je přístupný veřejnosti.",
+ "summary": "Vodní tvrz v Cholticích náležela od roku 1285 pravděpodobně Sedlnickým z Choltic, později se majitelé střídali (mj. Boubínští z Újezda) až po Jiřího Gerštorfa z Gerštorfu, jehož potomkům bylo panství po stavovském povstání zkonfiskováno. Od roku 1623 patřily Choltice Thun-Hohensteinům (kromě let 1719-1731, kdy je po zadlužení po smrti Romedia Františka držel krátce V. Chotek a poté Norbert Trauttmansdorf) až do roku 1945, kteří v letech 1683-1695 vystavěli na místě staré tvrze nový barokní zámek s kaplí sv. Romedia. Po roce 1945 byl majetek zkonfiskován podle Benešových dekretů a připadl státu, od roku 1991 je zámek ve vlastnictví městysu Choltice a je přístupný veřejnosti.",
  "owners": [
   {
    "owner": "sedlnicti-z-choltic",
@@ -22,46 +22,79 @@
   {
    "owner": "boubinsti-z-ujezda",
    "owner_wiki": null,
-   "person": null,
+   "person": "bratři Jaroslav a Petr Boubínští z Újezda (Choltičtí z Újezda), poté Pavel a Diviš",
    "from": null,
-   "to": null,
+   "to": 1541,
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "wiki zmiňuje mezi dalšími se střídajícími majiteli tvrze do roku 1541; roku 1469 tvrz přečkala vpád vojsk Matyáše Korvína, poté byla přestavěna na čtvercový zámek s věží; přesná léta držby neuvedena"
+   "note": "po roce 1469 (vpád Matyášových vojsk tvrz přečkala) držela tvrz Boubínští z Újezda, později zvaní Choltičtí z Újezda; Jaroslav doložen 1490, Pavel povýšil Choltice na městečko; Divišovu polovinu koupil v prosinci 1541 Gerštorf; počátek držby zdroj neuvádí; zdroj: zamek-choltice.cz"
   },
   {
    "owner": "gerstorfove-z-gerstorfu",
    "owner_wiki": "Gerštorfové z Gerštorfu",
    "person": "Jiří Gerštorf z Gerštorfu",
    "from": 1541,
-   "to": 1620,
-   "from_approx": false,
-   "to_approx": true,
-   "how": "koupe",
-   "note": "panství jeho potomkům zkonfiskováno kvůli účasti na stavovském povstání 1618-1620"
-  },
-  {
-   "owner": "koruna",
-   "owner_wiki": null,
-   "person": null,
-   "from": 1620,
    "to": 1623,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
-   "how": "konfiskace",
-   "note": "pobělohorská konfiskace, panství prodáno 1623"
+   "how": "koupe",
+   "note": "1541 koupil polovinu Diviše z Choltic, 1542 další díl; majetek rozdělil mezi děti, Choltice dostal Jindřich, za něhož je po 1621 spravoval bratr Štěpán; rozsudkem z 23. 5. 1623 Štěpánovi zkonfiskováno pro účast na stavovském povstání (odhad panství s Svojšicemi 54 827 kop); zdroj: zamek-choltice.cz"
   },
   {
    "owner": "thun-hohensteinove",
    "owner_wiki": "Thun-Hohensteinové",
    "person": "Kryštof Šimon z Thun-Hohensteinu",
    "from": 1623,
+   "to": 1719,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "první příslušník rodu v Čechách (zemřel 1635, statky daroval bratru Cypriánovi); po něm synovec Jan Zikmund (zemřel 1646), jeho syn Romedius Konstantin (zemřel 1700; postavil nový zámek 1683-1695) a vnuk Romedius František (zemřel 1719); Thunové sídlili v Děčíně; koupil kolem 1623 (zamek-choltice.cz, choltice.cz)"
+  },
+  {
+   "owner": "thun-hohensteinove",
+   "owner_wiki": "Thun-Hohensteinové",
+   "person": "vdova po Romediovi Františkovi Thunovi",
+   "from": 1719,
+   "to": 1721,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "Romedius František zemřel 1719, vdova zadlužené panství prodala; zdroj: choltice.cz"
+  },
+  {
+   "owner": "chotkove-z-chotkova",
+   "owner_wiki": "Chotkové z Chotkova",
+   "person": "svobodný pán V. Chotek",
+   "from": 1721,
+   "to": 1722,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil 1721 od vdovy po Thunovi a 1722 prodal Trauttmansdorfovi; křestní jméno zdroj uvádí jen jako 'V.'; zdroj: choltice.cz"
+  },
+  {
+   "owner": "trauttmansdorffove",
+   "owner_wiki": "Trauttmansdorffové",
+   "person": "hrabě Norbert Trauttmansdorf",
+   "from": 1722,
+   "to": 1731,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil 1722 od V. Chotka; zdroj: choltice.cz"
+  },
+  {
+   "owner": "thun-hohensteinove",
+   "owner_wiki": "Thun-Hohensteinové",
+   "person": "Jan Josef František Thun (za nezletilosti matka Marie Filipa Thunová)",
+   "from": 1731,
    "to": 1945,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "první příslušník rodu v Čechách; po něm synovec Jan Zikmund, dále Romedius Konstantin (postavil nový zámek 1683-1695), od 1785 choltická větev založená Janem Nepomukem, posledním majitelem byl Leopold Maria Thun (1888-1944); wiki uvádí, že panství s krátkou přestávkou v letech 1719-1731 (okolnosti a jiný vlastník v tomto období neuvedeny) patřilo rodu až do roku 1945"
+   "note": "1731 koupila Marie Filipa Thunová panství pro syna Jana Josefa Františka, majitele děčínského, kláštereckého a choltického majorátu; od 1785 choltická větev založená Janem Nepomukem, posledním majitelem Leopold Maria Thun (1888-1944); zdroj: choltice.cz, cs.wiki"
   },
   {
    "owner": "stat",
@@ -87,12 +120,42 @@
   }
  ],
  "events": [
-  {"year": 1469, "text": "tvrz přečkala vpád uherských vojsk Matyáše Korvína, ale byla poškozena a přestavěna na čtvercový zámek s věží"},
-  {"year": 1683, "text": "zahájena stavba nového barokního zámku podle návrhu Luky di Rossi na místě staré tvrze"},
-  {"year": 1695, "text": "z finančních důvodů stavba ukončena, vystavěna jen polovina plánované budovy; štuková výzdoba kaple sv. Romedia od Antonia Nuvoloneho"},
-  {"year": 1795, "text": "požár zámku, následné opravy"},
-  {"year": 1945, "text": "konfiskace majetku Thun-Hohensteinů podle Benešových dekretů"},
-  {"year": 1991, "text": "zámek přechází do vlastnictví městysu Choltice"}
+  {
+   "year": 1469,
+   "text": "tvrz přečkala vpád uherských vojsk Matyáše Korvína, ale byla poškozena a přestavěna na čtvercový zámek s věží"
+  },
+  {
+   "year": 1683,
+   "text": "zahájena stavba nového barokního zámku podle návrhu Luky di Rossi na místě staré tvrze"
+  },
+  {
+   "year": 1695,
+   "text": "z finančních důvodů stavba ukončena, vystavěna jen polovina plánované budovy; štuková výzdoba kaple sv. Romedia od Antonia Nuvoloneho"
+  },
+  {
+   "year": 1721,
+   "text": "zadlužené panství prodáno Chotkovi, 1722 Trauttmansdorfovi"
+  },
+  {
+   "year": 1731,
+   "text": "Marie Filipa Thunová kupuje Choltice zpět pro syna Jana Josefa Františka"
+  },
+  {
+   "year": 1795,
+   "text": "požár zámku, následné opravy"
+  },
+  {
+   "year": 1945,
+   "text": "konfiskace majetku Thun-Hohensteinů podle Benešových dekretů"
+  },
+  {
+   "year": 1991,
+   "text": "zámek přechází do vlastnictví městysu Choltice"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Choltice_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Choltice_(zámek)",
+  "https://www.choltice.cz/mestys/historie/iv-novi-majitele-znovu-thunove/",
+  "https://www.zamek-choltice.cz/o-nas-zajimavosti/historie/prvni-majitele/"
+ ]
 }

@@ -6,7 +6,7 @@
   "approx": true,
   "text": "Předchůdcem zámku byla renesanční tvrz postavená v první polovině 16. století příslušníky mašťovské větve pánů z Kolovrat; první písemná zmínka o ní je z roku 1546, kdy ji od Kolovratů koupil Jan Žďárský ze Žďáru."
  },
- "summary": "Renesanční tvrz v Polákách postavili v první polovině 16. století Kolovratové, roku 1546 ji koupil Jan Žďárský ze Žďáru a poté se v rychlém sledu vystřídali Hasištejnští z Lobkovic, další větve Lobkoviců, po konfiskaci 1593 rod ze Salmu, Štampachové ze Štampachu, Šlikové, Strojetičtí ze Strojetic, hrabata z Warmsbachu a z Questenberku. V letech 1738-1815 ves patřila hrabatům z Pergenu, kteří tvrz nahradili barokním zámkem, poté ji vlastnili Windischgrätzové (od 1815) a Lobkovicové z Dolních Beřkovic (od 1869). Po pozemkové reformě 1926 patřil zámek soukromým rodinám, ve 20. století zde sídlila správa státního statku a od roku 2020 usiluje o jeho záchranu a zpřístupnění kastelán Miloš Dempír.",
+ "summary": "Renesanční tvrz v Polákách postavili v první polovině 16. století Kolovratové, roku 1546 ji koupil Jan Žďárský ze Žďáru a poté se v rychlém sledu vystřídali Hasištejnští z Lobkovic, další větve Lobkoviců, po konfiskaci 1593 rod ze Salmu, Štampachové ze Štampachu, Šlikové, Strojetičtí ze Strojetic, hrabata z Warmsbachu a z Questenberku. V letech 1738-1815 ves patřila hrabatům z Pergenu, kteří tvrz nahradili barokním zámkem, poté ji vlastnili Windischgrätzové (od 1815) a Lobkovicové z Dolních Beřkovic (od 1869). V roce 1924 velkostatek koupila rodina Hrbáčkových Hradčovských, po roce 1948 zámek využíval státní statek, po restituci po roce 1990 se vystřídala řada právnických osob a od roku 2020 usiluje o jeho záchranu a zpřístupnění kastelán Miloš Dempír.",
  "owners": [
   {
    "owner": "kolovratove",
@@ -91,21 +91,21 @@
    "person": "Jindřich Šlik",
    "from": 1628,
    "to": null,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "koupil od Zdeslava Štampacha krátce po roce 1628; dcera Marie Sidonie se o Poláky soudila s manželem, který jí musel roku 1662 statek vrátit a uhradit škody"
+   "note": "1628 koupil od Zdeslava Štampacha (ten jako evangelík odešel ze země; k panství patřily Dolany, Drahonice, Lomazice, Chotěnice a část Hořenic); Poláky dal jako věno dceři Marii Sidonii provdané za hraběte Ottu z Friedberku a Trauburku; ten statek spravoval a Marie Sidonie se s ním soudila - císař Leopold I., resp. 1662 soud, nařídil vrácení statku a úhradu škod; konec držby Šliků zdroje nevymezují; zdroj: cs.wiki Poláky (ves)"
   },
   {
    "owner": "strojeticti-ze-strojetic",
    "owner_wiki": "Strojetičtí ze Strojetic",
    "person": null,
-   "from": 1662,
+   "from": null,
    "to": null,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "pořadí a přesná léta držby mezi Šliky a Pergeny (Strojetičtí, Warmsbach, Questenberkové) wiki blíže neuvádí; tvrz byla těžce poškozena za třicetileté války"
+   "note": "wiki uvádí jen pořadí vlastníků po Šlicích: Strojetičtí, Gustav Adolf z Warmsbachu, Questenberkové (přesná léta ani způsob nabytí neuvedeny ani v cs.wiki o vsi a prehis.cz); tvrz těžce poškozena za třicetileté války, berní rula 1654 hodnotí ves dobře"
   },
   {
    "owner": "z-warmsbachu",
@@ -115,7 +115,8 @@
    "to": null,
    "from_approx": false,
    "to_approx": false,
-   "how": "neznamo"
+   "how": "neznamo",
+   "note": "druhý v pořadí po Strojetických; léta držby zdroje neuvádějí"
   },
   {
    "owner": "questenberkove",
@@ -125,7 +126,8 @@
    "to": 1738,
    "from_approx": false,
    "to_approx": false,
-   "how": "neznamo"
+   "how": "neznamo",
+   "note": "třetí v pořadí před Pergeny; léta držby zdroje neuvádějí"
   },
   {
    "owner": "pergenove",
@@ -136,7 +138,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "Leopold von Pergen (1700-1749) koupil panství, po něm vdova, syn Johann Anton je vlastnil 1772-1811; nechal pravděpodobně koncem 18. století zbořit tvrz a postavit barokní zámek podle plánů žateckého stavitele Vavřince Rodta; synové Ferdinand a Josef (1766-1830) statky odprodali"
+   "note": "Leopold von Pergen (1700-1749) koupil panství, po něm vdova, syn Johann Anton je vlastnil 1772-1811; nechal pravděpodobně koncem 18. století zbořit tvrz a postavit barokní zámek podle plánů žateckého stavitele Vavřince Rodta; synové Ferdinand a Josef (1766-1830) statky odprodali; cs.wiki o vsi Poláky a turisticky-magazin.cz uvádějí začátek držby Pergenů až 1745 (zámek: 1738); Poláky tehdy označovány jako allodiální panství Pohlig"
   },
   {
    "owner": "windischgratzove",
@@ -147,40 +149,51 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "poslední šlechtičtí majitelé před Lobkovici"
+   "note": "poslední šlechtičtí majitelé před Lobkovici; koupili od Pergenů v roce 1815"
   },
   {
    "owner": "lobkovicove",
    "owner_wiki": "Lobkovicové",
    "person": null,
    "from": 1869,
-   "to": 1926,
+   "to": 1924,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "koupe",
-   "note": "větev Lobkoviců z Dolních Beřkovic; posední šlechtičtí majitelé statku, panství zaniklo pozemkovou reformou roku 1926"
+   "note": "Ferdinand Josef z Lobkovic koupil dvory s 428 ha (cs.wiki ves a prehis.cz uvádějí 1868, cs.wiki zámek 1869); v pozemkové reformě (1926) přišel o pouhých 39 ha, zbytek roku 1924 koupil Hrbáček-Hradčovský; větev Lobkoviců z Dolních Beřkovic"
   },
   {
    "owner": "soukromnik",
    "owner_wiki": null,
-   "person": "Josef Hrbáček, poté Adolf Kollmann",
-   "from": 1926,
-   "to": null,
+   "person": "Rudolf a Anna Hrbáčkovi Hradčovští (cs.wiki: rodina Josefa Hrbáčka), poté Adolf Kollmann",
+   "from": 1924,
+   "to": 1948,
    "from_approx": false,
-   "to_approx": false,
-   "how": "jine",
-   "note": "po pozemkové reformě zámek s dvorem postupně patřil oběma rodinám; naposledy důkladně opraven 1928 (stavitel Antonín Rimpl)"
+   "to_approx": true,
+   "how": "koupe",
+   "note": "1924 koupili velkostatek po Lobkovicích, 1928 zámek přestavěli v novobarokním stylu (stavitel Antonín Rimpl); posledním soukromým majitelem před znárodněním A. Kollmann; konec držby 'po roce 1948' (turisticky-magazin.cz, komerční zdroj); rok 1924 pochází z prehis.cz a turisticky-magazin.cz"
   },
   {
    "owner": "stat",
    "owner_wiki": null,
-   "person": null,
-   "from": null,
+   "person": "místní státní statek",
+   "from": 1948,
+   "to": 1990,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "konfiskace",
+   "note": "po roce 1948 zámek získal státní statek (kanceláře, byty, archiv), 1958-1968 věznice, poté vojenská posádka; po roce 1990 restituce potomkům původního majitele (rok 'po 1990')"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "potomci původního majitele, poté řada právnických osob",
+   "from": 1990,
    "to": 2020,
    "from_approx": true,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "ve druhé polovině 20. století v zámku sídlila správa státního statku; přesná léta přechodu wiki neuvádí"
+   "how": "restituce",
+   "note": "po roce 1990 restituce potomkům původního majitele, kteří o zámek neměli zájem a nabídli jej k prodeji; za tři desetiletí se vystřídala řada právnických osob, areál byl vyrabován; zdroj: turisticky-magazin.cz (komerční); rok 1990 přibližný, 2020 je rok koupě Dempírem"
   },
   {
    "owner": "soukromnik",
@@ -195,13 +208,39 @@
   }
  ],
  "events": [
-  {"year": 1546, "text": "první písemná zmínka o tvrzi, kupuje ji Jan Žďárský ze Žďáru"},
-  {"year": 1593, "text": "konfiskace majetku Ladislava Popela z Lobkovic po jeho útěku ze země"},
-  {"year": 1628, "text": "panství vráceno Zdeslavu Štampachovi za věrnost Habsburkům"},
-  {"year": 1662, "text": "soud nařizuje vrácení statku Marii Sidonii Šlikové"},
-  {"year": 1791, "text": "v topografii popisován barokní zámek Pohlig (Poláky) v majetku hraběte Johanna Antona von Pergen"},
-  {"year": 1928, "text": "poslední důkladná oprava zámku, provedl ji stavitel Antonín Rimpl"},
-  {"year": 2024, "text": "zrekonstruovaná část zámku poprvé sezónně zpřístupněna veřejnosti"}
+  {
+   "year": 1546,
+   "text": "první písemná zmínka o tvrzi, kupuje ji Jan Žďárský ze Žďáru"
+  },
+  {
+   "year": 1593,
+   "text": "konfiskace majetku Ladislava Popela z Lobkovic po jeho útěku ze země"
+  },
+  {
+   "year": 1628,
+   "text": "panství vráceno Zdeslavu Štampachovi za věrnost Habsburkům"
+  },
+  {
+   "year": 1662,
+   "text": "soud nařizuje vrácení statku Marii Sidonii Šlikové"
+  },
+  {
+   "year": 1791,
+   "text": "v topografii popisován barokní zámek Pohlig (Poláky) v majetku hraběte Johanna Antona von Pergen"
+  },
+  {
+   "year": 1928,
+   "text": "poslední důkladná oprava, novobarokní přestavba (stavitel Antonín Rimpl)"
+  },
+  {
+   "year": 2024,
+   "text": "zrekonstruovaná část zámku poprvé sezónně zpřístupněna veřejnosti"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Poláky_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Poláky_(zámek)",
+  "https://cs.wikipedia.org/wiki/Poláky",
+  "https://www.prehis.cz/en/turista/cechy/chomutov/p/polaky.html",
+  "https://turisticky-magazin.cz/turistika.php?fchange=open&id_cl=705"
+ ]
 }

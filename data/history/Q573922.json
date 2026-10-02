@@ -2,66 +2,88 @@
  "id": "Q573922",
  "name": "Frýdštejn",
  "founded": {
-  "year": 1376,
+  "year": 1385,
   "approx": true,
-  "text": "Hrad pravděpodobně založili Bibrštejnové (páni z Biberštejna) sídlící ve Frýdlantu, doloženi v okolí roku 1376; první přímá zmínka o samotném Frýdštejnu pochází z roku 1385."
+  "text": "Přesná doba vzniku hradu není známa; první písemná zmínka pochází z roku 1385 (Bohuněk Puklice z Frýdštejna). Stavebníky byli pravděpodobně Biberštejnové (nedoloženo), podle jiné domněnky páni z Dražic; Menclová řadí vznik do 1. nebo 2. poloviny 14. století."
  },
- "summary": "Zřícenina hradu Frýdštejn u Malé Skály vznikla nejspíše koncem 14. století, pravděpodobně z podnětu Bibrštejnů; první přímá zmínka je z roku 1385 (Bohuněk Puklic z Frýdštejna). Ve 40. a v 16. století se majitelé rychle střídali, roku 1540 jej získali Vartenberkové, po jejich odboji roku 1547 Oppersdorfové, kteří panství rozprodali a hrad zpustl; roku 1591 koupil neobyvatelný hrad Zikmund Smiřický, později jej vlastnili Valdštejnové a Isolaniové, jedna z Isolaniho dcer jej odkázala církvi, roku 1838 přešel na Rohany. Přístupným se stal roku 1892, kdy jej od Rohanů koupil turnovský okrašlovací spolek; dnes je majetkem obce Frýdštejn.",
+ "summary": "Zřícenina hradu Frýdštejn u Malé Skály vznikla v průběhu 14. století, stavebníci nejsou doloženi (Biberštejnové nebo páni z Dražic); první přímá zmínka je z roku 1385 (Bohuněk Puklice z Frýdštejna). Počátkem 15. století jej získali Kováňové, po nich se majitelé rychle střídali, od 1540 jej drželi Vartenberkové, po jejich odboji 1546/1547 Oppersdorfové (od 1552), kteří panství rozprodali a hrad zpustl. Od 1591 patřil Smiřickým, od 1623 Valdštejnovi, pak Isolanim, od 1653 církvi (klášter sv. Augustina ve Vídni) a od 1838 Rohanům. Přístupným se stal roku 1892, kdy jej koupil turnovský okrašlovací spolek; dnes je majetkem obce Frýdštejn.",
  "owners": [
+  {
+   "owner": "pani-z-drazic",
+   "owner_wiki": "Páni z Dražic",
+   "person": null,
+   "from": 1363,
+   "to": 1376,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "jako majitelé oblasti kolem Hodkovic doloženi 1363/1364 (cs.wiki, mistopisy.cz); samotný hrad v té době není doložen, mistopisy.cz je považuje za možné stavebníky starší části hradu; před nimi bylo Pojizeří majetkem Markvarticů"
+  },
   {
    "owner": "pani-z-biberstejna",
    "owner_wiki": "Páni z Biberštejna",
-   "person": null,
+   "person": "Jan II. z Biberštejna",
    "from": 1376,
    "to": 1385,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": true,
-   "how": "zalozeni",
-   "note": "cs.wiki uvádí jako pravděpodobné zakladatele hradu (rod sídlící ve Frýdlantu), přímá držba hradu nedoložena"
+   "how": "neznamo",
+   "note": "roku 1376 doložen jako držitel kraje; podle cs.wiki a oficiálního webu hradu rod (sídlící ve Frýdlantu) pravděpodobně stál u vzniku hradu, což nelze doložit; Menclová datuje vznik hradu do 2. pol. 14. stol., stavební typ ale naznačuje i 1. pol. 14. stol."
   },
   {
    "owner": "z-frydstejna",
    "owner_wiki": null,
-   "person": "Bohuněk Puklic z Frýdštejna",
+   "person": "Bohuněk Puklice z Frýdštejna",
    "from": 1385,
-   "to": 1400,
+   "to": null,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "neznamo",
-   "note": "první písemná zmínka o hradu z roku 1385"
+   "note": "první písemná zmínka o hradu 1385 (církevní prameny); kolem 1390 je na Frýdštejně uváděn Petr Kamenec z Frýdštejna (obec Frýdštejn)"
   },
   {
    "owner": "kamencove-ze-strizovic-a-cakovic",
    "owner_wiki": null,
-   "person": null,
-   "from": 1400,
-   "to": 1410,
-   "from_approx": true,
-   "to_approx": true,
+   "person": "Ješek Kamenec ze Střížovic a synové Petr a Zvěst",
+   "from": null,
+   "to": 1406,
+   "from_approx": false,
+   "to_approx": false,
    "how": "neznamo",
-   "note": "\"okolo roku 1400\" v držení rodu Kamenců ze Střížovic a Čakovic"
+   "note": "\"okolo roku 1400\" v držení Kamenců ze Střížovic a Čakovic; roku 1406 hrad získali Kováňové"
+  },
+  {
+   "owner": "z-kovane",
+   "owner_wiki": null,
+   "person": "Bohuš a Vaněk z Kováně",
+   "from": 1406,
+   "to": 1427,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "oba bratři získali Frýdštejn kolem 1406; roku 1409 uváděn jako majitel panství Bohuš"
   },
   {
    "owner": "z-kovane",
    "owner_wiki": null,
    "person": "Bohuš z Kováně",
-   "from": 1410,
+   "from": 1427,
    "to": 1460,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "majitelem panství od počátku 15. století; roku 1432 hrad obléhali husité, Bohuš později konvertoval a 1448 pomáhal Jiřímu z Poděbrad; zemřel 1460"
+   "note": "od 1427 jediný vlastník; 1432 hrad měsíc obléhali husité (Ota z Lozy, Jan Čapek ze Sán), neúspěšně, Bohuš uzavřel dohodu a později přestoupil k utrakvistům; 1436 zástava vsí bývalého hradišťského kláštera od Zikmunda; zemřel 1460"
   },
   {
-   "owner": "zajicove-z-hazmburka",
-   "owner_wiki": "Zajícové z Hazmburka",
-   "person": "Jan Zajíc z Hazmburka",
+   "owner": "z-kovane",
+   "owner_wiki": null,
+   "person": "nezletilé děti Bohuše z Kováně (poručník Jan Zajíc z Hazmburka)",
    "from": 1460,
    "to": 1489,
    "from_approx": false,
    "to_approx": true,
-   "how": "neznamo",
-   "note": "po Bohušově smrti spravoval panství"
+   "how": "dedictvi",
+   "note": "poručník Jan Zajíc z Hazmburka měl na hradě purkrabího; poté zprávy o hradu mizí, další doložený majitel až 1489"
   },
   {
    "owner": "berkove-z-dube",
@@ -69,73 +91,98 @@
    "person": "Jiří Berka z Dubé",
    "from": 1489,
    "to": 1498,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "neznamo"
+   "from_approx": true,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "jako majitel doložen roku 1489; skutečný počátek držby zdroje neuvádějí"
   },
   {
    "owner": "landstejnove",
    "owner_wiki": "Landštejnové",
    "person": "Vilém Zub z Landštejna",
    "from": 1498,
-   "to": 1503,
-   "from_approx": false,
-   "to_approx": true,
-   "how": "neznamo"
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "jako majitel doložen roku 1498"
   },
   {
    "owner": "dubecti-z-dubce",
    "owner_wiki": "Dubečtí z Dubče",
    "person": "Jan Dubecký z Dubče",
-   "from": 1503,
-   "to": 1508,
-   "from_approx": true,
-   "to_approx": true,
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
    "how": "neznamo",
-   "note": "cs.wiki dává pouze pořadí majitelů bez přesných letopočtů"
+   "note": "cs.wiki a obec Frýdštejn uvádějí pouze pořadí majitelů bez roků"
   },
   {
    "owner": "z-ledec",
    "owner_wiki": null,
-   "person": "Jan Chvalovský z Ledec",
+   "person": "Jan Chvalovský z Ledec, poté jeho dědicové",
    "from": 1508,
    "to": 1540,
    "from_approx": true,
    "to_approx": false,
    "how": "neznamo",
-   "note": "majitelem \"po roce 1508\""
+   "note": "majitelem \"po roce 1508\"; dědici roku 1540 panství prodali Vartenberkům"
   },
   {
    "owner": "vartenberkove",
    "owner_wiki": "Vartenberkové",
-   "person": "Jan a Adam z Vartenberka",
+   "person": "Jan z Vartenberka, poté syn Adam z Vartenberka",
    "from": 1540,
    "to": 1547,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "Jan z Vartenberka koupil hrad a připojil k vartenberskému panství; Adam z Vartenberka se roku 1547 zúčastnil stavovského odboje proti Ferdinandovi I. a statek ztratil"
+   "note": "koupě hradu a frýdštejnského panství (s Hodkovicemi), připojeno k vartenberskému dominiu; Adam se účastnil stavovského odboje 1546/1547 a o statek přišel"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Ferdinand I.",
+   "from": 1547,
+   "to": 1552,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "konfiskovaný statek Adama z Vartenberka (včetně Českého Dubu) držela do prodeje královská komora; rok 1552 podle obce Frýdštejn, oficiální web hradu uvádí prodej až 1556, cs.wiki rok neuvádí"
   },
   {
    "owner": "oppersdorfove",
    "owner_wiki": "Oppersdorfové",
    "person": "Jan z Oprštorfu",
-   "from": 1547,
+   "from": 1552,
    "to": 1591,
    "from_approx": false,
    "to_approx": false,
-   "how": "konfiskace",
-   "note": "koupil od krále zkonfiskované panství Adama z Vartenberka; sídlem zvolil Český Dub a frýdštejnské panství postupně rozprodal, čímž Frýdštejn zpustl; roku 1591 Oppersdorfové prodali neobyvatelný hrad Zikmundovi Smiřickému"
+   "how": "koupe",
+   "note": "koupil od krále Dub a Frýdštejn (1552 podle obce Frýdštejn, 1556 podle frydstejn.cz); sídlo zvolil v Českém Dubu a frýdštejnské panství postupně rozprodal, hrad zpustl; 1591 prodáno jako neobyvatelný hrad"
   },
   {
    "owner": "smiricti-ze-smiric",
    "owner_wiki": "Smiřičtí ze Smiřic",
    "person": "Zikmund II. Smiřický ze Smiřic",
    "from": 1591,
-   "to": 1623,
+   "to": 1608,
    "from_approx": false,
    "to_approx": false,
-   "how": "koupe"
+   "how": "koupe",
+   "note": "koupě \"pustého zámku\" od Oppersdorfů (obec Frýdštejn)"
+  },
+  {
+   "owner": "smiricti-ze-smiric",
+   "owner_wiki": "Smiřičtí ze Smiřic",
+   "person": "Jaroslav Smiřický, od 1610 Jan Albrecht Smiřický ze Smiřic",
+   "from": 1608,
+   "to": 1623,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "Jaroslav držel do 1610, poté Jan Albrecht (zemřel 1619); statky Smiřických byly po Bílé hoře konfiskovány a získal je Valdštejn (obec Frýdštejn)"
   },
   {
    "owner": "valdstejnove",
@@ -145,30 +192,41 @@
    "to": 1634,
    "from_approx": false,
    "to_approx": false,
-   "how": "koupe",
-   "note": "získal panství po pánech ze Smiřic; zavražděn 1634"
+   "how": "konfiskace",
+   "note": "získal statky Smiřických z konfiskací (obec Frýdštejn; cs.wiki uvádí jen \"po pánech ze Smiřic\"); součást frýdlantského vévodství; zavražděn 1634"
   },
   {
    "owner": "isolaniove",
    "owner_wiki": null,
    "person": "Jan Ludvík Isolani",
    "from": 1634,
-   "to": 1650,
+   "to": 1640,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "konfiskace",
-   "note": "císařský plukovník (hrabě), získal panství po Valdštejnově smrti; přesný rok, kdy panství odkázal dceři, cs.wiki neuvádí"
+   "note": "císařský plukovník (hrabě), získal panství (Dub a Frýdštejn) po Valdštejnově smrti; zemřel 1640"
+  },
+  {
+   "owner": "isolaniove",
+   "owner_wiki": null,
+   "person": "dcery Jana Ludvíka Isolaniho (hraběnka Regina Isolaniová)",
+   "from": 1640,
+   "to": 1653,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "dvě dcery se ujaly dědictví; Regina Isolaniová odkázala roku 1653 své jmění klášteru sv. Augustina ve Vídni"
   },
   {
    "owner": "cirkev",
    "owner_wiki": null,
-   "person": null,
-   "from": 1650,
+   "person": "klášter sv. Augustina ve Vídni (podle cs.wiki \"katolická církev\")",
+   "from": 1653,
    "to": 1838,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "jedna z Isolaniho dcer odkázala panství katolické církvi, konkrétní řád/instituce neuvedena"
+   "note": "církevní držba panství (Dub, Frýdštejn) do 1838 (obec Frýdštejn); cs.wiki jen \"odkázala katolické církvi\""
   },
   {
    "owner": "rohanove",
@@ -178,40 +236,90 @@
    "to": 1892,
    "from_approx": false,
    "to_approx": false,
-   "how": "jine",
-   "note": "způsob nabytí od církve cs.wiki neuvádí; rod Rohanů ze Sychrova"
+   "how": "koupe",
+   "note": "koupil jako kníže Kamil Rohan (obec Frýdštejn); rod Rohanů ze Sychrova"
   },
   {
    "owner": "soukromnik",
    "owner_wiki": null,
-   "person": "Turnovský okrašlovací spolek",
+   "person": "Okrašlovací spolek v Turnově",
    "from": 1892,
+   "to": 1953,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "koupil hrad od Rohanů, dal zpevnit zdivo a zpřístupnil jej; 1894 první opravy Klubu českých turistů (turistika.cz, méně spolehlivý web)"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1953,
    "to": null,
    "from_approx": false,
    "to_approx": false,
-   "how": "koupe",
-   "note": "koupili hrad od Rohanů, nechali zpevnit dochované zdivo a zpřístupnili jej; přesný rok přechodu na obec cs.wiki neuvádí"
+   "how": "jine",
+   "note": "podle turistika.cz (méně spolehlivý web, nedoloženo jiným zdrojem) od roku 1953 přešel hrad na stát; konec státní držby zdroje neuvádějí"
   },
   {
    "owner": "mesto",
    "owner_wiki": null,
-   "person": null,
+   "person": "obec Frýdštejn",
    "from": null,
    "to": null,
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "dnes je hrad majetkem obce Frýdštejn"
+   "note": "dnes majetek obce Frýdštejn (cs.wiki, oficiální web hradu); rok převodu a předchozí vlastník (stát / spolek) zdroje neuvádějí"
   }
  ],
  "events": [
-  {"year": 1385, "text": "první písemná zmínka o hradu (Bohuněk Puklic z Frýdštejna)"},
-  {"year": 1432, "text": "hrad obléhali husité pod vedením Oty z Lozy a Jana Čapka ze Sán"},
-  {"year": 1540, "text": "Jan z Vartenberka koupil hrad a připojil jej k vartenberskému panství"},
-  {"year": 1547, "text": "Adam z Vartenberka ztratil panství po účasti na stavovském odboji, získali je Oppersdorfové"},
-  {"year": 1591, "text": "Oppersdorfové prodali již neobyvatelný hrad Zikmundu Smiřickému"},
-  {"year": 1838, "text": "panství přešlo na Kamila Rohana"},
-  {"year": 1892, "text": "turnovský okrašlovací spolek koupil zříceninu od Rohanů a zpřístupnil ji veřejnosti"}
+  {
+   "year": 1363,
+   "text": "jako majitelé oblasti kolem Hodkovic doloženi páni z Dražic (1376 Jan II. z Biberštejna)"
+  },
+  {
+   "year": 1385,
+   "text": "první písemná zmínka o hradu (Bohuněk Puklice z Frýdštejna)"
+  },
+  {
+   "year": 1406,
+   "text": "hrad získávají Bohuš a Vaněk z Kováně"
+  },
+  {
+   "year": 1432,
+   "text": "hrad obléhali husité pod vedením Oty z Lozy a Jana Čapka ze Sán, bez dobytí"
+  },
+  {
+   "year": 1540,
+   "text": "Jan z Vartenberka koupil hrad a připojil jej k vartenberskému panství"
+  },
+  {
+   "year": 1547,
+   "text": "Adam z Vartenberka ztratil panství po účasti na stavovském odboji; získali je po odkoupení od krále Oppersdorfové (1552)"
+  },
+  {
+   "year": 1591,
+   "text": "Oppersdorfové prodali již neobyvatelný hrad Zikmundu Smiřickému"
+  },
+  {
+   "year": 1653,
+   "text": "Regina Isolaniová odkázala panství klášteru sv. Augustina ve Vídni"
+  },
+  {
+   "year": 1838,
+   "text": "panství koupil kníže Kamil Rohan"
+  },
+  {
+   "year": 1892,
+   "text": "turnovský okrašlovací spolek koupil zříceninu od Rohanů a zpřístupnil ji veřejnosti"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Frýdštejn_(hrad)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Frýdštejn_(hrad)",
+  "https://www.frydstejn.cz/hrad/historie/",
+  "https://www.obec-frydstejn.cz/obec/historie/",
+  "https://www.mistopisy.cz/pruvodce/obec/10031/frydstejn/historie/",
+  "https://www.turistika.cz/mista/frydstejn--1/detail"
+ ]
 }

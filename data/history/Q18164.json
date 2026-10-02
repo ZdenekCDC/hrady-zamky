@@ -1,46 +1,412 @@
 {
  "id": "Q18164",
  "name": "Potštejn",
- "founded": {"year": 1280, "approx": true, "text": "Gotický hrad vystavěl v souvislosti s kolonizací povodí Divoké Orlice Půta z rodu západočeských Drslaviců, podle části literatury v rozmezí let 1270-1287; podle něj se hrad jmenuje (Půtův kámen, Puttenstein)."},
- "summary": "Hrad Potštejn založili koncem 13. století páni z Potštejna a Litic z rodu Drslaviců, ale roku 1339 jej za odboje Mikuláše z Potštejna dobyl a rozbořil markrabě Karel, poté zůstal královským majetkem a byl několikrát zastavován (Piastovci, páni z Chlumu, Krušinové z Lichtenburka, páni z Poděbrad, Minsterberkové). Od roku 1495 patřil Pernštejnům, kteří jej přestavěli na rezidenční a správní centrum, po nich se vystřídali Wittelsbachové, Hrzánové z Harasova, Grambové, Zárubové z Hustířan, Harbuval Chamarés a Dobřenští z Dobřenic. Po konfiskaci roku 1945 připadl státu a spolkům, po roce 1989 jej získala obec Potštejn, která zříceninu roku 1994 zpřístupnila veřejnosti.",
+ "founded": {
+  "year": 1280,
+  "approx": true,
+  "text": "Gotický hrad vystavěl v souvislosti s kolonizací povodí Divoké Orlice Půta z rodu západočeských Drslaviců, podle části literatury v rozmezí let 1270-1287; podle něj se hrad jmenuje (Půtův kámen, Puttenstein)."
+ },
+ "summary": "Hrad Potštejn založili koncem 13. století páni z Potštejna a Litic z rodu Drslaviců, ale roku 1339 jej za odboje Mikuláše z Potštejna dobyl a rozbořil markrabě Karel, poté zůstal královským majetkem a byl několikrát zastavován (Piastovci, páni z Chlumu, Krušinové z Lichtenburka, páni z Poděbrad, Minsterberkové). Od roku 1495 patřil Pernštejnům, kteří jej přestavěli na rezidenční a správní centrum, po nich se vystřídali Wittelsbachové, Hrzánové z Harasova, Grambové, Zárubové z Hustířan, Harbuval Chamarés (1746) a Dobřenští z Dobřenic (od 1851 sňatkem). Po konfiskaci roku 1945 připadl České obci sokolské a státním lesům, po roce 1989 jej získala obec Potštejn, která zříceninu roku 1994 zpřístupnila veřejnosti.",
  "owners": [
-  {"owner": "pani-z-potstejna-a-litic", "owner_wiki": "Páni z Potštejna a Litic", "person": "Půta z Potštejna", "from": 1280, "to": null, "from_approx": true, "to_approx": true, "how": "zalozeni", "note": "rod Drslaviců; podle Půty odvozen název hradu"},
-  {"owner": "pani-z-potstejna-a-litic", "owner_wiki": "Páni z Potštejna a Litic", "person": "Procek z Potštejna a syn Mikuláš", "from": null, "to": 1339, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "doloženi 1312 sporem s pražskou rodinou Prošů; Mikuláš byl velkým odpůrcem Lucemburků a loupeživým rytířem, zabit 1339 při obléhání hradu markrabětem Karlem"},
-  {"owner": "koruna", "owner_wiki": null, "person": "markrabě Karel (pozdější Karel IV.), král Jan Lucemburský", "from": 1339, "to": 1356, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "hrad dobyt a rozbořen 1339; král Jan roku 1341 vrátil Mikulášovým synům většinu zboží, ale Potštejn si ponechal"},
-  {"owner": "koruna", "owner_wiki": null, "person": "Karel IV.", "from": 1356, "to": 1371, "from_approx": false, "to_approx": true, "how": "koupe", "note": "odkoupil zbylá práva od Mikulášových potomků a obnovil hrad jako centrum královského potštejnského panství"},
-  {"owner": "piastovci", "owner_wiki": "Piastovci", "person": "opolský kníže Bolek", "from": 1371, "to": 1396, "from_approx": true, "to_approx": true, "how": "lenni", "note": "zástava od Karla IV. před rokem 1371, doložen ještě o pět let později; přesný konec zástavy cs.wiki neuvádí"},
-  {"owner": "z-chlumu", "owner_wiki": null, "person": "Jindřich Lacembok z Chlumu", "from": 1396, "to": 1398, "from_approx": false, "to_approx": false, "how": "lenni", "note": "zástava od krále Václava IV."},
-  {"owner": "koruna", "owner_wiki": null, "person": "moravský markrabě Prokop", "from": 1398, "to": 1410, "from_approx": false, "to_approx": true, "how": "lenni", "note": "1399 hrad neúspěšně obléhala vojska panské jednoty proti Václavu IV."},
-  {"owner": "lichtenburkove", "owner_wiki": "Lichtenburkové", "person": "Hynek Krušina z Lichtenburka", "from": 1410, "to": 1425, "from_approx": false, "to_approx": false, "how": "lenni", "note": "král Václav IV. postoupil hrad manželce Žofii, ale zároveň jej dal do zástavy Hynkovi Krušinovi; po Žofiině smrti (1425) připadl králi Zikmundovi"},
-  {"owner": "drslavici", "owner_wiki": "Drslavici", "person": "Půta nejmladší z Častolovic", "from": 1429, "to": null, "from_approx": false, "to_approx": true, "how": "lenni", "note": "zástava od Zikmunda, hlavní odpůrce husitství ve východních Čechách; hrad byl obléhán a po půlročním obléhání východočeskými sirotky dobyt; po jeho smrti spravovala statky matka Anna Osvětimská"},
-  {"owner": "lichtenburkove", "owner_wiki": "Lichtenburkové", "person": "Hynek Krušina z Lichtenburka (podruhé), poté syn Vilém Krušina", "from": null, "to": 1454, "from_approx": true, "to_approx": false, "how": "lenni", "note": "Anna Osvětimská postoupila zástavní právo Hynkovi; Vilém Krušina roku 1454 postoupil práva Jiřímu z Poděbrad"},
-  {"owner": "pani-z-kunstatu-a-podebrad", "owner_wiki": "Páni z Kunštátu a Poděbrad", "person": "Jiří z Poděbrad", "from": 1454, "to": null, "from_approx": false, "to_approx": true, "how": "lenni", "note": "sídlil na sousedním Liticích, význam Potštejna poklesl; se svolením zde 1459 zemřel husitský hejtman Bedřich ze Strážnice"},
-  {"owner": "pani-z-kunstatu-a-podebrad", "owner_wiki": "Páni z Kunštátu a Poděbrad", "person": "Boček z Poděbrad", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "dedictvi", "note": "po smrti Jiřího z Poděbrad zdědil východočeské statky, záhy je postoupil bratru Jindřichovi Minsterberskému"},
-  {"owner": "minsterberkove", "owner_wiki": "Minsterberkové", "person": "Jindřich Minsterberský", "from": null, "to": 1495, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "roku 1495 kvůli zadlužení prodal litické panství a postoupil zástavní práva k potštejnskému panství Vilémovi z Pernštejna"},
-  {"owner": "pernstejnove", "owner_wiki": "Pernštejnové", "person": "Vilém z Pernštejna", "from": 1495, "to": 1521, "from_approx": false, "to_approx": true, "how": "lenni", "note": "1497 změnil král Vladislav Jagellonský zástavu v dědičnou držbu; Vilém hrad nákladně přestavěl v rezidenční a správní centrum"},
-  {"owner": "pernstejnove", "owner_wiki": "Pernštejnové", "person": "Vojtěch z Pernštejna", "from": 1521, "to": 1534, "from_approx": true, "to_approx": false, "how": "dedictvi"},
-  {"owner": "pernstejnove", "owner_wiki": "Pernštejnové", "person": "Jan z Pernštejna zvaný Bohatý", "from": 1534, "to": 1548, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "nepodařilo se mu odvrátit finanční kolaps rozlehlého pernštejnského dominia"},
-  {"owner": "pernstejnove", "owner_wiki": "Pernštejnové", "person": "Jaroslav z Pernštejna", "from": 1548, "to": 1556, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "donucen postupně rozprodat větší část rodových statků; potštejnsko-litické panství roku 1556 prodáno"},
-  {"owner": "wittelsbachove", "owner_wiki": null, "person": "rýnský falckrabě Arnošt", "from": 1556, "to": 1558, "from_approx": false, "to_approx": false, "how": "koupe", "note": "po dvou letech panství rozdělil na několik částí a znovu prodal"},
-  {"owner": "hrzanove-z-harasova", "owner_wiki": "Hrzánové z Harasova", "person": "Václav Hrzán z Harasova a na Jenštejně", "from": 1558, "to": 1576, "from_approx": false, "to_approx": false, "how": "koupe", "note": "získal nově vymezené potštejnské panství"},
-  {"owner": "hrzanove-z-harasova", "owner_wiki": "Hrzánové z Harasova", "person": "Adam Šťastný Hrzán z Harasova", "from": 1576, "to": 1598, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "provedl částečnou renesanční obnovu horního hradu, která přispěla k zadlužení"},
-  {"owner": "hrzanove-z-harasova", "owner_wiki": "Hrzánové z Harasova", "person": "Anna Kateřina Hrzánová z Harasova (do 1603 poručník Adam starší Hrzán z Harasova)", "from": 1598, "to": 1629, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "hlavním sídlem vrchnosti se stal Dvoreček v Kostelci nad Orlicí; kvůli zadlužení byla nucena panství roku 1629 prodat"},
-  {"owner": "z-grambu", "owner_wiki": null, "person": "Kašpar z Grambu", "from": 1629, "to": null, "from_approx": false, "to_approx": true, "how": "koupe", "note": "císařský generál; část panství (Kostelec nad Orlicí a okolní obce) odkázal jezuitské koleji sv. Klimenta, zmenšeného potštejnského statku se ujala jeho dcera"},
-  {"owner": "zarubove-z-hustiran", "owner_wiki": "Zárubové z Hustířan", "person": "Františka Magdalena z Grambu, provdaná za Václava Zárubu z Hustířan", "from": null, "to": 1746, "from_approx": true, "to_approx": false, "how": "snatek", "note": "rodu patřil hrad a panství přes 100 let; ještě 1681 jej Bohuslav Balbín označil za obyvatelný; roku 1746 dcera posledního mužského zástupce rodu hrad prodala"},
-  {"owner": "harbuval-chamare", "owner_wiki": "Harbuval-Chamaré", "person": "Jan Ludvík Harbuval Chamaré", "from": 1746, "to": null, "from_approx": false, "to_approx": true, "how": "koupe", "note": "slezský emigrant, dal v městečku vybudovat nový zámek; rodinné aktivity (kaple, křížová cesta, hledání pokladu) výrazně poznamenaly vzhled hradu"},
-  {"owner": "dobrzensti-z-dobrenic", "owner_wiki": "Dobřenští z Dobřenic", "person": null, "from": null, "to": 1945, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "cs.wiki neuvádí, kdy a jak velkostatek přešel od Harbuval Chamarés na Dobřenské z Dobřenic; velkostatek byl roku 1945 konfiskován"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": 1989, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "hrad přešel do majetku České obce sokolské a poté státních lesů"},
-  {"owner": "mesto", "owner_wiki": null, "person": "obec Potštejn", "from": 1989, "to": null, "from_approx": false, "to_approx": false, "how": "jine", "note": "po roce 1989 se hrad stal majetkem obce, která jej roku 1994 zpřístupnila veřejnosti"}
+  {
+   "owner": "pani-z-potstejna-a-litic",
+   "owner_wiki": "Páni z Potštejna a Litic",
+   "person": "Půta z Potštejna",
+   "from": 1280,
+   "to": null,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "zalozeni",
+   "note": "rod Drslaviců; podle Půty odvozen název hradu"
+  },
+  {
+   "owner": "pani-z-potstejna-a-litic",
+   "owner_wiki": "Páni z Potštejna a Litic",
+   "person": "Procek z Potštejna a syn Mikuláš",
+   "from": null,
+   "to": 1339,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "doloženi 1312 sporem s pražskou rodinou Prošů; Mikuláš byl velkým odpůrcem Lucemburků a loupeživým rytířem, zabit 1339 při obléhání hradu markrabětem Karlem; zámecké webové stránky zamekpotstejn.cz uvádějí první zmínku o Půtovi z Potštejna už 1259 (listina Litomyšle), hrady.cz zmínku k 1287"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "markrabě Karel (pozdější Karel IV.), král Jan Lucemburský",
+   "from": 1339,
+   "to": 1356,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "hrad dobyt a rozbořen 1339; král Jan roku 1341 vrátil Mikulášovým synům většinu zboží, ale Potštejn si ponechal"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Karel IV.",
+   "from": 1356,
+   "to": 1371,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "odkoupil zbylá práva od Mikulášových potomků a obnovil hrad jako centrum královského potštejnského panství"
+  },
+  {
+   "owner": "piastovci",
+   "owner_wiki": "Piastovci",
+   "person": "opolský kníže Bolek",
+   "from": 1371,
+   "to": 1396,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "lenni",
+   "note": "zástava od Karla IV. před rokem 1371, doložen ještě o pět let později; přesný konec zástavy cs.wiki neuvádí"
+  },
+  {
+   "owner": "z-chlumu",
+   "owner_wiki": null,
+   "person": "Jindřich Lacembok z Chlumu",
+   "from": 1396,
+   "to": 1398,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "zástava od krále Václava IV."
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "moravský markrabě Prokop",
+   "from": 1398,
+   "to": 1410,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "lenni",
+   "note": "1399 hrad neúspěšně obléhala vojska panské jednoty proti Václavu IV."
+  },
+  {
+   "owner": "lichtenburkove",
+   "owner_wiki": "Lichtenburkové",
+   "person": "Hynek Krušina z Lichtenburka",
+   "from": 1410,
+   "to": 1425,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "král Václav IV. postoupil 1410 hrad manželce Žofii a zároveň jej dal do zástavy Hynkovi Krušinovi; po Žofiině smrti (1425) hrad připadl králi Zikmundovi"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "král Zikmund",
+   "from": 1425,
+   "to": 1429,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "po smrti královny Žofie 1425 se hrad dostal králi Zikmundovi, který jej 1429 zastavil"
+  },
+  {
+   "owner": "drslavici",
+   "owner_wiki": "Drslavici",
+   "person": "Půta nejmladší z Častolovic",
+   "from": 1429,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "lenni",
+   "note": "zástava od Zikmunda, hlavní odpůrce husitství ve východních Čechách; hrad byl obléhán a po půlročním obléhání východočeskými sirotky dobyt; po jeho smrti spravovala statky matka Anna Osvětimská; rok konce jeho držby zdroj neuvádí"
+  },
+  {
+   "owner": "lichtenburkove",
+   "owner_wiki": "Lichtenburkové",
+   "person": "Hynek Krušina z Lichtenburka (podruhé), poté syn Vilém Krušina",
+   "from": null,
+   "to": 1454,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "Anna Osvětimská postoupila zástavní právo Hynkovi; Vilém Krušina roku 1454 postoupil práva Jiřímu z Poděbrad"
+  },
+  {
+   "owner": "pani-z-kunstatu-a-podebrad",
+   "owner_wiki": "Páni z Kunštátu a Poděbrad",
+   "person": "Jiří z Poděbrad",
+   "from": 1454,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "lenni",
+   "note": "sídlil na sousedním Liticích, význam Potštejna poklesl; se svolením zde 1459 zemřel husitský hejtman Bedřich ze Strážnice"
+  },
+  {
+   "owner": "pani-z-kunstatu-a-podebrad",
+   "owner_wiki": "Páni z Kunštátu a Poděbrad",
+   "person": "Boček z Poděbrad",
+   "from": null,
+   "to": null,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "po smrti Jiřího z Poděbrad zdědil východočeské statky, záhy je postoupil bratru Jindřichovi Minsterberskému"
+  },
+  {
+   "owner": "minsterberkove",
+   "owner_wiki": "Minsterberkové",
+   "person": "Jindřich Minsterberský",
+   "from": null,
+   "to": 1495,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "roku 1495 kvůli zadlužení prodal litické panství a postoupil zástavní práva k potštejnskému panství Vilémovi z Pernštejna"
+  },
+  {
+   "owner": "pernstejnove",
+   "owner_wiki": "Pernštejnové",
+   "person": "Vilém z Pernštejna",
+   "from": 1495,
+   "to": 1521,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "lenni",
+   "note": "1497 změnil král Vladislav Jagellonský zástavu v dědičnou držbu; Vilém hrad nákladně přestavěl v rezidenční a správní centrum"
+  },
+  {
+   "owner": "pernstejnove",
+   "owner_wiki": "Pernštejnové",
+   "person": "Vojtěch z Pernštejna",
+   "from": 1521,
+   "to": 1534,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi"
+  },
+  {
+   "owner": "pernstejnove",
+   "owner_wiki": "Pernštejnové",
+   "person": "Jan z Pernštejna zvaný Bohatý",
+   "from": 1534,
+   "to": 1548,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "nepodařilo se mu odvrátit finanční kolaps rozlehlého pernštejnského dominia"
+  },
+  {
+   "owner": "pernstejnove",
+   "owner_wiki": "Pernštejnové",
+   "person": "Jaroslav z Pernštejna",
+   "from": 1548,
+   "to": 1556,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "donucen postupně rozprodat větší část rodových statků; potštejnsko-litické panství roku 1556 prodáno"
+  },
+  {
+   "owner": "wittelsbachove",
+   "owner_wiki": "Wittelsbachové",
+   "person": "rýnský falckrabě Arnošt",
+   "from": 1556,
+   "to": 1558,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "po dvou letech panství rozdělil na několik částí a znovu prodal"
+  },
+  {
+   "owner": "hrzanove-z-harasova",
+   "owner_wiki": "Hrzánové z Harasova",
+   "person": "Václav Hrzán z Harasova a na Jenštejně",
+   "from": 1558,
+   "to": 1576,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "získal nově vymezené potštejnské panství"
+  },
+  {
+   "owner": "hrzanove-z-harasova",
+   "owner_wiki": "Hrzánové z Harasova",
+   "person": "Adam Šťastný Hrzán z Harasova",
+   "from": 1576,
+   "to": 1598,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "provedl částečnou renesanční obnovu horního hradu, která přispěla k zadlužení"
+  },
+  {
+   "owner": "hrzanove-z-harasova",
+   "owner_wiki": "Hrzánové z Harasova",
+   "person": "Anna Kateřina Hrzánová z Harasova (do 1603 poručník Adam starší Hrzán z Harasova)",
+   "from": 1598,
+   "to": 1629,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "hlavním sídlem vrchnosti se stal Dvoreček v Kostelci nad Orlicí; kvůli zadlužení byla nucena panství roku 1629 prodat"
+  },
+  {
+   "owner": "z-grambu",
+   "owner_wiki": null,
+   "person": "Kašpar z Grambu",
+   "from": 1629,
+   "to": 1633,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "císařský generál, koupil 1629 od Anny Kateřiny Hrzánové; část panství (Kostelec nad Orlicí a okolní obce) odkázal jezuitské koleji, zmenšeného potštejnského statku se ujala rodina (hrady.cz: zemřel 1633)"
+  },
+  {
+   "owner": "z-grambu",
+   "owner_wiki": null,
+   "person": "Magdalena Grambová (od 1640 provdaná za Ottu Jindřicha Štose z Kounic)",
+   "from": 1633,
+   "to": 1666,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "vdova po Kašparovi (hrady.cz); cs.wiki uvádí, že se potštejnského statku ujala dcera Františka Magdalena"
+  },
+  {
+   "owner": "zarubove-z-hustiran",
+   "owner_wiki": "Zárubové z Hustířan",
+   "person": "Václav Záruba z Hustířan (manžel Františky Magdaleny z Grambu)",
+   "from": 1666,
+   "to": 1746,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "snatek",
+   "note": "hrady.cz: 1666 získal Potštejn sňatkem s dcerou Gramba a zakoupením práv jezuitů z Hradce Králové, kteří je získali odkazem Kašpara Gramba; rod držel hrad a panství do 1746 (více než 100 let); ještě 1681 jej Balbín označil za obyvatelný, 1673 uváděn jako pustý (hrady.cz); 1746 prodala Alžběta Zárubová z Hustířan, provdaná za hraběte z Hautois a podruhé za hraběte Cavriani"
+  },
+  {
+   "owner": "harbuval-chamare",
+   "owner_wiki": "Harbuval-Chamaré",
+   "person": "Jan Ludvík Harbuval Chamaré",
+   "from": 1746,
+   "to": 1764,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil panství 1746 za 70000 zlatých (zamekpotstejn.cz), slezský emigrant francouzského původu; v městečku vybudoval zámek a plátenickou manufakturu; zemřel 1764 (cs.wiki zámek uvádí 1765)"
+  },
+  {
+   "owner": "harbuval-chamare",
+   "owner_wiki": "Harbuval-Chamaré",
+   "person": "Jan Antonín Harbuval Chamaré",
+   "from": 1764,
+   "to": 1808,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "syn Jana Ludvíka; do 1782 hledal v podzemí hradu poklad (předloha Jiráskova Pokladu), po jeho smrti spravovala panství do 1808 vdova Marie Anna; kaple a křížová cesta na hradě z let 1750-1766 jsou dílem rodu (cs.wiki)"
+  },
+  {
+   "owner": "harbuval-chamare",
+   "owner_wiki": "Harbuval-Chamaré",
+   "person": "Jan Antonín Harbuval Chamaré mladší",
+   "from": 1808,
+   "to": 1851,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "podle cs.wiki (zámek) syn předchozího, od 1808; cokolivokoli.cz uvádí od 1826; zemřel 1849 jako poslední mužský člen potštejnské větve rodu; panství přešlo sňatkem jeho dcery Alžběty na Dobřenské"
+  },
+  {
+   "owner": "dobrensti-z-dobrenic",
+   "owner_wiki": "Dobřenští z Dobřenic",
+   "person": "Prokop Jan Dobřenský z Dobřenic",
+   "from": 1851,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "snatek",
+   "note": "sňatkem s Alžbětou Harbuvalovou (dcerou Jana Antonína) získal 1851 potštejnské panství (hrady.cz, zamekpotstejn.cz, potstejn.cz); velkostatek 1945 konfiskován podle Benešových dekretů; cs.wiki: v závěru 30. let 20. stol. získal hradní areál Klub československých turistů a prováděl zabezpečovací práce (vlastnický vztah zdroj neupřesňuje)"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Česká obec sokolská",
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "konfiskace",
+   "note": "po konfiskaci velkostatku 1945 hrad přešel do majetku České obce sokolské (cs.wiki); rok následného převodu na státní lesy zdroj neuvádí"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": "státní lesy",
+   "from": null,
+   "to": 1989,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "jine",
+   "note": "hrad poté přešel do majetku státních lesů (cs.wiki); v 70. letech plán statického zajištění, v 80. letech hnutí Brontosaurus čistilo hrad od křovin"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "obec Potštejn",
+   "from": 1989,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "jine",
+   "note": "po roce 1989 se hrad stal majetkem obce (cs.wiki, potstejn.cz), která jej 1994 zpřístupnila veřejnosti"
+  }
  ],
  "events": [
-  {"year": 1339, "text": "markrabě Karel po devítitýdenním obléhání dobývá a boří hrad, Mikuláš z Potštejna je zabit"},
-  {"year": 1356, "text": "Karel IV. odkupuje zbylá práva na Potštejn a obnovuje hrad jako centrum královského panství"},
-  {"year": 1495, "text": "zástavní práva k potštejnskému panství získává Vilém z Pernštejna"},
-  {"year": 1497, "text": "král Vladislav Jagellonský mění zástavu v dědičnou držbu Pernštejnů"},
-  {"year": 1629, "text": "Anna Kateřina Hrzánová z Harasova nucena kvůli dluhům prodat panství Kašparu z Grambu"},
-  {"year": 1750, "text": "1750-1766 Harbuval Chamarés budují na hradě sakrální stavby (kaple sv. Jana Nepomuckého, Svaté schody)"},
-  {"year": 1945, "text": "velkostatek Dobřenských z Dobřenic konfiskován, hrad přechází k České obci sokolské a státním lesům"},
-  {"year": 1994, "text": "obec Potštejn zpřístupňuje zříceninu veřejnosti"}
+  {
+   "year": 1339,
+   "text": "markrabě Karel po devítitýdenním obléhání dobývá a boří hrad, Mikuláš z Potštejna je zabit"
+  },
+  {
+   "year": 1356,
+   "text": "Karel IV. odkupuje zbylá práva na Potštejn a obnovuje hrad jako centrum královského panství"
+  },
+  {
+   "year": 1495,
+   "text": "zástavní práva k potštejnskému panství získává Vilém z Pernštejna"
+  },
+  {
+   "year": 1497,
+   "text": "král Vladislav Jagellonský mění zástavu v dědičnou držbu Pernštejnů"
+  },
+  {
+   "year": 1629,
+   "text": "Anna Kateřina Hrzánová z Harasova nucena kvůli dluhům prodat panství Kašparu z Grambu"
+  },
+  {
+   "year": 1750,
+   "text": "1750-1766 Harbuval Chamarés budují na hradě sakrální stavby (kaple sv. Jana Nepomuckého, Svaté schody)"
+  },
+  {
+   "year": 1746,
+   "text": "Jan Ludvík Harbuval Chamaré kupuje potštejnské panství od Zárubů z Hustířan a staví zámek v městečku"
+  },
+  {
+   "year": 1851,
+   "text": "sňatkem s Alžbětou Harbuvalovou získává panství Prokop Jan Dobřenský z Dobřenic"
+  },
+  {
+   "year": 1945,
+   "text": "velkostatek Dobřenských z Dobřenic konfiskován, hrad přechází k České obci sokolské a státním lesům"
+  },
+  {
+   "year": 1994,
+   "text": "obec Potštejn zpřístupňuje zříceninu veřejnosti"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Potštejn_(hrad)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Potštejn_(hrad)",
+  "https://www.hrady.cz/hrad-potstejn-rychnov-nad-kneznou/texty?pos=300&tid=25456",
+  "https://www.zamekpotstejn.cz/cs/historie-zamku",
+  "https://cs.wikipedia.org/wiki/Potštejn_(zámek)",
+  "https://potstejn.cz/wp-content/uploads/2024/01/potstejn_leporelo_2022_nahled4.pdf"
+ ]
 }

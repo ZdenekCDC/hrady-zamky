@@ -1,43 +1,315 @@
 {
  "id": "Q12047753",
  "name": "Pátek",
- "founded": {"year": 1374, "approx": true, "text": "Nejstarším sídlem byla tvrz vybudovaná v blíže neznámé době strahovským premonstrátským klášterem; první písemná zmínka o ní je z roku 1374 v klášterním urbáři."},
- "summary": "Ves Pátek s tvrzí patřila od neznámé doby, doložené k roku 1374, strahovskému klášteru, který o ni po husitských válkách a řadě sporů o vlastnictví usiloval znovu získat po celé 17. století. Tvrz později vlastnili páni z Klinštejna, Lobkovicové, Šternberkové a další rody, než ji roku 1676 koupil Gundakar z Ditrichštejna a nechal místo ní postavit barokní zámek podle plánů Antonia della Porty. Strahovský klášter zámek v roce 1710 vykoupil zpět, ve 40. letech 20. století byl zestátněn a sloužil různým institucím, po restituci jej klášter přenechal obci Peruc, která jej dnes zpřístupňuje veřejnosti.",
+ "founded": {
+  "year": 1374,
+  "approx": true,
+  "text": "Nejstarším sídlem byla tvrz vybudovaná v blíže neznámé době strahovským premonstrátským klášterem; první písemná zmínka o ní je z roku 1374 v klášterním urbáři."
+ },
+ "summary": "Ves Pátek s tvrzí patřila od neznámé doby, doložené k roku 1374, strahovskému klášteru, který o ni po husitských válkách a řadě sporů o vlastnictví usiloval znovu získat po celé 17. století. Tvrz později vlastnili páni z Klinštejna, Lobkovicové, Šternberkové a další rody, než ji roku 1676 koupil Gundakar z Ditrichštejna (rok koupě 1676 nebo po 1679 je sporný) a nechal místo ní postavit barokní zámek podle plánů Antonia della Porty. Strahovský klášter zámek v roce 1710 vykoupil zpět, po únoru 1948 byl zestátněn a sloužil různým institucím, po restituci jej klášter přenechal obci Peruc, která jej dnes zpřístupňuje veřejnosti.",
  "owners": [
-  {"owner": "cirkev", "owner_wiki": null, "person": null, "from": 1374, "to": 1420, "from_approx": true, "to_approx": true, "how": "zalozeni", "note": "strahovský premonstrátský klášter; ke klášternímu panství patřily i vsi Radonice nad Ohří, Stradonice, Volenice a Kystra; ves s tvrzí patřila klášteru až do počátku husitských válek"},
-  {"owner": "vartenberkove", "owner_wiki": "Vartenberkové", "person": "Jan z Vartenberka", "from": 1420, "to": 1436, "from_approx": false, "to_approx": false, "how": "lenni", "note": "podle Augusta Sedláčka mu ves 1420 věnoval král Zikmund za pomoc v boji s husity, ale Jakoubek z Vřesovic mu ji odmítl vydat; spor o vlastnictví"},
-  {"owner": "pani-z-vresovic", "owner_wiki": "Páni z Vřesovic", "person": "Jakoubek z Vřesovic", "from": 1421, "to": 1454, "from_approx": true, "to_approx": false, "how": "jine", "note": "podle jedné verze se vesnice zmocnil už 1421, podle jiné ji držel od 1436 (ústně potvrzeno císařem bez listiny); kvůli chybějícímu dokladu o vlastnictví musel při revizi šlechtického majetku roku 1454 Pátek přenechat Vilémovi z Konic"},
-  {"owner": "z-konic", "owner_wiki": null, "person": "Vilém z Konic", "from": 1454, "to": 1478, "from_approx": false, "to_approx": true, "how": "jine", "note": "roku 1478 (podle jiného pramene 1474) postoupil Pátek Jindřichovi staršímu z Klinštejna a na Toužetíně"},
-  {"owner": "pani-z-klinstejna", "owner_wiki": "Páni z Klinštejna", "person": "Jindřich starší z Klinštejna a na Toužetíně", "from": 1478, "to": 1480, "from_approx": true, "to_approx": false, "how": "jine"},
-  {"owner": "pani-z-klinstejna", "owner_wiki": "Páni z Klinštejna", "person": "Jan, Jindřich a Čeněk z Klinštejna", "from": 1480, "to": 1504, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "nakonec jediným majitelem zůstal Jan, zemřel na přelomu 15. a 16. století; podle potvrzovací listiny krále Vladislava z 1504 měli podíly i strýcové"},
-  {"owner": "pani-z-klinstejna", "owner_wiki": "Páni z Klinštejna", "person": "Jindřich a Jan z Klinštejna", "from": 1504, "to": 1510, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "synové Jana z Klinštejna staršího"},
-  {"owner": "pani-z-klinstejna", "owner_wiki": "Páni z Klinštejna", "person": "Jan z Klinštejna", "from": 1510, "to": 1533, "from_approx": false, "to_approx": true, "how": "jine", "note": "roku 1523 mu král Ludvík povolil tvrz se dvory a mlýny opravit; žil ještě 1533"},
-  {"owner": "pani-z-klinstejna", "owner_wiki": "Páni z Klinštejna", "person": "Magdaléna z Klinštejna", "from": 1533, "to": 1543, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "zdědila po otci Janovi, byla ale vyplacena a 12. prosince 1543 byl statek svěřen do správy Janu z Lobkovic"},
-  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": "Jan z Lobkovic", "from": 1543, "to": 1570, "from_approx": false, "to_approx": false, "how": "koupe", "note": "roku 1545 získal Pátek do dědičného vlastnictví pro sebe a děti; nechal v letech 1544-1557 tvrz přestavět a založil mlýn se sgrafity; z neznámých důvodů byl v letech 1557-1560 majitelem tvrze Bedřich Mičan z Klinštejna"},
-  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": "Kryštof z Lobkovic", "from": 1570, "to": 1594, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "1587 zvýšil Rudolf II. cenu zástavy o 13000 tolarů; 1594 byl Pátek Kryštofovi zapsán do zemských desek jako dědičný majetek"},
-  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": "Jan Kryštof z Lobkovic", "from": 1594, "to": 1614, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "zemřel bezdětný roku 1614"},
-  {"owner": "kolovratove", "owner_wiki": "Kolovratové", "person": "Jan Libštejnský z Kolovrat", "from": 1614, "to": 1614, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "spoludědic páteckého statku po bezdětném Janu Kryštofovi z Lobkovic, spolu s Alžbětou a Vilémem mladším z Lobkovic; vdova Benigna Kateřina z Kolovrat dostala Divice"},
-  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": "Alžběta z Lobkovic a Vilém mladší z Lobkovic", "from": 1614, "to": 1614, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "spoludědicové, statek téhož roku prodali"},
-  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": "Štěpán Jiří ze Šternberka", "from": 1614, "to": 1625, "from_approx": false, "to_approx": false, "how": "koupe", "note": "patřily mu i Postoloprty"},
-  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": "Adam ze Šternberka", "from": 1625, "to": 1633, "from_approx": false, "to_approx": false, "how": "dedictvi"},
-  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": "Jan Štěpán ze Šternberka", "from": 1633, "to": 1657, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "roku 1633 ještě nezletilý"},
-  {"owner": "nosticove", "owner_wiki": "Nosticové", "person": "Jan Hanuš Nostic z Nostic a na Kounově", "from": 1658, "to": 1658, "from_approx": false, "to_approx": true, "how": "jine", "note": "po smrti Jana Štěpána ze Šternberka (1657) se vdova Anna Františka provdala za Jana Karla Hložka ze Žampachu, ale o rok později o zadlužený Pátek přišli, když byl přidělen Nosticovi; Hložek jej později vyplatil"},
-  {"owner": "z-zampachu", "owner_wiki": null, "person": "Jan Karel Hložek ze Žampachu a manželka Anna Františka", "from": 1658, "to": 1676, "from_approx": true, "to_approx": true, "how": "koupe", "note": "vyplatil pátecký statek od Nosticů a spolu se žerotínským panstvím jej odkázal manželce; zdroj uvádí rozporné údaje o dalším prodeji (August Sedláček: vdova prodala 1679 Ludmile Benigně Šternberkové, jejíž dědic Václav Vojtěch ze Šternberka měl Pátek prodat už 1676 Gundakarovi z Ditrichštejna - to je vnitřně rozporné a wiki článek to označuje za pravděpodobnou chybu; podle Rudolfa Anděla prodala vdova Pátek přímo Gundakarovi z Ditrichštejna už 1676, což považujeme za pravděpodobnější verzi"},
-  {"owner": "ditrichstejnove", "owner_wiki": "Ditrichštejnové", "person": "Gundakar z Ditrichštejna", "from": 1676, "to": 1693, "from_approx": true, "to_approx": false, "how": "koupe", "note": "nechal starou tvrz zbořit; stavba nového barokního zámku podle plánů Antonia della Porty začala až po jeho smrti roku 1693"},
-  {"owner": "cirkev", "owner_wiki": null, "person": null, "from": 1710, "to": 1945, "from_approx": false, "to_approx": true, "how": "koupe", "note": "strahovský klášter usiloval po celé 17. století o zpětné získání statku a dosáhl toho 5. září 1710, kdy Ditrichštejnům vyplatil 50000 zlatých; ve 2. polovině 40. let 20. století byl zámek s hospodářskými budovami a polnostmi zestátněn"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": 1990, "from_approx": true, "to_approx": true, "how": "konfiskace", "note": "na sklonku 40. let sloužil jako Okresní politická škola KSČ, od počátku 50. let byl v zámku umístěn Zemědělsko-lesnický archiv (včetně rodinného archivu Lobkoviců) přemístěný z Roudnice nad Labem, od 60. let zde měly kanceláře MNV a JZD, dále mateřská škola, loutkové divadlo, klubovna svazu mládeže a místní lidová knihovna; kaple byla oddělena závěsy a jednou měsíčně se v ní konala mše"},
-  {"owner": "cirkev", "owner_wiki": null, "person": null, "from": 1990, "to": null, "from_approx": true, "to_approx": false, "how": "restituce", "note": "po vypořádání restitucí strahovští premonstráti převzali jen část svého původního majetku a zámek přenechali obci"},
-  {"owner": "mesto", "owner_wiki": null, "person": "Městys Peruc", "from": null, "to": null, "from_approx": true, "to_approx": false, "how": "dar", "note": "zámek přenechán strahovskými premonstráty; městys ustanovil svého správce a investuje do oprav, v letech 2003-2019 provoz expozic zajišťovali dobrovolníci pod patronací Úřadu městyse Peruc"}
+  {
+   "owner": "cirkev",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1374,
+   "to": 1420,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "strahovský premonstrátský klášter; ves darovaná roku 1196 zakládanému klášteru v Mašťově připadla (neznámo jak) Strahovu, tvrz poprvé zmíněna 1374 v klášterním urbáři (rok 1374 je tedy první doklad, ne počátek držby); ke klášternímu panství patřily i Radonice nad Ohří, Stradonice, Volenice a Kystra; za husitských válek byla ves 1420 vypálena a klášter o ni přišel (zamekpatek.cz, peruc.cz)"
+  },
+  {
+   "owner": "z-trebivlic",
+   "owner_wiki": null,
+   "person": "Zikmund z Třebívlic, po něm syn Matúš ze Žichova",
+   "from": 1420,
+   "to": 1427,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "jine",
+   "note": "vsi se po vypálení 1420 zmocnil Zikmund z Třebívlic (oficiální web zámku); cs.wiki tohoto držitele neuvádí"
+  },
+  {
+   "owner": "pani-z-vresovic",
+   "owner_wiki": "Páni z Vřesovic",
+   "person": "Jakoubek z Vřesovic",
+   "from": 1427,
+   "to": 1454,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "husitský hejtman; oficiální web zámku uvádí získání 1427, cs.wiki 1421 nebo 1436 (peruc.cz: 1436 od císaře Zikmunda); král Zikmund Pátek krátce poté věnoval Janu z Vartenberka, ale Jakoubek mu ves odmítl vydat a držel ji; ústní příslib krále (1436) nemohl doložit, a proto musel při revizi majetkových poměrů 1454 Pátek předat Vilémovi z Konic. Jan z Vartenberka tak ves fakticky nezískal"
+  },
+  {
+   "owner": "z-konic",
+   "owner_wiki": null,
+   "person": "Vilém z Konic",
+   "from": 1454,
+   "to": 1474,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "1454 převzal Pátek od Jakoubka z Vřesovic; postoupil jej Jindřichovi staršímu z Klinštejna (cs.wiki 1478, jiný pramen cs.wiki a oficiální web zámku 1474)"
+  },
+  {
+   "owner": "pani-z-klinstejna",
+   "owner_wiki": "Páni z Klinštejna",
+   "person": "Jindřich starší z Klinštejna a na Toužetíně",
+   "from": 1474,
+   "to": 1480,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "od 1474 majitelem (oficiální web zámku a jeden z pramenů cs.wiki; cs.wiki v textu 1478)"
+  },
+  {
+   "owner": "pani-z-klinstejna",
+   "owner_wiki": "Páni z Klinštejna",
+   "person": "Jan, Jindřich a Čeněk z Klinštejna",
+   "from": 1480,
+   "to": 1504,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "nakonec jediným majitelem zůstal Jan, zemřel na přelomu 15. a 16. století; podle potvrzovací listiny krále Vladislava z 1504 měli podíly i strýcové"
+  },
+  {
+   "owner": "pani-z-klinstejna",
+   "owner_wiki": "Páni z Klinštejna",
+   "person": "Jindřich a Jan z Klinštejna",
+   "from": 1504,
+   "to": 1510,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "synové Jana z Klinštejna staršího"
+  },
+  {
+   "owner": "pani-z-klinstejna",
+   "owner_wiki": "Páni z Klinštejna",
+   "person": "Jan z Klinštejna",
+   "from": 1510,
+   "to": 1533,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "jine",
+   "note": "roku 1523 mu král Ludvík povolil tvrz se dvory a mlýny opravit; žil ještě 1533"
+  },
+  {
+   "owner": "pani-z-klinstejna",
+   "owner_wiki": "Páni z Klinštejna",
+   "person": "Magdaléna z Klinštejna",
+   "from": 1533,
+   "to": 1543,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "zdědila po otci Janovi, byla ale vyplacena a 12. prosince 1543 byl statek svěřen do správy Janu z Lobkovic"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Jan z Lobkovic",
+   "from": 1543,
+   "to": 1570,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "roku 1545 získal Pátek do dědičného vlastnictví pro sebe a děti; nechal v letech 1544-1557 tvrz přestavět a založil mlýn se sgrafity; z neznámých důvodů byl v letech 1557-1560 majitelem tvrze Bedřich Mičan z Klinštejna; peruc.cz uvádí koupi Lobkovici 1542"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Kryštof z Lobkovic",
+   "from": 1570,
+   "to": 1609,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "zvaný Tlustý, nejvyšší hofmistr Rudolfa II.; 1587 zvýšil Rudolf II. cenu zástavy o 13000 tolarů; 1594 byl Pátek zapsán do zemských desek jako dědičný majetek; zemřel 1609 (oficiální web zámku)"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Jan Kryštof z Lobkovic",
+   "from": 1609,
+   "to": 1614,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "zemřel bezdětný roku 1614"
+  },
+  {
+   "owner": "kolovratove",
+   "owner_wiki": "Kolovratové",
+   "person": "Jan Libštejnský z Kolovrat",
+   "from": 1614,
+   "to": 1614,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "spoludědic páteckého statku po bezdětném Janu Kryštofovi z Lobkovic, spolu s Alžbětou a Vilémem mladším z Lobkovic; vdova Benigna Kateřina z Kolovrat dostala Divice"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Alžběta z Lobkovic a Vilém mladší z Lobkovic",
+   "from": 1614,
+   "to": 1614,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "spoludědicové, statek téhož roku prodali"
+  },
+  {
+   "owner": "sternberkove",
+   "owner_wiki": "Šternberkové",
+   "person": "Štěpán Jiří ze Šternberka",
+   "from": 1614,
+   "to": 1625,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "patřily mu i Postoloprty"
+  },
+  {
+   "owner": "sternberkove",
+   "owner_wiki": "Šternberkové",
+   "person": "Adam ze Šternberka",
+   "from": 1625,
+   "to": 1633,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi"
+  },
+  {
+   "owner": "sternberkove",
+   "owner_wiki": "Šternberkové",
+   "person": "Jan Štěpán ze Šternberka",
+   "from": 1633,
+   "to": 1657,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "roku 1633 ještě nezletilý"
+  },
+  {
+   "owner": "nosticove",
+   "owner_wiki": "Nosticové",
+   "person": "Jan Hanuš Nostic z Nostic a na Kounově",
+   "from": 1658,
+   "to": 1658,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "jine",
+   "note": "po smrti Jana Štěpána ze Šternberka (1657) se vdova Anna Františka provdala za Jana Karla Hložka ze Žampachu, ale o rok později o zadlužený Pátek přišli, když byl přidělen Nosticovi; Hložek jej později vyplatil"
+  },
+  {
+   "owner": "z-zampachu",
+   "owner_wiki": null,
+   "person": "Jan Karel Hložek ze Žampachu a manželka Anna Františka",
+   "from": 1658,
+   "to": 1676,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "po smrti Jana Štěpána ze Šternberka (1657) se vdova Anna Františka provdala za Jana Karla Hložka ze Žampachu; o rok později byl zadlužený Pátek přidělen Nosticovi, Hložek jej vyplatil a odkázal manželce; vdova jej prodala: podle Rudolfa Anděla přímo Gundakarovi z Ditrichštejna 1676; podle Augusta Sedláčka (oficiální web zámku a hrady.cz s ním souhlasí) 1679 Ludmile Benigně Šternberkové, jejíž syn Václav Vojtěch ze Šternberka Pátek prodal Gundakarovi (cs.wiki to označuje za pravděpodobnou chybu)"
+  },
+  {
+   "owner": "ditrichstejnove",
+   "owner_wiki": "Ditrichštejnové",
+   "person": "Gundakar z Ditrichštejna, poté dědic Ferdinand z Ditrichštejna",
+   "from": 1676,
+   "to": 1710,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "rok koupě je nejistý: Rudolf Anděl a cs.wiki 1676, August Sedláček a oficiální web zámku (i hrady.cz) uvádějí koupi od Václava Vojtěcha ze Šternberka po 1679; Gundakar nechal starou tvrz zbořit; stavbu zámku podle Antonia della Porty zahájil 1690 (oficiální web: téhož roku zemřel) nebo až po jeho smrti 1693 (cs.wiki), dokončen 1697, hospodářské budovy do 1700; Ferdinand z Ditrichštejna ve stavbě pokračoval a 1710 statek prodal Strahovu"
+  },
+  {
+   "owner": "cirkev",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1710,
+   "to": 1948,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "strahovský klášter usiloval po celé 17. století o zpětné získání statku a dosáhl toho 5. září 1710, kdy Ditrichštejnům vyplatil 50000 zlatých; v zámku zřízena kaple Narození Panny Marie (1716), kolem 1750 sál přestavěn na veřejnou kapli; zestátněn po únoru 1948"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1948,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "znárodnění po únoru 1948 (oficiální web zámku); Okresní politická škola KSČ, od 50. let Zemědělsko-lesnický archiv (včetně rodinného archivu Lobkoviců), od 1961 kanceláře MNV, knihovna a vývařovna JZD, stanice SNB a mateřská školka"
+  },
+  {
+   "owner": "cirkev",
+   "owner_wiki": null,
+   "person": null,
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "restituce",
+   "note": "po vypořádání restitucí strahovští premonstráti převzali jen část svého původního majetku a zámek přenechali obci; rok restituce zdroje neuvádějí"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "Městys Peruc",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dar",
+   "note": "zámek přenechán strahovskými premonstráty; městys ustanovil správce a investuje do oprav, v letech 2003-2019 provoz expozic zajišťovali dobrovolníci pod patronací Úřadu městyse Peruc; rok převodu zdroje neuvádějí"
+  }
  ],
  "events": [
-  {"year": 1374, "text": "první písemná zmínka o tvrzi v klášterním urbáři"},
-  {"year": 1454, "text": "při revizi šlechtického majetku musel Jakoubek z Vřesovic přenechat Pátek Vilémovi z Konic pro chybějící doklad o vlastnictví"},
-  {"year": 1594, "text": "Kryštofovi z Lobkovic zapsán Pátek do zemských desek jako dědičný majetek"},
-  {"year": 1676, "text": "Gundakar z Ditrichštejna koupil pátecký statek"},
-  {"year": 1693, "text": "po smrti Gundakara z Ditrichštejna začala stavba barokního zámku podle plánů Antonia della Porty"},
-  {"year": 1710, "text": "strahovský klášter vyplatil Ditrichštejnům 50000 zlatých a získal zámek zpět"},
-  {"year": 1945, "text": "zámek strahovskému klášteru zestátněn"},
-  {"year": 1996, "text": "zámecké interiéry poprvé otevřeny veřejnosti při oslavách 800 let obce"}
+  {
+   "year": 1374,
+   "text": "první písemná zmínka o tvrzi v klášterním urbáři"
+  },
+  {
+   "year": 1454,
+   "text": "při revizi šlechtického majetku musel Jakoubek z Vřesovic přenechat Pátek Vilémovi z Konic pro chybějící doklad o vlastnictví"
+  },
+  {
+   "year": 1594,
+   "text": "Kryštofovi z Lobkovic zapsán Pátek do zemských desek jako dědičný majetek"
+  },
+  {
+   "year": 1676,
+   "text": "Gundakar z Ditrichštejna koupil pátecký statek"
+  },
+  {
+   "year": 1693,
+   "text": "po smrti Gundakara z Ditrichštejna začala stavba barokního zámku podle plánů Antonia della Porty"
+  },
+  {
+   "year": 1710,
+   "text": "strahovský klášter vyplatil Ditrichštejnům 50000 zlatých a získal zámek zpět"
+  },
+  {
+   "year": 1948,
+   "text": "po únoru 1948 zámek znárodněn"
+  },
+  {
+   "year": 1996,
+   "text": "zámecké interiéry poprvé otevřeny veřejnosti při oslavách 800 let obce"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Pátek_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Pátek_(zámek)",
+  "https://www.zamekpatek.cz/historie.html",
+  "https://www.peruc.cz/historie-obce-patek/d-10526",
+  "https://www.hrady.cz/zamek-patek-louny"
+ ]
 }

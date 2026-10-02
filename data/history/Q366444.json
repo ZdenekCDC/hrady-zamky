@@ -2,33 +2,44 @@
  "id": "Q366444",
  "name": "Landštejn",
  "founded": {
-  "year": 1220,
-  "approx": true,
-  "text": "Hrad byl pravděpodobně založen králem Přemyslem Otakarem I. jako protiváha staršího hradu Rakous (Raabs) na hranici; první doložený příslušník rodu s predikátem z Landštejna, Hartleb, je zmiňován k roku 1222/1231."
+  "year": null,
+  "approx": false,
+  "text": "Hrad byl pravděpodobně založen králem Přemyslem Otakarem I. jako protiváha staršího hradu v Pomezí (Raabs/Zöbingové) na hranici; podle de.wiki vznikl nejpozději po roce 1222, nejstarší část je doložena k roku 1231 (Hartleb z Landštejna)."
  },
- "summary": "Hrad Landštejn založil pravděpodobně Přemysl Otakar I. na hranici s Rakousy; brzy jej získali Vítkovci, kteří se psali jako páni z Landštejna (doloženi Sezema 1261-1282, Vítek 1302-1311, Vilém do 1356, Litold do 1369), poté krátce král Václav IV. Od roku 1381 patřil Krajířům z Krajku, za husitských válek jej neúspěšně obléhal Jan Žižka. Po roce 1579 se majitelé rychle střídali (Eicinkové, Neumaierové, Mohrové z Lichtenegga, Khuen z Belasy, Černínové z Chudenic, Herbersteinové), od roku 1846 patřil Sternbachům. Po požáru roku 1771 zůstal opuštěný, roku 1945 byl konfiskován a od roku 1990 je zpřístupněn jako zřícenina ve správě Národního památkového ústavu.",
+ "summary": "Hrad Landštejn založil pravděpodobně Přemysl Otakar I. na hranici s Rakousy; brzy jej získali Vítkovci, kteří se psali jako páni z Landštejna (doloženi Sezema v letech 1261-1282, Vítek 1302-1311, Vilém do 1356, Litold do 1369), poté krátce král Václav IV. Od roku 1381 patřil Krajířům z Krajku, za husitských válek jej neúspěšně obléhal Jan Žižka. Po prodeji roku 1579 se majitelé rychle střídali (Eicinkové, Neumaierové, Mohrové z Lichtenegga, Khuen z Belasy, Černínové z Chudenic); od roku 1685 jej drželi Herbersteinové a po dědických sporech od roku 1846 Sternbachové. Po požáru roku 1771 zůstal opuštěný, roku 1945 byl konfiskován a od roku 1990 je zpřístupněn jako zřícenina ve správě Národního památkového ústavu.",
  "owners": [
   {
    "owner": "koruna",
    "owner_wiki": null,
    "person": "Přemysl Otakar I.",
-   "from": 1220,
+   "from": null,
    "to": null,
-   "from_approx": true,
-   "to_approx": true,
+   "from_approx": false,
+   "to_approx": false,
    "how": "zalozeni",
-   "note": "hrad pravděpodobně založen jako protiváha hradu Rakous (Raabs); Vítkovci nejprve zastávali funkci kastelánů"
+   "note": "hrad pravděpodobně založen jako protiváha hradu v Pomezí (Raabs/Zöbingové); de.wiki: vznikl nejpozději po roce 1222, nejstarší část doložena 1231; Vítkovci nejprve zastávali funkci kastelánů"
+  },
+  {
+   "owner": "z-landstejna",
+   "owner_wiki": null,
+   "person": "Hartleb z Landštejna",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "první doložený správce hradu (kastelán), moravský šlechtic, 1222 znojemský purkrabí, 1231 svědek donace johanitům; de.wiki ho označuje jako prvního správce hradu; vztah k Vítkovcům zdroje neuvádějí, proto veden jako samostatný rod bez článku (kastelán, ne majitel)"
   },
   {
    "owner": "landstejnove",
    "owner_wiki": "Landštejnové",
-   "person": "Hartleb z Landštejna",
+   "person": "Oldřich z Landštejna (třeboňská větev Vítkovců)",
    "from": null,
    "to": null,
-   "from_approx": true,
-   "to_approx": true,
-   "how": "jine",
-   "note": "první doložený nositel predikátu z Landštejna, doložen 1222-1231 jako znojemský purkrabí; hrad později přešel z kastelánství do soukromého držení Vítkovců"
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "první doložený zástupce rodu s predikátem z Landštejna; hrad později přešel z kastelánství do soukromého držení Vítkovců; rok nabytí zdroje neuvádějí (de/en wiki: není známo, kdy a jak Vítkovci hrad získali)"
   },
   {
    "owner": "landstejnove",
@@ -36,9 +47,10 @@
    "person": "Sezema z Landštejna",
    "from": 1261,
    "to": 1282,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "dedictvi"
+   "from_approx": true,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "roky 1261-1282 jsou období, kdy je doložen v pramenech (cs.wiki), ne přesná doba držby; de.wiki uvádí Sezimu z Třeboně jako doloženého majitele k roku 1282"
   },
   {
    "owner": "landstejnove",
@@ -46,21 +58,21 @@
    "person": "Vítek z Landštejna",
    "from": 1302,
    "to": 1311,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "dedictvi",
-   "note": "syn Ojíře z Lomnice; stál na straně Elišky Přemyslovny, podílel se na obraně Znojma 1307"
+   "from_approx": true,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "roky 1302-1311 jsou období, kdy je doložen v pramenech (cs.wiki); syn Ojíře z Lomnice, stál na straně Elišky Přemyslovny, 1307 se podílel na obraně Znojma"
   },
   {
    "owner": "landstejnove",
    "owner_wiki": "Landštejnové",
    "person": "Vilém z Landštejna",
-   "from": null,
+   "from": 1315,
    "to": 1356,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "purkrabí na Hluboké, patřily mu i Třeboň, Lomnice a Nové Hrady; roku 1317 odolal královskému vojsku Jana Lucemburského, zemřel na zranění ze souboje s Jindřichem z Hradce"
+   "note": "rok 1315 (přechod majetku na Viléma) uvádí jen de.wiki; purkrabí na Hluboké, patřily mu i Třeboň, Lomnice a Nové Hrady; 1317 odolal vojsku Jana Lucemburského, zemřel 1356 na zranění ze souboje s Jindřichem z Hradce (cs.wiki)"
   },
   {
    "owner": "landstejnove",
@@ -71,7 +83,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "zdědil landštejnskou část otcova panství"
+   "note": "zdědil landštejnskou část otcova panství; cs.wiki: držel do 1369, de.wiki uvádí jeho smrt kolem 1381, hrad pak připadl králi jako odumřelé léno"
   },
   {
    "owner": "koruna",
@@ -82,7 +94,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "získal hrad po Litoldovi neznámým způsobem"
+   "note": "cs.wiki: hrad získal po Litoldovi neznámým způsobem; de.wiki: odumřelé léno"
   },
   {
    "owner": "krajirove-z-krajku",
@@ -91,9 +103,9 @@
    "from": 1381,
    "to": null,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "dar",
-   "note": "dostal Landštejn s panstvím od krále"
+   "note": "od krále Václava IV. dostal Landštejn s panstvím (de.wiki: nejvyšší hofmistr; zavázal se hrad otevírat králi a přiznal mu předkupní právo)"
   },
   {
    "owner": "krajirove-z-krajku",
@@ -101,10 +113,10 @@
    "person": "Lipold z Krajku",
    "from": null,
    "to": null,
-   "from_approx": true,
-   "to_approx": true,
+   "from_approx": false,
+   "to_approx": false,
    "how": "dedictvi",
-   "note": "za husitských válek na katolické straně, ovládal České Budějovice; 1420 hrad obléhal Jan Žižka, není jisté, zda jej dobyl, část hradu při bojích vyhořela"
+   "note": "syn Konráda; za husitských válek na katolické straně, hejtman Budějovic; 1420 hrad obléhal Jan Žižka, není jisté, zda jej dobyl, část hradu při bojích vyhořela"
   },
   {
    "owner": "krajirove-z-krajku",
@@ -112,10 +124,10 @@
    "person": "Volfgang z Krajku",
    "from": null,
    "to": null,
-   "from_approx": true,
-   "to_approx": true,
+   "from_approx": false,
+   "to_approx": false,
    "how": "dedictvi",
-   "note": "stoupenec podobojí, nechal hrad přestavět v pozdněgotickém slohu"
+   "note": "syn Lipolda, stoupenec podobojí, nechal hrad přestavět v pozdněgotickém slohu; de.wiki: renesanční přestavba v 1. polovině 16. stol. za Krajířů"
   },
   {
    "owner": "krajirove-z-krajku",
@@ -123,7 +135,7 @@
    "person": "Zdeněk II. z Krajku",
    "from": null,
    "to": 1577,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
    "note": "poslední zástupce rodu na Landštejně, zemřel 1577 se zadluženým panstvím"
@@ -131,56 +143,57 @@
   {
    "owner": "krajirove-z-krajku",
    "owner_wiki": "Krajířové z Krajku",
-   "person": "Anna Krajířová, rozená z Biberštejna",
+   "person": "Anna Krajířová (cs.wiki: rozená z Biberštejna; de/en wiki: Anna z Roupova, rozená Krajířová)",
    "from": 1577,
    "to": 1579,
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "vdova po Zdeňkovi II., vedla spor o dluhy s nevlastní dcerou, proto roku 1579 panství prodaly"
+   "note": "vdova po Zdeňkovi II.; spor o dluhy s nevlastní dcerou, proto roku 1579 panství prodaly; zdroje se rozcházejí v jejím původu"
   },
   {
    "owner": "z-eicinku",
    "owner_wiki": null,
    "person": "Štěpán z Eicinku",
    "from": 1579,
-   "to": null,
+   "to": 1599,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "koupe",
-   "note": "Rakušan, koupil hrad od Krajířů a dále jej prodal"
+   "note": "Rakušan (dědičný komorník), koupil hrad od Krajířů, rozšířil panství o další vsi a 1599 jej prodal Davidu Neumaierovi (rok 1599 podle de.wiki)"
   },
   {
    "owner": "soukromnik",
    "owner_wiki": null,
    "person": "David Neumaier a syn",
-   "from": null,
+   "from": 1599,
    "to": 1619,
-   "from_approx": true,
-   "to_approx": false,
+   "from_approx": false,
+   "to_approx": true,
    "how": "koupe",
-   "note": "jihlavský měšťan; jeho syn se během stavovského povstání postavil na stranu stavů a umístil na hrad jejich posádku, hrad roku 1619 dobyl generál Boquoy, panství bylo zkonfiskováno"
+   "note": "jihlavský měšťan; syn se za stavovského povstání postavil na stranu stavů a dosadil na hrad jejich posádku, 1619 hrad dobyl Boquoy, panství bylo zkonfiskováno (de.wiki: po Bílé hoře ztratil majetek); konec držby rok 1619 odvozen od dobytí hradu"
   },
   {
    "owner": "z-lichtenegga",
    "owner_wiki": null,
    "person": "Maxmilián a Ferdinand Mohrové z Lichtenegga",
-   "from": null,
+   "from": 1623,
    "to": 1639,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": true,
    "how": "koupe",
-   "note": "novými majiteli po zkonfiskování panství (dřívější prodej hejtmanu Jakubu Keclovi z Rotendorfu byl zrušen králem Ferdinandem II.)"
+   "note": "po konfiskaci panství (dřívější prodej hejtmanu Jakubu Keclovi z Rotendorfu zrušil král Ferdinand II.); rok 1623 podle de.wiki (Maxmilián Mohr), konec držby odvozen od nástupu Khuena 1639"
   },
   {
    "owner": "z-belasy",
    "owner_wiki": null,
    "person": "Jakub Khuen z Belasy",
    "from": 1639,
-   "to": null,
+   "to": 1668,
    "from_approx": false,
    "to_approx": true,
-   "how": "koupe"
+   "how": "neznamo",
+   "note": "cs.wiki: rok 1639; způsob nabytí nezmíněn; konec držby odvozen od nástupu Černína 1668"
   },
   {
    "owner": "cerninove-z-chudenic",
@@ -197,22 +210,33 @@
    "owner_wiki": "Černínové z Chudenic",
    "person": "Tomáš Zachariáš Černín",
    "from": 1683,
-   "to": null,
+   "to": 1685,
    "from_approx": false,
    "to_approx": true,
    "how": "dedictvi",
-   "note": "syn Humprechta Jana; od něj panství koupil generál Ferdinand Arnošt z Herbersteina"
+   "note": "syn Humprechta Jana; roku 1685 (de.wiki) prodal panství generálu Ferdinandu Arnoštovi z Herbersteina"
   },
   {
    "owner": "herbersteinove",
    "owner_wiki": "Herbersteinové",
-   "person": "Ferdinand Arnošt z Herbersteina",
-   "from": null,
+   "person": "Ferdinand Arnošt z Herbersteina a potomci",
+   "from": 1685,
    "to": 1816,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "potomkům patřilo panství až do smrti posledního příslušníka rodu, hraběte Josefa Herbersteina, roku 1816; poté dlouhé spory o dědictví"
+   "note": "rok koupě 1685 podle de/en wiki (cs.wiki jen 'koupil'); potomkům patřilo panství až do smrti posledního příslušníka rodu, hraběte Josefa Herbersteina, 1816 (de.wiki jen zmiňuje, že rod musel pro předlužení část panství prodat věřitelům)"
+  },
+  {
+   "owner": "neznamo",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1816,
+   "to": 1846,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "po smrti Josefa Herbersteina dlouhé spory o dědictví (cs.wiki), hrad mezitím opuštěný od požáru 1771"
   },
   {
    "owner": "sternbachove",
@@ -223,7 +247,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "baron, majitelem se stal až roku 1846 po dlouhých dědických sporech po Herbersteinech; poslední majitel z rodu Sternbachů"
+   "note": "baron, majitelem se stal 1846 po dlouhých dědických sporech po Herbersteinech; poslední majitel z rodu Sternbachů"
   },
   {
    "owner": "stat",
@@ -259,12 +283,24 @@
    "text": "ve východním křídle postavena nová hradní kaple sv. Jiří"
   },
   {
+   "year": 1599,
+   "text": "Štěpán z Eicinku prodává panství Davidu Neumaierovi z Jihlavy"
+  },
+  {
    "year": 1619,
    "text": "generál Boquoy dobyl hrad obsazený stavovskou posádkou"
   },
   {
+   "year": 1685,
+   "text": "Tomáš Zachariáš Černín prodává panství Ferdinandu Arnoštovi z Herbersteina (rok podle de/en wiki)"
+  },
+  {
    "year": 1771,
    "text": "hrad zničen požárem a opuštěn"
+  },
+  {
+   "year": 1846,
+   "text": "po dlouhých dědických sporech po Herbersteinech získává panství baron Ferdinand Sternbach"
   },
   {
    "year": 1990,
@@ -272,6 +308,8 @@
   }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Landštejn"
+  "https://cs.wikipedia.org/wiki/Landštejn",
+  "https://de.wikipedia.org/wiki/Burg_Landštejn",
+  "https://en.wikipedia.org/wiki/Landštejn_Castle"
  ]
 }

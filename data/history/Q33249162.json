@@ -8,27 +8,165 @@
  },
  "summary": "Gotickou tvrz v Janovicích nechal v letech 1520-1530 vystavět zástavní pán Petr ze Žerotína, po Ederech ze Šťavnice ji roku 1583 do dědičné držby získal Ferdinand Hofmann z Grünbüchlu, jehož rod ji od roku 1586 přestavěl na renesanční a později barokní zámek. Po vymření Hofmannů roku 1664 přešly Janovice sňatky dědiček přes Dietrichštejny (1664) k Harrachům (1721), kteří zámku dali jeho pozdně barokní a klasicistní podobu a drželi jej až do roku 1945. Po válce byl majetek rodině zabaven, sloužil mj. jako státní archiv a od roku 2019, po zamítnutí restitučního nároku potomků posledních majitelů, je ve správě Národního památkového ústavu.",
  "owners": [
-  {"owner": "zerotinove", "owner_wiki": "Žerotínové", "person": "Petr ze Žerotína (zástavní pán)", "from": 1520, "to": 1552, "from_approx": true, "to_approx": false, "how": "lenni", "note": "v letech 1520-1530 nechal vystavět gotickou tvrz"},
-  {"owner": "ederove-ze-stiavnice", "owner_wiki": "Ederové ze Štiavnice", "person": null, "from": 1552, "to": 1583, "from_approx": false, "to_approx": false, "how": "lenni", "note": "získali zástavní právo na Janovice"},
-  {"owner": "hofmannove", "owner_wiki": "Hofmannové", "person": "Ferdinand Hofmann z Grünbüchlu (1540-1607)", "from": 1583, "to": 1607, "from_approx": false, "to_approx": false, "how": "koupe", "note": "získal janovické panství spolu s rabštejnským panstvím, Rýmařovem, Hanknštejnem a pustými hrady Rabštejn a Štrálek do dědičné držby; od 1586 přestavba tvrze na renesanční zámek; existující id rodu v data/families je 'z-grunbuchlu' (podle predikátu, bez owner_wiki), ale cs.wiki má samostatný článek 'Hofmannové' - stálo by za sjednocení"},
-  {"owner": "hofmannove", "owner_wiki": "Hofmannové", "person": "Ondřej Hofmann (cca 1570-1617)", "from": 1607, "to": 1617, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "pokračoval v hospodářské reorganizaci panství, kolonizace vedla ke vzniku vsí Žďárský Potok a Nová Ves"},
-  {"owner": "hofmannove", "owner_wiki": "Hofmannové", "person": "Wolfgang Ferdinand Hofmann (1607-1641)", "from": 1617, "to": 1638, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "1628 přikoupil statek Dolní Dlouhá Loučka; 1638 jako luterán musel opustit zemi a zanedlouho zemřel"},
-  {"owner": "hofmannove", "owner_wiki": "Hofmannové", "person": "Wolfgang Friedrich Hofmann", "from": 1638, "to": 1664, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "1655 přijal v Římě křest a mohl se vrátit z exilu; nechal zámek přestavět barokně podle návrhu Alessandra Cannevala; roku 1664 zemřel se ženou Marií Magdalenou na neštovice v Landeku, rod Hofmannů vymřel po meči"},
-  {"owner": "ditrichstejnove", "owner_wiki": "Ditrichštejnové", "person": "Juana Xaverie a Marie Alžběta Hofmannovy (dědičky)", "from": 1664, "to": 1721, "from_approx": false, "to_approx": false, "how": "snatek", "note": "poručník Ferdinand kníže z Dietrichštejna (1636-1698) obě dívky provdal za členy rodu Dietrichštejnů, čímž Janovice dědičně přešly do tohoto rodu"},
-  {"owner": "harrachove", "owner_wiki": "Harrachové", "person": "Marie Arnoštka z Gallasu, ovdovělá", "from": 1721, "to": 1763, "from_approx": false, "to_approx": false, "how": "snatek", "note": "sňatkem přešlo panství do vlastnictví jilemnických hrabat Harrachů, zámek se stal vedlejším sídlem rodu"},
-  {"owner": "harrachove", "owner_wiki": "Harrachové", "person": "Ferdinand Bonaventura Harrach a jeho potomci, poslední Karel Alfréd a František Maria Harrach", "from": 1763, "to": 1937, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "1763-1765 pozdně barokní přestavba (stavitel Gottfried Weisser), v 60. letech 18. stol. klasicistní úpravy (Isidor Ganneval), současnou podobu zámek získal 1827-1850; za Karla Alfréda ve 2. pol. 19. stol. se stal trvalým sídlem janovické linie Harrachů, jež vymřela 1937 s Františkem Mariou Harrachem"},
-  {"owner": "harrachove", "owner_wiki": "Harrachové", "person": "Anna Marie Harrachová, provdaná Rosty-Forgáchová (manžel František Zikmund Rosty-Forgách z Barkocz)", "from": 1937, "to": 1945, "from_approx": false, "to_approx": false, "how": "dedictvi"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "1945 majetek zabaven, v červenci 1945 zřízen internační tábor pro Němce; 1954 vznikl Státní archiv Janovice pod Ministerstvem vnitra; restituční nárok Rosty-Forgáchů byl 2019 soudem definitivně zamítnut, od té doby spravuje zámek Národní památkový ústav"}
+  {
+   "owner": "zerotinove",
+   "owner_wiki": "Žerotínové",
+   "person": "Petr ze Žerotína (zástavní pán)",
+   "from": 1520,
+   "to": 1552,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "v letech 1520-1530 nechal vystavět gotickou tvrz (web zámku: kolem roku 1520); rok konce 1552 odvozen od nabytí zástavy Edery, zdroje konec Žerotínovy zástavy výslovně neuvádějí"
+  },
+  {
+   "owner": "ederove-ze-stiavnice",
+   "owner_wiki": "Ederové ze Štiavnice",
+   "person": null,
+   "from": 1552,
+   "to": 1583,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "roku 1552 získali zástavní právo na janovické panství (zdroj zamek-janovice.cz)"
+  },
+  {
+   "owner": "hofmannove",
+   "owner_wiki": "Hofmannové",
+   "person": "Ferdinand Hofmann z Grünbüchlu (1540-1607)",
+   "from": 1583,
+   "to": 1607,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "roku 1583 koupil janovické panství (spolu s rabštejnským panstvím, Rýmařovem, Hanknštejnem a pustými hrady Rabštejn a Štrálek) za 31 858 zlatých do dědičné držby; od 1586 přestavba tvrze na renesanční zámek"
+  },
+  {
+   "owner": "hofmannove",
+   "owner_wiki": "Hofmannové",
+   "person": "Ondřej Hofmann (cca 1570-1617)",
+   "from": 1607,
+   "to": 1617,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "pokračoval v hospodářské reorganizaci panství, kolonizace vedla ke vzniku vsí Žďárský Potok a Nová Ves"
+  },
+  {
+   "owner": "hofmannove",
+   "owner_wiki": "Hofmannové",
+   "person": "Wolfgang Ferdinand Hofmann (1607-1641)",
+   "from": 1617,
+   "to": 1638,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "1628 přikoupil statek Dolní Dlouhá Loučka; 1638 jako luterán musel opustit zemi a zanedlouho zemřel"
+  },
+  {
+   "owner": "hofmannove",
+   "owner_wiki": "Hofmannové",
+   "person": "Juana Xaverie a Marie Alžběta Hofmannovy (dědičky); Marie Alžběta provdaná za Filipa Zikmunda z Dietrichštejna",
+   "from": 1638,
+   "to": 1664,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "po smrti Wolfganga Friedricha poručník Ferdinand kníže z Dietrichštejna (1636-1698) obě dívky provdal za členy rodu Dietrichštejnů, čímž Janovice dědičně přešly do tohoto rodu; zámek byl jen občasným sídlem; dcera Marie Arnoštka se provdala za Jana Václava Gallase a po jeho smrti za Aloise Harracha"
+  },
+  {
+   "owner": "ditrichstejnove",
+   "owner_wiki": "Ditrichštejnové",
+   "person": "Juana Xaverie a Marie Alžběta Hofmannovy (dědičky)",
+   "from": 1664,
+   "to": 1721,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "snatek",
+   "note": "poručník Ferdinand kníže z Dietrichštejna (1636-1698) obě dívky provdal za členy rodu Dietrichštejnů, čímž Janovice dědičně přešly do tohoto rodu"
+  },
+  {
+   "owner": "harrachove",
+   "owner_wiki": "Harrachové",
+   "person": "Marie Arnoštka z Gallasu, ovdovělá",
+   "from": 1721,
+   "to": 1763,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "snatek",
+   "note": "sňatkem přešlo panství do vlastnictví jilemnických hrabat Harrachů, zámek se stal vedlejším sídlem rodu"
+  },
+  {
+   "owner": "harrachove",
+   "owner_wiki": "Harrachové",
+   "person": "Ferdinand Bonaventura Harrach a jeho potomci, poslední Karel Alfréd a František Maria Harrach",
+   "from": 1763,
+   "to": 1937,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "1763-1765 pozdně barokní přestavba (stavitel Gottfried Weisser), v 60. letech 18. stol. klasicistní úpravy (Isidor Ganneval), současnou podobu zámek získal 1827-1850; za Karla Alfréda ve 2. pol. 19. stol. se stal trvalým sídlem janovické linie Harrachů, jež vymřela 1937 s Františkem Mariou Harrachem"
+  },
+  {
+   "owner": "harrachove",
+   "owner_wiki": "Harrachové",
+   "person": "Anna Marie Harrachová, provdaná Rosty-Forgáchová (manžel František Zikmund Rosty-Forgách z Barkocz)",
+   "from": 1937,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "1945 majetek zabaven (web zámku uvádí zabavení velkostatku již 1943, kdy byl František Rosty-Forgách zadržen nacisty, a konfiskaci dekretem 12/1945 v červenci 1945), v červenci 1945 zřízen internační tábor pro Němce; 1954 vznikl Státní archiv Janovice pod Ministerstvem vnitra; restituční nárok Rosty-Forgáchů byl definitivně zamítnut (web zámku: 2017, cs.wiki: 2019), od 8. 6. 2019 spravuje zámek Národní památkový ústav (vlastníkem je stát)"
+  }
  ],
  "events": [
-  {"year": 1520, "text": "Petr ze Žerotína staví gotickou tvrz (1520-1530)"},
-  {"year": 1583, "text": "Ferdinand Hofmann z Grünbüchlu získává janovické panství do dědičné držby, od 1586 přestavba na renesanční zámek"},
-  {"year": 1655, "text": "Wolfgang Friedrich Hofmann nechává zámek přestavět barokně podle návrhu Alessandra Cannevala"},
-  {"year": 1664, "text": "rod Hofmannů vymírá po meči, dědičky provdány do rodu Dietrichštejnů"},
-  {"year": 1721, "text": "sňatkem Marie Arnoštky z Gallasu přechází panství na Harrachy"},
-  {"year": 1763, "text": "zásadní pozdně barokní přestavba zámku podle Gottfrieda Weissera (1763-1765)"},
-  {"year": 1945, "text": "majetek rodiny Harrachů/Rosty-Forgáchů zabaven, zřízen internační tábor pro Němce"},
-  {"year": 2019, "text": "soud definitivně zamítá restituční nárok Rosty-Forgáchů, zámek přechází pod správu Národního památkového ústavu"}
+  {
+   "year": 1520,
+   "text": "Petr ze Žerotína staví gotickou tvrz (1520-1530)"
+  },
+  {
+   "year": 1583,
+   "text": "Ferdinand Hofmann z Grünbüchlu získává janovické panství do dědičné držby, od 1586 přestavba na renesanční zámek"
+  },
+  {
+   "year": 1655,
+   "text": "Wolfgang Friedrich Hofmann nechává zámek přestavět barokně podle návrhu Alessandra Cannevala"
+  },
+  {
+   "year": 1664,
+   "text": "rod Hofmannů vymírá po meči, dědičky provdány do rodu Dietrichštejnů"
+  },
+  {
+   "year": 1721,
+   "text": "sňatkem Marie Arnoštky z Gallasu přechází panství na Harrachy"
+  },
+  {
+   "year": 1763,
+   "text": "zásadní pozdně barokní přestavba zámku podle Gottfrieda Weissera (1763-1765)"
+  },
+  {
+   "year": 1945,
+   "text": "majetek rodiny Harrachů/Rosty-Forgáchů zabaven, zřízen internační tábor pro Němce"
+  },
+  {
+   "year": 2019,
+   "text": "soud definitivně zamítá restituční nárok Rosty-Forgáchů, zámek přechází pod správu Národního památkového ústavu"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Janovice_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Janovice_(zámek)",
+  "https://zamek-janoviceurymarova.cz/cs/o-zamku/historie",
+  "https://zamek-janovice.cz/osobnosti-zamku-janovice/",
+  "https://www.muzeumrymarov.cz/en/janovice-castle"
+ ]
 }

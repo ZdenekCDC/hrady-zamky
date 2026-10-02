@@ -1,27 +1,262 @@
 {
  "id": "Q916931",
  "name": "Cimburk (hrad, okres Kroměříž)",
- "founded": {"year": 1330, "approx": true, "text": "Hrad dal v letech 1327-1333 postavit Bernard z Cimburka, který na něj roku 1348 přesídlil z původního hradu Cimburk v okrese Svitavy."},
- "summary": "Hrad Cimburk u Koryčan postavil ve 20.-30. letech 14. století Bernard z Cimburka. Roku 1358 jej koupil moravský markrabě Jan Jindřich, poté byl několikrát zastavován (Zikmund z Letovic, Čeněk z Drahotuš, Vokové z Holštejna, Štěpán ze Zdounek a Vartnova) a za česko-uherských válek jej dobyl uherský král Matyáš Korvín. Po dalších neurčených vlastnických přesunech jej roku 1523 koupil Vilém z Víckova, později patřil Horeckým, a od počátku 18. století, kdy pominulo nebezpečí tureckého vpádu, byl opuštěn a chátral. Od roku 1994 o záchranu zříceniny pečuje občanské sdružení Polypeje.",
+ "founded": {
+  "year": 1330,
+  "approx": true,
+  "text": "Hrad dal v letech 1327-1333 postavit Bernard z Cimburka, který na něj roku 1348 přesídlil z původního hradu Cimburk v okrese Svitavy."
+ },
+ "summary": "Hrad Cimburk u Koryčan postavil ve 20.-30. letech 14. století Bernard z Cimburka. Roku 1358 jej koupil moravský markrabě Jan Jindřich, poté byl několikrát zastavován (Zikmund z Letovic, Čeněk z Drahotuš, Vokové z Holštejna, Štěpán ze Zdounek a Vartnova) a za česko-uherských válek jej dobyl uherský král Matyáš Korvín. Po dalších vlastnických přesunech jej roku 1523 koupil Vilém z Víckova, po Víckovských a krátké držbě Majláthů a Banffyů jej od roku 1610 držel Gabriel Horecký z Horky a jeho potomci do roku 1742. Od počátku 18. století byl hrad opuštěn a chátral; od roku 1994 o záchranu zříceniny pečuje občanské sdružení Polypeje.",
  "owners": [
-  {"owner": "pani-z-cimburka", "owner_wiki": "Páni z Cimburka", "person": "Bernard z Cimburka", "from": 1327, "to": 1358, "from_approx": false, "to_approx": false, "how": "zalozeni", "note": "postavil hrad 1327-1333 a roku 1348 na něj přesídlil z původního Cimburku (okres Svitavy)"},
-  {"owner": "koruna", "owner_wiki": null, "person": "Jan Jindřich, markrabě moravský", "from": 1358, "to": 1375, "from_approx": false, "to_approx": false, "how": "koupe"},
-  {"owner": "z-letovic", "owner_wiki": null, "person": "Zikmund z Letovic", "from": 1375, "to": 1398, "from_approx": false, "to_approx": false, "how": "lenni", "note": "hrad mu byl zastaven markrabětem"},
-  {"owner": "z-drahotus", "owner_wiki": null, "person": "Čeněk z Drahotuš, poté jeho dcery zvané \"panny cimburské\"", "from": 1398, "to": 1407, "from_approx": false, "to_approx": false, "how": "lenni", "note": "investoval do obrany hradu; dcery po něm zvýšily severní zeď paláce a vybudovaly nový parkán"},
-  {"owner": "pani-z-holstejna", "owner_wiki": "Páni z Holštejna", "person": "Vok IV. a Vok V. z Holštejna", "from": 1407, "to": 1429, "from_approx": false, "to_approx": false, "how": "jine", "note": "Vok IV. jako další zástavní držitel hrad roku 1407 přepadl a násilím obsadil; Vok V. jej 1429 přenechal příbuznému"},
-  {"owner": "z-zdounek", "owner_wiki": null, "person": "Štěpán ze Zdounek a Vartnova", "from": 1429, "to": 1470, "from_approx": false, "to_approx": true, "how": "dar", "note": "za česko-uherských válek hrad dobyl uherský král Matyáš Korvín; přesný rok cs.wiki neuvádí"},
-  {"owner": "koruna", "owner_wiki": null, "person": "Matyáš Korvín, uherský král", "from": 1470, "to": 1523, "from_approx": true, "to_approx": false, "how": "konfiskace", "note": "po dobytí následovalo několik blíže neurčených vlastnických přesunů až do prodeje roku 1523"},
-  {"owner": "prusinovsti-z-vickova", "owner_wiki": "Prusinovští z Víckova", "person": "Vilém z Víckova", "from": 1523, "to": null, "from_approx": false, "to_approx": true, "how": "koupe", "note": "po česko-uherských válkách doplnil předhradí o bašty a přesunul vstup na severní stranu"},
-  {"owner": "horecti", "owner_wiki": null, "person": "František Horecký", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "kolem roku 1661 nechal snížit hlavní věž a upravit okna; cs.wiki neuvádí přesná léta jeho držby ani jak k hradu přišel"},
-  {"owner": "neznamo", "owner_wiki": null, "person": null, "from": 1700, "to": null, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "od počátku 18. století, kdy pominulo nebezpečí tureckého vpádu, byl hrad opuštěn a chátral; další majitelé nejsou v cs.wiki uvedeni; od 1994 o obnovu pečuje občanské sdružení Polypeje"}
+  {
+   "owner": "pani-z-cimburka",
+   "owner_wiki": "Páni z Cimburka",
+   "person": "Bernard z Cimburka, poté jeho vnuk Ctibor",
+   "from": 1327,
+   "to": 1358,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "postavil hrad 1327-1333 a roku 1348 na něj přesídlil z původního Cimburku (okres Svitavy); cimburk.cz klade vznik kolem 1330 (výměna panství s pány z Lipé, hrad zprvu Nový Cimburk); první písemná zmínka 1358, kdy Bernardův vnuk Ctibor hrad se Střílkami prodal markraběti Janu Jindřichovi"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Jan Jindřich, markrabě moravský",
+   "from": 1358,
+   "to": 1375,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe"
+  },
+  {
+   "owner": "z-letovic",
+   "owner_wiki": null,
+   "person": "Zikmund z Letovic",
+   "from": 1375,
+   "to": 1398,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "hrad mu markrabě zastavil"
+  },
+  {
+   "owner": "z-drahotus",
+   "owner_wiki": null,
+   "person": "Čeněk z Drahotuš, poté jeho dcery zvané \"panny cimburské\"",
+   "from": 1398,
+   "to": 1407,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "investoval do obrany hradu; dcery po něm zvýšily severní zeď paláce a vybudovaly nový parkán"
+  },
+  {
+   "owner": "pani-z-holstejna",
+   "owner_wiki": "Páni z Holštejna",
+   "person": "Vok IV. a Vok V. z Holštejna",
+   "from": 1407,
+   "to": 1429,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "Vok IV. jako další zástavní držitel hrad roku 1407 přepadl a násilím obsadil; Vok V. jej 1429 přenechal příbuznému"
+  },
+  {
+   "owner": "z-zdounek",
+   "owner_wiki": null,
+   "person": "Štěpán ze Zdounek a Vartnova",
+   "from": 1429,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dar",
+   "note": "hrad mu 1429 přenechal Vok V. z Holštejna jako příbuznému; za česko-uherských válek hrad dobyl uherský král Matyáš Korvín (rok cs.wiki neuvádí); rok konce držby zdroje neuvádějí"
+  },
+  {
+   "owner": "neznamo",
+   "owner_wiki": null,
+   "person": "sestry z Vartnova (Zuzana provdaná za Jana z Kralic)",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "cimburk.cz: král Vladislav II. 1476 zapsal hrad Ctiborovi z Cimburka, sestrám z Vartnova se však podařilo svá práva uhájit a při dělení majetku 1480-81 připadl Cimburk Zuzaně, provdané za Jana z Kralic; cimburk.cz (web hradu, text převzatý z webu města Koryčany; neoficiální zdroj); přesné roky držby neuvedeny"
+  },
+  {
+   "owner": "neznamo",
+   "owner_wiki": null,
+   "person": "Štěpán z Lomnice (syn Žofie)",
+   "from": null,
+   "to": 1493,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "cimburk.cz: hrad se 'nějakým způsobem' dostal do rukou Štěpána z Lomnice, který jej 1493 převedl na Mikuláše Františka z Háje; cimburk.cz (web hradu, text převzatý z webu města Koryčany; neoficiální zdroj)"
+  },
+  {
+   "owner": "neznamo",
+   "owner_wiki": null,
+   "person": "Mikuláš František z Háje, poté zástavní držitelé Žibřid z Bobolusk a páni z Víckova",
+   "from": 1493,
+   "to": 1523,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "cimburk.cz: za posledních let Jagellonců probíhala jednání o převodu do dědičné držby mezi zástavními držiteli Žibřidem z Bobolusk a pány z Víckova; cimburk.cz (web hradu, text převzatý z webu města Koryčany; neoficiální zdroj); způsob nabytí od Štěpána z Lomnice zdroj označuje jen jako 'převedl'"
+  },
+  {
+   "owner": "prusinovsti-z-vickova",
+   "owner_wiki": "Prusinovští z Víckova",
+   "person": "Vilém z Víckova",
+   "from": 1523,
+   "to": 1549,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "po několika zvratech jej 1523 definitivně získal; po česko-uherských válkách doplnil předhradí o bašty, přesunul vstup na severní stranu a rozšiřoval panství; zemřel 1549 bezdětný"
+  },
+  {
+   "owner": "prusinovsti-z-vickova",
+   "owner_wiki": "Prusinovští z Víckova",
+   "person": "Přemek z Víckova",
+   "from": 1549,
+   "to": 1561,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "bratr Viléma; soustředil se na své držby v Prusinovicích; zemřel 1561 (cimburk.cz (web hradu, text převzatý z webu města Koryčany; neoficiální zdroj))"
+  },
+  {
+   "owner": "prusinovsti-z-vickova",
+   "owner_wiki": "Prusinovští z Víckova",
+   "person": "Jan Vilém z Víckova",
+   "from": 1561,
+   "to": 1568,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "syn Přemka; roku 1568 hrad prodal Gabrielu Majláthovi (cimburk.cz (web hradu, text převzatý z webu města Koryčany; neoficiální zdroj))"
+  },
+  {
+   "owner": "majlathove",
+   "owner_wiki": null,
+   "person": "Gabriel Majláth",
+   "from": 1568,
+   "to": 1577,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "uherský šlechtic; zadlužil se a zemřel 1577 (cimburk.cz (web hradu, text převzatý z webu města Koryčany; neoficiální zdroj))"
+  },
+  {
+   "owner": "banffyove",
+   "owner_wiki": null,
+   "person": "Anna Banffyová z Dolní Lindavy (vdova)",
+   "from": 1577,
+   "to": 1607,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "spravovala panství po manželovi, zemřela 1602; roku 1607 hrad zdědili její dva synové z obou manželství; majitelé sídlili v Koryčanech, kde Anna postavila tvrz (cimburk.cz (web hradu, text převzatý z webu města Koryčany; neoficiální zdroj)); rok 1607 označuje dědění po ní"
+  },
+  {
+   "owner": "horecti",
+   "owner_wiki": null,
+   "person": "Gabriel Horecký z Horky",
+   "from": 1610,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "roku 1610 koupil podíl bratra; do šlechtického stavu povýšen 1641; za jeho držby 1623 hrad zradou obsadili stoupenci Gabriela Bethlena; 1643-47 unikl švédské okupaci (cimburk.cz (web hradu, text převzatý z webu města Koryčany; neoficiální zdroj)); Horečtí hrad drželi až do roku 1742; cs.wiki uvádí v 17. století úpravy hradu Františka Horeckého (kolem 1661 snížil hlavní věž) bez přesných let držby"
+  },
+  {
+   "owner": "horecti",
+   "owner_wiki": null,
+   "person": "František Horecký",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "cs.wiki: v 16. a 17. století (kolem 1661 podle dřívějšího zdroje) nechal snížit hlavní věž, upravit okna a doplnit některé části hradu o erby; přesná léta držby ani způsob nabytí zdroje neuvádějí; cimburk.cz uvádí Gabriela Františka (†1703), vnuka Gabriela, a jeho syna Antonína Emericha jako držitele do 1742"
+  },
+  {
+   "owner": "horecti",
+   "owner_wiki": null,
+   "person": "Antonín Emerich Horecký",
+   "from": null,
+   "to": 1742,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "syn Gabriela Františka (†1703); hrad držel do roku 1742 (cimburk.cz (web hradu, text převzatý z webu města Koryčany; neoficiální zdroj))"
+  },
+  {
+   "owner": "z-gillernu",
+   "owner_wiki": null,
+   "person": "páni z Gillernu",
+   "from": 1742,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "cimburk.cz: po roce 1742 panství vlastnili páni z Gillernu; od počátku 18. století, kdy pominulo nebezpečí tureckého vpádu, byl hrad opuštěn a chátral (cs.wiki); rok konce držby zdroje neuvádějí"
+  },
+  {
+   "owner": "neznamo",
+   "owner_wiki": null,
+   "person": null,
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "pozdější majitelé zříceniny ani dnešní vlastník nejsou v použitých zdrojích uvedeni; od 1994 o záchranu pečuje občanské sdružení Polypeje"
+  }
  ],
  "events": [
-  {"year": 1348, "text": "Bernard z Cimburka přesídluje z původního hradu Cimburk (okres Svitavy) na nově postavený hrad"},
-  {"year": 1407, "text": "Vok IV. z Holštejna hrad jako zástavní držitel přepadl a obsadil"},
-  {"year": 1523, "text": "hrad koupil Vilém z Víckova"},
-  {"year": 1661, "text": "František Horecký nechává snížit hlavní věž a upravit okna"},
-  {"year": 1930, "text": "první záchranné práce - opravy hradeb a portálů"},
-  {"year": 1994, "text": "obnovu hradu přebírá občanské sdružení Polypeje"}
+  {
+   "year": 1348,
+   "text": "Bernard z Cimburka přesídluje z původního hradu Cimburk (okres Svitavy) na nově postavený hrad"
+  },
+  {
+   "year": 1358,
+   "text": "markrabě Jan Jindřich kupuje hrad od Ctibora z Cimburka"
+  },
+  {
+   "year": 1407,
+   "text": "Vok IV. z Holštejna hrad jako zástavní držitel přepadl a obsadil"
+  },
+  {
+   "year": 1523,
+   "text": "hrad koupil Vilém z Víckova"
+  },
+  {
+   "year": 1568,
+   "text": "Jan Vilém z Víckova prodává hrad uherskému šlechtici Gabrielu Majláthovi"
+  },
+  {
+   "year": 1610,
+   "text": "Gabriel Horecký z Horky kupuje bratrův podíl a stává se držitelem hradu"
+  },
+  {
+   "year": 1661,
+   "text": "František Horecký nechává snížit hlavní věž a upravit okna"
+  },
+  {
+   "year": 1930,
+   "text": "první záchranné práce - opravy hradeb a portálů"
+  },
+  {
+   "year": 1994,
+   "text": "obnovu hradu přebírá občanské sdružení Polypeje"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Cimburk_(hrad,_okres_Kroměříž)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Cimburk_(hrad,_okres_Kroměříž)",
+  "https://cimburk.cz/historie/"
+ ]
 }

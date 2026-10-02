@@ -1,27 +1,131 @@
 {
  "id": "Q2242554",
  "name": "Mělník",
- "founded": {"year": 900, "approx": true, "text": "Předchůdcem byl raně středověké hradiště, postavené nejspíše na přelomu 9. a 10. století; koncem 10. století sídlo kněžny Emmy s vlastní mincovnou."},
- "summary": "Předchůdcem mělnického zámku bylo raně středověké hradiště z přelomu 9. a 10. století, koncem 10. století sídlo kněžny Emmy; na jeho místě posléze stál menší románský a gotický hrad, který jako věnné město patřil až do 16. století české královské koruně. Roku 1542 jej Ferdinand I. zastavil Zdislavu Berkovi z Dubé a Lipé, který jej přestavěl renesančně, po třicetileté válce se zástavním i pozdějším vlastníkem stali Černínové z Chudenic, kteří roku 1753 sňatkem Marie Ludmily Černínové s Augustem Antonínem z Lobkovic přenechali zámek rodu Lobkoviců. Lobkovicům byl za komunismu roku 1948 znárodněn, v roce 1992 jim byl v restituci vrácen a dodnes je v jejich držení.",
+ "founded": {
+  "year": 900,
+  "approx": true,
+  "text": "Předchůdcem byl raně středověké hradiště, postavené nejspíše na přelomu 9. a 10. století; koncem 10. století sídlo kněžny Emmy s vlastní mincovnou."
+ },
+ "summary": "Předchůdcem mělnického zámku bylo raně středověké hradiště z přelomu 9. a 10. století, koncem 10. století sídlo kněžny Emmy; na jeho místě posléze stál menší románský a gotický hrad, který jako věnné město patřil až do 16. století české královské koruně. Roku 1542 jej Ferdinand I. zastavil Zdislavu Berkovi z Dubé a Lipé, který jej přestavěl renesančně, po třicetileté válce, roku 1646, zámek zastavili Černínům z Chudenic, kteří jej roku 1687 koupili od Leopolda I.; roku 1753 sňatkem Marie Ludmily Černínové s Augustem Antonínem z Lobkovic přenechali zámek rodu Lobkoviců. Lobkovicům byl po únoru 1948 znárodněn, v roce 1992 jim byl v restituci vrácen a dodnes je v jejich držení.",
  "owners": [
-  {"owner": "koruna", "owner_wiki": null, "person": "kněžna Emma, později Barbora Celská, Johanka z Rožmitálu", "from": 900, "to": 1542, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "hradiště sídlem kněžny Emmy koncem 10. století; hrad zůstal majetkem koruny, roku 1437 jej vlastnila Zikmundova manželka Barbora (zemřela 1451), do roku 1475 zde sídlila Johanka z Rožmitálu, manželka Jiřího z Poděbrad, poté hrad spravovali královští hejtmani"},
-  {"owner": "berkove-z-dube", "owner_wiki": "Berkové z Dubé", "person": "Zdislav Berka z Dubé a Lipé", "from": 1542, "to": 1646, "from_approx": false, "to_approx": false, "how": "lenni", "note": "hrad mu zastavil Ferdinand I.; přestavěl jej na renesanční sídlo, vzniklo severní křídlo s věží"},
-  {"owner": "cerninove-z-chudenic", "owner_wiki": "Černínové z Chudenic", "person": null, "from": 1646, "to": 1651, "from_approx": false, "to_approx": false, "how": "lenni", "note": "zámek jim byl po třicetileté válce zastaven, hospodařili na panství pět let"},
-  {"owner": "koruna", "owner_wiki": null, "person": "Leopold I.", "from": 1651, "to": null, "from_approx": false, "to_approx": false, "how": "jine", "note": "po skončení pětileté zástavy se panství vrátilo koruně, než jej Černínové odkoupili od císaře Leopolda I. (vládl 1657-1705); přesný rok koupě zdroj neuvádí"},
-  {"owner": "cerninove-z-chudenic", "owner_wiki": "Černínové z Chudenic", "person": null, "from": null, "to": 1753, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupili zámek od císaře Leopolda I., v letech 1685-1686 provedli barokní přestavbu, čímž získal dnešní vzhled"},
-  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": "Marie Ludmila Černínová a August Antonín z Lobkovic", "from": 1753, "to": 1948, "from_approx": false, "to_approx": false, "how": "snatek", "note": "sňatkem poslední dědičky Černínů přešel zámek na Lobkovice; za 2. světové války byla na zámek uvalena nucená správa, do rukou Lobkoviců se vrátil 1945, po únoru 1948 byl komunisty znárodněn"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1948, "to": 1992, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "v 50. letech 20. století proběhly rozsáhlejší rekonstrukce zámku"},
-  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": "Jiří Jan z Lobkovic", "from": 1992, "to": null, "from_approx": false, "to_approx": false, "how": "restituce", "note": "zámek vrácen v restituci a prošel další rekonstrukcí"}
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "kněžna Emma, později Barbora Celská, Johanka z Rožmitálu",
+   "from": 900,
+   "to": 1542,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "hradiště sídlem kněžny Emmy koncem 10. století; hrad zůstal majetkem koruny, roku 1437 jej vlastnila Zikmundova manželka Barbora (zemřela 1451), do roku 1475 zde sídlila Johanka z Rožmitálu, manželka Jiřího z Poděbrad, poté hrad spravovali královští hejtmani"
+  },
+  {
+   "owner": "berkove-z-dube",
+   "owner_wiki": "Berkové z Dubé",
+   "person": "Zdislav Berka z Dubé a Lipé",
+   "from": 1542,
+   "to": 1646,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "hrad mu 1542 zastavil Ferdinand I.; přestavěl jej na renesanční sídlo, vzniklo severní křídlo s věží; konec držby 1646 odvozen z zástavy Černínům (cs.wiki Berky v dalších letech nezmiňuje; web zámku uvádí, že Jiří Popel z Lobkovic držel Mělník jako léno Rudolfa II., roky neuvedeny)"
+  },
+  {
+   "owner": "cerninove-z-chudenic",
+   "owner_wiki": "Černínové z Chudenic",
+   "person": "Heřman Černín z Chudenic",
+   "from": 1646,
+   "to": 1687,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "po třicetileté válce mu byl zpustlý zámek zastaven; cs.wiki uvádí, že na panství hospodařili pět let, než jej koupili od císaře Leopolda I.; zdroje mezi zástavou a koupí jiného držitele neuvádějí"
+  },
+  {
+   "owner": "cerninove-z-chudenic",
+   "owner_wiki": "Černínové z Chudenic",
+   "person": "Heřman Jakub Černín z Chudenic",
+   "from": 1687,
+   "to": 1753,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "zámek a panství koupil od císaře Leopolda I. až roku 1687 (web zámku, oficiální web majitele Lobkoviců; cs.wiki rok neuvádí); 1685-1686 (cs.wiki) barokní přestavba, podle webu zámku nová jižní budova od základů"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Marie Ludmila Černínová a August Antonín z Lobkovic",
+   "from": 1753,
+   "to": 1948,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "snatek",
+   "note": "sňatkem poslední dědičky Černínů přešel zámek na Lobkovice; za 2. světové války byla na zámek uvalena nucená správa, do rukou Lobkoviců se vrátil 1945, po únoru 1948 byl komunisty znárodněn"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1948,
+   "to": 1992,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "v 50. letech 20. století proběhly rozsáhlejší rekonstrukce zámku"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Jiří Jan z Lobkovic",
+   "from": 1992,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "restituce",
+   "note": "zámek vrácen v restituci a prošel další rekonstrukcí"
+  }
  ],
  "events": [
-  {"year": 1274, "text": "Přemysl Otakar II. povýšil mělnické podhradí na město"},
-  {"year": 1542, "text": "Ferdinand I. zastavil hrad Zdislavu Berkovi z Dubé a Lipé"},
-  {"year": 1553, "text": "vznikla renesanční sgrafita severního křídla, mezi nejstaršími v Čechách"},
-  {"year": 1646, "text": "hrad po třicetileté válce zastaven Černínům z Chudenic"},
-  {"year": 1686, "text": "dokončena barokní přestavba zámku (1685-1686)"},
-  {"year": 1753, "text": "sňatkem Marie Ludmily Černínové s Augustem Antonínem z Lobkovic přešel zámek na Lobkovice"},
-  {"year": 1948, "text": "zámek komunisty znárodněn"},
-  {"year": 1992, "text": "zámek vrácen v restituci Jiřímu Janu z Lobkovic"}
+  {
+   "year": 1274,
+   "text": "Přemysl Otakar II. povýšil mělnické podhradí na město"
+  },
+  {
+   "year": 1542,
+   "text": "Ferdinand I. zastavil hrad Zdislavu Berkovi z Dubé a Lipé"
+  },
+  {
+   "year": 1553,
+   "text": "vznikla renesanční sgrafita severního křídla, mezi nejstaršími v Čechách"
+  },
+  {
+   "year": 1646,
+   "text": "hrad po třicetileté válce zastaven Černínům z Chudenic"
+  },
+  {
+   "year": 1687,
+   "text": "Černínové z Chudenic kupují zámek a panství od císaře Leopolda I. (podle webu zámku)"
+  },
+  {
+   "year": 1686,
+   "text": "dokončena barokní přestavba zámku (1685-1686)"
+  },
+  {
+   "year": 1753,
+   "text": "sňatkem Marie Ludmily Černínové s Augustem Antonínem z Lobkovic přešel zámek na Lobkovice"
+  },
+  {
+   "year": 1948,
+   "text": "zámek komunisty znárodněn"
+  },
+  {
+   "year": 1992,
+   "text": "zámek vrácen v restituci Jiřímu Janu z Lobkovic"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Mělník_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Mělník_(zámek)",
+  "https://www.lobkowicz-melnik.cz/en/history"
+ ]
 }

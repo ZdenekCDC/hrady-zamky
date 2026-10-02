@@ -1,20 +1,110 @@
 {
  "id": "Q631338",
  "name": "Rotštejn",
- "founded": {"year": 1250, "approx": true, "text": "Krátce po roce 1250 založil skalní hrad Jaroslav z Hrutvice (Hruštice) z rodu Markvarticů pro svého syna Voka."},
- "summary": "Skalní hrad Rotštejn založili krátce po roce 1250 Markvartici - Jaroslav z Hrutvice jej nechal postavit pro syna Voka, jehož potomci se psali z Rotštejna a drželi hrad do vymření rodu roku 1415. Poté připadl Ondřejovi či Vaňkovi Paldrovi z Vařin, který jej vlastnil za husitských válek; další osudy hradu nejsou v pramenech blíže doloženy a už roku 1514 je uváděn jako pustý. Od roku 1988 se o zříceninu stará dobrovolné trampské sdružení na ochranu Klokočských skal.",
+ "founded": {
+  "year": 1250,
+  "approx": true,
+  "text": "Krátce po roce 1250 založil skalní hrad Jaroslav z Hrutvice (Hruštice) z rodu Markvarticů pro svého syna Voka."
+ },
+ "summary": "Skalní hrad Rotštejn založili krátce po roce 1250 Markvartici - Jaroslav z Hrutvice jej nechal postavit pro syna Voka, jehož potomci se psali z Rotštejna a drželi hrad do vymření rodu na počátku 15. století. Poté jej koupili Paldrové z Vařin, kteří jej vlastnili za husitských válek a po roce 1437 se přesídlili do Klokočí; roku 1514 je hrad ve zprávě o převodu panství od Jana z Boskovic uváděn jako pustý. Dnes jej podle regionálního zdroje vlastní obce Klokočí a Mírová pod Kozákovem a od roku 1988 se o zříceninu stará spolek Ochrana Klokočských skal.",
  "owners": [
-  {"owner": "markvartici", "owner_wiki": "Markvartici", "person": "Jaroslav z Hrutvice (Hruštice)", "from": 1250, "to": 1250, "from_approx": true, "to_approx": true, "how": "zalozeni", "note": "hrad nechal postavit pro syna Voka z Rotštejna; druhý syn Zdeněk založil Valdštejn a rod Valdštejnů"},
-  {"owner": "z-rotstejna", "owner_wiki": null, "person": "Vok z Rotštejna, Vok II. z Rotštejna, Ješek z Rotštejna", "from": 1250, "to": 1415, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "rod pánů z Rotštejna, větev Markvarticů; roku 1318 panství vyplenilo vojsko 152 šlechticů; rod vymřel roku 1415"},
-  {"owner": "z-varin", "owner_wiki": null, "person": "Ondřej či Vaněk Paldr z Vařin", "from": 1415, "to": null, "from_approx": false, "to_approx": true, "how": "jine", "note": "panství připadlo po vymření Rotštejnů; vlastnil je po celou dobu husitských válek, hrad podle jedněch zdrojů roku 1430 stále obyvatelný, podle jiných dobyt husity 1426; další majitelé nejsou doloženi"},
-  {"owner": "neznamo", "owner_wiki": null, "person": null, "from": null, "to": null, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "roku 1514 zpráva o prodeji uvádí hrad již jako pustý; od roku 1988 se o zříceninu stará (bez vlastnictví) trampské sdružení Ochrana Klokočských skal"}
+  {
+   "owner": "markvartici",
+   "owner_wiki": "Markvartici",
+   "person": "Jaroslav z Hrutvice (Hruštice)",
+   "from": 1250,
+   "to": 1250,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "zalozeni",
+   "note": "hrad nechal postavit pro syna Voka z Rotštejna; druhý syn Zdeněk založil Valdštejn a rod Valdštejnů"
+  },
+  {
+   "owner": "z-rotstejna",
+   "owner_wiki": null,
+   "person": "Vok z Rotštejna, Vok II. z Rotštejna, Ješek z Rotštejna",
+   "from": 1250,
+   "to": 1415,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "rod pánů z Rotštejna, větev Markvarticů; roku 1318 panství vyplenilo vojsko 152 šlechticů; rod vymřel Ješkem (rok 1412/1413/1415 podle zdrojů) a majetek připadl vdově Žofce, která jej 1415 prodala Paldrům z Vařin (interregion.cz, hradrotstejn.info)"
+  },
+  {
+   "owner": "z-varin",
+   "owner_wiki": null,
+   "person": "Ondřej (či Vaněk) Paldr z Vařin, poté jeho potomci",
+   "from": 1415,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "koupil od vdovy Žofky z Rotštejna (cs.wiki uvádí jen přechod po vymření Rotštejnů); vlastnil panství po celou dobu husitských válek, hrad podle jedněch zdrojů ještě po 1430 obyvatelný, podle jiných dobyt husity 1426 (archeologie ani prameny to nepotvrzují); po 1437 se Paldrové přesídlili na tvrz v Klokočí, rok konce jejich držby zdroje neuvádějí"
+  },
+  {
+   "owner": "boskovicove",
+   "owner_wiki": "Boskovicové",
+   "person": "Jan z Boskovic",
+   "from": null,
+   "to": 1514,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "majitel rotštejnského panství, které roku 1514 postoupil věřitelům (interregion.cz); v zápisu o převodu je hrad uváděn jako pustý; kdy a jak panství od Paldrů získal, zdroj neuvádí"
+  },
+  {
+   "owner": "neznamo",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1514,
+   "to": 1953,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "další vlastníci hradu nejsou ve zdrojích doloženi; v 17. století zříceninu využívali vesničané k obydlí v dutinách skal, v 1. polovině 20. stol. se o ni starali Klub českých turistů a Okrašlovací spolek v Klokočí (bez vlastnictví)"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "obce Klokočí a Mírová pod Kozákovem",
+   "from": 1953,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "podle interregion.cz (regionální turistický web, méně spolehlivý zdroj) je od roku 1953 majetkem obcí Klokočí a Mírová pod Kozákovem; od roku 1988 se o zříceninu stará (bez vlastnictví) spolek Ochrana Klokočských skal; cs.wiki a hradrotstejn.info vlastníka neuvádějí"
+  }
  ],
  "events": [
-  {"year": 1318, "text": "panství rotštejnské a hrad vyplenila veliká přesila vojska, kniha půhonná uvádí 152 šlechticů"},
-  {"year": 1360, "text": "Ješek z Rotštejna získal od Karla IV. povolení pořádat týdenní trhy v Klokočí"},
-  {"year": 1415, "text": "vymřel rod pánů z Rotštejna, panství připadlo Paldrům z Vařin"},
-  {"year": 1514, "text": "ve zprávě o prodeji je hrad již uváděn jako pustý, se zdmi zborcenými do nádvoří"},
-  {"year": 1988, "text": "o zříceninu se začalo starat trampské sdružení Ochrana Klokočských skal"}
+  {
+   "year": 1318,
+   "text": "panství rotštejnské a hrad vyplenila veliká přesila vojska, kniha půhonná uvádí 152 šlechticů"
+  },
+  {
+   "year": 1360,
+   "text": "Ješek z Rotštejna získal od Karla IV. povolení pořádat týdenní trhy v Klokočí"
+  },
+  {
+   "year": 1415,
+   "text": "vymřel rod pánů z Rotštejna, panství připadlo Paldrům z Vařin"
+  },
+  {
+   "year": 1514,
+   "text": "rotštejnské panství postupuje Jan z Boskovic věřitelům; v zápisu o převodu je hrad již uváděn jako pustý, se zdmi zborcenými do nádvoří"
+  },
+  {
+   "year": 1953,
+   "text": "hrad se stává majetkem obcí Klokočí a Mírová pod Kozákovem (podle interregion.cz)"
+  },
+  {
+   "year": 1988,
+   "text": "o zříceninu se začalo starat trampské sdružení Ochrana Klokočských skal"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Rotštejn"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Rotštejn",
+  "https://www.hradrotstejn.info/cs/historie-hradu",
+  "https://www.interregion.cz/turistika/hrady_zamky/rotstejn/rotstejn.htm",
+  "http://www.rajnet.cz/web/print.asp?id=414"
+ ]
 }

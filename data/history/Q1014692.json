@@ -1,27 +1,156 @@
 {
  "id": "Q1014692",
  "name": "Zvířetice",
- "founded": {"year": 1300, "approx": true, "text": "Na počátku 14. století založil hrad nad Jizerou Zdislav z Lemberka, syn Havla z Lemberka; podle Wikidat se uvádí i rok 1287"},
- "summary": "Hrad Zvířetice založil počátkem 14. století Zdislav z Lemberka, jehož potomci se psali jako páni ze Zvířetic a drželi jej do roku 1504. Po krátkém období dalších majitelů jej od roku 1528 vlastnili Vartenberkové, kteří jej přestavěli na renesanční zámek, a od roku 1623 Valdštejnové; po požárech v letech 1693 a 1720 byl zámek definitivně opuštěn a chátral. Ve 20. století se zříceniny ujal Klub českých turistů a později hnutí Brontosaurus, které provedly zakonzervování a opravy; od roku 1967 je chráněna jako kulturní památka.",
+ "founded": {
+  "year": 1300,
+  "approx": true,
+  "text": "Na počátku 14. století založil hrad nad Jizerou Zdislav z Lemberka, syn Havla z Lemberka; podle Wikidat se uvádí i rok 1287"
+ },
+ "summary": "Hrad Zvířetice založil počátkem 14. století Zdislav z Lemberka, jehož potomci se psali jako páni ze Zvířetic a drželi jej do roku 1504. Po Václavu Sezimovi z Ústí jej roku 1528 koupili Vartenberkové a přestavěli na renesanční zámek; od 1610 patřil Jiřímu Vratislavovi z Mitrovic, po něm Janu Vlkovi z Kvítkova, a roku 1623 jej koupil Albrecht z Valdštejna. Valdštejnové zde postavili kapli, ale sídlili od 1690 v Mnichově Hradišti; po požárech 1693 a 1720 byl zámek opuštěn a chátral. Ve 20. století se zříceniny ujal Klub českých turistů a později hnutí Brontosaurus; od roku 1967 je kulturní památkou a od roku 2007 je v majetku města Bakov nad Jizerou.",
  "owners": [
-  {"owner": "pani-ze-zviretic", "owner_wiki": "Páni ze Zvířetic", "person": "Zdislav z Lemberka (ze Zvířetic)", "from": 1300, "to": 1504, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "zakladatel hradu se psal zprvu z Lemberka, jeho potomci pak jako páni ze Zvířetic"},
-  {"owner": "sezimove-z-usti", "owner_wiki": "Sezimové z Ústí", "person": "Václav Sezima z Ústí", "from": 1504, "to": 1528, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "cs.wiki uvádí jen 'nedlouhé vlastnictví', způsob nabytí neuveden"},
-  {"owner": "vartenberkove", "owner_wiki": "Vartenberkové", "person": null, "from": 1528, "to": 1610, "from_approx": false, "to_approx": false, "how": "koupe", "note": "postupně přestavěli hrad na renesanční zámek"},
-  {"owner": "vratislavove-z-mitrovic", "owner_wiki": "Vratislavové z Mitrovic", "person": "Jiří Vratislav z Mitrovic", "from": 1610, "to": 1616, "from_approx": false, "to_approx": true, "how": "neznamo", "note": "cs.wiki uvádí souhrnně období 1610-1623 v postupném vlastnictví obou majitelů, přesné rozdělení let neuvedeno"},
-  {"owner": "z-kvitkova", "owner_wiki": null, "person": "Jan Vlk z Kvítkova", "from": 1616, "to": 1623, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "druhý z dvojice majitelů v letech 1610-1623"},
-  {"owner": "valdstejnove", "owner_wiki": "Valdštejnové", "person": null, "from": 1623, "to": null, "from_approx": false, "to_approx": true, "how": "koupe", "note": "nechali postavit barokní kapli; v 17.-18. stol. zámek sloužil jako sídlo vrchnostenských úřadů, po požárech 1693 a 1720 byl opuštěn a rozebírán na materiál; další vlastnický vývoj (přechod na stát, dnešní správa) není v cs.wiki článku uveden, dnes web zviretice.cz spravuje spolek/obec Bakov nad Jizerou"}
+  {
+   "owner": "pani-ze-zviretic",
+   "owner_wiki": "Páni ze Zvířetic",
+   "person": "Zdislav z Lemberka (ze Zvířetic)",
+   "from": 1300,
+   "to": 1504,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "zakladatel hradu se psal zprvu z Lemberka, jeho potomci pak jako páni ze Zvířetic"
+  },
+  {
+   "owner": "sezimove-z-usti",
+   "owner_wiki": "Sezimové z Ústí",
+   "person": "Václav Sezima z Ústí",
+   "from": 1504,
+   "to": 1528,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "1504 hrad získal Václav Sezima z Ústí (cs.wiki: 'nedlouhé vlastnictví'); roku 1528 jej prodal Janovi z Vartenberka (apsida.cz)"
+  },
+  {
+   "owner": "vartenberkove",
+   "owner_wiki": "Vartenberkové",
+   "person": "Jan z Vartenberka (zemřel 1543), poté syn Adam a příbuzná větev Vartenberků",
+   "from": 1528,
+   "to": 1610,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "roku 1528 hrad koupil Jan z Vartenberka (apsida.cz) a Vartenberkové jej postupně přestavěli na renesanční zámek; Adam z Vartenberka byl za účast v povstání proti Ferdinandovi I. odsouzen k domácímu vězení na Zvířeticích a panství prodal příbuzné větvi Vartenberků, která je držela do 1610 (apsida.cz, komerční web)"
+  },
+  {
+   "owner": "vratislavove-z-mitrovic",
+   "owner_wiki": "Vratislavové z Mitrovic",
+   "person": "Jiří Vratislav z Mitrovic",
+   "from": 1610,
+   "to": 1616,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "roku 1610 koupil od Jana z Vartenberka (apsida.cz, de.wiki); zemřel 1616 bezdětný a majetek odkázal Janu Vlkovi z Kvítkova (de.wiki); cs.wiki uvádí jen souhrnné období 1610-1623"
+  },
+  {
+   "owner": "z-kvitkova",
+   "owner_wiki": null,
+   "person": "Jan Vlk z Kvítkova",
+   "from": 1616,
+   "to": 1623,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "de.wiki: majetek mu byl po stavovském povstání 1618 zkonfiskován; rok konfiskace není uveden, rok 1623 je rok koupě Albrechtem z Valdštejna"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Albrecht Václav Eusebius z Valdštejna",
+   "from": 1623,
+   "to": 1624,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil konfiskované panství (de.wiki)"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Maxmilián z Valdštejna, poté Ferdinand, jeho vdova Marie Eleonora a syn Arnošt Josef",
+   "from": 1624,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "de.wiki: Albrecht panství roku 1624 přenechal vzdálenému bratranci Maxmiliánovi (zámek Mnichovo Hradiště uvádí rok 1627); za Ferdinanda byla 1653 postavena barokní kaple; Marie Eleonora (zemřela 1683) založila zahradu, Arnošt Josef (1654-1708) panství sloučil a od 1690 sídlil na zámku v Mnichově Hradišti, Zvířetice sloužily jen správě panství; po požárech 1693 a 1720 opuštěn; Valdštejnové vlastnili Mnichovo Hradiště do 1946, o zvířetickém hradu zdroje konec jejich držby výslovně neuvádějí"
+  },
+  {
+   "owner": "neznamo",
+   "owner_wiki": null,
+   "person": null,
+   "from": null,
+   "to": 2007,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "majitelé zříceniny mezi Valdštejny a rokem 2007 nejsou ve zdrojích uvedeni; zříceninu ve 30. letech 20. stol. využil Klub českých turistů (rozhledna) a později hnutí Brontosaurus (letní tábory 70.-80. léta), z textu není zřejmé, zda jako majitelé"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "Bakov nad Jizerou",
+   "from": 2007,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "od roku 2007 je zřícenina v majetku města Bakov nad Jizerou (oficiální web zviretice.cz, cs.wiki: současný majitel); způsob nabytí neuveden"
+  }
  ],
  "events": [
-  {"year": 1300, "text": "Zdislav z Lemberka zakládá hrad nad Jizerou"},
-  {"year": 1504, "text": "páni ze Zvířetic ztrácejí hrad po téměř dvou staletích držby"},
-  {"year": 1528, "text": "Vartenberkové získávají zámek a přestavují jej na renesanční sídlo"},
-  {"year": 1623, "text": "zámek získávají Valdštejnové, nechávají postavit barokní kapli"},
-  {"year": 1693, "text": "zámek poprvé vyhoří"},
-  {"year": 1720, "text": "úder blesku způsobí druhý ničivý požár, poté je zámek definitivně opuštěn"},
-  {"year": 1967, "text": "zřícenina vyhlášena kulturní památkou"},
-  {"year": 2015, "text": "otevřeno infocentrum Zvířetice a dokončen projekt virtuální rekonstrukce Zvířetice 3D"}
+  {
+   "year": 1300,
+   "text": "Zdislav z Lemberka zakládá hrad nad Jizerou"
+  },
+  {
+   "year": 1504,
+   "text": "páni ze Zvířetic ztrácejí hrad po téměř dvou staletích držby"
+  },
+  {
+   "year": 1528,
+   "text": "Vartenberkové získávají zámek a přestavují jej na renesanční sídlo"
+  },
+  {
+   "year": 1623,
+   "text": "zámek kupuje Albrecht z Valdštejna, Valdštejnové nechávají postavit barokní kapli (1653)"
+  },
+  {
+   "year": 1693,
+   "text": "zámek poprvé vyhoří"
+  },
+  {
+   "year": 1720,
+   "text": "úder blesku způsobí druhý ničivý požár, poté je zámek definitivně opuštěn"
+  },
+  {
+   "year": 1967,
+   "text": "zřícenina vyhlášena kulturní památkou"
+  },
+  {
+   "year": 2007,
+   "text": "zřícenina přechází do majetku města Bakov nad Jizerou"
+  },
+  {
+   "year": 2015,
+   "text": "otevřeno infocentrum Zvířetice a dokončen projekt virtuální rekonstrukce Zvířetice 3D"
+  }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Zvířetice_(hrad)"
+  "https://cs.wikipedia.org/wiki/Zvířetice_(hrad)",
+  "https://de.wikipedia.org/wiki/Burg_Zvířetice",
+  "https://www.apsida.cz/hrady/strednicechy/okrbol/zviretice/zviretice.htm",
+  "https://www.zviretice.cz/zviretice/zricenina-v-krajine/",
+  "http://zamek-mnichovohradiste.cz/cs/o-zamku/historie"
  ]
 }

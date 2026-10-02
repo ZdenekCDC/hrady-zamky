@@ -9,15 +9,15 @@
  "summary": "Hrad Zbiroh patří pravděpodobně k nejstarším šlechtickým hradům v Čechách, jeho vznik ve 2. čtvrtině 13. století je ale spojen s nejasnostmi kolem zakladatele. Postupně se v majetku vystřídali Drslavici, Přemysl Otakar II., Rožmberkové, král Zikmund, Kolovratové, Šternberkové a Lobkovicové, než jej získal Rudolf II. a přestavěl na renesanční zámek; po Bílé hoře sloužil jako královský žalář. Habsburkové jej roku 1868 prodali podnikateli Bethelu Heinrichu Strousbergovi, po jeho bankrotu 1879 koupili zámek Colloredo-Mansfeldové, za druhé světové války zde sídlil štáb SS a po roce 1945 zámek připadl státu a sloužil armádě (mj. jako radiotechnické stanoviště); od roku 2004 patří přes město Zbiroh firmě Gastro Žofín, která jej roku 2005 zpřístupnila veřejnosti.",
  "owners": [
   {
-   "owner": "neznamo",
+   "owner": "sulislavici",
    "owner_wiki": null,
    "person": "Břetislav ze Zbiroha",
-   "from": 1230,
-   "to": 1260,
-   "from_approx": true,
-   "to_approx": true,
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
    "how": "zalozeni",
-   "note": "za zakladatele považován na základě zmínky z roku 1247; příslušnost k šlechtickému rodu cs.wiki neuvádí, doba založení je nejistá (2. čtvrtina 13. stol. podle T. Durdíka)"
+   "note": "za zakladatele je považován Břetislav ze Zbiroha, zmíněný roku 1247 (cs.wiki podle D. Menclové; cs.wiki infobox a web zámku zbiroh.com ho řadí k Sulislavicům - web zámku je komerční zdroj); hrad vznikl ve 2. čtvrtině 13. stol. podle T. Durdíka; přesné roky držby neznámé"
   },
   {
    "owner": "drslavici",
@@ -39,117 +39,115 @@
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "letopočty ve zdroji neuvedeny"
+   "note": "13. stol.; letopočty ve zdroji neuvedeny"
   },
   {
    "owner": "rozmberkove",
    "owner_wiki": "Rožmberkové",
-   "person": null,
    "from": null,
-   "to": null,
+   "to": 1431,
    "from_approx": false,
-   "to_approx": false,
-   "how": "neznamo",
-   "note": "letopočty ve zdroji neuvedeny"
+   "to_approx": true,
+   "how": "lenni",
+   "note": "podle populárně-naučného článku stoplusjednicka.cz (méně spolehlivý zdroj) hrad od Jana Lucemburského získal Petr z Rožmberka a Rožmberkové jej drželi do roku 1431, kdy připadl králi Zikmundovi; cs.wiki uvádí jen pořadí; cs.wiki infobox dále jmenuje Zajíce z Hazmburka, Jana Lucemburského a Kaplíře ze Sulevic, bez dat"
   },
   {
    "owner": "koruna",
    "owner_wiki": null,
-   "person": "král Zikmund",
-   "from": null,
+   "person": "Zikmund Lucemburský",
+   "from": 1431,
    "to": null,
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "letopočty ve zdroji neuvedeny"
+   "note": "od roku 1431 podle stoplusjednicka.cz (méně spolehlivý zdroj); pro finanční potíže hrad zastavil věřitelům"
   },
   {
    "owner": "kolovratove",
    "owner_wiki": "Kolovratové",
    "person": "Hanuš II. z Kolovrat",
-   "from": 1460,
-   "to": 1480,
-   "from_approx": true,
-   "to_approx": true,
-   "how": "neznamo",
-   "note": "za jeho držby byla 9. srpna 1469 v hradní kapli vyhlášena církevní klatba na krále Jiřího z Poděbrad"
+   "from": null,
+   "to": 1478,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "9. srpna 1469 za jeho držby vyhlášena v hradní kapli klatba na krále Jiřího z Poděbrad (cs.wiki); hrad zastavený Zikmundem přešel ke Kolovratům, kteří jej roku 1478 prodali Šternberkům (rok 1478 podle místního webu nszbiroh.estranky.cz, amatérský zdroj; stoplusjednicka.cz uvádí zástavu věřitelům)"
   },
   {
    "owner": "sternberkove",
    "owner_wiki": "Šternberkové",
-   "person": null,
-   "from": null,
-   "to": null,
+   "person": "Jaroslav a Zdeslav ze Šternberka",
+   "from": 1478,
+   "to": 1505,
    "from_approx": false,
-   "to_approx": false,
-   "how": "neznamo",
-   "note": "letopočty ve zdroji neuvedeny; drženo před Lobkovici a Rudolfem II."
+   "to_approx": true,
+   "how": "koupe",
+   "note": "hrad koupili 1478 od zadluženého Kolovrata; po smrti Zdeslava jej zdědili příbuzní a roku 1505 prodali Lobkovicům (nszbiroh.estranky.cz, amatérský zdroj)"
   },
   {
    "owner": "lobkovicove",
    "owner_wiki": "Lobkovicové",
-   "person": null,
-   "from": null,
-   "to": null,
+   "person": "Václav Popel z Lobkovic",
+   "from": 1505,
+   "to": 1594,
    "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "letopočty ve zdroji neuvedeny; po Bílé hoře zde byl mj. jako vězeň držen Vilém Popel z Lobkovic"
+   "how": "koupe",
+   "note": "v rodu držen téměř sto let; po obvinění z velezrady (1593) bylo panství 1594 zabaveno a přivtěleno ke královské komoře (nszbiroh.estranky.cz, amatérský zdroj; kultura.cz uvádí konfiskaci 1609, stoplusjednicka.cz zmiňuje Ladislava z Lobkovic); po Bílé hoře zde byl vězněn Vilém Popel z Lobkovic (cs.wiki)"
   },
   {
    "owner": "koruna",
    "owner_wiki": null,
-   "person": "Rudolf II.",
-   "from": 1600,
+   "person": "Rudolf II. a další panovníci",
+   "from": 1594,
    "to": 1868,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
-   "how": "koupe",
-   "note": "Rudolf II. nechal hrad přestavět na renesanční zámek s parkem a oborou; v 17. století sloužil jako královský žalář (po Bílé hoře zde bylo vězněno 6 českých pánů, mj. Vilém Popel z Lobkovic); zůstal habsburským majetkem až do prodeje 1868"
+   "how": "konfiskace",
+   "note": "komorní panství; Rudolf II. hrad přestavěl na renesanční zámek s parkem a oborou (cs.wiki), v 17. stol. sloužil jako královský žalář; cs.wiki uvádí prodej od Habsburků 1868, místní web nszbiroh.estranky.cz prodej Krakovanům 1865"
   },
   {
    "owner": "soukromnik",
    "owner_wiki": null,
-   "person": "Bethel Heinrich Strousberg",
+   "person": "Bethel Henry Strousberg",
    "from": 1868,
    "to": 1879,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "koupil zámek od Habsburků za 9,5 milionu zlatých, v letech 1869-1870 jej přestavěl podle projektu Augusta Ortha do novorenesanční podoby; roku 1879 po jeho bankrotu koupili prázdný zámek Colloredo-Mansfeldové"
+   "note": "koupil panství za 9,5 milionu zlatých (cs.wiki); 1869-1870 zámek přestavěl podle Augusta Ortha do novorenesanční podoby; po bankrotu zámek 1879 v dražbě koupili Colloredo-Mansfeldové (lesyzbiroh.cz: od Vídeňské hypoteční banky, největšího věřitele)"
   },
   {
    "owner": "colloredove",
    "owner_wiki": "Colloredové",
-   "person": null,
+   "person": "Colloredo-Mannsfeldové",
    "from": 1879,
    "to": 1945,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "koupe",
-   "note": "v letech 1912-1928 zde bydlel malíř Alfons Mucha, který v pronajatém sále namaloval Slovanskou epopej; v letech 1943-1945 byl zámek sídlem štábu SS"
+   "note": "koupě v dražbě 1879; 1912-1928 zde bydlel Alfons Mucha; 1943-1945 sídlo štábu SS; kultura.cz uvádí držbu 1879-1945, lesyzbiroh.cz říká, že Jeroným Colloredo-Mannsfeld hospodařil na majetku do znárodnění 1948"
   },
   {
    "owner": "stat",
    "owner_wiki": null,
-   "person": null,
    "from": 1945,
    "to": 2004,
    "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "areál převzal československý stát a využívala jej armáda; zámek na okraji vojenského prostoru Brdy sloužil jako střežené radiotechnické stanoviště (systémy Tamara, Ramona, Vera) sledující lety NATO; vojáci jej opouštěli od 1997"
+   "note": "po válce majetek Československého státu, využívala armáda (radiotechnické stanoviště), vojáci odcházeli od 1997; kultura.cz a stoplusjednicka.cz zmiňují restituci Colloredům počátkem 90. let a následný prodej armádě - nepotvrzeno v cs.wiki"
   },
   {
    "owner": "mesto",
    "owner_wiki": null,
-   "person": null,
+   "person": "město Zbiroh",
    "from": 2004,
    "to": 2004,
    "from_approx": false,
    "to_approx": false,
-   "how": "jine",
-   "note": "zámek roku 2004 získalo město Zbiroh a následně jej prodalo firmě Gastro Žofín"
+   "how": "koupe",
+   "note": "roku 2004 zámek získalo město Zbiroh a následně jej prodalo firmě Gastro Žofín (cs.wiki)"
   },
   {
    "owner": "soukromnik",
@@ -160,18 +158,50 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "18. června 2005 zámek poprvé otevřen veřejnosti; dnes hotel, restaurace a wellness"
+   "note": "rok nabytí 2004 podle cs.wiki (město prodalo následně, přesný rok neuveden); 18. června 2005 zámek poprvé zpřístupněn, dnes hotel, krčma a wellness; infobox cs.wiki uvádí jako současného majitele Agenturu NKL, zbiroh.com jen 'soukromé majitele'"
   }
  ],
  "events": [
-  {"year": 1247, "text": "první zmínka o Břetislavu ze Zbiroha, považovaném za zakladatele hradu"},
-  {"year": 1469, "text": "9. srpna v hradní kapli vyhlášena církevní klatba na krále Jiřího z Poděbrad"},
-  {"year": 1600, "text": "Rudolf II. nechává hrad přestavět na renesanční zámek"},
-  {"year": 1868, "text": "Habsburkové prodávají zámek podnikateli Bethelu Heinrichu Strousbergovi"},
-  {"year": 1912, "text": "1912-1928 na zámku žije a tvoří malíř Alfons Mucha (Slovanská epopej)"},
-  {"year": 1943, "text": "1943-1945 sídlo štábu SS"},
-  {"year": 1945, "text": "zámek připadá československému státu, později využíván armádou"},
-  {"year": 2005, "text": "18. června zámek poprvé otevřen veřejnosti"}
+  {
+   "year": 1247,
+   "text": "první zmínka o Břetislavu ze Zbiroha, považovaném za zakladatele hradu"
+  },
+  {
+   "year": 1469,
+   "text": "9. srpna v hradní kapli vyhlášena církevní klatba na krále Jiřího z Poděbrad"
+  },
+  {
+   "year": 1600,
+   "text": "Rudolf II. nechává hrad přestavět na renesanční zámek"
+  },
+  {
+   "year": 1868,
+   "text": "Habsburkové prodávají zámek podnikateli Bethelu Heinrichu Strousbergovi"
+  },
+  {
+   "year": 1912,
+   "text": "1912-1928 na zámku žije a tvoří malíř Alfons Mucha (Slovanská epopej)"
+  },
+  {
+   "year": 1943,
+   "text": "1943-1945 sídlo štábu SS"
+  },
+  {
+   "year": 1945,
+   "text": "zámek připadá československému státu, později využíván armádou"
+  },
+  {
+   "year": 2005,
+   "text": "18. června zámek poprvé otevřen veřejnosti"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Zbiroh_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Zbiroh_(zámek)",
+  "https://www.zbiroh.com/historie",
+  "https://lesyzbiroh.cz/o-nas/",
+  "https://www.zbiroh.cz/mesto/nase-mesto/historie/",
+  "http://www.kultura.cz/profile/5899-zamek-zbiroh",
+  "https://nszbiroh.estranky.cz/clanky/zbiroh/dejiny-zbiroha--hradu-i-mesta-.html",
+  "https://www.stoplusjednicka.cz/historie-zamku-zbiroh-poznejte-osudy-hradu-tri-cisaru"
+ ]
 }

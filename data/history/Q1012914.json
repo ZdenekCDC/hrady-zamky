@@ -1,29 +1,447 @@
 {
  "id": "Q1012914",
  "name": "Lichnice",
- "founded": {"year": 1250, "approx": true, "text": "Hrad kolem poloviny 13. století založil nejspíše král Václav I.; rozestavěný jej záhy získal do zástavy Smil z Lichtenburka, který jej dokončil ve zmenšené podobě. První písemná zmínka je z roku 1251."},
+ "founded": {
+  "year": 1250,
+  "approx": true,
+  "text": "Hrad kolem poloviny 13. století založil nejspíše král Václav I.; rozestavěný jej záhy získal do zástavy Smil z Lichtenburka, který jej dokončil ve zmenšené podobě. První písemná zmínka je z roku 1251."
+ },
  "summary": "Hrad Lichnice založil kolem poloviny 13. století patrně král Václav I. a rozestavěný jej dokončil zástavní držitel Smil z Lichtenburka. Po několika desetiletích střídání zástavních držitelů se hrad natrvalo stal korunním majetkem za Karla IV., roku 1421 jej dobyli husité a v letech 1428-1429 jej neúspěšně obléhali sirotci. Od roku 1490 jej přes sto let vlastnili Trčkové z Lípy a od poloviny 16. do počátku 17. století Robmhapové ze Suché, za nichž roku 1610 vyhořel a po třicetileté válce bylo jeho opevnění pobořeno. V roce 1933 zříceninu získal Klub českých turistů, později ji spravoval okresní národní výbor Chrudim a dnes je majetkem města Třemošnice, které provádí konzervaci a údržbu.",
  "owners": [
-  {"owner": "koruna", "owner_wiki": null, "person": "Václav I.", "from": 1248, "to": 1261, "from_approx": true, "to_approx": true, "how": "zalozeni", "note": "Tomáš Durdík považuje na základě stavebního rozboru za stavebníka Václava I.; podle Augusta Sedláčka a Dobroslavy Menclové mohl hrad založit přímo Smil z Lichtenburka"},
-  {"owner": "lichtenburkove", "owner_wiki": "Lichtenburkové", "person": "Smil z Lichtenburka, syn Oldřich, vnuk Jindřich", "from": 1261, "to": 1323, "from_approx": false, "to_approx": true, "how": "lenni", "note": "Smil dostal rozestavěný hrad do zástavy a dokončil jej ve zmenšené podobě; Jindřich z Lichtenburka jej později přenechal králi Janu Lucemburskému, není jasné zda prodejem, vrácením nebo výměnou"},
-  {"owner": "koruna", "owner_wiki": null, "person": null, "from": 1323, "to": 1346, "from_approx": false, "to_approx": false, "how": "jine", "note": "krátce v zástavě Štěpána z Tetína, roku 1333 vykoupil kralevic Karel IV.; roku 1346 zastaveno pánům z Lipé"},
-  {"owner": "pani-z-lipe", "owner_wiki": "Páni z Lipé", "person": "Jindřich mladší z Lipé", "from": 1346, "to": 1350, "from_approx": false, "to_approx": false, "how": "lenni"},
-  {"owner": "koruna", "owner_wiki": null, "person": null, "from": 1350, "to": 1489, "from_approx": false, "to_approx": false, "how": "jine", "note": "Karel IV. hrad 1350 zařadil v Majestas Carolina mezi nezastavitelné, přesto byl později opět dočasně zastavován (Štěpán z Opočna 1394-1397, za husitských válek Hynek Krušina z Lichtenburka a Jan Městecký z Opočna 1421-1429, poté husitský hejtman Jan Hertvík z Rušinova do cca 1458, po vyplacení Jiřím z Poděbrad krátce Vít ze Rzavého 1470-1473, později královna Johana a od 1476 Vilém Tetour z Tetova); roku 1489 se zástavní nároky vzdal Hynek z Rožmitálu ve prospěch krále Matyáše a Jana Korvína"},
-  {"owner": "trckove-z-lipy", "owner_wiki": "Trčkové z Lípy", "person": "Mikuláš mladší Trčka z Lípy", "from": 1490, "to": 1555, "from_approx": false, "to_approx": false, "how": "dar", "note": "majetek vyplatil král Vladislav II. a věnoval jej Mikuláši Trčkovi; po jeho smrti 1510 zdědila teta Johana z Březovic, dále synové a příbuzní (Zdeněk, Jan starší, Jan mladší Trčka); Vilém Trčka z Lípy panství roku 1555 prodal"},
-  {"owner": "robmhapove-ze-suche", "owner_wiki": "Robmhapové ze Suché", "person": "Albrecht a Zikmund Robmhapové ze Suché", "from": 1555, "to": 1637, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupili Jáchym z Hradce, Jiří z Gerštorfu a poručníci nezletilých bratří Robmhapů; roku 1610 hrad vyhořel a vrchnost přesídlila do Třemošnice; za stavovského povstání (1618-1620) podpořil Zikmund Robmhap stavy, panství proto změněno na královské manství, 1636 opět zapsáno jako dědičné; 1637 je od zbylých dědiců koupil Ferdinand Robmhap"},
-  {"owner": "robmhapove-ze-suche", "owner_wiki": "Robmhapové ze Suché", "person": "Ferdinand Robmhap ze Suché", "from": 1637, "to": 1717, "from_approx": false, "to_approx": true, "how": "koupe", "note": "po skončení třicetileté války bylo z nařízení Ferdinanda III. opevnění pobořeno; roku 1717 je panství při dělení majetku ještě zmiňováno jako z větší části pusté; další osudy panství až do 20. století článek blíže nepopisuje"},
-  {"owner": "carrettove", "owner_wiki": "Carrettové", "person": null, "from": null, "to": 1933, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "hrad byl roku 1933 po pozemkové reformě předán od nadace Jana Josefa Caretto-Millesima Klubu českých turistů; přesný okamžik a způsob přechodu majetku od Robmhapů k rodu Carretto-Millesimo článek neuvádí"},
-  {"owner": "soukromnik", "owner_wiki": null, "person": "Klub českých turistů", "from": 1933, "to": null, "from_approx": false, "to_approx": true, "how": "dar", "note": "klub provedl rozsáhlé výkopové a konzervační práce; ve druhé polovině 20. století stavbu spravoval okresní národní výbor Chrudim"},
-  {"owner": "mesto", "owner_wiki": null, "person": "Třemošnice", "from": null, "to": null, "from_approx": true, "to_approx": false, "how": "jine", "note": "současným majitelem je město Třemošnice, které provádí průběžnou údržbu a konzervaci; přesný rok přechodu na město článek neuvádí"}
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Václav I.",
+   "from": 1250,
+   "to": 1251,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "zalozeni",
+   "note": "podle T. Durdíka stavebník rozestavěného hradu, který daroval nebo propůjčil Smilovi z Lichtenburka; podle A. Sedláčka a D. Menclové hrad založil přímo Smil; rok je odhad podle první zmínky 1251 (cs.wiki, Ottův slovník uvádí zakladatele Smila ze Žitavy kolem 1250)"
+  },
+  {
+   "owner": "lichtenburkove",
+   "owner_wiki": "Lichtenburkové",
+   "person": "Smil z Lichtenburka, syn Oldřich, vnuk Jindřich",
+   "from": 1251,
+   "to": 1323,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "lenni",
+   "note": "Smil poprvé doložen 1251 v přídomku (opis listiny z 16. stol., nejistá spolehlivost), na hradě 1261 a 1267; rozestavěný hrad dokončil ve zmenšené podobě; Jindřich z Lichtenburka jej později přenechal králi Janu Lucemburskému (cs.wiki neví, zda prodejem, vrácením či výměnou, ani kdy; Ottův slovník uvádí prodej); rok 1323 je nejstarší zmínka o hradu jako královském"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Jan Lucemburský",
+   "from": 1323,
+   "to": 1331,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "jine",
+   "note": "1323 poprvé zmíněna jako královský majetek; 1331 je na hradě vicepurkrabí Štěpán z Tetína"
+  },
+  {
+   "owner": "z-tetina",
+   "owner_wiki": null,
+   "person": "Štěpán z Tetína",
+   "from": 1331,
+   "to": 1333,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "nejspíše zástavní držitel (cs.wiki), Ottův slovník uvádí zástavu od 1331; 1333 hrad vykoupil kralevic Karel IV."
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Karel IV.",
+   "from": 1333,
+   "to": 1346,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "jine",
+   "note": "vykoupení ze zástavy; královská komora hrad spravovala jen několik let, poté jej drželi páni z Lipé"
+  },
+  {
+   "owner": "pani-z-lipe",
+   "owner_wiki": "Páni z Lipé",
+   "person": "Jindřich mladší z Lipé",
+   "from": 1346,
+   "to": 1350,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "lenni",
+   "note": "hrad získal 1346; Karel IV. jej znovu vyplatil ze zástavy; konec držby je odvozen z roku 1350 (Majestas Carolina), přesný rok cs.wiki neuvádí"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Karel IV., Václav IV.",
+   "from": 1350,
+   "to": 1394,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "Karel IV. hrad 1350 v Majestas Carolina zařadil mezi nezastavitelné a za života jej nezastavil, v letech 1379-1394 jsou doloženi purkrabí; 1394 jej zastavil Václav IV."
+  },
+  {
+   "owner": "z-opocna",
+   "owner_wiki": null,
+   "person": "Štěpán z Opočna",
+   "from": 1394,
+   "to": 1397,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "lenni",
+   "note": "zástava od Václava IV. koncem roku 1394; 11. června 1397 zavražděn na Karlštejně; konec zástavy cs.wiki výslovně neuvádí"
+  },
+  {
+   "owner": "neznamo",
+   "owner_wiki": null,
+   "from": 1397,
+   "to": 1410,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "zástavní držitelé na počátku 15. stol. jsou nejasní (cs.wiki); hrad sloužil jako základna loupeživých nájezdů pod purkrabím Ješkem z Trojovic; krátce po 1410 hrad vyplatil Václav IV."
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Václav IV.",
+   "from": 1410,
+   "to": 1419,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "jine",
+   "note": "po roce 1410 ze zástavy vyplatil z mimořádné berně; 1414-1418 purkrabí Oneš z Měkovic; po jeho smrti 1419 hrad získala vdova"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Žofie Bavorská",
+   "from": 1419,
+   "to": 1421,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "jine",
+   "note": "vdovské věno (cs.wiki: královna Žofie, bez bližšího označení); purkrabí Petr z Chlumu do roku 1421; v dubnu 1421 hrad bez boje vydán husitům"
+  },
+  {
+   "owner": "lichtenburkove",
+   "owner_wiki": "Lichtenburkové",
+   "person": "Hynek Krušina z Lichtenburka",
+   "from": 1421,
+   "to": 1422,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "husitský velitel, hrad převzal od purkrabího Petra z Chlumu a následujícího roku jej přenechal Janu Městeckému z Opočna"
+  },
+  {
+   "owner": "z-opocna",
+   "owner_wiki": null,
+   "person": "Jan Městecký z Opočna",
+   "from": 1422,
+   "to": 1429,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "po obležení sirotky 1428-1429 slíbil přidat se na stranu sirotků (25. listopadu 1429), správou hradu byl pověřen Jan Hertvík z Rušinova"
+  },
+  {
+   "owner": "z-rusinova",
+   "owner_wiki": null,
+   "person": "Jan Hertvík z Rušinova",
+   "from": 1429,
+   "to": 1458,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "konfiskace",
+   "note": "husitský hejtman; držel hrad bez zápisu (Ottův slovník), pánem hradu ještě 1455; král Zikmund 1437 zapsal Lichnici jako věno královně Barboře, ta však hrad nevyplatila; zástavu vyplatil až po roce 1458 Jiří z Poděbrad"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Jiří z Poděbrad",
+   "from": 1458,
+   "to": 1470,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "jine",
+   "note": "po roce 1458 vyplatil ze zástavy, hrad využil 1469 k odražení vpádu Matyáše Korvína; 1470 jej lstí obsadil Vít ze Rzavého"
+  },
+  {
+   "owner": "z-rzaveho",
+   "owner_wiki": null,
+   "person": "Vít ze Rzavého",
+   "from": 1470,
+   "to": 1473,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "odpůrce krále, hrad lstí obsadil a plenil okolí; 1473 jej vyhnala zemská hotovost nejvyššího purkrabího Jana Jence z Janovic"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "královna Johana (z Rožmitálu)",
+   "from": 1473,
+   "to": 1475,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "cs.wiki: hrad poté patřil až do roku 1475 královně Johaně (Ottův slovník ji uvádí jako držitelku už za Jiřího); krátce před smrtí přenechala panství synům"
+  },
+  {
+   "owner": "minsterberkove",
+   "owner_wiki": "Minsterberkové",
+   "person": "Hynek, syn královny Johany",
+   "from": 1475,
+   "to": 1489,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "při dělení 2. února 1476 dostal Lichnici (cs.wiki jej nazývá Hynek z Rožmitálu, Ottův slovník kníže minsterberský); 6. února 1489 se zástavy vzdal ve prospěch krále Matyáše a Jana Korvína s výhradou doživotního užívání; totožnost rodu je podle dvou zdrojů nejistá"
+  },
+  {
+   "owner": "tetourove-z-tetova",
+   "owner_wiki": "Tetourové z Tetova",
+   "person": "Vilém Tetour z Tetova",
+   "from": 1476,
+   "to": 1490,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "lenni",
+   "note": "po krátké době po 1476 mu Hynek hrad zastavil za 10 000 zlatých; Tetour byl ve službách krále Matyáše; konec zástavy v roce 1490 odvozen z vyplacení králem Vladislavem II. (cs.wiki přesný rok neuvádí)"
+  },
+  {
+   "owner": "trckove-z-lipy",
+   "owner_wiki": "Trčkové z Lípy",
+   "person": "Mikuláš mladší Trčka z Lípy",
+   "from": 1490,
+   "to": 1510,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "majetek vyplatil Vladislav II. a věnoval mu jej (nejpozději prosinec 1490); 1499 mu zvýšil zástavní sumu; hrad přestavěl; 18. června 1510 zapsal Lichnici tetě"
+  },
+  {
+   "owner": "trckove-z-lipy",
+   "owner_wiki": "Trčkové z Lípy",
+   "person": "Johana z Březovic",
+   "from": 1510,
+   "to": 1516,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "vdova po Mikuláši starším Trčkovi z Lípy; zemřela 14. července 1516 ve Vlašimi"
+  },
+  {
+   "owner": "trckove-z-lipy",
+   "owner_wiki": "Trčkové z Lípy",
+   "person": "synové Johany z Březovic",
+   "from": 1516,
+   "to": 1533,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "majetek postoupila pěti synům (cs.wiki), Ottův slovník uvádí rok 1516"
+  },
+  {
+   "owner": "trckove-z-lipy",
+   "owner_wiki": "Trčkové z Lípy",
+   "person": "Zdeněk Trčka z Lípy",
+   "from": 1533,
+   "to": 1534,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "1533 připadla Zdeňkovi, který ji 1534 postoupil Janovi staršímu"
+  },
+  {
+   "owner": "trckove-z-lipy",
+   "owner_wiki": "Trčkové z Lípy",
+   "person": "Jan starší Trčka z Lípy",
+   "from": 1534,
+   "to": 1539,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "jine",
+   "note": "vlastnil pět let, poté prodal Janovi mladšímu"
+  },
+  {
+   "owner": "trckove-z-lipy",
+   "owner_wiki": "Trčkové z Lípy",
+   "person": "Jan mladší Trčka z Lípy",
+   "from": 1539,
+   "to": 1549,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "zemřel bez dědiců okolo 1549 (cs.wiki to uvádí u Jana staršího, Ottův slovník u Jana mladšího - rozpor)"
+  },
+  {
+   "owner": "trckove-z-lipy",
+   "owner_wiki": "Trčkové z Lípy",
+   "person": "Vilém Trčka z Lípy",
+   "from": 1549,
+   "to": 1555,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "jine",
+   "note": "král Ferdinand I. jej pověřil správou majetku; pro dluhy 1555 panství prodal"
+  },
+  {
+   "owner": "robmhapove-ze-suche",
+   "owner_wiki": "Robmhapové ze Suché",
+   "person": "Albrecht a Václav Robmhapové ze Suché",
+   "from": 1555,
+   "to": 1564,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupili poručníci nezletilých bratří (Jáchym z Hradce, Jiří z Gerštorfu, Marjana a Valš Robmhapové); Albrecht spravoval majetek sám od 1557; 1564 se bratři rozdělili"
+  },
+  {
+   "owner": "robmhapove-ze-suche",
+   "owner_wiki": "Robmhapové ze Suché",
+   "person": "Albrecht Robmhap ze Suché",
+   "from": 1564,
+   "to": 1592,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "Lichnici si ponechal při dělení; 1578 mu král Rudolf II. nechal panství převést ze zástavy do dědičného vlastnictví; sídlil v Třemošnici, hrad chátral; závěť z 22. října 1592"
+  },
+  {
+   "owner": "robmhapove-ze-suche",
+   "owner_wiki": "Robmhapové ze Suché",
+   "person": "Zikmund Robmhap ze Suché",
+   "from": 1592,
+   "to": 1624,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "z dědiců dostal Lichnici; 1610 hrad vyhořel, vrchnost sídlila v Třemošnici; po stavovském povstání statek změněn na královské manství"
+  },
+  {
+   "owner": "robmhapove-ze-suche",
+   "owner_wiki": "Robmhapové ze Suché",
+   "person": "Arnošt a Ferdinand Robmhapové ze Suché",
+   "from": 1624,
+   "to": 1637,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "1626 přijali Lichnici jako léno jménem všech bratří; 1636 Ferdinand III. panství propustil z manství"
+  },
+  {
+   "owner": "robmhapove-ze-suche",
+   "owner_wiki": "Robmhapové ze Suché",
+   "person": "Ferdinand Robmhap ze Suché",
+   "from": 1637,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "11. května 1637 koupil statek od zbylých bratří a matky; po třicetileté válce nechal opevnění pobořit (nařízení Ferdinanda III.); 1717 popsán hrad jako většinou pustý; datum konce držby cs.wiki neuvádí"
+  },
+  {
+   "owner": "carrettove",
+   "owner_wiki": "Carrettové",
+   "person": "Millesimové (Caretto-Millesimo)",
+   "from": 1747,
+   "to": 1850,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "podle egeon.cz se od 1747 jako majitelé uvádějí Millesimové a Ottův slovník uvádí připojení k ronovskému panství 1747 (cs.wiki přechod od Robmhapů neuvádí)"
+  },
+  {
+   "owner": "carrettove",
+   "owner_wiki": "Carrettové",
+   "person": "nadace Jana Josefa Caretto-Millesima",
+   "from": 1850,
+   "to": 1933,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "vlastnictví nadace od 1850 podle egeon.cz (méně spolehlivý zdroj); 1933 hrad při pozemkové reformě přešel na Klub českých turistů"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Klub českých turistů",
+   "from": 1933,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "hrad získal od nadace po pozemkové reformě (způsob nabytí cs.wiki neuvádí); provedl výkopové a konzervační práce, zřídil rozhlednu a muzeum; konec držby cs.wiki neuvádí"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": "Okresní národní výbor Chrudim",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "cs.wiki a egeon.cz uvádějí jen, že byl správcem hradu ve 2. polovině 20. stol.; vlastnický titul není uveden"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "Třemošnice",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "současný vlastník (cs.wiki, web města Třemošnice), průběžná údržba a konzervace; rok a způsob přechodu zdroje neuvádějí"
+  }
  ],
  "events": [
-  {"year": 1251, "text": "první písemná zmínka o hradu v přídomku Smila z Lichtenburka"},
-  {"year": 1421, "text": "hrad bez boje dobylo husitské vojsko Hynka Krušiny z Lichtenburka a Jana Želivského"},
-  {"year": 1428, "text": "sirotčí vojsko Prokopa Malého a Jana Královce hrad neúspěšně obléhalo přes rok (do listopadu 1429)"},
-  {"year": 1469, "text": "hrad úspěšně odrazil vpád vojska Matyáše Korvína"},
-  {"year": 1610, "text": "hrad vyhořel, obnoveny jen některé místnosti, vrchnost přesídlila do Třemošnice"},
-  {"year": 1648, "text": "po třicetileté válce bylo z nařízení Ferdinanda III. opevnění hradu pobořeno"},
-  {"year": 1933, "text": "hrad získal Klub českých turistů a zahájil rozsáhlé konzervační a výzkumné práce"}
+  {
+   "year": 1251,
+   "text": "první písemná zmínka o hradu v přídomku Smila z Lichtenburka"
+  },
+  {
+   "year": 1421,
+   "text": "hrad bez boje dobylo husitské vojsko Hynka Krušiny z Lichtenburka a Jana Želivského"
+  },
+  {
+   "year": 1428,
+   "text": "sirotčí vojsko Prokopa Malého a Jana Královce hrad neúspěšně obléhalo přes rok (do listopadu 1429)"
+  },
+  {
+   "year": 1469,
+   "text": "hrad úspěšně odrazil vpád vojska Matyáše Korvína"
+  },
+  {
+   "year": 1610,
+   "text": "hrad vyhořel, obnoveny jen některé místnosti, vrchnost přesídlila do Třemošnice"
+  },
+  {
+   "year": 1648,
+   "text": "po třicetileté válce bylo z nařízení Ferdinanda III. opevnění hradu pobořeno"
+  },
+  {
+   "year": 1747,
+   "text": "Lichnice připojena k ronovskému panství (Ottův slovník naučný)"
+  },
+  {
+   "year": 1933,
+   "text": "hrad získal Klub českých turistů a zahájil rozsáhlé konzervační a výzkumné práce"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Lichnice"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Lichnice",
+  "https://cs.wikisource.org/wiki/Ottův_slovník_naučný/Lichnice",
+  "https://egeon.cz/cile/2484/zricenina-hradu-lichnice",
+  "https://www.tremosnice.cz/zivot-ve-meste/lichnice/"
+ ]
 }

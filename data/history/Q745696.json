@@ -6,7 +6,7 @@
   "approx": true,
   "text": "Hrad založil král Karel IV. (pojmenoval jej Karlskrone) nejspíše roku 1356, jako náhradu za zastaralý starý plzeňský hrad; stavba byla hotova roku 1361. Projekt nejspíše vypracoval Michal Parléř, stavbu vedl Vít Hedvábný."
  },
- "summary": "Hrad Radyně (původně Karlskrone) založil kolem roku 1356 král Karel IV. jako opěrný bod královské moci u Plzně; zůstal královským majetkem, spravovaným purkrabími a manským systémem, až do roku 1400, kdy jej Václav IV. poprvé zastavil. Během 15. a počátku 16. století se v zástavní a později dědičné držbě vystřídala řada nižších i vyšších šlechticů (Litovicové, Hrdoň z Dubňan, Kořenští z Terešova, páni ze Šternberka), hrad ztrácel význam, kolem poloviny 16. století vyhořel a roku 1558 byl označen za pustý. Od roku 1561 patřil ke šťáhlavskému panství Kokořovců z Kokořova, později Černínů z Chudenic a Valdštejnů, kteří zříceninu roku 1823 romanticky upravili. Roku 1920 ji koupila obec Starý Plzenec, v 50. letech připadla státu a od počátku 90. let 20. století je opět majetkem města Starý Plzenec, které ji zpřístupňuje veřejnosti.",
+ "summary": "Hrad Radyně (původně Karlskrone) založil kolem roku 1356 král Karel IV. jako opěrný bod královské moci u Plzně; zůstal královským majetkem, spravovaným purkrabími a manským systémem, až do roku 1400, kdy jej Václav IV. poprvé zastavil. Během 15. a počátku 16. století se v zástavní a později dědičné držbě vystřídala řada nižších i vyšších šlechticů (Litovicové, Hrdoň z Dubňan, Kořenští z Terešova, páni ze Šternberka; po Albrechtovi ze Šternberka hrad 1529 zkonfiskován Ferdinandem I.), hrad ztrácel význam, kolem poloviny 16. století vyhořel a roku 1558 byl označen za pustý. Od roku 1561 patřil ke šťáhlavskému panství Kokořovců z Kokořova, později Černínů z Chudenic a Valdštejnů, kteří zříceninu roku 1823 romanticky upravili. Roku 1920 ji koupila obec Starý Plzenec, v 50. letech připadla státu a od počátku 90. let 20. století je opět majetkem města Starý Plzenec, které ji zpřístupňuje veřejnosti.",
  "owners": [
   {
    "owner": "koruna",
@@ -33,7 +33,7 @@
   {
    "owner": "koruna",
    "owner_wiki": null,
-   "person": "Oldřich z Letkova (purkrabí)",
+   "person": "královští purkrabí (Oldřich z Letkova, 1427-1431 Jindřich Švejda ze Sedlce)",
    "from": 1410,
    "to": 1434,
    "from_approx": true,
@@ -61,18 +61,29 @@
    "from_approx": false,
    "to_approx": false,
    "how": "lenni",
-   "note": "jediný majitel po roce 1437; padl 1450 ve službách zemského správce při obléhání Gery"
+   "note": "jediný majitel po roce 1437; padl 1450 ve službách zemského správce při obléhání Gery; hrady.cz a oshr.cz uvádějí Dobeše jako samostatného pána až od 1442 (cs.wiki od 1437)"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1450,
+   "to": 1454,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "držitel 1450-1454 není jistý (cs.wiki: mohl jím být Oldřich z Rakové); podle hrady.dejiny.cz se hrad po Dobešově smrti nakrátko vrátil do královského držení"
   },
   {
    "owner": "z-rakove",
    "owner_wiki": null,
    "person": "Oldřich z Rakové",
-   "from": 1450,
+   "from": 1454,
    "to": 1465,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "lenni",
-   "note": "držitel v letech 1450-1454 nejistý; 1454 král Ladislav Pohrobek zastavil hrad Zdeňkovi ze Šternberka za 300 kop grošů, ten jej ale nejspíš vzápětí přenechal do zástavy Oldřichovi z Rakové; rod bez vlastního cs.wiki článku"
+   "note": "1454 král Ladislav Pohrobek zastavil hrad Zdeňkovi ze Šternberka za 300 kop grošů, ten jej nejspíše vzápětí přenechal do zástavy Oldřichovi z Rakové, jemuž zůstal do 1465 (cs.wiki); rod bez vlastního cs.wiki článku"
   },
   {
    "owner": "korensti-z-teresova",
@@ -86,6 +97,17 @@
    "note": "později hrad prodal a přestěhoval se nejspíše do Vlhav; noví majitelé mezi 1483-1496 nejsou v pramenech uvedeni"
   },
   {
+   "owner": "neznamo",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1483,
+   "to": 1496,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Petr Kořenský hrad někdy po 1483 prodal, kupec není v pramenech uveden (cs.wiki, hrady.dejiny.cz)"
+  },
+  {
    "owner": "sternberkove",
    "owner_wiki": "Šternberkové",
    "person": "Ladislav ze Šternberka",
@@ -93,41 +115,52 @@
    "to": 1521,
    "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "zástavní částka zvýšena Vladislavem Jagellonským; Ladislav na hradě nesídlil, ale roku 1500 získal výhradní právo lovu"
+   "how": "lenni",
+   "note": "1496 král Vladislav Jagellonský zvýšil zástavní částku o 1000 kop grošů (hrady.cz: zástava za půjčku 1000 kop králi); Ladislav na hradě nesídlil, ale roku 1500 získal výhradní právo lovu; zemřel bezdětný 1521"
   },
   {
    "owner": "sternberkove",
    "owner_wiki": "Šternberkové",
-   "person": "Jan II. ze Šternberka, synové Adam a Jaroslav (podle Bělohlávka Albrecht ze Šternberka)",
+   "person": "Albrecht ze Šternberka",
    "from": 1521,
    "to": 1529,
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "prameny se rozcházejí - podle jedné verze zdědil bratr Jan II. a poté synové Adam a Jaroslav, podle M. Bělohlávka Albrecht ze Šternberka, jemuž hrad 1529 zkonfiskoval Ferdinand I. Habsburský; kolem té doby hrad vyhořel"
+   "note": "po bratru Ladislavovi; Albrecht byl odpůrce Ferdinanda I., 1529 po prozrazení spiknutí zbaven statků (oshr.cz uvádí 1528). Tuto verzi uvádí M. Bělohlávek, hrady.cz, hrady.dejiny.cz i oshr.cz; cs.wiki ji uvádí vedle verze, že dědil bratr Jan II. a jeho synové Adam a Jaroslav; kolem té doby hrad vyhořel"
+  },
+  {
+   "owner": "pani-z-rozmitalu",
+   "owner_wiki": "Páni z Rožmitálu",
+   "person": "Zdeněk Lev z Rožmitálu",
+   "from": 1529,
+   "to": 1532,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "1529 Ferdinand I. Albrechtovi hrad zkonfiskoval a panství Zelená Hora s Radyní dal do zástavy Zdeňku Lvovi z Rožmitálu (cs.wiki, hrady.cz); 1532 mu bylo pro dluhy zabaveno"
   },
   {
    "owner": "koruna",
    "owner_wiki": null,
    "person": "Ferdinand I. Habsburský",
-   "from": 1529,
+   "from": 1532,
    "to": 1536,
    "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "spojené panství Zelená Hora ještě 1532 dočasně drženo v zástavě Zdeňkem Lvem z Rožmitálu, zabaveno pro dluhy"
+   "note": "panství zabaveno Zdeňkovi Lvovi z Rožmitálu pro dluhy"
   },
   {
    "owner": "sternberkove",
    "owner_wiki": "Šternberkové",
-   "person": "Adam ze Šternberka",
+   "person": "Adam ze Šternberka, poté syn Zdeněk",
    "from": 1536,
-   "to": 1558,
+   "to": 1561,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "koupil Zelenou Horu i s Radyní do dědičného vlastnictví; 1558 při zápisu do zemských desek už Radyně označena jako pustý hrad"
+   "note": "1536 koupil Zelenou Horu i s Radyní od krále do dědičného vlastnictví (podle cs.wiki synovec Albrechta); 1558 při zápisu do zemských desek už Radyně označena jako pustý hrad; roku 1561 Adamův syn Zdeněk prodal svou polovinu panství s Radyní Jiřímu Kokořovci (hrady.cz, oshr.cz)"
   },
   {
    "owner": "kokorovcove-z-kokorova",
@@ -197,16 +230,48 @@
   }
  ],
  "events": [
-  {"year": 1361, "text": "dokončena stavba hradu, král vydává listinu s výsadami pro obyvatele Starého Plzence"},
-  {"year": 1400, "text": "Václav IV. poprvé zastavuje hrad Zachařovi z Litovic"},
-  {"year": 1433, "text": "Hrdoň z Dubňan se zaslouží o obranu husity obležené Plzně, za což získává hrad do zástavy"},
-  {"year": 1529, "text": "Ferdinand I. Habsburský konfiskuje hrad Šternberkům, kolem té doby hrad vyhořel"},
-  {"year": 1558, "text": "hrad zapsán do zemských desek jako pustý"},
-  {"year": 1823, "text": "Kristián Vincenc z Valdštejna nechává zříceninu romanticky upravit"},
-  {"year": 1920, "text": "obec Starý Plzenec kupuje hrad a zakládá spolek na jeho záchranu"},
-  {"year": 1981, "text": "po rozsáhlé opravě znovu otevřen návštěvníkům"}
+  {
+   "year": 1361,
+   "text": "dokončena stavba hradu, král vydává listinu s výsadami pro obyvatele Starého Plzence"
+  },
+  {
+   "year": 1400,
+   "text": "Václav IV. poprvé zastavuje hrad Zachařovi z Litovic"
+  },
+  {
+   "year": 1433,
+   "text": "Hrdoň z Dubňan se zaslouží o obranu husity obležené Plzně, za což získává hrad do zástavy"
+  },
+  {
+   "year": 1529,
+   "text": "Ferdinand I. Habsburský konfiskuje hrad Albrechtovi ze Šternberka (podle jedné verze Šternberkům), kolem té doby hrad vyhořel"
+  },
+  {
+   "year": 1536,
+   "text": "Adam ze Šternberka kupuje Zelenou Horu i s Radyní do dědičného vlastnictví"
+  },
+  {
+   "year": 1558,
+   "text": "hrad zapsán do zemských desek jako pustý"
+  },
+  {
+   "year": 1823,
+   "text": "Kristián Vincenc z Valdštejna nechává zříceninu romanticky upravit"
+  },
+  {
+   "year": 1920,
+   "text": "obec Starý Plzenec kupuje hrad a zakládá spolek na jeho záchranu"
+  },
+  {
+   "year": 1981,
+   "text": "po rozsáhlé opravě znovu otevřen návštěvníkům"
+  }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Radyně"
+  "https://cs.wikipedia.org/wiki/Radyně",
+  "https://www.hrady.cz/hrad-radyne-stary-plzenec/texty?tid=25098",
+  "http://hrady.dejiny.cz/radyne/",
+  "https://www.oshr.cz/pecujeme-o/hradradyne/o-hradu-radyne/",
+  "https://www.hrad-radyne.cz/o-hradu/"
  ]
 }

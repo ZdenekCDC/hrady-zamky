@@ -2,37 +2,241 @@
  "id": "Q1375348",
  "name": "Raduň",
  "founded": {
-  "year": 1550,
+  "year": 1320,
   "approx": true,
-  "text": "Zámek vznikl přestavbou starší gotické tvrze (doba vzniku tvrze cs.wiki neuvádí); renesanční zámek na jejím místě nechal po roce 1550 vybudovat Jiřík Tvorkovský z Kravař."
+  "text": "Středověká tvrz na raduňském návrší doložená pravděpodobně k roku 1320 (web zámku, NPÚ); renesanční zámek na jejím místě nechal po roce 1550 vybudovat Jiřík Tvorkovský z Kravař."
  },
- "summary": "Renesanční zámek v Raduni nechal po roce 1550 na místě starší gotické tvrze postavit Jiřík Tvorkovský z Kravař; jeho rod jej držel do poloviny 17. století. Po sňatcích a dědictvích se v majetku vystřídali Bruntálští z Vrbna, Bockové z Burgvic, Gruttschreiberové a Larischové, za nichž byl zámek v letech 1822-1825 empírově přestavěn. Sňatkem přešel na rod Blücherů von Wahlstatt, kterým byl za druhé světové války uvalena nucená správa a po roce 1945 byl majetek postupně konfiskován; od roku 1949 je zámek majetkem státu a dnes jej spravuje Národní památkový ústav.",
+ "summary": "Renesanční zámek v Raduni nechal po roce 1550 na místě starší gotické tvrze postavit Jiřík Tvorkovský z Kravař; jeho rod jej držel do poloviny 17. století. Po sňatcích a dědictvích se v majetku vystřídali Bruntálští z Vrbna, Bockové z Burgvic, Gruttschreiberové a Larischové, za nichž byl zámek v letech 1822-1825 klasicistně (empírově) přestavěn. Sňatkem přešel na rod Blücherů von Wahlstatt, kterým byl za druhé světové války uvalena nucená správa a po roce 1945 byl majetek postupně konfiskován; od roku 1949 je zámek majetkem státu a dnes jej spravuje Národní památkový ústav.",
  "owners": [
-  {"owner": "tvorkovsti-z-kravar", "owner_wiki": "Tvorkovští z Kravař", "person": "Jiřík Tvorkovský z Kravař a manželka Anna Haugvicová z Biskupic", "from": 1550, "to": 1586, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "nejvyšší komorník Opavského knížectví; nechal po roce 1550 postavit renesanční zámek, zemřel 1586 bez mužského dědice"},
-  {"owner": "tvorkovsti-z-kravar", "owner_wiki": "Tvorkovští z Kravař", "person": "Pertold Tvorkovský z Kravař", "from": 1586, "to": null, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "synovec Jiříka Tvorkovského; za jeho držby v roce 1621 vojsko Jana Jiřího Krnovského vyplenilo panství, u zámku proběhla bitva s císařskými vojáky"},
-  {"owner": "tvorkovsti-z-kravar", "owner_wiki": "Tvorkovští z Kravař", "person": "Hynek z Tvorkova a Kravař, manžel Heleny Eleonory Sedlnické z Choltic", "from": null, "to": 1652, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "po jeho smrti se ovdovělá Helena Eleonora podruhé provdala a panství přešlo na jejího nového manžela"},
-  {"owner": "bruntalsti-z-vrbna", "owner_wiki": "Bruntálští z Vrbna", "person": "Albrecht hrabě z Vrbna a Bruntálu", "from": 1652, "to": null, "from_approx": false, "to_approx": true, "how": "snatek", "note": "získal panství druhým sňatkem s Helenou Eleonorou Sedlnickou z Choltic, vdovou po Hynkovi z Tvorkova a Kravař"},
-  {"owner": "z-burgvic", "owner_wiki": null, "person": "svobodní páni Bockové z Burgvic (sňatkem s Johannou Terezií, dcerou Albrechta z Vrbna)", "from": null, "to": 1738, "from_approx": true, "to_approx": false, "how": "snatek", "note": "cs.wiki bez samostatného článku o rodu"},
-  {"owner": "gruttschreiberove", "owner_wiki": null, "person": "svobodní páni Gruttschreiberové", "from": 1738, "to": null, "from_approx": false, "to_approx": true, "how": "neznamo", "note": "cs.wiki bez samostatného článku o rodu; způsob nabytí neuveden, za jejich panování zámek i hospodářství pustly"},
-  {"owner": "monnichove", "owner_wiki": null, "person": "Jan Václav Mönnich", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "krátká država, cs.wiki bez samostatného článku o rodu"},
-  {"owner": "larischove", "owner_wiki": "Larischové", "person": "Jan de Matha Josef Antonín hrabě Larisch-Mönnich a manželka Anna Marie Tekla (dcera Jana Václava Mönnicha)", "from": null, "to": 1829, "from_approx": true, "to_approx": false, "how": "snatek", "note": "hrabě Larisch se stal majitelem panství sňatkem; zadal empírovou přestavbu zámku architekta Antona Englische (plán 1816, stavba 1822-1825); vlastnicky patřilo panství zjevně jeho manželce Anně Marii, po jejíž smrti 1829 dědila dcera"},
-  {"owner": "larischove", "owner_wiki": "Larischové", "person": "Marie Nepomucena (dcera Anny Marie Larisch-Mönnichové)", "from": 1829, "to": 1832, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "roku 1832 se provdala za hraběte Gebharda Bernharda Blüchera von Wahlstatt"},
-  {"owner": "blucherove", "owner_wiki": null, "person": "Gebhard Bernhard Blücher von Wahlstatt", "from": 1832, "to": 1875, "from_approx": false, "to_approx": true, "how": "snatek", "note": "cs.wiki bez samostatného článku o rodu; zadal úpravy zámku (1838, oprava sýpky po požáru 1841); zdroj uvádí k roku 1875 úmrtí 'hraběte Larische', což je patrně nepřesnost/překlep v článku - chronologicky jde zřejmě o tohoto Blüchera"},
-  {"owner": "blucherove", "owner_wiki": null, "person": "Gebhard Lebrecht Blücher (syn)", "from": 1875, "to": null, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "čestný rytíř řádu maltézských rytířů, na zámku pobýval jen občasně"},
-  {"owner": "blucherove", "owner_wiki": null, "person": "Gebhard Lebrecht Blücher (vnuk, stejného jména)", "from": null, "to": 1912, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "koncem 19. století provedl další interiérové i exteriérové přestavby (mj. nová knihovna)"},
-  {"owner": "blucherove", "owner_wiki": null, "person": "Wilhelm Lothar Blücher", "from": 1912, "to": 1928, "from_approx": false, "to_approx": false, "how": "jine", "note": "roku 1912 na něj byl přepsán zadlužený velkostatek; zemřel 1928 ve švýcarském sanatoriu, zanechal tři nezletilé syny"},
-  {"owner": "blucherove", "owner_wiki": null, "person": "Hugo Blücher (nejstarší syn)", "from": 1928, "to": 1948, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "za německé okupace (do 1945) byla na zámek uvalena nucená správa; po osvobození se ujal péče o majetek, zemřel 1948"},
-  {"owner": "blucherove", "owner_wiki": null, "person": "Alexandr Blücher (nejmladší syn)", "from": 1948, "to": 1949, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "zdědil po bratru Hugovi (bratr Mikuláš zahynul 1943 při vojenské akci RAF); po postupných konfiskacích v roce 1949 s matkou opustil Raduň navždy"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1949, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "po znárodnění připadl zámek Ministerstvu zemědělství, později se vystřídalo více institucí i MNV/ONV Opava; od roku 2002 spravuje Národní památkový ústav"}
+  {
+   "owner": "tvorkovsti-z-kravar",
+   "owner_wiki": "Tvorkovští z Kravař",
+   "person": "Jiřík Tvorkovský z Kravař a manželka Anna Haugvicová z Biskupic",
+   "from": 1550,
+   "to": 1586,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "nejvyšší komorník Opavského knížectví; nechal po roce 1550 postavit renesanční zámek, zemřel 1586 bez mužského dědice; de.wiki uvádí přestavbu na renesanční zámek až 1586 (cs.wiki: po 1550, požár a přestavba 1582)"
+  },
+  {
+   "owner": "tvorkovsti-z-kravar",
+   "owner_wiki": "Tvorkovští z Kravař",
+   "person": "Pertold Tvorkovský z Kravař",
+   "from": 1586,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "synovec Jiříka Tvorkovského; za jeho držby v roce 1621 vojsko Jana Jiřího Krnovského vyplenilo panství, u zámku proběhla bitva s císařskými vojáky"
+  },
+  {
+   "owner": "tvorkovsti-z-kravar",
+   "owner_wiki": "Tvorkovští z Kravař",
+   "person": "Hynek z Tvorkova a Kravař, manžel Heleny Eleonory Sedlnické z Choltic",
+   "from": null,
+   "to": 1652,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "po jeho smrti se ovdovělá Helena Eleonora podruhé provdala a panství přešlo na jejího nového manžela"
+  },
+  {
+   "owner": "bruntalsti-z-vrbna",
+   "owner_wiki": "Bruntálští z Vrbna",
+   "person": "Albrecht hrabě z Vrbna a Bruntálu",
+   "from": 1652,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "snatek",
+   "note": "získal panství druhým sňatkem s Helenou Eleonorou Sedlnickou z Choltic, vdovou po Hynkovi z Tvorkova a Kravař"
+  },
+  {
+   "owner": "z-burgvic",
+   "owner_wiki": null,
+   "person": "svobodní páni Bockové z Burgvic (sňatkem s Johannou Terezií, dcerou Albrechta z Vrbna)",
+   "from": null,
+   "to": 1738,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "snatek",
+   "note": "cs.wiki bez samostatného článku o rodu"
+  },
+  {
+   "owner": "gruttschreiberove",
+   "owner_wiki": null,
+   "person": "svobodní páni Gruttschreiberové",
+   "from": 1738,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "cs.wiki bez samostatného článku o rodu; způsob nabytí neuveden, za jejich panování zámek i hospodářství pustly"
+  },
+  {
+   "owner": "monnichove",
+   "owner_wiki": null,
+   "person": "Jan Václav Mönnich",
+   "from": null,
+   "to": null,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "krátká država, cs.wiki bez samostatného článku o rodu"
+  },
+  {
+   "owner": "larischove",
+   "owner_wiki": "Larischové",
+   "person": "Jan de Matha Josef Antonín hrabě Larisch-Mönnich (manžel Anny Marie Tekly, dcery Jana Václava Mönnicha)",
+   "from": null,
+   "to": 1820,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "snatek",
+   "note": "majitelem panství se stal sňatkem s dcerou Jana Václava Mönnicha; zadal klasicistní (empírovou) přestavbu zámku architekta Antona Englische (plán 1816, stavba 1822-1825); podle de.wiki zemřel 1820 a podle webu zámku zemřel dříve, než byla přestavba uskutečněna"
+  },
+  {
+   "owner": "larischove",
+   "owner_wiki": "Larischové",
+   "person": "Anna Marie Tekla Larisch-Mönnichová (vdova)",
+   "from": 1820,
+   "to": 1829,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "po manželově smrti vedla dokončení přestavby zámku a úpravy areálu (oranžérie, anglický park; web zámku); rok jejího nástupu odvozen z roku úmrtí manžela (1820, de.wiki); zemřela 1829 (cs.wiki), panství zdědila dcera"
+  },
+  {
+   "owner": "larischove",
+   "owner_wiki": "Larischové",
+   "person": "Marie Nepomucena (dcera Anny Marie Larisch-Mönnichové)",
+   "from": 1829,
+   "to": 1832,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "dcera Anny Marie; roku 1832 (29. října, de.wiki) se provdala za hraběte Gebharda Bernharda Blüchera von Wahlstatt (vnuk pruského maršála); de.wiki: velkostatek vnesla do manželství (*1801, †1889)"
+  },
+  {
+   "owner": "blucherove",
+   "owner_wiki": null,
+   "person": "Gebhard Bernhard Blücher von Wahlstatt",
+   "from": 1832,
+   "to": 1875,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "snatek",
+   "note": "Blücher von Wahlstatt (cs.wiki bez článku o rodu); zadal úpravy zámku (1838, oprava sýpky po požáru 1841); cs.wiki uvádí k roku 1875 úmrtí 'hraběte Larische' - Larisch-Mönnich zemřel 1820, jde tedy o chybu v cs.wiki a rok 1875 tak nelze potvrdit; dle de.wiki žila na zámku i jeho manželka Marie (†1889) a syn Gebhard Leberecht"
+  },
+  {
+   "owner": "blucherove",
+   "owner_wiki": null,
+   "person": "Gebhard Lebrecht Blücher (syn)",
+   "from": 1875,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "čestný rytíř řádu maltézských rytířů, na zámku pobýval jen občasně"
+  },
+  {
+   "owner": "blucherove",
+   "owner_wiki": null,
+   "person": "Gebhard Lebrecht Blücher (vnuk, stejného jména)",
+   "from": null,
+   "to": 1912,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "koncem 19. století provedl další interiérové i exteriérové přestavby (mj. nová knihovna)"
+  },
+  {
+   "owner": "blucherove",
+   "owner_wiki": null,
+   "person": "Wilhelm Lothar Blücher",
+   "from": 1912,
+   "to": 1928,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "roku 1912 na něj byl přepsán zadlužený velkostatek; zemřel 1928 ve švýcarském sanatoriu, zanechal tři nezletilé syny"
+  },
+  {
+   "owner": "blucherove",
+   "owner_wiki": null,
+   "person": "Hugo Blücher (nejstarší syn)",
+   "from": 1928,
+   "to": 1948,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "za německé okupace (do 1945) byla na zámek uvalena nucená správa; po osvobození se ujal péče o majetek, zemřel 1948"
+  },
+  {
+   "owner": "blucherove",
+   "owner_wiki": null,
+   "person": "Alexandr Blücher (nejmladší syn)",
+   "from": 1948,
+   "to": 1949,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "zdědil po bratru Hugovi (bratr Mikuláš zahynul 1943 při vojenské akci RAF); po postupných konfiskacích v roce 1949 s matkou opustil Raduň navždy"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1949,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "po znárodnění připadl zámek Ministerstvu zemědělství, později se vystřídalo více institucí i MNV/ONV Opava; od roku 2002 spravuje Národní památkový ústav"
+  }
  ],
  "events": [
-  {"year": 1582, "text": "zámek zničen požárem a přestavěn na trojpodlažní trojkřídlí se třemi věžemi"},
-  {"year": 1621, "text": "vojsko Jana Jiřího Krnovského vyplenilo panství, u zámku se odehrála bitva s císařskými vojáky"},
-  {"year": 1825, "text": "dokončena empírová přestavba zámku podle plánu Antona Englische"},
-  {"year": 1912, "text": "zadlužený velkostatek přepsán na Wilhelma Lothara Blüchera"},
-  {"year": 1949, "text": "poslední majitelé rodiny Blücherů opouštějí Raduň po konfiskacích"},
-  {"year": 1984, "text": "po celkové obnově zpřístupněny restaurované interiéry veřejnosti"},
-  {"year": 2002, "text": "správu státního zámku přebírá Národní památkový ústav"}
+  {
+   "year": 1582,
+   "text": "zámek zničen požárem a přestavěn na trojpodlažní trojkřídlí se třemi věžemi"
+  },
+  {
+   "year": 1621,
+   "text": "vojsko Jana Jiřího Krnovského vyplenilo panství, u zámku se odehrála bitva s císařskými vojáky"
+  },
+  {
+   "year": 1820,
+   "text": "zemřel Jan de Matha Larisch-Mönnich před dokončením přestavby; vedla ji vdova Anna Marie Tekla"
+  },
+  {
+   "year": 1825,
+   "text": "dokončena empírová přestavba zámku podle plánu Antona Englische"
+  },
+  {
+   "year": 1832,
+   "text": "Marie Nepomucena Larisch-Mönnichová se provdala za Gebharda Bernharda Blüchera von Wahlstatt a panství přešlo na Blüchery"
+  },
+  {
+   "year": 1912,
+   "text": "zadlužený velkostatek přepsán na Wilhelma Lothara Blüchera"
+  },
+  {
+   "year": 1949,
+   "text": "poslední majitelé rodiny Blücherů opouštějí Raduň po konfiskacích"
+  },
+  {
+   "year": 1984,
+   "text": "po celkové obnově zpřístupněny restaurované interiéry veřejnosti"
+  },
+  {
+   "year": 2002,
+   "text": "správu státního zámku přebírá Národní památkový ústav"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Raduň_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Raduň_(zámek)",
+  "https://de.wikipedia.org/wiki/Schloss_Raduň",
+  "https://www.zamek-radun.cz/cs/o-zamku/historie"
+ ]
 }

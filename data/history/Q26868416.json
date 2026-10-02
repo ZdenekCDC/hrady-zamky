@@ -2,33 +2,77 @@
  "id": "Q26868416",
  "name": "Tovačov",
  "founded": {
-  "year": 1350,
-  "approx": true,
+  "year": null,
+  "approx": false,
   "text": "Na místě zámku stávala od 14. století vodní tvrz přebudovaná na hrad, majetek pánů z Cimburka (Tovačovských z Cimburka); na renesanční zámek jej koncem 15. století přestavěl Ctibor Tovačovský z Cimburka"
  },
- "summary": "Tovačovský zámek vznikl přestavbou staršího vodního hradu, který od 14. století drželi páni z Cimburka; na renesanční sídlo jej koncem 15. století přestavěl Ctibor Tovačovský z Cimburka. Po vymření Cimburků (1502) se v držení vystřídali Pernštejnové, Illésházyové, Salmové, Petřvaldští z Petřvaldu a Küenburgové, na konci 19. století zámek koupil a novorenesančně přestavěl průmyslník David Gutmann. Po druhé světové válce a znárodnění majetku Gutmannů připadl zámek státu a od roku 1994 je majetkem města Tovačova.",
+ "summary": "Tovačovský zámek vznikl přestavbou staršího vodního hradu, který od 14. století drželi páni z Cimburka; na renesanční sídlo jej koncem 15. století přestavěl Ctibor Tovačovský z Cimburka. Po vymření Cimburků (1502) se v držení vystřídali Pernštejnové (s mezidobím Juana Manrique de Lara), Illésházyové, Salmové, Petřvaldští z Petřvaldu a Küenburgové, na konci 19. století zámek koupil a novorenesančně přestavěl průmyslník David Gutmann. Po druhé světové válce a znárodnění majetku Gutmannů připadl zámek státu a od roku 1994 je majetkem města Tovačova.",
  "owners": [
   {
    "owner": "pani-z-cimburka",
    "owner_wiki": "Páni z Cimburka",
    "person": "Tovačovští z Cimburka, zejména Ctibor Tovačovský z Cimburka",
-   "from": 1350,
+   "from": 1327,
    "to": 1502,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
-   "how": "zalozeni",
-   "note": "od 14. století majetkem pánů z Cimburka (větev Tovačovští z Cimburka); Ctibor Tovačovský z Cimburka (zemřel 1494) zahájil koncem 15. století přestavbu na renesanční zámek; rod vymřel roku 1502"
+   "how": "neznamo",
+   "note": "de.wiki: páni z Cimburka drželi Tovačov 1327-1502 (od 1359 jako Tovačovští z Cimburka); cs.wiki uvádí jen 'od 14. století'; Ctibor Tovačovský z Cimburka (zemřel 1494) přestavěl hrad na renesanční zámek (Spanilá věž 1492); rod vymřel roku 1502; způsob nabytí hradu zdroje neuvádějí"
   },
   {
    "owner": "pernstejnove",
    "owner_wiki": "Pernštejnové",
-   "person": "Vilém z Pernštejna",
+   "person": "Vilém II. z Pernštejna",
    "from": 1503,
-   "to": 1597,
+   "to": 1521,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "koupeno za 24000 kop grošů; ve čtyřech generacích Pernštejnové pokračovali ve stavebních úpravách, Jan z Pernštejna kvůli dluhům panství roku 1597 prodal"
+   "note": "koupě za 24000 kop grošů (cs.wiki, de.wiki); čtyři generace Pernštejnů se podílely na stavebních úpravách"
+  },
+  {
+   "owner": "pernstejnove",
+   "owner_wiki": "Pernštejnové",
+   "person": "Jan IV. z Pernštejna",
+   "from": 1521,
+   "to": 1548,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "de.wiki: panství zdědil 1521 syn Jan"
+  },
+  {
+   "owner": "pernstejnove",
+   "owner_wiki": "Pernštejnové",
+   "person": "Vratislav II. z Pernštejna",
+   "from": 1548,
+   "to": 1567,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "de.wiki: dědictví převzal 1548; roku 1567 přenechal panství švagrovi Juanu Manrique de Lara"
+  },
+  {
+   "owner": "manrique-de-lara",
+   "owner_wiki": null,
+   "person": "Juan Manrique de Lara",
+   "from": 1567,
+   "to": 1591,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "de.wiki: dostal panství od švagra Vratislava z Pernštejna 1567; sňatkem jeho dcery Marie s bratrancem Janem z Pernštejna se panství 1591 vrátilo Pernštejnům; v cs.wiki tento mezičlánek chybí"
+  },
+  {
+   "owner": "pernstejnove",
+   "owner_wiki": "Pernštejnové",
+   "person": "Jan z Pernštejna (1561-1597)",
+   "from": 1591,
+   "to": 1597,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "kvůli dluhům z dlouhé turecké války panství zastavil Žerotínům (de.wiki); cs.wiki uvádí, že vysoké dluhy a tlak věřitelů ho přiměly Tovačov prodat 1597; po jeho smrti u Ráby 1597 panství podle de.wiki prodal Žerotín"
   },
   {
    "owner": "illeshazyove",
@@ -39,7 +83,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "uherský šlechtic; cs.wiki nemá samostatný článek o rodu, id zvoleno podle příjmení"
+   "note": "uherský šlechtic (1541-1609); cs.wiki nemá samostatný článek o rodu, id zvoleno podle příjmení"
   },
   {
    "owner": "salmove-wigerichovci",
@@ -55,35 +99,68 @@
   {
    "owner": "petrvaldsti-z-petrvaldu",
    "owner_wiki": "Petřvaldští z Petřvaldu",
-   "person": null,
+   "person": "Jan Jetřich Gerhart z Petřvaldu",
    "from": 1715,
-   "to": 1763,
+   "to": 1724,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "později získali i Přerov, hlavní sídlo měli v Buchlovicích; rod vymřel 1763"
+   "note": "koupil 1715, zemřel 1734; roku 1724 přenechal Tovačov synovi Milotovi Antonínovi (cs.wiki Petřvaldští z Petřvaldu); de.wiki uvádí držbu Petřvaldských 1715-1736, sídlili mimo město (Buchlovice), panství spravovali správci"
+  },
+  {
+   "owner": "petrvaldsti-z-petrvaldu",
+   "owner_wiki": "Petřvaldští z Petřvaldu",
+   "person": "Milota Antonín z Petřvaldu",
+   "from": 1724,
+   "to": 1762,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "od otce dostal Tovačov 1724 (už 1724 zdědil i po strýci Milotovi), 1745 koupil přerovské panství; zemřel 1762 bez potomků"
+  },
+  {
+   "owner": "petrvaldsti-z-petrvaldu",
+   "owner_wiki": "Petřvaldští z Petřvaldu",
+   "person": "Bernard Jan z Petřvaldu",
+   "from": 1762,
+   "to": 1763,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "poslední z rodu, zemřel 15. 5. 1763 svobodný; Tovačov se přes substituci dostal rodu Küenburgů"
   },
   {
    "owner": "kuenburgove",
    "owner_wiki": "Küenburgové",
-   "person": "hrabě František Josef Küenburg",
+   "person": "hrabě František Josef Küenburg (1714-1793) a potomci",
    "from": 1763,
    "to": 1887,
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "vzdálený příbuzný Petřvaldských, převzal Tovačov s Přerovem; kvůli dluhům musel Přerov prodat, tovačovský zámek obohatil o severní křídlo; v 19. století rod přesídlil na zámek Střílky a Tovačov zůstal opuštěn, prodán zadluženým Františkem Küenburgem (1844-1900)"
+   "note": "vzdálený příbuzný Petřvaldských, převzal Tovačov s Přerovem na základě substituce (cs.wiki Petřvaldští); Přerov kvůli dluhům prodal, zámek rozšířil o severní křídlo (dokončeno 1766 podle de.wiki), po požáru 1783 chátral; v 19. století Küenburgové sídlili na zámku Střílky; prodal zadlužený František Küenburg (1844-1900); de.wiki uvádí držbu Küenburgů 1763-1887"
   },
   {
    "owner": "soukromnik",
    "owner_wiki": null,
    "person": "David Gutmann, poté syn Wilhelm Hermann Gutmann",
    "from": 1887,
-   "to": 1939,
+   "to": 1941,
    "from_approx": false,
    "to_approx": true,
    "how": "koupe",
-   "note": "židovský průmyslník, koupil za více než 2,5 milionu zlatých a provedl rozsáhlou novorenesanční přestavbu (architekt Max Fleischer); Wilhelm Hermann Gutmann kvůli židovskému původu roku 1939 emigroval do Švýcarska a po válce se marně domáhal navrácení majetku"
+   "note": "židovský průmyslník David Gutmann (1834-1912) koupil velkostatek za více než 2,5 milionu zlatých (cs.wiki; 1887-1902 přestavba podle de.wiki, architekt Max Fleischer); posledním soukromým majitelem Wilhelm Hermann Gutmann (1889-1966), který kvůli židovskému původu 1939 emigroval do Švýcarska; de.wiki: majetek vyvlastněn 1941 (rok je přibližný, cs.wiki udává jen německou správu po vyhlášení protektorátu); po válce se marně domáhal navrácení"
+  },
+  {
+   "owner": "neznamo",
+   "owner_wiki": null,
+   "person": "německá okupační správa (Říšská pracovní služba)",
+   "from": 1941,
+   "to": 1945,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "za protektorátu centrum germanizace Hané a rekreační středisko; rok 1941 podle de.wiki, cs.wiki uvádí jen 'po vyhlášení protektorátu'"
   },
   {
    "owner": "stat",
@@ -94,7 +171,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "za protektorátu zámek sloužil Říšské pracovní službě jako centrum germanizace Hané; po válce převzalo správu velkostatku ministerstvo zemědělství"
+   "note": "1945 převzalo správu velkostatku československé ministerstvo zemědělství; zámek nakonec převzal Městský národní výbor v Tovačově"
   },
   {
    "owner": "mesto",
@@ -105,18 +182,58 @@
    "from_approx": false,
    "to_approx": false,
    "how": "jine",
-   "note": "zámek převzal Městský národní výbor v Tovačově (muzejní expozice od 1951, obřadní síň od 1952); v letech 1974-1987 zde bylo Okresní vlastivědné muzeum v Přerově; od 1. ledna 1994 je zámek majetkem města Tovačova"
+   "note": "od 1951 Městský národní výbor v Tovačově (muzejní expozice 1951, obřadní síň 1952); pozdější správa Okresního vlastivědného muzea v Přerově (expozice 1974-1987); od 1. ledna 1994 je zámek majetkem města Tovačova"
   }
  ],
  "events": [
-  {"year": 1492, "text": "za Ctibora Tovačovského z Cimburka dokončena Spanilá věž při renesanční přestavbě hradu na zámek"},
-  {"year": 1502, "text": "vymření rodu Cimburků"},
-  {"year": 1503, "text": "Tovačov koupil Vilém z Pernštejna"},
-  {"year": 1659, "text": "za Salmů postavena bohatě zdobená barokní zámecká kaple (1659-1673)"},
-  {"year": 1783, "text": "ničivý požár zámku, poté objekt chátral"},
-  {"year": 1887, "text": "zámek koupil David Gutmann a zahájil novorenesanční přestavbu"},
-  {"year": 1939, "text": "Wilhelm Hermann Gutmann kvůli židovskému původu emigroval"},
-  {"year": 1994, "text": "zámek se stal majetkem města Tovačova"}
+  {
+   "year": 1492,
+   "text": "za Ctibora Tovačovského z Cimburka dokončena Spanilá věž při renesanční přestavbě hradu na zámek"
+  },
+  {
+   "year": 1567,
+   "text": "Vratislav z Pernštejna přenechal panství švagrovi Juanu Manrique de Lara, 1591 se vrátilo Pernštejnům"
+  },
+  {
+   "year": 1502,
+   "text": "vymření rodu Cimburků"
+  },
+  {
+   "year": 1503,
+   "text": "Tovačov koupil Vilém z Pernštejna"
+  },
+  {
+   "year": 1659,
+   "text": "za Salmů postavena bohatě zdobená barokní zámecká kaple (1659-1673)"
+  },
+  {
+   "year": 1715,
+   "text": "Salmové prodali Tovačov Petřvaldským z Petřvaldu"
+  },
+  {
+   "year": 1763,
+   "text": "vymřeli Petřvaldští, Tovačov převzali Küenburgové"
+  },
+  {
+   "year": 1783,
+   "text": "ničivý požár zámku, poté objekt chátral"
+  },
+  {
+   "year": 1887,
+   "text": "zámek koupil David Gutmann a zahájil novorenesanční přestavbu"
+  },
+  {
+   "year": 1939,
+   "text": "Wilhelm Hermann Gutmann kvůli židovskému původu emigroval"
+  },
+  {
+   "year": 1994,
+   "text": "zámek se stal majetkem města Tovačova"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Tovačov_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Tovačov_(zámek)",
+  "https://de.wikipedia.org/wiki/Tovačov",
+  "https://cs.wikipedia.org/wiki/Petřvaldští_z_Petřvaldu"
+ ]
 }

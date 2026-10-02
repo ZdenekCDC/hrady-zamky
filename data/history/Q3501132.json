@@ -6,18 +6,18 @@
   "approx": false,
   "text": "Na místě starší tvrze (doložena 1429, majitel Bohuněk ze Stránova) nechal Jaroš ze Sovojovic v letech 1463-1468 postavit gotický hrad nazvaný Nový Stránov."
  },
- "summary": "Na místě dnešního zámku stála tvrz, na které je roku 1429 doložen Bohuněk ze Stránova; Jaroš ze Sovojovic na jejím místě v letech 1463-1468 postavil gotický hrad Nový Stránov. Od 16. do počátku 19. století se v držení vystřídali Berkové z Dubé, páni z Biberštejna, Slavatové z Chlumu, rod Lisovských, Příchovští z Příchovic a rod Herites, roku 1834 jej koupil rytíř Bedřich Neubauer. Novorenesanční podobu získal zámek přestavbou 1890-1894 na zakázku Marie z Valdštejna, roku 1917 jej koupil průmyslník Josef Šimonek, jehož rodině po znárodnění (1950) a využití jako dětský domov byl navrácen a od roku 2003 jej spravuje Zuzana Pavlíková-Šimonková.",
+ "summary": "Na místě dnešního zámku stála tvrz, na které je roku 1429 doložen Bohuněk ze Stránova; Jaroš ze Sovojovic na jejím místě v letech 1463-1468 postavil gotický hrad Nový Stránov. Od 16. do počátku 19. století se v držení vystřídali Berkové z Dubé, páni z Biberštejna, Slavatové z Chlumu, rod Lisovských, Příchovští z Příchovic a rod Herites, roku 1834 jej koupil rytíř Bedřich Neubauer a roku 1864 od něj Marie Leopoldina Valdštejnová. Novorenesanční podobu získal zámek přestavbou 1890-1894 na její zakázku, roku 1917 jej koupil průmyslník Josef Šimonek, jehož rodině po znárodnění (1950) a využití jako dětský domov byl navrácen a od roku 2003 jej spravuje Zuzana Pavlíková-Šimonková.",
  "owners": [
   {
    "owner": "z-stranova",
    "owner_wiki": null,
    "person": "Bohuněk ze Stránova",
    "from": 1429,
-   "to": 1463,
+   "to": null,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "neznamo",
-   "note": "doložen jako majitel starší tvrze na místě dnešního zámku; přesný konec držby neuveden"
+   "note": "rok 1429 je první zmínka o Bohuňkovi jako majiteli starší (dřevěné) tvrze na místě dnešního zámku; konec jeho držby ani přechod na Jaroše zdroje neuvádějí"
   },
   {
    "owner": "z-sovojovic",
@@ -28,7 +28,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "zalozeni",
-   "note": "postavil gotický hrad Nový Stránov (1463-1468); další osud majetku do roku 1545 wiki neuvádí"
+   "note": "postavil gotický hrad Nový Stránov (1463-1468); osud majetku do roku 1545 zdroje neuvádějí"
   },
   {
    "owner": "berkove-z-dube",
@@ -38,29 +38,30 @@
    "to": 1589,
    "from_approx": false,
    "to_approx": false,
-   "how": "neznamo"
+   "how": "neznamo",
+   "note": "cs.wiki a web zámku uvádějí držbu 1545-1589; konkrétní osobu ani způsob nabytí neuvádějí"
   },
   {
    "owner": "pani-z-biberstejna",
    "owner_wiki": "Páni z Biberštejna",
-   "person": "Karel z Biberštejna",
+   "person": "Karel z Biberštejna (1528?-1593)",
    "from": 1589,
    "to": null,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "císařský rada a nejvyšší mincmistr Království českého; přesný rok přechodu na Slavaty neuveden"
+   "note": "císařský rada a nejvyšší mincmistr Království českého; panství Stránov získal 1589 (cs.wiki Páni z Biberštejna); způsob nabytí ve zdrojích výslovně není, 'koupe' převzato z předchozího zápisu; konec držby zdroje neuvádějí"
   },
   {
    "owner": "slavatove-z-chlumu-a-kosumberka",
    "owner_wiki": "Slavatové z Chlumu a Košumberka",
    "person": "Michal Slavata z Chlumu",
    "from": null,
-   "to": 1642,
+   "to": null,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "snatek",
-   "note": "získal hrad sňatkem; wiki uvádí, že renesanční přestavbu provedl rod Biberštejnů nebo Slavatů (nejednoznačné)"
+   "note": "zdroje uvádějí jen 'později hrad získal sňatkem'; roky nabytí ani konce neuvedeny; renesanční přestavbu na zámek provedli Biberštejnové nebo Slavatové (nejednoznačné)"
   },
   {
    "owner": "z-lisova",
@@ -71,7 +72,7 @@
    "from_approx": true,
    "to_approx": false,
    "how": "koupe",
-   "note": "braniborský šlechtic povýšený do panského stavu za bitvu u Nördlingenu, později velitel v Chebu; potomci se psali jako páni z Lisova"
+   "note": "někdy kolem roku 1642 (cs.wiki 'někdy kolem'); braniborský šlechtic povýšený do panského stavu za bitvu u Nördlingenu, později nejvyšší velitel v Chebu; potomci se po třech generacích hlásili k české národnosti jako páni z Lisova; způsob nabytí zdroje neuvádějí"
   },
   {
    "owner": "z-lisova",
@@ -82,51 +83,73 @@
    "from_approx": false,
    "to_approx": true,
    "how": "dedictvi",
-   "note": "syn Jana z Lisova; s manželkou Alžbětou Lidmilou (pravnučkou Tychona Braha) zde dlouho sídlil"
+   "note": "syn Jana; sídlil na zámku s manželkou Alžbětou Lidmilou (pravnučka Tychona Brahe), která zde prožila značnou část života; rok 1746 je rok sňatku, kterým na panství přistoupil Jan Václav Příchovský"
   },
   {
    "owner": "prichovsti-z-prichovic",
    "owner_wiki": "Příchovští z Příchovic",
-   "person": "Jan Václav Příchovský z Příchovic",
+   "person": "Jan Václav Příchovský z Příchovic (1706-1781)",
    "from": 1746,
-   "to": 1794,
+   "to": 1781,
    "from_approx": false,
    "to_approx": true,
    "how": "snatek",
-   "note": "přistoupil na panství sňatkem 1746; barokní úpravy zámku a okolí; přesný konec držby neuveden, roku 1794 je majitelem již rod Herites"
+   "note": "roku 1746 sňatkem přistoupil na panství; barokní úpravy, zámecká zahrada, kašna, 1767 kostel sv. Václava v předzámčí; rok 1781 je rok jeho úmrtí podle cs.wiki Příchovští, převod na syna není výslovně doložen"
+  },
+  {
+   "owner": "prichovsti-z-prichovic",
+   "owner_wiki": "Příchovští z Příchovic",
+   "person": "František de Paula Antonín Příchovský z Příchovic (1736-1814)",
+   "from": 1781,
+   "to": 1794,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "syn Jana Václava, rada apelačního soudu; panství vlastnil do 1794, kdy je prodal Heritesům (cs.wiki Příchovští z Příchovic); rok 1781 odvozen z úmrtí otce"
   },
   {
    "owner": "z-heritesu",
    "owner_wiki": null,
-   "person": "Jan z Herites; Václav Vojtěch z Herites; Jan Herites; Thadeus baron von Herites",
+   "person": "Jan z Herites (svobodný pán)",
    "from": 1794,
-   "to": 1834,
+   "to": 1830,
    "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "od 1794 majitelem Jan z Herites (cs.wiki; web zámku uvádí jako majitele spíše Václava Vojtěcha z Herites); na zámku spíše pobýval strýc, svatovítský probošt Václav Vojtěch z Herites (zemřel a pochován 1822); po něm o panství pečoval synovec Jan Herites; způsob nabytí (prodej Příchovskými) podle cs.wiki Příchovští; rok 1830 odvozen z formulace 'v posledních čtyřech letech' před prodejem 1834"
+  },
+  {
+   "owner": "z-heritesu",
+   "owner_wiki": null,
+   "person": "Thadeus baron von Herites",
+   "from": 1830,
+   "to": 1834,
+   "from_approx": true,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "od 1794 majitelem Jan z Herites, na zámku ale spíše pobýval jeho strýc, svatovítský probošt Václav Vojtěch z Herites (zemřel a byl pochován 1822 na zámku); poté panství spravoval synovec Jan Herites, nakonec syn Thadeus baron von Herites, který panství 1834 prodal"
+   "how": "dedictvi",
+   "note": "syn Jana Herites, setník; 'v posledních čtyřech letech' před prodejem převzal panství, 1834 jej prodal Bedřichu Neubauerovi; začátek 1830 přibližný"
   },
   {
    "owner": "soukromnik",
    "owner_wiki": null,
    "person": "Bedřich Neubauer",
    "from": 1834,
-   "to": 1890,
+   "to": 1864,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "koupe",
-   "note": "rytíř; přesný rok přechodu na Marii z Valdštejna neuveden, odvozen od data přestavby"
+   "note": "rytíř; roku 1864 statek prodal Marii Leopoldině Valdštejnové (cs.wiki Valdštejnové; web zámku: 'do roku 1864')"
   },
   {
    "owner": "valdstejnove",
    "owner_wiki": "Valdštejnové",
-   "person": "Marie z Valdštejna a Vartenberka",
-   "from": 1890,
+   "person": "Marie Leopoldina Valdštejnová, rozená Schwarzenbergová (1833-1909)",
+   "from": 1864,
    "to": 1917,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "na její zakázku proběhla novorenesanční přestavba zámku 1890-1894 podle projektu Josefa Schulze; způsob nabytí od Neubauerů wiki neuvádí"
+   "how": "koupe",
+   "note": "koupila statek (725 ha, hodnota 340 000 zl.) od Neubauera 1864 (cs.wiki Valdštejnové); 1890-1894 novorenesanční přestavba podle Josefa Schulze (Marie z Valdštejna a Vartenberka); rok 1917 je prodej Šimonkovi"
   },
   {
    "owner": "soukromnik",
@@ -137,7 +160,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "prezident Škodových závodů a senátor, povýšen do šlechtického stavu; syn František Šimonek s rodinou žil na zámku až do znárodnění 1950"
+   "note": "prezident Škodových závodů a senátor, povýšen do šlechtického stavu (baronský stav podle webu zámku); syn František Šimonek s rodinou žil na zámku až do znárodnění 1950"
   },
   {
    "owner": "stat",
@@ -158,18 +181,69 @@
    "to": null,
    "from_approx": false,
    "to_approx": false,
-   "how": "restituce",
-   "note": "wiki uvádí pouze 'zdědila a spravuje'; zámek zpřístupněn veřejnosti roku 2004"
+   "how": "dedictvi",
+   "note": "Stránov je od 2003 opět v rukou rodu Šimonků; wiki uvádí pouze 'zdědila a spravuje' (nejde o restituci v užším smyslu, způsob nabytí neuveden); zámek 2004 poprvé zpřístupněn veřejnosti"
   }
  ],
  "events": [
-  {"year": 1429, "text": "první písemná zmínka o tvrzi, majitel Bohuněk ze Stránova"},
-  {"year": 1463, "text": "Jaroš ze Sovojovic zahajuje stavbu gotického hradu Nový Stránov (dokončen 1468)"},
-  {"year": 1642, "text": "zámek získává Jan z Lisau, pozdější páni z Lisova"},
-  {"year": 1767, "text": "za Jana Václava Příchovského z Příchovic postaven kostel sv. Václava v předzámčí podle Filipa Hegera"},
-  {"year": 1890, "text": "1890-1894 novorenesanční přestavba zámku podle projektu Josefa Schulze"},
-  {"year": 1950, "text": "znárodnění, zámek slouží jako dětský domov"},
-  {"year": 2004, "text": "zámek poprvé ve své historii zpřístupněn veřejnosti"}
+  {
+   "year": 1429,
+   "text": "první písemná zmínka o tvrzi, majitel Bohuněk ze Stránova"
+  },
+  {
+   "year": 1463,
+   "text": "Jaroš ze Sovojovic zahajuje stavbu gotického hradu Nový Stránov (dokončen 1468)"
+  },
+  {
+   "year": 1589,
+   "text": "Karel z Biberštejna získává panství Stránov"
+  },
+  {
+   "year": 1642,
+   "text": "někdy kolem tohoto roku zámek získává Jan z Lisau, pozdější páni z Lisova"
+  },
+  {
+   "year": 1746,
+   "text": "sňatkem přistupuje na panství Jan Václav Příchovský z Příchovic"
+  },
+  {
+   "year": 1767,
+   "text": "za Jana Václava Příchovského z Příchovic postaven kostel sv. Václava v předzámčí podle Filipa Hegera"
+  },
+  {
+   "year": 1794,
+   "text": "Příchovští prodávají panství Heritesům"
+  },
+  {
+   "year": 1834,
+   "text": "Thadeus Herites prodává panství Bedřichu Neubauerovi"
+  },
+  {
+   "year": 1864,
+   "text": "statek kupuje Marie Leopoldina Valdštejnová a 1890-1894 jej přestavuje"
+  },
+  {
+   "year": 1890,
+   "text": "1890-1894 novorenesanční přestavba zámku podle projektu Josefa Schulze"
+  },
+  {
+   "year": 1917,
+   "text": "zámek kupuje Josef Šimonek"
+  },
+  {
+   "year": 1950,
+   "text": "znárodnění, zámek slouží jako dětský domov"
+  },
+  {
+   "year": 2004,
+   "text": "zámek poprvé ve své historii zpřístupněn veřejnosti"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Stránov"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Stránov",
+  "https://zamekstranov.cz/historie-zamku/",
+  "https://cs.wikipedia.org/wiki/Valdštejnové",
+  "https://cs.wikipedia.org/wiki/Příchovští_z_Příchovic",
+  "https://cs.wikipedia.org/wiki/Páni_z_Biberštejna"
+ ]
 }

@@ -6,29 +6,62 @@
   "approx": false,
   "text": "1531-1535 nechal kníže Jiří Hohenzollern vystavět nový renesanční zámek na místě starší dřevěné stavby z éry Přemyslovců, kterou nechal zbourat."
  },
- "summary": "Zámek Krnov v centru města vznikl v letech 1531-1535, kdy jej nechal postavit kníže Jiří Hohenzollern na místě starší dřevěné stavby z doby Přemyslovců. Za třicetileté války byl vyrabován švédskými i dánskými vojsky a roku 1622 byl v rámci pobělohorských konfiskací zabaven Hohenzollernům a spolu s celým knížectvím jej koupil Karel I. z Lichtenštejna; rod Lichtenštejnů jej vlastnil až do konce druhé světové války. V roce 1779 zámek poškodil velký požár, po němž byl přestavěn podle návrhů architekta Jana Kryštofa Fabicha. Po zabavení rodu Lichtenštejnů roku 1945 sloužil k administrativním účelům (sídlil zde Lesní závod Krnov) a dnes je v jeho prostorách kavárna a restaurace, nádvoří je veřejně přístupné.",
+ "summary": "Zámek Krnov v centru města vznikl v letech 1531-1535, kdy jej nechal postavit kníže Jiří Hohenzollern (který knížectví koupil roku 1523) na místě starší dřevěné stavby z doby Přemyslovců. Za třicetileté války byl vyrabován švédskými i dánskými vojsky a po Bílé hoře byl zámek s knížectvím Hohenzollernům zkonfiskován (1621) a roku 1623 jej získal Karel I. z Lichtenštejna; rod Lichtenštejnů jej vlastnil až do konce druhé světové války. V roce 1779 zámek poškodil velký požár, po němž byl přestavěn podle návrhů architekta Jana Kryštofa Fabicha. Po zabavení Lichtenštejnům roku 1945 sloužil k administrativním účelům (Lesní závod Krnov); dnes je sídlem společnosti ZLT a.s., v jeho prostorách je kavárna a restaurace, nádvoří je veřejně přístupné.",
  "owners": [
   {
    "owner": "hohenzollernove",
    "owner_wiki": "Hohenzollernové",
-   "person": "Jiří Hohenzollern",
-   "from": null,
-   "to": 1622,
+   "person": "Jiří Braniborsko-Ansbašský (Jiří Zbožný)",
+   "from": 1523,
+   "to": 1543,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "cs.wiki uvádí koupi Krnovského knížectví jen obecně 'v první polovině 16. století'; přesný rok koupě neuveden, proto from null; kníže nechal zbourat starší dřevěnou stavbu z éry Přemyslovců (vlastník a datace té stavby zdrojem neuvedeny)"
+   "note": "koupil Krnovské knížectví od Jiřího ze Šelmberka (cs.wiki Krnovské knížectví, infokrnov.cz, de.wiki Herzogtum Jägerndorf); 1531-1535 nechal zbourat starší dřevěnou stavbu z éry Přemyslovců a postavit nový renesanční zámek (částečně financovali měšťané); 1543 jako rok konce podle de.wiki"
+  },
+  {
+   "owner": "hohenzollernove",
+   "owner_wiki": "Hohenzollernové",
+   "person": "Jiří Bedřich Hohenzollernský",
+   "from": 1543,
+   "to": 1603,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "syn Jiřího; podle de.wiki Herzogtum Jägerndorf držel knížectví 1543-1603"
+  },
+  {
+   "owner": "hohenzollernove",
+   "owner_wiki": "Hohenzollernové",
+   "person": "Jan Jiří Hohenzollernský",
+   "from": 1606,
+   "to": 1621,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "v 1. desetiletí 17. stol. nechal zámek zkrášlit, 1620 jej navštívil Fridrich Falcký; 1621 knížectví konfiskováno po Bílé hoře (de.wiki, cs.wiki Krnovské knížectví); dědictví po Jiřím Bedřichovi přes kurfiřta Jáchyma Fridricha (1603-1606), který ve zdrojích není podrobně uveden; cs.wiki Krnov (zámek) uvádí konec Hohenzollernů 1622"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Ferdinand II.",
+   "from": 1621,
+   "to": 1623,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "zámek i knížectví zabaveny v rámci pobělohorských konfiskací"
   },
   {
    "owner": "lichtenstejnove",
    "owner_wiki": "Lichtenštejnové",
    "person": "Karel I. z Lichtenštejna",
-   "from": 1622,
+   "from": 1623,
    "to": 1945,
    "from_approx": false,
    "to_approx": false,
-   "how": "koupe",
-   "note": "koupil zámek spolu s celým Krnovským knížectvím po pobělohorské konfiskaci Hohenzollernům"
+   "how": "lenni",
+   "note": "knížectví mu císař převedl 15. března 1623 (de.wiki; cs.wiki Krnov (zámek) uvádí odkoupení spolu s knížectvím, rok 1622); Lichtenštejnové zámek vlastnili do konce 2. světové války; po požáru 1779 přestavba podle Jana Kryštofa Fabicha"
   },
   {
    "owner": "stat",
@@ -39,19 +72,59 @@
    "from_approx": false,
    "to_approx": true,
    "how": "konfiskace",
-   "note": "zabaven rodu Lichtenštejnů roku 1945; sloužil administrativním účelům (Lesní závod Krnov), současný vlastník zdrojem výslovně neuveden"
+   "note": "zabaven rodu Lichtenštejnů 1945; sloužil správě Lesního závodu Krnov (později Lesy ČR podle hrady-zriceniny.cz); rok prodeje dnešnímu vlastníkovi zdroje neuvádějí"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "ZLT a.s.",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "dnešní vlastník podle cs.wiki (infobox) a webu zámku (zamekkrnov.cz, komerční zdroj: zámek je sídlem společnosti ZLT a.s.); rok a způsob nabytí neuvedeny"
   }
  ],
  "events": [
-  {"year": 1531, "text": "kníže Jiří Hohenzollern zahajuje stavbu nového renesančního zámku"},
-  {"year": 1535, "text": "dokončena stavba renesančního zámku"},
-  {"year": 1620, "text": "zámek navštívil český král Fridrich Falcký"},
-  {"year": 1622, "text": "pobělohorská konfiskace, zámek s knížectvím kupuje Karel I. z Lichtenštejna"},
-  {"year": 1779, "text": "velký požár Krnova poškodil i zámek, následovala obnova podle návrhů Jana Kryštofa Fabicha"},
-  {"year": 1945, "text": "zámek zabaven rodu Lichtenštejnů"},
-  {"year": 2022, "text": "rekonstrukce nádvoří, zrušeno parkoviště, propojení s okolím a Zahradou smyslů"}
+  {
+   "year": 1523,
+   "text": "Jiří Braniborsko-Ansbašský z rodu Hohenzollernů kupuje Krnovské knížectví"
+  },
+  {
+   "year": 1531,
+   "text": "kníže Jiří Hohenzollern zahajuje stavbu nového renesančního zámku"
+  },
+  {
+   "year": 1535,
+   "text": "dokončena stavba renesančního zámku"
+  },
+  {
+   "year": 1620,
+   "text": "zámek navštívil český král Fridrich Falcký"
+  },
+  {
+   "year": 1623,
+   "text": "knížectví i zámek získává Karel I. z Lichtenštejna (po konfiskaci 1621)"
+  },
+  {
+   "year": 1779,
+   "text": "velký požár Krnova poškodil i zámek, následovala obnova podle návrhů Jana Kryštofa Fabicha"
+  },
+  {
+   "year": 1945,
+   "text": "zámek zabaven rodu Lichtenštejnů"
+  },
+  {
+   "year": 2022,
+   "text": "rekonstrukce nádvoří, zrušeno parkoviště, propojení s okolím a Zahradou smyslů"
+  }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Krnov_(zámek)"
+  "https://cs.wikipedia.org/wiki/Krnov_(zámek)",
+  "https://cs.wikipedia.org/wiki/Krnovské_knížectví",
+  "https://de.wikipedia.org/wiki/Herzogtum_Jägerndorf",
+  "https://www.zamekkrnov.cz/historie/",
+  "https://hrady-zriceniny.cz/hrad_krnov.htm"
  ]
 }

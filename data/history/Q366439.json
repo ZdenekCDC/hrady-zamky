@@ -17,29 +17,95 @@
    "from_approx": true,
    "to_approx": false,
    "how": "zalozeni",
-   "note": "vladycké manství od Václava IV.; roku 1410 se pro dluhy zadlužil a hrad prodal Jindřichu Leflovi z Lažan; rod bez vlastního cs.wiki článku"
+   "note": "vladycké manství od Václava IV., panství dostal nejspíše 1381; kaple hradu vysvěcena 1383 nebo 1384 (cs.wiki), soupispamatek.cz uvádí 16. září 1383; 14. února 1410 s synem Petrem z Drahobuze prodal panství pro dluhy Jindřichu Leflovi z Lažan za 2 500 kop grošů"
   },
   {
    "owner": "z-lazan",
    "owner_wiki": null,
    "person": "Jindřich Lefl z Lažan",
    "from": 1410,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "od července 1414 zde pobýval Jan Hus a 11. října 1414 odjel do Kostnice; na začátku husitských válek smrtelně raněn v bitvě pod Vyšehradem (cs.wiki rok nedává); panství za něj spravovali purkrabí"
+  },
+  {
+   "owner": "z-lazan",
+   "owner_wiki": null,
+   "person": "Hynek Lefl z Lažan",
+   "from": null,
    "to": 1424,
    "from_approx": false,
    "to_approx": true,
-   "how": "koupe",
-   "note": "od července 1414 na hradě pobýval Jan Hus, než 11. října 1414 odjel na kostnický koncil; Jindřich Lefl padl na počátku husitských válek v bitvě pod Vyšehradem; rod bez vlastního cs.wiki článku"
+   "how": "dedictvi",
+   "note": "starší syn Jindřicha, hrad roku 1424 nebo 1425 zastavil Ondřeji Špalkovi ze Slatiny"
   },
   {
-   "owner": "neznamo",
+   "owner": "ze-slatiny",
    "owner_wiki": null,
-   "person": null,
+   "person": "Ondřej Špalek ze Slatiny",
    "from": 1424,
-   "to": 1437,
+   "to": 1427,
    "from_approx": true,
+   "to_approx": true,
+   "how": "lenni",
+   "note": "purkrabí na Libštejně, zástava 1424 nebo 1425; brzy poté zastavil hrad bratřím z Dubňan, rok 1427 je odvozen z přídomku Hrdoně z Dubňan"
+  },
+  {
+   "owner": "z-dubnan",
+   "owner_wiki": null,
+   "person": "Hrdoň, Gut a Janek z Dubňan",
+   "from": 1427,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "zástava od Ondřeje Špalka; neplatili mu stanovený roční plat a donutili jej z hradu utéct; Hrdoň používal 1427 přídomek seděním na Krakovci; Ondřej je v roce 1429 uváděn jako pán hradu, možná o něj znovu přišel; konec držby cs.wiki neuvádí"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "město Louny",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "hrad nejspíše koupilo od Bořivoje z Lochovic (cs.wiki 'nejspíše'); roky neuvedeny, nejistý záznam"
+  },
+  {
+   "owner": "ze-slatiny",
+   "owner_wiki": null,
+   "person": "Ondřej Špalek ze Slatiny",
+   "from": 1436,
+   "to": 1436,
+   "from_approx": false,
    "to_approx": false,
    "how": "jine",
-   "note": "chaotické období zástav a sporů mezi Hynkem Leflem z Lažan, Ondřejem Špalkem ze Slatiny, bratry Hrdoněm, Gutem a Jankem z Dubňan, městem Louny a Zdislavem Vlkem z Miletic; zemský soud 11. 6. 1437 poměry vrátil dědici Janu Bechyňkovi z Lažan, který hrad týž den prodal dál"
+   "note": "roku 1436 panství získal zpět a vzápětí je prodal Zdislavu Vlkovi z Miletic"
+  },
+  {
+   "owner": "z-miletic",
+   "owner_wiki": null,
+   "person": "Zdislav Vlk z Miletic",
+   "from": 1436,
+   "to": 1437,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "zemský soud 11. června 1437 prodej zrušil a vrátil poměry do stavu před rokem 1427 (Zdislav nezískal všechny statky, část držela bratři Dubňanští)"
+  },
+  {
+   "owner": "z-lazan",
+   "owner_wiki": null,
+   "person": "Jan Bechyňka z Lažan",
+   "from": 1437,
+   "to": 1437,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "skutečný dědic, mladší syn Jindřicha Lefla; hrad převzal a 3. července 1437 prodal Janu Blehovi z Těšnice za 2 400 nebo 2 500 kop grošů"
   },
   {
    "owner": "z-tesnice",
@@ -50,18 +116,40 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "po jeho smrti syn stejného jména panství roku 1443 prodal Janu Vlku z Miletic, od nějž je týž den koupil Albrecht z Kolovrat; rod bez vlastního cs.wiki článku"
+   "note": "po jeho smrti syn stejného jména panství 14. října 1443 prodal Janu Vlkovi z Miletic, od nějž je týž den koupil Albrecht z Kolovrat; podle atlasceska.cz byl Jan Bleh husitský hejtman"
   },
   {
    "owner": "kolowrat-krakowsti",
    "owner_wiki": "Kolowrat-Krakowští",
    "person": "Albrecht z Kolovrat",
    "from": 1443,
+   "to": 1470,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "14. října 1443 koupil spolu s Jaroslavem Plichtou ze Žerotína, jehož podíl 11. května 1445 odkoupil a stal se jediným majitelem; zakladatel větve Krakovských z Kolovrat; zemřel okolo 1470 (soupispamatek.cz uvádí držbu do 1510 - rozpor)"
+  },
+  {
+   "owner": "kolowrat-krakowsti",
+   "owner_wiki": "Kolowrat-Krakowští",
+   "person": "Jindřich Albrecht Krakovský z Kolovrat",
+   "from": 1470,
+   "to": 1530,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "při Albrechtově smrti nezletilý, spravoval poručník Jindřich Berka z Dubé; 1497 dosáhl propuštění z manství do dědičného vlastnictví; zemřel 1530"
+  },
+  {
+   "owner": "kolowrat-krakowsti",
+   "owner_wiki": "Kolowrat-Krakowští",
+   "person": "Albrecht, Hynek a Jan Krakovští z Kolovrat",
+   "from": 1530,
    "to": 1548,
    "from_approx": false,
    "to_approx": false,
-   "how": "koupe",
-   "note": "zakladatel větve Krakovských z Kolovrat; panství se roku 1530 rozdělilo mezi jeho vnuky na tři díly, roku 1548 je Jan, Jiří a Vít Krakovští z Kolovrat společně prodali Janu III. Popelovi z Lobkovic"
+   "how": "dedictvi",
+   "note": "10. srpna 1530 se synové rozdělili na tři díly; Albrecht svůj díl hradu 23. května 1536 prodal Janovi; podíl Hynka zdědili synové Jiří a Vít; 9. června 1548 Jan, Jiří a Vít panství prodali Janu III. Popelovi z Lobkovic za 3 850 kop grošů"
   },
   {
    "owner": "lobkovicove",
@@ -72,7 +160,7 @@
    "from_approx": false,
    "to_approx": true,
    "how": "koupe",
-   "note": "hrad v letech 1548-1565 opraven a přestavěn v renesančním slohu; syn Jan V. Popel z Lobkovic jej prodal, aby získal peníze na koupi Nového hradu"
+   "note": "zastavil za 3 850 kop snaše Anně z Roupova (manželce Jana V.); hrad v letech 1548-1565 opravili a upravili v renesančním slohu; Jan V. jej prodal, aby získal peníze na koupi Nového hradu; rok 1565 odvozen z doby oprav a z pětileté držby Újezdského"
   },
   {
    "owner": "z-cerveneho-ujezdce",
@@ -83,7 +171,7 @@
    "from_approx": true,
    "to_approx": false,
    "how": "koupe",
-   "note": "sídlil na hradě pět let, roku 1570 prodal Kryštofu Jindřichovi Krakovskému z Kolovrat; rod bez vlastního cs.wiki článku"
+   "note": "koupil za 2 000 kop grošů, sídlil na hradě pět let; 24. května 1570 prodal Kryštofu Jindřichovi Krakovskému z Kolovrat za 1 050 kop (rok začátku odvozen z pěti let držby)"
   },
   {
    "owner": "kolowrat-krakowsti",
@@ -94,18 +182,62 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "výrazně zmenšené panství"
+   "note": "výrazně zmenšené panství; 11. února 1588 jej získal Radslav Vchynský ze Vchynic"
   },
   {
    "owner": "kinsti",
    "owner_wiki": "Kinští",
-   "person": "Radslav Vchynský ze Vchynic, Jaroslav Vchynský ze Vchynic, Jiří ze Vchynic a Tetova",
+   "person": "Radslav Vchynský ze Vchynic",
    "from": 1588,
+   "to": 1589,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "zaplatil 1 250 kop grošů, držel jen do 24. října 1589"
+  },
+  {
+   "owner": "kinsti",
+   "owner_wiki": "Kinští",
+   "person": "Jaroslav Vchynský ze Vchynic",
+   "from": 1589,
+   "to": 1614,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil za 16 500 kop míšeňských grošů; zemřel 1614"
+  },
+  {
+   "owner": "kinsti",
+   "owner_wiki": "Kinští",
+   "person": "Jiří ze Vchynic a Tetova",
+   "from": 1614,
+   "to": 1637,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "za stavovského povstání 1618 panství vojsky zpustošeno, hrad se proměnil ve zříceninu (zápis 25. 4. 1625: zámek pustý vytlučený); zemřel 1637 (rok podle petanek.org a hrady.cz, cs.wiki jej neuvádí)"
+  },
+  {
+   "owner": "ze-strosoldu",
+   "owner_wiki": null,
+   "person": "Karel Jiří Štrosold ze Štrosoldu",
+   "from": 1637,
+   "to": 1644,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "nezletilý dědic z rodiny Štrosoldů, do níž se provdala dcera Jiřího; poručník Radslav Jaroslav ze Vchynic nedokázal zadlužené panství udržet a královská komise je 7. června 1644 prodala; rok začátku odvozen z úmrtí Jiřího"
+  },
+  {
+   "owner": "kinsti",
+   "owner_wiki": "Kinští",
+   "person": "Alena Marie Vchynská z Hozlau",
+   "from": 1644,
    "to": 1646,
    "from_approx": false,
    "to_approx": true,
    "how": "koupe",
-   "note": "rod Vchynských ze Vchynic (Kinští z Vchynic a Tetova); za stavovského povstání 1618 bylo panství vojsky zpustošeno a hrad se proměnil ve zříceninu (zápis 1625: 'zámek pustý vytlučený'); po Jiřího smrti spravováno poručníky, roku 1644 prodáno královskou komisí Aleně Marii Vchynské, která je kolem 1646 prodala dál"
+   "note": "koupila za 7 900 kop míšeňských grošů; raději žila v Petrovicích; kolem 1646 panství prodala Šternberkovi"
   },
   {
    "owner": "sternberkove",
@@ -116,29 +248,51 @@
    "from_approx": true,
    "to_approx": false,
    "how": "koupe",
-   "note": "vdova Lidmila Benigna jako poručnice nezletilých synů panství 1651 prodala"
+   "note": "po jeho smrti vdova Lidmila Benigna jako poručnice nezletilých synů 18. října 1651 petrovické panství s Krakovcem prodala za 38 500 zlatých"
   },
   {
    "owner": "kocove-z-dobrse",
    "owner_wiki": "Kocové z Dobrše",
    "person": "Karel Heřman Koc z Dobrše",
    "from": 1651,
-   "to": 1660,
+   "to": 1655,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "po jeho smrti 1655 spory dědiců (vdova Marie Polyxena, bratři Maxmilián Jiří a Diviš Albrecht), panství roku 1660 prodáno manželům z Helversenu"
+   "note": "zemřel 1655"
+  },
+  {
+   "owner": "kocove-z-dobrse",
+   "owner_wiki": "Kocové z Dobrše",
+   "person": "dědici Karla Heřmana Koce z Dobrše",
+   "from": 1655,
+   "to": 1660,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "spory dědiců (vdova Marie Polyxena Libštejnská z Kolovrat, Jaroslav Jáchym, jeho vdova Kateřina Eleonora, bratři Maxmilián Jiří a Diviš Albrecht); zemský soud 1658 přiznal dvě třetiny bratrům; 1660 Diviš Albrecht a Kateřina Eleonora prodali manželům Helversenovým"
   },
   {
    "owner": "z-helversenu",
    "owner_wiki": null,
-   "person": "Ota Jiří z Helversenu",
+   "person": "Ota Jiří z Helversenu a Marie Magdaléna z Dobrše",
    "from": 1660,
-   "to": 1716,
+   "to": null,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "nechal zámek opravit (opravy do 1720) a podle barvy nové střechy začal být zván Červený zámek/Červený hrádek; zadlužení dědicové jej ztratili; rod bez vlastního cs.wiki článku"
+   "note": "nechal zámek opravit (novou střechu podle barvy zván Červený zámek, opravy do 1720); zadlužení dědicové o hrad přišli"
+  },
+  {
+   "owner": "z-helversenu",
+   "owner_wiki": null,
+   "person": "Markéta Františka, vdova po Helversenovi, provdaná z Mitrovic",
+   "from": null,
+   "to": 1716,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "v zastoupení nezletilého syna prodala Krakovec za 42 000 zlatých Karlu Josefu Hildprandtovi; ten se statku ujal 26. března 1716 (petanek.org a soupispamatek.cz uvádějí 1715)"
   },
   {
    "owner": "hildprandtove-z-ottenhausenu",
@@ -149,18 +303,18 @@
    "from_approx": false,
    "to_approx": true,
    "how": "koupe",
-   "note": "syn Jan koupil Slabce a přestěhoval se tam; Krakovec byl obyvatelný do července 1783, kdy jej zasáhl blesk a vyhořel, poté zůstal zříceninou; rok konce držby rodu není v pramenech přesně uveden, odvozen od prodeje Slabců 1847"
+   "note": "syn Jan koupil Slabce a přestěhoval se tam; Krakovec obyvatelný do července 1783, pak po zásahu bleskem zřícenina; rok konce držby cs.wiki neuvádí, odvozen z prodeje slabeckého panství Hugu Nosticovi 1847"
   },
   {
-   "owner": "soukromnik",
-   "owner_wiki": null,
+   "owner": "nosticove",
+   "owner_wiki": "Nosticové",
    "person": "Hugo Nostic",
    "from": 1847,
    "to": 1866,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "koupě spolu se sousedním panstvím Slabce"
+   "note": "koupil slabecké panství (cs.wiki), podle petanek.org spolu s Krakovcem; 1866 jej získal Alex Croy Düllmen"
   },
   {
    "owner": "soukromnik",
@@ -171,42 +325,68 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "Max Croy Düllmen roku 1915 zříceninu daroval rakovnické odbočce Klubu českých turistů"
+   "note": "rok 1866 koupě slabeckého panství; Max Croy Düllmen zříceninu roku 1915 daroval KČT (cs.wiki, petanek.org, atlasceska.cz); soupispamatek.cz uvádí Croy-Dülmeny do 1924 a KČT 1924-1952 - rozpor"
   },
   {
    "owner": "soukromnik",
    "owner_wiki": null,
    "person": "Klub českých turistů, odbočka Rakovník",
    "from": 1915,
-   "to": 1948,
+   "to": 1952,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "dar",
-   "note": "přesný rok přechodu do majetku státu není v pramenech uveden, odhadnut podle poválečného znárodňování spolkového majetku"
+   "note": "dar od Maxe Croy Düllmena; 1914 vznikl Komitét pro zachování zříceniny; atlasceska.cz a soupispamatek.cz uvádějí přechod na stát 1952"
   },
   {
    "owner": "stat",
    "owner_wiki": null,
-   "person": null,
-   "from": 1948,
+   "from": 1952,
    "to": null,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
-   "how": "konfiskace",
-   "note": "dnes majetek České republiky, správu zajišťuje Národní památkový ústav; v letech 2000-2005 postaven novodobý dřevěný most historickými technologiemi"
+   "how": "jine",
+   "note": "od roku 1952 stát (soupispamatek.cz NPÚ, atlasceska.cz: přešel pod státní správu); způsob přechodu zdroje neuvádějí; dnes ve vlastnictví České republiky, správa NPÚ (SH Křivoklátska); 2000-2005 postaven dřevěný most"
   }
  ],
  "events": [
-  {"year": 1384, "text": "vysvěcena hradní kaple, hrad Jíry z Roztok dokončen"},
-  {"year": 1414, "text": "na hradě pobýval Jan Hus, než odjel na kostnický koncil do Kostnice"},
-  {"year": 1443, "text": "hrad kupuje Albrecht z Kolovrat, zakladatel větve Krakovských z Kolovrat"},
-  {"year": 1548, "text": "Krakovští z Kolovrat prodávají hrad Lobkovicům, kteří jej přestavují na renesanční zámek"},
-  {"year": 1618, "text": "za stavovského povstání je panství vojsky zpustošeno, hrad se mění ve zříceninu"},
-  {"year": 1716, "text": "hrad kupují Hildprandtové z Ottenhausenu"},
-  {"year": 1783, "text": "obyvatelný zámek zasažen bleskem a vyhoří, zůstává zříceninou"},
-  {"year": 1915, "text": "Max Croy Düllmen daruje zříceninu rakovnické odbočce Klubu českých turistů"}
+  {
+   "year": 1384,
+   "text": "vysvěcena hradní kaple, hrad Jíry z Roztok dokončen"
+  },
+  {
+   "year": 1414,
+   "text": "na hradě pobýval Jan Hus, než odjel na kostnický koncil do Kostnice"
+  },
+  {
+   "year": 1443,
+   "text": "hrad kupuje Albrecht z Kolovrat, zakladatel větve Krakovských z Kolovrat"
+  },
+  {
+   "year": 1548,
+   "text": "Krakovští z Kolovrat prodávají hrad Lobkovicům, kteří jej přestavují na renesanční zámek"
+  },
+  {
+   "year": 1618,
+   "text": "za stavovského povstání je panství vojsky zpustošeno, hrad se mění ve zříceninu"
+  },
+  {
+   "year": 1716,
+   "text": "hrad kupují Hildprandtové z Ottenhausenu"
+  },
+  {
+   "year": 1783,
+   "text": "obyvatelný zámek zasažen bleskem a vyhoří, zůstává zříceninou"
+  },
+  {
+   "year": 1915,
+   "text": "Max Croy Düllmen daruje zříceninu rakovnické odbočce Klubu českých turistů"
+  }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Krakovec_(hrad)"
+  "https://cs.wikipedia.org/wiki/Krakovec_(hrad)",
+  "https://www.soupispamatek.cz/arl-kcz/en/detail-kcz_un_auth-0000741-Castle-Krakovec/",
+  "https://www.atlasceska.cz/pamatky/zricenina-hradu-krakovec-17607",
+  "https://petanek.org/hrady/hrad-krakovec.htm"
  ]
 }

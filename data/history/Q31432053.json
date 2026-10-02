@@ -1,28 +1,188 @@
 {
  "id": "Q31432053",
  "name": "Hošťálkovy",
- "founded": {"year": 1566, "approx": false, "text": "Předchůdcem dnešního zámku byla tvrz, poprvé připomínaná roku 1566."},
- "summary": "Tvrz v Hošťálkovech, poprvé doloženou 1566, získal roku 1582 dědictvím Jan Skrbenský z Hříště; jeho rod ji na konci 17. století přestavěl na barokní zámek a držel jej až do roku 1831. Poté zámek koupili hrabata von Strachwitz a von Arco, poslednímu šlechtickému majiteli Karlu Maria von Arco byl zámek roku 1945 zkonfiskován na základě Benešových dekretů. Po desetiletích státní správy (dětská zotavovna, domov pro seniory, ústav sociální péče) je dnes zámek v péči Spolku Renesance z.s., který jej postupně rekonstruuje a od roku 2015 zpřístupňuje veřejnosti.",
+ "founded": {
+  "year": 1566,
+  "approx": false,
+  "text": "Předchůdcem dnešního zámku byla tvrz, poprvé připomínaná roku 1566."
+ },
+ "summary": "Tvrz v Hošťálkovech, poprvé doloženou 1566, držel Jiří Tvorkovský z Kravař s manželkou Magdalénou z Fulštejna; roku 1578 ji zdědila Bohunka Kravařská ze Šlevic a po její smrti 1582 manžel Jan Skrbenský z Hříště. Skrbenští tvrz na konci 17. století přestavěli na barokní zámek a drželi jej do roku 1831, poté jej koupili hrabata von Strachwitz a sňatkem von Arco; Karlu Maria von Arco byl zámek roku 1945 zkonfiskován. Po desetiletích státní správy (dětská zotavovna, domov pro seniory, ústav sociální péče do 2006) jej koupila v dražbě 2007 soukromá společnost ALKI a později jej převzal Spolek Renesance z.s., který jej postupně rekonstruuje a od roku 2015 zpřístupňuje veřejnosti.",
  "owners": [
-  {"owner": "z-slevic", "owner_wiki": null, "person": "Bohunka Kravařská ze Šlevic", "from": 1566, "to": 1582, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "tvrz poprvé doložena 1566; hošťálkovské panství zřejmě náleželo jejímu rodu, po její smrti roku 1582 je zdědil manžel Jan Skrbenský z Hříště"},
-  {"owner": "skrbensti-z-hriste", "owner_wiki": "Skrbenští z Hříště", "person": "Jan Skrbenský z Hříště a jeho potomci, naposledy Jan Kryštof Skrbenský z Hříště (1665-1725)", "from": 1582, "to": 1725, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "Jan Skrbenský (+1597) se panství ujal jako dědictví po zesnulé manželce; ve druhé polovině 17. století za Jana Kryštofa Skrbenského nahrazena tvrz novým barokním zámkem; Jan Kryštof byl posledním členem nekatolické větve rodu, mezitiím žijící generace rodu nejsou ve zdroji jmenovány"},
-  {"owner": "skrbensti-z-hriste", "owner_wiki": "Skrbenští z Hříště", "person": "Karel František Skrbenský z Hříště (1684-1768)", "from": 1725, "to": 1768, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "vzdálený katolický příbuzný, pozdější hejtman knížectví Těšínského, trvaleji sídlil na zámku v Šenově u Ostravy"},
-  {"owner": "skrbensti-z-hriste", "owner_wiki": "Skrbenští z Hříště", "person": "Karel Traugott Skrbenský z Hříště (1716-1790)", "from": 1768, "to": 1790, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "učinil z Hošťálkov svou hlavní rezidenci, zámek rozšířil a nákladně vyzdobil, vydržoval hudební kapelu (mj. skladatel Josef Puschmann), na konci 18. stol. pravděpodobně založen anglický park"},
-  {"owner": "skrbensti-z-hriste", "owner_wiki": "Skrbenští z Hříště", "person": null, "from": 1790, "to": 1831, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "rodu patřil zámek až do roku 1831, kdy byl za 140000 zlatých prodán Karlovi hraběti von Strachwitz; noví majitelé po Karlu Traugottovi nejsou ve zdroji jmenováni"},
-  {"owner": "strachwitzove", "owner_wiki": "Strachwitzové", "person": "Karel hrabě von Strachwitz", "from": 1831, "to": 1837, "from_approx": false, "to_approx": false, "how": "koupe", "note": "roku 1831 nechal k dvornímu průčelí západního křídla přistavět portikus"},
-  {"owner": "arco", "owner_wiki": null, "person": "Heinrich hrabě von Arco (1800-1871)", "from": 1837, "to": 1871, "from_approx": false, "to_approx": true, "how": "koupe", "note": "ženatý s Antonií hraběnkou von Strachwitz; při revolučních bouřích byl zámek 1. listopadu 1848 přepaden a zčásti vyrabován, hrabě postřelen na levé ruce"},
-  {"owner": "arco", "owner_wiki": null, "person": "Karl Maria von Arco (1884-1954)", "from": 1871, "to": 1945, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "vnuk Heinricha von Arco, poslední šlechtický majitel zámku a velkostatku; objekt mu byl na základě Benešových dekretů roku 1945 zkonfiskován"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": 2006, "from_approx": false, "to_approx": true, "how": "konfiskace", "note": "objekt předán do správy Církve československé (husitské), která jej využívala jako dětskou zotavovnu (1946-1950) a domov pro seniory (1950-1962); v letech 1962-2006 zde sídlil ústav sociální péče"},
-  {"owner": "soukromnik", "owner_wiki": null, "person": "Spolek Renesance z.s.", "from": 2006, "to": null, "from_approx": true, "to_approx": false, "how": "jine", "note": "přesný rok a způsob nabytí od státu nejsou v článku uvedeny; spolek organizuje rekonstrukci zámku, od 2015 otevřeny interiéry veřejnosti, od 2019 zaveden prohlídkový okruh"}
+  {
+   "owner": "tvorkovsti-z-kravar",
+   "owner_wiki": null,
+   "person": "Jiří Tvorkovský z Kravař (manžel Magdalény z Fulštejna)",
+   "from": 1566,
+   "to": 1578,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "hošťálkovské panství získala Magdaléna z Fulštejna, sestra Lacka Ojíře z Fulštejna, provdaná za Jiřího Tvorkovského z Kravař; roku 1566 poprvé připomínána tvrz (zámek.cz); dříve panství spojené s linhartovským panstvím Fulštejnů"
+  },
+  {
+   "owner": "z-slevic",
+   "owner_wiki": null,
+   "person": "Bohunka Kravařská ze Šlevic",
+   "from": 1578,
+   "to": 1582,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "po smrti Magdalény obdržela jako dědictví ves Hošťálkovy s dvorem, s manželem Janem Skrbenským zahájila stavbu sídla; zemřela 1582, panství zdědil manžel"
+  },
+  {
+   "owner": "skrbensti-z-hriste",
+   "owner_wiki": "Skrbenští z Hříště",
+   "person": "Jan Skrbenský z Hříště a jeho potomci, naposledy Jan Kryštof Skrbenský z Hříště (1665-1725)",
+   "from": 1582,
+   "to": 1725,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "Jan Skrbenský (+1597) se panství ujal jako dědictví po zesnulé manželce; ve druhé polovině 17. století za Jana Kryštofa Skrbenského nahrazena tvrz novým barokním zámkem; Jan Kryštof byl posledním členem nekatolické větve rodu, mezitiím žijící generace rodu nejsou ve zdroji jmenovány; Jan Kryštof od roku 1686 budoval raně barokní zámek, před ním panství vlastnil spisovatel Kryštof Bernard Skrbenský z Hříště (zámek.cz)"
+  },
+  {
+   "owner": "skrbensti-z-hriste",
+   "owner_wiki": "Skrbenští z Hříště",
+   "person": "Karel František Skrbenský z Hříště (1684-1768)",
+   "from": 1725,
+   "to": 1768,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "vzdálený katolický příbuzný, pozdější hejtman knížectví Těšínského, trvaleji sídlil na zámku v Šenově u Ostravy"
+  },
+  {
+   "owner": "skrbensti-z-hriste",
+   "owner_wiki": "Skrbenští z Hříště",
+   "person": "Karel Traugott Skrbenský z Hříště (1716-1790)",
+   "from": 1768,
+   "to": 1790,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "učinil z Hošťálkov svou hlavní rezidenci, zámek rozšířil a nákladně vyzdobil, vydržoval hudební kapelu (mj. skladatel Josef Puschmann), na konci 18. stol. pravděpodobně založen anglický park"
+  },
+  {
+   "owner": "skrbensti-z-hriste",
+   "owner_wiki": "Skrbenští z Hříště",
+   "person": null,
+   "from": 1790,
+   "to": 1831,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "rodu patřil zámek až do roku 1831, kdy byl za 140000 zlatých prodán Karlovi hraběti von Strachwitz; noví majitelé po Karlu Traugottovi nejsou ve zdroji jmenováni"
+  },
+  {
+   "owner": "strachwitzove",
+   "owner_wiki": "Strachwitzové",
+   "person": "Karel hrabě von Strachwitz",
+   "from": 1831,
+   "to": 1837,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "roku 1831 koupil za 140000 zlatých (cs.wiki; web zámku uvádí 40000 zlatých) od zadluženého Skrbenského; nechal k dvornímu průčelí západního křídla přistavět portikus (podle cs.wiki jej přistavěl Heinrich von Arco)"
+  },
+  {
+   "owner": "arco",
+   "owner_wiki": null,
+   "person": "Heinrich hrabě von Arco (1800-1871)",
+   "from": 1837,
+   "to": 1871,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "snatek",
+   "note": "ženatý s Antonií hraběnkou von Strachwitz (web zámku: zámek se k Arcům dostal sňatkem Karlovy dcery Antonie); cs.wiki uvádí nabytí 1837, Arcové drželi objekt 1837-1945; při revolučních bouřích byl zámek 1. listopadu 1848 přepaden a zčásti vyrabován, hrabě postřelen"
+  },
+  {
+   "owner": "arco",
+   "owner_wiki": null,
+   "person": "Karl Maria von Arco (1884-1954)",
+   "from": 1871,
+   "to": 1945,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "vnuk Heinricha von Arco, poslední šlechtický majitel zámku a velkostatku; objekt mu byl na základě Benešových dekretů roku 1945 zkonfiskován"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": 2007,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "konfiskace",
+   "note": "objekt předán do správy Církve československé (husitské): dětská zotavovna (1946-1950), domov pro seniory (1950-1962); 1962-2006 ústav sociální péče (zřizovatel ONV, okresní úřad, poté Moravskoslezský kraj); konec státního vlastnictví odvozen z roku dražby 2007"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "ALKI spol. s r.o.",
+   "from": 2007,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "podle Blesk.cz (2017) současní majitelé zámek koupili v dražbě v roce 2007; web zámku uvádí jako nového majitele soukromou společnost ALKI spol. s r.o. (rok neuveden)"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Spolek Renesance z.s.",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "převod z firmy ALKI na neziskový spolek (zdroj webu zámku, podle prazdnedomy.cz majitel fakticky stejný, 2018 vlastní spolek kvůli dotacím z EU); přesný rok převodu zdroje neuvádějí (nejpozději 2017 podle Blesk.cz); spolek organizuje rekonstrukci, od 2015 interiéry otevřeny veřejnosti, od 2019 prohlídkový okruh"
+  }
  ],
  "events": [
-  {"year": 1566, "text": "první písemná zmínka o hošťálkovské tvrzi"},
-  {"year": 1582, "text": "panství zdědil Jan Skrbenský z Hříště po zesnulé manželce Bohunce Kravařské ze Šlevic"},
-  {"year": 1725, "text": "za Jana Kryštofa Skrbenského nahrazena tvrz barokním zámkem"},
-  {"year": 1831, "text": "zámek prodán za 140000 zlatých Karlovi hraběti von Strachwitz"},
-  {"year": 1848, "text": "zámek při revolučních bouřích přepaden a vyrabován, hrabě Heinrich von Arco postřelen"},
-  {"year": 1945, "text": "zámek na základě Benešových dekretů zkonfiskován Karlu Maria von Arco"},
-  {"year": 2015, "text": "zámecké interiéry poprvé otevřeny pro veřejnost"}
+  {
+   "year": 1566,
+   "text": "první písemná zmínka o hošťálkovské tvrzi"
+  },
+  {
+   "year": 1578,
+   "text": "panství dědí Bohunka Kravařská ze Šlevic"
+  },
+  {
+   "year": 1582,
+   "text": "po smrti Bohunky panství přebírá její manžel Jan Skrbenský z Hříště"
+  },
+  {
+   "year": 1725,
+   "text": "za Jana Kryštofa Skrbenského nahrazena tvrz barokním zámkem"
+  },
+  {
+   "year": 1831,
+   "text": "zámek prodán za 140000 zlatých Karlovi hraběti von Strachwitz"
+  },
+  {
+   "year": 1848,
+   "text": "zámek při revolučních bouřích přepaden a vyrabován, hrabě Heinrich von Arco postřelen"
+  },
+  {
+   "year": 1945,
+   "text": "zámek na základě Benešových dekretů zkonfiskován Karlu Maria von Arco"
+  },
+  {
+   "year": 2007,
+   "text": "zámek koupen v dražbě soukromou společností ALKI"
+  },
+  {
+   "year": 2015,
+   "text": "zámecké interiéry poprvé otevřeny pro veřejnost"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Hošťálkovy_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Hošťálkovy_(zámek)",
+  "https://www.zamekhostalkovy.cz/historie",
+  "https://www.blesk.cz/clanek/regiony-ostrava/463713/nadsenci-koupili-zamek-hostalkovy-v-drazbe-a-ted-ho-davaji-dopucu-uz-do-nej-nalili-tri-miliony.html",
+  "http://prazdnedomy.cz/domy/objekty/detail/3322-zamek-hostalkovy"
+ ]
 }

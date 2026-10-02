@@ -6,44 +6,367 @@
   "approx": true,
   "text": "První písemná zmínka o Paskovu pochází z roku 1267 (listina olomouckého biskupa Bruna ze Schauenberku); tvrz jako taková je poprvé doložena až roku 1484 při sporu o léno."
  },
- "summary": "Zámek Paskov vznikl v 17. století přestavbou starší tvrze, která byla po staletí lenním statkem olomouckého biskupství. Ve vlastnictví panství se vystřídalo mnoho šlechtických i podnikatelských rodin - mimo jiné Pernštejnové, Bruntálští z Vrbna, Oppersdorfové, Mitrovští z Nemyšle, Saint-Genoisové a nakonec hrabata Stolbergové. Po roce 1945 připadl státu a sloužil jako zdravotnické zařízení, roku 2013 jej získalo město Paskov a od roku 2018 v něm sídlí regionální muzeum.",
+ "summary": "Zámek Paskov vznikl v 17. století přestavbou starší tvrze, která byla do 16. století lenním statkem olomouckého biskupství (leníci např. Boskovicové, Žerotínové, Skalové z Doubravky; 1538 vyvázán z lenního svazku). Ve vlastnictví panství se vystřídalo mnoho šlechtických i podnikatelských rodin - mimo jiné Pernštejnové, Bruntálští z Vrbna, Oppersdorfové, Mitrovští z Nemyšle, Saint-Genoisové a nakonec hrabata Stolbergové. Po roce 1945 připadl státu a sloužil jako zdravotnické zařízení, roku 2013 jej získalo město Paskov a od roku 2018 v něm sídlí regionální muzeum.",
  "owners": [
-  {"owner": "cirkev", "owner_wiki": null, "person": null, "from": 1267, "to": 1530, "from_approx": true, "to_approx": false, "how": "lenni", "note": "lenní statek olomouckého biskupství; v jeho držení se jako leníci vystřídaly mj. rodiny Černohorských z Boskovic, Žerotínů a Pernštejnů, přesná léta zdroj neuvádí; tvrz poprvé zmíněna 1484 při sporu o léno"},
-  {"owner": "pernstejnove", "owner_wiki": "Pernštejnové", "person": "Jan z Pernštejna", "from": 1530, "to": 1547, "from_approx": false, "to_approx": false, "how": "jine", "note": "biskup Stanislav I. Thurzo uvolnil Paskov z lenního svazku a stal se dědičným majetkem Jana z Pernštejna"},
-  {"owner": "z-cechovic", "owner_wiki": null, "person": "Čelové z Čechovic", "from": 1547, "to": 1577, "from_approx": false, "to_approx": false, "how": "koupe"},
-  {"owner": "soukromnik", "owner_wiki": null, "person": "Ondřej Dudič z Hořehovice", "from": 1577, "to": 1579, "from_approx": false, "to_approx": false, "how": "koupe", "note": "slezský humanista, učenec a diplomat; z Paskova učinil centrum svých společenských kontaktů, poté panství za nevýhodných podmínek prodal"},
-  {"owner": "z-perkova", "owner_wiki": null, "person": "Ctibor Syrakovský z Pěrkova, poté synové Jan mladší a Ctibor mladší", "from": 1579, "to": 1614, "from_approx": false, "to_approx": false, "how": "koupe", "note": "Ctibor byl dlouholetým nejvyšším zemským písařem na Moravě; nechal rozšířit tvrz; zadlužení synové ji roku 1614 prodali"},
-  {"owner": "z-belkovic", "owner_wiki": null, "person": "Kateřina Onšíková z Bělkovic", "from": 1614, "to": 1617, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupila panství za 52000 zlatých; potírala projevy katolické víry"},
-  {"owner": "z-hofu", "owner_wiki": null, "person": "Kryštof Cedlar z Hofu", "from": 1617, "to": 1619, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "bratranec Kateřiny Onšíkové; sídlil spíše na zámku ve Zlíně; zúčastnil se stavovského povstání, zemřel 1619"},
-  {"owner": "z-hofu", "owner_wiki": null, "person": "Anna Cedlarová z Hofu", "from": 1619, "to": 1622, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "sestra Kryštofa; podporovala stavovskou opozici, majetek jí byl zabaven při pobělohorských konfiskacích"},
-  {"owner": "koruna", "owner_wiki": null, "person": null, "from": 1622, "to": 1624, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "konfiskát ve správě dvorské komory"},
-  {"owner": "bruntalsti-z-vrbna", "owner_wiki": "Bruntálští z Vrbna", "person": "Václav Bruntálský z Vrbna", "from": 1624, "to": 1656, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil konfiskát za 50000 zlatých; přestavěl tvrz na raně barokní zámek (práce probíhaly ještě 1640-1646); po jeho smrti pokračovala v úpravách vdova Alžběta roz. Dembinská"},
-  {"owner": "bruntalsti-z-vrbna", "owner_wiki": "Bruntálští z Vrbna", "person": "Jan František Bruntálský z Vrbna", "from": 1656, "to": 1690, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "na Paskově se zdržoval málo, dlouho se snažil panství prodat"},
-  {"owner": "oppersdorfove", "owner_wiki": "Oppersdorfové", "person": "Bedřich z Oppersdorfu", "from": 1690, "to": 1699, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupě za 63000 zlatých"},
-  {"owner": "oppersdorfove", "owner_wiki": "Oppersdorfové", "person": "František Josef z Oppersdorfu, poté vdova Anna Františka", "from": 1699, "to": 1717, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "moravský zemský hejtman, zanechal dluhy a byl usvědčen z defraudace; vdova musela panství prodat"},
-  {"owner": "hochove", "owner_wiki": null, "person": "Filip Ignác Hoch", "from": 1717, "to": 1731, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupě ve veřejné dražbě za 74000 zlatých; vedl spor o hranice panství se Skrbenskými z Hříště"},
-  {"owner": "rebentischove", "owner_wiki": null, "person": "Samuel František Rebentisch", "from": 1731, "to": 1734, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupě za 100000 zlatých; v Paskově sám nikdy nebyl"},
-  {"owner": "rebentischove", "owner_wiki": null, "person": "Marie Paula Rebentischová, roz. Gallanegh", "from": 1734, "to": 1758, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "spravovala panství za nezletilé syny, sídlila na zámku; 1736 se podruhé provdala za Jana Daniela Fürstenbusche"},
-  {"owner": "rebentischove", "owner_wiki": null, "person": "Achác Jan Nepomuk Rebentisch", "from": 1758, "to": 1765, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "krajský hejtman v Uherském Hradišti, zadlužil zděděný majetek a rozprodal mobiliář, nakonec byl nucen panství prodat"},
-  {"owner": "z-kettenburgu", "owner_wiki": null, "person": "Karel Pamesberger z Kettenburgu", "from": 1765, "to": 1779, "from_approx": false, "to_approx": false, "how": "koupe", "note": "olomoucký obchodník a podnikatel, koupě za 125000 zlatých; dědicové neměli na Moravě inkolát"},
-  {"owner": "mitrovsti-z-mitrovic-a-nemysle", "owner_wiki": "Mitrovští z Mitrovic a Nemyšle", "person": "Josef Antonín Mitrovský z Nemyšle", "from": 1779, "to": 1808, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupě za 125000 zlatých; c.k. polní zbrojmistr, vybudoval knihovnu"},
-  {"owner": "mitrovsti-z-mitrovic-a-nemysle", "owner_wiki": "Mitrovští z Mitrovic a Nemyšle", "person": "Antonín Bedřich Mitrovský", "from": 1808, "to": 1809, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "synovec Josefa Antonína; o Paskov neměl zájem a hned jej nabídl k prodeji"},
-  {"owner": "saint-genois-d-anneaucourt", "owner_wiki": null, "person": "Filip Ludvík Saint-Genois d'Anneaucourt", "from": 1809, "to": 1848, "from_approx": false, "to_approx": false, "how": "koupe", "note": "belgický šlechtic, koupě za půl miliónu zlatých; inicioval klasicistní úpravy a rozšíření parku, sídlil hlavně na zámku Jaworze ve Slezsku"},
-  {"owner": "saint-genois-d-anneaucourt", "owner_wiki": null, "person": "Mořic Saint-Genois", "from": 1848, "to": 1880, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "krátce poslanec moravského zemského sněmu; po požáru 1869 provedl stavební úpravy; zámek prodal svému zeti Güntheru Stolbergovi"},
-  {"owner": "stolbergove", "owner_wiki": null, "person": "Günther Stolberg-Stolberg", "from": 1880, "to": 1926, "from_approx": false, "to_approx": false, "how": "koupe", "note": "dlouholetý poslanec moravského zemského sněmu; provedl četné stavební úpravy zámku a parku (balkon 1888-1893, kaple 1913)"},
-  {"owner": "stolbergove", "owner_wiki": null, "person": "Otto Stolberg-Stolberg", "from": 1926, "to": 1945, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "přihlásil se k německé národnosti, za okupace uvolnil část zámku jako lazaret; na konci války zatčen a zemřel za nevyjasněných okolností"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": 2013, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "na základě Benešových dekretů; zámek vyrabován, později upraven pro onkologickou léčebnu (do 2004), poté několik let prázdný"},
-  {"owner": "mesto", "owner_wiki": null, "person": "Město Paskov", "from": 2013, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "po rekonstrukci otevřeno roku 2018 Muzeum panství Paskov"}
+  {
+   "owner": "cirkev",
+   "owner_wiki": null,
+   "person": "Olomoucké biskupství (lenní vrchnost) a jeho leníci",
+   "from": 1267,
+   "to": 1507,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "Paskov byl lenním statkem olomouckého biskupství; v držení leníků se vystřídaly mj. Černohorští z Boskovic, Žerotínové a Pernštejnové, přesná léta cs.wiki neuvádí; 1267 je první písemná zmínka, ne počátek lenní držby; tvrz poprvé zmíněna 1484 při sporu o léno"
+  },
+  {
+   "owner": "zerotinove",
+   "owner_wiki": "Žerotínové",
+   "person": "Jan z Žerotína",
+   "from": 1507,
+   "to": 1525,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "majitel panství v letech 1507-1525, zasloužil se o vznik rybníků (infopaskov.cz, oficiální web infocentra)"
+  },
+  {
+   "owner": "z-kadane",
+   "owner_wiki": null,
+   "person": "Ladislav z Kadaně",
+   "from": 1525,
+   "to": 1530,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "lenni",
+   "note": "uváděn 1525 jako držitel; zemřel asi 1530, jeho synové (Bernard, Zikmund, Centurius a Jan) zděděné statky včetně Paskova udrželi jen krátce a pro dluhy je prodali věřitelům (mistopisy.cz, vychází z literatury o držitelích paskovského panství)"
+  },
+  {
+   "owner": "z-doubravky",
+   "owner_wiki": null,
+   "person": "Jan Skala z Doubravky",
+   "from": null,
+   "to": 1538,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "jeden z věřitelů Ladislava z Kadaně, poslední lenní držitel Paskova; 1538 vyměnil statky s Janem z Pernštejna za jeho statky na Brněnsku (mistopisy.cz; město Paskov)"
+  },
+  {
+   "owner": "pernstejnove",
+   "owner_wiki": "Pernštejnové",
+   "person": "Jan z Pernštejna",
+   "from": 1538,
+   "to": 1548,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "vymena",
+   "note": "1538 výměnou s Janem Skalou z Doubravky a se souhlasem olomouckého biskupa Stanislava Thurza vyvázán z lenního svazku, stal se svobodným dědičným panstvím a Paskov městečkem (město Paskov, infopaskov.cz, mistopisy.cz; cs.wiki uvádí vyvázání 1530); 1548 panství prodal Janu Čelovi z Čechovic (cs.wiki uvádí 1547)"
+  },
+  {
+   "owner": "z-cechovic",
+   "owner_wiki": null,
+   "person": "Jan Čelo z Čechovic a jeho syn Kašpar",
+   "from": 1548,
+   "to": 1578,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "šlechtic z Těšínska; Kašpar Čelo z Čechovic roku 1578 panství prodal za 21000 zlatých Ondřeji Dudičovi (mistopisy.cz, hrabova.info; cs.wiki uvádí 1547 a 1577)"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Ondřej Dudič z Hořehovice",
+   "from": 1578,
+   "to": 1579,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "slezský humanista, učenec a diplomat, bývalý biskup; panství koupil za 21000 zlatých, z Paskova učinil centrum svých společenských kontaktů, po roce jej za nevýhodných podmínek prodal a odešel do Vratislavi (cs.wiki uvádí 1577-1579)"
+  },
+  {
+   "owner": "z-perkova",
+   "owner_wiki": null,
+   "person": "Ctibor Syrakovský z Pěrkova, poté synové Jan mladší a Ctibor mladší",
+   "from": 1579,
+   "to": 1614,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Ctibor byl dlouholetým nejvyšším zemským písařem na Moravě; nechal rozšířit tvrz; zadlužení synové ji roku 1614 prodali; mistopisy.cz uvádí posloupnost Ctibor (zemřel 1600), jeho synové Hynek (zemřel bezdětný 1610-1614) a Jan, po nich Cedlarové - tato posloupnost se od cs.wiki částečně liší"
+  },
+  {
+   "owner": "z-belkovic",
+   "owner_wiki": null,
+   "person": "Kateřina Onšíková z Bělkovic",
+   "from": 1614,
+   "to": 1617,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupila panství za 52000 zlatých; potírala projevy katolické víry"
+  },
+  {
+   "owner": "z-hofu",
+   "owner_wiki": null,
+   "person": "Kryštof Cedlar z Hofu",
+   "from": 1617,
+   "to": 1619,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "bratranec Kateřiny Onšíkové; sídlil spíše na zámku ve Zlíně; zúčastnil se stavovského povstání, zemřel 1619"
+  },
+  {
+   "owner": "z-hofu",
+   "owner_wiki": null,
+   "person": "Anna Cedlarová z Hofu",
+   "from": 1619,
+   "to": 1622,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "sestra Kryštofa; podporovala stavovskou opozici, majetek jí byl zabaven při pobělohorských konfiskacích"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1622,
+   "to": 1624,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "konfiskát ve správě dvorské komory"
+  },
+  {
+   "owner": "bruntalsti-z-vrbna",
+   "owner_wiki": "Bruntálští z Vrbna",
+   "person": "Václav Bruntálský z Vrbna",
+   "from": 1624,
+   "to": 1656,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil konfiskát za 50000 zlatých; přestavěl tvrz na raně barokní zámek (práce probíhaly ještě 1640-1646); po jeho smrti pokračovala v úpravách vdova Alžběta roz. Dembinská"
+  },
+  {
+   "owner": "bruntalsti-z-vrbna",
+   "owner_wiki": "Bruntálští z Vrbna",
+   "person": "Jan František Bruntálský z Vrbna",
+   "from": 1656,
+   "to": 1690,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "na Paskově se zdržoval málo, dlouho se snažil panství prodat"
+  },
+  {
+   "owner": "oppersdorfove",
+   "owner_wiki": "Oppersdorfové",
+   "person": "Bedřich z Oppersdorfu",
+   "from": 1690,
+   "to": 1699,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupě za 63000 zlatých"
+  },
+  {
+   "owner": "oppersdorfove",
+   "owner_wiki": "Oppersdorfové",
+   "person": "František Josef z Oppersdorfu, poté vdova Anna Františka",
+   "from": 1699,
+   "to": 1717,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "moravský zemský hejtman, zanechal dluhy a byl usvědčen z defraudace; vdova musela panství prodat"
+  },
+  {
+   "owner": "hochove",
+   "owner_wiki": null,
+   "person": "Filip Ignác Hoch",
+   "from": 1717,
+   "to": 1731,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupě ve veřejné dražbě za 74000 zlatých; vedl spor o hranice panství se Skrbenskými z Hříště"
+  },
+  {
+   "owner": "rebentischove",
+   "owner_wiki": null,
+   "person": "Samuel František Rebentisch",
+   "from": 1731,
+   "to": 1734,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupě za 100000 zlatých; v Paskově sám nikdy nebyl"
+  },
+  {
+   "owner": "rebentischove",
+   "owner_wiki": null,
+   "person": "Marie Paula Rebentischová, roz. Gallanegh",
+   "from": 1734,
+   "to": 1758,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "spravovala panství za nezletilé syny, sídlila na zámku; 1736 se podruhé provdala za Jana Daniela Fürstenbusche"
+  },
+  {
+   "owner": "rebentischove",
+   "owner_wiki": null,
+   "person": "Achác Jan Nepomuk Rebentisch",
+   "from": 1758,
+   "to": 1765,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "krajský hejtman v Uherském Hradišti, zadlužil zděděný majetek a rozprodal mobiliář, nakonec byl nucen panství prodat"
+  },
+  {
+   "owner": "z-kettenburgu",
+   "owner_wiki": null,
+   "person": "Karel Pamesberger z Kettenburgu",
+   "from": 1765,
+   "to": 1779,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "olomoucký obchodník a podnikatel, koupě za 125000 zlatých; dědicové neměli na Moravě inkolát"
+  },
+  {
+   "owner": "mitrovsti-z-mitrovic-a-nemysle",
+   "owner_wiki": "Mitrovští z Mitrovic a Nemyšle",
+   "person": "Josef Antonín Mitrovský z Nemyšle",
+   "from": 1779,
+   "to": 1808,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupě za 125000 zlatých; c.k. polní zbrojmistr, vybudoval knihovnu"
+  },
+  {
+   "owner": "mitrovsti-z-mitrovic-a-nemysle",
+   "owner_wiki": "Mitrovští z Mitrovic a Nemyšle",
+   "person": "Antonín Bedřich Mitrovský",
+   "from": 1808,
+   "to": 1809,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "synovec Josefa Antonína; o Paskov neměl zájem a hned jej nabídl k prodeji"
+  },
+  {
+   "owner": "saint-genois-d-anneaucourt",
+   "owner_wiki": null,
+   "person": "Filip Ludvík Saint-Genois d'Anneaucourt",
+   "from": 1809,
+   "to": 1848,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "belgický šlechtic, koupě za půl miliónu zlatých; inicioval klasicistní úpravy a rozšíření parku, sídlil hlavně na zámku Jaworze ve Slezsku"
+  },
+  {
+   "owner": "saint-genois-d-anneaucourt",
+   "owner_wiki": null,
+   "person": "Mořic Saint-Genois",
+   "from": 1848,
+   "to": 1880,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "krátce poslanec moravského zemského sněmu; po požáru 1869 provedl stavební úpravy; zámek prodal svému zeti Güntheru Stolbergovi"
+  },
+  {
+   "owner": "stolbergove",
+   "owner_wiki": null,
+   "person": "Günther Stolberg-Stolberg",
+   "from": 1880,
+   "to": 1926,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "dlouholetý poslanec moravského zemského sněmu; provedl četné stavební úpravy zámku a parku (balkon 1888-1893, kaple 1913)"
+  },
+  {
+   "owner": "stolbergove",
+   "owner_wiki": null,
+   "person": "Otto Stolberg-Stolberg",
+   "from": 1926,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "přihlásil se k německé národnosti, za okupace uvolnil část zámku jako lazaret; na konci války zatčen a zemřel za nevyjasněných okolností"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": 2013,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "na základě Benešových dekretů; zámek vyrabován, později upraven pro onkologickou léčebnu (do 2004), poté několik let prázdný"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "Město Paskov",
+   "from": 2013,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "po rekonstrukci otevřeno roku 2018 Muzeum panství Paskov"
+  }
  ],
  "events": [
-  {"year": 1267, "text": "první písemná zmínka o Paskovu v listině olomouckého biskupa Bruna ze Schauenberku"},
-  {"year": 1530, "text": "biskup Stanislav I. Thurzo uvolnil Paskov z lenního svazku, stal se dědičným majetkem Jana z Pernštejna"},
-  {"year": 1624, "text": "Václav Bruntálský z Vrbna koupil zkonfiskované panství a zahájil přestavbu tvrze na raně barokní zámek"},
-  {"year": 1690, "text": "panství koupil hrabě Bedřich z Oppersdorfu"},
-  {"year": 1869, "text": "požár zámku a následné stavební úpravy"},
-  {"year": 1888, "text": "1888-1913 stavební úpravy za hraběte Günthera Stolberga (balkon, novobaroková kaple, rozšíření parku)"},
-  {"year": 1945, "text": "na základě Benešových dekretů přešel zámek do majetku státu, později sloužil jako zdravotnické zařízení"},
-  {"year": 2013, "text": "zámek koupilo město Paskov, po rekonstrukci v něm roku 2018 vzniklo Muzeum panství Paskov"}
+  {
+   "year": 1267,
+   "text": "první písemná zmínka o Paskovu v listině olomouckého biskupa Bruna ze Schauenberku"
+  },
+  {
+   "year": 1538,
+   "text": "Jan z Pernštejna vyměnil statky s Janem Skalou z Doubravky, Paskov vyvázán z lenní závislosti na olomouckém biskupství (cs.wiki uvádí 1530)"
+  },
+  {
+   "year": 1624,
+   "text": "Václav Bruntálský z Vrbna koupil zkonfiskované panství a zahájil přestavbu tvrze na raně barokní zámek"
+  },
+  {
+   "year": 1690,
+   "text": "panství koupil hrabě Bedřich z Oppersdorfu"
+  },
+  {
+   "year": 1869,
+   "text": "požár zámku a následné stavební úpravy"
+  },
+  {
+   "year": 1888,
+   "text": "1888-1913 stavební úpravy za hraběte Günthera Stolberga (balkon, novobaroková kaple, rozšíření parku)"
+  },
+  {
+   "year": 1945,
+   "text": "na základě Benešových dekretů přešel zámek do majetku státu, později sloužil jako zdravotnické zařízení"
+  },
+  {
+   "year": 2013,
+   "text": "zámek koupilo město Paskov, po rekonstrukci v něm roku 2018 vzniklo Muzeum panství Paskov"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Paskov_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Paskov_(zámek)",
+  "https://www.mesto-paskov.cz/mesto/historie/",
+  "https://www.infopaskov.cz/poznejte-paskov/historie-a-soucasnost/",
+  "https://www.mistopisy.cz/pruvodce/obec/7417/paskov/historie/",
+  "https://www.hrabova.info/2016/07/17/hrabova-soucasti-paskovskeho-panstvi-v-letech-1538-1850/"
+ ]
 }

@@ -1,33 +1,207 @@
 {
  "id": "Q12038651",
  "name": "Moravská Třebová",
- "founded": {"year": 1270, "approx": true, "text": "Před rokem 1270 založil město Boreš z Rýzmburka; první hrad v jihovýchodní části města dal postavit Jan Železný z Lipé po roce 1325, poprvé zmiňován 1346."},
- "summary": "Před rokem 1270 založil Moravskou Třebovou Boreš z Rýzmburka z rodu Hrabišiců, po vymření třebovské větve rodu roku 1325 připadlo město jako odúmrť Janu Lucemburskému, který je zastavil Janu Železnému z Lipé a jeho synovi, jenž zde vybudoval nový hrad. Roku 1356 je koupil markrabě Jan Jindřich, roku 1391 je Jošt Moravský udělil lénem Erhartu z Kunštátu, jehož rod je držel do poloviny 15. století. Přes Jiřího z Poděbrad a Kostky z Postupic panství roku 1468 získali páni z Boskovic, kteří starý hrad přestavěli na renesanční zámek; po jejich vymření 1589 jej zdědili Žerotínové a po Bílé hoře byl roku 1622 jako konfiskát udělen Lichtenštejnům, kteří jej drželi až do roku 1945. Po válce zámek připadl státu a ve druhé polovině 20. století přešel do vlastnictví města, které v něm dnes provozuje muzeum.",
+ "founded": {
+  "year": 1270,
+  "approx": true,
+  "text": "Před rokem 1270 založil město Boreš z Rýzmburka; první hrad v jihovýchodní části města dal postavit Jan Železný z Lipé po roce 1325, poprvé zmiňován 1346."
+ },
+ "summary": "Před rokem 1270 založil Moravskou Třebovou Boreš z Rýzmburka z rodu Hrabišiců, po vymření třebovské větve rodu roku 1325 připadlo město jako odúmrť Janu Lucemburskému, který je zastavil Janu Železnému z Lipé a jeho synovi, jenž zde vybudoval nový hrad. Roku 1356 je koupil markrabě Jan Jindřich, roku 1391 je Jošt Moravský udělil lénem Erhartu z Kunštátu, jehož rod je držel do poloviny 15. století. Přes Jiřího z Poděbrad a Kostky z Postupic panství koupili páni z Boskovic (rok se podle zdrojů liší, 1468-1490), kteří starý hrad přestavěli na renesanční zámek; po jejich vymření 1589 jej zdědili Žerotínové a po Bílé hoře byl roku 1622 jako konfiskát udělen Lichtenštejnům, kteří jej drželi až do roku 1945. Po válce zámek připadl státu a ve druhé polovině 20. století přešel do vlastnictví města, které v něm dnes provozuje muzeum.",
  "owners": [
-  {"owner": "pani-z-ryzmburka", "owner_wiki": "Páni z Rýzmburka", "person": "Boreš z Rýzmburka, poté bratr Bohuslav a syn Boreš", "from": 1270, "to": 1325, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "třebovská větev Hrabišiců; roku 1325 zemřel Boreš a rod v Třebové vymřel"},
-  {"owner": "koruna", "owner_wiki": null, "person": "Jan Lucemburský", "from": 1325, "to": 1325, "from_approx": false, "to_approx": false, "how": "jine", "note": "panství připadlo králi jako odúmrť, téhož roku zastaveno Janu Železnému z Lipé"},
-  {"owner": "pani-z-lipe", "owner_wiki": "Páni z Lipé", "person": "Jan Železný z Lipé, poté syn Jindřich z Lipé", "from": 1325, "to": 1356, "from_approx": false, "to_approx": false, "how": "lenni", "note": "Jan Železný z Lipé zde vystavěl nový hrad ve městě; Jindřich z Lipé jej roku 1356 prodal"},
-  {"owner": "lucemburkove", "owner_wiki": "Lucemburkové", "person": "Jan Jindřich, markrabě moravský", "from": 1356, "to": 1375, "from_approx": false, "to_approx": true, "how": "koupe", "note": "koupil panství za 8000 hřiven i s Křenovem a 23 vesnicemi; rok konce podle přibližného data jeho úmrtí (1375)"},
-  {"owner": "lucemburkove", "owner_wiki": "Lucemburkové", "person": "Jošt Moravský", "from": 1375, "to": 1398, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "roku 1391 udělil panství lénem Erhartu z Kunštátu, roku 1398 mu je postoupil do dědičné držby"},
-  {"owner": "pani-z-kunstatu-a-podebrad", "owner_wiki": "Páni z Kunštátu a Poděbrad", "person": "Erhart z Kunštátu, později Jan Heralt z Kunštátu", "from": 1391, "to": null, "from_approx": false, "to_approx": true, "how": "lenni", "note": "1398 dědičná držba; roku 1422 purkrabí Hanuš Schwarz vydal město i hrad slezskému vojsku; panství poté přešlo jako soukromý majetek na Jiřího z Poděbrad, přesný rok přechodu wikipedie neuvádí"},
-  {"owner": "pani-z-kunstatu-a-podebrad", "owner_wiki": "Páni z Kunštátu a Poděbrad", "person": "Jiří z Poděbrad", "from": null, "to": 1464, "from_approx": true, "to_approx": false, "how": "jine", "note": "panství jako soukromý majetek krále Jiřího; roku 1464 je postoupil spolu s hradem Bouzov Zdeňkovi Kostkovi z Postupic"},
-  {"owner": "kostkove-z-postupic", "owner_wiki": "Kostkové z Postupic", "person": "Zdeněk Kostka z Postupic, poté bratr Albrecht a Jiří Hrabiš z Postupic", "from": 1464, "to": 1468, "from_approx": false, "to_approx": false, "how": "dar", "note": "Zdeněk padl 1468 v bitvě u Zvole; Jiří Hrabiš z Postupic postoupil zboží Janu Heraltu z Kunštátu"},
-  {"owner": "pani-z-kunstatu-a-podebrad", "owner_wiki": "Páni z Kunštátu a Poděbrad", "person": "Jan Heralt z Kunštátu", "from": 1468, "to": 1468, "from_approx": false, "to_approx": false, "how": "jine", "note": "téhož roku prodal panství Ladislavu Velenovi z Boskovic a Černé Hory"},
-  {"owner": "boskovicove", "owner_wiki": "Boskovicové", "person": "Ladislav Velen z Boskovic a Černé Hory a jeho potomci", "from": 1468, "to": 1589, "from_approx": false, "to_approx": false, "how": "koupe", "note": "od roku 1485 přestavba starého hradu na renesanční zámek; rod vymřel Janem z Boskovic 1589"},
-  {"owner": "zerotinove", "owner_wiki": "Žerotínové", "person": "Ladislav Velen ze Žerotína", "from": 1589, "to": 1622, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "dědictvím po vymřelých Boskovicích; po prohrané Bílé hoře (1620) emigroval, majetek byl zkonfiskován"},
-  {"owner": "lichtenstejnove", "owner_wiki": "Lichtenštejnové", "person": "Karel z Lichtenštejna", "from": 1622, "to": 1945, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "konfiskovaný žerotínský majetek získal Karel z Lichtenštejna jako léno koruny české; zámek sloužil jako správní středisko panství"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": false, "to_approx": true, "how": "konfiskace", "note": "po roce 1945 konfiskováno; ve druhé polovině 20. století přešel zámek do vlastnictví a péče města, přesný rok wikipedie neuvádí"},
-  {"owner": "mesto", "owner_wiki": null, "person": "Moravská Třebová", "from": null, "to": null, "from_approx": true, "to_approx": false, "how": "jine", "note": "dnes v majetku a správě města, provozuje muzejní expozice; od roku 2026 národní kulturní památka"}
+  {
+   "owner": "pani-z-ryzmburka",
+   "owner_wiki": "Páni z Rýzmburka",
+   "person": "Boreš z Rýzmburka, poté bratr Bohuslav a syn Boreš",
+   "from": 1270,
+   "to": 1325,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "třebovská větev Hrabišiců; roku 1325 zemřel Boreš a rod v Třebové vymřel"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Jan Lucemburský",
+   "from": 1325,
+   "to": 1325,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "panství připadlo králi jako odúmrť, téhož roku zastaveno Janu Železnému z Lipé"
+  },
+  {
+   "owner": "pani-z-lipe",
+   "owner_wiki": "Páni z Lipé",
+   "person": "Jan Železný z Lipé, poté syn Jindřich z Lipé",
+   "from": 1325,
+   "to": 1356,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "Jan Železný z Lipé zde vystavěl nový hrad ve městě; Jindřich z Lipé jej roku 1356 prodal"
+  },
+  {
+   "owner": "lucemburkove",
+   "owner_wiki": "Lucemburkové",
+   "person": "Jan Jindřich, markrabě moravský",
+   "from": 1356,
+   "to": 1375,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "koupil panství za 8000 hřiven i s Křenovem a 23 vesnicemi; rok konce podle přibližného data jeho úmrtí (1375); de.wiki uvádí koupi až 1365 (cs.wiki a další cs. zdroje 1356)"
+  },
+  {
+   "owner": "lucemburkove",
+   "owner_wiki": "Lucemburkové",
+   "person": "Jošt Moravský",
+   "from": 1375,
+   "to": 1391,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "roku 1391 udělil panství lénem Erhartu z Kunštátu, 1398 mu je postoupil do dědičné držby"
+  },
+  {
+   "owner": "pani-z-kunstatu-a-podebrad",
+   "owner_wiki": "Páni z Kunštátu a Poděbrad",
+   "person": "Erhart z Kunštátu a jeho potomci (páni z Kunštátu)",
+   "from": 1391,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "lenni",
+   "note": "1391 léno od Jošta Moravského, 1398 dědičná držba (cs.wiki; de.wiki uvádí 1398 jako přechod); roku 1422 purkrabí Hanuš Schwarz vydal město i hrad slezskému vojsku; panství poté přešlo jako soukromý majetek na Jiřího z Poděbrad, rok přechodu ani rok konce kunštátské držby zdroje neuvádějí"
+  },
+  {
+   "owner": "pani-z-kunstatu-a-podebrad",
+   "owner_wiki": "Páni z Kunštátu a Poděbrad",
+   "person": "Jiří z Poděbrad",
+   "from": null,
+   "to": 1464,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "jine",
+   "note": "panství jako soukromý majetek krále Jiřího; roku 1464 je postoupil spolu s hradem Bouzov Zdeňkovi Kostkovi z Postupic"
+  },
+  {
+   "owner": "kostkove-z-postupic",
+   "owner_wiki": "Kostkové z Postupic",
+   "person": "Zdeněk Kostka z Postupic, poté bratr Albrecht a Jiří Hrabiš z Postupic",
+   "from": 1464,
+   "to": 1468,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dar",
+   "note": "Zdeněk padl 1468 v bitvě u Zvole, nástupcem byl bratr Albrecht a posledním držitelem Jiří Hrabiš z Postupic, který zboží postoupil Janu Heraltu z Kunštátu; de.wiki uvádí poslední Kostkovou držbu až do 1490/1491; rok konce Kostků je nejistý"
+  },
+  {
+   "owner": "pani-z-kunstatu-a-podebrad",
+   "owner_wiki": "Páni z Kunštátu a Poděbrad",
+   "person": "Jan Heralt z Kunštátu",
+   "from": 1468,
+   "to": 1490,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "od Postupiců získal zboží (rok neuveden); roku 1468 podle cs.wiki panství prodal Boskovicům, de.wiki uvádí prodej až 1490; rok prodeje je rozporný (rok 1490 podporuje i turistika.cz: přestavba hned po koupi, a cs.wiki o městě uvádí vládu Boskoviců od 1486)"
+  },
+  {
+   "owner": "boskovicove",
+   "owner_wiki": "Boskovicové",
+   "person": "Ladislav Velen z Boskovic a Černé Hory a jeho potomci",
+   "from": 1490,
+   "to": 1589,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "rok koupě je rozporný (cs.wiki zámek 1468, cs.wiki město 1486, de.wiki 1490); od roku kolem 1485-1490 přestavba starého hradu na renesanční zámek (portál 1492); rod vymřel Janem z Boskovic 1589"
+  },
+  {
+   "owner": "zerotinove",
+   "owner_wiki": "Žerotínové",
+   "person": "Ladislav Velen ze Žerotína",
+   "from": 1589,
+   "to": 1622,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "dědictvím po vymřelých Boskovicích (po Janu z Boskovic † 1589; Ladislav Velen zdědil ještě jako dítě); 1611-1616 (1620) přestavba zámku; po Bílé hoře emigroval a majetek byl zkonfiskován"
+  },
+  {
+   "owner": "lichtenstejnove",
+   "owner_wiki": "Lichtenštejnové",
+   "person": "Karel z Lichtenštejna",
+   "from": 1622,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "konfiskovaný žerotínský majetek získal Karel z Lichtenštejna jako léno koruny české; zámek sloužil jako správní středisko panství"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "konfiskace",
+   "note": "po roce 1945 konfiskováno (v zámku kanceláře a sklady lesního závodu); zámek přešel do vlastnictví města; přesný rok zdroje neuvádějí (cs.wiki: ve druhé polovině 20. století, Atlas Česka: od poloviny 20. století)"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "Moravská Třebová",
+   "from": null,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "jine",
+   "note": "dnes v majetku a správě města (potvrzeno i tiskem 2019: zámek je ve vlastnictví města), provozuje muzejní expozice; od roku 2026 národní kulturní památka; rok přechodu na město zdroje neuvádějí"
+  }
  ],
  "events": [
-  {"year": 1346, "text": "hrad ve městě poprvé zmiňován při dělení panství"},
-  {"year": 1391, "text": "Jošt Moravský udělil panství lénem Erhartu z Kunštátu"},
-  {"year": 1422, "text": "purkrabí Hanuš Schwarz vydal město i hrad slezskému vojsku vypravenému vratislavským biskupem"},
-  {"year": 1492, "text": "dokončen raně renesanční portál brány zámku za Ladislava z Boskovic, jedna z nejstarších renesančních památek severně od Alp"},
-  {"year": 1611, "text": "Ladislav Velen ze Žerotína zahájil přestavbu předhradí na manýristická arkádová křídla"},
-  {"year": 1643, "text": "zámek vydrancován švédským vojskem za třicetileté války"},
-  {"year": 1840, "text": "rozsáhlý požár zámku i města, renesanční podoba zámku byla z velké části zničena"},
-  {"year": 2007, "text": "ve sklepeních zámku otevřena expozice největší středověké mučírny na Moravě"}
+  {
+   "year": 1346,
+   "text": "hrad ve městě poprvé zmiňován při dělení panství"
+  },
+  {
+   "year": 1391,
+   "text": "Jošt Moravský udělil panství lénem Erhartu z Kunštátu"
+  },
+  {
+   "year": 1422,
+   "text": "purkrabí Hanuš Schwarz vydal město i hrad slezskému vojsku vypravenému vratislavským biskupem"
+  },
+  {
+   "year": 1492,
+   "text": "dokončen raně renesanční portál brány zámku za Ladislava z Boskovic, jedna z nejstarších renesančních památek severně od Alp"
+  },
+  {
+   "year": 1611,
+   "text": "Ladislav Velen ze Žerotína zahájil přestavbu předhradí na manýristická arkádová křídla"
+  },
+  {
+   "year": 1643,
+   "text": "zámek vydrancován švédským vojskem za třicetileté války"
+  },
+  {
+   "year": 1840,
+   "text": "rozsáhlý požár zámku i města, renesanční podoba zámku byla z velké části zničena"
+  },
+  {
+   "year": 2007,
+   "text": "ve sklepeních zámku otevřena expozice největší středověké mučírny na Moravě"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Moravská_Třebová_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Moravská_Třebová_(zámek)",
+  "https://cs.wikipedia.org/wiki/Moravská_Třebová",
+  "https://de.wikipedia.org/wiki/Schloss_Mährisch_Trübau",
+  "https://www.zamekmoravskatrebova.cz/o-zamku/historie-zamku/",
+  "https://svitavsky.denik.cz/kraj-a-okoli/lichtenstejnove-zaluji-stat-chteji-zpet-zabaveny-majetek/"
+ ]
 }

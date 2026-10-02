@@ -1,7 +1,11 @@
 {
  "id": "Q956766",
  "name": "Okoř",
- "founded": {"year": 1265, "approx": true, "text": "hrad založen podle archeologického výzkumu ve druhé polovině 13. století (stavební fáze ze 60.-70. let), zakladatelem byl nejspíše panovník nebo vysoce postavený představitel církve"},
+ "founded": {
+  "year": 1265,
+  "approx": true,
+  "text": "hrad založen podle archeologického výzkumu ve druhé polovině 13. století (stavební fáze ze 60.-70. let), zakladatelem byl nejspíše panovník nebo vysoce postavený představitel církve"
+ },
  "summary": "Hrad Okoř založil ve druhé polovině 13. století nejspíše panovník nebo vysoce postavený církevní hodnostář; od poloviny 14. století sloužil jako sídlo pražských měšťanů a méně významných šlechtických rodů, mimo jiné rodiny z Okoře, Bechyňů z Lažan, pánů z Lochovic a pánů z Donína. Od roku 1518 jej vlastnili Bořitové z Martinic, kteří jej roku 1649 odkázali jezuitům; ti hrad barokně upravili a užívali jako letní sídlo. Po zrušení jezuitského řádu roku 1773 hrad chátral jako zdroj stavebního materiálu, až se roku 1921 stal majetkem státu a proměnil se ve zříceninu přístupnou veřejnosti.",
  "owners": [
   {
@@ -9,7 +13,7 @@
    "owner_wiki": null,
    "person": null,
    "from": 1265,
-   "to": null,
+   "to": 1359,
    "from_approx": true,
    "to_approx": false,
    "how": "zalozeni",
@@ -20,17 +24,17 @@
    "owner_wiki": null,
    "person": "František Rokycanský (z Okoře)",
    "from": 1359,
-   "to": null,
+   "to": 1380,
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "staroměstský patricij, doložen jako majitel hradu 1359, od 1360 užíval přídomek z Okoře; způsob a rok nabytí hradu cs.wiki neuvádí"
+   "note": "staroměstský patricij, doložen jako majitel hradu 1359, od 1360 užíval přídomek z Okoře; způsob a rok nabytí hradu cs.wiki neuvádí; hrady.cz: od 1380 pánem na Okoři syn Jan Rokycanský"
   },
   {
    "owner": "z-okore",
    "owner_wiki": null,
    "person": "Jan starší z Okoře",
-   "from": null,
+   "from": 1380,
    "to": 1391,
    "from_approx": false,
    "to_approx": false,
@@ -46,7 +50,7 @@
    "from_approx": false,
    "to_approx": true,
    "how": "neznamo",
-   "note": "kupec z roku 1391 není znám; do roku 1412/1413 hrad přešel k Mikuláši z Prahy"
+   "note": "kupec z roku 1391 není znám ani podle hrady.cz (držitele do 1414 neznáme); 1414 uváděn Mikuláš z Prahy (cs.wiki: koupil po 1412/1413)"
   },
   {
    "owner": "soukromnik",
@@ -97,19 +101,19 @@
    "owner_wiki": null,
    "person": "Jan, syn lékárníka Ludvíka",
    "from": 1434,
-   "to": null,
+   "to": 1443,
    "from_approx": true,
-   "to_approx": false,
+   "to_approx": true,
    "how": "jine",
-   "note": "hrad se po husitských válkách vrátil Janovi; zemřel před rokem 1445"
+   "note": "hrad se po husitských válkách vrátil Janovi; zemřel 1443 (hrady.cz) nebo před 1445 (cs.wiki)"
   },
   {
    "owner": "soukromnik",
    "owner_wiki": null,
    "person": "Dorota (vdova po Janovi) s dcerami Eliškou a Voršilou",
-   "from": null,
+   "from": 1443,
    "to": 1445,
-   "from_approx": false,
+   "from_approx": true,
    "to_approx": true,
    "how": "dedictvi",
    "note": "po Janově smrti přenechaly veškerá práva k hradu Bořivoji mladšímu z Lochovic výměnou za úrok 20 kop grošů"
@@ -123,7 +127,7 @@
    "from_approx": true,
    "to_approx": true,
    "how": "jine",
-   "note": "po jeho smrti se majetek stal odúmrtí, o kterou se soudili Bohuslav v Košíně, jeho syn Baltazar a Bořivoj z Donína; přesný rok Bořivojovy smrti cs.wiki neuvádí"
+   "note": "po jeho smrti se majetek stal odúmrtí, o kterou se soudili Bohuslav v Košíně, jeho syn Baltazar a Bořivoj z Donína; přesný rok Bořivojovy smrti cs.wiki neuvádí; hrady.cz uvádí, že se Bořivoj z Lochovic soudil o dluhy ještě 1465 a statek odkázal vnukovi v 70. letech 15. stol. (rozpor s cs.wiki, kde odúmrť 1460)"
   },
   {
    "owner": "pani-z-donina",
@@ -134,7 +138,7 @@
    "from_approx": true,
    "to_approx": false,
    "how": "jine",
-   "note": "spor o odúmrť po Bořivoji z Lochovic; roku 1462 odkázal práva vnukům, mladší Bořivoj dokončil pozdně gotickou přestavbu hradu; jeho syn Jan hrad roku 1518 prodal"
+   "note": "spor o odúmrť po Bořivoji z Lochovic; roku 1462 odkázal práva vnukům, mladší Bořivoj dokončil pozdně gotickou přestavbu hradu; jeho syn Jan hrad roku 1518 prodal; hrady.cz: celý statek mu odkázal Bořivoj z Lochovic v 70. letech 15. stol."
   },
   {
    "owner": "martinicove-a-clam-martinicove",
@@ -182,14 +186,42 @@
   }
  ],
  "events": [
-  {"year": 1359, "text": "první písemná zmínka o hradu, majitelem František Rokycanský"},
-  {"year": 1391, "text": "Jan starší z Okoře hrad prodal, kupec není znám"},
-  {"year": 1421, "text": "hrad na jaře dobylo husitské vojsko"},
-  {"year": 1518, "text": "hrad koupil Hynek Bořita z Martinic"},
-  {"year": 1649, "text": "Jaroslav Bořita z Martinic odkázal hrad jezuitům od sv. Václava v Praze"},
-  {"year": 1700, "text": "1700-1712 jezuité postavili nový refektář, kuchyni a další zázemí"},
-  {"year": 1773, "text": "po zrušení jezuitského řádu hrad připadl studijnímu fondu a začal chátrat"},
-  {"year": 1921, "text": "zřícenina se stala majetkem státu, který zahájil nejnutnější opravy"}
+  {
+   "year": 1359,
+   "text": "první písemná zmínka o hradu, majitelem František Rokycanský"
+  },
+  {
+   "year": 1391,
+   "text": "Jan starší z Okoře hrad prodal, kupec není znám (podle hrady.cz další držitele do 1414 neznáme)"
+  },
+  {
+   "year": 1421,
+   "text": "hrad na jaře dobylo husitské vojsko"
+  },
+  {
+   "year": 1518,
+   "text": "hrad koupil Hynek Bořita z Martinic"
+  },
+  {
+   "year": 1649,
+   "text": "Jaroslav Bořita z Martinic odkázal hrad jezuitům od sv. Václava v Praze"
+  },
+  {
+   "year": 1700,
+   "text": "1700-1712 jezuité postavili nový refektář, kuchyni a další zázemí"
+  },
+  {
+   "year": 1773,
+   "text": "po zrušení jezuitského řádu hrad připadl studijnímu fondu a začal chátrat"
+  },
+  {
+   "year": 1921,
+   "text": "zřícenina se stala majetkem státu, který zahájil nejnutnější opravy"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Okoř_(hrad)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Okoř_(hrad)",
+  "https://www.hrady.cz/hrad-okor",
+  "http://www.obecokor.cz/showpage.php?name=historie_hradu"
+ ]
 }

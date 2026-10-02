@@ -6,7 +6,7 @@
   "approx": true,
   "text": "Zámek vznikl na místě původní vodní tvrze; panství Linhartovy je jako majetek Opavského knížectví zmíněno v listině z roku 1377, samotná tvrz pak v kupní smlouvě z roku 1410."
  },
- "summary": "Panství Linhartovy náleželo Opavskému knížectví a v roce 1377 bylo propůjčeno v léno Mikuláši z Vidbachu; tvrz zmíněná roku 1410 patřila od té doby do roku 1566 Fulštejnům. Od roku 1578 (Kateřina Kravařská ze Šlovic, provdaná za Václava Haugvice z Biskupic) drželi panství Haugvicové z Biskupic, kteří po roce 1580 přestavěli tvrz na renesanční zámek; roku 1658 jej koupili Sedličtí z Choltic, kteří dokončili raně barokní přestavbu (1695-1702) a upravovali interiéry. Roku 1855 přešel sňatkem na Oppersdorfy, 1892 jej koupila rodina Wenzelidesů a 1930 rodina Wülersdorf-Urbairů; za války byl poškozen požárem (1943) a po roce 1945 připadl státu, který jej dodnes zpřístupňuje veřejnosti.",
+ "summary": "Panství Linhartovy náleželo Opavskému knížectví a v roce 1377 bylo propůjčeno v léno Mikuláši z Vidbachu; tvrz zmíněná roku 1410 patřila Fulštejnům z Vladětína (do 1566, jiné zdroje 1556), po nich krátce Jiřímu Bernardovi Tvorkovskému z Kravař. Od roku 1578 (Kateřina Kravařská ze Šlovic, provdaná za Václava Haugvice z Biskupic) drželi panství Haugvicové z Biskupic, kteří po roce 1580 přestavěli tvrz na renesanční zámek; roku 1658 jej koupili Sedličtí z Choltic, kteří dokončili raně barokní přestavbu (1695-1702) a upravovali interiéry. Roku 1855 přešel sňatkem na Oppersdorfy, 1892 jej koupila rodina Wenzelidesů a 1930 rodina Wülersdorf-Urbairů; za války byl poškozen požárem (1943) a po roce 1945 připadl státu a roku 2001 jej bezplatně převzalo město Město Albrechtice, které jej opravuje a zpřístupňuje veřejnosti.",
  "owners": [
   {
    "owner": "opavsti-premyslovci",
@@ -15,7 +15,7 @@
    "from": null,
    "to": 1377,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "neznamo",
    "note": "panství bylo majetkem Opavského knížectví, doloženo v listině o jeho rozdělení z roku 1377"
   },
@@ -26,31 +26,31 @@
    "from": 1377,
    "to": 1410,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "lenni",
-   "note": "panství mu bylo propůjčeno v léno roku 1377; tvrz je pak zmíněna v kupní smlouvě z roku 1410, kdy byla prodána Fulštejnům"
+   "note": "panství mu bylo propůjčeno v léno roku 1377; tvrz je pak zmíněna v kupní smlouvě z roku 1410, kdy byla prodána bratrům Fulštejnským z Vladětína"
   },
   {
    "owner": "z-fulstejna",
    "owner_wiki": null,
-   "person": "Fulštejnové z Vladětína",
+   "person": "Fulštejnové z Vladětína (Fulštejnští), naposledy Mikuláš z Vladětína st. a jeho potomci",
    "from": 1410,
    "to": 1566,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "roku 1470 byla tvrz dobyta vojsky uherského krále Matyáše Korvína, aniž wiki uvádí změnu vlastníka"
+   "note": "roku 1470 byla tvrz dobyta vojsky uherského krále Matyáše Korvína, aniž zdroje uvádějí změnu vlastníka; konec držby je uveden rozporně (1566 podle cs.wiki a oblast.cz, 1556 podle města Město Albrechtice a regionem.cz)"
   },
   {
-   "owner": "pani-z-kravar",
-   "owner_wiki": "Páni z Kravař",
-   "person": "Kateřina Kravařská ze Šlovic",
-   "from": 1578,
+   "owner": "tvorkovsti-z-kravar",
+   "owner_wiki": null,
+   "person": "Jiří Bernard Tvorkovský z Kravař",
+   "from": 1566,
    "to": 1578,
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "zdědila panství 1578; mezidobí 1566-1578 wiki nepokrývá; provdána za Václava Haugvice z Biskupic"
+   "note": "panství přešlo jako dědictví po Magdaléně z Fulštejna na jejího manžela; rok nabytí 1566 podle cs.wiki a oblast.cz, 1556 podle města Město Albrechtice; po něm panství roku 1578 získala jeho nevlastní dcera Kateřina Kravařská ze Šlevic"
   },
   {
    "owner": "haugvicove-z-biskupic",
@@ -60,8 +60,8 @@
    "to": 1658,
    "from_approx": false,
    "to_approx": false,
-   "how": "snatek",
-   "note": "po roce 1580 přestavba pozdně gotické tvrze na renesanční sídlo; Alois Ladislav se po třicetileté válce zadlužil a zpustošené panství 1658 prodal"
+   "how": "dedictvi",
+   "note": "panství roku 1578 zdědila Kateřina Kravařská ze Šlevic, provdaná za Václava Haugvice z Biskupic; před rokem 1588 přestavba tvrze na renesanční sídlo (Václav zemřel před 1588); Alois Ladislav (poslední Haugvic, bezdětný) se po třicetileté válce zadlužil a zpustošené panství 1658 prodal"
   },
   {
    "owner": "sedlnicti-z-choltic",
@@ -104,28 +104,68 @@
    "from_approx": false,
    "to_approx": true,
    "how": "koupe",
-   "note": "za války (1943) v zámku umístěna německá vojenská nemocnice a téhož roku vypukl požár, který zničil střechu; konec držby wiki přesně neuvádí, odvozeno od přechodu do vlastnictví státu po válce"
+   "note": "za války (1943) v zámku umístěna německá vojenská nemocnice a téhož roku vypukl požár, který zničil střechu; poslední majitel Erich von Wülersdorf-Urbair (oblast.cz); konec držby wiki přesně neuvádí, odvozeno od přechodu do vlastnictví státu po válce"
   },
   {
    "owner": "stat",
    "owner_wiki": null,
-   "person": null,
+   "person": "Zdravotnické zabezpečení krizových stavů (státní organizace, naposledy správce)",
    "from": 1945,
-   "to": null,
+   "to": 2001,
    "from_approx": true,
    "to_approx": false,
-   "how": "jine",
-   "note": "po válce chátral, roku 1973 zde zřízen sklad Ministerstva zdravotnictví, po roce 1989 probíhají postupné opravy"
+   "how": "neznamo",
+   "note": "po válce přešel do vlastnictví státu (cs.wiki), způsob a rok zdroje neuvádějí; zámek chátral, 1957-1960 částečné opravy, 1973 sklad Ministerstva zdravotnictví, po 1989 opravy fasád"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "Město Albrechtice",
+   "from": 2001,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dar",
+   "note": "smlouvou o bezplatném převodu v červenci 2001 jej předala organizace Zdravotnické zabezpečení krizových stavů Příbram městu; 2003 dokončena 1. část velké rekonstrukce, dnes zpřístupněno"
   }
  ],
  "events": [
-  {"year": 1377, "text": "panství Linhartovy zmíněno v listině o rozdělení Opavského knížectví, propůjčeno v léno Mikuláši z Vidbachu"},
-  {"year": 1410, "text": "tvrz prodána s panstvím Fulštejnům z Vladětína"},
-  {"year": 1470, "text": "tvrz dobyta vojsky uherského krále Matyáše Korvína"},
-  {"year": 1580, "text": "Václav Haugvic z Biskupic se synem Karlem zahajují přestavbu tvrze na renesanční zámek"},
-  {"year": 1695, "text": "1695-1702 raně barokní přestavba zámku podle Sebastiana Hohenadela a Andrease Ganse"},
-  {"year": 1943, "text": "v zámku umístěna německá vojenská nemocnice, požár zničil střechu"},
-  {"year": 2003, "text": "rozsáhlejší rekonstrukce a stavebně-historický průzkum"}
+  {
+   "year": 1377,
+   "text": "panství Linhartovy zmíněno v listině o rozdělení Opavského knížectví, propůjčeno v léno Mikuláši z Vidbachu"
+  },
+  {
+   "year": 1410,
+   "text": "tvrz prodána s panstvím Fulštejnům z Vladětína"
+  },
+  {
+   "year": 1470,
+   "text": "tvrz dobyta vojsky uherského krále Matyáše Korvína"
+  },
+  {
+   "year": 1580,
+   "text": "Václav Haugvic z Biskupic se synem Karlem zahajují přestavbu tvrze na renesanční zámek"
+  },
+  {
+   "year": 1695,
+   "text": "1695-1702 raně barokní přestavba zámku podle Sebastiana Hohenadela a Andrease Ganse"
+  },
+  {
+   "year": 1943,
+   "text": "v zámku umístěna německá vojenská nemocnice, požár zničil střechu"
+  },
+  {
+   "year": 2003,
+   "text": "rozsáhlejší rekonstrukce a stavebně-historický průzkum"
+  },
+  {
+   "year": 2001,
+   "text": "stát bezplatně převádí zámek městu Město Albrechtice"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Linhartovy_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Linhartovy_(zámek)",
+  "https://www.mesto-albrechtice.cz/informace/historie-mesta/historie-zamku-linhartovy/",
+  "http://www.oblast.cz/encyklopedie/objekty1.phtml?id=97599"
+ ]
 }

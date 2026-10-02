@@ -6,7 +6,7 @@
   "approx": true,
   "text": "Gotický hrad založil na počátku své vlády král Přemysl Otakar II. jako správní centrum kraje, jeho funkci ale brzy převzal nedaleký Bezděz; první písemná zmínka je z roku 1291 (doložen úřad houseckého purkrabího)."
  },
- "summary": "Gotický hrad založil král Přemysl Otakar II., poté jej vlastnili Berkové z Dubé (do 1432), Smiřičtí ze Smiřic a od roku 1502 Hrzánové z Harasova, kteří jej v 16. století přestavěli na renesanční zámek. Po častém střídání majitelů v 17. století (mj. Albrecht z Valdštejna, rod Hofkirchenů) jej roku 1700 koupili Kounicové, kteří jej vlastnili do roku 1897; poté patřil rodům Hohenlohe a Andrássy a od roku 1924 průmyslníku Josefu Šimonkovi, jehož rodině byl po nacistické konfiskaci (1943-1945) a poválečném zestátnění (od 1950) vrácen v restituci počátkem 90. let a je dodnes přístupný veřejnosti.",
+ "summary": "Gotický hrad založil král Přemysl Otakar II., poté jej vlastnili Berkové z Dubé (do 1432), Smiřičtí ze Smiřic a od roku 1502 Hrzánové z Harasova, kteří jej v 16. století přestavěli na renesanční zámek. Po častém střídání majitelů v 17. století (mj. Albrecht z Valdštejna, rod Hofkirchenů) jej roku 1700 koupili Kounicové, kteří jej vlastnili do roku 1897; poté patřil princezně z rodu Hohenlohe a od 1918 Eleonoře Andrássyové a od roku 1924 průmyslníku Josefu Šimonkovi; za války jej využívala německá armáda, od roku 1950 byl ve správě státu (archiv Státní knihovny) a počátkem 90. let byl vrácen v restituci dědicům Šimonka, kteří jej od roku 1999 zpřístupnili veřejnosti.",
  "owners": [
   {
    "owner": "koruna",
@@ -138,18 +138,18 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "od té doby zámek chátral (Balbín jej popsal jako zříceninu); Vincenc Karel Kounic jej roku 1823 nákladně opravil"
+   "note": "Jan Vilém z Kounic koupil Housku 8. června 1700 (cs.wiki); od té doby zámek chátral (Balbín jej popsal jako zříceninu); Vincenc Karel Kounic jej roku 1823 nákladně opravil"
   },
   {
    "owner": "hohenlohe",
    "owner_wiki": "Hohenlohe",
-   "person": null,
+   "person": "princezna z rodu Hohenlohe (jméno zdroje neuvádějí)",
    "from": 1897,
    "to": 1918,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "princezna z rodu Hohenlohe, cs.wiki neuvádí jméno"
+   "note": "cs.wiki, amhz.cz a en.wiki: roku 1897 ji získala (en.wiki: koupila) princezna z rodu Hohenlohe, jméno ani jedna ze zdrojů neuvádí; amhz.cz: po její smrti roku 1918 zdědila panství Eleonora Andrássyová"
   },
   {
    "owner": "andrassyove",
@@ -160,40 +160,18 @@
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "mladší sestra předchozí majitelky z rodu Hohenlohe; roku 1924 zámek prodala Josefu Šimonkovi"
+   "note": "hraběnka, mladší sestra předchozí majitelky z rodu Hohenlohe (cs.wiki), zdědila po její smrti 1918 (amhz.cz); roku 1924 hrad prodala Josefu Šimonkovi"
   },
   {
    "owner": "soukromnik",
    "owner_wiki": null,
-   "person": "Josef Šimonek",
+   "person": "Josef Šimonek, poté jeho rodina",
    "from": 1924,
-   "to": 1943,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "koupe",
-   "note": "průmyslník, nechal 1929-1930 provést rekonstrukci s obnovou gotických maleb; zámek sloužil jako letní a reprezentační sídlo rodiny"
-  },
-  {
-   "owner": "stat",
-   "owner_wiki": null,
-   "person": null,
-   "from": 1943,
-   "to": 1945,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "konfiskace",
-   "note": "za války využívala jako konfiskát německá armáda (oblastní štáb SS); od 1943 sloužil pod krycím jménem Burgund II jako depozitář zabavených židovských a zednářských knih"
-  },
-  {
-   "owner": "soukromnik",
-   "owner_wiki": null,
-   "person": "rodina Josefa Šimonka",
-   "from": 1945,
    "to": 1950,
    "from_approx": false,
    "to_approx": true,
-   "how": "jine",
-   "note": "po válce navráceno rodině, cs.wiki neuvádí přesné datum dalšího zestátnění"
+   "how": "koupe",
+   "note": "průmyslník, prezident Škodových závodů, senátor; 1929-1930 rekonstrukce s obnovou gotických maleb, do 1939 letní a reprezentační sídlo rodiny; za války ji (od 1939 podle hradhouska.cz) využívala německá armáda (cs.wiki: jako konfiskát oblastní štáb SS, od 1943 depozitář knih Burgund II); zdroje (cs.wiki, de.wiki, hradhouska.cz) neuvádějí přesné datum zestátnění, uvádějí jen že od 1950 je v zámku archiv Státní knihovny, proto je rok 1950 přibližný"
   },
   {
    "owner": "stat",
@@ -204,7 +182,7 @@
    "from_approx": true,
    "to_approx": true,
    "how": "konfiskace",
-   "note": "od 1950 v zámku archiv Státní knihovny v Klementinu, po 1970 plánováno využití jako noční sanatorium továrny Spolana Neratovice; koncem 1974 zde nahrála undergroundová skupina The Plastic People of the Universe"
+   "note": "od 1950 v zámku archiv Státní knihovny v Klementinu (hradhouska.cz: čtyřicet let péče státu); po 1970 plánováno využití jako noční sanatorium Spolany Neratovice; koncem 1974 zde nahrála skupina The Plastic People of the Universe; přesný rok zestátnění zdroje neuvádějí"
   },
   {
    "owner": "soukromnik",
@@ -215,20 +193,60 @@
    "from_approx": true,
    "to_approx": false,
    "how": "restituce",
-   "note": "zámek vydán v restituci počátkem 90. let, poté opraven a zpřístupněn veřejnosti"
+   "note": "cs.wiki: počátkem 90. let vydán v restituci dědicům Josefa Šimonka, kteří jej opravili; hradhouska.cz: dnešní majitelé Jaromír Šimonek a Blanka Horová; poprvé zpřístupněn veřejnosti 1999"
   }
  ],
  "events": [
-  {"year": 1291, "text": "první písemná zmínka o hradu, doložen úřad houseckého purkrabího"},
-  {"year": 1432, "text": "Hynek Berka z Dubé prodal Housku Janu Smiřickému ze Smiřic"},
-  {"year": 1594, "text": "1584-1594 přestavba hradu na renesanční zámek za Hrzánů z Harasova"},
-  {"year": 1639, "text": "za třicetileté války zámek na krátko obsadilo švédské vojsko"},
-  {"year": 1658, "text": "po válce stržena zchátralá věž, zbořeny hradby a předhradí"},
-  {"year": 1700, "text": "zámek koupili Kounicové"},
-  {"year": 1823, "text": "Vincenc Karel Kounic nechal zámek nákladně opravit"},
-  {"year": 1930, "text": "1929-1930 rekonstrukce za Josefa Šimonka s obnovou gotických maleb"},
-  {"year": 1943, "text": "za nacistické okupace zámek slouží jako depozitář zabavených knih (Burgund II)"},
-  {"year": 1991, "text": "zámek vrácen v restituci dědicům Josefa Šimonka"}
+  {
+   "year": 1291,
+   "text": "první písemná zmínka o hradu, doložen úřad houseckého purkrabího"
+  },
+  {
+   "year": 1432,
+   "text": "Hynek Berka z Dubé prodal Housku Janu Smiřickému ze Smiřic"
+  },
+  {
+   "year": 1594,
+   "text": "1584-1594 přestavba hradu na renesanční zámek za Hrzánů z Harasova"
+  },
+  {
+   "year": 1639,
+   "text": "za třicetileté války zámek na krátko obsadilo švédské vojsko"
+  },
+  {
+   "year": 1658,
+   "text": "po válce stržena zchátralá věž, zbořeny hradby a předhradí"
+  },
+  {
+   "year": 1700,
+   "text": "zámek koupili Kounicové"
+  },
+  {
+   "year": 1823,
+   "text": "Vincenc Karel Kounic nechal zámek nákladně opravit"
+  },
+  {
+   "year": 1930,
+   "text": "1929-1930 rekonstrukce za Josefa Šimonka s obnovou gotických maleb"
+  },
+  {
+   "year": 1943,
+   "text": "za nacistické okupace zámek slouží jako depozitář zabavených knih (Burgund II)"
+  },
+  {
+   "year": 1991,
+   "text": "zámek vrácen v restituci dědicům Josefa Šimonka"
+  },
+  {
+   "year": 1999,
+   "text": "hrad poprvé v historii zpřístupněn veřejnosti"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Houska_(hrad)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Houska_(hrad)",
+  "https://hradhouska.cz/historie/",
+  "https://www.amhz.cz/hrad/houska",
+  "https://de.wikipedia.org/wiki/Burg_Houska",
+  "https://en.wikipedia.org/wiki/Houska_Castle"
+ ]
 }

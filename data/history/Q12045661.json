@@ -6,7 +6,7 @@
   "approx": true,
   "text": "Hrad byl podle archeologických nálezů založen na přelomu 13. a 14. století, snad Mikulášem I. Opavským."
  },
- "summary": "Hrad Plumlov založil na přelomu 13. a 14. století patrně Mikuláš I. Opavský, po roce 1310 jej koupil král Jan Lucemburský a v letech 1322-1325 jej prodal Vokovi z Kravař. Páni z Kravař hrad drželi do vymření rodu po meči roku 1466, poté připadl Kunštátům a od roku 1490 Pernštejnům. Po požáru roku 1586 jej přestavěl a opevnil Karel z Lichtenštejna, jehož potomek Jan Adam Ondřej v letech 1680-1690 postavil vedle starého hradu nový manýristický zámek; hrad byl roku 1801 zbořen. Lichtenštejnům byl zámek zabrán při pozemkové reformě 1931, poté patřil postupně státním institucím a od roku 1994 je majetkem města Plumlova.",
+ "summary": "Hrad Plumlov založil na přelomu 13. a 14. století patrně Mikuláš I. Opavský, po roce 1310 jej koupil král Jan Lucemburský a v letech 1322-1325 jej prodal Vokovi z Kravař. Páni z Kravař hrad drželi do vymření rodu po meči roku 1466, poté připadl Kunštátům a od roku 1490 Pernštejnům, kteří jej po požáru roku 1586 nechali chátrat. Roku 1599 panství koupil Karel z Lichtenštejna, který hrad opravil; jeho potomek Jan Adam Ondřej v letech 1680-1690 postavil vedle starého hradu nový manýristický zámek, hrad byl roku 1801 zbořen. Lichtenštejnům byl zámek zabrán při pozemkové reformě 1931, poté patřil postupně státním institucím a od roku 1994 je majetkem města Plumlova.",
  "owners": [
   {
    "owner": "opavsti-premyslovci",
@@ -15,30 +15,30 @@
    "from": 1300,
    "to": 1310,
    "from_approx": true,
-   "to_approx": false,
+   "to_approx": true,
    "how": "zalozeni",
-   "note": "za zakladatele bývá uváděn i Přemysl Otakar II., archeologie ale svědčí spíše pro Mikuláše I. Opavského a dobu kolem roku 1300"
+   "note": "za zakladatele bývá uváděn i Přemysl Otakar II., ale proti tomu svědčí malé rozměry a bergfritová dispozice; archeologie svědčí spíše pro Mikuláše I. Opavského a přelom 13. a 14. století; po roce 1310 prodal Mikuláš hrad králi Janu (cs.wiki Plumlov: 1311)"
   },
   {
    "owner": "koruna",
    "person": "Jan Lucemburský",
    "from": 1310,
-   "to": 1325,
-   "from_approx": false,
+   "to": 1322,
+   "from_approx": true,
    "to_approx": true,
    "how": "koupe",
-   "note": "koupil hrad a panství od Mikuláše II. Opavského, mezi lety 1322-1325 je prodal Vokovi z Kravař"
+   "note": "koupil hrad a panství od opavského vévody; prodal jej někdy v letech 1322-1325 Vokovi z Kravař (cs.wiki Plumlov: 1322); rok koupě cs.wiki uvádí jako 'po roce 1310' resp. 1311"
   },
   {
    "owner": "pani-z-kravar",
    "owner_wiki": "Páni z Kravař",
    "person": "Vok z Kravař",
-   "from": 1325,
+   "from": 1322,
    "to": 1466,
    "from_approx": true,
    "to_approx": false,
    "how": "koupe",
-   "note": "rod vymřel po meči roku 1466 smrtí Jiřího z Kravař"
+   "note": "koupě někdy v letech 1322-1325 (cs.wiki Plumlov: 1322); rod vymřel po meči roku 1466 smrtí Jiřího z Kravař"
   },
   {
    "owner": "pani-z-kunstatu-a-podebrad",
@@ -56,33 +56,55 @@
    "owner_wiki": "Pernštejnové",
    "person": "Vratislav I. z Pernštejna",
    "from": 1490,
-   "to": 1586,
+   "to": 1599,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "snatek",
-   "note": "oženil se s Ludmilou, dcerou Jana Heralta z Kunštátu; Pernštejnové si vybudovali novou rezidenci v Prostějově a plumlovský hrad zanedbali, roku 1586 vyhořel"
+   "note": "oženil se s Ludmilou, dcerou Jana Heralta z Kunštátu (cs.wiki Plumlov uvádí příchod Pernštejnů 1495, cs.wiki zámek po smrti Heralta 1490); Pernštejnové si v 16. století vybudovali novou rezidenci v Prostějově a plumlovský hrad zanedbali, 6. června 1586 vyhořel; plumlovské panství s Prostějovem prodali zadlužení roku 1599 Karlovi z Lichtenštejna"
   },
   {
    "owner": "lichtenstejnove",
    "owner_wiki": "Lichtenštejnové",
-   "person": "Karel z Lichtenštejna",
-   "from": 1586,
-   "to": 1619,
-   "from_approx": true,
+   "person": "Karel I. z Lichtenštejna",
+   "from": 1599,
+   "to": 1627,
+   "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "zahájil rekonstrukci hradu (arkády, opevnění); rok koupě od Pernštejnů zdroj přesně neuvádí, dosazen k roku požáru 1586; roku 1619 hrad vyplenilo stavovské vojsko"
+   "note": "roku 1599 koupil od zadlužených Pernštejnů plumlovské panství s Prostějovem (cs.wiki Karel I. z Lichtenštejna), nikoli v roce požáru 1586; v závěru 16. stol. a po něm hrad opravil (arkády, opevnění); 1619 hrad vyplenilo stavovské vojsko; zemřel 1627"
+  },
+  {
+   "owner": "lichtenstejnove",
+   "owner_wiki": "Lichtenštejnové",
+   "person": "Karel Eusebius z Lichtenštejna",
+   "from": 1627,
+   "to": 1684,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "jediný syn Karla I., zdědil roku 1627 knížecí titul a rodový majetek (cs.wiki); amatérský architekt, navrhl nový manýristický zámek; zemřel dubnu 1684"
   },
   {
    "owner": "lichtenstejnove",
    "owner_wiki": "Lichtenštejnové",
    "person": "Jan Adam Ondřej z Lichtenštejna",
-   "from": 1619,
-   "to": 1931,
+   "from": 1684,
+   "to": 1712,
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "v letech 1680-1690 nechal podle návrhu otce Karla Eusebia postavit nový manýristický zámek; roku 1801 dal poškozený starý hrad zbořit; rod zámek vlastnil až do pozemkové reformy 1931"
+   "note": "syn Karla Eusebia (1662-1712); stavbu zámku zahájil 1680 ještě za otce, po otcově smrti ji přerušil, 1685 dostal zámek střechu, 1690 práce na interiérech natrvalo ustaly; rok 1712 podle jeho úmrtí"
+  },
+  {
+   "owner": "lichtenstejnove",
+   "owner_wiki": "Lichtenštejnové",
+   "person": "Lichtenštejnové (další knížata, v roce 1801 Alois z Lichtenštejna)",
+   "from": 1712,
+   "to": 1931,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "zdroje (cs.wiki) uvádějí jen, že 1801 hrad a zámek poškodila vichřice a tehdejší majitel Alois z Lichtenštejna nechal hrad zbořit; 1850 zámek pronajat okresnímu soudu a bernímu úřadu; rod držel do pozemkové reformy 1931"
   },
   {
    "owner": "stat",
@@ -106,18 +128,55 @@
   }
  ],
  "events": [
-  {"year": 1300, "text": "založení hradu, snad Mikulášem I. Opavským"},
-  {"year": 1325, "text": "hrad kupuje Vok z Kravař"},
-  {"year": 1466, "text": "vymřením Kravařů po meči přechází hrad na Jana Heralta z Kunštátu"},
-  {"year": 1490, "text": "hrad sňatkem získává Vratislav I. z Pernštejna"},
-  {"year": 1586, "text": "hrad poškozen požárem"},
-  {"year": 1619, "text": "stavovské vojsko hrad vyplení, za třicetileté války jej vypálí a poboří Švédové"},
-  {"year": 1680, "text": "Jan Adam Ondřej z Lichtenštejna zahajuje stavbu nového manýristického zámku"},
-  {"year": 1801, "text": "poškozený starý hrad zbořen"},
-  {"year": 1931, "text": "zámek zabrán Lichtenštejnům při pozemkové reformě"},
-  {"year": 1994, "text": "zámek předán do majetku města Plumlova"}
+  {
+   "year": 1300,
+   "text": "založení hradu, snad Mikulášem I. Opavským"
+  },
+  {
+   "year": 1322,
+   "text": "hrad kupuje Vok z Kravař (někdy v letech 1322-1325)"
+  },
+  {
+   "year": 1466,
+   "text": "vymřením Kravařů po meči přechází hrad na Jana Heralta z Kunštátu"
+  },
+  {
+   "year": 1490,
+   "text": "hrad sňatkem získává Vratislav I. z Pernštejna (cs.wiki Plumlov uvádí 1495)"
+  },
+  {
+   "year": 1586,
+   "text": "hrad poškozen požárem"
+  },
+  {
+   "year": 1599,
+   "text": "Karel z Lichtenštejna kupuje od zadlužených Pernštejnů plumlovské panství"
+  },
+  {
+   "year": 1619,
+   "text": "stavovské vojsko hrad vyplení, za třicetileté války jej vypálí a poboří Švédové"
+  },
+  {
+   "year": 1680,
+   "text": "Jan Adam Ondřej z Lichtenštejna zahajuje stavbu nového manýristického zámku"
+  },
+  {
+   "year": 1801,
+   "text": "poškozený starý hrad zbořen"
+  },
+  {
+   "year": 1931,
+   "text": "zámek zabrán Lichtenštejnům při pozemkové reformě"
+  },
+  {
+   "year": 1994,
+   "text": "zámek předán do majetku města Plumlova"
+  }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Plumlov_(zámek)"
+  "https://cs.wikipedia.org/wiki/Plumlov_(zámek)",
+  "https://cs.wikipedia.org/wiki/Plumlov",
+  "https://cs.wikipedia.org/wiki/Karel_I._z_Lichtenštejna",
+  "https://cs.wikipedia.org/wiki/Karel_Eusebius_z_Lichtenštejna"
  ]
 }

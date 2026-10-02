@@ -1,28 +1,161 @@
 {
  "id": "Q1373051",
  "name": "Krásný Dvůr",
- "founded": {"year": 1573, "approx": false, "text": "Předchůdcem zámku byla renesanční tvrz nad vesnicí, kterou roku 1573 sjednocením dvou dosavadních dílů vsi vytvořil Jan Mašťovský z Kolovrat; podle Rudolfa Anděla stávala starší (horní) tvrz na stejném místě už od 16. století a založil ji Václav Pětipeský z Chýš, August Sedláček ale Pětipeského mezi majiteli vůbec neuvádí."},
+ "founded": {
+  "year": 1573,
+  "approx": false,
+  "text": "Předchůdcem zámku byla renesanční tvrz nad vesnicí, kterou roku 1573 sjednocením dvou dosavadních dílů vsi vytvořil Jan Mašťovský z Kolovrat; podle Rudolfa Anděla stávala starší (horní) tvrz na stejném místě už od 16. století a založil ji Václav Pětipeský z Chýš, August Sedláček ale Pětipeského mezi majiteli vůbec neuvádí."
+ },
  "summary": "Předchůdcem barokního zámku Krásný Dvůr byla renesanční tvrz, kterou roku 1573 vytvořil sjednocením vsi Jan Mašťovský z Kolovrat; poté se v držení rychle střídali Valdštejnové, Lobkovicové, Štampachové, Šlikové, Údrčtí z Údrče a Michnové z Vacínova. Od roku 1649 patřil Černínům z Chudenic, za kterých architekt František Maxmilián Kaňka v letech 1720-1725 přestavěl zchátralou tvrz na barokní zámek s rozsáhlým anglickým parkem. Rodině zámek patřil až do znárodnění po druhé světové válce, dnes jej spravuje Národní památkový ústav a je přístupný veřejnosti.",
  "owners": [
-  {"owner": "z-chys", "owner_wiki": null, "person": "Václav Pětipeský z Chýš", "from": 1500, "to": 1573, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "sporné: podle Rudolfa Anděla založil horní tvrz, ač ta měla stát už v 15. století; August Sedláček jej mezi majiteli vsi vůbec neuvádí"},
-  {"owner": "kolovratove", "owner_wiki": "Kolovratové", "person": "Jan Mašťovský z Kolovrat", "from": 1573, "to": 1580, "from_approx": false, "to_approx": false, "how": "koupe", "note": "roku 1573 sjednotil oba díly vsi do jednoho panství; zemřel bez dědiců, statek odkázal závětí z 10. srpna 1580 Janu staršímu z Valdštejna"},
-  {"owner": "valdstejnove", "owner_wiki": "Valdštejnové", "person": "Jan starší z Valdštejna a na Sedčicích", "from": 1580, "to": 1586, "from_approx": false, "to_approx": false, "how": "dedictvi"},
-  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": "Jan Waldemar z Lobkovic", "from": 1586, "to": 1591, "from_approx": false, "to_approx": false, "how": "koupe", "note": "velmi se zadlužil a byl nucen panství prodat"},
-  {"owner": "stampachove-ze-stampachu", "owner_wiki": "Štampachové ze Štampachu", "person": "Jindřich Štampach ze Štampachu na Valči", "from": 1591, "to": 1591, "from_approx": false, "to_approx": false, "how": "koupe", "note": "ještě téhož roku 1591 panství prodal dál Bedřichu Šlikovi"},
-  {"owner": "slikove", "owner_wiki": "Šlikové", "person": "Bedřich Šlik na Plané", "from": 1591, "to": 1611, "from_approx": false, "to_approx": false, "how": "koupe", "note": "připojil Vitčice a Nové Třebčice, roku 1609 zapsal statek manželce Marii ze Šumburka; zemřel 1611"},
-  {"owner": "udrcti-z-udrce", "owner_wiki": "Údrčtí z Údrče", "person": "Šimon Karel Údrčský z Údrče", "from": 1611, "to": null, "from_approx": false, "to_approx": true, "how": "snatek", "note": "vdova Marie ze Šumburka mu panství přenechala a podruhé se za něj provdala; připojil Buškovice, za účast na stavovském povstání 1618-1620 odsouzen ke konfiskaci poloviny majetku, kterou Marie vykoupila; manželé se zadlužili a panství prodali Václavu Michnovi z Vacínova, přesný rok prodeje není uveden"},
-  {"owner": "michnove-z-vacinova", "owner_wiki": "Michnové z Vacínova", "person": "Václav Michna z Vacínova", "from": null, "to": 1649, "from_approx": true, "to_approx": false, "how": "koupe"},
-  {"owner": "cerninove-z-chudenic", "owner_wiki": "Černínové z Chudenic", "person": "Heřman Černín z Chudenic a jeho potomci (Humprecht Jan, František, Eugen Černín ad.)", "from": 1649, "to": 1945, "from_approx": false, "to_approx": true, "how": "koupe", "note": "za Humprechta Jana obnova po třicetileté válce; František Josef Černín nechal 1720-1725 přestavět tvrz na barokní zámek podle plánů F. M. Kaňky; roku 1925 majetek převzal František Černín, 1932 jej zdědil adoptovaný syn Eugen Černín; rodině patřil až do znárodnění po druhé světové válce"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": true, "to_approx": false, "how": "konfiskace", "note": "po válce se na zámku vystřídalo několik státních správců, dnes jej spravuje Národní památkový ústav"}
+  {
+   "owner": "z-chys",
+   "owner_wiki": null,
+   "person": "Václav Pětipeský z Chýš (podle NPÚ z Krásného Dvora)",
+   "from": null,
+   "to": 1547,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "vesnici získal v první čtvrtině 16. století a začal budovat horní tvrz, kterou nedostavěl (NPÚ, cs.wiki); jako jeden z hlavních viníků stavovského odboje proti Ferdinandovi I. byl 1547 popraven; zakladatelství tvrze je sporné (Rudolf Anděl ano, August Sedláček jej mezi majiteli vsi neuvádí); způsob nabytí a přesný rok zdroje neuvádějí"
+  },
+  {
+   "owner": "kolovratove",
+   "owner_wiki": "Kolovratové",
+   "person": "Jan Mašťovský z Kolovrat",
+   "from": 1573,
+   "to": 1580,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "roku 1573 sjednotil oba díly vsi do jednoho panství a dokončil renesanční tvrz (podle NPÚ vilu, jejíž dispozice tvoří základ dnešního zámku); zemřel bez dědiců, statek odkázal závětí z 10. srpna 1580 Janu staršímu z Valdštejna; způsob nabytí od Pětipeského ani rok zdroje neuvádějí"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Jan starší z Valdštejna a na Sedčicích",
+   "from": 1580,
+   "to": 1586,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Jan Waldemar z Lobkovic",
+   "from": 1586,
+   "to": 1591,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "velmi se zadlužil a byl nucen panství prodat"
+  },
+  {
+   "owner": "stampachove-ze-stampachu",
+   "owner_wiki": "Štampachové ze Štampachu",
+   "person": "Jindřich Štampach ze Štampachu na Valči",
+   "from": 1591,
+   "to": 1591,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "ještě téhož roku 1591 panství prodal dál Bedřichu Šlikovi"
+  },
+  {
+   "owner": "slikove",
+   "owner_wiki": "Šlikové",
+   "person": "Bedřich Šlik na Plané",
+   "from": 1591,
+   "to": 1611,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "připojil Vitčice a Nové Třebčice, roku 1609 zapsal statek manželce Marii ze Šumburka; zemřel 1611"
+  },
+  {
+   "owner": "udrcti-z-udrce",
+   "owner_wiki": "Údrčtí z Údrče",
+   "person": "Šimon Karel Údrčský z Údrče",
+   "from": 1611,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "snatek",
+   "note": "vdova Marie ze Šumburka mu panství přenechala a podruhé se za něj provdala; připojil Buškovice, za účast na stavovském povstání 1618-1620 odsouzen ke konfiskaci poloviny majetku, kterou Marie vykoupila; manželé se zadlužili a panství prodali Václavu Michnovi z Vacínova, přesný rok prodeje není uveden"
+  },
+  {
+   "owner": "michnove-z-vacinova",
+   "owner_wiki": "Michnové z Vacínova",
+   "person": "Václav Michna z Vacínova",
+   "from": null,
+   "to": 1649,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "cs.wiki: koupě od Údrčských (rok neuveden); web obce a NPÚ: po Bílé hoře získal Krásný Dvůr jako konfiskát; od něj panství 1649 koupil Heřman Černín"
+  },
+  {
+   "owner": "cerninove-z-chudenic",
+   "owner_wiki": "Černínové z Chudenic",
+   "person": "Heřman Černín z Chudenic a jeho potomci (Humprecht Jan, František, Eugen Černín ad.)",
+   "from": 1649,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "za Humprechta Jana obnova po třicetileté válce; František Josef Černín nechal 1720-1725 přestavět tvrz na barokní zámek podle plánů F. M. Kaňky; roku 1925 majetek převzal František Černín, 1932 jej zdědil adoptovaný syn Eugen Černín; rodině patřil až do znárodnění po druhé světové válce; rodu patřil do roku 1945 (NPÚ, cs.wiki, Podbořansko)"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "po válce propadl státu (Podbořansko: 'propadl státu'); v květnu 1945 sídlo štábu Rudé armády, poté ministerstvo zemědělství, Národní kulturní komise a další správci; roku 1960 předán do správy MNV Krásný Dvůr, dnes jej spravuje Národní památkový ústav"
+  }
  ],
  "events": [
-  {"year": 1573, "text": "Jan Mašťovský z Kolovrat sjednotil ves do jednoho panství, sídlem renesanční tvrz nad vesnicí"},
-  {"year": 1649, "text": "panství koupil Heřman Černín z Chudenic"},
-  {"year": 1720, "text": "1720-1725 přestavba zchátralé tvrze na barokní zámek podle plánů F. M. Kaňky"},
-  {"year": 1783, "text": "1783-1793 založení rozsáhlého anglického parku"},
-  {"year": 1810, "text": "zámek navštívil J. W. Goethe"},
-  {"year": 1945, "text": "znárodnění po druhé světové válce"},
-  {"year": 1951, "text": "částečně zpřístupněna interiérová instalace veřejnosti"}
+  {
+   "year": 1547,
+   "text": "popraven Václav Pětipeský za účast na stavovském odboji proti Ferdinandovi I."
+  },
+  {
+   "year": 1573,
+   "text": "Jan Mašťovský z Kolovrat sjednotil ves do jednoho panství, sídlem renesanční tvrz nad vesnicí"
+  },
+  {
+   "year": 1649,
+   "text": "panství koupil Heřman Černín z Chudenic"
+  },
+  {
+   "year": 1720,
+   "text": "1720-1725 přestavba zchátralé tvrze na barokní zámek podle plánů F. M. Kaňky"
+  },
+  {
+   "year": 1783,
+   "text": "1783-1793 založení rozsáhlého anglického parku"
+  },
+  {
+   "year": 1810,
+   "text": "zámek navštívil J. W. Goethe"
+  },
+  {
+   "year": 1945,
+   "text": "znárodnění po druhé světové válce"
+  },
+  {
+   "year": 1951,
+   "text": "částečně zpřístupněna interiérová instalace veřejnosti"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Krásný_Dvůr_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Krásný_Dvůr_(zámek)",
+  "https://www.zamek-krasnydvur.cz/cs/o-zamku/historie",
+  "https://www.obeckrasnydvur.cz/zamek/",
+  "https://www.podboransko.cz/zajimavosti/krasny-dvur-pamatky-a-prirodni-zajimavosti-29cs.html"
+ ]
 }

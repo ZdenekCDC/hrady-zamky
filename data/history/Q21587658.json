@@ -2,44 +2,44 @@
  "id": "Q21587658",
  "name": "Domažlice",
  "founded": {
-  "year": null,
+  "year": 1262,
   "approx": true,
-  "text": "Hrad založil spolu s městem král Přemysl Otakar II.; přesný rok založení není v článku uveden."
+  "text": "Hrad založil spolu s městem král Přemysl Otakar II. v 60. letech 13. století (podle hrady.cz / muzea Chodska 1262-1265) jako sídlo královských purkrabí."
  },
- "summary": "Hrad v Domažlicích založil král Přemysl Otakar II. společně s městem. Roku 1592 při požáru města vyhořel a v 17. století se o majetková práva k jeho zbytkům vedl vleklý spor mezi městem a Volfem Maxmiliánem Lamingerem, který byl roku 1671 rozhodnut ve prospěch města. To nechalo zříceninu v letech 1726-1728 přestavět na solnici s věží, v 19. století v objektu sídlil městský úřad a škola, od 30. let 20. století Chodské muzeum; po požáru při rekonstrukci v roce 1995 byla oprava dokončena 1998 a hrad zpřístupněn veřejnosti 1999.",
+ "summary": "Hrad v Domažlicích založil v 60. letech 13. století Přemysl Otakar II. spolu s městem jako sídlo královských purkrabí. Roku 1592 při požáru města vyhořel; po Bílé hoře se stal předmětem sporu mezi městem a Lamingery z Albenreuthu, který byl roku 1671 ukončen výměnou za pozemky ve prospěch města. To nechalo zříceninu v letech 1726-1728 přestavět na solnici s věží, v 19. století v objektu sídlil městský úřad a škola, od 30. let 20. století Chodské muzeum; po požáru při rekonstrukci 1995 byla oprava dokončena 1998 a hrad zpřístupněn 1999.",
  "owners": [
   {
    "owner": "koruna",
    "owner_wiki": null,
    "person": "Přemysl Otakar II.",
-   "from": null,
+   "from": 1262,
    "to": 1592,
    "from_approx": true,
    "to_approx": true,
    "how": "zalozeni",
-   "note": "založil hrad spolu s městem; přesný rok založení ani další osud v držení koruny/města do požáru 1592 nejsou v článku popsány"
+   "note": "založen spolu s městem (1262-1265 podle hrady.cz, citujícího muzeum Chodska a Durdíka) jako sídlo královských purkrabí a chodského rychtáře; v 16. stol. byli purkrabími Švamberkové, kteří Chody drželi v zástavě a roku 1572 se jich vzdali (turistickyatlas.cz); přesný rok přechodu z koruny na město zdroje neuvádějí, rok 1592 (požár) je jen orientační"
   },
   {
    "owner": "mesto",
    "owner_wiki": null,
    "person": "Domažlice",
    "from": 1592,
-   "to": 1671,
+   "to": 1621,
    "from_approx": true,
    "to_approx": false,
    "how": "neznamo",
-   "note": "po požáru 1592 veden vleklý spor o majetková práva k hradu mezi městem a Volfem Maxmiliánem Lamingerem"
+   "note": "po požáru 1592 hrad zpustl a podle webu Haus der Bayerischen Geschichte zůstal v majetku města; způsob ani přesný rok převzetí městem zdroje neuvádějí"
   },
   {
-   "owner": "soukromnik",
+   "owner": "z-albenreuthu",
    "owner_wiki": null,
-   "person": "Volf Maxmilián Laminger",
-   "from": 1592,
+   "person": "Wolf Vilém Laminger z Albenreuthu (Lomikar)",
+   "from": 1621,
    "to": 1671,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "protistrana města ve sporu o majetková práva k hradu v 17. století; rodová příslušnost (predikát) není v článku uvedena, spor rozhodnut 1671 ve prospěch města"
+   "how": "konfiskace",
+   "note": "po Bílé hoře 1621 zkonfiskován měšťanům za účast na stavovském povstání a další majitelem se stal Laminger (turistickyatlas.cz, komerční zdroj; Chodsko jim bylo zastaveno 1621); po něm spor vedl jeho syn Volf Maxmilián Laminger; cs.wiki spor datuje obecně do 17. stol.; rod nemá článek na cs.wiki"
   },
   {
    "owner": "mesto",
@@ -49,17 +49,49 @@
    "to": null,
    "from_approx": false,
    "to_approx": false,
-   "how": "jine",
-   "note": "spor rozhodnut ve prospěch města; zbytky hradu přestavěny 1726-1728 na solnici, v 19. stol. sídlo úřadu a školy, od 30. let 20. stol. Chodské muzeum"
+   "how": "vymena",
+   "note": "spor s Lamingerem ukončen 1671, hrad připadl městu (podle Haus der Bayerischen Geschichte výměnou hradu za pozemky); zbytky přestavěny 1726-1728 na solnici, v 19. stol. městský úřad a škola, od 1931 Chodské muzeum"
   }
  ],
  "events": [
-  {"year": 1592, "text": "hrad vyhořel při požáru města"},
-  {"year": 1671, "text": "spor o majetková práva k hradu rozhodnut ve prospěch města"},
-  {"year": 1727, "text": "1726-1728 přestavba zbytků hradu na solnici s věží"},
-  {"year": 1930, "text": "od 30. let 20. století v objektu sídlí Chodské muzeum"},
-  {"year": 1995, "text": "hrad při rekonstrukčních pracích znovu vyhořel"},
-  {"year": 1999, "text": "po opravě (dokončena 1998) zpřístupněn veřejnosti"}
+  {
+   "year": 1262,
+   "text": "založení hradu spolu s městem Přemyslem Otakarem II. (1262-1265)"
+  },
+  {
+   "year": 1592,
+   "text": "hrad vyhořel při požáru města"
+  },
+  {
+   "year": 1621,
+   "text": "po Bílé hoře hrad zkonfiskován domažlickým měšťanům, majitelem se stává Wolf Vilém Laminger z Albenreuthu (turistickyatlas.cz)"
+  },
+  {
+   "year": 1671,
+   "text": "spor o majetková práva k hradu rozhodnut ve prospěch města"
+  },
+  {
+   "year": 1727,
+   "text": "1726-1728 přestavba zbytků hradu na solnici s věží"
+  },
+  {
+   "year": 1930,
+   "text": "od 30. let 20. století v objektu sídlí Chodské muzeum"
+  },
+  {
+   "year": 1995,
+   "text": "hrad při rekonstrukčních pracích znovu vyhořel"
+  },
+  {
+   "year": 1999,
+   "text": "po opravě (dokončena 1998) zpřístupněn veřejnosti"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Domažlice_(hrad)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Domažlice_(hrad)",
+  "https://archiv.hdbg.de/boehmen/treffpunkte/treffpunkte-texte-cz/treffpunkt-taus.htm",
+  "https://www.hrady.cz/hrad-chodsky-hrad/texty?pos=300&tid=1281",
+  "https://turistickyatlas.cz/vse/misto/7798_chodsky-hrad-domazlice.html",
+  "https://www.domazlice.eu/o-domazlicich/pamatky/pamatky-v-domazlicich/chodsky-hrad-v-domazlicich-243cs.html"
+ ]
 }

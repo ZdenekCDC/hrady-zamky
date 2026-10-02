@@ -1,30 +1,188 @@
 {
  "id": "Q15735166",
  "name": "Konice",
- "founded": {"year": 1705, "approx": false, "text": "1705 nechal opat premonstrátského kláštera Hradisko Norbert Želecký z Počenic postavit barokní zámek na místě starší tvrze, poprvé zmiňované 1351"},
+ "founded": {
+  "year": 1705,
+  "approx": false,
+  "text": "1705 nechal opat premonstrátského kláštera Hradisko Norbert Želecký z Počenic postavit barokní zámek na místě starší tvrze, poprvé zmiňované 1351"
+ },
  "summary": "Na místě dnešního zámku v Konici stála středověká tvrz chránící obchodní cesty z Moravy do Čech, poprvé připomínaná roku 1351 a postupně držená rody z Cimburka a ze Švábenic. Roku 1699 koupil konické zboží premonstrátský klášter Hradisko u Olomouce, jehož opat Norbert Želecký z Počenic nechal roku 1705 na místě tvrze postavit barokní zámek jako letní klášterní rezidenci. Po zrušení kláštera Josefem II. (1784) připadl zámek Náboženskému fondu, roku 1825 jej koupil brněnský továrník Karel Příza a jeho potomci jej drželi do roku 1945; dnes slouží potřebám města Konice.",
  "owners": [
-  {"owner": "koruna", "owner_wiki": null, "person": "Václav II.", "from": null, "to": 1305, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "ves Konice poprvé zmíněna ve falzu hlásícím se k roku 1200; roku 1305 ji král Václav II. postoupil Adamovi z Choliny"},
-  {"owner": "z-choliny", "owner_wiki": null, "person": "Adam z Choliny", "from": 1305, "to": null, "from_approx": false, "to_approx": true, "how": "dar", "note": "obdržel ves od krále Václava II.; další osud držby do roku 1351 článek neuvádí"},
-  {"owner": "z-konic", "owner_wiki": null, "person": "Ješek z Konice", "from": 1351, "to": null, "from_approx": false, "to_approx": true, "how": "neznamo", "note": "první doložený držitel zdejší tvrze, zapsal ji roku 1351 se vsí coby věno manželce Cecílii z Cimburka"},
-  {"owner": "kropacove-z-holstejna", "owner_wiki": "Kropáčové z Holštejna", "person": "Štěpán a Ješek Kropáčové z Holštejna", "from": 1379, "to": 1386, "from_approx": false, "to_approx": false, "how": "jine", "note": "získali zboží zahrnující Konici s tvrzí, hrad Strážiště a okolní vsi"},
-  {"owner": "pani-z-cimburka", "owner_wiki": "Páni z Cimburka", "person": "Ctibor z Cimburka", "from": 1386, "to": 1446, "from_approx": false, "to_approx": false, "how": "koupe", "note": "páni z Cimburka a Tovačova drželi zboží přes dvě století, přesněji do roku 1446"},
-  {"owner": "z-svabenic", "owner_wiki": null, "person": "bratři ze Švábenic (Koničtí ze Švábenic)", "from": 1446, "to": 1655, "from_approx": false, "to_approx": false, "how": "koupe", "note": "za jejich držby se roku 1618 naposledy připomíná zdejší tvrz, zaniklá pravděpodobně za třicetileté války"},
-  {"owner": "neznamo", "owner_wiki": null, "person": null, "from": 1655, "to": 1699, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "panství se vinou rodinných majetkových sporů drobilo, vystřídalo se zde několik nejmenovaných majitelů"},
-  {"owner": "cirkev", "owner_wiki": null, "person": "klášter Hradisko u Olomouce (premonstráti), opat Norbert Želecký z Počenic", "from": 1699, "to": 1784, "from_approx": false, "to_approx": false, "how": "koupe", "note": "opat nechal 1705 postavit barokní zámek jako letní klášterní rezidenci a 1702-1703 přestavět konický kostel"},
-  {"owner": "stat", "owner_wiki": null, "person": "Náboženský fond", "from": 1784, "to": 1825, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "po zrušení kláštera Josefem II. připadlo panství se zámkem Náboženskému fondu ve správě státu, zámek zchátral a zadlužil se"},
-  {"owner": "soukromnik", "owner_wiki": null, "person": "Karel Příza a potomci (mj. Leopold Příza)", "from": 1825, "to": 1945, "from_approx": false, "to_approx": false, "how": "koupe", "note": "brněnský továrník koupil zadlužený a zchátralý zámek, provedl nákladné opravy a 1830 se do Konice přestěhoval"},
-  {"owner": "mesto", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": true, "to_approx": false, "how": "jine", "note": "článek neuvádí přesný rok ani způsob přechodu na město po roce 1945; dnes slouží potřebám města Konice jako koncertní a obřadní síň, knihovna a mateřské centrum"}
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Václav II.",
+   "from": null,
+   "to": 1305,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "ves Konice poprvé zmíněna ve falzu ze 14. stol. hlásícím se k roku 1200; konec 13. stol. ji podle města Konice získal Adam z Choliny od Václava II. výměnou za Zábřežsko (cs.wiki: 1305 ji král postoupil Adamovi z Choliny)"
+  },
+  {
+   "owner": "z-choliny",
+   "owner_wiki": null,
+   "person": "Adam z Choliny",
+   "from": 1305,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "vymena",
+   "note": "Adam z Choliny získal Konicko přípisem Václava II. výměnou za Zábřežsko (konec 13. stol.), cs.wiki uvádí 1305; další osud držby do 1351 článek neuvádí (město Konice zmiňuje mezi držiteli také pány z Helfštejna bez let)"
+  },
+  {
+   "owner": "z-konic",
+   "owner_wiki": null,
+   "person": "Ješek z Konice",
+   "from": 1351,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "první doložený držitel zdejší tvrze, zapsal ji roku 1351 se vsí coby věno manželce Cecílii z Cimburka; podle turistika.cz tvrz v 1. polovině 14. stol. založil Adam z Konice nebo jeho syn Ješek"
+  },
+  {
+   "owner": "kropacove-z-holstejna",
+   "owner_wiki": "Kropáčové z Holštejna",
+   "person": "Štěpán a Ješek Kropáčové z Holštejna",
+   "from": 1379,
+   "to": 1386,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "získali zboží zahrnující Konici s tvrzí, hrad Strážiště a okolní vsi"
+  },
+  {
+   "owner": "pani-z-cimburka",
+   "owner_wiki": "Páni z Cimburka",
+   "person": "Ctibor z Cimburka",
+   "from": 1386,
+   "to": 1446,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "páni z Cimburka a Tovačova drželi zboží do 1446 (cs.wiki); město Konice uvádí vlastnictví Švábenických od 1434"
+  },
+  {
+   "owner": "z-svabenic",
+   "owner_wiki": null,
+   "person": "bratři ze Švábenic (Koničtí ze Švábenic)",
+   "from": 1446,
+   "to": 1655,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "bratři ze Švábenic koupili zboží 1446 (cs.wiki; město Konice: Švábenští 1434-1655, 220 let); 1618 se naposledy připomíná zdejší tvrz, zaniklá pravděpodobně za třicetileté války; v kostele zachovány erby a pět náhrobků rodu"
+  },
+  {
+   "owner": "neznamo",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1655,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "po Švábenických se vinou rodinných majetkových sporů panství drobilo a často měnilo majitele; jména zdroje neuvádějí"
+  },
+  {
+   "owner": "z-werdenbergu",
+   "owner_wiki": null,
+   "person": "Anna Alžběta, hraběnka z Hoffmannu a Kochersbergu, rozená z Werdenbergu",
+   "from": null,
+   "to": 1699,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "poslední majitelka před klášterem; 22. 7. 1699 uzavřela s opatem Norbertem Želeckým z Počenic smlouvu o prodeji panství (požadovala 70 000 zl.), které si opat nejprve vzal jen do tříletého nájmu pro nutnost reciprokého prodeje klášterního majetku; způsob nabytí panství zdroj neuvádí"
+  },
+  {
+   "owner": "cirkev",
+   "owner_wiki": null,
+   "person": "klášter Hradisko u Olomouce (premonstráti), opat Norbert Želecký z Počenic",
+   "from": 1699,
+   "to": 1784,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupě smlouvou z 22. 7. 1699, císařský souhlas 1700, správu panství převzal klášter 19. 9. 1700 (farnost Konice); opat 1702-1703 přestavěl kostel a 1703/1705-1708 zámek (Lukáš Glöckel) jako letní rezidenci a sídlo inspektora; premonstráti Hradisko u Olomouce"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": "Náboženský fond",
+   "from": 1784,
+   "to": 1825,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "klášter Hradisko zrušen 18. 8. 1784 Josefem II., panství přiděleno Náboženskému fondu spravovanému státem; zadlužené a zchátralé"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Karel Příza a potomci (mj. Leopold Příza)",
+   "from": 1825,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "brněnský továrník koupil 1825 zadlužené a zchátralé panství, provedl nákladné opravy a 1830 se do Konice přestěhoval; rod vlastnil panství do konce 2. sv. války (1945)"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "jine",
+   "note": "zdroje neuvádějí rok ani způsob přechodu zámku z rodu Přízů; dnes slouží potřebám města Konice jako koncertní a obřadní síň, knihovna a mateřské centrum, sídlí zde městské kulturní středisko; vlastnictví města výslovně potvrzeno není"
+  }
  ],
  "events": [
-  {"year": 1351, "text": "první zmínka o tvrzi v Konici, jejím držitelem Ješek z Konice"},
-  {"year": 1379, "text": "zboží s tvrzí získávají bratři Kropáčové z Holštejna"},
-  {"year": 1446, "text": "zboží kupují bratři ze Švábenic (Koničtí ze Švábenic)"},
-  {"year": 1618, "text": "naposledy se připomíná zdejší tvrz, poté zaniklá pravděpodobně za třicetileté války"},
-  {"year": 1699, "text": "konické zboží kupuje klášter Hradisko u Olomouce"},
-  {"year": 1705, "text": "dokončena stavba barokního zámku na místě staré tvrze"},
-  {"year": 1784, "text": "po zrušení kláštera Josefem II. připadá panství Náboženskému fondu"},
-  {"year": 1825, "text": "zámek kupuje brněnský továrník Karel Příza"}
+  {
+   "year": 1351,
+   "text": "první zmínka o tvrzi v Konici, jejím držitelem Ješek z Konice"
+  },
+  {
+   "year": 1379,
+   "text": "zboží s tvrzí získávají bratři Kropáčové z Holštejna"
+  },
+  {
+   "year": 1446,
+   "text": "zboží kupují bratři ze Švábenic (Koničtí ze Švábenic)"
+  },
+  {
+   "year": 1618,
+   "text": "naposledy se připomíná zdejší tvrz, poté zaniklá pravděpodobně za třicetileté války"
+  },
+  {
+   "year": 1699,
+   "text": "22. 7. smlouva o koupi konického panství klášterem Hradisko (správu převzal 1700)"
+  },
+  {
+   "year": 1705,
+   "text": "dokončena stavba barokního zámku na místě staré tvrze"
+  },
+  {
+   "year": 1784,
+   "text": "po zrušení kláštera Josefem II. připadá panství Náboženskému fondu"
+  },
+  {
+   "year": 1825,
+   "text": "zámek kupuje brněnský továrník Karel Příza"
+  },
+  {
+   "year": 1830,
+   "text": "Karel Příza se po opravách stěhuje do zámku"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Konice_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Konice_(zámek)",
+  "https://www.konice.cz/historie",
+  "https://www.farnostkonice.cz/historie-farnosti?start=1",
+  "https://www.turistika.cz/mista/zamek-konice/detail"
+ ]
 }

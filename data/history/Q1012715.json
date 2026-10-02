@@ -6,83 +6,313 @@
   "approx": true,
   "text": "Založení gotického hradu je odhadováno na druhou polovinu 13. století (nejstarší dendrochronologicky datované dřevo skáceno po roce 1255), první písemná zmínka je z roku 1312."
  },
- "summary": "Gotický hrad Košumberk založil neznámý zakladatel ve druhé polovině 13. století; od roku 1372 jej drželi páni z Chlumu, zakladatelé rodu Slavatů z Chlumu a Košumberka, kteří jej po požáru roku 1573 přestavěli a kolem roku 1600 přistavěli renesanční zámek. Roku 1684 panství získali jezuité, kteří zde zřídili rezidenci a kostel; koncem 18. století hrad zpustl a chátral jako zřícenina. Roku 1922 daroval zříceninu tehdejší vlastník košumberského panství kníže z Thurn-Taxisů Družstvu pro záchranu hradu Košumberka, které ji zakonzervovalo a zřídilo v purkrabství hradní muzeum; dnes je hrad ve správě města Luže.",
+ "summary": "Gotický hrad Košumberk vznikl koncem 13. století, podle části zdrojů ho založil Ojíř z Košumberka; roku 1372 jej od Bohunka z Popovic koupili páni z Chlumu, pozdější Slavatové z Chlumu a Košumberka, kteří ho po požáru 1573 přestavěli a kolem 1600 přistavěli renesanční zámek. Po pobělohorské konfiskaci polovinu koupil Vilém Slavata, panství pak sňatkem připadlo Hýzrlům z Chodů a roku 1684 jej odkázala Marie Maxmiliána jezuitské koleji v Hradci Králové; hrad postupně pustl. Po zrušení řádu 1773 spravoval panství náboženský fond, 1807 koupil Leopold de Laing a 1826 Thurn-Taxisové, jejichž kníže roku 1922 daroval zříceninu Družstvu pro záchranu hradu Košumberka. Od roku 1950 patřil státu a dnes je ve správě města Luže.",
  "owners": [
   {
-   "owner": "neznamo",
+   "owner": "z-kosumberka",
    "owner_wiki": null,
-   "person": null,
-   "from": 1255,
+   "person": "Ojíř z Košumberka",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "zakladatel hradu koncem 13. stol. se podle kamsevydat.cz (turistický blog) a atlasceska.cz uvádí pravděpodobně Ojíř z Košumberka; cs.wiki zakladatele neuvádí, první písemná zmínka 1312 (cs.wiki; hrady.cz a atlasceska.cz uvádějí 1318); po jeho smrti podle kamsevydat.cz zanechal vdovu a sirotky, které nezákonně připravil o dědictví Bohunek z Popovic, král Jan Lucemburský přikázal hrad vrátit"
+  },
+  {
+   "owner": "z-popovic",
+   "owner_wiki": null,
+   "person": "Bohunek z Popovic",
+   "from": null,
    "to": 1372,
    "from_approx": true,
    "to_approx": false,
-   "how": "zalozeni",
-   "note": "zakladatel hradu není v cs.wiki uveden; první písemná zmínka je z roku 1312"
+   "how": "neznamo",
+   "note": "hrad se po zásahu krále Jana Lucemburského a později neznámo jak dostal opět do držení Bohunka z Popovic (kamsevydat.cz); ten jej 1372 prodal s panstvím, městečkem Luže a několika vesnicemi bratřím z Chlumu; roky počátku držby zdroje neuvádějí"
   },
   {
    "owner": "slavatove-z-chlumu-a-kosumberka",
    "owner_wiki": "Slavatové z Chlumu a Košumberka",
-   "person": "páni z Chlumu",
+   "person": "Diviš, Ješek, Mstislav a Slavata z Chlumu",
    "from": 1372,
-   "to": 1684,
+   "to": 1382,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "koupili 1372 od Bohunka z Popovic (hrady.cz); z Košumberka učinili jedno z hlavních rodových sídel a začali si říkat páni z Košumberka; cs.wiki: 1372 jsou uváděni jako vlastníci páni z Chlumu"
+  },
+  {
+   "owner": "slavatove-z-chlumu-a-kosumberka",
+   "owner_wiki": "Slavatové z Chlumu a Košumberka",
+   "person": "Diviš z Chlumu",
+   "from": 1382,
+   "to": 1393,
    "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "roku 1372 doloženi jako vlastníci páni z Chlumu, zakladatelé rodu Slavatů z Chlumu a Košumberka; hrad přestavěli goticky, po požáru 1573 a kolem 1600 přistavěli renesanční zámek"
+   "how": "dedictvi",
+   "note": "jediný pán Košumberka v letech 1382-1393 (kamsevydat.cz)"
+  },
+  {
+   "owner": "slavatove-z-chlumu-a-kosumberka",
+   "owner_wiki": "Slavatové z Chlumu a Košumberka",
+   "person": "Jindřich Lacembok z Chlumu (správce)",
+   "from": 1397,
+   "to": 1405,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "po Divišově smrti se správy ujal jeho strýc; roky 1393-1397 zdroj nepokrývá (kamsevydat.cz)"
+  },
+  {
+   "owner": "slavatove-z-chlumu-a-kosumberka",
+   "owner_wiki": "Slavatové z Chlumu a Košumberka",
+   "person": "Jan z Chlumu",
+   "from": 1406,
+   "to": 1417,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "pravděpodobně syn Ježkův (kamsevydat.cz)"
+  },
+  {
+   "owner": "slavatove-z-chlumu-a-kosumberka",
+   "owner_wiki": "Slavatové z Chlumu a Košumberka",
+   "person": "Vilém a Diviš z Chlumu",
+   "from": 1417,
+   "to": 1434,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "1417 při dělení panství pánů z Chlumu jim bratři přenechali Košumberk, Luži a 17 vesnic; Vilém zemřel 1434 (kamsevydat.cz)"
+  },
+  {
+   "owner": "slavatove-z-chlumu-a-kosumberka",
+   "owner_wiki": "Slavatové z Chlumu a Košumberka",
+   "person": "synové Viléma (Slavata a Jan), po Divišovi (+1454) jeho dědicové",
+   "from": 1434,
+   "to": 1540,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "polovinu získali po Vilémovi synové Slavata a Jan; osudy druhé poloviny po Divišově smrti 1454 nejsou známy; začátkem 16. stol. se vlastníkem obou částí stal Divišův vnuk Slavata (kamsevydat.cz, méně spolehlivý zdroj); rozdělení do jednotlivých držitelů a přesné roky přechodů zdroje neuvádějí"
+  },
+  {
+   "owner": "slavatove-z-chlumu-a-kosumberka",
+   "owner_wiki": "Slavatové z Chlumu a Košumberka",
+   "person": "Diviš Slavata z Chlumu",
+   "from": 1540,
+   "to": 1575,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "získal panství 1540; 1547 po protihabsburském odboji dočasně změněno v manství, později odpuštěno; po požáru 1573 renesanční přestavba (kamsevydat.cz, hrady.cz)"
+  },
+  {
+   "owner": "slavatove-z-chlumu-a-kosumberka",
+   "owner_wiki": "Slavatové z Chlumu a Košumberka",
+   "person": "synové Diviše Slavaty (Adam, Jindřich, Michal, Albrecht, Zachariáš)",
+   "from": 1575,
+   "to": 1577,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "1577 se o statky rozdělili (hrady.cz)"
+  },
+  {
+   "owner": "slavatove-z-chlumu-a-kosumberka",
+   "owner_wiki": "Slavatové z Chlumu a Košumberka",
+   "person": "Jindřich Slavata z Chlumu",
+   "from": 1577,
+   "to": 1599,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "Košumberk připadl při dělení 1577 Jindřichovi (hrady.cz)"
+  },
+  {
+   "owner": "slavatove-z-chlumu-a-kosumberka",
+   "owner_wiki": "Slavatové z Chlumu a Košumberka",
+   "person": "Diviš Lacembok Slavata z Chlumu",
+   "from": 1599,
+   "to": 1623,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "aktivní účastník stavovského povstání, 1623 po jeho smrti byla konfiskována polovina majetku (hrady.cz); renesanční zámek přistavěn kolem 1600"
+  },
+  {
+   "owner": "slavatove-z-chlumu-a-kosumberka",
+   "owner_wiki": "Slavatové z Chlumu a Košumberka",
+   "person": "Vilém Slavata z Chlumu",
+   "from": 1623,
+   "to": 1634,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil zkonfiskované panství, synovec Diviše Lacemboka (hrady.cz, atlasceska.cz)"
+  },
+  {
+   "owner": "slavatove-z-chlumu-a-kosumberka",
+   "owner_wiki": "Slavatové z Chlumu a Košumberka",
+   "person": "Jindřich Vilém Slavata z Chlumu",
+   "from": 1634,
+   "to": 1654,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "1634 mu Košumberk postoupil Vilém Slavata; za jeho vlády úpadek panství způsobený válkou (hrady.cz)"
+  },
+  {
+   "owner": "slavatove-z-chlumu-a-kosumberka",
+   "owner_wiki": "Slavatové z Chlumu a Košumberka",
+   "person": "Johanka Barbora Slavatová z Chlumu",
+   "from": 1654,
+   "to": 1655,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "dvouletá dcera Jindřicha Viléma, zemřela o rok později (hrady.cz)"
+  },
+  {
+   "owner": "z-zdaru",
+   "owner_wiki": null,
+   "person": "Marie Maxmiliána, hraběnka ze Žďáru (provdaná Hýzrlová z Chodů)",
+   "from": 1655,
+   "to": 1684,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "zdědila po dceři Johance Barboře; 1656 se podruhé provdala za Františka Kryštofa Hýzrleho z Chodů (hrady.cz; iispp.npu.cz uvádí přechod panství sňatkem do rodu Hýzrlů z Chodů)"
   },
   {
    "owner": "cirkev",
    "owner_wiki": null,
-   "person": "jezuité",
+   "person": "jezuitská kolej v Hradci Králové",
    "from": 1684,
-   "to": null,
+   "to": 1773,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "Marie Maxmiliána jim 1684 odkázala celé panství; sídlili v rezidenci na Chlumku, hrad sloužil jako sýpka a správa panství, 1769 horní patra neobyvatelná; držení do zrušení řádu 1773 (hrady.cz, atlasceska.cz, iispp.npu.cz); cs.wiki uvádí jen rok 1684 a zřízení kostela a rezidence"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Náboženský fond",
+   "from": 1773,
+   "to": 1807,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "po zrušení jezuitského řádu spravoval panství náboženský fond (hrady.cz); iispp.npu.cz uvádí fond až od 1807; přesné datum převzetí zdroje neuvádějí"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Leopold de Laing",
+   "from": 1807,
+   "to": 1826,
+   "from_approx": false,
+   "to_approx": false,
    "how": "koupe",
-   "note": "jezuitský řád zřídil na Košumberku kostel a rezidenci; cs.wiki neuvádí přesný rok konce jejich správy, koncem 18. století je hrad již uváděn jako pustý"
+   "note": "Belgičan, koupil panství v dražbě 1807, sídlil na Chlumku (hrady.cz)"
   },
   {
    "owner": "thurn-taxisove",
    "owner_wiki": "Thurn-Taxisové",
-   "person": "kníže z Thurn-Taxisů",
-   "from": null,
+   "person": "Karel Matyáš Thurn-Taxis",
+   "from": 1826,
    "to": 1922,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "cs.wiki neuvádí, kdy ani jak Thurn-Taxisové košumberské panství získali, jen že jej roku 1922 darovali jako vlastníci"
+   "how": "koupe",
+   "note": "panství koupil 1826, správa přesunuta do Chroustovic, hrad ponechán osudu (hrady.cz, iispp.npu.cz); 1922 kníže hrad daroval Družstvu (cs.wiki)"
   },
   {
    "owner": "soukromnik",
    "owner_wiki": null,
    "person": "Družstvo pro záchranu hradu Košumberka",
    "from": 1922,
+   "to": 1950,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dar",
+   "note": "cs.wiki: 1922 dar od knížete z Thurn-Taxisů; hrady.cz: hrad získalo do správy v rámci první pozemkové reformy, majetkem družstva do 1950; atlasceska.cz uvádí družstvo od 1920; družstvo zříceninu zakonzervovalo a zřídilo muzeum v purkrabství"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1950,
    "to": null,
    "from_approx": false,
    "to_approx": true,
-   "how": "dar",
-   "note": "spolek zříceninu zakonzervoval a zřídil hradní muzeum; přesný rok přechodu správy na město Luže není v článku uveden"
+   "how": "jine",
+   "note": "hrady.cz a kamsevydat.cz: 1950 přešel do vlastnictví československého státu (atlasceska.cz uvádí 1953), od 1961 ve správě ONV Chrudim; důvod nabytí zdroje neuvádějí; datum převodu na obec Luže zdroje neuvádějí"
   },
   {
    "owner": "mesto",
    "owner_wiki": null,
-   "person": null,
+   "person": "město Luže",
    "from": null,
    "to": null,
    "from_approx": true,
    "to_approx": false,
    "how": "neznamo",
-   "note": "dnes je zřícenina ve správě města Luže"
+   "note": "atlasceska.cz: v devadesátých letech 20. stol. hrad převzala do péče obec Luže; cs.wiki: dnes ve správě města Luže; přesný rok a způsob nabytí zdroje neuvádějí"
   }
  ],
  "events": [
-  {"year": 1312, "text": "první písemná zmínka o hradu"},
-  {"year": 1372, "text": "jako vlastníci doloženi páni z Chlumu, zakladatelé rodu Slavatů z Chlumu a Košumberka"},
-  {"year": 1573, "text": "hrad vyhořel"},
-  {"year": 1600, "text": "k hradu přistavěn velký renesanční zámek"},
-  {"year": 1684, "text": "panství se stalo majetkem jezuitů, kteří zde zřídili kostel a rezidenci"},
-  {"year": 1868, "text": "v letech 1868 a 1869 se na hradě konaly tábory lidu k uctění Jana Husa"},
-  {"year": 1922, "text": "kníže z Thurn-Taxisů daroval zříceninu Družstvu pro záchranu hradu Košumberka, které ji zakonzervovalo a zřídilo hradní muzeum"}
+  {
+   "year": 1312,
+   "text": "první písemná zmínka o hradu (hrady.cz a atlasceska.cz uvádějí 1318)"
+  },
+  {
+   "year": 1372,
+   "text": "hrad s panstvím kupují od Bohunka z Popovic bratři z Chlumu, pozdější Slavatové z Chlumu a Košumberka"
+  },
+  {
+   "year": 1573,
+   "text": "hrad vyhořel"
+  },
+  {
+   "year": 1600,
+   "text": "k hradu přistavěn velký renesanční zámek"
+  },
+  {
+   "year": 1684,
+   "text": "Marie Maxmiliána odkazuje panství jezuitské koleji v Hradci Králové, jezuité zřizují kostel a rezidenci"
+  },
+  {
+   "year": 1773,
+   "text": "zrušení jezuitského řádu, panství spravuje náboženský fond"
+  },
+  {
+   "year": 1807,
+   "text": "panství kupuje v dražbě Leopold de Laing"
+  },
+  {
+   "year": 1826,
+   "text": "panství kupuje Karel Matyáš Thurn-Taxis"
+  },
+  {
+   "year": 1868,
+   "text": "v letech 1868 a 1869 se na hradě konaly tábory lidu k uctění Jana Husa"
+  },
+  {
+   "year": 1922,
+   "text": "kníže z Thurn-Taxisů daroval zříceninu Družstvu pro záchranu hradu Košumberka, které ji zakonzervovalo a zřídilo hradní muzeum"
+  },
+  {
+   "year": 1950,
+   "text": "hrad přechází do vlastnictví státu (podle hrady.cz)"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Košumberk"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Košumberk",
+  "https://www.hrady.cz/hrad-kosumberk-luze",
+  "https://www.kamsevydat.cz/hrad-kosumberk/",
+  "https://www.atlasceska.cz/pamatky/zricenina-hradu-kosumberk-17225",
+  "https://iispp.npu.cz/mis_public/documentDetail.htm?id=314491"
+ ]
 }

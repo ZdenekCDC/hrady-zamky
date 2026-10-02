@@ -1,41 +1,332 @@
 {
  "id": "Q12058218",
  "name": "Tachov",
- "founded": {"year": 1250, "approx": true, "text": "Královský hrad založen přibližně v polovině 13. století na místě raně středověkého hradiště zaniklého požárem"},
+ "founded": {
+  "year": 1250,
+  "approx": true,
+  "text": "Královský hrad založen přibližně v polovině 13. století na místě raně středověkého hradiště zaniklého požárem"
+ },
  "summary": "Tachovský hrad založil panovník kolem poloviny 13. století jako královský hrad chránící zemskou stezku; po celý středověk zůstal korunním majetkem, který král často zastavoval šlechtě (páni z Lipé, ze Švamberka, z Metelska, z Gutštejna, Pluhové z Rabštejna, Lobkovicové) a krátce jej obsadili i husité. Od roku 1623 patřil dědičně Husmanům z Namedy, od roku 1669 Losyům z Losinthalu, kteří jej přestavěli na barokní zámek, a po jejich vymření (1781) Windischgrätzům, kteří po požáru 1770 zámek přestavěli klasicistně. Rodině byl majetek odňat roku 1945, poté zámek chátral pod správou státních statků, byl opraven v 70.-80. letech 20. století a od roku 2014 je přístupný veřejnosti.",
  "owners": [
-  {"owner": "koruna", "owner_wiki": null, "person": "Přemysl Otakar II.; kastelán Albrecht ze Žeberka", "from": 1250, "to": 1297, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "hrad založen po požáru staršího hradiště; kastelán Albrecht ze Žeberka si po smrti Přemysla Otakara II. neoprávněně činil nárok na hrad, vzdal se ho až roku 1297"},
-  {"owner": "pani-z-lipe", "owner_wiki": "Páni z Lipé", "person": "Jindřich z Lipé", "from": 1310, "to": 1333, "from_approx": false, "to_approx": false, "how": "lenni", "note": "král Jan Lucemburský zastavil hrad; vyplatil jej markrabě Karel (budoucí Karel IV.)"},
-  {"owner": "koruna", "owner_wiki": null, "person": null, "from": 1333, "to": 1400, "from_approx": false, "to_approx": true, "how": "neznamo", "note": "Karel IV. hrad v navrhované Majestas Carolina zařadil mezi hrady, které panovník nesmí zastavit"},
-  {"owner": "pani-ze-svamberka", "owner_wiki": "Páni ze Švamberka", "person": "Jan ze Švamberka", "from": 1400, "to": 1406, "from_approx": true, "to_approx": false, "how": "lenni", "note": "Václav IV. zastavil hrad na počátku 15. stol.; pro spory 1406 hrad oblehlo královské vojsko a Jan musel panství postoupit Bavorovi ze Švamberka, který je vzápětí vrátil panovníkovi"},
-  {"owner": "koruna", "owner_wiki": null, "person": null, "from": 1406, "to": 1407, "from_approx": false, "to_approx": true, "how": "neznamo"},
-  {"owner": "pani-ze-svamberka", "owner_wiki": "Páni ze Švamberka", "person": "Hynek Hanovec ze Švamberka", "from": 1407, "to": 1410, "from_approx": true, "to_approx": false, "how": "lenni"},
-  {"owner": "koruna", "owner_wiki": null, "person": null, "from": 1410, "to": 1421, "from_approx": false, "to_approx": false, "how": "neznamo"},
-  {"owner": "z-metelska", "owner_wiki": null, "person": "Jindřich z Metelska", "from": 1421, "to": 1427, "from_approx": false, "to_approx": true, "how": "lenni", "note": "král Zikmund zastavil hrad 1421; téhož roku jej neúspěšně obléhalo husitské vojsko Jana Žižky; rok konce této fáze (bitva u Tachova) cs.wiki přesně neudává"},
-  {"owner": "soukromnik", "owner_wiki": null, "person": "husitská posádka, hejtman Buzek ze Smolotel", "from": 1427, "to": 1434, "from_approx": true, "to_approx": false, "how": "jine", "note": "po bitvě u Tachova (11. srpna) husité dobyli město i hrad, o tři dny později se vzdali i obránci (mj. Vilém Švihovský z Rýzmberka a Jindřich Černín z Chudenic); 1431 hrad odolal obléhání křižáckého vojska"},
-  {"owner": "z-metelska", "owner_wiki": null, "person": "Jindřich z Metelska", "from": 1434, "to": 1449, "from_approx": false, "to_approx": false, "how": "lenni", "note": "po jeho smrti (po roce 1446) byl poručníkem dětí přimdský purkrabí Lvík z Jivjan; zástavní právo přešlo roku 1449 na Buriana I. z Gutštejna"},
-  {"owner": "pani-z-gutstejna", "owner_wiki": "Páni z Gutštejna", "person": "Burian I. z Gutštejna", "from": 1449, "to": 1477, "from_approx": false, "to_approx": false, "how": "lenni", "note": "syn Burian II. Bohatý získal roku 1477 Tachov do dědičného vlastnictví"},
-  {"owner": "pani-z-gutstejna", "owner_wiki": "Páni z Gutštejna", "person": "Burian II. Bohatý a synové Jetřich, Jindřich, Jan, Volf", "from": 1477, "to": 1509, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "bratři mezi sebou vedli spory; Jindřich z Gutštejna roku 1509 hrad dobyl útokem na bratra Volfa, který uprchl do Prahy"},
-  {"owner": "koruna", "owner_wiki": null, "person": "Ladislav a Albrecht ze Šternberka (hejtmani); krátká zástava Barboře z Kolína nad Rýnem; hejtman Vilém Kfelíř ze Zakšova", "from": 1510, "to": 1530, "from_approx": false, "to_approx": true, "how": "neznamo", "note": "v lednu 1510 hrad pro krále Vladislava II. dobyl Ladislav ze Šternberka poté, co Volf slíbil vrátit hrad komoře; Ludvík Jagellonský jej krátce zastavil Barboře z Kolína nad Rýnem jako záruku za půjčku, dluh byl nejspíše brzy splacen; přesné roky cs.wiki neuvádí"},
-  {"owner": "pluhove-z-rabstejna", "owner_wiki": "Pluhové z Rabštejna", "person": "Hanuš Pluh z Rabštejna a syn Kašpar", "from": 1530, "to": 1547, "from_approx": true, "to_approx": false, "how": "lenni", "note": "Ferdinand I. věnoval hrad na dobu života; Kašpar se roku 1547 zúčastnil stavovského odboje a byl potrestán ztrátou majetku"},
-  {"owner": "koruna", "owner_wiki": null, "person": null, "from": 1547, "to": 1550, "from_approx": false, "to_approx": true, "how": "konfiskace", "note": "hrad znovu zastaven za 24000 kop grošů novému majiteli Janu mladšímu z Lobkovic"},
-  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": "Jan mladší z Lobkovic, syn Kryštof z Lobkovic", "from": 1550, "to": 1602, "from_approx": true, "to_approx": false, "how": "lenni", "note": "na nátlak císaře Rudolfa II. postoupil Kryštof z Lobkovic roku 1602 hrad za 100000 kop míšeňských grošů královské komoře"},
-  {"owner": "koruna", "owner_wiki": null, "person": null, "from": 1602, "to": 1606, "from_approx": false, "to_approx": false, "how": "neznamo"},
-  {"owner": "mesto", "owner_wiki": null, "person": "tachovská obec", "from": 1606, "to": 1623, "from_approx": false, "to_approx": true, "how": "lenni", "note": "manové měli konat údržbu hradu, náklady přesáhly jejich možnosti, manský systém zanikl 1612; na počátku třicetileté války město i hrad několikrát střídavě obsadily posádky obou válčících stran"},
-  {"owner": "z-namedy", "owner_wiki": null, "person": "Jan Filip Husman z Namedy", "from": 1623, "to": 1669, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "hrad zpustošen na počátku třicetileté války, roku 1648 znovu vypleněn Švédy, poté opět opraven"},
-  {"owner": "losyove-z-losinthalu", "owner_wiki": "Losyové z Losinthalu", "person": "Jan Antonín Losy z Losinthalu", "from": 1669, "to": 1781, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "hrad získal od Husmanových dcer (podle Tomáše Durdíka již roku 1651); rod jej přestavěl na dvoupatrový barokní zámek; roku 1770 zámek vyhořel; rod vymřel 1781 smrtí Adama Filipa Losyho"},
-  {"owner": "windischgratzove", "owner_wiki": "Windischgrätzové", "person": "Josef Mikuláš, poté Alfred, Alfred Josef a Alfred August Windischgrätz", "from": 1781, "to": 1945, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "zdědili po vymření Losyů; požárem poškozený zámek přestavěli klasicistně (1787-1809); po 1. světové válce pozemková reforma zmenšila velkostatek; Alfred August Windischgrätz zemřel 1927, zbylý majetek rodina držela do roku 1945"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": true, "to_approx": false, "how": "konfiskace", "note": "od 1962 hospodařilo Sdružení státních statků, po 1980 Agrokombinát - Státní statek Tachov; roku 1968 rozhodnuto o demolici zchátralého zámku, k ní nedošlo; 1972-1984 opraven pro městský národní výbor a lidovou školu umění; od 2014 zpřístupněn veřejnosti"}
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Přemysl Otakar II.; kastelán Albrecht ze Žeberka",
+   "from": 1250,
+   "to": 1310,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "hrad založen po požáru staršího hradiště; kastelán Albrecht ze Žeberka po smrti Přemysla Otakara II. vystupoval jako majitel a nároku se vzdal 1297; roku 1298 král hrad uvádí jako svůj (medievalheritage.eu)"
+  },
+  {
+   "owner": "pani-z-lipe",
+   "owner_wiki": "Páni z Lipé",
+   "person": "Jindřich z Lipé",
+   "from": 1310,
+   "to": 1333,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "král Jan Lucemburský zastavil hrad; vyplatil jej markrabě Karel (budoucí Karel IV.)"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1333,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "markrabě Karel hrad vyplatil; Karel IV. na hradě často pobýval (1354-1367), v Majestas Carolina zařazen mezi nezcizitelné hrady; rok konce nezjištěn, další zástava až na počátku 15. stol."
+  },
+  {
+   "owner": "pani-ze-svamberka",
+   "owner_wiki": "Páni ze Švamberka",
+   "person": "Jan ze Švamberka",
+   "from": null,
+   "to": 1406,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "Václav IV. zastavil hrad na počátku 15. stol. (přesný rok zdroje neuvádějí); 1406 jej oblehlo královské vojsko, Jan musel hrad postoupit Bavorovi ze Švamberka, který jej vzápětí vrátil králi"
+  },
+  {
+   "owner": "pani-ze-svamberka",
+   "owner_wiki": "Páni ze Švamberka",
+   "person": "Hynek Hanovec ze Švamberka",
+   "from": null,
+   "to": 1410,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "král hrad brzy po roce 1406 zastavil znovu; 1410 vyplacen"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1410,
+   "to": 1421,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "v královském držení do 1421"
+  },
+  {
+   "owner": "z-metelska",
+   "owner_wiki": null,
+   "person": "Jindřich z Metelska",
+   "from": 1421,
+   "to": 1427,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "počátkem 1421 svěřil král Zikmund Tachov Jindřichovi z Metelska; téhož roku neúspěšně oblehl město Žižka; bitva u Tachova 4. srpna 1427, město dobyto 11. srpna a hrad se vzdal 14. srpna 1427 (tachov.cz)"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "husitská posádka, hejtman Buzek ze Smolotel",
+   "from": 1427,
+   "to": 1434,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "husité dobyli hrad 14. 8. 1427; 1431 hrad odolal křižáckému vojsku; 1434 zástavní držitel Jindřich z Metelska město od husitů zřejmě vykoupil (tachov.cz)"
+  },
+  {
+   "owner": "z-metelska",
+   "owner_wiki": null,
+   "person": "Jindřich z Metelska",
+   "from": 1434,
+   "to": 1449,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "zemřel po roce 1446, poručníkem jeho dětí byl přimdský purkrabí Lvík z Jivjan; roku 1449 zástavní právo přešlo na Buriana I. z Gutštejna"
+  },
+  {
+   "owner": "pani-z-gutstejna",
+   "owner_wiki": "Páni z Gutštejna",
+   "person": "Burian I. z Gutštejna",
+   "from": 1449,
+   "to": 1477,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "zástavní držitel od 1449; 1451-1452 umožnil vznik františkánského kláštera"
+  },
+  {
+   "owner": "pani-z-gutstejna",
+   "owner_wiki": "Páni z Gutštejna",
+   "person": "Burian II. Bohatý z Gutštejna",
+   "from": 1477,
+   "to": 1489,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "1477 získal Tachov do dědičného vlastnictví (za podporu Vladislava II.); zemřel 1489 (medievalheritage.eu); do plnoletosti synů spravovala majetek vdova Zikuna"
+  },
+  {
+   "owner": "pani-z-gutstejna",
+   "owner_wiki": "Páni z Gutštejna",
+   "person": "synové Buriana II.: Jetřich, poté Jindřich a Jan",
+   "from": 1489,
+   "to": 1508,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "Jetřich připomínán jako majitel roku 1495 (tachov.cz), do 1508 město přešlo na Jindřicha, Jana a Volfa; přesné roky střídání zdroje neuvádějí; rok 1489 = smrt otce"
+  },
+  {
+   "owner": "pani-z-gutstejna",
+   "owner_wiki": "Páni z Gutštejna",
+   "person": "Volf z Gutštejna",
+   "from": 1508,
+   "to": 1509,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "bratři mezi sebou válčili; Volf uprchl do Prahy a byl propuštěn až po slibu vrátit hrad komoře"
+  },
+  {
+   "owner": "pani-z-gutstejna",
+   "owner_wiki": "Páni z Gutštejna",
+   "person": "Jindřich z Gutštejna",
+   "from": 1509,
+   "to": 1510,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "koncem prosince 1509 hrad dobyl překvapivým útokem; v lednu 1510 jej pro Vladislava II. dobyl Ladislav ze Šternberka"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "hejtmani: Albrecht ze Šternberka, Vilém Kfelíř ze Zakšova (1525-1529)",
+   "from": 1510,
+   "to": 1530,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "Ludvík Jagellonský hrad zastavil Barboře z Kolína nad Rýnem (39 tisíc florénů), dluh nejspíše brzy splacen; 1527 jednání o zástavě s Jindřichem z Gutštejna bezvýsledné"
+  },
+  {
+   "owner": "pluhove-z-rabstejna",
+   "owner_wiki": "Pluhové z Rabštejna",
+   "person": "Hanuš Pluh z Rabštejna",
+   "from": 1530,
+   "to": 1537,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "Ferdinand I. dal hrad s městem do zástavy na dobu života za 26 190 zlatých rýnských; Hanuš zemřel 14. 8. 1537 (tachov.cz)"
+  },
+  {
+   "owner": "pluhove-z-rabstejna",
+   "owner_wiki": "Pluhové z Rabštejna",
+   "person": "Kašpar Pluh z Rabštejna",
+   "from": 1537,
+   "to": 1547,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "synovec (cs.wiki: syn) Hanuše; 1547 vedl stavovský odboj, majetek mu byl konfiskován, v srpnu 1547 Tachov obsadilo císařské vojsko Ladislava Popela z Lobkovic"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1547,
+   "to": 1556,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "1556 získal Ferdinand I. souhlas zemského sněmu k nové zástavě"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Jan mladší z Lobkovic, poté syn Kryštof",
+   "from": 1556,
+   "to": 1602,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "zástava za 24 tisíc kop grošů; 1602 Kryštof za 100 000 kop míšeňských grošů hrad postoupil královské komoře (Rudolf II. potřeboval peníze na tureckou válku)"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1602,
+   "to": 1606,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "tachovská obec",
+   "from": 1606,
+   "to": 1623,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "lenni",
+   "note": "manové měli konat údržbu hradu, náklady přesáhly jejich možnosti, manský systém zanikl 1612; na počátku třicetileté války město i hrad několikrát střídavě obsadily posádky obou válčících stran"
+  },
+  {
+   "owner": "z-namedy",
+   "owner_wiki": null,
+   "person": "Jan Filip Husman z Namedy",
+   "from": 1623,
+   "to": 1669,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "hrad zpustošen na počátku třicetileté války, 1648 znovu vypleněn Švédy, Husman jej opět nechal opravit; způsob nabytí v pramenech neuveden"
+  },
+  {
+   "owner": "losyove-z-losinthalu",
+   "owner_wiki": "Losyové z Losinthalu",
+   "person": "Jan Antonín Losy z Losinthalu",
+   "from": 1669,
+   "to": 1781,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "hrad získal od Husmanových dcer 1669 (cs.wiki), podle Durdíka již 1651, podle města Tachov a tachovskyzamek.cz Losyové vlastnili 1664-1784; rod jej přestavěl na dvoupatrový barokní zámek; 1770 zámek vyhořel; rod vymřel 1781 smrtí Adama Filipa Losyho"
+  },
+  {
+   "owner": "windischgratzove",
+   "owner_wiki": "Windischgrätzové",
+   "person": "Josef Mikuláš, poté Alfred, Alfred Josef a Alfred August Windischgrätz",
+   "from": 1781,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "zdědili po vymření Losyů; zámek přestavěli klasicistně (1787-1809); po 1. světové válce pozemková reforma zmenšila velkostatek; Alfred August Windischgrätz zemřel 1927, zbylý majetek rodina podržela do 1945; ceskymlesem.eu uvádí přechod na stát již ve 30. letech 20. stol. (méně spolehlivé)"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "od 1962 hospodařilo Sdružení státních statků, po 1980 Agrokombinát - Státní statek Tachov; roku 1968 rozhodnuto o demolici zchátralého zámku, k ní nedošlo; 1972-1984 opraven pro městský národní výbor a lidovou školu umění; od 2014 zpřístupněn veřejnosti; dnešního vlastníka (zřejmě město Tachov) zdroje výslovně neuvádějí"
+  }
  ],
  "events": [
-  {"year": 1310, "text": "král Jan Lucemburský zastavil hrad Jindřichovi z Lipé"},
-  {"year": 1421, "text": "husitské vojsko Jana Žižky neúspěšně oblehlo město s hradem"},
-  {"year": 1427, "text": "husité po bitvě u Tachova dobyli město i hrad"},
-  {"year": 1477, "text": "Burian II. Bohatý z Gutštejna získal Tachov do dědičného vlastnictví"},
-  {"year": 1602, "text": "Kryštof z Lobkovic postoupil hrad na nátlak Rudolfa II. královské komoře"},
-  {"year": 1669, "text": "hrad získal od Husmanových dcer Jan Antonín Losy z Losinthalu, rod jej přestavěl na barokní zámek"},
-  {"year": 1770, "text": "zámek vyhořel po zásahu bleskem"},
-  {"year": 1787, "text": "1787-1809 Windischgrätzové nechali zámek přestavět v klasicistním slohu"}
+  {
+   "year": 1310,
+   "text": "král Jan Lucemburský zastavil hrad Jindřichovi z Lipé"
+  },
+  {
+   "year": 1421,
+   "text": "husitské vojsko Jana Žižky neúspěšně oblehlo město s hradem"
+  },
+  {
+   "year": 1427,
+   "text": "husité po bitvě u Tachova dobyli město i hrad"
+  },
+  {
+   "year": 1477,
+   "text": "Burian II. Bohatý z Gutštejna získal Tachov do dědičného vlastnictví"
+  },
+  {
+   "year": 1530,
+   "text": "Hanuš Pluh z Rabštejna získává hrad do zástavy na dobu života"
+  },
+  {
+   "year": 1602,
+   "text": "Kryštof z Lobkovic postoupil hrad na nátlak Rudolfa II. královské komoře"
+  },
+  {
+   "year": 1669,
+   "text": "hrad získal od Husmanových dcer Jan Antonín Losy z Losinthalu, rod jej přestavěl na barokní zámek"
+  },
+  {
+   "year": 1770,
+   "text": "zámek vyhořel po zásahu bleskem"
+  },
+  {
+   "year": 1787,
+   "text": "1787-1809 Windischgrätzové nechali zámek přestavět v klasicistním slohu"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Tachov_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Tachov_(zámek)",
+  "https://www.tachov.cz/husitstvi.html",
+  "https://www.tachov.cz/2-polovina-15-stoleti.html",
+  "https://www.tachov.cz/16-stoleti-2872.html",
+  "https://www.tachov.cz/tachovsky-zamek-hrad.html",
+  "https://medievalheritage.eu/pl/strona-glowna/zabytki/czechy/tachov-zamek/"
+ ]
 }

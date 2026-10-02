@@ -1,126 +1,157 @@
 {
-  "id": "Q30860008",
-  "name": "Dolní Benešov",
-  "founded": {
-    "year": 1411,
-    "approx": true,
-    "text": "Rod Benešoviců, který měl ve Slezsku rozsáhlé statky, v Dolním Benešově přestavbou pravděpodobně staršího menšího hrádku postavil tvrz, o které je první zmínka roku 1411."
+ "id": "Q30860008",
+ "name": "Dolní Benešov",
+ "founded": {
+  "year": 1411,
+  "approx": true,
+  "text": "Rod Benešoviců, který měl ve Slezsku rozsáhlé statky, v Dolním Benešově přestavbou pravděpodobně staršího menšího hrádku postavil tvrz, o které je první zmínka roku 1411."
+ },
+ "summary": "Tvrz v Dolním Benešově vystavěl slezský rod Benešoviců, poprvé je doložena roku 1411. Poté patřila pánům z Drahotuš (pozdně gotická přestavba kolem 1500), po jejich vymření 1594 Šípům z Bránice a od roku 1598 Mošovským z Moravčína, kteří ji koncem 16. století přestavěli na renesanční zámek a v letech 1660-1670 rozšířili o barokní budovu. Od roku 1710 zámek vlastnili Kalkreuthové (dnešní podoba z 18. století), po nich Henneberkové a od roku 1850 (podle webu města) Rothschildové; za druhé světové války sloužil jako internační tábor pro Poláky, po válce byl vyrabován a opravován (1948-1949, 1983-1985) a dnes v něm sídlí městský úřad.",
+ "owners": [
+  {
+   "owner": "benesovici",
+   "owner_wiki": "Benešovici",
+   "person": null,
+   "from": null,
+   "to": 1371,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "postavili tvrz přestavbou pravděpodobně staršího hrádku, doložena 1411 (cs.wiki; zmínka již 1337 podle hrady.cz); podle encyklopedie oblast.cz (komerční) Benešov roku 1371 vyměnil moravský markrabě Jan Jindřich s opavským vévodou Mikulášem II. za hrad Drahotuš, Drahotušové přišli následujícího roku; začátek držby Benešoviců zdroje neuvádějí (cs.wiki dokládá tvrz až 1411, což je pozdější než údajný přechod 1371/1372 - rozpor zdrojů, rok 1371 neověřen jiným zdrojem)"
   },
-  "summary": "Tvrz v Dolním Benešově vystavěl slezský rod Benešoviců, poprvé je doložena roku 1411. Na přelomu 15. a 16. století ji přestavěli páni z Drahotuš, koncem 16. století ji zdědil David Mošovský z Moravčína a přestavěl na renesanční zámek, který jeho rod v 17. století rozšířil o barokní budovu. V 18. století zámek v dnešní podobě vlastnili Kalkreuthové, od 70. let 19. století Rothschildové, za druhé světové války sloužil jako internační tábor pro vysídlené Poláky a po poškození na konci války a poválečném vyrabování byl opravován (1948-1949, 1983-1985); dnes v něm sídlí městský úřad Dolního Benešova.",
-  "owners": [
-    {
-      "owner": "benesovici",
-      "owner_wiki": "Benešovici",
-      "person": null,
-      "from": null,
-      "to": null,
-      "from_approx": true,
-      "to_approx": true,
-      "how": "zalozeni",
-      "note": "postavili tvrz přestavbou pravděpodobně staršího hrádku, doložena 1411; přesný rok konce jejich držby neuveden, odvozen od nástupu pánů z Drahotuš na přelomu 15./16. stol."
-    },
-    {
-      "owner": "z-drahotus",
-      "owner_wiki": null,
-      "person": null,
-      "from": 1500,
-      "to": null,
-      "from_approx": true,
-      "to_approx": true,
-      "how": "neznamo",
-      "note": "páni z Drahotuš přestavěli tvrz v pozdně gotickém slohu na přelomu 15. a 16. století; roku 1598 je doklad, že šlo stále o tvrz (patrně již mimo jejich držbu)"
-    },
-    {
-      "owner": "mosovsti-z-moravcina",
-      "owner_wiki": "Mošovští z Moravčína",
-      "person": "David Mošovský z Moravčína",
-      "from": null,
-      "to": null,
-      "from_approx": true,
-      "to_approx": true,
-      "how": "dedictvi",
-      "note": "podle článku získal dědictví po pánech z Drahotuš 'nekalým způsobem'; začal přestavbu tvrze na renesanční zděný zámek, v letech 1660-1670 rod přistavěl barokní budovu; konec držby neuveden, odvozen od nástupu Kalkreuthů v 18. stol."
-    },
-    {
-      "owner": "kalkreuthove",
-      "owner_wiki": "Kalkreuthové",
-      "person": null,
-      "from": null,
-      "to": 1870,
-      "from_approx": true,
-      "to_approx": true,
-      "how": "neznamo",
-      "note": "za jejich držby vznikla dnešní podoba zámku (18. stol.); roku 1848 byl zámek vydrancován obyvateli Dolního Benešova; konec držby odvozen od nástupu Rothschildů v 70. letech 19. stol."
-    },
-    {
-      "owner": "rothschildove",
-      "owner_wiki": "Rothschildové",
-      "person": null,
-      "from": 1870,
-      "to": null,
-      "from_approx": true,
-      "to_approx": true,
-      "how": "koupe",
-      "note": "majiteli od 70. let 19. stol., založili anglický park; roku 1937 odeslali část interiéru do Vídně; přesný rok a způsob konce jejich držby (za 2. světové války) v článku neuveden"
-    },
-    {
-      "owner": "stat",
-      "owner_wiki": null,
-      "person": null,
-      "from": null,
-      "to": 1945,
-      "from_approx": true,
-      "to_approx": true,
-      "how": "konfiskace",
-      "note": "za druhé světové války byl na zámku zřízen Polenlager, internační pracovní tábor pro vysídlené Poláky; na konci války zámek poškozen dělostřeleckou palbou"
-    },
-    {
-      "owner": "mesto",
-      "owner_wiki": null,
-      "person": "Dolní Benešov",
-      "from": 1945,
-      "to": null,
-      "from_approx": true,
-      "to_approx": false,
-      "how": "jine",
-      "note": "po válce byl zámek vyrabován a chátral, částečně opraven 1948-1949 a generálně 1983-1985; dnes sídlo městského úřadu, využívány obřadní síň a zámecká kaple"
-    }
-  ],
-  "events": [
-    {
-      "year": 1411,
-      "text": "první zmínka o tvrzi, postavené rodem Benešoviců"
-    },
-    {
-      "year": 1598,
-      "text": "písemný doklad stále označuje sídlo jako tvrz"
-    },
-    {
-      "year": 1660,
-      "text": "1660-1670 Mošovští přistavěli k zámku dvoupatrovou barokní budovu"
-    },
-    {
-      "year": 1848,
-      "text": "zámek vydrancován obyvateli Dolního Benešova"
-    },
-    {
-      "year": 1900,
-      "text": "na přelomu 19. a 20. století založen anglický park"
-    },
-    {
-      "year": 1937,
-      "text": "Rothschildové odeslali část interiéru do Vídně"
-    },
-    {
-      "year": 1945,
-      "text": "konec 2. světové války, zámek poškozen dělostřeleckou palbou a poté vyrabován"
-    },
-    {
-      "year": 1985,
-      "text": "dokončena generální oprava zámku a parku (1983-1985)"
-    }
-  ],
-  "sources": [
-    "https://cs.wikipedia.org/wiki/Dolní_Benešov_(zámek)"
-  ]
+  {
+   "owner": "z-drahotus",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1372,
+   "to": 1594,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "vymena",
+   "note": "podle oblast.cz (komerční) přišli do Benešova 1372 po výměně za hrad Drahotuš; 1493 vymohli povýšení na město; na přelomu 15. a 16. stol. (portál 1498) pozdně gotická přestavba tvrze; koncem 16. stol. vymřeli po meči a 1594 rozhodlo opavské zemské právo o dědictví ve prospěch Šípů z Bránice"
+  },
+  {
+   "owner": "sipove-z-branice",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1594,
+   "to": 1598,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "pokrevně příbuzní Drahotuš; panství jim 1598 odňato po rekatolizačním převratu na dvoře Rudolfa II. (oblast.cz, komerční; cs.wiki a hrady.cz je nezmiňují)"
+  },
+  {
+   "owner": "mosovsti-z-moravcina",
+   "owner_wiki": "Mošovští z Moravčína",
+   "person": "David Mošovský z Moravčína",
+   "from": 1598,
+   "to": 1710,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "1598 panství Šípům odňato a přiřknuto Janu Mošovskému (oblast.cz); cs.wiki a hrady.cz uvádějí Davida Mošovského, který 'nekalým způsobem' získal dědictví po Drahotuších a koncem 16. stol. začal přestavbu na renesanční zámek; 1660-1670 přistavěna barokní budova; konec držby 1710 podle oblast.cz a mistopisy.cz (koupě baronů Kalkreuthů)"
+  },
+  {
+   "owner": "kalkreuthove",
+   "owner_wiki": "Kalkreuthové",
+   "person": null,
+   "from": 1710,
+   "to": 1774,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "baroni Kalkreuthové získali panství 1710 (mistopisy.cz, oblast.cz; způsob nabytí neuveden, oblast.cz píše o dědicích Mošovských); za jejich držby dnešní podoba zámku (18. stol.)"
+  },
+  {
+   "owner": "henneberkove",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1774,
+   "to": 1850,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "majitelé panství 1774-1846/1850 podle mistopisy.cz a oblast.cz (komerční, jméno rodu v nich 'Henneberkové', ověřit - v repu existuje i podobné id hennegove/hennetove); roku 1848 zámek vydrancován obyvateli; cs.wiki tento rod nezmiňuje"
+  },
+  {
+   "owner": "rothschildove",
+   "owner_wiki": "Rothschildové",
+   "person": "Salomon Mayer von Rothschild",
+   "from": 1850,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "podle oficiálního webu města koupil panství roku 1850 za 530 000 tolarů; oblast.cz uvádí 1846, cs.wiki jen 'od sedmdesátých let 19. stol.'; zakladatelé anglického parku (přelom 19./20. stol.), 1937 odeslali část interiéru do Vídně; za 2. světové války zde Polenlager; přesný rok a způsob konce jejich držby zdroje neuvádějí"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": "Dolní Benešov",
+   "person": "Dolní Benešov",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "po válce zámek vyrabován a chátral, 1948-1949 částečně opraven, 1983-1985 generální oprava; dnes sídlo městského úřadu, obřadní síň a kaple (cs.wiki); rok ani způsob přechodu na město zdroje neuvádějí, vlastník mezi koncem Rothschildů a městem není doložen (stát není ve zdrojích zmíněn)"
+  }
+ ],
+ "events": [
+  {
+   "year": 1411,
+   "text": "první zmínka o tvrzi, postavené rodem Benešoviců"
+  },
+  {
+   "year": 1594,
+   "text": "opavské zemské právo přisuzuje dědictví po vymřelých Drahotuších Šípům z Bránice"
+  },
+  {
+   "year": 1598,
+   "text": "písemný doklad stále označuje sídlo jako tvrz"
+  },
+  {
+   "year": 1598,
+   "text": "panství odňato Šípům a přiřknuto Mošovským z Moravčína"
+  },
+  {
+   "year": 1660,
+   "text": "1660-1670 Mošovští přistavěli k zámku dvoupatrovou barokní budovu"
+  },
+  {
+   "year": 1710,
+   "text": "panství získávají baroni Kalkreuthové"
+  },
+  {
+   "year": 1848,
+   "text": "zámek vydrancován obyvateli Dolního Benešova"
+  },
+  {
+   "year": 1850,
+   "text": "Salomon Mayer von Rothschild kupuje panství za 530 000 tolarů (podle webu města)"
+  },
+  {
+   "year": 1900,
+   "text": "na přelomu 19. a 20. století založen anglický park"
+  },
+  {
+   "year": 1937,
+   "text": "Rothschildové odeslali část interiéru do Vídně"
+  },
+  {
+   "year": 1945,
+   "text": "konec 2. světové války, zámek poškozen dělostřeleckou palbou a poté vyrabován"
+  },
+  {
+   "year": 1985,
+   "text": "dokončena generální oprava zámku a parku (1983-1985)"
+  }
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Dolní_Benešov_(zámek)",
+  "https://www.mistopisy.cz/pruvodce/obec/7894/dolni-benesov/historie/",
+  "http://www.19.oblast.cz/encyklopedie/objekty1.phtml?id=76904",
+  "https://www.dolnibenesov.cz/mesto-a-volny-cas/o-meste/a-69/",
+  "https://www.hrady.cz/zamek-dolni-benesov/"
+ ]
 }

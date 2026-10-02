@@ -6,42 +6,651 @@
   "approx": true,
   "text": "Za stavebníka hradu bývá považován Hron, jenž roku 1254 použil Náchod ve svém přídomku; archeologické nálezy z doby před rokem 1300 však chybí, takže je hypoteticky možné, že hrad s městem vznikl až v první čtvrtině 14. století."
  },
- "summary": "Hrad Náchod založil nejspíše ve druhé polovině 13. století Hron; jeho syn Ješek jej roku 1316 ztratil povstáním proti Janu Lucemburskému. Po častém střídání majitelů (Berkové z Dubé, Jetřich z Janovic, Lefl z Lažan, Boček z Kunštátu a Poděbrad, čeští králové) získali panství roku 1544 Smiřičtí ze Smiřic, kteří hrad v letech 1554-1614 přestavěli na renesanční zámek. Po Bílé hoře přešel na Trčky z Lípy a roku 1634 na Piccolominy, kteří provedli barokní přestavbu; poté se vystřídali Desfoursové, Bironové kuronští a od roku 1842 Schaumburg-Lippe. Roku 1945 byl zámek československým státem konfiskován a dnes jej spravuje Národní památkový ústav.",
+ "summary": "Hrad Náchod založil kolem poloviny 13. století Hron z rodu Načeraticů; jeho potomek Ješek jej kolem roku 1316 ztratil při vzpouře proti Janu Lucemburskému a po králi jej drželi páni z Dubé, svídnická kněžna Anna, Častolovicové a Jetřich z Janovic. Od roku 1414 patřil Bočkovi z Kunštátu a Poděbrad a jeho rodu, po husitských válkách krátce táborským hejtmanům a Koldům ze Žampachu, později Jiřímu z Poděbrad a jeho synům. Po Špetlech z Janovic a Pernštejnech jej roku 1544 koupili Smiřičtí ze Smiřic, kteří hrad v letech 1554-1614 přestavěli na renesanční zámek, po konfiskaci 1623 Trčkové z Lípy a od 1634 Piccolominiové (barokní přestavba). Po Desfoursech, Bironech a Lippe-Biesterfeldu jej roku 1842 koupili Schaumburg-Lippe, od nichž byl 1945 konfiskován státu; spravuje jej Národní památkový ústav.",
  "owners": [
-  {"owner": "pani-z-nachoda", "owner_wiki": "Páni z Náchoda", "person": "Hron", "from": 1254, "to": 1316, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "za stavebníka hradu bývá považován Hron, který roku 1254 použil Náchod ve svém přídomku; založení hradu je datováno hypoteticky do 2. poloviny 13. či počátku 14. století"},
-  {"owner": "pani-z-nachoda", "owner_wiki": "Páni z Náchoda", "person": "Ješek", "from": 1316, "to": 1316, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "Hronův syn; roku 1316 se vzbouřil proti Janu Lucemburskému a byl nucen vyměnit Náchod za Kostelec nad Černými lesy"},
-  {"owner": "berkove-z-dube", "owner_wiki": "Berkové z Dubé", "person": null, "from": 1327, "to": null, "from_approx": false, "to_approx": true, "how": "lenni", "note": "Jan Lucemburský přenechal hrad Berkům z Dubé a Lipého roku 1327"},
-  {"owner": "z-janovic", "owner_wiki": null, "person": "Jetřich z Janovic", "from": null, "to": 1412, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "koncem 14. století majitel hradu, zemřel 1412; příslušnost ke konkrétnímu rodu Janoviců neuvedena, cs.wiki nespecifikuje"},
-  {"owner": "z-lazan", "owner_wiki": null, "person": "Jindřich Lefl z Lažan", "from": 1412, "to": 1414, "from_approx": false, "to_approx": false, "how": "lenni", "note": "hrad mu udělil král Václav IV. po smrti Jetřicha z Janovic"},
-  {"owner": "pani-z-kunstatu-a-podebrad", "owner_wiki": "Páni z Kunštátu a Poděbrad", "person": "Boček z Kunštátu a Poděbrad", "from": 1414, "to": null, "from_approx": false, "to_approx": true, "how": "jine", "note": "Jindřich Lefl z Lažan mu náchodské panství postoupil po jmenování hejtmanem ve Vratislavi; hrad se v dalších letech často měnil, mezi majiteli i čeští králové Jan Lucemburský a Jiří z Poděbrad"},
-  {"owner": "minsterberkove", "owner_wiki": "Minsterberkové", "person": "Jindřich I. starší z Minsterberka", "from": null, "to": 1544, "from_approx": true, "to_approx": true, "how": "dedictvi", "note": "syn Jiřího z Poděbrad, uváděn mezi častými majiteli hradu před rokem 1544"},
-  {"owner": "smiricti-ze-smiric", "owner_wiki": "Smiřičtí ze Smiřic", "person": "Zikmund I. Smiřický ze Smiřic", "from": 1544, "to": 1548, "from_approx": false, "to_approx": false, "how": "koupe", "note": "získal město Náchod roku 1544, zemřel 1548"},
-  {"owner": "smiricti-ze-smiric", "owner_wiki": "Smiřičtí ze Smiřic", "person": "Václav a Albrecht Václav Smiřičtí ze Smiřic", "from": 1554, "to": 1614, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "v letech 1554-1614 přestavěli hrad na renesanční zámek"},
-  {"owner": "smiricti-ze-smiric", "owner_wiki": "Smiřičtí ze Smiřic", "person": "Albrecht Jan Smiřický ze Smiřic", "from": 1614, "to": 1618, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "z hruboskalské linie rodu; podílel se na pražské defenestraci, brzy poté zemřel"},
-  {"owner": "smiricti-ze-smiric", "owner_wiki": "Smiřičtí ze Smiřic", "person": "Markéta Saloména Smiřická, provd. Slavatová z Chlumu a Košumberka", "from": 1618, "to": 1620, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "starší sestra Albrechta Jana, majetek obhájila; jako vdova po Jindřichu Slavatovi roku 1620 uprchla s Bedřichem Falckým a po Bílé hoře o panství přišla"},
-  {"owner": "smiricti-ze-smiric", "owner_wiki": "Smiřičtí ze Smiřic", "person": "Jindřich Jiří Smiřický", "from": 1620, "to": 1623, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "slabomyslný bratr, poručníkem Albrecht z Valdštejna, který roku 1623 panství s zámkem prodal Trčkům z Lípy"},
-  {"owner": "trckove-z-lipy", "owner_wiki": "Trčkové z Lípy", "person": "Adam Erdmann Trčka z Lípy", "from": 1623, "to": 1634, "from_approx": false, "to_approx": false, "how": "koupe", "note": "zavražděn 1634 v Chebu spolu se švagrem Albrechtem z Valdštejna"},
-  {"owner": "piccolominiove", "owner_wiki": "Piccolominiové", "person": "Octavio Piccolomini", "from": 1634, "to": 1656, "from_approx": false, "to_approx": true, "how": "dar", "note": "obdržel panství od císaře Ferdinanda II.; s druhou manželkou Marií Benignou Sasko-Lauenburskou v letech 1650-1656 zahájil barokní přestavbu zámku"},
-  {"owner": "piccolominiove", "owner_wiki": "Piccolominiové", "person": "Giuseppe Silvio Piccolomini a další členové rodu (linie Piccolomini-Pieri)", "from": 1656, "to": 1783, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "adoptivní syn Octavia, zahynul 1644 v bitvě u Jankova (u moci u rodu ještě před formálním nástupem po Octaviovi); ve stavbě pokračovali další Piccolominiové až do roku 1730, mj. Anna Viktorie Libštejnská z Kolovrat jako poručnice; linie Piccolomini-Pieri vymřela 1783"},
-  {"owner": "desfoursove", "owner_wiki": "Desfoursové", "person": null, "from": 1783, "to": null, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "po vymření rodové větve Piccolomini-Pieri měli Desfoursové Náchod několik let v držení"},
-  {"owner": "bironove", "owner_wiki": "Bironové", "person": "Petr Kuronský (Petr Biron)", "from": null, "to": 1800, "from_approx": true, "to_approx": false, "how": "koupe", "note": "vévoda kuronský, milovník umění, koupil Náchod od Desfoursů, zřídil zámecké divadlo, zemřel 1800"},
-  {"owner": "bironove", "owner_wiki": "Bironové", "person": "Kateřina Vilemína Zaháňská", "from": 1800, "to": null, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "dcera Petra Kuronského"},
-  {"owner": "bironove", "owner_wiki": "Bironové", "person": "Pavlína Bironová, provd. kněžna z Hohenzollern-Hechingen", "from": null, "to": 1840, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "sestra Kateřiny Vilemíny; roku 1840 zámek prodala Oktaviánovi Lippe"},
-  {"owner": "lippe-biesterfeld", "owner_wiki": null, "person": "hrabě Octavian Lippe-Biesterfeld", "from": 1840, "to": 1842, "from_approx": false, "to_approx": false, "how": "koupe", "note": "roku 1842 prodal zámek s panstvím Jiřímu Vilémovi ze Schaumburg-Lippe; cs.wiki neuvádí samostatný rodový článek pro tuto linii Lippe"},
-  {"owner": "schaumburg-lippe", "owner_wiki": "Schaumburg-Lippe", "person": "Jiří Vilém ze Schaumburg-Lippe", "from": 1842, "to": 1860, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil zámek s panstvím pro svého druhorozeného syna Viléma"},
-  {"owner": "schaumburg-lippe", "owner_wiki": "Schaumburg-Lippe", "person": "Vilém ze Schaumburg-Lippe", "from": 1860, "to": null, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "zdědil po smrti otce roku 1860"},
-  {"owner": "schaumburg-lippe", "owner_wiki": "Schaumburg-Lippe", "person": "Bedřich ze Schaumburg-Lippe", "from": null, "to": 1945, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "druhorozený syn Viléma; roku 1921 byl majetek rodu zařazen do první etapy pozemkové reformy"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "velkostatek Náchod se zámkem byl roku 1945 československým státem konfiskován, dnes ve správě Národního památkového ústavu"}
+  {
+   "owner": "pani-z-nachoda",
+   "owner_wiki": "Páni z Náchoda",
+   "person": "Hron z Náchoda",
+   "from": 1254,
+   "to": 1289,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "zalozeni",
+   "note": "z rodu Načeraticů, uváděn 1241-1289, s Náchodem ve spojení poprvé 1254; za stavebníka hradu a zakladatele města bývá považován on (hrad kolem poloviny 13. století), cs.wiki ale hypoteticky připouští vznik hradu a města až v 1. čtvrtině 14. století (před 1300 chybí archeologické nálezy); konec 1289 = poslední zmínka"
+  },
+  {
+   "owner": "pani-z-nachoda",
+   "owner_wiki": "Páni z Náchoda",
+   "person": "Ješek starší",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "Hronův syn; roky držby zdroje neuvádějí"
+  },
+  {
+   "owner": "pani-z-nachoda",
+   "owner_wiki": "Páni z Náchoda",
+   "person": "Ješek mladší",
+   "from": null,
+   "to": 1316,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "syn předešlého; držel Náchod asi do 1316, kdy se vzbouřil proti Janu Lucemburskému a byl nucen vyměnit Náchod za manské zboží Kostelec nad Černými lesy (cs.wiki: 1316; NPÚ: asi 1316; cs.wiki Náchodské panství: kolem 1325, jiný zdroj 1321)"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Jan Lucemburský",
+   "from": 1316,
+   "to": 1327,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "vymena",
+   "note": "král držel Náchod od nucené výměny; cs.wiki: roku 1327 hrad přenechal Berkům z Dubé, NPÚ: asi 1316 - asi 1325, Hynek z Dubé poprvé uváděn k 1325"
+  },
+  {
+   "owner": "berkove-z-dube",
+   "owner_wiki": "Berkové z Dubé",
+   "person": "Hynek starší (Hajman) z Dubé",
+   "from": 1327,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "lenni",
+   "note": "od krále Jana Lucemburského (cs.wiki 1327, NPÚ uvádí poprvé 1325); zemřel před 1353; rozpor 1325/1327 mezi zdroji"
+  },
+  {
+   "owner": "berkove-z-dube",
+   "owner_wiki": "Berkové z Dubé",
+   "person": "Hynek mladší z Náchoda a Dubé a Ješek z Náchoda a Dubé",
+   "from": null,
+   "to": 1367,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "asi do 1360 společně, pak již jen Hynek, který asi 1367 Náchod prodal Anně kněžně Svídnické"
+  },
+  {
+   "owner": "piastovci",
+   "owner_wiki": "Piastovci",
+   "person": "Anna, kněžna svídnická",
+   "from": 1367,
+   "to": 1390,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "koupila Náchod od Hynka z Dubé; roky přibližné (asi 1367-1390)"
+  },
+  {
+   "owner": "drslavici",
+   "owner_wiki": "Drslavici",
+   "person": "Půta starší z Častolovic",
+   "from": 1390,
+   "to": 1391,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "způsob nabytí zdroje neuvádějí"
+  },
+  {
+   "owner": "z-dube",
+   "owner_wiki": null,
+   "person": "Beneš Silný z Dubé",
+   "from": 1391,
+   "to": 1392,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "zemřel před 1407; příslušnost k jedné z větví pánů z Dubé zdroje neuvádějí"
+  },
+  {
+   "owner": "z-janovic",
+   "owner_wiki": null,
+   "person": "Jetřich z Janovic",
+   "from": 1392,
+   "to": 1412,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "zemřel bez dědiců, zboží padlo jako odúmrť na korunu; zda patří k rozrodu Janoviců, zdroje neuvádějí (cs.wiki Janovici ho nezmiňuje)"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Václav IV.",
+   "from": 1412,
+   "to": 1412,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "po Jetřichově smrti jako odúmrť; téhož roku udělil hrad Leflovi z Lažan"
+  },
+  {
+   "owner": "z-lazan",
+   "owner_wiki": null,
+   "person": "Jindřich Lefl z Lažan a Krakovce",
+   "from": 1412,
+   "to": 1414,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "hrad mu udělil Václav IV.; stoupenec Jana Husa; po jmenování hejtmanem ve Vratislavi hrad postoupil"
+  },
+  {
+   "owner": "pani-z-kunstatu-a-podebrad",
+   "owner_wiki": "Páni z Kunštátu a Poděbrad",
+   "person": "Boček II. z Kunštátu a Poděbrad",
+   "from": 1414,
+   "to": 1417,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "vymena",
+   "note": "získal výměnou za Bechyni (listina 14. 1. 1415); NPÚ uvádí 1414 - ?, cs.wiki Náchodské panství 1414-1417 (panství získal 1415)"
+  },
+  {
+   "owner": "pani-z-kunstatu-a-podebrad",
+   "owner_wiki": "Páni z Kunštátu a Poděbrad",
+   "person": "Viktorín z Kunštátu a Poděbrad",
+   "from": 1417,
+   "to": 1427,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "syn Bočkův; po jeho smrti 1427 se dědicem stal šestiletý syn Jiří z Poděbrad, ale hrad držela jiná osoba (viz dále)"
+  },
+  {
+   "owner": "z-nemosic",
+   "owner_wiki": null,
+   "person": "Jan Holý (Holec) z Nemošic",
+   "from": 1427,
+   "to": 1432,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "jine",
+   "note": "táborský hejtman; NPÚ: neví se, jak se držení ujal, zřejmě úchvatem"
+  },
+  {
+   "owner": "trckove-z-lipy",
+   "owner_wiki": "Trčkové z Lípy",
+   "person": "Mikuláš Trčka z Lípy",
+   "from": 1427,
+   "to": 1432,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "jine",
+   "note": "táborský hejtman; spolu s Janem Holým z Nemošic, zřejmě úchvatem"
+  },
+  {
+   "owner": "z-porostle",
+   "owner_wiki": null,
+   "person": "Jan Baštín z Porostlé",
+   "from": 1432,
+   "to": 1437,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "původně Žižkův podhejtman; NPÚ: jak Náchod získal, nevíme, snad koupí od předešlých"
+  },
+  {
+   "owner": "z-zampachu",
+   "owner_wiki": null,
+   "person": "Jan Kolda starší ze Žampachu",
+   "from": 1437,
+   "to": 1445,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "jine",
+   "note": "bývalý táborský hejtman, hrad a město dobyl přepadem (9. 9. 1437); asi 1445 odešel z Čech; konec přibližný"
+  },
+  {
+   "owner": "z-zampachu",
+   "owner_wiki": null,
+   "person": "Jan Kolda mladší ze Žampachu",
+   "from": 1445,
+   "to": 1456,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "syn předešlého; hrad 1456 dobyl Jiří z Poděbrad; někteří historici soudí, že existoval pouze jeden Jan Kolda; počátek přibližný"
+  },
+  {
+   "owner": "pani-z-kunstatu-a-podebrad",
+   "owner_wiki": "Páni z Kunštátu a Poděbrad",
+   "person": "Jiří z Poděbrad",
+   "from": 1456,
+   "to": 1458,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "hrad dobyl po obléhání (duben-květen 1456) a nechal si od Ladislava Pohrobka potvrdit držbu náchodského panství; od 1458 český král"
+  },
+  {
+   "owner": "pani-z-kunstatu-a-podebrad",
+   "owner_wiki": "Páni z Kunštátu a Poděbrad",
+   "person": "Boček IV. a Viktorín z Poděbrad",
+   "from": 1458,
+   "to": 1469,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dar",
+   "note": "synové krále Jiřího, na které Náchod přenesl; roky podle NPÚ (cs.wiki zmiňuje dělení dědictví až 1472, rozpor)"
+  },
+  {
+   "owner": "minsterberkove",
+   "owner_wiki": "Minsterberkové",
+   "person": "Jindřich I. starší z Minsterberka",
+   "from": 1470,
+   "to": 1497,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "syn Jiřího z Poděbrad, po dělení dědictví; rok počátku podle NPÚ (cs.wiki: dělení 1472); panství od 1484 několikrát zastavil, naposledy 1497 Janu Špetlovi z Prudic"
+  },
+  {
+   "owner": "spetlove-z-janovic",
+   "owner_wiki": null,
+   "person": "Jan mladší Špetle z Prudic, Žlebů a Janovic",
+   "from": 1497,
+   "to": 1532,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "1497 získal Náchod do zástavy na čtyři roky; protože Jindřichovi dědicové zástavu nevyplatili, postoupili mu panství 1500 (rod Špetlů, na přelomu 15. a 16. století nové vnější opevnění); konec 1532 podle NPÚ, cs.wiki Náchodské panství uvádí 1527; rod ve zdrojích bez článku na cs.wiki"
+  },
+  {
+   "owner": "spetlove-z-janovic",
+   "owner_wiki": null,
+   "person": "Hynek Špetle z Prudic, Žlebů a Janovic",
+   "from": 1532,
+   "to": 1533,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "syn předešlého"
+  },
+  {
+   "owner": "pernstejnove",
+   "owner_wiki": "Pernštejnové",
+   "person": "Vojtěch z Pernštejna",
+   "from": 1533,
+   "to": 1534,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil panství od Hynka Špetly; nejvyšší hofmistr"
+  },
+  {
+   "owner": "pernstejnove",
+   "owner_wiki": "Pernštejnové",
+   "person": "Jan IV. z Pernštejna",
+   "from": 1534,
+   "to": 1544,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "Jan Bohatý, bratr Vojtěchův; 1544 panství prodal Smiřickým"
+  },
+  {
+   "owner": "smiricti-ze-smiric",
+   "owner_wiki": "Smiřičtí ze Smiřic",
+   "person": "Zikmund I. Smiřický ze Smiřic",
+   "from": 1544,
+   "to": 1548,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil panství od Jana z Pernštejna"
+  },
+  {
+   "owner": "smiricti-ze-smiric",
+   "owner_wiki": "Smiřičtí ze Smiřic",
+   "person": "Albrecht Smiřický ze Smiřic",
+   "from": 1548,
+   "to": 1566,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "syn předešlého"
+  },
+  {
+   "owner": "smiricti-ze-smiric",
+   "owner_wiki": "Smiřičtí ze Smiřic",
+   "person": "Hedvika Smiřická z Házmburka",
+   "from": 1566,
+   "to": 1586,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "jako poručnice synů Václava a Jaroslava (Albrecht odkázal zboží synům rovným dílem)"
+  },
+  {
+   "owner": "smiricti-ze-smiric",
+   "owner_wiki": "Smiřičtí ze Smiřic",
+   "person": "Václav Smiřický ze Smiřic",
+   "from": 1586,
+   "to": 1593,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "v letech 1554-1614 hrad přestavěn na renesanční zámek (za Václava a Albrechta Václava)"
+  },
+  {
+   "owner": "smiricti-ze-smiric",
+   "owner_wiki": "Smiřičtí ze Smiřic",
+   "person": "Albrecht Václav Smiřický ze Smiřic",
+   "from": 1593,
+   "to": 1614,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "zdědil po otci ve třech letech, poručníkem Zikmund Smiřický; nechal přestavět hrad na renesanční zámek"
+  },
+  {
+   "owner": "smiricti-ze-smiric",
+   "owner_wiki": "Smiřičtí ze Smiřic",
+   "person": "Albrecht Jan Smiřický ze Smiřic",
+   "from": 1614,
+   "to": 1618,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "z hruboskalské linie rodu; podílel se na pražské defenestraci a brzy zemřel (1618)"
+  },
+  {
+   "owner": "smiricti-ze-smiric",
+   "owner_wiki": "Smiřičtí ze Smiřic",
+   "person": "Markéta Saloména Smiřická, provd. Slavatová z Chlumu a Košumberka",
+   "from": 1618,
+   "to": 1620,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "starší sestra Albrechta Jana; jako vdova 1620 uprchla s Bedřichem Falckým a po Bílé hoře o panství přišla"
+  },
+  {
+   "owner": "smiricti-ze-smiric",
+   "owner_wiki": "Smiřičtí ze Smiřic",
+   "person": "Jindřich Jiří Smiřický",
+   "from": 1620,
+   "to": 1623,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "slabomyslný bratr, poručníkem Albrecht z Valdštejna, který 1623 panství prodal Trčkům (podle NPÚ byl majetek 1621-1623 zkonfiskován a prodala jej královská komora; rozpor ve zdrojích)"
+  },
+  {
+   "owner": "trckove-z-lipy",
+   "owner_wiki": "Trčkové z Lípy",
+   "person": "Marie Magdaléna Trčková z Lobkovic",
+   "from": 1623,
+   "to": 1628,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupila za 205 000 rýnských zlatých; roky podle NPÚ (1623-1628)"
+  },
+  {
+   "owner": "trckove-z-lipy",
+   "owner_wiki": "Trčkové z Lípy",
+   "person": "Adam Erdman Trčka z Lípy",
+   "from": 1629,
+   "to": 1634,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "syn předešlé, panství koupil od matky; zavražděn 1634 v Chebu spolu s Valdštejnem; panství po něm propadlo"
+  },
+  {
+   "owner": "piccolominiove",
+   "owner_wiki": "Piccolominiové",
+   "person": "Octavio Piccolomini",
+   "from": 1634,
+   "to": 1656,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dar",
+   "note": "panství dostal od císaře Ferdinanda II. za služby; 1650 povýšen do knížecího stavu; 1650-1656 s Marií Benignou Sasko-Lauenburskou barokní přestavba; zemřel bezdětný"
+  },
+  {
+   "owner": "piccolominiove",
+   "owner_wiki": "Piccolominiové",
+   "person": "Aeneas Sylvius Piccolomini",
+   "from": 1656,
+   "to": 1673,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "nezletilý vnuk Octaviova bratra, panství spravoval poručník, od 1664 Octaviova vdova Marie Benigna; padl jako císařský plukovník ve válce s Francií (NPÚ; cs.wiki zmiňuje jako adoptivního syna Giuseppe Silvia, který zahynul 1644, jako majitele není veden)"
+  },
+  {
+   "owner": "piccolominiove",
+   "owner_wiki": "Piccolominiové",
+   "person": "Vavřinec Piccolomini",
+   "from": 1673,
+   "to": 1712,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "mladší bratr předešlého; do 1679 vládla Marie Benigna"
+  },
+  {
+   "owner": "piccolominiove",
+   "owner_wiki": "Piccolominiové",
+   "person": "Jan Václav Piccolomini",
+   "from": 1712,
+   "to": 1742,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "syn Vavřincův, správa svěřena matce Anně Viktorii Libštejnské z Kolovrat, po 1732 bratru Octaviovi"
+  },
+  {
+   "owner": "piccolominiove",
+   "owner_wiki": "Piccolominiové",
+   "person": "Octavius II. Piccolomini",
+   "from": 1742,
+   "to": 1757,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "poslední po meči z Piccolomini de Arragona"
+  },
+  {
+   "owner": "piccolominiove",
+   "owner_wiki": "Piccolominiové",
+   "person": "Giovanni Pompeo Piccolomini",
+   "from": 1757,
+   "to": 1765,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "z příbuzné větve, na niž přešel majorát"
+  },
+  {
+   "owner": "piccolominiove",
+   "owner_wiki": "Piccolominiové",
+   "person": "Josef Parille Piccolomini",
+   "from": 1765,
+   "to": 1783,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "zemřel bezdětný 1783 v Neapoli, tím vymřela větev; následoval dědický spor (1783-1786)"
+  },
+  {
+   "owner": "desfoursove",
+   "owner_wiki": "Desfoursové",
+   "person": "Josef Vojtěch Desfours",
+   "from": 1786,
+   "to": 1791,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "vnuk Vavřince Piccolominiho, panství získal po dědickém sporu (rozhodnut 1786); zadlužil je, 1789 sekvestrováno"
+  },
+  {
+   "owner": "desfoursove",
+   "owner_wiki": "Desfoursové",
+   "person": "František Antonín Desfours",
+   "from": 1791,
+   "to": 1792,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "příbuzný předešlého; nezaplatil dluhy a panství bylo 1792 prodáno v dražbě"
+  },
+  {
+   "owner": "bironove",
+   "owner_wiki": "Bironové",
+   "person": "Petr Biron, vévoda kuronský a zaháňský",
+   "from": 1792,
+   "to": 1800,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil 13. 9. 1792 ve veřejné dražbě za 1 222 000 zlatých; zřídil zámecké divadlo; zemřel 1800"
+  },
+  {
+   "owner": "bironove",
+   "owner_wiki": "Bironové",
+   "person": "Kateřina Vilemína, vévodkyně zaháňská",
+   "from": 1800,
+   "to": 1839,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "dcera Petra Birona"
+  },
+  {
+   "owner": "bironove",
+   "owner_wiki": "Bironové",
+   "person": "Marie Pavlína, kněžna z Hohenzollern-Hechingen",
+   "from": 1839,
+   "to": 1840,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "sestra Kateřiny Vilemíny; 1840 zámek prodala"
+  },
+  {
+   "owner": "lippe-biesterfeld",
+   "owner_wiki": null,
+   "person": "Karel Octavius hrabě z Lippe-Biesterfeldu",
+   "from": 1840,
+   "to": 1842,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil za 2 100 000 zlatých a 1842 prodal za 2 500 000 zlatých (cs.wiki jej jmenuje Oktavián Lippe); cs.wiki neuvádí samostatný rodový článek"
+  },
+  {
+   "owner": "schaumburg-lippe",
+   "owner_wiki": "Schaumburg-Lippe",
+   "person": "Jiří Vilém, kníže ze Schaumburg-Lippe",
+   "from": 1842,
+   "to": 1860,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil zámek s panstvím pro druhorozeného syna Viléma"
+  },
+  {
+   "owner": "schaumburg-lippe",
+   "owner_wiki": "Schaumburg-Lippe",
+   "person": "Vilém, princ ze Schaumburg-Lippe",
+   "from": 1860,
+   "to": 1906,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "zdědil po otci 1860"
+  },
+  {
+   "owner": "schaumburg-lippe",
+   "owner_wiki": "Schaumburg-Lippe",
+   "person": "Bedřich, princ ze Schaumburg-Lippe",
+   "from": 1906,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "druhorozený syn Viléma; 1921 byl majetek rodu zařazen do první etapy pozemkové reformy"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "velkostatek Náchod se zámkem konfiskován; dnes ve správě Národního památkového ústavu"
+  }
  ],
  "events": [
-  {"year": 1316, "text": "Ješek, syn zakladatele Hrona, se vzbouřil proti Janu Lucemburskému a musel Náchod vyměnit za Kostelec nad Černými lesy"},
-  {"year": 1544, "text": "město Náchod získal Zikmund I. Smiřický ze Smiřic"},
-  {"year": 1554, "text": "1554-1614 přestavba hradu na renesanční zámek za Smiřických"},
-  {"year": 1618, "text": "Albrecht Jan Smiřický se podílel na pražské defenestraci"},
-  {"year": 1634, "text": "po smrti Trčků z Lípy získal panství císařský generál Octavio Piccolomini"},
-  {"year": 1650, "text": "1650-1656 barokní přestavba zámku za Octavia Piccolominiho"},
-  {"year": 1842, "text": "zámek koupil rod Schaumburg-Lippe"},
-  {"year": 1945, "text": "velkostatek se zámkem konfiskován československým státem"}
+  {
+   "year": 1316,
+   "text": "Ješek, syn zakladatele Hrona, se vzbouřil proti Janu Lucemburskému a musel Náchod vyměnit za Kostelec nad Černými lesy"
+  },
+  {
+   "year": 1414,
+   "text": "Boček z Kunštátu a Poděbrad získává Náchod výměnou od Jindřicha Lefla z Lažan (listina 14. 1. 1415)"
+  },
+  {
+   "year": 1437,
+   "text": "hrad a město přepadem získává táborský hejtman Jan Kolda ze Žampachu"
+  },
+  {
+   "year": 1456,
+   "text": "Jiří z Poděbrad po obléhání dobývá Náchod od Jana Koldy ml."
+  },
+  {
+   "year": 1497,
+   "text": "Jindřich I. starší z Minsterberka zastavuje panství Janu Špetlovi z Prudic a Janovic, který je od 1500 drží natrvalo"
+  },
+  {
+   "year": 1544,
+   "text": "město Náchod získal Zikmund I. Smiřický ze Smiřic"
+  },
+  {
+   "year": 1554,
+   "text": "1554-1614 přestavba hradu na renesanční zámek za Smiřických"
+  },
+  {
+   "year": 1618,
+   "text": "Albrecht Jan Smiřický se podílel na pražské defenestraci"
+  },
+  {
+   "year": 1634,
+   "text": "po smrti Trčků z Lípy získal panství císařský generál Octavio Piccolomini"
+  },
+  {
+   "year": 1650,
+   "text": "1650-1656 barokní přestavba zámku za Octavia Piccolominiho"
+  },
+  {
+   "year": 1792,
+   "text": "Náchod kupuje v dražbě Petr Biron, vévoda kuronský"
+  },
+  {
+   "year": 1842,
+   "text": "zámek koupil rod Schaumburg-Lippe"
+  },
+  {
+   "year": 1945,
+   "text": "velkostatek se zámkem konfiskován československým státem"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Náchod_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Náchod_(zámek)",
+  "http://www.zamek-nachod.cz/cs/o-zamku/majitele-zamku (NPÚ, Posloupnost držitelů)",
+  "https://www.zamek-nachod.cz/cs/o-zamku/historie (NPÚ)",
+  "https://cs.wikipedia.org/wiki/Náchodské_panství",
+  "https://cs.wikipedia.org/wiki/Janovici"
+ ]
 }

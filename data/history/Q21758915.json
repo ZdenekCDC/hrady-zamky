@@ -6,27 +6,206 @@
   "approx": false,
   "text": "Hrad (též Ronšperk) založil Dobrohost z Ronšperka, který Poběžovice získal roku 1459; ve městě, poprvé zmíněném 1359, předtím existovala tvrz nejasné lokalizace."
  },
- "summary": "Hrad Poběžovice (Ronšperk) založil roku 1459 Dobrohost z Ronšperka, po roce 1510 se v jeho držení vystřídali Gutštejnové a Švamberkové, kteří jej po roce 1542 renesančně přestavěli. Po pobělohorské konfiskaci majetek koupila královská komora a po dalších majitelích jej barokně přestavěl Matyáš Bohumír z Vunšic (1682-1695). Od roku 1864 do vyvlastnění v roce 1945 patřil zámek rodině Coudenhove-Kalergi, poté sloužil pohraniční stráži a po roce 1989 jej převzalo město Poběžovice, které jej postupně opravuje a částečně zpřístupnilo veřejnosti od roku 2024.",
+ "summary": "Hrad Poběžovice (Ronšperk) založil roku 1459 Dobrohost z Ronšperka, po roce 1510 se v jeho držení vystřídali Gutštejnové a Švamberkové, kteří jej po roce 1542 renesančně přestavěli. Po pobělohorské konfiskaci koupil majetek roku 1622 od královské komory Severin Táhlo z Horšteina; od roku 1682 patřil Vunšicům, kteří jej barokně přestavěli (1682-1695), v letech 1717-1805 se vystřídali Mulcové z Valdova, Königsfeldové a Linkerové a od roku 1805 Thun-Hohensteinové. Od roku 1864 do vyvlastnění v roce 1945 patřil zámek rodině Coudenhove-Kalergi, poté sloužil pohraniční stráži a roku 1989 jej převzalo město Poběžovice, které jej postupně opravuje a částečně zpřístupnilo veřejnosti od roku 2024.",
  "owners": [
-  {"owner": "z-ronsperka", "owner_wiki": null, "person": "Dobrohost z Ronšperka, poté syn Zdeněk Dobrohost z Ronšperka", "from": 1459, "to": 1510, "from_approx": false, "to_approx": false, "how": "zalozeni", "note": "roku 1510 hrad dobylo královské vojsko Vladislava Jagellonského vedené Zdeňkem Lvem z Rožmitálu kvůli loupeživým výpravám Zdeňka Dobrohosta, který uprchl ze země; panství si poté rozdělili jeho bratři Volf a Václav"},
-  {"owner": "pani-z-gutstejna", "owner_wiki": "Páni z Gutštejna", "person": "Albrecht z Gutštejna", "from": 1526, "to": 1542, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "hrad získal nejpozději 1526, později jej zastavil a nakonec 1542 prodal bratrům ze Švamberka"},
-  {"owner": "pani-ze-svamberka", "owner_wiki": "Páni ze Švamberka", "person": "Bartoloměj a Jan ze Švamberka", "from": 1542, "to": 1622, "from_approx": false, "to_approx": false, "how": "koupe", "note": "hrad renesančně přestavěli; po neúspěchu stavovského povstání byl majetek zkonfiskován"},
-  {"owner": "z-horsteina", "owner_wiki": null, "person": "Severin Táhl z Horšteina", "from": 1622, "to": null, "from_approx": false, "to_approx": true, "how": "koupe", "note": "koupil konfiskát od královské komory roku 1622; po něm se vystřídala řada majitelů, které zdroj nejmenuje"},
-  {"owner": "z-vunsic", "owner_wiki": null, "person": "Matyáš Bohumír z Vunšic", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "snatek", "note": "plzeňský hejtman a pražský advokát, získal panství sňatkem s Annou Feliciánou Pachtovou z Rájova; zasloužil se o barokní přestavbu v letech 1682-1695, přesná léta držby zdroj neuvádí"},
-  {"owner": "konigsfeldove", "owner_wiki": null, "person": null, "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "hrabata z Königsfeldu - jedni z dalších majitelů zámku, zdroj neuvádí léta ani pořadí vůči Thun-Hohensteinům"},
-  {"owner": "thun-hohensteinove", "owner_wiki": "Thun-Hohensteinové", "person": null, "from": null, "to": 1864, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "zdroj neuvádí přesná léta držby, jen že zámek patřil rodu před rokem 1864"},
-  {"owner": "coudenhove-kalergiove", "owner_wiki": "Coudenhove-Kalergi", "person": "Heinrich Coudenhove-Kalergi a Mitsuko Coudenhove-Kalergi, roz. Aojama; naposledy syn Johannes \"Hansi\" Coudenhove-Kalergi", "from": 1864, "to": 1945, "from_approx": false, "to_approx": false, "how": "koupe", "note": "poslední majitel Johannes Coudenhove-Kalergi byl roku 1945 odsunut do Německa"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": 1989, "from_approx": false, "to_approx": true, "how": "konfiskace", "note": "vyvlastnění 1945; na zámku sídlila pohraniční stráž, objekt chátral a v 80. letech byl určen k demolici"},
-  {"owner": "mesto", "owner_wiki": null, "person": "Město Poběžovice", "from": 1989, "to": null, "from_approx": true, "to_approx": false, "how": "jine", "note": "zchátralý zámek převeden do majetku města po roce 1989, postupná rekonstrukce (přerušena, poté pokračovala 2022-2023); od 1. 7. 2024 částečně zpřístupněn veřejnosti"}
+  {
+   "owner": "z-ronsperka",
+   "owner_wiki": null,
+   "person": "Dobrohost z Ronšperka, poté syn Zdeněk Dobrohost z Ronšperka",
+   "from": 1459,
+   "to": 1510,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Dobrohost z Ronšperka koupil Poběžovice roku 1459 (web města) a vybudoval vodní hrad, roku 1470 doložený jako Nový Ronšperk; roku 1510 hrad dobylo královské vojsko Vladislava Jagellonského kvůli loupeživým výpravám syna Zdeňka Dobrohosta, který uprchl ze země"
+  },
+  {
+   "owner": "z-ronsperka",
+   "owner_wiki": null,
+   "person": "Volf a Václav Dobrohost z Ronšperka",
+   "from": 1510,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "po 1510 panství rozdělili Zdeňkovi bratři; web města uvádí, že se v letech 1510-1548 v držení vystřídali různí šlechtici; přesné předání Gutštejnovi zdroj neuvádí"
+  },
+  {
+   "owner": "pani-z-gutstejna",
+   "owner_wiki": "Páni z Gutštejna",
+   "person": "Albrecht z Gutštejna",
+   "from": 1526,
+   "to": 1542,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "nejpozději 1526 (cs.wiki); zastavil jej Bernardovi Barchancovi z Baršov, 1537 podle webu města prodal Bohuslavovi Rochcovi z Otova; 1542 prodal bratrům ze Švamberka (cs.wiki), web města uvádí Švamberky od 1546"
+  },
+  {
+   "owner": "pani-ze-svamberka",
+   "owner_wiki": "Páni ze Švamberka",
+   "person": "Bartoloměj a Jan ze Švamberka; později Petr I., Jan Jiří a Petr II. ze Švamberka",
+   "from": 1542,
+   "to": 1622,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "hrad renesančně přestavěli; Petr II. se účastnil stavovského povstání, zemřel 1621, majetek jeho manželce a dětem zkonfiskován (hrad obsazen vojskem dona Marradase již v říjnu 1620)"
+  },
+  {
+   "owner": "z-horsteina",
+   "owner_wiki": null,
+   "person": "Severin Táhlo z Horšteina",
+   "from": 1622,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "koupil konfiskát od královské komory 1622; po něm se vystřídala řada majitelů, které zdroje nejmenují"
+  },
+  {
+   "owner": "z-vunsic",
+   "owner_wiki": null,
+   "person": "Anna Feliciána z Vunšic, rozená Pachtová z Rájova, a manžel Matyáš Bohumír z Vunšic (web města: Matyáš Gottfried z Wunschwitz)",
+   "from": 1682,
+   "to": 1717,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "snatek",
+   "note": "plzeňský hejtman a pražský advokát; majitelkou se roku 1682 stala Anna Feliciána, rozená Pachtová z Rájova; barokní přestavba 1682-1695; roku 1717 Anna Feliciána panství prodala (město Poběžovice, Historický vývoj města)"
+  },
+  {
+   "owner": "z-valdova",
+   "owner_wiki": null,
+   "person": "Wolfgang Mulc z Valdova",
+   "from": 1717,
+   "to": 1725,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil za 160 tisíc zlatých; roku 1725 prodal Janu Jiřímu z Königsfeldu (město Poběžovice, Historický vývoj města)"
+  },
+  {
+   "owner": "konigsfeldove",
+   "owner_wiki": null,
+   "person": "Jan Jiří hrabě z Königsfeldu",
+   "from": 1725,
+   "to": 1749,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil 1725; roku 1749 poběžovické zboží koupil Linker z Lützenu (město Poběžovice)"
+  },
+  {
+   "owner": "z-linkeru",
+   "owner_wiki": null,
+   "person": "Filip Vilém Albrecht Linker z Lützenu a jeho syn",
+   "from": 1749,
+   "to": 1805,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "otec a syn Linkerové; konec držby odvozen od koupě Thun-Hohensteiny 1805 (město Poběžovice)"
+  },
+  {
+   "owner": "thun-hohensteinove",
+   "owner_wiki": "Thun-Hohensteinové",
+   "person": "Antonín Thun-Hohenstein (koupil biskup Leopold pro bratra), od 1836 Leopold Leo Thun-Hohenstein",
+   "from": 1805,
+   "to": 1864,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupeno 1805 za 517 tisíc zlatých pasovským biskupem Leopoldem pro bratra Antonína; 1836 zdědil Leopold Leo Thun-Hohenstein, který 1843 přikoupil Pivoň a 1844 založil zámecký park"
+  },
+  {
+   "owner": "coudenhove-kalergi",
+   "owner_wiki": "Coudenhove-Kalergi",
+   "person": "František Karel Coudenhove a manželka Marie, roz. Kalergi; od 1878 syn Heinrich Coudenhove-Kalergi a Mitsuko, roz. Aojama; naposledy Johannes \"Hansi\" Coudenhove-Kalergi",
+   "from": 1864,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupeno 1864 s Pivoní za necelý milion zlatých; 1878 zdědil Heinrich; poslední majitel Johannes (Jan Evangelista, 1893-1965) byl 1945 odsunut do Německa"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": 1989,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "vyvlastnění 1945, panství zestátněno; na zámku sídlila pohraniční stráž, objekt chátral a v 80. letech byl určen k demolici"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "Město Poběžovice",
+   "from": 1989,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "zámek roku 1989 bezplatně převeden do vlastnictví města (UUR, Hrad a zámek Poběžovice), postupná rekonstrukce (přerušena, poté pokračovala 2022-2023); od 1. 7. 2024 národní kulturní památka a částečně zpřístupněn"
+  }
  ],
  "events": [
-  {"year": 1459, "text": "Dobrohost z Ronšperka získal Poběžovice a založil hrad"},
-  {"year": 1510, "text": "hrad dobylo královské vojsko kvůli loupeživým výpravám Zdeňka Dobrohosta z Ronšperka"},
-  {"year": 1542, "text": "hrad koupili bratři ze Švamberka a renesančně jej přestavěli"},
-  {"year": 1622, "text": "po pobělohorské konfiskaci prodala královská komora panství Severinu Táhlovi z Horšteina"},
-  {"year": 1682, "text": "1682-1695 barokní přestavba zámku za Matyáše Bohumíra z Vunšic"},
-  {"year": 1945, "text": "vyvlastnění posledního majitele Johannese Coudenhove-Kalergiho a jeho odsun do Německa"},
-  {"year": 2024, "text": "1. července zámek chráněn jako národní kulturní památka a poprvé částečně zpřístupněn veřejnosti"}
+  {
+   "year": 1459,
+   "text": "Dobrohost z Ronšperka získal Poběžovice a založil hrad"
+  },
+  {
+   "year": 1510,
+   "text": "hrad dobylo královské vojsko kvůli loupeživým výpravám Zdeňka Dobrohosta z Ronšperka"
+  },
+  {
+   "year": 1542,
+   "text": "hrad koupili bratři ze Švamberka a renesančně jej přestavěli"
+  },
+  {
+   "year": 1622,
+   "text": "po pobělohorské konfiskaci prodala královská komora panství Severinu Táhlovi z Horšteina"
+  },
+  {
+   "year": 1682,
+   "text": "1682-1695 barokní přestavba zámku za Matyáše Bohumíra z Vunšic"
+  },
+  {
+   "year": 1717,
+   "text": "Anna Feliciána z Vunšic prodala panství Wolfgangu Mulcovi z Valdova"
+  },
+  {
+   "year": 1725,
+   "text": "panství koupil Jan Jiří hrabě z Königsfeldu"
+  },
+  {
+   "year": 1749,
+   "text": "panství koupil Filip Vilém Albrecht Linker z Lützenu"
+  },
+  {
+   "year": 1805,
+   "text": "panství koupil pasovský biskup Leopold Thun-Hohenstein pro bratra Antonína"
+  },
+  {
+   "year": 1864,
+   "text": "panství koupili Coudenhove-Kalergiové"
+  },
+  {
+   "year": 1945,
+   "text": "vyvlastnění posledního majitele Johannese Coudenhove-Kalergiho a jeho odsun do Německa"
+  },
+  {
+   "year": 2024,
+   "text": "1. července zámek chráněn jako národní kulturní památka a poprvé částečně zpřístupněn veřejnosti"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Poběžovice_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Poběžovice_(zámek)",
+  "https://www.pobezovice.cz/mesto/informace-o-meste/historie/",
+  "https://www.pobezovice.cz/e_download.php?file=data%2Feditor%2F53cs_1.pdf&original=Historicky+vy%CC%81voj+me%CC%8Csta.pdf",
+  "https://www.uur.cz/media/w5fdugx1/8-pobezovice.pdf"
+ ]
 }

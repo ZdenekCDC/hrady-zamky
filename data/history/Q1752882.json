@@ -2,134 +2,233 @@
  "id": "Q1752882",
  "name": "Ploskovice",
  "founded": {
-  "year": 1450,
+  "year": 1278,
   "approx": true,
-  "text": "Nejstarším panským sídlem v Ploskovicích byla johanitská komenda, koncem první poloviny 15. století upravená na tvrz. Tu za Jana Habarta z Vřesovic (nejspíše 1545-1575) přestavěli na renesanční zámek. Současný vrcholně barokní zámek nechala v sousedství staršího sídla založit v první čtvrtině 18. století Anna Marie Františka Toskánská; starý zámek byl kolem roku 1816 zbořen."
+  "text": "Roku 1188 daroval Hroznata Ploskovice johanitům, kteří si zde postavili opevněnou komendu (poprvé připomínána k roku 1278); koncem první poloviny 15. století upravena na tvrz. Současný vrcholně barokní zámek nechala v sousedství staršího sídla postavit v první čtvrtině 18. století Anna Marie Františka Toskánská (1720-1725, dokončovací práce kolem 1725); starý zámek byl roku 1816 zbořen."
  },
- "summary": "Prvním panským sídlem v Ploskovicích byla johanitská komenda, koncem první poloviny 15. století přestavěná na tvrz a v druhé polovině 16. století za Jana Habarta z Vřesovic na renesanční zámek. Po Šlicích, kteří jej drželi do poloviny 17. století, a Trauchburzích nechala v první čtvrtině 18. století Anna Marie Františka Toskánská v sousedství postavit vrcholně barokní zámek; po ní se v panství vystřídali dědicové z rodu Wittelsbachů. Od roku 1805 patřily Ploskovice Habsburkům a v polovině 19. století se staly letním sídlem abdikovaného císaře Ferdinanda I. Po roce 1918 přešly pod správu československého státu, za druhé světové války spadaly pod nacistické Německo a od roku 1945 jsou znovu majetkem státu, který je od 60. let zpřístupnil veřejnosti.",
+ "summary": "Prvním panským sídlem v Ploskovicích byla johanitská komenda, kterou řád od roku 1188 držel (často zastavenou) do roku 1545. Noví majitelé z 2. poloviny 16. století (Trčkové z Vítence, Dubanští z Duban, Vřesovicové) přestavěli tvrz na renesanční zámek; po Bílé hoře panství získal hrabě Jindřich Šlik a jeho dcera Marie Sidonie je roku 1663 prodala sasko-lauenburským vévodům. Anna Marie Františka Toskánská zde v letech 1720-1725 postavila vrcholně barokní zámek; po ní panství drželi bavorští Wittelsbachové a od roku 1805 toskánská větev Habsburků, kdy se v polovině 19. století stal zámek letním sídlem abdikovaného císaře Ferdinanda I. Po roce 1918 přešel pod správu československého státu, který jej od 60. let zpřístupnil veřejnosti.",
  "owners": [
   {
    "owner": "cirkev",
    "owner_wiki": null,
-   "person": null,
-   "from": null,
-   "to": 1450,
-   "from_approx": true,
-   "to_approx": true,
-   "how": "zalozeni",
-   "note": "johanitská komenda (řád johanitů), koncem první poloviny 15. století upravená na tvrz"
+   "person": "Řád johanitů (pražský hospitál)",
+   "from": 1188,
+   "to": 1545,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dar",
+   "note": "Ploskovice daroval roku 1188 šlechtic Hroznata; komenda poprvé připomínána 1278; pro nedostatek peněz panství často zastavovali (1436 Jakoubek z Vřesovic, 1440 Rydkéř z Polenska, před 1456 vyplaceno, koncem 15. stol. Adam z Drahonic - 1496 povstání poddaných a Dalibor z Kozojed, 1514 Zdeněk Lev z Rožmitálu, 1529 spravoval velmistr, 1533 zástava Václavu Trčkovi z Vítence); roku 1545 prodali (zdroj: oficiální web zámku, NPÚ)"
+  },
+  {
+   "owner": "z-vitence",
+   "owner_wiki": null,
+   "person": "synové Václava Trčky z Vítence",
+   "from": 1545,
+   "to": 1566,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "čtyři synové Václava Trčky z Vítence koupili od johanitů; roku 1566 prodali Dubanskému; cs.wiki (obec) uvádí prodej johanitů Trčkům po roce 1539, oficiální web zámku 1545"
+  },
+  {
+   "owner": "z-duban",
+   "owner_wiki": null,
+   "person": "Oldřich Dubanský z Duban",
+   "from": 1566,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "po jeho smrti panství převzala manželka Anna Kostomlatská z Vřesovic; rok smrti zdroj neuvádí"
   },
   {
    "owner": "pani-z-vresovic",
    "owner_wiki": "Páni z Vřesovic",
-   "person": "Jan Habart z Vřesovic",
-   "from": 1450,
-   "to": 1600,
-   "from_approx": true,
-   "to_approx": true,
-   "how": "neznamo",
-   "note": "cs.wiki uvádí jen přestavbu tvrze na renesanční zámek Janem Habartem z Vřesovic (nejspíše 1545-1575); přesný rok nabytí i předání Šlikům není uveden"
+   "person": "Anna Kostomlatská z Vřesovic, poté Jan Habart z Vřesovic (Kostomlatský)",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "Jan Habart byl posledním držitelem z rodu; tvrz byla patrně v letech 1545-1575 přestavěna na renesanční zámek (nic bližšího není známo); podle webu zamekploskovice.cz (komerční / místní web, méně spolehlivý) přišel Jan Habart po Bílé hoře konfiskací o Ploskovice; roky nabytí a ztráty zdroje neuvádějí"
   },
   {
    "owner": "slikove",
    "owner_wiki": "Šlikové",
    "person": "Jindřich Šlik",
-   "from": 1600,
+   "from": null,
    "to": 1650,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "hrabě Jindřich Šlik zemřel 1650, panství zdědila dcera Marie Sidonie"
+   "note": "prezident válečné dvorské rady, v 1630. letech těžil z konfiskací (Frýdlantské panství); podle webu zamekploskovice.cz (méně spolehlivý) mu panství prodal císař po konfiskaci Vřesovicům; rok nabytí zdroje neuvádějí; zemřel 1650"
   },
   {
    "owner": "z-trauchburgu",
    "owner_wiki": null,
    "person": "Marie Sidonie Šliková a Otto Antonín z Trauchburgu",
    "from": 1650,
-   "to": 1700,
+   "to": 1663,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "dedictvi",
-   "note": "Marie Sidonie zdědila panství po otci Jindřichu Šlikovi a provdala se za Ottu Antonína z Trauchburgu; pravděpodobně nechala zámek upravit barokně; rod bez vlastního cs.wiki článku"
+   "note": "Marie Sidonie zdědila panství po otci a provdala se za Ottu Antonína z Trauchburgu; panství neudržela a roku 1663 je prodala (oficiální web zámku); pravděpodobně nechala zámek upravit barokně; rod bez vlastního cs.wiki článku"
+  },
+  {
+   "owner": "sasko-lauenburkove",
+   "owner_wiki": null,
+   "person": "Julius Jindřich Sasko-Lauenburský, od 1665 syn Julius František",
+   "from": 1663,
+   "to": 1689,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupě od Marie Sidonie; roku 1665 se po otcově smrti ujal panství Julius František, který zemřel 1689 (zamekploskovice.cz, méně spolehlivý; rok 1663 potvrzuje i oficiální web zámku a en.wiki)"
   },
   {
    "owner": "sasko-lauenburkove",
    "owner_wiki": null,
    "person": "Anna Marie Františka Toskánská",
-   "from": 1700,
+   "from": 1689,
    "to": 1741,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
-   "how": "koupe",
-   "note": "princezna sasko-lauenburská, po odloučení od manžela Giana Gastona Medicejského se odstěhovala do Ploskovic ze Zákup a nechala v sousedství staršího sídla postavit vrcholně barokní zámek (dokončovací práce kolem 1725); přesný rok nabytí panství není uveden"
+   "how": "dedictvi",
+   "note": "dcera Julia Františka, po rozdělení dědictví mezi sestry získala Ploskovice (zamekploskovice.cz, méně spolehlivý); po odloučení od manžela Giana Gastona Medicejského se odstěhovala ze Zákup do Ploskovic a v letech 1720-1725 postavila nový zámek, starý nechala podle části zdrojů zbořit; zemřela 1741"
   },
   {
    "owner": "wittelsbachove",
    "owner_wiki": "Wittelsbachové",
-   "person": "Marie Anna Karolína Neuburská, Klement František de Paula, Maxmilián Josef Bavorský, Karel August Zweibrückenský, Maxmilián Josef IV. Zweibrückenský",
+   "person": "Marie Anna Karolína Neuburská",
    "from": 1741,
+   "to": 1753,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "po matčině smrti 1741 zdědila zámek dcera; roku 1753 ji nahradil syn Klement František"
+  },
+  {
+   "owner": "wittelsbachove",
+   "owner_wiki": "Wittelsbachové",
+   "person": "Klement František de Paula",
+   "from": 1753,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "zemřel bezdětný; rok smrti zdroj neuvádí"
+  },
+  {
+   "owner": "wittelsbachove",
+   "owner_wiki": "Wittelsbachové",
+   "person": "Maxmilián Josef Bavorský",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "bavorský kurfiřt, hlavní sídlo v Čechách měl v Zákupech, v Ploskovicích bydleli úředníci; 1775 velké selské povstání proti vrchnímu Antonínu Mölzerovi; zemřel bez dětí"
+  },
+  {
+   "owner": "wittelsbachove",
+   "owner_wiki": "Wittelsbachové",
+   "person": "Karel August Zweibrückenský",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "příslušník vedlejší větve Wittelsbachů; panství hospodářsky upadalo, 1784 se je pokusil prodat knížeti Kristiánu Augustovi z Waldecka, který nezaplatil, takže se panství roku 1790 opět ujal"
+  },
+  {
+   "owner": "wittelsbachove",
+   "owner_wiki": "Wittelsbachové",
+   "person": "Maxmilián Josef IV. Zweibrückenský",
+   "from": null,
    "to": 1805,
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "po smrti Anny Marie Františky zdědila zámek dcera Marie Anna Karolína, 1753 syn Klement František; ten zemřel bezdětný a majetek zdědil bavorský kurfiřt Maxmilián Josef, po něm Karel August Zweibrückenský (1784 neúspěšný pokus o prodej knížeti z Waldecka), posledním držitelem z rodu byl Maxmilián Josef IV. Zweibrückenský (zemřel 1825)"
+   "note": "posledním příslušníkem rodu, kterému Ploskovice patřily (zemřel 1825); en.wiki uvádí předání Ferdinandu III. až 1813, cs.wiki i oficiální web zámku 1805"
   },
   {
    "owner": "habsburkove",
    "owner_wiki": "Habsburkové",
-   "person": "Ferdinand III. Toskánský, Leopold II. Toskánský, Ferdinand I., František Josef I., arcivévodkyně Alžběta Marie Rakouská",
+   "person": "Ferdinand III. Toskánský",
    "from": 1805,
-   "to": 1918,
+   "to": 1824,
    "from_approx": false,
    "to_approx": false,
-   "how": "koupe",
-   "note": "1805 koupil arcikníže Ferdinand III. Toskánský, 1824-1847 syn Leopold II.; od 1854 letní sídlo abdikovaného císaře Ferdinanda I., po jeho smrti 1878 osobní majetek Františka Josefa I.; od 1905 na zámku bydlela vnučka Alžběta Marie s manželem Ottou z Windisch-Graetzu"
+   "how": "neznamo",
+   "note": "zámek získal arcikníže Ferdinand III. Toskánský (způsob nabytí zdroje neuvádějí); 1807 připojeno zahořanské panství; starý zámek zchátral a 1816 byl zbořen"
+  },
+  {
+   "owner": "habsburkove",
+   "owner_wiki": "Habsburkové",
+   "person": "Leopold II. Toskánský",
+   "from": 1824,
+   "to": 1847,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "po smrti otce Ferdinanda III. (1824); držel jej do roku 1847"
+  },
+  {
+   "owner": "habsburkove",
+   "owner_wiki": "Habsburkové",
+   "person": "Ferdinand I. (V. Dobrotivý)",
+   "from": null,
+   "to": 1878,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "po abdikaci 1848 letní sídlo (oficiální web: od 1849, cs.wiki: nastěhoval se 1854, kdy skončila Bělského přestavba); způsob a rok převzetí od Leopolda II. zdroje neuvádějí; zemřel 1878; en.wiki (obec) uvádí majetek Ferdinanda I. již od 1835, což odporuje cs.wiki"
+  },
+  {
+   "owner": "habsburkove",
+   "owner_wiki": "Habsburkové",
+   "person": "František Josef I.",
+   "from": 1878,
+   "to": 1919,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "po smrti Ferdinanda I. převzal jako osobní majetek; od 1905 na zámku bydlela vnučka Alžběta Marie s manželem Ottou z Windisch-Graetzu; vlastníka po smrti císaře (1916) zdroje neuvádějí; konec odvozen z nucené správy 1919"
   },
   {
    "owner": "stat",
    "owner_wiki": null,
    "person": null,
-   "from": 1918,
-   "to": 1938,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "jine",
-   "note": "po vzniku Československa uvalena nucená správa na bývalé císařské velkostatky (Ředitelství státních lesů a statků); zámek 1918 poškozen při obsazení litoměřickým Bürgerwehrem, za první republiky letní sídlo ministrů zahraničí"
-  },
-  {
-   "owner": "stat",
-   "owner_wiki": null,
-   "person": null,
-   "from": 1938,
-   "to": 1945,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "konfiskace",
-   "note": "po odstoupení pohraničí Ploskovice spadaly pod nacistické Německo, zámek sloužil jako nacionálně socialistická politická škola"
-  },
-  {
-   "owner": "stat",
-   "owner_wiki": null,
-   "person": null,
-   "from": 1945,
+   "from": 1919,
    "to": null,
    "from_approx": false,
    "to_approx": false,
    "how": "jine",
-   "note": "po válce sloužil základní škole a státnímu statku, od 1952 památkové opravy (1956-1958 restaurování maleb Josefa Navrátila), v 60. letech zpřístupněn veřejnosti; dnes ve správě NPÚ"
+   "note": "výnosem ministerstva zemědělství z 29. dubna 1919 uvalena nucená správa na bývalé císařské velkostatky (od 1921 Ředitelství státních lesů a statků); 1938-1945 spadaly Ploskovice pod nacistické Německo (zámek sloužil jako nacionálně socialistická škola), po 1945 základní škole a státnímu statku; od 1952 památkové opravy, v 60. letech zpřístupněn; dnes ve správě NPÚ; formální vlastnické přechody zdroje neuvádějí"
   }
  ],
  "events": [
-  {"year": 1545, "text": "Jan Habart z Vřesovic přestavuje starou tvrz na renesanční zámek (nejspíše 1545-1575)"},
+  {"year": 1188, "text": "Hroznata daruje Ploskovice řádu johanitů"},
+  {"year": 1278, "text": "poprvé se připomíná johanitská komenda"},
+  {"year": 1436, "text": "císař Zikmund zastavuje Ploskovice Jakoubkovi z Vřesovic"},
+  {"year": 1496, "text": "povstání poddaných proti Adamovi z Drahonic, poddaní se podřizují Daliborovi z Kozojed (popraven 1498)"},
+  {"year": 1545, "text": "johanité prodávají Ploskovice synům Václava Trčky z Vítence; Jan Habart z Vřesovic přestavuje tvrz na renesanční zámek (nejspíše 1545-1575)"},
   {"year": 1650, "text": "smrt hraběte Jindřicha Šlika, panství dědí dcera Marie Sidonie"},
+  {"year": 1663, "text": "Marie Sidonie prodává panství vévodovi Juliu Jindřichovi Sasko-Lauenburskému"},
   {"year": 1725, "text": "dokončovací práce na novém vrcholně barokním zámku Anny Marie Františky Toskánské"},
   {"year": 1775, "text": "velké selské povstání na ploskovickém panství proti vrchnostenskému útlaku"},
+  {"year": 1805, "text": "zámek získává arcikníže Ferdinand III. Toskánský"},
   {"year": 1816, "text": "zchátralý starý barokní zámek zbořen"},
-  {"year": 1848, "text": "zahájena velká přestavba zámku architektem Janem Bělským pro letní sídlo abdikovaného Ferdinanda I."},
+  {"year": 1848, "text": "zahájena velká přestavba zámku architektem Janem Bělským pro letní sídlo abdikovaného Ferdinanda I. (dokončena 1854)"},
   {"year": 1918, "text": "zámek obsazen a poškozen litoměřickým Bürgerwehrem při pokusu o odtržení Sudet"},
-  {"year": 1960, "text": "zámek po poválečných opravách zpřístupněn veřejnosti"}
+  {"year": 1960, "text": "zámek po poválečných opravách zpřístupněn veřejnosti (v 60. letech)"}
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Ploskovice_(zámek)"
+  "https://cs.wikipedia.org/wiki/Ploskovice_(zámek)",
+  "https://zamek-ploskovice.cz/cs/o-zamku/historie/prvni-zminky",
+  "https://zamek-ploskovice.cz/cs/o-zamku/historie",
+  "https://cs.wikipedia.org/wiki/Ploskovice_(okres_Litoměřice)",
+  "https://en.wikipedia.org/wiki/Ploskovice",
+  "https://www.zamekploskovice.cz/historie-zamku/"
  ]
 }

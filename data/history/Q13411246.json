@@ -8,38 +8,284 @@
  },
  "summary": "Renesanční zámek v Dačicích nechal krátce před rokem 1591 postavit Oldřich Krajíř z Krajku. Po jeho smrti se v držení panství vystřídali Dubští z Třebomyslic, pobělohorská konfiskace ve prospěch koruny, Berkové z Dubé, Fürstenbergové a znovu Berkové z Dubé, Bruntálští z Vrbna, Osteinové (barokní přestavba) a Dalbergové (empírové úpravy). Po vymření Dalbergů roku 1940 zámek krátce vlastnili Salmové, roku 1945 byl podle Benešových dekretů zestátněn a dnes jej spravuje Národní památkový ústav.",
  "owners": [
-  {"owner": "krajirove-z-krajku", "owner_wiki": "Krajířové z Krajku", "person": "Oldřich Krajíř z Krajku", "from": 1591, "to": 1600, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "nechal zámek postavit, zemřel roku 1600"},
-  {"owner": "krajirove-z-krajku", "owner_wiki": "Krajířové z Krajku", "person": "Kateřina Krajířová", "from": 1600, "to": 1610, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "sestra Oldřicha, vdova po Janovi z Lipé, později provdaná za Volfa Dětřicha z Althannu"},
-  {"owner": "dubsti-z-trebomyslic", "owner_wiki": "Dubští z Třebomyslic", "person": "Vilém Dubský z Třebomyslic", "from": 1610, "to": 1620, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil Dačice za 106 000 zlatých od Kateřiny Krajířové"},
-  {"owner": "koruna", "owner_wiki": null, "person": "Ferdinand II.", "from": 1620, "to": 1622, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "pobělohorská konfiskace"},
-  {"owner": "berkove-z-dube", "owner_wiki": "Berkové z Dubé", "person": "Lev Burian Berka z Dubé", "from": 1622, "to": 1626, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil panství roku 1622, zemřel 1626"},
-  {"owner": "berkove-z-dube", "owner_wiki": "Berkové z Dubé", "person": "Matyáš Ferdinand Berka z Dubé", "from": 1626, "to": 1644, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "matka Františka Hippolyta z Fürstenbergu odmítla po jeho smrti vydat majetek druhé větvi Berků a předala jej synovci"},
-  {"owner": "furstenbergove", "owner_wiki": "Fürstenbergové", "person": "Friedrich Rudolf z Fürstenbergu", "from": 1644, "to": 1655, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "synovec Františky Hippolyty"},
-  {"owner": "furstenbergove", "owner_wiki": "Fürstenbergové", "person": "Maximilian Franz z Fürstenbergu", "from": 1655, "to": 1673, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "mezitím probíhal soudní spor s Berky o nárok na panství"},
-  {"owner": "berkove-z-dube", "owner_wiki": "Berkové z Dubé", "person": "František Antonín Berka z Dubé", "from": 1673, "to": 1706, "from_approx": false, "to_approx": false, "how": "jine", "note": "na základě rozhodnutí tribunálu v Brně"},
-  {"owner": "berkove-z-dube", "owner_wiki": "Berkové z Dubé", "person": "Františka Rosálie Berková, provd. Kinská", "from": 1706, "to": 1714, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "sestřenice předchozího"},
-  {"owner": "bruntalsti-z-vrbna", "owner_wiki": "Bruntálští z Vrbna", "person": "Václav Albrecht Bruntálský z Vrbna", "from": 1714, "to": 1728, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "nevlastní bratr Františky Rosálie Kinské, se souhlasem Fürstenberků její dědic"},
-  {"owner": "z-osteinu", "owner_wiki": null, "person": "Jindřich Karel z Osteinu", "from": 1728, "to": 1742, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil panství za 426 000 rýnských zlatých, provedl barokní přestavbu zámku"},
-  {"owner": "z-osteinu", "owner_wiki": null, "person": "Philipp Karl a Karel Maxmilián z Osteinu", "from": 1742, "to": 1775, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "dva nezletilí synové Jindřicha Karla"},
-  {"owner": "z-osteinu", "owner_wiki": null, "person": "Karel Maxmilián z Osteinu", "from": 1775, "to": 1809, "from_approx": false, "to_approx": false, "how": "jine", "note": "jediným majitelem po zletilosti"},
-  {"owner": "z-dalbergu", "owner_wiki": null, "person": "Bedřich Karel Antonín z Ostein-Dalbergu", "from": 1809, "to": 1814, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "dědic Karla Maxmiliána z Osteinu, zemřel svobodný a bezdětný"},
-  {"owner": "z-dalbergu", "owner_wiki": null, "person": "Karel Antonín Maxmilián z Dalbergu", "from": 1814, "to": 1859, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "bratr předchozího, prošel empírovou přestavbou"},
-  {"owner": "z-dalbergu", "owner_wiki": null, "person": "Friedrich Ferdinand von Dalberg", "from": 1859, "to": 1908, "from_approx": false, "to_approx": false, "how": "dedictvi"},
-  {"owner": "z-dalbergu", "owner_wiki": null, "person": "Friedrich Egbert von Dalberg", "from": 1908, "to": 1914, "from_approx": false, "to_approx": false, "how": "dedictvi"},
-  {"owner": "z-dalbergu", "owner_wiki": null, "person": "Karolina z Raabu a synové Josef a Johannes", "from": 1914, "to": 1935, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "vdova a dva nezletilí synové"},
-  {"owner": "z-dalbergu", "owner_wiki": null, "person": "Johannes von Dalberg", "from": 1935, "to": 1940, "from_approx": false, "to_approx": false, "how": "jine", "note": "jediným majitelem po smrti bratra Josefa (1929), rod Dalbergů jím roku 1940 vymřel po meči"},
-  {"owner": "salmove-pustinna-a-porynska-hrabata", "owner_wiki": "Salmové (Pustinná a porýnská hrabata)", "person": "František Karel ze Salm-Salmu", "from": 1940, "to": 1945, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "zdědil velkostatek jako nejbližší příbuzný, syn Johannovy sestřenice Marie Anny z Dalbergu provdané ze Salm-Salmu; cs.wiki odkazuje na linii Salm-Salm v článku Salmové (Pustinná a porýnská hrabata)"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "zestátněno podle Benešových dekretů, dnes ve správě Národního památkového ústavu"}
+  {
+   "owner": "krajirove-z-krajku",
+   "owner_wiki": "Krajířové z Krajku",
+   "person": "Oldřich Krajíř z Krajku",
+   "from": 1591,
+   "to": 1600,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "nechal zámek postavit, zemřel roku 1600"
+  },
+  {
+   "owner": "krajirove-z-krajku",
+   "owner_wiki": "Krajířové z Krajku",
+   "person": "Kateřina Krajířová",
+   "from": 1600,
+   "to": 1610,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "sestra Oldřicha, vdova po Janovi z Lipé, později provdaná za Volfa Dětřicha z Althannu"
+  },
+  {
+   "owner": "dubsti-z-trebomyslic",
+   "owner_wiki": "Dubští z Třebomyslic",
+   "person": "Vilém Dubský z Třebomyslic",
+   "from": 1610,
+   "to": 1620,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil Dačice za 106 000 zlatých od Kateřiny Krajířové"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Ferdinand II.",
+   "from": 1620,
+   "to": 1622,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "pobělohorská konfiskace"
+  },
+  {
+   "owner": "berkove-z-dube",
+   "owner_wiki": "Berkové z Dubé",
+   "person": "Lev Burian Berka z Dubé",
+   "from": 1622,
+   "to": 1626,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil panství roku 1622, zemřel 1626"
+  },
+  {
+   "owner": "berkove-z-dube",
+   "owner_wiki": "Berkové z Dubé",
+   "person": "Matyáš Ferdinand Berka z Dubé",
+   "from": 1626,
+   "to": 1644,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "matka Františka Hippolyta z Fürstenbergu odmítla po jeho smrti vydat majetek druhé větvi Berků a předala jej synovci"
+  },
+  {
+   "owner": "furstenbergove",
+   "owner_wiki": "Fürstenbergové",
+   "person": "Friedrich Rudolf z Fürstenbergu",
+   "from": 1644,
+   "to": 1655,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "synovec Františky Hippolyty"
+  },
+  {
+   "owner": "furstenbergove",
+   "owner_wiki": "Fürstenbergové",
+   "person": "Maximilian Franz z Fürstenbergu",
+   "from": 1655,
+   "to": 1673,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "mezitím probíhal soudní spor s Berky o nárok na panství"
+  },
+  {
+   "owner": "berkove-z-dube",
+   "owner_wiki": "Berkové z Dubé",
+   "person": "František Antonín Berka z Dubé",
+   "from": 1673,
+   "to": 1706,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "na základě rozhodnutí tribunálu v Brně"
+  },
+  {
+   "owner": "berkove-z-dube",
+   "owner_wiki": "Berkové z Dubé",
+   "person": "Františka Rosálie Berková, provd. Kinská",
+   "from": 1706,
+   "to": 1714,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "sestřenice předchozího"
+  },
+  {
+   "owner": "bruntalsti-z-vrbna",
+   "owner_wiki": "Bruntálští z Vrbna",
+   "person": "Václav Albrecht Bruntálský z Vrbna",
+   "from": 1714,
+   "to": 1728,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "nevlastní bratr Františky Rosálie Kinské, se souhlasem Fürstenberků její dědic"
+  },
+  {
+   "owner": "z-osteinu",
+   "owner_wiki": null,
+   "person": "Jindřich Karel z Osteinu",
+   "from": 1728,
+   "to": 1742,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil panství za 426 000 rýnských zlatých, provedl barokní přestavbu zámku"
+  },
+  {
+   "owner": "z-osteinu",
+   "owner_wiki": null,
+   "person": "Philipp Karl a Karel Maxmilián z Osteinu",
+   "from": 1742,
+   "to": 1775,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "dva nezletilí synové Jindřicha Karla (Philipp Karl 1742-1766 a Karel Maxmilián, podle NPÚ Johann Friedrich Karl); od 1775 jediným majitelem Karel Maxmilián"
+  },
+  {
+   "owner": "z-osteinu",
+   "owner_wiki": null,
+   "person": "Karel Maxmilián z Osteinu",
+   "from": 1775,
+   "to": 1809,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "od roku 1775 jediným majitelem (cs.wiki, web zámku); NPÚ web ho uvádí jako Johann Friedrich Karl (1735-1809), manžel Ludovika Charlotta z Dalbergu; 1809 je rok jeho smrti"
+  },
+  {
+   "owner": "z-dalbergu",
+   "owner_wiki": null,
+   "person": "Bedřich Karel Antonín z Ostein-Dalbergu",
+   "from": 1809,
+   "to": 1814,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "dědic Karla Maxmiliána z Osteinu, zemřel svobodný a bezdětný"
+  },
+  {
+   "owner": "z-dalbergu",
+   "owner_wiki": null,
+   "person": "Karel Antonín Maxmilián z Dalbergu",
+   "from": 1814,
+   "to": 1859,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "bratr předchozího, prošel empírovou přestavbou"
+  },
+  {
+   "owner": "z-dalbergu",
+   "owner_wiki": null,
+   "person": "Friedrich Ferdinand von Dalberg",
+   "from": 1859,
+   "to": 1908,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi"
+  },
+  {
+   "owner": "z-dalbergu",
+   "owner_wiki": null,
+   "person": "Friedrich Egbert von Dalberg",
+   "from": 1908,
+   "to": 1914,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi"
+  },
+  {
+   "owner": "z-dalbergu",
+   "owner_wiki": null,
+   "person": "Karolina z Raabu a synové Josef a Johannes",
+   "from": 1914,
+   "to": 1935,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "vdova a dva nezletilí synové"
+  },
+  {
+   "owner": "z-dalbergu",
+   "owner_wiki": null,
+   "person": "Johannes von Dalberg",
+   "from": 1935,
+   "to": 1940,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "jine",
+   "note": "jediným majitelem \"po roce 1935\" (po smrti matky Karoliny 1935; bratr Josef zemřel 1929), rod Dalbergů jím roku 1940 vymřel po meči"
+  },
+  {
+   "owner": "salmove-pustinna-a-porynska-hrabata",
+   "owner_wiki": "Salmové (Pustinná a porýnská hrabata)",
+   "person": "František Karel (Franz Karl) ze Salm-Salmu",
+   "from": 1940,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "podle cs.wiki a webu zámku (NPÚ) zdědil velkostatek jako nejbližší příbuzný, syn Johannovy sestřenice Marie Anny z Dalbergu provdané ze Salm-Salmu; de.wiki uvádí jako dědičku přímo Marii Annu (1891-1979), manželku Franze Emanuela zu Salm-Salm; cs.wiki odkazuje na linii Salm-Salm v článku Salmové (Pustinná a porýnská hrabata)"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "velkostatek zestátněn podle Benešových dekretů 1945, dnes zámek ve správě Národního památkového ústavu"
+  }
  ],
  "events": [
-  {"year": 1591, "text": "dokončena stavba renesančního zámku pro Oldřicha Krajíře z Krajku"},
-  {"year": 1610, "text": "za Viléma Dubského z Třebomyslic přistavěna či přestavěna boční a zadní křídla"},
-  {"year": 1620, "text": "pobělohorská konfiskace majetku ve prospěch císaře Ferdinanda II."},
-  {"year": 1728, "text": "hrabě Jindřich Karel z Osteinu zahájil barokní přestavbu zámku"},
-  {"year": 1809, "text": "panství zdědili Dalbergové, proběhla empírová přestavba"},
-  {"year": 1940, "text": "vymřením Dalbergů zdědil velkostatek František Karel ze Salm-Salmu"},
-  {"year": 1945, "text": "zámek zestátněn podle Benešových dekretů a zpřístupněn veřejnosti"},
-  {"year": 2001, "text": "zámek prohlášen národní kulturní památkou"}
+  {
+   "year": 1591,
+   "text": "dokončena stavba renesančního zámku pro Oldřicha Krajíře z Krajku"
+  },
+  {
+   "year": 1610,
+   "text": "za Viléma Dubského z Třebomyslic přistavěna či přestavěna boční a zadní křídla"
+  },
+  {
+   "year": 1620,
+   "text": "pobělohorská konfiskace majetku ve prospěch císaře Ferdinanda II."
+  },
+  {
+   "year": 1728,
+   "text": "hrabě Jindřich Karel z Osteinu zahájil barokní přestavbu zámku"
+  },
+  {
+   "year": 1809,
+   "text": "panství zdědili Dalbergové, proběhla empírová přestavba"
+  },
+  {
+   "year": 1940,
+   "text": "vymřením Dalbergů zdědil velkostatek František Karel ze Salm-Salmu"
+  },
+  {
+   "year": 1945,
+   "text": "zámek zestátněn podle Benešových dekretů a zpřístupněn veřejnosti"
+  },
+  {
+   "year": 2001,
+   "text": "zámek prohlášen národní kulturní památkou"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Dačice_(nový_zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Dačice_(nový_zámek)",
+  "https://www.zamek-dacice.cz/cs/o-zamku/majitele-zamku",
+  "https://de.wikipedia.org/wiki/Schloss_Dačice"
+ ]
 }

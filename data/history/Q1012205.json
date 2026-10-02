@@ -1,23 +1,245 @@
 {
  "id": "Q1012205",
  "name": "Hartenštejn",
- "founded": {"year": 1470, "approx": true, "text": "Hrad založil Jindřich III. z Plavna jako vojenský opěrný bod někdy před rokem 1473, ze kterého pochází první písemná zmínka"},
- "summary": "Pozdně gotický hrad Hartenštejn u Bochova založil krátce před rokem 1473 Jindřich III. z Plavna. Poté hrad vystřídal několik zástavních a šlechtických držitelů, roku 1573 je poprvé zmiňován jako pustý a zčásti obnoven, definitivně opuštěn byl po roce 1609, kdy jej Linhart Colonna z Felsu připojil k panství Andělská Hora. Dnes je zříceninou chráněnou jako kulturní památka.",
+ "founded": {
+  "year": 1470,
+  "approx": true,
+  "text": "Hrad založil Jindřich II. (cs.wiki: III.) z Plavna v 70. letech 15. stol. před rokem 1473 jako nástupce hradu Hungerberg a vojenský opěrný bod bečovského panství; první písemná zmínka 1473"
+ },
+ "summary": "Pozdně gotický hrad Hartenštejn u Bochova založili před rokem 1473 Plavenští z Plavna. Hrad byl opakovaně zastavován (Švamberk, Géra, Cedvic) a po Plavenských ho drželi Kolovratové, Lobkovicové, Štensdorfové a Hrobčičtí. Roku 1609 koupil panství Linhart Colonna z Felsu a připojil je k Andělské Hoře, po 1622 následovali Černínové z Chudenic, hrad chátral a sloužil jako lom. Zříceninu roku 1927 koupilo město Bochov, které ji od 30. let zajišťuje a od 2006 obnovuje.",
  "owners": [
-  {"owner": "plavensti-z-plavna", "owner_wiki": "Plavenští z Plavna", "person": "Jindřich III. z Plavna", "from": 1470, "to": 1473, "from_approx": true, "to_approx": true, "how": "zalozeni", "note": "hrad založen jako vojenský opěrný bod, první písemná zmínka před rokem 1473"},
-  {"owner": "pani-ze-svamberka", "owner_wiki": "Páni ze Švamberka", "person": "Bohuslav ze Švamberka", "from": 1473, "to": 1496, "from_approx": false, "to_approx": true, "how": "lenni", "note": "hrad v zástavě"},
-  {"owner": "soukromnik", "person": "Anna Cedvicová", "from": 1496, "to": 1519, "from_approx": false, "to_approx": true, "how": "lenni", "note": "hrad v zástavě"},
-  {"owner": "kolovratove", "owner_wiki": "Kolovratové", "person": "Jan Maštovský z Kolovrat", "from": 1519, "to": 1554, "from_approx": true, "to_approx": true, "how": "neznamo"},
-  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": "Jindřich Mikuláš Hasištejnský z Lobkovic", "from": 1554, "to": 1573, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "hasištejnská větev rodu; roku 1573 je hrad poprvé označen jako pustý"},
-  {"owner": "soukromnik", "person": "Adam starší Štensdorf ze Štensdorfu", "from": 1573, "to": 1609, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "hrad alespoň částečně obnovil"},
-  {"owner": "colonnove-z-felsu", "owner_wiki": "Colonnové z Felsu", "person": "Linhart Colonna z Felsu", "from": 1609, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil panství a připojil je k Andělské Hoře; hrad byl poté úplně opuštěn, další majitelé v článku neuvedeni"}
+  {
+   "owner": "plavensti-z-plavna",
+   "owner_wiki": "Plavenští z Plavna",
+   "person": "Jindřich II. (starý) z Plavna",
+   "from": 1470,
+   "to": 1473,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "zalozeni",
+   "note": "hrad založil před 1473 v 70. letech 15. století jako nástupce zničeného hradu Hungerberg a jako vojenský opěrný bod bečovského panství Plavenských (cs.wiki uvádí zakladatele Jindřicha III., město Bochov a Vyčichlo Jindřicha II.)"
+  },
+  {
+   "owner": "pani-ze-svamberka",
+   "owner_wiki": "Páni ze Švamberka",
+   "person": "Bohuslav ze Švamberka (Schwanebergu)",
+   "from": 1473,
+   "to": 1477,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "hrad mu Plavenští zastavili 1473 - první písemná zmínka (mesto-bochov.cz, Vyčichlo)"
+  },
+  {
+   "owner": "z-gery",
+   "owner_wiki": null,
+   "person": "Jindřich z Géry",
+   "from": 1477,
+   "to": 1496,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "lenni",
+   "note": "1477 hrad se zbožím zastaven dále Jindřichu z Géry; konec zástavy zdroje neuvádějí, k 1496 je hrad zastaven jinému (mesto-bochov.cz)"
+  },
+  {
+   "owner": "z-cedvic",
+   "owner_wiki": null,
+   "person": "Anna Cedvicová (Zedwitzová)",
+   "from": 1496,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "1496 jí hrad zastavil Jindřich III. z Plavna, správcem jmenovala Martina Vermera; Jindřich III. hrad nakonec vyplatil (rok neuveden)"
+  },
+  {
+   "owner": "plavensti-z-plavna",
+   "owner_wiki": "Plavenští z Plavna",
+   "person": "Jindřich III. z Plavna",
+   "from": null,
+   "to": 1519,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "po vyplacení zástavy hrad držel Jindřich III., který zemřel 1519 přímo na Hartenštejně"
+  },
+  {
+   "owner": "kolovratove",
+   "owner_wiki": "Kolovratové",
+   "person": "Jan Mašťovský z Kolovrat",
+   "from": 1521,
+   "to": 1529,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "snatek",
+   "note": "1521 získal hrad sňatkem s vdovou po Jindřichu III., Barborou Anhaltskou (poručnicí nezletilých dětí), psal se i z Hartenštejna; od 1529 sedí na Hartenštejně již plnoletý Jindřich IV. z Plavna (cs.wiki uvádí jen 'po roce 1519')"
+  },
+  {
+   "owner": "plavensti-z-plavna",
+   "owner_wiki": "Plavenští z Plavna",
+   "person": "Jindřich IV. z Plavna",
+   "from": 1529,
+   "to": 1554,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "1529 již plnoletý Jindřich IV. potvrdil privilegia Bochova a seděl na Hartenštejně, 1551 prodal poplužní dvůr pod hradem; zemřel 19. 5. 1554"
+  },
+  {
+   "owner": "plavensti-z-plavna",
+   "owner_wiki": "Plavenští z Plavna",
+   "person": "synové Jindřicha IV.: Jindřich V. a Jindřich VI. z Plavna",
+   "from": 1554,
+   "to": 1567,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "po smrti Jindřicha IV. 19. 5. 1554 drželi statek synové, 1563 hrad v dědickém řízení získal Jindřich VI."
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Jindřich Mikuláš Hasištejnský z Lobkovic",
+   "from": 1567,
+   "to": 1573,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "hasištejnská větev rodu (bez samostatného článku, proto Lobkovicové); cs.wiki uvádí 1554, Vyčichlo 1567 (hrad již nebyl obýván); 1573 prodal zpustlý hrad Adamu staršímu Štensdorfovi"
+  },
+  {
+   "owner": "stensdorfove",
+   "owner_wiki": null,
+   "person": "Adam starší Štensdorf ze Štensdorfu a na Údrči (zemřel 1579), poté synové",
+   "from": 1573,
+   "to": 1589,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "1573 koupil zpustlý hrad s městem Bochov a třemi vesnicemi, hrad úsporně obnovil, sám sídlil v Bochově; 1588 se synové rozdělili a hrad dostal Anzelm, který jej 1589 vyměnil za statek Koštice"
+  },
+  {
+   "owner": "hrobcicti-z-hrobcic",
+   "owner_wiki": "Hrobčičtí z Hrobčic",
+   "person": "Jeroným starší Hrobčický z Hrobčic, od 1606 Ferdinand Burjan",
+   "from": 1589,
+   "to": 1608,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "vymena",
+   "note": "1589 výměnou za Koštice; Jeroným zemřel 1602, statek zdědilo pět synů, po 1606 hrad získal Ferdinand Burjan, který se zadlužil; 1608 prodáno v dražbě"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Marianna Černínová, roz. ze Svárova",
+   "from": 1608,
+   "to": 1609,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "1608 koupila panství v dražbě; 1609 od ní hrad získal po vyplacení dvou věřitelů Vilém starší z Lobkovic (rod ze Svárova zdroj blíže neurčuje)"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Vilém starší z Lobkovic",
+   "from": 1609,
+   "to": 1609,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "získal hrad roku 1609 po vyplacení dvou věřitelů; téhož roku jej získal Colonna (Vyčichlo)"
+  },
+  {
+   "owner": "colonnove-z-felsu",
+   "owner_wiki": "Colonnové z Felsu",
+   "person": "Linhart Colonna z Felsu",
+   "from": 1609,
+   "to": 1621,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "téhož roku 1609 připojil Bochov a Hartenštejn k Andělské Hoře, hrad ztratil funkci sídla a chátral; radikální luterán, vůdce stavovského povstání; 26. 4. 1621 posmrtně odsouzen ke ztrátě majetku"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1621,
+   "to": 1622,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "majetek zkonfiskován, spravovala královská komora"
+  },
+  {
+   "owner": "cerninove-z-chudenic",
+   "owner_wiki": "Černínové z Chudenic",
+   "person": "Heřman Černín z Chudenic s manželkou Marianou",
+   "from": 1622,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "1622 od královské komory koupil za 97922 kop míšeňských grošů panství Andělská Hora s Bochovem a hradem Hartenštejn, spojil je v panství Kysibl; hrad definitivně zpustl, koncem 18. stol. uváděn jako zbořený"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Antonín Hladík, poté poštmistr Beer z Bochova",
+   "from": null,
+   "to": 1927,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "jeden z posledních majitelů Hladík zpustlý hrad prodal poštmistru Beerovi z Bochova, který z něj udělal kamenolom; roky zdroj neuvádí (Vyčichlo)"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "Město Bochov",
+   "from": 1927,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "roku 1927 odkoupilo pozůstatky hradu za 500 Kč; od 1933 záchranné práce, od 2006 postupná rekonstrukce"
+  }
  ],
  "events": [
-  {"year": 1473, "text": "první písemná zmínka o hradu, založeném Jindřichem III. z Plavna"},
-  {"year": 1567, "text": "do tohoto roku byla součástí hartenštejnské manské soustavy tvrz v Herstošicích"},
-  {"year": 1573, "text": "hrad poprvé označován jako pustý"},
-  {"year": 1609, "text": "Linhart Colonna z Felsu koupil panství a připojil je k Andělské Hoře, hrad definitivně opuštěn"},
-  {"year": 1964, "text": "zřícenina prohlášena kulturní památkou"}
+  {
+   "year": 1473,
+   "text": "první písemná zmínka o hradu, zastaveném Bohuslavu ze Švamberka"
+  },
+  {
+   "year": 1567,
+   "text": "hrad již nebyl obýván; do tohoto roku byla součástí hartenštejnské manské soustavy tvrz v Herstošicích"
+  },
+  {
+   "year": 1573,
+   "text": "zpustlý hrad prodán Adamu Štensdorfovi, který jej úsporně obnovil"
+  },
+  {
+   "year": 1609,
+   "text": "Linhart Colonna z Felsu připojil panství k Andělské Hoře, hrad ztrácí funkci sídla"
+  },
+  {
+   "year": 1622,
+   "text": "panství kupuje od královské komory Heřman Černín z Chudenic"
+  },
+  {
+   "year": 1927,
+   "text": "město Bochov odkoupilo zříceninu za 500 Kč"
+  },
+  {
+   "year": 1964,
+   "text": "zřícenina prohlášena kulturní památkou (podle jiného zdroje zapsána 3. 5. 1958)"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Hartenštejn"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Hartenštejn",
+  "https://www.mesto-bochov.cz/turista/pamatky/hrad-hartenstejn/",
+  "https://www.pamatkyaprirodakarlovarska.cz/bochov-hrad-hartenstejn"
+ ]
 }
