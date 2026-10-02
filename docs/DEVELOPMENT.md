@@ -17,7 +17,7 @@ python3 scripts/serve.py        # otevři http://localhost:8000
 - **Zvýraznit rody**: více rodů najednou jako chipy (× odebere, „zrušit výběr“ vše); značky rodu dostanou jeho barvu, ostatní se ztlumí. Totéž kliknutím v legendě.
 - **Náhled při najetí myší**: fotka (lokální miniatura z `data/thumbs/`, rychlá i na GitHub Pages), typ, obec, vznik, přístupnost, rody (ve stroji času vlastník v daném roce).
 - **Detail místa**: fotka (Wikimedia Commons), vznik, shrnutí, časová osa vlastníků (klik na rod -> přehled rodu; tlačítko ⤢ roztáhne panel pro širší osu, volba se pamatuje), události, odkazy (web, Wikipedie, Mapy.com, navigace), návštěvnost (NIPOS), „Co je poblíž“ (nenavštívené do 10-100 km).
-- **Stroj času**: posuvník roku obarví místa podle tehdejšího vlastníka; 8 rodů s nejvíce objekty má pevnou barvu, ostatní rody šedě, instituce tmavě. Legenda i výběr „Zvýraznit rod“ zvýrazní jeden rod.
+- **Stroj času**: posuvník roku obarví místa podle tehdejšího vlastníka; 8 rodů s nejvíce objekty má pevnou barvu, ostatní rody šedě, instituce tmavě. Legenda i výběr „Zvýraznit rod“ zvýrazní jeden rod. Osa začíná u nejstaršího vlastníka v datech zaokrouhleného na 50 let (`D.tmMin` z `loadAll()`, nyní 850); místo se ukáže od roku vzniku (`startYear`: přesný rok, jinak začátek století z textu „14. stol.“, jinak nejstarší rok v historii). Volba „skrýt místa bez data vzniku“ (výchozí zapnuto) schová místa, u kterých se nic z toho nezjistí, kromě navštívených.
 - **Rody** (`#/rody`): přehledová časová osa rodů, detail rodu s erbem, popisem, časovou osou držení, mini-mapou a vazbami (od koho majetek získali / komu předali a jak).
 
 ## Podkladové mapy
@@ -35,6 +35,8 @@ V detailu místa sekce **Návštěva**: datum, hodnocení 1-5 hvězd, poznámka,
 - **Lokální server** (`scripts/serve.py`): rovnou do `data/visited.json` (soubor je v `.gitignore`, na web se nedostane).
 - **Připojený soubor** (Chrome, Edge, Opera, Chrome na Androidu): „Vytvořit soubor…“ / „Otevřít soubor…“ připojí JSON soubor na disku a web do něj zapisuje každou změnu. Soubor ve složce Google Drive, OneDrive nebo Dropbox = záloha a synchronizace mezi zařízeními. Po restartu prohlížeče může být potřeba jednou kliknout na „Povolit zápis“; změny udělané do té doby se pak do souboru dopíšou (přitom se nejdřív načte, co do souboru mezitím zapsalo jiné zařízení).
 - **Jen prohlížeč** (Firefox, Safari, iPhone): `localStorage`. Smazáním dat prohlížeče se návštěvy ztratí - zálohu stáhni přes „Exportovat“.
+
+Spolu s návštěvami se ukládá i zvolené barevné téma ikon (`iconTheme`, viz `data/SCHEMA.md`), na serveru, v připojeném souboru i v prohlížeči.
 
 **Export / import** funguje všude: „Exportovat“ stáhne všechny návštěvy jako JSON, „Importovat…“ je načte zpět (jiný prohlížeč, zařízení nebo návštěvy od kamaráda). Import návštěvy sloučí - nová místa přidá, u stejného místa přepíše záznam importovaným; smazání se importem nepřenáší. „Nahradit vším…“ (s potvrzením) udělá z návštěv přesně obsah souboru, místa, která v souboru nejsou, se smažou.
 

@@ -6,10 +6,10 @@ Interaktivní mapa českých hradů, zámků a zřícenin, kde si můžeš odšk
 
 ## Co na mapě najdeš
 
-- **Přes 2 200 míst** z celé republiky: hrady, zámky i zříceniny. Zvlášť jsou vidět místa se vstupným (prohlídky, expozice) a volně přístupné zříceniny; typ poznáš podle piktogramu a barvy.
+- **Přes 2 200 míst** z celé republiky: hrady, zámky i zříceniny. Zvlášť jsou vidět místa se vstupným (prohlídky, expozice) a volně přístupné zříceniny; typ poznáš podle piktogramu a barvy; barevné téma ikon (zemitá, kámen, sytá, pastelová) si zvolíš v panelu filtrů.
 - **Filtry a hledání:** typ, kraj, správce (NPÚ / ostatní), století vzniku, navštívená / nenavštívená; hledat jde místa i šlechtické rody.
 - **Detail místa:** fotka, vznik, stručná historie, časová osa vlastníků, důležité události, návštěvnost, odkazy na web, Wikipedii a navigaci a „Co je poblíž“ - nenavštívená místa do zvolené vzdálenosti.
-- **Stroj času:** posuneš rok a mapa se obarví podle toho, který rod tehdy místa vlastnil.
+- **Stroj času:** posuneš rok (od 9. století) a mapa se obarví podle toho, který rod tehdy místa vlastnil; místa, která ještě nestála, se skryjí.
 - **Šlechtické rody:** přehled rodů s erbem, popisem, časovou osou držení, mapou jejich sídel a tím, od koho majetek získali a komu ho předali.
 
 Historie vlastníků je zatím zpracovaná u nejnavštěvovanějších objektů a postupně přibývá.
@@ -20,7 +20,7 @@ U každého místa si uložíš návštěvu s datem, hodnocením a poznámkou. N
 
 - **Chrome, Edge, Opera, Chrome na Androidu:** v panelu filtrů (Moje návštěvy) si můžeš připojit soubor na disku a web do něj bude každou změnu ukládat sám. Když ho dáš do složky Google Drive, OneDrive nebo Dropbox, máš zálohu i na dalších zařízeních.
 - **Firefox, Safari, iPhone:** návštěvy se ukládají v prohlížeči. Smazáním dat prohlížeče by se ztratily, proto si občas stáhni zálohu.
-- **Export a import** fungují všude: návštěvy stáhneš jako soubor JSON a můžeš je nahrát v jiném prohlížeči nebo si je vyměnit s kamarádem (import je sloučí s tvými).
+- **Export a import** fungují všude (spolu s návštěvami se přenáší i zvolené téma ikon): návštěvy stáhneš jako soubor JSON a můžeš je nahrát v jiném prohlížeči nebo si je vyměnit s kamarádem (import je sloučí s tvými).
 
 ## Zdroje dat
 
