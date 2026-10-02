@@ -11,6 +11,7 @@ import {
 
 const STORE = "hz-filters-v1";
 const WIDE_STORE = "hz-detail-wide"; // detail panel widened for the owner timeline
+const TABLE_STORE = "hz-detail-table"; // owners shown as a table instead of the timeline
 const DEFAULTS = {
   layers: { vstupne: true, volne: true, neznamo: false },
   kinds: { hrad: true, zamek: true, hradozamek: true, zricenina: true },
@@ -360,6 +361,22 @@ function ownerRows(p) {
   });
 }
 
+/** Owner periods as a table: the same data as the timeline, readable without telling colors apart. */
+function ownerTableHtml(p) {
+  const cur = state.tm ? ownerAt(p, state.year) : null;
+  const rows = p.history.owners.map((o) => {
+    const name = familyName(D.families, o.owner);
+    const from = o.from == null ? "?" : (o.from_approx ? "~" : "") + o.from;
+    const to = o.to == null ? (o.to_unknown ? "?" : "dosud") : (o.to_approx ? "~" : "") + o.to;
+    const how = o.how && o.how !== "neznamo" ? HOW[o.how] || o.how : "";
+    return `<tr${o === cur ? ' class="cur" aria-current="true"' : ""}>
+      <td class="yr">${from}</td><td class="yr">${to}</td>
+      <td><span class="swatch" style="background:${ownerColor(D.families, o.owner, true)}"></span><a href="#/rod/${esc(o.owner)}">${esc(name)}</a>${o.person ? `<br>${esc(o.person)}` : ""}</td>
+      <td>${esc(how)}${o.note ? `${how ? "<br>" : ""}<span class="muted">${esc(o.note)}</span>` : ""}</td></tr>`;
+  }).join("");
+  return `<table class="owners"><thead><tr><th>Od</th><th>Do</th><th>Rod, osoba</th><th>Způsob, poznámka</th></tr></thead><tbody>${rows}</tbody></table>`;
+}
+
 function hoverHtml(p) {
   const img = placeThumb(p);
   const credit = photoCredit(p);
@@ -527,8 +544,8 @@ function renderDetail(p, pan = true) {
       <a href="https://www.wikidata.org/wiki/${p.id}" target="_blank" rel="noopener">Wikidata</a>
     </div>
 
-    <h4>Vlastníci</h4>
-    ${h?.owners?.length ? `<div id="d-gantt"></div>` : `<p class="empty">Historie vlastníků zatím není zpracovaná.</p>`}
+    <h4>Vlastníci${h?.owners?.length ? ` <span class="seg" role="group" aria-label="zobrazení vlastníků"><button type="button" data-view="gantt">osa</button><button type="button" data-view="table">tabulka</button></span>` : ""}</h4>
+    ${h?.owners?.length ? `<div id="d-gantt"></div><div id="d-owners" class="table-wrap" hidden>${ownerTableHtml(p)}</div>` : `<p class="empty">Historie vlastníků zatím není zpracovaná.</p>`}
     ${h?.events?.length ? `<h4>Události</h4><ul class="events">${h.events.map((e) => `<li><span class="y">${e.year ?? ""}</span><span>${esc(e.text)}</span></li>`).join("")}</ul>` : ""}
     ${h?.sources?.length ? `<p class="muted" style="font-size:12px">Zdroje: ${h.sources.map((s) => `<a href="${esc(s)}" target="_blank" rel="noopener">${esc(decodeURIComponent(s.replace(/^https?:\/\//, "")).slice(0, 48))}</a>`).join(", ")}</p>` : ""}
 
@@ -566,6 +583,18 @@ function renderDetail(p, pan = true) {
   });
   const g = el.querySelector("#d-gantt");
   const drawGantt = () => g && renderGantt(g, ownerRows(p), h.events || [], { marker: state.tm ? state.year : null });
+  const ownersTable = el.querySelector("#d-owners");
+  const setView = (view) => {
+    if (!g) return;
+    g.hidden = view === "table";
+    ownersTable.hidden = view !== "table";
+    el.querySelectorAll("[data-view]").forEach((b) => b.setAttribute("aria-pressed", b.dataset.view === view));
+    if (view !== "table") drawGantt(); // the chart is measured from the visible container
+  };
+  el.querySelectorAll("[data-view]").forEach((b) => b.addEventListener("click", () => {
+    localStorage.setItem(TABLE_STORE, b.dataset.view === "table" ? "1" : "");
+    setView(b.dataset.view);
+  }));
   const wideBtn = el.querySelector("#d-wide");
   const setWide = (on) => {
     document.getElementById("sidebar").classList.toggle("wide", on);
@@ -573,7 +602,7 @@ function renderDetail(p, pan = true) {
     wideBtn.title = on ? "zúžit panel" : "zvětšit panel (širší osa vlastníků)";
     wideBtn.setAttribute("aria-pressed", on);
     map.invalidateSize();
-    drawGantt(); // the chart is drawn to the panel width
+    if (g && !g.hidden) drawGantt(); // the chart is drawn to the panel width
   };
   wideBtn.addEventListener("click", () => {
     const on = !document.getElementById("sidebar").classList.contains("wide");
@@ -581,6 +610,7 @@ function renderDetail(p, pan = true) {
     setWide(on);
     if (on && g) g.previousElementSibling.scrollIntoView({ block: "start", behavior: "smooth" }); // the "Vlastníci" heading
   });
+  setView(localStorage.getItem(TABLE_STORE) === "1" ? "table" : "gantt");
   setWide(localStorage.getItem(WIDE_STORE) === "1");
   if (pan) map.setView([p.lat, p.lon], Math.max(map.getZoom(), 10), { animate: true });
 }

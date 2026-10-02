@@ -302,6 +302,16 @@ def main():
         assert not page.locator("#sidebar.wide").count(), "narrowing the detail did not work"
         print(f"detail timeline: {narrow:.0f} px -> wide {wide:.0f} px")
 
+        page.click("[data-view=table]")  # owners as a table: same periods, no color needed
+        assert page.locator("#d-gantt").is_hidden() and page.locator("#d-owners").is_visible(), "table view not shown"
+        n_rows = page.locator("#d-owners tbody tr").count()
+        assert n_rows > 0, "owners table is empty"
+        assert page.locator("#d-owners tbody tr:first-child td").nth(2).inner_text().strip(), "owner name missing in table"
+        shot("02d-detail-table")
+        page.click("[data-view=gantt]")
+        page.wait_for_selector("#d-gantt svg")
+        print("owners table rows:", n_rows)
+
         page.goto(base + "#/")
         page.wait_for_function("!document.querySelector('.leaflet-marker-pane .mk.sel')", timeout=2000)  # highlight cleared
         page.check("#f-tm")
