@@ -4,75 +4,86 @@
  "founded": {
   "year": 1300,
   "approx": true,
-  "text": "Archeologické nálezy dokládají existenci malého královského hrádku již na konci 13. či počátku 14. století; první písemná zmínka pochází z roku 1355 (nevydaný zákoník Karla IV. Majestas Carolina)."
+  "text": "Archeologické nálezy z nádvoří dokládají stavbu (nejspíše malý hrádek s hradbou a příkopem) již koncem 13. nebo počátkem 14. století; první písemná zmínka je v Majestas Carolina (cs.wiki 1355, zámek-mnisek.cz 1348)."
  },
- "summary": "Menší královský hrad v Mníšku pod Brdy je poprvé písemně doložen roku 1355, archeologicky ale existoval už koncem 13. či počátkem 14. století. Od roku 1487 jej vlastnili Vratislavové z Mitrovic, po zpustošení švédskými vojsky roku 1639 jej roku 1655 koupil Servác Engel z Engelsflussu a přestavěl na barokní rezidenci. Přes Unwerthy a Pachty z Rájova a po roce 1909 Theodoricha Kasta z Ebelsberku byl roku 1945 zkonfiskován a připadl státu; od roku 2000 jej spravuje Národní památkový ústav a od roku 2006 je přístupný veřejnosti.",
+ "summary": "Malý hrádek v Mníšku pod Brdy je archeologicky doložen od konce 13. či počátku 14. století a písemně v Majestas Carolina (1348 nebo 1355 podle zdroje). Od roku 1487 jej drželi páni z Mitrovic, po vypálení Švédy 1639 jej roku 1655 koupil Servác Engel z Engelsflussu a v letech 1656-1672 přestavěl; později patřil Unwerthům, Pachtům z Rájova, Schirndingům a od 1909 Kastům z Ebelsbergu. Roku 1945 byl zkonfiskován, do roku 2000 sloužil jako státní archiv a od té doby jej spravuje NPÚ.",
  "owners": [
   {
-   "owner": "koruna",
+   "owner": "neznamo",
    "owner_wiki": null,
    "person": null,
-   "from": 1300,
+   "from": null,
    "to": 1487,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "zalozeni",
-   "note": "malý královský hrad/hrádek; první písemná zmínka 1355 (Majestas Carolina); mezitímní majitelé před rokem 1487 nejsou ve zdroji uvedeni"
+   "note": "hrádek archeologicky doložen od konce 13./počátku 14. století; majitelé před 1487 nejsou ve zdrojích uvedeni (zamek.mnisek.cz zmiňuje k 1409 litevského knížete Jindřicha)"
   },
   {
    "owner": "vratislavove-z-mitrovic",
    "owner_wiki": "Vratislavové z Mitrovic",
-   "person": null,
+   "person": "Páni z Mitrovic; od 1595 jediný majitel Vratislav z Mitrovic",
    "from": 1487,
    "to": 1655,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "v majetku a správě rodu po celé 16. století; roku 1639 zámek vyplenila švédská vojska generála Banéra"
+   "note": "drželi více než 150 let; 1639 zámek vyplenila a vypálila švédská vojska generála Banéra"
   },
   {
    "owner": "engelove-z-engelsflussu",
    "owner_wiki": "Engelové z Engelsflussu",
-   "person": "Servác Engel z Engelsflussu",
+   "person": "Servác Engel z Engelsflussu, poté syn Servác Ignác († 1704) a jeho synovec",
    "from": 1655,
-   "to": 1750,
+   "to": 1743,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "koupe",
-   "note": "v letech 1656-1672 přestavěl barokní tvrz na aristokratickou rezidenci; rok přechodu na Unwerthy neuveden (\"druhá polovina 18. století\")"
+   "note": "nobilitovaný pražský měšťan, původně koželuh; 1656-1672 přestavba zámku (stavitel Martin Reiner); rok 1743 je začátek držby Unwerthů podle časové osy NPÚ"
   },
   {
    "owner": "z-unwerthu",
    "owner_wiki": null,
-   "person": "Ignác Unwerth",
-   "from": 1750,
-   "to": 1780,
-   "from_approx": true,
-   "to_approx": true,
+   "person": "Unwerthové, naposledy Ignác Unwerth",
+   "from": 1743,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
    "how": "neznamo",
-   "note": "za Unwerthů prošel zámek řadou drobných úprav; po smrti Ignáce Unwertha přešel na Pachty z Rájova, přesný rok neuveden"
+   "note": "ve 2. polovině 18. století řada nedatovaných úprav; po smrti Ignáce Unwertha (rok neuveden) přešel majetek na Pachty z Rájova"
   },
   {
    "owner": "pachtove-z-rajova",
    "owner_wiki": "Pachtové z Rájova",
-   "person": null,
-   "from": 1780,
+   "person": "Pachtové; Marie Anna Pachtová",
+   "from": null,
+   "to": 1886,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "pro rodinné spory panství spravovali úředníci desek zemských (1827-1838); od 1838 Marie Anna Pachtová, práce 1838-1847; 1848 požár; rok přechodu na Schirndingy nejistý (osa NPÚ: 1838 Pachtové, Schirndingové, 1886 Schirndingové)"
+  },
+  {
+   "owner": "z-schirndingu",
+   "owner_wiki": null,
+   "person": "hrabě Schirnding",
+   "from": 1886,
    "to": 1909,
    "from_approx": true,
    "to_approx": false,
-   "how": "dedictvi",
-   "note": "kvůli rodinným sporům panství až do roku 1838 spravovali úředníci zemských desk; roku 1848 zámek vyhořel"
+   "how": "neznamo",
+   "note": "po jeho smrti 1909 majetek získal příbuzný Theodorich Kast z Ebelsbergu; počáteční rok přibližný podle časové osy NPÚ"
   },
   {
    "owner": "z-kastu-z-ebelsberku",
    "owner_wiki": null,
-   "person": "Theodorich Kast z Ebelsberku",
+   "person": "Theodorich Kast z Ebelsbergu",
    "from": 1909,
    "to": 1945,
    "from_approx": false,
    "to_approx": false,
-   "how": "koupe",
-   "note": "v letech 1910-1911 zámek zrekonstruoval; po 1. světové válce uvalilo ministerstvo zemědělství na panství nucenou správu (správce Antonín Komperec)"
+   "how": "dedictvi",
+   "note": "příbuzný hraběte Schirndinga; 1910-1911 obnova (kancelář Matěje Blechy); po 1. světové válce nucená správa; 1945 majetek konfiskován"
   },
   {
    "owner": "stat",
@@ -83,18 +94,47 @@
    "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "roku 1945 vypleněn a zkonfiskován, od 1946 ve správě ministerstva vnitra (ukládání archivních fondů); roku 2000 předán Národnímu památkovému ústavu, po rekonstrukci zpřístupněn 2006"
+   "note": "1945 konfiskace; do 2000 ministerstvo vnitra (státní archiv), od 2000/2001 Národní památkový ústav, po rekonstrukci zpřístupněno 2006"
   }
  ],
  "events": [
-  {"year": 1355, "text": "první písemná zmínka o hradu v nevydaném zákoníku Karla IV. Majestas Carolina"},
-  {"year": 1425, "text": "zbořena hradní věž doložená písemnými prameny"},
-  {"year": 1639, "text": "hrad vyplenila švédská vojska generála Banéra"},
-  {"year": 1656, "text": "1656-1672 přestavba na aristokratickou rezidenci za Serváce Engela z Engelsflussu"},
-  {"year": 1848, "text": "zámek vyhořel"},
-  {"year": 1910, "text": "1910-1911 rekonstrukce za Theodoricha Kasta z Ebelsberku"},
-  {"year": 1945, "text": "zámek vypleněn a zkonfiskován"},
-  {"year": 2006, "text": "dokončena rozsáhlá rekonstrukce NPÚ, areál otevřen veřejnosti"}
+  {
+   "year": 1348,
+   "text": "první písemná zmínka v Majestas Carolina (cs.wiki a mnisek.cz uvádějí rok 1355, resp. 1348)"
+  },
+  {
+   "year": 1487,
+   "text": "panství získali páni z Mitrovic"
+  },
+  {
+   "year": 1639,
+   "text": "zámek vyplenila a vypálila švédská vojska generála Banéra"
+  },
+  {
+   "year": 1656,
+   "text": "1656-1672 přestavba za Serváce Engela z Engelsflussu"
+  },
+  {
+   "year": 1848,
+   "text": "zámek poznamenal požár"
+  },
+  {
+   "year": 1910,
+   "text": "1910-1911 obnova za Theodoricha Kasta z Ebelsbergu"
+  },
+  {
+   "year": 1945,
+   "text": "zámek zkonfiskován, později sídlo státního archivu"
+  },
+  {
+   "year": 2006,
+   "text": "po rekonstrukci NPÚ otevřen veřejnosti"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Mníšek_pod_Brdy_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Mníšek_pod_Brdy_(zámek)",
+  "https://zamek-mnisek.cz/cs/o-zamku/historie",
+  "http://zamek.mnisek.cz/history.htm",
+  "https://old.mnisek.cz/turista/informacni-servis/historie-pamatky-/"
+ ]
 }

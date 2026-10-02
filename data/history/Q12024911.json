@@ -1,13 +1,39 @@
 {
  "id": "Q12024911",
  "name": "Jenčov",
- "founded": {"year": 1300, "approx": true, "text": "Přesné datum založení není známo, výzkumy potvrdily existenci hradu na přelomu 13. a 14. století; zakladatelem byl pravděpodobně Přemysl Otakar II."},
- "summary": "Jenčov je zřícenina nevelkého královského loveckého hrádku v Křivoklátské vrchovině, jehož existence je archeologicky doložena na přelomu 13. a 14. století. Podle článku patrně patřil buď přímo k městu Nižbor, nebo pravděpodobněji k blízkému hradu Křivoklátu. O dalších majitelích ani osudu hrádku po jeho zániku článek žádné informace neuvádí.",
+ "founded": {
+  "year": 1300,
+  "approx": true,
+  "text": "Přesné datum založení není známo; archeologický průzkum dokládá hrad na přelomu 13. a 14. století. Zakladatelem byl pravděpodobně Přemysl Otakar II., hrady.cz uvažuje i o Václavu I., Václavu II. nebo Janu Lucemburském."
+ },
+ "summary": "Jenčov je zřícenina jednoho z nejmenších českých hradů, královského loveckého hrádku v Křivoklátské vrchovině, doloženého archeologicky na přelomu 13. a 14. století. V písemných pramenech se nevyskytuje; patrně náležel k Nižboru nebo ke Křivoklátu a sdílel jejich osudy. Jediná písemná zpráva je až z roku 1686, kdy je popsán jako starý a pustý, zanikl nejspíše v 15. nebo na počátku 16. století.",
  "owners": [
-  {"owner": "koruna", "owner_wiki": null, "person": "Přemysl Otakar II. (pravděpodobný zakladatel)", "from": 1300, "to": null, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "malý lovecký hrádek patřící ke koruně; patrně náležel k Nižboru, pravděpodobněji ke Křivoklátu. Zakladatel je nejistý (Přemysl Otakar II. zemřel 1278, datace stavby ale ukazuje na přelom 13. a 14. stol.), přesný konec užívání ani případní další vlastníci nejsou v článku uvedeni"}
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1300,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "královský lovecký hrádek, zřejmě příslušenství Nižboru, pravděpodobně Křivoklátu; zakladatel nejistý (Přemysl Otakar II., případně Václav I., Václav II. nebo Jan Lucemburský); konec užívání a pozdější vlastníci nejsou ve zdrojích; roku 1686 uveden v soupisu křivoklátského panství jako starý a pustý, současného vlastníka zdroje neuvádějí (péči zajišťuje Spolek hradu Jenčov)"
+  }
  ],
  "events": [
-  {"year": 1300, "text": "archeologicky doložena existence loveckého hrádku na přelomu 13. a 14. století"}
+  {
+   "year": 1300,
+   "text": "archeologicky doložena existence loveckého hrádku na přelomu 13. a 14. století"
+  },
+  {
+   "year": 1686,
+   "text": "při převodu křivoklátského panství ze Schwarzenbergů na Valdštejna je hrad v soupisu popsán jako starý a pustý"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Jenčov"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Jenčov",
+  "https://www.hrady.cz/hrad-jencov-belec/texty?pos=1000&tid=9399",
+  "http://hrady.dejiny.cz/jencov/index.htm",
+  "https://plus.rozhlas.cz/jencov-kapesni-hrad-6664305"
+ ]
 }

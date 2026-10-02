@@ -1,26 +1,225 @@
 {
  "id": "Q12049798",
  "name": "Rosice",
- "founded": {"year": 1259, "approx": false, "text": "První dochovaná zmínka o rosickém hradu je z roku 1259, kdy jsou zmiňováni majitelé bratři Bohuš a Hartman z Rosic; ve 14. století zde byl vybudován gotický hrad rodem Hechtů z Rosic."},
- "summary": "Rosický hrad je poprvé doložen roku 1259 v souvislosti s majiteli bratry Bohušem a Hartmanem z Rosic, ve 14. a 15. století patřil Hechtům z Rosic. V 16. století jej na zámek začal přestavovat Pertold z Lipé, renesanční přestavbu dokončili v 17. století Žerotínové; v 18. století patřil rosickému panství Jiří Hausperský z Fanalu. Posledním soukromým majitelem byl před první světovou válkou baron Mořic Arnold de Forest-Bischofsheim, který zámek nakonec odprodal státu; od druhé poloviny 20. století sloužil státní správě a koncem 20. století jej získalo do majetku město Rosice, které jej postupně zpřístupnilo veřejnosti.",
+ "founded": {
+  "year": 1259,
+  "approx": false,
+  "text": "První dochovaná zmínka o hradu a jeho majitelích bratrech Bohuši a Hartmanovi z Rosic je z roku 1259; gotický hrad vybudovali ve 14. století Hechtové z Rosic."
+ },
+ "summary": "Rosický hrad je poprvé doložen roku 1259 a ve 14.-15. století patřil Hechtům z Rosic. Po těšínském knížeti Přemkovi a rytířích z Kukvic jej koupila Bohunka z Pernštejna, po ní páni z Lipé (přestavba na zámek za Pertolda z Lipé) a od 1562 Žerotínové, kteří hrad přestavěli na renesanční arkádový zámek. Od 1628 panství drželi Werdenbergové, od 1684 Hausperští z Fanalu, poté Ugartové, Sinové a Hirsch-Gereuthové; po pozemkové reformě (1925) připadl státu a koncem 20. století jej získalo město Rosice, které zámek rekonstruuje a zpřístupňuje.",
  "owners": [
-  {"owner": "z-rosic", "owner_wiki": null, "person": "Bohuš a Hartman z Rosic", "from": 1259, "to": null, "from_approx": false, "to_approx": true, "how": "zalozeni", "note": "první písemná zmínka o hradu a jeho majitelích 1259; předpokládá se, že ve 13. století zde existovalo menší feudální sídlo"},
-  {"owner": "z-rosic", "owner_wiki": null, "person": "Hechtové z Rosic", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "erb se stříbrnou štikou v červeném poli; drželi Rosice ve 14.-15. století (zdroj neuvádí přesná léta), hrad byl v 15. století poškozen za husitské revoluce a poté opraven"},
-  {"owner": "pani-z-lipe", "owner_wiki": "Páni z Lipé", "person": "Pertold z Lipé", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "za něj byla pravděpodobně zahájena přestavba hradu na renesanční zámek (16. století); zdroj neuvádí přesná léta ani způsob nabytí"},
-  {"owner": "zerotinove", "owner_wiki": "Žerotínové", "person": null, "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "dokončili rozsáhlou renesanční přestavbu zámku v 17. století; přesná léta držby zdroj neuvádí"},
-  {"owner": "z-fanalu", "owner_wiki": null, "person": "Jiří Hausperský z Fanalu", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "majitel rosického panství v 18. století, založil poutní kapli Nejsvětější Trojice; přesná léta držby zdroj neuvádí"},
-  {"owner": "de-forest-bischofsheim", "owner_wiki": null, "person": "Mořic Arnold baron de Forest-Bischofsheim", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "koupe", "note": "poslední soukromý majitel, získal rosické panství spolu s panstvím Veveří před první světovou válkou; vzdoroval pozemkové reformě, ale majetek nakonec odprodal státu; přesné roky nabytí ani prodeje zdroj neuvádí"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "koupe", "note": "roku 1919 uvalilo ministerstvo zemědělství na panství vnucenou správu (Jeroným Marek); od 2. poloviny 20. století v zámku sídlily státní instituce (Veřejná bezpečnost, Civilní obrana, Státní lesy aj.); přesný rok koupě státem zdroj neuvádí"},
-  {"owner": "mesto", "owner_wiki": null, "person": "město Rosice", "from": null, "to": null, "from_approx": true, "to_approx": false, "how": "jine", "note": "koncem 20. století získalo zámek do majetku město Rosice, které přes Správu zámku zahájilo rekonstrukci a zpřístupňování veřejnosti; dnes sídlo knihovny, ZUŠ, SVČ a obecního úřadu s rozšířenou působností"}
+  {
+   "owner": "z-rosic",
+   "owner_wiki": null,
+   "person": "Bohuš a Hartman z Rosic",
+   "from": 1259,
+   "to": 1321,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "zalozeni",
+   "note": "první písemná zmínka 1259; rok 1321 je první zmínka Hechta z Rosic (hranice odhadnutá)"
+  },
+  {
+   "owner": "z-rosic",
+   "owner_wiki": null,
+   "person": "Hechtové z Rosic (Hecht, Petr, Jošt, Václav)",
+   "from": 1321,
+   "to": 1450,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "erb se stříbrnou štikou v červeném poli; rod vymřel Václavem; rok 1450 (prodej Přemkovi) uvádí jen vydavatelský text pidifrk.cz, kultura.cz roky neuvádí"
+  },
+  {
+   "owner": "piastovci",
+   "owner_wiki": "Piastovci",
+   "person": "Přemek, kníže těšínský",
+   "from": 1450,
+   "to": 1464,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "1464 prodal Hynkovi z Kukvic (kultura.cz, pidifrk.cz)"
+  },
+  {
+   "owner": "z-kukvic",
+   "owner_wiki": null,
+   "person": "Hynek z Kukvic a jeho potomci (Kateřina z Kukvic)",
+   "from": 1464,
+   "to": 1522,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "hrad poškozený v husitských válkách opraven a pozdně goticky přestavěn; rok 1522 koupě Bohunkou z Pernštejna uvádí pidifrk.cz, kultura.cz jen 'počátkem 16. stol.'"
+  },
+  {
+   "owner": "boskovicove",
+   "owner_wiki": "Boskovicové",
+   "person": "Bohunka z Pernštejna (manžel Dobeš Černohorský z Boskovic, zemřel 1540 v Rosicích)",
+   "from": 1522,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupila od Kateřiny z Kukvic; po Bohunce dědictvím páni z Lipé; přesný rok konce neuveden"
+  },
+  {
+   "owner": "pani-z-lipe",
+   "owner_wiki": "Páni z Lipé",
+   "person": "Pertold z Lipé",
+   "from": null,
+   "to": 1562,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "za Pertolda z Lipé pravděpodobně zahájena přestavba hradu na zámek; přesné roky nabytí zdroje neuvádějí"
+  },
+  {
+   "owner": "zerotinove",
+   "owner_wiki": "Žerotínové",
+   "person": "Jan starší ze Žerotína; od 1583 Karel starší ze Žerotína",
+   "from": 1562,
+   "to": 1628,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "1562 koupil Jan starší (zemřel 1583), od 1588 Karel starší; v letech 1588-1620 hlavní sídlo, přestavba na renesanční arkádový zámek; po Bílé hoře 1628 prodáno"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Albrecht z Valdštejna",
+   "from": 1628,
+   "to": 1629,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "panství obratem prodal Janu Baptistovi z Werdenbergu"
+  },
+  {
+   "owner": "z-werdenbergu",
+   "owner_wiki": null,
+   "person": "Jan Baptista z Werdenbergu a jeho potomci",
+   "from": 1629,
+   "to": 1684,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "císařský kancléř; Rosice nepoužívali, od 1663 je pronajímali Josefu Kryštofu Scharrerovi z Frisenecku (+1668); raně barokní úpravy interiérů"
+  },
+  {
+   "owner": "z-fanalu",
+   "owner_wiki": null,
+   "person": "Jiří Rupert Hausperský z Fanalu, poslední Jan Nepomuk Hausperský z Fanalu",
+   "from": 1684,
+   "to": 1791,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "založili kapli Nejsvětější Trojice; Jan Nepomuk zemřel 1791 (NPÚ uvádí držbu Hausperských 1684-1800)"
+  },
+  {
+   "owner": "ugartove",
+   "owner_wiki": "Ugartové",
+   "person": "Marie Anna z Ugarte; Maxmilián a Josef Ugarte",
+   "from": 1791,
+   "to": 1844,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "vdova Marie Anna po Janu Nepomukovi odkázala vnukovi Maxmiliánovi; Josef Ugarte prodal 1844"
+  },
+  {
+   "owner": "sinove",
+   "owner_wiki": "Sinové",
+   "person": "Jiří a Jan Sinové, poté Šimon baron Sina a jeho dcera Helena provdaná Ypsilanti",
+   "from": 1844,
+   "to": 1881,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "bankéřská rodina; přestavba, nové fasády; Helena Ypsilanti panství 1881 prodala"
+  },
+  {
+   "owner": "hirschove-z-gereuthu",
+   "owner_wiki": "Hirschové z Gereuthu",
+   "person": "Mořic Hirsch z Gereuthu, poté vdova Klára",
+   "from": 1881,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Mořic zbohatl na stavbě železnic v Turecku; po jeho smrti Klára; rok konce zdroj neuvádí"
+  },
+  {
+   "owner": "de-forest-bischofsheim",
+   "owner_wiki": null,
+   "person": "Mořic Arnold baron de Forest-Bischofsheim",
+   "from": null,
+   "to": 1925,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "poslední soukromý majitel (od 1905 příjmení de Forest), vzdoroval pozemkové reformě; 1919 vnucená správa ministerstva zemědělství; rok nabytí zdroj neuvádí"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1925,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "zestátněno spolu s Veveřím při pozemkové reformě (1925); od 2. poloviny 20. stol. sídlily v zámku státní orgány (Veřejná bezpečnost, Civilní obrana, Státní lesy aj.)"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "město Rosice",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "koncem 20. stol. zámek získalo město, které jej přes Správu zámku rekonstruuje a zpřístupňuje; sídlo knihovny, ZUŠ, SVČ a úřadu obce s rozšířenou působností"
+  }
  ],
  "events": [
-  {"year": 1259, "text": "první písemná zmínka o rosickém hradu a jeho majitelích"},
-  {"year": 1919, "text": "ministerstvo zemědělství uvaluje na rosické panství vnucenou správu"},
-  {"year": 1964, "text": "zámek prohlášen kulturní památkou"},
-  {"year": 2023, "text": "zámek se stal národní kulturní památkou"}
+  {
+   "year": 1259,
+   "text": "první písemná zmínka o hradu a majitelích Bohušovi a Hartmanovi z Rosic"
+  },
+  {
+   "year": 1464,
+   "text": "těšínský kníže Přemek prodává panství Hynkovi z Kukvic"
+  },
+  {
+   "year": 1562,
+   "text": "Jan starší ze Žerotína kupuje panství; Žerotínové hrad přestavěli na renesanční zámek"
+  },
+  {
+   "year": 1628,
+   "text": "Karel starší ze Žerotína prodal panství Albrechtu z Valdštejna, ten je 1629 prodal Werdenbergům"
+  },
+  {
+   "year": 1684,
+   "text": "panství kupuje Jiří Rupert Hausperský z Fanalu"
+  },
+  {
+   "year": 1925,
+   "text": "zámek zestátněn při pozemkové reformě"
+  },
+  {
+   "year": 2023,
+   "text": "zámek se stal národní kulturní památkou"
+  }
  ],
  "sources": [
   "https://cs.wikipedia.org/wiki/Rosice_(zámek,_okres_Brno-venkov)",
-  "https://cs.wikipedia.org/wiki/Rosice"
+  "http://www.kultura.cz/profile/5675-zamek-rosice",
+  "https://pidifrk.cz/detail-pidifrku.php?p=367",
+  "https://www.archmap.cz/cs/objekt/15070",
+  "http://www.bucweb.cz/zahistorii/2026/04/06/zamek-rosice/"
  ]
 }

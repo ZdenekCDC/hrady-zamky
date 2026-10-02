@@ -4,20 +4,20 @@
  "founded": {
   "year": null,
   "approx": false,
-  "text": "Nejstarší kamenný hrad v Čechách, založený v první polovině 12. století; zakladatel je sporný - podle starší hypotézy Děpolt II. (III.) z Vohburgu, podle novějších kníže Vladislav I. nebo Soběslav I. První písemná zmínka (nejisté ztotožnění) je v Kosmově kronice k roku 1121, výslovně je hrad zmíněn roku 1126."
+  "text": "Nejstarší kamenný hrad v Čechách, založený v první polovině 12. století českým knížetem; zakladatel je sporný - podle starší hypotézy Děpolt II. (III.) z Vohburgu, podle novějších kníže Vladislav I. nebo Soběslav I. Hrad výslovně zmiňuje rok 1126 (přestavba Soběslavem I.); ztotožnění s hradem z Kosmovy kroniky k roku 1121 není prokázáno."
  },
- "summary": "Přimda, nejstarší dochovaný kamenný hrad v Čechách, sloužila ve 12. a 13. století jako pohraniční opěrný bod a přemyslovské vězení, poté ji panovníci od počátku 14. století často zastavovali řadě šlechtických rodů (Zajícové z Valdeka a Hazmburka, páni z Rýzmburka, Chudí z Újezda a další). Od poloviny 15. do konce 16. století ji drželi páni ze Švamberka, za nichž hrad chátral a po jejich nuceném vydání panovníkovi roku 1592 zůstal již jen zříceninou spravovanou dalšími vlastníky (Lidlové z Lidlova, Lindelové, Kolovratové). Dnes je národní kulturní památkou přístupnou veřejnosti, o kterou pečuje Národní památkový ústav.",
+ "summary": "Přimda je jeden z nejstarších kamenných hradů v Čechách, od 12. století zeměpanský hrad na hranici s Bavorskem a státní vězení. Od 14. století jej panovníci často zastavovali (Zajícové, Frenclin z Prahy, Rýzmburkové, Jivjanové), od roku 1454 do 1592 jej drželi Švamberkové a za nich začal chátrat. Po krátké držbě obce a Lidlů a Lindelů jej roku 1675 koupili Kolovratové, kteří sídlili jinde, a hrad se stal zříceninou; po druhé světové válce přešel na stát a spravuje jej NPÚ.",
  "owners": [
   {
    "owner": "koruna",
    "owner_wiki": null,
-   "person": null,
+   "person": "český kníže, později král a purkrabí",
    "from": null,
    "to": 1318,
    "from_approx": false,
    "to_approx": true,
    "how": "zalozeni",
-   "note": "zakladatel sporný (viz founded.text); hrad sloužil jako přemyslovské vězení - Soběslav II. zde byl vězněn 1148-1150 a znovu 1161-1173, Přemysl Otakar II. roku 1249; král Jan Lucemburský jej před rokem 1318 zastavil"
+   "note": "hrad zřejmě založil český kníže (Soběslav I. jej přestavěl 1126); do 14. stol. jej spravovali královští purkrabí"
   },
   {
    "owner": "zajicove-z-hazmburka",
@@ -28,7 +28,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "lenni",
-   "note": "zástava od Jana Lucemburského; větev Zajíců z Valdeka, cs.wiki (Zajícové z Valdeka) přesměrovává na společný článek Zajícové z Hazmburka; po jeho smrti (rok neuveden) král hrad vyplatil a znovu zastavil"
+   "note": "zástava od Jana Lucemburského (před 1318)"
   },
   {
    "owner": "soukromnik",
@@ -37,9 +37,9 @@
    "from": null,
    "to": 1341,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "lenni",
-   "note": "staroměstský rychtář, člen rodiny Volfinů, zástavní purkrabí doložen nejméně do roku 1341; roku 1336 odražen pokus o dobytí hradu podpořený Ludvíkem Bavorem"
+   "note": "zástava; purkrabím nejméně do roku 1341"
   },
   {
    "owner": "koruna",
@@ -50,7 +50,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "jine",
-   "note": "1344 vyplaceno ze zástavy; v plánovaném zákoníku Majestas Carolina zařazeno mezi hrady, které panovník nesmí zastavit; zůstalo královským majetkem po zbytek Karlovy vlády i na počátku vlády Václava IV."
+   "note": "vyplatil ze zástavy, v Majestas Carolina mezi nezcizitelnými hrady"
   },
   {
    "owner": "rozmberkove",
@@ -61,7 +61,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "lenni",
-   "note": "krátkodobá zástava od Václava IV."
+   "note": "krátká zástava od Václava IV."
   },
   {
    "owner": "zajicove-z-hazmburka",
@@ -72,7 +72,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "lenni",
-   "note": "roku 1401 jmenoval purkrabím Petra z Ořecha; roku 1406 vyměnil Přimdu s Borešem z Rýzmburka za Andělskou horu"
+   "note": "roku 1406 vyměnil Přimdu za Andělskou horu"
   },
   {
    "owner": "pani-z-ryzmburka",
@@ -83,7 +83,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "lenni",
-   "note": "zástava 4000 kop grošů potvrzena Václavem IV. 19. července 1406; jejich ozbrojenci plenili okolí, roku 1418 se purkrabí Tisto po obležení dalších hradů vzdal a Přimdu vydal králi"
+   "note": "zástava 4 000 kop grošů; roku 1416 zajato 30 jejich ozbrojenců, 1418 hrad vzat královským vojskem"
   },
   {
    "owner": "chudi-z-ujezda",
@@ -92,20 +92,20 @@
    "from": 1418,
    "to": 1421,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "lenni",
-   "note": "zástavu obdržel roku 1418 s podmínkou vyplatit Rýzmburky a kdykoli poskytnout hrad králi; rok 1420 Zikmund převedl zástavy Přimdy a dalších hradů na Hlubokou"
+   "note": "zástava s povinností vyplatit Rýzmburky"
   },
   {
    "owner": "z-jivjan",
    "owner_wiki": null,
-   "person": "Jindřich Žito z Jivjan",
+   "person": "Jindřich Žito z Jivjan a synové Lvík a Petr",
    "from": 1421,
-   "to": 1439,
+   "to": 1454,
    "from_approx": false,
    "to_approx": false,
    "how": "lenni",
-   "note": "ustanoven purkrabím 3. ledna 1421 (koordinoval křížovou výpravu proti husitům), naposledy doložen 1437; zástavní držení potvrdil jeho synům Lvíkovi a Petrovi až král Albrecht II. 6. května 1439"
+   "note": "purkrabí Zikmunda; 1439 potvrzeno zástavní držení oběma synům; Lvík svůj podíl 1454 převedl na Jana ze Švamberka"
   },
   {
    "owner": "pani-ze-svamberka",
@@ -115,8 +115,7 @@
    "to": 1460,
    "from_approx": false,
    "to_approx": false,
-   "how": "jine",
-   "note": "podíl na hradu na něj převedl Lvík (syn Jindřicha Žita z Jivjan) roku 1454; oženěn s Hedvikou z Rožmitálu, zemřel 1460"
+   "how": "jine"
   },
   {
    "owner": "pani-z-rozmitalu",
@@ -127,7 +126,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "švagři Jana ze Švamberka a poručníci nedospělého Zdeňka ze Švamberka"
+   "note": "jako poručníci nedospělého Zdeňka ze Švamberka"
   },
   {
    "owner": "pani-ze-svamberka",
@@ -138,7 +137,7 @@
    "from_approx": false,
    "to_approx": true,
    "how": "dedictvi",
-   "note": "držení potvrdil král Vladislav II. 23. srpna 1475 a povolil opravy za 200 kop grošů, které na stav hradu nestačily; žil ještě roku 1518"
+   "note": "držení potvrdil Vladislav II. 1475; roku 1518 ještě žil"
   },
   {
    "owner": "pani-ze-svamberka",
@@ -149,29 +148,29 @@
    "from_approx": true,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "považován za syna Zdeňka ze Švamberka"
+   "note": "do 1540 spravovala za nezletilé děti vdova Anna ze Zakšova"
   },
   {
    "owner": "pani-ze-svamberka",
    "owner_wiki": "Páni ze Švamberka",
    "person": "Adam a Jindřich ze Švamberka",
    "from": 1529,
-   "to": 1590,
-   "from_approx": false,
+   "to": 1592,
+   "from_approx": true,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "1529-1540 spravovala panství za nezletilé syny vdova Anna ze Zakšova; 1548 rozdělení dědictví - Přimda připadla Adamovi a Jindřichovi; hrad chátral (žaloba Chodů 1568, zpráva 1577 o obyvatelnosti jen věže), Adam zemřel 1590"
+   "note": "1548 si panství rozdělili (Adam horní, Jindřich dolní hrad); Adam zemřel 1590; hrad chátral, 1592 musel být vydán panovníkovi"
   },
   {
    "owner": "koruna",
    "owner_wiki": null,
-   "person": null,
+   "person": "Rudolf II. (královská komora)",
    "from": 1592,
    "to": 1596,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "jine",
-   "note": "po sporech dědiců museli Švamberkové hrad do 19. května 1592 vydat panovníkovi; od roku 1596 bylo panství po částech rozprodáváno"
+   "note": "hrad s panstvím rozprodal po částech"
   },
   {
    "owner": "mesto",
@@ -179,21 +178,21 @@
    "person": "městečko Přimda",
    "from": 1596,
    "to": 1601,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "městečko koupilo samotný hrad, ale nedokázalo dluh splatit; 3. února 1601 jej královská komora znovu prodala"
+   "note": "nedokázalo zaplatit, hrad musel být znovu prodán"
   },
   {
    "owner": "soukromnik",
    "owner_wiki": null,
-   "person": "Ondřej Lidl z Lidlova a Barbora, rozená ze Štamberka",
+   "person": "Ondřej Lidl z Lidlova a Barbora ze Štamberka",
    "from": 1601,
    "to": null,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "koupili od královské komory 3. února 1601; vzhledem ke stavu hradu sami bydleli v domě v městečku"
+   "note": "obývali dům v městečku"
   },
   {
    "owner": "soukromnik",
@@ -202,9 +201,9 @@
    "from": null,
    "to": 1621,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "dedictvi",
-   "note": "synovi Ondřeje Lidla byla Přimda zkonfiskována za účast v českém stavovském povstání a roku 1621 prodána Timonu Lindelovi"
+   "note": "po účasti ve stavovském povstání mu hrad zkonfiskován"
   },
   {
    "owner": "lindelove",
@@ -215,7 +214,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "koupeno od koruny 1621 po konfiskaci Lidlům; rodina získala panství do dědičného vlastnictví roku 1658; plukovník Jiří Maxmilián Lindel je 1675 prodal; článek o rodu na cs.wiki nenalezen"
+   "note": "1658 získali panství do dědičného vlastnictví"
   },
   {
    "owner": "kolovratove",
@@ -226,29 +225,58 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "větev Kolowrat-Nowohradští (cs.wiki, přesměrování Novohradští z Kolovrat); nové centrum panství zřídil na velkodvorském zámku, hrad se definitivně změnil ve zříceninu; roku 1711 se po úderu blesku zřítilo jihozápadní nároží věže"
+   "note": "koupil od Jiřího Maxmiliána Lindela; centrem panství učinil Velké Dvorce, hrad se stal zříceninou; rok předání státu zdroje neuvádějí (po 2. světové válce)"
   },
   {
    "owner": "stat",
    "owner_wiki": null,
-   "person": null,
+   "person": "Československo / Česká republika (správa NPÚ)",
    "from": null,
    "to": null,
    "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "dnes národní kulturní památka, zříceninu spravuje Národní památkový ústav; přesný přechod od Kolovratů do veřejného/státního vlastnictví není v článku uveden, zabezpečovací práce probíhaly už 1879-1880 a 1919-1923"
+   "how": "konfiskace",
+   "note": "po 2. světové válce přešla z majetku Kolovratů na stát; od 1968 správa krajského střediska památkové péče, dnes NPÚ"
   }
  ],
  "events": [
-  {"year": 1121, "text": "nejisté ztotožnění s hradem zmíněným v Kosmově kronice; výslovná zmínka následuje roku 1126"},
-  {"year": 1161, "text": "1161-1173 na Přimdě vězněn Soběslav II. po neúspěšném pokusu o převzetí moci"},
-  {"year": 1344, "text": "Karel IV. vyplácí hrad ze zástavy, v Majestas Carolina jej řadí mezi hrady nezcizitelné korunou"},
-  {"year": 1454, "text": "Lvík z Jivjan postupuje svůj podíl na hradu Janu ze Švamberka, počátek švamberské éry"},
-  {"year": 1592, "text": "Švamberkové po sporech dědiců musí hrad vydat panovníkovi"},
-  {"year": 1675, "text": "Jiří Maxmilián Lindel prodává panství Janu Václavovi Novohradskému z Kolovrat, který přesouvá sídlo na nový zámek - hrad se stává zříceninou"},
-  {"year": 1968, "text": "1968-1977 rozsáhlá památková úprava a zajištění obytné věže"},
-  {"year": 2012, "text": "po statickém zajištění a restaurování (2001-2010) je zřícenina od roku 2012 přístupná veřejnosti"}
+  {
+   "year": 1126,
+   "text": "první spolehlivá zmínka - kníže Soběslav I. hrad přestavuje spolu s Tachovem a Zhořelcem"
+  },
+  {
+   "year": 1161,
+   "text": "1161-1173 vězněn Soběslav II."
+  },
+  {
+   "year": 1344,
+   "text": "Karel IV. vyplácí hrad ze zástavy, v Majestas Carolina jej řadí mezi nezcizitelné"
+  },
+  {
+   "year": 1429,
+   "text": "hrad odolal husitskému obléhání"
+  },
+  {
+   "year": 1454,
+   "text": "Lvík z Jivjan postupuje podíl Janu ze Švamberka, počátek švamberské éry"
+  },
+  {
+   "year": 1592,
+   "text": "po sporech dědiců musí Švamberkové hrad vydat panovníkovi"
+  },
+  {
+   "year": 1675,
+   "text": "hrad kupuje Jan Václav Novohradský z Kolovrat"
+  },
+  {
+   "year": 2012,
+   "text": "po restaurování a zajištění zpřístupněna veřejnosti"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Přimda_(hrad)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Přimda_(hrad)",
+  "https://hrad-primda.cz/en/about/history",
+  "https://www.kolowrat.cz/cs/hrad-primda",
+  "https://exa.ai/library/publication/nndsvgwqrrw"
+ ]
 }

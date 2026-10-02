@@ -1,28 +1,227 @@
 {
- "id": "Q12029665",
- "name": "Kněžice (zámek, okres Klatovy)",
- "founded": {
-  "year": 1595,
-  "approx": true,
-  "text": "Ves Kněžice byla od středověku součástí velhartického panství; v 90. letech 16. století zde byla založena tvrz, kterou v první polovině 18. století přestavěli na barokní zámek s valbovou střechou."
- },
- "summary": "Zámek v Kněžicích vznikl přestavbou tvrze založené v 90. letech 16. století, barokní podobu získal v první polovině 18. století. Během asi 600 let se na Kněžicích vystřídalo jedenáct šlechtických rodů, z nichž zdroj jmenovitě uvádí jen Hubatiusy (Hubáčky) z Kotnova a na počátku 20. století Oskara Heintschela von Heinegg, který nechal zámek přestavět podle projektu architekta Leopolda Bauera (1906). Po roce 1945 byl zámek zestátněn, 1955-2002 sloužil jako domov důchodců a roku 2003 byl prodán zahraniční společnosti, která jej přestavěla na hotel a restauraci.",
- "owners": [
-  {"owner": "neznamo", "owner_wiki": null, "person": null, "from": 1595, "to": null, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "tvrz založena v 90. letech 16. století, zakladatel v článku neuveden; celkem se na Kněžicích během 600 let vystřídalo 11 šlechtických rodů, zdroj jmenuje jen dva z nich"},
-  {"owner": "hubatiove-z-kotnova", "owner_wiki": null, "person": null, "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "čeští Hubatiusové (Hubáčkové), rytíři z Kotnova; jeden z jedenácti rodů, které Kněžice v průběhu 600 let vlastnily, přesné období držby zdroj neuvádí"},
-  {"owner": "heintschel-heinegg", "owner_wiki": "Heintschel-Heinegg", "person": "Oskar Heintschel von Heinegg", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "na jeho objednávku byla roku 1906 podle projektu Leopolda Bauera upravena zámecká i hospodářská budova; přesné roky vlastnictví zdroj neuvádí"},
-  {"owner": "neznamo", "owner_wiki": null, "person": null, "from": null, "to": 1945, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "zdroj hovoří o zadlužení 'následujících majitelů', kvůli němuž byly od roku 1929 pozemky panství parcelovány a rozprodávány; jména těchto majitelů neuvedena"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": 2003, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "obec Petrovice se zámku nikdy nedomohla; 1955-2002 objekt sloužil jako domov důchodců"},
-  {"owner": "soukromnik", "owner_wiki": null, "person": "zahraniční společnost (jméno v článku neuvedeno)", "from": 2003, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "zámek přestavěn na hotel a restauraci, otevřeno 2004; hotel byl později uzavřen a objekt znovu nabízen k prodeji"}
- ],
- "events": [
-  {"year": 1595, "text": "založena tvrz v Kněžicích (90. léta 16. století)"},
-  {"year": 1906, "text": "přestavba zámku a hospodářských budov podle projektu architekta Leopolda Bauera pro Oskara Heintschela von Heinegg"},
-  {"year": 1929, "text": "kvůli zadlužení majitelů začíná parcelace a rozprodej pozemků panství"},
-  {"year": 1945, "text": "zámek zestátněn"},
-  {"year": 1955, "text": "zřízen domov důchodců, provoz do roku 2002"},
-  {"year": 2003, "text": "zámek prodán zahraniční společnosti"},
-  {"year": 2004, "text": "otevřen hotel a restaurace v přestavěném zámku"}
- ],
- "sources": ["https://cs.wikipedia.org/wiki/Kněžice_(zámek,_okres_Klatovy)"]
+  "id": "Q12029665",
+  "name": "Kněžice",
+  "founded": {
+    "year": 1589,
+    "approx": false,
+    "text": "Roku 1589 proměnil Jan Jindřich Plánský ze Žeberka, majitel velhartického panství, kněžickou faru na poplužní dvůr s panským sídlem; tvrz je připisována 90. letům 16. století (Jindřich ze Žeberka nebo jeho syn Jan Jiří), roku 1736 až 1737 ji Václav Hora z Ocelovic přestavěl na zámek."
+  },
+  "summary": "Kněžice byly od středověku součástí velhartického panství; panským sídlem se staly roku 1589 za Jana Jindřicha Plánského ze Žeberka. Po rychlém střídání drobných držitelů koupil panství 1736 Václav Hora z Ocelovic, od 1785 do konce 19. století je držel rod Hubatiusů z Kotnova a od 1897 Heintschelové von Heinegg, kteří zámek roku 1906 secesně upravili podle Leopolda Bauera. Po parcelaci statku (1929) a válce zámek patřil státu (domov důchodců 1955-2002), poté městu Sušice a od 2003 soukromým majitelům.",
+  "owners": [
+    {
+      "owner": "plansti-ze-zeberka",
+      "owner_wiki": null,
+      "person": "Jan Jindřich Plánský ze Žeberka (a Jan Jiří)",
+      "from": 1589,
+      "to": null,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "zalozeni",
+      "note": "majitel velhartického panství; fary přeměněna na dvůr a panské sídlo 1589 (amhz.cz, sumavanet.cz), hrady.cz uvádí 1560 Jindřicha Plánského a tvrz v 90. letech 16. stol.; cs.wiki uvádí 'v 90. letech', jméno rodu u zdrojů kolísá (Žeberk/Žamberk)"
+    },
+    {
+      "owner": "z-vrabi",
+      "owner_wiki": null,
+      "person": "Jan Tluksa z Vrábí",
+      "from": null,
+      "to": 1653,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "neznamo",
+      "note": "rok převodu zdroje neuvádějí"
+    },
+    {
+      "owner": "z-rican",
+      "owner_wiki": null,
+      "person": "Vilém Hartman z Říčan",
+      "from": 1653,
+      "to": null,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "neznamo",
+      "note": "z blízkých Chamutic; amhz.cz řadí Hartmany před Fruveiny z Podolí a Malovce z Malovic, roky neuvádí"
+    },
+    {
+      "owner": "z-podoli",
+      "owner_wiki": null,
+      "person": "Fruveinové z Podolí",
+      "from": null,
+      "to": null,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "neznamo",
+      "note": "pořadí podle amhz.cz, roky neuvedeny"
+    },
+    {
+      "owner": "malovcove-z-malovic",
+      "owner_wiki": "Malovcové z Malovic",
+      "person": "Malovec z Malovic",
+      "from": null,
+      "to": null,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "neznamo",
+      "note": "pořadí podle amhz.cz, roky neuvedeny"
+    },
+    {
+      "owner": "trauttmansdorffove",
+      "owner_wiki": "Trauttmansdorffové",
+      "person": "Adolf z Trauttmansdorffu",
+      "from": null,
+      "to": 1736,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "neznamo",
+      "note": "zadlužený prodal 1736 (hrady.cz) nebo 1737 (amhz.cz)"
+    },
+    {
+      "owner": "z-ocelovic",
+      "owner_wiki": null,
+      "person": "Václav Hora z Ocelovic",
+      "from": 1736,
+      "to": 1785,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "rytíř; možno mu připsat stavbu zámku na místě tvrze; v roce 1757 zámek uveden v tereziánském katastru; 1736 podle hrady.cz, 1737 podle amhz.cz; panství pak držel jeho syn Jan"
+    },
+    {
+      "owner": "hubatiove-z-kotnova",
+      "owner_wiki": null,
+      "person": "Antonín Hubatius z Kotnova",
+      "from": 1785,
+      "to": 1897,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "koupil od Jana Hory; rod držel statek do 1898 (sumavanet.cz) nebo 1897; poté Albert Dub z Vídně a jeho syn Vilém, který panství 1897 prodal Heintschelovi"
+    },
+    {
+      "owner": "heintschel-heinegg",
+      "owner_wiki": "Heintschel-Heinegg",
+      "person": "Oskar (Otakar) Heintschel von Heinegg",
+      "from": 1897,
+      "to": 1926,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "koupeno za 175 000 zlatých; 1903-1906 úpravy podle Leopolda Bauera; JUDr. Wolfgang Heintschel zde bydlel od 1906 do 1926"
+    },
+    {
+      "owner": "soukromnik",
+      "owner_wiki": null,
+      "person": "Josef Janeček, továrník",
+      "from": 1926,
+      "to": 1929,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "zadlužený velkostatek; roku 1929 jej převzala Česká diskontní banka a statek byl parcelován"
+    },
+    {
+      "owner": "soukromnik",
+      "owner_wiki": null,
+      "person": "Česká diskontní banka",
+      "from": 1929,
+      "to": 1939,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "jine",
+      "note": "banka velkostatek parcelovala, zámek prodala až 1939"
+    },
+    {
+      "owner": "soukromnik",
+      "owner_wiki": null,
+      "person": "prof. Miloš Seifert a Marie Nováková",
+      "from": 1939,
+      "to": 1940,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe"
+    },
+    {
+      "owner": "soukromnik",
+      "owner_wiki": null,
+      "person": "Deutsche Frauenwerk (Berlín)",
+      "from": 1940,
+      "to": 1945,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "jine"
+    },
+    {
+      "owner": "stat",
+      "owner_wiki": null,
+      "person": null,
+      "from": 1945,
+      "to": null,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "konfiskace",
+      "note": "1955-2002 domov důchodců; obec Petrovice se zámku nedomohla; po 1989 jeho majitelem město Sušice (rok převodu zdroje neuvádějí)"
+    },
+    {
+      "owner": "mesto",
+      "owner_wiki": null,
+      "person": "město Sušice",
+      "from": null,
+      "to": 2003,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "jine",
+      "note": "po roce 1989 majitelem město Sušice; v dubnu 2003 prodáno"
+    },
+    {
+      "owner": "soukromnik",
+      "owner_wiki": null,
+      "person": "NB Kněžice s.r.o. (dánští vlastníci)",
+      "from": 2003,
+      "to": null,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "přestavba na hotel a restauraci, otevřeno 1. 7. 2004; hrady.cz a amhz.cz uvádějí dnešními majiteli Ing. Kateřinu a Ing. Jiřího Šostokovy, cs.wiki NB Kněžice s.r.o.; rok převodu na Šostokovy neuveden"
+    }
+  ],
+  "events": [
+    {
+      "year": 1319,
+      "text": "ves Kněžice poprvé uvedena jako příslušenství petrovického hradu (velhartické panství)"
+    },
+    {
+      "year": 1589,
+      "text": "Jan Jindřich Plánský ze Žeberka zakládá panské sídlo v Kněžicích"
+    },
+    {
+      "year": 1736,
+      "text": "statek koupil Václav Hora z Ocelovic, pak postaven zámek"
+    },
+    {
+      "year": 1785,
+      "text": "statek koupil Antonín Hubatius z Kotnova"
+    },
+    {
+      "year": 1906,
+      "text": "secesní úprava zámku podle Leopolda Bauera pro Heintschel-Heinegg"
+    },
+    {
+      "year": 1929,
+      "text": "zadlužený velkostatek parcelován"
+    },
+    {
+      "year": 1955,
+      "text": "v zámku otevřen domov důchodců (do 2002)"
+    },
+    {
+      "year": 2004,
+      "text": "po prodeji 2003 otevřen hotel a restaurace"
+    }
+  ],
+  "sources": [
+    "https://cs.wikipedia.org/wiki/Kněžice_(zámek,_okres_Klatovy)",
+    "https://www.hrady.cz/zamek-knezice/",
+    "https://www.amhz.cz/zamek/knezice",
+    "https://www.sumavanet.cz/zajimavosti-historie-knezic.s-9094-REALHI",
+    "https://www.regionem.cz/clanek/knezicky-zamek-od-stredoveke-tvrze-k-secesnimu-sidlu-v-posumavi/"
+  ]
 }

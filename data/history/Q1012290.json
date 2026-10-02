@@ -2,36 +2,215 @@
  "id": "Q1012290",
  "name": "Helfenburk u Úštěka",
  "founded": {
-  "year": 1330,
+  "year": null,
   "approx": true,
-  "text": "Hrad v první polovině 14. století pravděpodobně vystavěli páni z Klinštejna, pocházející z Ronovců; zakladatelem byl snad Jan z Klinštejna, který se po Helfenburku začal psát."
+  "text": "Hrad postavil před rokem 1375 Jan z Klinštejna (z Ronovců), který se po něm začal psát z Helfenburku; cs.wiki uvádí první polovinu 14. století a pravděpodobné stavebníky pány z Klinštejna."
  },
- "summary": "Hrad Helfenburk u Úštěka postavili v první polovině 14. století pravděpodobně páni z Klinštejna, roku 1375 jej koupil pražský arcibiskup Jan Očko z Vlašimi a stal se venkovským sídlem pražských arcibiskupů. Ve 20. letech 15. století se v držení hradu vystřídala řada šlechticů (Aleš z Malíkovic, Berkové z Dubé, Smiřičtí, Rožmberkové, Zdeněk Konopišťský ze Šternberka, Kaplířové ze Sulevic) a naposled Ilburkové, po jejichž vymření roku 1538 hrad zpustl a roku 1622 vyhořel po vyplenění císařskými vojsky maršála Buquoye. Po Bílé hoře jej získali jezuité z Liběšic, roku 1887 koupil zříceninu a upravil na letní sídlo hrabě Josef von Schroll a dnes je zřícenina v majetku města Úštěk.",
+ "summary": "Hrad Helfenburk (Hrádek) postavil před rokem 1375 Jan z Klinštejna a 13. 3. 1375 jej koupil pražský arcibiskup Jan Očko z Vlašimi, takže se stal centrem arcibiskupského panství na pravém břehu Labe. Za Jana z Jenštejna byl rozšířen o věž a opevnění. V husitské době a poté jej držela řada šlechticů (Smiřičtí, Rožmberkové, Šternberkové, Kaplířové, Ilburkové), po vymření Ilburků zpustl, po Bílé hoře připadl jezuitům a v 19. století jej opravil Josef von Schroll. Dnes patří městu Úštěk.",
  "owners": [
-  {"owner": "pani-z-klinstejna", "owner_wiki": "Páni z Klinštejna", "person": "Jan z Klinštejna (snad zakladatel)", "from": 1330, "to": 1375, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "rod pocházející z Ronovců; hrad pravděpodobně postavili v první polovině 14. století"},
-  {"owner": "cirkev", "owner_wiki": null, "person": "Jan Očko z Vlašimi, pražský arcibiskup", "from": 1375, "to": null, "from_approx": false, "to_approx": true, "how": "koupe", "note": "vytvořil si zde venkovské zázemí mimo Roudnici nad Labem; Helfenburk se stal centrem panství s hradem Hřídelík"},
-  {"owner": "cirkev", "owner_wiki": null, "person": "Jan z Jenštejna, pražský arcibiskup", "from": null, "to": 1400, "from_approx": true, "to_approx": true, "how": "dedictvi", "note": "třetí arcibiskup po Očkovi, na hrad nechal dočasně přivézt klenoty, relikvie a knihy z chrámu sv. Víta; pobýval zde asi až do roku 1400, i po zbavení úřadu"},
-  {"owner": "z-malikovic", "owner_wiki": null, "person": "Aleš z Malíkovic", "from": 1422, "to": null, "from_approx": false, "to_approx": true, "how": "neznamo", "note": "purkrabí; poté zde roky ukrýval arcibiskup Konrád z Vechty, který zde roku 1431 zemřel"},
-  {"owner": "drslavici", "owner_wiki": "Drslavici", "person": "Půta III. z Častolovic", "from": 1427, "to": 1427, "from_approx": false, "to_approx": false, "how": "jine", "note": "v létě 1427 se hradu nakrátko zmocnil"},
-  {"owner": "berkove-z-dube", "owner_wiki": "Berkové z Dubé", "person": "Jaroslav a Jindřich Berkové z Dubé", "from": 1427, "to": null, "from_approx": false, "to_approx": true, "how": "jine", "note": "hrad zastavili Janu Smiřickému"},
-  {"owner": "smiricti-ze-smiric", "owner_wiki": "Smiřičtí ze Smiřic", "person": "Jan Smiřický", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "lenni", "note": "hrad získal zástavou od Berků z Dubé; po jeho smrti vdova hrad prodala"},
-  {"owner": "rozmberkove", "owner_wiki": "Rožmberkové", "person": "Jindřich z Rožmberka", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "koupe", "note": "koupil hrad od vdovy po Janu Smiřickém za 4000 kop pražských grošů a postoupil jej Zdeňkovi Konopišťskému ze Šternberka"},
-  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": "Zdeněk Konopišťský ze Šternberka", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "jine", "note": "významný představitel odboje proti králi Jiřímu z Poděbrad; královské vojsko Helfenburk i blízkou Roudnici oblehlo a dobylo"},
-  {"owner": "kaplirove-ze-sulevic", "owner_wiki": "Kaplířové ze Sulevic", "person": "Petr Kaplíř ze Sulevic", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "lenni", "note": "hrad dostal od krále po dobytí; musel vzdorovat loupeživým aktivitám Zdeňka Konopišťského, byl jím zajat a vězněn v Českých Budějovicích"},
-  {"owner": "ilburkove", "owner_wiki": "Ilburkové", "person": "Vilém z Ilburka", "from": null, "to": 1538, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "poslední doložený majitel hradu, kterému patřil i nedaleký Ronov; Helfenburk nově vybavil a užíval místo obtížněji přístupného Ronova; po vymření rodu 1538 na hradě žilo jen služebnictvo a hrad postupně zpustl"},
-  {"owner": "neznamo", "owner_wiki": null, "person": null, "from": 1538, "to": 1620, "from_approx": false, "to_approx": true, "how": "neznamo", "note": "vlastník mezi zánikem Ilburků a Bílou horou zdrojem neuveden; roku 1622 hrad vyhořel po vyplenění císařskými vojáky maršála Buquoye"},
-  {"owner": "cirkev", "owner_wiki": null, "person": "jezuité z Liběšic", "from": 1620, "to": null, "from_approx": true, "to_approx": true, "how": "jine", "note": "po bitvě na Bílé hoře získali území a připojili je k úšteckému panství"},
-  {"owner": "soukromnik", "owner_wiki": null, "person": "Josef von Schroll", "from": 1887, "to": null, "from_approx": false, "to_approx": true, "how": "koupe", "note": "průmyslník, koupil a upravil zříceninu, v letech 1887-1890 dostavěl rozbořené třetí patro věže a učinil z ní letní sídlo"},
-  {"owner": "mesto", "owner_wiki": null, "person": null, "from": null, "to": null, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "hrad je dnes v majetku města Úštěk, přesný rok přechodu zdroj neuvádí; péči od 60. let 20. stol. zajišťoval Český svaz ochránců přírody, od 1978 dobrovolníci (od 1995 Občanské sdružení, od 2017 Spolek Hrádek Helfenburk)"}
+  {
+   "owner": "pani-z-klinstejna",
+   "owner_wiki": "Páni z Klinštejna",
+   "person": "Jan z Klinštejna (z Helfenburku)",
+   "from": null,
+   "to": 1375,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "rod z Ronovců; hrad postaven před 1375, král Jan Lucemburský propůjčil území jako léno; syn Hynek (Hanuš) z Helfenburku vedl po prodeji spor o náhradu 1383-1386"
+  },
+  {
+   "owner": "cirkev",
+   "owner_wiki": null,
+   "person": "pražští arcibiskupové (Jan Očko z Vlašimi, Jan z Jenštejna, další)",
+   "from": 1375,
+   "to": 1422,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupě 13. 3. 1375; centrum panství s Hřídelíkem, Hoštkou a Blíževedly; Jan z Jenštejna 1390-1395 postavil věž a nové opevnění, po abdikaci 1396 zde pobýval až do odjezdu do Říma 1400"
+  },
+  {
+   "owner": "z-malikovic",
+   "owner_wiki": null,
+   "person": "Aleš z Malíkovic",
+   "from": 1422,
+   "to": 1424,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "původně purkrabí arcibiskupa; hrady.cz uvádí převzetí hradu 1421 nebo 1422 a držení do 1424, cs.wiki rok 1422"
+  },
+  {
+   "owner": "drslavici",
+   "owner_wiki": "Drslavici",
+   "person": "Půta III. z Častolovic",
+   "from": 1427,
+   "to": 1427,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "v létě 1427 se hradu nakrátko zmocnil"
+  },
+  {
+   "owner": "berkove-z-dube",
+   "owner_wiki": "Berkové z Dubé",
+   "person": "Jaroslav a Jindřich Berkové z Dubé",
+   "from": 1427,
+   "to": 1427,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "zmocnili se hradu a zastavili jej Janu Smiřickému"
+  },
+  {
+   "owner": "smiricti-ze-smiric",
+   "owner_wiki": "Smiřičtí ze Smiřic",
+   "person": "Jan Smiřický",
+   "from": 1427,
+   "to": 1453,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "zástavní pán a hejtman na Roudnici; pod jeho ochranou do své smrti 1431 pobýval arcibiskup Konrád z Vechty; 7. 9. 1453 Jan popraven"
+  },
+  {
+   "owner": "rozmberkove",
+   "owner_wiki": "Rožmberkové",
+   "person": "Jindřich z Rožmberka",
+   "from": 1456,
+   "to": 1457,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "vdova po Janu Smiřickém prodala zástavu 1456 za 4000 kop grošů a Jindřich ji ihned postoupil Zdeňkovi ze Šternberka (Úštěk uvádí dědictví Zdeňkem až 1457)"
+  },
+  {
+   "owner": "sternberkove",
+   "owner_wiki": "Šternberkové",
+   "person": "Zdeněk Konopišťský ze Šternberka",
+   "from": 1457,
+   "to": 1467,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "čelný odpůrce Jiřího z Poděbrad; na jaře 1467 královské vojsko hrad s Roudnicí oblehlo a dobylo"
+  },
+  {
+   "owner": "kaplirove-ze-sulevic",
+   "owner_wiki": "Kaplířové ze Sulevic",
+   "person": "Petr Kaplíř ze Sulevic",
+   "from": 1467,
+   "to": 1475,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "hrad dostal do zástavy od krále a bojoval proti Zdeňkovi ze Šternberka, byl jím zajat a 1471 propuštěn; 1475 hrad prodal Vilémovi z Ilburka"
+  },
+  {
+   "owner": "ilburkove",
+   "owner_wiki": "Ilburkové",
+   "person": "Vilém z Ilburka, od 1489 syn Vilém II.",
+   "from": 1475,
+   "to": 1538,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "držitelé i Ronova; Vilém II. zemřel 1538 jako poslední mužský člen rodu, hrad poté zpustl"
+  },
+  {
+   "owner": "z-trachenberka",
+   "owner_wiki": null,
+   "person": "Kurzpachové z Trachenberku (Anna, provdaná Kurzpachová, její synové Vilém a Jindřich)",
+   "from": 1538,
+   "to": 1590,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "dcera Viléma II. Anna obhájila dědictví u komorního soudu; po smrti Viléma 1575 Jindřich získal dědičné potvrzení od Maxmiliána II., zemřel 1590; dědicové majetek rozprodávali"
+  },
+  {
+   "owner": "sezimove-z-usti",
+   "owner_wiki": "Sezimové z Ústí",
+   "person": "Jan Sezima ze Sezimova Ústí",
+   "from": 1592,
+   "to": 1622,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil Hrádek s okolními vesnicemi (Úštěk uvádí 1591 Joachyma Malcana a pak Sezimu); 1620 (18. 11.) hrad vypálili vojáci maršála Buquoye, 1622 byl Sezimův majetek konfiskován"
+  },
+  {
+   "owner": "cirkev",
+   "owner_wiki": null,
+   "person": "jezuité (liběšické panství)",
+   "from": 1622,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "hrad připojen k panství s centrem v Liběšicích a upadl v zapomnění; doba držení neuvedena"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Josef von Schroll",
+   "from": 1887,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "majitel panství, 1887-1890 opravil věž a využil ji jako letní sídlo; konec držení zdroje neuvádějí"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "město Úštěk",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "dnešní vlastník; rok přechodu zdroje neuvádějí; péči od 60. let 20. stol. zajišťoval Český svaz ochránců přírody, od 1978 dobrovolníci (dnes Spolek Hrádek Helfenburk)"
+  }
  ],
  "events": [
-  {"year": 1375, "text": "arcibiskup Jan Očko z Vlašimi koupí hrad, který se stává centrem panství s Hřídelíkem"},
-  {"year": 1395, "text": "kronikář zaznamenává nehodu arcibiskupa Jana z Jenštejna na můstku nové věže"},
-  {"year": 1431, "text": "na hradě, kde se ukrýval, umírá arcibiskup Konrád z Vechty"},
-  {"year": 1538, "text": "vymírá rod Ilburků, hrad zůstává jen se služebnictvem a chátrá"},
-  {"year": 1622, "text": "hrad vyhoří po vyplenění císařskými vojáky maršála Buquoye"},
-  {"year": 1887, "text": "hrabě Josef von Schroll kupuje zříceninu a v letech 1887-1890 dostavuje věž na letní sídlo"},
-  {"year": 1964, "text": "zřícenina je vyhlášena kulturní památkou"}
+  {
+   "year": 1375,
+   "text": "arcibiskup Jan Očko z Vlašimi koupil hrad a učinil z něj centrum panství"
+  },
+  {
+   "year": 1395,
+   "text": "Jan z Jenštejna dokončil novou věž a opevnění, zaznamenána jeho nehoda na můstku"
+  },
+  {
+   "year": 1431,
+   "text": "na hradě zemřel arcibiskup Konrád z Vechty"
+  },
+  {
+   "year": 1467,
+   "text": "královské vojsko dobylo hrad Zdeňka ze Šternberka"
+  },
+  {
+   "year": 1538,
+   "text": "vymřeli Ilburkové, hrad postupně zpustl"
+  },
+  {
+   "year": 1620,
+   "text": "hrad vypálilo vojsko maršála Buquoye (cs.wiki uvádí 1622)"
+  },
+  {
+   "year": 1887,
+   "text": "Josef von Schroll koupil zříceninu a upravil věž na letní sídlo"
+  },
+  {
+   "year": 1964,
+   "text": "zřícenina prohlášena kulturní památkou"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Helfenburk_u_Úštěka"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Helfenburk_u_Úštěka",
+  "https://www.hrady.cz/hrad-helfenburk-u-usteka/texty?pos=1000&tid=9379",
+  "https://www.mesto-ustek.cz/helfenburk/d-144141"
+ ]
 }

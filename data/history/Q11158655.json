@@ -1,25 +1,162 @@
 {
  "id": "Q11158655",
  "name": "Blansko",
- "founded": {"year": 1431, "approx": true, "text": "Středověká tvrz na Novém Blansku je zmiňována v souvislosti s biskupským manem Mikulášem z Vážan roku 1431, první zaručená zmínka o tvrzi pochází z roku 1532."},
- "summary": "Blansko bylo od první poloviny 12. století biskupským majetkem, ve středověku zde stála tvrz, doložená k roku 1532 za Jana Skály z Doubravky. Koncem 16. století zahájil Matyáš Žalkovský ze Žalkovic přestavbu na renesanční zámek, dokončenou 1604 jeho synem; od roku 1631 patřil pánům z Rožmitálu, od 1694 Gellhornům a od 1766 Salmům, kteří jej používali jako letní sídlo vedle svého hlavního sídla v Rájci. Po druhé světové válce byl zámek na základě Benešových dekretů zabaven a připadl státu, v letech 1960-1969 prošel generální rekonstrukcí a dnes v něm sídlí Muzeum Blanenska.",
+ "founded": {
+  "year": 1532,
+  "approx": false,
+  "text": "Na konci 14. století se objevuje manský dvůr, ve 30. letech 16. století přestavěný na tvrz (první zaručená zmínka 1532); na renesanční zámek ji přestavěli Žalkovští ze Žalkovic, stavba dokončena 1604."
+ },
+ "summary": "Blansko bylo ve středověku církevním (olomoucký biskup) majetkem a na místě manského dvora vznikla ve 30. letech 16. století tvrz. Žalkovští ze Žalkovic ji v letech 1568-1615 přestavěli na renesanční zámek (dokončen 1604); po nich se vystřídali Šlejnicové, Lvi z Rožmitálu (od 1631), Gellhornové (od 1694) a od roku 1766 Salmové, kteří zde sídlili jen letně a drželi zámek do konfiskace roku 1945. Dnes zámek vlastní město Blansko a sídlí v něm Muzeum Blanenska.",
  "owners": [
-  {"owner": "cirkev", "owner_wiki": null, "person": "Mikuláš z Vážan", "from": 1150, "to": 1532, "from_approx": true, "to_approx": true, "how": "lenni", "note": "Blansko biskupský majetek od 1. pol. 12. stol.; roku 1431 zmíněn biskupský man Mikuláš z Vážan (bez vlastního wiki článku), přesné hranice biskupské správy zdroj neuvádí"},
-  {"owner": "soukromnik", "owner_wiki": null, "person": "Jan Skála z Doubravky", "from": 1532, "to": null, "from_approx": false, "to_approx": true, "how": "neznamo", "note": "první zaručená zmínka o tvrzi, prostavěl 900 zlatých"},
-  {"owner": "z-zalkovic", "owner_wiki": null, "person": "Matyáš Žalkovský ze Žalkovic", "from": 1590, "to": 1604, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "moravský zemský prokurátor, zahájil koncem 16. stol. přestavbu na renesanční zámek; wiki o rodu neexistuje"},
-  {"owner": "z-zalkovic", "owner_wiki": null, "person": "Jan Žalkovský ze Žalkovic", "from": 1604, "to": 1631, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "syn Matyáše, dokončil renesanční přestavbu roku 1604"},
-  {"owner": "pani-z-rozmitalu", "owner_wiki": "Páni z Rožmitálu", "person": null, "from": 1631, "to": 1694, "from_approx": false, "to_approx": false, "how": "neznamo"},
-  {"owner": "gellhornove", "owner_wiki": "Gellhornové", "person": null, "from": 1694, "to": 1766, "from_approx": false, "to_approx": false, "how": "koupe", "note": "opravili zámek poškozený za třicetileté války, sídlili zde; zadlužený statek roku 1766 prodali"},
-  {"owner": "salm-reifferscheidt-raitz", "owner_wiki": "Salm-Reifferscheidt-Raitz", "person": "Hugo František Salm (od 1818)", "from": 1766, "to": 1945, "from_approx": false, "to_approx": false, "how": "koupe", "note": "sídlili v Rájci, blanenský zámek užívali jako letní sídlo; po požáru 1818 dal Hugo František Salm zámek opravit"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "zabaveno na základě dekretů prezidenta Beneše; 1960-1969 generální rekonstrukce, dnes Muzeum Blanenska"}
+  {
+   "owner": "cirkev",
+   "owner_wiki": null,
+   "person": "olomoucký biskup (manové, např. Mikuláš z Vážan 1431)",
+   "from": 1136,
+   "to": 1532,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "lenni",
+   "note": "Blansko církevním majetkem od 1. pol. 12. stol. (spor biskupa Zdíka o kostel 1136); 1431 zmíněn biskupský man Mikuláš z Vážan; přesné hranice správy zdroje neuvádějí"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Jan Skála z Doubravky",
+   "from": 1532,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "první zaručená zmínka o tvrzi, prostavěl 900 zlatých; konec držby zdroje neuvádějí (před 1568)"
+  },
+  {
+   "owner": "z-zalkovic",
+   "owner_wiki": null,
+   "person": "Matyáš Žalkovský ze Žalkovic",
+   "from": 1568,
+   "to": 1590,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "moravský zemský prokurátor, roku 1580 povýšil Blansko na městečko, zemřel 1590; zahájil renesanční přestavbu; rod nemá vlastní článek na cs.wiki"
+  },
+  {
+   "owner": "z-zalkovic",
+   "owner_wiki": null,
+   "person": "Jan Žalkovský ze Žalkovic",
+   "from": 1590,
+   "to": 1615,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "syn Matyáše, dokončil přestavbu na renesanční zámek 1604; cs.wiki uvádí držbu do 1631, město Blansko do 1615"
+  },
+  {
+   "owner": "slejnicove",
+   "owner_wiki": "Šlejnicové",
+   "person": "Albrecht ze Šlejnic",
+   "from": 1615,
+   "to": 1631,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil panství od Jana Žalkovského (zdroj: blansko.cz); cs.wiki tuto držbu neuvádí"
+  },
+  {
+   "owner": "pani-z-rozmitalu",
+   "owner_wiki": "Páni z Rožmitálu",
+   "person": "Zdeněk František Lev z Rožmitálu, poté Kašpar Lev z Rožmitálu",
+   "from": 1631,
+   "to": 1694,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil za 37 000 zl.; po poškození Švédy zámek opravil Kašpar Lev; bratři Karel, František a Bernard panství prodali"
+  },
+  {
+   "owner": "gellhornove",
+   "owner_wiki": "Gellhornové",
+   "person": "Arnošt Leopold z Gellhornu",
+   "from": 1694,
+   "to": 1766,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupeno 27. 4. 1694 za 55 000 zl.; zámek opraven a barokně upraven (věž 1695), založili železárny, byli posledním rodem sídlícím na zámku; zadlužené panství prodal Karel Josef Gellhorn"
+  },
+  {
+   "owner": "salm-reifferscheidt-raitz",
+   "owner_wiki": "Salm-Reifferscheidt-Raitz",
+   "person": "Antonín Karel Josef ze Salmu",
+   "from": 1766,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "sídlili v Rájci, zámek užívali jako letní sídlo, byty pro přátele a zaměstnance; 1818 zbořena část předzámčí a oprava po požáru (Hugo František Salm), 1870 novorenesanční přestavba"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "zabaveno podle dekretů prezidenta Beneše; 1960-1969 generální rekonstrukce, předáno okresnímu muzeu; přesný rok přechodu na město zdroje neuvádějí"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "město Blansko",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "současný vlastník podle infoboxu cs.wiki, sídlí zde Muzeum Blanenska; rok převodu zdroje neuvádějí"
+  }
  ],
  "events": [
-  {"year": 1532, "text": "první zaručená zmínka o tvrzi, Jan Skála z Doubravky do ní prostavěl 900 zlatých"},
-  {"year": 1604, "text": "dokončena přestavba na renesanční zámek Janem Žalkovským ze Žalkovic"},
-  {"year": 1766, "text": "zadlužený blanenský statek koupili Salmové"},
-  {"year": 1818, "text": "zámek vyhořel, hrabě Hugo František Salm jej nechal opravit se stavebními změnami"},
-  {"year": 1945, "text": "zámek zabaven na základě dekretů prezidenta Beneše"},
-  {"year": 1960, "text": "1960-1969 generální rekonstrukce, zámek předán Okresnímu vlastivědnému muzeu"}
+  {
+   "year": 1532,
+   "text": "první zaručená zmínka o tvrzi, Jan Skála z Doubravky do ní prostavěl 900 zlatých"
+  },
+  {
+   "year": 1604,
+   "text": "Jan Žalkovský ze Žalkovic dokončil přestavbu na renesanční zámek"
+  },
+  {
+   "year": 1631,
+   "text": "panství koupil Zdeněk František Lev z Rožmitálu"
+  },
+  {
+   "year": 1694,
+   "text": "panství koupil Arnošt Leopold z Gellhornu, zámek opraven a barokně upraven"
+  },
+  {
+   "year": 1766,
+   "text": "zadlužené panství koupili Salmové a spojili je s rájeckým"
+  },
+  {
+   "year": 1818,
+   "text": "zámek vyhořel, část předzámčí zbořena, hrabě Hugo František Salm jej nechal opravit"
+  },
+  {
+   "year": 1945,
+   "text": "zámek zabaven na základě dekretů prezidenta Beneše"
+  },
+  {
+   "year": 1969,
+   "text": "1960-1969 generální rekonstrukce, zámek předán Okresnímu vlastivědnému muzeu"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Blansko_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Blansko_(zámek)",
+  "https://www.muzeum-blanenska.cz/historie",
+  "https://www.blansko.cz/historicti-vlastnici-blanska-1",
+  "https://www.blansko.cz/hybatele-blanenskych-dejin-gellhornove"
+ ]
 }

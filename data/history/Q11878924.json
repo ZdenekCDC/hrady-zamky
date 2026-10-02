@@ -1,18 +1,207 @@
 {
- "id": "Q11878924",
- "name": "Velké Heraltice",
- "founded": {"year": 1260, "approx": true, "text": "Hrad byl postaven pravděpodobně v letech 1255-1265 Vojslavem z Lublic, poprvé psaným po Heralticích roku 1265."},
- "summary": "Hrad ve Velkých Heralticích postavil kolem let 1255-1265 Vojslav z Lublic, po němž se dochovala mohutná válcová věž inspirovaná nedalekým hradem Cvilínem. Roku 1668 koupil zámek i celé heraltické panství hrabě Jiří Štěpán Bruntálský z Vrbna, který jej v 70. letech 17. století nechal italským stavitelem Lorencem Nicolem barokně přestavět; stavba nebyla při jeho smrti ještě dokončena. Dnes je zámek ve vlastnictví Moravskoslezského kraje a využívá jej střední škola s dětským domovem.",
- "owners": [
-  {"owner": "z-lublic", "owner_wiki": null, "person": "Vojslav z Lublic", "from": 1260, "to": null, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "poprvé psán po Heralticích 2. února 1265; další majitelé mezi založením a rokem 1668 nejsou ve zdroji uvedeni"},
-  {"owner": "bruntalsti-z-vrbna", "owner_wiki": "Bruntálští z Vrbna", "person": "Jiří Štěpán Bruntálský z Vrbna", "from": 1668, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil zámek i celé heraltické panství, zahájil barokní přestavbu, kterou nedokončil; zdroj neuvádí rok konce držby rodu"},
-  {"owner": "mesto", "owner_wiki": null, "person": null, "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "dnes ve vlastnictví Moravskoslezského kraje, využívá střední škola a dětský domov; zdroj neuvádí rok přechodu"}
- ],
- "events": [
-  {"year": 1260, "text": "stavba hradu Vojslavem z Lublic (kolem 1255-1265), inspirace hradem Cvilín"},
-  {"year": 1265, "text": "Vojslav z Lublic se poprvé píše po Heralticích"},
-  {"year": 1668, "text": "zámek s panstvím koupil Jiří Štěpán Bruntálský z Vrbna"},
-  {"year": 1964, "text": "zámek registrován jako kulturní památka"}
- ],
- "sources": ["https://cs.wikipedia.org/wiki/Velké_Heraltice_(zámek)"]
+  "id": "Q11878924",
+  "name": "Velké Heraltice",
+  "founded": {
+    "year": 1260,
+    "approx": true,
+    "text": "Hrad byl postaven pravděpodobně v letech 1255-1265 Vojslavem z Lublic, který se v listině z 2. února 1265 poprvé píše po Heralticích (obecní historie uvádí k roku 1265 majitele tvrze Brslava de Heroltsdorf)."
+  },
+  "summary": "Hrad ve Velkých Heralticích postavil kolem let 1255-1265 Vojslav z Lublic; z té doby se dochovala válcová věž. Ve 2. polovině 15. století jej rozšířil pravděpodobně Hynčík Bírka z Násile, po 1592 se majitelé rychle střídali (Bruntálští z Vrbna, Sedličtí z Choltic, Pavlovský z Pavlovic, Oppersdorfové). Roku 1668 panství koupil Jiří Štěpán Bruntálský z Vrbna a zámek barokně přestavěl; poté jej vlastnil velehradský klášter (1694-1767), opět Vrbnové, od 1840 Mitrovští z Nemyšle, od 1849 Kinští a 1899-1945 Bellegardové. Po konfiskaci 1945 patří státu, dnes Moravskoslezskému kraji, a sídlí v něm střední škola s dětským domovem.",
+  "owners": [
+    {
+      "owner": "z-lublic",
+      "owner_wiki": null,
+      "person": "Vojslav z Lublic",
+      "from": 1260,
+      "to": null,
+      "from_approx": true,
+      "to_approx": false,
+      "how": "zalozeni",
+      "note": "poprvé psán po Heralticích 2. února 1265; další majitelé do 15. století nejsou ve zdrojích uvedeni"
+    },
+    {
+      "owner": "birkove-z-nasile",
+      "owner_wiki": "Bírkové z Násile",
+      "person": "Hynčík Bírka z Násile",
+      "from": null,
+      "to": null,
+      "from_approx": true,
+      "to_approx": true,
+      "how": "neznamo",
+      "note": "hrady.cz: ve 2. polovině 15. století rozšířil hrad o zděné předhradí a pozdně gotickou budovu 's největší pravděpodobností' Hynčík Bírka z Násile; roky držby neuvedeny"
+    },
+    {
+      "owner": "bruntalsti-z-vrbna",
+      "owner_wiki": "Bruntálští z Vrbna",
+      "person": "Albrecht Bruntálský z Vrbna, poté bratr Štěpán",
+      "from": 1592,
+      "to": 1595,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "neznamo",
+      "note": "hrady.cz zmiňuje Vrbny již v polovině 16. stol. a Štěpánův prodej 1600 (jiná data než obec a cs.wiki obce)"
+    },
+    {
+      "owner": "sedlnicti-z-choltic",
+      "owner_wiki": null,
+      "person": "Zikmund Sedlnický z Choltic, poté syn Jan Václav",
+      "from": 1595,
+      "to": 1611,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "Zikmund se oženil s vdovou po Albrechtovi z Vrbna Annou Tvorkovskou z Kravař; Jan Václav prodal 1611"
+    },
+    {
+      "owner": "z-pavlovic",
+      "owner_wiki": null,
+      "person": "Bohuslav Pavlovský z Pavlovic",
+      "from": 1611,
+      "to": 1618,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "zemřel zadlužen, panství prodáno rukojmě"
+    },
+    {
+      "owner": "oppersdorfove",
+      "owner_wiki": "Oppersdorfové",
+      "person": "Václav z Oppersdorfu, svobodný pán z Dubu a Frýdštejna",
+      "from": 1618,
+      "to": 1668,
+      "from_approx": false,
+      "to_approx": true,
+      "how": "koupe",
+      "note": "koupě 11. 12. 1618, dekret od Slezské dvorní komory až 1628; rok konce nepřesný (do 1668)"
+    },
+    {
+      "owner": "bruntalsti-z-vrbna",
+      "owner_wiki": "Bruntálští z Vrbna",
+      "person": "Jiří Štěpán Bruntálský z Vrbna",
+      "from": 1668,
+      "to": 1694,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "koupě 20. 11. 1668 (hrabě z Vrbna a Bruntálu); v 70. letech 17. stol. barokní přestavba Lorencem Nicolem, za jeho smrti nedokončená"
+    },
+    {
+      "owner": "cirkev",
+      "owner_wiki": null,
+      "person": "cisterciácký klášter Velehrad",
+      "from": 1694,
+      "to": 1767,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "kolem 1725 nová fasáda a mansardové střechy, kulatá věž; Vrbnové si vymínili předkupní právo"
+    },
+    {
+      "owner": "bruntalsti-z-vrbna",
+      "owner_wiki": "Bruntálští z Vrbna",
+      "person": "Evžen Václav Bruntálský z Vrbna, poté Dominik hrabě z Vrbna",
+      "from": 1767,
+      "to": 1840,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "zpětný odkup na základě předkupního práva; roku 1840 Dominik prodal panství Mitrovským z Nemyšle"
+    },
+    {
+      "owner": "mitrovsti-z-mitrovic-a-nemysle",
+      "owner_wiki": "Mitrovští z Mitrovic a Nemyšle",
+      "person": null,
+      "from": 1840,
+      "to": 1849,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "Mitrovští z Nemyšle (název rodu podle hrady.cz jako 'Mistrovští')"
+    },
+    {
+      "owner": "kinsti",
+      "owner_wiki": "Kinští",
+      "person": "knížecí linie Kinských",
+      "from": 1849,
+      "to": 1899,
+      "from_approx": false,
+      "to_approx": true,
+      "how": "koupe",
+      "note": "rok konce odvozen z počátku držby Bellegardů"
+    },
+    {
+      "owner": "bellegardove",
+      "owner_wiki": null,
+      "person": "hrabata Bellegarde (August Bellegarde, po jeho smrti 1929 dcery Marie Karolina a Eliška)",
+      "from": 1899,
+      "to": 1945,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "poslední úpravy zámku a pseudogotická kaple; rodina odešla na jaře 1945, majetek konfiskován"
+    },
+    {
+      "owner": "stat",
+      "owner_wiki": null,
+      "person": "Československo",
+      "from": 1945,
+      "to": null,
+      "from_approx": false,
+      "to_approx": true,
+      "how": "konfiskace",
+      "note": "od 1956 školské zařízení; rok přechodu na Moravskoslezský kraj zdroje neuvádějí"
+    },
+    {
+      "owner": "mesto",
+      "owner_wiki": null,
+      "person": "Moravskoslezský kraj",
+      "from": null,
+      "to": null,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "neznamo",
+      "note": "současný vlastník (kraj); využívá jej Střední škola, Dětský domov a Školní jídelna, Velké Heraltice; rok převodu zdroje neuvádějí"
+    }
+  ],
+  "events": [
+    {
+      "year": 1265,
+      "text": "Vojslav z Lublic se poprvé píše po Heralticích; hrad postaven kolem 1255-1265 s inspirací hradem Cvilín"
+    },
+    {
+      "year": 1668,
+      "text": "panství koupil Jiří Štěpán Bruntálský z Vrbna a nechal zámek barokně přestavět"
+    },
+    {
+      "year": 1694,
+      "text": "panství koupil cisterciácký klášter Velehrad"
+    },
+    {
+      "year": 1767,
+      "text": "Vrbnové získali zámek zpět na základě předkupního práva"
+    },
+    {
+      "year": 1849,
+      "text": "panství získala knížecí linie Kinských"
+    },
+    {
+      "year": 1945,
+      "text": "Bellegardové opustili zámek, majetek konfiskován státem"
+    },
+    {
+      "year": 1956,
+      "text": "vznik školského zařízení v zámku"
+    },
+    {
+      "year": 1964,
+      "text": "zámek registrován jako kulturní památka (denik.cz uvádí 1958)"
+    }
+  ],
+  "sources": [
+    "https://cs.wikipedia.org/wiki/Velké_Heraltice_(zámek)",
+    "https://cs.wikipedia.org/wiki/Velké_Heraltice",
+    "https://www.mistopisy.cz/pruvodce/obec/10449/velke-heraltice/historie/",
+    "https://www.hrady.cz/zamek-velke-heraltice/",
+    "https://opavsky.denik.cz/zpravy-region/z-historie-regionu-heralticky-zamek-patri-na-opavsku-k-tem-nejvyznamnejsim/"
+  ]
 }

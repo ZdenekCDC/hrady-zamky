@@ -1,38 +1,261 @@
 {
  "id": "Q15353952",
  "name": "Střela",
- "founded": {"year": null, "approx": false, "text": "Hrad vybudovali příslušníci rodu Bavorů ze Strakonic; první, nejistá zmínka o Střele je z roku 1242, za první spolehlivou zmínku o hradu je považována listina z roku 1318."},
- "summary": "Hrad Střela nad Otavou vybudovali Bavoři ze Strakonic, spolehlivě je doložen od roku 1318, kdy patřil Blehovi ze Střely; poté se vystřídala řada šlechtických majitelů (Landštejnové, páni z Rožmitálu, Švihovští z Rýzmberka, Kraselovský z Kraselova, Leskovcové, Boubínští z Újezda). Za stavovského povstání bylo panství Boubínských zkonfiskováno a roku 1623 je koupili Libštejnští z Kolovrat, kteří jej po vypálení Švédy roku 1645 odkázali jezuitům; ti nechali poškozený hrad přestavět na barokní zámek. Po zrušení jezuitského řádu 1773 zámek střídal několik majitelů, po roce 1948 byl znárodněn a sloužil jako škola a archiv; po roce 1989 byl vrácen v restituci, roku 2006 prodán a od roku 2017 patří Evženu Hrnčířovi, který chátrající zámek zabezpečuje a plánuje rekonstrukci.",
+ "founded": {
+  "year": null,
+  "approx": false,
+  "text": "Hrad vybudovali příslušníci rodu Bavorů ze Strakonic (hrady.cz: pravděpodobně před polovinou 13. století); roku 1242 je zmíněn Martin ze Střely, ale není jisté, zda se zmínka týká hradu; první spolehlivá zmínka o hradu a dvoře je z roku 1318."
+ },
+ "summary": "Hrad Střela nad Otavou založili zřejmě Bavorové ze Strakonic a spolehlivě je doložen od roku 1318 (Bleh ze Střely); poté jej drželi Landštejnové, páni z Rožmitálu, Švihovští z Rýzmberka, Kraselovští z Kraselova, Leskovcové a Boubínští z Újezda. Po konfiskaci za stavovského povstání jej 1623 koupili Libštejnští z Kolovrat, kteří panství odkázali jezuitům (1654); ti na místě vypáleného hradu (Švédové 1645) vystavěli barokní zámek. Po zrušení řádu 1773 se zde vystřídala řada soukromých majitelů, po 1948 byl zámek znárodněn (internátní škola, archiv), po 1990 vrácen v restituci a od 2017 jej vlastní Evžen Hrnčíř.",
  "owners": [
-  {"owner": "bavorove-ze-strakonic", "owner_wiki": "Bavorové ze Strakonic", "person": null, "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "zalozeni", "note": "hrad vybudovali příslušníci rodu; přesná doba stavby ani konec jejich držby nejsou ve zdroji uvedeny, první nejistá zmínka o Střele je z roku 1242"},
-  {"owner": "z-strely", "owner_wiki": null, "person": "Bleh ze Střely a jeho potomci", "from": 1318, "to": 1393, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "listina z roku 1318 je první spolehlivou zmínkou o hradu; potomci Bleha jej drželi do konce 14. století"},
-  {"owner": "landstejnove", "owner_wiki": "Landštejnové", "person": "Mikuláš z Landštejna a Borotína a jeho synové", "from": 1393, "to": 1464, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "synové Mikuláše stáli během husitských válek na straně husitů"},
-  {"owner": "pani-z-rozmitalu", "owner_wiki": "Páni z Rožmitálu", "person": "Lev z Rožmitálu", "from": 1464, "to": 1490, "from_approx": false, "to_approx": true, "how": "neznamo", "note": "za jeho synů byl hrad přestavěn; dalším majitelem se stal Půta Švihovský z Rýzmberka na konci 15. století"},
-  {"owner": "svihovsti-z-ryzmberka", "owner_wiki": "Švihovští z Rýzmberka", "person": "Půta Švihovský z Rýzmberka", "from": 1490, "to": 1514, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "od jeho synů hrad roku 1514 koupil Václav Kraselovský z Kraselova"},
-  {"owner": "z-kraselova", "owner_wiki": null, "person": "Václav Kraselovský z Kraselova", "from": 1514, "to": 1544, "from_approx": false, "to_approx": false, "how": "koupe", "note": "pravděpodobně zahájil renesanční přestavbu hradu"},
-  {"owner": "leskovcove-z-leskovce", "owner_wiki": "Leskovcové z Leskovce", "person": "Václav z Leskovce a potomci", "from": 1544, "to": null, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "potomci Václava z Leskovce vyměnili Střelu s Boubínskými z Újezda za Dub; přesný rok výměny není uveden"},
-  {"owner": "boubinsti-z-ujezda", "owner_wiki": null, "person": null, "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "vymena", "note": "za stavovského povstání byl hrad vypleněn vojskem Martina de Hoeff-Huerty a majetek Boubínských za účast na povstání propadl koruně; přesný rok konfiskace není uveden, odhadnut podle data prodeje 1623"},
-  {"owner": "koruna", "owner_wiki": null, "person": null, "from": null, "to": 1623, "from_approx": true, "to_approx": false, "how": "konfiskace", "note": "zabavené panství roku 1623 koupili Libštejnští z Kolovrat"},
-  {"owner": "libstejnsti-z-kolovrat", "owner_wiki": "Libštejnští z Kolovrat", "person": "Václav Libštejnský z Kolovrat", "from": 1623, "to": 1661, "from_approx": false, "to_approx": true, "how": "koupe", "note": "roku 1645 hrad před koncem třicetileté války vypálilo švédské vojsko; Václav Libštejnský z Kolovrat poté střelské panství odkázal jezuitům"},
-  {"owner": "cirkev", "owner_wiki": null, "person": "Jezuité (klatovská jezuitská kolej)", "from": 1661, "to": 1773, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "poškozený hrad nechali přestavět na barokní zámek; po zrušení jezuitského řádu 1773 zámek připadl studijnímu fondu"},
-  {"owner": "stat", "owner_wiki": null, "person": "studijní fond", "from": 1773, "to": 1777, "from_approx": false, "to_approx": false, "how": "jine"},
-  {"owner": "soukromnik", "owner_wiki": null, "person": "Josef Kraus ze Strakonic", "from": 1777, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "vrchnostenský správce; koupil zámek od studijního fondu"},
-  {"owner": "soukromnik", "owner_wiki": null, "person": "Erasm Obst a potomci", "from": null, "to": 1889, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "potomci Erasma Obsta vlastnili zámek většinu 19. století a nechali ho celkově opravit; přesné roky nabytí a konce držby nejsou ve zdroji uvedeny"},
-  {"owner": "soukromnik", "owner_wiki": null, "person": null, "from": 1889, "to": 1948, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "zdroj uvádí jen, že se zde vystřídalo několik majitelů, bez jmen"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1948, "to": 1990, "from_approx": false, "to_approx": true, "how": "konfiskace", "note": "po komunistickém převratu znárodněno; ve 2. polovině 20. století zde sídlila internátní zvláštní škola a později archiv"},
-  {"owner": "soukromnik", "owner_wiki": null, "person": "Hana Meindlová a rodina (původní majitelé)", "from": 1990, "to": 2006, "from_approx": true, "to_approx": false, "how": "restituce", "note": "po sametové revoluci vrácen původním majitelům, kteří zámek obývali do roku 2006"},
-  {"owner": "soukromnik", "owner_wiki": null, "person": "lotyšský podnikatel (jméno neuvedeno)", "from": 2006, "to": 2017, "from_approx": false, "to_approx": false, "how": "koupe", "note": "za jeho vlastnictví zámek chátral, stal se terčem zlodějů a squatterů, poškodila jej vichřice"},
-  {"owner": "soukromnik", "owner_wiki": null, "person": "Evžen Hrnčíř", "from": 2017, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "přednosta kliniky pracovního lékařství FN Královské Vinohrady; zámek zabezpečil a oplotil, plánuje rekonstrukci"}
+  {
+   "owner_wiki": "Bavorové ze Strakonic",
+   "person": null,
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "zalozeni",
+   "owner": "bavorove-ze-strakonic",
+   "note": "hrad vybudovali příslušníci rodu; hrady.cz a deník uvádějí jako prvního držitele Martina ze Střely (zmínka 1242, nejistá), 1262 Zdeněk ze Střely; přesná doba stavby ani konec držby nejsou uvedeny"
+  },
+  {
+   "owner_wiki": null,
+   "person": "Bleh ze Střely a jeho potomci (Dobeš, Zdeněk)",
+   "from": 1318,
+   "to": 1393,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "owner": "z-strely",
+   "note": "listina z 1318 je první spolehlivou zmínkou o hradu; potomci jej drželi do konce 14. století, 1393 se připomíná nový majitel"
+  },
+  {
+   "owner_wiki": "Landštejnové",
+   "person": "Mikuláš z Landštejna a Borotína a jeho synové",
+   "from": 1393,
+   "to": 1464,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "owner": "landstejnove",
+   "note": "synové Mikuláše stáli za husitských válek na straně husitů; Landštejnové drželi Střelu do 2. poloviny 15. stol. (rok 1464 podle cs.wiki)"
+  },
+  {
+   "owner_wiki": "Páni z Rožmitálu",
+   "person": "Lev z Rožmitálu a jeho synové",
+   "from": 1464,
+   "to": 1490,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "neznamo",
+   "owner": "pani-z-rozmitalu",
+   "note": "Lev hrad důkladně přestavěl (hrady.cz a Atlas Česka uvádějí chybně rok 1646); konec držby uveden jen jako konec 15. století"
+  },
+  {
+   "owner_wiki": "Švihovští z Rýzmberka",
+   "person": "Půta Švihovský z Rýzmberka (zemřel 1504) a jeho synové",
+   "from": 1490,
+   "to": 1514,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "koupe",
+   "owner": "svihovsti-z-ryzmberka",
+   "note": "koupil hrad s panstvím koncem 15. století; synové prodali 1514"
+  },
+  {
+   "owner_wiki": null,
+   "person": "Václav Kraselovský z Kraselova",
+   "from": 1514,
+   "to": 1544,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "owner": "z-kraselova",
+   "note": "zemřel 1544; pravděpodobně zahájil renesanční přestavbu; 1536 zpráva o dolním a horním hradu"
+  },
+  {
+   "owner_wiki": "Leskovcové z Leskovce",
+   "person": "Václav z Leskovce a jeho dědicové",
+   "from": 1544,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "owner": "leskovcove-z-leskovce",
+   "note": "dědicové koncem 16. století vyměnili Střelu s Boubínskými z Újezda za statek Dub; přesný rok výměny není uveden"
+  },
+  {
+   "owner_wiki": null,
+   "person": null,
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "vymena",
+   "owner": "boubinsti-z-ujezda",
+   "note": "hrad 1619 dobyl a vypálil Martin de Hoeff-Huerta, majetek Boubínských propadl za účast na povstání 1618-1620 konfiskaci; roky držby nejsou uvedeny"
+  },
+  {
+   "owner_wiki": null,
+   "person": null,
+   "from": null,
+   "to": 1623,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "owner": "koruna",
+   "note": "zabavené panství koupil 1623 Libštejnský z Kolovrat; rok konfiskace není uveden"
+  },
+  {
+   "owner_wiki": "Libštejnští z Kolovrat",
+   "person": "Jindřich Libštejnský z Kolovrat, poté Václav Libštejnský (jezuita)",
+   "from": 1623,
+   "to": 1654,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "owner": "libstejnsti-z-kolovrat",
+   "note": "cs.wiki uvádí jen Václava, hrady.cz kupce 1623 Jindřicha a dědice Václava; 1645 hrad vypálili Švédové; Václav panství odkázal jezuitům (hrady.cz a Atlas Česka 1654; Strakonický deník uvádí 1664, pravděpodobně chyba)"
+  },
+  {
+   "owner_wiki": null,
+   "person": "jezuité (od 1661 klatovská jezuitská kolej)",
+   "from": 1654,
+   "to": 1773,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "owner": "cirkev",
+   "note": "správa nejprve řádový probošt, od 1661 klatovská kolej; na zbořeništi postavena kaple a barokní zámek dokončený před 1720"
+  },
+  {
+   "owner_wiki": null,
+   "person": "studijní fond",
+   "from": 1773,
+   "to": 1777,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "owner": "stat",
+   "note": "po zrušení řádu; Strakonický deník uvádí náboženský fond"
+  },
+  {
+   "owner_wiki": null,
+   "person": "Josef Kraus ze Strakonic",
+   "from": 1777,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "owner": "soukromnik",
+   "note": "vrchnostenský správce; koupil zámek s přilehlými zahradami; rok konce držby není uveden"
+  },
+  {
+   "owner_wiki": null,
+   "person": "Erasmus Obst a potomci",
+   "from": null,
+   "to": 1889,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "owner": "soukromnik",
+   "note": "Erasmus Obst koupil zámek od rodiny Krausů, předtím střelské a hoštické panství; v 2. polovině 19. stol. zámek celkově opravili; rok nabytí není uveden; hrady.cz a cs.wiki uvádějí konec 1889, Strakonický deník 1869"
+  },
+  {
+   "owner_wiki": null,
+   "person": null,
+   "from": 1889,
+   "to": 1948,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "owner": "soukromnik",
+   "note": "vystřídalo se několik majitelů (Strakonický deník uvádí od 1900 rodinu Wesselých); jména jinak neuvedena"
+  },
+  {
+   "owner_wiki": null,
+   "person": null,
+   "from": 1948,
+   "to": 1990,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "konfiskace",
+   "owner": "stat",
+   "note": "znárodněno; internátní zvláštní škola, později depozitář strakonického okresního archivu"
+  },
+  {
+   "owner_wiki": null,
+   "person": "Hana Meindlová a rodina (původní majitelé)",
+   "from": 1990,
+   "to": 2006,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "restituce",
+   "owner": "soukromnik",
+   "note": "po roce 1990 vráceno v restituci, obývali do 2006"
+  },
+  {
+   "owner_wiki": null,
+   "person": "lotyšský podnikatel (jméno neuvedeno)",
+   "from": 2006,
+   "to": 2017,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "owner": "soukromnik",
+   "note": "zámek chátral, stal se terčem zlodějů a squatterů"
+  },
+  {
+   "owner_wiki": null,
+   "person": "Evžen Hrnčíř",
+   "from": 2017,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "owner": "soukromnik",
+   "note": "přednosta kliniky pracovního lékařství FN Královské Vinohrady; zámek zabezpečil a oplotil, plánuje rekonstrukci"
+  }
  ],
  "events": [
-  {"year": 1318, "text": "první spolehlivá zmínka o hradu a dvoře, patřil Blehovi ze Střely"},
-  {"year": 1464, "text": "panství získal Lev z Rožmitálu, za jeho synů hrad přestavěn"},
-  {"year": 1514, "text": "Václav Kraselovský z Kraselova koupil hrad a zahájil renesanční přestavbu"},
-  {"year": 1621, "text": "majetek Boubínských z Újezda propadl koruně za účast na stavovském povstání"},
-  {"year": 1645, "text": "hrad vypálilo švédské vojsko před koncem třicetileté války"},
-  {"year": 1661, "text": "klatovská jezuitská kolej zahájila přestavbu poškozeného hradu na barokní zámek"},
-  {"year": 1948, "text": "zámek znárodněn po komunistickém převratu"},
-  {"year": 2017, "text": "chátrající zámek koupil Evžen Hrnčíř a zabezpečil ho proti vniknutí"}
+  {
+   "year": 1318,
+   "text": "první spolehlivá zmínka o hradu a dvoře, majitel Bleh ze Střely"
+  },
+  {
+   "year": 1464,
+   "text": "panství získal Lev z Rožmitálu, za jeho synů hrad přestavěn"
+  },
+  {
+   "year": 1514,
+   "text": "Václav Kraselovský z Kraselova koupil hrad od synů Půty Švihovského"
+  },
+  {
+   "year": 1623,
+   "text": "zkonfiskované panství Boubínských koupili Libštejnští z Kolovrat"
+  },
+  {
+   "year": 1645,
+   "text": "hrad vypálilo švédské vojsko"
+  },
+  {
+   "year": 1654,
+   "text": "panství odkázáno jezuitské koleji, od 1661 správa klatovské koleje, později stavba barokního zámku"
+  },
+  {
+   "year": 1773,
+   "text": "po zrušení jezuitského řádu připadl zámek studijnímu fondu, 1777 koupil Josef Kraus"
+  },
+  {
+   "year": 2017,
+   "text": "chátrající zámek koupil Evžen Hrnčíř a zabezpečil ho"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/St%C5%99ela_(hrad)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Střela_(hrad)",
+  "https://www.hrady.cz/zamek-strela",
+  "https://www.atlasceska.cz/pamatky/zamek-strela-20066",
+  "https://strakonicky.denik.cz/zpravy-region/strela-internat-depozitar-poklad-studna-historie-zamek-htad/"
+ ]
 }

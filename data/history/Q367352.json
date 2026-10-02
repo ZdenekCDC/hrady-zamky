@@ -2,38 +2,206 @@
  "id": "Q367352",
  "name": "Jaroměřice nad Rokytnou",
  "founded": {
-  "year": 1554,
-  "approx": true,
-  "text": "Existence středověké tvrze na místě dnešního zámku je sporná (podle části badatelů zde žádná tvrz nestála); doloženou stavební proměnou je přestavba na renesanční zámek, kterou po nástupu vlády roku 1554 zahájil Ludvík Meziříčský z Lomnice."
+  "year": null,
+  "approx": false,
+  "text": "Středověká tvrz (hrady.cz: 14.-15. stol.) stála na místě dnešního zámku, první písemná zmínka o Jaroměřicích je z roku 1325; renesanční přestavbu zahájili Meziříčtí z Lomnice, barokní přestavba proběhla za Jana Adama z Questenberka v letech 1700-1737 podle Jakuba Prandtauera."
  },
- "summary": "Jaroměřice nad Rokytnou byly podle pověsti založeny roku 1131 jako zeměpanský statek, první písemná zmínka je z roku 1325, kdy je držel Rajmund z Lichtenburka. Po pánech z Ludanic, Pernštejnech a Meziříčských z Lomnice panství roku 1613 koupil Jiří Rechenberk ze Želetic, po jeho konfiskaci za stavovské povstání je od roku 1623 vlastnili Questenberkové, kteří zámek renesančně i barokně přestavěli. Od roku 1752 patřily Kounicům, po dlouhém dědickém sporu je roku 1897 získal Rudolf hrabě z Vrbna (rod Wrbna-Kaunitz-Questenberg) a po něm jeho manželka Elvíra, rozená princezna bavorská. Za války jej koupily německé říšské dráhy, po roce 1945 připadl československému státu a dodnes jej spravuje Národní památkový ústav.",
+ "summary": "Jaroměřice drželi od 14. století Lichtenburkové, od 1498 Ludaničtí, Pernštejnové a Meziříčští z Lomnice, kteří tvrz přestavěli na renesanční zámek. Po Bílé hoře (1623) získali panství Questenberkové, za nichž Jan Adam v letech 1700-1737 vybudoval barokní zámek a proslavil jej hudbou a divadlem. Od 1752 patřil Kounicům, od 1897 Wrbna-Kaunitzům; po roce 1945 je státním zámkem ve správě Národního památkového ústavu.",
  "owners": [
-  {"owner": "koruna", "owner_wiki": null, "person": null, "from": 1131, "to": 1325, "from_approx": true, "to_approx": true, "how": "zalozeni", "note": "rok 1131 je tradovaný (heraldická pověst) rok založení obce jako zeměpanského statku; první písemná zmínka je z roku 1325"},
-  {"owner": "lichtenburkove", "owner_wiki": "Lichtenburkové", "person": "Rajmund z Lichtenburka", "from": 1325, "to": 1498, "from_approx": false, "to_approx": true, "how": "neznamo", "note": "doložen 1325 jako světský držitel (pán Bítova); k roku 1498 už panství drží koruna, která je dává v léno - přesný rok a způsob přechodu cs.wiki neuvádí"},
-  {"owner": "pani-z-ludanic", "owner_wiki": "Páni z Ludanic", "person": "Václav z Ludanic", "from": 1498, "to": 1522, "from_approx": false, "to_approx": false, "how": "lenni", "note": "léno udělil král Vladislav Jagellonský"},
-  {"owner": "pernstejnove", "owner_wiki": "Pernštejnové", "person": "Jan IV. z Pernštejna", "from": 1522, "to": 1534, "from_approx": false, "to_approx": false, "how": "koupe"},
-  {"owner": "meziricti-z-lomnice", "owner_wiki": null, "person": "Ludvík Meziříčský z Lomnice", "from": 1534, "to": 1613, "from_approx": false, "to_approx": false, "how": "koupe", "note": "rod bez samostatného cs.wiki článku (větev pánů z Lomnice); Ludvík Meziříčský od roku 1554 přestavěl tvrz na renesanční zámek"},
-  {"owner": "z-zeletic", "owner_wiki": null, "person": "Jiří Rechenberk ze Želetic", "from": 1613, "to": 1620, "from_approx": false, "to_approx": false, "how": "koupe", "note": "rod bez samostatného cs.wiki článku; panství mu bylo zkonfiskováno za účast ve stavovském povstání"},
-  {"owner": "koruna", "owner_wiki": null, "person": null, "from": 1620, "to": 1623, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "konfiskát v držení královské komory před prodejem Questenberkům"},
-  {"owner": "questenberkove", "owner_wiki": "Questenberkové", "person": "Gerhard z Questenberka", "from": 1623, "to": 1752, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil konfiskát od královské komory; Jan Antonín z Questenberka dokončil renesanční přestavbu, Jan Adam z Questenberka provedl barokní přestavbu zámku i kostela"},
-  {"owner": "kounicove", "owner_wiki": "Kounicové", "person": "Václav Antonín z Kounic-Rietbergu", "from": 1752, "to": 1848, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "smrtí Aloise Václava z Kounic v listopadu 1848 bez mužských potomků vznikl dlouholetý spor o dědictví fideikomisu"},
-  {"owner": "bruntalsti-z-vrbna", "owner_wiki": null, "person": "Rudolf Kristián hrabě z Vrbna a Freudenthalu", "from": 1897, "to": 1927, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "spor o kounicovské dědictví rozhodl c. k. nejvyšší soudní dvůr výnosem z 28. dubna 1897 ve prospěch Rudolfa, vnuka Marie Terezie z Kounic; roku 1898 mu byl povolen rodový název a erb Wrbna-Kaunitz-Rietberg-Questenberg. Roky 1848-1897 zůstávají v držení sporné"},
-  {"owner": "wittelsbachove", "owner_wiki": "Wittelsbachové", "person": "Elvíra z Wrbna-Kaunic, rozená bavorská princezna", "from": 1927, "to": 1943, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "po Rudolfově smrti 1927 zůstal zámek Jaroměřice jeho manželce Elvíře; zemřela 1943, poté byla na zadlužené panství uvalena nucená správa"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1943, "to": 1945, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "roku 1943 zámek koupily německé říšské dráhy (Deutsche Reichsbahn) a zřídily zde drážní učiliště (Reichsbahnschule)"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "po válce velkostatek převzaly Československé státní dráhy, majetek E. Wrbna-Kaunicové byl 1946 formálně konfiskován dekretem č. 108/45; dnes ve správě Národního památkového ústavu"}
+  {
+   "owner": "lichtenburkove",
+   "owner_wiki": "Lichtenburkové",
+   "person": "Rajmund z Lichtenburka",
+   "from": 1325,
+   "to": 1498,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "doložen 1325 jako světský držitel; Radio Prague uvádí 'dvě století' držby Lichtenburků; rok přechodu na korunu a přesný průběh do 1498 žádný zdroj neuvádí"
+  },
+  {
+   "owner": "pani-z-ludanic",
+   "owner_wiki": "Páni z Ludanic",
+   "person": "Václav z Ludanic",
+   "from": 1498,
+   "to": 1512,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "král Vladislav II. předal 1498 tvrz s městečkem a statky Václavu z Ludanic"
+  },
+  {
+   "owner": "pernstejnove",
+   "owner_wiki": "Pernštejnové",
+   "person": "Jan z Pernštejna",
+   "from": 1512,
+   "to": 1543,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "hrady.cz uvádí Jana z Pernštejna jako držitele 1512 a 1543 postoupil panství Jindřichu Meziříčskému; cs.wiki uvádí koupi Janem IV. z Pernštejna 1522"
+  },
+  {
+   "owner": "pani-z-lomnice",
+   "owner_wiki": "Páni z Lomnice",
+   "person": "Jindřich Meziříčský z Lomnice, poté Ludvík Meziříčský z Lomnice, Kateřina Meziříčská",
+   "from": 1543,
+   "to": 1609,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "cs.wiki uvádí počátek držby 1534; hrady.cz 1543; za Meziříčských přestavba tvrze na renesanční zámek (Ludvík od 1554); 1609 prodala Kateřina Meziříčská panství Tiefenbachovi"
+  },
+  {
+   "owner": "teuffenbachove",
+   "owner_wiki": "Teuffenbachové",
+   "person": "Zikmund z Tiefenbachu",
+   "from": 1609,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "podle hrady.cz zahájil stavbu nového sídla, kterou dokončili Rechenberkové; cs.wiki Tiefenbacha neuvádí a udává koupi Jiřím Rechenberkem ze Želetic 1613"
+  },
+  {
+   "owner": "z-zeletic",
+   "owner_wiki": null,
+   "person": "Jiří (Petr) Rechenberk ze Želetic",
+   "from": null,
+   "to": 1620,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "cs.wiki: koupil 1613; panství mu zkonfiskováno za stavovské povstání; Radio Prague uvádí jméno Petr Rechenberg"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1620,
+   "to": 1623,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "konfiskát v držení královské komory před prodejem Questenberkům"
+  },
+  {
+   "owner": "questenberkove",
+   "owner_wiki": "Questenberkové",
+   "person": "Gerhard (Jaromír) z Questenberka, Jan Antonín z Questenberka, Jan Adam z Questenberka",
+   "from": 1623,
+   "to": 1752,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "cs.wiki 1623, Radio Prague 1624; Jan Antonín dokončil renesanční přestavbu, Jan Adam (dědic od 1686, zemř. 1752) provedl barokní přestavbu 1700-1737 podle Prandtauera"
+  },
+  {
+   "owner": "kounicove",
+   "owner_wiki": "Kounicové",
+   "person": "Václav Antonín z Kounic-Rietbergu a jeho potomci; poslední kníže Alois Václav (1774-1848)",
+   "from": 1752,
+   "to": 1848,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "Kaunitz-Rietberg-Questenberg; Alois Václav zemřel v listopadu 1848 bez mužských potomků, fideikomis byl v sekvestraci"
+  },
+  {
+   "owner": "neznamo",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1848,
+   "to": 1897,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "dlouholetý spor o dědictví fideikomisu; držitele po roce 1848 zdroje neuvádějí"
+  },
+  {
+   "owner": "bruntalsti-z-vrbna",
+   "owner_wiki": "Bruntálští z Vrbna",
+   "person": "Rudolf hrabě z Vrbna a Freudenthalu (od 1898 Wrbna-Kaunitz-Rietberg-Questenberg), 1864-1927",
+   "from": 1897,
+   "to": 1927,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "spor rozhodl výnos c. k. nejvyššího soudního dvora z 28. dubna 1897 ve prospěch Rudolfa, vnuka Marie Terezie z Kounic provdané z Wrbna; 1. 3. 1898 povolen rodový název a erb"
+  },
+  {
+   "owner": "bruntalsti-z-vrbna",
+   "owner_wiki": "Bruntálští z Vrbna",
+   "person": "Elvíra z Wrbna-Kaunic, rozená princezna bavorská (1868-1943)",
+   "from": 1927,
+   "to": 1943,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "vdova po Rudolfovi; po její smrti nucená správa zadluženého panství"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": "Deutsche Reichsbahn",
+   "from": 1943,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "německé říšské dráhy koupily zámek a zřídily drážní učiliště"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "po válce převzaly Československé státní dráhy, majetek E. Wrbna-Kaunicové konfiskován dekretem č. 108/45 (1946); od 1945 majetek státu, dnes státní zámek ve správě NPÚ"
+  }
  ],
  "events": [
-  {"year": 1325, "text": "první písemná zmínka o Jaroměřicích, král Jan Lucemburský daruje patronát farního kostela klášteru v Sedlci"},
-  {"year": 1554, "text": "Ludvík Meziříčský z Lomnice zahajuje přestavbu tvrze na renesanční zámek"},
-  {"year": 1620, "text": "panství zkonfiskováno Jiřímu Rechenberkovi ze Želetic za účast ve stavovském povstání"},
-  {"year": 1661, "text": "Jan Antonín z Questenberka dokončuje renesanční přestavbu zámku včetně divadla"},
-  {"year": 1730, "text": "vrcholí barokní přestavba zámku a zámeckého kostela sv. Markéty za Jana Adama z Questenberka, vzniká zámecký park"},
-  {"year": 1897, "text": "spor o kounicovské dědictví rozhoduje nejvyšší soud ve prospěch Rudolfa hraběte z Vrbna"},
-  {"year": 1943, "text": "zámek kupují německé říšské dráhy a zřizují drážní učiliště"},
-  {"year": 1946, "text": "majetek E. Wrbna-Kaunicové konfiskován dekretem č. 108/45, zámek přechází pod stát"}
+  {
+   "year": 1325,
+   "text": "první písemná zmínka o Jaroměřicích, držitel Rajmund z Lichtenburka"
+  },
+  {
+   "year": 1498,
+   "text": "král Vladislav II. předal tvrz s městečkem Václavu z Ludanic"
+  },
+  {
+   "year": 1554,
+   "text": "Ludvík Meziříčský z Lomnice zahájil přestavbu tvrze na renesanční zámek"
+  },
+  {
+   "year": 1623,
+   "text": "po konfiskaci Rechenberkům panství získali Questenberkové"
+  },
+  {
+   "year": 1700,
+   "text": "Jan Adam z Questenberka zahájil barokní přestavbu podle Prandtauera (dokončena 1737)"
+  },
+  {
+   "year": 1752,
+   "text": "smrt Jana Adama z Questenberka, panství přechází na Kounice"
+  },
+  {
+   "year": 1897,
+   "text": "spor o kounicovské dědictví rozhodl nejvyšší soud ve prospěch Rudolfa hraběte z Vrbna"
+  },
+  {
+   "year": 1945,
+   "text": "zámek přechází do majetku státu, dnes spravuje NPÚ"
+  }
  ],
  "sources": [
   "https://cs.wikipedia.org/wiki/Jaroměřice_nad_Rokytnou_(zámek)",
-  "https://cs.wikipedia.org/wiki/Jaroměřice_nad_Rokytnou"
+  "https://www.hrady.cz/zamek-jaromerice-nad-rokytnou/",
+  "https://www.novanobilitas.eu/sites/default/files/vznik_rodu_wrbna-kaunitz.pdf",
+  "https://cesky.radio.cz/jaromericky-zamek-pohadkova-perla-baroka-kterou-miluji-filmari-8871839",
+  "https://www.zamek-jaromerice.cz/cs/o-zamku/historie"
  ]
 }

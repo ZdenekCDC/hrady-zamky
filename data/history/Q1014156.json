@@ -1,22 +1,96 @@
 {
  "id": "Q1014156",
  "name": "Strakonice",
- "founded": {"year": 1220, "approx": true, "text": "Hrad byl založen mezi lety 1220-1235 Bavorem I. ze Strakonic."},
- "summary": "Hrad ve Strakonicích založil počátkem 13. století Bavor I., roku 1243 s manželkou darovali východní polovinu hradu řádu maltézských rytířů (johanitů), který roku 1402 získal hrad celý a učinil jej sídlem svých velkopřevorů. Řád zde působil i přes zábor hospodářského zázemí panství při pozemkové reformě po roce 1918, byty pro členy NSDAP za okupace a perzekuci komunistickým režimem po roce 1948 (akce K, věznění posledního převora Antonína Voráčka). V roce 2022 získalo prostory hradu od římskokatolické církve Muzeum středního Pootaví, které v nich vybudovalo expozici o maltézském řádu.",
+ "founded": {
+  "year": 1220,
+  "approx": true,
+  "text": "Hrad založili Bavorové ze Strakonic ve 20.-30. letech 13. století (cs.wiki 1220-1235); první Bavor s přídomkem ze Strakonic doložen 1235, listina z roku 1243 je oficiálním rokem příchodu johanitů."
+ },
+ "summary": "Hrad na soutoku Otavy a Volyňky založili ve 20.-30. letech 13. století Bavorové ze Strakonic. Roku 1243 Bavor I. daroval johanitům (pozdější maltézským rytířům) část hradu s kostelem; Bavorové zchudli a roku 1402 prodali zbytek Vykéřovi z Jenišovic, od něhož jej koupil velkopřevor Jindřich z Hradce, takže řád držel celý hrad a od 1420/1421 zde sídlil velkopřevor. Řád odprodal roku 1925 panství rodině Beranů; dnes patří areál Jihočeskému kraji (hradní palác, od 2015 i bývalá komenda), městu Strakonice a kostel sv. Prokopa církvi.",
  "owners": [
-  {"owner": "bavorove-ze-strakonic", "owner_wiki": "Bavorové ze Strakonic", "person": "Bavor I., Bavor II., Bavor III.", "from": 1220, "to": 1402, "from_approx": true, "to_approx": true, "how": "zalozeni", "note": "roku 1243 darovali východní polovinu hradu maltézským rytířům (johanitům); počátkem 14. stol. Bavor III. přestavěl západní opevnění; roku 1402 získal řád hrad celý, přesný okamžik ztráty zbylé části rodem není ve zdroji uveden"},
-  {"owner": "cirkev", "owner_wiki": null, "person": "Řád maltézských rytířů (johanité, maltézský velkopřevorský řád)", "from": 1243, "to": 2022, "from_approx": false, "to_approx": false, "how": "dar", "note": "zpočátku jen východní polovina hradu (komenda), od 1402 celý hrad, od 1421 sídlo velkopřevorů; po roce 1918 první pozemková reforma zabrala hrad a hospodářské budovy velkostatku, řád v areálu přesto dál působil; 1939-1940 zřízeny v severním křídle byty pro členy NSDAP; Benešovy dekrety (1946) a komunistické represe od akce K (1949) postihly konvent, poslední tajně zvolený převor Antonín Voráček byl 1954 uvězněn a vrátil se až 1960; roku 2022 předala církev prostory hradu muzeu"},
-  {"owner": "mesto", "owner_wiki": null, "person": "Muzeum středního Pootaví", "from": 2022, "to": null, "from_approx": false, "to_approx": false, "how": "jine", "note": "muzeum získalo prostory hradu od římskokatolické církve; přesná právní forma vlastnictví není ve zdroji upřesněna, v areálu dále sídlí Šmidingerova knihovna a ZUŠ Strakonice"}
+  {
+   "owner": "bavorove-ze-strakonic",
+   "owner_wiki": "Bavorové ze Strakonic",
+   "person": "Bavor I., Bavor II., Bavor III. a další Bavorové ze Strakonic",
+   "from": 1220,
+   "to": 1402,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "od 1243 spoluvlastnili hrad s johanity (ti drželi východní část, striktně oddělenou); poslední Břeněk ze Strakonic prodal 1402 panství Vykéřovi z Jenišovic"
+  },
+  {
+   "owner": "cirkev",
+   "owner_wiki": null,
+   "person": "Řád maltézských rytířů (johanité, velkopřevorství)",
+   "from": 1243,
+   "to": 2015,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dar",
+   "note": "od 1243 východní polovina hradu (komenda), od 1402 celý hrad koupí velkopřevorem Jindřichem z Hradce; sídlo velkopřevorů od 1420 (archaeologia historica) resp. 1421 (cs.wiki); 1925 řád odprodal panství rodině Rudolfa Berana, bývalou komendu získal 2015 Jihočeský kraj; za okupace a po 1948 represe vůči řádu"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Vykéř z Jenišovic",
+   "from": 1402,
+   "to": 1402,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "drobný šlechtic, který panství obratem prodal johanitům (web hradu); cs.wiki tento mezistupeň neuvádí"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "Jihočeský kraj a město Strakonice",
+   "from": 2015,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "podle webu hradu má areál tři vlastníky: Jihočeský kraj (hradní palác s věžemi Rumpál a Jelenka, od 2015 i bývalá komenda; kraj je od 2003 zřizovatelem muzea), město Strakonice (budovy Šmidingerovy knihovny a ZUŠ) a římskokatolická církev (kostel sv. Prokopa); cs.wiki uvádí, že Muzeum středního Pootaví získalo 2022 prostory od církve - rozpor, rok nabytí kraje a města mimo komendu nezjištěn"
+  }
  ],
  "events": [
-  {"year": 1235, "text": "dokončena první stavební fáze hradu (opevnění, kostel, palác s kapitulní síní)"},
-  {"year": 1243, "text": "Bavor I. daroval východní polovinu hradu řádu maltézských rytířů"},
-  {"year": 1402, "text": "johanité získali celý hrad"},
-  {"year": 1449, "text": "Václav z Michalovic ustavil na hradě Jednotu strakonickou proti kališníkům"},
-  {"year": 1620, "text": "hrad dobyt a vypleněn stavovskými vojsky"},
-  {"year": 1721, "text": "dokončena barokní zámecká přístavba (stavební úpravy 1714-1721)"},
-  {"year": 1918, "text": "první pozemková reforma zabrala hrad a hospodářské budovy velkostatku"},
-  {"year": 2022, "text": "Muzeum středního Pootaví získalo od církve prostory hradu a otevřelo expozici o maltézském řádu"}
+  {
+   "year": 1235,
+   "text": "první doložený Bavor s přídomkem ze Strakonic (listina Václava I.)"
+  },
+  {
+   "year": 1243,
+   "text": "Bavor I. daroval východní část hradu s kostelem johanitům, oficiální rok příchodu řádu"
+  },
+  {
+   "year": 1402,
+   "text": "Břeněk ze Strakonic prodal panství Vykéřovi z Jenišovic, který je prodal johanitům; řád získal celý hrad"
+  },
+  {
+   "year": 1420,
+   "text": "hrad se stal hlavním sídlem českého johanitského velkopřevorství (cs.wiki uvádí 1421)"
+  },
+  {
+   "year": 1516,
+   "text": "velkopřevor Jan z Rožmberka dává hrad přestavět a postavit věž Jelenku (1516-1522)"
+  },
+  {
+   "year": 1715,
+   "text": "barokní zámek postaven za velkopřevora Ferdinanda Leopolda Dubského z Třebomyslic"
+  },
+  {
+   "year": 1925,
+   "text": "řád odprodal panství rodině Rudolfa Berana"
+  },
+  {
+   "year": 2022,
+   "text": "otevřena nová expozice o maltézském řádu v bývalé komendě"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Strakonice_(hrad)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Strakonice_(hrad)",
+  "https://www.hradstrakonice.cz/historie",
+  "https://journals.phil.muni.cz/archaeologia-historica/article/view/25141",
+  "https://www.strakonice.eu/content/strakonicky-hrad"
+ ]
 }

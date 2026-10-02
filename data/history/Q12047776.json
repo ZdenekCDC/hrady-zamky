@@ -1,32 +1,196 @@
 {
  "id": "Q12047776",
  "name": "Písek",
- "founded": {"year": 1250, "approx": true, "text": "Hrad kastelového typu založil okolo poloviny 13. století král Přemysl Otakar II."},
+ "founded": {
+  "year": 1250,
+  "approx": true,
+  "text": "Hrad kastelového typu založil okolo poloviny 13. století král Přemysl Otakar II."
+ },
  "summary": "Písecký hrad založil kolem poloviny 13. století Přemysl Otakar II. a s krátkou výjimkou zástavy za Jana Lucemburského patřil až do husitských válek českým králům. Od druhé poloviny 15. století jej drželi v zástavě různí šlechtici (Rožmitálové, Jenštejnové, Plavenští z Plavna, Pluhové z Rabštejna), roku 1509 jej koupilo město Písek, v jehož majetku roku 1532 vyhořel. Za třicetileté války byl krátce zastaven cizím žoldnéřským velitelům, poté ztratil sídelní funkci a sloužil jako radnice a hospodářským účelům; od roku 1902 v něm sídlí Prácheňské muzeum.",
  "owners": [
-  {"owner": "koruna", "owner_wiki": null, "person": "Přemysl Otakar II., poté Jan Lucemburský a Karel IV., naposledy Václav IV.", "from": 1250, "to": 1419, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "krátká zástava za Jana Lucemburského vykoupena roku 1333 Karlem IV.; roku 1419 získal hrad od Václava IV. Jan Hájek z Hodětína"},
-  {"owner": "z-hodetina", "owner_wiki": null, "person": "Jan Hájek z Hodětína", "from": 1419, "to": 1419, "from_approx": false, "to_approx": false, "how": "koupe", "note": "hrad s příslušenstvím získal v ceně 500 kop grošů; jeho vztah k husitství je nejasný, ještě téhož roku se hradu zmocnilo město"},
-  {"owner": "mesto", "owner_wiki": null, "person": "město Písek", "from": 1419, "to": 1436, "from_approx": false, "to_approx": false, "how": "jine", "note": "město se hradu zmocnilo 1419; královská komora jej získala zpět 1436"},
-  {"owner": "koruna", "owner_wiki": null, "person": null, "from": 1436, "to": 1459, "from_approx": false, "to_approx": true, "how": "jine", "note": "královská komora; roku 1454 u soudu neúspěšně nárokovala hrad Kateřina z Hodětína; purkrabský úřad v té době zastávali členové rodu Malovců a Racek z Kocova, aniž by byli vlastníky"},
-  {"owner": "pani-z-rozmitalu", "owner_wiki": "Páni z Rožmitálu", "person": "Lev z Rožmitálu", "from": 1459, "to": 1471, "from_approx": false, "to_approx": true, "how": "lenni", "note": "označován jako pán na Písku, naposledy doložen 1471"},
-  {"owner": "jenstejnove", "owner_wiki": "Jenštejnové", "person": "Jindřich z Jenštejna", "from": 1471, "to": 1479, "from_approx": true, "to_approx": true, "how": "lenni", "note": "zástavní držitel, roku 1479 nechal vyzdobit velký sál malbami"},
-  {"owner": "plavensti-z-plavna", "owner_wiki": "Plavenští z Plavna", "person": "Jindřich mladší z Plavna", "from": 1479, "to": 1479, "from_approx": true, "to_approx": true, "how": "lenni", "note": "zástavní držitel po Jindřichovi z Jenštejna, přesná léta držby zdroj neuvádí"},
-  {"owner": "pluhove-z-rabstejna", "owner_wiki": "Pluhové z Rabštejna", "person": "Hynek Pluh z Rabštejna, poté synové Jan, Šebestián, Hynek, Beneš, Kryštof a Štěpán", "from": 1479, "to": 1509, "from_approx": true, "to_approx": false, "how": "lenni", "note": "synové hrad 3. února 1509 prodali za 9000 kop grošů městu Písku"},
-  {"owner": "mesto", "owner_wiki": null, "person": "město Písek", "from": 1509, "to": 1547, "from_approx": false, "to_approx": false, "how": "koupe", "note": "vlastnictví potvrdil 1512 král Vladislav Jagellonský; roku 1532 hrad z velké části vyhořel"},
-  {"owner": "koruna", "owner_wiki": null, "person": null, "from": 1547, "to": 1558, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "konfiskace za účast města na stavovském povstání 1547; hrad byl od té doby označován jako pustý"},
-  {"owner": "mesto", "owner_wiki": null, "person": "město Písek", "from": 1558, "to": 1620, "from_approx": false, "to_approx": true, "how": "jine", "note": "král Ferdinand I. vrátil majetek městu 27. ledna 1558; roku 1619-1620 město znovu dobyto císařským vojskem generála Buquoye a přišlo o majetek"},
-  {"owner": "hoeff-huertove", "owner_wiki": null, "person": "Martin de Hoeff-Huerta (spolu s Filipem Arizace de Avendino do 1625)", "from": 1623, "to": 1637, "from_approx": false, "to_approx": false, "how": "lenni", "note": "hrad s městem získali 21. června 1623 do zástavy za 110000 zlatých; Huerta na hradě příležitostně sídlil a roku 1632 nechal jižní křídlo přestavět na pivovar; po jeho smrti 1637 hrad ztratil sídelní funkci"},
-  {"owner": "mesto", "owner_wiki": null, "person": "město Písek", "from": 1637, "to": null, "from_approx": true, "to_approx": false, "how": "jine", "note": "zdroj po roce 1637 výslovně vlastníka neuvádí, ale město ve východním křídle dále provozovalo radnici; od 1902 v hradu sídlí Prácheňské muzeum, hrad je kulturní památkou"}
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Přemysl Otakar II., poté Jan Lucemburský a Karel IV., naposledy Václav IV.",
+   "from": 1250,
+   "to": 1419,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "krátká zástava za Jana Lucemburského vykoupena roku 1333 Karlem IV.; roku 1419 získal hrad od Václava IV. Jan Hájek z Hodětína"
+  },
+  {
+   "owner": "z-hodetina",
+   "owner_wiki": null,
+   "person": "Jan Hájek z Hodětína",
+   "from": 1419,
+   "to": 1419,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "hrad s příslušenstvím získal v ceně 500 kop grošů; jeho vztah k husitství je nejasný, ještě téhož roku se hradu zmocnilo město"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "město Písek",
+   "from": 1419,
+   "to": 1436,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "město se hradu zmocnilo 1419; královská komora jej získala zpět 1436"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1436,
+   "to": 1459,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "jine",
+   "note": "královská komora; roku 1454 u soudu neúspěšně nárokovala hrad Kateřina z Hodětína; purkrabský úřad v té době zastávali členové rodu Malovců a Racek z Kocova, aniž by byli vlastníky; hrady.cz: 1453 král Ladislav Pohrobek hrad postoupil nějakému Malovci"
+  },
+  {
+   "owner": "pani-z-rozmitalu",
+   "owner_wiki": "Páni z Rožmitálu",
+   "person": "Lev z Rožmitálu",
+   "from": 1459,
+   "to": 1471,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "lenni",
+   "note": "označován jako pán na Písku, naposledy doložen 1471; uvádí jen cs.wiki, druhý zdroj Lva z Rožmitálu nezmiňuje"
+  },
+  {
+   "owner": "jenstejnove",
+   "owner_wiki": "Jenštejnové",
+   "person": "Jindřich z Jenštejna",
+   "from": 1471,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "zástavní držitel, roku 1479 nechal vyzdobit velký sál malbami (cs.wiki i hrady.cz); přesná léta držby zdroje neuvádějí"
+  },
+  {
+   "owner": "plavensti-z-plavna",
+   "owner_wiki": "Plavenští z Plavna",
+   "person": "Jindřich mladší z Plavna",
+   "from": null,
+   "to": 1495,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "zástavní držitel po Jindřichovi z Jenštejna (jen cs.wiki); přesná léta držby zdroj neuvádí"
+  },
+  {
+   "owner": "pluhove-z-rabstejna",
+   "owner_wiki": "Pluhové z Rabštejna",
+   "person": "Hynek Pluh z Rabštejna, poté synové Jan, Šebestián, Hynek, Beneš, Kryštof a Štěpán",
+   "from": 1495,
+   "to": 1509,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "hrady.cz: Hynek Pluh poslední zástavní pán od 1495; synové Jan, Šebestián, Hynek, Beneš, Kryštof a Štěpán hrad 3. února 1509 prodali za 9000 kop grošů městu Písku"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "město Písek",
+   "from": 1509,
+   "to": 1547,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "vlastnictví potvrdil 1512 král Vladislav Jagellonský; roku 1532 hrad z velké části vyhořel"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1547,
+   "to": 1558,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "konfiskace za účast města na stavovském povstání 1547; hrad byl od té doby označován jako pustý"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "město Písek",
+   "from": 1558,
+   "to": 1620,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "jine",
+   "note": "král Ferdinand I. vrátil majetek městu 27. ledna 1558; roku 1619-1620 město znovu dobyto císařským vojskem generála Buquoye a přišlo o majetek"
+  },
+  {
+   "owner": "hoeff-huertove",
+   "owner_wiki": null,
+   "person": "Martin de Hoeff-Huerta (spolu s Filipem Arizace de Avendino do 1625)",
+   "from": 1623,
+   "to": 1637,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "hrad s městem získali 21. června 1623 do zástavy za 110000 zlatých; Huerta na hradě příležitostně sídlil a roku 1632 nechal jižní křídlo přestavět na pivovar; po jeho smrti 1637 hrad ztratil sídelní funkci; oko.yin.cz uvádí zástavu 1621 (po dobytí města 1620), cs.wiki 21. června 1623 - zvolen přesnější údaj cs.wiki"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "město Písek",
+   "from": 1637,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "jine",
+   "note": "chko.cz uvádí jako majitele město Písek (užívá Prácheňské muzeum); od 1902 v hradu sídlí Prácheňské muzeum, hrad je kulturní památkou"
+  }
  ],
  "events": [
-  {"year": 1264, "text": "Přemysl Otakar II. na hradě pravidelně pobýval v letech 1260-1264"},
-  {"year": 1333, "text": "Karel IV. vykupuje hrad ze zástavy"},
-  {"year": 1509, "text": "hrad kupuje za 9000 kop grošů město Písek"},
-  {"year": 1532, "text": "hrad z velké části vyhořel"},
-  {"year": 1623, "text": "hrad s městem zastaven žoldnéřským velitelům Martinu de Hoeff-Huerta a Filipu Arizace de Avendino"},
-  {"year": 1632, "text": "přestavba jižního křídla na pivovar"},
-  {"year": 1852, "text": "zbořena velká věž hradu pro havarijní stav"},
-  {"year": 1902, "text": "v opraveném paláci zřízeno Prácheňské muzeum"}
+  {
+   "year": 1264,
+   "text": "Přemysl Otakar II. na hradě pravidelně pobýval v letech 1260-1264"
+  },
+  {
+   "year": 1333,
+   "text": "Karel IV. vykupuje hrad ze zástavy"
+  },
+  {
+   "year": 1509,
+   "text": "hrad kupuje za 9000 kop grošů město Písek"
+  },
+  {
+   "year": 1532,
+   "text": "hrad z velké části vyhořel"
+  },
+  {
+   "year": 1623,
+   "text": "hrad s městem zastaven žoldnéřským velitelům Martinu de Hoeff-Huerta a Filipu Arizace de Avendino"
+  },
+  {
+   "year": 1632,
+   "text": "přestavba jižního křídla na pivovar"
+  },
+  {
+   "year": 1852,
+   "text": "zbořena velká věž hradu pro havarijní stav"
+  },
+  {
+   "year": 1902,
+   "text": "v opraveném paláci zřízeno Prácheňské muzeum"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Písek_(hrad)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Písek_(hrad)",
+  "https://www.hrady.cz/hrad-pisek/texty?pos=1000&tid=1701",
+  "http://www.chko.cz/encyklopedie/objekty1.phtml?id=77177",
+  "http://www.oko.yin.cz/103/hrad-pisek-prachenske-muzeum/",
+  "http://www.pruvodce.com/prachenskemuzeum/"
+ ]
 }

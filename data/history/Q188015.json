@@ -1,59 +1,162 @@
 {
-  "id": "Q188015",
-  "name": "Veliš",
-  "founded": {
-    "year": null,
-    "approx": true,
-    "text": "Původně královský hrad, postavený pravděpodobně Václavem II. koncem 13. století; písemně poprvé doložen roku 1316"
+ "id": "Q188015",
+ "name": "Veliš",
+ "founded": {
+  "year": 1300,
+  "approx": true,
+  "text": "Původně královský hrad, postavený pravděpodobně Václavem II. kolem roku 1300 (přelom 13. a 14. století); písemně poprvé doložen roku 1316, kdy jej Jan Lucemburský zastavil Půtovi z Frýdlantu."
+ },
+ "summary": "Královský hrad Veliš postavil pravděpodobně Václav II. kolem roku 1300, poprvé je doložen 1316. Od 1327 jej drželi Vartenberkové (dědičně od 1337), po nich Hašek z Valdštejna, od 1452 Jiří z Poděbrad a od 1487 Trčkové z Lípy, kteří roku 1500 uložili basilejská kompaktáta a hrad přestavěli. Po Thurnovi jej po Bílé hoře získal Albrecht z Valdštejna a po jeho smrti Šlikové. Hrad nebyl za třicetileté války Švédy dobyt, ale roku 1658 jej císař nechal zbořit.",
+ "owners": [
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Václav II., Jan Lucemburský",
+   "from": 1300,
+   "to": 1327,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "1316 Jan Lucemburský hrad zastavil Půtovi z Frýdlantu, poté jej držel Hynek z Valdštejna jako správce a Oldřich z Gusku jako zástavní pán (roky neuvedeny)"
   },
-  "summary": "Zřícenina hradu Veliš nad Podhradím byla původně královským hradem, postaveným pravděpodobně Václavem II. a poprvé písemně doloženým roku 1316. Během své existence mnohokrát změnil vlastníky, mezi nimi byli Jan Lucemburský, Vartenberkové, Albrecht z Valdštejna, Jiří z Poděbrad či Šlikové; od roku 1500 zde bylo po dobu sta let uchováváno basilejské kompaktáta. Koncem 16. století provedl poslední stavební úpravy Vilém Trčka z Lípy, za třicetileté války hrad neúspěšně obléhali Švédové a roku 1658 byl z císařského rozkazu zbořen, aby nemohl padnout do rukou nepřátel.",
-  "owners": [
-    {
-      "owner": "koruna",
-      "owner_wiki": null,
-      "person": "Václav II., Jan Lucemburský",
-      "from": null,
-      "to": null,
-      "from_approx": true,
-      "to_approx": false,
-      "how": "zalozeni",
-      "note": "Václav II. pravděpodobný stavebník, hrad poprvé doložen roku 1316; cs.wiki dál uvádí jen neseřazený výčet vlastníků bez let („byli jimi např.“: Jan Lucemburský, Vartenberkové, Jiří z Poděbrad, Šlikové, Albrecht z Valdštejna), proto nejsou v řetězci."
-    },
-    {
-      "owner": "trckove-z-lipy",
-      "owner_wiki": "Trčkové z Lípy",
-      "person": "Vilém Trčka z Lípy",
-      "from": null,
-      "to": 1658,
-      "from_approx": false,
-      "to_approx": true,
-      "how": "neznamo",
-      "note": "koncem 16. století provedl poslední stavební úpravy hradu; zdroj neuvádí, zda hrad vlastnil ještě v roce 1658, kdy byl z císařského rozkazu zbořen, ani žádného pozdějšího vlastníka"
-    }
-  ],
-  "events": [
-    {
-      "year": 1316,
-      "text": "hrad poprvé písemně doložen"
-    },
-    {
-      "year": 1500,
-      "text": "počátek stoleté úschovy basilejských kompaktát na hradě"
-    },
-    {
-      "year": 1600,
-      "text": "koncem 16. století Vilém Trčka z Lípy provedl poslední stavební úpravy hradu"
-    },
-    {
-      "year": 1658,
-      "text": "hrad z císařského rozkazu zbořen, aby nemohl padnout do rukou nepřátelských vojsk za třicetileté války"
-    },
-    {
-      "year": 1964,
-      "text": "zřícenina prohlášena kulturní památkou"
-    }
-  ],
-  "sources": [
-    "https://cs.wikipedia.org/wiki/Veliš_(hrad)"
-  ]
+  {
+   "owner": "vartenberkove",
+   "owner_wiki": "Vartenberkové",
+   "person": "Beneš starší z Vartenberka, od 1337 syn Ješek a potomci",
+   "from": 1327,
+   "to": 1438,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "1327 zástava za 2000 kop, 1337 dědičně; 1358 směna s Karlem IV.; Jindřich z Vartenberka zemřel 1434 po bitvě u Lipan, poté krátce Machna z Veselé (do 1438); rajnet.cz uvádí Valdštejny již od 1434"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Hašek z Valdštejna",
+   "from": 1438,
+   "to": 1452,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "po rozdělení panství 1438 jej získal Hašek; 1452 jej převedl Jiřímu z Poděbrad (hrady.cz: koupil)"
+  },
+  {
+   "owner": "pani-z-kunstatu-a-podebrad",
+   "owner_wiki": "Páni z Kunštátu a Poděbrad",
+   "person": "Jiří z Poděbrad",
+   "from": 1452,
+   "to": 1472,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Jiří postoupil Veliš na čas Jindřichovi z Michalovic a poté se s ním vyměnil; po Jiříkově smrti si panství rozdělili synové, od 1472 vládl Boček z Kunštátu"
+  },
+  {
+   "owner": "pani-z-kunstatu-a-podebrad",
+   "owner_wiki": "Páni z Kunštátu a Poděbrad",
+   "person": "Boček z Kunštátu",
+   "from": 1472,
+   "to": 1482,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi"
+  },
+  {
+   "owner": "z-hradku",
+   "owner_wiki": null,
+   "person": "Samuel z Hrádku a Valečova",
+   "from": 1482,
+   "to": 1487,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "1487 prodal panství (hrad, město Jičín, Podhradí, 2 dvory a 21 vsí) Mikuláši Trčkovi"
+  },
+  {
+   "owner": "trckove-z-lipy",
+   "owner_wiki": "Trčkové z Lípy",
+   "person": "Mikuláš starší Trčka z Lípy, poté synové a příbuzní, Jan Rudolf a Vilém",
+   "from": 1487,
+   "to": 1606,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "1500 převezena basilejská kompaktáta, pozdně gotická přestavba; poslední stavební úpravy 1593-1596 Vilém Trčka; 1606 prodal Jan Rudolf panství Thurnovi (podle turistika.cz bez města Jičína)"
+  },
+  {
+   "owner": "z-thurnu",
+   "owner_wiki": null,
+   "person": "Jindřich Matyáš Thurn",
+   "from": 1606,
+   "to": 1622,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "jeden z vůdců stavovského povstání, po Bílé hoře uprchl a majetek byl konfiskován"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Albrecht z Valdštejna",
+   "from": 1622,
+   "to": 1634,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "konfiskát prodaný Valdštejnovi, 1628 daroval hrad řádu sv. Františka, ale k založení konventu nedošlo; 1634 zavražděn a majetek znovu konfiskován"
+  },
+  {
+   "owner": "slikove",
+   "owner_wiki": "Šlikové",
+   "person": "Jindřich Šlik z Holíce, od 1650 syn František Arnošt",
+   "from": 1635,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupě po konfiskaci (turistika.cz 1635, rajnet.cz 1634); hrad neúspěšně obléhali Švédové, 1658 byl z císařského rozkazu zbořen (1660 uváděn jako zpustlý), 1678 správce za nedospělého Františka Josefa Šlika dovolil jezuitům použít zdivo; pozdější a dnešní vlastník zdroje neuvádějí"
+  }
+ ],
+ "events": [
+  {
+   "year": 1316,
+   "text": "hrad poprvé písemně doložen, Jan Lucemburský jej zastavil Půtovi z Frýdlantu"
+  },
+  {
+   "year": 1337,
+   "text": "Vartenberkové získali Veliš dědičně"
+  },
+  {
+   "year": 1452,
+   "text": "Hašek z Valdštejna prodal panství Jiřímu z Poděbrad"
+  },
+  {
+   "year": 1487,
+   "text": "panství koupil Mikuláš starší Trčka z Lípy"
+  },
+  {
+   "year": 1500,
+   "text": "na hrad převezena basilejská kompaktáta, pozdně gotická přestavba"
+  },
+  {
+   "year": 1596,
+   "text": "Vilém Trčka z Lípy dokončil poslední stavební úpravy (1593-1596)"
+  },
+  {
+   "year": 1622,
+   "text": "po Bílé hoře hrad koupil Albrecht z Valdštejna"
+  },
+  {
+   "year": 1658,
+   "text": "hrad z císařského rozkazu zbořen"
+  }
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Veliš_(hrad)",
+  "https://www.hrady.cz/hrad-velis",
+  "https://www.cesky-raj.cz/historie/hrady/velis/",
+  "https://www.turistika.cz/mista/velis/detail",
+  "http://www.rajnet.cz/web/print.asp?id=1159"
+ ]
 }

@@ -1,19 +1,23 @@
 {
  "id": "Q1013457",
  "name": "Pajrek",
- "founded": {"year": 1320, "approx": true, "text": "hrad založili v první polovině 14. století páni z Janovic; první doložený majitel s predikátem z Pajreku (Něpr) je zmíněn roku 1360"},
- "summary": "Hrad Pajrek na Šumavě založili v první polovině 14. století páni z Janovic, kterým patřil až do počátku 16. století; během husitských válek zde sídlil Jan z Janovic, který střídavě podporoval husity i katolíky, a roku 1479 hrad dobylo a vypálilo bavorské vojsko. Roku 1512 zpustlý hrad koupil Jindřich Kostomlatský z Vřesovic, po jeho popravě jej krátce drželi příbuzní a spřízněné rody (Kocové z Dobrše, páni z Vidhostic, Chanovští z Dlouhé Vsi), než jej roku 1554 koupil Jan Koc z Dobrše. Ten sídlil jinde a Pajrek ponechal svému osudu - už roku 1556 je popisován jako pustý a později zanikl požárem.",
+ "founded": {
+  "year": 1320,
+  "approx": true,
+  "text": "hrad založili v první polovině 14. století páni z Janovic; první doložený majitel Bohuslav z Janovic je zmíněn před rokem 1342 (pajrek.cz), predikát Něpra z Pajreku roku 1356 (pajrek.cz) nebo 1360 (cs.wiki)"
+ },
+ "summary": "Hrad Pajrek na Šumavě založili v první polovině 14. století páni z Janovic, kteří jej drželi až do roku 1512. Za Racka z Janovic se v 15. století stal oporou proti bavorským vpádům, roku 1472 jej ale Bavoři dobyli a roku 1504 je uváděn jako pustý. Po roce 1512 se majitelé rychle střídali (Kostomlatský z Vřesovic, Vidhosticové, Chanovští, od roku 1554 Kocové z Dobrše), hrad zpustl a později jej koupila obec Nýrsko, jejímž majetkem je od roku 1930.",
  "owners": [
   {
    "owner": "janovsti-z-janovic",
    "owner_wiki": "Janovští z Janovic",
-   "person": "Něpr z Pajreku",
+   "person": "Bohuslav z Janovic, později Něpr z Pajreku",
    "from": 1320,
    "to": null,
    "from_approx": true,
    "to_approx": false,
    "how": "zalozeni",
-   "note": "hrad založili páni z Janovic v první polovině 14. stol.; první doložený majitel s predikátem z Pajreku, zmíněn 1360"
+   "note": "hrad založili páni z Janovic v 1. polovině 14. stol.; Bohuslav z Janovic zmíněn jako majitel před 1342, Něpr z Pajreku 1356 (pajrek.cz) / 1360 (cs.wiki)"
   },
   {
    "owner": "janovsti-z-janovic",
@@ -34,18 +38,17 @@
    "from_approx": false,
    "to_approx": true,
    "how": "dedictvi",
-   "note": "na počátku 15. stol. hrad drželi společně; Jan roku 1412 vstoupil do služeb Jindřicha z Rožmberka; nejspíše roku 1419 si bratři panství rozdělili"
+   "note": "na počátku 15. stol. hrad drželi společně; nejspíše roku 1419 si bratři panství rozdělili"
   },
   {
    "owner": "janovsti-z-janovic",
    "owner_wiki": "Janovští z Janovic",
-   "person": "Jan Janovský z Janovic (nejstarší) a jeho synové",
+   "person": "Jan Janovský z Janovic a jeho synové",
    "from": 1419,
    "to": 1461,
    "from_approx": false,
    "to_approx": false,
-   "how": "dedictvi",
-   "note": "za husitských válek střídavě podporoval husity i katolíky, spory s Rožmberky trvaly do konce roku 1434; jeho synové Břeněk a Ondřej roku 1461 prodali své podíly bratranci Rackovi (synovi Tomáše); Václavův podíl 1440 odkázán synovci Rackovi, Václav zemřel před 1446"
+   "how": "dedictvi"
   },
   {
    "owner": "janovsti-z-janovic",
@@ -56,7 +59,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "koupí podílů bratranců sjednotil hrad ve svých rukou; klatovský hejtman, roku 1467 pravděpodobně vedl vítězství u Nýrska nad bavorskými křižáky; zemřel před bavorským vpádem 1472"
+   "note": "klatovský hejtman, stoupenec Jiřího z Poděbrad; po jeho smrti koupil roku 1470 polovinu hradu od jeho vdovy Mikuláš z Běšin"
   },
   {
    "owner": "z-besin",
@@ -67,29 +70,29 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "koupil polovinu hradu od Barbory z Běšin, vdovy po Rackovi; při bavorském vpádu 1472 byl Racek už mrtev, hrad dobyt a Rackův syn zajat"
+   "note": "polovina hradu koupená od Rackovy vdovy (pajrek.cz)"
   },
   {
    "owner": "janovsti-z-janovic",
    "owner_wiki": "Janovští z Janovic",
-   "person": "nejasní členové rodu; Jindřich z Pajreka",
-   "from": 1472,
-   "to": 1504,
+   "person": "Jindřich Pajrek z Janovic a další členové rodu",
+   "from": null,
+   "to": 1512,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "neznamo",
-   "note": "osudy hradu na konci 15. stol. jsou nejasné, patrně se jej zmocnili členové rodu a rozprodávali panství bez panovníkova souhlasu (šlo o královské manství); Jindřich z Pajreka (snad Rackův syn) se marně domáhal u krále Vladislava Jagellonského navrácení ztracených statků; roku 1504 hrad zmiňován jako pustý"
+   "note": "roku 1504 je hrad pustý a drží jej Jindřich Pajrek z Janovic; Janovští hrad drželi do roku 1512"
   },
   {
    "owner": "pani-z-vresovic",
    "owner_wiki": "Páni z Vřesovic",
    "person": "Jindřich Kostomlatský z Vřesovic",
    "from": 1512,
-   "to": null,
+   "to": 1519,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "koupil zpustlý hrad za 125 kop grošů a alespoň částečně jej obnovil; prohlášen za zemského škůdce, hrad oblehlo a dobylo vojsko královských měst, Jindřich zajat, vězněn v Daliborce a sťat; přesný rok obležení a popravy cs.wiki neuvádí"
+   "note": "koupil pustý hrad za 125 kop grošů a částečně jej obnovil; 1519 prohlášen za zemského škůdce a zajat, 1520 popraven na Pražském hradě"
   },
   {
    "owner": "kocove-z-dobrse",
@@ -100,40 +103,29 @@
    "from_approx": false,
    "to_approx": false,
    "how": "jine",
-   "note": "vdova po popraveném Jindřichovi; král Ludvík Jagellonský daroval hrad v léno Albrechtovi ze Šternberka, ten se ale majetku neujal, protože Kateřina na hradě měla věno, takže jí zůstal"
+   "note": "vdova po Jindřichu Kostomlatském; hrad jí zůstal jako věno, léno daroval král Ludvík Albrechtovi ze Štenberka, který se ho neujal"
   },
   {
    "owner": "z-vidhostic",
    "owner_wiki": null,
    "person": "Bohuslav a Podivín z Vidhostic",
    "from": null,
-   "to": 1538,
-   "from_approx": false,
-   "to_approx": true,
-   "how": "dedictvi",
-   "note": "synové Kateřiny z prvního manželství zdědili hrad po její smrti"
-  },
-  {
-   "owner": "pani-z-vresovic",
-   "owner_wiki": "Páni z Vřesovic",
-   "person": "Kryštof Kostomlatský z Vřesovic",
-   "from": 1538,
-   "to": 1539,
+   "to": null,
    "from_approx": false,
    "to_approx": false,
-   "how": "lenni",
-   "note": "Jindřichův bratr dostal hrad v léno od Ferdinanda I. s podmínkou vyplacení majetku Evy z Vidhostic; spor s Evou roku 1539 prohrál, protože prokázala, že hrad přijala v léno už 1528"
+   "how": "dedictvi",
+   "note": "synové Kateřiny z prvního manželství"
   },
   {
    "owner": "z-vidhostic",
    "owner_wiki": null,
    "person": "Eva z Vidhostic",
-   "from": 1539,
+   "from": null,
    "to": 1541,
    "from_approx": false,
    "to_approx": false,
-   "how": "jine",
-   "note": "sestra Bohuslava a Podivína, vyhrála spor s Kryštofem Kostomlatským o vlastnictví hradu, roku 1541 jej předala svým synům"
+   "how": "dedictvi",
+   "note": "1538 získal hrad od Ferdinanda I. Kryštof Kostomlatský z Vřesovic, spor roku 1539 vyhrála Eva, která prokázala léno z roku 1528"
   },
   {
    "owner": "chanovsti-z-dlouhe-vsi",
@@ -144,7 +136,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "synové Evy z Vidhostic; časem celý hrad získal Adam a roku 1554 jej prodal"
+   "note": "synové Evy z Vidhostic; 1547 se rozdělili a Adam se stal jediným držitelem"
   },
   {
    "owner": "kocove-z-dobrse",
@@ -155,18 +147,87 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "koupil hrad za 600 kop grošů, ale sídlil na pohodlnějším zámku v Bystřici nad Úhlavou; Pajrek ponechal osudu, roku 1556 popisován jako pustý a později zanikl požárem"
+   "note": "koupil za 600 kop grošů, připojil k bystřickému panství; sídlil v Bystřici nad Úhlavou, hrad zůstal pustý (1556, 1568)"
+  },
+  {
+   "owner": "palmove",
+   "owner_wiki": null,
+   "person": "knížata Palm-Gundelfingen",
+   "from": null,
+   "to": 1796,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "koncem 18. stol. získala bystřicko-pajrecké panství; zříceninu s dvorem prodala 1796"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Antonín Feldmann, poté Jan Rauscher, Antonín Jäckel a Josef Kordík",
+   "from": 1796,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "za Josefa Kordíka byl prostor pod hradem změněn na pole a zbytky staveb rozebrány; roky držby jednotlivých majitelů zdroj neuvádí"
+  },
+  {
+   "owner": "hohenzollernove",
+   "owner_wiki": "Hohenzollernové",
+   "person": "knížecí rod Hohenzollern-Sigmaringen",
+   "from": null,
+   "to": 1930,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "provedeny některé zabezpečovací práce na zdech; pajrek.cz ani zdroj neuvádí rok nabytí"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "město Nýrsko",
+   "from": 1930,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "vlastní dodnes"
   }
  ],
  "events": [
-  {"year": 1360, "text": "první písemná zmínka o hradu (predikát Něpra z Pajreku)"},
-  {"year": 1419, "text": "bratři Janovští z Janovic si panství rozdělili"},
-  {"year": 1461, "text": "Racek Janovský z Janovic koupí podílů sjednotil hrad"},
-  {"year": 1472, "text": "bavorské vojsko hrad dobylo, Rackův syn zajat"},
-  {"year": 1479, "text": "bavorské vojsko hrad znovu dobylo a vypálilo"},
-  {"year": 1512, "text": "zpustlý hrad koupil a částečně obnovil Jindřich Kostomlatský z Vřesovic"},
-  {"year": 1554, "text": "hrad koupil Jan Koc z Dobrše, který jej ponechal osudu"},
-  {"year": 1556, "text": "hrad popisován jako pustý"}
+  {
+   "year": 1360,
+   "text": "první písemná zmínka o predikátu Něpra z Pajreku (jiný zdroj: 1342 Bohuslav z Janovic, 1356 Něpr)"
+  },
+  {
+   "year": 1419,
+   "text": "bratři Janovští z Janovic si nejspíše rozdělili panství"
+  },
+  {
+   "year": 1461,
+   "text": "hrad drží Racek z Janovic, proslulý boji s bavorskými křižáky"
+  },
+  {
+   "year": 1472,
+   "text": "bavorské vojsko hrad dobylo"
+  },
+  {
+   "year": 1512,
+   "text": "pustý hrad koupil a částečně obnovil Jindřich Kostomlatský z Vřesovic"
+  },
+  {
+   "year": 1554,
+   "text": "hrad koupil Jan Koc z Dobrše, který jej ponechal osudu"
+  },
+  {
+   "year": 1930,
+   "text": "zříceninu koupilo město Nýrsko"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Pajrek"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Pajrek",
+  "http://www.pajrek.cz/historie/",
+  "https://www.klub-augusta-sedlacka.cz/Hl%C3%A1ska%202017-4.pdf",
+  "https://www.sumavanet.cz/zricenina-hradu-pajrek.s-2910-RENYRE"
+ ]
 }

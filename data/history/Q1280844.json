@@ -4,108 +4,108 @@
  "founded": {
   "year": 1450,
   "approx": true,
-  "text": "Hrad byl postaven nejspíše ve druhé polovině 15. století, první písemná zmínka o něm pochází z roku 1525."
+  "text": "Pozdně gotickou vodní tvrz u rybníka postavil Přibík z Klenového (nejspíše ve 2. polovině 15. století), poprvé je připomínána roku 1525; panské sídlo v Žinkovech existovalo již ve 2. polovině 12. století, jeho poloha je neznámá."
  },
- "summary": "Předchůdcem zámku ve Žinkovech byl hrad postavený nejspíše ve 2. polovině 15. století, který od té doby vlastnili páni z Klenové. V 18. století jej dal Jan František ze Steinau přestavět v barokním slohu, další úpravy prováděli páni z Vrtby (do roku 1830) a poté se jako majitelé vystřídali Lobkovicové, Harrachové a architekt rytíř Karel Wesselý, který zámek roku 1897 přestavěl do pseudorenesanční podoby. Roku 1916 jej koupil průmyslník Karel Škoda, po druhé světové válce byl zámek zestátněn a od roku 1950 sloužil jako rekreační zařízení ROH. Roku 1999 jej koupila společnost Crown Estates, která zahájila přestavbu na kongresové centrum, a v roce 2025 areál koupila společnost Lázně Poděbrady.",
+ "summary": "Předchůdcem zámku ve Žinkovech byla pozdně gotická vodní tvrz, kterou postavili páni z Klenové a jejich potomci ji drželi až do roku 1712. Poté patřila hrabatům ze Steinau a Vrtbům (do roku 1830), následovali Lobkovicové a Harrachové. Zámek v letech 1897-1899 přestavěl do dnešní historizující podoby architekt Karl Wessely s ateliérem Fellner a Helmer. Po Škodových (od 1915/1916 do 1945) byl zestátněn, sloužil jako rekreační zařízení ROH, po roce 1989 jej vystřídalo několik soukromých majitelů a od roku 2025 jej vlastní Lázně Poděbrady.",
  "owners": [
   {
    "owner": "klenovsti-z-klenove",
    "owner_wiki": "Klenovští z Klenové",
-   "person": null,
+   "person": "Přibík z Klenového a jeho potomci, naposledy Vilém František Klenovský (†1696)",
    "from": 1450,
-   "to": null,
+   "to": 1712,
    "from_approx": true,
    "to_approx": false,
    "how": "zalozeni",
-   "note": "hrad pravděpodobně postavili páni z Klenové ve 2. polovině 15. století; první písemná zmínka 1525; přesný rok konce jejich držby cs.wiki neuvádí"
+   "note": "tvrz postavil Přibík z Klenového, poprvé zmíněna 1525; potomci ji drželi skoro tři století; 1712 ji prodala vdova Zuzana (Ottův slovník naučný, AMHZ)"
   },
   {
    "owner": "z-steinau",
    "owner_wiki": null,
-   "person": "Jan František ze Steinau",
-   "from": null,
-   "to": null,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "neznamo",
-   "note": "v 18. století nechal hrad přestavět v barokním slohu; přesné roky jeho držby cs.wiki neuvádí"
-  },
-  {
-   "owner": "pani-z-vrtby",
-   "owner_wiki": "Páni z Vrtby",
-   "person": null,
-   "from": null,
-   "to": 1830,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "neznamo",
-   "note": "prováděli další úpravy zámku, drželi jej až do roku 1830; přesný rok nabytí cs.wiki neuvádí"
-  },
-  {
-   "owner": "lobkovicove",
-   "owner_wiki": "Lobkovicové",
-   "person": null,
-   "from": null,
-   "to": null,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "neznamo",
-   "note": "mezi majiteli po roce 1830 zmíněni Lobkovicové; přesné roky držby cs.wiki neuvádí"
-  },
-  {
-   "owner": "harrachove",
-   "owner_wiki": "Harrachové",
-   "person": null,
-   "from": null,
-   "to": null,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "neznamo",
-   "note": "mezi majiteli po Lobkovicích zmíněni Harrachové; přesné roky držby cs.wiki neuvádí"
-  },
-  {
-   "owner": "soukromnik",
-   "owner_wiki": null,
-   "person": "Karel Wesselý",
-   "from": null,
-   "to": null,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "neznamo",
-   "note": "architekt, rytíř; roku 1897 zámek přestavěl do pseudorenesanční podoby (s vídeňskými architekty Fellnerem a Helmerem); přesné roky jeho vlastnictví cs.wiki neuvádí; cs.wiki nemá o něm samostatný článek"
-  },
-  {
-   "owner": "soukromnik",
-   "owner_wiki": null,
-   "person": "Karel Škoda",
-   "from": 1916,
+   "person": "Jan hrabě ze Steinau",
+   "from": 1712,
    "to": null,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "průmyslník, zámek koupil roku 1916"
+   "note": "koupil 1712 od Zuzany Klenovské; za Jana Františka ze Steinau barokní přestavba; přesný konec držby zdroje neuvádějí (dcera Marie se provdala za Františka Václava z Vrtby a věnem mu Žinkovy přinesla)"
+  },
+  {
+   "owner": "pani-z-vrtby",
+   "owner_wiki": "Páni z Vrtby",
+   "person": "František Václav z Vrtby, poté další Vrtbové",
+   "from": null,
+   "to": 1830,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "snatek",
+   "note": "do vymření hrabat z Vrtby; 1830 zboží odkazem získal Jan kníže z Lobkovic (Ott; cs.wiki 1830); AMHZ: Vrtbové z Křimic v 18. stol.; přesný rok nabytí neuveden"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Jan Nepomuk Karel kníže z Lobkovic",
+   "from": 1830,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "zboží dostal odkazem 1830 (Ott; podle Plzeňského deníku si jej jako dědice vybral František Josef z Vrtby); přesný konec držby zdroje neuvádějí"
+  },
+  {
+   "owner": "harrachove",
+   "owner_wiki": "Harrachové",
+   "person": "Jan hrabě Harrach",
+   "from": null,
+   "to": 1897,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "po Lobkovicích; od něj celé panství 1897 koupil Karel rytíř Wessely (Ott); přesný rok nabytí neuveden"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Karl rytíř Wessely, vídeňský architekt a stavební rada",
+   "from": 1897,
+   "to": 1916,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "1897 koupil celé panství od Harracha; přestavbu do pseudorenesanční podoby provedl ateliér Fellner a Helmer (cs.wiki datuje 1897, AMHZ 1898-1899)"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Karel Škoda, průmyslník",
+   "from": 1916,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "cs.wiki a historickaslechta.cz uvádějí koupi 1916, AMHZ 1915 (areál zakoupil průmyslník baron Karel Škoda); rodina zde sídlila do 1945, kdy byl majetek znárodněn podle Benešových dekretů"
   },
   {
    "owner": "stat",
    "owner_wiki": null,
    "person": null,
-   "from": null,
-   "to": 1999,
+   "from": 1945,
+   "to": null,
    "from_approx": false,
-   "to_approx": false,
+   "to_approx": true,
    "how": "konfiskace",
-   "note": "zámek zestátněn po 2. světové válce, přesný rok cs.wiki neuvádí; od roku 1950 sloužil jako rekreační zařízení ROH"
+   "note": "zestátněn po 2. světové válce (AMHZ 1945), od 1950 rekreační zařízení ROH, 1952 se zde natáčela pohádka Pyšná princezna; po roce 1989 několik soukromých majitelů, rok ukončení státní držby zdroje neuvádějí"
   },
   {
    "owner": "soukromnik",
    "owner_wiki": null,
-   "person": "Crown Estates",
-   "from": 1999,
+   "person": "Crown Estates (karibští vlastníci)",
+   "from": 2007,
    "to": 2025,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "od roku 2008 přestavba na kongresové a hotelové centrum; do roku 2015 se zde příležitostně konaly kulturní akce"
+   "note": "cs.wiki uvádí koupi 1999, Plzeňský deník 2007 (rekonstrukce zahájena 2008); mezi 1989 a Crown Estates zámek vystřídal několik soukromých majitelů (AMHZ); 1993-2007 byl zámek zcela zavřen"
   },
   {
    "owner": "soukromnik",
@@ -116,20 +116,48 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "areál zámku koupila společnost Lázně Poděbrady"
+   "note": "areál zámku koupily 2025, od léta 2025 zpřístupněn veřejnosti"
   }
  ],
  "events": [
-  {"year": 1450, "text": "postaven hrad, nejspíše ve 2. polovině 15. století"},
-  {"year": 1525, "text": "první písemná zmínka o hradu"},
-  {"year": 1830, "text": "koncem tohoto roku přestal hrad patřit pánům z Vrtby"},
-  {"year": 1897, "text": "architekt rytíř Karel Wesselý přestavěl zámek do pseudorenesanční podoby (s Ferdinandem Fellnerem a Hermannem Helmerem)"},
-  {"year": 1916, "text": "zámek koupil průmyslník Karel Škoda"},
-  {"year": 1950, "text": "zámek sloužil jako rekreační zařízení ROH po poválečném zestátnění"},
-  {"year": 1952, "text": "režisér Bořivoj Zeman zde natočil scény filmu Pyšná princezna"},
-  {"year": 1999, "text": "zámek koupila společnost Crown Estates, od 2008 přestavba na kongresové centrum"}
+  {
+   "year": 1525,
+   "text": "první písemná zmínka o tvrzi (Přibík z Klenového)"
+  },
+  {
+   "year": 1712,
+   "text": "Klenovští zámek prodali Janu ze Steinau"
+  },
+  {
+   "year": 1830,
+   "text": "po vymření hrabat z Vrtby získal Žinkovy Jan kníže z Lobkovic"
+  },
+  {
+   "year": 1897,
+   "text": "Karl Wessely kupuje panství, 1897-1899 přestavba do pseudorenesanční podoby (Fellner a Helmer)"
+  },
+  {
+   "year": 1916,
+   "text": "zámek koupil průmyslník Karel Škoda (AMHZ uvádí 1915)"
+  },
+  {
+   "year": 1950,
+   "text": "zámek slouží jako rekreační zařízení ROH"
+  },
+  {
+   "year": 1952,
+   "text": "natáčení pohádky Pyšná princezna"
+  },
+  {
+   "year": 2025,
+   "text": "zámek kupují Lázně Poděbrady a zpřístupňují jej veřejnosti"
+  }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Žinkovy_(zámek)"
+  "https://cs.wikipedia.org/wiki/Žinkovy_(zámek)",
+  "https://www.amhz.cz/zamek/zinkovy",
+  "https://www.historickaslechta.cz/mista/zinkovy/",
+  "https://plzensky.denik.cz/zpravy-region/zinkovy-plzen-zamek-pamatka-karel-skoda-historie/",
+  "https://plzensky.denik.cz/zpravy-region/plzen-koupe-zinkovy-zamek/"
  ]
 }

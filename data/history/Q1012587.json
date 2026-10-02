@@ -1,22 +1,100 @@
 {
  "id": "Q1012587",
  "name": "Kadaň",
- "founded": {"year": null, "approx": false, "text": "Vznik hradního areálu na skalní rulové terase lze klást do doby vlády Přemysla Otakara II.; prvním známým purkrabím byl v letech 1277-1292 Albrecht ze Žeberka"},
- "summary": "Kadaňský hrad je původně gotický královský hrad, jehož vznik článek klade do doby vlády Přemysla Otakara II.; sloužil jako sídlo správy Žateckého kraje a příležitostně jej navštěvovali čeští králové Václav II. a Karel IV. Po zpustošení za křižácké výpravy roku 1422 přestal sloužit jako královské sídlo, roku 1467 jej obnovil Jiří z Poděbrad a od roku 1501 jej přestavěl a obýval Jan Hasištejnský z Lobkovic. Roku 1595 se z rozhodnutí Rudolfa II. stal majetkem města Kadaně, po zničení za třicetileté války byl po požáru roku 1746 přestavěn na kasárna a dnes slouží jako muzeum a kulturní zařízení ve vlastnictví města.",
+ "founded": {
+  "year": 1259,
+  "approx": true,
+  "text": "Gotický královský hrad založil Přemysl Otakar II. společně s městem před rokem 1261 (hrady.cz: nejpravděpodobněji 1259); první doložený purkrabí Albrecht ze Žeberka 1277-1292."
+ },
+ "summary": "Kadaňský hrad založil Přemysl Otakar II. v polovině 13. století společně s královským městem jako sídlo purkrabího. V 14. a 15. století byl opakovaně zastavován (Šumburkové, Seinsheim, Plavenští), roku 1489 jej získal Jan Hasištejnský z Lobkovic a nechal jej přestavět. Po jeho smrti se město roku 1519 vykoupilo a roku 1595 hrad od císaře Rudolfa II. koupilo; po třicetileté válce zpustl, v letech 1750-1755 byl přestavěn na kasárna a dnes patří městu a slouží kultuře.",
  "owners": [
-  {"owner": "koruna", "owner_wiki": null, "person": "Přemysl Otakar II. a jeho nástupci na českém trůně (Václav II., Karel IV., Jiří z Poděbrad)", "from": null, "to": 1501, "from_approx": false, "to_approx": false, "how": "zalozeni", "note": "královský hrad, sídlo správy Žateckého kraje a v letech 1306-1312 Kadaňské župy; přesný rok založení článek neuvádí, jen dobu vlády Přemysla Otakara II."},
-  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": "Jan Hasištejnský z Lobkovic", "from": 1501, "to": 1595, "from_approx": false, "to_approx": false, "how": "lenni", "note": "od 1501 na hradě sídlil novomanželský lobkovický pár, roku 1504 dokončena jím nařízená pozdně gotická přestavba; přesný právní vztah (zástava/pověření správou) článek nespecifikuje"},
-  {"owner": "mesto", "owner_wiki": null, "person": null, "from": 1595, "to": null, "from_approx": false, "to_approx": false, "how": "dar", "note": "z rozhodnutí Rudolfa II. se hrad stal majetkem města; na konci 19. století patřil hrad městu a armádní státní správě (kasárna), přesné roky tohoto souběhu nejsou uvedeny; dnes v majetku města slouží jako muzeum a kulturní zařízení"}
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Přemysl Otakar II. a další čeští králové; purkrabí Albrecht ze Žeberka (doložen 1277-1292)",
+   "from": 1259,
+   "to": 1469,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "královský hrad; kolem 1306 zastavena kadaňská župa s hradem Šumburkům, 1312 vrácena Janu Lucemburskému; 1422 zastavil Zikmund Kadaň Erkingerovi ze Seinsheimu, 1425 Jindřichu z Plavna, před 1449 vyplatil Mikuláš z Lobkovic a 1454 vrátil králi Ladislavovi; 1467 za Jiřího z Poděbrad opravy paláce a věže"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Jan Hasištejnský z Lobkovic",
+   "from": 1469,
+   "to": 1519,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "1469 mu král zastavil město a jmenoval jej hejtmanem; hrad od asi 1470 v zástavě Bedřicha ze Šumburka, který jej 1483 prodal Jindřichu z Plavna, ten 1489 Janu z Lobkovic (hrady.cz, pamatkovykatalog.cz); od 1501 podle cs.wiki sídlil na hradě lobkovický pár, 1504 dokončena přestavba; Jan zemřel 1517, 1519 se Kadaň vykoupila z lobkovické zástavy"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "králové; zástavní hejtmani (Veitmile 1530, Velhartic 1531, Šlikové 1534, Václav Mašťovský z Kolovrat 1547-1555, Bohuslav Felix z Lobkovic 1558)",
+   "from": 1519,
+   "to": 1595,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "hrad znovu zapisován v zástavách; Rudolf II. odmítl prodej Lobkovicovi a trval na držení koruny"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "město Kadaň",
+   "from": 1595,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "císař Rudolf II. hrad postoupil/odprodal městu bez panství, s podmínkou údržby a dání k dispozici panovníkovi (hrady.cz, pamatkovykatalog.cz: odprodej); cs.wiki píše 'majetkem města'; po 1750 kasárna (1811 požár, obnova 1816-1818), dnes hrad zůstává městu a slouží muzeu, knihovně a obřadní síni; zdroje neuvádějí případné vlastnictví armády/státu v 19.-20. století"
+  }
  ],
  "events": [
-  {"year": 1277, "text": "prvním známým purkrabím byl v letech 1277-1292 Albrecht ze Žeberka"},
-  {"year": 1366, "text": "Karel IV. udělil městu právo úplné samosprávy, hrad prošel po požáru kompletní rekonstrukcí"},
-  {"year": 1422, "text": "Kadaň se stala hlavním sídlem křižácké výpravy, hrad byl nenávratně poškozen a přestal sloužit jako královské sídlo"},
-  {"year": 1467, "text": "Jiří z Poděbrad nechal obnovit hradní palác, věž, val a příkop"},
-  {"year": 1504, "text": "dokončena pozdně gotická přestavba za Jana Hasištejnského z Lobkovic"},
-  {"year": 1595, "text": "hrad se z rozhodnutí Rudolfa II. stal majetkem města Kadaně"},
-  {"year": 1746, "text": "po požáru přestavěn výnosem Marie Terezie na kasárna"},
-  {"year": 2012, "text": "v prostoru bývalé hradní restaurace otevřena expozice městského muzea o dějinách hradu"}
+  {
+   "year": 1259,
+   "text": "kolem tohoto roku Přemysl Otakar II. založil královské město Kadaň a hrad (nejpozději 1261)"
+  },
+  {
+   "year": 1362,
+   "text": "požár města i hradu, Karel IV. následně udělil městu právo samosprávy"
+  },
+  {
+   "year": 1421,
+   "text": "hrad poničen křižáckými vojsky (II. křížová výprava), opraven v polovině 15. století"
+  },
+  {
+   "year": 1489,
+   "text": "hrad získal Jan Hasištejnský z Lobkovic, přestavba dokončena 1504"
+  },
+  {
+   "year": 1534,
+   "text": "na hradě uzavřena kadaňská úmluva mezi králem Ferdinandem I. a protestantskými knížaty"
+  },
+  {
+   "year": 1595,
+   "text": "Rudolf II. postoupil hrad městu Kadani"
+  },
+  {
+   "year": 1647,
+   "text": "hrad zpustošen Švédy v třicetileté válce"
+  },
+  {
+   "year": 1750,
+   "text": "přestavba na kasárna dokončena 1755"
+  },
+  {
+   "year": 2012,
+   "text": "v bývalé hradní restauraci otevřena expozice městského muzea o dějinách hradu"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Kadaň_(hrad)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Kadaň_(hrad)",
+  "https://www.hrady.cz/hrad-kadan-mestske-muzeum/texty?tid=9786",
+  "https://pamatkovykatalog.cz/kadan-mestska-pamatkova-rezervace-7663598",
+  "https://www.turistika.cz/mista/kadan--1/detail"
+ ]
 }

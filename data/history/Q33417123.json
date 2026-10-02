@@ -1,45 +1,341 @@
 {
- "id": "Q33417123",
- "name": "Valašské Meziříčí (zámek Žerotínů)",
- "founded": {"year": 1539, "approx": true, "text": "Renesanční zámek nechal na přelomu 30. a 40. let 16. století postavit moravský zemský hejtman Jan IV. z Pernštejna jako náhradu za zrušenou správní funkci hradu v Rožnově pod Radhoštěm; stavba nejspíš začala 1539, písemně je zámek poprvé doložen 1545."},
- "summary": "Renesanční zámek ve Valašském Meziříčí nechal na přelomu 30. a 40. let 16. století postavit Jan IV. z Pernštejna, který jej roku 1547 zastavil a téhož roku prodal Vilémovi ze Žerotína; rod Žerotínů pak zámek s přestávkami mezi jednotlivými větvemi vlastnil až do roku 1815. Poté patřil krátce Kinským, kteří jej roku 1854 prodali státu, jenž v něm zřídil ženskou trestnici fungující do roku 1912. Prázdný zámek koupil olomoucký arcibiskup František Saleský Bauer, po první světové válce patřil z větší části valašskomeziříčské farnosti a spolku katolického domu, ve 20. století sloužil různým kulturním a společenským institucím a dnes je majetkem města Valašské Meziříčí.",
- "owners": [
-  {"owner": "pernstejnove", "owner_wiki": "Pernštejnové", "person": "Jan IV. z Pernštejna", "from": 1532, "to": 1548, "from_approx": false, "to_approx": false, "how": "koupe", "note": "roku 1532 koupil rožnovské panství, na kterém nechal 1539 postavit zámek jako lovecké sídlo; roku 1547 jej dal do zástavy Vilémovi ze Žerotína a téhož roku zástavu změnil na prodej, do zemských desk zapsáno 6. ledna 1548"},
-  {"owner": "zerotinove", "owner_wiki": "Žerotínové", "person": "Vilém ze Žerotína", "from": 1548, "to": 1549, "from_approx": false, "to_approx": true, "how": "koupe", "note": "do stavební podoby zámku příliš nezasáhl, zemřel nedlouho po roce 1549"},
-  {"owner": "zerotinove", "owner_wiki": "Žerotínové", "person": "Jan, Karel a Bernard ze Žerotína (synové, spoluvlastnictví)", "from": 1549, "to": 1561, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "majetek zdědili tři synové Viléma; držitelem rožnovského panství a zámku se stal nejmladší Bernard, který roku 1561 získal i biskupské léno Meziříčí a založil meziříčskou větev rodu"},
-  {"owner": "zerotinove", "owner_wiki": "Žerotínové", "person": "Bernard ze Žerotína", "from": 1561, "to": 1597, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "v polovině 60. let 16. stol. přesunul rezidenci na zámek, pokračoval v renesančních úpravách"},
-  {"owner": "zerotinove", "owner_wiki": "Žerotínové", "person": "Jan Vilém ze Žerotína", "from": 1597, "to": 1608, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "za jeho působení postihl město 1607 katastrofální požár, zámek zřejmě nezasažen; zemřel počátkem 1608"},
-  {"owner": "zerotinove", "owner_wiki": "Žerotínové", "person": "Bernard a Baltazar ze Žerotína (nedospělí synové, poručník Jetřich ze Žerotína)", "from": 1608, "to": 1620, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "Jetřich a Bernard se zapojili do stavovského povstání a jejich podíly na panství i lénu jim byly zkonfiskovány; přesný rok konfiskace zdroj přímo neuvádí, dáván do souvislosti s povstáním 1618-1620"},
-  {"owner": "koruna", "owner_wiki": null, "person": null, "from": 1620, "to": 1628, "from_approx": true, "to_approx": false, "how": "konfiskace", "note": "zkonfiskované podíly Jetřicha a Bernarda ze Žerotína po stavovském povstání"},
-  {"owner": "zerotinove", "owner_wiki": "Žerotínové", "person": "Baltazar ze Žerotína", "from": 1628, "to": 1644, "from_approx": false, "to_approx": false, "how": "jine", "note": "podíly na meziříčském léně získal zpět 1628 za 6000 zlatých a koně, podíly na rožnovském panství o rok později; zemřel 1644 (krátce po jeho smrti pořízen inventář zámku)"},
-  {"owner": "zerotinove", "owner_wiki": "Žerotínové", "person": "synové Baltazara ze Žerotína (společné dědictví)", "from": 1644, "to": 1659, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "otcovské majetky si rozdělili až roku 1659"},
-  {"owner": "zerotinove", "owner_wiki": "Žerotínové", "person": "Bernard Ferdinand ze Žerotína", "from": 1659, "to": 1692, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "obnovil sídlo po třicetileté válce, zámek se stal kulturním centrem regionu; zemřel bezdětný po meči, rožnovsko-krásenské panství odkázal vzdálenému příbuznému"},
-  {"owner": "zerotinove", "owner_wiki": "Žerotínové", "person": "Maxmilián František Antonín ze Žerotína (losinsko-vízmberská větev)", "from": 1692, "to": 1706, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "panství i biskupské léno Meziříčí získal po sporech s olomouckým biskupem 1694; zůstal bezdětný a odkázal majetek vzdálenému bratranci"},
-  {"owner": "zerotinove", "owner_wiki": "Žerotínové", "person": "Karel Jindřich ze Žerotína (falkenberská větev)", "from": 1706, "to": 1716, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "za jeho éry vzniklo dřevohlinité bastionové opevnění zámku; zemřel náhle 1716"},
-  {"owner": "zerotinove", "owner_wiki": "Žerotínové", "person": "František Ludvík hrabě ze Žerotína", "from": 1716, "to": 1731, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "provedl velkorysou barokní přestavbu zámku dokončenou 1725, založil francouzský park"},
-  {"owner": "zerotinove", "owner_wiki": "Žerotínové", "person": "Ludovika Karolína ze Žerotína (poručnice nezletilých synů)", "from": 1731, "to": 1743, "from_approx": false, "to_approx": false, "how": "jine", "note": "manželka Františka Ludvíka, spravovala majetek za nezletilé syny Františka de Paula Josefa a Michaela Josefa"},
-  {"owner": "zerotinove", "owner_wiki": "Žerotínové", "person": "František de Paula Josef hrabě ze Žerotína", "from": 1743, "to": 1755, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "od 1748 sám majitelem východomoravského panství (bratr Michael Josef spravoval slezská panství); zemřel svobodný a bezdětný"},
-  {"owner": "zerotinove", "owner_wiki": "Žerotínové", "person": "Michael Josef hrabě ze Žerotína", "from": 1755, "to": 1779, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "nechal vyzdobit zámeckou kapli freskami J. I. Sadlera; jako poslední mužský příslušník falkenberské větve odkázal zámek bratranci z losinsko-vízmberské větve"},
-  {"owner": "zerotinove", "owner_wiki": "Žerotínové", "person": "Ludvík Antonín hrabě ze Žerotína (losinsko-vízmberská větev)", "from": 1779, "to": 1808, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "velkolosinské panství prodal 1802 Lichtenštejnům a hlavní sídlo přenesl do Meziříčí; v prosinci 1805 zámek sloužil jako vojenský lazaret po bitvě u Slavkova"},
-  {"owner": "zerotinove", "owner_wiki": "Žerotínové", "person": "Marie Josefa ze Žerotína, provdaná z Fürstenberka", "from": 1808, "to": 1815, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "po smrti manžela 1814 se rozhodla rožnovsko-krásenské panství i se zámkem prodat Kinským; přesný rok prodeje zdroj neuvádí"},
-  {"owner": "kinsti", "owner_wiki": "Kinští", "person": "František de Paula Josef hrabě Kinský", "from": 1815, "to": 1823, "from_approx": true, "to_approx": false, "how": "koupe", "note": "koupil panství za 850000 zlatých; roku 1819 nechal uzavřít průchod zámkem pro obyvatele města; zemřel 1823"},
-  {"owner": "kinsti", "owner_wiki": "Kinští", "person": "Terezie hraběnka Bruntálská z Vrbna (matka, regentka)", "from": 1823, "to": 1854, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "spravovala panství za pět nezletilých dětí spolu se správcem Josefem Drobníkem; Kinští přesídlili do nového sídla v Krásně nad Bečvou a zámek Žerotínů zůstal prázdný"},
-  {"owner": "kinsti", "owner_wiki": "Kinští", "person": "Eugen hrabě Kinský", "from": 1854, "to": 1854, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "správy velkostatku se ujal 1854 a téhož roku 22. srpna starý zámek Žerotínů za 50000 zlatých prodal státu"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1854, "to": 1912, "from_approx": false, "to_approx": false, "how": "koupe", "note": "zámek přeměněn na ženský trestní a nápravní ústav (spravovala jej Kongregace Milosrdných sester sv. Vincence z Pauly), provoz zahájen 1855, věznice uzavřena 1912"},
-  {"owner": "cirkev", "owner_wiki": null, "person": "František Saleský Bauer, olomoucký arcibiskup", "from": 1912, "to": 1918, "from_approx": false, "to_approx": true, "how": "koupe", "note": "koupil prázdný zámek za 250000 korun s plánem zřídit kulturní a společenské centrum pro katolické spolky; za 1. světové války sloužil jako vojenská nemocnice; po vzniku Československa přešel majetek na farnost a spolek"},
-  {"owner": "cirkev", "owner_wiki": null, "person": "valašskomeziříčská farnost (2/3 podílu)", "from": 1918, "to": null, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "po vzniku Československa patřily 2/3 zámeckého majetku farnosti, zbylou třetinu vlastnil Spolek katolického domu ve Valašském Meziříčí; roku 1919 zahájena generální rekonstrukce, v severním křídle vznikl divadelní sál Lidový dům"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1948, "to": null, "from_approx": true, "to_approx": false, "how": "konfiskace", "note": "po roce 1948 zámek fakticky užíval a spravoval stát prostřednictvím Sdruženého klubu pracujících (od 1971 Jednotné kulturní zařízení), jižní křídlo užívala armáda; přesný rok převodu vlastnictví z církve a spolku na stát zdroj neuvádí"},
-  {"owner": "mesto", "owner_wiki": null, "person": "město Valašské Meziříčí", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "dnes je zámek majetkem města Valašské Meziříčí, sídlí v něm městské Kulturní zařízení; přesný rok převodu na město zdroj neuvádí"}
- ],
- "events": [
-  {"year": 1539, "text": "Jan IV. z Pernštejna zahájil stavbu renesančního zámku"},
-  {"year": 1548, "text": "zámek s panstvím koupil Vilém ze Žerotína"},
-  {"year": 1648, "text": "14. února zámek za třicetileté války zcela vypálily švédské jednotky"},
-  {"year": 1725, "text": "dokončena velkorysá barokní přestavba za Františka Ludvíka ze Žerotína"},
-  {"year": 1854, "text": "22. srpna prodal Eugen hrabě Kinský zámek státu, který v něm zřídil ženskou trestnici"},
-  {"year": 1912, "text": "trestnice zrušena, prázdný zámek koupil arcibiskup František Saleský Bauer"},
-  {"year": 1919, "text": "zahájena generální rekonstrukce zámku pro potřeby katolických spolků a Lidového domu"},
-  {"year": 2014, "text": "v jižním křídle otevřeno Muzejní a galerijní centrum s expozicí o dějinách města a rodu Žerotínů"}
- ],
- "sources": ["https://cs.wikipedia.org/wiki/Valašské_Meziříčí_(zámek)"]
+  "id": "Q33417123",
+  "name": "Valašské Meziříčí (zámek Žerotínů)",
+  "founded": {
+    "year": 1539,
+    "approx": true,
+    "text": "Renesanční zámek nechal na přelomu 30. a 40. let 16. století postavit moravský zemský hejtman Jan IV. z Pernštejna jako náhradu za zrušenou správní funkci hradu v Rožnově pod Radhoštěm; stavba nejspíš začala 1539, písemně je zámek poprvé doložen 1545."
+  },
+  "summary": "Renesanční zámek ve Valašském Meziříčí nechal na přelomu 30. a 40. let 16. století postavit Jan IV. z Pernštejna (v listopadu 1539 dostal od císaře povolení zbořit zámek v Rožnově a postavit jiný v Meziříčí); roku 1548 jej koupil Vilém ze Žerotína a Žerotínové jej s přestávkami vlastnili do roku 1815, kdy panství koupili Kinští. Ti zámek roku 1854 prodali státu, který v něm do roku 1912 provozoval ženskou trestnici; po krátké sérii soukromých majitelů jej 1913 získal arcibiskup Bauer pro katolické spolky. Od roku 1951 patří zámek místnímu národnímu výboru, dnes městu, a sídlí v něm Kulturní zařízení.",
+  "owners": [
+    {
+      "owner": "pernstejnove",
+      "owner_wiki": "Pernštejnové",
+      "person": "Jan IV. z Pernštejna",
+      "from": 1532,
+      "to": 1548,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "roku 1532 koupil rožnovské panství, na kterém nechal 1539 postavit zámek jako lovecké sídlo; roku 1547 jej dal do zástavy Vilémovi ze Žerotína a téhož roku zástavu změnil na prodej, do zemských desk zapsáno 6. ledna 1548; kzvalmez.cz uvádí chybně, že Pernštejnové panství prodali Žerotínům koncem 60. let 16. stol., město (infocentrum) a cs.wiki uvádějí prodej Vilémovi z Žerotína 1548"
+    },
+    {
+      "owner": "zerotinove",
+      "owner_wiki": "Žerotínové",
+      "person": "Vilém ze Žerotína",
+      "from": 1548,
+      "to": 1549,
+      "from_approx": false,
+      "to_approx": true,
+      "how": "koupe",
+      "note": "do stavební podoby zámku příliš nezasáhl, zemřel nedlouho po roce 1549"
+    },
+    {
+      "owner": "zerotinove",
+      "owner_wiki": "Žerotínové",
+      "person": "Jan, Karel a Bernard ze Žerotína (synové, spoluvlastnictví)",
+      "from": 1549,
+      "to": 1561,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "dedictvi",
+      "note": "majetek zdědili tři synové Viléma; držitelem rožnovského panství a zámku se stal nejmladší Bernard, který roku 1561 získal i biskupské léno Meziříčí a založil meziříčskou větev rodu"
+    },
+    {
+      "owner": "zerotinove",
+      "owner_wiki": "Žerotínové",
+      "person": "Bernard ze Žerotína",
+      "from": 1561,
+      "to": 1597,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "dedictvi",
+      "note": "v polovině 60. let 16. stol. přesunul rezidenci na zámek, pokračoval v renesančních úpravách"
+    },
+    {
+      "owner": "zerotinove",
+      "owner_wiki": "Žerotínové",
+      "person": "Jan Vilém ze Žerotína",
+      "from": 1597,
+      "to": 1608,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "dedictvi",
+      "note": "za jeho působení postihl město 1607 katastrofální požár, zámek zřejmě nezasažen; zemřel počátkem 1608"
+    },
+    {
+      "owner": "zerotinove",
+      "owner_wiki": "Žerotínové",
+      "person": "Bernard a Baltazar ze Žerotína (nedospělí synové, poručník Jetřich ze Žerotína)",
+      "from": 1608,
+      "to": 1620,
+      "from_approx": false,
+      "to_approx": true,
+      "how": "dedictvi",
+      "note": "Jetřich a Bernard se zapojili do stavovského povstání a jejich podíly na panství i lénu jim byly zkonfiskovány; přesný rok konfiskace zdroj přímo neuvádí, dáván do souvislosti s povstáním 1618-1620"
+    },
+    {
+      "owner": "koruna",
+      "owner_wiki": null,
+      "person": null,
+      "from": 1620,
+      "to": 1628,
+      "from_approx": true,
+      "to_approx": false,
+      "how": "konfiskace",
+      "note": "zkonfiskované podíly Jetřicha a Bernarda ze Žerotína po stavovském povstání"
+    },
+    {
+      "owner": "zerotinove",
+      "owner_wiki": "Žerotínové",
+      "person": "Baltazar ze Žerotína",
+      "from": 1628,
+      "to": 1644,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "jine",
+      "note": "podíly na meziříčském léně získal zpět 1628 za 6000 zlatých a koně, podíly na rožnovském panství o rok později; zemřel 1644 (krátce po jeho smrti pořízen inventář zámku)"
+    },
+    {
+      "owner": "zerotinove",
+      "owner_wiki": "Žerotínové",
+      "person": "synové Baltazara ze Žerotína (společné dědictví)",
+      "from": 1644,
+      "to": 1659,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "dedictvi",
+      "note": "otcovské majetky si rozdělili až roku 1659"
+    },
+    {
+      "owner": "zerotinove",
+      "owner_wiki": "Žerotínové",
+      "person": "Bernard Ferdinand ze Žerotína",
+      "from": 1659,
+      "to": 1692,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "dedictvi",
+      "note": "obnovil sídlo po třicetileté válce, zámek se stal kulturním centrem regionu; zemřel bezdětný po meči, rožnovsko-krásenské panství odkázal vzdálenému příbuznému"
+    },
+    {
+      "owner": "zerotinove",
+      "owner_wiki": "Žerotínové",
+      "person": "Maxmilián František Antonín ze Žerotína (losinsko-vízmberská větev)",
+      "from": 1692,
+      "to": 1706,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "dedictvi",
+      "note": "panství i biskupské léno Meziříčí získal po sporech s olomouckým biskupem 1694; zůstal bezdětný a odkázal majetek vzdálenému bratranci"
+    },
+    {
+      "owner": "zerotinove",
+      "owner_wiki": "Žerotínové",
+      "person": "Karel Jindřich ze Žerotína (falkenberská větev)",
+      "from": 1706,
+      "to": 1716,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "dedictvi",
+      "note": "za jeho éry vzniklo dřevohlinité bastionové opevnění zámku; zemřel náhle 1716"
+    },
+    {
+      "owner": "zerotinove",
+      "owner_wiki": "Žerotínové",
+      "person": "František Ludvík hrabě ze Žerotína",
+      "from": 1716,
+      "to": 1731,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "dedictvi",
+      "note": "provedl velkorysou barokní přestavbu zámku dokončenou 1725, založil francouzský park"
+    },
+    {
+      "owner": "zerotinove",
+      "owner_wiki": "Žerotínové",
+      "person": "Ludovika Karolína ze Žerotína (poručnice nezletilých synů)",
+      "from": 1731,
+      "to": 1743,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "jine",
+      "note": "manželka Františka Ludvíka, spravovala majetek za nezletilé syny Františka de Paula Josefa a Michaela Josefa"
+    },
+    {
+      "owner": "zerotinove",
+      "owner_wiki": "Žerotínové",
+      "person": "František de Paula Josef hrabě ze Žerotína",
+      "from": 1743,
+      "to": 1755,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "dedictvi",
+      "note": "od 1748 sám majitelem východomoravského panství (bratr Michael Josef spravoval slezská panství); zemřel svobodný a bezdětný"
+    },
+    {
+      "owner": "zerotinove",
+      "owner_wiki": "Žerotínové",
+      "person": "Michael Josef hrabě ze Žerotína",
+      "from": 1755,
+      "to": 1779,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "dedictvi",
+      "note": "nechal vyzdobit zámeckou kapli freskami J. I. Sadlera; jako poslední mužský příslušník falkenberské větve odkázal zámek bratranci z losinsko-vízmberské větve"
+    },
+    {
+      "owner": "zerotinove",
+      "owner_wiki": "Žerotínové",
+      "person": "Ludvík Antonín hrabě ze Žerotína (losinsko-vízmberská větev)",
+      "from": 1779,
+      "to": 1808,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "dedictvi",
+      "note": "velkolosinské panství prodal 1802 Lichtenštejnům a hlavní sídlo přenesl do Meziříčí; v prosinci 1805 zámek sloužil jako vojenský lazaret po bitvě u Slavkova"
+    },
+    {
+      "owner": "zerotinove",
+      "owner_wiki": "Žerotínové",
+      "person": "Marie Josefa ze Žerotína, provdaná z Fürstenberka",
+      "from": 1808,
+      "to": 1815,
+      "from_approx": false,
+      "to_approx": true,
+      "how": "dedictvi",
+      "note": "po smrti manžela 1814 se rozhodla rožnovsko-krásenské panství i se zámkem prodat Kinským; přesný rok prodeje zdroj neuvádí"
+    },
+    {
+      "owner": "kinsti",
+      "owner_wiki": "Kinští",
+      "person": "František de Paula Josef hrabě Kinský",
+      "from": 1815,
+      "to": 1823,
+      "from_approx": true,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "koupil panství za 850000 zlatých; roku 1819 nechal uzavřít průchod zámkem pro obyvatele města; zemřel 1823"
+    },
+    {
+      "owner": "kinsti",
+      "owner_wiki": "Kinští",
+      "person": "Terezie hraběnka Bruntálská z Vrbna (matka, regentka)",
+      "from": 1823,
+      "to": 1854,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "dedictvi",
+      "note": "spravovala panství za pět nezletilých dětí spolu se správcem Josefem Drobníkem; Kinští přesídlili do nového sídla v Krásně nad Bečvou a zámek Žerotínů zůstal prázdný"
+    },
+    {
+      "owner": "kinsti",
+      "owner_wiki": "Kinští",
+      "person": "Eugen hrabě Kinský",
+      "from": 1854,
+      "to": 1854,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "dedictvi",
+      "note": "správy velkostatku se ujal 1854 a téhož roku 22. srpna starý zámek Žerotínů za 50000 zlatých prodal státu"
+    },
+    {
+      "owner": "stat",
+      "owner_wiki": null,
+      "person": null,
+      "from": 1854,
+      "to": 1912,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "zámek přeměněn na ženský trestní a nápravní ústav (spravovala jej Kongregace Milosrdných sester sv. Vincence z Pauly), provoz zahájen 1855, věznice uzavřena 1912; kzvalmez.cz potvrzuje koupi státem 1854"
+    },
+    {
+      "owner": "soukromnik",
+      "owner_wiki": null,
+      "person": "Arnim svobodný pán Popr, rakouská celulózka (dražba), poté Gultmann a Rotschild",
+      "from": 1912,
+      "to": 1913,
+      "from_approx": true,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "web Kulturního zařízení uvádí po státu krátce se střídající soukromé majitele; roky nejsou uvedeny, zařazeno mezi zavření věznice 1912 a koupi Bauerem 1913"
+    },
+    {
+      "owner": "cirkev",
+      "owner_wiki": null,
+      "person": "František Saleský Bauer, olomoucký arcibiskup (pro Spolek katolického domu)",
+      "from": 1913,
+      "to": 1918,
+      "from_approx": false,
+      "to_approx": true,
+      "how": "koupe",
+      "note": "koupil 31. 7. 1913 pro spolek Katolický dům (cs.wiki uvádí nákup 1912 za 250000 korun, kzvalmez.cz 31. 7. 1913); za 1. světové války lazaret"
+    },
+    {
+      "owner": "cirkev",
+      "owner_wiki": null,
+      "person": "valašskomeziříčská farnost (2/3) a Spolek katolického domu (1/3)",
+      "from": 1918,
+      "to": 1951,
+      "from_approx": true,
+      "to_approx": false,
+      "how": "dedictvi",
+      "note": "po vzniku Československa; 1919 generální rekonstrukce, v severním křídle Lidový dům (do 1951)"
+    },
+    {
+      "owner": "mesto",
+      "owner_wiki": null,
+      "person": "Místní národní výbor, dnes město Valašské Meziříčí",
+      "from": 1951,
+      "to": null,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "jine",
+      "note": "v listopadu 1951 dán zámek do vlastnictví MNV ve Valašském Meziříčí (sídlo Sdruženého klubu pracujících, později Jednotné kulturní zařízení); dnes majetek města, sídlí v něm Kulturní zařízení Valašského Meziříčí; jižní křídlo užívala armáda"
+    }
+  ],
+  "events": [
+    {
+      "year": 1539,
+      "text": "Jan IV. z Pernštejna zahájil stavbu renesančního zámku"
+    },
+    {
+      "year": 1548,
+      "text": "zámek s panstvím koupil Vilém ze Žerotína"
+    },
+    {
+      "year": 1648,
+      "text": "14. února zámek za třicetileté války zcela vypálily švédské jednotky"
+    },
+    {
+      "year": 1725,
+      "text": "dokončena velkorysá barokní přestavba za Františka Ludvíka ze Žerotína"
+    },
+    {
+      "year": 1854,
+      "text": "22. srpna prodal Eugen hrabě Kinský zámek státu, který v něm zřídil ženskou trestnici"
+    },
+    {
+      "year": 1913,
+      "text": "po zrušení trestnice (1912) a krátkých soukromých majitelích zámek koupil arcibiskup František Saleský Bauer pro Spolek katolického domu"
+    },
+    {
+      "year": 1919,
+      "text": "zahájena generální rekonstrukce zámku pro potřeby katolických spolků a Lidového domu"
+    },
+    {
+      "year": 1951,
+      "text": "zámek dán do vlastnictví Místního národního výboru, sídlo Sdruženého klubu pracujících"
+    },
+    {
+      "year": 2014,
+      "text": "v jižním křídle otevřeno Muzejní a galerijní centrum s expozicí o dějinách města a rodu Žerotínů"
+    }
+  ],
+  "sources": [
+    "https://cs.wikipedia.org/wiki/Valašské_Meziříčí_(zámek)",
+    "https://www.kzvalmez.cz/o-nas/historie/",
+    "https://infocentrum.kzvalmez.cz/zajimavosti-ve-meste/zajimavosti-ve-meste/historie/"
+  ]
 }

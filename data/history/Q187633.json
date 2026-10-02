@@ -1,24 +1,183 @@
 {
  "id": "Q187633",
  "name": "Vízmburk",
- "founded": {"year": 1279, "approx": false, "text": "Hrad poprvé zmíněn k roku 1279 v Dalimilově kronice v souvislosti s Tasem z Vízmburka, pravděpodobně prvním majitelem"},
- "summary": "Hrad Vízmburk založil nejspíše Tas z Vízmburka z mocného východočeského rodu Pánů erbu zlatého třmene, poprvé je zmíněn roku 1279. Po jeho smrti (1304) jej zdědil syn Jaroš, který jej před rokem 1309 prodal Milotovi z Pnětluk, a mezi lety 1327-1330 se hrad dostal do držení pánů z Dubé, kteří jej vlastnili až do jeho zboření slezskými městy roku 1447. Zřícenina je dnes majetkem České republiky, spravovanou Národním památkovým ústavem za péče místního spolku, a od roku 1964 je chráněna jako kulturní památka.",
+ "founded": {
+  "year": 1279,
+  "approx": false,
+  "text": "Hrad poprvé zmíněn k roku 1279 v Dalimilově kronice v souvislosti s Tasem z Vízmburka, stavitelem a prvním majitelem (2. polovina 13. stol.)"
+ },
+ "summary": "Hrad Vízmburk založil Tas z Vízmburka z Pánů erbu zlatého třmene (poprvé zmíněn 1279 v Dalimilově kronice); po jeho zavraždění 1304 jej zdědil syn Jaroš, který jej před 1309 prodal Milotovi z Pnětluk. Mezi lety 1327-1330 hrad získali bratři z Dubé a Náchoda, jejichž potomek Jiří z Dubé a z Vízmburka jej držel do roku 1447, kdy jej slezská města vykoupila a zbořila. Panství pak postupně držela Michalovicové, Poděbradové, Varnsdorfové, Buchovští a Adršpachové z Dubé a po 1516-1519 Špetlové z Janovic, kdy je hrad uváděn jako pustý; zřícenina je dnes majetkem ČR a spravuje ji NPÚ.",
  "owners": [
-  {"owner": "z-vizmburka", "owner_wiki": null, "person": "Tas z Vízmburka", "from": 1279, "to": 1304, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "syn Petra ze Skalice, pravděpodobně první majitel hradu; poprvé doložen 1279 v Dalimilově kronice, zemřel 1304"},
-  {"owner": "z-vizmburka", "owner_wiki": null, "person": "Jaroš z Vízmburka", "from": 1304, "to": 1309, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "syn Tasa z Vízmburka; hrad s panstvím zdědil po otcově smrti a někdy před rokem 1309 jej prodal"},
-  {"owner": "z-pnetluk", "owner_wiki": null, "person": "Milota z Pnětluk", "from": 1309, "to": 1330, "from_approx": true, "to_approx": true, "how": "koupe", "note": "koupil hrad od Jaroše před rokem 1309; hrad se do držení pánů z Dubé dostal někdy v letech 1327-1330"},
-  {"owner": "pani-z-dube", "owner_wiki": "Páni z Dubé", "person": "naposledy Jiří z Dubé a z Vízmburka", "from": 1330, "to": 1447, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "drželi hrad až do jeho zboření; posledním majitelem byl Jiří z Dubé a z Vízmburka, který na hradě již trvale nesídlil, hradní posádka se účastnila loupeživých výpadů proti slezským městům"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "zřícenina je majetkem České republiky, správu zajišťuje Národní památkový ústav; zdroj neuvádí rok, kdy stát hrad získal - po zboření roku 1447 zůstal zaniklý a znovuobjeven archeologickým výzkumem až 1972-1984"}
+  {
+   "owner_wiki": null,
+   "person": "Tas z Vízmburka",
+   "from": 1279,
+   "to": 1304,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "owner": "z-vizmburka",
+   "note": "syn Petra ze Skalice, stavitel a první majitel; doložen 1279 v Dalimilově kronice, zavražděn 1304 (zbraslavský kronikář)"
+  },
+  {
+   "owner_wiki": null,
+   "person": "Jaroš z Vízmburka",
+   "from": 1304,
+   "to": 1309,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "owner": "z-vizmburka",
+   "note": "syn Tasa; spory s klášterem na Zderaze (1310 stížnost u papeže), pravděpodobně donucen panství prodat před 1309"
+  },
+  {
+   "owner_wiki": null,
+   "person": "Milota z Pnětluk a Wissensteynu (později Milota z Vízmburku)",
+   "from": 1309,
+   "to": 1327,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "owner": "z-pnetluk",
+   "note": "doložen jako vlastník 1309, 1312/1313 jako Milota z Vízmburku; konec držby není uveden"
+  },
+  {
+   "owner_wiki": null,
+   "person": "Arnošt z Hostinného",
+   "from": null,
+   "to": 1327,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "neznamo",
+   "owner": "z-hostinneho",
+   "note": "podle vizmburk.cz hrad s panstvím vyměnil mezi léty 1327 a 1330 s bratry z Dubé a Náchoda za panství Pardubice (výměna doložena listinou Karla IV. z 1357); přímý přechod od Miloty zdroj neuvádí; cs.wiki Arnošta nezmiňuje"
+  },
+  {
+   "owner_wiki": "Páni z Dubé",
+   "person": "bratři Hynek Crha, Hajman, Hynek Hlaváč a Václav z Dubé a Náchoda; od 1336 Hynek Crha, poté synové Hynek a Jindřich, Jan, Jiřík",
+   "from": 1330,
+   "to": 1447,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "owner": "pani-z-dube",
+   "note": "1327-1330 získali výměnou od Arnošta z Hostinného, do 1336 v nedílu s Náchodem a Malou Skalicí, od 1336 Hynek Crha; posledním majitelem Jiří z Dubé a z Vízmburka (od ok. 1420, od 1437 sídlil ve Žlebech, zemřel 1450), vízmburská posádka podnikala loupeživé výpady do Slezska; 1447 hrad vykoupen a zbořen slezskými městy a knížaty, majitel ponechán vesnice a platy"
+  },
+  {
+   "owner_wiki": "Páni z Michalovic",
+   "person": "Jindřich z Michalovic",
+   "from": 1447,
+   "to": 1456,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "koupe",
+   "owner": "pani-z-michalovic",
+   "note": "po zboření hradu Jiří z Dubé prodal panství za 265 kop grošů; roky přibližné"
+  },
+  {
+   "owner_wiki": "Páni z Kunštátu a Poděbrad",
+   "person": "Jiří z Poděbrad, poté syn Jindřich starší",
+   "from": 1456,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "owner": "pani-z-kunstatu-a-podebrad",
+   "note": "1456 statky ve správě Jiřího z Poděbrad; po jeho smrti je Jindřich starší prodal Hanuši Volfovi z Varnsdorfu"
+  },
+  {
+   "owner_wiki": null,
+   "person": "Hanuš Volf z Varnsdorfu",
+   "from": null,
+   "to": 1487,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "owner": "z-varnsdorfu",
+   "note": "rok nabytí není uveden"
+  },
+  {
+   "owner_wiki": null,
+   "person": "Zbyněk z Buchova",
+   "from": 1487,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "owner": "z-buchova"
+  },
+  {
+   "owner_wiki": "Adršpachové z Dubé",
+   "person": "Petr Adršpach z Dubé",
+   "from": null,
+   "to": 1517,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "neznamo",
+   "owner": "adrspachove-z-dube",
+   "note": "někdy v letech 1516-1519 prodal hrad, městečko Úpici a vsi Janu Špetlovi z Janovic"
+  },
+  {
+   "owner_wiki": null,
+   "person": "Jan Špetle z Janovic",
+   "from": 1517,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "koupe",
+   "owner": "spetlove-z-janovic",
+   "note": "Vízmburk je tehdy uveden jako pustý hrad; rok konce držby není uveden"
+  },
+  {
+   "owner_wiki": null,
+   "person": null,
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "owner": "stat",
+   "note": "zřícenina je majetkem České republiky, správu zajišťuje Národní památkový ústav (údržbu spolek Sdružení pro Vízmburk); zdroje neuvádějí rok, kdy stát hrad získal"
+  }
  ],
  "events": [
-  {"year": 1304, "text": "smrt Tasa z Vízmburka, hrad zdědil syn Jaroš"},
-  {"year": 1447, "text": "spojená slezská města hrad odkoupila a pobořila kvůli loupeživým výpadům posádky"},
-  {"year": 1972, "text": "zahájen archeologický výzkum Antonína Hejny, trvající až do roku 1984"},
-  {"year": 1964, "text": "zřícenina prohlášena kulturní památkou"},
-  {"year": 2002, "text": "vzniklo Sdružení pro Vízmburk zaměřené na záchranu nálezů a obnovu hradu"},
-  {"year": 2021, "text": "po rekonstrukci 2020-2021 byl hrad v turistické sezóně trvale zpřístupněn veřejnosti"}
+  {
+   "year": 1279,
+   "text": "první zmínka o hradu a Tasovi z Vízmburka v Dalimilově kronice"
+  },
+  {
+   "year": 1304,
+   "text": "smrt Tasa z Vízmburka, hrad zdědil syn Jaroš"
+  },
+  {
+   "year": 1447,
+   "text": "slezská knížata a města hrad vykoupila a pobořila kvůli loupeživým výpadům posádky"
+  },
+  {
+   "year": 1517,
+   "text": "mezi 1516-1519 prodán Janu Špetlovi z Janovic, hrad uváděn jako pustý"
+  },
+  {
+   "year": 1964,
+   "text": "zřícenina prohlášena kulturní památkou"
+  },
+  {
+   "year": 1972,
+   "text": "zahájen archeologický výzkum Antonína Hejny (do 1984)"
+  },
+  {
+   "year": 2002,
+   "text": "vzniklo Sdružení pro Vízmburk zaměřené na záchranu nálezů a obnovu hradu"
+  },
+  {
+   "year": 2021,
+   "text": "po rekonstrukci 2020-2021 hrad trvale zpřístupněn v turistické sezóně"
+  }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Vízmburk"
+  "https://cs.wikipedia.org/wiki/Vízmburk",
+  "https://www.vizmburk.cz/historie-hradu/",
+  "https://atic.cz/encyklopedie/objekty1.phtml?id=51573",
+  "https://www.region-krkonose.cz/turisticke-zajimavosti/hrady-zamky-zriceniny/hrad-vizmburk/"
  ]
 }

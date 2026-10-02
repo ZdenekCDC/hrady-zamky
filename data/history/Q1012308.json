@@ -1,278 +1,271 @@
 {
-  "id": "Q1012308",
-  "name": "Helfštýn",
-  "founded": {
-    "year": 1312,
-    "approx": true,
-    "text": "Hrad na části drahotušského panství založil nejspíše Friduš z Linavy po roce 1312, poté co musel na příkaz krále Jana Lucemburského zbořit své dva dřívější hrady; historici se v přesné dataci rozcházejí (F. Spurný klade vznik do poslední čtvrtiny 14. stol., M. Plaček již těsně po roce 1306 nebo 1312)."
+ "id": "Q1012308",
+ "name": "Helfštýn",
+ "founded": {
+  "year": null,
+  "approx": true,
+  "text": "Hrad založil slezský šlechtic Friduš z Linavy; oficiální web hradu klade vznik do poslední čtvrtiny 13. století, cs.wiki krátce po roce 1312 (historici se v dataci rozcházejí)."
+ },
+ "summary": "Hrad Helfštýn založil Friduš z Linavy a po zásahu Jana Lucemburského jej získali páni z Kravař, kteří jej výrazně rozšířili. Po několika prodejích (Sovinec, Kostkové z Postupic a Landštejn) jej od 1474 přestavěli Pernštejnové na mohutnou pevnost. Od 1554 patřil Ludanicům, od 1580 Rožmberkům a od 1592/93 Bruntálským z Vrbna, kteří dokončili renesanční palác. Po 1622 Ditrichštejnům, ve 20. století krátce státu a Althannům; dnes jej vlastní Olomoucký kraj a spravuje Muzeum Komenského v Přerově.",
+ "owners": [
+  {
+   "owner": "pani-z-linavy",
+   "owner_wiki": "Páni z Linavy",
+   "person": "Friduš z Linavy",
+   "from": null,
+   "to": 1312,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "zalozeni",
+   "note": "podle oficiálního webu zakladatel i první majitel; zmocnil se části majetku pánů z Drahotuš; cs.wiki uvádí založení po roce 1312, mistopisy.cz uvádí, že mu Jan Lucemburský hrad po trestné výpravě 1312 odňal a dal Vokovi z Kravař"
   },
-  "summary": "Zřícenina hradu u Týna nad Bečvou vznikla nejspíše ve 14. století, kdy ji krátce po roce 1312 založil Friduš z Linavy; od počátku 14. do poloviny 15. století hrad patřil pánům z Kravař, kteří jej za Lacka z Kravař výrazně rozšířili. Po prodejích měnil majitele (Vok ze Sovince, Kostkové z Postupic, Páni z Landštejna) a od roku 1474 jej rozsáhle přestavěli Pernštejnové na mohutnou pevnost; přes Ludanice a Rožmberky se roku 1592/93 dostal k Bruntálským z Vrbna, poslednímu rodu, který na hradě sídlil. Po konfiskaci roku 1622 patřil Ditrichštejnům, ve 20. století krátce státu a Althannům, kterým byl zabaven roku 1945; dnes je ve vlastnictví Olomouckého kraje a spravuje jej Muzeum Komenského v Přerově.",
-  "owners": [
-    {
-      "owner": "pani-z-linavy",
-      "owner_wiki": "Páni z Linavy",
-      "person": "Friduš z Linavy",
-      "from": 1312,
-      "to": 1320,
-      "from_approx": true,
-      "to_approx": true,
-      "how": "zalozeni",
-      "note": "založil hrad po roce 1312; způsob a doba, kdy o hrad přišel, jsou podle zdroje nejasné"
-    },
-    {
-      "owner": "pani-z-kravar",
-      "owner_wiki": "Páni z Kravař",
-      "person": "Vok I. z Kravař, poté Ješek a Lacek z Kravař a Helfštejna",
-      "from": 1320,
-      "to": 1416,
-      "from_approx": true,
-      "to_approx": false,
-      "how": "neznamo",
-      "note": "majitelem se stal 'někdy před rokem 1320' (způsob nabytí neuveden); Ješek z Kravař vyhrál soudní spor o hrad s Čeňkem z Drahotuš; Lacek z Kravař a Helfštejna hrad výrazně rozšířil"
-    },
-    {
-      "owner": "pani-z-kravar",
-      "owner_wiki": "Páni z Kravař",
-      "person": "Petr z Kravař a Strážnice",
-      "from": 1416,
-      "to": null,
-      "from_approx": false,
-      "to_approx": true,
-      "how": "dedictvi",
-      "note": "zdědil panství 1416; po vypuknutí husitských válek stál na straně husitů, po vypleněných statcích kapituloval a Helfštýn přenechal do zástavy Přemyslu Opavskému (přesný rok zápisu neuveden, muselo to být před rokem 1425)"
-    },
-    {
-      "owner": "opavsti-premyslovci",
-      "owner_wiki": "Opavští Přemyslovci",
-      "person": "Přemysl Opavský",
-      "from": null,
-      "to": null,
-      "from_approx": false,
-      "to_approx": false,
-      "how": "lenni",
-      "note": "zástava dohodnutá při kapitulaci Petra z Kravař; roku 1425 se Petr z Kravař znovu přidal k husitům a další dějiny hradu jsou podle zdroje nejasné"
-    },
-    {
-      "owner": "z-menspecku",
-      "owner_wiki": null,
-      "person": "Jan z Menspecku",
-      "from": 1434,
-      "to": 1440,
-      "from_approx": true,
-      "to_approx": false,
-      "how": "jine",
-      "note": "vzdálený příbuzný pánů z Kravař, sídlil na hradě; přímé držení hradu se pánům z Kravař vrátilo až smlouvou z Valašského Meziříčí roku 1440"
-    },
-    {
-      "owner": "pani-z-kravar",
-      "owner_wiki": "Páni z Kravař",
-      "person": "Jiří z Kravař",
-      "from": 1440,
-      "to": 1446,
-      "from_approx": false,
-      "to_approx": true,
-      "how": "jine",
-      "note": "hrad vrácen do přímého držení smlouvou z roku 1440; Jiří z Kravař jej s celým panstvím (Lipník a 27 vesnic) prodal v letech 1444-1447"
-    },
-    {
-      "owner": "z-sovince",
-      "owner_wiki": null,
-      "person": "Vok ze Sovince",
-      "from": 1446,
-      "to": 1467,
-      "from_approx": true,
-      "to_approx": false,
-      "how": "koupe",
-      "note": "koupě datována 1444-1447; roku 1467 prodal panství za 30 000 uherských zlatých"
-    },
-    {
-      "owner": "kostkove-z-postupic",
-      "owner_wiki": "Kostkové z Postupic",
-      "person": "Albrecht, Zdeněk a Jan Kostkové z Postupic",
-      "from": 1467,
-      "to": 1474,
-      "from_approx": false,
-      "to_approx": false,
-      "how": "koupe",
-      "note": "spolumajitelé s Jiříkem z Landštejna; roku 1468 hrad obléhal král Matyáš Korvín, dobyt nebyl; roku 1474 hrad prodal Albrecht Kostka z Postupic"
-    },
-    {
-      "owner": "z-landstejna",
-      "owner_wiki": null,
-      "person": "Jiřík z Landštejna",
-      "from": 1467,
-      "to": 1474,
-      "from_approx": false,
-      "to_approx": false,
-      "how": "koupe",
-      "note": "spolumajitel s Kostky z Postupic; další osud jeho podílu zdroj neuvádí"
-    },
-    {
-      "owner": "pernstejnove",
-      "owner_wiki": "Pernštejnové",
-      "person": "Vilém z Pernštejna, poté syn Jan IV. z Pernštejna",
-      "from": 1474,
-      "to": 1554,
-      "from_approx": false,
-      "to_approx": false,
-      "how": "koupe",
-      "note": "Vilém zahájil velké stavební úpravy (přestavba datována 1480), Jan IV. pokračoval; kvůli finančním potížím rodu byl Helfštýn jako jeden z prvních statků prodán 1554"
-    },
-    {
-      "owner": "pani-z-ludanic",
-      "owner_wiki": "Páni z Ludanic",
-      "person": "Půta z Ludanic",
-      "from": 1554,
-      "to": 1560,
-      "from_approx": false,
-      "to_approx": false,
-      "how": "koupe"
-    },
-    {
-      "owner": "pani-z-ludanic",
-      "owner_wiki": "Páni z Ludanic",
-      "person": "Václav z Ludanic",
-      "from": 1560,
-      "to": 1571,
-      "from_approx": false,
-      "to_approx": false,
-      "how": "dedictvi"
-    },
-    {
-      "owner": "pani-z-ludanic",
-      "owner_wiki": "Páni z Ludanic",
-      "person": "Kateřina z Ludanic",
-      "from": 1571,
-      "to": null,
-      "from_approx": false,
-      "to_approx": false,
-      "how": "dedictvi",
-      "note": "dědičkou v pěti letech; provdala se za Petra Voka z Rožmberka (rok sňatku zdroj neuvádí)"
-    },
-    {
-      "owner": "rozmberkove",
-      "owner_wiki": "Rožmberkové",
-      "person": "Petr Vok z Rožmberka",
-      "from": null,
-      "to": 1593,
-      "from_approx": false,
-      "to_approx": true,
-      "how": "snatek",
-      "note": "panství sňatkem s Kateřinou z Ludanic; zadlužené a vzdálené panství po dvanácti letech (1592 nebo 1593) prodal za 120 000 rýnských zlatých"
-    },
-    {
-      "owner": "bruntalsti-z-vrbna",
-      "owner_wiki": "Bruntálští z Vrbna",
-      "person": "Hynek starší Bruntálský z Vrbna, poté Jiří z Vrbna",
-      "from": 1593,
-      "to": 1622,
-      "from_approx": true,
-      "to_approx": false,
-      "how": "koupe",
-      "note": "dokončili renesanční palác v hradním jádře; posledním majitelem z rodu byl Jiří z Vrbna, direktor stavovského povstání, uvězněný na Špilberku, kde 1622 zemřel; majetek mu byl zabaven"
-    },
-    {
-      "owner": "ditrichstejnove",
-      "owner_wiki": "Ditrichštejnové",
-      "person": "František z Ditrichštejna, později Karel Jan a František Josef z Ditrichštejna",
-      "from": 1622,
-      "to": null,
-      "from_approx": false,
-      "to_approx": true,
-      "how": "konfiskace",
-      "note": "zabavený majetek Jiřího z Vrbna přenechán kardinálu Františku z Ditrichštejna; rod vlastnil panství až do pozemkové reformy po vzniku Československa"
-    },
-    {
-      "owner": "stat",
-      "owner_wiki": null,
-      "person": null,
-      "from": 1922,
-      "to": 1930,
-      "from_approx": true,
-      "to_approx": false,
-      "how": "jine",
-      "note": "po pozemkové reformě ve 20. letech 20. století byl majitelem na osm let stát (přesný počáteční rok zdroj neuvádí)"
-    },
-    {
-      "owner": "althannove",
-      "owner_wiki": "Althannové",
-      "person": "Antoinetta z Althannu",
-      "from": 1930,
-      "to": null,
-      "from_approx": false,
-      "to_approx": true,
-      "how": "jine",
-      "note": "roku 1930 hrad získala zpět od státu; opravy prováděla i ve spolupráci s matkou Gabrielou z Hatzfeldu"
-    },
-    {
-      "owner": "althannove",
-      "owner_wiki": "Althannové",
-      "person": "Michal Karel z Althannu",
-      "from": null,
-      "to": 1945,
-      "from_approx": false,
-      "to_approx": false,
-      "how": "dedictvi",
-      "note": "poslední soukromý vlastník hradu, majetek mu byl zabaven roku 1945 (rok převzetí po Antoinettě zdroj neuvádí)"
-    },
-    {
-      "owner": "stat",
-      "owner_wiki": null,
-      "person": null,
-      "from": 1945,
-      "to": null,
-      "from_approx": false,
-      "to_approx": true,
-      "how": "konfiskace",
-      "note": "po zabavení 1945 spravoval hrad postupně Národní pozemkový fond, Ředitelství vojenských lesů, od 1947 Klub českých turistů, od 1949 Československá obec sokolská, od 1952 ministerstvo školství a krajská/okresní muzea (Olomouc, od 1960 Přerov); přesný rok přechodu vlastnictví na kraj zdroj neuvádí"
-    },
-    {
-      "owner": "mesto",
-      "owner_wiki": null,
-      "person": "Olomoucký kraj",
-      "from": null,
-      "to": null,
-      "from_approx": true,
-      "to_approx": false,
-      "how": "jine",
-      "note": "dnešním vlastníkem je Olomoucký kraj, hrad spravuje a provozuje Muzeum Komenského v Přerově"
-    }
-  ],
-  "events": [
-    {
-      "year": 1312,
-      "text": "po zboření dřívějších hradů zakládá Friduš z Linavy Helfštýn"
-    },
-    {
-      "year": 1440,
-      "text": "smlouvou z Valašského Meziříčí se hrad vrací do přímého držení pánů z Kravař"
-    },
-    {
-      "year": 1468,
-      "text": "neúspěšné obléhání hradu králem Matyášem Korvínem"
-    },
-    {
-      "year": 1474,
-      "text": "Vilém z Pernštejna kupuje hrad a zahajuje rozsáhlou pozdně gotickou přestavbu"
-    },
-    {
-      "year": 1622,
-      "text": "Jiří z Vrbna, poslední majitel z rodu Bruntálských z Vrbna, umírá ve vězení na Špilberku; majetek zabaven a přenechán Ditrichštejnům"
-    },
-    {
-      "year": 1643,
-      "text": "hradní posádka odolala obléhání švédským vojskem generála Torstensona"
-    },
-    {
-      "year": 1945,
-      "text": "hrad zabaven Althannům, konec soukromého vlastnictví"
-    },
-    {
-      "year": 2020,
-      "text": "dokončena rekonstrukce hradního jádra, oceněná titulem Stavba roku 2021"
-    }
-  ],
-  "sources": [
-    "https://cs.wikipedia.org/wiki/Helfštýn"
-  ]
+  {
+   "owner": "pani-z-kravar",
+   "owner_wiki": "Páni z Kravař",
+   "person": "Vok I. z Kravař, poté Ješek a Lacek z Kravař a Helfštejna",
+   "from": 1320,
+   "to": 1416,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "majitelem 'někdy před rokem 1320' (cs.wiki), způsob nabytí nejasný; Ješek vyhrál spor s Čeňkem z Drahotuš; Lacek hrad výrazně rozšířil a opevnil"
+  },
+  {
+   "owner": "pani-z-kravar",
+   "owner_wiki": "Páni z Kravař",
+   "person": "Petr z Kravař a Strážnice",
+   "from": 1416,
+   "to": 1434,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "za husitských válek stál na straně husitů, hrad nebyl dobýván; dějiny po 1425 jsou nejasné"
+  },
+  {
+   "owner": "z-menspecku",
+   "owner_wiki": null,
+   "person": "Jan z Menspecku",
+   "from": 1434,
+   "to": 1440,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "jine",
+   "note": "vzdálený příbuzný pánů z Kravař, sídlil na hradě; do přímého držení Kravařů se hrad vrátil smlouvou z Valašského Meziříčí 1440"
+  },
+  {
+   "owner": "pani-z-kravar",
+   "owner_wiki": "Páni z Kravař",
+   "person": "Jiří z Kravař",
+   "from": 1440,
+   "to": 1444,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "hrad s panstvím (Lipník a 27 vesnic) prodal v letech 1444-1447 (cs.wiki), mistopisy.cz uvádí koupi Vokem ze Sovince 1444"
+  },
+  {
+   "owner": "z-sovince",
+   "owner_wiki": null,
+   "person": "Vok ze Sovince",
+   "from": 1444,
+   "to": 1467,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupě datována 1444-1447, rok 1444 podle mistopisy.cz; 1467 prodal panství za 30 000 uherských zlatých"
+  },
+  {
+   "owner": "kostkove-z-postupic",
+   "owner_wiki": "Kostkové z Postupic",
+   "person": "Albrecht, Zdeněk a Jan Kostkové z Postupic",
+   "from": 1467,
+   "to": 1474,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "spolumajitelé s Jiříkem z Landštejna; 1468 neúspěšné obléhání králem Matyášem Korvínem; 1474 prodal Albrecht hrad Vilémovi z Pernštejna (mistopisy.cz uvádí Pernštejny od 1475)"
+  },
+  {
+   "owner": "z-landstejna",
+   "owner_wiki": null,
+   "person": "Jiřík z Landštejna",
+   "from": 1467,
+   "to": 1474,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "spolumajitel s Kostky z Postupic; osud jeho podílu zdroje neuvádějí"
+  },
+  {
+   "owner": "pernstejnove",
+   "owner_wiki": "Pernštejnové",
+   "person": "Vilém z Pernštejna, poté syn Jan IV. z Pernštejna",
+   "from": 1474,
+   "to": 1554,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "rozsáhlá pozdně gotická přestavba (datována 1480), z Helfštýna vojenské a zbrojní centrum rodu; kvůli bankrotu rodu jeden z prvních prodaných statků"
+  },
+  {
+   "owner": "pani-z-ludanic",
+   "owner_wiki": "Páni z Ludanic",
+   "person": "Půta z Ludanic",
+   "from": 1554,
+   "to": 1560,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe"
+  },
+  {
+   "owner": "pani-z-ludanic",
+   "owner_wiki": "Páni z Ludanic",
+   "person": "Václav z Ludanic",
+   "from": 1560,
+   "to": 1571,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "bývalý moravský zemský hejtman, zemřel ve Vídni 1571"
+  },
+  {
+   "owner": "pani-z-ludanic",
+   "owner_wiki": "Páni z Ludanic",
+   "person": "Kateřina z Ludanic",
+   "from": 1571,
+   "to": 1580,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "dědička v pěti letech, do 1580 pod poručenstvím Zachariáše z Hradce"
+  },
+  {
+   "owner": "rozmberkove",
+   "owner_wiki": "Rožmberkové",
+   "person": "Petr Vok z Rožmberka",
+   "from": 1580,
+   "to": 1592,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "snatek",
+   "note": "oženil se roku 1580 s Kateřinou z Ludanic; zadlužené vzdálené panství prodal za 120 000 rýnských zlatých (rok 1592 podle oficiálního webu, cs.wiki 1592 nebo 1593)"
+  },
+  {
+   "owner": "bruntalsti-z-vrbna",
+   "owner_wiki": "Bruntálští z Vrbna",
+   "person": "Hynek starší Bruntálský z Vrbna, poté Jiří z Vrbna",
+   "from": 1592,
+   "to": 1622,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "dokončili renesanční palác v jádře hradu a založili zámek v Lipníku; Jiří z Vrbna, direktor stavovského povstání, zemřel 1622 uvězněný na Špilberku a majetek byl zabaven"
+  },
+  {
+   "owner": "ditrichstejnove",
+   "owner_wiki": "Ditrichštejnové",
+   "person": "kardinál František z Ditrichštejna, později další členové rodu",
+   "from": 1622,
+   "to": 1922,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "konfiskace",
+   "note": "hrad od 17. stol. využíván k vojenským účelům, od 2. poloviny 18. stol. chátral; rod držel panství do pozemkové reformy ve 20. letech 20. stol. (rok 1922 odvozen z cs.wiki: stát byl vlastníkem osm let do 1930)"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1922,
+   "to": 1930,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "jine",
+   "note": "po pozemkové reformě majitelem asi osm let; počáteční rok odvozen"
+  },
+  {
+   "owner": "althannove",
+   "owner_wiki": "Althannové",
+   "person": "Antoinetta z Althannu",
+   "from": 1930,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "hrad získala zpět od státu; opravy prováděla i s matkou Gabrielou z Hatzfeldu"
+  },
+  {
+   "owner": "althannove",
+   "owner_wiki": "Althannové",
+   "person": "Michal Karel z Althannu",
+   "from": null,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "poslední soukromý vlastník, majetek mu zabaven 1945"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "správa: Národní pozemkový fond a Ředitelství vojenských lesů, od 16. 7. 1947 Klub českých turistů, od 1949 Československá obec sokolská, od 1952 ministerstvo školství (muzea v Olomouci, od 1960 v Přerově); rok přechodu vlastnictví na kraj zdroje neuvádějí"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "Olomoucký kraj",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "dnešní vlastník, hrad spravuje Muzeum Komenského v Přerově"
+  }
+ ],
+ "events": [
+  {
+   "year": 1440,
+   "text": "smlouva z Valašského Meziříčí vrátila hrad do přímého držení pánů z Kravař"
+  },
+  {
+   "year": 1468,
+   "text": "neúspěšné obléhání hradu králem Matyášem Korvínem"
+  },
+  {
+   "year": 1474,
+   "text": "Vilém z Pernštejna koupil hrad a zahájil rozsáhlou pozdně gotickou přestavbu (dokončení předhradí 1480)"
+  },
+  {
+   "year": 1554,
+   "text": "Pernštejnové kvůli bankrotu prodali panství Půtovi z Ludanic"
+  },
+  {
+   "year": 1622,
+   "text": "po smrti Jiřího z Vrbna na Špilberku byl majetek zabaven a předán Ditrichštejnům"
+  },
+  {
+   "year": 1643,
+   "text": "hradní posádka odolala obléhání švédským vojskem generála Torstensona"
+  },
+  {
+   "year": 1945,
+   "text": "hrad zabaven Althannům, konec soukromého vlastnictví"
+  },
+  {
+   "year": 2020,
+   "text": "dokončena rekonstrukce hradního jádra, Stavba roku 2021"
+  }
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Helfštýn",
+  "https://helfstyn.cz/o-hradu/historie/historie-hradu-helfstyn",
+  "https://helfstyn.cz/o-hradu/historie/historie-hradu-helfstyn/ludanicove",
+  "https://www.mistopisy.cz/pruvodce/body-zajmu/834/hrad-helfstyn/"
+ ]
 }

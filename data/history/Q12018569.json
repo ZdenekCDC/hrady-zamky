@@ -4,9 +4,9 @@
  "founded": {
   "year": 1300,
   "approx": true,
-  "text": "Hrad byl založen v době okolo roku 1300, nejspíše Jetřichem, synem Jetřicha z Krašovic z rozrodu Hroznatovců, jenž se stal zakladatelem rodu pánů z Gutštejna. První nepřímá zmínka je z roku 1319."
+  "text": "Hrad byl založen okolo roku 1300 (nebo i dříve) jako rodové sídlo pánů z Gutštejna při dělení majetku pánů z Krašova; první nepřímá zmínka je z roku 1316 (NPÚ) resp. 1319 (cs.wiki, web hradu)."
  },
- "summary": "Gutštejn založil kolem roku 1300 Jetřich z rodu Hroznatovců, který se stal zakladatelem rodového hradu pánů z Gutštejna; hrad se v následujících staletích v rámci rodu dělil mezi jednotlivé větve a od 15. století přestal majitelům, kteří sídlili jinde (Rabštejn, Preitenstein, Dolní Bělá, Chyše), vyhovovat. Roku 1549 jej Viktorin z Gutštejna prodal Hanuši Elpognárovi z Dolního Šenfeldu, který jej připojil k bezdružickému panství; hrad ztratil sídelní funkci, chátral a definitivně zpustl nejspíše za třicetileté války. Dnes je majetkem státu, správu zajišťuje Národní památkový ústav a zřícenina je přístupná veřejnosti.",
+ "summary": "Gutštejn založil kolem roku 1300 jeden z Hroznatovců jako rodový hrad pánů z Gutštejna, kteří jej drželi do roku 1549. Od 15. století patřil k méně významným sídlům rodu a majitelé sídlili jinde; roku 1422 jej obléhal Jan Žižka (dobytí je sporné). Roku 1549 jej Viktorin z Gutštejna prodal Hanuši Elpognárovi z Dolního Šenfeldu, hrad byl připojen k bezdružickému panství, ztratil sídelní funkci a zpustl, nejpozději za třicetileté války. Po pozemkové reformě se stal státním majetkem a dnes jej spravuje NPÚ jako přístupnou zříceninu.",
  "owners": [
   {
    "owner": "pani-z-gutstejna",
@@ -17,7 +17,7 @@
    "from_approx": true,
    "to_approx": false,
    "how": "zalozeni",
-   "note": "zakladatel byl z rozrodu Hroznatovců a stal se zakladatelem rodu pánů z Gutštejna; v rodě se hrad dále dělil a dědil (Půta 1379 jediným majitelem, po 1409 bratr Jetřich II., 1417 synové Burian a Jan starší, obléhán za husitských válek Janem Žižkou - dobytí sporné, později Burian II. a jeho synové, nakonec Viktorin), do roku 1549, kdy jej Viktorin prodal"
+   "note": "rodový hrad Hroznatovců; Půta 1379 jediným majitelem, po 1409 Jetřich II., 1417 synové Burian a Jan starší, později Burian II. (zemřel zřejmě 1490) a jeho synové, nakonec Volf (zemřel 1545) a jeho syn Viktorin; hrad od 15. stol. nepatřil k hlavním sídlům rodu"
   },
   {
    "owner": "z-dolniho-senfeldu",
@@ -28,7 +28,7 @@
    "from_approx": false,
    "to_approx": true,
    "how": "koupe",
-   "note": "koupil hrad se dvorem a pěti vesnicemi za 3250 kop grošů a připojil k bezdružickému panství; hrad ztratil sídelní funkci, v letech 1549 a 1566 ještě udržován, zcela opuštěn nejspíše za třicetileté války (1618-1648); rod bez vlastního článku na cs.wiki"
+   "note": "majitel Bezdružic, koupil hrad se dvorem a pěti vesnicemi za 3250 kop grošů a připojil k bezdružickému panství; hrad udržován ještě 1549 a 1566, později uváděn jako pustý; rod bez vlastního článku na cs.wiki; roky dalších majitelů bezdružického panství zdroje neuvádějí"
   },
   {
    "owner": "stat",
@@ -36,19 +36,38 @@
    "person": null,
    "from": null,
    "to": null,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "dnes ve vlastnictví státu, správu zajišťuje Národní památkový ústav, zřícenina přístupná veřejnosti; přesný okamžik přechodu do vlastnictví státu článek neuvádí"
+   "note": "po pozemkové reformě (po 1918) státní majetek, spravuje NPÚ; přesný rok převodu zdroje neuvádějí (1903 zříceninu opravila správa bezdružického panství)"
   }
  ],
  "events": [
-  {"year": 1319, "text": "první nepřímá zmínka o hradu (nájemní listina tepelského opata)"},
-  {"year": 1379, "text": "Půta z Gutštejna jediným majitelem hradu a přilehlých vesnic"},
-  {"year": 1420, "text": "hrad na počátku husitských válek obléhalo vojsko Jana Žižky z Trocnova (dobytí sporné)"},
-  {"year": 1507, "text": "na hradě probíhala jednání Jetřicha z Gutštejna s posly falckého kurfiřta z pověření nejvyššího kancléře"},
-  {"year": 1549, "text": "Viktorin z Gutštejna prodal hrad Hanuši Elpognárovi z Dolního Šenfeldu, připojen k bezdružickému panství"},
-  {"year": 1964, "text": "hrad chráněn jako kulturní památka"}
+  {
+   "year": 1316,
+   "text": "první nepřímá zmínka o hradu v predikátu Jetřicha z Gutštejna (cs.wiki uvádí 1319)"
+  },
+  {
+   "year": 1422,
+   "text": "hrad obléhal Jan Žižka z Trocnova, dobytí je sporné (cs.wiki uvádí 1420)"
+  },
+  {
+   "year": 1507,
+   "text": "na hradě Jetřich z Gutštejna jednal s posly falckého kurfiřta"
+  },
+  {
+   "year": 1549,
+   "text": "Viktorin z Gutštejna prodává hrad Hanuši Elpognárovi, připojen k bezdružickému panství"
+  },
+  {
+   "year": 1903,
+   "text": "zříceninu opravila správa bezdružického panství"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Gutštejn"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Gutštejn",
+  "https://www.hrad-gutstejn.cz/cs/o-hradu/historie",
+  "https://update.npu.cz/uop/plzen/pdf/publikacni%20cinnost/pzc-2012/pzc-ii-2012-sep.-07---zricenina-gutstejn.pdf",
+  "http://hrady.dejiny.cz/gutstejn/index.htm"
+ ]
 }

@@ -1,78 +1,121 @@
 {
- "id": "Q33405615",
- "name": "Kyjovice",
- "founded": {
-  "year": 1783,
-  "approx": false,
-  "text": "1783 nechal hrabě Quido Antonín z Kalkreuthu postavit barokní zámek."
- },
- "summary": "Barokní zámek v Kyjovicích nechal roku 1783 postavit hrabě Quido Antonín z Kalkreuthu. V první polovině 19. století jej hrabě Arnošt Falkenhayn z Glošku upravil v empírovém slohu a založil okolní park. Od roku 1915 zámek vlastnil rod Stolbergů, dokud nebyl roku 1945 vypovězen a majetek převeden pod správu Charity; od roku 1950 sloužil školským účelům a od roku 1967 je v něm domov důchodců.",
- "owners": [
-  {
-   "owner": "kalkreuthove",
-   "owner_wiki": "Kalkreuthové",
-   "person": "Quido Antonín z Kalkreuthu",
-   "from": 1783,
-   "to": null,
-   "from_approx": false,
-   "to_approx": true,
-   "how": "zalozeni",
-   "note": "rok konce jeho vlastnictví zdroj neuvádí"
+  "id": "Q33405615",
+  "name": "Kyjovice",
+  "founded": {
+    "year": 1783,
+    "approx": false,
+    "text": "1783 nechal hrabě Quido Antonín z Kalkreuthu postavit barokní zámek."
   },
-  {
-   "owner": "falkenhaynove",
-   "owner_wiki": "Falkenhaynové",
-   "person": "Arnošt Falkenhayn z Glošku",
-   "from": null,
-   "to": null,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "neznamo",
-   "note": "majitelem v první polovině 19. století; přesné roky nástupu i konce držby zdroj neuvádí"
-  },
-  {
-   "owner": "stolbergove",
-   "owner_wiki": "Stolbergové",
-   "person": "Bedřich Theodor hrabě Stolberg",
-   "from": 1915,
-   "to": 1945,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "neznamo",
-   "note": "rod Stolbergů zde sídlil až do vypovězení roku 1945; způsob nabytí v roce 1915 zdroj neuvádí"
-  },
-  {
-   "owner": "cirkev",
-   "owner_wiki": null,
-   "person": "Charita",
-   "from": 1945,
-   "to": 1950,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "jine",
-   "note": "majetek převeden pod správu Charity po vypovězení Stolbergů"
-  },
-  {
-   "owner": "stat",
-   "owner_wiki": null,
-   "person": null,
-   "from": 1950,
-   "to": null,
-   "from_approx": false,
-   "to_approx": true,
-   "how": "jine",
-   "note": "od 1950 postupně Okresní pomocná škola, Krajská škola pro mládež, učňovská škola, od 1966 Okresní výbor - Odbor sociálního zabezpečení, od 1967 domov důchodců; přesný právní vlastník dnes zdrojem neuveden"
-  }
- ],
- "events": [
-  {"year": 1783, "text": "postaven barokní zámek hrabětem Quidem Antonínem z Kalkreuthu"},
-  {"year": 1915, "text": "majitelem se stává Bedřich Theodor hrabě Stolberg"},
-  {"year": 1945, "text": "rod Stolbergů vypovězen, majetek převeden pod správu Charity"},
-  {"year": 1950, "text": "v zámku zřízena Okresní pomocná škola"},
-  {"year": 1967, "text": "v zámku umístěn domov důchodců"},
-  {"year": 1999, "text": "1999-2002 rozsáhlá rekonstrukce budovy zámku"}
- ],
- "sources": [
-  "https://cs.wikipedia.org/wiki/Kyjovice_(zámek)"
- ]
+  "summary": "Barokní zámek v Kyjovicích nechal roku 1783 postavit Quido Antonín z Kalkreuthu; kyjovické panství drželi Kalkreuthové od poloviny 17. století. Po sňatku dědičky Terezie s Arnoštem Augustem Falkenhaynem (1799) zámek upravil v empírovém slohu a založil park; rodovou větev uzavřela smrt Berty Rosiny 1915, po níž panství zdědil Bedřich Theodor hrabě Stolberg. Stolbergové byli roku 1945 vypovězeni, zámek převzala Charita, pak sloužil školám a od roku 1967 je v něm domov důchodců.",
+  "owners": [
+    {
+      "owner": "prazmove-z-bilkova",
+      "owner_wiki": "Pražmové z Bílkova",
+      "person": "Mikuláš Pražma z Bílkova, poté mladší Pražma a od 1610 Beneš z Pražma",
+      "from": 1548,
+      "to": 1619,
+      "from_approx": true,
+      "to_approx": false,
+      "how": "neznamo",
+      "note": "obec: 1543 Jan Oderský z Lideřova, po 1548 Mikuláš Pražma, 1568 mladší Pražma, 1610 Beneš; Beneš se zúčastnil odboje proti Ferdinandovi II. a statek 1619 ztratil; přenecháno manželce Ludmile Piklarovně z Gvozdnic (1619-1642), poté neteři Marii; v té době na místě stál jen panský dům"
+    },
+    {
+      "owner": "kalkreuthove",
+      "owner_wiki": "Kalkreuthové",
+      "person": "Karel Bedřich z Kalkreuthu, poté Karel Maxmilián (†1719) a Antonín Leopold Ignác",
+      "from": 1656,
+      "to": null,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "dedictvi",
+      "note": "1656 zdědil statek Karel Bedřich, syn Jiřího Adama z Kalkreuthu; kultura.cz uvádí držbu Kalkreuthů 1669-1807"
+    },
+    {
+      "owner": "kalkreuthove",
+      "owner_wiki": "Kalkreuthové",
+      "person": "Quido Antonín z Kalkreuthu",
+      "from": null,
+      "to": null,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "dedictvi",
+      "note": "nechal roku 1783 postavit pozdně barokní zámek; po něm dědila nejstarší dcera Terezie; přesné roky zdroje neuvádějí"
+    },
+    {
+      "owner": "falkenhaynove",
+      "owner_wiki": "Falkenhaynové",
+      "person": "Arnošt August hrabě Falkenhayn z Glošku",
+      "from": 1799,
+      "to": null,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "snatek",
+      "note": "od 12. 11. 1799 druhý manžel dědičky Terezie z Kalkreuthu; upravil zámek v empírovém slohu a založil park; kultura.cz uvádí konec držby Kalkreuthů 1807; poté zdědil syn Theodor, rodová větev zanikla smrtí dcery Berty Rosiny 1915"
+    },
+    {
+      "owner": "stolbergove",
+      "owner_wiki": "Stolbergové",
+      "person": "Bedřich Theodor hrabě Stolberg",
+      "from": 1915,
+      "to": 1945,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "dedictvi",
+      "note": "syn Berty Rosiny Falkenhaynové; rod byl 1945 z Kyjovic vypovězen"
+    },
+    {
+      "owner": "cirkev",
+      "owner_wiki": null,
+      "person": "Charita",
+      "from": 1945,
+      "to": 1950,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "jine",
+      "note": "majetek převeden pod správu Charity po vypovězení Stolbergů; právní titul zdroje neuvádějí"
+    },
+    {
+      "owner": "stat",
+      "owner_wiki": null,
+      "person": null,
+      "from": 1950,
+      "to": null,
+      "from_approx": true,
+      "to_approx": false,
+      "how": "jine",
+      "note": "od 1950 školy (Okresní pomocná škola, Krajská škola pro mládež, od 1957 učňovská škola), od 1966 Okresní výbor - Odbor sociálního zabezpečení, od 1967 domov důchodců (dnes Domov Na Zámku); přesný právní vlastník a rok převodu zdroje neuvádějí"
+    }
+  ],
+  "events": [
+    {
+      "year": 1783,
+      "text": "postaven barokní zámek Quidem Antonínem z Kalkreuthu"
+    },
+    {
+      "year": 1799,
+      "text": "Arnošt August Falkenhayn se sňatkem stal pánem Kyjovic a později zámek upravil v empíru"
+    },
+    {
+      "year": 1915,
+      "text": "po smrti Berty Rosiny Falkenhaynové dědí Bedřich Theodor hrabě Stolberg"
+    },
+    {
+      "year": 1945,
+      "text": "Stolbergové vypovězeni, majetek pod správou Charity"
+    },
+    {
+      "year": 1967,
+      "text": "v zámku zřízen domov důchodců"
+    },
+    {
+      "year": 2002,
+      "text": "dokončena rozsáhlá rekonstrukce (1999-2002)"
+    }
+  ],
+  "sources": [
+    "https://cs.wikipedia.org/wiki/Kyjovice_(zámek)",
+    "https://www.kyjovice.cz/obec-kyjovice/historie/",
+    "https://opavsky.denik.cz/zpravy-region/historie-z-regionu-zamek-v-kyjovicich-je-nyni-domovem-senioru/",
+    "http://www.kultura.cz/profile/5555-zamek-kyjovice"
+  ]
 }

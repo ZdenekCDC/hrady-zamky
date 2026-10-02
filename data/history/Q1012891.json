@@ -4,55 +4,400 @@
  "founded": {
   "year": 1250,
   "approx": true,
-  "text": "Hrad byl založen nejspíše v první polovině 13. století, jeho zakladatelem mohl být rytíř Slavek z Ledče, doložený roku 1262."
+  "text": "Hrad byl založen nejspíše v první polovině 13. století; vladykové z Ledče jsou doloženi od 13. století (Zikmund z Ledče zemřel 1220, Slávek z Ledče 1262), ve druhé polovině 14. století je držela řada nositelů predikátu z Ledče."
  },
- "summary": "Hrad založený nejspíše v první polovině 13. století patřil od roku 1367 doloženě Ledečtím z Říčan, po jejichž vymření po meči roku 1541 panství zdědila dcera Markéta a přes Meziříčské z Lomnice přešlo na Trčky z Lípy. Za třicetileté války byl po smrti Jana Rudolfa Trčky roku 1636 zkonfiskován a vystřídal řadu majitelů (Enkenfurtové, Thun-Hohensteinové, Lichtenštejnové, Věžníkové, Kochové), než jej roku 1753 koupila císařovna Marie Terezie a po roce 1763 Tereziánský ústav šlechtičen. Po pozemkové reformě 1926 připadl státním lesům a statkům, od roku 1999 patří většinově městu Ledeč nad Sázavou a menšinově soukromé firmě.",
+ "summary": "Ledečský hrad na ostrohu nad Sázavou drželi od 13. století vladykové z Ledče a od poloviny 15. století Ledečtí z Říčan; ti vymřeli po meči a panství přes Meziříčské z Lomnice (Páni z Lomnice) přešlo roku 1569 na Trčky z Lípy, kteří hrad přestavěli na renesanční zámek. Po konfiskaci 1635-1636 jej střídali Enkenfurtové, Thun-Hohensteinové, Lichtenštejnové a Věžníkové, až jej roku 1753 koupila císařovna Marie Terezie a po roce 1763 Tereziánský ústav šlechtičen. Po roce 1918 patřil státu (státní lesy), od roku 1999 většinově městu Ledeč nad Sázavou.",
  "owners": [
-  {"owner": "z-ledce", "owner_wiki": null, "person": "Slavek z Ledče", "from": 1250, "to": null, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "nejistý zakladatel hradu, rytíř doložený roku 1262; wikipedie neuvádí jeho rod ani konec držby"},
-  {"owner": "ledecti-z-rican", "owner_wiki": "Ledečtí z Říčan", "person": "Petr, Diviš a Václav Ledečtí z Říčan", "from": 1367, "to": 1406, "from_approx": false, "to_approx": true, "how": "neznamo", "note": "první jistí držitelé hradu, doloženi 1367; Petr a Václav zemřeli před rokem 1406"},
-  {"owner": "ledecti-z-rican", "owner_wiki": "Ledečtí z Říčan", "person": "Mikuláš starší a Mikuláš mladší Ledečtí z Říčan", "from": 1406, "to": 1442, "from_approx": true, "to_approx": true, "how": "dedictvi", "note": "bratři nebo bratranci, synové Petra a Václava, každý vlastnil polovinu hradu"},
-  {"owner": "ledecti-z-rican", "owner_wiki": "Ledečtí z Říčan", "person": "Jindřich a Jan Ledečtí z Říčan", "from": 1442, "to": 1488, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "podle Tomáše Šimka synové Mikuláše mladšího; Jan zemřel 1488 a zanechal nezletilého syna Buriana"},
-  {"owner": "ledecti-z-rican", "owner_wiki": "Ledečtí z Říčan", "person": "Burian Ledecký z Říčan", "from": 1488, "to": 1541, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "za nezletilého Buriana panství do roku 1501 spravoval poručník Mikuláš Trčka z Lípy; Burian zemřel 1541, hrad zdědila jeho jediná dcera Markéta"},
-  {"owner": "ledecti-z-rican", "owner_wiki": "Ledečtí z Říčan", "person": "Markéta Ledecká z Říčan", "from": 1541, "to": 1556, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "roku 1545 si nechala panství zapsat do obnovených zemských desek; provdala se za Zdeňka Meziříčského z Lomnice, zemřela 1556"},
-  {"owner": "meziricti-z-lomnice", "owner_wiki": "Meziříčtí z Lomnice", "person": "Zdeněk Meziříčský z Lomnice", "from": 1556, "to": 1566, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "manžel Markéty Ledecké z Říčan, za jeho držby přestavěn hrad na renesanční zámek; zemřel 1566"},
-  {"owner": "meziricti-z-lomnice", "owner_wiki": "Meziříčtí z Lomnice", "person": "Jan Meziříčský z Lomnice", "from": 1566, "to": 1569, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "zemřel bezdětný 1569; podle závěti Markéty Meziříčské panství zdědil Jaroslav Trčka z Lípy"},
-  {"owner": "trckove-z-lipy", "owner_wiki": "Trčkové z Lípy", "person": "Jaroslav Trčka z Lípy na Větrném Jeníkově", "from": 1569, "to": 1588, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "1578 přikoupil další vsi; zemřel 1588, odkázal Ledeč synům kromě Jindřicha"},
-  {"owner": "trckove-z-lipy", "owner_wiki": "Trčkové z Lípy", "person": "nezletilí synové Jaroslava Trčky (správu vedli matka Johana ze Žerotína, Mikuláš Trčka na Želivi a Jiří z Gutštejna)", "from": 1588, "to": 1590, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "nejstarší syn Jindřich si po otcově pohřbu násilím odnesl cennosti, spor s vdovou Johanou (1594) skončil neznámo jak; poručníci roku 1590 panství prodali"},
-  {"owner": "trckove-z-lipy", "owner_wiki": "Trčkové z Lípy", "person": "Burian Trčka z Lípy na Světlé a Veliši", "from": 1590, "to": 1591, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil za 42 500 kop grošů; zemřel 15. května 1591"},
-  {"owner": "trckove-z-lipy", "owner_wiki": "Trčkové z Lípy", "person": "Maxmilián Trčka z Lípy", "from": 1591, "to": 1597, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "spravoval Ledeč se Světlou spolu s bratry Janem Rudolfem a Burianem Mikulášem, od 1594 samostatně; zemřel svobodný 1597"},
-  {"owner": "trckove-z-lipy", "owner_wiki": "Trčkové z Lípy", "person": "Jan Rudolf Trčka z Lípy", "from": 1597, "to": 1598, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "23. listopadu 1598 prodal panství tchyni Magdaléně, rozené Salmové"},
-  {"owner": "z-salmu", "owner_wiki": null, "person": "Magdaléna, rozená Salmová (manželka Ladislava Popela z Lobkovic)", "from": 1598, "to": 1609, "from_approx": false, "to_approx": true, "how": "koupe", "note": "wikipedie neuvádí konkrétní větev Salmů; veškeré statky odkázala manželovi Ladislavu Popelovi z Lobkovic, dcery se roku 1608 vzdaly nároků za vyplacení"},
-  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": "Ladislav Popel z Lobkovic", "from": 1608, "to": 1609, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "zemřel 1609, panství zdědil syn Jan Mikuláš"},
-  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": "Jan Mikuláš z Lobkovic", "from": 1609, "to": 1614, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "utiskoval poddané, 1612 zřízena komise k nápravě; zemřel 1614"},
-  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": "Eva Eusebie Popelová z Lobkovic", "from": 1614, "to": null, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "vdova a poručnice statku, dluhy ji přivedly k zemskému soudu, který rozhodl o prodeji panství zpět Janu Rudolfu Trčkovi z Lípy; přesný rok neuveden"},
-  {"owner": "trckove-z-lipy", "owner_wiki": "Trčkové z Lípy", "person": "Jan Rudolf Trčka z Lípy", "from": null, "to": 1636, "from_approx": false, "to_approx": false, "how": "koupe", "note": "roku 1618 nechal zámek obsadit vlastní posádkou; po jeho smrti byl majetek zkonfiskován"},
-  {"owner": "koruna", "owner_wiki": null, "person": "Ferdinand III.", "from": 1636, "to": 1636, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "5. června 1636 zkonfiskované panství král týž den daroval baronu Adrianovi z Enkenfurtu"},
-  {"owner": "z-enkenfurtu", "owner_wiki": null, "person": "Adrian z Enkenfurtu", "from": 1636, "to": null, "from_approx": false, "to_approx": false, "how": "dar", "note": "musel zaplatit Trčkovy dluhy; za třicetileté války 1639 a 1643 panství plenili Švédové; odkázal statek synovi"},
-  {"owner": "z-enkenfurtu", "owner_wiki": null, "person": "Jan Ferdinand z Enkenfurtu", "from": null, "to": 1677, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "18. ledna 1677 prodal panství za 132 500 zlatých hraběti Michaelu Osvaldu z Thun-Hohensteinu"},
-  {"owner": "thun-hohensteinove", "owner_wiki": "Thun-Hohensteinové", "person": "Michael Osvald z Thun-Hohensteinu", "from": 1677, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "nechal postavit zámeckou kapli Nanebevzetí Panny Marie; po jeho smrti panství nějakou dobu spravovala vdova"},
-  {"owner": "thun-hohensteinove", "owner_wiki": "Thun-Hohensteinové", "person": "Eleonora Barbora a Marie Magdaléna z Thun-Hohensteinu", "from": 1703, "to": 1708, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "sestry, zprvu se o správu dělily; Marie Magdaléna zemřela 2. prosince 1708 a vše zdědila Eleonora Barbora"},
-  {"owner": "thun-hohensteinove", "owner_wiki": "Thun-Hohensteinové", "person": "Eleonora Barbora z Thun-Hohensteinu", "from": 1708, "to": 1718, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "11. listopadu 1718 Ledeč darovala knížeti Josefu Janu Adamovi z Lichtenštejna"},
-  {"owner": "lichtenstejnove", "owner_wiki": "Lichtenštejnové", "person": "Josef Jan Adam z Lichtenštejna", "from": 1718, "to": 1723, "from_approx": false, "to_approx": false, "how": "dar", "note": "27. září 1723 Ledeč od něj koupil hrabě Leopold z Věžník"},
-  {"owner": "veznikove-z-veznik", "owner_wiki": "Věžníkové z Věžník", "person": "Leopold z Věžník", "from": 1723, "to": 1730, "from_approx": false, "to_approx": false, "how": "koupe", "note": "císařský komoří, zemřel 29. ledna 1730"},
-  {"owner": "veznikove-z-veznik", "owner_wiki": "Věžníkové z Věžník", "person": "Marie Alžběta z Valdštejna (vdova) a syn Ignác z Věžník", "from": 1730, "to": 1733, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "vdova spravovala panství do roku 1732, kdy dospělosti dosáhl syn Ignác; ten zemřel 12. prosince 1733"},
-  {"owner": "veznikove-z-veznik", "owner_wiki": "Věžníkové z Věžník", "person": "Marie Anna z Věžník, rozená ze Satzenhofu", "from": 1733, "to": 1740, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "vdova po Ignácovi (syn Leopold Ondřej Josef zemřel týž měsíc jako otec); podruhé se vdala za hraběte z Verduga, zadlužené panství neudržela, 1740 odhadnuta jeho cena"},
-  {"owner": "veznikove-z-veznik", "owner_wiki": "Věžníkové z Věžník", "person": "Františka Bechyňová, rozená z Věžník", "from": 1740, "to": 1750, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "wikipedie neuvádí, jak přesně panství získala; roku 1750 je prodala svobodnému pánu Ignácovi z Kochu"},
-  {"owner": "z-kochu", "owner_wiki": null, "person": "Ignác z Kochu", "from": 1750, "to": 1753, "from_approx": false, "to_approx": false, "how": "koupe", "note": "roku 1753 přenechal panství za 240 000 zlatých císařovně Marii Terezii"},
-  {"owner": "koruna", "owner_wiki": null, "person": "Marie Terezie", "from": 1753, "to": 1763, "from_approx": false, "to_approx": true, "how": "koupe", "note": "za jejího vlastnictví byl upraven třípatrový palác a za sedmileté války sloužil zámek jako kasárna; po roce 1763 panství koupil Tereziánský ústav šlechtičen"},
-  {"owner": "stat", "owner_wiki": null, "person": "Tereziánský ústav šlechtičen", "from": 1763, "to": 1926, "from_approx": true, "to_approx": false, "how": "koupe", "note": "šlechtický dobročinný ústav založený Marií Terezií, nejbližší dostupná kategorie je 'stat'; při první pozemkové reformě byl zámek roku 1926 začleněn do státního podniku Československé státní lesy a statky"},
-  {"owner": "stat", "owner_wiki": null, "person": "Československé/Východočeské státní lesy", "from": 1926, "to": 1999, "from_approx": false, "to_approx": false, "how": "jine", "note": "ve druhé polovině 20. století zámek patřil národnímu podniku Východočeské státní lesy, který v něm měl kanceláře a byty; část využívalo městské muzeum"},
-  {"owner": "mesto", "owner_wiki": null, "person": "město Ledeč nad Sázavou", "from": 1999, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "roku 1999 koupilo většinový podíl vlastnictví zámku; správou pověřena společnost Hrad Ledeč nad Sázavou"},
-  {"owner": "soukromnik", "owner_wiki": null, "person": "firma Aquacomp Hard", "from": 1999, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "menšinový spoluvlastnický podíl zámku od roku 1999"}
+  {
+   "owner": "z-ledce",
+   "owner_wiki": null,
+   "person": "vladykové z Ledče (Zikmund 1220, Vavřinec 1257, Slávek 1262, Bohuslav 1282, Lipold 1309, ve 2. pol. 14. stol. Bohuněk, Vilém, Baltazar, Záviš aj.)",
+   "from": null,
+   "to": 1453,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "hrad-ledec.cz: blíže neznámí vladykové s predikátem z Ledče, pravděpodobně páni na hradě; příbuzenství s Ledeckými z Říčan nelze vyloučit; pořadí a roky držby nejsou doloženy"
+  },
+  {
+   "owner": "ledecti-z-rican",
+   "owner_wiki": "Ledečtí z Říčan",
+   "person": "Jindřich a Jan Ledečtí z Říčan",
+   "from": 1453,
+   "to": 1477,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "na hradě doloženi od 1453; cs.wiki uvádí první držitele Petra, Diviše a Václava 1367 a Mikuláše starší a mladší do 1442 (podle T. Šimka), hrad-ledec.cz toto nepotvrzuje a Ledecké z Říčan datuje na hradě až od 1453; hrad poprvé 1460 (údaj nepotvrzen); Jindřich zemřel 1477"
+  },
+  {
+   "owner": "ledecti-z-rican",
+   "owner_wiki": "Ledečtí z Říčan",
+   "person": "Jan Ledecký z Říčan",
+   "from": 1477,
+   "to": 1488,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "poslední zmínka 1483, zemřel před dospělostí syna Buriana (cs.wiki 1488)"
+  },
+  {
+   "owner": "ledecti-z-rican",
+   "owner_wiki": "Ledečtí z Říčan",
+   "person": "Burian Ledecký z Říčan",
+   "from": 1488,
+   "to": 1541,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "do 1501 panství spravoval poručník Mikuláš Trčka z Lípy; manželka Žofka ze Sovince zahynula 1509 s dětmi propadnutím podlahy; Burian zemřel kolem 1541 (cs.wiki), dědičkou jediná dcera Markéta"
+  },
+  {
+   "owner": "ledecti-z-rican",
+   "owner_wiki": "Ledečtí z Říčan",
+   "person": "Markéta Ledecká z Říčan",
+   "from": 1541,
+   "to": 1556,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "provdaná za Zdeňka Meziříčského z Lomnice; 1545 vložila panství do obnovených zemských desek; zemřela 2. 8. 1556 a panství odkázala manželovi a synu Janovi"
+  },
+  {
+   "owner": "pani-z-lomnice",
+   "owner_wiki": "Páni z Lomnice",
+   "person": "Zdeněk Meziříčský z Lomnice",
+   "from": 1556,
+   "to": 1566,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "manžel Markéty; 1562 vymohl povýšení Ledče na město; zemřel 16. 6. 1566"
+  },
+  {
+   "owner": "pani-z-lomnice",
+   "owner_wiki": "Páni z Lomnice",
+   "person": "Jan Meziříčský z Lomnice",
+   "from": 1566,
+   "to": 1569,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "zemřel bezdětný 13. 12. 1569; panství podle závěti matky Markéty připadlo sestře Žofii provdané za Jaroslava Trčku z Lípy"
+  },
+  {
+   "owner": "trckove-z-lipy",
+   "owner_wiki": "Trčkové z Lípy",
+   "person": "Jaroslav Trčka z Lípy na Větrném Jeníkově",
+   "from": 1569,
+   "to": 1588,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "manžel Žofie Meziříčské; 1573 a 1578 přikoupil vsi; zemřel 13. 6. 1588; hrad-ledec.cz ho řadí k klíčovým osobnostem dějin hradu"
+  },
+  {
+   "owner": "trckove-z-lipy",
+   "owner_wiki": "Trčkové z Lípy",
+   "person": "poručníci nezletilých dětí Jaroslava Trčky (vdova Johanka ze Žerotína, Mikuláš Trčka a další)",
+   "from": 1588,
+   "to": 1590,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "spory s nejstarším synem Jindřichem; v září 1590 poručníci panství prodali"
+  },
+  {
+   "owner": "trckove-z-lipy",
+   "owner_wiki": "Trčkové z Lípy",
+   "person": "Burjan Trčka z Lípy na Světlé a Velíši",
+   "from": 1590,
+   "to": 1591,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil za 42 500 kop grošů, zemřel 1591; smlouvou z 15. 5. 1591 připadlo panství jeho synům"
+  },
+  {
+   "owner": "trckove-z-lipy",
+   "owner_wiki": "Trčkové z Lípy",
+   "person": "Jan Rudolf, Maxmilián a Burjan Mikuláš Trčkové z Lípy",
+   "from": 1591,
+   "to": 1597,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "nedílná správa, od 1594 samostatně Maxmilián (zemřel svobodný 1597), poté Jan Rudolf"
+  },
+  {
+   "owner": "trckove-z-lipy",
+   "owner_wiki": "Trčkové z Lípy",
+   "person": "Jan Rudolf Trčka z Lípy",
+   "from": 1597,
+   "to": 1598,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "23. 11. 1598 prodal panství tchyni Magdaleně Lobkovicové ze Salmu za 80 000 kop grošů míšeňských"
+  },
+  {
+   "owner": "z-salmu",
+   "owner_wiki": null,
+   "person": "Magdaléna z Lobkovic, rozená hraběnka ze Salmu",
+   "from": 1598,
+   "to": 1599,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "zemřela 1599; statky odkázala manželovi Ladislavu Popelovi z Lobkovic (cs.wiki ji uvádí do 1609)"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Ladislav starší Popel z Lobkovic",
+   "from": 1599,
+   "to": 1609,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "roku 1608 postoupily dcery svá práva otci a bratru Janu Mikulášovi; Ladislav zemřel 1609"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Jan Mikuláš z Lobkovic",
+   "from": 1609,
+   "to": 1614,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "utiskoval poddané (1612 komise); zemřel 1614"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Eva Eusebie z Lobkovic (vdova a poručnice)",
+   "from": 1614,
+   "to": 1616,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "zadlužený statek prodali 1616 komisaři zemského soudu Janu Rudolfovi Trčkovi za 97 000 kop grošů míšeňských"
+  },
+  {
+   "owner": "trckove-z-lipy",
+   "owner_wiki": "Trčkové z Lípy",
+   "person": "Jan Rudolf Trčka z Lípy",
+   "from": 1616,
+   "to": 1635,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "1618 obsazení císařským vojskem, 1621 omilostněn; zemřel 29. 9. 1634; císařskou rezolucí z 17. 4. 1635 byly statky odňaty a svěřeny komisařům"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Ferdinand II. (komisaři)",
+   "from": 1635,
+   "to": 1636,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "rezoluce potvrzena 17. 5. 1636; listem z 6. 7. 1636 panství darováno Adrianovi z Enkenfurtu (cs.wiki uvádí Ferdinanda III. a 5. 6. 1636)"
+  },
+  {
+   "owner": "z-enkenfurtu",
+   "owner_wiki": null,
+   "person": "Adrian z Enkenfurtu, od 1663 jeho syn Jan Ferdinand František",
+   "from": 1636,
+   "to": 1677,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dar",
+   "note": "musel zaplatit Trčkovy dluhy (44 428 zl.); Adrian zemřel 3. 6. 1663; panství upadalo; 18. 1. 1677 prodal Jan Ferdinand panství za 132 500 zl."
+  },
+  {
+   "owner": "thun-hohensteinove",
+   "owner_wiki": "Thun-Hohensteinové",
+   "person": "Michael Osvald z Thun-Hohensteinu, po 1694 vdova Barbora Františka (poručnice syna)",
+   "from": 1677,
+   "to": 1703,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Michael Osvald zemřel 1694; nechal postavit zámeckou kapli Nanebevzetí Panny Marie"
+  },
+  {
+   "owner": "thun-hohensteinove",
+   "owner_wiki": "Thun-Hohensteinové",
+   "person": "Eleonora Barbora (kněžna Lichtenštejnová) a Marie Magdaléna (hraběnka Serényiová) z Thun-Hohensteinu",
+   "from": 1703,
+   "to": 1718,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "sestry, zprvu společná správa, později Marie Magdaléna samostatně (zemřela 2. 12. 1708); 11. 11. 1718 Eleonora darovala Ledeč synovi Josefu Janu Adamovi z Lichtenštejna"
+  },
+  {
+   "owner": "lichtenstejnove",
+   "owner_wiki": "Lichtenštejnové",
+   "person": "Josef Jan Adam z Lichtenštejna",
+   "from": 1718,
+   "to": 1723,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dar",
+   "note": "27. 9. 1723 prodal Leopoldovi Ignáci z Věžník"
+  },
+  {
+   "owner": "veznikove-z-veznik",
+   "owner_wiki": "Věžníkové z Věžník",
+   "person": "Leopold Ignác z Věžník",
+   "from": 1723,
+   "to": 1730,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "císařský komoří; koupil za 282 000 zl.; zemřel v lednu 1730"
+  },
+  {
+   "owner": "veznikove-z-veznik",
+   "owner_wiki": "Věžníkové z Věžník",
+   "person": "vdova Marie Alžběta z Valdštejna a synové (Bernard Josef, Ignác, Petr Pavel)",
+   "from": 1730,
+   "to": 1733,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "1730-1732 správa matky; 1733 dražba, nejvíc nabídl Ignác, který však téhož roku zemřel"
+  },
+  {
+   "owner": "veznikove-z-veznik",
+   "owner_wiki": "Věžníkové z Věžník",
+   "person": "Marie Anna z Věžník, rozená ze Satzenhofu (podruhé provdaná z Verdugo)",
+   "from": 1733,
+   "to": 1740,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "vdova po Ignácovi, koupila panství za 246 000 zl.; zadlužené panství neudržela, 21. 10. 1740 odhad panství"
+  },
+  {
+   "owner": "veznikove-z-veznik",
+   "owner_wiki": "Věžníkové z Věžník",
+   "person": "Františka Bechyňová, rozená z Věžník (vdova po Ladislavu Bechyňovi z Lažan)",
+   "from": 1740,
+   "to": 1750,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "ujala se zadluženého panství; 1750 prodala Ignáci z Kochu"
+  },
+  {
+   "owner": "z-kochu",
+   "owner_wiki": null,
+   "person": "Ignác svobodný pán z Kochu",
+   "from": 1750,
+   "to": 1753,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "c. k. dvorní rada; roku 1753 prodal panství za 300 000 zl. (cs.wiki: 240 000) pro císařovnu Marii Terezii"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Marie Terezie",
+   "from": 1753,
+   "to": 1763,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "zámek sloužil jako kasárna; hrad-ledec.cz uvádí, že panství darovala nově zřízenému Tereziánskému ústavu šlechtičen, rok převodu nezmiňuje; cs.wiki uvádí koupi ústavem po 1763"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": "Tereziánský ústav šlechtičen",
+   "from": 1763,
+   "to": 1918,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "šlechtický dobročinný ústav (nejbližší kategorie 'stat'); zámek degradován na správní středisko panství, požáry 1766, 1790 a 1879; na konci 1. světové války přešlo panství do správy státu"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": "Československé státní lesy a statky (od 1951 definitivně Čsl. státní lesy, n. p.)",
+   "from": 1918,
+   "to": 1999,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "cs.wiki: 1926 začleněn do státních lesů a statků při 1. pozemkové reformě; 1948 přešel pod Správu státních lesů, 1950 národní správa zařízení, 1951 předán do vlastnictví Čsl. státních lesů; část využívalo městské muzeum"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "město Ledeč nad Sázavou",
+   "from": 1999,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "podle cs.wiki roku 1999 koupilo většinový podíl; správou pověřena společnost Hrad Ledeč nad Sázavou; turistik.cz uvádí jen prodej v 90. letech 20. stol. novým majitelům s podílem města"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "firma Aquacomp Hard",
+   "from": 1999,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "menšinový podíl od roku 1999 (jen cs.wiki, druhým zdrojem nepotvrzeno)"
+  }
  ],
  "events": [
-  {"year": 1367, "text": "první jistí držitelé hradu, bratři Ledečtí z Říčan"},
-  {"year": 1509, "text": "na hradě zemřela Žofie ze Sovince se dvěma dětmi, když se pod nimi propadla podlaha"},
-  {"year": 1618, "text": "na počátku stavovského povstání obsazen a znovu obsazen Janem Rudolfem Trčkou"},
-  {"year": 1636, "text": "po smrti Jana Rudolfa Trčky zkonfiskováno, král Ferdinand III. daroval panství Adrianovi z Enkenfurtu"},
-  {"year": 1677, "text": "panství koupil hrabě Michael Osvald z Thun-Hohensteinu, nechal postavit zámeckou kapli"},
-  {"year": 1753, "text": "panství koupila císařovna Marie Terezie, proběhly úpravy třípatrového paláce"},
-  {"year": 1879, "text": "8. března vypukl požár, který se přenesl i na zámek"},
-  {"year": 1999, "text": "většinový podíl vlastnictví zámku koupilo město Ledeč nad Sázavou"}
+  {
+   "year": 1453,
+   "text": "na hradě poprvé doloženi Jindřich a Jan Ledečtí z Říčan"
+  },
+  {
+   "year": 1509,
+   "text": "Žofie ze Sovince zahynula se dvěma dětmi, když se pod nimi propadla podlaha"
+  },
+  {
+   "year": 1569,
+   "text": "po bezdětné smrti Jana Meziříčského z Lomnice přešlo panství na Jaroslava Trčku z Lípy"
+  },
+  {
+   "year": 1636,
+   "text": "po konfiskaci Trčkových statků panství darováno Adrianovi z Enkenfurtu"
+  },
+  {
+   "year": 1677,
+   "text": "panství koupil Michael Osvald z Thun-Hohensteinu, postavil zámeckou kapli"
+  },
+  {
+   "year": 1753,
+   "text": "panství koupila Marie Terezie a darovala je Tereziánskému ústavu šlechtičen"
+  },
+  {
+   "year": 1879,
+   "text": "požár města se přenesl na zámek, který byl z valné části zničen"
+  },
+  {
+   "year": 1999,
+   "text": "většinový podíl koupilo město Ledeč nad Sázavou, zahájeny opravy hradu"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Ledeč_nad_Sázavou_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Ledeč_nad_Sázavou_(zámek)",
+  "https://www.hrad-ledec.cz/cs/historie-hradu/",
+  "https://www.turistik.cz/cz/kraje/vysocina/okres-havlickuv-brod/ledec-nad-sazavou/"
+ ]
 }

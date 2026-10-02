@@ -1,22 +1,26 @@
 {
  "id": "Q1416115",
  "name": "Bruntál",
- "founded": {"year": 1490, "approx": true, "text": "Původní městský pozdně gotický hrad byl vystavěn koncem 15. století; wikipedie neuvádí, kdo hrad nechal postavit."},
- "summary": "Původní pozdně gotický městský hrad z konce 15. století přestavěli ve 2. polovině 16. století Bruntálští z Vrbna na renesanční sídlo s arkádovým nádvořím. Po bitvě na Bílé hoře jej jako konfiskát získal Řád německých rytířů, který zámek po poškození za třicetileté války v letech 1766-1769 přestavěl do dnešní barokně-renesanční podoby a vlastnil jej (s vnucenou správou po roce 1919) až do roku 1945, kdy přešel do správy československého státu. Dnes v zámku sídlí regionální muzeum; Řád německých rytířů usiluje o jeho navrácení.",
+ "founded": {"year": null, "approx": false, "text": "Původní městský pozdně gotický hrad z konce 15. století (cs.wiki); první písemná zmínka o hradu je podle časové osy muzea až z listiny z roku 1506 o předání bruntálského panství. Stavebník není uveden."},
+ "summary": "Pozdně gotický městský hrad v Bruntále drželi nejprve jako zástavní držitelé a poté jako majitelé panství Bruntálští z Vrbna, kteří jej od 50. let 16. století (renesanční úpravy od 1556, velká přestavba od 1582, dokončena kolem 1608) přestavěli na renesanční zámek s arkádovým nádvořím a věží. Po Bílé hoře jej jako konfiskát získal Řád německých rytířů (1621-1622), který v letech 1766-1769 provedl přestavbu do dnešní barokně-renesanční podoby a držel jej do 1945, kdy přešel do správy československého státu. Dnes zde sídlí Muzeum Bruntál.",
  "owners": [
-  {"owner": "neznamo", "owner_wiki": null, "person": null, "from": 1490, "to": 1550, "from_approx": true, "to_approx": true, "how": "zalozeni", "note": "wikipedie neuvádí stavebníka ani majitele gotického hradu z konce 15. stol., pouze pozdější přestavbu pány z Vrbna"},
-  {"owner": "bruntalsti-z-vrbna", "owner_wiki": "Bruntálští z Vrbna", "person": null, "from": 1550, "to": 1620, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "2. polovina 16. stol., renesanční přestavba na representační sídlo; přesný rok nabytí wikipedie neuvádí"},
-  {"owner": "cirkev", "owner_wiki": null, "person": null, "from": 1620, "to": 1945, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "Řád německých rytířů; zámek konfiskován po Bílé hoře, poškozen za třicetileté války, 1766-1769 přestavěn do dnešní podoby; po 1. sv. válce (od března 1919) uvalena na velkostatek vnucená správa ministerstva zemědělství"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "správa zámku přešla do rukou československého státu; dnes sídlo regionálního muzea, Řád německých rytířů nyní usiluje o navrácení zámku"}
+  {"owner": "bruntalsti-z-vrbna", "owner_wiki": "Bruntálští z Vrbna", "person": "Bernard, Hynek a Mikuláš Bruntálští z Vrbna; později Jan starší, Hynek starší, Štěpán, Jan mladší, Hynek mladší, Karel", "from": null, "to": 1621, "from_approx": false, "to_approx": false, "how": "lenni", "note": "ve 2. polovině 15. stol. zástavní držitelé bruntálského panství od krnovských knížat, 1496 potvrzena zástava, 1506 majiteli panství (první písemná zmínka o hradu), 1516 panství vyvázáno z krnovského knížectví; konfiskace po Bílé hoře (Jan mladší z Vrbna uprchl); rok počátku držby zdroje neuvádějí"},
+  {"owner": "rad-nemeckych-rytiru", "owner_wiki": "Řád německých rytířů", "person": "velmistr arcivévoda Karel Habsburský a jeho nástupci", "from": 1621, "to": 1945, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "podle časové osy muzea Řád zámek fakticky převzal 1622, ceskycestovatel.cz uvádí zaplacených 200 tisíc zlatých; od 1806 sídlo velmistra; po 1. sv. válce od března 1919 vnucená správa na velkostatek (zrušena 1924 podle muzea); 1766-1769 barokní přestavba"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "správa zámku přešla na československý stát; dnes sídlo regionálního muzea, Řád německých rytířů usiluje o navrácení"}
  ],
  "events": [
-  {"year": 1490, "text": "vystavěn původní pozdně gotický městský hrad"},
-  {"year": 1620, "text": "po bitvě na Bílé hoře zámek konfiskován a získán Řádem německých rytířů"},
+  {"year": 1506, "text": "listina o předání bruntálského panství Vrbnům, první písemná zmínka o hradu"},
+  {"year": 1556, "text": "zahájeny renesanční úpravy zámku za Bruntálských z Vrbna"},
+  {"year": 1582, "text": "zahájena rozsáhlá renesanční přestavba (dokončena kolem 1608, arkádové nádvoří a hodinová věž)"},
+  {"year": 1621, "text": "po Bílé hoře konfiskace majetku Jana mladšího z Vrbna a předání Řádu německých rytířů (fakticky převzato 1622)"},
   {"year": 1766, "text": "1766-1769 poslední velká přestavba, vznik dnešní barokně-renesanční podoby"},
-  {"year": 1919, "text": "ministerstvo zemědělství uvalilo na velkostatek Řádu vnucenou správu"},
-  {"year": 1945, "text": "správa zámku přešla do rukou československého státu"},
-  {"year": 1963, "text": "zámek prohlášen nemovitou kulturní památkou"},
+  {"year": 1919, "text": "vnucená správa na velkostatek Řádu německých rytířů"},
+  {"year": 1945, "text": "správa zámku přešla na československý stát"},
   {"year": 2002, "text": "zámek zařazen mezi národní kulturní památky"}
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Bruntál_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Bruntál_(zámek)",
+  "https://web.archive.org/web/20041207155056/http://www.bruntal-zamek.cz/casosa.htm",
+  "http://www.ceskycestovatel.cz/zamek-bruntal/"
+ ]
 }

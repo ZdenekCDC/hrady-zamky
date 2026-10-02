@@ -1,26 +1,163 @@
 {
  "id": "Q1014388",
  "name": "Vikštejn",
- "founded": {"year": 1265, "approx": true, "text": "Hrad založil ve druhé polovině 13. století Vítek z Kravař; první písemná zmínka je z roku 1377."},
- "summary": "Hrad Vikštejn nad řekou Moravicí založil ve druhé polovině 13. století Vítek z Kravař, jehož hostem měl být i minnesänger Walther von der Vogelweide. Od konce 14. století patřil opavským knížatům, poté vladykům z Moravice a Bírkům z Násile; roku 1474 jej dobyl a pobořil Matyáš Korvín. Po opravě kolem roku 1530 Planknary z Kynšperka hrad vlastnili Oderští z Lidéřova (konec 16. stol. - 1708) a poté Reichové, za nichž sloužil už jen hospodářským účelům a byl po roce 1776 - po vybudování zámku v Horním Vikštejně - definitivně opuštěn.",
+ "founded": {
+  "year": 1250,
+  "approx": true,
+  "text": "Hrad vznikl asi v polovině 13. století (cs.wiki: ve 2. polovině 13. století) a jméno nese podle legendárního zakladatele Vítka z Kravař; první písemná zmínka je z roku 1377."
+ },
+ "summary": "Hrad Vikštejn nad řekou Moravicí vznikl asi v polovině 13. století k ochraně jižní části Opavského knížectví a je spojován s Vítkem z Kravař. Od konce 14. století patřil opavským knížatům, po roce 1464 Bírkům z Násile, za nichž ho roku 1474 dobyl a pobořil Matyáš Korvín. Roku 1525 jej koupil Jan Planknar z Kynšperka, který jej přestavěl na panské sídlo; v 17. století jej drželi Oderští z Lidéřova (do 1708), poté Reichové. Po vybudování zámku v Dubové (1774-1776) byl hrad opuštěn a zchátral.",
  "owners": [
-  {"owner": "pani-z-kravar", "owner_wiki": "Páni z Kravař", "person": "Vítek z Kravař", "from": 1265, "to": null, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "založení ve 2. pol. 13. stol., první písemná zmínka 1377; přesný rok konce držby neuveden, zdroj jen říká, že hrad 'od konce 14. století' patřil opavským knížatům"},
-  {"owner": "opavsti-premyslovci", "owner_wiki": "Opavští Přemyslovci", "person": null, "from": null, "to": 1447, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "hrad patřil opavským knížatům 'od konce 14. století'; přesný rok zdroj neuvádí"},
-  {"owner": "z-moravice", "owner_wiki": null, "person": null, "from": 1447, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "vladykové z Moravice; rok konce držby zdroj neuvádí"},
-  {"owner": "birkove-z-nasile", "owner_wiki": "Bírkové z Násile", "person": null, "from": null, "to": 1474, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "rok počátku držby neuveden; roku 1474 hrad dobyl a pobořil Matyáš Korvín"},
-  {"owner": "planknarove", "owner_wiki": null, "person": null, "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "Planknarové z Kynšperka získali hrad po roce 1474, kolem roku 1530 jej nechali opravit; přesné roky nabytí a konce držby zdroj neuvádí"},
-  {"owner": "z-liderova", "owner_wiki": null, "person": null, "from": null, "to": 1708, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "Oderští z Lidéřova drželi hrad 'od konce 16. století' do roku 1708; za třicetileté války hrad poškozen Dány a Švédy, roku 1648 vyhozen do povětří císařským vojskem"},
-  {"owner": "reichove", "owner_wiki": null, "person": null, "from": 1708, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "za Reichů sloužil hrad již jen hospodářským potřebám; po vybudování zámku v Horním Vikštejně (Dubová) byl hrad po roce 1776 definitivně opuštěn, další vlastník zdroj neuvádí"}
+  {
+   "owner": "pani-z-kravar",
+   "owner_wiki": "Páni z Kravař",
+   "person": "Vítek z Kravař",
+   "from": 1250,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "hrady.cz označuje Vítka za legendárního zakladatele; o nejstarších vlastnících chybějí zprávy, 1377 při dělení Opavska patřil hrad panu Adalbertovi (Bernardovi z Vikštejna)"
+  },
+  {
+   "owner": "opavsti-premyslovci",
+   "owner_wiki": "Opavští Přemyslovci",
+   "person": "kníže Přemek, od 1433 vdova Helena Bosenská, poté knížata Vilém a Arnošt",
+   "from": 1394,
+   "to": 1464,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "Přemek se hradu zmocnil 1394 po smrti předchozího majitele; na hradě sídlili knížecí purkrabí, kteří se psali 'z Vikštejna'; 1464 koupil opavské knížectví Jiří z Poděbrad"
+  },
+  {
+   "owner": "z-moravice",
+   "owner_wiki": null,
+   "person": "Budivoj z Moravice (a bratr Jindřich)",
+   "from": 1447,
+   "to": 1464,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "1447 uvedeni na Vikštejně (nejistě jako purkrabí, nebo vlastníci); Budivoj byl pravděpodobně nejdřív purkrabí, pak zástavní držitel a vlastník, 1465 vložen do zemských desek; odpor proti králi Jiřímu z Poděbrad vedl ke ztrátě statků; atlasceska.cz uvádí zástavu 1464"
+  },
+  {
+   "owner": "birkove-z-nasile",
+   "owner_wiki": "Bírkové z Násile",
+   "person": "Bernart Bírka z Násile, poté syn Hynčík Bírka a jeho synové",
+   "from": 1464,
+   "to": 1518,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "po 1474 dobyt a pobořen Matyášem Korvínem, Hynčík hrad opravil; po smrti Hynčíka (asi 1502) synové, od 1506 jen Bernart, který zemřel 1518; poté se držitelé rychle střídali"
+  },
+  {
+   "owner": "planknarove",
+   "owner_wiki": null,
+   "person": "Jan Planknar z Kynšperka, poté jeho syn Jan",
+   "from": 1525,
+   "to": 1591,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Jan starší byl 1537 nejvyšším zemským soudcem a hrad přestavěl, renesanční úpravy pokračovaly 1554-1582; 1576 se syn Jan dělil o panství s neteří Magdalénou, 1591 prodal svůj díl Bravantskému; cs.wiki uvádí opravu kolem 1530"
+  },
+  {
+   "owner": "z-liderova",
+   "owner_wiki": null,
+   "person": "Adam Oderský z Lidéřova (manžel Magdalény Planknarové), poté Vilém Alexandr Oderský z Lidéřova",
+   "from": 1576,
+   "to": null,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "snatek",
+   "note": "Magdaléna Planknarová získala 1576 polovinu panství; Oderští drželi hrad 'od konce 16. století'; za třicetileté války hrad 1626-1627 obsadili Dánové a Vilém Alexandr byl za spolupráci s nimi odsouzen ke konfiskaci"
+  },
+  {
+   "owner": "z-chobran",
+   "owner_wiki": null,
+   "person": "Jan starší Bravantský z Chobřan, poté syn Mikuláš",
+   "from": 1591,
+   "to": 1599,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Mikuláš byl prohlášen zemským škůdcem, hrad 1599 dobyt zemskou hotovostí a Mikuláš uprchl do Polska"
+  },
+  {
+   "owner": "z-ehrenecku",
+   "owner_wiki": null,
+   "person": "Kryštof Egstein z Ehrenecku",
+   "from": null,
+   "to": 1650,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "zástavní držitel od císařské komory po konfiskaci; zemřel 1650, poté se držitelé rychle střídali; 1648 hrad vyhozen do povětří císařským vojskem (jiné zdroje: úmyslně poškozen před Švédy)"
+  },
+  {
+   "owner": "z-liderova",
+   "owner_wiki": null,
+   "person": "Vilém Alexandr Oderský z Lidéřova, poté jeho potomci",
+   "from": 1657,
+   "to": 1708,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Vilém Alexandr panství po velkém úsilí získal zpět, hrad opravil a bydlel v něm do smrti 1671; potomci panství rozdělili a 1708 prodali"
+  },
+  {
+   "owner": "reichove",
+   "owner_wiki": null,
+   "person": "Marie Františka Apolena z Reichu",
+   "from": 1708,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "koupila hrad s Radkovem a Lhotkou; hrad již nesloužil k bydlení a chátral; 1774-1776 vystavěl Jan Julius Frobel nový zámek v Dubové (Horní Vikštejn) a hrad byl opuštěn; zdroje neuvádějí další vlastníky ani dnešního majitele"
+  }
  ],
  "events": [
-  {"year": 1265, "text": "založení hradu Vítkem z Kravař"},
-  {"year": 1377, "text": "první písemná zmínka o hradu"},
-  {"year": 1447, "text": "hrad přechází do vlastnictví vladyků z Moravice"},
-  {"year": 1474, "text": "hrad dobyt a pobořen Matyášem Korvínem"},
-  {"year": 1530, "text": "Planknarové z Kynšperka nechávají hrad opravit"},
-  {"year": 1648, "text": "za třicetileté války hrad vyhozen do povětří císařským vojskem"},
-  {"year": 1776, "text": "hrad definitivně opuštěn po vybudování zámku v Horním Vikštejně"},
-  {"year": 1964, "text": "zřícenina chráněna jako kulturní památka"}
+  {
+   "year": 1377,
+   "text": "první písemná zmínka o hradu při dělení Opavska (patřil Adalbertovi)"
+  },
+  {
+   "year": 1394,
+   "text": "hrad v držení opavského knížete Přemka (daroval les u hradu komendě německých rytířů)"
+  },
+  {
+   "year": 1474,
+   "text": "hrad dobyt a pobořen vojsky Matyáše Korvína, Hynčík Bírka jej následně opravil"
+  },
+  {
+   "year": 1525,
+   "text": "hrad koupil Jan Planknar z Kynšperka, který jej přestavěl"
+  },
+  {
+   "year": 1599,
+   "text": "hrad dobyt zemskou hotovostí proti Mikuláši Bravantskému z Chobřan"
+  },
+  {
+   "year": 1648,
+   "text": "za třicetileté války hrad vyhozen do povětří císařským vojskem"
+  },
+  {
+   "year": 1708,
+   "text": "potomci Oderských prodali hrad Marii Františce Apoleně z Reichu"
+  },
+  {
+   "year": 1776,
+   "text": "po dostavbě zámku v Dubové (Horní Vikštejn) hrad opuštěn"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Vikštejn"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Vikštejn",
+  "https://www.hrady.cz/hrad-vikstejn-opava/texty?tid=26898",
+  "https://www.atlasceska.cz/pamatky/zricenina-hradu-vikstejn-23893",
+  "https://www.nizkyjesenik.cz/seznam/vikstejn/index.htm",
+  "https://www.archeologickyatlas.cz/cs/lokace/radkov_op_hrad_vikstejn"
+ ]
 }

@@ -1,35 +1,267 @@
 {
- "id": "Q38090398",
- "name": "Radim",
- "founded": {"year": 1423, "approx": true, "text": "Počátky tvrze v Radimi sahají zřejmě do let 1423-1436, kdy část obce vlastnil Wolfart z Javora a na Radimi; existující tvrz je poprvé písemně zmíněna 1446. Renesanční zámek vedle tvrze začal stavět počátkem 17. století Karel Záruba z Hustířan, východní část byla dokončena 1610."},
- "summary": "Vedle vodní tvrze doložené v Radimi od 15. století (počátky nejspíš 1423-1436) vystavěl počátkem 17. století Karel Záruba z Hustířan renesanční zámek, dokončený 1610. Zámek pak vlastnila řada šlechtických rodů (mimo jiné Valdštejnové, Šternberkové, Gallasové, Pálffyové, Kinští), nejdéle - 140 let - Lichtenštejnové, kteří jej roku 1925 prodali Jaroslavu Bukovskému. Po znárodnění 1948 a konfiskaci 1950 sloužil jako ubytovna a sídlo národního výboru, roku 1990 byl vrácen v restituci potomkům Bukovských a od roku 2005 se vystřídal ve dvou soukromých rukou, včetně současného majitele.",
- "owners": [
-  {"owner": "z-javora", "owner_wiki": null, "person": "Wolfart z Javora a na Radimi, poté vdova Maruše", "from": 1423, "to": 1446, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "vlastnil část obce, počátky tvrze zřejmě z let 1423-1436; po jeho smrti vdova Maruše roku 1446 prodala tvrz i ves"},
-  {"owner": "dubecti-z-dubce", "owner_wiki": "Dubečtí z Dubče", "person": "Matěj Dubecký z Dubče", "from": 1446, "to": 1483, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil tvrz i ostatní části vsi od vdovy Maruše a ves spojil; roku 1483 celou ves prodal"},
-  {"owner": "z-kralovic", "owner_wiki": null, "person": "Oldřich z Kralovic", "from": 1483, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "po něm se vystřídali ještě čtyři nejmenovaní majitelé, než panství roku 1541 koupil Petr Záruba z Hustířan"},
-  {"owner": "zarubove-z-hustiran", "owner_wiki": "Zárubové z Hustířan", "person": "Petr Záruba z Hustířan, poté synové Bohuslav, Zdenek a Václav nejstarší, poté Karel Záruba z Hustířan", "from": 1541, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "Karel Záruba z Hustířan začal počátkem 17. století stavět nový zámek (dokončen 1610); zdroj neuvádí, kdy rod zámek prodal"},
-  {"owner": "valdstejnove", "owner_wiki": "Valdštejnové", "person": null, "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "zdroj jmenuje pouze výčtem rody, které se v držení zámku vystřídaly (Valdštejnové, Šternberkové, Berchtoldové z Uherčic, Gallasové, Pálffyové, Šlikové, Kinští, Lichtenštejnové), bez uvedení let nebo jistého pořadí; pořadí v tomto souboru odpovídá pořadí v textu"},
-  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": null, "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "viz poznámka u Valdštejnů - roky ani přesné pořadí zdroj neuvádí"},
-  {"owner": "berchtoldove-z-uhercic", "owner_wiki": "Berchtoldové z Uherčic", "person": null, "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "viz poznámka u Valdštejnů - roky ani přesné pořadí zdroj neuvádí"},
-  {"owner": "gallasove", "owner_wiki": "Gallasové", "person": null, "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "viz poznámka u Valdštejnů - roky ani přesné pořadí zdroj neuvádí"},
-  {"owner": "palffyove", "owner_wiki": "Pálffyové", "person": null, "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "viz poznámka u Valdštejnů - roky ani přesné pořadí zdroj neuvádí"},
-  {"owner": "slikove", "owner_wiki": "Šlikové", "person": null, "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "viz poznámka u Valdštejnů - roky ani přesné pořadí zdroj neuvádí"},
-  {"owner": "kinsti", "owner_wiki": "Kinští", "person": null, "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "viz poznámka u Valdštejnů - roky ani přesné pořadí zdroj neuvádí"},
-  {"owner": "lichtenstejnove", "owner_wiki": "Lichtenštejnové", "person": null, "from": 1785, "to": 1925, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "zámek vlastnili nejdéle ze všech rodů - 140 let - a roku 1925 jej prodali Jaroslavu Bukovskému; rok počátku (1785) je dopočítán ze 140 let držby, zdroj jej neuvádí přímo; na konci 18. století nechali z protipožárních důvodů zakrýt dřevěný strop"},
-  {"owner": "soukromnik", "owner_wiki": null, "person": "Jaroslav Bukovský", "from": 1925, "to": 1948, "from_approx": false, "to_approx": false, "how": "koupe", "note": "za protektorátu zámek zabrali Němci pro vojenské potřeby; 1948 byl zámek znárodněn"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1948, "to": 1990, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "1948 znárodnění, 1950 definitivní zabavení rodině Bukovských; objekt sloužil jako ubytovna a sídlo místního národního výboru"},
-  {"owner": "soukromnik", "owner_wiki": null, "person": "potomci Jaroslava Bukovského", "from": 1990, "to": 2005, "from_approx": false, "to_approx": false, "how": "restituce", "note": "vlastními silami se pokoušeli zámek renovovat; při rekonstrukci objevili dřevěný strop zakrytý lichtenštejnskými majiteli"},
-  {"owner": "soukromnik", "owner_wiki": null, "person": "nejmenovaný nový majitel", "from": 2005, "to": null, "from_approx": false, "to_approx": true, "how": "koupe", "note": "provedl celkovou rekonstrukci; zdroj neuvádí jméno ani rok, kdy zámek prodal dalšímu majiteli"},
-  {"owner": "soukromnik", "owner_wiki": null, "person": "nynější nejmenovaný majitel", "from": null, "to": null, "from_approx": true, "to_approx": false, "how": "koupe", "note": "dříve pomáhal předchozímu majiteli s rekonstrukcí, poté od něj zámek koupil; zdroj neuvádí jméno ani rok"}
- ],
- "events": [
-  {"year": 1446, "text": "první písemná zmínka existující tvrze, koupě Matějem Dubeckým z Dubče"},
-  {"year": 1541, "text": "panství kupuje Petr Záruba z Hustířan"},
-  {"year": 1610, "text": "dokončena stavba východní části nového renesančního zámku"},
-  {"year": 1925, "text": "Lichtenštejnové prodávají zámek Jaroslavu Bukovskému"},
-  {"year": 1948, "text": "znárodnění zámku"},
-  {"year": 1990, "text": "zámek vrácen v restituci potomkům Jaroslava Bukovského"},
-  {"year": 2005, "text": "prodej novému majiteli a celková rekonstrukce"}
- ],
- "sources": ["https://cs.wikipedia.org/wiki/Radim_(zámek)"]
+  "id": "Q38090398",
+  "name": "Radim",
+  "founded": {
+    "year": 1610,
+    "approx": false,
+    "text": "Renesanční zámek stavěn 1608-1610 Karlem Zárubou z Hustířan vedle starší vodní tvrze (doložena 1446, počátky zřejmě 1423-1436)"
+  },
+  "summary": "Renesanční zámek vedle starší vodní tvrze nechal v letech 1608-1610 postavit Karel Záruba z Hustířan. Po konfiskaci 1631-1634 se v majetku střídali Berchtoldové, Gräffové, Gallasové, Brahier, Šlikové a Kinští; od roku 1783 patřil Lichtenštejnům, kteří zámek využívali jako správu statku. V roce 1927 jej koupil Jaroslav Bukovský, po znárodnění 1948 a restituci následovali soukromí majitelé (2005 Antonín Dotlačil, 2015 Bohuslav Opatrný).",
+  "owners": [
+    {
+      "owner": "z-javora",
+      "owner_wiki": null,
+      "person": "Wolfart z Javora a na Radimi, poté vdova Maruše",
+      "from": 1423,
+      "to": 1446,
+      "from_approx": true,
+      "to_approx": false,
+      "how": "zalozeni",
+      "note": "Počátky tvrze zřejmě 1423-1436; 1446 Maruše prodala."
+    },
+    {
+      "owner": "dubecti-z-dubce",
+      "owner_wiki": "Dubečtí z Dubče",
+      "person": "Matěj Dubecký z Dubče",
+      "from": 1446,
+      "to": 1483,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe"
+    },
+    {
+      "owner": "z-kralovic",
+      "owner_wiki": "z-kralovic",
+      "person": "Oldřich z Kralovic",
+      "from": 1483,
+      "to": null,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "Poté čtyři neznámí majitelé (cs.wiki), jména ani roky zdroje neuvádějí."
+    },
+    {
+      "owner": "zarubove-z-hustiran",
+      "owner_wiki": "Zárubové z Hustířan",
+      "person": "Petr Záruba z Hustířan, poté Jan, Bohuslav, Zdenek, Václav, Karel (†1612), Jan Záruba",
+      "from": 1541,
+      "to": 1628,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "Karel dokončil zámek 1610. Jan Záruba před nucenou emigrací 1628 daroval panství Adamovi z Valdštejna."
+    },
+    {
+      "owner": "valdstejnove",
+      "owner_wiki": "Valdštejnové",
+      "person": "Adam mladší z Valdštejna (správa k věrné ruce)",
+      "from": 1628,
+      "to": 1631,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "dar",
+      "note": "Podle webu zámku; 1631 vráceno Janu Zárubovi."
+    },
+    {
+      "owner": "sternberkove",
+      "owner_wiki": "Šternberkové",
+      "person": "Adam mladší ze Šternberka",
+      "from": 1631,
+      "to": 1631,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "Jan Záruba panství 1631 prodal švagrovi; hned poté konfiskace."
+    },
+    {
+      "owner": "koruna",
+      "owner_wiki": null,
+      "person": "císařská komora",
+      "from": 1632,
+      "to": 1634,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "konfiskace",
+      "note": "Konfiskace za pomoc saskému vpádu (cs.wiki a cestyapamatky uvádějí jen 1631)."
+    },
+    {
+      "owner": "berchtoldove-z-uhercic",
+      "owner_wiki": "Berchtoldové z Uherčic",
+      "person": "Jakub Berchtold z Uherčic, od 1641 syn Jakub Filip",
+      "from": 1634,
+      "to": 1659,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "1659 výměna za Merklín."
+    },
+    {
+      "owner": "z-graffenburku",
+      "owner_wiki": null,
+      "person": "Johann Gräff z Gräffenburgu, poté syn Ondřej",
+      "from": 1659,
+      "to": 1679,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "vymena",
+      "note": "Johann †1675; jeden zdroj uvádí Gräffy až do 1685."
+    },
+    {
+      "owner": "herbersteinove",
+      "owner_wiki": "Herbersteinové",
+      "person": "Anna Kateřina Herbersteinová (sestra Ondřeje)",
+      "from": 1679,
+      "to": 1685,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "dedictvi"
+    },
+    {
+      "owner": "gallasove",
+      "owner_wiki": "Gallasové",
+      "person": "Johana Emerentie z Gallasu",
+      "from": 1685,
+      "to": 1702,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe"
+    },
+    {
+      "owner": "soukromnik",
+      "owner_wiki": null,
+      "person": "František Jan Brahier, rytíř, pražský poštmistr",
+      "from": 1702,
+      "to": 1721,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "Zemřel 1721 bez potomků."
+    },
+    {
+      "owner": "slikove",
+      "owner_wiki": "Šlikové",
+      "person": "Leopold Josef Šlik (†1723), poté syn František Jindřich",
+      "from": 1721,
+      "to": 1750,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "dedictvi",
+      "note": "Dědictví dělili Leux z Luxensteinu a Šlik; 1750 dražba pro zadlužení."
+    },
+    {
+      "owner": "kinsti",
+      "owner_wiki": "Kinští",
+      "person": "Augusta Kinská, rozená Pálffyová (†1759), poté syn František Josef Kinský",
+      "from": 1750,
+      "to": 1783,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "Koupě v dražbě; cs.wiki uvádí mezi majiteli též Pálffyové (Augusta byla rozená Pálffyová)."
+    },
+    {
+      "owner": "lichtenstejnove",
+      "owner_wiki": "Lichtenštejnové",
+      "person": "Alois I. Josef z Lichtenštejna a další",
+      "from": 1783,
+      "to": 1927,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "Zámek sloužil správě statku; roky Lichtenštejnů cs.wiki 140 let / 1925, web zámku a cestyapamatky 144 let / prodej 1927 (použito 1927)."
+    },
+    {
+      "owner": "soukromnik",
+      "owner_wiki": null,
+      "person": "Dr. Jaroslav Bukovský (†1935), poté syn Jaroslav",
+      "from": 1927,
+      "to": 1948,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe"
+    },
+    {
+      "owner": "stat",
+      "owner_wiki": null,
+      "person": null,
+      "from": 1948,
+      "to": 1990,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "konfiskace",
+      "note": "Znárodnění 1948, státní správa 1950; zámek sloužil MNV / obecnímu úřadu."
+    },
+    {
+      "owner": "soukromnik",
+      "owner_wiki": null,
+      "person": "potomci Jaroslava Bukovského",
+      "from": 1990,
+      "to": 2005,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "restituce",
+      "note": "Restituce 1990 podle cs.wiki a hrady.cz; web zámku a cestyapamatky uvádějí 1994 (konec užívání obecním úřadem)."
+    },
+    {
+      "owner": "soukromnik",
+      "owner_wiki": null,
+      "person": "Antonín Dotlačil",
+      "from": 2005,
+      "to": 2015,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "Rekonstrukce, penzion a kavárna."
+    },
+    {
+      "owner": "soukromnik",
+      "owner_wiki": null,
+      "person": "Bohuslav Opatrný",
+      "from": 2015,
+      "to": null,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe"
+    }
+  ],
+  "events": [
+    {
+      "year": 1446,
+      "text": "první písemná zmínka o tvrzi, koupě Matějem Dubeckým z Dubče"
+    },
+    {
+      "year": 1541,
+      "text": "panství koupil Petr Záruba z Hustířan"
+    },
+    {
+      "year": 1610,
+      "text": "dokončena východní část renesančního zámku Karla Zárubu"
+    },
+    {
+      "year": 1631,
+      "text": "konfiskace panství po Janu Zárubovi (do 1634 držela komora)"
+    },
+    {
+      "year": 1783,
+      "text": "koupě knížetem Aloisem Josefem z Lichtenštejna"
+    },
+    {
+      "year": 1927,
+      "text": "zámek koupil Dr. Jaroslav Bukovský"
+    },
+    {
+      "year": 1950,
+      "text": "státní správa, sídlo MNV"
+    },
+    {
+      "year": 2005,
+      "text": "restituenti prodali zámek Antonínu Dotlačilovi"
+    }
+  ],
+  "sources": [
+    "https://cs.wikipedia.org/wiki/Radim_(zámek)",
+    "https://www.zamek-radim.cz/historie/",
+    "https://www.cestyapamatky.cz/kolinsko/radim/zamek",
+    "https://www.hrady.cz/zamek-radim-kolin"
+  ]
 }

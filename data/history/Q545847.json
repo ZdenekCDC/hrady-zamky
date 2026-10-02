@@ -1,232 +1,287 @@
 {
- "id": "Q545847",
- "name": "Račice",
- "founded": {
-  "year": 1285,
-  "approx": false,
-  "text": "Hrad byl postaven v letech 1275-1285; roku 1285 se po hradu píše Milota ze Švábenic, předpokládaný stavitel"
- },
- "summary": "Renesanční zámek Račice s empírovými úpravami vznikl přestavbou hradu z let 1275-1285, který v následujících staletích střídal řadu majitelů (páni ze Švábenic, z Lipé, ze Šternberka, z Kravař, z Holštejna) a byl roku 1312 dobyt a zbořen, poté obnoven. Od roku 1568 jej postupně přestavěli na renesanční a pozdně renesanční sídlo Hanuš Haugvic z Biskupic a Hanuš Petřvaldský z Petřvaldu, po jehož konfiskaci po Bílé hoře se majitelé dále střídali až do koupě baronem Janem Mundym roku 1830. V září 1938 byl krátce sídlem generálního štábu československé armády, po válce sloužil různým institucím a dětskému domovu (do 2014), poté jej od Jihomoravského kraje v dražbě roku 2017 koupila společnost e-Finance, a.s., která v areálu provozuje ubytování a od roku 2020 jej částečně zpřístupnila veřejnosti.",
- "owners": [
-  {
-   "owner": "z-svabenic",
-   "owner_wiki": null,
-   "person": "Milota ze Švábenic",
-   "from": 1285,
-   "to": null,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "zalozeni",
-   "note": "rod erbu rozletité střely; roku 1285 se po hradu píše, předpokládaný stavitel hradu postaveného 1275-1285"
+  "id": "Q545847",
+  "name": "Račice",
+  "founded": {
+    "year": 1285,
+    "approx": true,
+    "text": "Hrad postaven v letech 1275-1285, předpokládaný stavitel Milota ze Švábenic (1285 nepřímá zmínka); renesanční přestavba 1568-1585"
   },
-  {
-   "owner": "pani-z-linavy",
-   "owner_wiki": "Páni z Linavy",
-   "person": "Friduš z Linavy",
-   "from": null,
-   "to": 1312,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "jine",
-   "note": "loupežný rytíř, hradu se zmocnil; mezitím jej možná krátce zdědil Vilém II. z Náměště (příbuzný Miloty ze Švábenic), ale z neznámých důvodů jej nedokázal udržet; po obležení vojsky Jana Lucemburského (zaznamenáno i ve Zbraslavské kronice) byl hrad roku 1312 rozbořen"
-  },
-  {
-   "owner": "pani-z-lipe",
-   "owner_wiki": "Páni z Lipé",
-   "person": null,
-   "from": 1346,
-   "to": null,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "neznamo",
-   "note": "hrad byl mezitím obnoven; způsob nabytí a délka držení nejsou v článku uvedeny"
-  },
-  {
-   "owner": "sternberkove",
-   "owner_wiki": "Šternberkové",
-   "person": null,
-   "from": null,
-   "to": 1381,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "neznamo",
-   "note": "získali hrad po pánech z Lipé, přesný rok ani způsob nabytí nejsou uvedeny"
-  },
-  {
-   "owner": "pani-z-kravar",
-   "owner_wiki": "Páni z Kravař",
-   "person": "Petr z Kravař",
-   "from": 1381,
-   "to": 1422,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "neznamo",
-   "note": "držel jeho díl; rod pánů z Kravař vlastnil hrad i po dobu husitských válek, hrad se stal husitskou základnou"
-  },
-  {
-   "owner": "cirkev",
-   "owner_wiki": null,
-   "person": "biskup Jan Železný (olomoucké biskupství)",
-   "from": 1422,
-   "to": null,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "konfiskace",
-   "note": "hrad byl roku 1422 obléhán a dobyt vojskem olomouckého biskupa"
-  },
-  {
-   "owner": "z-konice",
-   "owner_wiki": null,
-   "person": "Petr z Konice",
-   "from": 1434,
-   "to": null,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "neznamo",
-   "note": "roku 1434 seděl na hradě; okolnosti nabytí ani předání nejsou v článku uvedeny"
-  },
-  {
-   "owner": "pani-z-holstejna",
-   "owner_wiki": "Páni z Holštejna",
-   "person": "Vok V. z Holštejna",
-   "from": 1448,
-   "to": null,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "neznamo",
-   "note": "roku 1448 doložen jako držitel hradu"
-  },
-  {
-   "owner": "pani-z-kravar",
-   "owner_wiki": "Páni z Kravař",
-   "person": "Jiří z Kravař",
-   "from": null,
-   "to": null,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "neznamo",
-   "note": "podle článku připadly Račice po jeho smrti Václavu Černohorskému z Boskovic - byl tedy pozdějším držitelem; vztah k předchozím držitelům (Petr z Konice, Vok z Holštejna) a přesné roky nejsou v článku vysvětleny"
-  },
-  {
-   "owner": "boskovicove",
-   "owner_wiki": "Boskovicové",
-   "person": "Václav Černohorský z Boskovic",
-   "from": null,
-   "to": 1568,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "snatek",
-   "note": "získal Račice sňatkem s Kateřinou, dcerou Jiřího z Kravař; roku 1468 za česko-uherských válek hrad obsadili vojáci Matyáše Korvína; rod Boskoviců držel hrad do roku 1568"
-  },
-  {
-   "owner": "haugvicove-z-biskupic",
-   "owner_wiki": "Haugvicové z Biskupic",
-   "person": "Hanuš Haugvic z Biskupic",
-   "from": 1568,
-   "to": 1590,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "koupe",
-   "note": "koupil panství, hrad zbavený obranného významu přestavěl na renesanční zámek (severozápadní křídlo, arkády v přízemí nádvoří)"
-  },
-  {
-   "owner": "petrvaldsti-z-petrvaldu",
-   "owner_wiki": "Petřvaldští z Petřvaldu",
-   "person": "Hanuš Petřvaldský z Petřvaldu",
-   "from": 1590,
-   "to": 1620,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "koupe",
-   "note": "jeden z nejbohatších feudálů tehdejší Moravy, zvýšil arkády o podlaží a zastřešil je, zbudoval kašnu na nádvoří; účastník stavovského odboje, po porážce na Bílé hoře 1620 uvězněn a majetek zkonfiskován"
-  },
-  {
-   "owner": "neznamo",
-   "owner_wiki": null,
-   "person": null,
-   "from": 1620,
-   "to": 1830,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "konfiskace",
-   "note": "po konfiskaci Petřvaldskému byl zámek pod cenou prodán rodům loajálním Habsburkům; majitelé se dále střídali, aniž by ovlivnili vzhled zámku, jmenovitě nejsou v článku uvedeni"
-  },
-  {
-   "owner": "soukromnik",
-   "owner_wiki": null,
-   "person": "baron Jan Mundy",
-   "from": 1830,
-   "to": null,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "koupe",
-   "note": "textilní magnát; strhl a znovu postavil severozápadní křídlo, zvýšil arkády na 3 podlaží a vyzdil je, věže dostaly biedermeierový vzhled"
-  },
-  {
-   "owner": "soukromnik",
-   "owner_wiki": null,
-   "person": "Paul Eduard von Schoeler",
-   "from": null,
-   "to": null,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "neznamo",
-   "note": "odstranil přezdobené dekorace interiéru z dob barona Mundyho, učinil ze zámku vkusně vybavenou rezidenci"
-  },
-  {
-   "owner": "soukromnik",
-   "owner_wiki": null,
-   "person": "Philipp von Schoeller",
-   "from": null,
-   "to": null,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "neznamo",
-   "note": "poslední předválečný majitel, vídeňský průmyslník; v září 1938 se zámek na dva týdny stal sídlem generálního štábu československé armády během mobilizace"
-  },
-  {
-   "owner": "stat",
-   "owner_wiki": null,
-   "person": null,
-   "from": null,
-   "to": null,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "konfiskace",
-   "note": "po válce v objektu postupně působily OP Prostějov, základní škola, odborné učiliště a dětský domov (ukončen 2014); přesný okamžik přechodu do veřejného vlastnictví není v článku uveden"
-  },
-  {
-   "owner": "mesto",
-   "owner_wiki": null,
-   "person": "Jihomoravský kraj",
-   "from": null,
-   "to": 2017,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "neznamo",
-   "note": "kraj byl vlastníkem před rokem 2017, zámek byl přes 2 roky po zrušení dětského domova nevyužit"
-  },
-  {
-   "owner": "soukromnik",
-   "owner_wiki": null,
-   "person": "e-Finance, a.s.",
-   "from": 2017,
-   "to": null,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "koupe",
-   "note": "brněnská společnost koupila zámek v dražbě od Jihomoravského kraje; zřídila v předzámčí ubytování, hlavní budova čeká přestavbu na wellness hotel, od léta 2020 částečně zpřístupněno veřejnosti"
-  }
- ],
- "events": [
-  {"year": 1285, "text": "první zmínka o hradu, drží jej Milota ze Švábenic"},
-  {"year": 1312, "text": "hrad po obležení vojsky Jana Lucemburského rozbořen"},
-  {"year": 1422, "text": "husitskou baštu dobyl vojskem olomoucký biskup Jan Železný"},
-  {"year": 1568, "text": "Hanuš Haugvic z Biskupic kupuje panství a přestavuje hrad na renesanční zámek"},
-  {"year": 1620, "text": "Hanuš Petřvaldský z Petřvaldu je po Bílé hoře uvězněn, majetek zkonfiskován"},
-  {"year": 1830, "text": "zámek kupuje baron Jan Mundy a nechává jej přestavět"},
-  {"year": 1938, "text": "v září se zámek na dva týdny stává sídlem generálního štábu československé armády"},
-  {"year": 2017, "text": "zámek od Jihomoravského kraje v dražbě kupuje společnost e-Finance, a.s."}
- ],
- "sources": ["https://cs.wikipedia.org/wiki/Račice_(zámek)"]
+  "summary": "Renesanční zámek s empírovými úpravami vznikl přestavbou hradu z let 1275-1285, který postupně držely rody ze Švábenic, z Lipé, ze Šternberka, z Kravař, z Holštejna a Boskovicové; roku 1312 byl dobyt a zbořen, poté obnoven. Od 1568 jej přestavěl Hanuš Haugvic z Biskupic a pozdně renesančně Hanuš Petřvaldský z Petřvaldu, po jehož konfiskaci 1620 se majitelé často střídali až do koupě baronem Janem Mundym 1830. Poslední předválečnou rodinou byli Schoellerové; po roce 1945 zámek využívaly různé instituce a dětský domov (do 2014), od 2017 jej vlastní e-Finance, a.s.",
+  "owners": [
+    {
+      "owner": "z-svabenic",
+      "owner_wiki": "z-svabenic",
+      "person": "Milota ze Švábenic",
+      "from": 1285,
+      "to": null,
+      "from_approx": true,
+      "to_approx": false,
+      "how": "zalozeni",
+      "note": "Předpokládaný stavitel; po něm možná Vilém II. z Náměště, poté loupežný rytíř Friduš z Linavy (zdroje uvádějí kolem 1290)."
+    },
+    {
+      "owner": "pani-z-linavy",
+      "owner_wiki": "Páni z Linavy",
+      "person": "Friduš z Linavy",
+      "from": null,
+      "to": 1312,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "jine",
+      "note": "Hrad roku 1312 po obléhání vojsky Jana Lucemburského rozbořen, brzy obnoven."
+    },
+    {
+      "owner": "pani-z-lipe",
+      "owner_wiki": "Páni z Lipé",
+      "person": "páni z Lipé",
+      "from": 1346,
+      "to": null,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "neznamo"
+    },
+    {
+      "owner": "sternberkove",
+      "owner_wiki": "Šternberkové",
+      "person": "páni ze Šternberka",
+      "from": null,
+      "to": 1381,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "neznamo",
+      "note": "E-Finance uvádí Šternberky 1376."
+    },
+    {
+      "owner": "pani-z-kravar",
+      "owner_wiki": "Páni z Kravař",
+      "person": "Petr z Kravař",
+      "from": 1381,
+      "to": 1422,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "neznamo",
+      "note": "Na husitské straně; hrad 1422 dobyt vojskem olomouckého biskupa Jana Železného (e-Finance: Petr Strážnický z Kravař zdědil 1420). Biskup hrad nedržel - záznam o církevním majiteli zrušen."
+    },
+    {
+      "owner": "z-konice",
+      "owner_wiki": null,
+      "person": "Petr z Konice",
+      "from": 1434,
+      "to": null,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "neznamo"
+    },
+    {
+      "owner": "pani-z-holstejna",
+      "owner_wiki": "Páni z Holštejna",
+      "person": "Vok V. z Holštejna",
+      "from": 1448,
+      "to": null,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "neznamo"
+    },
+    {
+      "owner": "pani-z-kravar",
+      "owner_wiki": "Páni z Kravař",
+      "person": "Jiří z Kravař",
+      "from": null,
+      "to": null,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "neznamo",
+      "note": "Po jeho smrti připadly Račice Boskovicům."
+    },
+    {
+      "owner": "boskovicove",
+      "owner_wiki": "Boskovicové",
+      "person": "Václav Černohorský z Boskovic, později další Boskovicové (1563 Jan Jetřich)",
+      "from": null,
+      "to": 1568,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "snatek",
+      "note": "Václav získal Račice sňatkem s dcerou Jiřího z Kravař; Boskovicové drželi do 1568."
+    },
+    {
+      "owner": "haugvicove-z-biskupic",
+      "owner_wiki": "Haugvicové z Biskupic",
+      "person": "Hanuš Haugvic z Biskupic",
+      "from": 1568,
+      "to": null,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "Renesanční přestavba 1568-1585; v 80. letech 16. stol. panství přenechal (s bratrem Jáchymem) Bernardu Petřvaldskému."
+    },
+    {
+      "owner": "petrvaldsti-z-petrvaldu",
+      "owner_wiki": "Petřvaldští z Petřvaldu",
+      "person": "Bernard Petřvaldský, od 1590 synovec Hanuš Petřvaldský z Petřvaldu",
+      "from": null,
+      "to": 1620,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "Hanuš po Bílé hoře uvězněn a majetek zkonfiskován."
+    },
+    {
+      "owner": "soukromnik",
+      "owner_wiki": null,
+      "person": "Karl Willinger ze Schonenperku",
+      "from": 1620,
+      "to": 1623,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "Od tohoto bodu do 1830 podle cs.wiki článku o obci Račice (druhý zdroj uvádí jen 'střídání majitelů')."
+    },
+    {
+      "owner": "soukromnik",
+      "owner_wiki": null,
+      "person": "Šimon Kratzer ze Schonsperku",
+      "from": 1623,
+      "to": 1630,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe"
+    },
+    {
+      "owner": "soukromnik",
+      "owner_wiki": null,
+      "person": "Horacio Forno, poté syn Karel František",
+      "from": 1630,
+      "to": 1670,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe"
+    },
+    {
+      "owner": "braidove",
+      "owner_wiki": null,
+      "person": "hrabě Julian Braida-Ronsecca et Corigliano",
+      "from": 1670,
+      "to": null,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "Pobělohorský majitel z Kalábrie; následující majitelé do 1830 neuvedeni."
+    },
+    {
+      "owner": "soukromnik",
+      "owner_wiki": null,
+      "person": "baron Jan Mundy",
+      "from": 1830,
+      "to": 1864,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "Empírová přestavba; cs.wiki obce uvádí Mundyho nejdřív jako nájemce, prodej 1864."
+    },
+    {
+      "owner": "soukromnik",
+      "owner_wiki": null,
+      "person": "Eduard von Kramsta",
+      "from": 1864,
+      "to": 1874,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe"
+    },
+    {
+      "owner": "soukromnik",
+      "owner_wiki": null,
+      "person": "baron Palm",
+      "from": 1874,
+      "to": 1894,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe"
+    },
+    {
+      "owner": "soukromnik",
+      "owner_wiki": null,
+      "person": "Paul Eduard von Schoeller a Philipp von Schoeller, vídeňští průmyslníci",
+      "from": 1894,
+      "to": 1945,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "Poslední předválečný majitel Philipp von Schoeller."
+    },
+    {
+      "owner": "stat",
+      "owner_wiki": null,
+      "person": null,
+      "from": 1945,
+      "to": null,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "konfiskace",
+      "note": "Vyvlastnění Benešovými dekrety, uživatelé OP Prostějov, základní škola, učiliště, od 1959 zvláštní škola, dětský domov do 2014."
+    },
+    {
+      "owner": "mesto",
+      "owner_wiki": null,
+      "person": "Jihomoravský kraj",
+      "from": null,
+      "to": 2017,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "jine",
+      "note": "Kraj prodal zámek v dražbě 2017."
+    },
+    {
+      "owner": "soukromnik",
+      "owner_wiki": null,
+      "person": "e-Finance, a.s. (provozuje e-Finance Zámek Račice, s.r.o.)",
+      "from": 2017,
+      "to": null,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "Hotel, od 2020 zpřístupněno."
+    }
+  ],
+  "events": [
+    {
+      "year": 1285,
+      "text": "první nepřímá zmínka o hradu, Milota ze Švábenic"
+    },
+    {
+      "year": 1312,
+      "text": "hrad po obléhání vojsky Jana Lucemburského rozbořen"
+    },
+    {
+      "year": 1422,
+      "text": "husitský hrad dobyl olomoucký biskup Jan Železný"
+    },
+    {
+      "year": 1568,
+      "text": "Hanuš Haugvic z Biskupic koupil panství a přestavěl hrad na renesanční zámek (do 1585)"
+    },
+    {
+      "year": 1620,
+      "text": "Hanuš Petřvaldský uvězněn po Bílé hoře, majetek zkonfiskován"
+    },
+    {
+      "year": 1830,
+      "text": "zámek koupil baron Jan Mundy a empírově jej upravil"
+    },
+    {
+      "year": 1938,
+      "text": "na dva týdny sídlo generálního štábu československé armády"
+    },
+    {
+      "year": 2017,
+      "text": "zámek v dražbě koupila e-Finance, a.s."
+    }
+  ],
+  "sources": [
+    "https://cs.wikipedia.org/wiki/Račice_(zámek)",
+    "https://www.zamekracice.cz/historie-zamku-racice",
+    "https://www.e-finance.eu/blog/historie-zamku-racice-od-slechtickeho-sidla-po-moderni-resort-22896/",
+    "https://cs.wikipedia.org/wiki/Račice_(Račice-Pístovice)"
+  ]
 }

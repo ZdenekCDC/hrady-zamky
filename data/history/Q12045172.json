@@ -1,30 +1,141 @@
 {
  "id": "Q12045172",
  "name": "Petrohrad",
- "founded": {"year": 1350, "approx": true, "text": "Šlechtický hrad založený v polovině 14. století, patrně za Petra z Vrtby (doložen jako první majitel 1356)"},
- "summary": "Zřícenina hradu Petrohrad nad stejnojmennou obcí v okrese Louny vznikla v polovině 14. století, nejspíše z podnětu Petra z Vrtby. Postupně jej vlastnili páni z Janovic a Gutštejnové, za nichž hrad v polovině 16. století zpustl, protože nevyhovoval nárokům renesanční šlechty - Jaroslav Libštejnský z Kolovrat proto kolem roku 1560 pod hradem postavil nový zámek. Libštejnským bylo panství po stavovském povstání konfiskováno a roku 1622 je od státu koupili Černínové z Chudenic, kteří je drželi až do roku 1945, kdy majetek připadl státu.",
+ "founded": {
+  "year": 1350,
+  "approx": true,
+  "text": "Hrad (původně Petersburg, později Petršpurk) vznikl v polovině 14. století; cs.wiki a Kudy z nudy uvádějí jako prvního majitele Petra z Vrtby (1356), NPÚ a Sedláček jako zakladatele Petra z Janovic po roce 1358."
+ },
+ "summary": "Zřícenina hradu Petrohrad (Petršpurk) nad stejnojmennou obcí v okrese Louny vznikla v polovině 14. století, buď za Petra z Vrtby (doložen 1356), nebo Petra z Janovic (po 1358). Janovici jej drželi do roku 1483, poté Gutštejnové do smrti Viktorina z Gutštejna (1554). Hrad byl roku 1559 uváděn jako pustý a Jaroslav Libštejnský z Kolovrat si kolem roku 1560 postavil pod ním zámek. Libštejnským byl majetek po stavovském povstání zabrán a roku 1622 jej koupili Černínové z Chudenic, kteří jej drželi do roku 1945.",
  "owners": [
-  {"owner": "pani-z-vrtby", "owner_wiki": "Páni z Vrtby", "person": "Petr z Vrtby", "from": 1356, "to": 1358, "from_approx": true, "to_approx": true, "how": "zalozeni", "note": "první doložený majitel (1356), z rodiny náležející do rozrodu Hroznatovců; přesný rok založení hradu není znám"},
-  {"owner": "janovici", "owner_wiki": "Janovici", "person": "Petr z Janovic, později Jan Jenec z Janovic", "from": 1358, "to": 1483, "from_approx": false, "to_approx": false, "how": "koupe", "note": "Jan Jenec z Janovic byl 1470-1503 purkrabím Pražského hradu a vlastnil i hrad Hlubokou; roku 1483 petrohradské panství prodal"},
-  {"owner": "pani-z-gutstejna", "owner_wiki": "Páni z Gutštejna", "person": "Burian II. z Gutštejna, poté rod v mužské větvi", "from": 1483, "to": 1554, "from_approx": false, "to_approx": false, "how": "koupe", "note": "rod vlastnil Petrohrad v mužské větvi do smrti Viktorina z Gutštejna 1554"},
-  {"owner": "libstejnsti-z-kolovrat", "owner_wiki": "Libštejnští z Kolovrat", "person": "Jaroslav Libštejnský z Kolovrat", "from": 1554, "to": 1595, "from_approx": true, "to_approx": false, "how": "snatek", "note": "získal podíly na panství sňatkem se sestrou Viktorina z Gutštejna a postupně skoupil ostatní podíly; kolem 1560 nechal pod zpustlým hradem postavit renesanční zámek; zemřel 1595"},
-  {"owner": "libstejnsti-z-kolovrat", "owner_wiki": "Libštejnští z Kolovrat", "person": "Jaroslav mladší Libštejnský z Kolovrat", "from": 1595, "to": 1619, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "zdědil po otci, zemřel 1619; zdroj o zámku uvádí, že dvě třetiny majetku byly poté zabaveny za účast na stavovském povstání"},
-  {"owner": "koruna", "owner_wiki": null, "person": null, "from": 1619, "to": 1622, "from_approx": true, "to_approx": false, "how": "konfiskace", "note": "konfiskace dvou třetin majetku po stavovském povstání; roku 1622 stát panství prodal"},
-  {"owner": "cerninove-z-chudenic", "owner_wiki": "Černínové z Chudenic", "person": null, "from": 1622, "to": 1945, "from_approx": false, "to_approx": false, "how": "koupe", "note": "panství koupeno od státu; rodu patřilo až do roku 1945"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "po konfiskaci 1945 zámek využívala postupně ministerstva a od druhé poloviny 20. století psychiatrická léčebna; zřícenina hradu je chráněná kulturní památka"}
+  {
+   "owner": "pani-z-vrtby",
+   "owner_wiki": "Páni z Vrtby",
+   "person": "Petr z Vrtby",
+   "from": 1356,
+   "to": 1358,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "zalozeni",
+   "note": "první doložený majitel podle cs.wiki a Kudy z nudy (1356); Sedláček (hrady.cz) uvádí Petra z Vrtby k roku 1358 a zakladatelem Petršpurku činí až Petra z Janovic; přesný rok založení neznámý"
+  },
+  {
+   "owner": "janovici",
+   "owner_wiki": "Janovici",
+   "person": "Petr z Janovic, od 1378 Jenec z Janovic a jeho potomci (Jan Jenec, Jenec †1503)",
+   "from": 1358,
+   "to": 1483,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "NPÚ (isad.npu.cz): hrad patrně po 1358 založil Petr z Janovic; poslední z rodiny Jan Jenec (purkrabí Pražského hradu 1470-1503) roku 1483 panství prodal Burianovi z Gutštejna"
+  },
+  {
+   "owner": "pani-z-gutstejna",
+   "owner_wiki": "Páni z Gutštejna",
+   "person": "Burian z Gutštejna, poté synové Jindřich a Jetřich, od 1510 Volf, od 1545 Viktorin",
+   "from": 1483,
+   "to": 1554,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Gutštejnové 1509-1510 odsouzeni pro odpor proti králi Vladislavovi, panství jim bylo vráceno 1510 Volfovi; Volf zemřel 1545-1547 (zdroje se liší); Viktorin zemřel 1554"
+  },
+  {
+   "owner": "libstejnsti-z-kolovrat",
+   "owner_wiki": "Libštejnští z Kolovrat",
+   "person": "Jaroslav Libštejnský z Kolovrat",
+   "from": 1555,
+   "to": 1595,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "snatek",
+   "note": "podle Sedláčka (hrady.cz) 1555 rozdělení dědictví po Viktorinovi mezi sestry, Zikuna se provdala za Jaroslava a ten postupně získal ostatní podíly (1556 koupě dvou čtvrtin), právně pánem 1593; 1559 hrad pustý, kolem 1560 začal stavět zámek; zemřel 1595"
+  },
+  {
+   "owner": "libstejnsti-z-kolovrat",
+   "owner_wiki": "Libštejnští z Kolovrat",
+   "person": "Jaroslav mladší Libštejnský z Kolovrat",
+   "from": 1595,
+   "to": 1621,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "zemřel 1619; hrad spálen a panství zabráno za účast na stavovském povstání (cs.wiki zámek: dvě třetiny majetku, Sedláček: 1621 zabráno)"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1621,
+   "to": 1622,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "konfiskace po stavovském povstání, 1622 prodáno Černínům"
+  },
+  {
+   "owner": "cerninove-z-chudenic",
+   "owner_wiki": "Černínové z Chudenic",
+   "person": "Heřman Černín z Chudenic s manželkou Maruší Černínovou ze Svárova",
+   "from": 1622,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "panství koupeno od státu; Černínům patřilo až do roku 1945; kolem 1651-1657 postavena na základech věže kaple Všech svatých"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "po konfiskaci majetku Černínů 1945 připadlo panství státu; zdroje o hradu neuvádějí současného vlastníka zříceniny, zámek využívala psychiatrická léčebna; zřícenina je kulturní památka"
+  }
  ],
  "events": [
-  {"year": 1356, "text": "první doložený majitel Petr z Vrtby"},
-  {"year": 1483, "text": "Jan Jenec z Janovic prodává rozsáhlé petrohradské panství Burianovi II. z Gutštejna"},
-  {"year": 1554, "text": "smrt Viktorina z Gutštejna, konec mužské větve rodu na Petrohradě"},
-  {"year": 1559, "text": "hrad je uváděn jako pustý"},
-  {"year": 1560, "text": "Jaroslav Libštejnský z Kolovrat zahajuje pod hradem stavbu renesančního zámku"},
-  {"year": 1622, "text": "Černínové z Chudenic kupují panství od státu"},
-  {"year": 1652, "text": "v areálu hradu postavena podle plánů Carla Luraga kaple Všech svatých"},
-  {"year": 1945, "text": "po konfiskaci majetku Černínů připadá panství státu"}
+  {
+   "year": 1356,
+   "text": "první doložený majitel Petr z Vrtby"
+  },
+  {
+   "year": 1483,
+   "text": "Jan Jenec z Janovic prodává panství Burianovi z Gutštejna"
+  },
+  {
+   "year": 1554,
+   "text": "smrt Viktorina z Gutštejna, konec mužské větve rodu na Petrohradě"
+  },
+  {
+   "year": 1559,
+   "text": "hrad je uváděn jako pustý"
+  },
+  {
+   "year": 1560,
+   "text": "Jaroslav Libštejnský z Kolovrat zahajuje pod hradem stavbu zámku"
+  },
+  {
+   "year": 1622,
+   "text": "Černínové z Chudenic kupují panství od státu"
+  },
+  {
+   "year": 1652,
+   "text": "na základech věže hradu postavena kaple Všech svatých (zdroje uvádějí 1651-1657)"
+  },
+  {
+   "year": 1945,
+   "text": "konfiskace majetku Černínů, panství připadá státu"
+  }
  ],
  "sources": [
   "https://cs.wikipedia.org/wiki/Petrohrad_(hrad)",
-  "https://cs.wikipedia.org/wiki/Petrohrad_(zámek)"
+  "https://cs.wikipedia.org/wiki/Petrohrad_(zámek)",
+  "https://isad.npu.cz/zricenina-hradu-petrohrad-5521",
+  "https://www.hrady.cz/hrad-petrohrad-petrspurk",
+  "https://www.kudyznudy.cz/aktivity/zricenina-hradu-petrohrad"
  ]
 }

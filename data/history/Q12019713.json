@@ -1,21 +1,188 @@
 {
  "id": "Q12019713",
  "name": "Hlavnice",
- "founded": {"year": 1792, "approx": false, "text": "1792-1795 nechal Andreas hrabě Renard postavit empírový zámek jako venkovské sídlo"},
- "summary": "Empírový zámek v Hlavnici nechal v letech 1792-1795 postavit jako jednoduché venkovské sídlo tehdejší majitel panství Andreas hrabě Renard. Roku 1810 byl zámek s obcí Hlavnice prodán ve veřejné dražbě Josefu Gusnarovi z Komárna a od roku 1832 sloužil k trvalému bydlení. Posledním soukromým majitelem byl od roku 1913 František Bayer z Bayersburgu, po druhé světové válce byl rodině zkonfiskován a připadl obci, poté jej získalo zemědělské družstvo; v roce 2011 byl opraven v původním stylu.",
+ "founded": {
+  "year": 1792,
+  "approx": false,
+  "text": "1792-1795 nechal hrabě Ondřej (Andreas) Renard postavit empírový zámek jako venkovské sídlo panství."
+ },
+ "summary": "Empírový zámek v Hlavnici nechal v letech 1792-1795 postavit majitel panství hrabě Ondřej Renard. Po jeho smrti ho zdědila dcera a děti, roku 1810 ho koupil ve veřejné dražbě Josef Gusnar z Komárna a poté se majitelé několikrát střídali. Od roku 1886 patřil Bayerům z Bayersburgu, jejichž poslední majitel František Bayer byl roku 1945 vyvlastněn; zámek poté patřil obci a od roku 1990 je ve vlastnictví zemědělského družstva.",
  "owners": [
-  {"owner": "renardove", "owner_wiki": null, "person": "Andreas hrabě Renard", "from": 1792, "to": 1810, "from_approx": false, "to_approx": false, "how": "zalozeni", "note": "nechal zámek postavit jako venkovské sídlo panství"},
-  {"owner": "soukromnik", "owner_wiki": null, "person": "Josef Gusnar z Komárna", "from": 1810, "to": 1913, "from_approx": false, "to_approx": true, "how": "koupe", "note": "zámek s obcí koupil ve veřejné dražbě; článek mezi lety 1810 a 1913 neuvádí další majitele, přesný okamžik dalšího prodeje není znám"},
-  {"owner": "z-bayersburgu", "owner_wiki": null, "person": "František Bayer z Bayersburgu", "from": 1913, "to": 1945, "from_approx": false, "to_approx": true, "how": "koupe", "note": "poslední soukromý majitel, nechal zámek ve 30. letech přestavět; konfiskace proběhla po válce, přesný rok neuveden"},
-  {"owner": "mesto", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": true, "to_approx": true, "how": "konfiskace", "note": "po konfiskaci Bayerům z Bayersburgu zámek patřil obci a následně jej získalo zemědělské družstvo; článek neuvádí konkrétní roky ani pozdější osud vlastnictví"}
+  {
+   "owner": "renardove",
+   "owner_wiki": null,
+   "person": "Ondřej (Andreas) hrabě Renard",
+   "from": 1792,
+   "to": 1797,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "nechal zámek postavit; zemřel 1797"
+  },
+  {
+   "owner": "renardove",
+   "owner_wiki": null,
+   "person": "Karolina Renardová z Weissenbachu a její děti",
+   "from": 1797,
+   "to": 1810,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "dcera Ondřeje Renarda koupila zámek a panství, zemřela 1799; poté zámek patřil dětem z jejích dvou manželství do října 1810"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Josef Gusnar z Komárna",
+   "from": 1810,
+   "to": 1825,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "veřejná dražba; zámek s obcí; od 1832 trvale obydlen (cs.wiki), seznam obcí uvádí trvalé bydlení od 1810"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Františka z Friedenthalu, rozená Mikuschová z Buchbergsthalu",
+   "from": 1825,
+   "to": 1830,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": ""
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Ludvík a Anna Klette z Klettenhofu",
+   "from": 1830,
+   "to": 1838,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": ""
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Vilém Čejka z Badenfeldu",
+   "from": 1838,
+   "to": 1868,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "roku 1841 nechal postavit kapli; konec držby podle roku, kdy zámek koupil Wöllersdorfer; seznam obcí uvádí v 19. stol. i Josefa Eduarda Kunzeho (roky neuvedeny)"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Ludvík Wöllersdorfer",
+   "from": 1868,
+   "to": 1873,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": ""
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Jiří a Ida Rosshirtovi",
+   "from": 1873,
+   "to": 1880,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": ""
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Linhart Kreissel",
+   "from": 1880,
+   "to": 1886,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": ""
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Robert Bayer z Bayersburgu",
+   "from": 1886,
+   "to": 1912,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "vojenský rotmistr, koupil velkostatek za 112 000 zlatých; zemřel 12. 2. 1912 (cs.wiki a jiná stránka obce uvádějí 1913); majetek zdědila manželka Helena a syn František"
+  },
+  {
+   "owner": "z-bayersburgu",
+   "owner_wiki": null,
+   "person": "František Bayer z Bayersburgu",
+   "from": 1912,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "společně s matkou Helenou (zemřela 1934/1936), poslední soukromý majitel (1891-1954), zámek přestavěl; roku 1945 zestátněn / zkonfiskován, odstěhoval se do Rakouska"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "obec / místní národní výbor",
+   "from": 1945,
+   "to": 1990,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "konfiskace",
+   "note": "po válce zámek patřil obci (místní národní výbor), obecní knihovna 1945-1961, od 1961 kanceláře zemědělského družstva"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Zemědělské a obchodní družstvo Hlavnice",
+   "from": 1990,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "v roce 1990 přešla budova zámku definitivně do vlastnictví tehdejšího JZD; okolní budovy a park patří obci; 2011 oprava v původním stylu (cs.wiki)"
+  }
  ],
  "events": [
-  {"year": 1792, "text": "zahájena stavba empírového zámku"},
-  {"year": 1795, "text": "dokončení stavby zámku"},
-  {"year": 1810, "text": "zámek s obcí prodán ve veřejné dražbě Josefu Gusnarovi z Komárna"},
-  {"year": 1832, "text": "zámek od tohoto roku trvale obydlen"},
-  {"year": 1945, "text": "po válce zkonfiskován Bayerům z Bayersburgu, poté patřil obci a zemědělskému družstvu"},
-  {"year": 2011, "text": "zámek opraven v původním stylu"}
+  {
+   "year": 1792,
+   "text": "zahájena stavba empírového zámku Ondřejem Renardem (dokončen 1795)"
+  },
+  {
+   "year": 1810,
+   "text": "zámek prodán ve veřejné dražbě Josefu Gusnarovi z Komárna"
+  },
+  {
+   "year": 1886,
+   "text": "zámek a velkostatek kupuje Robert Bayer z Bayersburgu"
+  },
+  {
+   "year": 1945,
+   "text": "zámek zkonfiskován Františku Bayerovi z Bayersburgu"
+  },
+  {
+   "year": 1990,
+   "text": "zámek definitivně přechází do vlastnictví zemědělského družstva"
+  },
+  {
+   "year": 2011,
+   "text": "zámek opraven v původním stylu"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Hlavnice_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Hlavnice_(zámek)",
+  "https://obechlavnice.cz/zamek/d-13388/p1=2568",
+  "https://www.obechlavnice.cz/2007-historie-kaplice-doplnena/d-36433/p1=2442",
+  "https://www.hrady.cz/zamek-hlavnice-opava",
+  "https://www.seznam-obci.cz/hlavnice/"
+ ]
 }

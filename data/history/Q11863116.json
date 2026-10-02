@@ -3,10 +3,10 @@
  "name": "Děvičky",
  "founded": {
   "year": 1222,
-  "approx": true,
-  "text": "Hrad je poprvé zmiňován roku 1222 pod názvem Dewiczky jako pomezní zeměpanský hrad v královském držení; dochoval se i jméno prvního purkrabího, Štěpána z Medlova."
+  "approx": false,
+  "text": "Hrad je poprvé zmiňován roku 1222 jako pomezní zeměpanský hrad v královském držení; zakladatel není znám, první purkrabí byl Štěpán z Medlova."
  },
- "summary": "Děvičky vznikly jako pomezní zeměpanský hrad, poprvé doložený roku 1222, spravovaný jménem krále purkrabími (Štěpán z Medlova, Lipolt z Hardeggu, Crha z Ceblovic). Roku 1334 jej Jan Lucemburský udělil v léno Lichtenštejnům a roku 1572 koupil mikulovské panství s hradem Adam z Ditrichštejna, jehož syn Zikmund jej přestavěl na renesanční sídlo. Za třicetileté války byl hrad vypleněn a vypálen odcházející švédskou posádkou, po nejnutnějších opravách sloužil jen jako strážní stanoviště až do požáru 1744 a nejpozději počátkem 19. století byl definitivně opuštěn a zchátral; dnes je vlastníkem stát (Lesy České republiky), zříceninu si od něj pronajal a o její záchranu pečuje spolek Památky Pálavy.",
+ "summary": "Děvičky vznikly jako pomezní zeměpanský hrad, poprvé doložený roku 1222 a spravovaný purkrabími. Roku 1334 jej Jan Lucemburský udělil v léno Lichtenštejnům, kteří jej s mikulovským panstvím drželi do poloviny 16. století; po krátké držbě Kerecsényiů získali panství Ditrichštejnové a Zikmund z Ditrichštejna hrad přestavěl. Za třicetileté války jej vypálili Švédové, po opravách sloužil jako strážní pevnůstka a koncem 18. nebo počátkem 19. století byl opuštěn. Dnes patří státu (Lesy ČR) a o zříceninu pečuje spolek Památky Pálavy.",
  "owners": [
   {
    "owner": "koruna",
@@ -14,21 +14,32 @@
    "person": null,
    "from": 1222,
    "to": 1334,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "zalozeni",
-   "note": "pomezní zeměpanský hrad v královském držení, spravovaný purkrabími (Štěpán z Medlova, Lipolt z Hardeggu, od 1244 Crha z Ceblovic); mezi lety 1247-1294 o hradu zpráv není, snad zničen nájezdem Kumánů 1253, obnoven koncem 13. stol. za Václava II."
+   "note": "pomezní zeměpanský hrad spravovaný purkrabími (Štěpán z Medlova, Lipolt z Hardeggu, od 1244 Crha z Ceblovic); 1247-1294 o hradu zprávy chybí, snad zničen 1253, obnoven koncem 13. stol."
   },
   {
    "owner": "lichtenstejnove",
    "owner_wiki": "Lichtenštejnové",
-   "person": null,
+   "person": "Hartneid z Lichtenštejna",
    "from": 1334,
-   "to": 1572,
+   "to": 1560,
    "from_approx": false,
    "to_approx": false,
    "how": "lenni",
-   "note": "hrad jim udělil v léno král Jan Lucemburský; v tomto období pravděpodobně přestavěn a rozšířen o předhradí, opevnění posíleno 1529 při obléhání Vídně Turky"
+   "note": "král Jan Lucemburský udělil hrad lénem spolu se Strachotínem, Věstonicemi, Pavlovem a Stochnicemi (AOPK); součást mikulovského panství, spravovali purkrabí; posílení opevnění 1529 (cs.wiki). Kryštof z Lichtenštejna musel kvůli dluhům panství prodat"
+  },
+  {
+   "owner": "kereczenyiove",
+   "owner_wiki": null,
+   "person": "Ladislav Kerecsényi",
+   "from": 1560,
+   "to": 1572,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil celé mikulovské panství; rok 1560 z časové osy AOPK; cs.wiki toto období nezmiňuje a uvádí přímo přechod Lichtenštejnové - Ditrichštejnové 1572"
   },
   {
    "owner": "ditrichstejnove",
@@ -39,7 +50,7 @@
    "from_approx": false,
    "to_approx": true,
    "how": "koupe",
-   "note": "Adam koupil celé mikulovské panství, syn Zikmund hrad přestavěl na sídlo; za třicetileté války vypleněn a vypálen odcházející švédskou posádkou (táhnoucí po bitvě u Jankova na Vídeň, přesný rok článek neuvádí), po opravě sloužil jako strážnice do požáru 1744, opuštěn nejpozději počátkem 19. stol.; přesný okamžik a způsob přechodu z majetku Ditrichštejnů na stát článek neuvádí"
+   "note": "Adam koupil mikulovské panství (AMHZ uvádí sjednocení panství až 1575-1577), syn Zikmund hrad přestavěl; Švédové hrad vypálili (AOPK 1645, AMHZ 1646), poté opravy a strážní pevnůstka do požáru 1744, opuštěn koncem 18. nebo počátkem 19. stol.; zdroje neuvádějí, kdy hrad přešel ze soukromého vlastnictví na stát"
   },
   {
    "owner": "stat",
@@ -47,19 +58,38 @@
    "person": "Lesy České republiky",
    "from": null,
    "to": null,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "dnešním vlastníkem je stát (Lesy České republiky); zříceninu si od něj pronajal spolek dobrovolníků Památky Pálavy, který pečuje o její záchranu (plánovaná první etapa oprav do roku 2028)"
+   "note": "dnešní vlastník podle cs.wiki; zříceninu pronajal spolek Památky Pálavy; rok převodu není ve zdrojích"
   }
  ],
  "events": [
-  {"year": 1222, "text": "první písemná zmínka o hradu pod názvem Dewiczky"},
-  {"year": 1253, "text": "hrad snad zničen při nájezdu Kumánů"},
-  {"year": 1334, "text": "Jan Lucemburský uděluje hrad v léno Lichtenštejnům"},
-  {"year": 1572, "text": "Adam z Ditrichštejna kupuje mikulovské panství s hradem"},
-  {"year": null, "text": "za třicetileté války (posádka táhla po bitvě u Jankova na Vídeň) hrad vypleněn a vypálen odcházející švédskou posádkou"},
-  {"year": 1744, "text": "požár, poté hrad sloužil už jen jako strážnice"}
+  {
+   "year": 1222,
+   "text": "první písemná zmínka o hradu (Dewiczky)"
+  },
+  {
+   "year": 1334,
+   "text": "Jan Lucemburský uděluje hrad v léno Lichtenštejnům"
+  },
+  {
+   "year": 1572,
+   "text": "Adam z Ditrichštejna kupuje mikulovské panství, Zikmund hrad přestavuje"
+  },
+  {
+   "year": 1645,
+   "text": "Švédové hrad při odchodu vypálili (AMHZ uvádí 1646, cs.wiki rok neuvádí)"
+  },
+  {
+   "year": 1744,
+   "text": "požár; hrad sloužil už jen jako strážnice a hláska požárů"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Děvičky"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Děvičky",
+  "https://www.devicky.cz/historie-hradu",
+  "https://www.amhz.cz/hrad/devicky",
+  "https://palava.aopk.gov.cz/documents/64902/1161889/4+-+Historie+hradu+D%C4%9Bvi%C4%8Dky.pdf/03859b3c-e7fd-d6ea-1948-037af67c3d2b?t=1652276666202"
+ ]
 }

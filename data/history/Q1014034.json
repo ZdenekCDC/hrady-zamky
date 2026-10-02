@@ -1,148 +1,34 @@
 {
-  "id": "Q1014034",
-  "name": "Sovinec",
-  "founded": {
-    "year": 1330,
-    "approx": true,
-    "text": "Hrad byl postaven mezi lety 1329-1332 bratry Vokem a Pavlem ze Sovince; první písemná zmínka je z 18. července 1332."
-  },
-  "summary": "Hrad Sovinec postavili počátkem 14. století bratři ze Sovince, moravského panského rodu, který jej s krátkou přestávkou držel až do poloviny 16. století, kdy jej prodali Boskovicům. Přes Ederovy ze Štiavnice a sňatkem Kobylky z Kobylího se roku 1623 po Bílé hoře dostal do rukou Řádu německých rytířů, který jej vlastnil až do nacistické konfiskace za okupace. Za druhé světové války sloužil jako vězení SS, v roce 1945 vyhořel a od té doby je v majetku státu, od roku 1960 ve správě Vlastivědného ústavu v Bruntále; řád dnes usiluje o jeho navrácení.",
-  "owners": [
-    {
-      "owner": "z-sovince",
-      "owner_wiki": null,
-      "person": "Vok a Pavel ze Sovince, později Pavlík, Petr, Aleš, Vok a Jaroslav ze Sovince",
-      "from": 1330,
-      "to": 1490,
-      "from_approx": true,
-      "to_approx": true,
-      "how": "zalozeni",
-      "note": "starý moravský rod (z čeledi Hrutoviců); po smrti Jaroslava spravoval panství poručník Jan Heralt z Kunštátu, než je roku 1490 pro rod získal zpět Jan II. Pňovický ze Sovince"
-    },
-    {
-      "owner": "z-sovince",
-      "owner_wiki": null,
-      "person": "Jan II. Pňovický ze Sovince",
-      "from": 1490,
-      "to": 1531,
-      "from_approx": false,
-      "to_approx": false,
-      "how": "jine",
-      "note": "z pňovické větve rodu"
-    },
-    {
-      "owner": "z-sovince",
-      "owner_wiki": null,
-      "person": "Ješek Pňovický ze Sovince",
-      "from": 1531,
-      "to": 1545,
-      "from_approx": false,
-      "to_approx": true,
-      "how": "dedictvi",
-      "note": "zdědil zadlužené panství, hrad prodal před rokem 1545"
-    },
-    {
-      "owner": "boskovicove",
-      "owner_wiki": "Boskovicové",
-      "person": "Kryštof z Boskovic a Třebové, poté vnuk Jan",
-      "from": 1545,
-      "to": 1576,
-      "from_approx": true,
-      "to_approx": false,
-      "how": "koupe",
-      "note": "Jan z Boskovic prodal panství roku 1576 před svou smrtí"
-    },
-    {
-      "owner": "ederove-ze-stiavnice",
-      "owner_wiki": "Ederové ze Štiavnice",
-      "person": "Vavřinec Eder ze Štiavnice",
-      "from": 1576,
-      "to": 1592,
-      "from_approx": false,
-      "to_approx": true,
-      "how": "koupe",
-      "note": "zástavní držitel sousedního rabštejnského panství; zemřel asi 1592, dědičkou dcera Anna"
-    },
-    {
-      "owner": "kobylkove-z-kobyliho",
-      "owner_wiki": "Kobylkové z Kobylího",
-      "person": "Jan starší Kobylka z Kobylího",
-      "from": 1592,
-      "to": 1623,
-      "from_approx": true,
-      "to_approx": false,
-      "how": "snatek",
-      "note": "sňatek s Annou, dědičkou Vavřince Edera; jako moravský direktor za stavovského povstání nucen po Bílé hoře roku 1623 hrad prodat"
-    },
-    {
-      "owner": "rad-nemeckych-rytiru",
-      "owner_wiki": "Řád německých rytířů",
-      "person": null,
-      "from": 1623,
-      "to": null,
-      "from_approx": false,
-      "to_approx": true,
-      "how": "koupe",
-      "note": "koupeno hluboko pod cenou; 1626 vypleněn Mansfeldovými vojsky, 1642-1643 obléhán Švédy; v 19. a na poč. 20. stol. sloužil jako seminář, lesnická škola a letní sídlo velmistra s muzeem; rok konfiskace není v textu přesně uveden, odhadnut podle okupace"
-    },
-    {
-      "owner": "stat",
-      "owner_wiki": null,
-      "person": "nacistický okupační režim",
-      "from": null,
-      "to": 1945,
-      "from_approx": true,
-      "to_approx": false,
-      "how": "konfiskace",
-      "note": "za okupace sloužil jako vězení pod správou SS; v prvních dnech po osvobození roku 1945 vyhořel z blíže nezjištěných příčin"
-    },
-    {
-      "owner": "stat",
-      "owner_wiki": null,
-      "person": null,
-      "from": 1945,
-      "to": null,
-      "from_approx": false,
-      "to_approx": false,
-      "how": "konfiskace",
-      "note": "od 1960 ve správě Vlastivědného ústavu v Bruntále, který zahájil obnovu; Řád německých rytířů (dnes Německý řád) usiluje o navrácení hradu"
-    }
-  ],
-  "events": [
-    {
-      "year": 1330,
-      "text": "hrad postaven bratry Vokem a Pavlem ze Sovince (mezi 1329-1332)"
-    },
-    {
-      "year": 1332,
-      "text": "první písemná zmínka o hradu"
-    },
-    {
-      "year": 1490,
-      "text": "hrad zpět pro rod ze Sovince získal Jan II. Pňovický ze Sovince"
-    },
-    {
-      "year": 1623,
-      "text": "po Bílé hoře prodán Řádu německých rytířů"
-    },
-    {
-      "year": 1643,
-      "text": "po třítýdenním obléhání kapitulace před Švédy (6. října), předtím vybudováno rozsáhlé raně barokní opevnění (1632-1643)"
-    },
-    {
-      "year": 1784,
-      "text": "požár po úderu blesku poškodil hlásku a přilehlé objekty"
-    },
-    {
-      "year": 1945,
-      "text": "hrad v prvních dnech po osvobození vyhořel"
-    },
-    {
-      "year": 1960,
-      "text": "správu hradu převzal Vlastivědný ústav v Bruntále a zahájil obnovu"
-    }
-  ],
-  "sources": [
-    "https://cs.wikipedia.org/wiki/Sovinec_(hrad)"
-  ]
+ "id": "Q1014034",
+ "name": "Sovinec",
+ "founded": {"year": null, "approx": true, "text": "Hrad založili v 1. polovině 14. století (podle oficiálního chronologického přehledu mezi lety 1318-1348) bratři Vok a Pavel ze Sovince; první písemná zmínka pochází z roku 1348 (dříve uváděné datum 1333 vzniklo chybou v edici listin, další zmínka je z roku 1353)."},
+ "summary": "Hrad Sovinec založili v 1. polovině 14. století Vok a Pavel ze Sovince, moravský panský rod z čeledi Hrutoviců, který jej držel do konce 15. století. Po Pňovských ze Sovince jej od roku 1543 vlastnili Boskovicové, od roku 1576 Ederové ze Štiavnice a jejich dědicové Kobylkové z Kobylího, kteří jej po Bílé hoře roku 1623 prodali Řádu německých rytířů. Řád hrad držel až do zrušení nacisty roku 1939 (s krátkou nucenou správou státu 1919-1924), za okupace sloužil jako vězení a v květnu 1945 vyhořel; od roku 1945 je ve vlastnictví státu.",
+ "owners": [
+  {"owner": "z-sovince", "owner_wiki": null, "person": "Vok (I.) a Pavel (I.) ze Sovince, poté Pavlík a jeho synové, Pavel III., Vok II., Zikmund a Jaroslav", "from": null, "to": 1480, "from_approx": true, "to_approx": true, "how": "zalozeni", "note": "hrad vznikl v letech 1318-1348; společné držení bratří, po 1398 spor synů Pavlíka o dědictví do 1409 a držba v nedílu; kolem 1455 jediným majitelem Vok II., před 1475 po něm zdědil syn Jaroslav, který zemřel asi 1480"},
+  {"owner": "pani-z-kunstatu-a-podebrad", "owner_wiki": "Páni z Kunštátu a Poděbrad", "person": "Jan Heralt z Kunštátu", "from": 1480, "to": 1490, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "získal Sovinec po smrti Jaroslava ze Sovince asi 1480; před rokem 1490 jej koupil Jan Pňovský"},
+  {"owner": "z-sovince", "owner_wiki": null, "person": "Jan Pňovský ze Sovince, poté synové Vok a Heralt, Vok Pňovský a Ješek Pňovský", "from": 1490, "to": 1543, "from_approx": true, "to_approx": false, "how": "koupe", "note": "pňovská větev rodu; Jan koupil hrad před 1490, od 1508 synové Vok a Heralt, od 1510 Vok, asi od 1535 Ješek (zadlužený panství prodal); en.wiki udává Jana jako majitele do 1508 a Ješka asi 1535-1543"},
+  {"owner": "boskovicove", "owner_wiki": "Boskovicové", "person": "Kryštof z Boskovic, od 1550 vnuk Jan Černohorský z Boskovic a Třebové", "from": 1543, "to": 1576, "from_approx": false, "to_approx": false, "how": "koupe", "note": "prodej Ješkem Pňovským 1543, do zemských desek vloženo 1545 (starší literatura uvádí prodej kolem 1540)"},
+  {"owner": "ederove-ze-stiavnice", "owner_wiki": "Ederové ze Štiavnice", "person": "Vavřinec Eder ze Štiavnice, poté dcera Anna Ederovna", "from": 1576, "to": 1594, "from_approx": false, "to_approx": false, "how": "koupe", "note": "do zemských desek prodej vložen 1578 (ve starší literatuře uváděn rok 1578); Vavřinec zemřel 1590 (asi 1592), dědičkou dcera Anna, která roku 1594 přijala manžela do majetkového společenství"},
+  {"owner": "kobylkove-z-kobyliho", "owner_wiki": "Kobylkové z Kobylího", "person": "Jan starší Kobylka z Kobylího", "from": 1594, "to": 1623, "from_approx": false, "to_approx": false, "how": "snatek", "note": "manžel Anny Ederovny, po její smrti 1607 jediným majitelem; člen moravské direktorské vlády za stavovského povstání, 1621 omilostněn za slib prodat Sovinec arcivévodovi Karlovi, 1623 prodal hrad za 200 000 zlatých"},
+  {"owner": "rad-nemeckych-rytiru", "owner_wiki": "Řád německých rytířů", "person": null, "from": 1623, "to": 1939, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil arcivévoda Karel (velmistr řádu) ve prospěch řádu; 1626 hrad vypleněn Mansfeldovými vojsky, 1643 kapitulace před Švédy; 19. stol. seminář a lesnická škola (1867-1896); 1919-1924 nucená správa a převzetí Československou republikou, poté vráceno řádu; 1939 řád zrušen nacistickým Německem a majetek zabaven"},
+  {"owner": "stat", "owner_wiki": null, "person": "Německá říše", "from": 1939, "to": 1945, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "od 1940 vězení (zajatci, protinacisté), 1943 prodán německé společnosti pro péči o kulturní památky, malá jednotka SS na hradě do konce války; v květnu 1945 hrad vyhořel"},
+  {"owner": "stat", "owner_wiki": null, "person": "Československo / Česká republika", "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "konfiskace podle dekretu č. 5/1945 Sb.; od 1960 ve správě Vlastivědného ústavu v Bruntále; Německý řád usiluje o navrácení hradu (cs.wiki)"}
+ ],
+ "events": [
+  {"year": 1348, "text": "první písemná zmínka o hradu (Vok ze Sovince); hrad vznikl v letech 1318-1348"},
+  {"year": 1409, "text": "po sporu o dědictví po Pavlíkovi hrad v nedílu bratří; Ješek zakládá pňovskou větev rodu"},
+  {"year": 1543, "text": "Ješek Pňovský prodal Sovinec Kryštofovi z Boskovic"},
+  {"year": 1623, "text": "Jan starší Kobylka z Kobylího prodal hrad Řádu německých rytířů"},
+  {"year": 1643, "text": "po obléhání kapitulace před Švédy, předtím vybudováno rozsáhlé raně barokní opevnění"},
+  {"year": 1939, "text": "zrušení Německého řádu a zabavení jeho majetku nacistickým Německem"},
+  {"year": 1945, "text": "hrad v květnu vyhořel; převzat Československem (dekret 5/1945 Sb.)"},
+  {"year": 1960, "text": "správu hradu převzal Vlastivědný ústav v Bruntále a zahájil obnovu"}
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Sovinec_(hrad)",
+  "https://www.sovinec.cz/sov09chronologicky_prehled-m.htm",
+  "https://www.hrad-sovinec.cz/historie/",
+  "https://en.wikipedia.org/wiki/Sovinec",
+  "https://www.hrady.cz/hrad-sovinec-bruntal/texty?pos=1000&tid=26500"
+ ]
 }

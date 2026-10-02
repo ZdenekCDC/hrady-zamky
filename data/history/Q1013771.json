@@ -2,56 +2,393 @@
  "id": "Q1013771",
  "name": "Rychmburk",
  "founded": {
-  "year": 1305,
+  "year": 1310,
   "approx": true,
-  "text": "Hrad založil v první čtvrtině 14. století Tas z Mrdic."
+  "text": "Hrad vznikl na přelomu 13. a 14. století až v první čtvrtině 14. století; cs.wiki uvádí zakladatele Tase z Mrdic, hrady.cz a mistopisy.cz dobu kolem 1325, rychmburk.cz přelom 13./14. století."
  },
- "summary": "Hrad Rychmburk založil v první čtvrtině 14. století Tas z Mrdic, poté se ve 14. a 15. století rychle střídali majitelé (Vartenberkové, Flaškové z Pardubic, husité, Pardusové z Horky, Kostkové z Postupic). Od roku 1500 patřil přes sto let Valdštejnům a dalším drobným zástavním držitelům, v letech 1555-1706 pak Berkům z Dubé a Lipé, kteří panství rozšířili a povýšili na hraběcí fideikomis. Po vymření Berků přešlo panství přes Bruntálské z Vrbna na Kinské (1718-1823) a poté na Thurn-Taxisy, kteří jej drželi až do znárodnění roku 1945. Dnes je hrad majetkem Pardubického kraje a od roku 2021 je zpřístupněn veřejnosti.",
+ "summary": "Hrad Rychmburk vznikl na počátku 14. století (zakladatelem je podle cs.wiki Tas z Mrdic) a roku 1349 ho držel Beneš z Vartenberka. Od roku 1361 patřil pánům z Pardubic, v roce 1425 jej dobyli husité a po vymření Flašků jej držel Jan Pardus a od roku 1500 Valdštejnové, kteří hrad pozdně gotizovali a renesančně přestavěli. Od roku 1558 patřil Berkům z Dubé, po nich Kinským (1718-1823) a Thurn-Taxisům až do znárodnění 1945; dnes je majetkem Pardubického kraje a od roku 2021 je přístupný veřejnosti.",
  "owners": [
-  {"owner": "z-mrdic", "owner_wiki": null, "person": "Tas z Mrdic (spolu s Heřmanem z Mrdic)", "from": 1305, "to": 1349, "from_approx": true, "to_approx": true, "how": "zalozeni", "note": "hrad založen v první čtvrtině 14. století; příslušnost k rodu z Mrdic odvozena z majetkových vztahů"},
-  {"owner": "vartenberkove", "owner_wiki": "Vartenberkové", "person": "Beneš z Vartenberka", "from": 1349, "to": 1361, "from_approx": true, "to_approx": true, "how": "jine", "note": "hrad získal před rokem 1349, přesný způsob nabytí zdroj neuvádí"},
-  {"owner": "z-pardubic", "owner_wiki": null, "person": "Vilém z Pardubic, bratr arcibiskupa Arnošta z Pardubic", "from": 1361, "to": 1387, "from_approx": true, "to_approx": true, "how": "jine", "note": "hrad získal před rokem 1361"},
-  {"owner": "z-pardubic", "owner_wiki": null, "person": "Smil Flaška z Pardubic", "from": 1387, "to": 1403, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "mladší syn Viléma z Pardubic, básník a spisovatel"},
-  {"owner": "z-pardubic", "owner_wiki": null, "person": "Arnošt Flaška z Pardubic", "from": 1403, "to": 1425, "from_approx": false, "to_approx": false, "how": "dedictvi"},
-  {"owner": "soukromnik", "person": "Jiřík, syn Jakuba Kroměšína (husitský hejtman)", "from": 1425, "to": 1433, "from_approx": false, "to_approx": false, "how": "jine", "note": "hrad nebyl dobyt, ale posádka se vzdala husitům za volný odchod poté, co byl v Lažanech upálen podlažický opat"},
-  {"owner": "z-horky-a-vratkova", "owner_wiki": null, "person": "Jan Pardus z Horky a Vratkova", "from": 1433, "to": 1436, "from_approx": false, "to_approx": false, "how": "jine", "note": "husitský vojevůdce si Rychmburk přisvojil"},
-  {"owner": "z-pardubic", "owner_wiki": null, "person": "Arnošt Flaška z Pardubic", "from": 1436, "to": 1439, "from_approx": false, "to_approx": false, "how": "dar", "note": "panství mu vráceno za věrné služby císaři; zemřel bezdětný roku 1439, panství připadlo jako odúmrť králi"},
-  {"owner": "koruna", "person": null, "from": 1439, "to": 1454, "from_approx": false, "to_approx": false, "how": "jine", "note": "odúmrť po bezdětném Arnoštu Flaškovi z Pardubic"},
-  {"owner": "z-horky-a-vratkova", "owner_wiki": null, "person": "Jan Pardus", "from": 1454, "to": 1465, "from_approx": false, "to_approx": false, "how": "jine"},
-  {"owner": "z-horky-a-vratkova", "owner_wiki": null, "person": "Vilém Pardus (poručník Zdeněk Kostka z Postupic)", "from": 1465, "to": 1490, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "nezletilý syn Jana Parduse; po jeho smrti 1490 spravovala panství Anežka z Chlumu a Košumberka"},
-  {"owner": "slavatove-z-chlumu-a-kosumberka", "owner_wiki": "Slavatové z Chlumu a Košumberka", "person": "Anežka z Chlumu a Košumberka", "from": 1490, "to": 1500, "from_approx": false, "to_approx": false, "how": "jine", "note": "spravovala panství po smrti Viléma Parduse"},
-  {"owner": "valdstejnove", "owner_wiki": "Valdštejnové", "person": "Jindřich Šťastný z Valdštejna", "from": 1500, "to": 1537, "from_approx": false, "to_approx": false, "how": "jine"},
-  {"owner": "valdstejnove", "owner_wiki": "Valdštejnové", "person": "Vilém z Valdštejna", "from": 1537, "to": 1550, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "provedl rozsáhlou opravu hradu"},
-  {"owner": "z-vrchlabi", "owner_wiki": null, "person": "Kryštof Jandert z Vrchlabí", "from": 1550, "to": 1551, "from_approx": false, "to_approx": false, "how": "lenni", "note": "hrad získal na rok do zástavy"},
-  {"owner": "ze-soutic", "owner_wiki": null, "person": "Marie Jansovská ze Soutic", "from": 1551, "to": 1555, "from_approx": false, "to_approx": false, "how": "jine"},
-  {"owner": "berkove-z-dube", "owner_wiki": "Berkové z Dubé", "person": "Zdeněk Berka z Dubé a Lipé", "from": 1555, "to": 1572, "from_approx": false, "to_approx": false, "how": "koupe", "note": "nejprve roku 1555 získal hrad do zástavy, roku 1558 koupil celé rychmburské panství"},
-  {"owner": "berkove-z-dube", "owner_wiki": "Berkové z Dubé", "person": "Václav starší Berka z Dubé a Lipé", "from": 1572, "to": 1600, "from_approx": false, "to_approx": false, "how": "dedictvi"},
-  {"owner": "berkove-z-dube", "owner_wiki": "Berkové z Dubé", "person": "Lev Burián Berka z Dubé a Lipé", "from": 1600, "to": 1625, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "rozšířil panství (Rosice, Úhřetice, Řestoky, Dašice, Slatiňany), 1623 povýšen do hraběcího stavu a zřídil rodový fideikomis"},
-  {"owner": "berkove-z-dube", "owner_wiki": "Berkové z Dubé", "person": "Matyáš Ferdinand Berka (do 1636 regentka matka Eusebie Hypolita Františka Berková)", "from": 1625, "to": 1644, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "zemřel bez dědiců"},
-  {"owner": "berkove-z-dube", "owner_wiki": "Berkové z Dubé", "person": "Bohuslav Ferdinand Berka", "from": 1650, "to": 1659, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "zdroj neuvádí, kdo držel panství v letech 1644-1650; jeho smrtí 1659 tato linie Berků vymřela po meči"},
-  {"owner": "berkove-z-dube", "owner_wiki": "Berkové z Dubé", "person": "Františka Božena Rosálie Berková", "from": 1659, "to": 1670, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "dcera Bohuslava Ferdinanda, správcem panství jmenovala Františka z Jansdorfu"},
-  {"owner": "berkove-z-dube", "owner_wiki": "Berkové z Dubé", "person": "František Antonín hrabě Berka (Jablonská větev)", "from": 1670, "to": 1706, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "zemřel bezdětný, rod Berků z Dubé a Lipé v Čechách definitivně vymřel"},
-  {"owner": "berkove-z-dube", "owner_wiki": "Berkové z Dubé", "person": "Františka Rosálie Berková, provdaná Kinská", "from": 1706, "to": 1714, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "sestřenice posledního Berky, provdaná za Viléma Leopolda Kinského ze Vchynic (zemřel 1709)"},
-  {"owner": "bruntalsti-z-vrbna", "owner_wiki": "Bruntálští z Vrbna", "person": "Václav Albrecht Bruntálský z Vrbna", "from": 1714, "to": 1718, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "nevlastní bratr Františky Rosálie Berkové"},
-  {"owner": "kinsti", "owner_wiki": "Kinští", "person": "Václav Norbert Oktavián Kinský", "from": 1718, "to": 1719, "from_approx": false, "to_approx": false, "how": "koupe"},
-  {"owner": "kinsti", "owner_wiki": "Kinští", "person": "Štěpán Vilém Kinský", "from": 1719, "to": 1749, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "choceňská linie Kinských"},
-  {"owner": "kinsti", "owner_wiki": "Kinští", "person": "František Josef Kinský", "from": 1749, "to": 1752, "from_approx": false, "to_approx": false, "how": "dedictvi"},
-  {"owner": "kinsti", "owner_wiki": "Kinští", "person": "Marie Augusta Kinská", "from": 1752, "to": 1753, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "zemřela ve dvanácti letech roku 1753"},
-  {"owner": "kinsti", "owner_wiki": "Kinští", "person": "Filip Kinský", "from": 1753, "to": 1823, "from_approx": false, "to_approx": false, "how": "jine", "note": "panství převzal podle rodinných dohod (chlumecká větev); rozšířil dvory a osady, zadal stavbu loveckého zámku Karlštejn u Svratky; 1823 prodal panství Thurn-Taxisům"},
-  {"owner": "thurn-taxisove", "owner_wiki": "Thurn-Taxisové", "person": "Karel Alexandr z Thurn-Taxisu", "from": 1823, "to": 1827, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil společně s panstvím Chroustovice, 1826 přikoupil statek Košumberk"},
-  {"owner": "thurn-taxisove", "owner_wiki": "Thurn-Taxisové", "person": "Maxmilián Karel z Thurn-Taxisu", "from": 1827, "to": 1871, "from_approx": false, "to_approx": false, "how": "dedictvi"},
-  {"owner": "thurn-taxisove", "owner_wiki": "Thurn-Taxisové", "person": "Maria Karel a naposledy Albert Maria princ z Thurn-Taxisu", "from": 1871, "to": 1945, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "rodina sídlila v Řezně; po roce 1919 vnucená správa, od 1924 pozemková reforma na velkostatku"},
-  {"owner": "stat", "person": null, "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "znárodněn velkostatek i hrad, zřízen domov pro staré občany, později sociální ústav; dnes je hrad majetkem Pardubického kraje a spravuje jej Regionální muzeum v Chrudimi, od roku 2021 zpřístupněn veřejnosti"}
+  {
+   "owner": "z-mrdic",
+   "owner_wiki": null,
+   "person": "Tas z Mrdic (spolu s Heřmanem z Mrdic)",
+   "from": 1310,
+   "to": 1349,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "zalozeni",
+   "note": "podle cs.wiki založen v 1. čtvrtině 14. století; rychmburk.cz uvádí 'Tas z Pardubic a Staré' a hned 1297 Beneše z Vartenberka, hrady.cz a mistopisy.cz kolem 1325; zdroje se rozcházejí, kolem 1310 je přibližný střed"
+  },
+  {
+   "owner": "vartenberkove",
+   "owner_wiki": "Vartenberkové",
+   "person": "Beneš z Vartenberka",
+   "from": 1349,
+   "to": 1361,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "jine",
+   "note": "doložen 1349; způsob nabytí zdroje neuvádějí; rychmburk.cz uvádí, že bratři Čeněk a Jan hrad darovali johanitům (nepotvrzeno jinde)"
+  },
+  {
+   "owner": "z-pardubic",
+   "owner_wiki": null,
+   "person": "Vilém z Pardubic, bratr arcibiskupa Arnošta",
+   "from": 1361,
+   "to": 1387,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "jine",
+   "note": "hrad získal před rokem 1361"
+  },
+  {
+   "owner": "z-pardubic",
+   "owner_wiki": null,
+   "person": "Smil Flaška z Pardubic",
+   "from": 1387,
+   "to": 1403,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "básník a spisovatel; rychmburk.cz uvádí převzetí 1369 a 1392-1396 prodej panství Berkovi a Bočkovi z Kunštátu a Poděbrad, který Smil koupil zpět; cs.wiki a hrady.cz uvádějí 1387"
+  },
+  {
+   "owner": "z-pardubic",
+   "owner_wiki": null,
+   "person": "Arnošt Flaška z Pardubic",
+   "from": 1403,
+   "to": 1439,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "na jaře 1425 hrad dobyli husité (sirotci), Flaškové se přesto považovali za pány; 1439 zástava a po bezdětném Janu Flaškovi odúmrť králi; cs.wiki uvádí Arnošta až 1439, hrady.cz píše o Janu Flaškovi, bratru Arnoštově"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1439,
+   "to": 1456,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "odúmrť, mnohaleté spory o panství; 1456 král Ladislav daroval Janu Pardusovi"
+  },
+  {
+   "owner": "z-horky-a-vratkova",
+   "owner_wiki": null,
+   "person": "Jan Pardus z Horky a Vratkova",
+   "from": 1456,
+   "to": 1465,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dar",
+   "note": "bývalý husitský hejtman, jako pán hradu doložen již 1443 (hrady.cz)"
+  },
+  {
+   "owner": "z-horky-a-vratkova",
+   "owner_wiki": null,
+   "person": "Vilém Pardus z Vratkova",
+   "from": 1465,
+   "to": 1490,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "hrady.cz uvádí Viléma jako majitele 1470; zemřel před 1500, panství odkázal matce Anežce z Chlumu a Košumberka"
+  },
+  {
+   "owner": "slavatove-z-chlumu-a-kosumberka",
+   "owner_wiki": "Slavatové z Chlumu a Košumberka",
+   "person": "Anežka z Chlumu a Košumberka",
+   "from": 1490,
+   "to": 1500,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "rok 1490 podle cs.wiki; v roce 1500 postoupila panství synovi Jindřichovi Šťastnému z Valdštejna"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Jindřich Šťastný z Valdštejna",
+   "from": 1500,
+   "to": 1537,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "pozdně gotické a raně renesanční úpravy hradu"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Vilém z Valdštejna",
+   "from": 1537,
+   "to": 1547,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "za účast v protihabsburském odboji 1546-1547 panství zkonfiskováno (hrady.cz)"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1547,
+   "to": 1555,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "konfiskace",
+   "note": "Vilém dostal panství zpět jen jako manství, po jeho smrti 1552 připadlo komoře; poté zástavy (Kryštof Jandert z Vrchlabí 1550, Marie Jansovská ze Soutic)"
+  },
+  {
+   "owner": "berkove-z-dube",
+   "owner_wiki": "Berkové z Dubé",
+   "person": "Zdeněk Berka z Dubé a Lipé",
+   "from": 1555,
+   "to": 1572,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "1555 zástava, 1558 koupě celého panství od krále Ferdinanda I."
+  },
+  {
+   "owner": "berkove-z-dube",
+   "owner_wiki": "Berkové z Dubé",
+   "person": "Václav starší Berka z Dubé a Lipé",
+   "from": 1572,
+   "to": 1600,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi"
+  },
+  {
+   "owner": "berkove-z-dube",
+   "owner_wiki": "Berkové z Dubé",
+   "person": "Lev Burián Berka z Dubé a Lipé",
+   "from": 1600,
+   "to": 1625,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "rozšířil panství, 1623 hrabě a zřízen fideikomis"
+  },
+  {
+   "owner": "berkove-z-dube",
+   "owner_wiki": "Berkové z Dubé",
+   "person": "Matyáš Ferdinand Berka (do 1636 regentka matka)",
+   "from": 1625,
+   "to": 1644,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "zemřel bez dědiců"
+  },
+  {
+   "owner": "berkove-z-dube",
+   "owner_wiki": "Berkové z Dubé",
+   "person": "Bohuslav Ferdinand Berka",
+   "from": 1650,
+   "to": 1659,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "kdo držel panství 1644-1650 cs.wiki neuvádí; smrtí 1659 vymřela linie po meči"
+  },
+  {
+   "owner": "berkove-z-dube",
+   "owner_wiki": "Berkové z Dubé",
+   "person": "Františka Božena Rosálie Berková",
+   "from": 1659,
+   "to": 1670,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "správcem jmenovala Františka z Jansdorfu"
+  },
+  {
+   "owner": "berkove-z-dube",
+   "owner_wiki": "Berkové z Dubé",
+   "person": "František Antonín Berka (jablonská větev)",
+   "from": 1670,
+   "to": 1706,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "hrady.cz uvádí převzetí fideikomisu 1669; zemřel bezdětný, rod v Čechách vymřel; po roce 1669 dostavěno západní křídlo"
+  },
+  {
+   "owner": "berkove-z-dube",
+   "owner_wiki": "Berkové z Dubé",
+   "person": "Františka Rosálie Berková, provdaná Kinská",
+   "from": 1706,
+   "to": 1714,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "sestřenice posledního Berky"
+  },
+  {
+   "owner": "bruntalsti-z-vrbna",
+   "owner_wiki": "Bruntálští z Vrbna",
+   "person": "Václav Albrecht Bruntálský z Vrbna",
+   "from": 1714,
+   "to": 1718,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "nevlastní bratr Františky Rosálie; 1718 panství prodal"
+  },
+  {
+   "owner": "kinsti",
+   "owner_wiki": "Kinští",
+   "person": "Václav Norbert Oktavián Kinský",
+   "from": 1718,
+   "to": 1719,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe"
+  },
+  {
+   "owner": "kinsti",
+   "owner_wiki": "Kinští",
+   "person": "Štěpán Vilém Kinský",
+   "from": 1719,
+   "to": 1749,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "choceňská linie; za Kinských hrad pustl"
+  },
+  {
+   "owner": "kinsti",
+   "owner_wiki": "Kinští",
+   "person": "František Josef Kinský",
+   "from": 1749,
+   "to": 1752,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi"
+  },
+  {
+   "owner": "kinsti",
+   "owner_wiki": "Kinští",
+   "person": "Marie Augusta Kinská",
+   "from": 1752,
+   "to": 1753,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "zemřela ve 12 letech"
+  },
+  {
+   "owner": "kinsti",
+   "owner_wiki": "Kinští",
+   "person": "Filip Kinský (chlumecká větev)",
+   "from": 1753,
+   "to": 1823,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "cs.wiki uvádí převzetí 1753, hrady.cz a turistika.cz 1763; hrad opravoval v letech 1793-1798; 1823 prodal Thurn-Taxisům"
+  },
+  {
+   "owner": "thurn-taxisove",
+   "owner_wiki": "Thurn-Taxisové",
+   "person": "Karel Alexandr z Thurn-Taxisu",
+   "from": 1823,
+   "to": 1827,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil spolu s Chroustovicemi, 1826 přikoupen Košumberk"
+  },
+  {
+   "owner": "thurn-taxisove",
+   "owner_wiki": "Thurn-Taxisové",
+   "person": "Maxmilián Karel z Thurn-Taxisu",
+   "from": 1827,
+   "to": 1871,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi"
+  },
+  {
+   "owner": "thurn-taxisove",
+   "owner_wiki": "Thurn-Taxisové",
+   "person": "Maria Karel a Albert Maria z Thurn-Taxisu",
+   "from": 1871,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "sídlili v Řezně; 1919 vnucená správa, hrad zestátněn 1945"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "znárodněn velkostatek i hrad; po 1945 státní lesní správa, 1952-2007 domov důchodců (mistopisy.cz); rok převodu na Pardubický kraj zdroje neuvádějí; dnešní vlastník Pardubický kraj"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "Pardubický kraj",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "dnešní vlastník dle cs.wiki; rok převodu zdroje neuvádějí"
+  }
  ],
  "events": [
-  {"year": 1305, "text": "založení hradu Tasem z Mrdic"},
-  {"year": 1425, "text": "hrad se vzdal husitům po upálení podlažického opata v Lažanech"},
-  {"year": 1555, "text": "hrad získávají do zástavy a od roku 1558 do vlastnictví Berkové z Dubé a Lipé"},
-  {"year": 1623, "text": "Lev Burián Berka povýšen do hraběcího stavu, zřízen rodový fideikomis"},
-  {"year": 1718, "text": "panství kupuje Václav Norbert Oktavián Kinský"},
-  {"year": 1823, "text": "Filip Kinský prodává panství Thurn-Taxisům"},
-  {"year": 1945, "text": "velkostatek i hrad znárodněny, zřízen domov pro staré občany"},
-  {"year": 2021, "text": "hrad po 70 letech znovu otevřen veřejnosti"}
+  {
+   "year": 1349,
+   "text": "Beneš z Vartenberka doložen jako majitel hradu"
+  },
+  {
+   "year": 1425,
+   "text": "hrad dobyli východočeští sirotci, posádce velel Jiří Kroměšín"
+  },
+  {
+   "year": 1500,
+   "text": "panství získal Jindřich Šťastný z Valdštejna, následují pozdně gotické a renesanční úpravy"
+  },
+  {
+   "year": 1558,
+   "text": "Zdeněk Berka z Dubé koupil celé rychmburské panství"
+  },
+  {
+   "year": 1623,
+   "text": "Lev Burián Berka povýšen do hraběcího stavu, zřízen fideikomis"
+  },
+  {
+   "year": 1718,
+   "text": "panství koupil Václav Norbert Oktavián Kinský"
+  },
+  {
+   "year": 1823,
+   "text": "Filip Kinský prodal panství Thurn-Taxisům"
+  },
+  {
+   "year": 1945,
+   "text": "hrad znárodněn, od 1952 domov důchodců"
+  },
+  {
+   "year": 2021,
+   "text": "po sedmdesáti letech zpřístupněn veřejnosti"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Rychmburk"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Rychmburk",
+  "https://rychmburk.cz/cs/o-hradu-a-pivovaru/historie",
+  "https://www.hrady.cz/hrad-rychmburk",
+  "https://www.mistopisy.cz/pruvodce/body-zajmu/420/hrad-rychmburk/",
+  "https://www.turistika.cz/mista/rychmburk/detail"
+ ]
 }

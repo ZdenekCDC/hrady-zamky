@@ -1,30 +1,33 @@
 {
  "id": "Q1013464",
  "name": "Pecka",
- "founded": {"year": null, "approx": false, "text": "zřícenina hradu ze 14. století; přesný rok založení ani jméno zakladatele cs.wiki neuvádí, prvním zaznamenaným pánem byl Budivoj z Pecky"},
- "summary": "Hrad Pecka pochází ze 14. století a jeho prvním zaznamenaným pánem byl Budivoj z Pecky; po něm se v držení vystřídala řada často blíže neznámých pánů, mimo jiné Jarek z Železnice, páni z Rožmitálu a Mikuláš Hořický z Hořic, hofmistr krále Jiřího z Poděbrad. Od Jindřicha Škopka z Bílých Otradovic, za nějž se hrad výrazně rozšířil, přešlo panství na jeho syny a sňatkem na Kryštofa Haranta z Polžic a Bezdružic, který byl roku 1621 na hradě zajat a poté popraven. Pecka pak připadla Albrechtu z Valdštejna, jenž ji roku 1627 daroval kartuziánskému řádu; po požáru roku 1830 zůstala hrad zříceninou a ve 40. letech 20. století byl upraven pro muzejní účely.",
+ "founded": {
+  "year": 1322,
+  "approx": false,
+  "text": "první písemná zmínka o hradu je z roku 1322, kdy je jeho majitelem Budivoj (Buzek) z Pecky; zakladatele ani přesný rok vzniku zdroje neuvádějí (obecní web Pecka jej připisuje pánům ze Železnice)"
+ },
+ "summary": "Hrad Pecka vznikl na počátku 14. století (první zmínka 1322) a po středověkých majitelích jej od konce 15. století rozšiřovali Hořičtí z Hořic a Škopkové z Bílých Otradovic; renesanční přestavbu dokončil Kryštof Harant z Polžic a Bezdružic, popravený roku 1621. Albrecht z Valdštejna hrad daroval kartuziánům, po nich ho 1824 koupili Trauttmansdorffové. Po požáru roku 1830 zchátral a od roku 1921 patří obci (dnes městysi Pecka), která opravila Harantův palác.",
  "owners": [
   {
    "owner": "z-pecky",
    "owner_wiki": null,
    "person": "Budivoj z Pecky",
-   "from": null,
+   "from": 1322,
    "to": null,
    "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "první zaznamenaný pán hradu; přesné roky držby cs.wiki neuvádí"
+   "how": "zalozeni",
+   "note": "první zaznamenaný pán hradu; zdroj obce uvádí hrad jako založený pány ze Železnice"
   },
   {
    "owner": "z-pecky",
    "owner_wiki": null,
-   "person": "tři bratři, nakonec Jan Pecka",
+   "person": "tři bratři z Pecky, nakonec Jan Pecka",
    "from": null,
    "to": null,
    "from_approx": false,
    "to_approx": false,
-   "how": "dedictvi",
-   "note": "hrad drželi společně tři bratři, po rozdělení jej nakonec dostal Jan Pecka"
+   "how": "dedictvi"
   },
   {
    "owner": "z-zeleznice",
@@ -35,7 +38,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "první cizí (nepecký) majitel, přidal k panství několik kostelů; jako katolík byl obléhán sirotky, po dohodě se přidal na jejich stranu a směl zůstat pánem; rok nato zemřel"
+   "note": "přidal k Pecce několik kostelů; po jeho smrti hrad připadl synovi Vaňkovi"
   },
   {
    "owner": "z-pecky",
@@ -46,7 +49,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "syn Jarka z Železnice, přidal k panství město Semily"
+   "note": "přidal ke hradu Semily"
   },
   {
    "owner": "soukromnik",
@@ -57,7 +60,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "krátce pánem na Pecce, nečekaně zemřel"
+   "note": "nečekaně zemřel; hrad poté získal Lev z Rožmitálu"
   },
   {
    "owner": "pani-z-rozmitalu",
@@ -67,8 +70,7 @@
    "to": null,
    "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "stal se pánem po nečekané smrti Protivy; hrad prodal Mikuláši Hořickému z Hořic"
+   "how": "neznamo"
   },
   {
    "owner": "z-horic",
@@ -79,18 +81,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "hofmistr krále Jiřího z Poděbrad a později nejvyšší písař, horlivě chránil jednotu bratrskou"
-  },
-  {
-   "owner": "neznamo",
-   "owner_wiki": null,
-   "person": null,
-   "from": null,
-   "to": null,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "neznamo",
-   "note": "během asi 20 let se v držení hradu vystřídalo 8 pánů, panství se rozšiřovalo; jména cs.wiki neuvádí"
+   "note": "hofmistr krále Jiřího; za Hořických gotické rozšiřování hradu od konce 15. stol."
   },
   {
    "owner": "z-bilych-otradovic",
@@ -101,7 +92,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "za jeho držení se hrad výrazně rozšířil"
+   "note": "cs.wiki: mezi Hořickým a Škopkem se v držení vystřídalo 8 pánů; hrad za něj hodně rozšířen; renesanční přestavba od 2. poloviny 16. stol."
   },
   {
    "owner": "z-bilych-otradovic",
@@ -112,7 +103,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "synové Jindřicha, panství mezi ně rozděleno; mezitím hrad zasáhl požár, poté byl opraven a rozšířen; Adam roku 1612 prodal svůj díl třetí manželce Kryštofa Haranta"
+   "note": "hrad rozdělen mezi syny Jindřicha; Karlova vdova Barbora se provdala za Kryštofa Haranta"
   },
   {
    "owner": "harantove-z-polzic-a-bezdruzic",
@@ -123,7 +114,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "snatek",
-   "note": "pánem se stal sňatkem s Barborou, vdovou po Karlu Škopkovi; roku 1612 koupil i díl Adama Škopka pro svou (třetí) manželku; ovládal několik jazyků, psal cestopisy a sloužil Rudolfu II., z katolictví přešel k víře podobojí; roku 1621 jej na hradě zajalo vojsko Albrechta z Valdštejna, v Praze obviněn z účasti na obléhání Vídně a popraven na Staroměstském náměstí"
+   "note": "1612 koupil Adamův díl; dokončil renesanční přestavbu; 1621 zajat Valdštejnovým vojskem a popraven"
   },
   {
    "owner": "valdstejnove",
@@ -134,36 +125,91 @@
    "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "hrad připadl Valdštejnovi po Harantově zatčení a popravě; roku 1627 jej daroval kartuziánskému řádu"
+   "note": "hrad daroval kartuziánům"
   },
   {
    "owner": "cirkev",
    "owner_wiki": null,
-   "person": "Kartuziánský řád",
+   "person": "Kartuziánský řád (kartouza Valdice)",
    "from": 1627,
-   "to": 1945,
+   "to": 1782,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "dar",
-   "note": "roku 1830 hrad při požáru městečka celý vyhořel, zůstaly jen dvě obydlené světnice; konec církevní držby cs.wiki neuvádí přesně, odhadnuto podle poválečné doby oprav"
+   "note": "dar 1627 (cs.wiki), 1626 (obecní web); využívali jako letní sídlo; odešli roku 1782"
   },
   {
    "owner": "stat",
    "owner_wiki": null,
-   "person": null,
-   "from": 1945,
-   "to": null,
-   "from_approx": true,
+   "person": "náboženský fond",
+   "from": 1782,
+   "to": 1824,
+   "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "hrad opraven a ve 40. letech 20. století upraven pro muzejní účely; přesný rok a způsob přechodu do majetku státu cs.wiki neuvádí"
+   "how": "jine",
+   "note": "po odchodu kartuziánů zůstal v majetku náboženského (pozemkového) fondu"
+  },
+  {
+   "owner": "trauttmansdorffove",
+   "owner_wiki": "Trauttmansdorffové",
+   "person": "hrabě Trauttmansdorff",
+   "from": 1824,
+   "to": 1921,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "1830 zámek vyhořel a postupně se rozebíral až do roku 1921"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "obec (dnes městys) Pecka",
+   "from": 1921,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "současný vlastník; opravila západní Harantovský palác, hrad slouží jako turistický objekt od roku 1968"
   }
  ],
  "events": [
-  {"year": 1612, "text": "Adam Škopek z Bílých Otradovic prodal svůj díl Pecky třetí manželce Kryštofa Haranta"},
-  {"year": 1621, "text": "Kryštof Harant z Polžic a Bezdružic zajat na hradě vojskem Albrechta z Valdštejna a poté popraven"},
-  {"year": 1627, "text": "Albrecht z Valdštejna daroval hrad kartuziánskému řádu"},
-  {"year": 1830, "text": "hrad zcela vyhořel při požáru městečka"}
+  {
+   "year": 1322,
+   "text": "první písemná zmínka, majitelem Budivoj z Pecky"
+  },
+  {
+   "year": 1612,
+   "text": "Adam Škopek prodal svůj díl Pecky třetí manželce Kryštofa Haranta"
+  },
+  {
+   "year": 1621,
+   "text": "Kryštof Harant zajat na hradě a poté popraven; hrad získal Albrecht z Valdštejna"
+  },
+  {
+   "year": 1627,
+   "text": "hrad daroval Valdštejn kartuziánům"
+  },
+  {
+   "year": 1824,
+   "text": "hrad koupil hrabě Trauttmansdorff"
+  },
+  {
+   "year": 1830,
+   "text": "hrad zcela vyhořel při požáru městečka"
+  },
+  {
+   "year": 1921,
+   "text": "ruiny získala obec Pecka"
+  },
+  {
+   "year": 1968,
+   "text": "po opravě Harantova paláce zpřístupněn veřejnosti"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Pecka_(hrad)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Pecka_(hrad)",
+  "https://www.hradpecka.cz/cs/o-hradu/dejiny-hradu/",
+  "https://www.mestys-pecka.cz/mestys-1/historie/",
+  "http://www.bucweb.cz/zahistorii/2021/06/06/hrad-pecka/"
+ ]
 }

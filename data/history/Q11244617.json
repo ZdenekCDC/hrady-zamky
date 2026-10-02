@@ -2,44 +2,66 @@
  "id": "Q11244617",
  "name": "Brandýs nad Labem",
  "founded": {
-  "year": 1468,
+  "year": 1304,
   "approx": false,
-  "text": "Zdejší brod přes Labe byl v raném středověku nejprve opatřen strážištěm a později tvrzí (datum ani vlastník nejsou v článku uvedeny); v letech 1468-1493 ji Jan Tovačovský z Cimburka přestavěl na hrad a přesunul sem správní centrum svého panství."
+  "text": "Hrádek je zmíněn 1290, první údaj o Brandýsu 1304; první písemně doložený držitel hradu Jan Správný z Michalovic 1354; pozdně gotickou přestavbu provedli Cimburkové, od 1540 renesanční přestavbu zahájil Matteo Borgorelli."
  },
- "summary": "Hrad v Brandýse nad Labem vznikl přestavbou starší tvrze, kterou v letech 1468-1493 provedl Jan Tovačovský z Cimburka; pozdně gotické úpravy pokračovaly za jeho vdovy a jejího druhého manžela Jana ze Šelmberka a za syna Konráda Krajíře z Krajku, jemuž bylo panství roku 1547 zkonfiskováno za účast na stavovském povstání proti Ferdinandovi I. Od roku 1547 do roku 1860 byl zámek majetkem královské komory a příležitostným sídlem Habsburků (Ferdinand I., Maxmilián II., Rudolf II.), kteří jej přestavěli na renesanční sídlo; od roku 1860 jej vlastnila přímo lotrinská větev Habsburků a v letech 1917-1919 poslední český král Karel I. Po vzniku Československa připadl zámek jako konfiskát státu, roku 1995 jej získalo město Brandýs nad Labem-Stará Boleslav a zpřístupnilo veřejnosti.",
+ "summary": "Brandýs nad Labem vznikl jako hrádek u brodu přes Labe; první doložený držitel Jan Správný z Michalovic (1354) a po vymření Michaloviců 1467 panství sňatkem přešlo na Cimburky. Přes Krajíře z Krajku se hrad stal po konfiskaci roku 1547 majetkem královské komory, za Ferdinanda I. a Rudolfa II. byl přestavěn na renesanční lovecké sídlo habsburských panovníků. Od 1860 patřil toskánské větvi Habsburků, 1917 jej koupil Karel I.; po 1918 ho převzal stát a roku 1995 jej bezplatně získalo město.",
  "owners": [
+  {
+   "owner": "pani-z-michalovic",
+   "owner_wiki": "Páni z Michalovic",
+   "person": "Jan Správný z Michalovic",
+   "from": 1354,
+   "to": 1467,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "první písemně zmíněný držitel hradu 1354; rod vymřel po meči, počátek držby před 1354 není doložen"
+  },
   {
    "owner": "pani-z-cimburka",
    "owner_wiki": "Páni z Cimburka",
-   "person": "Jan Tovačovský z Cimburka",
-   "from": 1468,
-   "to": 1493,
+   "person": "Jaroš Tovačovský z Cimburka, poté Jan Tovačovský z Cimburka",
+   "from": 1467,
+   "to": 1483,
    "from_approx": false,
-   "to_approx": true,
-   "how": "zalozeni",
-   "note": "přestavěl starší tvrz na hrad a přesunul sem správní centrum panství; rok konce jeho držby není uveden přesně, odvozen z data druhého sňatku vdovy"
-  },
-  {
-   "owner": "selmberkove",
-   "owner_wiki": "Šelmberkové",
-   "person": "Jan ze Šelmberka",
-   "from": 1493,
-   "to": null,
-   "from_approx": true,
-   "to_approx": true,
+   "to_approx": false,
    "how": "snatek",
-   "note": "oženil se s vdovou po Janu Tovačovském, Johankou z Krajku; pozdně gotické úpravy hradu pokračovaly"
+   "note": "brandyszamek.cz: Magdalena z Michalovic, sestra posledního Michalovice, byla vdána za Jaroše Tovačovského, který hrad přestavěl v pozdně gotické sídlo; cs.wiki uvádí držbu Jana Tovačovského 1468-1493 a že hrad přestavěl na správní centrum panství (rozpor v letech 1483/1493 a v osobě)"
   },
   {
    "owner": "krajirove-z-krajku",
    "owner_wiki": "Krajířové z Krajku",
-   "person": "Konrád Krajíř z Krajku",
-   "from": null,
-   "to": 1547,
-   "from_approx": true,
+   "person": "Johanka Krajířová z Krajku (vdova po Janu Tovačovském, podruhé provdaná za Jana ze Šelmberka)",
+   "from": 1483,
+   "to": 1512,
+   "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "syn Johanky z Krajku z prvního manželství, horlivý přívrženec jednoty bratrské; pokračoval v přeměně sídla na renesanční zámek (stavitelé Matteo Borgorelli a Ettore Vaccani); za účast na stavovském povstání proti Ferdinandovi I. mu bylo panství roku 1547 zkonfiskováno"
+   "note": "zdědila Brandýs 1483; druhý manžel Jan ze Šelmberka dokončil severozápadní palác a zemřel 1508, Johanka panství uhájila proti Albrechtovi Libštejnskému z Kolovrat; 1512 předala správu bratru Kunrátovi"
+  },
+  {
+   "owner": "krajirove-z-krajku",
+   "owner_wiki": "Krajířové z Krajku",
+   "person": "Kunrát Krajíř z Krajku",
+   "from": 1512,
+   "to": 1542,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "bratr Johanky; hostil Ferdinanda I., který 1537 marně žádal zemský sněm o koupi zámku"
+  },
+  {
+   "owner": "krajirove-z-krajku",
+   "owner_wiki": "Krajířové z Krajku",
+   "person": "Arnošt Krajíř z Krajku",
+   "from": 1542,
+   "to": 1547,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "syn Kunráta; rozšiřoval severní a východní křídlo (cs.wiki jako zkonfiskovaného uvádí Konráda Krajíře, brandyszamek.cz Arnošta); 18. 8. 1547 propadl zámek komoře za účast ve stavovském povstání"
   },
   {
    "owner": "koruna",
@@ -50,29 +72,18 @@
    "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "majetek královské komory, příležitostné venkovské sídlo Habsburků; renesanční přestavba pokračovala 1547-1572, sgrafitová výzdoba a zahrady za Rudolfa II. (architekt Giovanni Gargiolli), od 1732 barokní a novogotické úpravy"
+   "note": "majetek královské komory a lovecké sídlo panovníků; renesanční přestavba 1547-1572 (Borgorelli), rudolfínské zahrady od 1586"
   },
   {
    "owner": "habsburkove",
    "owner_wiki": "Habsburkové",
-   "person": "Leopold II. Toskánský",
+   "person": "Leopold II. Toskánský, poté Ludvík Salvátor Toskánský",
    "from": 1860,
-   "to": null,
-   "from_approx": false,
-   "to_approx": true,
-   "how": "neznamo",
-   "note": "z lotrinské (toskánské) větve Habsburků; způsob přechodu z komorního majetku do osobního vlastnictví není v článku popsán"
-  },
-  {
-   "owner": "habsburkove",
-   "owner_wiki": "Habsburkové",
-   "person": "Ludvík Salvátor Toskánský",
-   "from": null,
    "to": 1915,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
-   "how": "dedictvi",
-   "note": "syn Leopolda II.; zemřel 1915, univerzálním dědicem učinil svého komorníka Antonia Vivese y Colom"
+   "how": "neznamo",
+   "note": "lotrinská (toskánská) větev; Ludvík Salvátor zemřel 1915 na zámku"
   },
   {
    "owner": "soukromnik",
@@ -83,51 +94,79 @@
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "komorník Ludvíka Salvátora a jeho univerzální dědic; roku 1917 zámek a panství prodal arcivévodovi (již císaři) Karlovi I. za osm milionů rakouských korun"
+   "note": "komorník a univerzální dědic Ludvíka Salvátora"
   },
   {
    "owner": "habsburkove",
    "owner_wiki": "Habsburkové",
    "person": "Karel I.",
    "from": 1917,
-   "to": 1919,
+   "to": 1918,
    "from_approx": false,
-   "to_approx": false,
+   "to_approx": true,
    "how": "koupe",
-   "note": "poslední rakouský císař a český král, od mládí v Brandýse často pobýval, sloužil v místním dragounském pluku; nákladně zámek rekonstruoval"
+   "note": "koupil za osm milionů korun; roku 1918 byl zámek jako habsburský majetek vyvlastněn, de iure zákonem 354/1921 (cs.wiki uvádí 1919)"
   },
   {
    "owner": "stat",
    "owner_wiki": null,
    "person": null,
-   "from": 1919,
+   "from": 1918,
    "to": 1995,
    "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "převzato jako konfiskát habsburského majetku po vzniku Československa; uvažovalo se o letním sídle prezidenta, upřednostněny byly Lány, zámek dostala do užívání státní správa lesů"
+   "note": "1919 předán do užívání státní správě lesů (kanceláře, byty); plán letního sídla prezidenta nerealizován"
   },
   {
    "owner": "mesto",
    "owner_wiki": null,
-   "person": null,
+   "person": "město Brandýs nad Labem-Stará Boleslav",
    "from": 1995,
    "to": null,
    "from_approx": false,
    "to_approx": false,
    "how": "dar",
-   "note": "zámek získalo do majetku město Brandýs nad Labem-Stará Boleslav a zahájilo celkovou rekonstrukci pro zpřístupnění veřejnosti"
+   "note": "bezplatný převod ze státu; rekonstrukce a zpřístupnění, 2017 národní kulturní památka"
   }
  ],
  "events": [
-  {"year": 1468, "text": "Jan Tovačovský z Cimburka přestavěl tvrz na hrad a přesunul sem správní centrum panství"},
-  {"year": 1547, "text": "Konrádu Krajíři z Krajku zkonfiskováno panství za účast na stavovském povstání proti Ferdinandovi I."},
-  {"year": 1580, "text": "za Rudolfa II. proběhla zásadní renesanční přestavba podle plánů Giovanniho Gargiolliho, vznikly terasové zahrady"},
-  {"year": 1813, "text": "na zámku se sešli tři panovníci - František I., Fridrich Vilém III. a Alexandr I. - k přípravě úderu proti Napoleonovi"},
-  {"year": 1873, "text": "novogotická přestavba severozápadní věže"},
-  {"year": 1917, "text": "Karel I. odkoupil zámek a panství od dědice Ludvíka Salvátora za osm milionů rakouských korun"},
-  {"year": 1919, "text": "zámek převzal jako konfiskát habsburského majetku československý stát"},
-  {"year": 1995, "text": "zámek získalo do majetku město a zahájilo jeho rekonstrukci"}
+  {
+   "year": 1354,
+   "text": "Jan Správný z Michalovic poprvé písemně zmíněn jako držitel hradu"
+  },
+  {
+   "year": 1467,
+   "text": "po vymření Michaloviců přešel Brandýs sňatkem na Cimburky, kteří hrad pozdně goticky přestavěli"
+  },
+  {
+   "year": 1547,
+   "text": "zámek propadl královské komoře za účast Krajířů ze Krajku ve stavovském povstání"
+  },
+  {
+   "year": 1586,
+   "text": "za Rudolfa II. vznikají rudolfínské zahrady (Gargiolli, Vaccani)"
+  },
+  {
+   "year": 1860,
+   "text": "zámek přechází do vlastnictví lotrinské větve Habsburků"
+  },
+  {
+   "year": 1917,
+   "text": "císař Karel I. koupil zámek od dědice Ludvíka Salvátora"
+  },
+  {
+   "year": 1918,
+   "text": "zámek vyvlastněn jako habsburský majetek ve prospěch československého státu"
+  },
+  {
+   "year": 1995,
+   "text": "zámek bezplatně převeden na město a zahájena rekonstrukce"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Brandýs_nad_Labem_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Brandýs_nad_Labem_(zámek)",
+  "https://www.brandyszamek.cz/zamek-v-datech/d-1032",
+  "https://brandyszamek.cz/strucna%2Dhistorie/d-1031/p1=1050"
+ ]
 }

@@ -1,30 +1,180 @@
 {
  "id": "Q1011076",
  "name": "Blansko",
- "founded": {"year": 1401, "approx": false, "text": "Oblast na kopci byla pravděpodobně osídlena už ve 2. polovině 13. století, první písemná zmínka o hradu pochází z roku 1401."},
- "summary": "Zřícenina hradu Blansko (Blankenstein) u Ústí nad Labem byla po většinu své historie v držení Vartenberků, kteří ji drželi s přestávkami od počátku 15. do počátku 16. století. Roku 1527 hrad koupil Jindřich z Bünau, po němž jej roku 1628 získali Thunové a připojili ke krásnobřezenskému panství, čímž hrad ztratil význam a zpustl. Na počátku 21. století byl hrad v majetku státního podniku Lesy ČR, od kterého jej získala obec Ryjice a zabezpečuje dochované zdivo.",
+ "founded": {
+  "year": 1400,
+  "approx": true,
+  "text": "Hrad nechali postavit Vartenberkové kolem roku 1400 (první písemná zmínka 1401); oblast byla možná osídlena už ve 2. polovině 13. století."
+ },
+ "summary": "Zřícenina hradu Blansko (Blankenstein) u Ústí nad Labem vznikla kolem roku 1400 a po většinu své historie ji drželi Vartenberkové, přerušovaně králové a míšeňská posádka. Roku 1527 hrad koupil Jindřich z Bünau, od něhož jej roku 1628 získali Thunové a připojili ke krásnobřezenskému panství, čímž hrad ztratil význam a zpustl. Později patřil Lesům ČR a zhruba od roku 2007 jej vlastní obec Ryjice, která zabezpečuje zdivo.",
  "owners": [
-  {"owner": "vartenberkove", "owner_wiki": "Vartenberkové", "person": "Václav z Vartenberka", "from": 1401, "to": 1407, "from_approx": false, "to_approx": true, "how": "neznamo", "note": "první doložený majitel; stoupenec Zikmunda Lucemburského, roku 1402 mu hrad dobylo vojsko přívrženců Václava IV., týž rok jej ale získal zpět; zemřel pravděpodobně 1407"},
-  {"owner": "neznamo", "owner_wiki": null, "person": null, "from": 1407, "to": 1416, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "wiki uvádí, že další majitelé nejsou známi, zřejmě šlo o odpůrce Václava IV."},
-  {"owner": "koruna", "owner_wiki": null, "person": "Mikuláš Chudý z Újezda (velitel královského vojska)", "from": 1416, "to": 1417, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "hrad dobyt královským vojskem"},
-  {"owner": "z-zverince", "owner_wiki": null, "person": "Bohuš ze Zvěřince", "from": 1417, "to": 1421, "from_approx": false, "to_approx": false, "how": "lenni", "note": "král (wiki uvádí jméno 'Vrabinec', patrně chyba/zkomolení) hrad zastavil Bohuši ze Zvěřince"},
-  {"owner": "z-landsberka", "owner_wiki": null, "person": "Albrecht Šenk z Landsberka", "from": 1421, "to": 1421, "from_approx": false, "to_approx": true, "how": "lenni", "note": "hrad obratem přenechal míšeňským vévodům"},
-  {"owner": "wettinove", "owner_wiki": "Wettinové", "person": "míšeňští vévodové (posádka)", "from": 1421, "to": 1426, "from_approx": true, "to_approx": false, "how": "jine", "note": "hrad ovládala saská (míšeňská) posádka"},
-  {"owner": "vartenberkove", "owner_wiki": "Vartenberkové", "person": "Zikmund Děčínský z Vartenberka, poté Jan z Vartenberka", "from": 1426, "to": 1527, "from_approx": false, "to_approx": false, "how": "jine", "note": "Zikmund Děčínský se zmocnil hradu po přechodu na stranu husitů; roku 1441 hrad (v držení Jana z Vartenberka) neúspěšně obléhalo saské a lužické vojsko"},
-  {"owner": "rytiri-z-bunau", "owner_wiki": "Rytíři z Bünau", "person": "Jindřich z Bünau, poté Günter z Bünau", "from": 1527, "to": 1628, "from_approx": false, "to_approx": false, "how": "koupe", "note": "na hradě žil jen hejtman s posádkou; po roce 1585 renesanční úprava opevnění, počátkem 17. stol. sloužil jako vězení"},
-  {"owner": "thun-hohensteinove", "owner_wiki": "Thun-Hohensteinové", "person": "Kryštof Šimon z Thunu", "from": 1628, "to": null, "from_approx": false, "to_approx": true, "how": "koupe", "note": "hrad připojen ke krásnobřezenskému panství a zpustl; wiki dále neuvádí, dokdy zůstal v majetku rodu"},
-  {"owner": "stat", "owner_wiki": null, "person": "Lesy ČR", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "na počátku 21. století byl hrad v majetku státního podniku Lesy ČR; přesný rok přechodu od Thunů zdroj neuvádí"},
-  {"owner": "mesto", "owner_wiki": null, "person": "obec Ryjice", "from": null, "to": null, "from_approx": true, "to_approx": false, "how": "koupe", "note": "obec získala zříceninu od Lesů ČR, probíhá zabezpečení dochovaného zdiva (mělo být dokončeno do roku 2020)"}
+  {
+   "owner": "vartenberkove",
+   "owner_wiki": "Vartenberkové",
+   "person": "Václav z Vartenberka",
+   "from": 1400,
+   "to": 1407,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "zalozeni",
+   "note": "první známý majitel, stoupenec Zikmunda Lucemburského; 1402 hrad dobyli přívrženci Václava IV., Zikmund jej týž rok vrátil; 1405 dohoda s míšeňským markrabětem; zemřel pravděpodobně 1407"
+  },
+  {
+   "owner": "neznamo",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1407,
+   "to": 1416,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "další majitelé nejsou známi, zřejmě odpůrci Václava IV.; míšeňská posádka (Götz z Karrasu)"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Václav IV.",
+   "from": 1416,
+   "to": 1417,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "hrad dobyl vojsko vedené Mikulášem Chudým z Újezda (cs.wiki; Ústecký deník uvádí Mikuláše z Lobkovic)"
+  },
+  {
+   "owner": "z-zverince",
+   "owner_wiki": null,
+   "person": "Bohuš ze Zvěřince",
+   "from": 1417,
+   "to": 1420,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "Václav IV. (cs.wiki zkomoleně 'král Vrabinec') hrad zastavil; 1420 jej Bohuš vyměnil králi Zikmundovi za řepínský statek"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Zikmund Lucemburský",
+   "from": 1420,
+   "to": 1421,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "vymena"
+  },
+  {
+   "owner": "z-landsberka",
+   "owner_wiki": null,
+   "person": "Albrecht Šenk z Landsberka",
+   "from": 1421,
+   "to": 1424,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "lenni",
+   "note": "Zikmund mu hrad zapsal jako léno; Ústecký deník: 1424 jej zastavil saským knížatům"
+  },
+  {
+   "owner": "wettinove",
+   "owner_wiki": "Wettinové",
+   "person": "míšeňští vévodové (posádka)",
+   "from": 1424,
+   "to": 1426,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "cs.wiki uvádí, že Šenk hrad přenechal míšeňským vévodům již 1421; posádka držela hrad do porážky Sasů 16. 6. 1426 (bitva Na Běhání)"
+  },
+  {
+   "owner": "vartenberkove",
+   "owner_wiki": "Vartenberkové",
+   "person": "Zikmund Děčínský z Vartenberka, poté Jan z Vartenberka",
+   "from": 1426,
+   "to": 1527,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "Zikmund se zmocnil hradu lstí den po bitvě Na Běhání po přechodu k husitům; 1441 hrad neúspěšně oblehlo saské a lužické vojsko"
+  },
+  {
+   "owner": "rytiri-z-bunau",
+   "owner_wiki": "Rytíři z Bünau",
+   "person": "Jindřich z Bünau, poté Günter z Bünau",
+   "from": 1527,
+   "to": 1628,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "na hradě žil jen hejtman s posádkou; po 1585 renesanční úprava opevnění, počátkem 17. stol. vězení"
+  },
+  {
+   "owner": "thun-hohensteinove",
+   "owner_wiki": "Thun-Hohensteinové",
+   "person": "Kryštof Šimon z Thunu",
+   "from": 1628,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "hrad připojen ke krásnobřezenskému (děčínskému) panství a zpustl; konec držby rodu zdroje neuvádějí"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": "Lesy ČR",
+   "from": null,
+   "to": 2007,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "na počátku 21. stol. v majetku státního podniku Lesy ČR; rok přechodu od Thunů zdroje neuvádějí"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "obec Ryjice",
+   "from": 2007,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "obec získala zříceninu od Lesů ČR (podle Ústeckého deníku 2010 jí patřila 'už tři roky', tedy zhruba od 2007); zabezpečuje zdivo"
+  }
  ],
  "events": [
-  {"year": 1401, "text": "první písemná zmínka o hradu"},
-  {"year": 1402, "text": "hrad dobyt vojskem přívrženců Václava IV., Václav z Vartenberka jej týž rok získal zpět"},
-  {"year": 1416, "text": "hrad dobylo královské vojsko Mikuláše Chudého z Újezda"},
-  {"year": 1426, "text": "Zikmund Děčínský z Vartenberka se zmocnil hradu po přechodu na stranu husitů"},
-  {"year": 1527, "text": "hrad koupil Jindřich z Bünau"},
-  {"year": 1585, "text": "renesanční úprava opevnění"},
-  {"year": 1628, "text": "Günter z Bünau prodal hrad Kryštofu Šimonovi z Thunu, hrad připojen ke krásnobřezenskému panství a zpustl"},
-  {"year": 1931, "text": "na nejvyšším místě hradu postaven vyhlídkový objekt s turistickým přístřeškem"}
+  {
+   "year": 1401,
+   "text": "první písemná zmínka o hradu"
+  },
+  {
+   "year": 1402,
+   "text": "hrad dobyt přívrženci Václava IV., Zikmund jej týž rok vrátil Václavu z Vartenberka"
+  },
+  {
+   "year": 1416,
+   "text": "hrad dobylo královské vojsko"
+  },
+  {
+   "year": 1426,
+   "text": "Zikmund Děčínský z Vartenberka se po bitvě Na Běhání zmocnil hradu od saské posádky"
+  },
+  {
+   "year": 1527,
+   "text": "hrad koupil Jindřich z Bünau"
+  },
+  {
+   "year": 1628,
+   "text": "Günter z Bünau prodal hrad Kryštofu Šimonovi z Thunu, hrad zpustl"
+  },
+  {
+   "year": 1931,
+   "text": "na nejvyšším místě hradu postaven vyhlídkový objekt"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Blansko_(hrad)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Blansko_(hrad)",
+  "https://ustecky.denik.cz/zpravy-region/20120327-wv-blankenstein-strezil-branu-cech/",
+  "https://ustecky.denik.cz/zpravy-region/20101025wvzanikleustiblanskoryjice/",
+  "https://zaobzory.cz/misto/hrad-blansko/",
+  "https://isad.npu.cz/hrad-blansko-599"
+ ]
 }

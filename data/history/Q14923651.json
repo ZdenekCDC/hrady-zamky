@@ -94,7 +94,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "snatek",
-   "note": "získal zápisem od manželky Anny Marie Cetrysové; roku 1561 spolu s ní prodal Novou Horku"
+   "note": "získal zápisem od manželky Anny Marie Cetrysové (zemřela 1568); roku 1561 spolu s ní prodali Novou Horku Herbortům z Fulštejna"
   },
   {
    "owner": "z-fulstejna",
@@ -133,11 +133,11 @@
    "owner_wiki": "Sedlničtí z Choltic",
    "person": "Anna Kateřina Sedlnická z Choltic",
    "from": 1608,
-   "to": null,
+   "to": 1639,
    "from_approx": false,
    "to_approx": true,
    "how": "dedictvi",
-   "note": "dědička; zemřela před rokem 1639, kdy se lenního statku ujal její druhý manžel"
+   "note": "dědička po bezdětných bratrech (naposledy Bernard 1608); odkázala statek druhému manželovi Zdeňku Žampachovi z Potštejna a dětem z manželství s Janem Bruntálským mladším z Vrbna; rok její smrti zdroje neuvádějí, léna se manžel ujal 1639; muzeum uvádí, že statek přešel sňatkem na Žampachy a Bruntálské z Vrbna"
   },
   {
    "owner": "z-zampachu",
@@ -159,7 +159,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "snatek",
-   "note": "Althann jako vdovec po dědičce Anně Elišce Cecílii Bruntálské z Vrbna; po jeho smrti (1658) spravovala statek vdova jako poručnice nezletilého syna Michaela Františka Ferdinanda a roku 1660 jej prodala"
+   "note": "Althann jako vdovec po dědičce Anně Elišce Cecílii Bruntálské z Vrbna; rok jeho smrti se liší (cs.wiki 1658, muzeum 1650); poručníci nezletilého syna Michaela Františka Ferdinanda statek 1660 prodali"
   },
   {
    "owner": "vetterove-z-lilie",
@@ -202,7 +202,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "zahájil přestavbu tvrze na barokní zámek"
+   "note": "zahájil kolem 1742 přestavbu tvrze na barokní zámek (tzv. 'malá Vídeň'); zemřel 1792, zanechal dluhy"
   },
   {
    "owner": "vetterove-z-lilie",
@@ -213,7 +213,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "početné potomstvo přivedlo rod do dluhů, panství bylo dočasně sekvestrováno a pronajato baronovi de Baillou; konsolidoval je až Josefův vnuk Felix"
+   "note": "po smrti Karla Josefa (1792) synové Josef Karel (starší větev na Nové Horce; cs.wiki 1741-1827, muzeum 1741-1826) a Ferdinand; dluhy, sekvestrace, správa baronů Baillou z Hustopečí; konsolidoval až Josefův vnuk Felix"
   },
   {
    "owner": "vetterove-z-lilie",
@@ -235,7 +235,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "politik; zemřel v září 1945, zámek byl již předtím zabrán a zkonfiskován podle Benešových dekretů"
+   "note": "politik (1856-1945), zemřel krátce po válce v Retzu v Rakousku; zámek byl zestátněn (konfiskace podle Benešových dekretů)"
   },
   {
    "owner": "stat",
@@ -257,18 +257,46 @@
    "from_approx": false,
    "to_approx": false,
    "how": "jine",
-   "note": "zřizovatelem se stal Moravskoslezský kraj; od 2016 ve správě Muzea Novojičínska, p. o., od 2020 otevřeno veřejnosti"
+   "note": "zřizovatelem ústavu od 2003 Moravskoslezský kraj, zámek je v majetku kraje; od 2016 ve správě Muzea Novojičínska, p. o., od 2020 otevřeno veřejnosti"
   }
  ],
  "events": [
-  {"year": 1374, "text": "první zmínka o dvoru Nová Horka"},
-  {"year": 1561, "text": "první doložená zmínka tvrze na Nové Horce"},
-  {"year": 1660, "text": "Novou Horku kupují hrabata Vetterové z Lilie"},
-  {"year": 1742, "text": "Karel Josef Vetter z Lilie zahajuje přestavbu tvrze na barokní zámek"},
-  {"year": 1775, "text": "rozšířena kaple svatého Kříže"},
-  {"year": 1857, "text": "zámek vyhořel a byl rozsáhle přestavěn, mj. novogoticky upraveny rizality"},
-  {"year": 1945, "text": "zámek zkonfiskován podle Benešových dekretů, poté sloužil sociálním účelům"},
-  {"year": 2020, "text": "po rekonstrukci otevřen veřejnosti jako pobočka Muzea Novojičínska"}
+  {
+   "year": 1374,
+   "text": "první zmínka o dvoru Nová Horka"
+  },
+  {
+   "year": 1561,
+   "text": "první doložená zmínka tvrze na Nové Horce"
+  },
+  {
+   "year": 1660,
+   "text": "Novou Horku kupují hrabata Vetterové z Lilie"
+  },
+  {
+   "year": 1742,
+   "text": "Karel Josef Vetter z Lilie zahajuje přestavbu tvrze na barokní zámek (kolem 1742)"
+  },
+  {
+   "year": 1775,
+   "text": "zámecká kaple sv. Kříže založena/rozšířena (1775, olomoucký kanovník Antonín Vetter)"
+  },
+  {
+   "year": 1857,
+   "text": "zámek vyhořel a byl rozsáhle přestavěn, mj. novogoticky upraveny rizality"
+  },
+  {
+   "year": 1945,
+   "text": "zámek zkonfiskován podle Benešových dekretů, poté sloužil sociálním účelům"
+  },
+  {
+   "year": 2020,
+   "text": "po rekonstrukci otevřen veřejnosti jako pobočka Muzea Novojičínska"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Nová_Horka_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Nová_Horka_(zámek)",
+  "https://www.muzeumnj.cz/novahorka/cesta-zamkem/ve-znameni-lilie/rissky-rod-vetter-von-der-lilie",
+  "https://www.muzeumnovojicinska.cz/o-nas/marketing-a-pr/tiskove-zpravy/zamek-z-lilie"
+ ]
 }

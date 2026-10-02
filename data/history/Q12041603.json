@@ -1,31 +1,196 @@
 {
  "id": "Q12041603",
  "name": "Náměšť nad Oslavou",
- "founded": {"year": 1234, "approx": true, "text": "První zmínka o vsi Náměšti pochází z listiny z roku 1234 (dochované jako padělek z let 1267-1275); hrad zde drželi páni z Lomnice, přesný rok založení hradu cs.wiki neuvádí."},
- "summary": "Původně gotický hrad v Náměšti nad Oslavou patřil pánům z Lomnice, v letech 1399-1464 se vystřídali páni z Kravař a další zástavní držitelé, poté se vrátil Lomnickým. Sňatkem Libuše z Lomnice s Bedřichem ze Žerotína přešlo panství na Žerotíny, kteří hrad přestavěli na renesanční zámek; po Bílé hoře jej Karel starší ze Žerotína roku 1628 prodal Albrechtu z Valdštejna, po němž se vystřídali Verdové z Verdenberka, Enkenvoirtové a Kufštejnové. Od roku 1752 zámek s panstvím drželi Haugvicové z Biskupic, kteří jej proslavili hudebním životem, až do roku 1945, kdy připadl československému státu; roku 1949 byl zpřístupněn veřejnosti.",
+ "founded": {
+  "year": 1220,
+  "approx": true,
+  "text": "Hrad vznikl v údolí Oslavy podle zámku Náměšť kolem roku 1220; první zmínka o osídlení z roku 1234 (Budiš z Náměště z rodu pánů z Lomnice)."
+ },
+ "summary": "Gotický hrad vznikl kolem roku 1220 a prvními doloženými držiteli byli páni z Lomnice (1234). Po střídání majitelů v 15. století jej od roku 1563 držel rod Žerotínů, který hrad přestavěl na renesanční zámek a podporoval bratrskou tiskárnu v Kralicích. Po roce 1628 patřil Verdenberkům, od roku 1752 Haugvicům z Biskupic, kteří rozvinuli slavnou zámeckou hudební kapelu, a po roce 1945 je státním zámkem ve správě NPÚ.",
  "owners": [
-  {"owner": "pani-z-lomnice", "owner_wiki": "Páni z Lomnice", "person": "Budiš z Náměště a potomci", "from": 1234, "to": 1399, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "listina z roku 1234 (padělek z let 1267-1275) zmiňuje Budiše z Náměště z rodu pánů z Lomnice jako svědka"},
-  {"owner": "pani-z-kravar", "owner_wiki": "Páni z Kravař", "person": null, "from": 1399, "to": 1437, "from_approx": false, "to_approx": false, "how": "neznamo"},
-  {"owner": "z-skvirina", "owner_wiki": null, "person": "Matěj Švamberk ze Skviřína", "from": 1437, "to": 1448, "from_approx": false, "to_approx": false, "how": "neznamo"},
-  {"owner": "z-prus", "owner_wiki": null, "person": "Znata z Prus a z Melic", "from": 1448, "to": 1455, "from_approx": false, "to_approx": false, "how": "neznamo"},
-  {"owner": "pani-z-cimburka", "owner_wiki": "Páni z Cimburka", "person": "Ctibor Tovačovský z Cimburka", "from": 1455, "to": 1464, "from_approx": false, "to_approx": false, "how": "neznamo"},
-  {"owner": "pani-z-lomnice", "owner_wiki": "Páni z Lomnice", "person": null, "from": 1464, "to": null, "from_approx": false, "to_approx": true, "how": "jine", "note": "hrad se vrátil do rukou lomnických pánů, okolí pak do 70. let 15. stol. pustošila uherská vojska"},
-  {"owner": "zerotinove", "owner_wiki": "Žerotínové", "person": "Bedřich ze Žerotína a Libuše z Lomnice", "from": null, "to": 1628, "from_approx": true, "to_approx": false, "how": "snatek", "note": "sňatkem přešel majetek na Žerotíny, kteří hrad přestavěli na renesanční zámek a podpořili přesun bratrské tiskárny do Kralic; posledním držitelem byl Karel starší ze Žerotína"},
-  {"owner": "valdstejnove", "owner_wiki": "Valdštejnové", "person": "Albrecht z Valdštejna", "from": 1628, "to": null, "from_approx": false, "to_approx": true, "how": "koupe", "note": "Karel starší ze Žerotína byl po Bílé hoře nucen panství prodat; Valdštejn je záhy přenechal Janu Křtiteli Verdovi z Verdenberka"},
-  {"owner": "z-verdenberka", "owner_wiki": null, "person": "Jan Křtitel Verda z Verdenberka", "from": null, "to": 1733, "from_approx": true, "to_approx": false, "how": "dar", "note": "rodu patřilo panství až do roku 1733"},
-  {"owner": "z-enkenfurtu", "owner_wiki": null, "person": "Adrián z Enkenvoirtu", "from": 1733, "to": 1743, "from_approx": false, "to_approx": false, "how": "neznamo"},
-  {"owner": "kufstejnove", "owner_wiki": null, "person": "hraběnka Františka Marie, provdaná za Hanuše Leopolda z Kufštejna", "from": 1743, "to": 1752, "from_approx": false, "to_approx": false, "how": "koupe", "note": "po odprodání podílů přešlo vlastnictví na hraběnku"},
-  {"owner": "haugvicove-z-biskupic", "owner_wiki": "Haugvicové z Biskupic", "person": "Bedřich Vilém z Haugvic", "from": 1752, "to": 1945, "from_approx": false, "to_approx": false, "how": "koupe", "note": "rod se zasloužil o kulturní rozvoj panství, zejména Jindřich Vilém III. (1770-1842) vybudoval proslulou zámeckou kapelu s operním provozem"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "po válce zabaven a stal se majetkem československého státu, do 1947 reprezentační sídlo vlády, od 1949 zpřístupněn veřejnosti; dnes ve správě NPÚ"}
+  {
+   "owner": "pani-z-lomnice",
+   "owner_wiki": "Páni z Lomnice",
+   "person": "Budiš z Náměště a potomci (meziříčská větev)",
+   "from": 1220,
+   "to": 1399,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "zalozeni",
+   "note": "zakladatel hradu zdroje neuvádějí; 1234 doložen Budiš z Náměště; 1304 Náměšť zničena Kumány, v době bojů markrabat Jošta a Prokopa hrad obsadil Lipolt Krajíř z Krajku (namestnosl.cz); doba založení kolem 1220 podle webu zámku"
+  },
+  {
+   "owner": "pani-z-kravar",
+   "owner_wiki": "Páni z Kravař",
+   "person": "Lacek z Kravař a další",
+   "from": 1399,
+   "to": 1437,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "1408 hrad dobyt a poškozen Lackem z Kravař (namestnosl.cz); roky 1399-1437 podle cs.wiki a webu zámku"
+  },
+  {
+   "owner": "z-skvirina",
+   "owner_wiki": null,
+   "person": "Matěj Švamberk ze Skviřína",
+   "from": 1437,
+   "to": 1448,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo"
+  },
+  {
+   "owner": "z-prus",
+   "owner_wiki": null,
+   "person": "Znata z Prus a z Melic",
+   "from": 1448,
+   "to": 1455,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo"
+  },
+  {
+   "owner": "pani-z-cimburka",
+   "owner_wiki": "Páni z Cimburka",
+   "person": "Ctibor Tovačovský z Cimburka",
+   "from": 1455,
+   "to": 1464,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "moravský zemský hejtman, autor Knihy Tovačovské"
+  },
+  {
+   "owner": "pani-z-lomnice",
+   "owner_wiki": "Páni z Lomnice",
+   "person": "Václav z Lomnice a další",
+   "from": 1464,
+   "to": 1563,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "jine",
+   "note": "cs.wiki a web zámku uvádějí návrat Lomnických 1464, namestnosl.cz až 1481; po 1464 okolí pustošeno uherskými vojsky; Václav z Lomnice zřídil tiskárnu (1533 první česká gramatika); Libuše z Lomnice se provdala za Bedřicha ze Žerotína, přesný rok přechodu na Žerotíny web zámku neuvádí"
+  },
+  {
+   "owner": "zerotinove",
+   "owner_wiki": "Žerotínové",
+   "person": "Jan starší ze Žerotína, Jan Diviš a Karel starší ze Žerotína",
+   "from": 1563,
+   "to": 1628,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "snatek",
+   "note": "rok 1563 podle namestnosl.cz (Jan starší získal Náměšť); přestavba na renesanční zámek, 1578 přesun bratrské tiskárny do Kralic; po 1583 dědil Jan Diviš, panství spravoval Karel starší, který je 1628 po Bílé hoře prodal"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Albrecht z Valdštejna",
+   "from": 1628,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil od Karla staršího ze Žerotína (švagr); záhy panství přenechal Verdenberkovi, rok převodu zdroje neuvádějí"
+  },
+  {
+   "owner": "z-verdenberka",
+   "owner_wiki": null,
+   "person": "Jan Křtitel Verda z Verdenberka",
+   "from": null,
+   "to": 1733,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "rod držel panství do vymření (Jan Filip) 1733; na jeho žádost císař povýšil Náměšť na městečko"
+  },
+  {
+   "owner": "z-enkenfurtu",
+   "owner_wiki": null,
+   "person": "Adrián z Enkenvoirtu",
+   "from": 1733,
+   "to": 1743,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "do své smrti 1743; web zámku píše Enkenvoirt, namestnosl.cz Václav z Enkenvoirtu"
+  },
+  {
+   "owner": "kufstejnove",
+   "owner_wiki": null,
+   "person": "hraběnka Františka Marie, provdaná za Hanuše Leopolda z Kufštejna",
+   "from": 1743,
+   "to": 1752,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "majetek Enkenvoirta přešel dědicky a po odprodeji některých podílů na hraběnku Františku Marii"
+  },
+  {
+   "owner": "haugvicove-z-biskupic",
+   "owner_wiki": "Haugvicové z Biskupic",
+   "person": "Bedřich Vilém z Haugvic",
+   "from": 1752,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "kancléř Marie Terezie; Jindřich Vilém III. (1770-1842) založil kapelu, od 1834 Karel Vilém; poslední majitel hrabě Jindřich s rodinou musel Náměšť opustit po 1945"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "po válce zabaven, 1946-1947 upraven jako letní sídlo prezidenta Beneše, od 1949 zpřístupněn veřejnosti; dnes státní zámek ve správě NPÚ"
+  }
  ],
  "events": [
-  {"year": 1234, "text": "první zmínka o vsi Náměšti (v listině dochované jako pozdější padělek)"},
-  {"year": 1628, "text": "Karel starší ze Žerotína nucen po Bílé hoře prodat panství Albrechtu z Valdštejna"},
-  {"year": 1752, "text": "panství získává Bedřich Vilém z Haugvic"},
-  {"year": 1770, "text": "1770-1842 Jindřich Vilém III. z Haugvic buduje proslulou zámeckou kapelu a operní provoz, hostem je mj. Antonio Salieri"},
-  {"year": 1945, "text": "zámek zabaven a stává se majetkem československého státu, do 1947 reprezentační sídlo vlády"},
-  {"year": 1949, "text": "zámek zpřístupněn veřejnosti s kolekcí tapisérií"},
-  {"year": 2001, "text": "zámek prohlášen národní kulturní památkou"}
+  {
+   "year": 1234,
+   "text": "první písemná zmínka o osídlení, Budiš z Náměště z rodu pánů z Lomnice"
+  },
+  {
+   "year": 1563,
+   "text": "Náměšť získal Jan starší ze Žerotína, přestavba na renesanční zámek"
+  },
+  {
+   "year": 1578,
+   "text": "přesun bratrské tiskárny do Kralic (Bible kralická)"
+  },
+  {
+   "year": 1628,
+   "text": "Karel starší ze Žerotína po Bílé hoře prodal panství Albrechtu z Valdštejna"
+  },
+  {
+   "year": 1752,
+   "text": "panství koupil Bedřich Vilém Haugwitz"
+  },
+  {
+   "year": 1770,
+   "text": "Jindřich Vilém III. z Haugvic (1770-1842) buduje slavnou zámeckou kapelu, hostem Antonio Salieri"
+  },
+  {
+   "year": 1946,
+   "text": "zámek upraven jako letní sídlo prezidenta Beneše"
+  },
+  {
+   "year": 1949,
+   "text": "zámek zpřístupněn veřejnosti s kolekcí tapisérií"
+  },
+  {
+   "year": 2001,
+   "text": "zámek prohlášen národní kulturní památkou"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Náměšť_nad_Oslavou_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Náměšť_nad_Oslavou_(zámek)",
+  "https://www.zamek-namest.cz/cs/o-zamku/historie",
+  "https://www.namestnosl.cz/historie-mesta/d-2730"
+ ]
 }

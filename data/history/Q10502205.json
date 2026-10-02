@@ -1,44 +1,352 @@
 {
  "id": "Q10502205",
  "name": "Švamberk",
- "founded": {"year": 1260, "approx": true, "text": "Hrad založil ve druhé polovině 13. století Ratmír ze Skviřína (nejspíše totožný s purkrabím na Přimdě zmiňovaným 1252), který jej pojmenoval Švamberk; podle hradu se pak psal i jeho rod."},
- "summary": "Hrad Švamberk založili ve druhé polovině 13. století páni ze Švamberka, kterým patřil - s výjimkou let 1544-1569 - až do vymření této rodové větve roku 1659. Roku 1421 jej dobyl Jan Žižka a zajal zde Bohuslava ze Švamberka, hrad pak držela husitská posádka, dokud jej roku 1424 nevykoupil Bohuslavův bratr Hynek Krušina. V letech 1544-1569 patřil postupně Krajířům z Krajku, králi Ferdinandovi I. a Šlikům, než jej zpět koupili bratři ze Švamberka. Po smrti posledního mužského člena rodové větve Jana Bedřicha roku 1659 prodala vdova Marie Magdalena hrad hraběti Janu Kryštofu Ferdinandovi z Heisenštejna; už roku 1644 jej ale zničil požár a po dalším vyplenění Švédy roku 1646 už nebyl obnoven a zůstal zříceninou.",
+ "founded": {
+  "year": 1260,
+  "approx": true,
+  "text": "Hrad založil ve druhé polovině 13. století Ratmír ze Skviřína (nejspíše totožný s purkrabím na Přimdě zmiňovaným 1252), který jej pojmenoval Švamberk; podle hradu se pak psal i jeho rod."
+ },
+ "summary": "Hrad Švamberk založili ve druhé polovině 13. století páni ze Švamberka, kterým patřil - s výjimkou let 1544-1569 - až do vymření této rodové větve roku 1659. Roku 1421 jej dobyl Jan Žižka a zajal zde Bohuslava ze Švamberka, hrad pak držela husitská posádka, dokud jej roku 1424 nevykoupil Bohuslavův bratr Hynek Krušina. V letech 1544-1569 patřil postupně Krajířům z Krajku, králi Ferdinandovi I. a Šlikům, než jej zpět koupili bratři ze Švamberka. Po smrti posledního mužského člena rodové větve Jana Bedřicha roku 1659 prodala vdova hrad Heisenštejnovi; už roku 1644 jej ale zničil požár a po vyplenění Švédy roku 1646 už nebyl obnoven a zůstal zříceninou. Panství pak připadlo Vrtbům a od roku 1712 Löwensteinům-Wertheimům, kteří je držili do roku 1945.",
  "owners": [
-  {"owner": "pani-ze-svamberka", "owner_wiki": "Páni ze Švamberka", "person": "Ratmír ze Skviřína", "from": 1260, "to": 1310, "from_approx": true, "to_approx": true, "how": "zalozeni", "note": "založil hrad a pojmenoval jej Švamberk; první možná zmínka 1252; přesná léta držby po založení zdroj neuvádí, na počátku 14. stol. je pánem hradu už Bohuslav II. ze Švamberka"},
-  {"owner": "pani-ze-svamberka", "owner_wiki": "Páni ze Švamberka", "person": "Bohuslav II. ze Švamberka", "from": 1310, "to": 1342, "from_approx": true, "to_approx": true, "how": "dedictvi", "note": "roku 1342 poprvé výslovně doložen hrad Švamberk s kaplí sv. Jiří; zemřel po roce 1342"},
-  {"owner": "pani-ze-svamberka", "owner_wiki": "Páni ze Švamberka", "person": "Bohuslav III. ze Švamberka", "from": 1342, "to": 1379, "from_approx": true, "to_approx": true, "how": "dedictvi", "note": "roku 1379 zaplatil berni z panství Krasíkov, Bor a dalšího majetku, nejbohatší šlechtic v Plzeňském kraji; zemřel na přelomu let 1379 a 1380, majetek za nezletilé syny spravovala vdova Anna"},
-  {"owner": "pani-ze-svamberka", "owner_wiki": "Páni ze Švamberka", "person": "Bušek a Bohuslav V. ze Švamberka", "from": 1380, "to": 1402, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "hrad drželi společně; Bušek zemřel bezdětný kolem 1395-1402, Bohuslav V. zemřel 1402, za jeho nezletilé syny spravoval majetek bratr Jan, popravený 1409 nebo 1410"},
-  {"owner": "pani-ze-svamberka", "owner_wiki": "Páni ze Švamberka", "person": "Bohuslav VI. ze Švamberka", "from": 1409, "to": 1421, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "roku 1421 jej na Švamberku zajal Jan Žižka z Trocnova"},
-  {"owner": "neznamo", "owner_wiki": null, "person": "husitská posádka", "from": 1421, "to": 1424, "from_approx": false, "to_approx": true, "how": "jine", "note": "po dobytí Janem Žižkou hrad obsadila husitská posádka; Hynek Krušina, bratr zajatého Bohuslava, ji dvakrát neúspěšně obléhal a nakonec hrad od husitů vykoupil za 700 kop grošů; přesný rok výplaty neznámý, roku 1424 už Švamberk ovládal"},
-  {"owner": "pani-ze-svamberka", "owner_wiki": "Páni ze Švamberka", "person": "Hynek Krušina ze Švamberka", "from": 1424, "to": 1455, "from_approx": false, "to_approx": true, "how": "koupe", "note": "hrad roku 1443 vyhořel, opravil jej; po požáru se přestěhoval na Zelenou horu, ale Švamberk podržel; zemřel brzy po vysvěcení nové hradní kaple 1454"},
-  {"owner": "pani-ze-svamberka", "owner_wiki": "Páni ze Švamberka", "person": "Bohuslav VII. Krušina ze Švamberka", "from": 1455, "to": 1490, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "hlavním sídlem se mu stal Zvíkov, na Švamberku zůstávali úředníci"},
-  {"owner": "pani-ze-svamberka", "owner_wiki": "Páni ze Švamberka", "person": "Jindřich ze Švamberka", "from": 1490, "to": 1523, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "jediný žijící syn Bohuslava Krušiny; nechal 1510-1513 pozdně goticky přestavět Švamberk; zemřel bezdětný"},
-  {"owner": "pani-ze-svamberka", "owner_wiki": "Páni ze Švamberka", "person": "Kryštof I. ze Švamberka", "from": 1523, "to": 1534, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "synovec Jindřicha, dědic podle jeho závěti; od 1528 renesanční úpravy pod vedením stavitele Jana Holého; zemřel 9. ledna 1534 na Švamberku"},
-  {"owner": "pani-ze-svamberka", "owner_wiki": "Páni ze Švamberka", "person": "Jindřich III. starší ze Švamberka", "from": 1534, "to": 1540, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "nejstarší syn Kryštofa, majetek zprvu spravoval za pět bratrů; roku 1540 se s nimi rozdělil a Švamberk připadl Ratmírovi"},
-  {"owner": "pani-ze-svamberka", "owner_wiki": "Páni ze Švamberka", "person": "Ratmír ze Švamberka, poté opět Jindřich III. starší ze Švamberka", "from": 1540, "to": 1544, "from_approx": false, "to_approx": false, "how": "vymena", "note": "Ratmír roku 1544 vyměnil Švamberk s bratrem Jindřichem za polovinu Zvíkova; Jindřich Švamberk téhož roku (10. října 1544) prodal Volfgangovi mladšímu Krajíři z Krajku"},
-  {"owner": "krajirove-z-krajku", "owner_wiki": "Krajířové z Krajku", "person": "Volfgang mladší Krajíř z Krajku", "from": 1544, "to": 1547, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil za 28000 kop míšeňských grošů; za účast na stavovském povstání 1547 musel panství postoupit králi Ferdinandovi I."},
-  {"owner": "koruna", "owner_wiki": null, "person": "Ferdinand I.", "from": 1547, "to": 1548, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "rok poté zámek vyměnil za jiný majetek s Jeronýmem Šlikem z Holíče"},
-  {"owner": "slikove", "owner_wiki": "Šlikové", "person": "Jeroným Šlik z Holíče", "from": 1548, "to": 1556, "from_approx": false, "to_approx": false, "how": "vymena", "note": "získal výměnou od krále; po jeho smrti 1556 zdědil nejmladší syn Šebestián"},
-  {"owner": "slikove", "owner_wiki": "Šlikové", "person": "Šebestián Šlik", "from": 1556, "to": 1569, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "z finančních důvodů nejprve odprodal Manětín, roku 1569 musel prodat celé panství"},
-  {"owner": "pani-ze-svamberka", "owner_wiki": "Páni ze Švamberka", "person": "Jindřich, Zdeněk a Jáchym ze Švamberka (bratři)", "from": 1569, "to": 1569, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupili panství za 37300 kop míšeňských grošů; při rozdělení majetku připadl Švamberk nejmladšímu Jáchymovi"},
-  {"owner": "pani-ze-svamberka", "owner_wiki": "Páni ze Švamberka", "person": "Jáchym ze Švamberka", "from": 1569, "to": 1574, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "zemřel 1574, pohřben s první manželkou Anežkou Šlikovou v rodinné hrobce na Švamberku"},
-  {"owner": "pani-ze-svamberka", "owner_wiki": "Páni ze Švamberka", "person": "Jiří Petr ze Švamberka", "from": 1574, "to": 1608, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "do dospělosti spravovali majetek strýcové Zdeněk a Jindřich; zemřel 1608, zanechal nezletilé děti"},
-  {"owner": "pani-ze-svamberka", "owner_wiki": "Páni ze Švamberka", "person": "Jan Šebestián ze Švamberka na Třebeli (poručník)", "from": 1608, "to": 1615, "from_approx": false, "to_approx": false, "how": "jine", "note": "strýc, spravoval majetek za nezletilé děti Jiřího Petra"},
-  {"owner": "pani-ze-svamberka", "owner_wiki": "Páni ze Švamberka", "person": "Anna Marie ze Švamberka (poručnice bratrů)", "from": 1615, "to": 1619, "from_approx": false, "to_approx": false, "how": "jine", "note": "zemřela ve 28 letech"},
-  {"owner": "pani-ze-svamberka", "owner_wiki": "Páni ze Švamberka", "person": "Jan Šebestián ze Švamberka (mladší)", "from": 1619, "to": 1624, "from_approx": false, "to_approx": false, "how": "dedictvi"},
-  {"owner": "pani-ze-svamberka", "owner_wiki": "Páni ze Švamberka", "person": "Jan Bedřich ze Švamberka", "from": 1624, "to": 1659, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "za jeho držby hrad roku 1644 vyhořel (Švamberk obnoven už nebyl) a 1646 jej vyplenila švédská posádka; zemřel jako poslední člen své rodové větve 10. ledna 1659"},
-  {"owner": "pani-ze-svamberka", "owner_wiki": "Páni ze Švamberka", "person": "Marie Magdalena ze Švamberka (vdova po Janu Bedřichovi)", "from": 1659, "to": null, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "panství prodala hraběti Janu Kryštofu Ferdinandovi z Heisenštejna; přesný rok prodeje neuveden"},
-  {"owner": "z-heisenstejna", "owner_wiki": null, "person": "Jan Kryštof Ferdinand z Heisenštejna", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil zpustlé panství od vdovy Marie Magdaleny; hrad už nikdy nebyl obnoven a sloužil jako zdroj stavebního kamene; zdroj neuvádí další osud vlastnictví, dnes je zřícenina veřejně přístupná"}
+  {
+   "owner": "pani-ze-svamberka",
+   "owner_wiki": "Páni ze Švamberka",
+   "person": "Ratmír ze Skviřína",
+   "from": 1260,
+   "to": 1310,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "zalozeni",
+   "note": "založil hrad a pojmenoval jej Švamberk; první možná zmínka 1252; přesná léta držby po založení zdroj neuvádí, na počátku 14. stol. je pánem hradu už Bohuslav II. ze Švamberka"
+  },
+  {
+   "owner": "pani-ze-svamberka",
+   "owner_wiki": "Páni ze Švamberka",
+   "person": "Bohuslav II. ze Švamberka",
+   "from": 1310,
+   "to": 1342,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "roku 1342 poprvé výslovně doložen hrad Švamberk s kaplí sv. Jiří; zemřel po roce 1342"
+  },
+  {
+   "owner": "pani-ze-svamberka",
+   "owner_wiki": "Páni ze Švamberka",
+   "person": "Bohuslav III. ze Švamberka",
+   "from": 1342,
+   "to": 1379,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "roku 1379 zaplatil berni z panství Krasíkov, Bor a dalšího majetku, nejbohatší šlechtic v Plzeňském kraji; zemřel na přelomu let 1379 a 1380, majetek za nezletilé syny spravovala vdova Anna"
+  },
+  {
+   "owner": "pani-ze-svamberka",
+   "owner_wiki": "Páni ze Švamberka",
+   "person": "Bušek a Bohuslav V. ze Švamberka",
+   "from": 1380,
+   "to": 1402,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "hrad drželi společně; Bušek zemřel bezdětný kolem 1395-1402, Bohuslav V. zemřel 1402, za jeho nezletilé syny spravoval majetek bratr Jan, popravený 1409 nebo 1410"
+  },
+  {
+   "owner": "pani-ze-svamberka",
+   "owner_wiki": "Páni ze Švamberka",
+   "person": "Bohuslav VI. ze Švamberka",
+   "from": 1409,
+   "to": 1421,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "roku 1421 jej na Švamberku zajal Jan Žižka z Trocnova"
+  },
+  {
+   "owner": "neznamo",
+   "owner_wiki": null,
+   "person": "husitská posádka",
+   "from": 1421,
+   "to": 1424,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "jine",
+   "note": "po dobytí Janem Žižkou hrad obsadila husitská posádka; Hynek Krušina, bratr zajatého Bohuslava, ji dvakrát neúspěšně obléhal a nakonec hrad od husitů vykoupil za 700 kop grošů; přesný rok výplaty neznámý, roku 1424 už Švamberk ovládal"
+  },
+  {
+   "owner": "pani-ze-svamberka",
+   "owner_wiki": "Páni ze Švamberka",
+   "person": "Hynek Krušina ze Švamberka",
+   "from": 1424,
+   "to": 1455,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "hrad roku 1443 vyhořel, opravil jej; po požáru se přestěhoval na Zelenou horu, ale Švamberk podržel; zemřel brzy po vysvěcení nové hradní kaple 1454; hrady.cz uvádí vykoupení hradu od husitů 1425 nebo 1426 (cs.wiki: nejpozději 1424), požár 1443 potvrzují cs.wiki i hrady.cz (web obce Kokašice uvádí 1433)"
+  },
+  {
+   "owner": "pani-ze-svamberka",
+   "owner_wiki": "Páni ze Švamberka",
+   "person": "Bohuslav VII. Krušina ze Švamberka",
+   "from": 1455,
+   "to": 1490,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "hlavním sídlem se mu stal Zvíkov, na Švamberku zůstávali úředníci"
+  },
+  {
+   "owner": "pani-ze-svamberka",
+   "owner_wiki": "Páni ze Švamberka",
+   "person": "Jindřich ze Švamberka",
+   "from": 1490,
+   "to": 1523,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "jediný žijící syn Bohuslava Krušiny; nechal 1510-1513 pozdně goticky přestavět Švamberk; zemřel bezdětný"
+  },
+  {
+   "owner": "pani-ze-svamberka",
+   "owner_wiki": "Páni ze Švamberka",
+   "person": "Kryštof I. ze Švamberka",
+   "from": 1523,
+   "to": 1534,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "synovec Jindřicha, dědic podle jeho závěti; od 1528 renesanční úpravy pod vedením stavitele Jana Holého; zemřel 9. ledna 1534 na Švamberku"
+  },
+  {
+   "owner": "pani-ze-svamberka",
+   "owner_wiki": "Páni ze Švamberka",
+   "person": "Jindřich III. starší ze Švamberka",
+   "from": 1534,
+   "to": 1540,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "nejstarší syn Kryštofa, majetek zprvu spravoval za pět bratrů; roku 1540 se s nimi rozdělil a Švamberk připadl Ratmírovi"
+  },
+  {
+   "owner": "pani-ze-svamberka",
+   "owner_wiki": "Páni ze Švamberka",
+   "person": "Ratmír ze Švamberka, poté opět Jindřich III. starší ze Švamberka",
+   "from": 1540,
+   "to": 1544,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "vymena",
+   "note": "Ratmír roku 1544 vyměnil Švamberk s bratrem Jindřichem za polovinu Zvíkova; Jindřich Švamberk téhož roku (10. října 1544) prodal Volfgangovi mladšímu Krajíři z Krajku"
+  },
+  {
+   "owner": "krajirove-z-krajku",
+   "owner_wiki": "Krajířové z Krajku",
+   "person": "Volfgang mladší Krajíř z Krajku",
+   "from": 1544,
+   "to": 1547,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil za 28000 kop míšeňských grošů; za účast na stavovském povstání 1547 musel panství postoupit králi Ferdinandovi I."
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Ferdinand I.",
+   "from": 1547,
+   "to": 1548,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "rok poté zámek vyměnil za jiný majetek s Jeronýmem Šlikem z Holíče"
+  },
+  {
+   "owner": "slikove",
+   "owner_wiki": "Šlikové",
+   "person": "Jeroným Šlik z Holíče",
+   "from": 1548,
+   "to": 1556,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "vymena",
+   "note": "získal výměnou od krále; po jeho smrti 1556 zdědil nejmladší syn Šebestián"
+  },
+  {
+   "owner": "slikove",
+   "owner_wiki": "Šlikové",
+   "person": "Šebestián Šlik",
+   "from": 1556,
+   "to": 1569,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "z finančních důvodů nejprve odprodal Manětín, roku 1569 musel prodat celé panství"
+  },
+  {
+   "owner": "pani-ze-svamberka",
+   "owner_wiki": "Páni ze Švamberka",
+   "person": "Jindřich, Zdeněk a Jáchym ze Švamberka (bratři)",
+   "from": 1569,
+   "to": 1569,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupili panství za 37300 kop míšeňských grošů; při rozdělení majetku připadl Švamberk nejmladšímu Jáchymovi"
+  },
+  {
+   "owner": "pani-ze-svamberka",
+   "owner_wiki": "Páni ze Švamberka",
+   "person": "Jáchym ze Švamberka",
+   "from": 1569,
+   "to": 1574,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "zemřel 1574, pohřben s první manželkou Anežkou Šlikovou v rodinné hrobce na Švamberku"
+  },
+  {
+   "owner": "pani-ze-svamberka",
+   "owner_wiki": "Páni ze Švamberka",
+   "person": "Jiří Petr ze Švamberka",
+   "from": 1574,
+   "to": 1608,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "do dospělosti spravovali majetek strýcové Zdeněk a Jindřich; zemřel 1608, zanechal nezletilé děti"
+  },
+  {
+   "owner": "pani-ze-svamberka",
+   "owner_wiki": "Páni ze Švamberka",
+   "person": "Jan Šebestián ze Švamberka na Třebeli (poručník)",
+   "from": 1608,
+   "to": 1615,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "strýc, spravoval majetek za nezletilé děti Jiřího Petra"
+  },
+  {
+   "owner": "pani-ze-svamberka",
+   "owner_wiki": "Páni ze Švamberka",
+   "person": "Anna Marie ze Švamberka (poručnice bratrů)",
+   "from": 1615,
+   "to": 1619,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "zemřela ve 28 letech"
+  },
+  {
+   "owner": "pani-ze-svamberka",
+   "owner_wiki": "Páni ze Švamberka",
+   "person": "Jan Šebestián ze Švamberka (mladší)",
+   "from": 1619,
+   "to": 1624,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi"
+  },
+  {
+   "owner": "pani-ze-svamberka",
+   "owner_wiki": "Páni ze Švamberka",
+   "person": "Jan Bedřich ze Švamberka",
+   "from": 1624,
+   "to": 1659,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "za jeho držby hrad roku 1644 vyhořel (Švamberk obnoven už nebyl) a 1646 jej vyplenila švédská posádka; zemřel jako poslední člen své rodové větve 10. ledna 1659"
+  },
+  {
+   "owner": "pani-ze-svamberka",
+   "owner_wiki": "Páni ze Švamberka",
+   "person": "Marie Magdalena ze Švamberka (vdova po Janu Bedřichovi)",
+   "from": 1659,
+   "to": 1659,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "po smrti manžela 1659 prodala panství hraběti Janu Kryštofu Ferdinandovi z Heisenštejna"
+  },
+  {
+   "owner": "z-heisenstejna",
+   "owner_wiki": null,
+   "person": "Jan Kryštof Ferdinand z Heisenštejna",
+   "from": 1659,
+   "to": 1693,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil zpustlé panství od vdovy Marie Magdaleny (cs.wiki, hrady.cz); hrad už nikdy nebyl obnoven a sloužil jako zdroj stavebního kamene; 1677 prodal Třebel, 1693 bylo zbylé panství rozděleno mezi jeho tři dcery (hrady.cz)"
+  },
+  {
+   "owner": "pani-z-vrtby",
+   "owner_wiki": "Páni z Vrtby",
+   "person": "Jan Josef z Vrtby (manželka Zuzana Antonie)",
+   "from": 1693,
+   "to": 1712,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "hrady.cz: krasíkovské panství s Gutštejnem získali po rozdělení 1693 Vrtbové; po 1707 obnovena hradní kaple"
+  },
+  {
+   "owner": "lowensteinove",
+   "owner_wiki": null,
+   "person": "Maxmilián Karel z Löwensteinu-Wertheimu",
+   "from": 1712,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "hrady.cz: koupil panství a spojil je s bezdružickým; rodina Löwenstein-Wertheim držela Bezdružicko do 1945; zdroje neuvádějí, kdo je dnešním vlastníkem zříceniny"
+  }
  ],
  "events": [
-  {"year": 1342, "text": "první výslovná písemná zmínka o hradu Švamberk s kaplí sv. Jiří"},
-  {"year": 1421, "text": "Jan Žižka z Trocnova dobyl hrad a zajal Bohuslava ze Švamberka"},
-  {"year": 1443, "text": "hrad zničil požár v komnatách Markéty z Plavna, brzy opraven"},
-  {"year": 1510, "text": "1510-1513 pozdně gotická přestavba hradu za Jindřicha ze Švamberka"},
-  {"year": 1544, "text": "Švamberk prodán mimo rod Krajířům z Krajku, začátek přerušení švamberské držby"},
-  {"year": 1569, "text": "bratři Jindřich, Zdeněk a Jáchym ze Švamberka koupili panství zpět"},
-  {"year": 1644, "text": "7. února vypukl požár, který hrad zničil a už nebyl obnoven"},
-  {"year": 1646, "text": "švédská posádka generála Wrangela obsadila a plenila okolí hradu"}
+  {
+   "year": 1342,
+   "text": "první výslovná písemná zmínka o hradu Švamberk s kaplí sv. Jiří"
+  },
+  {
+   "year": 1421,
+   "text": "Jan Žižka z Trocnova dobyl hrad a zajal Bohuslava ze Švamberka"
+  },
+  {
+   "year": 1443,
+   "text": "hrad zničil požár v komnatách Markéty z Plavna, brzy opraven"
+  },
+  {
+   "year": 1510,
+   "text": "1510-1513 pozdně gotická přestavba hradu za Jindřicha ze Švamberka"
+  },
+  {
+   "year": 1544,
+   "text": "Švamberk prodán mimo rod Krajířům z Krajku, začátek přerušení švamberské držby"
+  },
+  {
+   "year": 1569,
+   "text": "bratři Jindřich, Zdeněk a Jáchym ze Švamberka koupili panství zpět"
+  },
+  {
+   "year": 1644,
+   "text": "7. února vypukl požár, který hrad zničil a už nebyl obnoven"
+  },
+  {
+   "year": 1646,
+   "text": "švédská posádka generála Wrangela obsadila a plenila okolí hradu"
+  },
+  {
+   "year": 1712,
+   "text": "krasíkovské panství koupil Maxmilián Karel z Löwensteinu-Wertheimu a spojil je s bezdružickým (hrady.cz)"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Švamberk"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Švamberk",
+  "https://www.hrady.cz/hrad-svamberk-krasikov/texty?tid=22816",
+  "https://www.hrady-zriceniny.cz/hrad_krasikov.htm",
+  "https://www.kokasice.cz/obec/historie/hrad-krasikov-svamberk/hrad-krasikov-svamberk-13cs.html"
+ ]
 }

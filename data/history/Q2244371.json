@@ -1,31 +1,185 @@
 {
  "id": "Q2244371",
  "name": "Šluknovský zámek",
- "founded": {"year": 1487, "approx": true, "text": "Dřevěná tvrz ve Šluknově se poprvé připomíná roku 1487 jako majetek saského maršála Hugolda ze Šlejnic; renesanční zámek na jejím místě nechal 1566-1573 postavit Arnošt ze Šlejnic."},
- "summary": "Šluknovské panství patřilo od 2. poloviny 13. století Berkům z Dubé, za vlády Jiřího z Poděbrad zde vznikla dřevěná tvrz, poprvé doložená roku 1487 jako majetek Hugolda ze Šlejnic; Arnošt ze Šlejnic ji v letech 1566-1573 přestavěl na renesanční zámek. Po pobělohorských konfiskacích jej roku 1618 od Oty Staršedla ze Staršedlu koupila přes královskou komoru rodina z Mansfeldu, po níž se v majetku vystřídali Ditrichštejnové, Gallasové a Harrachové (do roku 1876). Poté zámek patřil saskému rodu Grumbtů a naposledy Ervínu Leopoldu z Nostic-Rienecku; po druhé světové válce byl jako německý majetek zkonfiskován a připadl městu Šluknov, které v něm zřídilo muzeum.",
+ "founded": {
+  "year": 1487,
+  "approx": true,
+  "text": "Dřevěná tvrz ve Šluknově se poprvé připomíná roku 1487 jako majetek saského maršála Hugolda ze Šlejnic; renesanční zámek na jejím místě nechal 1566-1573 postavit Arnošt ze Šlejnic."
+ },
+ "summary": "Šluknovské panství patřilo od 14. století Berkům z Dubé, po jejich konfiskaci (1464) Vartenberkům a saským Wettinům a od 1481 Šlejnicům. Hugold ze Šlejnic je s dřevěnou tvrzí doložen roku 1487 a Arnošt ze Šlejnic ji v letech 1566-1573 přestavěl na renesanční zámek saského typu. Po pobělohorských konfiskacích zámek získali Mansfeldové, poté Ditrichštejnové, Gallasové a Harrachové (do 1876), následně Grumbtové a od 1935 Ervín Leopold z Nostic-Rienecku; od roku 1945 jej vlastní město Šluknov, které jej po požáru 1986 zrekonstruovalo a roku 2007 otevřelo.",
  "owners": [
-  {"owner": "berkove-z-dube", "owner_wiki": "Berkové z Dubé", "person": null, "from": 1270, "to": 1470, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "panství drželi od 2. poloviny 13. století prakticky až do doby vlády Jiřího z Poděbrad (1458-1471)"},
-  {"owner": "slejnicove", "owner_wiki": "Šlejnicové", "person": "Hugold ze Šlejnic, od 1566 Arnošt ze Šlejnic", "from": 1470, "to": 1618, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "dřevěná tvrz poprvé doložena 1487 jako majetek Hugolda ze Šlejnic; Arnošt ze Šlejnic 1566-1573 postavil renesanční zámek"},
-  {"owner": "z-starsedlu", "owner_wiki": null, "person": "Ota Staršedl, rytíř ze Staršedlu", "from": 1618, "to": 1618, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "krátce majitelem 1618; jako katolík se zapletl do stavovského povstání, majetek mu byl ze třetiny zkonfiskován (zdroj datuje k roku 1618); rod bez vlastního článku na cs.wiki"},
-  {"owner": "koruna", "owner_wiki": null, "person": null, "from": 1618, "to": 1618, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "královská komora zkonfiskovaný podíl ihned prodala dál Mansfeldům"},
-  {"owner": "mansfeldove", "owner_wiki": "Mansfeldové", "person": "Wolfgang z Mansfeldu, syn Karel Adam, dcery Žofie Anežka a Kristýna Alžběta", "from": 1618, "to": 1663, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupě za 105000 kop míšeňských; po bezdětné smrti Karla Adama (1662) zdědily panství jeho sestry, 1663 rozdělení - Šluknov připadl Žofii Anežce"},
-  {"owner": "ditrichstejnove", "owner_wiki": "Ditrichštejnové", "person": "Žofie Anežka z Mansfeldu, provdaná Ditrichštejnová", "from": 1663, "to": 1677, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "připojila k panství statky Velké Březno, Mirošovice a Markvartice"},
-  {"owner": "ditrichstejnove", "owner_wiki": "Ditrichštejnové", "person": "Filip Zikmund z Ditrichštejna", "from": 1677, "to": 1716, "from_approx": false, "to_approx": false, "how": "dedictvi"},
-  {"owner": "gallasove", "owner_wiki": "Gallasové", "person": "Marie Ernestina z Ditrichštejna, provdaná Gallasová", "from": 1716, "to": 1721, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "po pěti letech ovdověla a provdala se za Aloise Tomáše z Harrachu"},
-  {"owner": "harrachove", "owner_wiki": "Harrachové", "person": "Marie Ernestina, provdaná z Harrachu, a Alois Tomáš z Harrachu", "from": 1721, "to": 1876, "from_approx": true, "to_approx": false, "how": "snatek", "note": "roku 1876 prodáno saskému komerčnímu radovi Arnoštu Grumbtovi za 1 milion zlatých"},
-  {"owner": "soukromnik", "owner_wiki": null, "person": "Arnošt Grumbt a potomci", "from": 1876, "to": 1930, "from_approx": false, "to_approx": true, "how": "koupe", "note": "saský komerční rada; potomci drželi panství do 30. let 20. století"},
-  {"owner": "nosticove", "owner_wiki": "Nosticové", "person": "Ervín Leopold z Nostic-Rienecku", "from": 1930, "to": 1945, "from_approx": true, "to_approx": false, "how": "koupe", "note": "majitel velkostatku Pakoměřice-Měšice u Prahy, poslední soukromý majitel šluknovského panství; po válce zkonfiskováno jako německý majetek"},
-  {"owner": "mesto", "owner_wiki": null, "person": "město Šluknov", "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "4. října 1949 otevřeno městské muzeum; 1986 požár zničil krov a horní patra, generální oprava dokončena 1990, celková rekonstrukce 2005-2009"}
+  {
+   "owner": "berkove-z-dube",
+   "owner_wiki": "Berkové z Dubé",
+   "person": "Hynek I., Hynek II., Hynek III., poté Albrecht Berka z Dubé",
+   "from": 1353,
+   "to": 1464,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "cs.wiki: držení od 2. poloviny 13. století; městský seznam majitelů začíná 1353; v letech 1443-1451 panství drželi saští kurfiřti; roku 1464 byl Albrecht Berka panství zbaven (konfiskace Jiřím z Poděbrad)"
+  },
+  {
+   "owner": "vartenberkove",
+   "owner_wiki": "Vartenberkové",
+   "person": "Jan z Vartenberka, Kryštof z Vartenberka",
+   "from": 1464,
+   "to": 1471,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "panství dostali po konfiskaci Berkům, poté je prodali míšeňským vévodům"
+  },
+  {
+   "owner": "wettinove",
+   "owner_wiki": "Wettinové",
+   "person": "Arnošt a Albrecht, knížata saská",
+   "from": 1472,
+   "to": 1481,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "následoval nájem Oldřicha z Rechenberku, poté koupě Haugoldem ze Šlejnic"
+  },
+  {
+   "owner": "slejnicove",
+   "owner_wiki": "Šlejnicové",
+   "person": "Hugold ze Šlejnic, poté Jindřich, Arnošt a další; od 1566 Arnošt ze Šlejnic",
+   "from": 1481,
+   "to": 1618,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "dřevěná tvrz doložena 1487 (cs.wiki); 1565 dělení panství mezi syny, 1566 Šluknov získal Arnošt, který 1566-1573 postavil renesanční zámek (do 1605); poté Adam a Albrecht ze Šlejnic"
+  },
+  {
+   "owner": "z-starsedlu",
+   "owner_wiki": null,
+   "person": "Ota Staršedl, rytíř ze Staršedlu",
+   "from": 1618,
+   "to": 1623,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "stál na straně stavů, majetek propadl pobělohorské konfiskaci"
+  },
+  {
+   "owner": "mansfeldove",
+   "owner_wiki": "Mansfeldové",
+   "person": "Wolfgang z Mansfeldu, poté syn Karel Adam († 1662)",
+   "from": 1623,
+   "to": 1662,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "královská komora prodala Šluknov Wolfgangovi (městský seznam a sluknov.cz uvádějí 1623, cs.wiki 1618, za 105000 kop míšeňských); po smrti Karla Adama panství zdědily sestry Žofie Anežka a Kristýna Alžběta"
+  },
+  {
+   "owner": "ditrichstejnove",
+   "owner_wiki": "Ditrichštejnové",
+   "person": "Žofie Anežka z Ditrichštejna, poté syn Filip Zikmund",
+   "from": 1663,
+   "to": 1716,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "rozdělení dědictví 20. 10. 1663 (Šluknov připadl Žofii Anežce); od 1677 Filip Zikmund"
+  },
+  {
+   "owner": "gallasove",
+   "owner_wiki": "Gallasové",
+   "person": "Marie Ernestina, provdaná Gallasová",
+   "from": 1716,
+   "to": 1721,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "po pěti letech ovdověla a provdala se za Aloise Tomáše z Harrachu"
+  },
+  {
+   "owner": "harrachove",
+   "owner_wiki": "Harrachové",
+   "person": "Marie Ernestina a Alois Tomáš z Harrachu, poté Ferdinand Bonaventura a další",
+   "from": 1721,
+   "to": 1876,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "snatek",
+   "note": "posledním Harrachem byl František Arnošt (od 1838); 1876 prodáno za 1 milion zlatých"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Arnošt Grumbt starší (1876-1917), Arnošt Grumbt mladší (1917-1935)",
+   "from": 1876,
+   "to": 1935,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "saský komerční rada z Drážďan; cs.wiki uvádí jen 'do 30. let 20. století'"
+  },
+  {
+   "owner": "nosticove",
+   "owner_wiki": "Nosticové",
+   "person": "Ervín Leopold z Nostic-Rienecku",
+   "from": 1935,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "poslední soukromý majitel šluknovského panství; cs.wiki uvádí jen 'třicátá léta'"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "město Šluknov",
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "po válce zkonfiskováno jako německý majetek; zámek vlastní město, 1986 požár, generální oprava dokončena 1990, celková rekonstrukce dokončena 2007-2009 (zdroje se liší), otevřen v červnu 2007"
+  }
  ],
  "events": [
-  {"year": 1487, "text": "první zmínka o dřevěné tvrzi, majetku Hugolda ze Šlejnic"},
-  {"year": 1573, "text": "dokončena renesanční přestavba zámku za Arnošta ze Šlejnic"},
-  {"year": 1618, "text": "po zapletení Oty Staršedla do stavovského povstání koupili panství Mansfeldové"},
-  {"year": 1663, "text": "rozdělení mansfeldského dědictví, Šluknov připadá Žofii Anežce, provdané Ditrichštejnové"},
-  {"year": 1876, "text": "Harrachové prodávají panství saskému komerčnímu radovi Arnoštu Grumbtovi"},
-  {"year": 1945, "text": "zámek zkonfiskován jako německý majetek, vlastníkem se stává město Šluknov"},
-  {"year": 1986, "text": "požár ničí krov a horní patra zámku"},
-  {"year": 2009, "text": "dokončena celková rekonstrukce zámku a přilehlého parku"}
+  {
+   "year": 1487,
+   "text": "první zmínka o dřevěné tvrzi, majetku Hugolda ze Šlejnic"
+  },
+  {
+   "year": 1573,
+   "text": "dokončena renesanční přestavba zámku za Arnošta ze Šlejnic (od 1566)"
+  },
+  {
+   "year": 1623,
+   "text": "po pobělohorských konfiskacích získal panství Wolfgang z Mansfeldu (cs.wiki uvádí 1618)"
+  },
+  {
+   "year": 1663,
+   "text": "rozdělení mansfeldského dědictví, Šluknov připadá Žofii Anežce, provdané Ditrichštejnové"
+  },
+  {
+   "year": 1876,
+   "text": "Harrachové prodali panství saskému komerčnímu radovi Arnoštu Grumbtovi"
+  },
+  {
+   "year": 1945,
+   "text": "zámek zkonfiskován jako německý majetek, vlastníkem se stává město Šluknov"
+  },
+  {
+   "year": 1986,
+   "text": "požár zničil krov a horní patra zámku"
+  },
+  {
+   "year": 2007,
+   "text": "po rekonstrukci zámek otevřen veřejnosti"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Šluknov_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Šluknov_(zámek)",
+  "https://www.sluknov.cz/mesto/zhistorie/majitele-panstvi-sluknov-do-roku-1945",
+  "http://www.sluknov.cz/city/texts/zamek.htm",
+  "https://www.sluknov.cz/mesto/zhistorie/feudalove-prichazeji-a-odchazeji-mesto-sluknov-zustava",
+  "https://www.ceskesvycarsko.cz/regionalni/sluknov/"
+ ]
 }

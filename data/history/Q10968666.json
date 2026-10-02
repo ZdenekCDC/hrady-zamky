@@ -4,31 +4,30 @@
  "founded": {
   "year": null,
   "approx": false,
-  "text": "Ve 14. století vybudovali páni z Říčan na místě dnešního zámku gotickou tvrz se statkem"
+  "text": "v 1. polovině 14. století vybudovali páni z Říčan na místě dnešního zámku gotickou tvrz; poprvé je tvrz v pramenech zmíněna roku 1404"
  },
- "summary": "Gotickou tvrz v Průhonicích vybudovali ve 14. století páni z Říčan, po nich se v držbě vystřídali pražští měšťané, Dubečtí z Dubče a Zapové ze Zap, kteří ji přestavěli na renesanční zámek. Po zpustošení za třicetileté války objekt často střídal majitele, dokud jej roku 1802 nekoupil hrabě Jan Nepomuk Nostic-Rieneck a nechal přestavět klasicistně; jeho dědička se roku 1885 provdala za Arnošta Silva-Taroucu, který zámek novorenesančně přestavěl a kolem něj založil proslulý park. Roku 1927 prodal Silva-Tarouca zámek i park československému státu; dnes je sídlem Botanického ústavu Akademie věd ČR.",
+ "summary": "Gotickou tvrz v Průhonicích vybudovali ve 14. století páni z Říčan, po nich ji drželi pražští měšťané a od roku 1404 Dubečtí z Dubče, jejichž dědicové Zapští ze Zap ji přestavěli na renesanční zámek. Za třicetileté války zpustl a po řadě majitelů (mj. jezuité 1669-1685, Desfoursové) jej roku 1802 koupil Jan Nepomuk Nostic-Rieneck. Arnošt Silva-Tarouca jej v letech 1889-1894 novorenesančně přestavěl a založil průhonický park; roku 1927 oboje prodal československému státu a dnes zde sídlí Botanický ústav AV ČR.",
  "owners": [
   {
    "owner": "pani-z-rican",
    "owner_wiki": "Páni z Říčan",
-   "person": null,
+   "person": "páni z Říčan",
    "from": null,
    "to": 1395,
    "from_approx": false,
    "to_approx": true,
    "how": "zalozeni",
-   "note": "gotická tvrz se statkem, založena ve 14. století; rod ji držel do devadesátých let 14. století (rok odhadnut na 1395)"
+   "note": "tvrz postavili v 1. polovině 14. stol.; statek drželi do 90. let 14. stol."
   },
   {
    "owner": "soukromnik",
    "owner_wiki": null,
-   "person": "měšťané pražští",
+   "person": "pražští měšťané",
    "from": 1395,
    "to": 1404,
    "from_approx": true,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "tvrz se stala majetkem nejmenovaných měšťanů z Prahy"
+   "how": "neznamo"
   },
   {
    "owner": "dubecti-z-dubce",
@@ -39,51 +38,125 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "dědici Jana Dubečského přistavěli věž a baštu s předsunutým opevněním; rod vymřel roku 1508"
+   "note": "tvrz koupil od Frany Howera; rod vymřel 1508 po meči"
   },
   {
    "owner": "z-zap",
    "owner_wiki": null,
-   "person": "Zapové ze Zap",
+   "person": "Zapští ze Zap",
    "from": 1508,
    "to": 1616,
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "zdědili majetek po vymření Dubečských z Dubče, provedli přestavbu na renesanční zámek; článek o rodu na cs.wiki nenalezen"
+   "note": "zdědila dcera posledního Dubečského Žofie se svým manželem; přestavba na renesanční zámek"
   },
   {
    "owner": "soukromnik",
    "owner_wiki": null,
    "person": "Ondřej Hannewald z Eckersdorfu",
    "from": 1616,
+   "to": 1629,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "tajný rada císaře Rudolfa II.; jeho syn Jan Arnošt prodal statek roku 1629"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Magdalena Helena Puchmová z Valdštejna",
+   "from": 1629,
    "to": null,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "rada císaře Rudolfa II.; za třicetileté války byl zámek zpustošen, další přesun majetku do roku 1669 není v článku uveden"
+   "note": "statek zpustošený za třicetileté války; poté Antonín Binago"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Antonín Binago a syn Augustin",
+   "from": 1636,
+   "to": 1656,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "statek zpustošený za třicetileté války; opravili hlavně kostel"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Ondřej Borovanský z Borovan",
+   "from": 1656,
+   "to": 1669,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe"
   },
   {
    "owner": "cirkev",
    "owner_wiki": null,
-   "person": "jezuité od kostela sv. Klimenta na Starém Městě pražském",
+   "person": "jezuité od sv. Klimenta na Starém Městě pražském",
    "from": 1669,
    "to": 1685,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "obnovili zpustošenou stavbu, postavili pivovar mezi zámkem a kostelem"
+   "note": "zámek opravili jako trojkřídlou budovu, postavili pivovar"
   },
   {
-   "owner": "neznamo",
+   "owner": "soukromnik",
    "owner_wiki": null,
-   "person": null,
+   "person": "Jan Dětřich z Rummerskirchenu",
    "from": 1685,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "sekretář dvorské komory; v 18. stol. statek často střídal majitele (1712 Kornelie z Trauttmansdorfu)"
+  },
+  {
+   "owner": "desfoursove",
+   "owner_wiki": "Desfoursové",
+   "person": "Albrecht Maxmilián Antonín Desfours",
+   "from": 1718,
+   "to": 1748,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "1748 koupil Ottavio Piccolomini, později se statek dědictvím vrátil k Desfoursům; zámek upadal a sloužil hospodářsky"
+  },
+  {
+   "owner": "piccolominiove",
+   "owner_wiki": "Piccolominiové",
+   "person": "Ottavio Piccolomini",
+   "from": 1748,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe"
+  },
+  {
+   "owner": "desfoursove",
+   "owner_wiki": "Desfoursové",
+   "person": "Desfoursové",
+   "from": null,
+   "to": 1797,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "statek se k nim dědictvím vrátil"
+  },
+  {
+   "owner": "dohalsti-z-dohalic",
+   "owner_wiki": "Dohalští z Dohalic",
+   "person": "Adam Dohalský z Dohalic",
+   "from": 1797,
    "to": 1802,
    "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "zámek dále často střídal majitele a chátral, jmenovití vlastníci nejsou v článku uvedeni"
+   "how": "koupe"
   },
   {
    "owner": "nosticove",
@@ -94,40 +167,64 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "nechal zámek přestavět v klasicistním slohu; větev Nostic-Rieneck, samostatný článek na cs.wiki nenalezen"
+   "note": "pruhonickypark.cz uvádí nákup 1800 (hrady.cz a cs.wiki 1802); klasicistní přestavba; po jeho smrti 1840 syn Albert, pak dcera Marie Antonie Gabriela"
   },
   {
    "owner": "silva-taroucove",
    "owner_wiki": "Silva-Taroucové",
-   "person": "Arnošt Silva-Tarouca",
+   "person": "Arnošt Emanuel Silva-Tarouca",
    "from": 1885,
    "to": 1927,
    "from_approx": false,
    "to_approx": false,
    "how": "snatek",
-   "note": "provdáním dědičky Marie Antonie Gabriely Nostic-Rieneck; 1889-1894 novorenesanční přestavba, souběžně budoval okolní park"
+   "note": "sňatek s Marií Antonií Gabrielou Nostic-Rieneck 16. 6. 1885; novorenesanční přestavba 1889-1894 a založení parku"
   },
   {
    "owner": "stat",
    "owner_wiki": null,
-   "person": null,
+   "person": "Československý stát (dnes Botanický ústav AV ČR)",
    "from": 1927,
    "to": null,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "prodáno pro finanční náročnost údržby; dnes sídlo Botanického ústavu Akademie věd ČR"
+   "note": "stát koupil statek i s parkem; od roku 1962 zde sídlí Botanický ústav"
   }
  ],
  "events": [
-  {"year": 1404, "text": "tvrz získává Jan Dubečský z Dubče"},
-  {"year": 1508, "text": "po vymření Dubečských dědí majetek Zapové ze Zap a přestavují jej na renesanční zámek"},
-  {"year": 1616, "text": "zámek kupuje Ondřej Hannewald z Eckersdorfu, rada císaře Rudolfa II."},
-  {"year": 1669, "text": "jezuité od sv. Klimenta kupují zpustošenou stavbu a obnovují ji"},
-  {"year": 1802, "text": "zámek kupuje hrabě Jan Nepomuk Nostic-Rieneck a přestavuje jej klasicistně"},
-  {"year": 1889, "text": "1889-1894 novorenesanční přestavba za Arnošta Silva-Taroucy, zakládá se park"},
-  {"year": 1927, "text": "Silva-Tarouca prodává zámek i park československému státu"},
-  {"year": 2010, "text": "zámek spolu s parkem zapsán na seznam národních kulturních památek"}
+  {
+   "year": 1404,
+   "text": "tvrz prodána Janu Dubečskému z Dubče, poprvé zmíněna v písemných pramenech"
+  },
+  {
+   "year": 1508,
+   "text": "po vymření Dubečských zdědili statek Zapští ze Zap a přestavěli jej na renesanční zámek"
+  },
+  {
+   "year": 1669,
+   "text": "zpustošený zámek koupili jezuité od sv. Klimenta a obnovili jej"
+  },
+  {
+   "year": 1802,
+   "text": "zámek koupil Jan Nepomuk Nostic-Rieneck a přestavěl jej klasicistně"
+  },
+  {
+   "year": 1889,
+   "text": "1889-1894 novorenesanční přestavba za Arnošta Silva-Taroucy, zakládá se park"
+  },
+  {
+   "year": 1927,
+   "text": "Silva-Tarouca prodal zámek i park československému státu"
+  },
+  {
+   "year": 2010,
+   "text": "zámek spolu s parkem zapsán na seznam národních kulturních památek"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Průhonice_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Průhonice_(zámek)",
+  "https://www.pruhonickypark.cz/o-parku/zamek/historie-zamku/",
+  "https://www.hrady.cz/zamek-pruhonice-praha-zapad"
+ ]
 }

@@ -1,30 +1,172 @@
 {
  "id": "Q12033634",
  "name": "Vodní hrad Lipý",
- "founded": {"year": 1268, "approx": true, "text": "kolem roku 1268 založil gotický vodní hrad Chval (případně jeho syn Čeněk) z rodu Ronovců na ostrově mezi rameny Ploučnice"},
- "summary": "Vodní hrad Lipý založil kolem roku 1268 Chval z rodu Ronovců; jeho syn Jindřich z Lipé hrad přestavěl na kamenný a v letech 1305-1319 založil při něm městečko, dnešní Českou Lípu. Od roku 1319 hrad přes tři století (s přestávkami po husitském vypálení 1426 a válečných škodách) drželi Berkové z Dubé, po Bílé hoře jej krátce vlastnil Albrecht z Valdštejna a poté Harrachové; přes 200 let pak patřil Kounicům, kteří jej roku 1871 prodali podnikatelům Altschulovi a Müllerovi na cukrovar. Po jejich emigraci převzalo areál město Česká Lípa; zbytky zámku byly roku 1957 z větší části odstřeleny a od 90. let 20. století je hrad postupně obnovován a slouží ke kulturním účelům.",
+ "founded": {
+  "year": 1268,
+  "approx": true,
+  "text": "Kolem roku 1268 založil gotický vodní hrad Chval (případně jeho syn Čeněk) z rodu Ronovců na ostrově mezi rameny Ploučnice; hrady.cz a Kultura Česká Lípa kladou založení na konec 13. století a první zmínku k roku 1277 (Čeněk z Lipé)."
+ },
+ "summary": "Vodní hrad Lipý založil koncem 13. století rod Ronovců (Chval, Čeněk, Jindřich z Lipé), Jindřich při něm založil městečko, dnešní Českou Lípu. Od roku 1319 jej přes tři století drželi Berkové z Dubé, po Bílé hoře Albrecht z Valdštejna a jeho dědicové Harrachové a Kounicové. Hrad byl přestavěn na renesanční zámek, roku 1867 pronajat a poté prodán Altschulovi a Müllerovi na cukrovar, který z něj téměř nic nenechal. V roce 1957 byly zbytky odstřeleny, od 90. let se areál obnovuje a patří městu Česká Lípa.",
  "owners": [
-  {"owner": "pani-z-lipe", "owner_wiki": "Páni z Lipé", "person": "Chval, případně syn Čeněk z Lipé", "from": 1268, "to": 1278, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "Čeněk se jako první psal 'z Lipé' (1277), padl 1278 v bitvě na Moravském poli; hrad převzal jeho syn Jindřich"},
-  {"owner": "pani-z-lipe", "owner_wiki": "Páni z Lipé", "person": "Jindřich z Lipé", "from": 1278, "to": 1319, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "přestavěl dřevěný hrad na kamenný, mezi lety 1305-1319 založil městečko Českou Lípu; roku 1319 hrad prodal Berkům z Dubé a odstěhoval se na Moravu"},
-  {"owner": "berkove-z-dube", "owner_wiki": "Berkové z Dubé", "person": "Hynek Berka z Dubé a Lipé a potomci", "from": 1319, "to": 1435, "from_approx": false, "to_approx": false, "how": "koupe", "note": "rod držel hrad přes sto let; 19. května 1426 jej vypálilo a dobylo husitské vojsko Jana Roháče z Dubé; po smrti posledního zmiňovaného vlastníka (Hynka Hlaváče) přešel sňatkem na Zikmunda Děčínského z Vartenberka"},
-  {"owner": "vartenberkove", "owner_wiki": "Vartenberkové", "person": "Zikmund Děčínský z Vartenberka", "from": 1435, "to": 1444, "from_approx": false, "to_approx": false, "how": "snatek", "note": "oženil se s vdovou po Hynku Hlaváči Berkovi; roku 1444 hrad dobylo žoldnéřské vojsko lužického Šestiměstí jako odvetu za loupeživé výpravy jeho příbuzného Jana z Ralska, poté byl vrácen Berkům"},
-  {"owner": "berkove-z-dube", "owner_wiki": "Berkové z Dubé", "person": "Jindřich Berka z Lipé a na Milštejně a potomci", "from": 1444, "to": 1607, "from_approx": false, "to_approx": false, "how": "jine", "note": "po Jindřichově smrti děleno mezi čtyři syny, 1502 další dělení mezi vnuky, podíly postupně rozprodávány (v mezidobí drželi i Vartenberkové); v 16. století přestavba na zámek, 1591 doklad prodeje, koupí Kunhuty Berkové sjednocen celý zámek; poslední z rodu Adam z Berků zemřel 1607"},
-  {"owner": "salhausenove", "owner_wiki": "Salhausenové", "person": "Jan Abraham ze Salhausenu, poté bratr Volf", "from": 1607, "to": 1622, "from_approx": false, "to_approx": true, "how": "snatek", "note": "oženil se s vdovou po Adamovi z Berků Annou Berkovou; po bitvě na Bílé hoře byl majetek zkonfiskován"},
-  {"owner": "valdstejnove", "owner_wiki": "Valdštejnové", "person": "Albrecht z Valdštejna", "from": 1622, "to": 1636, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil od české komory 19. prosince 1622, sídlil však na Novém zámku (Zahrádky) a hrad nechal chátrat; roku 1636 mu byl majetek zkonfiskován"},
-  {"owner": "harrachove", "owner_wiki": "Harrachové", "person": "Isabela z Harrachu", "from": 1636, "to": null, "from_approx": false, "to_approx": true, "how": "konfiskace", "note": "získala zkonfiskovaný valdštejnský majetek; roku 1643 byl zámek dobyt a vyrabován švédským vojskem, čímž skončila jeho sídelní funkce"},
-  {"owner": "kounicove", "owner_wiki": "Kounicové", "person": null, "from": null, "to": 1871, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "cs.wiki neuvádí, kdy ani jak rod Kouniců zámek získal, jen že jej vlastnil asi 200 let; roku 1778 zde obědval císař Josef II.; roku 1820 velký požár zničil město i větší část zámku; roku 1867 zámek pronajali a 1871 za 27000 zlatých prodali Salomonu Altschulovi a Josefu Müllerovi"},
-  {"owner": "soukromnik", "owner_wiki": null, "person": "Salomon Altschul a Josef Müller (cukrovar)", "from": 1871, "to": 1938, "from_approx": false, "to_approx": true, "how": "koupe", "note": "vybudovali v areálu cukrovar a při stavbě rafinérie zbytky zámku téměř zlikvidovali; provozovali do začátku 1. světové války; kvůli židovskému původu později emigrovali, přesný rok neuveden"},
-  {"owner": "mesto", "owner_wiki": null, "person": "Česká Lípa", "from": 1938, "to": null, "from_approx": true, "to_approx": false, "how": "jine", "note": "areál převzalo město po emigraci Altschulových; za války sklady a ubytovny, 1957 odstřeleny zbytky jižního paláce; od 1995 archeologický výzkum a obnova, dnes ve správě městské příspěvkové organizace Lipý Česká Lípa"}
+  {
+   "owner": "pani-z-lipe",
+   "owner_wiki": "Páni z Lipé",
+   "person": "Chval, případně syn Čeněk z Lipé",
+   "from": 1268,
+   "to": 1278,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "Čeněk se jako první psal 'z Lipé' (1277), padl 1278 na Moravském poli; hrad převzal syn Jindřich. hrady.cz uvádí založení Chvalem roku 1277."
+  },
+  {
+   "owner": "pani-z-lipe",
+   "owner_wiki": "Páni z Lipé",
+   "person": "Jindřich z Lipé",
+   "from": 1278,
+   "to": 1319,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "přestavěl hrad na kamenný, 1305-1319 založil městečko Českou Lípu; 1319 hrad prodal příbuzným Berkům z Dubé a odešel na Moravu (hrady.cz uvádí koupi Berky až 1327, cs.wiki a Kultura Česká Lípa 1319)"
+  },
+  {
+   "owner": "berkove-z-dube",
+   "owner_wiki": "Berkové z Dubé",
+   "person": "Hynek Berka z Dubé a Lipé a potomci",
+   "from": 1319,
+   "to": 1435,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "19. 5. 1426 hrad dobylo husitské vojsko Jana Roháče z Dubé; po Hynku Hlaváčovi hrad 1435 připadl jeho vdově a jejímu manželovi"
+  },
+  {
+   "owner": "vartenberkove",
+   "owner_wiki": "Vartenberkové",
+   "person": "Zikmund Děčínský z Vartenberka",
+   "from": 1435,
+   "to": 1444,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "snatek",
+   "note": "manžel vdovy po Hynku Hlaváčovi; 1444 hrad dobylo vojsko lužického Šestiměstí a litoměřického kraje a předalo jej Berkům"
+  },
+  {
+   "owner": "berkove-z-dube",
+   "owner_wiki": "Berkové z Dubé",
+   "person": "Jindřich Berka z Dubé a jeho synové a vnuci",
+   "from": 1444,
+   "to": 1607,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "po Jindřichovi dělení mezi čtyři syny, 1502 další dělení mezi vnuky; podíly získávali i Vartenberkové; v 16. stol. přestavba na zámek; 1591 Kunhuta Berková skoupila druhou polovinu; poslední Adam Berka zemřel 1607"
+  },
+  {
+   "owner": "salhausenove",
+   "owner_wiki": "Salhausenové",
+   "person": "Jan Abraham ze Salhausenu, po něm bratr Volf",
+   "from": 1607,
+   "to": 1622,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "snatek",
+   "note": "Jan Abraham získal panství sňatkem s vdovou po Adamovi Berkovi Annou; roku 1616 koupila panství od dcery její matka; po povstání bylo majetek zkonfiskován (Kultura Česká Lípa uvádí konfiskaci 1620)"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Albrecht z Valdštejna",
+   "from": 1622,
+   "to": 1636,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil od české komory 19. 12. 1622, sídlil na Novém zámku (Zahrádky), hrad chátral; po 1634 zůstalo panství jeho vdově Isabele z Harrachu, majetek byl zkonfiskován roku 1636 (cs.wiki)"
+  },
+  {
+   "owner": "harrachove",
+   "owner_wiki": "Harrachové",
+   "person": "Isabela z Harrachu, vdova po Albrechtovi z Valdštejna",
+   "from": 1636,
+   "to": 1654,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "konfiskace",
+   "note": "1643 zámek dobyli a vyplenili Švédové; hrady.cz uvádí, že ji po roce 1654 zdědila dcera Marie Alžběta, od 1633 manželka Rudolfa z Kounic"
+  },
+  {
+   "owner": "kounicove",
+   "owner_wiki": "Kounicové",
+   "person": "Marie Alžběta z Valdštejna provdaná z Kounic a její potomci",
+   "from": 1654,
+   "to": 1882,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "zámek chátral (1681 uváděn mezi pustými), 1778 zde obědval Josef II., 1820 požár; 1867 hlavní budova pronajata Salomonu Altschulovi a Josefu Müllerovi; cs.wiki uvádí prodej 1871 za 27000 zlatých, hrady.cz prodej Josefu Altschulovi až roku 1882 (Albrecht Vincenc z Kounic) - zvolen 1882, rozpor nevyřešen; začátek 1654 odvozen z hrady.cz (po roce 1654)"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Salomon a Josef Altschulové a Josef Müller (cukrovar)",
+   "from": 1882,
+   "to": 1938,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "cukrovar a rafinérie téměř zlikvidovaly zbytky zámku, provoz do 1. světové války, 1925 nouzové byty; roku 1938 přešel areál do správy města"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "Česká Lípa",
+   "from": 1938,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "za války sklady a ubytovny, 1957 odstřeleny zbytky zámku; od 1995 archeologický výzkum a obnova, dnes spravuje městská příspěvková organizace Lipý Česká Lípa"
+  }
  ],
  "events": [
-  {"year": 1268, "text": "založení hradu Chvalem (případně Čeňkem) z rodu Ronovců"},
-  {"year": 1319, "text": "Jindřich z Lipé prodal hrad Berkům z Dubé"},
-  {"year": 1426, "text": "hrad dobylo a vypálilo husitské vojsko Jana Roháče z Dubé"},
-  {"year": 1622, "text": "hrad koupil od české komory Albrecht z Valdštejna"},
-  {"year": 1643, "text": "zámek dobylo a vyrabovalo švédské vojsko, konec jeho sídelní funkce"},
-  {"year": 1820, "text": "velký požár zničil město i větší část zámku"},
-  {"year": 1957, "text": "zbytky jižního paláce byly navzdory plánu jen na částečnou demolici odstřeleny"},
-  {"year": 1995, "text": "zahájen kompletní archeologický výzkum a postupná obnova hradu (do 2003)"}
+  {
+   "year": 1319,
+   "text": "Jindřich z Lipé prodal hrad Berkům z Dubé"
+  },
+  {
+   "year": 1426,
+   "text": "hrad dobylo a vypálilo husitské vojsko Jana Roháče z Dubé"
+  },
+  {
+   "year": 1622,
+   "text": "hrad koupil od české komory Albrecht z Valdštejna"
+  },
+  {
+   "year": 1643,
+   "text": "zámek vyplenili Švédové, konec jeho sídelní funkce"
+  },
+  {
+   "year": 1820,
+   "text": "velký požár zničil město i větší část zámku"
+  },
+  {
+   "year": 1867,
+   "text": "hlavní budova pronajata Altschulovi a Müllerovi pro cukrovar"
+  },
+  {
+   "year": 1957,
+   "text": "zbytky jižního paláce odstřeleny"
+  },
+  {
+   "year": 1995,
+   "text": "zahájen archeologický výzkum a postupná obnova hradu"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Lipý"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Lipý",
+  "https://www.hrady.cz/hrad-lipy-ceska-lipa/texty?pos=1000&tid=8389",
+  "https://www.cl-kultura.cz/o-hradu-lipy/"
+ ]
 }

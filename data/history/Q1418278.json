@@ -2,29 +2,114 @@
  "id": "Q1418278",
  "name": "Slavkov u Brna",
  "founded": {
-  "year": null,
+  "year": 1200,
   "approx": true,
-  "text": "Ve 13. století zde existovala komenda řádu německých rytířů; koncem 16. století byl na starších základech vybudován renesanční zámek, koncem 17. století přestavěný na barokní sídlo Kouniců."
+  "text": "Kolem roku 1200 vybudována komenda řádu německých rytířů (první písemná zmínka o Slavkově 1237); kolem roku 1590 renesanční zámek, od konce 17. století barokní přestavba podle Domenica Martinelliho."
  },
- "summary": "Areál zámku vznikl na místě středověké komendy řádu německých rytířů, koncem 16. století zde stál renesanční zámek. Od roku 1509 patřilo panství rodu Kouniců, kteří jej koncem 17. a v 18. století přestavěli na velkolepé barokní sídlo podle návrhu Domenika Martinelliho; v jeho blízkosti se roku 1805 odehrála bitva u Slavkova. Po vymření kounicovské linie roku 1919 zámek zdědili Pálffyové, po druhé světové válce připadl československému státu a dnes jej vlastní město Slavkov u Brna.",
+ "summary": "Na místě dnešního zámku stála od přelomu 12. a 13. století komenda řádu německých rytířů. Roku 1509 panství získal rod Kouniců, který kolem roku 1590 přestavěl tvrz na renesanční zámek a od konce 17. století jej proměnil v rozlehlé barokní sídlo podle Domenica Martinelliho; v okolí se roku 1805 odehrála bitva u Slavkova. Po smrti Evžena z Kounic roku 1919 zámek přešel na Pálffyové, po roce 1945 na stát a dnes jej vlastní město Slavkov u Brna.",
  "owners": [
-  {"owner": "rad-nemeckych-rytiru", "owner_wiki": "Řád německých rytířů", "person": null, "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "ve 13. století zde existovala komenda řádu; wikipedie neuvádí roky ani okolnosti zániku jejich držby"},
-  {"owner": "kounicove", "owner_wiki": "Kounicové", "person": "Dominik Ondřej Kounic", "from": 1509, "to": 1705, "from_approx": false, "to_approx": false, "how": "koupe", "note": "rok 1509 podle přehledu rodu Kouniců; koncem 17. století dal Dominik Ondřej Kounic podnět k barokní přestavbě podle Martinelliho, zemřel 1705 s dokončeným pouze západním křídlem"},
-  {"owner": "kounicove", "owner_wiki": "Kounicové", "person": "Maxmilián Oldřich, hrabě z Rietbergu", "from": 1705, "to": null, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "syn a rodový dědic Dominika Ondřeje, pokračoval ve stavbě s architektem Ignácem Valmagginim"},
-  {"owner": "kounicove", "owner_wiki": "Kounicové", "person": "Václav Antonín kníže z Kounic a Rietbergu", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "nejvýznamnější představitel rodu, kancléř Marie Terezie, Josefa II., Leopolda II. a Františka II., dokončil zámecký komplex; rok jeho smrti wikipedie v tomto článku neuvádí"},
-  {"owner": "kounicove", "owner_wiki": "Kounicové", "person": "hrabě Eugen Kounic", "from": null, "to": 1919, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "poslední mužský potomek rodu Kouniců, zemřel roku 1919"},
-  {"owner": "palffyove", "owner_wiki": "Pálffyové", "person": null, "from": 1919, "to": 1945, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "po smrti Eugena Kounice zámek zdědil rod Pálffyů; po druhé světové válce přešel na československý stát"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": true, "to_approx": false, "how": "konfiskace", "note": "stal se majetkem československého státu"},
-  {"owner": "mesto", "owner_wiki": null, "person": "město Slavkov u Brna", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "jine", "note": "dnešním vlastníkem je město Slavkov u Brna; wikipedie neuvádí přesný rok přechodu od státu na město"}
+  {
+   "owner": "rad-nemeckych-rytiru",
+   "owner_wiki": "Řád německých rytířů",
+   "person": null,
+   "from": 1200,
+   "to": 1410,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "zalozeni",
+   "note": "komenda kolem roku 1200, doložena 1237; zámek Slavkov uvádí vznik kolem 1200; konec držby po bitvě u Grunwaldu 1410 uvádí jen turistický web, jinde nepotvrzeno"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Václav IV. a následní střídající se majitelé",
+   "from": 1410,
+   "to": 1509,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "jine",
+   "note": "po Grunwaldu 1410 panství získal král Václav IV. (turistickyatlas.cz), poté se majitelé střídali; jména a roky zdroje neuvádějí"
+  },
+  {
+   "owner": "kounicove",
+   "owner_wiki": "Kounicové",
+   "person": "Oldřich z Kounic",
+   "from": 1509,
+   "to": 1919,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "hlavní sídlo rodu; Oldřich III. koncem 16. stol. renesanční zámek; Bedřichovi a Karlovi zkonfiskováno za stavovského povstání, zámek získal Lev Vilém (hrabě 1642); Dominik Ondřej (1654-1705) zahájil barokní přestavbu, Maxmilián Oldřich a Václav Antonín (1711-1794, kníže, kancléř) ji dokončili"
+  },
+  {
+   "owner": "palffyove",
+   "owner_wiki": "Pálffyové",
+   "person": "Pálffyové (dědicové po Evženu z Kounic)",
+   "from": 1919,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "rod Kouniců vymřel 1919 smrtí Evžena; zámek převzal uherský hraběcí rod Pálffyů; zdroje se liší: turistickyatlas.cz píše, že Kounicům patřil do 1945, zámek Slavkov a cs.wiki uvádějí Pálffyovce od 1919"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "po válce Pálffyům majetek zabaven, zámek přešel do správy státu; rok přechodu na město zdroje neuvádějí"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "město Slavkov u Brna",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "dnešní vlastník; rok převodu ze státu na město zdroje neuvádějí"
+  }
  ],
  "events": [
-  {"year": 1509, "text": "panství Slavkov získává rod Kouniců"},
-  {"year": 1705, "text": "smrt Dominika Ondřeje Kounice, dokončeno pouze západní křídlo zámku"},
-  {"year": 1769, "text": "dokončena výmalba zámecké kaple sv. Kříže Josefem Pichlerem, tím dokončen celý zámecký komplex"},
-  {"year": 1805, "text": "bitva u Slavkova (bitva tří císařů), příměří podepsáno v Historickém sále zámku"},
-  {"year": 1919, "text": "smrtí hraběte Eugena Kounice vymírá rod po meči, zámek dědí Pálffyové"},
-  {"year": 1945, "text": "po druhé světové válce se zámek stává majetkem československého státu"},
-  {"year": 2008, "text": "zámek vyhlášen národní kulturní památkou"}
+  {
+   "year": 1237,
+   "text": "první písemný záznam o Slavkovu a komendě řádu německých rytířů"
+  },
+  {
+   "year": 1416,
+   "text": "udělení znakového privilegia městu, prvního v Čechách"
+  },
+  {
+   "year": 1509,
+   "text": "panství získal rod Kouniců (Oldřich z Kounic)"
+  },
+  {
+   "year": 1590,
+   "text": "vybudován renesanční zámek (kolem roku 1590, za Oldřicha III. z Kounic)"
+  },
+  {
+   "year": 1805,
+   "text": "bitva u Slavkova, příměří podepsáno v Historickém sále zámku"
+  },
+  {
+   "year": 1919,
+   "text": "smrt Evžena z Kounic, rod vymřel, zámek přebírají Pálffyové"
+  },
+  {
+   "year": 2008,
+   "text": "zámek vyhlášen národní kulturní památkou"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Slavkov_u_Brna_(zámek)", "https://cs.wikipedia.org/wiki/Kounicové"]
+ "sources": [
+  "https://www.zamek-slavkov.cz/o-zamku/historie/",
+  "https://www.zamek-slavkov.cz/o-zamku/historie/kounicove/",
+  "https://turistickyatlas.cz/vse/misto/6366_zamek-slavkov-u-brna.html",
+  "https://www.mistopisy.cz/pruvodce/body-zajmu/636/zamek-slavkov-austerlitz/",
+  "https://cs.wikipedia.org/wiki/Slavkov_u_Brna_(zámek)"
+ ]
 }

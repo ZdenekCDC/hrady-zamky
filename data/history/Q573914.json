@@ -1,87 +1,133 @@
 {
- "id": "Q573914",
- "name": "Oltářík",
- "founded": {
-  "year": 1436,
-  "approx": true,
-  "text": "Nejspíše v letech 1434-1438 nechal husitský hejtman Jakoubek z Vřesovic postavit hrad na osamělém vrchu Hrádek, aby zajistil své majetky ve sporu s žatecko-lounským svazem."
- },
- "summary": "Hrad Oltářík (též Hrádek) nad vsí Děkovka nechal nejspíše v letech 1434-1438 postavit husitský hejtman Jakoubek z Vřesovic. Roku 1450 jej zastavil Janovi z Polenska, po jehož synu Mikulášovi hrad roku 1468 koupili bratři Zajícové z Hazmburka a kolem roku 1476 přešel na pány z Illburka, kterým sloužil hlavně k vojenské ochraně třebenického panství. Po smrti dědičky Anežky z Helfenštejna (závěť nabyla platnosti 1544) byl hrad již pustý, získal jej neznámým způsobem Volf z Vřesovic a naposledy je připomínán jako poustka roku 1612; okolnosti a přesná doba jeho zániku nejsou známy.",
- "owners": [
-  {
-   "owner": "pani-z-vresovic",
-   "owner_wiki": "Páni z Vřesovic",
-   "person": "Jakoubek z Vřesovic",
-   "from": 1436,
-   "to": 1450,
-   "from_approx": true,
-   "to_approx": false,
-   "how": "zalozeni",
-   "note": "hrad postavil nejspíše 1434-1438, bez konkrétních dokladů; první písemná zmínka o hradu je z roku 1450"
+  "id": "Q573914",
+  "name": "Oltářík",
+  "founded": {
+    "year": null,
+    "approx": false,
+    "text": "Hrad nechal postavit husitský hejtman Jakoubek z Vřesovic; datace nejistá (cs.wiki 1434-1438, jiné zdroje 1440-1450 nebo po 1426), první zmínka 1450"
   },
-  {
-   "owner": "z-polenska",
-   "owner_wiki": null,
-   "person": "Jan a Mikuláš z Polenska",
-   "from": 1450,
-   "to": 1468,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "lenni",
-   "note": "Jakoubek z Vřesovic zastavil hrad Janovi z Polenska za 300 kop grošů; jeho syn Mikuláš byl 1468 nucen hrad prodat"
-  },
-  {
-   "owner": "zajicove-z-hazmburka",
-   "owner_wiki": "Zajícové z Hazmburka",
-   "person": "Jan a Oldřich Zajícové z Hazmburka",
-   "from": 1468,
-   "to": 1476,
-   "from_approx": false,
-   "to_approx": true,
-   "how": "koupe",
-   "note": "hrad sloužil především k ochraně třebenického panství; další zprávy o hradu chybí až do roku 1531"
-  },
-  {
-   "owner": "ilburkove",
-   "owner_wiki": "Ilburkové",
-   "person": "Vilém starší (případně Vilém mladší) z Illburka",
-   "from": 1476,
-   "to": 1531,
-   "from_approx": true,
-   "to_approx": false,
-   "how": "neznamo",
-   "note": "hrad získali nejspíše 1476, kdy Vilém starší dostal do zástavy Třebenice; méně pravděpodobně jej koupil až Vilém mladší roku 1505; roku 1531 Vilém mladší odkázal hrad v závěti manželce"
-  },
-  {
-   "owner": "ilburkove",
-   "owner_wiki": "Ilburkové",
-   "person": "Anežka z Helfenštejna",
-   "from": 1531,
-   "to": 1544,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "dedictvi",
-   "note": "závěť Viléma mladšího z Illburka vešla v platnost 1544, kdy je hrad uveden jako pustý (podle D. Menclové byl opuštěn už po 1468, podle A. Sedláčka až po 1531)"
-  },
-  {
-   "owner": "pani-z-vresovic",
-   "owner_wiki": "Páni z Vřesovic",
-   "person": "Volf z Vřesovic",
-   "from": 1544,
-   "to": 1612,
-   "from_approx": true,
-   "to_approx": true,
-   "how": "neznamo",
-   "note": "hrad získal po Anežčině smrti neznámým způsobem a povolil blíže neznámému šlechtici užívat přídomek z Oltáříku; naposledy je hrad zmíněn 1612 jako poustka, další osud a způsob zániku nejsou známy"
-  }
- ],
- "events": [
-  {"year": 1436, "text": "Jakoubek z Vřesovic nejspíše staví hrad (přesný letopočet nedoložen)"},
-  {"year": 1450, "text": "první písemná zmínka o hradu; zastaven Janovi z Polenska"},
-  {"year": 1468, "text": "Mikuláš z Polenska prodává hrad bratrům Zajícům z Hazmburka"},
-  {"year": 1531, "text": "Vilém mladší z Illburka odkazuje hrad v závěti manželce Anežce z Helfenštejna"},
-  {"year": 1544, "text": "závěť nabývá platnosti, hrad je uveden jako pustý"},
-  {"year": 1612, "text": "poslední zmínka o hradu jako poustce"}
- ],
- "sources": ["https://cs.wikipedia.org/wiki/Oltářík"]
+  "summary": "Hrad Oltářík (Hrádek) nad Děkovkou nechal postavit husitský hejtman Jakoubek z Vřesovic, datace stavby je nejistá. Roku 1450 jej zastavil Janovi z Polenska, od jehož syna Mikuláše jej 1468 získali Zajícové z Hazmburka a poté páni z Illburka, kterým sloužil hlavně k vojenské ochraně. Po smrti Anežky z Helfenštejna se hrad již pustý dostal Vřesovcům; naposledy je připomínán jako poustka roku 1612, okolnosti zániku nejsou známy. Dnes je ve státním vlastnictví (správce Lesy ČR).",
+  "owners": [
+    {
+      "owner": "pani-z-vresovic",
+      "owner_wiki": "Páni z Vřesovic",
+      "person": "Jakoubek z Vřesovic",
+      "from": null,
+      "to": 1450,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "zalozeni",
+      "note": "Zakladatel; dataci stavby zdroje kladou odlišně."
+    },
+    {
+      "owner": "z-polenska",
+      "owner_wiki": null,
+      "person": "Jan z Polenska a z Vršovic, poté syn Mikuláš",
+      "from": 1450,
+      "to": 1468,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "lenni",
+      "note": "Zástava za 300 kop grošů, kterou Vřesovcové nevyplatili."
+    },
+    {
+      "owner": "zajicove-z-hazmburka",
+      "owner_wiki": "Zajícové z Hazmburka",
+      "person": "Jan a Oldřich Zajícové z Hazmburka",
+      "from": 1468,
+      "to": null,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "Od Mikuláše z Polenska; Zajícové získali hrad za zástavu/koupi, páni z Illburka jej převzali neznámo kdy (cs.wiki nejspíše 1476)."
+    },
+    {
+      "owner": "ilburkove",
+      "owner_wiki": "Ilburkové",
+      "person": "Vilém starší, poté Vilém mladší z Illburka a na Ronově",
+      "from": 1476,
+      "to": 1531,
+      "from_approx": true,
+      "to_approx": false,
+      "how": "neznamo",
+      "note": "Rok 1476 je odhad (cs.wiki); jiná varianta 1505."
+    },
+    {
+      "owner": "soukromnik",
+      "owner_wiki": null,
+      "person": "Anežka z Helfenštejna (doživotní správa podle závěti Viléma mladšího)",
+      "from": 1531,
+      "to": 1550,
+      "from_approx": false,
+      "to_approx": true,
+      "how": "dedictvi",
+      "note": "Závěť 1531, potvrzena 1544, hrad již pustý; rok smrti přibližně 1550."
+    },
+    {
+      "owner": "pani-z-vresovic",
+      "owner_wiki": "Páni z Vřesovic",
+      "person": "Volf z Vřesovic",
+      "from": 1550,
+      "to": 1569,
+      "from_approx": true,
+      "to_approx": false,
+      "how": "neznamo",
+      "note": "Získal hrad po Anežce neznámým způsobem (kolem 1550); po jeho smrti spor dědiců."
+    },
+    {
+      "owner": "pani-z-vresovic",
+      "owner_wiki": "Páni z Vřesovic",
+      "person": "Šebestián, Václav a Jan z Vřesovic, od 1612 Jan z Vřesovic a Podsedic",
+      "from": 1576,
+      "to": 1612,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "dedictvi",
+      "note": "Rok 1576 urovnání sporu; 1612 naposledy připomínán jako poustka, připojen k Podsedicům."
+    },
+    {
+      "owner": "stat",
+      "owner_wiki": null,
+      "person": "správce Lesy ČR",
+      "from": null,
+      "to": null,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "neznamo",
+      "note": "Dnešní majitel podle ohradech.eu; rok převodu neuveden."
+    }
+  ],
+  "events": [
+    {
+      "year": 1450,
+      "text": "první písemná zmínka, zástava Janu z Polenska"
+    },
+    {
+      "year": 1468,
+      "text": "Mikuláš z Polenska hrad postoupil Zajícům z Hazmburka"
+    },
+    {
+      "year": 1531,
+      "text": "Vilém mladší z Illburka hrad odkázal manželce Anežce z Helfenštejna"
+    },
+    {
+      "year": 1544,
+      "text": "hrad označen jako pustý"
+    },
+    {
+      "year": 1576,
+      "text": "Vřesovcové po sporu o dědictví získali pustý hrad s okolními vesnicemi"
+    },
+    {
+      "year": 1612,
+      "text": "poslední zmínka o hradu jako poustce"
+    }
+  ],
+  "sources": [
+    "https://cs.wikipedia.org/wiki/Oltářík",
+    "https://www.hrady.cz/hrad-oltarik-dekovka/",
+    "https://www.ohradech.eu/oltarik.html",
+    "https://www.hrady-ceskeho-stredohori.cz/pages/hrad-oltarik.html",
+    "https://ceskestredohori.cz/mista/oltarik.htm"
+  ]
 }

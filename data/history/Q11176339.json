@@ -1,59 +1,499 @@
 {
  "id": "Q11176339",
  "name": "Červený hrádek",
- "founded": {"year": 1413, "approx": true, "text": "Hrad Borek na místě dnešního zámku postavil neznámý stavebník na přelomu 14. a 15. století; za možného zakladatele bývá považován Dětřich Kraa, který jej mohl založit v letech 1411-1415 (August Sedláček a Rudolf Anděl navíc Borek zaměňovali s nedalekým Novým Žeberkem)"},
- "summary": "Na místě dnešního raně barokního zámku Červený hrádek u Jirkova stál od počátku 15. století hrad Borek, který za husitských válek přebarvil na červeno Václav z Moravěvsi, odtud pozdější název. Po dlouhé řadě majitelů a sporných držav ve 14.-17. století (mimo jiné Boskovicové, Hasištejnští z Lobkovic, Hrzánové z Harasova) nechal raně barokní zámek v letech 1669-1675 postavit Jan Adam Hrzán z Harasova. Roku 1707 jej koupili Lichtenštejnové, poté se vystřídali Auerspergové, Rottenhanové, Buquoyové, Trauttmansdorffové a nakonec Hohenlohe-Langenburgové, jimž byl po roce 1945 zabaven; od roku 1996 patří městu Jirkov.",
+ "founded": {
+  "year": 1415,
+  "approx": true,
+  "text": "Hrad Borek na místě dnešního zámku založil krátce před rokem 1415 rod Kraa (cs.wiki: Dětřich Kraa v letech 1411-1415); původ stavby a přesného stavebníka je nejistý"
+ },
+ "summary": "Na místě dnešního raně barokního zámku Červený hrádek u Jirkova stál od počátku 15. století hrad Borek, který po poničení husity nechal Václav z Moravěvsi opravit a natřít na červeno, odtud pozdější název. Po dlouhé řadě majitelů a sporných držav ve 14.-17. století (mimo jiné Boskovicové, Hasištejnští z Lobkovic, Hrzánové z Harasova) nechal raně barokní zámek v letech 1669-1675 postavit Jan Adam Hrzán z Harasova. Roku 1707 jej koupili Lichtenštejnové, poté se vystřídali Auerspergové, Rottenhanové, Buquoyové, Trauttmansdorffové a nakonec Hohenlohe-Langenburgové, jimž byl po roce 1945 zabaven; od roku 1996 patří městu Jirkov.",
  "owners": [
-  {"owner": "kraove", "owner_wiki": null, "person": "Dětřich Kraa, po jeho smrti manželka Kateřina a syn Hanuš Kra", "from": 1413, "to": 1417, "from_approx": true, "to_approx": false, "how": "lenni", "note": "podčeší na dvoře Václava IV.; 1413 vykonával patronátní právo v Borku, 1415 přijal městečko s hradem jako manství; kolem 1417 zemřel, dědicové jej téhož roku prodali"},
-  {"owner": "z-moravevsi", "owner_wiki": null, "person": "Václav z Moravěvsi a Kopist", "from": 1417, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "za husitských válek stál na katolické straně, hrad opravil a přebarvil na červeno - odtud od roku 1422 doložen název Červený hrádek; rok jeho úmrtí zdroj neuvádí"},
-  {"owner": "z-moravevsi", "owner_wiki": null, "person": "Markéta (vdova po Buškovi z Eisenberka) a synové Jan a Bohuslav z Moravěvsi a Blažimi", "from": null, "to": 1428, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "od roku 1428 uváděn jediným pánem hradu syn Jan z Moravěvsi"},
-  {"owner": "sumburkove", "owner_wiki": "Šumburkové", "person": "Vít ze Šumburka", "from": 1428, "to": 1428, "from_approx": false, "to_approx": true, "how": "jine", "note": "hradu se zmocnil roku 1428, ještě téhož roku jej získal Bohuslav ze Rvenic"},
-  {"owner": "z-rvenic", "owner_wiki": null, "person": "Bohuslav ze Rvenic", "from": 1428, "to": 1436, "from_approx": true, "to_approx": true, "how": "jine", "note": "přesné roky držby zdroj neuvádí"},
-  {"owner": "z-chodzova", "owner_wiki": null, "person": "Jan Hrádek z Chodžova", "from": 1436, "to": 1437, "from_approx": false, "to_approx": true, "how": "jine", "note": "souběžně si na hrad činili nárok Jan Blažimský (kolem 1431 prodal svůj nárok Půtovi z Ilburka) a Jan z Litovic; zdroj popisuje držbu hradu v této době jako spornou a nejednoznačnou"},
-  {"owner": "ilburkove", "owner_wiki": "Ilburkové", "person": "Vilém z Ilburka", "from": 1437, "to": 1449, "from_approx": true, "to_approx": false, "how": "lenni", "note": "1437 zapsán hradem císařem Zikmundem, skutečným držitelem se ale nejspíše stal až po roce 1440 (mezitím na hradě uváděn Plichta ze Žerotína); roku 1443 udělil práva jirkovským měšťanům, 1449 prodal panství Albertu Konipasovi"},
-  {"owner": "konipasove", "owner_wiki": null, "person": "Albert (Albrecht) Konipas", "from": 1449, "to": 1472, "from_approx": false, "to_approx": false, "how": "koupe", "note": "1454 přikoupil Kyjice; k panství patřily i vsi Březenec, Zaječice, Vinařice, Komořany, městečko Ervěnice a části Jirkova a Vrskmaně; po jeho smrti prodali vdova a syn Oldřich panství dál"},
-  {"owner": "z-ocedelic", "owner_wiki": null, "person": "Bedřich Ojíř z Očedělic", "from": 1472, "to": 1473, "from_approx": false, "to_approx": false, "how": "koupe"},
-  {"owner": "z-stareho-dvora", "owner_wiki": null, "person": "Hanuš Glac ze Starého Dvora", "from": 1473, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "z jeho synů zámek připadl Lorenci Glacovi"},
-  {"owner": "z-stareho-dvora", "owner_wiki": null, "person": "Lorenc Glac ze Starého Dvora", "from": null, "to": 1516, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "podle poslední vůle z roku 1516 zdědila majetek dcera Anna"},
-  {"owner": "z-veitmile", "owner_wiki": null, "person": "Anna Glacová, provdaná za Šebestiána z Veitmile", "from": 1516, "to": 1549, "from_approx": false, "to_approx": false, "how": "snatek", "note": "musela vyplatit věno druhé Lorencovy manželky Voršily z Minic a nároky jeho strýce Bernarta; 1549 Šebestián kvůli nedostatku peněz panství zastavil Jindřichovi z Gersdorfu a brzy poté zemřel"},
-  {"owner": "gerstorfove-z-gerstorfu", "owner_wiki": "Gerštorfové z Gerštorfu", "person": "Jindřich z Gersdorfu", "from": 1549, "to": 1551, "from_approx": false, "to_approx": false, "how": "lenni", "note": "zástava; syn Jan z Veitmile panství 1551 vyplatil"},
-  {"owner": "z-veitmile", "owner_wiki": null, "person": "Jan z Veitmile", "from": 1551, "to": 1554, "from_approx": false, "to_approx": false, "how": "jine", "note": "1554 prodal panství spolu se svými strýci rytíři Kryštofovi Karlovicovi z Karlovic za 27000 kop grošů"},
-  {"owner": "karlovicove-z-karlovic", "owner_wiki": null, "person": "Kryštof Karlovic z Karlovic", "from": 1554, "to": 1579, "from_approx": false, "to_approx": false, "how": "koupe", "note": "kvůli nepříliš dobrému hospodaření postupně rozprodával části panství, 1577 prodal samotný zámek Augustu Gersdorfovi z Gersdorfu a vzápětí zemřel"},
-  {"owner": "gerstorfove-z-gerstorfu", "owner_wiki": "Gerštorfové z Gerštorfu", "person": "August Gersdorf z Gersdorfu", "from": 1577, "to": 1579, "from_approx": false, "to_approx": false, "how": "koupe"},
-  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": "Bohuslav Felix Hasištejnský z Lobkovic", "from": 1579, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "nechal hrad přestavět na renesanční zámek; před smrtí rozdělil majetek mezi tři syny"},
-  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": "Bohuslav Jáchym Hasištejnský z Lobkovic", "from": null, "to": 1588, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "1588 vyměnil celý majetek s příbuzným Jiřím Popelem z Lobkovic za Mladou Boleslav, Kosmonosy a 80000 kop míšeňských grošů"},
-  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": "Jiří Popel z Lobkovic", "from": 1588, "to": 1594, "from_approx": false, "to_approx": false, "how": "vymena", "note": "zahájil rekatolizaci a vyvolal povstání chomutovských měšťanů (1591); 1594 mu byl majetek zabaven, upadl v nemilost u Rudolfa II. a zemřel 1606 ve vězení na Lokti"},
-  {"owner": "koruna", "owner_wiki": null, "person": null, "from": 1594, "to": 1605, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "majetek ve správě královské komory, v Chomutově a na Červeném hrádku ji zastupoval Jan Cetlpergár"},
-  {"owner": "hrzanove-z-harasova", "owner_wiki": "Hrzánové z Harasova", "person": "Adam Hrzán z Harasova", "from": 1605, "to": 1619, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil 19. 12. 1605 za 236000 rýnských zlatých; sympatizoval se stavovským povstáním, 1618 mu direktorium zabavilo peníze"},
-  {"owner": "hrzanove-z-harasova", "owner_wiki": "Hrzánové z Harasova", "person": "Jan Hrzán z Harasova", "from": 1619, "to": 1631, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "podporoval Fridricha Falckého, hrozila konfiskace, odvrácena vzdáním se lanškrounského panství Zdislavem Hrzánem"},
-  {"owner": "hrzanove-z-harasova", "owner_wiki": "Hrzánové z Harasova", "person": "Sabina Žofie z Vřesovic (vdova) a nezletilí synové", "from": 1631, "to": 1646, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "1631-32 zámek obsadili a vypálili Sasové, 1639 vyhořel podruhé při vpádu Švédů; 1633 se Sabina provdala za Rudolfa z Morzinu"},
-  {"owner": "hrzanove-z-harasova", "owner_wiki": "Hrzánové z Harasova", "person": "Jan Adam Hrzán z Harasova", "from": 1646, "to": 1681, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "1655 zahájil obnovu sídla, stavba raně barokního zámku proběhla 1669-1675 (stavitel Santino de Bossi, projekt bývá připisován Antoniu della Portovi)"},
-  {"owner": "hrzanove-z-harasova", "owner_wiki": "Hrzánové z Harasova", "person": "Ferdinand Maxmilián Hrzán z Harasu", "from": 1681, "to": 1696, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "1687-1688 hostil sochaře Jana Brokoffa; 1696 přenechal panství staršímu bratrovi Arnoštu Maxmiliánovi výměnou za doživotní rentu"},
-  {"owner": "hrzanove-z-harasova", "owner_wiki": "Hrzánové z Harasova", "person": "Arnošt Maxmilián Hrzán z Harasova", "from": 1696, "to": 1697, "from_approx": false, "to_approx": false, "how": "dedictvi"},
-  {"owner": "hrzanove-z-harasova", "owner_wiki": "Hrzánové z Harasova", "person": "Zikmund Valentin Hrzán z Harasova", "from": 1697, "to": 1707, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "pravděpodobně nechal postavit schodiště do parku zdobené Brokoffovými vázami"},
-  {"owner": "lichtenstejnove", "owner_wiki": "Lichtenštejnové", "person": "Jan Adam Ondřej z Lichtenštejna", "from": 1707, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil 18. 10. 1707 za 90300 zlatých"},
-  {"owner": "lichtenstejnove", "owner_wiki": "Lichtenštejnové", "person": "Erdmunda Tereza z Ditrichštejna (vdova)", "from": null, "to": 1720, "from_approx": false, "to_approx": false, "how": "dedictvi"},
-  {"owner": "lichtenstejnove", "owner_wiki": "Lichtenštejnové", "person": "Marie Dominika z Lichtenštejna", "from": 1720, "to": 1724, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "provdána za knížete Jindřicha Josefa z Auerspergu; zemřela 1724, majetek závětí rozdělila na poloviny mezi manžela a děti"},
-  {"owner": "auerspergove", "owner_wiki": "Auerspergové", "person": "Jindřich Josef z Auerspergu a děti Karel Josef a Jan Adam", "from": 1724, "to": 1766, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "smlouvou z roku 1766 připadlo celé panství Janu Adamovi; tehdy k Červenému hrádku připojeno bílenecké a voděradské panství"},
-  {"owner": "z-rottenhanu", "owner_wiki": null, "person": "Jan Alexandr z Rottenhanu", "from": 1771, "to": 1777, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil za milion zlatých; roku 1777 odkázal synovi Jindřichu Františkovi"},
-  {"owner": "z-rottenhanu", "owner_wiki": null, "person": "Jindřich František z Rottenhanu", "from": 1777, "to": null, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "provedl stavební úpravy zámku a zahrady; jeho dědičkou se stala jediná dcera Gabriela, provdaná za hraběte Jiřího Františka Buquoye"},
-  {"owner": "buquoyove", "owner_wiki": "Buquoyové", "person": "Gabriela z Rottenhanu, provdaná Buquoyová, a hrabě Jiří František Buquoy", "from": null, "to": 1863, "from_approx": false, "to_approx": false, "how": "snatek", "note": "1808 až min. 1820 na zámku pobýval hudební skladatel Václav Jan Křtitel Tomášek; 1832 přikoupena Přísečnice, 1837 Hauenštejn; Gabriela spravovala majetek do smrti 1863, kdy jej děti rozdělily - Červený hrádek získala dcera Isabella"},
-  {"owner": "trauttmansdorffove", "owner_wiki": "Trauttmansdorffové", "person": "Isabella Buquoyová, ovdovělá hraběnka Trauttmansdorffová", "from": 1863, "to": null, "from_approx": false, "to_approx": false, "how": "dedictvi"},
-  {"owner": "hohenlohe", "owner_wiki": "Hohenlohe", "person": "Gabriela (dcera Isabelly), provdaná za knížete Ludvíka Hohenlohe-Langenburga", "from": null, "to": 1892, "from_approx": false, "to_approx": false, "how": "snatek", "note": "poslední šlechtický rod, kterému zámek patřil"},
-  {"owner": "hohenlohe", "owner_wiki": "Hohenlohe", "person": "Gottfried z Hohenlohe (syn Gabriely z prvního manželství)", "from": 1892, "to": null, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "1895 pověřil architekta Jana Kotěru úpravami zámku"},
-  {"owner": "hohenlohe", "owner_wiki": "Hohenlohe", "person": "Max Egon z Hohenlohe", "from": null, "to": 1945, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "poslední šlechtický držitel; styky se Sudetoněmeckou stranou mu umožnily zprostředkovat v srpnu/září 1938 setkání britského vyjednavače Waltera Runcimana s jejími představiteli"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": 1996, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "zámek rodině po druhé světové válce zabaven, většina mobiliáře odvezena do Krásného Dvora; sloužil mj. jako učiliště hornické mládeže, od 1967 doléčovací středisko chomutovské nemocnice a od 1969 Památník boje proti fašismu"},
-  {"owner": "mesto", "owner_wiki": null, "person": null, "from": 1996, "to": null, "from_approx": false, "to_approx": false, "how": "jine", "note": "zámek získalo město Jirkov, rekonstrukce dokončena 2006; dnes sídlo Kulturního, vzdělávacího a informačního zařízení Jirkov"}
+  {
+   "owner": "kraove",
+   "owner_wiki": null,
+   "person": "Dětřich Kraa, po jeho smrti manželka Kateřina a syn Hanuš Kra",
+   "from": 1415,
+   "to": 1417,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "podčeší na dvoře Václava IV.; 1413 vykonával patronátní právo v Borku, 1415 přijal městečko s hradem jako manství; kolem 1417 zemřel, dědicové jej téhož roku prodali; web zámku uvádí založení hradu rodem Kraa krátce před 1415"
+  },
+  {
+   "owner": "z-moravevsi",
+   "owner_wiki": null,
+   "person": "Václav z Moravěvsi a Kopist",
+   "from": 1417,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "za husitských válek stál na katolické straně, hrad opravil a přebarvil na červeno - odtud od roku 1422 doložen název Červený hrádek; rok jeho úmrtí zdroj neuvádí; web zámku: hrad 1421 dobyt a vypálen husity, opraven a natřen červeně ve 20. letech 15. stol."
+  },
+  {
+   "owner": "z-moravevsi",
+   "owner_wiki": null,
+   "person": "Markéta (vdova po Buškovi z Eisenberka) a synové Jan a Bohuslav z Moravěvsi a Blažimi",
+   "from": null,
+   "to": 1428,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "od roku 1428 uváděn jediným pánem hradu syn Jan z Moravěvsi"
+  },
+  {
+   "owner": "sumburkove",
+   "owner_wiki": "Šumburkové",
+   "person": "Vít ze Šumburka",
+   "from": 1428,
+   "to": 1428,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "jine",
+   "note": "hradu se zmocnil roku 1428, ještě téhož roku jej získal Bohuslav ze Rvenic"
+  },
+  {
+   "owner": "z-rvenic",
+   "owner_wiki": null,
+   "person": "Bohuslav ze Rvenic",
+   "from": 1428,
+   "to": 1436,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "jine",
+   "note": "přesné roky držby zdroj neuvádí"
+  },
+  {
+   "owner": "z-chodzova",
+   "owner_wiki": null,
+   "person": "Jan Hrádek z Chodžova",
+   "from": 1436,
+   "to": 1437,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "jine",
+   "note": "souběžně si na hrad činili nárok Jan Blažimský (kolem 1431 prodal svůj nárok Půtovi z Ilburka) a Jan z Litovic; zdroj popisuje držbu hradu v této době jako spornou a nejednoznačnou"
+  },
+  {
+   "owner": "ilburkove",
+   "owner_wiki": "Ilburkové",
+   "person": "Vilém z Ilburka",
+   "from": 1437,
+   "to": 1449,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "1437 zapsán hradem císařem Zikmundem, skutečným držitelem se ale nejspíše stal až po roce 1440 (mezitím na hradě uváděn Plichta ze Žerotína); roku 1443 udělil práva jirkovským měšťanům, 1449 prodal panství Albertu Konipasovi"
+  },
+  {
+   "owner": "konipasove",
+   "owner_wiki": null,
+   "person": "Albert (Albrecht) Konipas",
+   "from": 1449,
+   "to": 1472,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "1454 přikoupil Kyjice; k panství patřily i vsi Březenec, Zaječice, Vinařice, Komořany, městečko Ervěnice a části Jirkova a Vrskmaně; po jeho smrti prodali vdova a syn Oldřich panství dál"
+  },
+  {
+   "owner": "z-ocedelic",
+   "owner_wiki": null,
+   "person": "Bedřich Ojíř z Očedělic",
+   "from": 1472,
+   "to": 1473,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe"
+  },
+  {
+   "owner": "z-stareho-dvora",
+   "owner_wiki": null,
+   "person": "Hanuš Glac ze Starého Dvora",
+   "from": 1473,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "z jeho synů zámek připadl Lorenci Glacovi"
+  },
+  {
+   "owner": "z-stareho-dvora",
+   "owner_wiki": null,
+   "person": "Lorenc Glac ze Starého Dvora",
+   "from": null,
+   "to": 1516,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "podle poslední vůle z roku 1516 zdědila majetek dcera Anna"
+  },
+  {
+   "owner": "z-veitmile",
+   "owner_wiki": null,
+   "person": "Anna Glacová, provdaná za Šebestiána z Veitmile",
+   "from": 1516,
+   "to": 1549,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "snatek",
+   "note": "musela vyplatit věno druhé Lorencovy manželky Voršily z Minic a nároky jeho strýce Bernarta; 1549 Šebestián kvůli nedostatku peněz panství zastavil Jindřichovi z Gersdorfu a brzy poté zemřel"
+  },
+  {
+   "owner": "gerstorfove-z-gerstorfu",
+   "owner_wiki": "Gerštorfové z Gerštorfu",
+   "person": "Jindřich z Gersdorfu",
+   "from": 1549,
+   "to": 1551,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "zástava; syn Jan z Veitmile panství 1551 vyplatil"
+  },
+  {
+   "owner": "z-veitmile",
+   "owner_wiki": null,
+   "person": "Jan z Veitmile",
+   "from": 1551,
+   "to": 1554,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "1554 prodal panství spolu se svými strýci rytíři Kryštofovi Karlovicovi z Karlovic za 27000 kop grošů"
+  },
+  {
+   "owner": "karlovicove-z-karlovic",
+   "owner_wiki": null,
+   "person": "Kryštof Karlovic z Karlovic",
+   "from": 1554,
+   "to": 1579,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "kvůli nepříliš dobrému hospodaření postupně rozprodával části panství, 1577 prodal samotný zámek Augustu Gersdorfovi z Gersdorfu a vzápětí zemřel"
+  },
+  {
+   "owner": "gerstorfove-z-gerstorfu",
+   "owner_wiki": "Gerštorfové z Gerštorfu",
+   "person": "August Gersdorf z Gersdorfu",
+   "from": 1577,
+   "to": 1579,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "web zámku uvádí, že zbytek panství patřil Augustovi od 1576 (cs.wiki 1577); Kryštof si ponechal jen kamencovou huť"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Bohuslav Felix Hasištejnský z Lobkovic",
+   "from": 1579,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "nechal hrad přestavět na renesanční zámek; před smrtí rozdělil majetek mezi tři syny"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Bohuslav Jáchym Hasištejnský z Lobkovic",
+   "from": null,
+   "to": 1588,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "1588 vyměnil celý majetek s příbuzným Jiřím Popelem z Lobkovic za Mladou Boleslav, Kosmonosy a 80000 kop míšeňských grošů"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Jiří Popel z Lobkovic",
+   "from": 1588,
+   "to": 1594,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "vymena",
+   "note": "zahájil rekatolizaci a vyvolal povstání chomutovských měšťanů (1591); 1594 mu byl majetek zabaven, upadl v nemilost u Rudolfa II. a zemřel 1606 ve vězení na Lokti"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1594,
+   "to": 1605,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "majetek ve správě královské komory, v Chomutově a na Červeném hrádku ji zastupoval Jan Cetlpergár"
+  },
+  {
+   "owner": "hrzanove-z-harasova",
+   "owner_wiki": "Hrzánové z Harasova",
+   "person": "Adam Hrzán z Harasova",
+   "from": 1605,
+   "to": 1619,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil 19. 12. 1605 za 236000 rýnských zlatých; sympatizoval se stavovským povstáním, 1618 mu direktorium zabavilo peníze"
+  },
+  {
+   "owner": "hrzanove-z-harasova",
+   "owner_wiki": "Hrzánové z Harasova",
+   "person": "Jan Hrzán z Harasova",
+   "from": 1619,
+   "to": 1631,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "podporoval Fridricha Falckého, hrozila konfiskace, odvrácena vzdáním se lanškrounského panství Zdislavem Hrzánem"
+  },
+  {
+   "owner": "hrzanove-z-harasova",
+   "owner_wiki": "Hrzánové z Harasova",
+   "person": "Sabina Žofie z Vřesovic (vdova) a nezletilí synové",
+   "from": 1631,
+   "to": 1646,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "1631-32 zámek obsadili a vypálili Sasové, 1639 vyhořel podruhé při vpádu Švédů; 1633 se Sabina provdala za Rudolfa z Morzinu; web zámku: na čas panství získal švédský Axell Lillie z Leffstadtu, koncem 40. let se vrátilo původním držitelům (roky neuvedeny)"
+  },
+  {
+   "owner": "hrzanove-z-harasova",
+   "owner_wiki": "Hrzánové z Harasova",
+   "person": "Jan Adam Hrzán z Harasova",
+   "from": 1646,
+   "to": 1681,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "1655 zahájil obnovu sídla, stavba raně barokního zámku proběhla 1669-1675 (stavitel Santino de Bossi, projekt bývá připisován Antoniu della Portovi)"
+  },
+  {
+   "owner": "hrzanove-z-harasova",
+   "owner_wiki": "Hrzánové z Harasova",
+   "person": "Ferdinand Maxmilián Hrzán z Harasu",
+   "from": 1681,
+   "to": 1696,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "1687-1688 hostil sochaře Jana Brokoffa; 1696 přenechal panství staršímu bratrovi Arnoštu Maxmiliánovi výměnou za doživotní rentu"
+  },
+  {
+   "owner": "hrzanove-z-harasova",
+   "owner_wiki": "Hrzánové z Harasova",
+   "person": "Arnošt Maxmilián Hrzán z Harasova",
+   "from": 1696,
+   "to": 1697,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi"
+  },
+  {
+   "owner": "hrzanove-z-harasova",
+   "owner_wiki": "Hrzánové z Harasova",
+   "person": "Zikmund Valentin Hrzán z Harasova",
+   "from": 1697,
+   "to": 1707,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "pravděpodobně nechal postavit schodiště do parku zdobené Brokoffovými vázami; web zámku jej jmenuje Zikmund Vilém, hrabě z Harasu, 1696-1697 se na panství vystřídali tři bratři"
+  },
+  {
+   "owner": "lichtenstejnove",
+   "owner_wiki": "Lichtenštejnové",
+   "person": "Jan Adam Ondřej z Lichtenštejna",
+   "from": 1707,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil 18. 10. 1707 za 90300 zlatých"
+  },
+  {
+   "owner": "lichtenstejnove",
+   "owner_wiki": "Lichtenštejnové",
+   "person": "Erdmunda Tereza z Ditrichštejna (vdova)",
+   "from": null,
+   "to": 1720,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi"
+  },
+  {
+   "owner": "lichtenstejnove",
+   "owner_wiki": "Lichtenštejnové",
+   "person": "Marie Dominika z Lichtenštejna",
+   "from": 1720,
+   "to": 1724,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "provdána za knížete Jindřicha Josefa z Auerspergu; zemřela 1724, majetek závětí rozdělila na poloviny mezi manžela a děti"
+  },
+  {
+   "owner": "auerspergove",
+   "owner_wiki": "Auerspergové",
+   "person": "Jindřich Josef z Auerspergu a děti Karel Josef a Jan Adam",
+   "from": 1724,
+   "to": 1766,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "smlouvou z roku 1766 připadlo celé panství Janu Adamovi; tehdy k Červenému hrádku připojeno bílenecké a voděradské panství"
+  },
+  {
+   "owner": "auerspergove",
+   "owner_wiki": "Auerspergové",
+   "person": "Jan Adam z Auerspergu",
+   "from": 1766,
+   "to": 1771,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "celé panství mu připadlo smlouvou 1766, znovu opravoval zámek; 1771 panství prodáno Rottenhanům"
+  },
+  {
+   "owner": "z-rottenhanu",
+   "owner_wiki": null,
+   "person": "Jan Alexandr z Rottenhanu",
+   "from": 1771,
+   "to": 1777,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil za milion zlatých; roku 1777 odkázal synovi Jindřichu Františkovi"
+  },
+  {
+   "owner": "z-rottenhanu",
+   "owner_wiki": null,
+   "person": "Jindřich František z Rottenhanu",
+   "from": 1777,
+   "to": 1809,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "provedl stavební úpravy zámku a zahrady; jeho dědičkou se stala jediná dcera Gabriela, provdaná za hraběte Jiřího Františka Buquoye; po jeho smrti 1809 převzala panství dcera Gabriela (web zámku)"
+  },
+  {
+   "owner": "buquoyove",
+   "owner_wiki": "Buquoyové",
+   "person": "Gabriela z Rottenhanu, provdaná Buquoyová, a hrabě Jiří František Buquoy",
+   "from": 1809,
+   "to": 1863,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "snatek",
+   "note": "1808 až min. 1820 na zámku pobýval hudební skladatel Václav Jan Křtitel Tomášek; 1832 přikoupena Přísečnice, 1837 Hauenštejn; Gabriela spravovala majetek do smrti 1863, kdy jej děti rozdělily - Červený hrádek získala dcera Isabella"
+  },
+  {
+   "owner": "trauttmansdorffove",
+   "owner_wiki": "Trauttmansdorffové",
+   "person": "Isabella Buquoyová, ovdovělá hraběnka Trauttmansdorffová",
+   "from": 1863,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi"
+  },
+  {
+   "owner": "hohenlohe",
+   "owner_wiki": "Hohenlohe",
+   "person": "Gabriela (dcera Isabelly), provdaná za knížete Ludvíka Hohenlohe-Langenburga",
+   "from": null,
+   "to": 1892,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "snatek",
+   "note": "poslední šlechtický rod, kterému zámek patřil"
+  },
+  {
+   "owner": "hohenlohe",
+   "owner_wiki": "Hohenlohe",
+   "person": "Gottfried z Hohenlohe (syn Gabriely z prvního manželství)",
+   "from": 1892,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "1895 pověřil architekta Jana Kotěru úpravami zámku"
+  },
+  {
+   "owner": "hohenlohe",
+   "owner_wiki": "Hohenlohe",
+   "person": "Max Egon z Hohenlohe",
+   "from": null,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "poslední šlechtický držitel; styky se Sudetoněmeckou stranou mu umožnily zprostředkovat v srpnu/září 1938 setkání britského vyjednavače Waltera Runcimana s jejími představiteli"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": 1996,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "zámek rodině po druhé světové válce zabaven, většina mobiliáře odvezena do Krásného Dvora; sloužil mj. jako učiliště hornické mládeže, od 1967 doléčovací středisko chomutovské nemocnice a od 1969 Památník boje proti fašismu"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1996,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "zámek získalo město Jirkov, rekonstrukce dokončena 2006; dnes sídlo Kulturního, vzdělávacího a informačního zařízení Jirkov"
+  }
  ],
  "events": [
-  {"year": 1422, "text": "poprvé doložen název Červený hrádek, podle nátěru hradu na červeno za Václava z Moravěvsi"},
-  {"year": 1579, "text": "Bohuslav Felix Hasištejnský z Lobkovic přestavěl hrad na renesanční zámek"},
-  {"year": 1591, "text": "potlačeno povstání chomutovských měšťanů proti rekatolizaci Jiřího Popela z Lobkovic, na zámku popraveni dva vůdci"},
-  {"year": 1631, "text": "za třicetileté války zámek obsadili a vypálili Sasové, 1639 podruhé vyhořel při vpádu Švédů"},
-  {"year": 1669, "text": "stavba dnešního raně barokního zámku podle Jana Adama Hrzána z Harasova (dokončena 1675)"},
-  {"year": 1707, "text": "panství koupil kníže Jan Adam Ondřej z Lichtenštejna"},
-  {"year": 1945, "text": "po druhé světové válce zabaven majetek rodu Hohenlohe-Langenburg, zámek připadl státu"},
-  {"year": 1996, "text": "zámek získalo město Jirkov, které jej po rekonstrukci (dokončena 2006) zpřístupnilo veřejnosti"}
+  {
+   "year": 1422,
+   "text": "poprvé doložen název Červený hrádek, podle nátěru hradu na červeno za Václava z Moravěvsi"
+  },
+  {
+   "year": 1579,
+   "text": "Bohuslav Felix Hasištejnský z Lobkovic přestavěl hrad na renesanční zámek"
+  },
+  {
+   "year": 1591,
+   "text": "potlačeno povstání chomutovských měšťanů proti rekatolizaci Jiřího Popela z Lobkovic, na zámku popraveni dva vůdci"
+  },
+  {
+   "year": 1631,
+   "text": "za třicetileté války zámek obsadili a vypálili Sasové, 1639 podruhé vyhořel při vpádu Švédů"
+  },
+  {
+   "year": 1669,
+   "text": "stavba dnešního raně barokního zámku podle Jana Adama Hrzána z Harasova (dokončena 1675)"
+  },
+  {
+   "year": 1707,
+   "text": "panství koupil kníže Jan Adam Ondřej z Lichtenštejna"
+  },
+  {
+   "year": 1945,
+   "text": "po druhé světové válce zabaven majetek rodu Hohenlohe-Langenburg, zámek připadl státu"
+  },
+  {
+   "year": 1996,
+   "text": "zámek získalo město Jirkov, které jej po rekonstrukci (dokončena 2006) zpřístupnilo veřejnosti"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Červený_hrádek_(zámek,_Jirkov)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Červený_hrádek_(zámek,_Jirkov)",
+  "https://www.zamek-cerveny-hradek.cz/prohlidky/historie-zamku/",
+  "https://www.prehis.cz/turista/cechy/chomutov/p/chzamek.html",
+  "https://www.jirkov.cz/volny-cas/kulturni-a-spolecenska-zarizeni/zamek-cerveny-hradek/"
+ ]
 }

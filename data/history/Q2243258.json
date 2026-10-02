@@ -6,29 +6,29 @@
   "approx": true,
   "text": "Existence starší tvrze je předpokládána již ve 13. století (nejstarší zmínka o vladyckém rodu pánů z Rájce pochází z roku 1236), mladší tvrz je doložena ve 14.-15. století; obě zanikly do poloviny 15. století. Současný pozdně barokní zámek nechal podle plánů I. A. Canevaleho postavit v letech 1763-1769 Antonín Karel Salm-Reifferscheidt."
  },
- "summary": "Předchůdci zámku byly dvě středověké tvrze, které od 13. století držel vladycký rod pánů z Rájce, po nich páni z Kunštátu a z Lomnice; zpustlé se staly součástí majetku olomouckého biskupství. Od roku 1464 patřilo panství Drnovským z Drnovic, kteří menší tvrz kolem roku 1570 přestavěli na renesanční zámek, ten však roku 1756 vyhořel. Roku 1763 koupil panství Antonín Karel Salm-Reifferscheidt, zakladatel větve Salm-Reifferscheidt-Raitz, a na místě zříceniny nechal postavit dnešní pozdně barokní zámek. Rodu patřil do roku 1945, kdy byl na základě Benešových dekretů zkonfiskován a připadl státu, jenž jej spravuje dodnes a zpřístupňuje veřejnosti.",
+ "summary": "Předchůdci zámku byly dvě středověké tvrze, které od 13. století držel vladycký rod pánů z Rájce, po nich Kunštátové a Lomničtí; zpustlé se pak staly součástí majetku olomouckého biskupa Pavla z Miličína. Od roku 1464 patřilo panství Drnovským z Drnovic, kteří kolem roku 1570 přestavěli menší tvrz na renesanční zámek, a od 17. století Rogendorfům; zámek vyhořel 1756 či 1757. Roku 1763 koupil panství Antonín Karel Salm-Reifferscheidt a nechal postavit dnešní pozdně barokní zámek (1763-1769); Salmům patřil do konfiskace 1945, od té doby je státní a spravuje jej NPÚ.",
  "owners": [
   {
    "owner": "z-rajce",
    "owner_wiki": null,
    "person": "Všebor z Rájce",
    "from": 1236,
-   "to": 1380,
+   "to": null,
    "from_approx": true,
-   "to_approx": true,
+   "to_approx": false,
    "how": "zalozeni",
-   "note": "vladycký rod pánů z Rájce (erb beraní hlavy), první doložený člen Všebor 1236; rod bez vlastního wiki článku, drženo do poslední čtvrtiny 14. století"
+   "note": "vladycký rod pánů z Rájce (erb beraní hlavy), první doložený člen Všebor 1236; drželi do poslední čtvrtiny 14. století, tvrze zničeny za válek markrabat Jošta a Prokopa"
   },
   {
    "owner": "pani-z-kunstatu-a-podebrad",
    "owner_wiki": "Páni z Kunštátu a Poděbrad",
    "person": null,
-   "from": 1380,
+   "from": null,
    "to": null,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": true,
    "how": "neznamo",
-   "note": "cs.wiki uvádí jen pořadí držitelů bez konkrétních let"
+   "note": "cs.wiki uvádí jen pořadí držitelů (Rájcové, Kunštátové, Lomničtí) bez let; zámek-rajec.cz uvádí, že do 1464 panství často měnilo majitele"
   },
   {
    "owner": "pani-z-lomnice",
@@ -44,7 +44,7 @@
   {
    "owner": "cirkev",
    "owner_wiki": null,
-   "person": "Pavel z Miličína",
+   "person": "olomoucký biskup Pavel z Miličína",
    "from": null,
    "to": 1464,
    "from_approx": true,
@@ -61,18 +61,18 @@
    "from_approx": false,
    "to_approx": true,
    "how": "koupe",
-   "note": "menší tvrz obnovena v pozdně gotickém stylu, kolem 1570 přestavěna Bernardem Drnovským z Drnovic renesančně; rod vymřel poslední Johankou Drnovskou, která se 1621 provdala za Georga Ehrenreicha z Rogendorfu"
+   "note": "menší tvrz obnovena pozdně goticky, kolem 1570 přestavěna Bernardem Drnovským (†1601) na renesanční zámek; rod vymřel Johankou Drnovskou, provdanou 1621 za Georga Ehrenreicha z Rogendorfu (zámek-rajec.cz uvádí vymření v mužské linii 1618)"
   },
   {
-   "owner": "z-roggendorfu",
-   "owner_wiki": null,
+   "owner": "rogendorfove",
+   "owner_wiki": "Rogendorfové",
    "person": "Johanka Drnovská (provdaná z Rogendorfu) a Georg Ehrenreich z Rogendorfu",
    "from": 1621,
    "to": 1763,
    "from_approx": false,
    "to_approx": false,
    "how": "snatek",
-   "note": "panství bylo Johance definitivně přiřknuto císařem Leopoldem I. až 12. 8. 1661 po sporech; zámek za požáru 1756 vyhořel a zůstal v troskách; roku 1763 jej bratři Raffaely z Rogendorfu prodali"
+   "note": "zdroje se liší: sňatek 1621 (cs.wiki), definitivní přiřknutí panství 12. 8. 1661, přechod panství na Rogendorfy po smrti Johanky 1667 (zámek-rajec.cz, NPÚ/kultura.cz); zámek 1756 (cs.wiki; zámek-rajec.cz 1757) vyhořel a zůstal v troskách; roku 1763 panství prodali bratři Raffaely z Rogendorfu"
   },
   {
    "owner": "salm-reifferscheidt-raitz",
@@ -83,7 +83,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "nechal postavit dnešní zámek (1763-1769) a založil rodovou větev Salm-Reifferscheidt-Raitz; sídlo rodiny až do konfiskace roku 1945"
+   "note": "koupě 23. 3. 1763 za 360000 zlatých; nechal postavit dnešní zámek (1763-1769, I. A. Canevale) a založil větev Salm-Reifferscheidt-Raitz; zámek patřil Salmům do konfiskace 1945"
   },
   {
    "owner": "stat",
@@ -94,20 +94,47 @@
    "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "zkonfiskováno na základě Benešových dekretů; restituční nároky rodiny Salmů po roce 1989 nebyly dosud dořešeny, zámek zůstává ve správě NPÚ"
+   "note": "1945 zkonfiskováno na základě Benešových dekretů; státní zámek ve správě NPÚ"
   }
  ],
  "events": [
-  {"year": 1236, "text": "první zmínka o vladyckém rodu pánů z Rájce (svědek Všebor na listině markraběte Přemysla)"},
-  {"year": 1431, "text": "tvrze poškozeny při nájezdu husitských vojsk"},
-  {"year": 1446, "text": "tvrze naposledy zmíněny jako pusté"},
-  {"year": 1464, "text": "rájecké zboží přechází do držby Drnovských z Drnovic"},
-  {"year": 1570, "text": "Bernard Drnovský z Drnovic přestavěl sídlo renesančně na čtyřkřídlý zámek s arkádovým nádvořím"},
-  {"year": 1756, "text": "renesanční zámek zcela zničen požárem"},
-  {"year": 1769, "text": "dokončena stavba nového pozdně barokního zámku podle plánů Isidora Canevaleho"},
-  {"year": 1945, "text": "zámek zkonfiskován rodině Salm-Reifferscheidtů na základě Benešových dekretů a připadl státu"}
+  {
+   "year": 1236,
+   "text": "první zmínka o vladyckém rodu pánů z Rájce (svědek Všebor na listině markraběte Přemysla)"
+  },
+  {
+   "year": 1431,
+   "text": "tvrze poškozeny při nájezdu husitských vojsk"
+  },
+  {
+   "year": 1446,
+   "text": "tvrze naposledy zmíněny jako pusté"
+  },
+  {
+   "year": 1464,
+   "text": "rájecké zboží přechází do držby Drnovských z Drnovic"
+  },
+  {
+   "year": 1570,
+   "text": "Bernard Drnovský z Drnovic přestavěl sídlo renesančně na čtyřkřídlý zámek s arkádovým nádvořím"
+  },
+  {
+   "year": 1756,
+   "text": "renesanční zámek zcela zničen požárem"
+  },
+  {
+   "year": 1769,
+   "text": "dokončena stavba nového pozdně barokního zámku podle plánů Isidora Canevaleho"
+  },
+  {
+   "year": 1945,
+   "text": "zámek zkonfiskován rodině Salm-Reifferscheidtů na základě Benešových dekretů a připadl státu"
+  }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Rájec_nad_Svitavou_(zámek)"
+  "https://cs.wikipedia.org/wiki/Rájec_nad_Svitavou_(zámek)",
+  "https://www.zamek-rajec.cz/cs/o-zamku",
+  "https://www.rajecjestrebi.cz/kultura/infocentrum/historie-mesta/",
+  "http://www.kultura.cz/profile/5668-statni-zamek-rajec-nad-svitavou"
  ]
 }
