@@ -1,6 +1,6 @@
 # Místa bez fotografie
 
-237 z 2231 míst nemá ve Wikidatech obrázek (P18), proto nemají fotku v detailu ani miniaturu. Fotku přidáš nahráním na Wikimedia Commons a doplněním P18 do položky na Wikidatech; pak `fetch_wikidata.py`, `build_places.py`, `fetch_thumbs.py`.
+237 z 2230 míst nemá ve Wikidatech obrázek (P18), proto nemají fotku v detailu ani miniaturu. Fotku přidáš nahráním na Wikimedia Commons a doplněním P18 do položky na Wikidatech; pak `fetch_wikidata.py`, `build_places.py`, `fetch_thumbs.py`.
 
 ## Jihomoravský kraj (14)
 
