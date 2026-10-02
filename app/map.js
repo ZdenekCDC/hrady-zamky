@@ -433,6 +433,7 @@ function storageHtml(msg = "") {
     <div class="row" style="margin-top:6px">
       <button id="v-export" ${s.count ? "" : "disabled"} title="stáhnout návštěvy jako JSON">Exportovat</button>
       <button id="v-import" title="přidat návštěvy ze souboru JSON (stejné místo přepíše)">Importovat…</button>
+      <button id="v-replace" title="nahradit všechny návštěvy obsahem souboru JSON (ostatní se smažou)">Nahradit vším…</button>
       <input type="file" id="v-import-file" accept=".json,application/json" hidden>
     </div>
     ${msg ? `<div class="hint" id="v-msg">${msg}</div>` : ""}`;
@@ -453,16 +454,22 @@ function bindStorage(box, msg) {
   act("#v-disconnect", disconnectFile);
   box.querySelector("#v-export").addEventListener("click", exportVisits);
   const input = box.querySelector("#v-import-file");
-  box.querySelector("#v-import").addEventListener("click", () => input.click());
+  let replace = false;
+  const pick = (r) => () => { replace = r; input.click(); };
+  box.querySelector("#v-import").addEventListener("click", pick(false));
+  box.querySelector("#v-replace").addEventListener("click", pick(true));
   input.addEventListener("change", async () => {
     const f = input.files[0];
+    input.value = "";
     if (!f) return;
+    if (replace && !confirm(`Nahradit všechny návštěvy (${storageInfo().count}) obsahem souboru ${f.name}? Ostatní se smažou.`)) return;
     try {
-      const r = await importVisits(f);
+      const r = await importVisits(f, replace);
       const parts = [`${r.added} ${r.added === 1 ? "nová" : r.added > 1 && r.added < 5 ? "nové" : "nových"}`, `${r.updated} změněn${r.updated === 1 ? "á" : r.updated > 1 && r.updated < 5 ? "é" : "ých"}`];
+      if (replace) parts.push(`${r.removed} odstraněn${r.removed === 1 ? "á" : r.removed > 1 && r.removed < 5 ? "é" : "ých"}`);
       if (r.invalid) parts.push(`${r.invalid} neplatn${r.invalid === 1 ? "á přeskočena" : "ých přeskočeno"}`);
       if (r.unknown) parts.push(`${r.unknown} mimo mapu`);
-      visitsChanged(null, `Import ${esc(f.name)}: ${parts.join(", ")}.`);
+      visitsChanged(null, `${replace ? "Nahrazeno ze souboru" : "Import"} ${esc(f.name)}: ${parts.join(", ")}.`);
     } catch (err) {
       bindStorage(box, esc(err.message));
       console.error(err);

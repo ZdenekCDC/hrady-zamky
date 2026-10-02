@@ -142,4 +142,3 @@ CARTO (původní světlý podklad) nově vyžaduje API klíč a bez něj ukazuje
 ## Návštěvy pro více uživatelů
 
 - [ ] Volitelně později, pokud to bude používat víc lidí napříč zařízeními i ve Firefoxu / Safari: hostovaný backend (Supabase / Firebase) s přihlášením; stávající režimy nechat jako variantu bez účtu. Ověřit aktuální limity bezplatných tarifů a GDPR (ukládání e-mailů).
-- [ ] Import neumí přenést smazání návštěv (slučuje) - případně přidat volbu „nahradit vše“.

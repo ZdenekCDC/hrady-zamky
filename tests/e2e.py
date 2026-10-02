@@ -126,6 +126,22 @@ def static_visits(pw, opts, errors):
     assert "1 nová, 1 změněná, 1 neplatná přeskočena" in page.inner_text("#v-msg"), page.inner_text("#v-msg")
     assert visited() == 2
 
+    # "Nahradit vším": places missing from the file are removed, then a merge import brings one back
+    rep = OUT / "replace.json"
+    rep.write_text(json.dumps([{"id": "Q655633", "name": "Pernštejn", "date": None, "rating": 2, "note": ""}],
+                              ensure_ascii=False), encoding="utf-8")
+    page.once("dialog", lambda d: d.accept())
+    page.click("#v-replace")  # opens the picker only in a real browser; feed the file directly
+    page.set_input_files("#v-import-file", str(rep))
+    page.wait_for_selector("#v-msg")
+    print("static: replace", page.inner_text("#v-msg"))
+    assert "0 nových, 0 změněných, 1 odstraněná" in page.inner_text("#v-msg"), page.inner_text("#v-msg")
+    assert visited() == 1
+    page.set_input_files("#v-import-file", str(imp))
+    page.wait_for_function("document.querySelector('#v-msg').innerText.startsWith('Import')")
+    assert "1 nová, 0 změněných, 1 neplatná přeskočena" in page.inner_text("#v-msg"), page.inner_text("#v-msg")
+    assert visited() == 2
+
     page.click("#v-create")
     page.wait_for_selector("#v-disconnect")
     assert "navstevy.json" in store(), store()

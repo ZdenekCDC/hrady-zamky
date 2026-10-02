@@ -242,14 +242,24 @@ export function exportVisits() {
   setTimeout(() => URL.revokeObjectURL(a.href), 1000);
 }
 
-/** Merge visits from a File (import): the imported record wins for the same place. */
-export async function importVisits(f) {
+/** Import visits from a File: merge (the imported record wins for the same place), or with `replace` make the
+ *  visits exactly the file's content (places missing from the file are removed). */
+export async function importVisits(f, replace = false) {
   let parsed;
   try { parsed = parse(await f.text()); } catch (e) {
     throw new Error(`Soubor ${f.name} nejde načíst: ${e instanceof SyntaxError ? "není to platný JSON" : e.message}`);
   }
   const changes = {};
-  let added = 0, updated = 0;
+  let added = 0, updated = 0, removed = 0;
+  if (replace) {
+    const keep = new Set(parsed.items.map((v) => v.id));
+    for (const id of [...V.keys()]) {
+      if (keep.has(id)) continue;
+      V.delete(id);
+      changes[id] = null;
+      removed++;
+    }
+  }
   for (const v of parsed.items) {
     const old = V.get(v.id);
     if (!old) added++;
@@ -259,6 +269,6 @@ export async function importVisits(f) {
     changes[v.id] = v;
   }
   applyToPlaces();
-  if (added || updated) await persist(changes);
-  return { added, updated, invalid: parsed.invalid, unknown: parsed.items.filter((v) => !D.byId.has(v.id)).length };
+  if (added || updated || removed) await persist(changes);
+  return { added, updated, removed, invalid: parsed.invalid, unknown: parsed.items.filter((v) => !D.byId.has(v.id)).length };
 }

@@ -36,7 +36,7 @@ V detailu místa sekce **Návštěva**: datum, hodnocení 1-5 hvězd, poznámka,
 - **Připojený soubor** (Chrome, Edge, Opera, Chrome na Androidu): „Vytvořit soubor…“ / „Otevřít soubor…“ připojí JSON soubor na disku a web do něj zapisuje každou změnu. Soubor ve složce Google Drive, OneDrive nebo Dropbox = záloha a synchronizace mezi zařízeními. Po restartu prohlížeče může být potřeba jednou kliknout na „Povolit zápis“; změny udělané do té doby se pak do souboru dopíšou (přitom se nejdřív načte, co do souboru mezitím zapsalo jiné zařízení).
 - **Jen prohlížeč** (Firefox, Safari, iPhone): `localStorage`. Smazáním dat prohlížeče se návštěvy ztratí - zálohu stáhni přes „Exportovat“.
 
-**Export / import** funguje všude: „Exportovat“ stáhne všechny návštěvy jako JSON, „Importovat…“ je načte zpět (jiný prohlížeč, zařízení nebo návštěvy od kamaráda). Import návštěvy sloučí - nová místa přidá, u stejného místa přepíše záznam importovaným; smazání se importem nepřenáší.
+**Export / import** funguje všude: „Exportovat“ stáhne všechny návštěvy jako JSON, „Importovat…“ je načte zpět (jiný prohlížeč, zařízení nebo návštěvy od kamaráda). Import návštěvy sloučí - nová místa přidá, u stejného místa přepíše záznam importovaným; smazání se importem nepřenáší. „Nahradit vším…“ (s potvrzením) udělá z návštěv přesně obsah souboru, místa, která v souboru nejsou, se smažou.
 
 Soubor jde editovat i ručně:
 
