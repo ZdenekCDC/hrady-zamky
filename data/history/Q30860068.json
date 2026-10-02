@@ -1,0 +1,125 @@
+{
+  "id": "Q30860068",
+  "name": "Dolní Životice",
+  "founded": {
+    "year": 1200,
+    "approx": true,
+    "text": "Vodní tvrz rodu Zibotů před rokem 1200, zničena 1241; tvrz doložena 1436; barokní zámek vystavěn po roce 1721."
+  },
+  "summary": "Dnešní barokní zámek v Dolních Životicích nechal po roce 1721 postavit Karel František Orlík z Laziska na místě starší dolní tvrze. Roku 1800 jej koupili Larisch-Mönichové a roku 1897 Razumovští, kteří v něm sídlili do konfiskace 1945. Po válce sloužil jako ústav, kasárna a sklady a od roku 2000 jako domov pro lidi se zdravotním postižením ve vlastnictví kraje.",
+  "owners": [
+    {
+      "owner": "zibotove",
+      "owner_wiki": null,
+      "person": "rod Zibotů",
+      "from": 1200,
+      "to": null,
+      "from_approx": true,
+      "to_approx": false,
+      "how": "zalozeni",
+      "note": "Sídlili ve vodní tvrzi; ves založili před rokem 1200."
+    },
+    {
+      "owner": "neznamo",
+      "owner_wiki": null,
+      "person": null,
+      "from": null,
+      "to": 1721,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "neznamo",
+      "note": "Tvrz doložena 1436, přestavěna renesančně ve 2. polovině 16. století; majitele zdroje neuvádějí."
+    },
+    {
+      "owner": "orlikove-z-laziska",
+      "owner_wiki": "Orlíkové z Laziska",
+      "person": "svobodný pán Karel František Orlík z Laziska, poté synové Karel a Jan Křtitel",
+      "from": 1721,
+      "to": 1800,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "neznamo",
+      "note": "Karel František vlastnil Životice 1721-1770, postavil zámek a park a tím se zadlužil; synové panství roku 1800 prodali."
+    },
+    {
+      "owner": "larischove",
+      "owner_wiki": "Larischové",
+      "person": "hrabě Jan Larisch-Mönich, poté Jindřich Larisch-Mönich",
+      "from": 1800,
+      "to": 1897,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "Přistavěli oranžerii, založili zahradnictví a sad."
+    },
+    {
+      "owner": "razumovsti",
+      "owner_wiki": "Razumovští",
+      "person": "hrabě Kamillo Razumovský",
+      "from": 1897,
+      "to": 1945,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "Hlavní sídlo rodiny od počátku 20. století, rodina odešla do Vídně 1946."
+    },
+    {
+      "owner": "stat",
+      "owner_wiki": null,
+      "person": null,
+      "from": 1945,
+      "to": 2001,
+      "from_approx": false,
+      "to_approx": true,
+      "how": "konfiskace",
+      "note": "Konfiskace podle dekretů. Okresní správa (ústav Charity pro duševně nemocné děti), od ~1950 armáda (kasárna PTP, sklady) do 90. let, poté okresní úřad Opava, který zámek 1995-2000 zrekonstruoval."
+    },
+    {
+      "owner": "mesto",
+      "owner_wiki": null,
+      "person": "Moravskoslezský kraj",
+      "from": 2001,
+      "to": null,
+      "from_approx": true,
+      "to_approx": false,
+      "how": "jine",
+      "note": "Zámek v majetku kraje (Zámek Dolní Životice, p. o.); sociální služba se má do 2027-2029 přestěhovat."
+    }
+  ],
+  "events": [
+    {
+      "year": 1241,
+      "text": "zničení vodní tvrze a vsi Tatary (hrady.cz)"
+    },
+    {
+      "year": 1436,
+      "text": "doložena tvrz"
+    },
+    {
+      "year": 1721,
+      "text": "Orlík z Laziska staví barokní zámek a park"
+    },
+    {
+      "year": 1800,
+      "text": "prodej Larisch-Mönichům"
+    },
+    {
+      "year": 1897,
+      "text": "koupě Razumovskými"
+    },
+    {
+      "year": 2000,
+      "text": "po rekonstrukci 1995-2000 zahájena sociální služba"
+    },
+    {
+      "year": 2023,
+      "text": "kraj rozhodl o ukončení sociální služby v zámku"
+    }
+  ],
+  "sources": [
+    "https://www.hrady.cz/zamek-dolni-zivotice/texty?pos=2000&tid=5599",
+    "https://www.dolnizivotice.cz/obec-7/blizke-okoli/",
+    "https://www.soupispamatek.cz/arl-kcz/sk/detail-kcz_un_auth-0006386-Zamok-Dolni-zivotice/",
+    "https://opavsky.denik.cz/zpravy_region/zamek-dolni-zivotice-dolni-zivotice-moravskoslezsky-kraj.html"
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "id": "Q33323103",
+  "name": "Neustupov",
+  "founded": {
+    "year": 1364,
+    "approx": true,
+    "text": "Gotická patrová tvrz vedle kostela vznikla nejpozději ve 14. století; vladykové z Neustupova jsou doloženi roku 1364."
+  },
+  "summary": "Zámek v Neustupově vznikl z gotické tvrze vladyků z Neustupova; renesanční zámek nechala postavit Eva Kaplířová. Po konfiskaci Kaplířů roku 1621 se majitelé rychle střídali, od roku 1809 jej držela rodina Rommbaldů a od roku 1892 Aichelburgové. Po roce 1948 byl zabaven, po roce 1989 vrácen v restituci a od roku 2000 patřil firmě INTEC; od roku 2020 jej opravuje Michal Farník.",
+  "owners": [
+    {
+      "owner": "z-neustupova",
+      "owner_wiki": null,
+      "person": "vladykové z Neustupova a ze Soběšína",
+      "from": 1364,
+      "to": null,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "zalozeni",
+      "note": "Rodiny z Neustupova a ze Soběšína se v držbě střídaly až do poloviny 15. století."
+    },
+    {
+      "owner": "z-slavkova",
+      "owner_wiki": null,
+      "person": "Radimští ze Slavkova (Jan Neustupovský ze Slavkova, +1545)",
+      "from": null,
+      "to": null,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "neznamo",
+      "note": "hrady.cz uvádí Radimské ze Slavkova od 2. poloviny 15. do 2. poloviny 16. století a mezi ně vřazuje Mrackého z Dubé (zemřeli 1553-1556); web zámku uvádějí Jana Neustupovského ze Slavkova (+1545), jeho syna Kuneše a jeho manželku Alžbětu z Malovic. Zdroje se liší, pořadí není jisté."
+    },
+    {
+      "owner": "kaplirove-ze-sulevic",
+      "owner_wiki": "Kaplířové ze Sulevic",
+      "person": "Eva Kaplířová, dcera Kuneše a Alžběty z Malovic, a Kašpar Kaplíř ze Sulevic",
+      "from": null,
+      "to": 1621,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "dedictvi",
+      "note": "Eva nechala postavit renesanční zámek místo tvrze. Kašpar Kaplíř popraven na Staroměstském náměstí 21. 6. 1621."
+    },
+    {
+      "owner": "marradasove",
+      "owner_wiki": "Marradasové",
+      "person": "pluk generála Balthasara Marradase",
+      "from": 1627,
+      "to": 1630,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "konfiskace",
+      "note": "Statky zkonfiskované Kaplířům postoupeny roku 1627 ve prospěch pluku generála Marradase (cs.wiki uvádí Marradase již po 1621)."
+    },
+    {
+      "owner": "hoeff-huertove",
+      "owner_wiki": null,
+      "person": "don Martin de Hoeff-Huerta",
+      "from": 1630,
+      "to": 1633,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "Důstojník a vykonavatel rekatolizace; hrady.cz mluví o jeho desetileté vládě, jiné zdroje uvádějí smrt 1633."
+    },
+    {
+      "owner": "z-pottingu",
+      "owner_wiki": null,
+      "person": "hrabata z Pöttingu",
+      "from": null,
+      "to": 1681,
+      "from_approx": false,
+      "to_approx": true,
+      "how": "neznamo",
+      "note": "Po smrti Hoeff-Huerty se majitelé střídali (zdroj uvádí jen hrabata z Pöttingu, od 1681 Bissingeny)."
+    },
+    {
+      "owner": "bissingenove",
+      "owner_wiki": "Bissingenové",
+      "person": "Bissingenové",
+      "from": 1681,
+      "to": 1695,
+      "from_approx": false,
+      "to_approx": true,
+      "how": "neznamo",
+      "note": "Konec držby odvozen z nástupu Dohalských (od 1695). hrady.cz uvádí Bissingeny až do 1809."
+    },
+    {
+      "owner": "dohalsti-z-dohalic",
+      "owner_wiki": "Dohalští z Dohalic",
+      "person": "Dohalští z Dohalic",
+      "from": 1695,
+      "to": 1712,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "Roku 1712 byl Neustupov pro dluhy nuceně prodán."
+    },
+    {
+      "owner": "neznamo",
+      "owner_wiki": null,
+      "person": null,
+      "from": 1712,
+      "to": 1809,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "neznamo",
+      "note": "Rychlé střídání majitelů, zdroj je nejmenuje."
+    },
+    {
+      "owner": "soukromnik",
+      "owner_wiki": null,
+      "person": "rodina Rommbaldů (pražští měšťané)",
+      "from": 1809,
+      "to": 1887,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe"
+    },
+    {
+      "owner": "soukromnik",
+      "owner_wiki": null,
+      "person": "Karel a Marie Krausovi",
+      "from": 1887,
+      "to": 1892,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe"
+    },
+    {
+      "owner": "aichelburgove",
+      "owner_wiki": "Aichelburgové",
+      "person": "hrabě Vladimír z Aichelburgu pro manželku Helenu",
+      "from": 1892,
+      "to": 1948,
+      "from_approx": false,
+      "to_approx": true,
+      "how": "koupe",
+      "note": "Po roce 1948 jim byl majetek zabaven."
+    },
+    {
+      "owner": "mesto",
+      "owner_wiki": null,
+      "person": "místní národní výbor",
+      "from": 1948,
+      "to": null,
+      "from_approx": true,
+      "to_approx": true,
+      "how": "konfiskace",
+      "note": "Zámek převeden na MNV (hrady.cz uvádí obec), který v něm zřídil skladiště léčiv."
+    },
+    {
+      "owner": "aichelburgove",
+      "owner_wiki": "Aichelburgové",
+      "person": "Vladimír Aichelburg",
+      "from": null,
+      "to": 2000,
+      "from_approx": true,
+      "to_approx": false,
+      "how": "restituce",
+      "note": "Po roce 1989 získal zámek zpět v restituci (rok neuveden)."
+    },
+    {
+      "owner": "soukromnik",
+      "owner_wiki": null,
+      "person": "INTEC - export a import, s.r.o.",
+      "from": 2000,
+      "to": 2020,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe"
+    },
+    {
+      "owner": "soukromnik",
+      "owner_wiki": null,
+      "person": "Ing. Michal Farník",
+      "from": 2020,
+      "to": null,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "Zámek opravuje a pořádá na něm kulturní akce."
+    }
+  ],
+  "events": [
+    {
+      "year": 1520,
+      "text": "tvrz poprvé připomínána (cs.wiki)"
+    },
+    {
+      "year": 1621,
+      "text": "poprava Kašpara Kaplíře, konfiskace panství"
+    },
+    {
+      "year": 1892,
+      "text": "Aichelburgové upravují zámek (nárožní polygonální vížka) a park"
+    },
+    {
+      "year": 1948,
+      "text": "zabavení Aichelburgům, v zámku skladiště léčiv"
+    },
+    {
+      "year": 2020,
+      "text": "nový majitel zámek opravuje a zpřístupňuje"
+    }
+  ],
+  "sources": [
+    "https://www.zamek-neustupov.cz/historie-zamku-neustupov/",
+    "https://www.hrady.cz/zamek-neustupov/",
+    "https://klicovamista.cz/neustupov/",
+    "https://cs.wikipedia.org/wiki/Neustupov"
+  ]
+}

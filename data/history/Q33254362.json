@@ -1,0 +1,143 @@
+{
+  "id": "Q33254362",
+  "name": "Orlice",
+  "founded": {
+    "year": 1361,
+    "approx": true,
+    "text": "Tvrz vznikla pravděpodobně koncem 13. století; poprvé připomínána 1361 v predikátu Ivana z Orlice."
+  },
+  "summary": "Tvrz Orlice u Letohradu vznikla pravděpodobně koncem 13. století; pozemky roku 1257 dostali od krále páni z Olešné. Ve 14. a 15. století ji držela řada drobných držitelů, poté Strachotové z Kralovic a od roku 1565 Sudové z Řeneč, kteří ji přestavěli na renesanční zámek. Po roce 1650 sloužila jako hospodářský dvůr a sýpka, nakonec chátrala; roku 2008 ji koupila společnost EYWAN, opravila a otevřela jako Chateau Orlice.",
+  "owners": [
+    {
+      "owner": "z-olesne",
+      "owner_wiki": null,
+      "person": "páni z Olešné, družiníci Kojaty z Hrabišic",
+      "from": 1257,
+      "to": null,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "lenni",
+      "note": "Pozemky jim věnoval Přemysl Otakar II."
+    },
+    {
+      "owner": "z-orlice",
+      "owner_wiki": null,
+      "person": "Ivan z Orlice",
+      "from": 1361,
+      "to": 1366,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "neznamo",
+      "note": "Patron kostela; první písemná zmínka."
+    },
+    {
+      "owner": "z-prepych",
+      "owner_wiki": null,
+      "person": "Dobeš z Přepych a Všech z Rohova",
+      "from": 1366,
+      "to": 1393,
+      "from_approx": true,
+      "to_approx": true,
+      "how": "neznamo",
+      "note": "Po jejich smrti (kolem 1393) připadla Orlice králi."
+    },
+    {
+      "owner": "z-orlice",
+      "owner_wiki": null,
+      "person": "Tvoch z Orlice, královský strážce; poté Mikuláš z Orlice",
+      "from": 1393,
+      "to": null,
+      "from_approx": true,
+      "to_approx": false,
+      "how": "lenni",
+      "note": "Mikuláš z Orlice (kanovník vyšehradský) doložen 1415; poté zprávy asi 100 let chybí."
+    },
+    {
+      "owner": "z-kralovic",
+      "owner_wiki": null,
+      "person": "Strachotové z Kralovic (Michal, Jan mladší, Burjan)",
+      "from": null,
+      "to": 1565,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "neznamo",
+      "note": "Strachota starší připomínán 1406; kdy rod Orlici získal, zdroj neuvádí. Burjan ji roku 1565 prodal."
+    },
+    {
+      "owner": "sudove-z-renec",
+      "owner_wiki": null,
+      "person": "Sudové z Řeneč (Suda, Petr Suda, Jetřich Suda)",
+      "from": 1565,
+      "to": 1638,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "Petr Suda zemřel 1592 (vdova Dorota z Lipan), Jetřich Suda zemřel 1638."
+    },
+    {
+      "owner": "vitanovsti-z-vlckovic",
+      "owner_wiki": null,
+      "person": "Adam Mikuláš Vitanovský z Vlčkovic a Dorota Anna Sudová",
+      "from": null,
+      "to": 1650,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "snatek",
+      "note": "Dorota Anna, dcera Jetřicha Sudy, se provdala za Vitanovského. Roku 1650 koupili panství Kyšperk, připojili k němu Orlici a přesídlili tam."
+    },
+    {
+      "owner": "neznamo",
+      "owner_wiki": null,
+      "person": null,
+      "from": 1650,
+      "to": 2008,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "neznamo",
+      "note": "Orlice připojena ke Kyšperku, zdroj další vlastníky neuvádí (zámek přestavěn na sýpku, pivovar, tkalcovna, autodílny; od 1968 sklad; asi 40 let chátral)."
+    },
+    {
+      "owner": "soukromnik",
+      "owner_wiki": null,
+      "person": "EYWAN s.r.o. (spolumajitelé Pavel Tacl a Jaroslav Toman)",
+      "from": 2008,
+      "to": null,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "Opravy a hotel Chateau Orlice."
+    }
+  ],
+  "events": [
+    {
+      "year": 1257,
+      "text": "král Přemysl Otakar II. věnuje pozemky pánům z Olešné"
+    },
+    {
+      "year": 1361,
+      "text": "první písemná zmínka o tvrzi (Ivan z Orlice)"
+    },
+    {
+      "year": 1565,
+      "text": "koupě Sudou z Řeneč, v následujících letech renesanční přestavba se sgrafity"
+    },
+    {
+      "year": 1650,
+      "text": "šlechta se stěhuje na Kyšperk, areál slouží hospodářsky"
+    },
+    {
+      "year": 2008,
+      "text": "koupě společností EYWAN a obnova areálu"
+    },
+    {
+      "year": 2012,
+      "text": "otevření opravené tvrze, hotelu a restaurace"
+    }
+  ],
+  "sources": [
+    "https://www.chateau-orlice.cz/cs/historie/",
+    "https://www.hrady.cz/zamek-orlice-tvrz-orlice",
+    "https://pardubice.rozhlas.cz/zamek-orlice-letohrad-6084872",
+    "https://www.idnes.cz/pardubice/zpravy/opravena-tvrz-orlice-v-letohradu.A120814_1816183_pardubice-zpravy_mav"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "Q120065441",
+  "name": "Chuchelná",
+  "founded": {
+    "year": null,
+    "approx": false,
+    "text": "Zámek vznikl přestavbou panského dvora / tvrze; stavba je ohraničena lety 1683 a 1727. Nápis 1670 označuje koupi Chuchelné, ne zahájení stavby."
+  },
+  "summary": "Raně barokní zámek v Chuchelné vznikl ze starého panského dvora a tvrze, kterou roku 1670 koupil Karel Maxmilián Lichnovský. Lichnovští ho drželi až do roku 1945, kdy byl konfiskován. Od roku 1952 v něm sídlí rehabilitační ústav.",
+  "owners": [
+    {
+      "owner": "lichnovsti-z-vostic",
+      "owner_wiki": "Lichnovští z Voštic",
+      "person": "Jiří Lichnovský",
+      "from": null,
+      "to": 1650,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "neznamo",
+      "note": "Roku 1650 prodal zpustlou ves a zchátralý panský dvůr, sám žil v nájemné chalupě v Benkovicích."
+    },
+    {
+      "owner": "skrbensti-z-hriste",
+      "owner_wiki": "Skrbenští z Hříště",
+      "person": "Zikmund Jaroslav Skrbenský",
+      "from": 1650,
+      "to": 1670,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe"
+    },
+    {
+      "owner": "lichnovsti-z-vostic",
+      "owner_wiki": "Lichnovští z Voštic",
+      "person": "Karel Maxmilián Lichnovský (později knížata Lichnovští, poslední kníže Vilém)",
+      "from": 1670,
+      "to": 1945,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "Koupě 20. 12. 1670, kupní smlouva uvádí tvrz s domem a poplužním dvorem. Chuchelná se stala centrem panství."
+    },
+    {
+      "owner": "stat",
+      "owner_wiki": null,
+      "person": null,
+      "from": 1945,
+      "to": null,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "konfiskace",
+      "note": "Konfiskace podle dekretu č. 12/1945 Sb. Správa Národního pozemkového fondu, od 1949 n. p. Elektro-Praga / Sigma, od 1952 zdravotní referát KNV Ostrava (rehabilitační ústav, dnes pracoviště RÚ Hrabyně). Dnešního vlastníka zdroj nejmenuje."
+    }
+  ],
+  "events": [
+    {
+      "year": 1670,
+      "text": "koupě Chuchelné Karlem Maxmiliánem Lichnovským"
+    },
+    {
+      "year": 1776,
+      "text": "vysvěcena nová zámecká kaple"
+    },
+    {
+      "year": 1853,
+      "text": "přistavěn Dům kavalírů"
+    },
+    {
+      "year": 1945,
+      "text": "konfiskace majetku knížete Viléma Lichnovského"
+    },
+    {
+      "year": 1952,
+      "text": "v zámku zřízen rehabilitační ústav"
+    },
+    {
+      "year": 1969,
+      "text": "dostavěn dětský pavilon"
+    }
+  ],
+  "sources": [
+    "https://www.chuchelna.com/cs/obec/blizke-okoli/kulturni-pamatky-obce/",
+    "https://www.hrady.cz/zamek-chuchelna-opava",
+    "http://www.kultura.cz/profile/5441-zamek-chuchelna"
+  ]
+}
