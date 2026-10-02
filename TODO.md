@@ -1,10 +1,10 @@
 # TODO
 
-Stav k 2026-10-02: web běží na GitHub Pages (<https://zdenekcdc.github.io/hrady-zamky/>), mapa 2231 objektů, historie vlastníků 294 objektů (všechny zpřístupněné), 707 rodů.
+Stav k 2026-10-02: web běží na GitHub Pages (<https://zdenekcdc.github.io/hrady-zamky/>), mapa 2231 objektů, historie vlastníků 294 objektů (všechny zpřístupněné), 716 rodů. Web má záložky Mapa / Rody / Statistiky, detail má přepínač osa / tabulka vlastníků.
 
 ## Priorita 1 - data
 
-- [ ] Ověřit nejistá místa v historiích (hlášená agenty):
+- [ ] Ověřit nejistá místa v historiích (hlášená agenty). Postup: dávky po 5 objektech, 1 agent Sonnet, bez vnořených agentů (pravidla v `docs/history-batches.md`), pak `fetch_families.py`, `build_history.py`, E2E. Ověřeno 15 objektů (Karlštejn, Hukvaldy, Rokytnice, Kokořín, Bučovice, Slatiňany, Dobříš, Velhartice, Vranov n. D., Kunětická hora, Třeboň, Opočno, Jindřichův Hradec, Valdštejn, Zákupy) - jejich řádky níže jsou už jen zbytek nejasností. Agent má používat i zdroj mimo cs.wiki (hrady.cz vrací prázdnou stránku).
   - Karlštejn - roky zástavních držitelů 1648-1690 cs.wiki neuvádí (v datech `null`, build je dopočítává); Tereziánský ústav šlechtičen zůstává `cirkev` (vhodnější id není).
   - Slatiňany - ověřeno jen z jednoho zdroje (cs.wiki): roky Bubnů a Purkarta chybí, rozpory Berkové 1623 vs. 1620, Zumsand 1708 vs. 1710, konfiskace Karlíků 1622 vs. 1620.
   - Dobříš - pořadí zástavních držitelů ověřeno z cs.wiki; neznámé, kdy králi skončila držba před Štěpánem z Tetína a kdy Jiří z Poděbrad Dobříš vykoupil.
