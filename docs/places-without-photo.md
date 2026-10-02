@@ -1,6 +1,6 @@
 # Místa bez fotografie
 
-237 z 2230 míst nemá ve Wikidatech obrázek (P18), proto nemají fotku v detailu ani miniaturu. Fotku přidáš nahráním na Wikimedia Commons a doplněním P18 do položky na Wikidatech; pak `fetch_wikidata.py`, `build_places.py`, `fetch_thumbs.py`.
+236 z 2229 míst nemá ve Wikidatech obrázek (P18), proto nemají fotku v detailu ani miniaturu. Fotku přidáš nahráním na Wikimedia Commons a doplněním P18 do položky na Wikidatech; pak `fetch_wikidata.py`, `build_places.py`, `fetch_thumbs.py`.
 
 ## Jihomoravský kraj (14)
 
@@ -86,7 +86,7 @@
 | Zahrádka | hrad | Zahrádka | neznámo | [Wikidata](https://www.wikidata.org/wiki/Q10857174), [cs.wiki](https://cs.wikipedia.org/wiki/Zahrádka_(hrad)) |
 | Červenice | hrad | Vilémov | neznámo | [Wikidata](https://www.wikidata.org/wiki/Q11175753), [cs.wiki](https://cs.wikipedia.org/wiki/Červenice_(hrad)) |
 
-## Královéhradecký kraj (26)
+## Královéhradecký kraj (25)
 
 | Místo | Typ | Obec | Přístup | Odkazy |
 |---|---|---|---|---|
@@ -95,7 +95,6 @@
 | Barchůvek | zámek | Měník | neznámo | [Wikidata](https://www.wikidata.org/wiki/Q11054762), [cs.wiki](https://cs.wikipedia.org/wiki/Barchůvek_(zámek)) |
 | Bolkov | hrad | Zlatá Olešnice | neznámo | [Wikidata](https://www.wikidata.org/wiki/Q11225857), [cs.wiki](https://cs.wikipedia.org/wiki/Bolkov_(hrad)) |
 | Borovnice | zámek | Borovnice | neznámo | [Wikidata](https://www.wikidata.org/wiki/Q11232878), [cs.wiki](https://cs.wikipedia.org/wiki/Borovnice_(zámek)) |
-| Dvůr Králové | hrad | Dvůr Králové nad Labem | neznámo | [Wikidata](https://www.wikidata.org/wiki/Q80102912), [cs.wiki](https://cs.wikipedia.org/wiki/Dvůr_Králové_(hrad)) |
 | Hlodný | hrad | Uhřínov | neznámo | [Wikidata](https://www.wikidata.org/wiki/Q12019772), [cs.wiki](https://cs.wikipedia.org/wiki/Hlodný) |
 | Hluky | zřícenina | Hluky | volně | [Wikidata](https://www.wikidata.org/wiki/Q12019811), [cs.wiki](https://cs.wikipedia.org/wiki/Hluky_(hrad)) |
 | Hoděčín | zámek | Týniště nad Orlicí | neznámo | [Wikidata](https://www.wikidata.org/wiki/Q110947425) |
