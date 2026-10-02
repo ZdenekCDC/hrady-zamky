@@ -25,6 +25,11 @@ OUT.mkdir(parents=True, exist_ok=True)
 sys.path.insert(0, str(ROOT / "scripts"))
 import serve as app_server  # noqa: E402  (the real server, with its write API)
 
+DATA_PLACES = json.loads((ROOT / "data" / "places.json").read_text(encoding="utf-8"))
+DATA_HISTORY = json.loads((ROOT / "data" / "build" / "history.json").read_text(encoding="utf-8"))
+DATA_FAMILIES = json.loads((ROOT / "data" / "build" / "families.json").read_text(encoding="utf-8"))
+INSTITUTIONS = {"koruna", "stat", "cirkev", "mesto", "soukromnik", "neznamo"}
+
 VISITED_COPY = OUT / "visited.json"  # the test never writes the real data/visited.json
 
 
@@ -292,6 +297,11 @@ def main():
         page.keyboard.press("Enter")
         page.wait_for_selector("#panel-detail h2")
         print("detail:", page.inner_text("#panel-detail h2"), "| gantt rows:", page.locator("#d-gantt .row").count())
+        kunet = next(p for p in DATA_PLACES if p["name"] == page.inner_text("#panel-detail h2").strip())
+        assert page.inner_text("#panel-detail h2").strip() == kunet["name"] and kunet["id"] in page.url, page.url
+        k_summary = (DATA_HISTORY[kunet["id"]]["summary"] or "")[:40]
+        assert k_summary and k_summary in page.inner_text("#panel-detail").replace("\n", " "), \
+            f"history summary of {kunet['name']} not shown in the detail"
         credit = page.inner_text("#panel-detail .hero .credit")
         assert credit.startswith("Foto: ") and credit.count(",") >= 2 and "Wikimedia Commons" in credit, \
             f"photo credit without author and license: {credit}"
@@ -322,6 +332,8 @@ def main():
         assert page.locator("#d-gantt").is_hidden() and page.locator("#d-owners").is_visible(), "table view not shown"
         n_rows = page.locator("#d-owners tbody tr").count()
         assert n_rows > 0, "owners table is empty"
+        n_owners = len(DATA_HISTORY["Q655633"]["owners"])
+        assert n_rows == n_owners, f"owners table has {n_rows} rows, data/build/history.json has {n_owners} owners"
         assert page.locator("#d-owners tbody tr:first-child td").nth(2).inner_text().strip(), "owner name missing in table"
         shot("02d-detail-table")
         page.click("[data-view=gantt]")
@@ -338,12 +350,20 @@ def main():
         page.goto(base + "#/rody")
         page.wait_for_selector("#overview-gantt svg")
         print("families listed:", page.locator("#fam-list li").count())
+        expect_fams = len([f for f in DATA_FAMILIES if f not in INSTITUTIONS])
+        assert page.locator("#fam-list li").count() == expect_fams, \
+            f"families list shows {page.locator('#fam-list li').count()}, data has {expect_fams} families"
         shot("04-families")
 
         first = page.locator("#fam-list li a").first
         first.click()
         page.wait_for_selector("#family-gantt svg")
         print("family:", page.inner_text(".family-detail h2"), "| places:", page.locator("#family-gantt .row").count())
+        fam_name = page.inner_text(".family-detail h2").strip()
+        fam_id = next(i for i, f in DATA_FAMILIES.items() if f["name"] == fam_name)
+        fam_places = sum(1 for h in DATA_HISTORY.values() if any(o["owner"] == fam_id for o in h["owners"]))
+        assert page.locator("#family-gantt .row").count() == fam_places, \
+            f"{fam_name}: {page.locator('#family-gantt .row').count()} rows, data has {fam_places} places"
         shot("05-family")
 
         page.goto(base + "#/statistiky")
@@ -351,6 +371,8 @@ def main():
         tiles = page.locator("#view-stats .tile b").all_inner_texts()
         assert tiles[0].split(" / ")[0] == "5", f"stats tile does not match the 5 visited places: {tiles}"
         assert page.locator("#view-stats .bars li").count() > 5, "stats bars missing"
+        assert tiles[0].split(" / ")[1] == str(len(DATA_PLACES)), f"stats total places {tiles[0]}, data has {len(DATA_PLACES)}"
+        assert tiles[1].split(" / ")[1] == str(len(DATA_HISTORY)), f"stats histories {tiles[1]}, data has {len(DATA_HISTORY)}"
         print("stats tiles:", tiles)
         shot("04b-stats")
 

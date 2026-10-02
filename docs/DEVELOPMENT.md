@@ -87,5 +87,5 @@ Požadavky: Python 3.12+ a venv: `python3 -m venv .venv && .venv/bin/pip install
 
 ```sh
 .venv/bin/pip install playwright && .venv/bin/playwright install chromium
-.venv/bin/python tests/e2e.py    # projde mapu, detail, stroj času, rody; screenshoty do $TMPDIR/hz-e2e
+.venv/bin/python tests/e2e.py    # projde mapu, detail, stroj času, rody, statistiky, návštěvy, porovná obsah s daty (počty rodů a míst, vlastníci, souhrn); screenshoty do $TMPDIR/hz-e2e
 ```
