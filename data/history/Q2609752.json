@@ -1,34 +1,232 @@
 {
  "id": "Q2609752",
  "name": "Dobříš",
- "founded": {"year": 1720, "approx": false, "text": "1720 nechal kníže Jindřich Pavel z Mansfeldu po požáru středověkého hradu Vargač postavit nynější zámek; současnou rokokovou podobu získal přestavbou 1745-1765"},
+ "founded": {
+  "year": 1720,
+  "approx": false,
+  "text": "1720 nechal kníže Jindřich Pavel z Mansfeldu po požáru středověkého hradu Vargač postavit nynější zámek; současnou rokokovou podobu získal přestavbou 1745-1765"
+ },
  "summary": "Dobříš byla poprvé zmíněna roku 1252 jako majetek českých králů, ve 14.-15. století se zde vystřídala řada zástavních držitelů (Kolovratové, Poděbradové, Švamberkové, Lobkovicové, Švihovští z Rýzmberka), než ji roku 1569 Maxmilián II. natrvalo připojil ke komornímu majetku. Roku 1630 koupil panství Bruno III. z Mansfeldu, jehož potomci nechali po požáru středověkého hradu postavit roku 1720 nový zámek, přestavěný 1745-1765 do dnešní rokokové podoby. Po vymření Mansfeldů po meči 1780 přešlo panství sňatkem na rod Colloredo-Mansfeldů, kterým bylo 1942 zabaveno nacisty a 1945 znárodněno československým státem; po restituci 1998 je zámek opět v majetku rodiny Colloredo-Mannsfeldů.",
  "owners": [
-  {"owner": "koruna", "person": "Václav I.", "from": 1252, "to": 1262, "from_approx": true, "to_approx": true, "how": "zalozeni", "note": "první písemná zmínka 1252 dokládá pobyt Václava I.; pravděpodobně zde stálo vrchnostenské obydlí"},
-  {"owner": "rozemberkove", "owner_wiki": "Rožmberkové", "from": 1262, "to": 1320, "from_approx": true, "to_approx": true, "how": "jine", "note": "do královského majetku Dobříš zpět získal až Jan Lucemburský"},
-  {"owner": "koruna", "person": "Jan Lucemburský / Karel IV.", "from": 1320, "to": 1422, "from_approx": true, "to_approx": false, "how": "jine", "note": "nechali postavit lovecký hrádek Vargač, doloženy pobyty Karla IV. a Václava IV."},
-  {"owner": "kolovratove", "owner_wiki": "Kolovratové", "from": 1422, "to": 1450, "from_approx": false, "to_approx": true, "how": "lenni", "note": "Zikmund Lucemburský přenechal Dobříš jako zástavu pánům z Kolovrat"},
-  {"owner": "pani-z-kunstatu-a-podebrad", "owner_wiki": "Páni z Kunštátu a Poděbrad", "person": "Jiří z Poděbrad a synové", "from": 1450, "to": 1460, "from_approx": true, "to_approx": true, "how": "koupe", "note": "Jiří z Poděbrad zástavu vykoupil a přenechal ji svým synům"},
-  {"owner": "pani-ze-svamberka", "owner_wiki": "Páni ze Švamberka", "from": 1460, "to": 1500, "from_approx": true, "to_approx": true, "how": "lenni", "note": "jeden z rodů, které se v zástavní držbě Dobříše vystřídaly ve 2. pol. 15. stol.; přesné pořadí a data v dostupném textu nejsou upřesněny"},
-  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "from": 1500, "to": 1540, "from_approx": true, "to_approx": true, "how": "lenni", "note": "další zástavní držitel Dobříše v 15.-16. stol.; přesné pořadí a data v dostupném textu nejsou upřesněny"},
-  {"owner": "svihovsti-z-ryzmberka", "owner_wiki": "Švihovští z Rýzmberka", "from": 1540, "to": 1569, "from_approx": true, "to_approx": false, "how": "lenni", "note": "poslední zástavní držitel před vyplacením panství korunou 1569"},
-  {"owner": "koruna", "person": "Maxmilián II. Habsburský", "from": 1569, "to": 1611, "from_approx": false, "to_approx": false, "how": "koupe", "note": "vyplatil zástavu, povýšil Dobříš na městečko a rozšířil panství o další vesnice; Rudolf II. nechal postavit hejtmanské obydlí"},
-  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": "Alžběta z Lobkovic a dcera Anna, provdaná Fürstenbergová", "from": 1611, "to": 1630, "from_approx": false, "to_approx": true, "how": "lenni", "note": "panství znovu v zástavě; ve finanční tísni za třicetileté války je císař Ferdinand II. nakonec prodal"},
-  {"owner": "mansfeldove", "owner_wiki": "Mansfeldové", "person": "Bruno III. z Mansfeldu", "from": 1630, "to": 1780, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupě za 40 000 zlatých; syn František Maxmilián opravoval starý hrad Vargač, po požáru 1720 jej Mansfeldové opustili a Jindřich Pavel z Mansfeldu postavil nový zámek (přestavba 1745-1765); rod vymřel po meči 1780 knížetem Václavem Janem"},
-  {"owner": "colloredove", "owner_wiki": "Colloredové", "person": "Marie Isabela z Mansfeldu a manžel František Gundakar z Colloreda", "from": 1780, "to": 1942, "from_approx": false, "to_approx": false, "how": "snatek", "note": "sestra posledního Mansfelda zdědila panství a sňatkem 1771 založila rod Colloredo-Mansfeldů"},
-  {"owner": "stat", "from": 1942, "to": 1945, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "vyvlastnění nacistickým Německem, zámek sloužil jako sídlo říšského protektora"},
-  {"owner": "stat", "from": 1945, "to": 1998, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "znárodnění československým státem; do 90. let sloužil jako Domov spisovatelů Svazu čs. spisovatelů"},
-  {"owner": "colloredove", "owner_wiki": "Colloredové", "person": "Jerome Colloredo-Mannsfeld", "from": 1998, "to": null, "from_approx": false, "to_approx": false, "how": "restituce", "note": "majetek navrácen potomkům bývalých vlastníků"}
+  {
+   "owner": "koruna",
+   "person": "Václav I.",
+   "from": 1252,
+   "to": 1262,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "zalozeni",
+   "note": "první písemná zmínka 1252 dokládá pobyt Václava I.; pravděpodobně zde stálo vrchnostenské obydlí"
+  },
+  {
+   "owner": "rozmberkove",
+   "owner_wiki": "Rožmberkové",
+   "person": null,
+   "from": 1262,
+   "to": 1321,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "podle cs.wiki Dobříš patřila Rožmberkům od roku 1262; do královského majetku ji zpět získal až Jan Lucemburský"
+  },
+  {
+   "owner": "z-tetina",
+   "owner_wiki": null,
+   "person": "Štěpán z Tetína",
+   "from": 1321,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "podle cs.wiki Dobříš držel statek od roku 1321; konec držby zdroj neuvádí"
+  },
+  {
+   "owner": "koruna",
+   "person": "Jan Lucemburský / Karel IV.",
+   "from": null,
+   "to": 1422,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "za Jana Lucemburského přešla Dobříš opět králi (rok zdroj neuvádí); nechali postavit lovecký hrádek Vargač, doloženy pobyty Karla IV. a Václava IV."
+  },
+  {
+   "owner": "kolovratove",
+   "owner_wiki": "Kolovratové",
+   "person": "Bedřich a Hanuš z Kolovrat",
+   "from": 1422,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "Zikmund Lucemburský jim hrad zastavil 1422; dalším držitelem byl Hanušův stejnojmenný syn, kterého vyplatil Jiří z Poděbrad (rok vyplacení zdroj neuvádí)"
+  },
+  {
+   "owner": "pani-z-kunstatu-a-podebrad",
+   "owner_wiki": "Páni z Kunštátu a Poděbrad",
+   "person": "synové Jiřího z Poděbrad (Viktorin, Boček, Jindřich, Hynek)",
+   "from": 1461,
+   "to": 1472,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "Jiří z Poděbrad statek vykoupil a roku 1461 jej zastavil svým synům; ti se ho roku 1472 vzdali"
+  },
+  {
+   "owner": "pani-ze-svamberka",
+   "owner_wiki": "Páni ze Švamberka",
+   "person": "Jindřich ze Švamberka na Zvíkově",
+   "from": null,
+   "to": 1491,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "po roce 1472 (v pramenech se hrad 20 let neobjevuje) ho získal Jindřich ze Švamberka; roku 1491 jej přenechal Děpoltovi z Lobkovic"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Děpolt z Lobkovic (†1527)",
+   "from": 1491,
+   "to": 1530,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "vymena",
+   "note": "získal 1491 výměnou od Jindřicha ze Švamberka (za polovinu Kestřan, 750 kop grošů a další majetek); synové Jiří, Jan a Litvín roku 1530 Vargač vrátili koruně"
+  },
+  {
+   "owner": "svihovsti-z-ryzmberka",
+   "owner_wiki": "Švihovští z Rýzmberka",
+   "person": "Vilém Švihovský z Rýzmberka a jeho synové",
+   "from": 1530,
+   "to": 1569,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "král Ferdinand I. mu hrad po 1530 přenechal k doživotnímu užívání, později jej udělil všem Vilémovým synům (hrad Vargač popisován jako zchátralý); 1569 se panství vrátilo do královských rukou"
+  },
+  {
+   "owner": "koruna",
+   "person": "Maxmilián II. Habsburský",
+   "from": 1569,
+   "to": 1611,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "vyplatil zástavu, povýšil Dobříš na městečko a rozšířil panství o další vesnice; Rudolf II. nechal postavit hejtmanské obydlí; podle článku Vargač panství v roce 1569 král zastavil sázavskému klášteru (ostatní zdroje o této zástavě mlčí)"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Alžběta z Lobkovic a dcera Anna, provdaná Fürstenbergová",
+   "from": 1611,
+   "to": 1630,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "lenni",
+   "note": "panství znovu v zástavě; ve finanční tísni za třicetileté války je císař Ferdinand II. nakonec prodal"
+  },
+  {
+   "owner": "mansfeldove",
+   "owner_wiki": "Mansfeldové",
+   "person": "Bruno III. z Mansfeldu",
+   "from": 1630,
+   "to": 1780,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupě za 40 000 zlatých; syn František Maxmilián opravoval starý hrad Vargač, po požáru 1720 jej Mansfeldové opustili a Jindřich Pavel z Mansfeldu postavil nový zámek (přestavba 1745-1765); rod vymřel po meči 1780 knížetem Václavem Janem"
+  },
+  {
+   "owner": "colloredove",
+   "owner_wiki": "Colloredové",
+   "person": "Marie Isabela z Mansfeldu a manžel František Gundakar z Colloreda",
+   "from": 1780,
+   "to": 1942,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "snatek",
+   "note": "sestra posledního Mansfelda zdědila panství a sňatkem 1771 založila rod Colloredo-Mansfeldů"
+  },
+  {
+   "owner": "stat",
+   "from": 1942,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "vyvlastnění nacistickým Německem, zámek sloužil jako sídlo říšského protektora"
+  },
+  {
+   "owner": "stat",
+   "from": 1945,
+   "to": 1998,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "znárodnění československým státem; do 90. let sloužil jako Domov spisovatelů Svazu čs. spisovatelů"
+  },
+  {
+   "owner": "colloredove",
+   "owner_wiki": "Colloredové",
+   "person": "Jerome Colloredo-Mannsfeld",
+   "from": 1998,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "restituce",
+   "note": "majetek navrácen potomkům bývalých vlastníků"
+  }
  ],
  "events": [
-  {"year": 1252, "text": "první písemná zmínka o Dobříši jako majetku českých králů"},
-  {"year": 1422, "text": "Zikmund Lucemburský dává Dobříš do zástavy pánům z Kolovrat"},
-  {"year": 1569, "text": "Maxmilián II. vyplácí zástavu, panství se natrvalo vrací komoře a Dobříš je povýšena na městečko"},
-  {"year": 1630, "text": "Bruno III. z Mansfeldu kupuje panství za 40 000 zlatých"},
-  {"year": 1720, "text": "po požáru hradu Vargač nechává Jindřich Pavel z Mansfeldu postavit nový zámek"},
-  {"year": 1780, "text": "vymření Mansfeldů po meči, panství přechází sňatkem na rod Colloredo-Mansfeldů"},
-  {"year": 1942, "text": "nacistické Německo zabavuje zámek, slouží jako sídlo říšského protektora"},
-  {"year": 1998, "text": "zámek navrácen restitucí rodině Colloredo-Mannsfeldů"}
+  {
+   "year": 1252,
+   "text": "první písemná zmínka o Dobříši jako majetku českých králů"
+  },
+  {
+   "year": 1422,
+   "text": "Zikmund Lucemburský zastavuje Dobříš (hrad Vargač) Bedřichovi a Hanušovi z Kolovrat"
+  },
+  {
+   "year": 1461,
+   "text": "Jiří z Poděbrad zastavuje Dobříš svým synům; ti se jí 1472 vzdali"
+  },
+  {
+   "year": 1491,
+   "text": "Jindřich ze Švamberka přenechává Dobříš Děpoltovi z Lobkovic"
+  },
+  {
+   "year": 1530,
+   "text": "synové Děpolta z Lobkovic vracejí Dobříš koruně; Ferdinand I. ji přenechává Vilému Švihovskému z Rýzmberka"
+  },
+  {
+   "year": 1569,
+   "text": "Maxmilián II. vyplácí zástavu, panství se natrvalo vrací komoře a Dobříš je povýšena na městečko"
+  },
+  {
+   "year": 1630,
+   "text": "Bruno III. z Mansfeldu kupuje panství za 40 000 zlatých"
+  },
+  {
+   "year": 1720,
+   "text": "po požáru hradu Vargač nechává Jindřich Pavel z Mansfeldu postavit nový zámek"
+  },
+  {
+   "year": 1780,
+   "text": "vymření Mansfeldů po meči, panství přechází sňatkem na rod Colloredo-Mansfeldů"
+  },
+  {
+   "year": 1942,
+   "text": "nacistické Německo zabavuje zámek, slouží jako sídlo říšského protektora"
+  },
+  {
+   "year": 1998,
+   "text": "zámek navrácen restitucí rodině Colloredo-Mannsfeldů"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Dobříš_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Dobříš_(zámek)",
+  "https://cs.wikipedia.org/wiki/Dobříš",
+  "https://cs.wikipedia.org/wiki/Vargač"
+ ]
 }

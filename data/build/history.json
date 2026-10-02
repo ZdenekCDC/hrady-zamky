@@ -8592,22 +8592,22 @@
     "owner_wiki": "Páni z Velhartic",
     "person": "Bušek I. z Velhartic",
     "from": 1285,
-    "to": 1330,
+    "to": 1337,
     "from_approx": true,
-    "to_approx": true,
+    "to_approx": false,
     "how": "zalozeni",
-    "note": "první písemná zmínka o hradu 1318, uvádí Buška I. jako prvního majitele"
+    "note": "první písemná zmínka o hradu 1318 uvádí Buška I. jako prvního majitele; podle článku Páni z Velhartic žil před 1318-1337"
    },
    {
     "owner": "pani-z-velhartic",
     "owner_wiki": "Páni z Velhartic",
     "person": "Bušek II. z Velhartic",
-    "from": 1330,
+    "from": 1337,
     "to": 1371,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": true,
     "how": "dedictvi",
-    "note": "zemřel okolo roku 1371"
+    "note": "zemřel okolo roku 1371 (rodový článek: před 1371)"
    },
    {
     "owner": "pani-z-velhartic",
@@ -8615,10 +8615,10 @@
     "person": "Jan z Velhartic",
     "from": 1371,
     "to": 1390,
-    "from_approx": false,
-    "to_approx": false,
+    "from_approx": true,
+    "to_approx": true,
     "how": "dedictvi",
-    "note": "za jeho držby se hradu dočasně zmocnil Hertvík z Degenberka (spor vyřešen smírem 1387); Jan zemřel 1390"
+    "note": "po otci Buškovi II. okolo 1371; hradu se z neznámého důvodu zmocnil Hertvík z Degenberka (smír 1387); Jan zemřel 1390 (rodový článek: kolem 1390)"
    },
    {
     "owner": "rozmberkove",
@@ -8640,18 +8640,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "snatek",
-    "note": "polovinu Velhartic získal Menhart sňatkem s Annou z Velhartic, zemřel asi 1393"
-   },
-   {
-    "owner": "rozmberkove",
-    "owner_wiki": "Rožmberkové",
-    "person": "Jindřich III. z Rožmberka",
-    "from": 1395,
-    "to": 1395,
-    "from_approx": false,
-    "to_approx": false,
-    "how": "vymena",
-    "note": "Anna z Velhartic (podruhé provdaná za Václava z Vartenberka) s ním roku 1395 vyměnila svůj podíl za čečovické a petrovické zboží; týž rok jej Rožmberk prodal Janu staršímu z Hradce"
+    "note": "polovinu Velhartic získal Menhart (syn Heřmana z Hradce) sňatkem s Annou z Velhartic, zemřel dva roky po svatbě (snad 1393)"
    },
    {
     "owner": "pani-z-hradce",
@@ -8662,29 +8651,51 @@
     "from_approx": false,
     "to_approx": true,
     "how": "snatek",
-    "note": "1391 získal polovinu Velhartic sňatkem s Kateřinou, 1395 odkoupil i druhou polovinu od Jindřicha z Rožmberka a stal se jediným majitelem"
+    "note": "druhou polovinu získal sňatkem s Kateřinou z Velhartic (1391 jí na Velharticích zapsal věno 2 500 kop grošů); 1395 odkoupil od Jindřicha z Rožmberka i podíl Anny a stal se jediným majitelem; Menhart II. byl faktickým držitelem už 1418"
+   },
+   {
+    "owner": "pani-z-velhartic",
+    "owner_wiki": "Páni z Velhartic",
+    "person": "Anna z Velhartic (provd. za Václava z Vartenberka)",
+    "from": 1393,
+    "to": 1395,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "ovdovělá Anna se podruhé provdala za Václava z Vartenberka a svůj podíl (hrad, městečko, patronátní právo, plat v Tedražicích) roku 1395 směnila s Jindřichem III. z Rožmberka za polovinu čečovického a petrovického zboží"
+   },
+   {
+    "owner": "rozmberkove",
+    "owner_wiki": "Rožmberkové",
+    "person": "Jindřich III. z Rožmberka",
+    "from": 1395,
+    "to": 1395,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "vymena",
+    "note": "roku 1395 vyměnil podíl Anny z Velhartic za čečovické a petrovické zboží; Jan starší z Hradce od něj podíl téhož roku odkoupil"
    },
    {
     "owner": "pani-z-hradce",
     "owner_wiki": "Páni z Hradce",
     "person": "Menhart II. z Hradce",
     "from": 1418,
-    "to": 1453,
+    "to": 1436,
     "from_approx": false,
-    "to_approx": false,
+    "to_approx": true,
     "how": "dedictvi",
-    "note": "1429 od matky Kateřiny odkoupil všechna práva k panství a vytvořil ucelené dominium; kolem 1448 na hradě tajně uschovával české korunovační klenoty odvezené z Karlštejna"
+    "note": "1429 od matky Kateřiny odkoupil všechna práva k panství a vytvořil ucelené dominium; kolem 1448 na hradě tajně uschovával české korunovační klenoty odvezené z Karlštejna; zdroj uvádí, že byl internován Jiřím z Poděbrad a cestou na Karlštejn zemřel (rok neuveden)"
    },
    {
     "owner": "pani-z-hradce",
     "owner_wiki": "Páni z Hradce",
     "person": "Oldřich V. z Hradce",
-    "from": 1453,
+    "from": 1436,
     "to": 1453,
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "zemřel bez potomků; správou dědictví pověřen nejvyšší purkrabí Zdeněk Konopišťský ze Šternberka"
+    "note": "syn Menharta II.; zemřel 1453 bez potomků; správou dědictví pověřen nejvyšší purkrabí Zdeněk Konopišťský ze Šternberka"
    },
    {
     "owner": "svihovsti-z-ryzmberka",
@@ -8692,10 +8703,10 @@
     "person": "Děpolt z Rýzmberka, synové Vilém a Půta",
     "from": 1453,
     "to": 1506,
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": true,
     "how": "koupe",
-    "note": "Zdeněk ze Šternberka jako správce dědictví panství nakonec prodal Děpoltovi z Rýzmberka; jeho synové je drželi do počátku 16. stol."
+    "note": "Zdeněk ze Šternberka jako správce dědictví panství (rok neuveden) prodal Děpoltovi z Rýzmberka; synové Vilém a Půta je drželi do počátku 16. stol.; roku 1506 už byl držitelem Zdeněk Lev z Rožmitálu"
    },
    {
     "owner": "pani-z-rozmitalu",
@@ -8703,10 +8714,10 @@
     "person": "Zdeněk Lev z Rožmitálu, poté Adam Lev z Rožmitálu",
     "from": 1506,
     "to": 1540,
-    "from_approx": false,
-    "to_approx": false,
+    "from_approx": true,
+    "to_approx": true,
     "how": "neznamo",
-    "note": "nákladným způsobem života se zadlužil, dluhy nesplatil ani dědic; panství 1540/1541 prodáno"
+    "note": "roku 1506 už držitelem (vymohl pro Velhartice výroční trhy); nákladným životem se zadlužil, dluhy nesplatil ani dědic Adam Lev z Rožmitálu; panství 1540 nebo 1541 prodáno"
    },
    {
     "owner": "sternberkove",
@@ -8714,7 +8725,7 @@
     "person": "Adam I. ze Šternberka",
     "from": 1540,
     "to": 1589,
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": false,
     "how": "koupe",
     "note": "koupě za 13 500 kop českých grošů; panství 1589 rozděleno, část s hradem připadla Jindřichu Plánskému ze Žeberka"
@@ -8722,7 +8733,7 @@
    {
     "owner": "plansti-ze-zeberka",
     "owner_wiki": "Planští ze Žeberka",
-    "person": "Jindřich Plánský ze Žeberka",
+    "person": "Jindřich Plánský ze Žeberka, poté vnuk Jan Viktorin",
     "from": 1589,
     "to": 1597,
     "from_approx": false,
@@ -8755,21 +8766,21 @@
     "owner": "soukromnik",
     "person": "Martin de Hoeff-Huerta",
     "from": 1628,
-    "to": 1650,
+    "to": 1640,
     "from_approx": false,
     "to_approx": true,
     "how": "koupe",
-    "note": "koupě za 55 000 rýnských zlatých; nechal v hradním jádře vybudovat pozdně renesanční palác; zemřel bez vlastních dětí, adoptoval Annu Marii z Voldavy"
+    "note": "koupě za 55 000 rýnských zlatých; nechal v hradním jádře vybudovat pozdně renesanční palác; zemřel bez vlastních dětí, adoptoval Annu Marii z Voldavy (rok úmrtí zdroj neuvádí)"
    },
    {
     "owner": "soukromnik",
     "person": "Anna Marie z Voldavy",
-    "from": 1650,
+    "from": 1640,
     "to": 1653,
     "from_approx": true,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "zdědila po adoptivním otci Huertovi, panství se za ní i jejích dvou manželů silně zadlužilo"
+    "note": "zdědila po adoptivním otci Huertovi (odkázal jí veškerý majetek); provdala se nejprve za purkrabího z Donína a podruhé za svobodného pána z Farnsbachu; panství se silně zadlužilo a roku 1653 připadlo karmelitánům"
    },
    {
     "owner": "cirkev",
@@ -8784,7 +8795,7 @@
     "owner": "soukromnik",
     "person": "Johanka Františka Račínová z Račína",
     "from": 1653,
-    "to": 1670,
+    "to": 1726,
     "from_approx": false,
     "to_approx": true,
     "how": "koupe",
@@ -8792,32 +8803,32 @@
    },
    {
     "owner": "neznamo",
-    "from": 1670,
-    "to": 1848,
+    "from": 1726,
+    "to": 1799,
     "from_approx": true,
-    "to_approx": false,
+    "to_approx": true,
     "how": "neznamo",
-    "note": "majitelé se často střídali, mj. Kolovratové, Bechyňové z Lažan a znovu Perglárové z Perglasu; hrad postupně chátral"
+    "note": "majitelé se často střídali, mj. Kolovratové, Bechyňové z Lažan a znovu Perglárové z Perglasu (přesná pořadí a roky zdroj neuvádí); hrad postupně chátral"
    },
    {
     "owner": "soukromnik",
     "person": "Karel Sturmfelder z Oppenweileru",
-    "from": 1848,
-    "to": 1900,
-    "from_approx": false,
+    "from": 1799,
+    "to": 1872,
+    "from_approx": true,
     "to_approx": true,
     "how": "neznamo",
-    "note": "roku 1848 zahájil na hradě opravy v duchu romantismu"
+    "note": "roku 1848 na hradě zahájil opravy v duchu romantismu (rok nabytí zdroj neuvádí)"
    },
    {
     "owner": "soukromnik",
     "person": "Hennebeg-Spiegelové",
-    "from": 1900,
+    "from": 1872,
     "to": 1945,
     "from_approx": true,
     "to_approx": false,
     "how": "neznamo",
-    "note": "kolem roku 1930 za jejich držby proběhly úpravy Huertova křídla"
+    "note": "okolo roku 1930 hrad vlastnili Hennebeg-Spiegelové a proběhly úpravy Huertova křídla (období držby zdroj neuvádí)"
    },
    {
     "owner": "stat",
@@ -8864,7 +8875,8 @@
    }
   ],
   "sources": [
-   "https://cs.wikipedia.org/wiki/Velhartice_(hrad)"
+   "https://cs.wikipedia.org/wiki/Velhartice_(hrad)",
+   "https://cs.wikipedia.org/wiki/Páni_z_Velhartic"
   ]
  },
  "Q1014388": {
@@ -21505,10 +21517,10 @@
     "person": "Viktorín, Jindřich, Hynek a Boček z Poděbrad",
     "from": 1456,
     "to": 1472,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "synové Jiřího z Poděbrad; po otcově smrti (1471) se roku 1472 o dědictví rozdělili"
+    "note": "synové Jiřího z Poděbrad; král Jiří hrad po Soběslavově smrti převedl na syny (1456); po otcově smrti (1471) se roku 1472 rozdělili o majetek a Kunětická hora připadla Jindřichovi"
    },
    {
     "owner": "minsterberkove",
@@ -21558,22 +21570,42 @@
     "owner": "koruna",
     "person": "Maxmilián II. Habsburský",
     "from": 1560,
-    "to": 1850,
+    "to": 1856,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "koupe",
-    "note": "pardubické panství se stalo komorním habsburským majetkem; význam hradu upadl, roku 1645 jej za třicetileté války dobyl švédský generál Torstenson, poté zůstal zříceninou"
+    "note": "Jaroslav z Pernštejna prodal 1560 hrad i s celým pardubickým panstvím Maxmiliánovi Habsburskému, panství se stalo komorním; význam hradu upadl, roku 1645 jej dobyl Torstenson, poté zůstal zříceninou; roku 1856 panství přešlo do držení rakouské národní banky"
+   },
+   {
+    "owner": "soukromnik",
+    "person": "Rakouská národní banka",
+    "from": 1856,
+    "to": 1863,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "pardubické panství (cs.wiki Staré Ždánice: po čtvrt tisíciletí v majetku české komory přešlo roku 1856 do držení rakouské národní banky); přiřazení hradu odvozeno z příslušnosti k panství"
+   },
+   {
+    "owner": "soukromnik",
+    "person": "Rakouský úvěrní (berní) ústav",
+    "from": 1863,
+    "to": 1881,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "pardubický velkostatek koupil v dražbě 1863 a postupně rozprodával vesnice a pozemky (cs.wiki Staré Ždánice; Zámek Pardubice: Privilegovaný rakouský berní ústav 1863-1881); přiřazení hradu odvozeno z příslušnosti k panství"
    },
    {
     "owner": "z-wartinberka",
     "owner_wiki": null,
-    "person": "Richard Drasche z Wartinberka",
-    "from": 1850,
+    "person": "Richard Drasche z Wartinberga",
+    "from": 1881,
     "to": 1920,
     "from_approx": true,
     "to_approx": false,
-    "how": "jine",
-    "note": "svobodný pán, majitel pardubického panství v 19. stol.; s Klubem českých turistů jednal 1884-1920 o odprodeji zříceniny"
+    "how": "koupe",
+    "note": "velkostatek (pardubické panství, k němuž hrad patřil od 1560) koupil 1881 Richard baron Drasche z Wartinberga; roku 1884-1920 jednal s Klubem českých turistů o odprodeji zříceniny a na začátku roku 1920 hrad koupil pardubický Muzejní spolek; přiřazení hradu k velkostatku 1881 je odvozeno, zdroj to o hradu výslovně neuvádí"
    },
    {
     "owner": "soukromnik",
@@ -21609,6 +21641,10 @@
     "text": "Diviš Bořek z Miletínka získává hrad s panstvím do zástavy od císaře Zikmunda za zásluhy u Lipan"
    },
    {
+    "year": 1456,
+    "text": "král Jiří z Poděbrad převádí Kunětickou horu na své syny"
+   },
+   {
     "year": 1491,
     "text": "Vilém z Pernštejna kupuje zadlužené panství od Jindřicha I. staršího z Minsterberka"
    },
@@ -21625,12 +21661,18 @@
     "text": "za třicetileté války hrad snadno dobyl švédský generál Lennart Torstenson"
    },
    {
+    "year": 1856,
+    "text": "pardubické panství i s Kunětickou horou přechází z komorního majetku do držení rakouské národní banky (1863 koupil velkostatek úvěrní ústav, 1881 Richard Drasche z Wartinberga)"
+   },
+   {
     "year": 1920,
     "text": "zříceninu kupuje pardubický Muzejní spolek a zahajuje obnovu"
    }
   ],
   "sources": [
-   "https://cs.wikipedia.org/wiki/Kunětická_hora_(hrad)"
+   "https://cs.wikipedia.org/wiki/Kunětická_hora_(hrad)",
+   "https://cs.wikipedia.org/wiki/Staré_Ždánice",
+   "https://cs.wikipedia.org/wiki/Zámek_Pardubice"
   ]
  },
  "Q1417125": {
@@ -21659,74 +21701,109 @@
     "owner_wiki": "Páni z Lipé",
     "person": "Jindřich z Lipé",
     "from": 1323,
-    "to": 1421,
+    "to": 1372,
     "from_approx": false,
     "to_approx": true,
     "how": "lenni",
-    "note": "en.wiki uvádí zástavu, cs.wiki směnu za Tachov; konec držby nejasný"
+    "note": "1323 zástavní listina Jana Lucemburského (cs.wiki Vranov: směna za Tachov; en.wiki: zástava); konec držby zdroj neuvádí"
+   },
+   {
+    "owner": "soukromnik",
+    "person": "Mikuláš Pillung z Jilkova (Gilgenberg)",
+    "from": 1372,
+    "to": 1421,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "lenni",
+    "note": "za vlády markraběte Jošta (1375-1411) mu byl hrad odevzdán do zástavy; hrad sloužil jako základna loupeživých jízd do Rakouska, proto se Jošt roku 1406 snažil donutit jeho dceru Markétu k vydání hradu"
    },
    {
     "owner": "lichtenburkove",
     "owner_wiki": "Lichtenburkové",
-    "person": null,
+    "person": "Smil Bítovský z Lichtenburka, později Albrecht z Lichtenburka",
     "from": 1421,
     "to": 1516,
     "from_approx": false,
     "to_approx": false,
     "how": "jine",
-    "note": "1421 ovládli hrad za husitských válek, 1499 jim jej Vladislav II. dal do dědičného držení; bítovská větev"
+    "note": "1421 získal hrad od krále Zikmunda do dědičné zástavy Smil Bítovský z Lichtenburka (1425 dobyt husity); 1499 jim jej Vladislav II. dal do dědičného držení; 1516 Albrecht z Lichtenburka panství prodal Arklebovi z Boskovic"
    },
    {
     "owner": "boskovicove",
     "owner_wiki": "Boskovicové",
     "person": "Arkleb z Boskovic",
     "from": 1516,
-    "to": 1536,
+    "to": 1525,
     "from_approx": false,
-    "to_approx": true,
-    "how": "neznamo"
+    "to_approx": false,
+    "how": "koupe",
+    "note": "koupil 1516 od Albrechta z Lichtenburka; panství se poté rychle střídalo"
    },
    {
     "owner": "pernstejnove",
     "owner_wiki": "Pernštejnové",
     "person": "Jan z Pernštejna",
-    "from": 1536,
-    "to": 1555,
-    "from_approx": true,
-    "to_approx": true,
-    "how": "neznamo"
+    "from": 1525,
+    "to": 1528,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "držitelem roku 1525 (cs.wiki Vranov nad Dyjí)"
    },
    {
     "owner": "pani-z-lomnice",
     "owner_wiki": "Páni z Lomnice",
     "person": "Zdeněk (Sidonius) z Lomnice",
-    "from": 1555,
-    "to": 1575,
-    "from_approx": true,
-    "to_approx": true,
+    "from": 1528,
+    "to": 1552,
+    "from_approx": false,
+    "to_approx": false,
     "how": "neznamo",
-    "note": "větev Meziříčtí z Lomnice"
+    "note": "větev Meziříčtí z Lomnice; držitelem roku 1528"
    },
    {
     "owner": "krajirove-z-krajku",
     "owner_wiki": "Krajířové z Krajku",
-    "person": "Wolf Krajíř z Krajku",
-    "from": 1575,
-    "to": 1594,
-    "from_approx": true,
+    "person": "Volf a Jiří Krajířové z Krajku",
+    "from": 1552,
+    "to": 1560,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "Volf a Jiří Krajířové z Krajku; držitelé od roku 1552, připojili sousední panství Nový Hrádek"
+   },
+   {
+    "owner": "z-certorej",
+    "owner_wiki": null,
+    "person": "Petr Čertorejský z Čertorej",
+    "from": 1560,
+    "to": 1580,
+    "from_approx": false,
     "to_approx": true,
-    "how": "neznamo"
+    "how": "neznamo",
+    "note": "za jeho držení město roku 1568 obdrželo právo pečetní a erbovní; konec držby zdroj neuvádí (po roce 1568 panství koupila Estera z Ditrichštejna)"
    },
    {
     "owner": "ditrichstejnove",
     "owner_wiki": "Ditrichštejnové",
-    "person": null,
-    "from": 1594,
-    "to": 1614,
+    "person": "Estera z Ditrichštejna, poté syn Maxmilián",
+    "from": 1580,
+    "to": 1601,
     "from_approx": true,
     "to_approx": false,
-    "how": "neznamo",
-    "note": "cs.wiki mezi majiteli 16. století uvádí také Štrejny ze Švarcenavy a Čertorejské z Čertorej, bez dat"
+    "how": "koupe",
+    "note": "po roce 1568 panství koupila Estera z Ditrichštejna (doly na železnou rudu a hamry); její syn Maxmilián z Ditrichštejna je roku 1601 prodal"
+   },
+   {
+    "owner": "z-svarcenavy",
+    "owner_wiki": null,
+    "person": "Hanuš Volfart Štrejn ze Švarcenavy",
+    "from": 1601,
+    "to": 1614,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "pán na Uherčicích a Bítově, koupil 1601; cs.wiki obec Vranov uvádí, že po jeho smrti přešlo panství prodejem na Althanny roku 1617 (jiné zdroje 1614)"
    },
    {
     "owner": "althannove",
@@ -21734,10 +21811,10 @@
     "person": "Wolf Dietrich z Althannu",
     "from": 1614,
     "to": 1621,
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": true,
     "how": "koupe",
-    "note": "konfiskováno za účast na stavovském povstání"
+    "note": "Wolf Dietrich z Althannu na Jaroslavicích; rok nabytí se u zdrojů liší (1614 vs. 1617 podle cs.wiki Vranov nad Dyjí); konfiskováno za účast na stavovském povstání"
    },
    {
     "owner": "koruna",
@@ -21755,10 +21832,10 @@
     "person": "Jan Arnošt ze Scherfenbergu",
     "from": 1629,
     "to": 1665,
-    "from_approx": true,
-    "to_approx": true,
+    "from_approx": false,
+    "to_approx": false,
     "how": "koupe",
-    "note": "Valdštejnův generál, koupil zkonfiskované panství"
+    "note": "válečník Jan Arnošt ze Scherfenbergu (Šerfenberka) získal panství roku 1629; Valdštejnův generál, koupil zkonfiskované panství"
    },
    {
     "owner": "starhembergove",
@@ -21766,9 +21843,10 @@
     "person": null,
     "from": 1665,
     "to": 1680,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false,
-    "how": "neznamo"
+    "how": "koupe",
+    "note": "dolnorakouští Starhemberkové panství roku 1665 odkoupili (po požáru hradu); 1680 je na základě soudního rozhodnutí museli přenechat Michalu Janovi II. z Althannu"
    },
    {
     "owner": "althannove",
@@ -21847,12 +21925,36 @@
     "text": "Jan Lucemburský postoupil Vranov Jindřichovi z Lipé"
    },
    {
+    "year": 1421,
+    "text": "Smil Bítovský z Lichtenburka získává hrad do dědičné zástavy od krále Zikmunda"
+   },
+   {
+    "year": 1516,
+    "text": "Albrecht z Lichtenburka prodává panství Arklebovi z Boskovic; následuje rychlé střídání majitelů"
+   },
+   {
+    "year": 1568,
+    "text": "městečku uděleno právo pečetní a erbovní (za držení Petra Čertorejského z Čertorej)"
+   },
+   {
+    "year": 1601,
+    "text": "Maxmilián z Ditrichštejna prodává panství Hanuši Volfartovi Štrejnovi ze Švarcenavy"
+   },
+   {
     "year": 1614,
     "text": "hrad koupil Wolf Dietrich z Althannu, po Bílé hoře mu byl zkonfiskován"
    },
    {
+    "year": 1629,
+    "text": "panství získává Jan Arnošt ze Scherfenbergu"
+   },
+   {
     "year": 1665,
     "text": "rozsáhlý požár po poškození hradu Švédy za třicetileté války"
+   },
+   {
+    "year": 1680,
+    "text": "Starhemberkové musejí panství soudním rozhodnutím přenechat Michalu Janovi II. z Althannu"
    },
    {
     "year": 1687,
@@ -21874,7 +21976,8 @@
   "sources": [
    "https://cs.wikipedia.org/wiki/Vranov_nad_Dyj%C3%AD_(z%C3%A1mek)",
    "https://de.wikipedia.org/wiki/Schloss_Vranov_nad_Dyj%C3%AD",
-   "https://en.wikipedia.org/wiki/Vranov_nad_Dyj%C3%AD_Castle"
+   "https://en.wikipedia.org/wiki/Vranov_nad_Dyj%C3%AD_Castle",
+   "https://cs.wikipedia.org/wiki/Vranov_nad_Dyjí"
   ]
  },
  "Q1418278": {
@@ -35124,73 +35227,89 @@
    {
     "owner": "rozmberkove",
     "owner_wiki": "Rožmberkové",
+    "person": null,
     "from": 1262,
-    "to": 1320,
-    "from_approx": true,
-    "to_approx": true,
+    "to": 1321,
+    "from_approx": false,
+    "to_approx": false,
     "how": "jine",
-    "note": "do královského majetku Dobříš zpět získal až Jan Lucemburský"
+    "note": "podle cs.wiki Dobříš patřila Rožmberkům od roku 1262; do královského majetku ji zpět získal až Jan Lucemburský"
+   },
+   {
+    "owner": "z-tetina",
+    "owner_wiki": null,
+    "person": "Štěpán z Tetína",
+    "from": 1321,
+    "to": 1372,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "podle cs.wiki Dobříš držel statek od roku 1321; konec držby zdroj neuvádí"
    },
    {
     "owner": "koruna",
     "person": "Jan Lucemburský / Karel IV.",
-    "from": 1320,
+    "from": 1372,
     "to": 1422,
     "from_approx": true,
     "to_approx": false,
     "how": "jine",
-    "note": "nechali postavit lovecký hrádek Vargač, doloženy pobyty Karla IV. a Václava IV."
+    "note": "za Jana Lucemburského přešla Dobříš opět králi (rok zdroj neuvádí); nechali postavit lovecký hrádek Vargač, doloženy pobyty Karla IV. a Václava IV."
    },
    {
     "owner": "kolovratove",
     "owner_wiki": "Kolovratové",
+    "person": "Bedřich a Hanuš z Kolovrat",
     "from": 1422,
-    "to": 1450,
+    "to": 1461,
     "from_approx": false,
     "to_approx": true,
     "how": "lenni",
-    "note": "Zikmund Lucemburský přenechal Dobříš jako zástavu pánům z Kolovrat"
+    "note": "Zikmund Lucemburský jim hrad zastavil 1422; dalším držitelem byl Hanušův stejnojmenný syn, kterého vyplatil Jiří z Poděbrad (rok vyplacení zdroj neuvádí)"
    },
    {
     "owner": "pani-z-kunstatu-a-podebrad",
     "owner_wiki": "Páni z Kunštátu a Poděbrad",
-    "person": "Jiří z Poděbrad a synové",
-    "from": 1450,
-    "to": 1460,
-    "from_approx": true,
-    "to_approx": true,
-    "how": "koupe",
-    "note": "Jiří z Poděbrad zástavu vykoupil a přenechal ji svým synům"
+    "person": "synové Jiřího z Poděbrad (Viktorin, Boček, Jindřich, Hynek)",
+    "from": 1461,
+    "to": 1472,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "lenni",
+    "note": "Jiří z Poděbrad statek vykoupil a roku 1461 jej zastavil svým synům; ti se ho roku 1472 vzdali"
    },
    {
     "owner": "pani-ze-svamberka",
     "owner_wiki": "Páni ze Švamberka",
-    "from": 1460,
-    "to": 1500,
+    "person": "Jindřich ze Švamberka na Zvíkově",
+    "from": 1472,
+    "to": 1491,
     "from_approx": true,
-    "to_approx": true,
-    "how": "lenni",
-    "note": "jeden z rodů, které se v zástavní držbě Dobříše vystřídaly ve 2. pol. 15. stol.; přesné pořadí a data v dostupném textu nejsou upřesněny"
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "po roce 1472 (v pramenech se hrad 20 let neobjevuje) ho získal Jindřich ze Švamberka; roku 1491 jej přenechal Děpoltovi z Lobkovic"
    },
    {
     "owner": "lobkovicove",
     "owner_wiki": "Lobkovicové",
-    "from": 1500,
-    "to": 1540,
-    "from_approx": true,
-    "to_approx": true,
-    "how": "lenni",
-    "note": "další zástavní držitel Dobříše v 15.-16. stol.; přesné pořadí a data v dostupném textu nejsou upřesněny"
+    "person": "Děpolt z Lobkovic (†1527)",
+    "from": 1491,
+    "to": 1530,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "vymena",
+    "note": "získal 1491 výměnou od Jindřicha ze Švamberka (za polovinu Kestřan, 750 kop grošů a další majetek); synové Jiří, Jan a Litvín roku 1530 Vargač vrátili koruně"
    },
    {
     "owner": "svihovsti-z-ryzmberka",
     "owner_wiki": "Švihovští z Rýzmberka",
-    "from": 1540,
+    "person": "Vilém Švihovský z Rýzmberka a jeho synové",
+    "from": 1530,
     "to": 1569,
     "from_approx": true,
     "to_approx": false,
     "how": "lenni",
-    "note": "poslední zástavní držitel před vyplacením panství korunou 1569"
+    "note": "král Ferdinand I. mu hrad po 1530 přenechal k doživotnímu užívání, později jej udělil všem Vilémovým synům (hrad Vargač popisován jako zchátralý); 1569 se panství vrátilo do královských rukou"
    },
    {
     "owner": "koruna",
@@ -35200,7 +35319,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "vyplatil zástavu, povýšil Dobříš na městečko a rozšířil panství o další vesnice; Rudolf II. nechal postavit hejtmanské obydlí"
+    "note": "vyplatil zástavu, povýšil Dobříš na městečko a rozšířil panství o další vesnice; Rudolf II. nechal postavit hejtmanské obydlí; podle článku Vargač panství v roce 1569 král zastavil sázavskému klášteru (ostatní zdroje o této zástavě mlčí)"
    },
    {
     "owner": "lobkovicove",
@@ -35272,7 +35391,19 @@
    },
    {
     "year": 1422,
-    "text": "Zikmund Lucemburský dává Dobříš do zástavy pánům z Kolovrat"
+    "text": "Zikmund Lucemburský zastavuje Dobříš (hrad Vargač) Bedřichovi a Hanušovi z Kolovrat"
+   },
+   {
+    "year": 1461,
+    "text": "Jiří z Poděbrad zastavuje Dobříš svým synům; ti se jí 1472 vzdali"
+   },
+   {
+    "year": 1491,
+    "text": "Jindřich ze Švamberka přenechává Dobříš Děpoltovi z Lobkovic"
+   },
+   {
+    "year": 1530,
+    "text": "synové Děpolta z Lobkovic vracejí Dobříš koruně; Ferdinand I. ji přenechává Vilému Švihovskému z Rýzmberka"
    },
    {
     "year": 1569,
@@ -35300,7 +35431,9 @@
    }
   ],
   "sources": [
-   "https://cs.wikipedia.org/wiki/Dobříš_(zámek)"
+   "https://cs.wikipedia.org/wiki/Dobříš_(zámek)",
+   "https://cs.wikipedia.org/wiki/Dobříš",
+   "https://cs.wikipedia.org/wiki/Vargač"
   ]
  },
  "Q266698": {
@@ -49086,9 +49219,9 @@
   "id": "Q884494",
   "name": "Slatiňany",
   "founded": {
-   "year": 1350,
-   "approx": true,
-   "text": "14. století - středověká tvrz, poprvé písemně doložena roku 1371 v držení Zbyňka Otháje ze Slatiňan"
+   "year": 1371,
+   "approx": false,
+   "text": "středověká tvrz, poprvé písemně doložena roku 1371 v držení Zbyňka Otháje ze Slatiňan; renesanční zámek po roce 1580"
   },
   "summary": "Předchůdkyní zámku ve Slatiňanech byla středověká tvrz doložená od roku 1371, kterou po roce 1580 nechal Bohuslav Mazanec z Frymburka přestavět na renesanční zámek podle plánů Ulrica Aostalliho de Sala. Po řadě šlechtických majitelů (Berkové z Dubé, Bubnové z Litic, Purkhartové z Voděrad, Schönfeldové) se roku 1746 sňatkem dostal do rukou knížecího rodu Auerspergů, kteří jej v 19. století přestavěli klasicistně a poté novogoticky a učinili z něj své hlavní sídlo. Roku 1942 zámek zdědil Josef Karel Trauttmansdorff, roku 1945 byl majetek na základě Benešových dekretů zkonfiskován a od té doby je ve vlastnictví státu, který v něm zřídil hipologické muzeum. Dnes je národní kulturní památkou ve správě Národního památkového ústavu.",
   "owners": [
@@ -49096,141 +49229,163 @@
     "owner": "z-slatinan",
     "owner_wiki": null,
     "person": "Zbyněk Otháj ze Slatiňan",
-    "from": 1350,
-    "to": 1380,
-    "from_approx": true,
+    "from": null,
+    "to": 1386,
+    "from_approx": false,
     "to_approx": true,
     "how": "neznamo",
-    "note": "tvrz poprvé písemně doložena 1371 v jeho držení"
+    "note": "tvrz s vesnicemi a dvorem doložena v jeho držení roku 1371; konec držby zdroj neuvádí"
+   },
+   {
+    "owner": "z-pobezovic-a-tunechod",
+    "owner_wiki": null,
+    "person": null,
+    "from": 1386,
+    "to": 1412,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "vladykové z Poběžovic a Tuněchod; Slatiňany jim náležely od roku 1386 (jeden z nich, Václav ze Slatiňan, 1415); konec držby zdroj neuvádí"
+   },
+   {
+    "owner": "z-lipky",
+    "owner_wiki": null,
+    "person": "Bleh z Lipky a ze Strádova",
+    "from": 1412,
+    "to": 1438,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "panství získal od vladyků z Tuněchod po roce 1415; roku 1438 (1437) je zastavil Alšovi z Bítovan a Vítkovi z Talmberka"
    },
    {
     "owner": "pani-z-talmberka",
     "owner_wiki": "Páni z Talmberka",
-    "person": null,
-    "from": 1380,
-    "to": 1420,
-    "from_approx": true,
-    "to_approx": true,
-    "how": "neznamo",
-    "note": "přesná data držby nejsou v pramenech uvedena"
+    "person": "Vítek z Talmberka (spolu s Alšem z Bítovan)",
+    "from": 1438,
+    "to": 1469,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "lenni",
+    "note": "zástava od Bleha z Lipky 1438 (1437); potomci Matěj a Vítek (1454) a Diviš z Talmberka (1464) drželi do roku 1469, kdy byla tvrz vypálena vojskem Zdeňka ze Šternberka"
    },
    {
     "owner": "sarovcove-z-sarova",
     "owner_wiki": "Šárovcové z Šárova",
     "person": null,
-    "from": 1420,
-    "to": 1460,
+    "from": 1469,
+    "to": 1525,
     "from_approx": true,
-    "to_approx": true,
+    "to_approx": false,
     "how": "neznamo",
-    "note": "přesná data držby nejsou v pramenech uvedena"
+    "note": "roku 1497 uváděna tvrz i osada jako pustá a patřila Šárovcům; ti ji roku 1525 prodali Chrudimi"
    },
    {
     "owner": "mesto",
     "person": null,
-    "from": 1460,
+    "from": 1525,
     "to": 1547,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false,
-    "how": "neznamo",
-    "note": "královské věnné město Chrudim; majetek konfiskován po stavovském odboji proti Ferdinandu I."
+    "how": "koupe",
+    "note": "královské věnné město Chrudim; roku 1547 majetek zkonfiskován pro účast v protihabsburském odboji"
    },
    {
     "owner": "pernstejnove",
     "owner_wiki": "Pernštejnové",
-    "person": "Jan IV. z Pernštejna",
-    "from": 1547,
-    "to": 1550,
+    "person": "Jan z Pernštejna",
+    "from": 1548,
+    "to": 1548,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "lenni",
-    "note": "po konfiskaci chrudimského majetku"
+    "note": "Ferdinand I. mu panství roku 1548 postoupil; téhož roku je prodal Lhotským ze Zásmuk"
    },
    {
     "owner": "zasmucti-ze-zasmuk",
     "owner_wiki": "Zásmučtí ze Zásmuk",
     "person": null,
-    "from": 1550,
-    "to": 1560,
-    "from_approx": true,
-    "to_approx": true,
-    "how": "neznamo",
-    "note": "Lhotečtí ze Zásmuk; přesná data držby nejsou v pramenech uvedena"
+    "from": 1548,
+    "to": 1554,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "Lhotští ze Zásmuk; koupili od Jana z Pernštejna, roku 1554 panství přešlo na Fraňky z Liběchova"
    },
    {
     "owner": "soukromnik",
     "person": "Jindřich Franěk z Liběchova",
-    "from": 1560,
+    "from": 1554,
     "to": 1575,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false,
-    "how": "neznamo",
-    "note": "jeho dědicové tvrz roku 1575 prodali"
+    "how": "koupe",
+    "note": "Fraňkové z Liběchova (panství získali 1554); Jindřichovi dědicové tvrz roku 1575 prodali"
    },
    {
     "owner": "z-frymburka",
     "owner_wiki": null,
     "person": "Bohuslav Mazanec z Frymburka",
     "from": 1575,
-    "to": 1600,
+    "to": 1595,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "koupe",
-    "note": "po roce 1580 nechal starou tvrz zbořit a postavit renesanční zámek podle Ulrica Aostalliho de Sala"
+    "note": "pražský měšťan (podle druhého zdroje písař menších desek zemských); po roce 1580 nechal starou tvrz zbořit a postavit renesanční zámek podle Ulrica Aostalliho de Sala; roku 1595 panství koupili Karlíkové z Nežetic"
    },
    {
     "owner": "z-nezetic",
     "owner_wiki": null,
     "person": null,
-    "from": 1600,
-    "to": 1620,
-    "from_approx": true,
+    "from": 1595,
+    "to": 1622,
+    "from_approx": false,
     "to_approx": false,
-    "how": "neznamo",
-    "note": "Karlíkové z Nežetic; majetek jim konfiskován po bitvě na Bílé hoře 1620"
+    "how": "koupe",
+    "note": "Karlíkové z Nežetic; Jiřímu z Nežetic panství zkonfiskováno za účast na povstání 1618 o čtyři roky později (obec Slatiňany); zámek Slatiňany uvádí pobělohorskou konfiskaci 1620"
    },
    {
     "owner": "berkove-z-dube",
     "owner_wiki": "Berkové z Dubé",
-    "person": null,
-    "from": 1620,
-    "to": 1640,
+    "person": "Lev Burian Berka z Dubé",
+    "from": 1623,
+    "to": 1651,
     "from_approx": false,
     "to_approx": true,
-    "how": "jine",
-    "note": "po pobělohorské konfiskaci; zámek za třicetileté války opakovaně vydrancován Švédy"
+    "how": "koupe",
+    "note": "roku 1623 koupil zkonfiskované panství; za třicetileté války byl zámek opakovaně vydrancován Švédy; konec držby zdroj neuvádí"
    },
    {
     "owner": "bubnove-z-litic",
     "owner_wiki": "Bubnové z Litic",
-    "person": null,
-    "from": 1640,
-    "to": 1669,
+    "person": "František Adam z Bubna a z Litic",
+    "from": 1651,
+    "to": 1680,
     "from_approx": true,
     "to_approx": true,
-    "how": "neznamo",
-    "note": "přesná data držby nejsou v pramenech uvedena"
+    "how": "koupe",
+    "note": "koupil od Berků a prodal před rokem 1671 Adamu Zikmundovi Purkartovi z Voděrad; přesné roky zdroj neuvádí"
    },
    {
     "owner": "z-voderad",
     "owner_wiki": null,
-    "person": "Adam Zikmund Purkhart z Voděrad",
-    "from": 1669,
+    "person": "Adam Zikmund Purkart z Voděrad",
+    "from": 1680,
     "to": 1708,
     "from_approx": true,
     "to_approx": false,
     "how": "koupe",
-    "note": "po roce 1669 dal zchátralý zámek opravit; roku 1708 prodán ve veřejné dražbě"
+    "note": "koupil před rokem 1671, po roce 1669 dal zchátralý zámek opravit; ve veřejné dražbě 1708 prodán (obec Slatiňany uvádí prodej Zumsandovi až 1710)"
    },
    {
     "owner": "soukromnik",
-    "person": "Zumsand ze Sandbergu",
+    "person": "Karel Josef Zumsand ze Sandbergu",
     "from": 1708,
     "to": 1732,
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "koupě ve veřejné dražbě; kvůli krutému zacházení s poddanými prodáno v další dražbě"
+    "note": "koupě ve veřejné dražbě 1708 (obec Slatiňany: 1710); kvůli krutému zacházení s poddanými prodáno v další dražbě 1732"
    },
    {
     "owner": "schonfeldove",
@@ -49248,18 +49403,18 @@
     "owner_wiki": "Auerspergové",
     "person": "Jan Adam z Auerspergu",
     "from": 1746,
-    "to": 1800,
+    "to": 1794,
     "from_approx": false,
     "to_approx": true,
     "how": "snatek",
-    "note": "sňatek s Marií Kateřinou, dcerou a univerzální dědičkou Josefa Schönfelda"
+    "note": "sňatek 1746 s Marií Kateřinou, dcerou a univerzální dědičkou Josefa Schönfelda; roku 1773 po ní panství zdědil (obec Slatiňany)"
    },
    {
     "owner": "auerspergove",
     "owner_wiki": "Auerspergové",
     "person": "Karel z Auerspergu",
-    "from": 1800,
-    "to": 1850,
+    "from": 1794,
+    "to": 1842,
     "from_approx": true,
     "to_approx": true,
     "how": "dedictvi",
@@ -49269,8 +49424,8 @@
     "owner": "auerspergove",
     "owner_wiki": "Auerspergové",
     "person": "Vincenc Karel Auersperg",
-    "from": 1850,
-    "to": 1900,
+    "from": 1842,
+    "to": 1890,
     "from_approx": true,
     "to_approx": true,
     "how": "dedictvi",
@@ -49280,17 +49435,28 @@
     "owner": "auerspergove",
     "owner_wiki": "Auerspergové",
     "person": "František Josef z Auerspergu",
-    "from": 1900,
-    "to": 1942,
+    "from": 1890,
+    "to": 1938,
     "from_approx": true,
-    "to_approx": true,
+    "to_approx": false,
     "how": "dedictvi",
-    "note": "pokračoval v přestavbách do konce 19. stol.; posledním z rodu na zámku byl Ferdinand Auersperg"
+    "note": "pokračoval v přestavbách do konce 19. stol.; zemřel 1938 (obec Slatiňany)"
+   },
+   {
+    "owner": "auerspergove",
+    "owner_wiki": "Auerspergové",
+    "person": "Ferdinand Maria z Auerspergu",
+    "from": 1938,
+    "to": 1942,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "syn Františka Josefa; po jeho smrti 1942 ve Vídni místní větev Auerspergů vymřela po meči"
    },
    {
     "owner": "trauttmansdorffove",
     "owner_wiki": "Trauttmansdorffové",
-    "person": "Josef Karel Trauttmansdorff",
+    "person": "Karel Josef Trauttmansdorff-Weinsberg",
     "from": 1942,
     "to": 1945,
     "from_approx": false,
@@ -49315,8 +49481,12 @@
     "text": "první písemná zmínka o tvrzi v držení Zbyňka Otháje ze Slatiňan"
    },
    {
+    "year": 1525,
+    "text": "Šárovcové z Šárova prodávají tvrz městu Chrudimi"
+   },
+   {
     "year": 1547,
-    "text": "konfiskace majetku městu Chrudimi po stavovském odboji proti Ferdinandu I."
+    "text": "konfiskace majetku městu Chrudimi pro účast v protihabsburském odboji; 1548 postoupen Janu z Pernštejna"
    },
    {
     "year": 1580,
@@ -49324,7 +49494,7 @@
    },
    {
     "year": 1620,
-    "text": "pobělohorská konfiskace majetku Karlíkům z Nežetic"
+    "text": "pobělohorská konfiskace majetku Karlíkům z Nežetic (obec Slatiňany uvádí konfiskaci 1622 a prodej Berkovi z Dubé 1623)"
    },
    {
     "year": 1746,
@@ -49348,7 +49518,8 @@
    }
   ],
   "sources": [
-   "https://cs.wikipedia.org/wiki/Slatiňany_(zámek)"
+   "https://cs.wikipedia.org/wiki/Slatiňany_(zámek)",
+   "https://cs.wikipedia.org/wiki/Slatiňany"
   ]
  },
  "Q916931": {

@@ -13,22 +13,22 @@
    "owner_wiki": "Páni z Velhartic",
    "person": "Bušek I. z Velhartic",
    "from": 1285,
-   "to": 1330,
+   "to": 1337,
    "from_approx": true,
-   "to_approx": true,
+   "to_approx": false,
    "how": "zalozeni",
-   "note": "první písemná zmínka o hradu 1318, uvádí Buška I. jako prvního majitele"
+   "note": "první písemná zmínka o hradu 1318 uvádí Buška I. jako prvního majitele; podle článku Páni z Velhartic žil před 1318-1337"
   },
   {
    "owner": "pani-z-velhartic",
    "owner_wiki": "Páni z Velhartic",
    "person": "Bušek II. z Velhartic",
-   "from": 1330,
+   "from": 1337,
    "to": 1371,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": true,
    "how": "dedictvi",
-   "note": "zemřel okolo roku 1371"
+   "note": "zemřel okolo roku 1371 (rodový článek: před 1371)"
   },
   {
    "owner": "pani-z-velhartic",
@@ -36,13 +36,13 @@
    "person": "Jan z Velhartic",
    "from": 1371,
    "to": 1390,
-   "from_approx": false,
-   "to_approx": false,
+   "from_approx": true,
+   "to_approx": true,
    "how": "dedictvi",
-   "note": "za jeho držby se hradu dočasně zmocnil Hertvík z Degenberka (spor vyřešen smírem 1387); Jan zemřel 1390"
+   "note": "po otci Buškovi II. okolo 1371; hradu se z neznámého důvodu zmocnil Hertvík z Degenberka (smír 1387); Jan zemřel 1390 (rodový článek: kolem 1390)"
   },
   {
-   "owner": "rozemberkove",
+   "owner": "rozmberkove",
    "owner_wiki": "Rožmberkové",
    "person": "Oldřich I. z Rožmberka",
    "from": 1390,
@@ -61,18 +61,7 @@
    "from_approx": false,
    "to_approx": true,
    "how": "snatek",
-   "note": "polovinu Velhartic získal Menhart sňatkem s Annou z Velhartic, zemřel asi 1393"
-  },
-  {
-   "owner": "rozemberkove",
-   "owner_wiki": "Rožmberkové",
-   "person": "Jindřich III. z Rožmberka",
-   "from": 1395,
-   "to": 1395,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "vymena",
-   "note": "Anna z Velhartic (podruhé provdaná za Václava z Vartenberka) s ním roku 1395 vyměnila svůj podíl za čečovické a petrovické zboží; týž rok jej Rožmberk prodal Janu staršímu z Hradce"
+   "note": "polovinu Velhartic získal Menhart (syn Heřmana z Hradce) sňatkem s Annou z Velhartic, zemřel dva roky po svatbě (snad 1393)"
   },
   {
    "owner": "pani-z-hradce",
@@ -83,29 +72,51 @@
    "from_approx": false,
    "to_approx": true,
    "how": "snatek",
-   "note": "1391 získal polovinu Velhartic sňatkem s Kateřinou, 1395 odkoupil i druhou polovinu od Jindřicha z Rožmberka a stal se jediným majitelem"
+   "note": "druhou polovinu získal sňatkem s Kateřinou z Velhartic (1391 jí na Velharticích zapsal věno 2 500 kop grošů); 1395 odkoupil od Jindřicha z Rožmberka i podíl Anny a stal se jediným majitelem; Menhart II. byl faktickým držitelem už 1418"
+  },
+  {
+   "owner": "pani-z-velhartic",
+   "owner_wiki": "Páni z Velhartic",
+   "person": "Anna z Velhartic (provd. za Václava z Vartenberka)",
+   "from": 1393,
+   "to": 1395,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "ovdovělá Anna se podruhé provdala za Václava z Vartenberka a svůj podíl (hrad, městečko, patronátní právo, plat v Tedražicích) roku 1395 směnila s Jindřichem III. z Rožmberka za polovinu čečovického a petrovického zboží"
+  },
+  {
+   "owner": "rozmberkove",
+   "owner_wiki": "Rožmberkové",
+   "person": "Jindřich III. z Rožmberka",
+   "from": 1395,
+   "to": 1395,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "vymena",
+   "note": "roku 1395 vyměnil podíl Anny z Velhartic za čečovické a petrovické zboží; Jan starší z Hradce od něj podíl téhož roku odkoupil"
   },
   {
    "owner": "pani-z-hradce",
    "owner_wiki": "Páni z Hradce",
    "person": "Menhart II. z Hradce",
    "from": 1418,
-   "to": 1453,
+   "to": null,
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "1429 od matky Kateřiny odkoupil všechna práva k panství a vytvořil ucelené dominium; kolem 1448 na hradě tajně uschovával české korunovační klenoty odvezené z Karlštejna"
+   "note": "1429 od matky Kateřiny odkoupil všechna práva k panství a vytvořil ucelené dominium; kolem 1448 na hradě tajně uschovával české korunovační klenoty odvezené z Karlštejna; zdroj uvádí, že byl internován Jiřím z Poděbrad a cestou na Karlštejn zemřel (rok neuveden)"
   },
   {
    "owner": "pani-z-hradce",
    "owner_wiki": "Páni z Hradce",
    "person": "Oldřich V. z Hradce",
-   "from": 1453,
+   "from": null,
    "to": 1453,
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "zemřel bez potomků; správou dědictví pověřen nejvyšší purkrabí Zdeněk Konopišťský ze Šternberka"
+   "note": "syn Menharta II.; zemřel 1453 bez potomků; správou dědictví pověřen nejvyšší purkrabí Zdeněk Konopišťský ze Šternberka"
   },
   {
    "owner": "z-ryzmberka",
@@ -113,10 +124,10 @@
    "person": "Děpolt z Rýzmberka, synové Vilém a Půta",
    "from": 1453,
    "to": 1506,
-   "from_approx": false,
+   "from_approx": true,
    "to_approx": true,
    "how": "koupe",
-   "note": "Zdeněk ze Šternberka jako správce dědictví panství nakonec prodal Děpoltovi z Rýzmberka; jeho synové je drželi do počátku 16. stol."
+   "note": "Zdeněk ze Šternberka jako správce dědictví panství (rok neuveden) prodal Děpoltovi z Rýzmberka; synové Vilém a Půta je drželi do počátku 16. stol.; roku 1506 už byl držitelem Zdeněk Lev z Rožmitálu"
   },
   {
    "owner": "pani-z-rozmitalu",
@@ -124,10 +135,10 @@
    "person": "Zdeněk Lev z Rožmitálu, poté Adam Lev z Rožmitálu",
    "from": 1506,
    "to": 1540,
-   "from_approx": false,
-   "to_approx": false,
+   "from_approx": true,
+   "to_approx": true,
    "how": "neznamo",
-   "note": "nákladným způsobem života se zadlužil, dluhy nesplatil ani dědic; panství 1540/1541 prodáno"
+   "note": "roku 1506 už držitelem (vymohl pro Velhartice výroční trhy); nákladným životem se zadlužil, dluhy nesplatil ani dědic Adam Lev z Rožmitálu; panství 1540 nebo 1541 prodáno"
   },
   {
    "owner": "sternberkove",
@@ -135,15 +146,15 @@
    "person": "Adam I. ze Šternberka",
    "from": 1540,
    "to": 1589,
-   "from_approx": false,
+   "from_approx": true,
    "to_approx": false,
    "how": "koupe",
    "note": "koupě za 13 500 kop českých grošů; panství 1589 rozděleno, část s hradem připadla Jindřichu Plánskému ze Žeberka"
   },
   {
-   "owner": "z-zeberka",
+   "owner": "plansti-ze-zeberka",
    "owner_wiki": "Planští ze Žeberka",
-   "person": "Jindřich Plánský ze Žeberka",
+   "person": "Jindřich Plánský ze Žeberka, poté vnuk Jan Viktorin",
    "from": 1589,
    "to": 1597,
    "from_approx": false,
@@ -176,21 +187,21 @@
    "owner": "soukromnik",
    "person": "Martin de Hoeff-Huerta",
    "from": 1628,
-   "to": 1650,
+   "to": null,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "koupe",
-   "note": "koupě za 55 000 rýnských zlatých; nechal v hradním jádře vybudovat pozdně renesanční palác; zemřel bez vlastních dětí, adoptoval Annu Marii z Voldavy"
+   "note": "koupě za 55 000 rýnských zlatých; nechal v hradním jádře vybudovat pozdně renesanční palác; zemřel bez vlastních dětí, adoptoval Annu Marii z Voldavy (rok úmrtí zdroj neuvádí)"
   },
   {
    "owner": "soukromnik",
    "person": "Anna Marie z Voldavy",
-   "from": 1650,
+   "from": null,
    "to": 1653,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "zdědila po adoptivním otci Huertovi, panství se za ní i jejích dvou manželů silně zadlužilo"
+   "note": "zdědila po adoptivním otci Huertovi (odkázal jí veškerý majetek); provdala se nejprve za purkrabího z Donína a podruhé za svobodného pána z Farnsbachu; panství se silně zadlužilo a roku 1653 připadlo karmelitánům"
   },
   {
    "owner": "cirkev",
@@ -205,40 +216,40 @@
    "owner": "soukromnik",
    "person": "Johanka Františka Račínová z Račína",
    "from": 1653,
-   "to": 1670,
+   "to": null,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "koupe",
    "note": "koupila od karmelitánů ještě téhož roku 1653"
   },
   {
    "owner": "neznamo",
-   "from": 1670,
-   "to": 1848,
-   "from_approx": true,
+   "from": null,
+   "to": null,
+   "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "majitelé se často střídali, mj. Kolovratové, Bechyňové z Lažan a znovu Perglárové z Perglasu; hrad postupně chátral"
+   "note": "majitelé se často střídali, mj. Kolovratové, Bechyňové z Lažan a znovu Perglárové z Perglasu (přesná pořadí a roky zdroj neuvádí); hrad postupně chátral"
   },
   {
    "owner": "soukromnik",
    "person": "Karel Sturmfelder z Oppenweileru",
-   "from": 1848,
-   "to": 1900,
+   "from": null,
+   "to": null,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "neznamo",
-   "note": "roku 1848 zahájil na hradě opravy v duchu romantismu"
+   "note": "roku 1848 na hradě zahájil opravy v duchu romantismu (rok nabytí zdroj neuvádí)"
   },
   {
    "owner": "soukromnik",
    "person": "Hennebeg-Spiegelové",
-   "from": 1900,
+   "from": null,
    "to": 1945,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "kolem roku 1930 za jejich držby proběhly úpravy Huertova křídla"
+   "note": "okolo roku 1930 hrad vlastnili Hennebeg-Spiegelové a proběhly úpravy Huertova křídla (období držby zdroj neuvádí)"
   },
   {
    "owner": "stat",
@@ -285,6 +296,7 @@
   }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Velhartice_(hrad)"
+  "https://cs.wikipedia.org/wiki/Velhartice_(hrad)",
+  "https://cs.wikipedia.org/wiki/Páni_z_Velhartic"
  ]
 }

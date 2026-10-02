@@ -1,33 +1,228 @@
 {
  "id": "Q1416944",
  "name": "Kunětická hora",
- "founded": {"year": 1421, "approx": false, "text": "1421 nechal Diviš Bořek z Miletínka na troskách staršího, nedokončeného hradu z přelomu 13. a 14. stol. založit nové sídlo"},
+ "founded": {
+  "year": 1421,
+  "approx": false,
+  "text": "1421 nechal Diviš Bořek z Miletínka na troskách staršího, nedokončeného hradu z přelomu 13. a 14. stol. založit nové sídlo"
+ },
  "summary": "Na vrcholu Kunětické hory stál již kolem přelomu 13. a 14. století nedokončený a záhy zaniklý královský hrad, pravděpodobně z podnětu Václava II. Skutečné sídlo zde roku 1421 založil husitský hejtman Diviš Bořek z Miletínka, jehož potomci hrad drželi až do poloviny 15. století. Od roku 1491 patřil Pernštejnům, kteří jej přestavěli na mohutnou dělostřeleckou pevnost, po roce 1560 přešel do majetku Habsburků a jeho význam upadl; za třicetileté války jej roku 1645 dobyli Švédové a hrad zpustl. Po koupi pardubickým Muzejním spolkem roku 1920 byl postupně opravován a od roku 1953 je majetkem státu, který jej zpřístupnil veřejnosti.",
  "owners": [
-  {"owner": "koruna", "person": "Václav II.", "from": 1295, "to": 1310, "from_approx": true, "to_approx": true, "how": "zalozeni", "note": "starší hrad na vrcholu kopce, podle archeologického výzkumu z přelomu 13. a 14. stol.; nejspíše nebyl dokončen a zanikl na počátku 14. století"},
-  {"owner": "z-miletinka", "owner_wiki": null, "person": "Diviš Bořek z Miletínka", "from": 1421, "to": 1434, "from_approx": false, "to_approx": false, "how": "zalozeni", "note": "na troskách staršího hradu založil nové sídlo, centrum bývalého opatovického klášterního panství"},
-  {"owner": "z-miletinka", "owner_wiki": null, "person": "Diviš Bořek z Miletínka", "from": 1434, "to": 1437, "from_approx": false, "to_approx": false, "how": "lenni", "note": "hrad s panstvím obdržel od císaře Zikmunda do zástavy za zásluhy ve vítězné bitvě u Lipan (1434)"},
-  {"owner": "z-miletinka", "owner_wiki": null, "person": "Jetřich z Miletínka", "from": 1437, "to": 1437, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "bratr Diviše, krátce spravoval hrad po jeho smrti, než jej předal synovci Soběslavovi"},
-  {"owner": "z-miletinka", "owner_wiki": null, "person": "Soběslav z Miletínka", "from": 1437, "to": 1456, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "syn Diviše; král Jiří z Poděbrad mu potvrdil doživotní držbu, hrad ale přenechal králi ještě před svou smrtí (zemřel 1468); datace přechodu je podle wikipedie nejednoznačná"},
-  {"owner": "pani-z-kunstatu-a-podebrad", "owner_wiki": "Páni z Kunštátu a Poděbrad", "person": "Viktorín, Jindřich, Hynek a Boček z Poděbrad", "from": 1456, "to": 1472, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "synové Jiřího z Poděbrad; po otcově smrti (1471) se roku 1472 o dědictví rozdělili"},
-  {"owner": "minsterberkove", "owner_wiki": "Minsterberkové", "person": "Jindřich I. starší z Minsterberka", "from": 1472, "to": 1491, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "při dělení otcovského dědictví 1472 získal Kunětickou horu; zadlužené panství roku 1491 prodal"},
-  {"owner": "pernstejnove", "owner_wiki": "Pernštejnové", "person": "Vilém II. z Pernštejna", "from": 1491, "to": 1521, "from_approx": false, "to_approx": true, "how": "koupe", "note": "koupě celého panství za 3000 kop grošů; zahájil přestavbu hradu na reprezentativní pevnost"},
-  {"owner": "pernstejnove", "owner_wiki": "Pernštejnové", "person": "Jan IV. z Pernštejna", "from": 1521, "to": 1548, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "za jeho držby (1521-1548) pokračovala přestavba hradu"},
-  {"owner": "pernstejnove", "owner_wiki": "Pernštejnové", "person": "Jaroslav z Pernštejna", "from": 1548, "to": 1560, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "poslední majitel z rodu Pernštejnů; zadlužen, roku 1560 prodal hrad i s pardubickým panstvím Maxmiliánovi Habsburskému"},
-  {"owner": "koruna", "person": "Maxmilián II. Habsburský", "from": 1560, "to": 1850, "from_approx": false, "to_approx": true, "how": "koupe", "note": "pardubické panství se stalo komorním habsburským majetkem; význam hradu upadl, roku 1645 jej za třicetileté války dobyl švédský generál Torstenson, poté zůstal zříceninou"},
-  {"owner": "z-wartinberka", "owner_wiki": null, "person": "Richard Drasche z Wartinberka", "from": 1850, "to": 1920, "from_approx": true, "to_approx": false, "how": "jine", "note": "svobodný pán, majitel pardubického panství v 19. stol.; s Klubem českých turistů jednal 1884-1920 o odprodeji zříceniny"},
-  {"owner": "soukromnik", "person": "Muzejní spolek v Pardubicích", "from": 1920, "to": 1953, "from_approx": false, "to_approx": false, "how": "koupe", "note": "spolek zříceninu koupil a zahájil postupnou obnovu (mj. projekt Dušana Jurkoviče 1923-1928)"},
-  {"owner": "stat", "from": 1953, "to": null, "from_approx": false, "to_approx": false, "how": "jine", "note": "přechod do vlastnictví státu; dnes ve správě Národního památkového ústavu, po opravách znovu zpřístupněn 1993"}
+  {
+   "owner": "koruna",
+   "person": "Václav II.",
+   "from": 1295,
+   "to": 1310,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "zalozeni",
+   "note": "starší hrad na vrcholu kopce, podle archeologického výzkumu z přelomu 13. a 14. stol.; nejspíše nebyl dokončen a zanikl na počátku 14. století"
+  },
+  {
+   "owner": "z-miletinka",
+   "owner_wiki": null,
+   "person": "Diviš Bořek z Miletínka",
+   "from": 1421,
+   "to": 1434,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "na troskách staršího hradu založil nové sídlo, centrum bývalého opatovického klášterního panství"
+  },
+  {
+   "owner": "z-miletinka",
+   "owner_wiki": null,
+   "person": "Diviš Bořek z Miletínka",
+   "from": 1434,
+   "to": 1437,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "hrad s panstvím obdržel od císaře Zikmunda do zástavy za zásluhy ve vítězné bitvě u Lipan (1434)"
+  },
+  {
+   "owner": "z-miletinka",
+   "owner_wiki": null,
+   "person": "Jetřich z Miletínka",
+   "from": 1437,
+   "to": 1437,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "bratr Diviše, krátce spravoval hrad po jeho smrti, než jej předal synovci Soběslavovi"
+  },
+  {
+   "owner": "z-miletinka",
+   "owner_wiki": null,
+   "person": "Soběslav z Miletínka",
+   "from": 1437,
+   "to": 1456,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "syn Diviše; král Jiří z Poděbrad mu potvrdil doživotní držbu, hrad ale přenechal králi ještě před svou smrtí (zemřel 1468); datace přechodu je podle wikipedie nejednoznačná"
+  },
+  {
+   "owner": "pani-z-kunstatu-a-podebrad",
+   "owner_wiki": "Páni z Kunštátu a Poděbrad",
+   "person": "Viktorín, Jindřich, Hynek a Boček z Poděbrad",
+   "from": 1456,
+   "to": 1472,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "synové Jiřího z Poděbrad; král Jiří hrad po Soběslavově smrti převedl na syny (1456); po otcově smrti (1471) se roku 1472 rozdělili o majetek a Kunětická hora připadla Jindřichovi"
+  },
+  {
+   "owner": "minsterberkove",
+   "owner_wiki": "Minsterberkové",
+   "person": "Jindřich I. starší z Minsterberka",
+   "from": 1472,
+   "to": 1491,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "při dělení otcovského dědictví 1472 získal Kunětickou horu; zadlužené panství roku 1491 prodal"
+  },
+  {
+   "owner": "pernstejnove",
+   "owner_wiki": "Pernštejnové",
+   "person": "Vilém II. z Pernštejna",
+   "from": 1491,
+   "to": 1521,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "koupě celého panství za 3000 kop grošů; zahájil přestavbu hradu na reprezentativní pevnost"
+  },
+  {
+   "owner": "pernstejnove",
+   "owner_wiki": "Pernštejnové",
+   "person": "Jan IV. z Pernštejna",
+   "from": 1521,
+   "to": 1548,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "za jeho držby (1521-1548) pokračovala přestavba hradu"
+  },
+  {
+   "owner": "pernstejnove",
+   "owner_wiki": "Pernštejnové",
+   "person": "Jaroslav z Pernštejna",
+   "from": 1548,
+   "to": 1560,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "poslední majitel z rodu Pernštejnů; zadlužen, roku 1560 prodal hrad i s pardubickým panstvím Maxmiliánovi Habsburskému"
+  },
+  {
+   "owner": "koruna",
+   "person": "Maxmilián II. Habsburský",
+   "from": 1560,
+   "to": 1856,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Jaroslav z Pernštejna prodal 1560 hrad i s celým pardubickým panstvím Maxmiliánovi Habsburskému, panství se stalo komorním; význam hradu upadl, roku 1645 jej dobyl Torstenson, poté zůstal zříceninou; roku 1856 panství přešlo do držení rakouské národní banky"
+  },
+  {
+   "owner": "soukromnik",
+   "person": "Rakouská národní banka",
+   "from": 1856,
+   "to": 1863,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "pardubické panství (cs.wiki Staré Ždánice: po čtvrt tisíciletí v majetku české komory přešlo roku 1856 do držení rakouské národní banky); přiřazení hradu odvozeno z příslušnosti k panství"
+  },
+  {
+   "owner": "soukromnik",
+   "person": "Rakouský úvěrní (berní) ústav",
+   "from": 1863,
+   "to": 1881,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "pardubický velkostatek koupil v dražbě 1863 a postupně rozprodával vesnice a pozemky (cs.wiki Staré Ždánice; Zámek Pardubice: Privilegovaný rakouský berní ústav 1863-1881); přiřazení hradu odvozeno z příslušnosti k panství"
+  },
+  {
+   "owner": "z-wartinberka",
+   "owner_wiki": null,
+   "person": "Richard Drasche z Wartinberga",
+   "from": 1881,
+   "to": 1920,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "velkostatek (pardubické panství, k němuž hrad patřil od 1560) koupil 1881 Richard baron Drasche z Wartinberga; roku 1884-1920 jednal s Klubem českých turistů o odprodeji zříceniny a na začátku roku 1920 hrad koupil pardubický Muzejní spolek; přiřazení hradu k velkostatku 1881 je odvozeno, zdroj to o hradu výslovně neuvádí"
+  },
+  {
+   "owner": "soukromnik",
+   "person": "Muzejní spolek v Pardubicích",
+   "from": 1920,
+   "to": 1953,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "spolek zříceninu koupil a zahájil postupnou obnovu (mj. projekt Dušana Jurkoviče 1923-1928)"
+  },
+  {
+   "owner": "stat",
+   "from": 1953,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "přechod do vlastnictví státu; dnes ve správě Národního památkového ústavu, po opravách znovu zpřístupněn 1993"
+  }
  ],
  "events": [
-  {"year": 1420, "text": "25. června se u Kunětické hory shromáždil husitský tábor lidu vedený Alešem Vřešťovským z Rýzmburka a Benešem z Mokrovous"},
-  {"year": 1421, "text": "Diviš Bořek z Miletínka zakládá na troskách staršího opevnění nový hrad"},
-  {"year": 1434, "text": "Diviš Bořek z Miletínka získává hrad s panstvím do zástavy od císaře Zikmunda za zásluhy u Lipan"},
-  {"year": 1491, "text": "Vilém z Pernštejna kupuje zadlužené panství od Jindřicha I. staršího z Minsterberka"},
-  {"year": 1509, "text": "dokončena první fáze pernštejnské přestavby hradu na dělostřeleckou pevnost"},
-  {"year": 1560, "text": "Jaroslav z Pernštejna prodává hrad Maxmiliánovi Habsburskému, význam hradu upadá"},
-  {"year": 1645, "text": "za třicetileté války hrad snadno dobyl švédský generál Lennart Torstenson"},
-  {"year": 1920, "text": "zříceninu kupuje pardubický Muzejní spolek a zahajuje obnovu"}
+  {
+   "year": 1420,
+   "text": "25. června se u Kunětické hory shromáždil husitský tábor lidu vedený Alešem Vřešťovským z Rýzmburka a Benešem z Mokrovous"
+  },
+  {
+   "year": 1421,
+   "text": "Diviš Bořek z Miletínka zakládá na troskách staršího opevnění nový hrad"
+  },
+  {
+   "year": 1434,
+   "text": "Diviš Bořek z Miletínka získává hrad s panstvím do zástavy od císaře Zikmunda za zásluhy u Lipan"
+  },
+  {
+   "year": 1456,
+   "text": "král Jiří z Poděbrad převádí Kunětickou horu na své syny"
+  },
+  {
+   "year": 1491,
+   "text": "Vilém z Pernštejna kupuje zadlužené panství od Jindřicha I. staršího z Minsterberka"
+  },
+  {
+   "year": 1509,
+   "text": "dokončena první fáze pernštejnské přestavby hradu na dělostřeleckou pevnost"
+  },
+  {
+   "year": 1560,
+   "text": "Jaroslav z Pernštejna prodává hrad Maxmiliánovi Habsburskému, význam hradu upadá"
+  },
+  {
+   "year": 1645,
+   "text": "za třicetileté války hrad snadno dobyl švédský generál Lennart Torstenson"
+  },
+  {
+   "year": 1856,
+   "text": "pardubické panství i s Kunětickou horou přechází z komorního majetku do držení rakouské národní banky (1863 koupil velkostatek úvěrní ústav, 1881 Richard Drasche z Wartinberga)"
+  },
+  {
+   "year": 1920,
+   "text": "zříceninu kupuje pardubický Muzejní spolek a zahajuje obnovu"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Kunětická_hora_(hrad)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Kunětická_hora_(hrad)",
+  "https://cs.wikipedia.org/wiki/Staré_Ždánice",
+  "https://cs.wikipedia.org/wiki/Zámek_Pardubice"
+ ]
 }

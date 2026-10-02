@@ -2,9 +2,9 @@
  "id": "Q884494",
  "name": "Slatiňany",
  "founded": {
-  "year": 1350,
-  "approx": true,
-  "text": "14. století - středověká tvrz, poprvé písemně doložena roku 1371 v držení Zbyňka Otháje ze Slatiňan"
+  "year": 1371,
+  "approx": false,
+  "text": "středověká tvrz, poprvé písemně doložena roku 1371 v držení Zbyňka Otháje ze Slatiňan; renesanční zámek po roce 1580"
  },
  "summary": "Předchůdkyní zámku ve Slatiňanech byla středověká tvrz doložená od roku 1371, kterou po roce 1580 nechal Bohuslav Mazanec z Frymburka přestavět na renesanční zámek podle plánů Ulrica Aostalliho de Sala. Po řadě šlechtických majitelů (Berkové z Dubé, Bubnové z Litic, Purkhartové z Voděrad, Schönfeldové) se roku 1746 sňatkem dostal do rukou knížecího rodu Auerspergů, kteří jej v 19. století přestavěli klasicistně a poté novogoticky a učinili z něj své hlavní sídlo. Roku 1942 zámek zdědil Josef Karel Trauttmansdorff, roku 1945 byl majetek na základě Benešových dekretů zkonfiskován a od té doby je ve vlastnictví státu, který v něm zřídil hipologické muzeum. Dnes je národní kulturní památkou ve správě Národního památkového ústavu.",
  "owners": [
@@ -12,141 +12,163 @@
    "owner": "z-slatinan",
    "owner_wiki": null,
    "person": "Zbyněk Otháj ze Slatiňan",
-   "from": 1350,
-   "to": 1380,
-   "from_approx": true,
-   "to_approx": true,
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
    "how": "neznamo",
-   "note": "tvrz poprvé písemně doložena 1371 v jeho držení"
+   "note": "tvrz s vesnicemi a dvorem doložena v jeho držení roku 1371; konec držby zdroj neuvádí"
+  },
+  {
+   "owner": "z-pobezovic-a-tunechod",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1386,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "vladykové z Poběžovic a Tuněchod; Slatiňany jim náležely od roku 1386 (jeden z nich, Václav ze Slatiňan, 1415); konec držby zdroj neuvádí"
+  },
+  {
+   "owner": "z-lipky",
+   "owner_wiki": null,
+   "person": "Bleh z Lipky a ze Strádova",
+   "from": null,
+   "to": 1438,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "panství získal od vladyků z Tuněchod po roce 1415; roku 1438 (1437) je zastavil Alšovi z Bítovan a Vítkovi z Talmberka"
   },
   {
    "owner": "pani-z-talmberka",
    "owner_wiki": "Páni z Talmberka",
-   "person": null,
-   "from": 1380,
-   "to": 1420,
-   "from_approx": true,
-   "to_approx": true,
-   "how": "neznamo",
-   "note": "přesná data držby nejsou v pramenech uvedena"
+   "person": "Vítek z Talmberka (spolu s Alšem z Bítovan)",
+   "from": 1438,
+   "to": 1469,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "zástava od Bleha z Lipky 1438 (1437); potomci Matěj a Vítek (1454) a Diviš z Talmberka (1464) drželi do roku 1469, kdy byla tvrz vypálena vojskem Zdeňka ze Šternberka"
   },
   {
    "owner": "sarovcove-z-sarova",
    "owner_wiki": "Šárovcové z Šárova",
    "person": null,
-   "from": 1420,
-   "to": 1460,
-   "from_approx": true,
-   "to_approx": true,
+   "from": null,
+   "to": 1525,
+   "from_approx": false,
+   "to_approx": false,
    "how": "neznamo",
-   "note": "přesná data držby nejsou v pramenech uvedena"
+   "note": "roku 1497 uváděna tvrz i osada jako pustá a patřila Šárovcům; ti ji roku 1525 prodali Chrudimi"
   },
   {
    "owner": "mesto",
    "person": null,
-   "from": 1460,
+   "from": 1525,
    "to": 1547,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "královské věnné město Chrudim; majetek konfiskován po stavovském odboji proti Ferdinandu I."
+   "how": "koupe",
+   "note": "královské věnné město Chrudim; roku 1547 majetek zkonfiskován pro účast v protihabsburském odboji"
   },
   {
    "owner": "pernstejnove",
    "owner_wiki": "Pernštejnové",
-   "person": "Jan IV. z Pernštejna",
-   "from": 1547,
-   "to": 1550,
+   "person": "Jan z Pernštejna",
+   "from": 1548,
+   "to": 1548,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "lenni",
-   "note": "po konfiskaci chrudimského majetku"
+   "note": "Ferdinand I. mu panství roku 1548 postoupil; téhož roku je prodal Lhotským ze Zásmuk"
   },
   {
    "owner": "z-zasmuk",
    "owner_wiki": "Zásmučtí ze Zásmuk",
    "person": null,
-   "from": 1550,
-   "to": 1560,
-   "from_approx": true,
-   "to_approx": true,
-   "how": "neznamo",
-   "note": "Lhotečtí ze Zásmuk; přesná data držby nejsou v pramenech uvedena"
+   "from": 1548,
+   "to": 1554,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Lhotští ze Zásmuk; koupili od Jana z Pernštejna, roku 1554 panství přešlo na Fraňky z Liběchova"
   },
   {
    "owner": "soukromnik",
    "person": "Jindřich Franěk z Liběchova",
-   "from": 1560,
+   "from": 1554,
    "to": 1575,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "jeho dědicové tvrz roku 1575 prodali"
+   "how": "koupe",
+   "note": "Fraňkové z Liběchova (panství získali 1554); Jindřichovi dědicové tvrz roku 1575 prodali"
   },
   {
    "owner": "z-frymburka",
    "owner_wiki": null,
    "person": "Bohuslav Mazanec z Frymburka",
    "from": 1575,
-   "to": 1600,
+   "to": 1595,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "koupe",
-   "note": "po roce 1580 nechal starou tvrz zbořit a postavit renesanční zámek podle Ulrica Aostalliho de Sala"
+   "note": "pražský měšťan (podle druhého zdroje písař menších desek zemských); po roce 1580 nechal starou tvrz zbořit a postavit renesanční zámek podle Ulrica Aostalliho de Sala; roku 1595 panství koupili Karlíkové z Nežetic"
   },
   {
    "owner": "z-nezetic",
    "owner_wiki": null,
    "person": null,
-   "from": 1600,
-   "to": 1620,
-   "from_approx": true,
+   "from": 1595,
+   "to": 1622,
+   "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "Karlíkové z Nežetic; majetek jim konfiskován po bitvě na Bílé hoře 1620"
+   "how": "koupe",
+   "note": "Karlíkové z Nežetic; Jiřímu z Nežetic panství zkonfiskováno za účast na povstání 1618 o čtyři roky později (obec Slatiňany); zámek Slatiňany uvádí pobělohorskou konfiskaci 1620"
   },
   {
    "owner": "berkove-z-dube",
    "owner_wiki": "Berkové z Dubé",
-   "person": null,
-   "from": 1620,
-   "to": 1640,
+   "person": "Lev Burian Berka z Dubé",
+   "from": 1623,
+   "to": null,
    "from_approx": false,
-   "to_approx": true,
-   "how": "jine",
-   "note": "po pobělohorské konfiskaci; zámek za třicetileté války opakovaně vydrancován Švédy"
+   "to_approx": false,
+   "how": "koupe",
+   "note": "roku 1623 koupil zkonfiskované panství; za třicetileté války byl zámek opakovaně vydrancován Švédy; konec držby zdroj neuvádí"
   },
   {
    "owner": "bubnove-z-litic",
    "owner_wiki": "Bubnové z Litic",
-   "person": null,
-   "from": 1640,
-   "to": 1669,
-   "from_approx": true,
-   "to_approx": true,
-   "how": "neznamo",
-   "note": "přesná data držby nejsou v pramenech uvedena"
+   "person": "František Adam z Bubna a z Litic",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil od Berků a prodal před rokem 1671 Adamu Zikmundovi Purkartovi z Voděrad; přesné roky zdroj neuvádí"
   },
   {
    "owner": "z-voderad",
    "owner_wiki": null,
-   "person": "Adam Zikmund Purkhart z Voděrad",
-   "from": 1669,
+   "person": "Adam Zikmund Purkart z Voděrad",
+   "from": null,
    "to": 1708,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "po roce 1669 dal zchátralý zámek opravit; roku 1708 prodán ve veřejné dražbě"
+   "note": "koupil před rokem 1671, po roce 1669 dal zchátralý zámek opravit; ve veřejné dražbě 1708 prodán (obec Slatiňany uvádí prodej Zumsandovi až 1710)"
   },
   {
    "owner": "soukromnik",
-   "person": "Zumsand ze Sandbergu",
+   "person": "Karel Josef Zumsand ze Sandbergu",
    "from": 1708,
    "to": 1732,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "koupě ve veřejné dražbě; kvůli krutému zacházení s poddanými prodáno v další dražbě"
+   "note": "koupě ve veřejné dražbě 1708 (obec Slatiňany: 1710); kvůli krutému zacházení s poddanými prodáno v další dražbě 1732"
   },
   {
    "owner": "schonfeldove",
@@ -164,20 +186,20 @@
    "owner_wiki": "Auerspergové",
    "person": "Jan Adam z Auerspergu",
    "from": 1746,
-   "to": 1800,
+   "to": null,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "snatek",
-   "note": "sňatek s Marií Kateřinou, dcerou a univerzální dědičkou Josefa Schönfelda"
+   "note": "sňatek 1746 s Marií Kateřinou, dcerou a univerzální dědičkou Josefa Schönfelda; roku 1773 po ní panství zdědil (obec Slatiňany)"
   },
   {
    "owner": "auerspergove",
    "owner_wiki": "Auerspergové",
    "person": "Karel z Auerspergu",
-   "from": 1800,
-   "to": 1850,
-   "from_approx": true,
-   "to_approx": true,
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
    "how": "dedictvi",
    "note": "synovec Jana Adama; počátkem 19. století klasicistní úpravy zámku a parku"
   },
@@ -185,10 +207,10 @@
    "owner": "auerspergove",
    "owner_wiki": "Auerspergové",
    "person": "Vincenc Karel Auersperg",
-   "from": 1850,
-   "to": 1900,
-   "from_approx": true,
-   "to_approx": true,
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
    "how": "dedictvi",
    "note": "prasynovec Karla; koncem 50. let 19. stol. novogotická přestavba (B. Škvor, F. Schmoranz st.)"
   },
@@ -196,17 +218,28 @@
    "owner": "auerspergove",
    "owner_wiki": "Auerspergové",
    "person": "František Josef z Auerspergu",
-   "from": 1900,
-   "to": 1942,
-   "from_approx": true,
-   "to_approx": true,
+   "from": null,
+   "to": 1938,
+   "from_approx": false,
+   "to_approx": false,
    "how": "dedictvi",
-   "note": "pokračoval v přestavbách do konce 19. stol.; posledním z rodu na zámku byl Ferdinand Auersperg"
+   "note": "pokračoval v přestavbách do konce 19. stol.; zemřel 1938 (obec Slatiňany)"
+  },
+  {
+   "owner": "auerspergove",
+   "owner_wiki": "Auerspergové",
+   "person": "Ferdinand Maria z Auerspergu",
+   "from": 1938,
+   "to": 1942,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "syn Františka Josefa; po jeho smrti 1942 ve Vídni místní větev Auerspergů vymřela po meči"
   },
   {
    "owner": "trauttmansdorffove",
    "owner_wiki": "Trauttmansdorffové",
-   "person": "Josef Karel Trauttmansdorff",
+   "person": "Karel Josef Trauttmansdorff-Weinsberg",
    "from": 1942,
    "to": 1945,
    "from_approx": false,
@@ -231,8 +264,12 @@
    "text": "první písemná zmínka o tvrzi v držení Zbyňka Otháje ze Slatiňan"
   },
   {
+   "year": 1525,
+   "text": "Šárovcové z Šárova prodávají tvrz městu Chrudimi"
+  },
+  {
    "year": 1547,
-   "text": "konfiskace majetku městu Chrudimi po stavovském odboji proti Ferdinandu I."
+   "text": "konfiskace majetku městu Chrudimi pro účast v protihabsburském odboji; 1548 postoupen Janu z Pernštejna"
   },
   {
    "year": 1580,
@@ -240,7 +277,7 @@
   },
   {
    "year": 1620,
-   "text": "pobělohorská konfiskace majetku Karlíkům z Nežetic"
+   "text": "pobělohorská konfiskace majetku Karlíkům z Nežetic (obec Slatiňany uvádí konfiskaci 1622 a prodej Berkovi z Dubé 1623)"
   },
   {
    "year": 1746,
@@ -264,6 +301,7 @@
   }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Slatiňany_(zámek)"
+  "https://cs.wikipedia.org/wiki/Slatiňany_(zámek)",
+  "https://cs.wikipedia.org/wiki/Slatiňany"
  ]
 }

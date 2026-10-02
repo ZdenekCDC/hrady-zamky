@@ -24,74 +24,109 @@
    "owner_wiki": "Páni z Lipé",
    "person": "Jindřich z Lipé",
    "from": 1323,
-   "to": 1421,
+   "to": null,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "lenni",
-   "note": "en.wiki uvádí zástavu, cs.wiki směnu za Tachov; konec držby nejasný"
+   "note": "1323 zástavní listina Jana Lucemburského (cs.wiki Vranov: směna za Tachov; en.wiki: zástava); konec držby zdroj neuvádí"
+  },
+  {
+   "owner": "soukromnik",
+   "person": "Mikuláš Pillung z Jilkova (Gilgenberg)",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "za vlády markraběte Jošta (1375-1411) mu byl hrad odevzdán do zástavy; hrad sloužil jako základna loupeživých jízd do Rakouska, proto se Jošt roku 1406 snažil donutit jeho dceru Markétu k vydání hradu"
   },
   {
    "owner": "lichtenburkove",
    "owner_wiki": "Lichtenburkové",
-   "person": null,
+   "person": "Smil Bítovský z Lichtenburka, později Albrecht z Lichtenburka",
    "from": 1421,
    "to": 1516,
    "from_approx": false,
    "to_approx": false,
    "how": "jine",
-   "note": "1421 ovládli hrad za husitských válek, 1499 jim jej Vladislav II. dal do dědičného držení; bítovská větev"
+   "note": "1421 získal hrad od krále Zikmunda do dědičné zástavy Smil Bítovský z Lichtenburka (1425 dobyt husity); 1499 jim jej Vladislav II. dal do dědičného držení; 1516 Albrecht z Lichtenburka panství prodal Arklebovi z Boskovic"
   },
   {
    "owner": "boskovicove",
    "owner_wiki": "Boskovicové",
    "person": "Arkleb z Boskovic",
    "from": 1516,
-   "to": null,
+   "to": 1525,
    "from_approx": false,
-   "to_approx": null,
-   "how": "neznamo"
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil 1516 od Albrechta z Lichtenburka; panství se poté rychle střídalo"
   },
   {
    "owner": "pernstejnove",
    "owner_wiki": "Pernštejnové",
    "person": "Jan z Pernštejna",
-   "from": null,
-   "to": null,
-   "from_approx": null,
-   "to_approx": null,
-   "how": "neznamo"
+   "from": 1525,
+   "to": 1528,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "držitelem roku 1525 (cs.wiki Vranov nad Dyjí)"
   },
   {
    "owner": "pani-z-lomnice",
    "owner_wiki": "Páni z Lomnice",
    "person": "Zdeněk (Sidonius) z Lomnice",
-   "from": null,
-   "to": null,
-   "from_approx": null,
-   "to_approx": null,
+   "from": 1528,
+   "to": 1552,
+   "from_approx": false,
+   "to_approx": false,
    "how": "neznamo",
-   "note": "větev Meziříčtí z Lomnice"
+   "note": "větev Meziříčtí z Lomnice; držitelem roku 1528"
   },
   {
    "owner": "krajirove-z-krajku",
    "owner_wiki": "Krajířové z Krajku",
-   "person": "Wolf Krajíř z Krajku",
-   "from": null,
+   "person": "Volf a Jiří Krajířové z Krajku",
+   "from": 1552,
+   "to": 1560,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "Volf a Jiří Krajířové z Krajku; držitelé od roku 1552, připojili sousední panství Nový Hrádek"
+  },
+  {
+   "owner": "z-certorej",
+   "owner_wiki": null,
+   "person": "Petr Čertorejský z Čertorej",
+   "from": 1560,
    "to": null,
-   "from_approx": null,
-   "to_approx": null,
-   "how": "neznamo"
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "za jeho držení město roku 1568 obdrželo právo pečetní a erbovní; konec držby zdroj neuvádí (po roce 1568 panství koupila Estera z Ditrichštejna)"
   },
   {
    "owner": "ditrichstejnove",
    "owner_wiki": "Ditrichštejnové",
-   "person": null,
+   "person": "Estera z Ditrichštejna, poté syn Maxmilián",
    "from": null,
-   "to": 1614,
-   "from_approx": null,
+   "to": 1601,
+   "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "cs.wiki mezi majiteli 16. století uvádí také Štrejny ze Švarcenavy a Čertorejské z Čertorej, bez dat"
+   "how": "koupe",
+   "note": "po roce 1568 panství koupila Estera z Ditrichštejna (doly na železnou rudu a hamry); její syn Maxmilián z Ditrichštejna je roku 1601 prodal"
+  },
+  {
+   "owner": "z-svarcenavy",
+   "owner_wiki": null,
+   "person": "Hanuš Volfart Štrejn ze Švarcenavy",
+   "from": 1601,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "pán na Uherčicích a Bítově, koupil 1601; cs.wiki obec Vranov uvádí, že po jeho smrti přešlo panství prodejem na Althanny roku 1617 (jiné zdroje 1614)"
   },
   {
    "owner": "althannove",
@@ -99,10 +134,10 @@
    "person": "Wolf Dietrich z Althannu",
    "from": 1614,
    "to": 1621,
-   "from_approx": false,
+   "from_approx": true,
    "to_approx": true,
    "how": "koupe",
-   "note": "konfiskováno za účast na stavovském povstání"
+   "note": "Wolf Dietrich z Althannu na Jaroslavicích; rok nabytí se u zdrojů liší (1614 vs. 1617 podle cs.wiki Vranov nad Dyjí); konfiskováno za účast na stavovském povstání"
   },
   {
    "owner": "koruna",
@@ -120,10 +155,10 @@
    "person": "Jan Arnošt ze Scherfenbergu",
    "from": 1629,
    "to": 1665,
-   "from_approx": true,
-   "to_approx": true,
+   "from_approx": false,
+   "to_approx": false,
    "how": "koupe",
-   "note": "Valdštejnův generál, koupil zkonfiskované panství"
+   "note": "válečník Jan Arnošt ze Scherfenbergu (Šerfenberka) získal panství roku 1629; Valdštejnův generál, koupil zkonfiskované panství"
   },
   {
    "owner": "starhembergove",
@@ -131,9 +166,10 @@
    "person": null,
    "from": 1665,
    "to": 1680,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
-   "how": "neznamo"
+   "how": "koupe",
+   "note": "dolnorakouští Starhemberkové panství roku 1665 odkoupili (po požáru hradu); 1680 je na základě soudního rozhodnutí museli přenechat Michalu Janovi II. z Althannu"
   },
   {
    "owner": "althannove",
@@ -212,12 +248,36 @@
    "text": "Jan Lucemburský postoupil Vranov Jindřichovi z Lipé"
   },
   {
+   "year": 1421,
+   "text": "Smil Bítovský z Lichtenburka získává hrad do dědičné zástavy od krále Zikmunda"
+  },
+  {
+   "year": 1516,
+   "text": "Albrecht z Lichtenburka prodává panství Arklebovi z Boskovic; následuje rychlé střídání majitelů"
+  },
+  {
+   "year": 1568,
+   "text": "městečku uděleno právo pečetní a erbovní (za držení Petra Čertorejského z Čertorej)"
+  },
+  {
+   "year": 1601,
+   "text": "Maxmilián z Ditrichštejna prodává panství Hanuši Volfartovi Štrejnovi ze Švarcenavy"
+  },
+  {
    "year": 1614,
    "text": "hrad koupil Wolf Dietrich z Althannu, po Bílé hoře mu byl zkonfiskován"
   },
   {
+   "year": 1629,
+   "text": "panství získává Jan Arnošt ze Scherfenbergu"
+  },
+  {
    "year": 1665,
    "text": "rozsáhlý požár po poškození hradu Švédy za třicetileté války"
+  },
+  {
+   "year": 1680,
+   "text": "Starhemberkové musejí panství soudním rozhodnutím přenechat Michalu Janovi II. z Althannu"
   },
   {
    "year": 1687,
@@ -239,6 +299,7 @@
  "sources": [
   "https://cs.wikipedia.org/wiki/Vranov_nad_Dyj%C3%AD_(z%C3%A1mek)",
   "https://de.wikipedia.org/wiki/Schloss_Vranov_nad_Dyj%C3%AD",
-  "https://en.wikipedia.org/wiki/Vranov_nad_Dyj%C3%AD_Castle"
+  "https://en.wikipedia.org/wiki/Vranov_nad_Dyj%C3%AD_Castle",
+  "https://cs.wikipedia.org/wiki/Vranov_nad_Dyjí"
  ]
 }

@@ -6,12 +6,12 @@ Stav k 2026-10-02: web běží na GitHub Pages (<https://zdenekcdc.github.io/hra
 
 - [ ] Ověřit nejistá místa v historiích (hlášená agenty):
   - Karlštejn - roky zástavních držitelů 1648-1690 cs.wiki neuvádí (v datech `null`, build je dopočítává); Tereziánský ústav šlechtičen zůstává `cirkev` (vhodnější id není).
-  - Slatiňany - rané vlastníky (Otháj, Talmberkové, Šárovcové…) jen v pořadí, roky odhadnuté.
-  - Dobříš - pořadí zástavních držitelů 1460-1569 nejisté.
-  - Velhartice - build hlásí nechronologické pořadí (páni z Hradce 1391); mnoho krátkých držeb.
-  - Vranov nad Dyjí - roky 1516-1614 dopočítané (zdroj zná jen pořadí).
+  - Slatiňany - ověřeno jen z jednoho zdroje (cs.wiki): roky Bubnů a Purkarta chybí, rozpory Berkové 1623 vs. 1620, Zumsand 1708 vs. 1710, konfiskace Karlíků 1622 vs. 1620.
+  - Dobříš - pořadí zástavních držitelů ověřeno z cs.wiki; neznámé, kdy králi skončila držba před Štěpánem z Tetína a kdy Jiří z Poděbrad Dobříš vykoupil.
+  - Velhartice - chronologie 14. stol. opravena; majitelé 1670-1848 bez let, řada roků (Menhart II., Rýzmberkové, Huert...) `null`.
+  - Vranov nad Dyjí - roky 1516-1680 doplněny z cs.wiki (obec); začátek Althannů 1614 vs. 1617, konec Čertorejského, začátek Ditrichštejnů a konec Štrejna `null`.
   - Jindřichův Hradec, Valdštejn, Zákupy - rok přechodu na stát / město odhadnutý.
-  - Kunětická hora - přechod komora -> Drasche z Wartinberka nepřesný.
+  - Kunětická hora - přiřazení hradu k pardubickému panství 1856-1881 (banka, úvěrní ústav, Drasche 1881) je odvozené z textů o panství.
   - Hukvaldy - kdy hrad přestal patřit arcibiskupství a dnešní vlastník nezjištěn (správce Muzeum Beskyd Frýdek-Místek); poslední záznam `cirkev` otevřený.
   - Kokořín - 15.-19. stol. doplněno hlavně z komerčního webu 3dcesko.cz (v poznámkách označeno), roky většiny majitelů 1620-1807 neznámé, 1894 (cs.wiki) vs. 1896 (web hradu) u koupě Špačkem; `z-reillyu` je jen slug (O'Reillyová).
   - Nový Hrádek - roky 6 majitelů v 16. stol. dopočítané; konec držby Mniszků / Stadnických odhadnutý.
