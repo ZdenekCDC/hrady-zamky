@@ -23,54 +23,54 @@
    "owner_wiki": "Páni z Říčan",
    "person": "Jan Kavka z Říčan",
    "from": 1626,
-   "to": 1648,
+   "to": null,
    "from_approx": false,
    "to_approx": true,
    "how": "lenni",
-   "note": "zástava od císařovny Eleonory Gonzagové roku 1626; na konci třicetileté války (1648) hrad dobyt švédským vojskem"
+   "note": "zástava od císařovny Eleonory Gonzagové roku 1626; konec zástavy cs.wiki neuvádí (rok 1648 je jen dobytí hradu Švédy na konci třicetileté války, ne konec zástavy)"
   },
   {
    "owner": "porciove",
    "owner_wiki": null,
    "person": null,
-   "from": 1648,
-   "to": 1660,
+   "from": null,
+   "to": null,
    "from_approx": true,
    "to_approx": true,
    "how": "lenni",
-   "note": "zástavní držba; přesná data podle infoboxu článku, blíže nedoložena v textu"
+   "note": "zástavní držba (cs.wiki, infobox: Porciové 'v zástavě'); zdroje neuvádějí roky ani osoby - dřívější odhadnuté roky 1648-1690 odstraněny, build je rovnoměrně dopočítá mezi 1626 a 1755; pořadí podle infoboxu"
   },
   {
    "owner": "sternberkove",
    "owner_wiki": "Šternberkové",
    "person": null,
-   "from": 1660,
-   "to": 1670,
+   "from": null,
+   "to": null,
    "from_approx": true,
    "to_approx": true,
    "how": "lenni",
-   "note": "zástavní držba; přesná data podle infoboxu článku, blíže nedoložena v textu"
+   "note": "zástavní držba (cs.wiki, infobox: Šternberkové 'v zástavě'); zdroje neuvádějí roky ani osoby - dřívější odhadnuté roky 1648-1690 odstraněny, build je rovnoměrně dopočítá mezi 1626 a 1755; pořadí podle infoboxu"
   },
   {
    "owner": "ungnadove-z-weissenwolffu",
    "owner_wiki": "Ungnadové z Weissenwolffu",
    "person": null,
-   "from": 1670,
-   "to": 1690,
+   "from": null,
+   "to": null,
    "from_approx": true,
    "to_approx": true,
    "how": "lenni",
-   "note": "zástavní držba; přesná data podle infoboxu článku, blíže nedoložena v textu"
+   "note": "zástavní držba (cs.wiki, infobox: Ungnadové z Weissenwolffu 'v zástavě'); zdroje neuvádějí roky ani osoby - dřívější odhadnuté roky 1648-1690 odstraněny, build je rovnoměrně dopočítá mezi 1626 a 1755; pořadí podle infoboxu"
   },
   {
    "owner": "koruna",
    "person": null,
-   "from": 1690,
+   "from": null,
    "to": 1755,
    "from_approx": true,
    "to_approx": false,
    "how": "jine",
-   "note": "na konci 17. století se hrad vrátil do majetku českých královen a císařoven"
+   "note": "cs.wiki: na konci 17. století se hrad dostal do majetku českých královen a císařoven; přesný rok zdroj neuvádí (dřívější odhad 1690 odstraněn)"
   },
   {
    "owner": "cirkev",
@@ -80,7 +80,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "dar",
-   "note": "Marie Terezie darovala hrad nově založenému Ústavu šlechtičen v Praze; využíván jako centrum hospodářské správy okolních statků"
+   "note": "Marie Terezie 1755 darovala hrad nově založenému Ústavu šlechtičen v Praze (infobox cs.wiki uvádí 'v užívání'); využíván jako centrum hospodářské správy okolních statků. Zařazení 'cirkev' ponecháno: cs.wiki definuje ústav šlechtičen jako světský institut s duchovní náplní římskokatolické církve; vhodnější id (instituce) ve SCHEMA.md ani data/families není"
   },
   {
    "owner": "stat",
@@ -136,6 +136,7 @@
   }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Karlštejn"
+  "https://cs.wikipedia.org/wiki/Karlštejn",
+  "https://cs.wikipedia.org/wiki/Ústav_šlechtičen"
  ]
 }

@@ -15,9 +15,9 @@
    "from": 1571,
    "to": 1597,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "dedictvi",
-   "note": "zdědil spojené bučovické a nemotické panství roku 1571 a nechal postavit nový renesanční zámek; smrtí Jana Šembery vymřel rod v mužské linii, rok úmrtí (1597) není v citovaných článcích výslovně uveden, doplněn z obecně známé historie a označen jako přibližný"
+   "note": "zdědil spojené bučovické a nemotické panství roku 1571 a nechal postavit nový renesanční zámek; smrtí Jana Šembery 1597 vymřel po meči celý rod pánů z Boskovic (cs.wiki Boskovicové: 'vymřeli po meči roku 1597 smrtí Jana Šembery z Boskovic'); dvě dcery se provdaly do rodu Lichtenštejnů"
   },
   {
    "owner": "lichtenstejnove",
@@ -25,10 +25,10 @@
    "person": "Maxmilián z Lichtenštejna a Kateřina, dcera Jana Šembery z Boskovic",
    "from": 1597,
    "to": 1945,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": true,
    "how": "snatek",
-   "note": "zámek získal Maxmilián z Lichtenštejna sňatkem s Kateřinou, dcerou Jana Šembery (druhá dcera Anna se provdala za Maxmiliánova bratra Karla, prvního knížete z Lichtenštejna); od 1681 přestal sloužit jako panské sídlo a stal se správním centrem panství, od 1722 sídlem centrální lichtenštejnské účtárny; rok konce vlastnictví (poválečná konfiskace) není v citovaných článcích uveden, doplněn z obecné historie a označen jako přibližný"
+   "note": "zámek a panství vyženil Maxmilián z Lichtenštejna s Kateřinou, dcerou Jana Šembery (cs.wiki Lichtenštejnové: Bučovice získal 1597 sňatkem, 14 310 ha; druhá dcera Anna Marie se provdala za Karla I.); od 1681 přestal zámek sloužit jako panské sídlo a stal se správním centrem panství, od 1722 sídlem centrální lichtenštejnské účtárny; cs.wiki: Lichtenštejnové vlastnili statky 'do roku 1945', po roce 1945 byl veškerý jejich majetek zkonfiskován - přesný rok převodu zámku na stát zdroje neuvádějí"
   },
   {
    "owner": "stat",
@@ -39,20 +39,44 @@
    "from_approx": true,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "dnes veden jako Státní zámek Bučovice ve správě Národního památkového ústavu; přesný rok přechodu do vlastnictví státu není v citovaných zdrojích potvrzen"
+   "note": "po roce 1945 konfiskace lichtenštejnského majetku (cs.wiki Lichtenštejnové); dnes Státní zámek Bučovice ve správě Národního památkového ústavu (zamek-bucovice.cz); přesný rok převodu do vlastnictví státu se v citovaných zdrojích nepodařilo ověřit, rok 1945 je přibližný"
   }
  ],
  "events": [
-  {"year": 1571, "text": "Jan Šembera Černohorský z Boskovic zdědil bučovické panství"},
-  {"year": 1575, "text": "zahájena stavba renesančního zámku (dokončen 1585), stavitel Pietro Gabri podle plánů Jacopa Strady"},
-  {"year": 1633, "text": "zahájeny barokní úpravy zámku pod vedením Giovanniho Giacoma Tencally"},
-  {"year": 1645, "text": "obležení Švédy za třicetileté války odraženo"},
-  {"year": 1681, "text": "zámek přestal sloužit jako panské sídlo a stal se správním centrem panství"},
-  {"year": 1722, "text": "zámek se stal sídlem centrální lichtenštejnské účtárny"},
-  {"year": 2001, "text": "zámek prohlášen národní kulturní památkou"}
+  {
+   "year": 1571,
+   "text": "Jan Šembera Černohorský z Boskovic zdědil bučovické panství"
+  },
+  {
+   "year": 1575,
+   "text": "zahájena stavba renesančního zámku (dokončen 1585), stavitel Pietro Gabri podle plánů Jacopa Strady"
+  },
+  {
+   "year": 1633,
+   "text": "zahájeny barokní úpravy zámku pod vedením Giovanniho Giacoma Tencally"
+  },
+  {
+   "year": 1645,
+   "text": "obležení Švédy za třicetileté války odraženo"
+  },
+  {
+   "year": 1681,
+   "text": "zámek přestal sloužit jako panské sídlo a stal se správním centrem panství"
+  },
+  {
+   "year": 1722,
+   "text": "zámek se stal sídlem centrální lichtenštejnské účtárny"
+  },
+  {
+   "year": 2001,
+   "text": "zámek prohlášen národní kulturní památkou"
+  }
  ],
  "sources": [
   "https://cs.wikipedia.org/wiki/Bučovice_(zámek)",
-  "https://cs.wikipedia.org/wiki/Bučovice"
+  "https://cs.wikipedia.org/wiki/Bučovice",
+  "https://cs.wikipedia.org/wiki/Boskovicové",
+  "https://cs.wikipedia.org/wiki/Lichtenštejnové",
+  "https://www.zamek-bucovice.cz/cs/o-zamku/historie"
  ]
 }

@@ -5,15 +5,15 @@ Stav k 2026-10-02: web běží na GitHub Pages (<https://zdenekcdc.github.io/hra
 ## Priorita 1 - data
 
 - [ ] Ověřit nejistá místa v historiích (hlášená agenty):
-  - Karlštejn - roky zástavních držitelů cca 1648-1690 odhadnuté; Tereziánský ústav šlechtičen zařazen jako `cirkev` (diskutabilní).
+  - Karlštejn - roky zástavních držitelů 1648-1690 cs.wiki neuvádí (v datech `null`, build je dopočítává); Tereziánský ústav šlechtičen zůstává `cirkev` (vhodnější id není).
   - Slatiňany - rané vlastníky (Otháj, Talmberkové, Šárovcové…) jen v pořadí, roky odhadnuté.
   - Dobříš - pořadí zástavních držitelů 1460-1569 nejisté.
   - Velhartice - build hlásí nechronologické pořadí (páni z Hradce 1391); mnoho krátkých držeb.
   - Vranov nad Dyjí - roky 1516-1614 dopočítané (zdroj zná jen pořadí).
   - Jindřichův Hradec, Valdštejn, Zákupy - rok přechodu na stát / město odhadnutý.
   - Kunětická hora - přechod komora -> Drasche z Wartinberka nepřesný.
-  - Hukvaldy - článek na cs.wiki končí rokem 1602, poslední záznam (olomoucké biskupství) je otevřený; doplnit 17.-20. stol. (arcibiskupství do 1948?, stát / současný vlastník) z jiného zdroje.
-  - Kokořín - vlastníci 1544-1894 neznámí (zdroj uvádí jen pustý hrad), pořadí majitelů v 15.-16. stol. bez let.
+  - Hukvaldy - kdy hrad přestal patřit arcibiskupství a dnešní vlastník nezjištěn (správce Muzeum Beskyd Frýdek-Místek); poslední záznam `cirkev` otevřený.
+  - Kokořín - 15.-19. stol. doplněno hlavně z komerčního webu 3dcesko.cz (v poznámkách označeno), roky většiny majitelů 1620-1807 neznámé, 1894 (cs.wiki) vs. 1896 (web hradu) u koupě Špačkem; `z-reillyu` je jen slug (O'Reillyová).
   - Nový Hrádek - roky 6 majitelů v 16. stol. dopočítané; konec držby Mniszků / Stadnických odhadnutý.
   - Třeboň - mezidobí 1621-1660 přiřazeno koruně (zdroj neuvádí přesně).
   - Zruč nad Sázavou (27 vlastníků) a Milotice - řada roků v 16.-19. stol. dopočítaná; Milotice: souběh Choiseul d'Aillecourt / Hardeggové 1811-1888 nejasný.
@@ -47,7 +47,7 @@ Stav k 2026-10-02: web běží na GitHub Pages (<https://zdenekcdc.github.io/hra
   - Litice - držba Pušů 1309-1310 jen dedukce ze zdroje; Manětín - konfiskace Šlikům -> Hrobčičtí jen „krátce“ (1544-1560); Valeč - založení ~1450, počátek Kyšperských z Vřesovic ~1500.
   - Moravská Třebová - přechod Kunštátové -> Jiří z Poděbrad a stát -> město bez roku; Rotštejn a Valečov - po 15. stol. vlastníci nedoloženi (`neznamo`), Valečov: přechod Valdštejnové -> obec Boseň 1994 bez předchozího vlastníka.
   - Březnice - koruna / Lokšanové 1547-1558 odhadnuté; Kozí hrádek - roky prvních tří držitelů před 1406 odhadnuté (`z-ujezda` = Vilém z Újezda, jiný rod než `jeniskove-z-ujezda`).
-  - Benešov n. Pl. - přechod Aldringenové -> Clary-Aldringenové ~1750, Horní a Dolní zámek sloučeny do jedné osy; Bučovice - konec Boskoviců 1597 a přechod na stát 1945 agent doplnil „z obecné historie“, ne z článku - ověřit; Tovačov - přechody Salmové / Petřvaldští odhadnuté.
+  - Benešov n. Pl. - přechod Aldringenové -> Clary-Aldringenové ~1750, Horní a Dolní zámek sloučeny do jedné osy; Bučovice - rok přechodu na stát (po 1945) přesně neověřen; Tovačov - přechody Salmové / Petřvaldští odhadnuté.
   - Ctěnice - Hazmburkové / Valdštejnové bez let, zestátnění 1945 odhadnuté; Dolní Benešov - přechody mezi rody jen po stoletích (roky null), konec Rothschildů za války bez roku; Domažlice (hrad) - mezera od založení do 1592, Laminger veden jako `soukromnik`.
   - Děvičky a Gutštejn - přechod na stát bez roku; Cvilín - opavští Přemyslovci -> Korvín a konec Lichtenštejnů po 1622 bez let; Dolní Kounice - rok zrušení kláštera (16. stol.) neznámý.
   - Dršťka - zdroj sám jen „snad / možná“, roky přibližné; Frýdek - mezera 1798-1822 u Habsburků, zástavní držitelé 15.-16. stol. `neznamo`; Helfenburk u Úštěka - 1538-1620 `neznamo`, Rožmberkové...Ilburkové jen v pořadí.
@@ -94,7 +94,7 @@ Stav k 2026-10-02: web běží na GitHub Pages (<https://zdenekcdc.github.io/hra
   - Chropyně - Hanuš Haugvic z Biskupic možná jen stavebník, ne vlastník; Osečany (22 vlastníků) - Tiegel von Lindenkron / Pulpán von Feldstein možná tatáž osoba, prodej 1928 vs. 1931 rozporný; Aichelburg - vlastnictví 1883-1996 nezmíněno; Růžkovy Lhotice - JZD vedeno jako `stat`.
   - Kámen (27 vlastníků) - mezera 1872-1916 bez majitele, převod na Kraj Vysočina ~2001; Hartenštejn - po 1609 vlastník neuveden, hasištejnská větev jako `lobkovicove`; Maleč - léta Beneda z Nečtin a Schönfeldů chybí, předání Macháčkové-Riegerové synovi bez roku.
   - Paskov (26 vlastníků) - lenní držitelé biskupství 1267-1530 bez let; Vartenberk - Lichtenštejnové / Hartigové / Valdštejn 1563-1645 bez let; Poběžovice - léta Matyáše z Vunšic a Königsfeldů chybí; Skalka - přechod Schönbornů na stát po 1945 bez roku.
-  - Rokytnice v O. h. - zdroj nezmiňuje konec Nosticů ani majitele ve 20.-21. stol. (poslední záznam otevřený) - doplnit z jiného zdroje.
+  - Rokytnice v O. h. - konec Nosticů 1935 / 1940 (web zámku) vs. 20. léta (cs.wiki o městě); dnešní vlastník a přechod po 1989 neověřen, poslední záznam `stat` otevřený.
   - Bartošovice - převzetí Hugem Meinertem a Czeczowiczkovými bez roku, dcera Josefína (Taaffe vs. Canal) nejednoznačná; Blansko (zámek) - biskupská držba 12.-16. stol. jen rámcově; Bruntál - stavebník hradu a nabytí pány z Vrbna neuvedeny; Chotěboř - roky Kinských, Brachfelda a Vančurů chybí.
   - Blansko (hrad) - mezera 1407-1416, přechod Thunové -> stát -> obec Ryjice bez let; Bolatice - nabytí Lichnovskými neznámé; Budyně n. O. - léta Bernarda z Kamence a Griffiny Haličské neznámá (agent je doplnil odhadem, vráceno na null); Chebský hrad - připojení Chebska ~1322; Cimburk (Trnávka) - Lichtenštejnové -> obec bez roku.
   - Vítkův hrádek - Sezema z Chotěnic jako poslední majitel je jen odhad A. Sedláčka (`z-chotenic` je jiný rod než `z-chotemic`).

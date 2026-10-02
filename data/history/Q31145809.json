@@ -6,23 +6,191 @@
   "approx": true,
   "text": "Rokytnické panství vzniklo oddělením od rychnovského roku 1487 a nejpozději v této době bylo v Rokytnici vystavěno panské sídlo charakteru tvrze."
  },
- "summary": "Renesanční zámek v Rokytnici v Orlických horách vznikl přestavbou starší tvrze, kterou po roce 1567 od Sigmunda Licka z Rýzmburka koupili Mauschwitzové z Armenruh a po roce 1600 ji přestavěli na zámek. Od druhé poloviny 17. století patřilo panství rodu Nosticů, kteří jej barokně přestavěli, včetně reprezentativního Sálu předků (1706-1709), a rokytnické panství bylo pro rokytnickou linii rodu až do počátku 19. století jediným sídlem v Čechách. Zámek prošel dalšími úpravami ve 20. století (1936-1937, 1984-1985) a od roku 2011 probíhá jeho postupná obnova.",
+ "summary": "Renesanční zámek v Rokytnici v Orlických horách vznikl po roce 1600 přestavbou tvrze, kterou 1548-1553 postavil Jan Licek z Rýzmburka; 1567 panství koupili Mauschwitzové z Armenruh, po nich krátce Zieglerové z Klipphausenu a od 1627 až do 20. stol. rokytnická linie Nosticů, kteří zámek barokně přestavěli (Sál předků 1706-1709). Majetek zastavený bance přešel 1935 resp. 1940 na banku a 11. 11. 1946 do národní správy, později jej spravovaly Státní statky. Od 2011 probíhá postupná obnova; dnešního vlastníka se nepodařilo ověřit.",
  "owners": [
-  {"owner": "z-ryzmburka", "owner_wiki": null, "person": "Sigmund Licek z Rýzmburka", "from": 1487, "to": 1567, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "odlišná rodina od pánů z Rýzmburka (Hrabišiců); roku 1567 prodal rokytnické panství Joachimovi Mauschwitzovi z Armenruh"},
-  {"owner": "z-armenruh", "owner_wiki": null, "person": "Joachim Mauschwitz z Armenruh, poté syn Kryštof", "from": 1567, "to": null, "from_approx": false, "to_approx": true, "how": "koupe", "note": "Kryštof nechal po roce 1600 tvrz přestavět na renesanční zámek; zdroj neuvádí, do kdy rod panství držel"},
-  {"owner": "nosticove", "owner_wiki": "Nosticové", "person": "Otto svobodný pán z Nostitz", "from": 1650, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "zahájil barokní přestavby ve druhé polovině 17. stol.; rokytnické panství bylo pro rokytnickou linii Nosticů až do počátku 19. stol. jediným sídlem v Čechách"},
-  {"owner": "nosticove", "owner_wiki": "Nosticové", "person": "Kryštof Václav z Nostic", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "dedictvi", "note": "syn Otty, povýšen do hraběcího stavu; nechal strhnout starý palác a vybudovat reprezentativní Sál předků (1706-1709)"},
-  {"owner": "nosticove", "owner_wiki": "Nosticové", "person": "Jan Karel hrabě z Nostitz", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "dedictvi", "note": "prováděl úpravy zámku 1718-1721 a 1734"},
-  {"owner": "nosticove", "owner_wiki": "Nosticové", "person": "Josef hrabě z Nostic", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "dedictvi", "note": "provedl úpravy zámku roku 1855; zdroj dále neuvádí pozdější majitele ani okamžik konce držby rodu - nejisté, zda a kdy zámek přešel na stát (rod byl německého původu, po roce 1945 by bylo možné čekat konfiskaci, ale zdroj to výslovně neuvádí); zámek 1919 nuceně sloužil české obecné škole, 1936-1937 úprava fasády, 1984-1985 necitlivé zásahy, od 2011 postupná obnova"}
+  {
+   "owner": "neznamo",
+   "owner_wiki": null,
+   "person": "Johanka Rychnovská (do 1545 doložena jako majitelka; předtím podle hrady.cz mj. Kuneš Hokovský z Hokova)",
+   "from": null,
+   "to": 1548,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "panství vzniklo 1487 oddělením od rychnovského; majitelka na přelomu 15. a 16. stol., ještě 1545 uváděna při vkladu do zemských desk; po ní zdědily panství její děti z prvního manželství Vlkové z Kvítkova, které je 1548 prodaly; přesné pořadí majitelů před 1548 nebylo ověřeno"
+  },
+  {
+   "owner": "z-ryzmburka",
+   "owner_wiki": null,
+   "person": "Jan Licek z Rýzmburka, od 1553 jeho syn Sigmund (Zikmund) Licek z Rýzmburka",
+   "from": 1548,
+   "to": 1567,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "odlišná rodina od pánů z Rýzmburka (Hrabišiců); Jan je stavitelem rokytnické tvrze (1548-1553); Sigmund musel panství pro dluhy prodat"
+  },
+  {
+   "owner": "z-armenruh",
+   "owner_wiki": null,
+   "person": "Joachim Mauschwitz z Armenruh, od 1585 syn Kryštof",
+   "from": 1567,
+   "to": 1616,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil za 4 000 kop českých grošů; Kryštof nechal po 1600 tvrz přestavět na renesanční zámek (hrady.cz: 1600 zbořit starou tvrz); 1616 zabit svými poddanými"
+  },
+  {
+   "owner": "z-klipphausenu",
+   "owner_wiki": null,
+   "person": "Kryštof Ziegler z Klipphausenu, poté syn Joachim",
+   "from": 1616,
+   "to": 1627,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "zámek-rokytnice.cz uvádí 1616-1627, hrady.cz nástup Jáchyma Zieglera 1617, cs.wiki jen 'zřejmě ještě v průběhu stavovského povstání'; 1627 Joachim panství vyměnil s Janem Mikulášem z Nostitz za Ober Kunewald v Lužici"
+  },
+  {
+   "owner": "nosticove",
+   "owner_wiki": "Nosticové",
+   "from_approx": false,
+   "to_approx": false,
+   "person": "Jan Mikuláš z Nostitz",
+   "from": 1627,
+   "to": 1643,
+   "how": "vymena",
+   "note": "císařský apelační rada; výměna za nostitzské zboží Ober Kunewald v Horní Lužici; jeho syn Otto zakladatelem rokytnické větve rodu"
+  },
+  {
+   "owner": "nosticove",
+   "owner_wiki": "Nosticové",
+   "from_approx": false,
+   "to_approx": false,
+   "person": "Otto z Nostitz",
+   "from": 1643,
+   "to": 1664,
+   "how": "dedictvi",
+   "note": "převzal panství 1643 (zámek-rokytnice.cz), po jeho smrti 1664 poručenská správa do 1670; zahájil barokní přestavby ve druhé polovině 17. stol."
+  },
+  {
+   "owner": "nosticove",
+   "owner_wiki": "Nosticové",
+   "from_approx": false,
+   "to_approx": false,
+   "person": "Kryštof Václav z Nostitz",
+   "from": 1670,
+   "to": 1712,
+   "how": "dedictvi",
+   "note": "syn Otty, 1675 povýšen do hraběcího stavu; 1703-1710 barokní přestavba zámku včetně Sálu předků (cs.wiki 1706-1709); rokytnické panství bylo pro rokytnickou linii až do počátku 19. stol. jediným sídlem v Čechách"
+  },
+  {
+   "owner": "nosticove",
+   "owner_wiki": "Nosticové",
+   "from_approx": false,
+   "to_approx": true,
+   "person": "Jan Karel hrabě z Nostitz",
+   "from": 1712,
+   "to": null,
+   "how": "dedictvi",
+   "note": "syn Kryštofa Václava; úpravy zámku 1718-1721 (přestavba severozápadního křídla) a 1734; konec jeho držby a pořadí dalších majitelů do Josefa zdroje neuvádějí"
+  },
+  {
+   "owner": "nosticove",
+   "owner_wiki": "Nosticové",
+   "from_approx": true,
+   "to_approx": true,
+   "person": "Josef hrabě z Nostitz (1821-1890)",
+   "from": null,
+   "to": 1890,
+   "how": "dedictvi",
+   "note": "majitel 1855 (úpravy zámku); po smrti jediného syna Jana Karla 1873 poslední mužský potomek rokytnické linie; zemřel 1890"
+  },
+  {
+   "owner": "nosticove",
+   "owner_wiki": "Nosticové",
+   "from_approx": true,
+   "to_approx": true,
+   "person": "Marie Anna z Nostitz (dcera Josefa, provdaná 1874 za Karla Erwina z mladší linie Nostitzů) a syn Josef z Nostitz (1878-1946), manželka Rosa rozená Lobkowicz",
+   "from": 1890,
+   "to": 1935,
+   "how": "dedictvi",
+   "note": "1919 přes protesty majitelů zřízena v části zámku česká měšťanská škola; zámek podle zámek-rokytnice.cz drželi do 1935, resp. 1940, kdy zastavený majetek převzala banka; cs.wiki (článek o městě) uvádí držbu Nostitzů do 20. let 20. stol."
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Kreditanstalt der Deutschen (Liberec)",
+   "from": 1935,
+   "to": 1946,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "jine",
+   "note": "banka, které byl majetek zastaven, převzala jej 1935 resp. 1940; podle dekretu prezidenta č. 5/1945 Sb. (§ 15) přešel zámek s bývalým panstvím 11. 11. 1946 do národní správy"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1946,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "od 11. 11. 1946 národní správa; po 2. světové válce svěřen do správy Státních statků; v 2. polovině 20. stol. necitlivé stavební zásahy (1984-1985); dnešní vlastník a vlastnický přechod po 1989 se z dostupných zdrojů (cs.wiki, zámek-rokytnice.cz, hrady.cz) nepodařilo ověřit - záznam proto zůstává otevřený; od 2011 probíhá postupná obnova zámku"
+  }
  ],
  "events": [
-  {"year": 1487, "text": "vznik rokytnického panství oddělením od rychnovského"},
-  {"year": 1567, "text": "Sigmund Licek z Rýzmburka prodal panství Joachimovi Mauschwitzovi z Armenruh"},
-  {"year": 1600, "text": "po roce 1600 přestavba tvrze na renesanční zámek za Kryštofa Mauschwitze"},
-  {"year": 1706, "text": "1706-1709 stržení starého paláce a vznik barokního Sálu předků za Kryštofa Václava z Nostic"},
-  {"year": 1855, "text": "stavební úpravy zámku za Josefa hraběte z Nostic"},
-  {"year": 1936, "text": "1936-1937 úprava fasády, kterou zámek získal dnešní podobu"},
-  {"year": 2011, "text": "zahájena postupná rehabilitace a obnova zámku"}
+  {
+   "year": 1487,
+   "text": "vznik rokytnického panství oddělením od rychnovského"
+  },
+  {
+   "year": 1548,
+   "text": "děti Johanky Rychnovské prodaly panství Janu Lickovi z Rýzmburka, stavebníku rokytnické tvrze"
+  },
+  {
+   "year": 1567,
+   "text": "Sigmund Licek z Rýzmburka prodal panství Joachimovi Mauschwitzovi z Armenruh za 4 000 kop grošů českých"
+  },
+  {
+   "year": 1600,
+   "text": "po roce 1600 přestavba tvrze na renesanční zámek za Kryštofa Mauschwitze"
+  },
+  {
+   "year": 1627,
+   "text": "Joachim Ziegler z Klipphausenu vyměnil panství s Janem Mikulášem z Nostitz"
+  },
+  {
+   "year": 1706,
+   "text": "1706-1709 stržení starého paláce a vznik barokního Sálu předků za Kryštofa Václava z Nostic"
+  },
+  {
+   "year": 1855,
+   "text": "stavební úpravy zámku za Josefa hraběte z Nostic"
+  },
+  {
+   "year": 1919,
+   "text": "v části zámku zřízena přes protesty majitelů česká měšťanská škola"
+  },
+  {
+   "year": 1936,
+   "text": "1936-1937 úprava fasády, kterou zámek získal dnešní podobu"
+  },
+  {
+   "year": 1946,
+   "text": "11. listopadu zámek s panstvím přešel do národní správy podle dekretu č. 5/1945 Sb."
+  },
+  {
+   "year": 2011,
+   "text": "zahájena postupná rehabilitace a obnova zámku"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Rokytnice_v_Orlických_horách_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Rokytnice_v_Orlických_horách_(zámek)",
+  "https://www.zamek-rokytnice.cz/uvod-do-historie-zamku/",
+  "https://www.hrady.cz/index.php?OID=4519",
+  "https://cs.wikipedia.org/wiki/Rokytnice_v_Orlických_horách"
+ ]
 }
