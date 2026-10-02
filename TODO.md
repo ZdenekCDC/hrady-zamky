@@ -108,17 +108,14 @@ Stav k 2026-10-02: web běží na GitHub Pages (<https://zdenekcdc.github.io/hra
 
 ## Priorita 2 - web
 
-- [ ] Dokončit nasazení na GitHub Pages (repo i web už běží):
-  - na Mapy.com klíč (pokud se použije) omezit na doménu Pages,
-  - projít web na mobilu (Safari = jen prohlížeč + export / import).
+- [ ] Projít web na mobilu (Safari = jen prohlížeč + export / import).
 - [ ] Tabulkové zobrazení vlastníků v detailu (přístupnost - barvy ve stroji času rozliší barvoslepý jen omezeně; teď pomáhá jen zvýraznění rodu a tooltip).
 - [ ] Volitelně: statistiky navštíveného (po krajích, typech, rodech).
-- [ ] Volitelně: podklad Mapy.com - připraveno, stačí vložit API klíč do `app/config.js` (viz níže).
 - [ ] Volitelně: rozšířit E2E test o kontrolu obsahu (nyní jen smoke test + screenshoty).
 
 ## API klíč
 
-CARTO (původní světlý podklad) nově vyžaduje API klíč a bez něj ukazuje vodoznak - nahrazen podklady OpenStreetMap a OpenTopoMap, které klíč nepotřebují. Klíč je potřeba jen pro volitelný podklad Mapy.com (vložit do `MAPY_API_KEY` v `app/config.js`, pak se v přepínači vrstev objeví „Mapy.com turistická“ a „Mapy.com základní“):
+CARTO (původní světlý podklad) nově vyžaduje API klíč a bez něj ukazuje vodoznak - nahrazen podklady OpenStreetMap a OpenTopoMap, které klíč nepotřebují. Klíč pro volitelný podklad Mapy.com je vložen v `MAPY_API_KEY` v `app/config.js` a omezen na referer `zdenekcdc.github.io` (jiné domény dostanou 403; pro lokální test je nutné v nastavení klíče povolit i `localhost`). V přepínači vrstev jsou „Mapy.com turistická“ a „Mapy.com základní“):
 
 - zdarma na <https://developer.mapy.com> (přihlášení Seznam účtem -> My Account -> nový projekt, klíč se vytvoří automaticky),
 - tarif Basic: 250 000 kreditů měsíčně zdarma (1 dlaždice = 1 kredit), bez souhlasu se nic neúčtuje,
