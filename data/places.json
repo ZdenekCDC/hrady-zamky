@@ -22907,7 +22907,7 @@
  },
  {
   "id": "Q6835949",
-  "name": "Michalovice",
+  "name": "Michalovice (Putna)",
   "wd_label": "Hrad Michalovice",
   "kind": "zricenina",
   "lat": 50.43614,
@@ -22916,13 +22916,19 @@
   "obec": "Podlázky",
   "founded": null,
   "founded_text": null,
-  "access": "volne",
-  "access_sources": [],
+  "access": "vstupne",
+  "access_sources": [
+   "nipos"
+  ],
   "manager": null,
   "website": null,
   "cswiki": "https://cs.wikipedia.org/wiki/Michalovice_(hrad)",
   "image": "Liebscher, Karel - Michalovice.jpg",
-  "visitors": null,
+  "visitors": {
+   "2025": null,
+   "2024": null,
+   "2023": 6006
+  },
   "nkp": false,
   "unesco": false
  },

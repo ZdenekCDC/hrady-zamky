@@ -138,7 +138,7 @@ def static_visits(pw, opts, errors):
     page.once("dialog", lambda d: d.accept())
     page.click("#v-replace")  # opens the picker only in a real browser; feed the file directly
     page.set_input_files("#v-import-file", str(rep))
-    page.wait_for_selector("#v-msg")
+    page.wait_for_function("document.querySelector('#v-msg')?.innerText.startsWith('Nahrazeno')")
     print("static: replace", page.inner_text("#v-msg"))
     assert "0 nových, 0 změněných, 1 odstraněná" in page.inner_text("#v-msg"), page.inner_text("#v-msg")
     assert visited() == 1
@@ -372,7 +372,8 @@ def main():
         assert tiles[0].split(" / ")[0] == "5", f"stats tile does not match the 5 visited places: {tiles}"
         assert page.locator("#view-stats .bars li").count() > 5, "stats bars missing"
         assert tiles[0].split(" / ")[1] == str(len(DATA_PLACES)), f"stats total places {tiles[0]}, data has {len(DATA_PLACES)}"
-        assert tiles[1].split(" / ")[1] == str(len(DATA_HISTORY)), f"stats histories {tiles[1]}, data has {len(DATA_HISTORY)}"
+        n_open = sum(1 for p in DATA_PLACES if p["access"] == "vstupne")
+        assert tiles[1].split(" / ")[1] == str(n_open), f"stats places with admission {tiles[1]}, data has {n_open}"
         print("stats tiles:", tiles)
         shot("04b-stats")
 
