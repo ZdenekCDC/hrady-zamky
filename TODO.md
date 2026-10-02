@@ -125,18 +125,6 @@ Stav k 2026-10-03: web běží na GitHub Pages (<https://zdenekcdc.github.io/hra
   - Piktogramy: návrhy všech druhů jsou jen lokálně v `piktogramy/index.html` (složka je v `.gitignore`, v gitu nejsou - při ztrátě disku zmizí). Vybráno: `zamek` = pohádkový (několik kuželových věží, brána), `hradozamek` = hradní věž s cimbuřím vlevo + kuželové věže a brána vpravo, `hrad`, `zricenina` přepracované podle PDF VL 6.1 (Ministerstvo dopravy 2019, jen inspirace, ne kopie); nevybrané alternativy jsou ve stejném souboru v sekci dole. Nové druhy s návrhem: tvrz, klášter, kostel, usedlost, hospitál / invalidovna, důl (zkřížená kladiva), vila, areál (kolonáda), zahrada (strom), pevnost, městské opevnění, kostnice (lebka), krypta / katakomby; jejich barvy jsou jen odhad. Při zapojení do `PICTOGRAMS` v `app/map.js` musí `glyph()` kreslit s `fill-rule="evenodd"` (v obrysu i v lemu) - většina nových tvarů má otvory (dveře, okna, kříž, oči) a bez toho by se nevykreslily.
   - Městské opevnění: po vyřazení hypotetického hradu Dvůr Králové (`Q80102912`, 2026-10-02) v mapě chybí Šindelářská věž a zbytky hradeb ve Dvoře Králové nad Labem (hrady-zriceniny.cz je vede jako „předpokládaný hrad“, ve skutečnosti jde o městské opevnění, kulturní památka). Patří pod nový druh „městské opevnění“; hrady-zriceniny.cz má stejně označené i jiná města, ověřit při zavádění druhu.
 
-## Priorita 2 - web
-
-- [ ] Projít web na mobilu (Safari = jen prohlížeč + export / import).
-
-## API klíč
-
-CARTO (původní světlý podklad) nově vyžaduje API klíč a bez něj ukazuje vodoznak - nahrazen podklady OpenStreetMap a OpenTopoMap, které klíč nepotřebují. Klíč pro volitelný podklad Mapy.com je vložen v `MAPY_API_KEY` v `app/config.js` a omezen na referer `zdenekcdc.github.io` (jiné domény dostanou 403; pro lokální test je nutné v nastavení klíče povolit i `localhost`). V přepínači vrstev jsou „Mapy.com turistická“ a „Mapy.com základní“):
-
-- zdarma na <https://developer.mapy.com> (přihlášení Seznam účtem -> My Account -> nový projekt, klíč se vytvoří automaticky),
-- tarif Basic: 250 000 kreditů měsíčně zdarma (1 dlaždice = 1 kredit), bez souhlasu se nic neúčtuje,
-- ve statickém webu je klíč veřejně vidět - v nastavení klíče omezit na doménu (localhost / GitHub Pages).
-
 ## Návštěvy pro více uživatelů
 
 - [ ] Volitelně později, pokud to bude používat víc lidí napříč zařízeními i ve Firefoxu / Safari: hostovaný backend (Supabase / Firebase) s přihlášením; stávající režimy nechat jako variantu bez účtu. Ověřit aktuální limity bezplatných tarifů a GDPR (ukládání e-mailů).
