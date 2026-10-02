@@ -2,6 +2,7 @@
 import { KIND, esc, loadAll } from "./data.js";
 import { initFamilies, showFamilies } from "./families.js";
 import { initMap, invalidate, showMapHome, showPlace } from "./map.js";
+import { initStats, showStats } from "./stats.js";
 import { initVisits } from "./visits.js";
 
 let D;
@@ -9,6 +10,7 @@ let D;
 function setView(name) {
   document.getElementById("view-map").hidden = name !== "map";
   document.getElementById("view-families").hidden = name !== "families";
+  document.getElementById("view-stats").hidden = name !== "stats";
   document.querySelectorAll(".tabs a").forEach((a) => a.classList.toggle("active", a.dataset.view === name));
   if (name === "map") invalidate();
 }
@@ -16,6 +18,7 @@ function setView(name) {
 function route() {
   const [, kind, id] = location.hash.replace(/^#/, "").split("/");
   if (kind === "misto" && id) { setView("map"); showPlace(decodeURIComponent(id)); }
+  else if (kind === "statistiky") { setView("stats"); showStats(); }
   else if (kind === "rody") { setView("families"); showFamilies(null); }
   else if (kind === "rod" && id) { setView("families"); showFamilies(decodeURIComponent(id)); }
   else { setView("map"); showMapHome(); }
@@ -75,6 +78,7 @@ async function main() {
   await initVisits(D);
   initMap(D);
   initFamilies(D);
+  initStats(D);
   initSearch();
   renderStats();
   window.addEventListener("hashchange", route);

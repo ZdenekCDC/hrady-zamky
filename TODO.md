@@ -109,7 +109,6 @@ Stav k 2026-10-02: web běží na GitHub Pages (<https://zdenekcdc.github.io/hra
 ## Priorita 2 - web
 
 - [ ] Projít web na mobilu (Safari = jen prohlížeč + export / import).
-- [ ] Volitelně: statistiky navštíveného (po krajích, typech, rodech).
 - [ ] Volitelně: rozšířit E2E test o kontrolu obsahu (nyní jen smoke test + screenshoty).
 
 ## API klíč

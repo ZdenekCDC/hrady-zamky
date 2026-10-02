@@ -330,6 +330,14 @@ def main():
         print("family:", page.inner_text(".family-detail h2"), "| places:", page.locator("#family-gantt .row").count())
         shot("05-family")
 
+        page.goto(base + "#/statistiky")
+        page.wait_for_selector("#view-stats .tile")
+        tiles = page.locator("#view-stats .tile b").all_inner_texts()
+        assert tiles[0].split(" / ")[0] == "5", f"stats tile does not match the 5 visited places: {tiles}"
+        assert page.locator("#view-stats .bars li").count() > 5, "stats bars missing"
+        print("stats tiles:", tiles)
+        shot("04b-stats")
+
         page.goto(base + "#/misto/Q655633")  # Pernštejn, not visited
         page.wait_for_selector("#d-visit-form")
         page.click("[data-star='4']")

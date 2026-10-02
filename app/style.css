@@ -122,7 +122,7 @@ select, input[type=search], input[type=number] {
 main { flex: 1; min-height: 0; display: flex; }
 .view { flex: 1; min-height: 0; }
 #view-map { display: flex; }
-#view-map[hidden], #view-families[hidden] { display: none; }
+#view-map[hidden], #view-families[hidden], #view-stats[hidden] { display: none; }
 #map { flex: 1; min-width: 0; }
 #sidebar {
   width: 400px; flex: none; overflow-y: auto; background: var(--surface-1);
@@ -230,7 +230,18 @@ main { flex: 1; min-height: 0; display: flex; }
 #tooltip .t { font-weight: 600; margin-bottom: 2px; }
 
 /* families view */
-#view-families { overflow-y: auto; }
+#view-families, #view-stats { overflow-y: auto; }
+.stats-page { max-width: 1100px; margin: 0 auto; padding: 20px 24px 40px; }
+.tiles { display: flex; gap: 12px; flex-wrap: wrap; margin: 12px 0 8px; }
+.tile { background: var(--page); border-radius: 8px; padding: 10px 16px; display: flex; flex-direction: column; min-width: 180px; }
+.tile b { font-size: 26px; font-variant-numeric: tabular-nums; }
+.tile span { color: var(--text-secondary); font-size: 12px; }
+.stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 0 32px; }
+.bars { list-style: none; padding: 0; margin: 0; }
+.bars li { display: grid; grid-template-columns: minmax(90px, 40%) 1fr 56px; gap: 8px; align-items: center; padding: 2px 0; }
+.bar-track { height: 8px; background: var(--border); border-radius: 4px; overflow: hidden; }
+.bar-fill { display: block; height: 100%; background: var(--accent); border-radius: 4px; }
+.bar-n { text-align: right; color: var(--text-secondary); font-variant-numeric: tabular-nums; white-space: nowrap; }
 .families-layout { display: grid; grid-template-columns: 320px 1fr; min-height: 100%; }
 .family-list { border-right: 1px solid var(--border); background: var(--surface-1); padding: 12px; overflow-y: auto; }
 .family-list input[type=search], .family-list select { width: 100%; margin-bottom: 8px; }
