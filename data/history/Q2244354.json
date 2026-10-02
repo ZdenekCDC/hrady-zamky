@@ -112,10 +112,10 @@
    "person": null,
    "from": 1918,
    "to": null,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
-   "how": "jine",
-   "note": "po 1. světové válce přešel do majetku československého státu, spravován Československými státními lesy a statky (od 1949 Československé státní statky); 1951 zpřístupněn veřejnosti, dnes ve správě Národního památkového ústavu, od 2002 národní kulturní památka"
+   "how": "konfiskace",
+   "note": "roku 1918, po zániku monarchie, přešel zámek spolu s ostatními císařskými statky do vlastnictví československého státu (oficiální web zámku, turistika.cz); sloužil Československým státním lesům a statkům (od 1949 Československé státní statky), 1951 zpřístupněn veřejnosti, dnes ve správě Národního památkového ústavu, od 2002 národní kulturní památka. Zdroje uvádějí stát, ne město"
   }
  ],
  "events": [
@@ -153,6 +153,8 @@
   }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Zákupy_(zámek)"
+  "https://cs.wikipedia.org/wiki/Zákupy_(zámek)",
+  "https://www.zamek-zakupy.cz/cs/o-zamku/historie",
+  "https://www.turistika.cz/mista/zakupy-zamek-zamecky-park-a-medved/detail"
  ]
 }

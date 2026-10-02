@@ -10,15 +10,15 @@ Stav k 2026-10-02: web běží na GitHub Pages (<https://zdenekcdc.github.io/hra
   - Dobříš - pořadí zástavních držitelů ověřeno z cs.wiki; neznámé, kdy králi skončila držba před Štěpánem z Tetína a kdy Jiří z Poděbrad Dobříš vykoupil.
   - Velhartice - chronologie 14. stol. opravena; majitelé 1670-1848 bez let, řada roků (Menhart II., Rýzmberkové, Huert...) `null`.
   - Vranov nad Dyjí - roky 1516-1680 doplněny z cs.wiki (obec); začátek Althannů 1614 vs. 1617, konec Čertorejského, začátek Ditrichštejnů a konec Štrejna `null`.
-  - Jindřichův Hradec, Valdštejn, Zákupy - rok přechodu na stát / město odhadnutý.
+  - Valdštejn - přesný rok převodu na město Turnov (po konfiskaci 1945) a případná mezi-správa státu neověřeny.
   - Kunětická hora - přiřazení hradu k pardubickému panství 1856-1881 (banka, úvěrní ústav, Drasche 1881) je odvozené z textů o panství.
   - Hukvaldy - kdy hrad přestal patřit arcibiskupství a dnešní vlastník nezjištěn (správce Muzeum Beskyd Frýdek-Místek); poslední záznam `cirkev` otevřený.
   - Kokořín - 15.-19. stol. doplněno hlavně z komerčního webu 3dcesko.cz (v poznámkách označeno), roky většiny majitelů 1620-1807 neznámé, 1894 (cs.wiki) vs. 1896 (web hradu) u koupě Špačkem; `z-reillyu` je jen slug (O'Reillyová).
   - Nový Hrádek - roky 6 majitelů v 16. stol. dopočítané; konec držby Mniszků / Stadnických odhadnutý.
-  - Třeboň - mezidobí 1621-1660 přiřazeno koruně (zdroj neuvádí přesně).
+  - Třeboň - 1621-1660 `koruna`: cs.wiki zná krátkou držbu Eggenbergů, web zámku panovníka do 1660; roky Eggenbergů žádný zdroj neuvádí.
   - Zruč nad Sázavou (27 vlastníků) a Milotice - řada roků v 16.-19. stol. dopočítaná; Milotice: souběh Choiseul d'Aillecourt / Hardeggové 1811-1888 nejasný.
   - Žebrák - mezera mezi Kolovraty (~1460) a Krajíři z Krajku; Točník - zástavy 1723-1864 jen rámcově.
-  - Opočno - 1431-1455 `neznamo` (spor uzurpátorů); `stat` 1942-1945 je fakticky protektorátní správa; příslušnost Jana z Janovic a Prešpurka k Janovicům odvozená z predikátu.
+  - Opočno - 1431-1451 `neznamo` (zdroje se v pořadí Jiřího z Dubé, Suchana a Svojšeho rozcházejí); `stat` 1942-1945 je fakticky Velkoněmecká říše (id není); příslušnost Jana z Janovic a Petršpurka k Janovicům žádný zdroj neuvádí.
   - Náchod - Jetřich z Janovic (do 1412) veden jako `z-janovic`, nejasné, zda patří k `janovici`; řada mezivládců bez let.
   - Ratibořice - konec držby Smiřických (~1621) odhadnutý; Kratochvíle - vymření Eggenbergů (1719) a pozemková reforma (1923) odhadnuté.
   - Hrádek u Nechanic - počátek držby Schaffgotschů neznámý.

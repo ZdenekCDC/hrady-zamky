@@ -8530,7 +8530,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "neznamo",
-    "note": "pokračovali v úpravě poutního místa (vstupní brána 1836); přesné okolnosti nabytí a ztráty majetku nejsou v článku uvedeny"
+    "note": "pokračovali v úpravě poutního místa (vstupní brána 1836); hruboskalské panství s hradem koupil roku 1821 Jan Lexa z Aehrenthalu od Františka Adama z Valdštejna; majetek rodu zkonfiskován roku 1945 na základě Benešových dekretů (Český rozhlas 2008, Interregion)"
    },
    {
     "owner": "mesto",
@@ -8539,8 +8539,8 @@
     "to": null,
     "from_approx": true,
     "to_approx": false,
-    "how": "neznamo",
-    "note": "dnes je zřícenina v držení města Turnova; přesné datum a okolnosti přechodu z majetku Aehrenthalů nejsou v článku uvedeny"
+    "how": "konfiskace",
+    "note": "dnes je zřícenina v držení města Turnova; podle Interregionu město hrad získalo po poválečné konfiskaci (1945), podle cs.wiki Aehrenthalům patřil do 1945; přesný rok převodu na město (a případná mezi-správa státu) se nepodařilo ověřit, proto 1945 zůstává přibližné. V restitučním řízení 2008 se Aehrenthalové slíbili hrad nežádat"
    }
   ],
   "events": [
@@ -8574,7 +8574,9 @@
    }
   ],
   "sources": [
-   "https://cs.wikipedia.org/wiki/Valdštejn_(hrad)"
+   "https://cs.wikipedia.org/wiki/Valdštejn_(hrad)",
+   "http://www.interregion.cz/turistika/hrady_zamky/valdstejn/valdstejn.htm",
+   "https://cesky.radio.cz/hrad-valdstejn-slibili-aehrenthalove-ponechat-turnovu-8452707"
   ]
  },
  "Q1014368": {
@@ -26030,20 +26032,20 @@
     "from": 1621,
     "to": 1660,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "konfiskace",
-    "note": "třeboňské panství zkonfiskováno císařem po Bílé hoře; přesné mezidržení do prodeje Schwarzenberkům není v článku popsáno"
+    "note": "třeboňské panství zkonfiskováno císařem po Bílé hoře (město se vzdalo v únoru 1622); podle zámku Třeboň a diplomové práce ZČU zůstalo v majetku panovníka do 1660. Zdroje se liší: cs.wiki (Dějiny Třeboně, Eggenbergové, Rožmberská a schwarzenberská hrobka) uvádí, že Třeboň velmi krátce držel rod Eggenbergů a Schwarzenbergové ji roku 1660 získali od nich; roky držby Eggenbergů žádný zdroj neuvádí, proto nejsou zaneseny zvlášť"
    },
    {
     "owner": "schwarzenbergove",
     "owner_wiki": "Schwarzenbergové",
-    "person": "Jan Adolf II. ze Schwarzenbergu a další",
+    "person": "Jan Adolf I. ze Schwarzenbergu",
     "from": 1660,
     "to": 1940,
     "from_approx": false,
     "to_approx": false,
-    "how": "koupe",
-    "note": "obohatili zámek barokními dostavbami; po pozemkové reformě ve 20. letech 20. stol. jim zůstala jen budova zámku, pronajímaná v létě jako hotel"
+    "how": "jine",
+    "note": "Třeboňské panství dostal do zástavy od arcivévody Leopolda Viléma za půjčky (ten jej roku 1651 učinil univerzálním dědicem); inkolát 1658, panství se dostalo do jeho rukou 1660 (cs.wiki: koupě od Eggenbergů, diplomová práce: přenecháno jako náhrada za půjčky). Obohatili zámek barokními dostavbami; po pozemkové reformě ve 20. letech 20. stol. jim zůstala jen budova zámku, pronajímaná v létě jako hotel"
    },
    {
     "owner": "stat",
@@ -26087,12 +26089,20 @@
     "text": "třeboňské panství zkonfiskováno Švamberkům po Bílé hoře"
    },
    {
+    "year": 1660,
+    "text": "Schwarzenbergové (Jan Adolf I.) získávají třeboňské panství"
+   },
+   {
     "year": 1947,
     "text": "zámek znárodněn po poválečné národní správě"
    }
   ],
   "sources": [
-   "https://cs.wikipedia.org/wiki/Třeboň_(zámek)"
+   "https://cs.wikipedia.org/wiki/Třeboň_(zámek)",
+   "https://cs.wikipedia.org/wiki/Jan_Adolf_I._ze_Schwarzenbergu",
+   "https://cs.wikipedia.org/wiki/Dějiny_Třeboně",
+   "https://www.zamek-trebon.cz/cs/o-zamku/historie-zamku",
+   "https://www.npu.cz/cs/hrady-a-zamky/tipy-na-vylet/49340-trebonsky-zamek-v-krajine-dvojiho-nebe"
   ]
  },
  "Q1752882": {
@@ -34602,10 +34612,10 @@
     "person": null,
     "from": 1918,
     "to": null,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false,
-    "how": "jine",
-    "note": "po 1. světové válce přešel do majetku československého státu, spravován Československými státními lesy a statky (od 1949 Československé státní statky); 1951 zpřístupněn veřejnosti, dnes ve správě Národního památkového ústavu, od 2002 národní kulturní památka"
+    "how": "konfiskace",
+    "note": "roku 1918, po zániku monarchie, přešel zámek spolu s ostatními císařskými statky do vlastnictví československého státu (oficiální web zámku, turistika.cz); sloužil Československým státním lesům a statkům (od 1949 Československé státní statky), 1951 zpřístupněn veřejnosti, dnes ve správě Národního památkového ústavu, od 2002 národní kulturní památka. Zdroje uvádějí stát, ne město"
    }
   ],
   "events": [
@@ -34643,7 +34653,9 @@
    }
   ],
   "sources": [
-   "https://cs.wikipedia.org/wiki/Zákupy_(zámek)"
+   "https://cs.wikipedia.org/wiki/Zákupy_(zámek)",
+   "https://www.zamek-zakupy.cz/cs/o-zamku/historie",
+   "https://www.turistika.cz/mista/zakupy-zamek-zamecky-park-a-medved/detail"
   ]
  },
  "Q2244371": {
@@ -43237,19 +43249,19 @@
     "from": 1694,
     "to": 1945,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "snatek",
-    "note": "sňatek Heřmana Jakuba Černína s Marií Josefou Slavatovou; velký požár 1773 zničil třetí nádvoří; rozsáhlá obnova za Evžena II. Jaromíra Černína od 1906, přerušená pozemkovou reformou; přesné datum a okolnosti přechodu do vlastnictví státu nejsou v článku uvedeny"
+    "note": "sňatek Heřmana Jakuba Černína s Marií Josefou Slavatovou; velký požár 1773 zničil třetí nádvoří; rozsáhlá obnova za Evžena II. Jaromíra Černína od 1906, přerušená pozemkovou reformou; Černínům patřil zámek až do roku 1945 (oficiální web zámku, cs.wiki Černínové z Chudenic)"
    },
    {
     "owner": "stat",
     "person": null,
     "from": 1945,
     "to": null,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false,
-    "how": "neznamo",
-    "note": "dnes majetek státu ve správě Národního památkového ústavu; přesné datum a způsob zestátnění článek neuvádí"
+    "how": "konfiskace",
+    "note": "roku 1945 konfiskován na základě dekretu prezidenta republiky č. 12/1945 Sb. (oficiální web zámku); dnes majetek státu ve správě Národního památkového ústavu; přesné datum v rámci roku 1945 zdroje neuvádějí"
    }
   ],
   "events": [
@@ -43282,12 +43294,18 @@
     "text": "začátek rozsáhlé obnovy nejstarších částí zámku za Evžena II. Jaromíra Černína"
    },
    {
+    "year": 1945,
+    "text": "zámek konfiskován Černínům na základě dekretu prezidenta republiky č. 12/1945 Sb., připadl státu"
+   },
+   {
     "year": 1995,
     "text": "zámek zapsán na seznam národních kulturních památek"
    }
   ],
   "sources": [
-   "https://cs.wikipedia.org/wiki/Jindřichův_Hradec_(zámek)"
+   "https://cs.wikipedia.org/wiki/Jindřichův_Hradec_(zámek)",
+   "https://www.zamek-jindrichuvhradec.cz/cs/o-zamku/historie",
+   "https://cs.wikipedia.org/wiki/Černínové_z_Chudenic"
   ]
  },
  "Q369694": {
@@ -43517,7 +43535,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "neznamo",
-    "note": "vlastnictví je podle cs.wiki nejasné a sporné mezi uvedenými osobami; Petr Svojše je popisován jako uzurpátor, proti němuž byla vedena trestná výprava"
+    "note": "vlastnictví je podle cs.wiki, oficiálního webu zámku i Historické šlechty nejasné a sporné; uváděni jsou Jiří z Dubé a Vízmburku (oficiální web: 1431? - 1450, cs.wiki: do 1441, Sedláček jej neuvádí), Mikuláš Suchan z Libáně († 1451; doložen až dodatečně k 1455, pořadí vůči Svojšovi se u zdrojů liší) a Petr Svojše ze Zahrádky (uzurpátor kolem 1450, proti němu trestná výprava); jednoznačné pořadí ani roky držby žádný zdroj neuvádí, proto zůstává jako neznámé"
    },
    {
     "owner": "koruna",
@@ -43568,11 +43586,11 @@
     "owner_wiki": null,
     "person": "Samuel z Hrádku a Valečova",
     "from": 1481,
-    "to": 1488,
+    "to": 1487,
     "from_approx": false,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "strýc Viktorína"
+    "note": "strýc Viktorína; držel od zhruba 1481 podle dědické smlouvy, před smrtí 1488 panství prodal (cs.wiki: Jan z Janovic koupí od 1487, oficiální web: 1488)"
    },
    {
     "owner": "janovici",
@@ -43583,7 +43601,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "přiřazení k rodu Janoviců je odvozené z predikátu, cs.wiki explicitně rodovou příslušnost neuvádí"
+    "note": "přiřazení k rodu Janoviců je neověřené: cs.wiki ani oficiální web zámku (Jan z Janovic a Petršpurka) ani Historická šlechta (uvádí Jan z Petrovic a Petršpurka) rodovou příslušnost neuvádějí, odvozeno jen z predikátu; koupil panství od Samuela z Hrádku před rokem 1488, rok 1495 koupě Trčky (v literatuře 1493-1495)"
    },
    {
     "owner": "trckove-z-lipy",
@@ -43703,7 +43721,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "konfiskace",
-    "note": "po přihlášení Josefa Leopolda Colloredo-Mansfelda a rodiny k české národnosti byla uvalena nucená správa a roku 1942 zámek zkonfiskovaly německé (protektorátní) úřady"
+    "note": "po přihlášení Josefa Leopolda Colloredo-Mansfelda a rodiny k české národnosti byla uvalena nucená správa a roku 1942 zámek zkonfiskovaly německé (protektorátní) úřady; oficiální web zámku uvádí jako majitele 1942-1945 Velkoněmeckou říši; ve SCHEMA.md není id pro okupační správu, proto zůstává stat"
    },
    {
     "owner": "stat",
@@ -43774,7 +43792,10 @@
    }
   ],
   "sources": [
-   "https://cs.wikipedia.org/wiki/Opočno_(zámek)"
+   "https://cs.wikipedia.org/wiki/Opočno_(zámek)",
+   "https://www.zamek-opocno.cz/cs/o-zamku/historicke-udalosti-a-majitele",
+   "https://www.historickaslechta.cz/mista/opocno-zamek/",
+   "https://cs.wikipedia.org/wiki/Opočno"
   ]
  },
  "Q369715": {

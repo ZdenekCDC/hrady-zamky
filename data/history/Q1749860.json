@@ -48,20 +48,20 @@
    "from": 1621,
    "to": 1660,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "konfiskace",
-   "note": "třeboňské panství zkonfiskováno císařem po Bílé hoře; přesné mezidržení do prodeje Schwarzenberkům není v článku popsáno"
+   "note": "třeboňské panství zkonfiskováno císařem po Bílé hoře (město se vzdalo v únoru 1622); podle zámku Třeboň a diplomové práce ZČU zůstalo v majetku panovníka do 1660. Zdroje se liší: cs.wiki (Dějiny Třeboně, Eggenbergové, Rožmberská a schwarzenberská hrobka) uvádí, že Třeboň velmi krátce držel rod Eggenbergů a Schwarzenbergové ji roku 1660 získali od nich; roky držby Eggenbergů žádný zdroj neuvádí, proto nejsou zaneseny zvlášť"
   },
   {
    "owner": "schwarzenbergove",
    "owner_wiki": "Schwarzenbergové",
-   "person": "Jan Adolf II. ze Schwarzenbergu a další",
+   "person": "Jan Adolf I. ze Schwarzenbergu",
    "from": 1660,
    "to": 1940,
    "from_approx": false,
    "to_approx": false,
-   "how": "koupe",
-   "note": "obohatili zámek barokními dostavbami; po pozemkové reformě ve 20. letech 20. stol. jim zůstala jen budova zámku, pronajímaná v létě jako hotel"
+   "how": "jine",
+   "note": "Třeboňské panství dostal do zástavy od arcivévody Leopolda Viléma za půjčky (ten jej roku 1651 učinil univerzálním dědicem); inkolát 1658, panství se dostalo do jeho rukou 1660 (cs.wiki: koupě od Eggenbergů, diplomová práce: přenecháno jako náhrada za půjčky). Obohatili zámek barokními dostavbami; po pozemkové reformě ve 20. letech 20. stol. jim zůstala jen budova zámku, pronajímaná v létě jako hotel"
   },
   {
    "owner": "stat",
@@ -105,11 +105,19 @@
    "text": "třeboňské panství zkonfiskováno Švamberkům po Bílé hoře"
   },
   {
+   "year": 1660,
+   "text": "Schwarzenbergové (Jan Adolf I.) získávají třeboňské panství"
+  },
+  {
    "year": 1947,
    "text": "zámek znárodněn po poválečné národní správě"
   }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Třeboň_(zámek)"
+  "https://cs.wikipedia.org/wiki/Třeboň_(zámek)",
+  "https://cs.wikipedia.org/wiki/Jan_Adolf_I._ze_Schwarzenbergu",
+  "https://cs.wikipedia.org/wiki/Dějiny_Třeboně",
+  "https://www.zamek-trebon.cz/cs/o-zamku/historie-zamku",
+  "https://www.npu.cz/cs/hrady-a-zamky/tipy-na-vylet/49340-trebonsky-zamek-v-krajine-dvojiho-nebe"
  ]
 }

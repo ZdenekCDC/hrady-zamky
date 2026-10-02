@@ -101,7 +101,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "vlastnictví je podle cs.wiki nejasné a sporné mezi uvedenými osobami; Petr Svojše je popisován jako uzurpátor, proti němuž byla vedena trestná výprava"
+   "note": "vlastnictví je podle cs.wiki, oficiálního webu zámku i Historické šlechty nejasné a sporné; uváděni jsou Jiří z Dubé a Vízmburku (oficiální web: 1431? - 1450, cs.wiki: do 1441, Sedláček jej neuvádí), Mikuláš Suchan z Libáně († 1451; doložen až dodatečně k 1455, pořadí vůči Svojšovi se u zdrojů liší) a Petr Svojše ze Zahrádky (uzurpátor kolem 1450, proti němu trestná výprava); jednoznačné pořadí ani roky držby žádný zdroj neuvádí, proto zůstává jako neznámé"
   },
   {
    "owner": "koruna",
@@ -152,11 +152,11 @@
    "owner_wiki": null,
    "person": "Samuel z Hrádku a Valečova",
    "from": 1481,
-   "to": 1488,
+   "to": 1487,
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "strýc Viktorína"
+   "note": "strýc Viktorína; držel od zhruba 1481 podle dědické smlouvy, před smrtí 1488 panství prodal (cs.wiki: Jan z Janovic koupí od 1487, oficiální web: 1488)"
   },
   {
    "owner": "janovici",
@@ -167,7 +167,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "přiřazení k rodu Janoviců je odvozené z predikátu, cs.wiki explicitně rodovou příslušnost neuvádí"
+   "note": "přiřazení k rodu Janoviců je neověřené: cs.wiki ani oficiální web zámku (Jan z Janovic a Petršpurka) ani Historická šlechta (uvádí Jan z Petrovic a Petršpurka) rodovou příslušnost neuvádějí, odvozeno jen z predikátu; koupil panství od Samuela z Hrádku před rokem 1488, rok 1495 koupě Trčky (v literatuře 1493-1495)"
   },
   {
    "owner": "trckove-z-lipy",
@@ -287,7 +287,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "po přihlášení Josefa Leopolda Colloredo-Mansfelda a rodiny k české národnosti byla uvalena nucená správa a roku 1942 zámek zkonfiskovaly německé (protektorátní) úřady"
+   "note": "po přihlášení Josefa Leopolda Colloredo-Mansfelda a rodiny k české národnosti byla uvalena nucená správa a roku 1942 zámek zkonfiskovaly německé (protektorátní) úřady; oficiální web zámku uvádí jako majitele 1942-1945 Velkoněmeckou říši; ve SCHEMA.md není id pro okupační správu, proto zůstává stat"
   },
   {
    "owner": "stat",
@@ -324,14 +324,43 @@
   }
  ],
  "events": [
-  {"year": 1330, "text": "na místě staršího hradiště vybudován gotický hrad rodu Drslaviců"},
-  {"year": 1425, "text": "hrad dobyt a pobořen sirotky"},
-  {"year": 1567, "text": "dokončena přestavba hradu na renesanční zámek Vilémem Trčkou z Lípy"},
-  {"year": 1635, "text": "po zavraždění Adama Erdmana Trčky v Chebu konfiskován majetek Trčků, panství získávají Colloredové"},
-  {"year": 1690, "text": "rozsáhlý požár zámku, následná barokní přestavba (mj. Giovanni Battista Alliprandi)"},
-  {"year": 1813, "text": "na zámku proběhlo jednání protinapoleonské koalice za účasti cara Alexandra, pruského krále a kancléře Metternicha"},
-  {"year": 1942, "text": "zámek zkonfiskován nacistickými úřady po přihlášení rodiny Colloredo-Mansfeld k české národnosti"},
-  {"year": 1945, "text": "na základě Benešových dekretů zámek znovu konfiskován a připadl státu"}
+  {
+   "year": 1330,
+   "text": "na místě staršího hradiště vybudován gotický hrad rodu Drslaviců"
+  },
+  {
+   "year": 1425,
+   "text": "hrad dobyt a pobořen sirotky"
+  },
+  {
+   "year": 1567,
+   "text": "dokončena přestavba hradu na renesanční zámek Vilémem Trčkou z Lípy"
+  },
+  {
+   "year": 1635,
+   "text": "po zavraždění Adama Erdmana Trčky v Chebu konfiskován majetek Trčků, panství získávají Colloredové"
+  },
+  {
+   "year": 1690,
+   "text": "rozsáhlý požár zámku, následná barokní přestavba (mj. Giovanni Battista Alliprandi)"
+  },
+  {
+   "year": 1813,
+   "text": "na zámku proběhlo jednání protinapoleonské koalice za účasti cara Alexandra, pruského krále a kancléře Metternicha"
+  },
+  {
+   "year": 1942,
+   "text": "zámek zkonfiskován nacistickými úřady po přihlášení rodiny Colloredo-Mansfeld k české národnosti"
+  },
+  {
+   "year": 1945,
+   "text": "na základě Benešových dekretů zámek znovu konfiskován a připadl státu"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Opočno_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Opočno_(zámek)",
+  "https://www.zamek-opocno.cz/cs/o-zamku/historicke-udalosti-a-majitele",
+  "https://www.historickaslechta.cz/mista/opocno-zamek/",
+  "https://cs.wikipedia.org/wiki/Opočno"
+ ]
 }
