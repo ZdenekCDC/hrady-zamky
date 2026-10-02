@@ -1002,8 +1002,8 @@
     "note": "hrad stavěn v následujícím desetiletí po povolení 1349; od 1394 jej držel Jindřich III. z Rožmberka (roku 1394 zde vězněn král Václav IV.), po jeho smrti 1412 Oldřich II. z Rožmberka, který hrad na počátku husitských válek postoupil Vilémovi z Potštejna"
    },
    {
-    "owner": "z-potstejna",
-    "owner_wiki": null,
+    "owner": "pani-z-potstejna-a-litic",
+    "owner_wiki": "Páni z Potštejna a Litic",
     "person": "Vilém z Potštejna",
     "from": 1420,
     "to": 1426,
@@ -6094,8 +6094,8 @@
     "note": "roku 1401 jmenoval purkrabím Petra z Ořecha; roku 1406 vyměnil Přimdu s Borešem z Rýzmburka za Andělskou horu"
    },
    {
-    "owner": "z-ryzmburka",
-    "owner_wiki": null,
+    "owner": "pani-z-ryzmburka",
+    "owner_wiki": "Páni z Rýzmburka",
     "person": "Boreš a Boreš mladší z Rýzmburka",
     "from": 1406,
     "to": 1418,
@@ -12613,7 +12613,7 @@
    "approx": true,
    "text": "Zdeněk z Valdštejna hodlal hrad založit před rokem 1436, výslovně je zmiňován až roku 1444; nahradil zbořený a opuštěný hrad Rokštejn"
   },
-  "summary": "Vrcholně gotický hrad Brtnice založil na konci husitských válek Zdeněk z Valdštejna jako náhradu za zbořený hrad Rokštejn; v renesanci za Valdštejnů dostal definitivní trojdílnou dispozici. Po Bílé hoře byl valdštejnský majetek zkonfiskován a roku 1622 jej koupil Rambaldo XII. Collalto, jehož rod zámek barokně i novogoticky upravoval a držel až do roku 1945, kdy byl collaltovský velkostatek zkonfiskován a zámek zestátněn. Po roce 1989 se o vlastnictví chátrajícího zámku vedou dosud neukončené soudní spory mezi Stavebním bytovým družstvem Svébyt v likvidaci a Nadací Svébyt, která zámek od roku 2011 částečně zpřístupňuje veřejnosti a postupně opravuje.",
+  "summary": "Vrcholně gotický hrad Brtnice založil na konci husitských válek Zdeněk z Valdštejna jako náhradu za zbořený hrad Rokštejn; v renesanci za Valdštejnů dostal definitivní trojdílnou dispozici. Po Bílé hoře byl valdštejnský majetek zkonfiskován a roku 1622 jej koupil Rambaldo XII. Collalto, jehož rod zámek barokně i novogoticky upravoval a držel až do roku 1945, kdy byl collaltovský velkostatek zkonfiskován a zámek zestátněn. Po roce 1989 se o vlastnictví chátrajícího zámku vedly dlouhé soudní spory mezi Stavebním bytovým družstvem Svébyt v likvidaci a Nadací Svébyt; dnes zámek vlastní Spolek Svébyt Brtnice (Oleg Rybnikář), který jej částečně zpřístupňuje a nabízí k prodeji investorovi.",
   "owners": [
    {
     "owner": "valdstejnove",
@@ -12726,13 +12726,23 @@
    },
    {
     "owner": "soukromnik",
-    "person": "Stavební bytové družstvo Svébyt (předseda Oleg Rybnikář) a navazující společnosti, později Nadace Svébyt",
+    "person": "Stavební bytové družstvo Svébyt (předseda Oleg Rybnikář) a navazující společnosti, poté Nadace Svébyt",
     "from": 1989,
+    "to": 2017,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "jine",
+    "note": "po revoluci předseda SBD Svébyt zámek převedl na několik jím řízených společností, naposledy Nadaci Svébyt; o vlastnictví se vedly vleklé spory mezi Nadací a SBD Svébyt v likvidaci (2009 krajský soud přiřkl SBD, 1. 3. 2012 soud Nadaci, dovolání k Nejvyššímu soudu); podle katastru byla roku 2016 vlastníkem Nadace; od 2011 zámek pronajímán Opus Moraviae, od 2014 spolku Zámek Brtnice; rok převodu na Spolek odvozen z iDNES (spolek spravuje zámek od 2017)"
+   },
+   {
+    "owner": "soukromnik",
+    "person": "Spolek Svébyt Brtnice (předseda a jediný člen Oleg Rybnikář)",
+    "from": 2017,
     "to": null,
     "from_approx": true,
     "to_approx": false,
     "how": "jine",
-    "note": "po revoluci předseda SBD Svébyt zámek postupně převedl na několik jím řízených společností, naposledy Nadaci Svébyt; ta se dodnes soudí s SBD Svébyt v likvidaci o vlastnictví, spor prošel i Nejvyšším soudem a stále nemá konečné rozhodnutí; od roku 2011 zámek pronajímá firmě Opus Moraviae, resp. od 2014 spolku Zámek Brtnice, kteří jej postupně opravují a zpřístupňují"
+    "note": "po ukončení majetkových sporů současný vlastník zámku, parku a aleje (podle iDNES 2020 a 2026); park v podzámčí patří Nadaci Svébyt, rybník městu Brtnice; zámek je v havarijním stavu, vlastník jej nabízí investorovi k prodeji"
    }
   ],
   "events": [
@@ -12770,7 +12780,9 @@
    }
   ],
   "sources": [
-   "https://cs.wikipedia.org/wiki/Brtnice_(zámek)"
+   "https://cs.wikipedia.org/wiki/Brtnice_(zámek)",
+   "https://www.jihlavske-listy.cz/clanek/56148-stat-prodava-opevneni-zamek-ani-brtnice-bremeno-nechteji",
+   "https://www.idnes.cz/jihlava/zpravy/vysocina-brtnice-zamek-obnova-oleg-rybnikar-spor-pamatkari-finance.A200903_568815_jihlava-zpravy_epsal"
   ]
  },
  "Q11354311": {
@@ -15075,6 +15087,92 @@
    "https://cs.wikipedia.org/wiki/Výrov_(hrad)"
   ]
  },
+ "Q120065441": {
+  "id": "Q120065441",
+  "name": "Chuchelná",
+  "founded": {
+   "year": null,
+   "approx": false,
+   "text": "Zámek vznikl přestavbou panského dvora / tvrze; stavba je ohraničena lety 1683 a 1727. Nápis 1670 označuje koupi Chuchelné, ne zahájení stavby."
+  },
+  "summary": "Raně barokní zámek v Chuchelné vznikl ze starého panského dvora a tvrze, kterou roku 1670 koupil Karel Maxmilián Lichnovský. Lichnovští ho drželi až do roku 1945, kdy byl konfiskován. Od roku 1952 v něm sídlí rehabilitační ústav.",
+  "owners": [
+   {
+    "owner": "lichnovsti-z-vostic",
+    "owner_wiki": "Lichnovští z Voštic",
+    "person": "Jiří Lichnovský",
+    "from": null,
+    "to": 1650,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "Roku 1650 prodal zpustlou ves a zchátralý panský dvůr, sám žil v nájemné chalupě v Benkovicích."
+   },
+   {
+    "owner": "skrbensti-z-hriste",
+    "owner_wiki": "Skrbenští z Hříště",
+    "person": "Zikmund Jaroslav Skrbenský",
+    "from": 1650,
+    "to": 1670,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe"
+   },
+   {
+    "owner": "lichnovsti-z-vostic",
+    "owner_wiki": "Lichnovští z Voštic",
+    "person": "Karel Maxmilián Lichnovský (později knížata Lichnovští, poslední kníže Vilém)",
+    "from": 1670,
+    "to": 1945,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "Koupě 20. 12. 1670, kupní smlouva uvádí tvrz s domem a poplužním dvorem. Chuchelná se stala centrem panství."
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": null,
+    "from": 1945,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "Konfiskace podle dekretu č. 12/1945 Sb. Správa Národního pozemkového fondu, od 1949 n. p. Elektro-Praga / Sigma, od 1952 zdravotní referát KNV Ostrava (rehabilitační ústav, dnes pracoviště RÚ Hrabyně). Dnešního vlastníka zdroj nejmenuje."
+   }
+  ],
+  "events": [
+   {
+    "year": 1670,
+    "text": "koupě Chuchelné Karlem Maxmiliánem Lichnovským"
+   },
+   {
+    "year": 1776,
+    "text": "vysvěcena nová zámecká kaple"
+   },
+   {
+    "year": 1853,
+    "text": "přistavěn Dům kavalírů"
+   },
+   {
+    "year": 1945,
+    "text": "konfiskace majetku knížete Viléma Lichnovského"
+   },
+   {
+    "year": 1952,
+    "text": "v zámku zřízen rehabilitační ústav"
+   },
+   {
+    "year": 1969,
+    "text": "dostavěn dětský pavilon"
+   }
+  ],
+  "sources": [
+   "https://www.chuchelna.com/cs/obec/blizke-okoli/kulturni-pamatky-obce/",
+   "https://www.hrady.cz/zamek-chuchelna-opava",
+   "http://www.kultura.cz/profile/5441-zamek-chuchelna"
+  ]
+ },
  "Q12018569": {
   "id": "Q12018569",
   "name": "Gutštejn",
@@ -16266,8 +16364,8 @@
   "summary": "Vodní hrad Lipý založil kolem roku 1268 Chval z rodu Ronovců; jeho syn Jindřich z Lipé hrad přestavěl na kamenný a v letech 1305-1319 založil při něm městečko, dnešní Českou Lípu. Od roku 1319 hrad přes tři století (s přestávkami po husitském vypálení 1426 a válečných škodách) drželi Berkové z Dubé, po Bílé hoře jej krátce vlastnil Albrecht z Valdštejna a poté Harrachové; přes 200 let pak patřil Kounicům, kteří jej roku 1871 prodali podnikatelům Altschulovi a Müllerovi na cukrovar. Po jejich emigraci převzalo areál město Česká Lípa; zbytky zámku byly roku 1957 z větší části odstřeleny a od 90. let 20. století je hrad postupně obnovován a slouží ke kulturním účelům.",
   "owners": [
    {
-    "owner": "ronovci",
-    "owner_wiki": "Ronovci",
+    "owner": "pani-z-lipe",
+    "owner_wiki": "Páni z Lipé",
     "person": "Chval, případně syn Čeněk z Lipé",
     "from": 1268,
     "to": 1278,
@@ -16277,8 +16375,8 @@
     "note": "Čeněk se jako první psal 'z Lipé' (1277), padl 1278 v bitvě na Moravském poli; hrad převzal jeho syn Jindřich"
    },
    {
-    "owner": "ronovci",
-    "owner_wiki": "Ronovci",
+    "owner": "pani-z-lipe",
+    "owner_wiki": "Páni z Lipé",
     "person": "Jindřich z Lipé",
     "from": 1278,
     "to": 1319,
@@ -30558,9 +30656,9 @@
     "owner_wiki": null,
     "person": null,
     "from": 1948,
-    "to": 1990,
+    "to": 1993,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "konfiskace",
     "note": "v 50. letech vypsán demoliční výměr, zrušen po objevu dochované sgrafitové výzdoby pod omítkou"
    },
@@ -30568,23 +30666,23 @@
     "owner": "bubnove-z-litic",
     "owner_wiki": "Bubnové z Litic",
     "person": "Adam Bubna-Litic a Eleonora Dujková (sourozenci)",
-    "from": 1990,
-    "to": 2008,
-    "from_approx": true,
+    "from": 1993,
+    "to": 2010,
+    "from_approx": false,
     "to_approx": true,
     "how": "restituce",
-    "note": "restituce po sametové revoluci; přesný rok neuveden"
+    "note": "restituce po sametové revoluci; rok 1993 podle historickaslechta.cz; mojeorlickehory.cz uvádí vlastnictví Bubnů do 1948 a od 1993"
    },
    {
     "owner": "bubnove-z-litic",
     "owner_wiki": "Bubnové z Litic",
     "person": "Barbora Tomášková (vnučka Eleonory Dujkové)",
-    "from": 2008,
+    "from": 2010,
     "to": null,
     "from_approx": true,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "současná majitelka; přesný rok nabytí zdroj neuvádí"
+    "note": "majitelka podle cs.wiki; rok nabytí zdroj neuvádí; zámek spravuje rodina, jako majitel vystupuje v médiích (2023-2025) Petr Dujka, potomek rodu"
    }
   ],
   "events": [
@@ -30610,7 +30708,9 @@
    }
   ],
   "sources": [
-   "https://cs.wikipedia.org/wiki/Doudleby_nad_Orlicí_(zámek)"
+   "https://cs.wikipedia.org/wiki/Doudleby_nad_Orlicí_(zámek)",
+   "https://www.historickaslechta.cz/mista/doudleby-nad-orlici/",
+   "https://rychnovsky.denik.cz/zpravy-region/doudlebsky-zamek-je-unikat-rika-petr-dujka-novinky/"
   ]
  },
  "Q2240705": {
@@ -36520,6 +36620,131 @@
    "https://cs.wikipedia.org/wiki/Dolní_Benešov_(zámek)"
   ]
  },
+ "Q30860068": {
+  "id": "Q30860068",
+  "name": "Dolní Životice",
+  "founded": {
+   "year": 1200,
+   "approx": true,
+   "text": "Vodní tvrz rodu Zibotů před rokem 1200, zničena 1241; tvrz doložena 1436; barokní zámek vystavěn po roce 1721."
+  },
+  "summary": "Dnešní barokní zámek v Dolních Životicích nechal po roce 1721 postavit Karel František Orlík z Laziska na místě starší dolní tvrze. Roku 1800 jej koupili Larisch-Mönichové a roku 1897 Razumovští, kteří v něm sídlili do konfiskace 1945. Po válce sloužil jako ústav, kasárna a sklady a od roku 2000 jako domov pro lidi se zdravotním postižením ve vlastnictví kraje.",
+  "owners": [
+   {
+    "owner": "zibotove",
+    "owner_wiki": null,
+    "person": "rod Zibotů",
+    "from": 1200,
+    "to": 1460,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "zalozeni",
+    "note": "Sídlili ve vodní tvrzi; ves založili před rokem 1200."
+   },
+   {
+    "owner": "neznamo",
+    "owner_wiki": null,
+    "person": null,
+    "from": 1460,
+    "to": 1721,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "Tvrz doložena 1436, přestavěna renesančně ve 2. polovině 16. století; majitele zdroje neuvádějí."
+   },
+   {
+    "owner": "orlikove-z-laziska",
+    "owner_wiki": "Orlíkové z Laziska",
+    "person": "svobodný pán Karel František Orlík z Laziska, poté synové Karel a Jan Křtitel",
+    "from": 1721,
+    "to": 1800,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "Karel František vlastnil Životice 1721-1770, postavil zámek a park a tím se zadlužil; synové panství roku 1800 prodali."
+   },
+   {
+    "owner": "larischove",
+    "owner_wiki": "Larischové",
+    "person": "hrabě Jan Larisch-Mönich, poté Jindřich Larisch-Mönich",
+    "from": 1800,
+    "to": 1897,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "Přistavěli oranžerii, založili zahradnictví a sad."
+   },
+   {
+    "owner": "razumovsti",
+    "owner_wiki": "Razumovští",
+    "person": "hrabě Kamillo Razumovský",
+    "from": 1897,
+    "to": 1945,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "Hlavní sídlo rodiny od počátku 20. století, rodina odešla do Vídně 1946."
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": null,
+    "from": 1945,
+    "to": 2001,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "konfiskace",
+    "note": "Konfiskace podle dekretů. Okresní správa (ústav Charity pro duševně nemocné děti), od ~1950 armáda (kasárna PTP, sklady) do 90. let, poté okresní úřad Opava, který zámek 1995-2000 zrekonstruoval."
+   },
+   {
+    "owner": "mesto",
+    "owner_wiki": null,
+    "person": "Moravskoslezský kraj",
+    "from": 2001,
+    "to": null,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "jine",
+    "note": "Zámek v majetku kraje (Zámek Dolní Životice, p. o.); sociální služba se má do 2027-2029 přestěhovat."
+   }
+  ],
+  "events": [
+   {
+    "year": 1241,
+    "text": "zničení vodní tvrze a vsi Tatary (hrady.cz)"
+   },
+   {
+    "year": 1436,
+    "text": "doložena tvrz"
+   },
+   {
+    "year": 1721,
+    "text": "Orlík z Laziska staví barokní zámek a park"
+   },
+   {
+    "year": 1800,
+    "text": "prodej Larisch-Mönichům"
+   },
+   {
+    "year": 1897,
+    "text": "koupě Razumovskými"
+   },
+   {
+    "year": 2000,
+    "text": "po rekonstrukci 1995-2000 zahájena sociální služba"
+   },
+   {
+    "year": 2023,
+    "text": "kraj rozhodl o ukončení sociální služby v zámku"
+   }
+  ],
+  "sources": [
+   "https://www.hrady.cz/zamek-dolni-zivotice/texty?pos=2000&tid=5599",
+   "https://www.dolnizivotice.cz/obec-7/blizke-okoli/",
+   "https://www.soupispamatek.cz/arl-kcz/sk/detail-kcz_un_auth-0006386-Zamok-Dolni-zivotice/",
+   "https://opavsky.denik.cz/zpravy_region/zamek-dolni-zivotice-dolni-zivotice-moravskoslezsky-kraj.html"
+  ]
+ },
  "Q30868464": {
   "id": "Q30868464",
   "name": "Svojšín",
@@ -36969,7 +37194,7 @@
   "summary": "Renesanční zámek v Rokytnici v Orlických horách vznikl přestavbou starší tvrze, kterou po roce 1567 od Sigmunda Licka z Rýzmburka koupili Mauschwitzové z Armenruh a po roce 1600 ji přestavěli na zámek. Od druhé poloviny 17. století patřilo panství rodu Nosticů, kteří jej barokně přestavěli, včetně reprezentativního Sálu předků (1706-1709), a rokytnické panství bylo pro rokytnickou linii rodu až do počátku 19. století jediným sídlem v Čechách. Zámek prošel dalšími úpravami ve 20. století (1936-1937, 1984-1985) a od roku 2011 probíhá jeho postupná obnova.",
   "owners": [
    {
-    "owner": "z-rysmburka",
+    "owner": "z-ryzmburka",
     "owner_wiki": null,
     "person": "Sigmund Licek z Rýzmburka",
     "from": 1487,
@@ -39016,6 +39241,149 @@
    "https://cs.wikipedia.org/wiki/Janovice_(zámek)"
   ]
  },
+ "Q33254362": {
+  "id": "Q33254362",
+  "name": "Orlice",
+  "founded": {
+   "year": 1361,
+   "approx": true,
+   "text": "Tvrz vznikla pravděpodobně koncem 13. století; poprvé připomínána 1361 v predikátu Ivana z Orlice."
+  },
+  "summary": "Tvrz Orlice u Letohradu vznikla pravděpodobně koncem 13. století; pozemky roku 1257 dostali od krále páni z Olešné. Ve 14. a 15. století ji držela řada drobných držitelů, poté Strachotové z Kralovic a od roku 1565 Sudové z Řeneč, kteří ji přestavěli na renesanční zámek. Po roce 1650 sloužila jako hospodářský dvůr a sýpka, nakonec chátrala; roku 2008 ji koupila společnost EYWAN, opravila a otevřela jako Chateau Orlice.",
+  "owners": [
+   {
+    "owner": "z-olesne",
+    "owner_wiki": null,
+    "person": "páni z Olešné, družiníci Kojaty z Hrabišic",
+    "from": 1257,
+    "to": 1361,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "lenni",
+    "note": "Pozemky jim věnoval Přemysl Otakar II."
+   },
+   {
+    "owner": "z-orlice",
+    "owner_wiki": null,
+    "person": "Ivan z Orlice",
+    "from": 1361,
+    "to": 1366,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "Patron kostela; první písemná zmínka."
+   },
+   {
+    "owner": "z-prepych",
+    "owner_wiki": null,
+    "person": "Dobeš z Přepych a Všech z Rohova",
+    "from": 1366,
+    "to": 1393,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "Po jejich smrti (kolem 1393) připadla Orlice králi."
+   },
+   {
+    "owner": "z-orlice",
+    "owner_wiki": null,
+    "person": "Tvoch z Orlice, královský strážce; poté Mikuláš z Orlice",
+    "from": 1393,
+    "to": 1479,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "lenni",
+    "note": "Mikuláš z Orlice (kanovník vyšehradský) doložen 1415; poté zprávy asi 100 let chybí."
+   },
+   {
+    "owner": "z-kralovic",
+    "owner_wiki": null,
+    "person": "Strachotové z Kralovic (Michal, Jan mladší, Burjan)",
+    "from": 1479,
+    "to": 1565,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "Strachota starší připomínán 1406; kdy rod Orlici získal, zdroj neuvádí. Burjan ji roku 1565 prodal."
+   },
+   {
+    "owner": "sudove-z-renec",
+    "owner_wiki": null,
+    "person": "Sudové z Řeneč (Suda, Petr Suda, Jetřich Suda)",
+    "from": 1565,
+    "to": 1638,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "Petr Suda zemřel 1592 (vdova Dorota z Lipan), Jetřich Suda zemřel 1638."
+   },
+   {
+    "owner": "vitanovsti-z-vlckovic",
+    "owner_wiki": null,
+    "person": "Adam Mikuláš Vitanovský z Vlčkovic a Dorota Anna Sudová",
+    "from": 1638,
+    "to": 1650,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "snatek",
+    "note": "Dorota Anna, dcera Jetřicha Sudy, se provdala za Vitanovského. Roku 1650 koupili panství Kyšperk, připojili k němu Orlici a přesídlili tam."
+   },
+   {
+    "owner": "neznamo",
+    "owner_wiki": null,
+    "person": null,
+    "from": 1650,
+    "to": 2008,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "Orlice připojena ke Kyšperku, zdroj další vlastníky neuvádí (zámek přestavěn na sýpku, pivovar, tkalcovna, autodílny; od 1968 sklad; asi 40 let chátral)."
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "EYWAN s.r.o. (spolumajitelé Pavel Tacl a Jaroslav Toman)",
+    "from": 2008,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "Opravy a hotel Chateau Orlice."
+   }
+  ],
+  "events": [
+   {
+    "year": 1257,
+    "text": "král Přemysl Otakar II. věnuje pozemky pánům z Olešné"
+   },
+   {
+    "year": 1361,
+    "text": "první písemná zmínka o tvrzi (Ivan z Orlice)"
+   },
+   {
+    "year": 1565,
+    "text": "koupě Sudou z Řeneč, v následujících letech renesanční přestavba se sgrafity"
+   },
+   {
+    "year": 1650,
+    "text": "šlechta se stěhuje na Kyšperk, areál slouží hospodářsky"
+   },
+   {
+    "year": 2008,
+    "text": "koupě společností EYWAN a obnova areálu"
+   },
+   {
+    "year": 2012,
+    "text": "otevření opravené tvrze, hotelu a restaurace"
+   }
+  ],
+  "sources": [
+   "https://www.chateau-orlice.cz/cs/historie/",
+   "https://www.hrady.cz/zamek-orlice-tvrz-orlice",
+   "https://pardubice.rozhlas.cz/zamek-orlice-letohrad-6084872",
+   "https://www.idnes.cz/pardubice/zpravy/opravena-tvrz-orlice-v-letohradu.A120814_1816183_pardubice-zpravy_mav"
+  ]
+ },
  "Q33317426": {
   "id": "Q33317426",
   "name": "Rudoltice (Nový zámek)",
@@ -39096,6 +39464,219 @@
   ],
   "sources": [
    "https://cs.wikipedia.org/wiki/Rudoltice_(zámek)"
+  ]
+ },
+ "Q33323103": {
+  "id": "Q33323103",
+  "name": "Neustupov",
+  "founded": {
+   "year": 1364,
+   "approx": true,
+   "text": "Gotická patrová tvrz vedle kostela vznikla nejpozději ve 14. století; vladykové z Neustupova jsou doloženi roku 1364."
+  },
+  "summary": "Zámek v Neustupově vznikl z gotické tvrze vladyků z Neustupova; renesanční zámek nechala postavit Eva Kaplířová. Po konfiskaci Kaplířů roku 1621 se majitelé rychle střídali, od roku 1809 jej držela rodina Rommbaldů a od roku 1892 Aichelburgové. Po roce 1948 byl zabaven, po roce 1989 vrácen v restituci a od roku 2000 patřil firmě INTEC; od roku 2020 jej opravuje Michal Farník.",
+  "owners": [
+   {
+    "owner": "z-neustupova",
+    "owner_wiki": null,
+    "person": "vladykové z Neustupova a ze Soběšína",
+    "from": 1364,
+    "to": 1452,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "zalozeni",
+    "note": "Rodiny z Neustupova a ze Soběšína se v držbě střídaly až do poloviny 15. století."
+   },
+   {
+    "owner": "z-slavkova",
+    "owner_wiki": null,
+    "person": "Radimští ze Slavkova (Jan Neustupovský ze Slavkova, +1545)",
+    "from": 1452,
+    "to": 1539,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "hrady.cz uvádí Radimské ze Slavkova od 2. poloviny 15. do 2. poloviny 16. století a mezi ně vřazuje Mrackého z Dubé (zemřeli 1553-1556); web zámku uvádějí Jana Neustupovského ze Slavkova (+1545), jeho syna Kuneše a jeho manželku Alžbětu z Malovic. Zdroje se liší, pořadí není jisté."
+   },
+   {
+    "owner": "kaplirove-ze-sulevic",
+    "owner_wiki": "Kaplířové ze Sulevic",
+    "person": "Eva Kaplířová, dcera Kuneše a Alžběty z Malovic, a Kašpar Kaplíř ze Sulevic",
+    "from": 1539,
+    "to": 1621,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "Eva nechala postavit renesanční zámek místo tvrze. Kašpar Kaplíř popraven na Staroměstském náměstí 21. 6. 1621."
+   },
+   {
+    "owner": "marradasove",
+    "owner_wiki": "Marradasové",
+    "person": "pluk generála Balthasara Marradase",
+    "from": 1627,
+    "to": 1630,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "Statky zkonfiskované Kaplířům postoupeny roku 1627 ve prospěch pluku generála Marradase (cs.wiki uvádí Marradase již po 1621)."
+   },
+   {
+    "owner": "hoeff-huertove",
+    "owner_wiki": null,
+    "person": "don Martin de Hoeff-Huerta",
+    "from": 1630,
+    "to": 1633,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "Důstojník a vykonavatel rekatolizace; hrady.cz mluví o jeho desetileté vládě, jiné zdroje uvádějí smrt 1633."
+   },
+   {
+    "owner": "z-pottingu",
+    "owner_wiki": null,
+    "person": "hrabata z Pöttingu",
+    "from": 1633,
+    "to": 1681,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "Po smrti Hoeff-Huerty se majitelé střídali (zdroj uvádí jen hrabata z Pöttingu, od 1681 Bissingeny)."
+   },
+   {
+    "owner": "bissingenove",
+    "owner_wiki": "Bissingenové",
+    "person": "Bissingenové",
+    "from": 1681,
+    "to": 1695,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "Konec držby odvozen z nástupu Dohalských (od 1695). hrady.cz uvádí Bissingeny až do 1809."
+   },
+   {
+    "owner": "dohalsti-z-dohalic",
+    "owner_wiki": "Dohalští z Dohalic",
+    "person": "Dohalští z Dohalic",
+    "from": 1695,
+    "to": 1712,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "Roku 1712 byl Neustupov pro dluhy nuceně prodán."
+   },
+   {
+    "owner": "neznamo",
+    "owner_wiki": null,
+    "person": null,
+    "from": 1712,
+    "to": 1809,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "Rychlé střídání majitelů, zdroj je nejmenuje."
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "rodina Rommbaldů (pražští měšťané)",
+    "from": 1809,
+    "to": 1887,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Karel a Marie Krausovi",
+    "from": 1887,
+    "to": 1892,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe"
+   },
+   {
+    "owner": "aichelburgove",
+    "owner_wiki": "Aichelburgové",
+    "person": "hrabě Vladimír z Aichelburgu pro manželku Helenu",
+    "from": 1892,
+    "to": 1948,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "Po roce 1948 jim byl majetek zabaven."
+   },
+   {
+    "owner": "mesto",
+    "owner_wiki": null,
+    "person": "místní národní výbor",
+    "from": 1948,
+    "to": 1974,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "konfiskace",
+    "note": "Zámek převeden na MNV (hrady.cz uvádí obec), který v něm zřídil skladiště léčiv."
+   },
+   {
+    "owner": "aichelburgove",
+    "owner_wiki": "Aichelburgové",
+    "person": "Vladimír Aichelburg",
+    "from": 1974,
+    "to": 2000,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "restituce",
+    "note": "Po roce 1989 získal zámek zpět v restituci (rok neuveden)."
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "INTEC - export a import, s.r.o.",
+    "from": 2000,
+    "to": 2020,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Ing. Michal Farník",
+    "from": 2020,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "Zámek opravuje a pořádá na něm kulturní akce."
+   }
+  ],
+  "events": [
+   {
+    "year": 1520,
+    "text": "tvrz poprvé připomínána (cs.wiki)"
+   },
+   {
+    "year": 1621,
+    "text": "poprava Kašpara Kaplíře, konfiskace panství"
+   },
+   {
+    "year": 1892,
+    "text": "Aichelburgové upravují zámek (nárožní polygonální vížka) a park"
+   },
+   {
+    "year": 1948,
+    "text": "zabavení Aichelburgům, v zámku skladiště léčiv"
+   },
+   {
+    "year": 2020,
+    "text": "nový majitel zámek opravuje a zpřístupňuje"
+   }
+  ],
+  "sources": [
+   "https://www.zamek-neustupov.cz/historie-zamku-neustupov/",
+   "https://www.hrady.cz/zamek-neustupov/",
+   "https://klicovamista.cz/neustupov/",
+   "https://cs.wikipedia.org/wiki/Neustupov"
   ]
  },
  "Q33324399": {
@@ -41463,7 +42044,7 @@
     "note": "Přemysl Otakar II. hrad i město daroval Jindřichu z Lichtenštejna; hrad se stal hlavním sídlem rodu; kvůli finančním potížím jej Kryštof IV. z Lichtenštejna roku 1560 prodal"
    },
    {
-    "owner": "soukromnik",
+    "owner": "kereczenyiove",
     "owner_wiki": null,
     "person": "Ladislav Kerecsenyi",
     "from": 1560,
@@ -41474,7 +42055,7 @@
     "note": "uherský šlechtic, koupil za 60000 tolarů; zajat Osmany a popraven 1566"
    },
    {
-    "owner": "soukromnik",
+    "owner": "kereczenyiove",
     "owner_wiki": null,
     "person": "Kryštof Kerecsenyi",
     "from": 1566,
@@ -41564,7 +42145,7 @@
    "approx": true,
    "text": "Hrad založil kolem roku 1280 Jaroslav z Ralska se synem Havlem Rybou z Lemberka, z rodu Markvarticů."
   },
-  "summary": "Hrad Rohozec založil kolem roku 1280 Jaroslav z Ralska se synem Havlem Rybou z Lemberka. Od 70. let 14. století jej vlastnil Markvart z Vartenberka, jemuž ho pro spory s Lužicí zabavil král Václav IV., a od roku 1422 páni z Michalovic. Od poloviny 15. do poloviny 16. století hrad postupně přestavěli na zámek Tovačovští z Cimburka, Krajířové z Krajku, Šelmberkové a znovu Vartenberkové. Po Bílé hoře jej získal Albrecht z Valdštejna a daroval jej Mikuláši Desfoursovi, jehož rod (později Des Fours Walderode) zámek přestavěl barokně i klasicistně a vlastnil jej až do vyvlastnění státem v roce 1946; o restituci dodnes vedou potomci soudní spory.",
+  "summary": "Hrad Rohozec založil kolem roku 1280 Jaroslav z Ralska se synem Havlem Rybou z Lemberka. Od 70. let 14. století jej vlastnil Markvart z Vartenberka, jemuž ho pro spory s Lužicí zabavil král Václav IV., a od roku 1422 páni z Michalovic. Od poloviny 15. do poloviny 16. století hrad postupně přestavěli na zámek Tovačovští z Cimburka, Krajířové z Krajku, Šelmberkové a znovu Vartenberkové. Po Bílé hoře jej získal Albrecht z Valdštejna a daroval jej Mikuláši Desfoursovi, jehož rod (později Des Fours Walderode) zámek přestavěl barokně i klasicistně a vlastnil jej až do vyvlastnění státem v roce 1946; o restituci dodnes vedou potomci soudní spory (v únoru 2026 jim soud nepravomocně přiznal mobiliář zámku).",
   "owners": [
    {
     "owner": "lemberkove",
@@ -41703,7 +42284,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "konfiskace",
-    "note": "spravuje Národní památkový ústav, národní kulturní památka od 2002; potomci Karla Des Fours Walderode (manželka Johanna Kammerlanderová) vedou o restituci zámku dlouhodobé soudní spory, v roce 2019 jim odvolací soud restituci potvrdil, v roce 2021 ji okresní soud podle rozhodnutí Nejvyššího soudu nepravomocně zamítl; podle článku má být zámek na základě rozhodnutí Ústavního soudu navrácen"
+    "note": "spravuje Národní památkový ústav, národní kulturní památka od 2002; potomci Karla Des Fours Walderode (manželka Johanna Kammerlanderová) vedou o restituci zámku dlouhodobé soudní spory, v roce 2019 jim odvolací soud restituci potvrdil, v roce 2021 ji okresní soud podle rozhodnutí Nejvyššího soudu nepravomocně zamítl; 26. 9. 2024 Ústavní soud zrušil rozhodnutí soudů o nicotnosti navrácení občanství z roku 1947 a restituční řízení se vrátilo obecným soudům; 27. 2. 2026 okresní soud v Semilech nepravomocně přiznal Kammerlanderové mobiliář zámku (asi 5000-5600 položek), o budově nerozhodoval; NPÚ se v dubnu 2026 odvolal kvůli sporným položkám (zbraně, fotografie) a Kammerlanderová zvažuje darovat zámek státu; zámek je dosud ve vlastnictví státu"
    }
   ],
   "events": [
@@ -41741,7 +42322,10 @@
    }
   ],
   "sources": [
-   "https://cs.wikipedia.org/wiki/Hrubý_Rohozec_(zámek)"
+   "https://cs.wikipedia.org/wiki/Hrubý_Rohozec_(zámek)",
+   "https://www.usoud.cz/aktualne/zaver-soudu-podle-ktereho-dedicka-rodu-walderode-nema-narok-na-restituci-pred-ustavnim-soudem-neobstal",
+   "https://zpravy.aktualne.cz/domaci/zvrat-v-restituci-dedicka-rodu-walderode-ziska-nabytek-zamku-pamatkari-spor-vzdali/r~aaa29a4bee02e29abeb153c151887bad/",
+   "https://www.irozhlas.cz/zpravy-domov/pamatkari-se-odvolali-proti-vydani-mobiliare-zamku-hruby-rohozec-v-rozsudku-jsou_2604271244_vsn"
   ]
  },
  "Q367343": {
@@ -42452,8 +43036,8 @@
   "summary": "Opočenský zámek vznikl přestavbou gotického hradu, který kolem roku 1330 na místě staršího hradiště vybudovala rodová větev Drslaviců. Od konce 15. do poloviny 17. století patřilo panství Trčkům z Lípy, kteří hrad v letech 1560-1567 přestavěli na renesanční zámek; po zavraždění Adama Erdmana Trčky v Chebu roku 1634 byl majetek konfiskován a od roku 1635/36 patřil Colloredům (později Colloredo-Mansfeldům), kteří jej barokně přestavěli. Roku 1942 byl zámek nacisty zkonfiskován, po roce 1945 na základě Benešových dekretů připadl státu; v letech 2003-2007 proběhl neúspěšný restituční spor s potomky rodu a zámek zůstal ve vlastnictví státu, spory o vydání mobiliáře pokračují dodnes.",
   "owners": [
    {
-    "owner": "z-potstejna",
-    "owner_wiki": null,
+    "owner": "pani-z-potstejna-a-litic",
+    "owner_wiki": "Páni z Potštejna a Litic",
     "person": "Čeněk z Potštejna",
     "from": 1341,
     "to": 1359,
@@ -43484,7 +44068,7 @@
     "note": "zprvu léno (1322-1582), celé panství získáno kolem 1370"
    },
    {
-    "owner": "soukromnik",
+    "owner": "kereczenyiove",
     "owner_wiki": null,
     "person": "Lászlo Kerecsényi",
     "from": 1560,
@@ -43494,7 +44078,7 @@
     "how": "koupe"
    },
    {
-    "owner": "soukromnik",
+    "owner": "kereczenyiove",
     "owner_wiki": null,
     "person": "Kristóf Kerecsényi",
     "from": 1571,
@@ -44192,6 +44776,115 @@
   ],
   "sources": [
    "https://cs.wikipedia.org/wiki/Radim_(zámek)"
+  ]
+ },
+ "Q38487484": {
+  "id": "Q38487484",
+  "name": "Dubová s parkem a obeliskem",
+  "founded": {
+   "year": 1774,
+   "approx": false,
+   "text": "Barokní zámek postaven v letech 1774-1776 na místě poplužního dvora vikštejnského panství (dvůr uváděn 1640)."
+  },
+  "summary": "Barokní zámek v Dubové (dříve Horní Vikštejn) nechal v letech 1774-1776 postavit majitel vikštejnského panství Jan Julius Frobel. Poté patřil Tenczinům, Arzům z Wassegu, Glassnerovi a od roku 1884 Razumovským až do konfiskace 1945. Po válce sloužil jako zemědělské učiliště a dětský domov, od roku 2004 jen jako dětský domov.",
+  "owners": [
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Jan Julius Frobel",
+    "from": 1765,
+    "to": 1788,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "Koupil vikštejnské panství 1765 a postavil zámek."
+   },
+   {
+    "owner": "tenczinove",
+    "owner_wiki": null,
+    "person": "hrabě Jan Erdmann z Tenczinu, poté jeho syn Jan (1803-1811)",
+    "from": 1788,
+    "to": 1811,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo"
+   },
+   {
+    "owner": "arzove-z-wassegu",
+    "owner_wiki": null,
+    "person": "hraběnka Karolina z Tenczinu, manželka hraběte Jana Arze z Wassegu",
+    "from": 1811,
+    "to": 1860,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "dedictvi",
+    "note": "Zdědila po bratrovi Janovi."
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Emanuel (Eduard) Glassner, opavský obchodník",
+    "from": 1860,
+    "to": 1884,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "Zdroje uvádějí křestní jméno různě; rok koupě 1860 podle polského zdroje."
+   },
+   {
+    "owner": "razumovsti",
+    "owner_wiki": "Razumovští",
+    "person": "hrabě Kamillo Razumovský s manželkou Marií",
+    "from": 1884,
+    "to": 1945,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "Za války lazaret wehrmachtu. Roku 1945 konfiskace."
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": null,
+    "from": 1945,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "Od 50. let zemědělské učiliště, od 60. let dětský domov se zvláštní školou, od 2004 dětský domov. Dnešního vlastníka zdroj nejmenuje."
+   }
+  ],
+  "events": [
+   {
+    "year": 1640,
+    "text": "poplužní dvůr vikštejnského panství obehnán kamennou zdí"
+   },
+   {
+    "year": 1765,
+    "text": "Jan Julius Frobel kupuje vikštejnské panství"
+   },
+   {
+    "year": 1776,
+    "text": "dokončen barokní zámek"
+   },
+   {
+    "year": 1884,
+    "text": "koupě Razumovskými"
+   },
+   {
+    "year": 1945,
+    "text": "konfiskace, zámek sloužil jako lazaret wehrmachtu"
+   },
+   {
+    "year": 2004,
+    "text": "v zámku zůstal jen dětský domov"
+   }
+  ],
+  "sources": [
+   "https://www.turistika.cz/mista/radkov-zamek-dubova-horni-vikstejn/detail",
+   "https://www.palaceslaska.pl/index.php/indeks-alfabetyczny/d/289-dubova",
+   "https://www.vlastivedaopavska.cz/historie/razumovsti-z-vikstejna",
+   "https://cs.wikipedia.org/wiki/Dubová_(Radkov)"
   ]
  },
  "Q43573247": {
@@ -45895,8 +46588,8 @@
     "note": "rod se na hradě usídlil, roku 1637 museli pro protestantské vyznání Fryštát opustit; rozšířili hradní kostel o Moravskou kapli"
    },
    {
-    "owner": "z-potstejna",
-    "owner_wiki": null,
+    "owner": "pani-z-potstejna-a-litic",
+    "owner_wiki": "Páni z Potštejna a Litic",
     "person": "Karel Zdeněk Žampach z Potštejna",
     "from": 1637,
     "to": 1688,

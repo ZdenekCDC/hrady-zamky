@@ -5,9 +5,9 @@
  "summary": "Panství Doudleby nad Orlicí koupil roku 1562 Mikuláš z Bubna od dědiců Václava Okrouhlického z Kněnic a v letech 1588-1590 zde nechal postavit lovecký zámek, proslulý svou kobercovou sgrafitovou výzdobou. Zámek byl raně barokně upravován kolem roku 1630 (Jindřich Jan z Bubna) a v letech 1670-1690 (František Adam z Bubna); po roce 1809, kdy rodina kvůli finanční krizi prodala žamberský díl podorlického panství Veriandovi hraběti Windischgrätzovi, se natrvalo přestěhovala do Doudleb. Kromě období znárodnění po roce 1948 zůstal zámek po celou dobu v majetku rodu Bubnů z Litic; po sametové revoluci byl vrácen v restituci sourozencům Adamu Bubna-Liticovi a Eleonoře Dujkové a dnes patří vnučce Eleonory Dujkové, Barboře Tomáškové.",
  "owners": [
   {"owner": "bubnove-z-litic", "owner_wiki": "Bubnové z Litic", "person": "Mikuláš z Bubna a na Přestavlcích (posléze 'na Liticích')", "from": 1562, "to": 1948, "from_approx": false, "to_approx": false, "how": "koupe", "note": "1588-1590 nechal vystavět lovecký zámek v Doudlebech; další úpravy provedli Jindřich Jan z Bubna (~1630, arkády a portál) a František Adam z Bubna (1670-1690); roku 1809 rodina kvůli finanční krizi Františka (de Paula) Adama z Bubna prodala žamberský díl panství Veriandovi hraběti Windischgrätzovi a přesídlila natrvalo do Doudleb"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1948, "to": 1990, "from_approx": false, "to_approx": true, "how": "konfiskace", "note": "v 50. letech vypsán demoliční výměr, zrušen po objevu dochované sgrafitové výzdoby pod omítkou"},
-  {"owner": "bubnove-z-litic", "owner_wiki": "Bubnové z Litic", "person": "Adam Bubna-Litic a Eleonora Dujková (sourozenci)", "from": 1990, "to": null, "from_approx": true, "to_approx": true, "how": "restituce", "note": "restituce po sametové revoluci; přesný rok neuveden"},
-  {"owner": "bubnove-z-litic", "owner_wiki": "Bubnové z Litic", "person": "Barbora Tomášková (vnučka Eleonory Dujkové)", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "současná majitelka; přesný rok nabytí zdroj neuvádí"}
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1948, "to": 1993, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "v 50. letech vypsán demoliční výměr, zrušen po objevu dochované sgrafitové výzdoby pod omítkou"},
+  {"owner": "bubnove-z-litic", "owner_wiki": "Bubnové z Litic", "person": "Adam Bubna-Litic a Eleonora Dujková (sourozenci)", "from": 1993, "to": null, "from_approx": false, "to_approx": false, "how": "restituce", "note": "restituce po sametové revoluci; rok 1993 podle historickaslechta.cz; mojeorlickehory.cz uvádí vlastnictví Bubnů do 1948 a od 1993"},
+  {"owner": "bubnove-z-litic", "owner_wiki": "Bubnové z Litic", "person": "Barbora Tomášková (vnučka Eleonory Dujkové)", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "majitelka podle cs.wiki; rok nabytí zdroj neuvádí; zámek spravuje rodina, jako majitel vystupuje v médiích (2023-2025) Petr Dujka, potomek rodu"}
  ],
  "events": [
   {"year": 1562, "text": "Mikuláš z Bubna koupil doudlebské panství od dědiců Václava Okrouhlického z Kněnic"},
@@ -16,5 +16,5 @@
   {"year": 1948, "text": "zámek znárodněn"},
   {"year": 1990, "text": "zámek navrácen v restituci sourozencům Bubna-Liticovi a Dujkové"}
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Doudleby_nad_Orlicí_(zámek)"]
+ "sources": ["https://cs.wikipedia.org/wiki/Doudleby_nad_Orlicí_(zámek)", "https://www.historickaslechta.cz/mista/doudleby-nad-orlici/", "https://rychnovsky.denik.cz/zpravy-region/doudlebsky-zamek-je-unikat-rika-petr-dujka-novinky/"]
 }

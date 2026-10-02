@@ -6,7 +6,12 @@
   "wikidata": "Q10712308",
   "cswiki": "https://cs.wikipedia.org/wiki/Adršpachové_z_Dubé",
   "summary": "Adršpachové z Dubé (též Adršbachové z Dubé nebo Abršpachové z Dubé a z Náchoda) byli český šlechtický rod z rozrodu Ronovců. Na svém štítě nosili ostrve. Své državy měli hlavně ve východních Čechách.",
-  "related": [],
+  "related": [
+   {
+    "family": "ronovci",
+    "relation": "větev Ronovců"
+   }
+  ],
   "places": [
    {
     "place": "Q1014002",
@@ -54,6 +59,24 @@
     "how": "neznamo",
     "from_approx": false,
     "to_approx": false
+   },
+   {
+    "place": "Q33323103",
+    "from": 1892,
+    "to": 1948,
+    "person": "hrabě Vladimír z Aichelburgu pro manželku Helenu",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": true
+   },
+   {
+    "place": "Q33323103",
+    "from": 1974,
+    "to": 2000,
+    "person": "Vladimír Aichelburg",
+    "how": "restituce",
+    "from_approx": true,
+    "to_approx": false
    }
   ],
   "transfers": [
@@ -63,9 +86,37 @@
     "from": "aichelburgove",
     "to": "morzinove",
     "how": "koupe"
+   },
+   {
+    "place": "Q33323103",
+    "year": 1892,
+    "from": "soukromnik",
+    "to": "aichelburgove",
+    "how": "koupe"
+   },
+   {
+    "place": "Q33323103",
+    "year": 1948,
+    "from": "aichelburgove",
+    "to": "mesto",
+    "how": "konfiskace"
+   },
+   {
+    "place": "Q33323103",
+    "year": 1974,
+    "from": "mesto",
+    "to": "aichelburgove",
+    "how": "restituce"
+   },
+   {
+    "place": "Q33323103",
+    "year": 2000,
+    "from": "aichelburgove",
+    "to": "soukromnik",
+    "how": "koupe"
    }
   ],
-  "place_count": 1,
+  "place_count": 2,
   "color_slot": null
  },
  "althannove": {
@@ -309,6 +360,41 @@
     "from": "arco",
     "to": "stat",
     "how": "konfiskace"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
+ "arzove-z-wassegu": {
+  "id": "arzove-z-wassegu",
+  "type": "rod",
+  "name": "arzove-z-wassegu",
+  "related": [],
+  "places": [
+   {
+    "place": "Q38487484",
+    "from": 1811,
+    "to": 1860,
+    "person": "hraběnka Karolina z Tenczinu, manželka hraběte Jana Arze z Wassegu",
+    "how": "dedictvi",
+    "from_approx": true,
+    "to_approx": true
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q38487484",
+    "year": 1811,
+    "from": "tenczinove",
+    "to": "arzove-z-wassegu",
+    "how": "dedictvi"
+   },
+   {
+    "place": "Q38487484",
+    "year": 1860,
+    "from": "arzove-z-wassegu",
+    "to": "soukromnik",
+    "how": "koupe"
    }
   ],
   "place_count": 1,
@@ -1189,7 +1275,16 @@
   "cswiki": "https://cs.wikipedia.org/wiki/Berkové_z_Dubé",
   "coat_of_arms": "Berkove z Dube.jpg",
   "summary": "Berkové z Dubé byli starý český šlechtický rod, který se vyčlenil z rodu pánů z Dubé a jsou tak jednou z linií Ronovců. Ve své době patřili k nejbohatším rodům. Drželi majetky zejména v severních a východních Čechách, ale i na Moravě a v Kladsku. Hlavním jejich dominiem bylo Českolipsko. V roce 1637 byl rod povýšen na říšská hrabata. V českých zemích vymřel rod počátkem 18.",
-  "related": [],
+  "related": [
+   {
+    "family": "ronovci",
+    "relation": "větev Ronovců, vyčlenila se z pánů z Dubé"
+   },
+   {
+    "family": "pani-z-lipe",
+    "relation": "dědictví Lipé (Berkové z Dubé a z Lipé)"
+   }
+  ],
   "places": [
    {
     "place": "Q1012290",
@@ -1634,7 +1729,7 @@
    {
     "place": "Q12033634",
     "year": 1319,
-    "from": "ronovci",
+    "from": "pani-z-lipe",
     "to": "berkove-z-dube",
     "how": "koupe"
    },
@@ -2147,6 +2242,15 @@
     "how": "neznamo",
     "from_approx": false,
     "to_approx": false
+   },
+   {
+    "place": "Q33323103",
+    "from": 1681,
+    "to": 1695,
+    "person": "Bissingenové",
+    "how": "neznamo",
+    "from_approx": false,
+    "to_approx": true
    }
   ],
   "transfers": [
@@ -2163,9 +2267,23 @@
     "from": "bissingenove",
     "to": "soukromnik",
     "how": "neznamo"
+   },
+   {
+    "place": "Q33323103",
+    "year": 1681,
+    "from": "z-pottingu",
+    "to": "bissingenove",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q33323103",
+    "year": 1695,
+    "from": "bissingenove",
+    "to": "dohalsti-z-dohalic",
+    "how": "koupe"
    }
   ],
-  "place_count": 1,
+  "place_count": 2,
   "color_slot": null
  },
  "bitovsti-z-bitova": {
@@ -3590,16 +3708,16 @@
    },
    {
     "place": "Q2240663",
-    "from": 1990,
-    "to": 2008,
+    "from": 1993,
+    "to": 2010,
     "person": "Adam Bubna-Litic a Eleonora Dujková (sourozenci)",
     "how": "restituce",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": true
    },
    {
     "place": "Q2240663",
-    "from": 2008,
+    "from": 2010,
     "to": null,
     "person": "Barbora Tomášková (vnučka Eleonory Dujkové)",
     "how": "dedictvi",
@@ -3672,7 +3790,7 @@
    },
    {
     "place": "Q2240663",
-    "year": 1990,
+    "year": 1993,
     "from": "stat",
     "to": "bubnove-z-litic",
     "how": "restituce"
@@ -4961,7 +5079,7 @@
    {
     "place": "Q1013542",
     "year": 1418,
-    "from": "z-ryzmburka",
+    "from": "pani-z-ryzmburka",
     "to": "chudi-z-ujezda",
     "how": "lenni"
    },
@@ -6482,6 +6600,44 @@
   "place_count": 1,
   "color_slot": null
  },
+ "dohalsti-z-dohalic": {
+  "id": "dohalsti-z-dohalic",
+  "type": "rod",
+  "name": "Dohalští z Dohalic",
+  "wikidata": "Q11813710",
+  "cswiki": "https://cs.wikipedia.org/wiki/Dohalští_z_Dohalic",
+  "summary": "Dohalští z Dohalic jsou starou českou vladyckou rodinou, později panskou a hraběcí patřící k rodu Bořkovskému. Stejného původu jsou Bořkové z Dohalic, Bořkové z Miletínka, Nepolisští ze Záchrašťan, Hamzové ze Zábědovic, Bořkové z Poličan, Nové vsi a z Hrádku.",
+  "related": [],
+  "places": [
+   {
+    "place": "Q33323103",
+    "from": 1695,
+    "to": 1712,
+    "person": "Dohalští z Dohalic",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q33323103",
+    "year": 1695,
+    "from": "bissingenove",
+    "to": "dohalsti-z-dohalic",
+    "how": "koupe"
+   },
+   {
+    "place": "Q33323103",
+    "year": 1712,
+    "from": "dohalsti-z-dohalic",
+    "to": "neznamo",
+    "how": "neznamo"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
  "drnovsti-z-drnovic": {
   "id": "drnovsti-z-drnovic",
   "type": "rod",
@@ -6758,7 +6914,7 @@
    {
     "place": "Q369704",
     "year": 1359,
-    "from": "z-potstejna",
+    "from": "pani-z-potstejna-a-litic",
     "to": "drslavici",
     "how": "lenni"
    },
@@ -9894,6 +10050,15 @@
     "how": "lenni",
     "from_approx": false,
     "to_approx": false
+   },
+   {
+    "place": "Q33323103",
+    "from": 1630,
+    "to": 1633,
+    "person": "don Martin de Hoeff-Huerta",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
    }
   ],
   "transfers": [
@@ -9910,9 +10075,23 @@
     "from": "hoeff-huertove",
     "to": "mesto",
     "how": "jine"
+   },
+   {
+    "place": "Q33323103",
+    "year": 1630,
+    "from": "marradasove",
+    "to": "hoeff-huertove",
+    "how": "koupe"
+   },
+   {
+    "place": "Q33323103",
+    "year": 1633,
+    "from": "hoeff-huertove",
+    "to": "z-pottingu",
+    "how": "neznamo"
    }
   ],
-  "place_count": 1,
+  "place_count": 2,
   "color_slot": null
  },
  "hofmannove": {
@@ -11744,6 +11923,15 @@
     "how": "koupe",
     "from_approx": false,
     "to_approx": false
+   },
+   {
+    "place": "Q33323103",
+    "from": 1539,
+    "to": 1621,
+    "person": "Eva Kaplířová, dcera Kuneše a Alžběty z Malovic, a Kašpar Kaplíř ze Sulevic",
+    "how": "dedictvi",
+    "from_approx": true,
+    "to_approx": false
    }
   ],
   "transfers": [
@@ -11865,9 +12053,23 @@
     "from": "kaplirove-ze-sulevic",
     "to": "ze-stirnu",
     "how": "koupe"
+   },
+   {
+    "place": "Q33323103",
+    "year": 1539,
+    "from": "z-slavkova",
+    "to": "kaplirove-ze-sulevic",
+    "how": "dedictvi"
+   },
+   {
+    "place": "Q33323103",
+    "year": 1627,
+    "from": "kaplirove-ze-sulevic",
+    "to": "marradasove",
+    "how": "konfiskace"
    }
   ],
-  "place_count": 7,
+  "place_count": 8,
   "color_slot": null
  },
  "karlovicove-z-karlovic": {
@@ -11919,6 +12121,42 @@
     "how": "koupe",
     "from_approx": false,
     "to_approx": false
+   },
+   {
+    "place": "Q366535",
+    "from": 1560,
+    "to": 1566,
+    "person": "Ladislav Kerecsenyi",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q366535",
+    "from": 1566,
+    "to": 1570,
+    "person": "Kryštof Kerecsenyi",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": true
+   },
+   {
+    "place": "Q370990",
+    "from": 1560,
+    "to": 1571,
+    "person": "Lászlo Kerecsényi",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q370990",
+    "from": 1571,
+    "to": 1575,
+    "person": "Kristóf Kerecsényi",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": false
    }
   ],
   "transfers": [
@@ -11935,9 +12173,37 @@
     "from": "kereczenyiove",
     "to": "lubomirsti",
     "how": "koupe"
+   },
+   {
+    "place": "Q366535",
+    "year": 1560,
+    "from": "lichtenstejnove",
+    "to": "kereczenyiove",
+    "how": "koupe"
+   },
+   {
+    "place": "Q366535",
+    "year": 1570,
+    "from": "kereczenyiove",
+    "to": "koruna",
+    "how": "jine"
+   },
+   {
+    "place": "Q370990",
+    "year": 1560,
+    "from": "lichtenstejnove",
+    "to": "kereczenyiove",
+    "how": "koupe"
+   },
+   {
+    "place": "Q370990",
+    "year": 1575,
+    "from": "kereczenyiove",
+    "to": "koruna",
+    "how": "konfiskace"
    }
   ],
-  "place_count": 1,
+  "place_count": 3,
   "color_slot": null
  },
  "kinsti": {
@@ -12551,7 +12817,16 @@
   "cswiki": "https://cs.wikipedia.org/wiki/Kolovratové",
   "coat_of_arms": "Erb Verně a stále.gif",
   "summary": "Kolovratové (staročeským pravopisem Kolowratové) jsou starobylý český panský šlechtický rod, původem ze středních Čech, jehož historie sahá až do 13. století, neboť pochází z rozrodu Janoviců. Rod Kolowratů hrál nezanedbatelnou úlohu v historii a politice nejen v Čechách, ale i v celé střední Evropě.",
-  "related": [],
+  "related": [
+   {
+    "family": "libstejnsti-z-kolovrat",
+    "relation": "větev (Libštejnští z Kolovrat)"
+   },
+   {
+    "family": "kolowrat-krakowsti",
+    "relation": "větev (Krakovští z Kolovrat)"
+   }
+  ],
   "places": [
    {
     "place": "Q1012205",
@@ -12898,7 +13173,12 @@
   "cswiki": "https://cs.wikipedia.org/wiki/Kolowrat-Krakowští",
   "coat_of_arms": "Kolowrat-Krakowsky-Wappen.png",
   "summary": "Krakovští z Kolovrat (podle rodinou preferovaného pravopisu Krakowští z Kolowrat, případně Kolowrat-Krakowští) jsou jednou z větví rodu Kolovratů a posledními žijícími příslušníky tohoto rodu. Svůj název odvozují od hradu Krakovec. Současnou hlavou rodiny je Maximilian Alexander Kolowrat-Krakowský (* 1996).",
-  "related": [],
+  "related": [
+   {
+    "family": "kolovratove",
+    "relation": "větev rodu Kolovratů"
+   }
+  ],
   "places": [
    {
     "place": "Q1421237",
@@ -14320,7 +14600,12 @@
   "cswiki": "https://cs.wikipedia.org/wiki/Landštejnové",
   "coat_of_arms": "Páni z Landštejna, starý znak.png",
   "summary": "Landštejnové případně páni z Landštejna a Třeboně byli starý český panský rod, který patřil mezi pět hlavních rozrodů Vítkovců. Původně sídlili v Třeboni. Na konci 13. století však získali pevný hrad Landštejn a změnili si podle něj i svůj přídomek.",
-  "related": [],
+  "related": [
+   {
+    "family": "vitkovci",
+    "relation": "jeden z hlavních rozrodů Vítkovců"
+   }
+  ],
   "places": [
    {
     "place": "Q1012998",
@@ -14616,6 +14901,15 @@
     "to_approx": true
    },
    {
+    "place": "Q30860068",
+    "from": 1800,
+    "to": 1897,
+    "person": "hrabě Jan Larisch-Mönich, poté Jindřich Larisch-Mönich",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
     "place": "Q36334493",
     "from": 1787,
     "to": 1816,
@@ -14687,6 +14981,20 @@
     "how": "snatek"
    },
    {
+    "place": "Q30860068",
+    "year": 1800,
+    "from": "orlikove-z-laziska",
+    "to": "larischove",
+    "how": "koupe"
+   },
+   {
+    "place": "Q30860068",
+    "year": 1897,
+    "from": "larischove",
+    "to": "razumovsti",
+    "how": "koupe"
+   },
+   {
     "place": "Q36334493",
     "year": 1787,
     "from": "koruna",
@@ -14729,7 +15037,7 @@
     "how": "konfiskace"
    }
   ],
-  "place_count": 6,
+  "place_count": 7,
   "color_slot": null
  },
  "lazansti-z-bukove": {
@@ -15227,7 +15535,12 @@
   "cswiki": "https://cs.wikipedia.org/wiki/Libštejnští_z_Kolovrat",
   "coat_of_arms": "Erb Verně a stále.gif",
   "summary": "Libštejnští z Kolovrat (Kolowrat-Liebsteinští) byli jednou z větví rodu Kolovratů. Své jméno odvozovali od hradu Libštejn na Plzeňsku. Během 14. a 15. století se rod Kolovratů rozdělil do osmi rodových větví, které jsou odvozovány od synů Albrechta staršího z Kolowrat. První syn Albrecht mladší z Kolowrat byl praotcem linie Krakovské, ale také Libštejnské která spadá do období od konce 14. století do roku 1760.",
-  "related": [],
+  "related": [
+   {
+    "family": "kolovratove",
+    "relation": "větev rodu Kolovratů"
+   }
+  ],
   "places": [
    {
     "place": "Q1014187",
@@ -15347,6 +15660,24 @@
   "related": [],
   "places": [
    {
+    "place": "Q120065441",
+    "from": null,
+    "to": 1650,
+    "person": "Jiří Lichnovský",
+    "how": "neznamo",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q120065441",
+    "from": 1670,
+    "to": 1945,
+    "person": "Karel Maxmilián Lichnovský (později knížata Lichnovští, poslední kníže Vilém)",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
     "place": "Q168391",
     "from": 1777,
     "to": 1788,
@@ -15384,6 +15715,27 @@
    }
   ],
   "transfers": [
+   {
+    "place": "Q120065441",
+    "year": 1650,
+    "from": "lichnovsti-z-vostic",
+    "to": "skrbensti-z-hriste",
+    "how": "koupe"
+   },
+   {
+    "place": "Q120065441",
+    "year": 1670,
+    "from": "skrbensti-z-hriste",
+    "to": "lichnovsti-z-vostic",
+    "how": "koupe"
+   },
+   {
+    "place": "Q120065441",
+    "year": 1945,
+    "from": "lichnovsti-z-vostic",
+    "to": "stat",
+    "how": "konfiskace"
+   },
    {
     "place": "Q168391",
     "year": 1777,
@@ -15427,7 +15779,7 @@
     "how": "koupe"
    }
   ],
-  "place_count": 2,
+  "place_count": 3,
   "color_slot": null
  },
  "lichtenburkove": {
@@ -16578,7 +16930,7 @@
     "place": "Q366535",
     "year": 1560,
     "from": "lichtenstejnove",
-    "to": "soukromnik",
+    "to": "kereczenyiove",
     "how": "koupe"
    },
    {
@@ -16592,7 +16944,7 @@
     "place": "Q370990",
     "year": 1560,
     "from": "lichtenstejnove",
-    "to": "soukromnik",
+    "to": "kereczenyiove",
     "how": "koupe"
    },
    {
@@ -18468,6 +18820,15 @@
     "to_approx": false
    },
    {
+    "place": "Q33323103",
+    "from": 1627,
+    "to": 1630,
+    "person": "pluk generála Balthasara Marradase",
+    "how": "konfiskace",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
     "place": "Q37851622",
     "from": 1623,
     "to": 1628,
@@ -18493,6 +18854,20 @@
     "how": "koupe"
    },
    {
+    "place": "Q33323103",
+    "year": 1627,
+    "from": "kaplirove-ze-sulevic",
+    "to": "marradasove",
+    "how": "konfiskace"
+   },
+   {
+    "place": "Q33323103",
+    "year": 1630,
+    "from": "marradasove",
+    "to": "hoeff-huertove",
+    "how": "koupe"
+   },
+   {
     "place": "Q37851622",
     "year": 1623,
     "from": "perglarove-z-perglasu",
@@ -18507,7 +18882,7 @@
     "how": "koupe"
    }
   ],
-  "place_count": 2,
+  "place_count": 3,
   "color_slot": null
  },
  "martinicove-a-clam-martinicove": {
@@ -20580,6 +20955,15 @@
     "how": "lenni",
     "from_approx": false,
     "to_approx": false
+   },
+   {
+    "place": "Q30860068",
+    "from": 1721,
+    "to": 1800,
+    "person": "svobodný pán Karel František Orlík z Laziska, poté synové Karel a Jan Křtitel",
+    "how": "neznamo",
+    "from_approx": false,
+    "to_approx": false
    }
   ],
   "transfers": [
@@ -20596,9 +20980,23 @@
     "from": "orlikove-z-laziska",
     "to": "tetzlernove",
     "how": "neznamo"
+   },
+   {
+    "place": "Q30860068",
+    "year": 1721,
+    "from": "neznamo",
+    "to": "orlikove-z-laziska",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q30860068",
+    "year": 1800,
+    "from": "orlikove-z-laziska",
+    "to": "larischove",
+    "how": "koupe"
    }
   ],
-  "place_count": 1,
+  "place_count": 2,
   "color_slot": null
  },
  "paarove": {
@@ -22126,7 +22524,12 @@
   "cswiki": "https://cs.wikipedia.org/wiki/Páni_z_Hradce",
   "coat_of_arms": "Páni z Hradce, starý znak.png",
   "summary": "Páni z Hradce (německy Herren von Neuhaus, latinsky de Novo Domo) byli příslušníky starého českého šlechtického rodu s hlavním sídlem v Jindřichově Hradci a od roku 1339 též na západomoravské Telči. Od 13. století do počátku 17. století se rod hradeckých řadil k druhé nejvýznamnější rodové linii pánů z Růže neboli Vítkovců. Páni z Hradce užívali nejprve erbu zlaté pětilisté růže v modrém poli, po polovině 16.",
-  "related": [],
+  "related": [
+   {
+    "family": "vitkovci",
+    "relation": "jeden z hlavních rozrodů Vítkovců"
+   }
+  ],
   "places": [
    {
     "place": "Q1012713",
@@ -23729,7 +24132,16 @@
   "cswiki": "https://cs.wikipedia.org/wiki/Páni_z_Lipé",
   "coat_of_arms": "Coat of arms of Páni z Lichtenburka.svg",
   "summary": "Páni z Lipé byli starý český panský rod vzešlý z rozrodu Ronovců. Své jméno odvozovali od Lipé, dnešní České Lípy. Největšího bohatství a slávy dosáhl rod za vlády Lucemburků, poté však majetek i vliv začal postupně ztrácet.",
-  "related": [],
+  "related": [
+   {
+    "family": "ronovci",
+    "relation": "větev Ronovců"
+   },
+   {
+    "family": "berkove-z-dube",
+    "relation": "Berkové z Dubé a z Lipé"
+   }
+  ],
   "places": [
    {
     "place": "Q1012914",
@@ -23802,6 +24214,24 @@
     "how": "dedictvi",
     "from_approx": true,
     "to_approx": true
+   },
+   {
+    "place": "Q12033634",
+    "from": 1268,
+    "to": 1278,
+    "person": "Chval, případně syn Čeněk z Lipé",
+    "how": "zalozeni",
+    "from_approx": true,
+    "to_approx": false
+   },
+   {
+    "place": "Q12033634",
+    "from": 1278,
+    "to": 1319,
+    "person": "Jindřich z Lipé",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": false
    },
    {
     "place": "Q12038651",
@@ -23989,6 +24419,13 @@
     "how": "neznamo"
    },
    {
+    "place": "Q12033634",
+    "year": 1319,
+    "from": "pani-z-lipe",
+    "to": "berkove-z-dube",
+    "how": "koupe"
+   },
+   {
     "place": "Q12038651",
     "year": 1325,
     "from": "koruna",
@@ -24136,7 +24573,7 @@
     "how": "neznamo"
    }
   ],
-  "place_count": 14,
+  "place_count": 15,
   "color_slot": null
  },
  "pani-z-lomnice": {
@@ -24573,8 +25010,22 @@
   "wikidata": "Q10270972",
   "cswiki": "https://cs.wikipedia.org/wiki/Páni_z_Potštejna_a_Litic",
   "summary": "Páni z Potštejna a Litic, později používající jméno Žampachové z Potštejna, byli starý český šlechtický rod, jedna z větví Drslaviců. Pocházeli ze západních Čech a ve 14. století se díky směně pozemkového vlastnictví usadili v podhůří Orlických hor ve východních Čechách.",
-  "related": [],
+  "related": [
+   {
+    "family": "drslavici",
+    "relation": "větev Drslaviců (později Žampachové z Potštejna)"
+   }
+  ],
   "places": [
+   {
+    "place": "Q1011508",
+    "from": 1420,
+    "to": 1426,
+    "person": "Vilém z Potštejna",
+    "how": "jine",
+    "from_approx": false,
+    "to_approx": false
+   },
    {
     "place": "Q18164",
     "from": 1280,
@@ -24592,18 +25043,71 @@
     "how": "dedictvi",
     "from_approx": true,
     "to_approx": false
+   },
+   {
+    "place": "Q369704",
+    "from": 1341,
+    "to": 1359,
+    "person": "Čeněk z Potštejna",
+    "how": "neznamo",
+    "from_approx": false,
+    "to_approx": true
+   },
+   {
+    "place": "Q62610248",
+    "from": 1637,
+    "to": 1688,
+    "person": "Karel Zdeněk Žampach z Potštejna",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": true
    }
   ],
   "transfers": [
+   {
+    "place": "Q1011508",
+    "year": 1420,
+    "from": "rozmberkove",
+    "to": "pani-z-potstejna-a-litic",
+    "how": "jine"
+   },
+   {
+    "place": "Q1011508",
+    "year": 1426,
+    "from": "pani-z-potstejna-a-litic",
+    "to": "rozmberkove",
+    "how": "jine"
+   },
    {
     "place": "Q18164",
     "year": 1339,
     "from": "pani-z-potstejna-a-litic",
     "to": "koruna",
     "how": "konfiskace"
+   },
+   {
+    "place": "Q369704",
+    "year": 1359,
+    "from": "pani-z-potstejna-a-litic",
+    "to": "drslavici",
+    "how": "lenni"
+   },
+   {
+    "place": "Q62610248",
+    "year": 1637,
+    "from": "z-slupska",
+    "to": "pani-z-potstejna-a-litic",
+    "how": "koupe"
+   },
+   {
+    "place": "Q62610248",
+    "year": 1688,
+    "from": "pani-z-potstejna-a-litic",
+    "to": "z-gasinu",
+    "how": "neznamo"
    }
   ],
-  "place_count": 1,
+  "place_count": 4,
   "color_slot": null
  },
  "pani-z-rican": {
@@ -25234,6 +25738,15 @@
     "to_approx": false
    },
    {
+    "place": "Q1013542",
+    "from": 1406,
+    "to": 1418,
+    "person": "Boreš a Boreš mladší z Rýzmburka",
+    "how": "lenni",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
     "place": "Q10396968",
     "from": 1390,
     "to": 1431,
@@ -25286,6 +25799,20 @@
     "how": "lenni"
    },
    {
+    "place": "Q1013542",
+    "year": 1406,
+    "from": "zajicove-z-hazmburka",
+    "to": "pani-z-ryzmburka",
+    "how": "lenni"
+   },
+   {
+    "place": "Q1013542",
+    "year": 1418,
+    "from": "pani-z-ryzmburka",
+    "to": "chudi-z-ujezda",
+    "how": "lenni"
+   },
+   {
     "place": "Q10396968",
     "year": 1390,
     "from": "selmberkove",
@@ -25328,7 +25855,7 @@
     "how": "koupe"
    }
   ],
-  "place_count": 5,
+  "place_count": 6,
   "color_slot": null
  },
  "pani-z-talmberka": {
@@ -29448,6 +29975,68 @@
   "place_count": 3,
   "color_slot": null
  },
+ "razumovsti": {
+  "id": "razumovsti",
+  "type": "rod",
+  "name": "Razumovští",
+  "wikidata": "Q71929",
+  "cswiki": "https://cs.wikipedia.org/wiki/Razumovští",
+  "coat_of_arms": "Coat of Arms of Rozumovsky family (1914).png",
+  "summary": "Razumovští (rusky Разумовский, ukrajinsky: Розумовський) je ruský imperiální a později také rakouský šlechtický rod ukrajinského původu.",
+  "related": [],
+  "places": [
+   {
+    "place": "Q30860068",
+    "from": 1897,
+    "to": 1945,
+    "person": "hrabě Kamillo Razumovský",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q38487484",
+    "from": 1884,
+    "to": 1945,
+    "person": "hrabě Kamillo Razumovský s manželkou Marií",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q30860068",
+    "year": 1897,
+    "from": "larischove",
+    "to": "razumovsti",
+    "how": "koupe"
+   },
+   {
+    "place": "Q30860068",
+    "year": 1945,
+    "from": "razumovsti",
+    "to": "stat",
+    "how": "konfiskace"
+   },
+   {
+    "place": "Q38487484",
+    "year": 1884,
+    "from": "soukromnik",
+    "to": "razumovsti",
+    "how": "koupe"
+   },
+   {
+    "place": "Q38487484",
+    "year": 1945,
+    "from": "razumovsti",
+    "to": "stat",
+    "how": "konfiskace"
+   }
+  ],
+  "place_count": 2,
+  "color_slot": null
+ },
  "rebentischove": {
   "id": "rebentischove",
   "type": "rod",
@@ -29886,24 +30475,6 @@
   "related": [],
   "places": [
    {
-    "place": "Q12033634",
-    "from": 1268,
-    "to": 1278,
-    "person": "Chval, případně syn Čeněk z Lipé",
-    "how": "zalozeni",
-    "from_approx": true,
-    "to_approx": false
-   },
-   {
-    "place": "Q12033634",
-    "from": 1278,
-    "to": 1319,
-    "person": "Jindřich z Lipé",
-    "how": "dedictvi",
-    "from_approx": false,
-    "to_approx": false
-   },
-   {
     "place": "Q1708948",
     "from": 1250,
     "to": 1342,
@@ -29933,13 +30504,6 @@
   ],
   "transfers": [
    {
-    "place": "Q12033634",
-    "year": 1319,
-    "from": "ronovci",
-    "to": "berkove-z-dube",
-    "how": "koupe"
-   },
-   {
     "place": "Q1708948",
     "year": 1342,
     "from": "ronovci",
@@ -29961,7 +30525,7 @@
     "how": "neznamo"
    }
   ],
-  "place_count": 4,
+  "place_count": 3,
   "color_slot": null
  },
  "rothschildove": {
@@ -30130,7 +30694,12 @@
   "cswiki": "https://cs.wikipedia.org/wiki/Rožmberkové",
   "coat_of_arms": "Alex K Kryshtof Krempskyi.svg",
   "summary": "Rožmberkové, případně páni z Rožmberka (německy Rosenberger, Herren von Rosenberg), byli starý český šlechtický rod, jeden z tzv. rozrodů Vítkovců, který do 14. století vybudoval v jižních Čechách silné feudální panství (rožmberské dominium), a který konkuroval královské moci v českých zemích. Od roku 1418 byl vládnoucí člen rodu titulován jako „vladař domu rožmberského“.",
-  "related": [],
+  "related": [
+   {
+    "family": "vitkovci",
+    "relation": "jeden z hlavních rozrodů Vítkovců"
+   }
+  ],
   "places": [
    {
     "place": "Q1011349",
@@ -30458,13 +31027,13 @@
     "place": "Q1011508",
     "year": 1420,
     "from": "rozmberkove",
-    "to": "z-potstejna",
+    "to": "pani-z-potstejna-a-litic",
     "how": "jine"
    },
    {
     "place": "Q1011508",
     "year": 1426,
-    "from": "z-potstejna",
+    "from": "pani-z-potstejna-a-litic",
     "to": "rozmberkove",
     "how": "jine"
    },
@@ -32909,6 +33478,15 @@
   "related": [],
   "places": [
    {
+    "place": "Q120065441",
+    "from": 1650,
+    "to": 1670,
+    "person": "Zikmund Jaroslav Skrbenský",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
     "place": "Q31432053",
     "from": 1582,
     "to": 1725,
@@ -32947,6 +33525,20 @@
   ],
   "transfers": [
    {
+    "place": "Q120065441",
+    "year": 1650,
+    "from": "lichnovsti-z-vostic",
+    "to": "skrbensti-z-hriste",
+    "how": "koupe"
+   },
+   {
+    "place": "Q120065441",
+    "year": 1670,
+    "from": "skrbensti-z-hriste",
+    "to": "lichnovsti-z-vostic",
+    "how": "koupe"
+   },
+   {
     "place": "Q31432053",
     "year": 1582,
     "from": "z-slevic",
@@ -32961,7 +33553,7 @@
     "how": "koupe"
    }
   ],
-  "place_count": 1,
+  "place_count": 2,
   "color_slot": null
  },
  "slavatove-z-chlumu-a-kosumberka": {
@@ -35783,6 +36375,41 @@
   "place_count": 1,
   "color_slot": null
  },
+ "sudove-z-renec": {
+  "id": "sudove-z-renec",
+  "type": "rod",
+  "name": "sudove-z-renec",
+  "related": [],
+  "places": [
+   {
+    "place": "Q33254362",
+    "from": 1565,
+    "to": 1638,
+    "person": "Sudové z Řeneč (Suda, Petr Suda, Jetřich Suda)",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q33254362",
+    "year": 1565,
+    "from": "z-kralovic",
+    "to": "sudove-z-renec",
+    "how": "koupe"
+   },
+   {
+    "place": "Q33254362",
+    "year": 1638,
+    "from": "sudove-z-renec",
+    "to": "vitanovsti-z-vlckovic",
+    "how": "snatek"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
  "sumburkove": {
   "id": "sumburkove",
   "type": "rod",
@@ -35869,7 +36496,12 @@
   "cswiki": "https://cs.wikipedia.org/wiki/Švihovští_z_Rýzmberka",
   "coat_of_arms": "Svihov-erb.svg",
   "summary": "Švihovští z Rýzmberka (též z Rýznberka, německy Schwihau von Riesenberg) byli starý český panský rod, který pocházel z rozrodu Drslaviců, s nimiž má stejné erbovní znamení.",
-  "related": [],
+  "related": [
+   {
+    "family": "drslavici",
+    "relation": "z rozrodu Drslaviců"
+   }
+  ],
   "places": [
    {
     "place": "Q1013789",
@@ -36126,6 +36758,41 @@
    }
   ],
   "place_count": 2,
+  "color_slot": null
+ },
+ "tenczinove": {
+  "id": "tenczinove",
+  "type": "rod",
+  "name": "tenczinove",
+  "related": [],
+  "places": [
+   {
+    "place": "Q38487484",
+    "from": 1788,
+    "to": 1811,
+    "person": "hrabě Jan Erdmann z Tenczinu, poté jeho syn Jan (1803-1811)",
+    "how": "neznamo",
+    "from_approx": true,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q38487484",
+    "year": 1788,
+    "from": "soukromnik",
+    "to": "tenczinove",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q38487484",
+    "year": 1811,
+    "from": "tenczinove",
+    "to": "arzove-z-wassegu",
+    "how": "dedictvi"
+   }
+  ],
+  "place_count": 1,
   "color_slot": null
  },
  "tetourove-z-tetova": {
@@ -39937,6 +40604,41 @@
   "place_count": 2,
   "color_slot": null
  },
+ "vitanovsti-z-vlckovic": {
+  "id": "vitanovsti-z-vlckovic",
+  "type": "rod",
+  "name": "vitanovsti-z-vlckovic",
+  "related": [],
+  "places": [
+   {
+    "place": "Q33254362",
+    "from": 1638,
+    "to": 1650,
+    "person": "Adam Mikuláš Vitanovský z Vlčkovic a Dorota Anna Sudová",
+    "how": "snatek",
+    "from_approx": true,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q33254362",
+    "year": 1638,
+    "from": "sudove-z-renec",
+    "to": "vitanovsti-z-vlckovic",
+    "how": "snatek"
+   },
+   {
+    "place": "Q33254362",
+    "year": 1650,
+    "from": "vitanovsti-z-vlckovic",
+    "to": "neznamo",
+    "how": "neznamo"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
  "vitkovci": {
   "id": "vitkovci",
   "type": "rod",
@@ -40936,7 +41638,7 @@
    {
     "place": "Q31145809",
     "year": 1567,
-    "from": "z-rysmburka",
+    "from": "z-ryzmburka",
     "to": "z-armenruh",
     "how": "koupe"
    },
@@ -43269,7 +43971,7 @@
    {
     "place": "Q62610248",
     "year": 1688,
-    "from": "z-potstejna",
+    "from": "pani-z-potstejna-a-litic",
     "to": "z-gasinu",
     "how": "neznamo"
    },
@@ -45303,6 +46005,15 @@
   "related": [],
   "places": [
    {
+    "place": "Q33254362",
+    "from": 1479,
+    "to": 1565,
+    "person": "Strachotové z Kralovic (Michal, Jan mladší, Burjan)",
+    "how": "neznamo",
+    "from_approx": true,
+    "to_approx": false
+   },
+   {
     "place": "Q38090398",
     "from": 1483,
     "to": 1541,
@@ -45313,6 +46024,20 @@
    }
   ],
   "transfers": [
+   {
+    "place": "Q33254362",
+    "year": 1479,
+    "from": "z-orlice",
+    "to": "z-kralovic",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q33254362",
+    "year": 1565,
+    "from": "z-kralovic",
+    "to": "sudove-z-renec",
+    "how": "koupe"
+   },
    {
     "place": "Q38090398",
     "year": 1483,
@@ -45328,7 +46053,7 @@
     "how": "koupe"
    }
   ],
-  "place_count": 1,
+  "place_count": 2,
   "color_slot": null
  },
  "z-kraselova": {
@@ -47463,6 +48188,34 @@
   "place_count": 1,
   "color_slot": null
  },
+ "z-neustupova": {
+  "id": "z-neustupova",
+  "type": "rod",
+  "name": "z-neustupova",
+  "related": [],
+  "places": [
+   {
+    "place": "Q33323103",
+    "from": 1364,
+    "to": 1452,
+    "person": "vladykové z Neustupova a ze Soběšína",
+    "how": "zalozeni",
+    "from_approx": false,
+    "to_approx": true
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q33323103",
+    "year": 1452,
+    "from": "z-neustupova",
+    "to": "z-slavkova",
+    "how": "neznamo"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
  "z-nezetic": {
   "id": "z-nezetic",
   "type": "rod",
@@ -47742,6 +48495,34 @@
   "place_count": 1,
   "color_slot": null
  },
+ "z-olesne": {
+  "id": "z-olesne",
+  "type": "rod",
+  "name": "z-olesne",
+  "related": [],
+  "places": [
+   {
+    "place": "Q33254362",
+    "from": 1257,
+    "to": 1361,
+    "person": "páni z Olešné, družiníci Kojaty z Hrabišic",
+    "how": "lenni",
+    "from_approx": false,
+    "to_approx": true
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q33254362",
+    "year": 1361,
+    "from": "z-olesne",
+    "to": "z-orlice",
+    "how": "neznamo"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
  "z-olivove-hory": {
   "id": "z-olivove-hory",
   "type": "rod",
@@ -47781,6 +48562,64 @@
     "from": "z-olivove-hory",
     "to": "morzinove",
     "how": "koupe"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
+ "z-orlice": {
+  "id": "z-orlice",
+  "type": "rod",
+  "name": "z-orlice",
+  "related": [],
+  "places": [
+   {
+    "place": "Q33254362",
+    "from": 1361,
+    "to": 1366,
+    "person": "Ivan z Orlice",
+    "how": "neznamo",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q33254362",
+    "from": 1393,
+    "to": 1479,
+    "person": "Tvoch z Orlice, královský strážce; poté Mikuláš z Orlice",
+    "how": "lenni",
+    "from_approx": true,
+    "to_approx": true
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q33254362",
+    "year": 1361,
+    "from": "z-olesne",
+    "to": "z-orlice",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q33254362",
+    "year": 1366,
+    "from": "z-orlice",
+    "to": "z-prepych",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q33254362",
+    "year": 1393,
+    "from": "z-prepych",
+    "to": "z-orlice",
+    "how": "lenni"
+   },
+   {
+    "place": "Q33254362",
+    "year": 1479,
+    "from": "z-orlice",
+    "to": "z-kralovic",
+    "how": "neznamo"
    }
   ],
   "place_count": 1,
@@ -48761,78 +49600,39 @@
   "place_count": 1,
   "color_slot": null
  },
- "z-potstejna": {
-  "id": "z-potstejna",
+ "z-pottingu": {
+  "id": "z-pottingu",
   "type": "rod",
-  "name": "z-potstejna",
+  "name": "z-pottingu",
   "related": [],
   "places": [
    {
-    "place": "Q1011508",
-    "from": 1420,
-    "to": 1426,
-    "person": "Vilém z Potštejna",
-    "how": "jine",
-    "from_approx": false,
-    "to_approx": false
-   },
-   {
-    "place": "Q369704",
-    "from": 1341,
-    "to": 1359,
-    "person": "Čeněk z Potštejna",
+    "place": "Q33323103",
+    "from": 1633,
+    "to": 1681,
+    "person": "hrabata z Pöttingu",
     "how": "neznamo",
-    "from_approx": false,
-    "to_approx": true
-   },
-   {
-    "place": "Q62610248",
-    "from": 1637,
-    "to": 1688,
-    "person": "Karel Zdeněk Žampach z Potštejna",
-    "how": "koupe",
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": true
    }
   ],
   "transfers": [
    {
-    "place": "Q1011508",
-    "year": 1420,
-    "from": "rozmberkove",
-    "to": "z-potstejna",
-    "how": "jine"
+    "place": "Q33323103",
+    "year": 1633,
+    "from": "hoeff-huertove",
+    "to": "z-pottingu",
+    "how": "neznamo"
    },
    {
-    "place": "Q1011508",
-    "year": 1426,
-    "from": "z-potstejna",
-    "to": "rozmberkove",
-    "how": "jine"
-   },
-   {
-    "place": "Q369704",
-    "year": 1359,
-    "from": "z-potstejna",
-    "to": "drslavici",
-    "how": "lenni"
-   },
-   {
-    "place": "Q62610248",
-    "year": 1637,
-    "from": "z-slupska",
-    "to": "z-potstejna",
-    "how": "koupe"
-   },
-   {
-    "place": "Q62610248",
-    "year": 1688,
-    "from": "z-potstejna",
-    "to": "z-gasinu",
+    "place": "Q33323103",
+    "year": 1681,
+    "from": "z-pottingu",
+    "to": "bissingenove",
     "how": "neznamo"
    }
   ],
-  "place_count": 3,
+  "place_count": 1,
   "color_slot": null
  },
  "z-pozoric": {
@@ -48865,6 +49665,41 @@
     "from": "z-pozoric",
     "to": "boskovicove",
     "how": "neznamo"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
+ "z-prepych": {
+  "id": "z-prepych",
+  "type": "rod",
+  "name": "z-prepych",
+  "related": [],
+  "places": [
+   {
+    "place": "Q33254362",
+    "from": 1366,
+    "to": 1393,
+    "person": "Dobeš z Přepych a Všech z Rohova",
+    "how": "neznamo",
+    "from_approx": true,
+    "to_approx": true
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q33254362",
+    "year": 1366,
+    "from": "z-orlice",
+    "to": "z-prepych",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q33254362",
+    "year": 1393,
+    "from": "z-prepych",
+    "to": "z-orlice",
+    "how": "lenni"
    }
   ],
   "place_count": 1,
@@ -49818,11 +50653,16 @@
   "place_count": 1,
   "color_slot": null
  },
- "z-rysmburka": {
-  "id": "z-rysmburka",
+ "z-ryzmburka": {
+  "id": "z-ryzmburka",
   "type": "rod",
-  "name": "z-rysmburka",
-  "related": [],
+  "name": "z Rýzmburka",
+  "related": [
+   {
+    "family": "pani-z-ryzmburka",
+    "relation": "odlišná rodina od pánů z Rýzmburka (Licek z Rýzmburka)"
+   }
+  ],
   "places": [
    {
     "place": "Q31145809",
@@ -49831,34 +50671,6 @@
     "person": "Sigmund Licek z Rýzmburka",
     "how": "neznamo",
     "from_approx": true,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q31145809",
-    "year": 1567,
-    "from": "z-rysmburka",
-    "to": "z-armenruh",
-    "how": "koupe"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
- "z-ryzmburka": {
-  "id": "z-ryzmburka",
-  "type": "rod",
-  "name": "z Rýzmburka",
-  "related": [],
-  "places": [
-   {
-    "place": "Q1013542",
-    "from": 1406,
-    "to": 1418,
-    "person": "Boreš a Boreš mladší z Rýzmburka",
-    "how": "lenni",
-    "from_approx": false,
     "to_approx": false
    },
    {
@@ -49873,18 +50685,11 @@
   ],
   "transfers": [
    {
-    "place": "Q1013542",
-    "year": 1406,
-    "from": "zajicove-z-hazmburka",
-    "to": "z-ryzmburka",
-    "how": "lenni"
-   },
-   {
-    "place": "Q1013542",
-    "year": 1418,
+    "place": "Q31145809",
+    "year": 1567,
     "from": "z-ryzmburka",
-    "to": "chudi-z-ujezda",
-    "how": "lenni"
+    "to": "z-armenruh",
+    "how": "koupe"
    },
    {
     "place": "Q655633",
@@ -50266,6 +51071,41 @@
   "place_count": 1,
   "color_slot": null
  },
+ "z-slavkova": {
+  "id": "z-slavkova",
+  "type": "rod",
+  "name": "z-slavkova",
+  "related": [],
+  "places": [
+   {
+    "place": "Q33323103",
+    "from": 1452,
+    "to": 1539,
+    "person": "Radimští ze Slavkova (Jan Neustupovský ze Slavkova, +1545)",
+    "how": "neznamo",
+    "from_approx": true,
+    "to_approx": true
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q33323103",
+    "year": 1452,
+    "from": "z-neustupova",
+    "to": "z-slavkova",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q33323103",
+    "year": 1539,
+    "from": "z-slavkova",
+    "to": "kaplirove-ze-sulevic",
+    "how": "dedictvi"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
  "z-slevic": {
   "id": "z-slevic",
   "type": "rod",
@@ -50345,7 +51185,7 @@
     "place": "Q62610248",
     "year": 1637,
     "from": "z-slupska",
-    "to": "z-potstejna",
+    "to": "pani-z-potstejna-a-litic",
     "how": "koupe"
    }
   ],
@@ -53315,7 +54155,7 @@
     "place": "Q1013542",
     "year": 1406,
     "from": "zajicove-z-hazmburka",
-    "to": "z-ryzmburka",
+    "to": "pani-z-ryzmburka",
     "how": "lenni"
    },
    {
@@ -54531,6 +55371,34 @@
   "place_count": 13,
   "color_slot": null
  },
+ "zibotove": {
+  "id": "zibotove",
+  "type": "rod",
+  "name": "zibotove",
+  "related": [],
+  "places": [
+   {
+    "place": "Q30860068",
+    "from": 1200,
+    "to": 1460,
+    "person": "rod Zibotů",
+    "how": "zalozeni",
+    "from_approx": true,
+    "to_approx": true
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q30860068",
+    "year": 1460,
+    "from": "zibotove",
+    "to": "neznamo",
+    "how": "neznamo"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
  "zmrzlikove-ze-svojsina": {
   "id": "zmrzlikove-ze-svojsina",
   "type": "rod",
@@ -55005,6 +55873,15 @@
     "to_approx": true
    },
    {
+    "place": "Q30860068",
+    "from": 1460,
+    "to": 1721,
+    "person": null,
+    "how": "neznamo",
+    "from_approx": true,
+    "to_approx": false
+   },
+   {
     "place": "Q31698034",
     "from": 1349,
     "to": 1500,
@@ -55017,6 +55894,24 @@
     "place": "Q31705383",
     "from": 1331,
     "to": 1698,
+    "person": null,
+    "how": "neznamo",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q33254362",
+    "from": 1650,
+    "to": 2008,
+    "person": null,
+    "how": "neznamo",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q33323103",
+    "from": 1712,
+    "to": 1809,
     "person": null,
     "how": "neznamo",
     "from_approx": false,
@@ -55567,6 +56462,20 @@
     "how": "lenni"
    },
    {
+    "place": "Q30860068",
+    "year": 1460,
+    "from": "zibotove",
+    "to": "neznamo",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q30860068",
+    "year": 1721,
+    "from": "neznamo",
+    "to": "orlikove-z-laziska",
+    "how": "neznamo"
+   },
+   {
     "place": "Q31698034",
     "year": 1500,
     "from": "neznamo",
@@ -55585,6 +56494,34 @@
     "year": 1698,
     "from": "neznamo",
     "to": "kinsti",
+    "how": "koupe"
+   },
+   {
+    "place": "Q33254362",
+    "year": 1650,
+    "from": "vitanovsti-z-vlckovic",
+    "to": "neznamo",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q33254362",
+    "year": 2008,
+    "from": "neznamo",
+    "to": "soukromnik",
+    "how": "koupe"
+   },
+   {
+    "place": "Q33323103",
+    "year": 1712,
+    "from": "dohalsti-z-dohalic",
+    "to": "neznamo",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q33323103",
+    "year": 1809,
+    "from": "neznamo",
+    "to": "soukromnik",
     "how": "koupe"
    },
    {
@@ -55707,7 +56644,7 @@
     "how": "koupe"
    }
   ],
-  "place_count": 42,
+  "place_count": 45,
   "color_slot": null
  },
  "koruna": {
@@ -59493,7 +60430,7 @@
    {
     "place": "Q366535",
     "year": 1570,
-    "from": "soukromnik",
+    "from": "kereczenyiove",
     "to": "koruna",
     "how": "jine"
    },
@@ -59619,7 +60556,7 @@
    {
     "place": "Q370990",
     "year": 1575,
-    "from": "soukromnik",
+    "from": "kereczenyiove",
     "to": "koruna",
     "how": "konfiskace"
    },
@@ -60420,6 +61357,15 @@
     "to_approx": false
    },
    {
+    "place": "Q120065441",
+    "from": 1945,
+    "to": null,
+    "person": null,
+    "how": "konfiskace",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
     "place": "Q12018569",
     "from": 1788,
     "to": null,
@@ -61205,11 +62151,11 @@
    {
     "place": "Q2240663",
     "from": 1948,
-    "to": 1990,
+    "to": 1993,
     "person": null,
     "how": "konfiskace",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q2240705",
@@ -61533,6 +62479,15 @@
     "person": null,
     "how": "konfiskace",
     "from_approx": true,
+    "to_approx": true
+   },
+   {
+    "place": "Q30860068",
+    "from": 1945,
+    "to": 2001,
+    "person": null,
+    "how": "konfiskace",
+    "from_approx": false,
     "to_approx": true
    },
    {
@@ -61926,6 +62881,15 @@
     "place": "Q38090398",
     "from": 1948,
     "to": 1990,
+    "person": null,
+    "how": "konfiskace",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q38487484",
+    "from": 1945,
+    "to": null,
     "person": null,
     "how": "konfiskace",
     "from_approx": false,
@@ -62758,6 +63722,13 @@
     "from": "sprinzensteinove",
     "to": "stat",
     "how": "jine"
+   },
+   {
+    "place": "Q120065441",
+    "year": 1945,
+    "from": "lichnovsti-z-vostic",
+    "to": "stat",
+    "how": "konfiskace"
    },
    {
     "place": "Q12018569",
@@ -63615,7 +64586,7 @@
    },
    {
     "place": "Q2240663",
-    "year": 1990,
+    "year": 1993,
     "from": "stat",
     "to": "bubnove-z-litic",
     "how": "restituce"
@@ -63987,6 +64958,20 @@
    {
     "place": "Q30860008",
     "year": 1945,
+    "from": "stat",
+    "to": "mesto",
+    "how": "jine"
+   },
+   {
+    "place": "Q30860068",
+    "year": 1945,
+    "from": "razumovsti",
+    "to": "stat",
+    "how": "konfiskace"
+   },
+   {
+    "place": "Q30860068",
+    "year": 2001,
     "from": "stat",
     "to": "mesto",
     "how": "jine"
@@ -64447,6 +65432,13 @@
     "how": "restituce"
    },
    {
+    "place": "Q38487484",
+    "year": 1945,
+    "from": "razumovsti",
+    "to": "stat",
+    "how": "konfiskace"
+   },
+   {
     "place": "Q43573247",
     "year": 1945,
     "from": "thun-hohensteinove",
@@ -64692,7 +65684,7 @@
     "how": "restituce"
    }
   ],
-  "place_count": 225,
+  "place_count": 228,
   "color_slot": null
  },
  "mesto": {
@@ -65458,6 +66450,15 @@
     "to_approx": false
    },
    {
+    "place": "Q30860068",
+    "from": 2001,
+    "to": null,
+    "person": "Moravskoslezský kraj",
+    "how": "jine",
+    "from_approx": true,
+    "to_approx": false
+   },
+   {
     "place": "Q30868464",
     "from": 1990,
     "to": null,
@@ -65528,6 +66529,15 @@
     "how": "jine",
     "from_approx": false,
     "to_approx": false
+   },
+   {
+    "place": "Q33323103",
+    "from": 1948,
+    "to": 1974,
+    "person": "místní národní výbor",
+    "how": "konfiskace",
+    "from_approx": true,
+    "to_approx": true
    },
    {
     "place": "Q33324399",
@@ -66362,6 +67372,13 @@
     "how": "jine"
    },
    {
+    "place": "Q30860068",
+    "year": 2001,
+    "from": "stat",
+    "to": "mesto",
+    "how": "jine"
+   },
+   {
     "place": "Q30868464",
     "year": 1990,
     "from": "stat",
@@ -66430,6 +67447,20 @@
     "from": "stat",
     "to": "mesto",
     "how": "jine"
+   },
+   {
+    "place": "Q33323103",
+    "year": 1948,
+    "from": "aichelburgove",
+    "to": "mesto",
+    "how": "konfiskace"
+   },
+   {
+    "place": "Q33323103",
+    "year": 1974,
+    "from": "mesto",
+    "to": "aichelburgove",
+    "how": "restituce"
    },
    {
     "place": "Q33324399",
@@ -66579,7 +67610,7 @@
     "how": "lenni"
    }
   ],
-  "place_count": 96,
+  "place_count": 98,
   "color_slot": null
  },
  "soukromnik": {
@@ -67194,8 +68225,17 @@
    {
     "place": "Q11353489",
     "from": 1989,
+    "to": 2017,
+    "person": "Stavební bytové družstvo Svébyt (předseda Oleg Rybnikář) a navazující společnosti, poté Nadace Svébyt",
+    "how": "jine",
+    "from_approx": true,
+    "to_approx": true
+   },
+   {
+    "place": "Q11353489",
+    "from": 2017,
     "to": null,
-    "person": "Stavební bytové družstvo Svébyt (předseda Oleg Rybnikář) a navazující společnosti, později Nadace Svébyt",
+    "person": "Spolek Svébyt Brtnice (předseda a jediný člen Oleg Rybnikář)",
     "how": "jine",
     "from_approx": true,
     "to_approx": false
@@ -68335,6 +69375,51 @@
     "to_approx": false
    },
    {
+    "place": "Q33254362",
+    "from": 2008,
+    "to": null,
+    "person": "EYWAN s.r.o. (spolumajitelé Pavel Tacl a Jaroslav Toman)",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q33323103",
+    "from": 1809,
+    "to": 1887,
+    "person": "rodina Rommbaldů (pražští měšťané)",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q33323103",
+    "from": 1887,
+    "to": 1892,
+    "person": "Karel a Marie Krausovi",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q33323103",
+    "from": 2000,
+    "to": 2020,
+    "person": "INTEC - export a import, s.r.o.",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q33323103",
+    "from": 2020,
+    "to": null,
+    "person": "Ing. Michal Farník",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
     "place": "Q33325199",
     "from": 1821,
     "to": 1860,
@@ -68479,24 +69564,6 @@
     "to_approx": false
    },
    {
-    "place": "Q366535",
-    "from": 1560,
-    "to": 1566,
-    "person": "Ladislav Kerecsenyi",
-    "how": "koupe",
-    "from_approx": false,
-    "to_approx": false
-   },
-   {
-    "place": "Q366535",
-    "from": 1566,
-    "to": 1570,
-    "person": "Kryštof Kerecsenyi",
-    "how": "dedictvi",
-    "from_approx": false,
-    "to_approx": true
-   },
-   {
     "place": "Q369694",
     "from": 1863,
     "to": 1881,
@@ -68569,24 +69636,6 @@
     "to_approx": false
    },
    {
-    "place": "Q370990",
-    "from": 1560,
-    "to": 1571,
-    "person": "Lászlo Kerecsényi",
-    "how": "koupe",
-    "from_approx": false,
-    "to_approx": false
-   },
-   {
-    "place": "Q370990",
-    "from": 1571,
-    "to": 1575,
-    "person": "Kristóf Kerecsényi",
-    "how": "dedictvi",
-    "from_approx": false,
-    "to_approx": false
-   },
-   {
     "place": "Q38090398",
     "from": 1925,
     "to": 1948,
@@ -68620,6 +69669,24 @@
     "person": "nynější nejmenovaný majitel",
     "how": "koupe",
     "from_approx": true,
+    "to_approx": false
+   },
+   {
+    "place": "Q38487484",
+    "from": 1765,
+    "to": 1788,
+    "person": "Jan Julius Frobel",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": true
+   },
+   {
+    "place": "Q38487484",
+    "from": 1860,
+    "to": 1884,
+    "person": "Emanuel (Eduard) Glassner, opavský obchodník",
+    "how": "koupe",
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -70483,6 +71550,34 @@
     "how": "koupe"
    },
    {
+    "place": "Q33254362",
+    "year": 2008,
+    "from": "neznamo",
+    "to": "soukromnik",
+    "how": "koupe"
+   },
+   {
+    "place": "Q33323103",
+    "year": 1809,
+    "from": "neznamo",
+    "to": "soukromnik",
+    "how": "koupe"
+   },
+   {
+    "place": "Q33323103",
+    "year": 1892,
+    "from": "soukromnik",
+    "to": "aichelburgove",
+    "how": "koupe"
+   },
+   {
+    "place": "Q33323103",
+    "year": 2000,
+    "from": "aichelburgove",
+    "to": "soukromnik",
+    "how": "koupe"
+   },
+   {
     "place": "Q33325199",
     "year": 1821,
     "from": "berchtoldove-z-uhercic",
@@ -70644,20 +71739,6 @@
     "how": "restituce"
    },
    {
-    "place": "Q366535",
-    "year": 1560,
-    "from": "lichtenstejnove",
-    "to": "soukromnik",
-    "how": "koupe"
-   },
-   {
-    "place": "Q366535",
-    "year": 1570,
-    "from": "soukromnik",
-    "to": "koruna",
-    "how": "jine"
-   },
-   {
     "place": "Q369694",
     "year": 1863,
     "from": "koruna",
@@ -70700,20 +71781,6 @@
     "how": "jine"
    },
    {
-    "place": "Q370990",
-    "year": 1560,
-    "from": "lichtenstejnove",
-    "to": "soukromnik",
-    "how": "koupe"
-   },
-   {
-    "place": "Q370990",
-    "year": 1575,
-    "from": "soukromnik",
-    "to": "koruna",
-    "how": "konfiskace"
-   },
-   {
     "place": "Q38090398",
     "year": 1925,
     "from": "lichtenstejnove",
@@ -70733,6 +71800,27 @@
     "from": "stat",
     "to": "soukromnik",
     "how": "restituce"
+   },
+   {
+    "place": "Q38487484",
+    "year": 1788,
+    "from": "soukromnik",
+    "to": "tenczinove",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q38487484",
+    "year": 1860,
+    "from": "arzove-z-wassegu",
+    "to": "soukromnik",
+    "how": "koupe"
+   },
+   {
+    "place": "Q38487484",
+    "year": 1884,
+    "from": "soukromnik",
+    "to": "razumovsti",
+    "how": "koupe"
    },
    {
     "place": "Q453713",
@@ -70987,7 +72075,7 @@
     "how": "jine"
    }
   ],
-  "place_count": 113,
+  "place_count": 114,
   "color_slot": null
  },
  "cirkev": {
