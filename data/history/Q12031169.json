@@ -1,0 +1,118 @@
+{
+ "id": "Q12031169",
+ "name": "Kotnov",
+ "founded": {
+  "year": null,
+  "approx": false,
+  "text": "Hrad založil Přemysl Otakar II. v 13. století (hrady.cz: 1270, jinde 2. polovina 13. stol.) jako městský hrad Hradiště; první písemná zmínka 1370."
+ },
+ "summary": "Kotnov (Hradiště) založil ve 13. století Přemysl Otakar II. jako městský hrad mimo město Hradiště. Roku 1370 jej držali páni z Ústí, po vzniku husitského Tábora byl začleněn do jeho opevnění. Po požáru roku 1532 se hrad přestavěl pro hospodářské účely a od roku 1612 v něm stál městský pivovar; zachovala se bateriová věž, dnes vyhlídková věž s expozicí Husitského muzea.",
+ "owners": [
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Přemysl Otakar II.",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "rok založení neuveden (13. století; hrady.cz 1270); zdroje neuvádějí, kdy a jak hrad přešel z krále na pány z Ústí"
+  },
+  {
+   "owner": "sezimove-z-usti",
+   "owner_wiki": null,
+   "person": "Oldřich a Sezema z Ústí",
+   "from": null,
+   "to": 1420,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "1370 získali od synů zemřelého bratra polovinu rodového majetku včetně hradu Hradiště; páni z Ústí jsou větví Vítkoviců; Sezimovo Ústí bylo 1420 dobyto"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "Město Tábor",
+   "from": 1420,
+   "to": 1844,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "jine",
+   "note": "po dobytí Sezimova Ústí 1420 Tábory obsadili Hradiště, hrad zapojen do opevnění města; od 1612 městský pivovar v areálu hradu; způsob nabytí neuveden, rok 1420 podle hrady.cz"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Pravovárečné měšťanstvo v Táboře (273 právovárečníků)",
+   "from": 1844,
+   "to": 1948,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "1844 převzali hrad s pivovarem od města právováreční měšťané (gymta.cz)"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": "Národní podnik Jihočeské pivovary",
+   "from": 1948,
+   "to": 2001,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "pivovar znárodněn k 1. 1. 1948; výroba piva ukončena 1981, stáčírna do 1992; hrad (věž) jako památka ve správě města/muzea - cs.wiki uvádí jen expozici Husitského muzea"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Firma Dvořák (Tábor)",
+   "from": 2001,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "areál bývalého pivovaru koupen v červenci 2001; aktuální vlastník věže Kotnov a rozsah areálu zdroje nespecifikují - nejisté"
+  }
+ ],
+ "events": [
+  {
+   "year": 1370,
+   "text": "první písemná zmínka, hrad Hradiště drží páni z Ústí"
+  },
+  {
+   "year": 1420,
+   "text": "po dobytí Sezimova Ústí obsazeno Hradiště a založen Tábor, hrad začleněn do hradeb"
+  },
+  {
+   "year": 1532,
+   "text": "požár hradu; poté hospodářské využití pro pivovar a výstavba bateriové věže (datace sporná)"
+  },
+  {
+   "year": 1612,
+   "text": "město Tábor zakládá obecní pivovar v areálu hradu"
+  },
+  {
+   "year": 1844,
+   "text": "hrad a pivovar přebírají od města právováreční měšťané"
+  },
+  {
+   "year": 1948,
+   "text": "znárodnění pivovaru"
+  },
+  {
+   "year": 1962,
+   "text": "hrad s Bechyňskou branou prohlášen národní kulturní památkou"
+  },
+  {
+   "year": 2001,
+   "text": "areál bývalého pivovaru koupila firma Dvořák"
+  }
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Kotnov",
+  "https://www.hrady.cz/hrad-kotnov",
+  "https://www.husitskemuzeum.cz/sobotnici-v-pivovaru-2/",
+  "https://www.gymta.cz/data/web/fotogalerie/projekty/pamatky/pivovar/some.html"
+ ]
+}

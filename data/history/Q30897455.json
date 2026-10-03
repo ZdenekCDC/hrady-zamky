@@ -1,0 +1,128 @@
+{
+ "id": "Q30897455",
+ "name": "Kladno",
+ "founded": {
+  "year": null,
+  "approx": false,
+  "text": "Gotická tvrz ze 14. století (Hořejší tvrz, poprvé připomínaná 1453 za Přecha z Kladna); renesanční přestavba 1540-1566, barokní přestavba podle K. I. Dientzenhofera 1737-1740."
+ },
+ "summary": "Kladenský zámek vznikl přestavbou gotické Hořejší tvrze, sídla Kladenských z Kladna. Po nich panství zdědili Žďárští ze Žďáru, kteří tvrz do roku 1566 přestavěli na renesanční zámek. Od roku 1705 patřil benediktinskému břevnovskému klášteru, který ho podle Kiliána Ignáce Dientzenhofera barokně přestavěl; roku 1933 jej koupilo město Kladno a dnes slouží kultuře (galerie, muzeum, knihovna).",
+ "owners": [
+  {
+   "owner": "kladensti-z-kladna",
+   "owner_wiki": "Kladenští z Kladna",
+   "person": "Přech z Kladna, Zdeněk z Kladna",
+   "from": null,
+   "to": 1543,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "Hořejší tvrz připomínána 1453 za Přecha; Zdeněk, poslední mužský člen kladenské větve, odkázal 1542 majetek sestřinu synovi Oldřichovi Žďárskému, zemřel 1543."
+  },
+  {
+   "owner": "z-zdaru",
+   "owner_wiki": null,
+   "person": "Oldřich, pak Jan, Jiří a Zdeněk Žďárští ze Žďáru; Jiří přestavěl zámek (1566); dále Ctibor, Jan Jiří, Florián Jetřich, František Adam Eusebius",
+   "from": 1543,
+   "to": 1686,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "Žďárští ze Žďáru (cs.wiki nemá ověřený článek o rodu); katolická větev vymřela smrtí F. A. Eusebia (po 1653); dědické řízení trvalo 16 let, 1686 se správci stali Martinicové."
+  },
+  {
+   "owner": "z-chodova",
+   "owner_wiki": null,
+   "person": "Marie Maxmiliána Hieserlová z Chodova",
+   "from": null,
+   "to": 1693,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "panství si podle cs.wiki rozdělilo pět dědiček (Šternberková, Hieserlová, Karettová, Ugartová, Magni), které Žďárským vyplatily 53 tisíc zlatých; Kladno připadlo Hieserlové (cs.wiki uvádí dělení k prosinci 'roku 1588', zjevně chyba, pravděpodobně 1688); rok nabytí neznámý."
+  },
+  {
+   "owner": "z-lamberka",
+   "owner_wiki": null,
+   "person": "Anna Ludovika z Lamberka, Karel Benedikt a Františka Antonie z Lamberka",
+   "from": 1693,
+   "to": 1701,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "zadlužení Lamberkové"
+  },
+  {
+   "owner": "sasko-lauenburkove",
+   "owner_wiki": null,
+   "person": "Anna Marie Toskánská, rozená z Engru a Vestfálska",
+   "from": 1701,
+   "to": 1705,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "přiřazení k rodu Sasko-Lauenburků je odvozené z titulu 'z Engru a Vestfálska'; cs.wiki rod neuvádí"
+  },
+  {
+   "owner": "cirkev",
+   "owner_wiki": null,
+   "person": "Benediktinský klášter v Břevnově (opati Otmar Daniel Zinke, Benno Löbl)",
+   "from": 1705,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "klášter držel Kladno do zrušení poddanství (rok cs.wiki neuvádí); správa velkostatku sídlila na zámku do 1933; kupec 1933 neuveden"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "Město Kladno",
+   "from": 1933,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupilo budovu a umístilo do ní knihovnu, archiv a muzeum; dnes Galerie Kladenského zámku"
+  }
+ ],
+ "events": [
+  {
+   "year": 1566,
+   "text": "dokončení renesanční přestavby tvrze za Jiřího Žďárského ze Žďáru"
+  },
+  {
+   "year": 1620,
+   "text": "vydrancování zámku polskými kozáky, zničen archiv ostrovského kláštera"
+  },
+  {
+   "year": 1705,
+   "text": "koupě panství břevnovským klášterem"
+  },
+  {
+   "year": 1740,
+   "text": "dokončení barokní přestavby podle Kiliána Ignáce Dientzenhofera (hodinová věžka až 1750)"
+  },
+  {
+   "year": 1933,
+   "text": "zámek koupilo město Kladno"
+  },
+  {
+   "year": 1967,
+   "text": "zámek chráněn jako kulturní památka"
+  },
+  {
+   "year": 1990,
+   "text": "v 90. letech rekonstrukce zámku a zahrady"
+  },
+  {
+   "year": 2019,
+   "text": "vznik Kabinetu fotografie v Galerii Kladenského zámku"
+  }
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Kladno_(zámek)",
+  "https://www.kladenskyzamek.cz/cs/historie-zamku",
+  "https://www.hrady.cz/zamek-kladno-galerie-kladenskeho-zamku/texty?pos=300&tid=8751"
+ ]
+}

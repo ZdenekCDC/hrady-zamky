@@ -20028,6 +20028,125 @@
    "https://www.regionem.cz/clanek/knezicky-zamek-od-stredoveke-tvrze-k-secesnimu-sidlu-v-posumavi/"
   ]
  },
+ "Q12031169": {
+  "id": "Q12031169",
+  "name": "Kotnov",
+  "founded": {
+   "year": null,
+   "approx": false,
+   "text": "Hrad založil Přemysl Otakar II. v 13. století (hrady.cz: 1270, jinde 2. polovina 13. stol.) jako městský hrad Hradiště; první písemná zmínka 1370."
+  },
+  "summary": "Kotnov (Hradiště) založil ve 13. století Přemysl Otakar II. jako městský hrad mimo město Hradiště. Roku 1370 jej držali páni z Ústí, po vzniku husitského Tábora byl začleněn do jeho opevnění. Po požáru roku 1532 se hrad přestavěl pro hospodářské účely a od roku 1612 v něm stál městský pivovar; zachovala se bateriová věž, dnes vyhlídková věž s expozicí Husitského muzea.",
+  "owners": [
+   {
+    "owner": "koruna",
+    "owner_wiki": null,
+    "person": "Přemysl Otakar II.",
+    "from": null,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "rok založení neuveden (13. století; hrady.cz 1270); zdroje neuvádějí, kdy a jak hrad přešel z krále na pány z Ústí",
+    "to_unknown": true
+   },
+   {
+    "owner": "sezimove-z-usti",
+    "owner_wiki": null,
+    "person": "Oldřich a Sezema z Ústí",
+    "from": null,
+    "to": 1420,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "1370 získali od synů zemřelého bratra polovinu rodového majetku včetně hradu Hradiště; páni z Ústí jsou větví Vítkoviců; Sezimovo Ústí bylo 1420 dobyto"
+   },
+   {
+    "owner": "mesto",
+    "owner_wiki": null,
+    "person": "Město Tábor",
+    "from": 1420,
+    "to": 1844,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "jine",
+    "note": "po dobytí Sezimova Ústí 1420 Tábory obsadili Hradiště, hrad zapojen do opevnění města; od 1612 městský pivovar v areálu hradu; způsob nabytí neuveden, rok 1420 podle hrady.cz"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Pravovárečné měšťanstvo v Táboře (273 právovárečníků)",
+    "from": 1844,
+    "to": 1948,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "jine",
+    "note": "1844 převzali hrad s pivovarem od města právováreční měšťané (gymta.cz)"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "Národní podnik Jihočeské pivovary",
+    "from": 1948,
+    "to": 2001,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "pivovar znárodněn k 1. 1. 1948; výroba piva ukončena 1981, stáčírna do 1992; hrad (věž) jako památka ve správě města/muzea - cs.wiki uvádí jen expozici Husitského muzea"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Firma Dvořák (Tábor)",
+    "from": 2001,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "areál bývalého pivovaru koupen v červenci 2001; aktuální vlastník věže Kotnov a rozsah areálu zdroje nespecifikují - nejisté"
+   }
+  ],
+  "events": [
+   {
+    "year": 1370,
+    "text": "první písemná zmínka, hrad Hradiště drží páni z Ústí"
+   },
+   {
+    "year": 1420,
+    "text": "po dobytí Sezimova Ústí obsazeno Hradiště a založen Tábor, hrad začleněn do hradeb"
+   },
+   {
+    "year": 1532,
+    "text": "požár hradu; poté hospodářské využití pro pivovar a výstavba bateriové věže (datace sporná)"
+   },
+   {
+    "year": 1612,
+    "text": "město Tábor zakládá obecní pivovar v areálu hradu"
+   },
+   {
+    "year": 1844,
+    "text": "hrad a pivovar přebírají od města právováreční měšťané"
+   },
+   {
+    "year": 1948,
+    "text": "znárodnění pivovaru"
+   },
+   {
+    "year": 1962,
+    "text": "hrad s Bechyňskou branou prohlášen národní kulturní památkou"
+   },
+   {
+    "year": 2001,
+    "text": "areál bývalého pivovaru koupila firma Dvořák"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Kotnov",
+   "https://www.hrady.cz/hrad-kotnov",
+   "https://www.husitskemuzeum.cz/sobotnici-v-pivovaru-2/",
+   "https://www.gymta.cz/data/web/fotogalerie/projekty/pamatky/pivovar/some.html"
+  ]
+ },
  "Q12031933": {
   "id": "Q12031933",
   "name": "Kunín",
@@ -20389,6 +20508,177 @@
   ],
   "sources": [
    "https://cs.wikipedia.org/wiki/Kynžvart_(hrad)"
+  ]
+ },
+ "Q12032265": {
+  "id": "Q12032265",
+  "name": "Křinec",
+  "founded": {
+   "year": 1649,
+   "approx": false,
+   "text": "Barokní zámek postavil od roku 1649 (boční křídla 1659-1660) Pavel Morzin na místě starší tvrze, pravděpodobně podle Carla Luraga; Křinec připomínán od 1352."
+  },
+  "summary": "Zámek Křinec postavil od roku 1649 Pavel Morzin na místě zaniklé tvrze jako centrum kuncberského (později křineckého) panství, které před ním držela řada rodů (Valečovští, Ronovci, Valdštejnové). Od roku 1808 patřil bankéřské rodině Bethmannů, jim byl zabrán roku 1945. Po zestátnění sloužil jako škola a depozitář Národního muzea (do 2003) a od roku 2006 patří soukromému majiteli, který ho postupně obnovuje.",
+  "owners": [
+   {
+    "owner": "valecovsti-z-valecova",
+    "owner_wiki": null,
+    "person": "Jan z Valečova, Bernard z Valečova, Jan z Křince; za husitských válek Bohuš Vrabec z Valečova",
+    "from": 1378,
+    "to": 1406,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "cs.wiki: Valečovští 14.-15. stol.; interregion.cz: Jan z Valečova 1378, Bernard 1389, Jan z Křince doložen 1407, zemřel 1418; Bohuš Vrabec o majetek přišel pro víru podobojí"
+   },
+   {
+    "owner": "z-polenska",
+    "owner_wiki": null,
+    "person": "Hanuš z Polenska",
+    "from": 1406,
+    "to": 1435,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "po husitských válkách (interregion.cz)"
+   },
+   {
+    "owner": "z-lacemboka",
+    "owner_wiki": null,
+    "person": "Václav z Lacemboka",
+    "from": 1435,
+    "to": 1463,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "panství snad připojeno k dymokurskému; Václav zemřel 1463 a o pozůstalost se soudili Jan z Ronova a Purkart z Kopidlna (interregion.cz)"
+   },
+   {
+    "owner": "krinecti-z-ronova",
+    "owner_wiki": "Křinečtí z Ronova",
+    "person": "Jan z Ronova, Jan Křinecký z Ronova a Kunštberka",
+    "from": 1463,
+    "to": 1568,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "Jan z Ronova získal panství po sporu, kolem 1470 se přesídlil na hrad Kunštberk; tvrz opuštěna a chátrala; rok nabytí přibližný, cs.wiki udává Ronovské v 15.-16. stol."
+   },
+   {
+    "owner": "pani-z-vresovic",
+    "owner_wiki": "Páni z Vřesovic",
+    "person": "Jan Kostomlatský z Vřesovic",
+    "from": 1568,
+    "to": 1608,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "statek 1568 prodán Janu Kostomlatskému z Vřesovic; přiřazení k Pánům z Vřesovic je odvozené; cs.wiki ho nezmiňuje, rok konce neznámý (tvrz 1569 uváděna jako pustá)"
+   },
+   {
+    "owner": "valdstejnove",
+    "owner_wiki": "Valdštejnové",
+    "person": "Jindřich z Valdštejna, Heník z Valdštejna (konfiskace po stavovském povstání), Albrecht z Valdštejna, Adam mladší z Valdštejna, Jan Viktorin z Valdštejna",
+    "from": 1608,
+    "to": 1649,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "Jindřich z Valdštejna a na Dobrovici koupil panství; po konfiskaci Heníkova majetku jej získal Albrecht a koupil Adam mladší; po něm syn Jan Viktorin, který panství prodal Morzinovi; roky jednotlivých držitelů zdroje neuvádějí"
+   },
+   {
+    "owner": "morzinove",
+    "owner_wiki": "Morzinové",
+    "person": "Pavel (August Pavel) Morzin, Václav z Morzinu, Rudolf Desiderius z Morzinu",
+    "from": 1649,
+    "to": 1796,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "Pavel Morzin postavil zámek na místě tvrze (1649); Morzinové postavili roku 1670 zámeček na Kuncberku"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Jakub Wimmer (baron)",
+    "from": 1796,
+    "to": 1808,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe"
+   },
+   {
+    "owner": "bethmannove",
+    "owner_wiki": null,
+    "person": "Simon Moritz von Bethmann, frankfurtský bankéř",
+    "from": 1808,
+    "to": 1945,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "kultura.cz uvádí koupi 1807; po 1945 zabaveno podle Benešových dekretů"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "Československo; zámek v péči Národního muzea (1968-2003)",
+    "from": 1945,
+    "to": 2006,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "1949-1968 základní škola, 1968-2003 Národní muzeum (depozitář)"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "HARBUCO, s.r.o. (rodina Harapesových)",
+    "from": 2006,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "soukromý majitel, zámek se postupně rekonstruuje a je částečně přístupný"
+   }
+  ],
+  "events": [
+   {
+    "year": 1352,
+    "text": "první písemná zmínka o Křinci"
+   },
+   {
+    "year": 1569,
+    "text": "tvrz uváděna jako pustá (jediná zmínka o její existenci)"
+   },
+   {
+    "year": 1649,
+    "text": "Pavel Morzin zahajuje stavbu raně barokního zámku, 1659-1660 boční křídla"
+   },
+   {
+    "year": 1705,
+    "text": "přistavěna zámecká kaple se štukovou dekorací"
+   },
+   {
+    "year": 1808,
+    "text": "panství kupuje bankéřská rodina Bethmannů"
+   },
+   {
+    "year": 1945,
+    "text": "zabavení panství podle Benešových dekretů"
+   },
+   {
+    "year": 1965,
+    "text": "zámek prohlášen kulturní památkou"
+   },
+   {
+    "year": 2006,
+    "text": "koupě soukromým majitelem, od 2008 postupná obnova a zpřístupnění"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Křinec_(zámek)",
+   "https://www.interregion.cz/turistika/hrady_zamky/krinec_zamek/krinec_zamek.html",
+   "https://www.regionem.cz/clanek/krinecky-zamek-se-vraci-k-zivotu-nabizi-barokni-sal-rokokove-salonky-i-park/"
   ]
  },
  "Q12033148": {
@@ -27577,6 +27867,101 @@
    "https://cs.wikipedia.org/wiki/Slavkov_u_Brna_(zámek)"
   ]
  },
+ "Q1418291": {
+  "id": "Q1418291",
+  "name": "Kačina",
+  "founded": {
+   "year": 1802,
+   "approx": false,
+   "text": "1802-1822 výstavba empírového zámku pro Jana Rudolfa Chotka z Chotkova podle plánů Ch. F. Schurichta (NZM uvádí 1806-1824)."
+  },
+  "summary": "Empírový zámek Kačina nechal v letech 1802-1822 postavit nejvyšší purkrabí Jan Rudolf Chotek z Chotkova na novodvorském panství, které Chotkové koupili roku 1764. Chotkové zde žili do roku 1911, pak zámek zdědili Thun-Hohensteinové; zadlužený Quido Thun-Hohenstein jej za protektorátu ztratil v nucené dražbě ve prospěch Hitlerjugend. Po válce byl znárodněn a od roku 1950 jej využívá Národní zemědělské muzeum.",
+  "owners": [
+   {
+    "owner": "chotkove-z-chotkova",
+    "owner_wiki": "Chotkové z Chotkova",
+    "person": "Jan Karel Chotek; Jan Rudolf Chotek z Chotkova",
+    "from": 1764,
+    "to": 1911,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "novodvorské panství koupil roku 1764 Jan Karel Chotek; zámek postavil Jan Rudolf Chotek; poslední Chotek Emerich zemřel 1911"
+   },
+   {
+    "owner": "thun-hohensteinove",
+    "owner_wiki": "Thun-Hohensteinové",
+    "person": "Quido Thun-Hohenstein",
+    "from": 1911,
+    "to": 1928,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "dedictvi",
+    "note": "synovec Emericha Chotka; majetek zadlužil, počátkem 30. let zámek opustil; cs.wiki uvádí nucenou dražbu za protektorátu (rok neuveden)"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Hitlerjugend (nacistická organizace mládeže)",
+    "from": 1928,
+    "to": 1945,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "podle cs.wiki koupě v nucené dražbě za protektorátu; rok neuveden"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "Národní zemědělské muzeum",
+    "from": 1945,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "zámek po válce znárodněn (NZM uvádí konfiskaci 1945), od roku 1950 přidělen Národnímu zemědělskému muzeu, které jej spravuje dodnes"
+   }
+  ],
+  "events": [
+   {
+    "year": 1764,
+    "text": "Jan Karel Chotek koupil novodvorské panství"
+   },
+   {
+    "year": 1802,
+    "text": "zahájena stavba zámku (do 1822) podle plánů Ch. F. Schurichta"
+   },
+   {
+    "year": 1811,
+    "text": "rakouský státní bankrot přerušil stavbu"
+   },
+   {
+    "year": 1823,
+    "text": "Jan Rudolf Chotek se do zámku nastěhoval"
+   },
+   {
+    "year": 1851,
+    "text": "dostavěno zámecké divadlo za Chotkova vnuka Jindřicha"
+   },
+   {
+    "year": 1911,
+    "text": "smrtí Emericha Chotka vymřela místní větev rodu, panství zdědil Quido Thun-Hohenstein"
+   },
+   {
+    "year": 1950,
+    "text": "zámek přidělen Národnímu zemědělskému muzeu"
+   },
+   {
+    "year": 2001,
+    "text": "prohlášen národní kulturní památkou"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Kačina",
+   "https://www.nzm.cz/o-nas/o-nzm/narodni-zemedelske-muzeum-kacina/historie-zamku-kacina",
+   "http://dejinyasoucasnost.cz/archiv/2007/5/uz-jste-byli-na-kacine-/"
+  ]
+ },
  "Q1421237": {
   "id": "Q1421237",
   "name": "Březnice",
@@ -34002,6 +34387,71 @@
    "https://zirovnice.cz/historie-zamku/ms-27282"
   ]
  },
+ "Q18113883": {
+  "id": "Q18113883",
+  "name": "Kostel svatého Víta v Zahrádce",
+  "founded": {
+   "year": null,
+   "approx": false,
+   "text": "Menší předchůdce kolem roku 1200; současná románsko-gotická stavba vznikla kolem poloviny 13. století (po roce 1219 či 1225)."
+  },
+  "summary": "Kostel sv. Víta je románsko-gotická stavba, jediný zbytek zaniklého městečka Zahrádka. Roku 1219 daroval Přemysl Otakar I. Zahrádku s kostelem Vyšehradské kapitule. Městečko zaniklo v 70. letech 20. století při stavbě přehrady Švihov na Želivce, kostel odkoupil investor vodního díla od církve a dnes je ve vlastnictví státu ve správě NPÚ.",
+  "owners": [
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "Vyšehradská kapitula",
+    "from": 1219,
+    "to": 1975,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "dar",
+    "note": "darovací listina Přemysla Otakara I. z 26. 6. 1219 (ves Zahrádka s kostelem); barokní přestavbu 1738 podle zahradkauledce.cz provedl Jan Leopold Donát z Trautsonu, jehož majetkové vztahy ke kostelu zdroje neuvádějí"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "Investor vodního díla Želivka, později Národní památkový ústav (správce)",
+    "from": 1975,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "kostel 1975 odkoupen investorem vodního díla od církve; cs.wiki: současný majitel stát, správce NPÚ"
+   }
+  ],
+  "events": [
+   {
+    "year": 1219,
+    "text": "Přemysl Otakar I. daroval Zahrádku s kostelem Vyšehradské kapitule"
+   },
+   {
+    "year": 1738,
+    "text": "barokní přestavba kostela (Jan Leopold Donát z Trautsonu)"
+   },
+   {
+    "year": 1958,
+    "text": "zápis do státního seznamu kulturních památek"
+   },
+   {
+    "year": 1969,
+    "text": "vláda rozhodla o likvidaci obce Zahrádka kvůli vodnímu dílu Želivka"
+   },
+   {
+    "year": 1976,
+    "text": "1976-1977 archeologický a stavebně-historický průzkum, objev fresek kolem 1300"
+   },
+   {
+    "year": 2001,
+    "text": "vznik sdružení Přátelé Zahrádky, záchrana kostela; 2014 představeny restaurované gotické malby"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Kostel_svatého_Víta_(Zahrádka)",
+   "https://www.kostel-zahradka.cz/cs/o-kostelu/zachrana-kostela",
+   "https://zahradkauledce.cz/3_historie.html"
+  ]
+ },
  "Q18164": {
   "id": "Q18164",
   "name": "Potštejn",
@@ -34412,6 +34862,96 @@
    "https://www.zamekpotstejn.cz/cs/historie-zamku",
    "https://cs.wikipedia.org/wiki/Potštejn_(zámek)",
    "https://potstejn.cz/wp-content/uploads/2024/01/potstejn_leporelo_2022_nahled4.pdf"
+  ]
+ },
+ "Q18327771": {
+  "id": "Q18327771",
+  "name": "Klášter Světce",
+  "founded": {
+   "year": 1656,
+   "approx": false,
+   "text": "1656-1669 stavba paulánského kláštera (nadace Jana Filipa Husmanna z Namedy z roku 1639; předání starého kostela paulánům 1641); klášterní kostel 1671-1674."
+  },
+  "summary": "Paulánský klášter ve Světcích u Tachova vznikl z nadace Jana Filipa Husmanna z Namedy, držitele tachovského panství, a byl vystavěn v letech 1656-1669; kostel Čtrnácti svatých pomocníků přibyl 1671-1674 za Losyho z Losinthalu. Po zrušení za josefínských reforem (1787) klášter s kostelem získali Windischgrätzové, kteří se v letech 1857-1861 pokusili kostel přestavět na romantický zámek; stavba zůstala nedokončena a zchátrala do podoby ruiny. Konvent dnes slouží jako střední škola.",
+  "owners": [
+   {
+    "owner": "z-namedy",
+    "owner_wiki": null,
+    "person": "Jan Filip Husmann z Namedy",
+    "from": 1639,
+    "to": 1641,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "zakladatel kláštera a držitel tachovského panství; fundační listina 1639 (tachov.cz), po jeho smrti 1651 práce stály a obnovila je vdova 1656"
+   },
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "řád paulánů",
+    "from": 1641,
+    "to": 1787,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "dar",
+    "note": "15. 8. 1641 slavnostní předání kostela paulánům; spor s křižovníky o pozemky trval do 50. let 17. stol.; klášter zrušen 1787 za josefínských reforem"
+   },
+   {
+    "owner": "windischgratzove",
+    "owner_wiki": "Windischgrätzové",
+    "person": "Josef Mikuláš Windischgrätz; později Alfred Windischgrätz",
+    "from": 1790,
+    "to": 1908,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "podle tachov.cz koupě v dražbě 1790 (cs.wiki uvádí jen získání po zrušení); Alfred I. zemřel 1862, jeho syn Alfred II. práce zastavil; pozdější vlastníci (po 1918, po 1945) ve zdrojích neuvedeni"
+   },
+   {
+    "owner": "neznamo",
+    "owner_wiki": null,
+    "person": "dnešní vlastník kláštera neuveden",
+    "from": 1908,
+    "to": null,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "konvent byl využíván jako lesní úřad a dnes jako střední odborné učiliště stavební; vlastnictví zdroje neuvádějí (jízdárna pod klášterem patří od 1996/1997 městu Tachov)"
+   }
+  ],
+  "events": [
+   {
+    "year": 1427,
+    "text": "starší kostel poškozen husity"
+   },
+   {
+    "year": 1656,
+    "text": "zahájena stavba kláštera (dokončen 1669)"
+   },
+   {
+    "year": 1671,
+    "text": "výstavba kostela Čtrnácti svatých pomocníků (do 1674) za Jana Filipa Losyho z Losinthalu"
+   },
+   {
+    "year": 1729,
+    "text": "požár kláštera, opravy do 1754; pravá věž rekonstruována 1756"
+   },
+   {
+    "year": 1787,
+    "text": "zrušení paulánské komunity za josefínských reforem"
+   },
+   {
+    "year": 1857,
+    "text": "Alfred Windischgrätz zahájil přestavbu kostela a kláštera na romantický zámek (do 1861), nedokončeno"
+   },
+   {
+    "year": 1945,
+    "text": "na konci války požár zříceniny nedokončeného zámku"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Klášter_Světce",
+   "https://www.tachov.cz/svetce.html"
   ]
  },
  "Q187633": {
@@ -35421,6 +35961,252 @@
    "https://www.hrady.cz/zamek-bor-u-tachova/",
    "https://www.zamekbor.cz/o-zamku/historie",
    "https://www.mubor.cz/organizace/zamek-bor/"
+  ]
+ },
+ "Q19602321": {
+  "id": "Q19602321",
+  "name": "Kácov",
+  "founded": {
+   "year": 1635,
+   "approx": false,
+   "text": "Mladší tvrz vznikla pravděpodobně v polovině 15. století; 1635 ji koupila Benigna Kateřina z Lobkovic a nechala přestavět na zámek; 1727-1733 barokní přestavba podle Václava Špačka."
+  },
+  "summary": "Zámek v Kácově vznikl přestavbou tvrze z poloviny 15. století; tu postupně držely rody Černčických, Olbramoviců, Tetourů a Čejků a po Bílé hoře řada krátkodobých majitelů, mezi nimi Lobkovicové (od 1635). Roku 1726 jej koupila kněžna Anna Marie Františka Toskánská a v letech 1727-1733 jej nechala přestavět na barokní zámek; po ní patřil toskánským a bavorským dědicům. Roku 1918 připadl státu, od 2008 patřil městysi a kolem roku 2016 jej koupil soukromý majitel Jaroslav Kubíček, který jej rekonstruuje.",
+  "owners": [
+   {
+    "owner": "cerncicti-z-kacova",
+    "owner_wiki": "Černčičtí z Kácova",
+    "person": "Ješek z Černčic a jeho potomci",
+    "from": 1356,
+    "to": 1473,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "14. stol. držitelé Kácova (starší hrad, tzv. Pustý hrad); od přelomu 14. a 15. stol. byl Kácov rozdělen mezi více majitelů (1458 polovinu tvrze získal Jan z Košína); mladší tvrz v místě zámku vznikla pravděpodobně v polovině 15. stol."
+   },
+   {
+    "owner": "z-olbramovic",
+    "owner_wiki": null,
+    "person": "Kuneš z Olbramovic; jeho vnuk Jan Dvořecký z Olbramovic (1516), poté bratr Přech",
+    "from": 1473,
+    "to": 1536,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "1473 tvrz ze tří čtvrtin Kunešovi z Olbramovic; Přech Dvořecký Kácov zadlužil a prodal (rok neuveden)"
+   },
+   {
+    "owner": "tetourove-z-tetova",
+    "owner_wiki": "Tetourové z Tetova",
+    "person": "Jan Tetour z Tetova; po 1541 synové Lev a Bedřich",
+    "from": 1536,
+    "to": 1555,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe"
+   },
+   {
+    "owner": "cejkove-z-olbramovic",
+    "owner_wiki": "Čejkové z Olbramovic",
+    "person": "Jan Čejka; Václav Čejka; Karel Čejka z Olbramovic",
+    "from": 1555,
+    "to": 1623,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "Kácov se stal střediskem rozsáhlého panství; Karel Čejka měl Kácov od 1600 do pobělohorských konfiskací"
+   },
+   {
+    "owner": "z-werdenbergu",
+    "owner_wiki": null,
+    "person": "Jan Werde z Werdenberku",
+    "from": 1623,
+    "to": 1626,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "koupil zkonfiskované panství od královské komory"
+   },
+   {
+    "owner": "kinsti",
+    "owner_wiki": "Kinští",
+    "person": "Jan Oktavián Kinský",
+    "from": 1626,
+    "to": 1628,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "1627 nevolnické povstání, vyplenění tvrze"
+   },
+   {
+    "owner": "z-lilienthalu",
+    "owner_wiki": null,
+    "person": "Jan de Witte z Lilienthalu; po jeho smrti 1630 vdova Anna z Glauchova",
+    "from": 1628,
+    "to": 1635,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe"
+   },
+   {
+    "owner": "lobkovicove",
+    "owner_wiki": "Lobkovicové",
+    "person": "Benigna Kateřina z Lobkovic; od 1653 syn Vilém Popel z Lobkovic",
+    "from": 1635,
+    "to": 1656,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "opravila a rozšířila tvrz na jednopatrový barokní zámek"
+   },
+   {
+    "owner": "z-scheidleru",
+    "owner_wiki": null,
+    "person": "František Scheidler",
+    "from": 1656,
+    "to": 1688,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "vychovatel císaře Leopolda I.; sídlil v Kácově, zámek opravil; panství prodal jeho syn Ferdinand Kryštof"
+   },
+   {
+    "owner": "kaisersteinove",
+    "owner_wiki": "Kaisersteinové",
+    "person": "František Bohumír (Jan František) z Kaisersteinu; vdova Marie Renata",
+    "from": 1688,
+    "to": 1711,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "panství zadlužené, vdova Marie Renata je dala do dražby; zdroje jméno generála uvádějí různě"
+   },
+   {
+    "owner": "z-bredy",
+    "owner_wiki": null,
+    "person": "Karel Jáchym Breda",
+    "from": 1711,
+    "to": 1725,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "koupil v dražbě; 1711 (kacov.cz), 1712 (diplomová práce UK); zadlužení donutilo prodat"
+   },
+   {
+    "owner": "z-schmidlinu",
+    "owner_wiki": null,
+    "person": "Karel Richard Schmidlin ze Schmidlin",
+    "from": 1725,
+    "to": 1726,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe"
+   },
+   {
+    "owner": "sasko-lauenburkove",
+    "owner_wiki": "Sasko-Lauenburkové",
+    "person": "Anna Marie Františka Toskánská",
+    "from": 1726,
+    "to": 1741,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "1727-1733 přestavba zámku podle Václava Špačka na barokní zámek"
+   },
+   {
+    "owner": "wittelsbachove",
+    "owner_wiki": "Wittelsbachové",
+    "person": "dcera Marie Anna Karolína; bavorští vévodové",
+    "from": 1741,
+    "to": 1805,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "dědictví po Anně Marii Františce; panství spravovala správní komise, zámek byl jen sídlem správy; bavorští vévodové držitelé podle diplomové práce UK, přiřazení k rodu je odvozené"
+   },
+   {
+    "owner": "habsburkove",
+    "owner_wiki": "Habsburkové",
+    "person": "Ferdinand Salcburský, toskánský velkovévoda; od 1847 císař Ferdinand V.",
+    "from": 1805,
+    "to": 1918,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "jine",
+    "note": "1805 postoupeno salcburskému kurfiřtu Ferdinandovi; toskánský velkovévoda držel do 1847, poté připadlo císaři Ferdinandovi V.; rok 1918 podle cs.wiki (zámek připadl státu), zdroje neuvádějí vlastníka mezi 1847 a 1918 přesněji"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": null,
+    "from": 1918,
+    "to": 2008,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "zámek připadl státu, sídlo správy státních lesů a byty zaměstnanců; od 2003 po požáru poškozen; 50. léta zazděna kaple při přestavbě na byt"
+   },
+   {
+    "owner": "mesto",
+    "owner_wiki": null,
+    "person": "městys Kácov",
+    "from": 2008,
+    "to": 2016,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "jine",
+    "note": "městys zámek využíval na obecní byty a technické služby; do 2018 obecní byty (Pro památky); rok prodeje se liší (2016/2017/2018)"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Ing. Jaroslav Kubíček",
+    "from": 2016,
+    "to": null,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "koupil za 6,5 mil. Kč; rok 2016, 2017 či 2018 podle zdroje; od 2018 rekonstrukce za podpory dotací"
+   }
+  ],
+  "events": [
+   {
+    "year": 1635,
+    "text": "Benigna Kateřina z Lobkovic koupila tvrz a přestavěla ji na jednopatrový zámek"
+   },
+   {
+    "year": 1627,
+    "text": "nevolnické povstání na kácovském panství, vyplenění tvrze"
+   },
+   {
+    "year": 1727,
+    "text": "zahájena barokní přestavba zámku podle Václava Špačka (do 1733) a spojovací chodby s kostelem"
+   },
+   {
+    "year": 1918,
+    "text": "zámek připadl státu, správa státních lesů a byty"
+   },
+   {
+    "year": 2003,
+    "text": "požár poškodil horní část zámku"
+   },
+   {
+    "year": 2008,
+    "text": "zámek se stal majetkem městyse Kácova"
+   },
+   {
+    "year": 2012,
+    "text": "objevena zazděná zámecká kaple"
+   },
+   {
+    "year": 2018,
+    "text": "zahájena rozsáhlá rekonstrukce zámku novým soukromým majitelem"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Kácov_(zámek)",
+   "https://kacov.cz/index.php?clanek=Historie-zamku-Kacov&id=Zamek-Kacov-a-muzeum",
+   "https://dspace.cuni.cz/bitstream/handle/20.500.11956/64447/BPTX_2012_2_11260_0_315671_0_134221.pdf"
   ]
  },
  "Q19602347": {
@@ -40362,6 +41148,83 @@
    "https://www.dolnipoohri.cz/wp-content/uploads/2023/06/Brozura_Thunove_400_Klasterec.pdf",
    "https://www.hrady.cz/zamek-klasterec-nad-ohri/texty?pos=300&tid=37216",
    "https://stuky.upce.cz/public/915"
+  ]
+ },
+ "Q2241917": {
+  "id": "Q2241917",
+  "name": "Kostelec nad Orlicí",
+  "founded": {
+   "year": 1829,
+   "approx": false,
+   "text": "1829-1833 (cs.wiki též 1829-1835) výstavba empírového Nového zámku podle návrhu Heinricha Kocha pro Josefa Ervína Kinského; 1847 uzavřen čestný dvůr východním křídlem."
+  },
+  "summary": "Nový zámek v Kostelci nad Orlicí nechal v letech 1829-1833 postavit v empírovém slohu hrabě Josef Ervín Kinský, zakladatel kostelecké hraběcí větve Kinských. Rodině patřil do roku 1948, kdy jej převzal stát a umístil do něj Výzkumný ústav pro chov prasat. Po restituci na počátku 90. let jej Kinští obnovili a zpřístupnili veřejnosti; dnes jej vlastní František Kinský.",
+  "owners": [
+   {
+    "owner": "kinsti",
+    "owner_wiki": "Kinští",
+    "person": "Josef Ervín Kinský; později Bedřich Karel, František Josef Kinský",
+    "from": 1812,
+    "to": 1948,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "kostelecké panství získala vedlejší větev Kinských 1812 (hrady.cz; ČT24 uvádí od 1796); zámek postavil Josef Ervín Kinský (1806-1862); posledními obyvateli František Josef a Paulina Kinských do 1951"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": null,
+    "from": 1948,
+    "to": 1992,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "1948 národní správa a znárodnění; Výzkumný ústav chovu prasat do 1975, poté Krajské středisko státní památkové péče a ochrany přírody v Pardubicích; rodina bydlela v zámku do 1951"
+   },
+   {
+    "owner": "kinsti",
+    "owner_wiki": "Kinští",
+    "person": "Josef Kinský (1913-2011); od 2003/2004 František Kinský",
+    "from": 1992,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "restituce",
+    "note": "cs.wiki uvádí restituci 1991 (bez citace), oficiální web zámku a ČT24 1992; správu majetku předal Josef synovi Františkovi 2003/2004"
+   }
+  ],
+  "events": [
+   {
+    "year": 1829,
+    "text": "zahájena stavba empírového zámku podle Heinricha Kocha (do 1833)"
+   },
+   {
+    "year": 1847,
+    "text": "uzavření čestného dvora východním křídlem podle Edmunda Christena"
+   },
+   {
+    "year": 1948,
+    "text": "zámek postaven pod národní správu a znárodněn, poté sídlo Výzkumného ústavu chovu prasat"
+   },
+   {
+    "year": 1975,
+    "text": "ústav opustil zámek po výstavbě nového areálu; zámek převeden památkářům"
+   },
+   {
+    "year": 1992,
+    "text": "zámek vrácen v restituci Josefu Kinskému, následuje rekonstrukce (1996-2008)"
+   },
+   {
+    "year": 2012,
+    "text": "otevřena expozice Život v biedermeieru"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Kostelec_nad_Orlicí_(nový_zámek)",
+   "https://www.zamekkostelecno.cz/novy-zamek/",
+   "https://www.hrady.cz/zamek-kostelec-nad-orlici/texty?pos=1000&tid=6405",
+   "https://ct24.ceskatelevize.cz/clanek/regiony/od-prasat-po-empir-pribeh-zamku-rodiny-kinskych-335949"
   ]
  },
  "Q2241921": {
@@ -47292,6 +48155,134 @@
    "https://www.hrady.cz/zamek-svojsin-tachov"
   ]
  },
+ "Q30897455": {
+  "id": "Q30897455",
+  "name": "Kladno",
+  "founded": {
+   "year": null,
+   "approx": false,
+   "text": "Gotická tvrz ze 14. století (Hořejší tvrz, poprvé připomínaná 1453 za Přecha z Kladna); renesanční přestavba 1540-1566, barokní přestavba podle K. I. Dientzenhofera 1737-1740."
+  },
+  "summary": "Kladenský zámek vznikl přestavbou gotické Hořejší tvrze, sídla Kladenských z Kladna. Po nich panství zdědili Žďárští ze Žďáru, kteří tvrz do roku 1566 přestavěli na renesanční zámek. Od roku 1705 patřil benediktinskému břevnovskému klášteru, který ho podle Kiliána Ignáce Dientzenhofera barokně přestavěl; roku 1933 jej koupilo město Kladno a dnes slouží kultuře (galerie, muzeum, knihovna).",
+  "owners": [
+   {
+    "owner": "kladensti-z-kladna",
+    "owner_wiki": "Kladenští z Kladna",
+    "person": "Přech z Kladna, Zdeněk z Kladna",
+    "from": null,
+    "to": 1543,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "Hořejší tvrz připomínána 1453 za Přecha; Zdeněk, poslední mužský člen kladenské větve, odkázal 1542 majetek sestřinu synovi Oldřichovi Žďárskému, zemřel 1543."
+   },
+   {
+    "owner": "z-zdaru",
+    "owner_wiki": null,
+    "person": "Oldřich, pak Jan, Jiří a Zdeněk Žďárští ze Žďáru; Jiří přestavěl zámek (1566); dále Ctibor, Jan Jiří, Florián Jetřich, František Adam Eusebius",
+    "from": 1543,
+    "to": 1686,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "dedictvi",
+    "note": "Žďárští ze Žďáru (cs.wiki nemá ověřený článek o rodu); katolická větev vymřela smrtí F. A. Eusebia (po 1653); dědické řízení trvalo 16 let, 1686 se správci stali Martinicové."
+   },
+   {
+    "owner": "z-chodova",
+    "owner_wiki": null,
+    "person": "Marie Maxmiliána Hieserlová z Chodova",
+    "from": 1686,
+    "to": 1693,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "panství si podle cs.wiki rozdělilo pět dědiček (Šternberková, Hieserlová, Karettová, Ugartová, Magni), které Žďárským vyplatily 53 tisíc zlatých; Kladno připadlo Hieserlové (cs.wiki uvádí dělení k prosinci 'roku 1588', zjevně chyba, pravděpodobně 1688); rok nabytí neznámý."
+   },
+   {
+    "owner": "z-lamberka",
+    "owner_wiki": null,
+    "person": "Anna Ludovika z Lamberka, Karel Benedikt a Františka Antonie z Lamberka",
+    "from": 1693,
+    "to": 1701,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "zadlužení Lamberkové"
+   },
+   {
+    "owner": "sasko-lauenburkove",
+    "owner_wiki": null,
+    "person": "Anna Marie Toskánská, rozená z Engru a Vestfálska",
+    "from": 1701,
+    "to": 1705,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "přiřazení k rodu Sasko-Lauenburků je odvozené z titulu 'z Engru a Vestfálska'; cs.wiki rod neuvádí"
+   },
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "Benediktinský klášter v Břevnově (opati Otmar Daniel Zinke, Benno Löbl)",
+    "from": 1705,
+    "to": 1933,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "klášter držel Kladno do zrušení poddanství (rok cs.wiki neuvádí); správa velkostatku sídlila na zámku do 1933; kupec 1933 neuveden"
+   },
+   {
+    "owner": "mesto",
+    "owner_wiki": null,
+    "person": "Město Kladno",
+    "from": 1933,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "koupilo budovu a umístilo do ní knihovnu, archiv a muzeum; dnes Galerie Kladenského zámku"
+   }
+  ],
+  "events": [
+   {
+    "year": 1566,
+    "text": "dokončení renesanční přestavby tvrze za Jiřího Žďárského ze Žďáru"
+   },
+   {
+    "year": 1620,
+    "text": "vydrancování zámku polskými kozáky, zničen archiv ostrovského kláštera"
+   },
+   {
+    "year": 1705,
+    "text": "koupě panství břevnovským klášterem"
+   },
+   {
+    "year": 1740,
+    "text": "dokončení barokní přestavby podle Kiliána Ignáce Dientzenhofera (hodinová věžka až 1750)"
+   },
+   {
+    "year": 1933,
+    "text": "zámek koupilo město Kladno"
+   },
+   {
+    "year": 1967,
+    "text": "zámek chráněn jako kulturní památka"
+   },
+   {
+    "year": 1990,
+    "text": "v 90. letech rekonstrukce zámku a zahrady"
+   },
+   {
+    "year": 2019,
+    "text": "vznik Kabinetu fotografie v Galerii Kladenského zámku"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Kladno_(zámek)",
+   "https://www.kladenskyzamek.cz/cs/historie-zamku",
+   "https://www.hrady.cz/zamek-kladno-galerie-kladenskeho-zamku/texty?pos=300&tid=8751"
+  ]
+ },
  "Q31144977": {
   "id": "Q31144977",
   "name": "Kovanice",
@@ -52754,6 +53745,90 @@
   ],
   "sources": [
    "https://cs.wikipedia.org/wiki/Rychlebský_hrad"
+  ]
+ },
+ "Q361388": {
+  "id": "Q361388",
+  "name": "Kanonie premonstrátů klášter Teplá",
+  "founded": {
+   "year": 1193,
+   "approx": true,
+   "text": "Podle tradice založil klášter roku 1193 bl. Hroznata z Ovence; rok není potvrzen spolehlivým pramenem, jisté je založení před rokem 1197 (Hroznatova závěť)."
+  },
+  "summary": "Premonstrátský klášter Teplá založil podle tradice roku 1193 bl. Hroznata z Ovence a po jeho smrti (1217) se z původně soukromé fundace stal zeměpanský klášter spravovaný opatem. Přečkal husitské války, v 17. a 18. století jej barokně přestavěl Kryštof Dientzenhofer. Roku 1950 byl komunisty zrušen a využíván armádou, od 1990 je restituován řádu a od roku 2008 je národní kulturní památkou.",
+  "owners": [
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "Kanonie premonstrátů Teplá (zakladatel Hroznata z Ovence)",
+    "from": 1193,
+    "to": 1950,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "tradiční rok založení; po Hroznatově smrti 1217 správa soustředěna v rukou opata. 1942 nacisté zabavili jen klášterní majetek v Mariánských Lázních; 1945-1946 bylo vedení kláštera internováno a odsunuto, klášter ale zůstal řádu."
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "Československá armáda (1950-1978), poté SPÚ/NPÚ a archiv",
+    "from": 1950,
+    "to": 1990,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "konfiskace",
+    "note": "klášter zrušen komunisty v dubnu 1950; armáda 1950-1978, pak péče Státního památkového ústavu, 1979-1990 pobočka okresního archivu. Přesný rok restituce cs.wiki neuvádí (po roce 1989), rok 1990 je odhad konce státní správy z údaje o archivu."
+   },
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "Kanonie premonstrátů Teplá (opat Filip Zdeněk Lobkowicz od 2011)",
+    "from": 1990,
+    "to": null,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "restituce",
+    "note": "cs.wiki: po roce 1989 objekt restituován a obnoven duchovní život; rok 1990 je přibližný"
+   }
+  ],
+  "events": [
+   {
+    "year": 1197,
+    "text": "Hroznatova závěť, pokládaná za zakládací listinu kláštera"
+   },
+   {
+    "year": 1217,
+    "text": "smrt Hroznaty v zajetí na hradě Kynšperk"
+   },
+   {
+    "year": 1490,
+    "text": "opat Zikmund Hausmann obnovuje klášter, kostel znovu vysvěcen"
+   },
+   {
+    "year": 1611,
+    "text": "klášter potřetí do základů vyhořel"
+   },
+   {
+    "year": 1690,
+    "text": "1690-1724 barokní přestavba podle Kryštofa Dientzenhofera"
+   },
+   {
+    "year": 1897,
+    "text": "blahořečení Hroznaty"
+   },
+   {
+    "year": 1950,
+    "text": "zrušení kláštera, areál připadl armádě (1950-1978) a byl devastován"
+   },
+   {
+    "year": 2008,
+    "text": "prohlášení za národní kulturní památku"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Klášter_Teplá",
+   "https://www.npu.cz/cs/hrady-a-zamky/tipy-na-vylet/9525-klaster-premonstratu-tepla",
+   "https://www.nacr.cz/wp-content/uploads/2024/05/PH_22_2_2014_Hlinomaz.pdf"
   ]
  },
  "Q36334493": {
@@ -61483,6 +62558,99 @@
    "https://www.hrad-tocnik.cz/cs/o-hradu/historie",
    "https://cs.wikipedia.org/wiki/Točník_(hrad)",
    "https://www.mistopisy.cz/pruvodce/body-zajmu/588/zricenina-hradu-zebrak/ (komerční průvodce, nižší spolehlivost)"
+  ]
+ },
+ "Q735278": {
+  "id": "Q735278",
+  "name": "Lednicko-valtický areál",
+  "founded": {
+   "year": null,
+   "approx": false,
+   "text": "Krajinný celek formovaný Lichtenštejny v 17.-19. století (aleje spojující Valtice s panstvím od 17. stol., přírodně krajinářský park od počátku 19. stol. za Jana Josefa I.); Lednice zámek postaven jako renesanční vila kolem 1570, Bezručova alej z roku 1715."
+  },
+  "summary": "Lednicko-valtický areál je nejrozsáhlejší komponovaná krajina v Evropě, kterou v 17.-19. století formoval kníže Lichtenštejnů, jehož rod držel Valtice od roku 1395 a Lednici trvale od roku 1601. Rod vlastnil areál do roku 1945, kdy byl majetek Františka Josefa II. zkonfiskován podle Benešových dekretů a připadl státu. Spor o vlastnictví zámků trvá, české soudy ale lichtenštejnské žaloby zamítají; areál je od roku 1996 na seznamu UNESCO.",
+  "owners": [
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "pasovští biskupové",
+    "from": null,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "Valtice; podle unesco-czech.cz přešly na přelomu 11.-12. stol. z držebnosti pasovských biskupů do moci rodu ze Seefeldů; rok neznámý",
+    "to_unknown": true
+   },
+   {
+    "owner": "seefeldove",
+    "owner_wiki": null,
+    "person": "páni ze Seefeldu",
+    "from": null,
+    "to": 1395,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "Valtice od přelomu 11.-12. stol.; Lednice je 1222 poprvé zmíněna v držení rakouského rodu Sirotků a 1322 je již značná část Lednice majetkem Lichtenštejnů"
+   },
+   {
+    "owner": "lichtenstejnove",
+    "owner_wiki": "Lichtenštejnové",
+    "person": "knížata z Lichtenštejna",
+    "from": 1395,
+    "to": 1945,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "1. 2. 1395 vlastníky celého panství, hradu a města Valtice (způsob nabytí zdroj neuvádí); Lednice trvale od 1601; na konci 14. stol. (NPÚ) již obě panství, později spojená s Břeclaví, tvořila jádro rodového majetku; 31. 7. 1920 převzetí města Valtice československou státní správou (pozemková reforma)"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "Československo, dnes Česká republika (Lednice a Valtice spravuje NPÚ)",
+    "from": 1945,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "majetek Františka Josefa II. zkonfiskován dekretem č. 12/1945 Sb. (účinnost 23. 6. 1945, vyhláška ONV Olomouc 31. 7. 1945); lichtenštejnská nadace žaloby neuspěla (Okresní soud Břeclav 2022, Krajský soud Brno 2023), spor o vlastnictví trvá"
+   }
+  ],
+  "events": [
+   {
+    "year": 1395,
+    "text": "Lichtenštejnové získali celé panství Valtice"
+   },
+   {
+    "year": 1601,
+    "text": "Lednice přešla do trvalé držby Lichtenštejnů"
+   },
+   {
+    "year": 1715,
+    "text": "Bezručova alej spojující Valtice a Lednici"
+   },
+   {
+    "year": 1920,
+    "text": "československá státní správa převzala město Valtice a Úvaly"
+   },
+   {
+    "year": 1945,
+    "text": "konfiskace lichtenštejnského majetku podle Benešových dekretů"
+   },
+   {
+    "year": 1992,
+    "text": "vyhlášena krajinná památková zóna"
+   },
+   {
+    "year": 1996,
+    "text": "zápis na seznam světového dědictví UNESCO"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Lednicko-valtický_areál",
+   "https://www.unesco-czech.cz/lednicko-valticky-areal/historie/",
+   "https://www.iir.cz/vaduz-proti-praze-spor-o-majetek-lichtenstejnu-zkonfiskovany-po-druhe-svetove-valce",
+   "https://www.idnes.cz/brno/zpravy/zaloba-vydani-zamek-lednice-breclav-valtice-lichtenstejn.A220211_090908_brno-zpravy_alh"
   ]
  },
  "Q744016": {

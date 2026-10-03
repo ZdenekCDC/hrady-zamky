@@ -1,0 +1,20 @@
+{
+ "id": "Q2241917",
+ "name": "Kostelec nad Orlicí",
+ "founded": {"year": 1829, "approx": false, "text": "1829-1833 (cs.wiki též 1829-1835) výstavba empírového Nového zámku podle návrhu Heinricha Kocha pro Josefa Ervína Kinského; 1847 uzavřen čestný dvůr východním křídlem."},
+ "summary": "Nový zámek v Kostelci nad Orlicí nechal v letech 1829-1833 postavit v empírovém slohu hrabě Josef Ervín Kinský, zakladatel kostelecké hraběcí větve Kinských. Rodině patřil do roku 1948, kdy jej převzal stát a umístil do něj Výzkumný ústav pro chov prasat. Po restituci na počátku 90. let jej Kinští obnovili a zpřístupnili veřejnosti; dnes jej vlastní František Kinský.",
+ "owners": [
+  {"owner": "kinsti", "owner_wiki": "Kinští", "person": "Josef Ervín Kinský; později Bedřich Karel, František Josef Kinský", "from": 1812, "to": 1948, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "kostelecké panství získala vedlejší větev Kinských 1812 (hrady.cz; ČT24 uvádí od 1796); zámek postavil Josef Ervín Kinský (1806-1862); posledními obyvateli František Josef a Paulina Kinských do 1951"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1948, "to": 1992, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "1948 národní správa a znárodnění; Výzkumný ústav chovu prasat do 1975, poté Krajské středisko státní památkové péče a ochrany přírody v Pardubicích; rodina bydlela v zámku do 1951"},
+  {"owner": "kinsti", "owner_wiki": "Kinští", "person": "Josef Kinský (1913-2011); od 2003/2004 František Kinský", "from": 1992, "to": null, "from_approx": false, "to_approx": false, "how": "restituce", "note": "cs.wiki uvádí restituci 1991 (bez citace), oficiální web zámku a ČT24 1992; správu majetku předal Josef synovi Františkovi 2003/2004"}
+ ],
+ "events": [
+  {"year": 1829, "text": "zahájena stavba empírového zámku podle Heinricha Kocha (do 1833)"},
+  {"year": 1847, "text": "uzavření čestného dvora východním křídlem podle Edmunda Christena"},
+  {"year": 1948, "text": "zámek postaven pod národní správu a znárodněn, poté sídlo Výzkumného ústavu chovu prasat"},
+  {"year": 1975, "text": "ústav opustil zámek po výstavbě nového areálu; zámek převeden památkářům"},
+  {"year": 1992, "text": "zámek vrácen v restituci Josefu Kinskému, následuje rekonstrukce (1996-2008)"},
+  {"year": 2012, "text": "otevřena expozice Život v biedermeieru"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Kostelec_nad_Orlicí_(nový_zámek)", "https://www.zamekkostelecno.cz/novy-zamek/", "https://www.hrady.cz/zamek-kostelec-nad-orlici/texty?pos=1000&tid=6405", "https://ct24.ceskatelevize.cz/clanek/regiony/od-prasat-po-empir-pribeh-zamku-rodiny-kinskych-335949"]
+}

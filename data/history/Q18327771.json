@@ -1,0 +1,22 @@
+{
+ "id": "Q18327771",
+ "name": "Klášter Světce",
+ "founded": {"year": 1656, "approx": false, "text": "1656-1669 stavba paulánského kláštera (nadace Jana Filipa Husmanna z Namedy z roku 1639; předání starého kostela paulánům 1641); klášterní kostel 1671-1674."},
+ "summary": "Paulánský klášter ve Světcích u Tachova vznikl z nadace Jana Filipa Husmanna z Namedy, držitele tachovského panství, a byl vystavěn v letech 1656-1669; kostel Čtrnácti svatých pomocníků přibyl 1671-1674 za Losyho z Losinthalu. Po zrušení za josefínských reforem (1787) klášter s kostelem získali Windischgrätzové, kteří se v letech 1857-1861 pokusili kostel přestavět na romantický zámek; stavba zůstala nedokončena a zchátrala do podoby ruiny. Konvent dnes slouží jako střední škola.",
+ "owners": [
+  {"owner": "z-namedy", "owner_wiki": null, "person": "Jan Filip Husmann z Namedy", "from": 1639, "to": 1641, "from_approx": false, "to_approx": false, "how": "zalozeni", "note": "zakladatel kláštera a držitel tachovského panství; fundační listina 1639 (tachov.cz), po jeho smrti 1651 práce stály a obnovila je vdova 1656"},
+  {"owner": "cirkev", "owner_wiki": null, "person": "řád paulánů", "from": 1641, "to": 1787, "from_approx": false, "to_approx": false, "how": "dar", "note": "15. 8. 1641 slavnostní předání kostela paulánům; spor s křižovníky o pozemky trval do 50. let 17. stol.; klášter zrušen 1787 za josefínských reforem"},
+  {"owner": "windischgratzove", "owner_wiki": "Windischgrätzové", "person": "Josef Mikuláš Windischgrätz; později Alfred Windischgrätz", "from": 1790, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "podle tachov.cz koupě v dražbě 1790 (cs.wiki uvádí jen získání po zrušení); Alfred I. zemřel 1862, jeho syn Alfred II. práce zastavil; pozdější vlastníci (po 1918, po 1945) ve zdrojích neuvedeni"},
+  {"owner": "neznamo", "owner_wiki": null, "person": "dnešní vlastník kláštera neuveden", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "konvent byl využíván jako lesní úřad a dnes jako střední odborné učiliště stavební; vlastnictví zdroje neuvádějí (jízdárna pod klášterem patří od 1996/1997 městu Tachov)"}
+ ],
+ "events": [
+  {"year": 1427, "text": "starší kostel poškozen husity"},
+  {"year": 1656, "text": "zahájena stavba kláštera (dokončen 1669)"},
+  {"year": 1671, "text": "výstavba kostela Čtrnácti svatých pomocníků (do 1674) za Jana Filipa Losyho z Losinthalu"},
+  {"year": 1729, "text": "požár kláštera, opravy do 1754; pravá věž rekonstruována 1756"},
+  {"year": 1787, "text": "zrušení paulánské komunity za josefínských reforem"},
+  {"year": 1857, "text": "Alfred Windischgrätz zahájil přestavbu kostela a kláštera na romantický zámek (do 1861), nedokončeno"},
+  {"year": 1945, "text": "na konci války požár zříceniny nedokončeného zámku"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Klášter_Světce", "https://www.tachov.cz/svetce.html"]
+}

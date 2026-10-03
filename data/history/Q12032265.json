@@ -1,0 +1,171 @@
+{
+ "id": "Q12032265",
+ "name": "Křinec",
+ "founded": {
+  "year": 1649,
+  "approx": false,
+  "text": "Barokní zámek postavil od roku 1649 (boční křídla 1659-1660) Pavel Morzin na místě starší tvrze, pravděpodobně podle Carla Luraga; Křinec připomínán od 1352."
+ },
+ "summary": "Zámek Křinec postavil od roku 1649 Pavel Morzin na místě zaniklé tvrze jako centrum kuncberského (později křineckého) panství, které před ním držela řada rodů (Valečovští, Ronovci, Valdštejnové). Od roku 1808 patřil bankéřské rodině Bethmannů, jim byl zabrán roku 1945. Po zestátnění sloužil jako škola a depozitář Národního muzea (do 2003) a od roku 2006 patří soukromému majiteli, který ho postupně obnovuje.",
+ "owners": [
+  {
+   "owner": "valecovsti-z-valecova",
+   "owner_wiki": null,
+   "person": "Jan z Valečova, Bernard z Valečova, Jan z Křince; za husitských válek Bohuš Vrabec z Valečova",
+   "from": 1378,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "cs.wiki: Valečovští 14.-15. stol.; interregion.cz: Jan z Valečova 1378, Bernard 1389, Jan z Křince doložen 1407, zemřel 1418; Bohuš Vrabec o majetek přišel pro víru podobojí"
+  },
+  {
+   "owner": "z-polenska",
+   "owner_wiki": null,
+   "person": "Hanuš z Polenska",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "po husitských válkách (interregion.cz)"
+  },
+  {
+   "owner": "z-lacemboka",
+   "owner_wiki": null,
+   "person": "Václav z Lacemboka",
+   "from": null,
+   "to": 1463,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "panství snad připojeno k dymokurskému; Václav zemřel 1463 a o pozůstalost se soudili Jan z Ronova a Purkart z Kopidlna (interregion.cz)"
+  },
+  {
+   "owner": "krinecti-z-ronova",
+   "owner_wiki": "Křinečtí z Ronova",
+   "person": "Jan z Ronova, Jan Křinecký z Ronova a Kunštberka",
+   "from": 1463,
+   "to": 1568,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "Jan z Ronova získal panství po sporu, kolem 1470 se přesídlil na hrad Kunštberk; tvrz opuštěna a chátrala; rok nabytí přibližný, cs.wiki udává Ronovské v 15.-16. stol."
+  },
+  {
+   "owner": "pani-z-vresovic",
+   "owner_wiki": "Páni z Vřesovic",
+   "person": "Jan Kostomlatský z Vřesovic",
+   "from": 1568,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "statek 1568 prodán Janu Kostomlatskému z Vřesovic; přiřazení k Pánům z Vřesovic je odvozené; cs.wiki ho nezmiňuje, rok konce neznámý (tvrz 1569 uváděna jako pustá)"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Jindřich z Valdštejna, Heník z Valdštejna (konfiskace po stavovském povstání), Albrecht z Valdštejna, Adam mladší z Valdštejna, Jan Viktorin z Valdštejna",
+   "from": null,
+   "to": 1649,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Jindřich z Valdštejna a na Dobrovici koupil panství; po konfiskaci Heníkova majetku jej získal Albrecht a koupil Adam mladší; po něm syn Jan Viktorin, který panství prodal Morzinovi; roky jednotlivých držitelů zdroje neuvádějí"
+  },
+  {
+   "owner": "morzinove",
+   "owner_wiki": "Morzinové",
+   "person": "Pavel (August Pavel) Morzin, Václav z Morzinu, Rudolf Desiderius z Morzinu",
+   "from": 1649,
+   "to": 1796,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Pavel Morzin postavil zámek na místě tvrze (1649); Morzinové postavili roku 1670 zámeček na Kuncberku"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Jakub Wimmer (baron)",
+   "from": 1796,
+   "to": 1808,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe"
+  },
+  {
+   "owner": "bethmannove",
+   "owner_wiki": null,
+   "person": "Simon Moritz von Bethmann, frankfurtský bankéř",
+   "from": 1808,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "kultura.cz uvádí koupi 1807; po 1945 zabaveno podle Benešových dekretů"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": "Československo; zámek v péči Národního muzea (1968-2003)",
+   "from": 1945,
+   "to": 2006,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "1949-1968 základní škola, 1968-2003 Národní muzeum (depozitář)"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "HARBUCO, s.r.o. (rodina Harapesových)",
+   "from": 2006,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "soukromý majitel, zámek se postupně rekonstruuje a je částečně přístupný"
+  }
+ ],
+ "events": [
+  {
+   "year": 1352,
+   "text": "první písemná zmínka o Křinci"
+  },
+  {
+   "year": 1569,
+   "text": "tvrz uváděna jako pustá (jediná zmínka o její existenci)"
+  },
+  {
+   "year": 1649,
+   "text": "Pavel Morzin zahajuje stavbu raně barokního zámku, 1659-1660 boční křídla"
+  },
+  {
+   "year": 1705,
+   "text": "přistavěna zámecká kaple se štukovou dekorací"
+  },
+  {
+   "year": 1808,
+   "text": "panství kupuje bankéřská rodina Bethmannů"
+  },
+  {
+   "year": 1945,
+   "text": "zabavení panství podle Benešových dekretů"
+  },
+  {
+   "year": 1965,
+   "text": "zámek prohlášen kulturní památkou"
+  },
+  {
+   "year": 2006,
+   "text": "koupě soukromým majitelem, od 2008 postupná obnova a zpřístupnění"
+  }
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Křinec_(zámek)",
+  "https://www.interregion.cz/turistika/hrady_zamky/krinec_zamek/krinec_zamek.html",
+  "https://www.regionem.cz/clanek/krinecky-zamek-se-vraci-k-zivotu-nabizi-barokni-sal-rokokove-salonky-i-park/"
+ ]
+}

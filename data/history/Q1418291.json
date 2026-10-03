@@ -1,0 +1,23 @@
+{
+ "id": "Q1418291",
+ "name": "Kačina",
+ "founded": {"year": 1802, "approx": false, "text": "1802-1822 výstavba empírového zámku pro Jana Rudolfa Chotka z Chotkova podle plánů Ch. F. Schurichta (NZM uvádí 1806-1824)."},
+ "summary": "Empírový zámek Kačina nechal v letech 1802-1822 postavit nejvyšší purkrabí Jan Rudolf Chotek z Chotkova na novodvorském panství, které Chotkové koupili roku 1764. Chotkové zde žili do roku 1911, pak zámek zdědili Thun-Hohensteinové; zadlužený Quido Thun-Hohenstein jej za protektorátu ztratil v nucené dražbě ve prospěch Hitlerjugend. Po válce byl znárodněn a od roku 1950 jej využívá Národní zemědělské muzeum.",
+ "owners": [
+  {"owner": "chotkove-z-chotkova", "owner_wiki": "Chotkové z Chotkova", "person": "Jan Karel Chotek; Jan Rudolf Chotek z Chotkova", "from": 1764, "to": 1911, "from_approx": false, "to_approx": false, "how": "koupe", "note": "novodvorské panství koupil roku 1764 Jan Karel Chotek; zámek postavil Jan Rudolf Chotek; poslední Chotek Emerich zemřel 1911"},
+  {"owner": "thun-hohensteinove", "owner_wiki": "Thun-Hohensteinové", "person": "Quido Thun-Hohenstein", "from": 1911, "to": null, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "synovec Emericha Chotka; majetek zadlužil, počátkem 30. let zámek opustil; cs.wiki uvádí nucenou dražbu za protektorátu (rok neuveden)"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Hitlerjugend (nacistická organizace mládeže)", "from": null, "to": 1945, "from_approx": false, "to_approx": false, "how": "koupe", "note": "podle cs.wiki koupě v nucené dražbě za protektorátu; rok neuveden"},
+  {"owner": "stat", "owner_wiki": null, "person": "Národní zemědělské muzeum", "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "zámek po válce znárodněn (NZM uvádí konfiskaci 1945), od roku 1950 přidělen Národnímu zemědělskému muzeu, které jej spravuje dodnes"}
+ ],
+ "events": [
+  {"year": 1764, "text": "Jan Karel Chotek koupil novodvorské panství"},
+  {"year": 1802, "text": "zahájena stavba zámku (do 1822) podle plánů Ch. F. Schurichta"},
+  {"year": 1811, "text": "rakouský státní bankrot přerušil stavbu"},
+  {"year": 1823, "text": "Jan Rudolf Chotek se do zámku nastěhoval"},
+  {"year": 1851, "text": "dostavěno zámecké divadlo za Chotkova vnuka Jindřicha"},
+  {"year": 1911, "text": "smrtí Emericha Chotka vymřela místní větev rodu, panství zdědil Quido Thun-Hohenstein"},
+  {"year": 1950, "text": "zámek přidělen Národnímu zemědělskému muzeu"},
+  {"year": 2001, "text": "prohlášen národní kulturní památkou"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Kačina", "https://www.nzm.cz/o-nas/o-nzm/narodni-zemedelske-muzeum-kacina/historie-zamku-kacina", "http://dejinyasoucasnost.cz/archiv/2007/5/uz-jste-byli-na-kacine-/"]
+}
