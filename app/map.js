@@ -1,6 +1,6 @@
 // Map view: markers, filters, time machine, legend and place detail.
 import {
-  ACCESS, HOW, KIND, NOW, century, commonsThumb, distanceKm, esc, familyName, isInstitution,
+  ACCESS, HOW, KIND, NOW, commonsThumb, distanceKm, esc, familyName, fuzzyRank, isInstitution, norm,
   ownerAt, ownerColor, photoCredit, placeThumb, yearRange,
 } from "./data.js";
 import { attachBaseLayers } from "./basemaps.js";
@@ -58,6 +58,36 @@ function saveState() {
 function applyIconTheme() {
   const t = getIconTheme();
   document.documentElement.dataset.iconTheme = ICON_THEMES[t] ? t : DEFAULT_ICON_THEME;
+}
+
+/** Search box that adds a family: matches without diacritics and with one typo, Enter takes the first hit. */
+function initFamilyPicker(el, add) {
+  const input = el.querySelector("#f-family");
+  const list = el.querySelector("#f-family-results");
+  const candidates = Object.values(D.families).filter((f) => f.place_count > 0 && !state.families.includes(f.id))
+    .map((f) => ({ f, key: norm(f.name) }));
+  let hits = [];
+  let sel = 0;
+  const draw = () => {
+    list.innerHTML = hits.map(({ f }, i) => `<li class="${i === sel ? "sel" : ""}" data-i="${i}">${esc(f.name)} <span class="muted">${f.place_count}</span></li>`).join("");
+    list.hidden = !hits.length;
+    list.querySelectorAll("li").forEach((li) => li.addEventListener("mousedown", (e) => { e.preventDefault(); add(hits[+li.dataset.i].f.id); }));
+  };
+  input.addEventListener("input", () => {
+    const q = norm(input.value.trim());
+    sel = 0;
+    hits = q.length < 2 ? [] : candidates.map((c) => ({ ...c, rank: fuzzyRank(c.key, q) })).filter((c) => c.rank != null)
+      .sort((a, b) => a.rank - b.rank || b.f.place_count - a.f.place_count).slice(0, 10);
+    draw();
+  });
+  input.addEventListener("keydown", (e) => {
+    if (list.hidden) return;
+    if (e.key === "ArrowDown") { sel = Math.min(hits.length - 1, sel + 1); draw(); e.preventDefault(); }
+    else if (e.key === "ArrowUp") { sel = Math.max(0, sel - 1); draw(); e.preventDefault(); }
+    else if (e.key === "Enter" && hits[sel]) add(hits[sel].f.id);
+    else if (e.key === "Escape") list.hidden = true;
+  });
+  input.addEventListener("blur", () => setTimeout(() => (list.hidden = true), 150));
 }
 
 /* ---------- marker glyphs ---------- */
@@ -167,7 +197,7 @@ function passes(p) {
   if (state.visits === "yes" && !p.visited) return false;
   if (state.visits === "no" && p.visited) return false;
   if (state.onlyHistory && !p.history) return false;
-  const c = century(p.foundedYear);
+  const c = p.foundedCentury;
   if (state.cFrom && (c == null || c < +state.cFrom)) return false;
   if (state.cTo && (c == null || c > +state.cTo)) return false;
   if (state.tm) {
@@ -283,9 +313,8 @@ function renderFilters() {
       <div class="chips" id="fam-chips">${state.families.map((id) => `
         <span class="chip"><span class="swatch" style="background:${ownerColor(D.families, id, true)}"></span>${esc(familyName(D.families, id))}
         <button data-unfam="${id}" title="odebrat" aria-label="odebrat ${esc(familyName(D.families, id))}">×</button></span>`).join("")}</div>
-      <select id="f-family" style="width:100%"><option value="">+ přidat rod…</option>
-        ${fams.filter((f) => !state.families.includes(f.id)).map((f) => `<option value="${f.id}">${esc(f.name)} (${f.place_count})</option>`).join("")}
-      </select>
+      <div class="suggest"><input id="f-family" type="search" placeholder="+ přidat rod…" autocomplete="off">
+        <ul id="f-family-results" hidden></ul></div>
     </div>
     <div class="filter-group"><label class="check">Barvy ikon <select id="f-icons">
         ${Object.entries(ICON_THEMES).map(([k, label]) => `<option value="${k}" ${document.documentElement.dataset.iconTheme === k ? "selected" : ""}>${label}</option>`).join("")}
@@ -303,7 +332,7 @@ function renderFilters() {
   on("#f-visits", "change", (e) => (state.visits = e.target.value));
   on("#f-history", "change", (e) => (state.onlyHistory = e.target.checked));
   const setFamilies = (list) => { state.families = list; saveState(); renderFilters(); refresh(); };
-  el.querySelector("#f-family").addEventListener("change", (e) => { if (e.target.value) setFamilies([...state.families, e.target.value]); });
+  initFamilyPicker(el, (id) => setFamilies([...state.families, id]));
   el.querySelectorAll("[data-unfam]").forEach((b) => b.addEventListener("click", () => setFamilies(state.families.filter((f) => f !== b.dataset.unfam))));
   el.querySelector("#f-fam-reset").addEventListener("click", () => setFamilies([]));
   el.querySelector("#f-reset").addEventListener("click", () => {

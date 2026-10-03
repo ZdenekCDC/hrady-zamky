@@ -246,13 +246,15 @@ select, input[type=search], input[type=number] {
 .tabs a.active { background: var(--page); color: var(--text-primary); font-weight: 600; }
 .search { position: relative; flex: 1; max-width: 420px; }
 .search input { width: 100%; }
-#search-results {
+.suggest { position: relative; }
+.suggest input { width: 100%; }
+#search-results, #f-family-results {
   position: absolute; z-index: 1000; top: 100%; left: 0; right: 0; margin: 4px 0 0; padding: 4px 0;
   list-style: none; background: var(--surface-1); border: 1px solid var(--border); border-radius: 8px;
   box-shadow: 0 6px 24px rgba(0,0,0,.12); max-height: 60vh; overflow: auto;
 }
-#search-results li { padding: 6px 12px; cursor: pointer; }
-#search-results li:hover, #search-results li.sel { background: var(--page); }
+#search-results li, #f-family-results li { padding: 6px 12px; cursor: pointer; }
+#search-results li:hover, #search-results li.sel, #f-family-results li:hover, #f-family-results li.sel { background: var(--page); }
 .stats { margin-left: auto; color: var(--text-secondary); white-space: nowrap; }
 .stats b { color: var(--text-primary); }
 

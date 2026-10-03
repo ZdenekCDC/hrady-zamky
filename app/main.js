@@ -1,5 +1,5 @@
 // Entry point: load data, hash routing, search, stats.
-import { KIND, esc, loadAll } from "./data.js";
+import { KIND, esc, loadAll, norm } from "./data.js";
 import { initFamilies, showFamilies } from "./families.js";
 import { initMap, invalidate, showMapHome, showPlace } from "./map.js";
 import { initStats, showStats } from "./stats.js";
@@ -35,7 +35,6 @@ function renderStats() {
 function initSearch() {
   const input = document.getElementById("search");
   const list = document.getElementById("search-results");
-  const norm = (s) => (s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
   const placeIdx = D.places.map((p) => ({ p, key: norm(`${p.name} ${p.obec || ""} ${p.wd_label || ""}`) }));
   let items = [];
   let sel = 0;

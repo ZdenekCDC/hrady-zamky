@@ -130,10 +130,8 @@ Stav k 2026-10-03: web běží na GitHub Pages (<https://zdenekcdc.github.io/hra
 
 - [ ] Vylepšit stroj času (časovou osu) a obarvování podle vlastníka: barevně dělají problém hlavně šedé odstíny (instituce, ostatní rody, bez dat se téměř neliší) a zvýrazněné rody bývají na mapě špatně vidět (fialový obrys na zelenošedém podkladu, malé značky mezi stovkami dalších). Návrhy: výraznější a rozlišitelnější barvy a obrysy, ztlumit ostatní značky, ověřit palety pro barvoslepost (skill `dataviz`).
 - [ ] Doladit legendu přístupnosti (se vstupným / volně přístupné / přístupnost neznámá) v `renderLegend()` v `app/map.js`: po první úpravě (neutrální šedé výplně, větší vzorek neznámé) je čitelnější, ale vzorky se pořád špatně rozlišují a neznámá přístupnost je v legendě větší než na mapě (12 vs 9 px). Zvážit sjednocení s barvami a velikostmi na mapě.
-- [ ] Filtr "Století vzniku" (`passes()` v `app/map.js`) používá jen přesný rok (`foundedYear`), takže se netýká 513 míst, která mají v datech jen text "14. stol." (a 49 s "1920. léta"); využít `startYear` z `app/data.js` (nebo samostatný údaj jen o vzniku bez událostí).
 - [ ] Zemitá paleta ikon (výchozí) a ostatní témata nejsou ověřená na barvoslepost (staré pastelové byly, viz komentář v historii `style.css`); ověřit validátorem ze skillu `dataviz`, hlavně hrad / zámek / zřícenina vedle sebe. Preview témat je v `piktogramy/index.html` (jen lokálně).
 - [ ] Stroj času: ~160 míst bez jakéhokoli data vzniku se po vypnutí volby "skrýt místa bez data vzniku" ukazuje v každém roce (i 870); doplnit data vzniku (století z Wikidat / cs.wiki), ať je volba zbytečná.
-- [ ] Formulář "+ přidat rod..." (`#f-family` v `app/map.js`) má jen dlouhý `<select>` se 790 rody; nahradit vyhledávacím polem s fuzzy hledáním (bez diakritiky, překlepy, části názvu), jako u hledání v záhlaví.
 
 ## Návštěvy pro více uživatelů
 

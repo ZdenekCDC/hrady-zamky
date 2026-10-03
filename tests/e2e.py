@@ -9,6 +9,7 @@ import json
 import shutil
 import http.server
 import os
+import re
 import sys
 import tempfile
 import threading
@@ -291,8 +292,13 @@ def main():
             assert page.locator(".hz-hover .credit").count(), "hover photo without author / license"
         shot("01b-hover")
 
-        page.select_option("#f-family", "pernstejnove")
-        page.select_option("#f-family", "valdstejnove")
+        page.fill("#f-family", "pernstein")  # one typo and no diacritics still finds Pernštejnové
+        page.wait_for_selector("#f-family-results li")
+        assert "Pernštejnové" in page.inner_text("#f-family-results"), "family picker misses a one-typo query"
+        page.keyboard.press("Enter")
+        page.fill("#f-family", "valdstejn")
+        page.wait_for_selector("#f-family-results li")
+        page.keyboard.press("Enter")
         print("family chips:", page.locator("#fam-chips .chip").count())
         shot("01c-families")
         page.click("#f-fam-reset")
@@ -309,6 +315,24 @@ def main():
         n_no = markers_with_visits("no")
         assert markers_with_visits("") == n_all, "resetting the visits filter did not restore all markers"
         print(f"visits filter: all {n_all} | visited {n_yes} | unvisited {n_no}")
+
+        def century_of(p):  # founding year, else the "14. stol." / "1920. léta" text
+            year = ((DATA_HISTORY.get(p["id"]) or {}).get("founded") or {}).get("year") or p["founded"]
+            if year is not None:
+                return (year - 1) // 100 + 1
+            m = re.match(r"(\d+)\. (stol|léta)", p["founded_text"] or "")
+            return None if not m else int(m[1]) if m[2] == "stol" else (int(m[1]) - 1) // 100 + 1
+        want = sum(1 for p in DATA_PLACES if p["access"] != "neznamo" and century_of(p) == 14)
+        page.select_option("#f-cfrom", "14")
+        page.select_option("#f-cto", "14")
+        page.evaluate("new Promise((r) => requestAnimationFrame(() => requestAnimationFrame(r)))")
+        n_14 = page.locator(".mk").count()
+        assert want <= n_14 <= want + n_visited, f"century filter 14. stol. shows {n_14} markers, data has {want} (+ up to {n_visited} visited)"
+        print(f"century filter 14: {n_14} markers (data {want})")
+        page.select_option("#f-cfrom", "")
+        page.select_option("#f-cto", "")
+        page.evaluate("new Promise((r) => requestAnimationFrame(() => requestAnimationFrame(r)))")
+        assert page.locator(".mk").count() == n_all, "resetting the century filter did not restore all markers"
         assert n_yes == n_visited, f"'jen navštívené' shows {n_yes} markers, expected {n_visited}"
         assert n_yes + n_no == n_all, "visited + unvisited markers do not add up to all"
 

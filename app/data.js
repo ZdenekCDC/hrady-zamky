@@ -65,6 +65,14 @@ function startYear(p) {
   return years.length ? Math.min(...years) : null;
 }
 
+/** Century of founding: from the founding year, else from the "14. stol." / "1920. léta" text; null when unknown. */
+function foundedCentury(p) {
+  if (p.foundedYear != null) return century(p.foundedYear);
+  const m = /^(\d+)\. (stol|léta)/.exec(p.founded_text || "");
+  if (!m) return null;
+  return m[2] === "stol" ? +m[1] : century(+m[1]);
+}
+
 export async function loadAll() {
   const [places, history, families, thumbs] = await Promise.all([
     json("data/places.json"),
@@ -81,6 +89,7 @@ export async function loadAll() {
     const hy = p.history?.founded?.year;
     p.foundedYear = hy ?? p.founded ?? null;
     p.startYear = startYear(p);
+    p.foundedCentury = foundedCentury(p);
   }
   // the time axis starts at the oldest owner of any place, rounded down to 50 years (870 -> 850)
   const owned = places.flatMap((p) => (p.history?.owners || []).map((o) => o.from)).filter((y) => y != null);
@@ -147,7 +156,31 @@ export function distanceKm(a, b) {
   return 2 * R * Math.asin(Math.sqrt(h));
 }
 
-export function century(year) {
+/** Lowercase text without diacritics, for searching. */
+export function norm(s) {
+  return (s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+}
+
+/** True when a and b differ by at most one inserted, deleted or replaced letter. */
+function withinOneEdit(a, b) {
+  if (Math.abs(a.length - b.length) > 1) return false;
+  let i = 0;
+  while (i < a.length && i < b.length && a[i] === b[i]) i++;
+  if (a.length === b.length) return a.slice(i + 1) === b.slice(i + 1);
+  return a.length > b.length ? a.slice(i + 1) === b.slice(i) : a.slice(i) === b.slice(i + 1);
+}
+
+/** Search rank of a normalised text for a normalised query: 0 = contains it, 1 = every word of the query matches
+ *  a word start up to one typo (queries of 4+ letters per word), null = no match. */
+export function fuzzyRank(text, query) {
+  if (text.includes(query)) return 0;
+  const words = text.split(/[^a-z0-9]+/).filter(Boolean);
+  const ok = query.split(/\s+/).filter(Boolean).every((t) =>
+    t.length >= 4 && words.some((w) => withinOneEdit(w.slice(0, t.length), t) || withinOneEdit(w.slice(0, t.length + 1), t)));
+  return ok ? 1 : null;
+}
+
+function century(year) {
   return year == null ? null : Math.floor((year - 1) / 100) + 1;
 }
 
