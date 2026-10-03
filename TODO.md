@@ -1,6 +1,6 @@
 # TODO
 
-Stav k 2026-10-03: web běží na GitHub Pages (<https://zdenekcdc.github.io/hrady-zamky/>), mapa 2909 objektů, historie vlastníků 294 objektů (všechny zpřístupněné), 792 rodů. Web má záložky Mapa / Rody / Statistiky, detail má přepínač osa / tabulka vlastníků.
+Stav k 2026-10-03: web běží na GitHub Pages (<https://zdenekcdc.github.io/hrady-zamky/>), mapa 2902 objektů, historie vlastníků 294 objektů (všechny zpřístupněné), 792 rodů. Web má záložky Mapa / Rody / Statistiky, detail má přepínač osa / tabulka vlastníků.
 
 ## Priorita 1 - data
 
@@ -104,12 +104,7 @@ Stav k 2026-10-03: web běží na GitHub Pages (<https://zdenekcdc.github.io/hra
 - [ ] Doplnit `related` (příbuzné rody, sňatky, větve) v `data/families/*.json` - hotovo jen pro větve Kolovratů, Ronovců / Lipé / Dubé, Drslaviců a Vítkovců; vazby „od koho / komu“ se počítají z převodů automaticky.
 - [ ] Erby chybí u 542 ze 792 rodů (u rodů s článkem doplněny z obrázku cs.wiki, zbytek bez článku), popis u 491 (hlavně rody bez článku) - doplnit z Commons / Wikipedie.
 - [ ] Zbylé chybějící zpřístupněné objekty (muzea, která mají jiný web než Wikidata, soukromé zámky mimo statistiku) - přidávat do `data/overrides.json` (`places.<QID>.access = "vstupne"`); nahlas mi, co ti chybí.
-- [ ] Dočistit nové druhy míst (zavedeno 2026-10-03: tvrz, klášter, pevnost, městské opevnění, kostnice, krypta, hospitál + NPÚ objekty; mapa 2909 míst, nové druhy z Wikidat jen s článkem na cs.wiki nebo zdrojem návštěvnosti):
-  - Kvalita Wikidat: hlavní chyby opraveny (kaple a památník, názvy bez obce, duplicity názvů); zbývá projít jednotlivé klášterní řádky bez kláštera (např. Christianeum, Církevní konzervatoř Opava) a opevnění, která nejsou městská (šance, polní opevnění) - v `overrides.json` (`places.<QID>.kind`, `exclude`).
-  - Přístupnost nových druhů: doplněno z NIPOS (Roudnice, Klášterní Hradisko, Znojmo), OSM (klášter / hradby / pevnost s wikidata tagem) a ručně (Terezín, Josefov); 214 z 230 klášterů a 309 z 312 tvrzí je stále `neznamo`. Nepárované NIPOS řádky: Králíky, Nové Hrady, Nová Říše, Želiv, Velehrad, Nemile (kde `build_places.py -v` hlásí řádek navzdory existující položce, chybí záznam v `nipos_match`).
-  - Kostely jsou jen ty 3 z NPÚ (kostely z Wikidat se záměrně netahají); rozhodnout, zda přidat významné (poutní, UNESCO).
-  - Zámecké zahrady a areály z NPÚ: Zahrady pod Pražským hradem a Kroměřížskou Květnou zahradu zkontrolovat, zda nejsou duplicitně s hradem / zámkem.
-  - Městské opevnění: po vyřazení hypotetického hradu Dvůr Králové (`Q80102912`, 2026-10-02) chybí Šindelářská věž a zbytky hradeb ve Dvoře Králové nad Labem (kulturní památka); hrady-zriceniny.cz označuje stejně i jiná města.
+- [ ] Nové druhy míst: zbývá dopárovat dva NIPOS řádky (Klášter Hora Matky Boží v Králíkách, kostel sv. Klimenta na Levém Hradci - místa v datech nejsou) a u klášterů (214 z 230), tvrzí (309 z 312) a opevnění s přístupností `neznamo` hledat vstupné z dalších zdrojů; kostely z Wikidat se záměrně netahají (tisíce míst).
 
 ## Stroj času a rody v mapě
 
