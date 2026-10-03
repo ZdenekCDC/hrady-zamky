@@ -1,0 +1,23 @@
+{
+ "id": "Q334085",
+ "name": "Nová Říše",
+ "founded": {"year": 1211, "approx": false, "text": "1211 založen jako ženský premonstrátský klášter Markvartem z Hrádku a jeho ženou Vojslavou"},
+ "summary": "Klášter v Nové Říši založil roku 1211 Markvart z Hrádku s manželkou Vojslavou pro premonstrátky. Po vymření řeholnic (1596-1597) majetek udrželi probošti pro řád a roku 1641 sem přišli premonstráti ze Zábrdovic; roku 1733 vzniklo samostatné opatství. Roku 1950 byl klášter zrušen (Akce K) a sloužil jako skladiště Vojenské nemocnice Brno, premonstráti se vrátili až po roce 1989 a od roku 1991 klášter opět spravují.",
+ "owners": [
+  {"owner": "cirkev", "owner_wiki": null, "person": "premonstrátky (zakladatel Markvart z Hrádku)", "from": 1211, "to": 1597, "from_approx": false, "to_approx": false, "how": "zalozeni", "note": "ženský klášter; komunita vymřela 1597 (poslední převorka přestěhována 1596 do Chotěšova); duchovní správu vedli probošti ze Zábrdovic"},
+  {"owner": "cirkev", "owner_wiki": null, "person": "premonstráti (zábrdovická větev)", "from": 1597, "to": 1950, "from_approx": false, "to_approx": false, "how": "jine", "note": "probošti udrželi majetek pro řád; premonstráti do kláštera přišli 16. 5. 1641, 1733 povýšeno na opatství; 1942 přepadení gestapem a deportace řeholníků, po válce návrat"},
+  {"owner": "stat", "owner_wiki": null, "person": "Vojenská nemocnice Brno (skladiště)", "from": 1950, "to": 1991, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "po Akci K 14. 4. 1950 klášter uzavřen, budovy využívány jako skladiště zdravotnických materiálů; rok 1950 a rok návratu 1991 podle cs.wiki a webu kláštera, zdroje nespecifikují formální převod vlastnictví"},
+  {"owner": "cirkev", "owner_wiki": null, "person": "premonstráti (opat Marian Rudolf Kosík)", "from": 1991, "to": null, "from_approx": false, "to_approx": false, "how": "restituce", "note": "premonstráti se kláštera opět ujali roku 1991"}
+ ],
+ "events": [
+  {"year": 1211, "text": "založení ženského kláštera premonstrátek Markvartem z Hrádku"},
+  {"year": 1423, "text": "zpustošení a vypálení kláštera husity (podle cs.wiki 1423 a 1424)"},
+  {"year": 1641, "text": "příchod premonstrátů ze Zábrdovic"},
+  {"year": 1733, "text": "proboštství povýšeno na samostatné opatství"},
+  {"year": 1821, "text": "obnova areálu po požáru městečka roku 1813"},
+  {"year": 1942, "text": "přepadení kláštera gestapem, řeholníci odvezeni a část zahynula v Osvětimi"},
+  {"year": 1950, "text": "Akce K, klášter uzavřen a využit jako vojenské skladiště"},
+  {"year": 1991, "text": "návrat premonstrátů do kláštera"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Nová_Říše_(klášter)", "https://klasternovarise.cz/index.php/cs/historie/klaster-panny-marie", "https://www.cirkev.cz/archiv/110516-800-let-klastera-premonstratu-v-nove-risi"]
+}

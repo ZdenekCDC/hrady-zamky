@@ -1,0 +1,23 @@
+{
+ "id": "Q38094997",
+ "name": "Věž tvrze",
+ "founded": {"year": null, "approx": false, "text": "1. nebo 2. pol. 14. století, nejpozději na přelomu 14. a 15. století (stavební charakter věže); první písemná zmínka o tvrzi 1542"},
+ "summary": "Gotická tvrz v Semtěši vznikla ve 14. století, písemně je doložena až roku 1542; vesnici ale od roku 1355 drželi zemané Rubín ze Skalice a ze Semtěše a po něm další. Po roce 1466 ji koupili Žehušičtí z Nestajova, kteří ji připojili k žehušickému panství, a roku 1558 byla naposledy zmíněna při prodeji panství. Tvrz pak chátrala a zachovala se jen věž, která sloužila jako kovárna a v 90. letech 20. století byla upravena na rozhlednu.",
+ "owners": [
+  {"owner": "z-semtese", "owner_wiki": null, "person": "Rubín ze Skalice a ze Semtěše, jeho syn Petr", "from": 1355, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "podle Sedláčka 1355 majitel Semtěše; Petr připomínán 1363; existence tvrze v té době není písemně doložena"},
+  {"owner": "z-blyne", "owner_wiki": null, "person": "Petr z Blyně", "from": 1402, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "1402 uveden jako vlastník vsi"},
+  {"owner": "z-semtese", "owner_wiki": null, "person": "Weigel, Jetřich a Aleš ze Semtěše", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "Weigel doložen 1415, Jetřich 1440, Aleš 1466; konkrétní roky držení neuvedeny"},
+  {"owner": "zehusicti-z-nestajova", "owner_wiki": null, "person": "Žehušičtí z Nestajova (1542 Václav)", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupeno v blíže neznámé době po roce 1466 a připojeno k žehušickému panství; 1542 Václav Žehušický věnoval majetek včetně semtěšské tvrze; konec držení před 1558 neuveden"},
+  {"owner": "zerotinove", "owner_wiki": null, "person": "Karel ze Žerotína", "from": null, "to": 1558, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "podle hrady.cz a webu obce prodával roku 1558 žehušické panství (včetně Semtěše); cs.wiki prodávajícího nejmenuje"},
+  {"owner": "z-lounic", "owner_wiki": null, "person": "Zdeněk Meziříčský z Lounice", "from": 1558, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "tvrz mu nesloužila jako sídlo a nechal ji zpustnout; další majitelé a dnešní vlastník věže v použitých zdrojích neuvedeni (věž zpřístupňuje obec Semtěš)"}
+ ],
+ "events": [
+  {"year": 1355, "text": "první zmínka o majiteli Semtěše (Rubín ze Skalice a ze Semtěše)"},
+  {"year": 1542, "text": "první písemná zmínka o tvrzi, Václav Žehušický z Nestajova"},
+  {"year": 1558, "text": "poslední zmínka o tvrzi při prodeji žehušického panství, zpustnutí a zastavění areálu domky"},
+  {"year": null, "text": "v 18. století věž bez střechy upravena na kovárnu (do poloviny 20. století, kovárna zrušena 1950)"},
+  {"year": 1915, "text": "oprava věže a zastřešení, střecha zničena větrem o rok později"},
+  {"year": 1997, "text": "rekonstrukce věže (1997-1998) a úprava na rozhlednu"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Semtěš_(tvrz)", "https://www.hrady.cz/tvrz-semtes-kutna-hora", "https://www.semtes.cz/obec-7/historie/"]
+}

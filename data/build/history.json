@@ -14774,6 +14774,167 @@
    "https://www.finmag.cz/obchodni-rejstrik/ares/12250414-pavel-orna"
   ]
  },
+ "Q11227176": {
+  "id": "Q11227176",
+  "name": "Bon Repos",
+  "founded": {
+   "year": 1718,
+   "approx": false,
+   "text": "1715 koupě vrchu Čihadla Františkem Antonínem Šporkem, od 1718 výstavba loveckého zámečku La Maison de Bon Repos (cs.wiki též 1717)"
+  },
+  "summary": "Lovecký zámeček Bon Repos nad Čihadly založil po roce 1715 hrabě František Antonín Špork pro svou zálibu v čižbě ptactva. Po jeho smrti (1738) areál chátral, roku 1768 nebo 1769 jej v dražbě koupil pražský arcibiskup Antonín Příchovský, který jej přestavěl a rozšířil (Nový zámek, čínský pavilon). V 19. století patřil Thun-Hohensteinům, pak bankám, od roku 1905 Kinským, po válce armádě a od roku 2004 jej obnovuje soukromý majitel.",
+  "owners": [
+   {
+    "owner": "sweerts-sporckove",
+    "owner_wiki": null,
+    "person": "František Antonín Špork",
+    "from": 1715,
+    "to": 1722,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "koupil vrch Čihadla od benáteckého panství; zámeček budován od 1718"
+   },
+   {
+    "owner": "cerninove-z-chudenic",
+    "owner_wiki": "Černínové z Chudenic",
+    "person": "František Josef Černín z Chudenic",
+    "from": 1722,
+    "to": 1734,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "prodej s podmínkou, že Špork smí areál užívat; Černín upadl do dluhů (hrady.cz, Jezdec)"
+   },
+   {
+    "owner": "sweerts-sporckove",
+    "owner_wiki": null,
+    "person": "František Antonín Špork",
+    "from": 1734,
+    "to": 1738,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "odkoupil zpět; zemřel 1738; údaj z hrady.cz a Jezdce (cs.wiki prodej Černínovi nezmiňuje)"
+   },
+   {
+    "owner": "z-klenove",
+    "owner_wiki": null,
+    "person": "Ignác Zikmund hrabě z Klenové a Janovic",
+    "from": 1738,
+    "to": 1769,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "dedictvi",
+    "note": "majitel benáteckého panství; areál nepoužíván a pustl; konec držení podle data dražby (cs.wiki 1769, hrady.cz 1768)"
+   },
+   {
+    "owner": "prichovsti-z-prichovic",
+    "owner_wiki": null,
+    "person": "Antonín Příchovský z Příchovic, pražský arcibiskup",
+    "from": 1769,
+    "to": 1816,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "koupil v dražbě (hrady.cz: 1768 jako součást benáteckého panství); přestavba a rozšíření kolem 1770, založil obec Čihadla; konec držení zdroje neuvádějí"
+   },
+   {
+    "owner": "thun-hohensteinove",
+    "owner_wiki": "Thun-Hohensteinové",
+    "person": null,
+    "from": 1816,
+    "to": 1885,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "cs.wiki: 'po roce 1816'; majitel benáteckého panství hrabě Thun-Hohenstein, u nějž 1844-47 působil Bedřich Smetana; rok konce 1885 podle hrady.cz (Hospodářská úvěrní banka)"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Hospodářská úvěrní banka v Praze a Länderbank Wien (od 1887 jediný majitel Länderbank)",
+    "from": 1885,
+    "to": 1905,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "cs.wiki uvádí jen Länderbank Wien koncem 80. let 19. století; rok 1885 a 1887 podle hrady.cz"
+   },
+   {
+    "owner": "kinsti",
+    "owner_wiki": "Kinští",
+    "person": null,
+    "from": 1905,
+    "to": 1945,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "zámek koupila rodina Kinských; rok konce (1945) je odhad - Jezdec uvádí šlechtické majitele do 1945, převod státu zdroje nepopisují"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "armáda (po válce lazaret Rudé armády, od 1963 raketový oddíl Československé lidové armády)",
+    "from": 1945,
+    "to": 2004,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "cs.wiki: armáda držela zámek do 1990, hrady.cz uvádí ještě 2002 zámek v majetku armády na prodej; NPÚ uvádí nového majitele 2004; rok převodu na stát není ve zdrojích výslovně"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Zámek Bon Repos, spol. s r.o. (Charles Butler)",
+    "from": 2004,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "podle NPÚ koupil areál 2004 Charles Butler a následně proběhla patnáctiletá obnova; současný majitel Zámek Bon Repos spol. s r.o."
+   }
+  ],
+  "events": [
+   {
+    "year": 1715,
+    "text": "František Antonín Špork koupil vrch Čihadla od benáteckého panství"
+   },
+   {
+    "year": 1718,
+    "text": "založení kaple sv. Jeronýma a loveckého zámečku La Maison de Bon Repos"
+   },
+   {
+    "year": 1738,
+    "text": "smrt Šporka, areál nevyužíván a pustl"
+   },
+   {
+    "year": 1769,
+    "text": "koupě v dražbě arcibiskupem Příchovským, přestavba a rozšíření (Nový zámek, čínský pavilon 1770)"
+   },
+   {
+    "year": 1844,
+    "text": "1844-1847 působil v areálu jako učitel hudby Bedřich Smetana"
+   },
+   {
+    "year": 1905,
+    "text": "zámek koupila rodina Kinských"
+   },
+   {
+    "year": 1963,
+    "text": "v areálu zřízeno zázemí raketového oddílu armády, užívání do 1990"
+   },
+   {
+    "year": 2004,
+    "text": "nový soukromý majitel, zahájena patnáctiletá obnova areálu"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Bon_Repos",
+   "https://www.hrady.cz/zamek-bon-repos",
+   "https://www.npu.cz/cs/uop-praha/inspirujte-se/61265-zachrana-arealu-zamku-bon-repos"
+  ]
+ },
  "Q11244617": {
   "id": "Q11244617",
   "name": "Brandýs nad Labem",
@@ -20472,6 +20633,184 @@
    "https://de.wikipedia.org/wiki/Schloss_Mährisch_Trübau",
    "https://www.zamekmoravskatrebova.cz/o-zamku/historie-zamku/",
    "https://svitavsky.denik.cz/kraj-a-okoli/lichtenstejnove-zaluji-stat-chteji-zpet-zabaveny-majetek/"
+  ]
+ },
+ "Q12040644": {
+  "id": "Q12040644",
+  "name": "Nemile",
+  "founded": {
+   "year": null,
+   "approx": false,
+   "text": "středověká tvrz, vsi a dvůr doloženy 1374; renesančně přestavěna kolem 1620 Kryštofem Huberckem z Belnsdorfu"
+  },
+  "summary": "Tvrz v Nemili (Filipově u Zábřehu) je poprvé zmiňována roku 1374 a od nejstarších dob patřila k hoštejnskému a později zábřežskému panství. Roku 1617 ji koupil Kryštof Huberck z Belnsdorfu, který ji kolem roku 1620 renesančně přestavěl. Od roku 1667 patřila Lichtenštejnům, po roce 1869 ji držely nešlechtické rodiny a dnes je soukromým obytným domem s částečně zpřístupněnými interiéry, o jehož záchranu a provoz se stará občanské sdružení.",
+  "owners": [
+   {
+    "owner": "z-hostejna",
+    "owner_wiki": null,
+    "person": "páni z Hoštejna (Smil, Hynčík z Hoštejna)",
+    "from": null,
+    "to": 1464,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "ves s dvorem od nejstarších dob příslušenstvím hoštejnského hradu; Smil z Hoštejna doložen 1374, Hynčík 1414"
+   },
+   {
+    "owner": "sternberkove",
+    "owner_wiki": "Šternberkové",
+    "person": "Matouš ze Šternberka",
+    "from": 1464,
+    "to": 1464,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "podle hrady.cz 1464 Matouš ze Šternberka vkládá hoštejnský majetek bratřím Tunklům; cs.wiki uvádí jen koupi Tunkly kolem 1464 a Šternberky v infoboxu v závorce; pořadí vůči Hoštejnským nejisté"
+   },
+   {
+    "owner": "tunklove-z-brnicka",
+    "owner_wiki": "Tunklové z Brníčka",
+    "person": "Jan a Jiří Tunklové z Brníčka, poslední Jindřich",
+    "from": 1464,
+    "to": 1515,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "ves připojena k zábřežskému panství; Jindřich poslední z Tunklů založil mešní nadaci; konec jejich držení zdroj neuvádí (do konce 15. stol.)"
+   },
+   {
+    "owner": "trckove-z-lipy",
+    "owner_wiki": null,
+    "person": "Mikuláš Trčka z Lípy",
+    "from": 1515,
+    "to": 1566,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "ke konci 15. století přešla (mimo dvůr) na Trčku z Lípy; roky neuvedeny"
+   },
+   {
+    "owner": "zerotinove",
+    "owner_wiki": null,
+    "person": "Ladislav Velen ze Žerotína (hrady.cz: Ladislav z Boskovic)",
+    "from": 1566,
+    "to": 1617,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "hrady.cz uvádí Ladislava z Boskovic jako držitele do 1617 a téhož roku prodávajícího Ladislava Velena ze Žerotína; patrně táž osoba, zdroj to výslovně neříká; od 1590 dvůr spravoval regent Jan Huberck z Belnsdorfu a od 1605 jeho syn Kryštof"
+   },
+   {
+    "owner": "z-belnsdorfu",
+    "owner_wiki": null,
+    "person": "Kryštof starší Huberck z Belnsdorfu",
+    "from": 1617,
+    "to": 1650,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "koupeno za 10 000 zlatých, samostatný statek; kolem 1620 renesanční přestavba tvrze; konec držení zdroj neuvádí"
+   },
+   {
+    "owner": "z-litvic",
+    "owner_wiki": null,
+    "person": "Kunhuta Berchtoldová, rozená Litvicová ze Starého Roudna",
+    "from": 1650,
+    "to": 1655,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "podle hrady.cz kolem roku 1650 držitelka, zemřela 1655 a odkázala strýci"
+   },
+   {
+    "owner": "z-pruskeho",
+    "owner_wiki": null,
+    "person": "Kristián Pruský z Pruského",
+    "from": 1655,
+    "to": 1667,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "z Pruského u Púchova; 12. 10. 1667 přenechal ves Lichtenštejnovi"
+   },
+   {
+    "owner": "lichtenstejnove",
+    "owner_wiki": "Lichtenštejnové",
+    "person": "kníže Karel Eusebius z Lichtenštejna; 1773 Filip Erazim z Lichtenštejna",
+    "from": 1667,
+    "to": 1869,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "připojeno k zábřežskému panství; dvůr zrušen za Josefa II. a 1773 na jeho pozemcích založena osada Filipov; 1848-1850 doložena držba Lichtenštejnů, rok prodeje je odvozen z koupě 1869"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Antonín a Anna Hrubí",
+    "from": 1869,
+    "to": 1876,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Anna Doleželová",
+    "from": 1876,
+    "to": 1951,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "dnešním majitelem uvádí cs.wiki Jana Doležela (soukromá osoba); rok převodu neuveden"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Jan Doležel",
+    "from": 1951,
+    "to": null,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "současný majitel podle cs.wiki; předchozí záznam (Anna Doleželová) a tento tvoří sled rodiny Doleželů bez zdokumentovaných roků"
+   }
+  ],
+  "events": [
+   {
+    "year": 1374,
+    "text": "první písemná zmínka o Nemili a dvoru"
+   },
+   {
+    "year": 1464,
+    "text": "hoštejnský majetek včetně Nemile připadl Tunklům z Brníčka a byl připojen k zábřežskému panství"
+   },
+   {
+    "year": 1617,
+    "text": "Kryštof Huberck z Belnsdorfu koupil Nemili od Ladislava Velena ze Žerotína za 10 000 zlatých"
+   },
+   {
+    "year": 1620,
+    "text": "kolem roku 1620 renesanční přestavba tvrze, na mapě Paula Aretina 1623 patrová tvrz s uzavřeným dvorem"
+   },
+   {
+    "year": 1667,
+    "text": "ves koupili Lichtenštejnové"
+   },
+   {
+    "year": 1773,
+    "text": "na rozparcelovaných pozemcích dvora založena osada Filipov"
+   },
+   {
+    "year": 2006,
+    "text": "zahájena záchrana a rekonstrukce tvrze před demolicí (J. D. Schoffer), později občanské sdružení Tvrz Nemile"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Nemile_(tvrz)",
+   "https://www.hrady.cz/tvrz-nemile-sumperk",
+   "https://www.hrady-zriceniny.cz/hrad_nemile.htm"
   ]
  },
  "Q12041421": {
@@ -28421,6 +28760,86 @@
    "https://zamek-buchlovice.cz/cs/o-zamku/majitele/petrvaldsti",
    "https://zamek-buchlovice.cz/cs/o-zamku/majitele/berchtoldove",
    "https://www.hrady.cz/zamek-buchlovice-uherske-hradiste/texty?pos=300&tid=7537"
+  ]
+ },
+ "Q15640040": {
+  "id": "Q15640040",
+  "name": "Kostel svatého Floriána",
+  "founded": {
+   "year": 1597,
+   "approx": false,
+   "text": "1597-1604 (jiné zdroje 1597-1606) postaven jako soukromá luteránská zámecká kaple Rudolfa III. z Bünau"
+  },
+  "summary": "Kostel v Krásném Březně vznikl v letech 1597-1604 jako soukromá luteránská kaple Panny Marie pro zámeckou rodinu Rudolfa III. z Bünau, v saské renesanci imitující pozdní gotiku. V letech 1714-1751 jej při přestavbě zámku doplnil majitel panství Johann Ludwig Richard Cavriani o oratoř a předsíň. Farním kostelem se stal zřízením farnosti roku 1897 a od té doby nese zasvěcení sv. Floriánovi; od roku 2008 je národní kulturní památkou a patří státu s právem hospodaření NPÚ.",
+  "owners": [
+   {
+    "owner": "rytiri-z-bunau",
+    "owner_wiki": "Rytíři z Bünau",
+    "person": "Rudolf III. z Bünau",
+    "from": 1597,
+    "to": 1740,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "zalozeni",
+    "note": "majitel zámku a zakladatel kaple; doba konce držení zdroje neuvádějí"
+   },
+   {
+    "owner": "cavrianiove",
+    "owner_wiki": "Cavrianiové",
+    "person": "Johann Ludwig Richard Cavriani",
+    "from": 1740,
+    "to": 1883,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "majitel panství v době přestavby zámku a kostela 1714-1751; přesné roky držení cs.wiki neuvádí"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "NPÚ, ÚOP Ústí nad Labem",
+    "from": 1883,
+    "to": null,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "cs.wiki uvádí současného majitele ČR s příslušností hospodařit NPÚ; rok převodu neuveden. Mezi lety 1751 a státem zdroje vlastníky neuvádějí (v 19. stol. kostel podporovali a pohřbívali v něm Kolowrat-Krakowští, kteří darovali kazatelnu 1887 - vlastnictví kostela z toho nelze odvodit)"
+   }
+  ],
+  "events": [
+   {
+    "year": 1597,
+    "text": "zahájena stavba luteránské zámecké kaple Rudolfem III. z Bünau (císař Rudolf II. povolil jako soukromou)"
+   },
+   {
+    "year": 1604,
+    "text": "hlavní oltář s alabastrovými reliéfy Melchiora Kuntze z Freibergu"
+   },
+   {
+    "year": 1714,
+    "text": "do roku 1751 přistavěna oratoř a předsíň za Cavrianiho"
+   },
+   {
+    "year": 1897,
+    "text": "zřízena římskokatolická farnost Krásné Březno, kostel zasvěcen sv. Floriánovi, oprava"
+   },
+   {
+    "year": 1887,
+    "text": "nová kamenná kazatelna (dar Malvíny a Jindřicha Kolowrat-Krakowských)"
+   },
+   {
+    "year": 2008,
+    "text": "prohlášen národní kulturní památkou"
+   },
+   {
+    "year": 2014,
+    "text": "ukončena oprava kostela (2011-2014) a restaurování oltáře"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Kostel_svatého_Floriána_(Krásné_Březno)",
+   "https://www.kostel-krasnebrezno.cz/cs/o-kostelu",
+   "https://www.elbelabe.eu/cz/poi/k/kostel-sv-floriana/"
   ]
  },
  "Q15735166": {
@@ -43952,6 +44371,89 @@
    "https://cs.wikipedia.org/wiki/Petřvaldští_z_Petřvaldu"
   ]
  },
+ "Q26912074": {
+  "id": "Q26912074",
+  "name": "Klášter Božího Milosrdenství Rodiny Panny Marie",
+  "founded": {
+   "year": 1678,
+   "approx": false,
+   "text": "Hrabě Ferdinand Buquoy založil klášter roku 1678 (podle hrady.cz a klaster.cz servité přišli 1677, zakládací listina 1677, schválena císařem 1685; stavba 1678-1686)."
+  },
+  "summary": "Klášter v Nových Hradech založil hrabě Ferdinand Buquoy a daroval jej řádu servitů, kteří v něm sídlili od 17. století a pečovali o farnost. V letech 1950 až 1987 (podle jiného zdroje do 1991) byl zestátněn a sloužil jako kasárna. Po navrácení servitům byl rekonstruován; roku 2006 jej převzalo společenství papežského práva Pro Deo et fratribus - Rodina Panny Marie a přejmenovalo jej na klášter Božího Milosrdenství.",
+  "owners": [
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "řád servitů",
+    "from": 1678,
+    "to": 1950,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "dar",
+    "note": "klášter založil a daroval servitům hrabě Ferdinand Buquoy; od 1886 patřil tyrolské provincii (česká provincie zanikla, hrady.cz); po 1945 odsunuti němečtí řeholníci, ostatní vyhnáni 1950"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "pohraniční stráž (kasárna)",
+    "from": 1950,
+    "to": 1987,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "cs.wiki uvádí 1950-1987 (pozn. 1989 vyžádán zpět); hrady.cz uvádí vrácení servitům až 1991"
+   },
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "řád servitů",
+    "from": 1987,
+    "to": 2006,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "restituce",
+    "note": "rok vrácení nejistý (1987 / 1989 / 1991 podle zdrojů); po smrti posledního řeholníka P. Bonfilia Wagnera (2005) předán dohodou"
+   },
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "Pro Deo et fratribus - Rodina Panny Marie",
+    "from": 2006,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "dar",
+    "note": "společenství papežského práva; převzalo správu 1. 10. 2006 (servitský klášter zrušen 30. 9. 2006); klášter patří a spravuje je neziskově, spravuje i okolní farnosti"
+   }
+  ],
+  "events": [
+   {
+    "year": 1678,
+    "text": "zahájení stavby raně barokního kláštera servitů u kostela sv. Petra a Pavla, dokončen 1686"
+   },
+   {
+    "year": 1685,
+    "text": "císař Leopold schválil zakládací listinu a dokončen čtyřkřídlý konvent"
+   },
+   {
+    "year": 1886,
+    "text": "zrušena česká řádová provincie, klášter připadl tyrolské provincii"
+   },
+   {
+    "year": 1950,
+    "text": "vyhnání řeholníků a zestátnění, budovy užívala pohraniční stráž jako kasárna"
+   },
+   {
+    "year": 2006,
+    "text": "předání společenství Rodina Panny Marie, přejmenování na klášter Božího Milosrdenství"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Klášter_Božího_Milosrdenství_(Nové_Hrady)",
+   "https://www.hrady.cz/klaster-boziho-milosrdenstvi-s-kostelem-sv-petra-a-pavla/",
+   "https://www.klaster.cz/en/monastery"
+  ]
+ },
  "Q27733332": {
   "id": "Q27733332",
   "name": "Miroslav",
@@ -44405,6 +44907,163 @@
    "https://zamek-libochovice.cz/cs/o-zamku/historie",
    "https://www.hrady.cz/zamek-libochovice-litomerice",
    "https://www.zameklibochovice.cz/historie/"
+  ]
+ },
+ "Q28472056": {
+  "id": "Q28472056",
+  "name": "Brozany",
+  "founded": {
+   "year": null,
+   "approx": false,
+   "text": "Tvrz na ostrohu nad Brozany nechali pro své purkrabí postavit mělničtí proboštové (zděná na počátku 15. století); dochovaná podoba je renesanční po roce 1559 a po roce 1600."
+  },
+  "summary": "Brozany byly od 13. století majetkem mělnického proboštství, které zde na počátku 15. století postavilo zděnou tvrz pro své purkrabí. Za husitských válek je získali Pražané, poté české koruny, která je často zastavovala. Od roku 1502 je držel rod Vřesoviců (Zikmund Brozanský z Vřesovic přestavěl tvrz po 1559 na renesanční zámek), od 1601 Zajícové z Hazmburka a od 1617 do 1948 Lobkovicové. Po vypálení 1631 a požáru 1880 chátral; dnes jej spravuje městys Brozany nad Ohří.",
+  "owners": [
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "mělnické proboštství",
+    "from": null,
+    "to": 1421,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "zalozeni",
+    "note": "Brozany patřily proboštství od 13. století; správci sídlili na dvorci a od počátku 15. století na tvrzi (purkrabí Beneš Slaboně 1410); rok 1421 podle ustanovení hejtmana Pražským svazem"
+   },
+   {
+    "owner": "mesto",
+    "owner_wiki": null,
+    "person": "Pražané (pražský svaz)",
+    "from": 1421,
+    "to": 1462,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "konfiskace",
+    "note": "za husitských válek okolí ovládl pražský svaz, který v květnu 1421 ustanovil hejtmanem litoměřického kraje Hynka z Valdštejna; rok konce není uveden"
+   },
+   {
+    "owner": "koruna",
+    "owner_wiki": null,
+    "person": "králové Zikmund, Jiří z Poděbrad, Vladislav Jagellonský",
+    "from": 1462,
+    "to": 1502,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "králové panství často zastavovali: Boreš z Oseka (1452-1456), Mikuláš Rachmberk (od 1464, vyplacen 1480), Litvín z Klinštejna (od 1482), Vojtěch Tvoch z Nedvídkova (1486-1500), poté Zdeněk z Valdeka, Bohuslav Žleb ze Střízkova a bratři Čichalovcové z Čichalova (1500-1502); wiki a web městyse se v detailech liší"
+   },
+   {
+    "owner": "pani-z-vresovic",
+    "owner_wiki": "Páni z Vřesovic",
+    "person": "Jindřich z Vřesovic, Jaroslav, Jiřík a Zikmund Brozanský z Vřesovic",
+    "from": 1502,
+    "to": 1601,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "Jindřich koupil 1502; Zikmund po 1559 přestavěl tvrz na renesanční zámek; 1543 rozdělení mezi bratry, podíl dočasně držel Jan Zajíc z Hazmburka; Zikmund zemřel 1598, dědicové prodali 1601"
+   },
+   {
+    "owner": "zajicove-z-hazmburka",
+    "owner_wiki": "Zajícové z Hazmburka",
+    "person": "Jan Zbyněk Zajíc z Hazmburka",
+    "from": 1601,
+    "to": 1604,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "nechal zvýšit o patro a přistavět dva arkýře"
+   },
+   {
+    "owner": "z-minkvicburku",
+    "owner_wiki": null,
+    "person": "Polyxena z Minkvic",
+    "from": 1604,
+    "to": 1616,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "snatek",
+    "note": "manželka Jana Zbyňka, získala jako věno; odkázala synům Janovi, Mikulášovi a Jaroslavovi Zajícovým"
+   },
+   {
+    "owner": "zajicove-z-hazmburka",
+    "owner_wiki": "Zajícové z Hazmburka",
+    "person": "Jan, Mikuláš a Jaroslav Zajícové z Hazmburka",
+    "from": 1616,
+    "to": 1617,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "nezletilí, zadlužené panství jejich poručníci prodali"
+   },
+   {
+    "owner": "lobkovicove",
+    "owner_wiki": "Lobkovicové",
+    "person": "Polyxena Pernštejnská z Lobkovic",
+    "from": 1617,
+    "to": 1948,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "koupeno za 50 tisíc kop grošů; 1625 povýšeny na městys; vlastníci sídlili v Roudnici, zámek sloužil úředníkům a hospodářství"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": null,
+    "from": 1948,
+    "to": 1987,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "konfiskace",
+    "note": "tvrz znárodněna, v 50. letech upravena pro JZD, později do konce 90. let užíval Okresní národní výbor / okresní úřad Litoměřice (civilní ochrana); přesný rok předání městysi zdroje neuvádějí"
+   },
+   {
+    "owner": "mesto",
+    "owner_wiki": null,
+    "person": "městys Brozany nad Ohří",
+    "from": 1987,
+    "to": null,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "podle cs.wiki ji v 21. století převzal do správy městys; rok nelze určit, oprava od 2002"
+   }
+  ],
+  "events": [
+   {
+    "year": 1410,
+    "text": "purkrabí mělnických proboštů Beneš Slaboně sídlí na zděné tvrzi"
+   },
+   {
+    "year": 1502,
+    "text": "Jindřich z Vřesovic koupil panství"
+   },
+   {
+    "year": 1559,
+    "text": "Zikmund Brozanský z Vřesovic po tomto roce přestavěl tvrz na renesanční zámek (sgrafita 1563)"
+   },
+   {
+    "year": 1601,
+    "text": "Jan Zbyněk Zajíc z Hazmburka zámek zvýšil o patro a přistavěl arkýře"
+   },
+   {
+    "year": 1631,
+    "text": "zámek vydrancován a vypálen saskými vojsky, zbořeny hradby a dvůr"
+   },
+   {
+    "year": 1880,
+    "text": "požár, stržena horní dvě patra a sgrafita zakryta omítkou"
+   },
+   {
+    "year": 2005,
+    "text": "po opravě od 2002 zpřístupněna tvrz s expozicí historie Brozan"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Brozany_(zámek)",
+   "https://www.brozanynadohri.cz/mestys/historie-mestyse-a-spolky/tvrz/historie-tvrze/",
+   "https://www.brozanynadohri.cz/mestys/historie-mestyse-a-spolky/historie/"
   ]
  },
  "Q28872964": {
@@ -48062,6 +48721,145 @@
    "https://www.hrady.cz/zamek-chotebor"
   ]
  },
+ "Q31872969": {
+  "id": "Q31872969",
+  "name": "Borovany",
+  "founded": {
+   "year": 1455,
+   "approx": false,
+   "text": "Augustiniánský klášter založil roku 1455 Petr z Lindy; kostel dokončen 1464, konvent kolem 1490; barokní prelatura (dnešní zámek) 1765-1768."
+  },
+  "summary": "Zámek v Borovanech je bývalý klášter augustiniánů kanovníků, který roku 1455 založil Petr z Lindy a od 70. let 15. století jej patronátně držel rod Rožmberků. Vilém z Rožmberka klášter roku 1564 zrušil a přisvojil si jeho majetek; obnoven byl po polovině 17. století a zrušen definitivně 1785 Josefem II. Roku 1787 koupil statek Jan ze Schwarzenbergu a prelaturu upravil na letní zámek. Od roku 1939 patří obci Borovany, která zámek po rekonstrukci 2005-2010 využívá jako kulturní areál.",
+  "owners": [
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "augustiniáni kanovníci (kanonie Borovany)",
+    "from": 1455,
+    "to": 1564,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "zakladatel Petr z Lindy daroval vsi Hlubokou a Nesměň, lesy a rybníky; od jeho smrti (1472) patronát Rožmberků (zavázali se již 1466); komunita v 16. stol. vymřela na mor, od 1558 správce Matěj Kozka z Rynárce"
+   },
+   {
+    "owner": "rozmberkove",
+    "owner_wiki": "Rožmberkové",
+    "person": "Vilém z Rožmberka",
+    "from": 1564,
+    "to": 1611,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "konfiskace",
+    "note": "Vilém klášter zrušil a převzal majetek; zcizení legalizoval panovník roku 1600; rod vymřel 1611 (zámek-trebon.cz)"
+   },
+   {
+    "owner": "pani-ze-svamberka",
+    "owner_wiki": "Páni ze Švamberka",
+    "person": null,
+    "from": 1611,
+    "to": 1634,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "dedictvi",
+    "note": "Švamberkové zdědili rožmberský majetek; zkonfiskován za účast ve stavovském povstání (rok neuveden)"
+   },
+   {
+    "owner": "koruna",
+    "owner_wiki": null,
+    "person": "císař",
+    "from": 1634,
+    "to": 1658,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "konfiskace",
+    "note": "majetek připadl císaři; Ferdinand III. 1630-1631 rozhodl o obnově kláštera, bratři z Klosterneuburgu přišli 1658, probošt dosazen 1662 (jiznicechy.cz: obnoven 1663)"
+   },
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "augustiniáni kanovníci (obnovená kanonie)",
+    "from": 1658,
+    "to": 1785,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "restituce",
+    "note": "obnoveno císařem Ferdinandem III.; zrušeno dvorským dekretem Josefa II. 14. 11. 1785"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "Náboženský fond",
+    "from": 1785,
+    "to": 1787,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "po zrušení kláštera; kostel přeměněn na farní"
+   },
+   {
+    "owner": "schwarzenbergove",
+    "owner_wiki": "Schwarzenbergové",
+    "person": "Jan ze Schwarzenbergu",
+    "from": 1787,
+    "to": 1939,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "koupili od Náboženského fondu; prelaturu přestavěli na letní rezidenci; po pozemkové reformě 1920 jim zůstala jen prelatura (zámek); zájemci o koupi ve 20. letech (např. Joe Hloucha) nekoupili"
+   },
+   {
+    "owner": "mesto",
+    "owner_wiki": null,
+    "person": "obec Borovany",
+    "from": 1939,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "koupila od Schwarzenbergů pro školu (1940-1997); generální oprava 2005-2010; klášterní část s kostelem užívá fara"
+   }
+  ],
+  "events": [
+   {
+    "year": 1455,
+    "text": "Petr z Lindy založil augustiniánský klášter, 1461 přišli první kanovníci z Třeboně"
+   },
+   {
+    "year": 1564,
+    "text": "Vilém z Rožmberka klášter zrušil a převzal jeho majetek"
+   },
+   {
+    "year": 1658,
+    "text": "obnovení kláštera augustiniány z Klosterneuburgu"
+   },
+   {
+    "year": 1768,
+    "text": "dokončena barokní prelatura (1765-1768) za probošta Augustina Dubenského"
+   },
+   {
+    "year": 1785,
+    "text": "klášter zrušen dekretem Josefa II."
+   },
+   {
+    "year": 1787,
+    "text": "kníže Jan ze Schwarzenbergu koupil majetek a prelaturu přestavěl na zámek"
+   },
+   {
+    "year": 1939,
+    "text": "zámek koupila obec Borovany, od 1940 do 1997 sídlila v budově škola"
+   },
+   {
+    "year": 2010,
+    "text": "po generální opravě 2005-2010 zámek znovu otevřen"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Borovany_(zámek)",
+   "http://www.zamek-trebon.cz/cs/tipy-na-vylet/69396-klaster-a-zamek-borovany",
+   "https://www.jiznicechy.cz/turisticke-cile/1128-augustiniansky-klaster-borovany"
+  ]
+ },
  "Q31953758": {
   "id": "Q31953758",
   "name": "Svijany",
@@ -49282,6 +50080,101 @@
    "https://www.kyjovice.cz/obec-kyjovice/historie/",
    "https://opavsky.denik.cz/zpravy-region/historie-z-regionu-zamek-v-kyjovicich-je-nyni-domovem-senioru/",
    "http://www.kultura.cz/profile/5555-zamek-kyjovice"
+  ]
+ },
+ "Q334085": {
+  "id": "Q334085",
+  "name": "Nová Říše",
+  "founded": {
+   "year": 1211,
+   "approx": false,
+   "text": "1211 založen jako ženský premonstrátský klášter Markvartem z Hrádku a jeho ženou Vojslavou"
+  },
+  "summary": "Klášter v Nové Říši založil roku 1211 Markvart z Hrádku s manželkou Vojslavou pro premonstrátky. Po vymření řeholnic (1596-1597) majetek udrželi probošti pro řád a roku 1641 sem přišli premonstráti ze Zábrdovic; roku 1733 vzniklo samostatné opatství. Roku 1950 byl klášter zrušen (Akce K) a sloužil jako skladiště Vojenské nemocnice Brno, premonstráti se vrátili až po roce 1989 a od roku 1991 klášter opět spravují.",
+  "owners": [
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "premonstrátky (zakladatel Markvart z Hrádku)",
+    "from": 1211,
+    "to": 1597,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "ženský klášter; komunita vymřela 1597 (poslední převorka přestěhována 1596 do Chotěšova); duchovní správu vedli probošti ze Zábrdovic"
+   },
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "premonstráti (zábrdovická větev)",
+    "from": 1597,
+    "to": 1950,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "jine",
+    "note": "probošti udrželi majetek pro řád; premonstráti do kláštera přišli 16. 5. 1641, 1733 povýšeno na opatství; 1942 přepadení gestapem a deportace řeholníků, po válce návrat"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "Vojenská nemocnice Brno (skladiště)",
+    "from": 1950,
+    "to": 1991,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "po Akci K 14. 4. 1950 klášter uzavřen, budovy využívány jako skladiště zdravotnických materiálů; rok 1950 a rok návratu 1991 podle cs.wiki a webu kláštera, zdroje nespecifikují formální převod vlastnictví"
+   },
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "premonstráti (opat Marian Rudolf Kosík)",
+    "from": 1991,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "restituce",
+    "note": "premonstráti se kláštera opět ujali roku 1991"
+   }
+  ],
+  "events": [
+   {
+    "year": 1211,
+    "text": "založení ženského kláštera premonstrátek Markvartem z Hrádku"
+   },
+   {
+    "year": 1423,
+    "text": "zpustošení a vypálení kláštera husity (podle cs.wiki 1423 a 1424)"
+   },
+   {
+    "year": 1641,
+    "text": "příchod premonstrátů ze Zábrdovic"
+   },
+   {
+    "year": 1733,
+    "text": "proboštství povýšeno na samostatné opatství"
+   },
+   {
+    "year": 1821,
+    "text": "obnova areálu po požáru městečka roku 1813"
+   },
+   {
+    "year": 1942,
+    "text": "přepadení kláštera gestapem, řeholníci odvezeni a část zahynula v Osvětimi"
+   },
+   {
+    "year": 1950,
+    "text": "Akce K, klášter uzavřen a využit jako vojenské skladiště"
+   },
+   {
+    "year": 1991,
+    "text": "návrat premonstrátů do kláštera"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Nová_Říše_(klášter)",
+   "https://klasternovarise.cz/index.php/cs/historie/klaster-panny-marie",
+   "https://www.cirkev.cz/archiv/110516-800-let-klastera-premonstratu-v-nove-risi"
   ]
  },
  "Q33417123": {
@@ -50544,6 +51437,100 @@
    "https://www.zameksilherovice.cz/cs/historie-zamku",
    "https://www.atlasceska.cz/pamatky/zamek-silherovice-20398",
    "https://family.rothschildarchive.org/estates/54-schillersdorf"
+  ]
+ },
+ "Q363709": {
+  "id": "Q363709",
+  "name": "Klášter Hradisko",
+  "founded": {
+   "year": 1078,
+   "approx": false,
+   "text": "3. února 1078 vysvěcena klášterní oratoř a vystavena zakládací listina olomouckého údělného knížete Oty I. a jeho manželky Eufémie; klášter založili benediktini."
+  },
+  "summary": "Klášter Hradisko u Olomouce založil roku 1078 údělný kníže Ota I. Olomoucký s manželkou Eufémií jako benediktinský; v polovině 12. století jej převzali premonstráti. Po vypálení husity a Švédy byl v 17. a 18. století přestavěn na barokní areál podle Tencally a Martinelliho. Roku 1784 byl zrušen Josefem II., poté sloužil jako generální seminář a od roku 1802 jako vojenská nemocnice, což trvá dodnes (národní kulturní památka od 1995).",
+  "owners": [
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "benediktini",
+    "from": 1078,
+    "to": 1150,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "zalozeni",
+    "note": "benediktinský klášter založený Otou I. Olomouckým a Eufémií; benediktini vyhnáni v druhé polovině 40. let 12. století (cs.wiki), konec 1150 podle seznamu opatů; web nemocnice uvádí odchod 1150"
+   },
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "premonstráti",
+    "from": 1150,
+    "to": 1784,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "jine",
+    "note": "cs.wiki uvádí nástup premonstrátů v druhé polovině 40. let 12. století nebo 1150, web Vojenské nemocnice 1151; kanonie zrušena 18. 8. 1784 dekretem Josefa II."
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": null,
+    "from": 1784,
+    "to": 1790,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "konfiskace",
+    "note": "majetek přešel na Náboženský fond (Státní panství Hradisko); budovy sloužily jako moravský generální seminář (rektorem 1789-1790 Josef Dobrovský); seminář zrušen po smrti Josefa II. (1790)"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "armáda",
+    "from": 1790,
+    "to": null,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "jine",
+    "note": "budovy předány armádě (fortifikační skladiště, 1800 zajatecký tábor, od 1802 vojenská nemocnice; dnes Vojenská nemocnice Olomouc); kaple sv. Štěpána zůstala v církevní správě; hospodářský dvůr převeden na Vojenskou nemocnici 2005"
+   }
+  ],
+  "events": [
+   {
+    "year": 1078,
+    "text": "vysvěcení oratoře a zakládací listina Oty I. Olomouckého, první benediktinský konvent"
+   },
+   {
+    "year": 1241,
+    "text": "podle tradice klášter vyhořel při mongolském vpádu, v roce 1257 vysvěcen obnovený kostel"
+   },
+   {
+    "year": 1432,
+    "text": "husité vypálili klášter kromě kostela sv. Štěpána, poté jej rozbořili olomoučtí měšťané"
+   },
+   {
+    "year": 1642,
+    "text": "Švédové obsadili Olomouc a klášter rozbořili, nejcennější knihy odvezeny do Švédska"
+   },
+   {
+    "year": 1686,
+    "text": "zahájena barokní přestavba podle plánů G. P. Tencally (prelatura 1726-1736)"
+   },
+   {
+    "year": 1784,
+    "text": "zrušení kláštera dekretem Josefa II., zřízen generální seminář"
+   },
+   {
+    "year": 1802,
+    "text": "zřízena vojenská nemocnice"
+   },
+   {
+    "year": 1995,
+    "text": "vyhlášení národní kulturní památkou"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Klášter_Hradisko",
+   "https://www.vnol.cz/index.php/cs/uvod/o-narodni-kulturni-pamatce-klasterni-hradisko"
   ]
  },
  "Q366074": {
@@ -55375,6 +56362,169 @@
    "https://www.zamek-radim.cz/historie/",
    "https://www.cestyapamatky.cz/kolinsko/radim/zamek",
    "https://www.hrady.cz/zamek-radim-kolin"
+  ]
+ },
+ "Q38094997": {
+  "id": "Q38094997",
+  "name": "Věž tvrze",
+  "founded": {
+   "year": null,
+   "approx": false,
+   "text": "1. nebo 2. pol. 14. století, nejpozději na přelomu 14. a 15. století (stavební charakter věže); první písemná zmínka o tvrzi 1542"
+  },
+  "summary": "Gotická tvrz v Semtěši vznikla ve 14. století, písemně je doložena až roku 1542; vesnici ale od roku 1355 drželi zemané Rubín ze Skalice a ze Semtěše a po něm další. Po roce 1466 ji koupili Žehušičtí z Nestajova, kteří ji připojili k žehušickému panství, a roku 1558 byla naposledy zmíněna při prodeji panství. Tvrz pak chátrala a zachovala se jen věž, která sloužila jako kovárna a v 90. letech 20. století byla upravena na rozhlednu.",
+  "owners": [
+   {
+    "owner": "z-semtese",
+    "owner_wiki": null,
+    "person": "Rubín ze Skalice a ze Semtěše, jeho syn Petr",
+    "from": 1355,
+    "to": 1402,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "podle Sedláčka 1355 majitel Semtěše; Petr připomínán 1363; existence tvrze v té době není písemně doložena"
+   },
+   {
+    "owner": "z-blyne",
+    "owner_wiki": null,
+    "person": "Petr z Blyně",
+    "from": 1402,
+    "to": 1441,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "1402 uveden jako vlastník vsi"
+   },
+   {
+    "owner": "z-semtese",
+    "owner_wiki": null,
+    "person": "Weigel, Jetřich a Aleš ze Semtěše",
+    "from": 1441,
+    "to": 1480,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "Weigel doložen 1415, Jetřich 1440, Aleš 1466; konkrétní roky držení neuvedeny"
+   },
+   {
+    "owner": "zehusicti-z-nestajova",
+    "owner_wiki": null,
+    "person": "Žehušičtí z Nestajova (1542 Václav)",
+    "from": 1480,
+    "to": 1519,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "koupeno v blíže neznámé době po roce 1466 a připojeno k žehušickému panství; 1542 Václav Žehušický věnoval majetek včetně semtěšské tvrze; konec držení před 1558 neuveden"
+   },
+   {
+    "owner": "zerotinove",
+    "owner_wiki": null,
+    "person": "Karel ze Žerotína",
+    "from": 1519,
+    "to": 1558,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "podle hrady.cz a webu obce prodával roku 1558 žehušické panství (včetně Semtěše); cs.wiki prodávajícího nejmenuje"
+   },
+   {
+    "owner": "z-lounic",
+    "owner_wiki": null,
+    "person": "Zdeněk Meziříčský z Lounice",
+    "from": 1558,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "tvrz mu nesloužila jako sídlo a nechal ji zpustnout; další majitelé a dnešní vlastník věže v použitých zdrojích neuvedeni (věž zpřístupňuje obec Semtěš)"
+   }
+  ],
+  "events": [
+   {
+    "year": 1355,
+    "text": "první zmínka o majiteli Semtěše (Rubín ze Skalice a ze Semtěše)"
+   },
+   {
+    "year": 1542,
+    "text": "první písemná zmínka o tvrzi, Václav Žehušický z Nestajova"
+   },
+   {
+    "year": 1558,
+    "text": "poslední zmínka o tvrzi při prodeji žehušického panství, zpustnutí a zastavění areálu domky"
+   },
+   {
+    "year": null,
+    "text": "v 18. století věž bez střechy upravena na kovárnu (do poloviny 20. století, kovárna zrušena 1950)"
+   },
+   {
+    "year": 1915,
+    "text": "oprava věže a zastřešení, střecha zničena větrem o rok později"
+   },
+   {
+    "year": 1997,
+    "text": "rekonstrukce věže (1997-1998) a úprava na rozhlednu"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Semtěš_(tvrz)",
+   "https://www.hrady.cz/tvrz-semtes-kutna-hora",
+   "https://www.semtes.cz/obec-7/historie/"
+  ]
+ },
+ "Q38228493": {
+  "id": "Q38228493",
+  "name": "Městské opevnění ve Znojmě",
+  "founded": {
+   "year": null,
+   "approx": false,
+   "text": "13. století; budování od 1222/1225 (proznojmo.cz), dokončeno za Přemysla Otakara II. kolem roku 1260."
+  },
+  "summary": "Městské opevnění Znojma vzniklo ve 13. století za vlády Přemysla Otakara II. jako obranný systém se čtyřmi branami a několika pásy hradeb. Ve 14. a 15. století bylo zesilováno, zejména s ohledem na husitské války a osmanské nebezpečí, a do 17. století vylepšováno. Po napoleonských válkách bylo postupně odbouráváno a dochovala se část hradeb s baštami, torzo Pražské brány a Vlkova věž.",
+  "owners": [
+   {
+    "owner": "mesto",
+    "owner_wiki": null,
+    "person": "královské město Znojmo",
+    "from": null,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "zdroje neuvádějí majetkoprávní vývoj; opevnění budovala a udržovala městská samospráva ve spolupráci s panovníkem (Přemysl Otakar I. a II.); současného vlastníka zdroje výslovně neuvádějí, předpokládá se město Znojmo - nutno ověřit"
+   }
+  ],
+  "events": [
+   {
+    "year": 1226,
+    "text": "vnitřní příkop zmíněn v listině; nejstarší hradba před tímto rokem"
+   },
+   {
+    "year": 1260,
+    "text": "dokončení hlavního pásu hradeb a čtyř bran za Přemysla Otakara II. (přibližně kolem roku 1260)"
+   },
+   {
+    "year": 1404,
+    "text": "téměř osudné obléhání města vedlo k posílení opevnění (Nová věž)"
+   },
+   {
+    "year": 1809,
+    "text": "bitva u Znojma s Napoleonem před Dolní branou"
+   },
+   {
+    "year": 1853,
+    "text": "demolice věže Horní brány a proražení hradeb, zasypání příkopů"
+   },
+   {
+    "year": 2018,
+    "text": "po obnově Nové věže a Prachárny otevřen okruh šesti věží"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Městské_opevnění_(Znojmo)",
+   "https://www.proznojmo.cz/clanky/z-historie-znojma/znojemske-hradby-a-horni-brana/",
+   "https://www.znojmocity.cz/22%2Dvlkova%2Dvlci%2Dvez%2Dsoucast%2Ddolni%2Dbrany/d-2835"
   ]
  },
  "Q38487484": {

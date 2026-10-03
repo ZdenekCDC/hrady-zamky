@@ -1,0 +1,29 @@
+{
+ "id": "Q11227176",
+ "name": "Bon Repos",
+ "founded": {"year": 1718, "approx": false, "text": "1715 koupě vrchu Čihadla Františkem Antonínem Šporkem, od 1718 výstavba loveckého zámečku La Maison de Bon Repos (cs.wiki též 1717)"},
+ "summary": "Lovecký zámeček Bon Repos nad Čihadly založil po roce 1715 hrabě František Antonín Špork pro svou zálibu v čižbě ptactva. Po jeho smrti (1738) areál chátral, roku 1768 nebo 1769 jej v dražbě koupil pražský arcibiskup Antonín Příchovský, který jej přestavěl a rozšířil (Nový zámek, čínský pavilon). V 19. století patřil Thun-Hohensteinům, pak bankám, od roku 1905 Kinským, po válce armádě a od roku 2004 jej obnovuje soukromý majitel.",
+ "owners": [
+  {"owner": "sweerts-sporckove", "owner_wiki": null, "person": "František Antonín Špork", "from": 1715, "to": 1722, "from_approx": false, "to_approx": false, "how": "zalozeni", "note": "koupil vrch Čihadla od benáteckého panství; zámeček budován od 1718"},
+  {"owner": "cerninove-z-chudenic", "owner_wiki": "Černínové z Chudenic", "person": "František Josef Černín z Chudenic", "from": 1722, "to": 1734, "from_approx": false, "to_approx": false, "how": "koupe", "note": "prodej s podmínkou, že Špork smí areál užívat; Černín upadl do dluhů (hrady.cz, Jezdec)"},
+  {"owner": "sweerts-sporckove", "owner_wiki": null, "person": "František Antonín Špork", "from": 1734, "to": 1738, "from_approx": false, "to_approx": false, "how": "koupe", "note": "odkoupil zpět; zemřel 1738; údaj z hrady.cz a Jezdce (cs.wiki prodej Černínovi nezmiňuje)"},
+  {"owner": "z-klenove", "owner_wiki": null, "person": "Ignác Zikmund hrabě z Klenové a Janovic", "from": 1738, "to": 1769, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "majitel benáteckého panství; areál nepoužíván a pustl; konec držení podle data dražby (cs.wiki 1769, hrady.cz 1768)"},
+  {"owner": "prichovsti-z-prichovic", "owner_wiki": null, "person": "Antonín Příchovský z Příchovic, pražský arcibiskup", "from": 1769, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil v dražbě (hrady.cz: 1768 jako součást benáteckého panství); přestavba a rozšíření kolem 1770, založil obec Čihadla; konec držení zdroje neuvádějí"},
+  {"owner": "thun-hohensteinove", "owner_wiki": "Thun-Hohensteinové", "person": null, "from": 1816, "to": 1885, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "cs.wiki: 'po roce 1816'; majitel benáteckého panství hrabě Thun-Hohenstein, u nějž 1844-47 působil Bedřich Smetana; rok konce 1885 podle hrady.cz (Hospodářská úvěrní banka)"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Hospodářská úvěrní banka v Praze a Länderbank Wien (od 1887 jediný majitel Länderbank)", "from": 1885, "to": 1905, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "cs.wiki uvádí jen Länderbank Wien koncem 80. let 19. století; rok 1885 a 1887 podle hrady.cz"},
+  {"owner": "kinsti", "owner_wiki": "Kinští", "person": null, "from": 1905, "to": 1945, "from_approx": false, "to_approx": true, "how": "koupe", "note": "zámek koupila rodina Kinských; rok konce (1945) je odhad - Jezdec uvádí šlechtické majitele do 1945, převod státu zdroje nepopisují"},
+  {"owner": "stat", "owner_wiki": null, "person": "armáda (po válce lazaret Rudé armády, od 1963 raketový oddíl Československé lidové armády)", "from": 1945, "to": 2004, "from_approx": true, "to_approx": false, "how": "konfiskace", "note": "cs.wiki: armáda držela zámek do 1990, hrady.cz uvádí ještě 2002 zámek v majetku armády na prodej; NPÚ uvádí nového majitele 2004; rok převodu na stát není ve zdrojích výslovně"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Zámek Bon Repos, spol. s r.o. (Charles Butler)", "from": 2004, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "podle NPÚ koupil areál 2004 Charles Butler a následně proběhla patnáctiletá obnova; současný majitel Zámek Bon Repos spol. s r.o."}
+ ],
+ "events": [
+  {"year": 1715, "text": "František Antonín Špork koupil vrch Čihadla od benáteckého panství"},
+  {"year": 1718, "text": "založení kaple sv. Jeronýma a loveckého zámečku La Maison de Bon Repos"},
+  {"year": 1738, "text": "smrt Šporka, areál nevyužíván a pustl"},
+  {"year": 1769, "text": "koupě v dražbě arcibiskupem Příchovským, přestavba a rozšíření (Nový zámek, čínský pavilon 1770)"},
+  {"year": 1844, "text": "1844-1847 působil v areálu jako učitel hudby Bedřich Smetana"},
+  {"year": 1905, "text": "zámek koupila rodina Kinských"},
+  {"year": 1963, "text": "v areálu zřízeno zázemí raketového oddílu armády, užívání do 1990"},
+  {"year": 2004, "text": "nový soukromý majitel, zahájena patnáctiletá obnova areálu"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Bon_Repos", "https://www.hrady.cz/zamek-bon-repos", "https://www.npu.cz/cs/uop-praha/inspirujte-se/61265-zachrana-arealu-zamku-bon-repos"]
+}

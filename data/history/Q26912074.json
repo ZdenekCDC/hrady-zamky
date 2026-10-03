@@ -1,0 +1,20 @@
+{
+ "id": "Q26912074",
+ "name": "Klášter Božího Milosrdenství Rodiny Panny Marie",
+ "founded": {"year": 1678, "approx": false, "text": "Hrabě Ferdinand Buquoy založil klášter roku 1678 (podle hrady.cz a klaster.cz servité přišli 1677, zakládací listina 1677, schválena císařem 1685; stavba 1678-1686)."},
+ "summary": "Klášter v Nových Hradech založil hrabě Ferdinand Buquoy a daroval jej řádu servitů, kteří v něm sídlili od 17. století a pečovali o farnost. V letech 1950 až 1987 (podle jiného zdroje do 1991) byl zestátněn a sloužil jako kasárna. Po navrácení servitům byl rekonstruován; roku 2006 jej převzalo společenství papežského práva Pro Deo et fratribus - Rodina Panny Marie a přejmenovalo jej na klášter Božího Milosrdenství.",
+ "owners": [
+  {"owner": "cirkev", "owner_wiki": null, "person": "řád servitů", "from": 1678, "to": 1950, "from_approx": false, "to_approx": false, "how": "dar", "note": "klášter založil a daroval servitům hrabě Ferdinand Buquoy; od 1886 patřil tyrolské provincii (česká provincie zanikla, hrady.cz); po 1945 odsunuti němečtí řeholníci, ostatní vyhnáni 1950"},
+  {"owner": "stat", "owner_wiki": null, "person": "pohraniční stráž (kasárna)", "from": 1950, "to": 1987, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "cs.wiki uvádí 1950-1987 (pozn. 1989 vyžádán zpět); hrady.cz uvádí vrácení servitům až 1991"},
+  {"owner": "cirkev", "owner_wiki": null, "person": "řád servitů", "from": 1987, "to": 2006, "from_approx": true, "to_approx": false, "how": "restituce", "note": "rok vrácení nejistý (1987 / 1989 / 1991 podle zdrojů); po smrti posledního řeholníka P. Bonfilia Wagnera (2005) předán dohodou"},
+  {"owner": "cirkev", "owner_wiki": null, "person": "Pro Deo et fratribus - Rodina Panny Marie", "from": 2006, "to": null, "from_approx": false, "to_approx": false, "how": "dar", "note": "společenství papežského práva; převzalo správu 1. 10. 2006 (servitský klášter zrušen 30. 9. 2006); klášter patří a spravuje je neziskově, spravuje i okolní farnosti"}
+ ],
+ "events": [
+  {"year": 1678, "text": "zahájení stavby raně barokního kláštera servitů u kostela sv. Petra a Pavla, dokončen 1686"},
+  {"year": 1685, "text": "císař Leopold schválil zakládací listinu a dokončen čtyřkřídlý konvent"},
+  {"year": 1886, "text": "zrušena česká řádová provincie, klášter připadl tyrolské provincii"},
+  {"year": 1950, "text": "vyhnání řeholníků a zestátnění, budovy užívala pohraniční stráž jako kasárna"},
+  {"year": 2006, "text": "předání společenství Rodina Panny Marie, přejmenování na klášter Božího Milosrdenství"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Klášter_Božího_Milosrdenství_(Nové_Hrady)", "https://www.hrady.cz/klaster-boziho-milosrdenstvi-s-kostelem-sv-petra-a-pavla/", "https://www.klaster.cz/en/monastery"]
+}

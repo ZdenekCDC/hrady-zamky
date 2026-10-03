@@ -1,0 +1,23 @@
+{
+ "id": "Q363709",
+ "name": "Klášter Hradisko",
+ "founded": {"year": 1078, "approx": false, "text": "3. února 1078 vysvěcena klášterní oratoř a vystavena zakládací listina olomouckého údělného knížete Oty I. a jeho manželky Eufémie; klášter založili benediktini."},
+ "summary": "Klášter Hradisko u Olomouce založil roku 1078 údělný kníže Ota I. Olomoucký s manželkou Eufémií jako benediktinský; v polovině 12. století jej převzali premonstráti. Po vypálení husity a Švédy byl v 17. a 18. století přestavěn na barokní areál podle Tencally a Martinelliho. Roku 1784 byl zrušen Josefem II., poté sloužil jako generální seminář a od roku 1802 jako vojenská nemocnice, což trvá dodnes (národní kulturní památka od 1995).",
+ "owners": [
+  {"owner": "cirkev", "owner_wiki": null, "person": "benediktini", "from": 1078, "to": 1150, "from_approx": false, "to_approx": true, "how": "zalozeni", "note": "benediktinský klášter založený Otou I. Olomouckým a Eufémií; benediktini vyhnáni v druhé polovině 40. let 12. století (cs.wiki), konec 1150 podle seznamu opatů; web nemocnice uvádí odchod 1150"},
+  {"owner": "cirkev", "owner_wiki": null, "person": "premonstráti", "from": 1150, "to": 1784, "from_approx": true, "to_approx": false, "how": "jine", "note": "cs.wiki uvádí nástup premonstrátů v druhé polovině 40. let 12. století nebo 1150, web Vojenské nemocnice 1151; kanonie zrušena 18. 8. 1784 dekretem Josefa II."},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1784, "to": 1790, "from_approx": false, "to_approx": true, "how": "konfiskace", "note": "majetek přešel na Náboženský fond (Státní panství Hradisko); budovy sloužily jako moravský generální seminář (rektorem 1789-1790 Josef Dobrovský); seminář zrušen po smrti Josefa II. (1790)"},
+  {"owner": "stat", "owner_wiki": null, "person": "armáda", "from": 1790, "to": null, "from_approx": true, "to_approx": false, "how": "jine", "note": "budovy předány armádě (fortifikační skladiště, 1800 zajatecký tábor, od 1802 vojenská nemocnice; dnes Vojenská nemocnice Olomouc); kaple sv. Štěpána zůstala v církevní správě; hospodářský dvůr převeden na Vojenskou nemocnici 2005"}
+ ],
+ "events": [
+  {"year": 1078, "text": "vysvěcení oratoře a zakládací listina Oty I. Olomouckého, první benediktinský konvent"},
+  {"year": 1241, "text": "podle tradice klášter vyhořel při mongolském vpádu, v roce 1257 vysvěcen obnovený kostel"},
+  {"year": 1432, "text": "husité vypálili klášter kromě kostela sv. Štěpána, poté jej rozbořili olomoučtí měšťané"},
+  {"year": 1642, "text": "Švédové obsadili Olomouc a klášter rozbořili, nejcennější knihy odvezeny do Švédska"},
+  {"year": 1686, "text": "zahájena barokní přestavba podle plánů G. P. Tencally (prelatura 1726-1736)"},
+  {"year": 1784, "text": "zrušení kláštera dekretem Josefa II., zřízen generální seminář"},
+  {"year": 1802, "text": "zřízena vojenská nemocnice"},
+  {"year": 1995, "text": "vyhlášení národní kulturní památkou"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Klášter_Hradisko", "https://www.vnol.cz/index.php/cs/uvod/o-narodni-kulturni-pamatce-klasterni-hradisko"]
+}

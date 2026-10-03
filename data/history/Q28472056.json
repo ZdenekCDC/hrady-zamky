@@ -1,0 +1,28 @@
+{
+ "id": "Q28472056",
+ "name": "Brozany",
+ "founded": {"year": null, "approx": false, "text": "Tvrz na ostrohu nad Brozany nechali pro své purkrabí postavit mělničtí proboštové (zděná na počátku 15. století); dochovaná podoba je renesanční po roce 1559 a po roce 1600."},
+ "summary": "Brozany byly od 13. století majetkem mělnického proboštství, které zde na počátku 15. století postavilo zděnou tvrz pro své purkrabí. Za husitských válek je získali Pražané, poté české koruny, která je často zastavovala. Od roku 1502 je držel rod Vřesoviců (Zikmund Brozanský z Vřesovic přestavěl tvrz po 1559 na renesanční zámek), od 1601 Zajícové z Hazmburka a od 1617 do 1948 Lobkovicové. Po vypálení 1631 a požáru 1880 chátral; dnes jej spravuje městys Brozany nad Ohří.",
+ "owners": [
+  {"owner": "cirkev", "owner_wiki": null, "person": "mělnické proboštství", "from": null, "to": 1421, "from_approx": false, "to_approx": true, "how": "zalozeni", "note": "Brozany patřily proboštství od 13. století; správci sídlili na dvorci a od počátku 15. století na tvrzi (purkrabí Beneš Slaboně 1410); rok 1421 podle ustanovení hejtmana Pražským svazem"},
+  {"owner": "mesto", "owner_wiki": null, "person": "Pražané (pražský svaz)", "from": 1421, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "za husitských válek okolí ovládl pražský svaz, který v květnu 1421 ustanovil hejtmanem litoměřického kraje Hynka z Valdštejna; rok konce není uveden"},
+  {"owner": "koruna", "owner_wiki": null, "person": "králové Zikmund, Jiří z Poděbrad, Vladislav Jagellonský", "from": null, "to": 1502, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "králové panství často zastavovali: Boreš z Oseka (1452-1456), Mikuláš Rachmberk (od 1464, vyplacen 1480), Litvín z Klinštejna (od 1482), Vojtěch Tvoch z Nedvídkova (1486-1500), poté Zdeněk z Valdeka, Bohuslav Žleb ze Střízkova a bratři Čichalovcové z Čichalova (1500-1502); wiki a web městyse se v detailech liší"},
+  {"owner": "pani-z-vresovic", "owner_wiki": "Páni z Vřesovic", "person": "Jindřich z Vřesovic, Jaroslav, Jiřík a Zikmund Brozanský z Vřesovic", "from": 1502, "to": 1601, "from_approx": false, "to_approx": false, "how": "koupe", "note": "Jindřich koupil 1502; Zikmund po 1559 přestavěl tvrz na renesanční zámek; 1543 rozdělení mezi bratry, podíl dočasně držel Jan Zajíc z Hazmburka; Zikmund zemřel 1598, dědicové prodali 1601"},
+  {"owner": "zajicove-z-hazmburka", "owner_wiki": "Zajícové z Hazmburka", "person": "Jan Zbyněk Zajíc z Hazmburka", "from": 1601, "to": 1604, "from_approx": false, "to_approx": false, "how": "koupe", "note": "nechal zvýšit o patro a přistavět dva arkýře"},
+  {"owner": "z-minkvicburku", "owner_wiki": null, "person": "Polyxena z Minkvic", "from": 1604, "to": 1616, "from_approx": false, "to_approx": false, "how": "snatek", "note": "manželka Jana Zbyňka, získala jako věno; odkázala synům Janovi, Mikulášovi a Jaroslavovi Zajícovým"},
+  {"owner": "zajicove-z-hazmburka", "owner_wiki": "Zajícové z Hazmburka", "person": "Jan, Mikuláš a Jaroslav Zajícové z Hazmburka", "from": 1616, "to": 1617, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "nezletilí, zadlužené panství jejich poručníci prodali"},
+  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": "Polyxena Pernštejnská z Lobkovic", "from": 1617, "to": 1948, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupeno za 50 tisíc kop grošů; 1625 povýšeny na městys; vlastníci sídlili v Roudnici, zámek sloužil úředníkům a hospodářství"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1948, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "tvrz znárodněna, v 50. letech upravena pro JZD, později do konce 90. let užíval Okresní národní výbor / okresní úřad Litoměřice (civilní ochrana); přesný rok předání městysi zdroje neuvádějí"},
+  {"owner": "mesto", "owner_wiki": null, "person": "městys Brozany nad Ohří", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "podle cs.wiki ji v 21. století převzal do správy městys; rok nelze určit, oprava od 2002"}
+ ],
+ "events": [
+  {"year": 1410, "text": "purkrabí mělnických proboštů Beneš Slaboně sídlí na zděné tvrzi"},
+  {"year": 1502, "text": "Jindřich z Vřesovic koupil panství"},
+  {"year": 1559, "text": "Zikmund Brozanský z Vřesovic po tomto roce přestavěl tvrz na renesanční zámek (sgrafita 1563)"},
+  {"year": 1601, "text": "Jan Zbyněk Zajíc z Hazmburka zámek zvýšil o patro a přistavěl arkýře"},
+  {"year": 1631, "text": "zámek vydrancován a vypálen saskými vojsky, zbořeny hradby a dvůr"},
+  {"year": 1880, "text": "požár, stržena horní dvě patra a sgrafita zakryta omítkou"},
+  {"year": 2005, "text": "po opravě od 2002 zpřístupněna tvrz s expozicí historie Brozan"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Brozany_(zámek)", "https://www.brozanynadohri.cz/mestys/historie-mestyse-a-spolky/tvrz/historie-tvrze/", "https://www.brozanynadohri.cz/mestys/historie-mestyse-a-spolky/historie/"]
+}

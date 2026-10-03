@@ -1,0 +1,27 @@
+{
+ "id": "Q31872969",
+ "name": "Borovany",
+ "founded": {"year": 1455, "approx": false, "text": "Augustiniánský klášter založil roku 1455 Petr z Lindy; kostel dokončen 1464, konvent kolem 1490; barokní prelatura (dnešní zámek) 1765-1768."},
+ "summary": "Zámek v Borovanech je bývalý klášter augustiniánů kanovníků, který roku 1455 založil Petr z Lindy a od 70. let 15. století jej patronátně držel rod Rožmberků. Vilém z Rožmberka klášter roku 1564 zrušil a přisvojil si jeho majetek; obnoven byl po polovině 17. století a zrušen definitivně 1785 Josefem II. Roku 1787 koupil statek Jan ze Schwarzenbergu a prelaturu upravil na letní zámek. Od roku 1939 patří obci Borovany, která zámek po rekonstrukci 2005-2010 využívá jako kulturní areál.",
+ "owners": [
+  {"owner": "cirkev", "owner_wiki": null, "person": "augustiniáni kanovníci (kanonie Borovany)", "from": 1455, "to": 1564, "from_approx": false, "to_approx": false, "how": "zalozeni", "note": "zakladatel Petr z Lindy daroval vsi Hlubokou a Nesměň, lesy a rybníky; od jeho smrti (1472) patronát Rožmberků (zavázali se již 1466); komunita v 16. stol. vymřela na mor, od 1558 správce Matěj Kozka z Rynárce"},
+  {"owner": "rozmberkove", "owner_wiki": "Rožmberkové", "person": "Vilém z Rožmberka", "from": 1564, "to": 1611, "from_approx": false, "to_approx": true, "how": "konfiskace", "note": "Vilém klášter zrušil a převzal majetek; zcizení legalizoval panovník roku 1600; rod vymřel 1611 (zámek-trebon.cz)"},
+  {"owner": "pani-ze-svamberka", "owner_wiki": "Páni ze Švamberka", "person": null, "from": 1611, "to": null, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "Švamberkové zdědili rožmberský majetek; zkonfiskován za účast ve stavovském povstání (rok neuveden)"},
+  {"owner": "koruna", "owner_wiki": null, "person": "císař", "from": null, "to": 1658, "from_approx": false, "to_approx": true, "how": "konfiskace", "note": "majetek připadl císaři; Ferdinand III. 1630-1631 rozhodl o obnově kláštera, bratři z Klosterneuburgu přišli 1658, probošt dosazen 1662 (jiznicechy.cz: obnoven 1663)"},
+  {"owner": "cirkev", "owner_wiki": null, "person": "augustiniáni kanovníci (obnovená kanonie)", "from": 1658, "to": 1785, "from_approx": false, "to_approx": false, "how": "restituce", "note": "obnoveno císařem Ferdinandem III.; zrušeno dvorským dekretem Josefa II. 14. 11. 1785"},
+  {"owner": "stat", "owner_wiki": null, "person": "Náboženský fond", "from": 1785, "to": 1787, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "po zrušení kláštera; kostel přeměněn na farní"},
+  {"owner": "schwarzenbergove", "owner_wiki": "Schwarzenbergové", "person": "Jan ze Schwarzenbergu", "from": 1787, "to": 1939, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupili od Náboženského fondu; prelaturu přestavěli na letní rezidenci; po pozemkové reformě 1920 jim zůstala jen prelatura (zámek); zájemci o koupi ve 20. letech (např. Joe Hloucha) nekoupili"},
+  {"owner": "mesto", "owner_wiki": null, "person": "obec Borovany", "from": 1939, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupila od Schwarzenbergů pro školu (1940-1997); generální oprava 2005-2010; klášterní část s kostelem užívá fara"}
+ ],
+ "events": [
+  {"year": 1455, "text": "Petr z Lindy založil augustiniánský klášter, 1461 přišli první kanovníci z Třeboně"},
+  {"year": 1564, "text": "Vilém z Rožmberka klášter zrušil a převzal jeho majetek"},
+  {"year": 1658, "text": "obnovení kláštera augustiniány z Klosterneuburgu"},
+  {"year": 1768, "text": "dokončena barokní prelatura (1765-1768) za probošta Augustina Dubenského"},
+  {"year": 1785, "text": "klášter zrušen dekretem Josefa II."},
+  {"year": 1787, "text": "kníže Jan ze Schwarzenbergu koupil majetek a prelaturu přestavěl na zámek"},
+  {"year": 1939, "text": "zámek koupila obec Borovany, od 1940 do 1997 sídlila v budově škola"},
+  {"year": 2010, "text": "po generální opravě 2005-2010 zámek znovu otevřen"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Borovany_(zámek)", "http://www.zamek-trebon.cz/cs/tipy-na-vylet/69396-klaster-a-zamek-borovany", "https://www.jiznicechy.cz/turisticke-cile/1128-augustiniansky-klaster-borovany"]
+}
