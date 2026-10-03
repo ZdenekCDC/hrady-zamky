@@ -22,7 +22,8 @@ const DEFAULTS = {
   layers: { vstupne: true, volne: true, neznamo: false },
   kinds: Object.fromEntries(Object.keys(KIND).map((k) => [k, DEFAULT_KINDS.includes(k)])),
   kindsV: 2, // bumps when the default kinds change, see loadState()
-  open: { layers: true, kinds: false, more: true, fams: false, visits: false, legend: false }, // sidebar sections
+  openV: 2, // same for the default open sections
+  open: { layers: true, kinds: false, more: true, fams: true, visits: false, legend: true }, // sidebar sections
   kraj: "",
   manager: "",
   cFrom: "",
@@ -49,8 +50,9 @@ function loadState() {
     if (typeof s.family === "string") s.families = s.family ? [s.family] : []; // single-select from v1
     delete s.family;
     if (!Number.isFinite(s.year)) delete s.year;
+    if (s.openV !== DEFAULTS.openV) delete s.open;
     if (s.kindsV !== DEFAULTS.kindsV) delete s.kinds; // before the other kinds were added every kind was on: take the new default once
-    return { ...structuredClone(DEFAULTS), ...s, kindsV: DEFAULTS.kindsV, layers: { ...DEFAULTS.layers, ...s.layers }, kinds: { ...DEFAULTS.kinds, ...s.kinds }, open: { ...DEFAULTS.open, ...s.open } };
+    return { ...structuredClone(DEFAULTS), ...s, kindsV: DEFAULTS.kindsV, openV: DEFAULTS.openV, layers: { ...DEFAULTS.layers, ...s.layers }, kinds: { ...DEFAULTS.kinds, ...s.kinds }, open: { ...DEFAULTS.open, ...s.open } };
   } catch {
     return structuredClone(DEFAULTS);
   }

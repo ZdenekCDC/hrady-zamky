@@ -37,7 +37,7 @@ VISITED_COPY = OUT / "visited.json"  # the test never writes the real data/visit
 # sidebar sections start collapsed (except layers / more filters): open them all so the tests can reach every control
 OPEN_SECTIONS = """
 if (!localStorage.getItem('hz-filters-v1')) localStorage.setItem('hz-filters-v1', JSON.stringify(
-  {kindsV: 2, open: {layers: true, kinds: true, more: true, fams: true, visits: true, legend: true}}));
+  {kindsV: 2, openV: 2, open: {layers: true, kinds: true, more: true, fams: true, visits: true, legend: true}}));
 """
 
 
