@@ -5151,6 +5151,45 @@
   "place_count": 1,
   "color_slot": null
  },
+ "cejkove-z-olbramovic": {
+  "id": "cejkove-z-olbramovic",
+  "type": "rod",
+  "name": "Čejkové z Olbramovic",
+  "wikidata": "Q11170704",
+  "cswiki": "https://cs.wikipedia.org/wiki/Čejkové_z_Olbramovic",
+  "coat_of_arms": "Čejkovský palác detail erbu.JPG",
+  "summary": "Čejkové z Olbramovic byla původně stará česká rytířská (resp. vladycká) rodina, která se v 16. století rozvětvila do mnoha linií. V 18. století jedna z linií dosáhla panského stavu a dokonce i hraběcího titulu. V 19. století rod zcela zchudl a vytrácí se o něm povědomí.",
+  "related": [],
+  "places": [
+   {
+    "place": "Q1014747",
+    "from": 1767,
+    "to": 1795,
+    "person": "Michal hrabě Čejka z Olbramovic",
+    "how": "koupe",
+    "from_approx": true,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q1014747",
+    "year": 1767,
+    "from": "z-roggendorfu",
+    "to": "cejkove-z-olbramovic",
+    "how": "koupe"
+   },
+   {
+    "place": "Q1014747",
+    "year": 1795,
+    "from": "cejkove-z-olbramovic",
+    "to": "z-sternfeldu",
+    "how": "koupe"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
  "cerncicti-z-kacova": {
   "id": "cerncicti-z-kacova",
   "type": "rod",
@@ -17487,6 +17526,45 @@
    }
   ],
   "place_count": 2,
+  "color_slot": null
+ },
+ "kuenringove": {
+  "id": "kuenringove",
+  "type": "rod",
+  "name": "Kuenringové",
+  "wikidata": "Q872738",
+  "cswiki": "https://cs.wikipedia.org/wiki/Kuenringové",
+  "coat_of_arms": "Kuenringer-Wappen.png",
+  "summary": "Kuenringové (německy Kuenringer, také Chuenringe(r)) patřili k nejsilnějším rakouským rozrodům.",
+  "related": [],
+  "places": [
+   {
+    "place": "Q877062",
+    "from": null,
+    "to": null,
+    "person": null,
+    "how": "neznamo",
+    "from_approx": false,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q877062",
+    "year": null,
+    "from": "seefeldove",
+    "to": "kuenringove",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q877062",
+    "year": null,
+    "from": "kuenringove",
+    "to": "rauhensteinove",
+    "how": "neznamo"
+   }
+  ],
+  "place_count": 1,
   "color_slot": null
  },
  "kufstejnove": {
@@ -35495,6 +35573,41 @@
   "place_count": 1,
   "color_slot": null
  },
+ "pottendorfove": {
+  "id": "pottendorfove",
+  "type": "rod",
+  "name": "pottendorfove",
+  "related": [],
+  "places": [
+   {
+    "place": "Q877062",
+    "from": null,
+    "to": null,
+    "person": null,
+    "how": "neznamo",
+    "from_approx": false,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q877062",
+    "year": null,
+    "from": "rauhensteinove",
+    "to": "pottendorfove",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q877062",
+    "year": null,
+    "from": "pottendorfove",
+    "to": "puchheimove",
+    "how": "neznamo"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
  "pottingove-z-persingu": {
   "id": "pottingove-z-persingu",
   "type": "rod",
@@ -35921,6 +36034,41 @@
   "place_count": 1,
   "color_slot": null
  },
+ "puchheimove": {
+  "id": "puchheimove",
+  "type": "rod",
+  "name": "puchheimove",
+  "related": [],
+  "places": [
+   {
+    "place": "Q877062",
+    "from": null,
+    "to": 1395,
+    "person": null,
+    "how": "neznamo",
+    "from_approx": false,
+    "to_approx": true
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q877062",
+    "year": null,
+    "from": "pottendorfove",
+    "to": "puchheimove",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q877062",
+    "year": 1395,
+    "from": "puchheimove",
+    "to": "lichtenstejnove",
+    "how": "koupe"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
  "pulpanove-z-feldsteina": {
   "id": "pulpanove-z-feldsteina",
   "type": "rod",
@@ -36290,6 +36438,41 @@
     "from": "rasinove-z-ryzmburka",
     "to": "soukromnik",
     "how": "dedictvi"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
+ "rauhensteinove": {
+  "id": "rauhensteinove",
+  "type": "rod",
+  "name": "rauhensteinove",
+  "related": [],
+  "places": [
+   {
+    "place": "Q877062",
+    "from": null,
+    "to": null,
+    "person": null,
+    "how": "neznamo",
+    "from_approx": false,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q877062",
+    "year": null,
+    "from": "kuenringove",
+    "to": "rauhensteinove",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q877062",
+    "year": null,
+    "from": "rauhensteinove",
+    "to": "pottendorfove",
+    "how": "neznamo"
    }
   ],
   "place_count": 1,
@@ -39604,6 +39787,34 @@
   "place_count": 7,
   "color_slot": null
  },
+ "seefeldove": {
+  "id": "seefeldove",
+  "type": "rod",
+  "name": "seefeldove",
+  "related": [],
+  "places": [
+   {
+    "place": "Q877062",
+    "from": null,
+    "to": null,
+    "person": null,
+    "how": "neznamo",
+    "from_approx": false,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q877062",
+    "year": null,
+    "from": "seefeldove",
+    "to": "kuenringove",
+    "how": "neznamo"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
  "seilern-und-aspang": {
   "id": "seilern-und-aspang",
   "type": "rod",
@@ -41688,6 +41899,41 @@
     "from": "sofove-z-helfenburka",
     "to": "smiricti-ze-smiric",
     "how": "neznamo"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
+ "somsichove-de-saard": {
+  "id": "somsichove-de-saard",
+  "type": "rod",
+  "name": "somsichove-de-saard",
+  "related": [],
+  "places": [
+   {
+    "place": "Q1014747",
+    "from": 1818,
+    "to": 1841,
+    "person": "Luisa Hirschová provd. Somsichová, poté její syn Adolf Somsich de Saard",
+    "how": "dedictvi",
+    "from_approx": true,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q1014747",
+    "year": 1818,
+    "from": "z-sternfeldu",
+    "to": "somsichove-de-saard",
+    "how": "dedictvi"
+   },
+   {
+    "place": "Q1014747",
+    "year": 1841,
+    "from": "somsichove-de-saard",
+    "to": "sternberkove",
+    "how": "koupe"
    }
   ],
   "place_count": 1,
@@ -53114,6 +53360,41 @@
   "place_count": 1,
   "color_slot": null
  },
+ "z-gotzu": {
+  "id": "z-gotzu",
+  "type": "rod",
+  "name": "z-gotzu",
+  "related": [],
+  "places": [
+   {
+    "place": "Q1014747",
+    "from": 1712,
+    "to": 1740,
+    "person": "Jan Maxmilián Götz (manžel Anny Marie Amabilie Holické)",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": true
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q1014747",
+    "year": 1712,
+    "from": "sternberkove",
+    "to": "z-gotzu",
+    "how": "dedictvi"
+   },
+   {
+    "place": "Q1014747",
+    "year": 1740,
+    "from": "z-gotzu",
+    "to": "z-roggendorfu",
+    "how": "snatek"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
  "z-grafeneku": {
   "id": "z-grafeneku",
   "type": "rod",
@@ -55461,6 +55742,41 @@
     "year": 1522,
     "from": "z-kukvic",
     "to": "boskovicove",
+    "how": "koupe"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
+ "z-kunovic": {
+  "id": "z-kunovic",
+  "type": "rod",
+  "name": "z-kunovic",
+  "related": [],
+  "places": [
+   {
+    "place": "Q744016",
+    "from": 1590,
+    "to": 1603,
+    "person": "Arkleb z Kunovic",
+    "how": "neznamo",
+    "from_approx": true,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q744016",
+    "year": 1590,
+    "from": "sternberkove",
+    "to": "z-kunovic",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q744016",
+    "year": 1603,
+    "from": "z-kunovic",
+    "to": "hodejovsti-z-hodejova",
     "how": "koupe"
    }
   ],
@@ -59766,6 +60082,15 @@
   "related": [],
   "places": [
    {
+    "place": "Q1014747",
+    "from": 1740,
+    "to": 1767,
+    "person": "hrabata z Roggendorfu",
+    "how": "snatek",
+    "from_approx": true,
+    "to_approx": true
+   },
+   {
     "place": "Q12033148",
     "from": 1711,
     "to": 1724,
@@ -59785,6 +60110,20 @@
    }
   ],
   "transfers": [
+   {
+    "place": "Q1014747",
+    "year": 1740,
+    "from": "z-gotzu",
+    "to": "z-roggendorfu",
+    "how": "snatek"
+   },
+   {
+    "place": "Q1014747",
+    "year": 1767,
+    "from": "z-roggendorfu",
+    "to": "cejkove-z-olbramovic",
+    "how": "koupe"
+   },
    {
     "place": "Q12033148",
     "year": 1711,
@@ -59814,7 +60153,7 @@
     "how": "neznamo"
    }
   ],
-  "place_count": 2,
+  "place_count": 3,
   "color_slot": null
  },
  "z-ronsperka": {
@@ -61355,6 +61694,41 @@
    }
   ],
   "place_count": 2,
+  "color_slot": null
+ },
+ "z-sternfeldu": {
+  "id": "z-sternfeldu",
+  "type": "rod",
+  "name": "z-sternfeldu",
+  "related": [],
+  "places": [
+   {
+    "place": "Q1014747",
+    "from": 1795,
+    "to": 1818,
+    "person": "Ferdinand Hirsch ze Sternfeldu, zemský advokát",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": true
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q1014747",
+    "year": 1795,
+    "from": "cejkove-z-olbramovic",
+    "to": "z-sternfeldu",
+    "how": "koupe"
+   },
+   {
+    "place": "Q1014747",
+    "year": 1818,
+    "from": "z-sternfeldu",
+    "to": "somsichove-de-saard",
+    "how": "dedictvi"
+   }
+  ],
+  "place_count": 1,
   "color_slot": null
  },
  "z-stetenberka": {
@@ -86023,384 +86397,6 @@
    }
   ],
   "place_count": 49,
-  "color_slot": null
- },
- "z-gotzu": {
-  "id": "z-gotzu",
-  "name": "z-gotzu",
-  "type": "rod",
-  "cswiki": null,
-  "places": [
-   {
-    "place": "Q1014747",
-    "from": 1712,
-    "to": 1740,
-    "person": "Jan Maxmilián Götz (manžel Anny Marie Amabilie Holické)",
-    "how": "dedictvi",
-    "from_approx": false,
-    "to_approx": true
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q1014747",
-    "year": 1712,
-    "from": "sternberkove",
-    "to": "z-gotzu",
-    "how": "dedictvi"
-   },
-   {
-    "place": "Q1014747",
-    "year": 1740,
-    "from": "z-gotzu",
-    "to": "pani-z-roggendorfu",
-    "how": "snatek"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
- "pani-z-roggendorfu": {
-  "id": "pani-z-roggendorfu",
-  "name": "Páni z Roggendorfu",
-  "type": "rod",
-  "cswiki": "https://cs.wikipedia.org/wiki/Páni_z_Roggendorfu",
-  "places": [
-   {
-    "place": "Q1014747",
-    "from": 1740,
-    "to": 1767,
-    "person": "hrabata z Roggendorfu",
-    "how": "snatek",
-    "from_approx": true,
-    "to_approx": true
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q1014747",
-    "year": 1740,
-    "from": "z-gotzu",
-    "to": "pani-z-roggendorfu",
-    "how": "snatek"
-   },
-   {
-    "place": "Q1014747",
-    "year": 1767,
-    "from": "pani-z-roggendorfu",
-    "to": "cejkove-z-olbramovic",
-    "how": "koupe"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
- "cejkove-z-olbramovic": {
-  "id": "cejkove-z-olbramovic",
-  "name": "Čejkové z Olbramovic",
-  "type": "rod",
-  "cswiki": "https://cs.wikipedia.org/wiki/Čejkové_z_Olbramovic",
-  "places": [
-   {
-    "place": "Q1014747",
-    "from": 1767,
-    "to": 1795,
-    "person": "Michal hrabě Čejka z Olbramovic",
-    "how": "koupe",
-    "from_approx": true,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q1014747",
-    "year": 1767,
-    "from": "pani-z-roggendorfu",
-    "to": "cejkove-z-olbramovic",
-    "how": "koupe"
-   },
-   {
-    "place": "Q1014747",
-    "year": 1795,
-    "from": "cejkove-z-olbramovic",
-    "to": "z-sternfeldu",
-    "how": "koupe"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
- "z-sternfeldu": {
-  "id": "z-sternfeldu",
-  "name": "z-sternfeldu",
-  "type": "rod",
-  "cswiki": null,
-  "places": [
-   {
-    "place": "Q1014747",
-    "from": 1795,
-    "to": 1818,
-    "person": "Ferdinand Hirsch ze Sternfeldu, zemský advokát",
-    "how": "koupe",
-    "from_approx": false,
-    "to_approx": true
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q1014747",
-    "year": 1795,
-    "from": "cejkove-z-olbramovic",
-    "to": "z-sternfeldu",
-    "how": "koupe"
-   },
-   {
-    "place": "Q1014747",
-    "year": 1818,
-    "from": "z-sternfeldu",
-    "to": "somsichove-de-saard",
-    "how": "dedictvi"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
- "somsichove-de-saard": {
-  "id": "somsichove-de-saard",
-  "name": "somsichove-de-saard",
-  "type": "rod",
-  "cswiki": null,
-  "places": [
-   {
-    "place": "Q1014747",
-    "from": 1818,
-    "to": 1841,
-    "person": "Luisa Hirschová provd. Somsichová, poté její syn Adolf Somsich de Saard",
-    "how": "dedictvi",
-    "from_approx": true,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q1014747",
-    "year": 1818,
-    "from": "z-sternfeldu",
-    "to": "somsichove-de-saard",
-    "how": "dedictvi"
-   },
-   {
-    "place": "Q1014747",
-    "year": 1841,
-    "from": "somsichove-de-saard",
-    "to": "sternberkove",
-    "how": "koupe"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
- "z-kunovic": {
-  "id": "z-kunovic",
-  "name": "z-kunovic",
-  "type": "rod",
-  "cswiki": null,
-  "places": [
-   {
-    "place": "Q744016",
-    "from": 1590,
-    "to": 1603,
-    "person": "Arkleb z Kunovic",
-    "how": "neznamo",
-    "from_approx": true,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q744016",
-    "year": 1590,
-    "from": "sternberkove",
-    "to": "z-kunovic",
-    "how": "neznamo"
-   },
-   {
-    "place": "Q744016",
-    "year": 1603,
-    "from": "z-kunovic",
-    "to": "hodejovsti-z-hodejova",
-    "how": "koupe"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
- "seefeldove": {
-  "id": "seefeldove",
-  "name": "seefeldove",
-  "type": "rod",
-  "cswiki": null,
-  "places": [
-   {
-    "place": "Q877062",
-    "from": null,
-    "to": null,
-    "person": null,
-    "how": "neznamo",
-    "from_approx": false,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q877062",
-    "year": null,
-    "from": "seefeldove",
-    "to": "kuenringove",
-    "how": "neznamo"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
- "kuenringove": {
-  "id": "kuenringove",
-  "name": "Kuenringové",
-  "type": "rod",
-  "cswiki": "https://cs.wikipedia.org/wiki/Kuenringové",
-  "places": [
-   {
-    "place": "Q877062",
-    "from": null,
-    "to": null,
-    "person": null,
-    "how": "neznamo",
-    "from_approx": false,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q877062",
-    "year": null,
-    "from": "seefeldove",
-    "to": "kuenringove",
-    "how": "neznamo"
-   },
-   {
-    "place": "Q877062",
-    "year": null,
-    "from": "kuenringove",
-    "to": "rauhensteinove",
-    "how": "neznamo"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
- "rauhensteinove": {
-  "id": "rauhensteinove",
-  "name": "rauhensteinove",
-  "type": "rod",
-  "cswiki": null,
-  "places": [
-   {
-    "place": "Q877062",
-    "from": null,
-    "to": null,
-    "person": null,
-    "how": "neznamo",
-    "from_approx": false,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q877062",
-    "year": null,
-    "from": "kuenringove",
-    "to": "rauhensteinove",
-    "how": "neznamo"
-   },
-   {
-    "place": "Q877062",
-    "year": null,
-    "from": "rauhensteinove",
-    "to": "pottendorfove",
-    "how": "neznamo"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
- "pottendorfove": {
-  "id": "pottendorfove",
-  "name": "pottendorfove",
-  "type": "rod",
-  "cswiki": null,
-  "places": [
-   {
-    "place": "Q877062",
-    "from": null,
-    "to": null,
-    "person": null,
-    "how": "neznamo",
-    "from_approx": false,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q877062",
-    "year": null,
-    "from": "rauhensteinove",
-    "to": "pottendorfove",
-    "how": "neznamo"
-   },
-   {
-    "place": "Q877062",
-    "year": null,
-    "from": "pottendorfove",
-    "to": "puchheimove",
-    "how": "neznamo"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
- "puchheimove": {
-  "id": "puchheimove",
-  "name": "puchheimove",
-  "type": "rod",
-  "cswiki": null,
-  "places": [
-   {
-    "place": "Q877062",
-    "from": null,
-    "to": 1395,
-    "person": null,
-    "how": "neznamo",
-    "from_approx": false,
-    "to_approx": true
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q877062",
-    "year": null,
-    "from": "pottendorfove",
-    "to": "puchheimove",
-    "how": "neznamo"
-   },
-   {
-    "place": "Q877062",
-    "year": 1395,
-    "from": "puchheimove",
-    "to": "lichtenstejnove",
-    "how": "koupe"
-   }
-  ],
-  "place_count": 1,
   "color_slot": null
  }
 }
