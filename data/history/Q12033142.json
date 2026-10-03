@@ -1,0 +1,21 @@
+{
+ "id": "Q12033142",
+ "name": "Letohrádek Mitrovských",
+ "founded": {"year": 1779, "approx": false, "text": "1779-1794 stavba letního sídla (zahradního kasina) pro Antonína Arnošta Mitrovského"},
+ "summary": "Letohrádek ve Starém Brně nechal v letech 1779-1794 postavit generálmajor hrabě Antonín Arnošt Mitrovský na zahradě koupené od moravských stavů. Mitrovští jej roku 1814 prodali a po několika dalších majitelích (mimo jiné Smetana, 1858-1859 letní divadlo Aréna) jej roku 1889 koupila obec starobrněnská, později město Brno. Po rekonstrukci 1978-1987 sloužil Muzeu města Brna a dnes je pronajat soukromníkovi pro kulturní a společenské akce.",
+ "owners": [
+  {"owner": "mitrovsti-z-mitrovic-a-nemysle", "owner_wiki": "Mitrovští z Mitrovic a Nemyšle", "person": "Antonín Arnošt Mitrovský", "from": 1779, "to": 1814, "from_approx": false, "to_approx": false, "how": "zalozeni", "note": "zahradu koupil od moravských stavů (původně zahrada císařského soudce Jana Martina Cippse); rok 1814 prodeje podle encyklopedie.brna.cz, Antonín Arnošt zemřel 1813 bez potomků"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "několik soukromých majitelů (mj. Smetana)", "from": 1814, "to": 1889, "from_approx": false, "to_approx": false, "how": "koupe", "note": "jména většiny majitelů zdroj neuvádí; 1858-1859 zahrada Smetanova s letním divadlem Aréna, poté hostinec"},
+  {"owner": "mesto", "owner_wiki": null, "person": null, "from": 1889, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupila obec starobrněnská (od 1919 součást Brna), zřízena mateřská škola; cs.wiki uvádí vlastnictví města Brno od 19. stol.; 1988 převzalo Muzeum města Brna, dnes pronajato soukromníkovi"}
+ ],
+ "events": [
+  {"year": 1779, "text": "zahájena stavba letohrádku pro Antonína Arnošta Mitrovského"},
+  {"year": 1794, "text": "dokončení stavby"},
+  {"year": 1814, "text": "Mitrovští letohrádek prodali"},
+  {"year": 1858, "text": "1858-1859 v zahradě letní divadlo Aréna (kapacita až 1600 diváků)"},
+  {"year": 1889, "text": "koupila obec starobrněnská, zřízena mateřská škola"},
+  {"year": 1978, "text": "1978-1987 generální rekonstrukce"},
+  {"year": 1988, "text": "letohrádek převzalo Muzeum města Brna; od konce 2007 kulturní využití a svatby"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Letohrádek_Mitrovských", "https://encyklopedie.brna.cz/home-mmb/?acc=profil-domu&load=1004", "https://www.letohradekbrno.cz/historie/"]
+}

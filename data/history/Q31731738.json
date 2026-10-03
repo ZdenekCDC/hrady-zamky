@@ -1,0 +1,125 @@
+{
+ "id": "Q31731738",
+ "name": "Lnáře (starý zámek)",
+ "founded": {
+  "year": null,
+  "approx": false,
+  "text": "Tvrz ve Lnářích je poprvé písemně zmíněna roku 1465, ve vsi ale už ve 14. století sídlil rod vladyků ze Lnář; webu tvrze uvádí vznik před rokem 1318. Gotická tvrz byla za Volfa Novohradského z Kolovrat přestavěna na renesanční zámek dokončený nejspíše roku 1593."
+ },
+ "summary": "Starý zámek ve Lnářích je gotická tvrz přestavěná na renesanční zámek, která prošla stavebním vývojem od 14. do 17. století. Drželi ji vladykové ze Lnář, od poloviny 15. století Zmrzlíkové ze Svojšína, poté Šternberkové, Novohradští z Kolovrat, Vratislavové z Mitrovic a od roku 1675 Černínové z Chudenic, za nichž sloužila jako sídlo úředníků a pivovar vedle nového zámku. Ve 2. polovině 20. století ji využívala generální prokuratura a Úřad vlády, od roku 2002 patří obci Lnáře.",
+ "owners": [
+  {
+   "owner": "z-lnar",
+   "owner_wiki": null,
+   "person": "vladykové ze Lnář (Oldřich 1313, Habart, Konrád 1364-1404, Vilém)",
+   "from": null,
+   "to": 1450,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "zalozeni",
+   "note": "web tvrze připisuje založení před 1318 pravděpodobně říšskému rodu von Schlüsselberg; cs.wiki uvádí jen sídlo vladyků ze Lnář ve 14. století; konec držení 'okolo poloviny 15. století'"
+  },
+  {
+   "owner": "zmrzlikove-ze-svojsina",
+   "owner_wiki": "Zmrzlíkové ze Svojšína",
+   "person": "Petr, Václav, Jaroslav a poslední Václav Zmrzlík ze Svojšína",
+   "from": 1450,
+   "to": 1564,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "snatek",
+   "note": "získali díky příbuzenským svazkům (věno Anny ze Šternberka); Václav Zmrzlík prodal 25. 4. 1564"
+  },
+  {
+   "owner": "sternberkove",
+   "owner_wiki": "Šternberkové",
+   "person": "Zdeněk ze Šternberka na Blatné",
+   "from": 1564,
+   "to": 1577,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupeno za 20 000 kop pražských grošů; Zdeněk zemřel 1575, 1574 zastavil Lnáře Václavovi z Donína; Volfovi Novohradskému z Kolovrat panství postoupeno 1577"
+  },
+  {
+   "owner": "kolovratove",
+   "owner_wiki": "Kolovratové",
+   "person": "Volf Novohradský z Kolovrat, od 1609 Zdeněk Novohradský z Kolovrat",
+   "from": 1577,
+   "to": 1617,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "postoupeno za dluh 15 000 kop grošů; Volf přestavěl tvrz na renesanční zámek (dokončen nejspíše 1593); Zdeněk jej 1617 prodal"
+  },
+  {
+   "owner": "sternberkove",
+   "owner_wiki": "Šternberkové",
+   "person": "Adam ze Šternberka, poté Jaroslav Volf ze Šternberka a jeho dcera Eva Johanna",
+   "from": 1617,
+   "to": 1629,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "koupeno za 100 000 kop míšeňských grošů; Eva Johanna prodala podle Sedláčka 1629, Tříska uvádí 1659 nebo 1660 (web tvrze také 1659)"
+  },
+  {
+   "owner": "vratislavove-z-mitrovic",
+   "owner_wiki": "Vratislavové z Mitrovic",
+   "person": "Aleš Ferdinand Vratislav z Mitrovic",
+   "from": 1629,
+   "to": 1675,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "datum nabytí nejisté (1629 / 1659 / 1660); v sousedství založil nový zámek; dcery Marie Terezie a Eva Konstancie prodaly panství 21. 1. 1675"
+  },
+  {
+   "owner": "cerninove-z-chudenic",
+   "owner_wiki": "Černínové z Chudenic",
+   "person": "Humprecht Jan Černín",
+   "from": 1675,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupeno za 180 000 florénů; starý zámek poté sloužil úředníkům statku, byl v něm pivovar a ve věži vězení; pozdější držitelé lnářského panství (podle webu zámku: Künigl, Sweerts-Sporck, Thun, Linker, Lilgenau, ve 20. století Bondy, Vaníček) nejsou v cs.wiki k starému zámku uvedeni"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": "generální prokuratura, poté Úřad vlády ČSR",
+   "from": null,
+   "to": 2002,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "cs.wiki: ve 2. polovině 20. století zámek využívala generální prokuratura; web tvrze: na počátku 80. let tvrz získal Úřad vlády ČSR, v majetku vlády do roku 2002; přesný rok převzetí nejasný"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "obec Lnáře",
+   "from": 2002,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "obec získala tvrz roku 2002, po povodni zrekonstruovala (knihovna, zdravotní středisko, informační centrum od 2006); cs.wiki uvádí jen kulturní využití, vlastníka z webu obce"
+  }
+ ],
+ "events": [
+  {"year": 1313, "text": "první známý příslušník rodu ze Lnář, Oldřich, připomínán v družině krále Jana"},
+  {"year": 1465, "text": "první písemná zmínka o lnářské tvrzi (za Zmrzlíků ze Svojšína)"},
+  {"year": 1564, "text": "Václav Zmrzlík prodal Lnáře Zdeňkovi ze Šternberka"},
+  {"year": 1593, "text": "Volf Novohradský z Kolovrat dokončil (nejspíše) přestavbu gotické tvrze na renesanční zámek"},
+  {"year": 1675, "text": "panství koupil Humprecht Jan Černín; starý zámek slouží úředníkům, pivovaru a vězení"},
+  {"year": 1985, "text": "Úřad vlády ČSR zahájil rekonstrukci a zbořil pivovarské budovy (rekonstrukce tvrze od 1986, podle webu tvrze)"},
+  {"year": 2002, "text": "tvrz získala obec Lnáře; po povodni rekonstrukce, od 2006 informační centrum"}
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Lnáře_(starý_zámek)",
+  "http://tvrz.lnare-obec.cz/historie%2Dtvrze/d-1008/p1=1005",
+  "http://www.lnarecastle.cz/history_cz.htm"
+ ]
+}

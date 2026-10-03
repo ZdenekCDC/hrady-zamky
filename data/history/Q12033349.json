@@ -1,0 +1,81 @@
+{
+ "id": "Q12033349",
+ "name": "Liblice",
+ "founded": {
+  "year": 1699,
+  "approx": false,
+  "text": "1699-1706 vystavěl barokní zámek Arnošt Josef Pachta z Rájova podle projektu G. B. Alliprandiho (koncept J. B. Fischera z Erlachu)."
+ },
+ "summary": "Barokní zámek Liblice, nazývaný perla českého vrcholného baroka, nechal v letech 1699-1706 postavit Arnošt Josef Pachta z Rájova podle Alliprandiho. V první polovině 19. století panství koupili Deymové ze Stříteže, roku 1863 zámek získala Antonie z Valdštejna, která jej částečně novorenesančně přestavěla, a po ní jej zdědili Thun-Hohensteinové. Roku 1945 byl zkonfiskován, od roku 1952 jej spravuje Akademie věd (dnes konferenční centrum a hotel, po rekonstrukci 2001-2007).",
+ "owners": [
+  {
+   "owner": "pachtove-z-rajova",
+   "owner_wiki": "Pachtové z Rájova",
+   "person": "Arnošt Josef Pachta z Rájova",
+   "from": 1699,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "stavebník zámku; liblické panství mu podle webu obce odkázala manželka Jana Albrechta Pfefferkorna z Ottopachu (bez roku); Pachtové drželi panství do 1. poloviny 19. století, přesný rok neuveden"
+  },
+  {
+   "owner": "deymove-ze-striteze",
+   "owner_wiki": "Deymové ze Stříteže",
+   "person": "Bedřich Deym, poté Vojtěch Deym ze Stříteže",
+   "from": null,
+   "to": 1863,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupě v 1. polovině 19. století, přesný rok neuveden; web obce uvádí koupi hraběte Bedřicha Deyma, cs.wiki Vojtěcha Deyma"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Antonie z Valdštejna",
+   "from": 1863,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "částečná přestavba v eklektickém stylu s novorenesančními detaily; rok úmrtí neuveden"
+  },
+  {
+   "owner": "thun-hohensteinove",
+   "owner_wiki": "Thun-Hohensteinové",
+   "person": "Christiana Thun-Hohensteinová",
+   "from": null,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "dcera Antonie z Valdštejna; do deportace 1942 byl pachtýřem zámku H. Klinger"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": "Československá akademie věd, dnes Akademie věd ČR",
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "v roce 1952 stát zámek propůjčil ČSAV; cs.wiki uvádí současným majitelem Akademii věd ČR (veřejná výzkumná instituce, zde vedeno jako stát)"
+  }
+ ],
+ "events": [
+  {"year": 1706, "text": "1699-1706 výstavba barokního zámku Arnoštem Josefem Pachtou z Rájova"},
+  {"year": 1770, "text": "po roce 1770 Ignác František Platzer doplnil plastickou výzdobu balkónu a freskovou výzdobu saly terreny"},
+  {"year": 1863, "text": "zámek koupila Antonie z Valdštejna, přestavba v novorenesančním duchu"},
+  {"year": 1945, "text": "konfiskace zámku Thun-Hohensteinům"},
+  {"year": 1952, "text": "zámek propůjčen Československé akademii věd"},
+  {"year": 1963, "text": "Liblická konference o Franzi Kafkovi"},
+  {"year": 2007, "text": "2001-2007 nejrozsáhlejší oprava, slavnostní otevření 6. 9. 2007, hotel a konferenční centrum AV ČR"}
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Liblice_(zámek)",
+  "https://liblice.cz/historie-obce/ds-1071",
+  "https://www.zamek-liblice.cz/cs/"
+ ]
+}

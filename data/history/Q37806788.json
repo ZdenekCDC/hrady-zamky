@@ -1,0 +1,27 @@
+{
+ "id": "Q37806788",
+ "name": "Luhov",
+ "founded": {"year": 1780, "approx": true, "text": "první zmínka o tvrzi 1367; nový barokní zámek v sousedství zaniklé tvrze nechala po roce 1780 postavit Marie Anna Steinbachová"},
+ "summary": "Luhovskou tvrz (zmíněnu 1367) držel převážně chotěšovský klášter, od roku 1576 Oldřich z Říčan a od 1676 Steinbachové z Kranichsteinu. Marie Anna Steinbachová, provdaná Dohalská, nechala po roce 1780 vystavět barokní zámek. V 19. století patřil Perglárům z Perglasu a od 1872 Jakschům z Wartenhorstu, po roce 1945 byl zkonfiskován a užíván státním statkem a rekreačním střediskem. Od roku 1996 jej vlastní rodina Němcových, která jej opravila a v roce 2006 zpřístupnila.",
+ "owners": [
+  {"owner": "cirkev", "owner_wiki": null, "person": "chotěšovský klášter (premonstrátky)", "from": null, "to": 1576, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "část vsi; zbytek drobná šlechta; před 1420 zástava Protivovi z Netunic, 1431-1482 bratři z Úlic (Jan starší a mladší, pak Lvík a Markvart), 1496 probošt vyplatil zástavu; od 1546 zástava městu Stříbro; zdroj zamekluhov.cz: dvorec 1175 daroval kníže Soběslav plaskému klášteru, ten jej vyměnil s Chotěšovem"},
+  {"owner": "pani-z-rican", "owner_wiki": "Páni z Říčan", "person": "Oldřich z Říčan a na Pňovanech", "from": 1576, "to": 1638, "from_approx": false, "to_approx": false, "how": "koupe", "note": "Luhov patřil k Pňovanům; cs.wiki zmiňuje i Annu Alžbětu Příchovskou z Janovic (rok 1526, chronologie nejasná); zamekluhov.cz uvádí nákup 1476/1576 (rozpor v letopočtu)"},
+  {"owner": "z-cenkova", "owner_wiki": null, "person": "Bartoloměj Stehlík z Čenkova", "from": 1638, "to": 1676, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "Luhov opět samostatným panstvím, spolu s Třebobuzí; patřil jeho rodině do 1676"},
+  {"owner": "steinbachove-z-kranichsteinu", "owner_wiki": null, "person": "Steinbachové z Kranichsteinu", "from": 1676, "to": 1779, "from_approx": false, "to_approx": false, "how": "koupe", "note": "vytvořili malé panství (Dolany, Hracholusky); rok 1779 je svatba dědičky Marie Anny"},
+  {"owner": "dohalsti-z-dohalic", "owner_wiki": "Dohalští z Dohalic", "person": "Marie Anna Steinbachová a Mario Bořek Dohalský", "from": 1779, "to": 1825, "from_approx": false, "to_approx": false, "how": "snatek", "note": "po 1780 nový barokní zámek, kaple 1784; 1796 přikoupeny Pňovany, 1799 Líšťany, 1804 Lipno (alodiální statek Luhov-Líšťany); bez dědiců, Bořek zemřel 1824, Marie Anna 1825"},
+  {"owner": "perglarove-z-perglasu", "owner_wiki": null, "person": "Václav Perglar z Perglasu", "from": 1825, "to": 1872, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "bratranec Bořka Dohalského; cs.wiki: součástí panství do 1853, poté řada majitelů (zamekluhov.cz uvádí Perglary do 1872 a před Jakschem Marii Josefu Hennigerovou z Ebergu)"},
+  {"owner": "jakschove-z-wartenhorstu", "owner_wiki": null, "person": "Anton Jaksch, později Rudolf Jaksch z Wartenhorstu", "from": 1872, "to": 1945, "from_approx": false, "to_approx": false, "how": "koupe", "note": "Anton koupil 1872; po 1908 Zdenko, pak Rudolf (poslední soukromý majitel, lékař); Rudolf zemřel 1946/1947, zdroj zamekluhov.cz uvádí konfiskaci 1945; cs.wiki: vlastnil do smrti 1946"},
+  {"owner": "stat", "owner_wiki": null, "person": "státní statek; od 1980 TJ Uhelné sklady (rekreační středisko)", "from": 1945, "to": 1996, "from_approx": true, "to_approx": false, "how": "konfiskace", "note": "konec 20. stol. zámek chátral"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Marie a Petr Němcovi (rodina Němcova)", "from": 1996, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "svépomocná oprava, zpřístupněno v červenci 2006"}
+ ],
+ "events": [
+  {"year": 1175, "text": "podle zamekluhov.cz kníže Soběslav daroval dvorec plaskému klášteru"},
+  {"year": 1367, "text": "první písemná zmínka o tvrzi, patřila chotěšovskému klášteru"},
+  {"year": 1676, "text": "Luhov koupili Steinbachové z Kranichsteinu"},
+  {"year": 1780, "text": "po roce 1780 stavba barokního zámku; 1784 vysvěcena kaple"},
+  {"year": 1872, "text": "Luhov koupil MUDr. Anton Jaksch z Wartenhorstu"},
+  {"year": 1996, "text": "zámek získala rodina Němcových, zahájena oprava"},
+  {"year": 2006, "text": "po desetileté rekonstrukci zpřístupněn veřejnosti"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Luhov_(zámek)", "https://www.zamekluhov.cz/inpage/1/", "https://www.zamekluhov.cz/inpage/majitele-zamku/"]
+}

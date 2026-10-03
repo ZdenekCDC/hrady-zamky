@@ -1,0 +1,31 @@
+{
+ "id": "Q2242167",
+ "name": "Libá",
+ "founded": {"year": null, "approx": false, "text": "hrad a obec vznikly okolo poloviny 13. století; existence hradu doložena roku 1264 (Ruprecht z Nového Liebensteina)"},
+ "summary": "Hrad Libá (Liebenstein) vznikl okolo poloviny 13. století a po vymření Liebensteinů byl pobořen. Roku 1346 jej získal chebský měšťan František Gosswein, později jej držel Leuchtenberk, Sparnakové a od 15. století Zedtwitzové, kteří hrad přestavěli na zámek (kolem 1770 rokokově). Po prodeji v 1. čtvrtině 20. století ho vlastnil Kaessmann, roku 1945 byl zkonfiskován státem, v roce 1985 vyhořel a od roku 1991 je soukromý a postupně rekonstruován; část je od roku 2014 přístupná.",
+ "owners": [
+  {"owner": "z-liebensteinu", "owner_wiki": null, "person": "Ruprecht z Nového Liebensteina", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "zalozeni", "note": "doložen 1264; rod vymřel na sklonku 13. století a hrad byl pobořen"},
+  {"owner": "cirkev", "owner_wiki": null, "person": "klášter Waldsassen", "from": 1298, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "pouze podle poznejdomy.cz (1298 hrad získal waldsassenský klášter); cs.wiki neuvádí; konec držby neznámý"},
+  {"owner": "z-gossweinu", "owner_wiki": null, "person": "František Gosswein, chebský měšťan", "from": 1346, "to": null, "from_approx": false, "to_approx": false, "how": "lenni", "note": "korunní léno, 1355 hrad obnovil se svolením Karla IV.; Václav IV. jim hrad pro loupeže odňal"},
+  {"owner": "leuchtenberkove", "owner_wiki": "Leuchtenberkové", "person": "Johann I. z Leuchtenberka", "from": 1381, "to": 1400, "from_approx": false, "to_approx": false, "how": "lenni", "note": "propůjčeno Václavem IV."},
+  {"owner": "z-rudischu", "owner_wiki": null, "person": "Erhard Rudisch, chebský měšťan", "from": 1400, "to": 1406, "from_approx": false, "to_approx": false, "how": "koupe", "note": "zemřel 1406"},
+  {"owner": "z-sparnaku", "owner_wiki": null, "person": "rytíři ze Sparnaku", "from": 1406, "to": null, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "konec držby cs.wiki uvádí jen jako 'po roce 1425' (koupě Zedtwitzů)"},
+  {"owner": "zedtwitzove", "owner_wiki": "Zedtwitzové", "person": "Zedtwitzové (od 1879 Zedtwitz-Liebenstein)", "from": 1425, "to": 1912, "from_approx": true, "to_approx": true, "how": "koupe", "note": "cs.wiki: koupili 'po roce 1425', vlastnili do začátku 20. stol.; poznejdomy.cz uvádí 1424 a konec 1912, anglický zdroj ancient-history-sites uvádí prodej v listopadu 1915 a nabytí 1426"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Leopold Hauser (konsorcium)", "from": null, "to": 1927, "from_approx": false, "to_approx": false, "how": "koupe", "note": "podle ancient-history-sites; po 1912 zámek několikrát změnil majitele (poznejdomy.cz); cs.wiki neuvádí"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Fritz Kaessmann (po jeho smrti 1938 rodina)", "from": 1927, "to": 1945, "from_approx": false, "to_approx": false, "how": "koupe", "note": "panství 1420 ha; rodina odsunuta 1946; poznejdomy.cz: zámek udržovaný a obydlený do 1947"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": 1991, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "po válce odsunové středisko, lesní správa, poté pustnutí; 1985 požár"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Intertour s.r.o. (Eva Matějková)", "from": 1991, "to": 2006, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupeno od státu za 150 000 Kčs, záměr hotel; zdroj poznejdomy.cz"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Vladimír Griněv a Zuzana Griněvová", "from": 2006, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "pokračují v rekonstrukci"}
+ ],
+ "events": [
+  {"year": 1264, "text": "první zmínka o Ruprechtovi z Nového Liebensteina, doložen hrad"},
+  {"year": 1355, "text": "František Gosswein obnovil hrad se svolením Karla IV."},
+  {"year": 1425, "text": "po roce 1425 koupili panství Zedtwitzové"},
+  {"year": 1770, "text": "kolem roku 1770 přestavba na rokokový zámek"},
+  {"year": 1945, "text": "panství zkonfiskováno státem"},
+  {"year": 1985, "text": "požár, značné škody"},
+  {"year": 1991, "text": "zámek koupen do soukromého vlastnictví, začátek rekonstrukce"},
+  {"year": 2014, "text": "část zámku zpřístupněna veřejnosti"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Libá_(zámek)", "https://poznejdomy.cz/domy/detail/718-zamek-liba", "https://www.ancient-history-sites.com/sites/lib-chateau/"]
+}

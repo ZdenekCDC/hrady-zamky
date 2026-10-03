@@ -1,0 +1,58 @@
+{
+ "id": "Q12034565",
+ "name": "Lázeň",
+ "founded": {
+  "year": 1792,
+  "approx": false,
+  "text": "Na konci 18. století dal Jan Rudolf Černín z Chudenic vystavět lázeňský hostinec (1792-1794) u léčivého pramene na svahu vrchu Žďár; podle zameklazen.eu lázeňský dům s kapličkou již kolem roku 1728, podle webu obce první písemná zmínka o dřevěném lázeňském domě roku 1786."
+ },
+ "summary": "Malý empírový zámek Lázeň vznikl z lázeňského hostince, který na konci 18. století (1792-1794) dal postavit Jan Rudolf Černín z Chudenic u léčivého pramene nad Chudenicemi. V letech 1821-1823 jej Černínové přestavěli na letní zámeček s anglickým parkem a klasicistně jej upravovali ještě v polovině 19. století. Do roku 1945 patřil Černínům, poté sloužil jako rekreační středisko Plzeňských pivovarů a v prosinci 2009 se vrátil potomkovi původních majitelů.",
+ "owners": [
+  {
+   "owner": "cerninove-z-chudenic",
+   "owner_wiki": "Černínové z Chudenic",
+   "person": "Jan Rudolf Černín z Chudenic, Evžen Karel Černín z Chudenic",
+   "from": 1792,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "součást chudenického panství; zpočátku pronajímáno jako lázně, od počátku 19. století si hrabě vyhradil pokoje pro vlastní potřebu; letní sídlo rodu"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Plzeňské pivovary (národní podnik), později Plzeňský Prazdroj",
+   "from": 1945,
+   "to": 2009,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "rekreační a školící středisko; po válce odebráno Černínům, přesný rok převodu cs.wiki neuvádí; v majetku Plzeňského Prazdroje do prosince 2009"
+  },
+  {
+   "owner": "cerninove-z-chudenic",
+   "owner_wiki": "Černínové z Chudenic",
+   "person": "Karel Evžen Černín (Czernin)",
+   "from": 2009,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "restituce",
+   "note": "cs.wiki uvádí koupi zpět potomkem původních majitelů v prosinci 2009; zameklazen.eu (září 2009) mimosoudní vyrovnání s pivovarem o bezúplatném vrácení; hrady.cz uvádí odkoupení zpět; způsob nabytí je tedy nejistý"
+  }
+ ],
+ "events": [
+  {"year": 1794, "text": "1792-1794 přestavba na zděný lázeňský hostinec za Jana Rudolfa Černína"},
+  {"year": 1823, "text": "1821-1823 přestavba hrabětem Evženem Karlem na letní zámeček, vznik anglického parku"},
+  {"year": 1830, "text": "ve 20. a na počátku 30. let 19. století rozšíření o podkroví a domácí kapli; stavební úpravy do počátku 30. let"},
+  {"year": 1859, "text": "klasicistní přestavba do dnešní podoby (zameklazen.eu a památkový katalog 1849-1859, cs.wiki uvádí úpravy 1858-1861)"},
+  {"year": 1945, "text": "po válce odebrán Černínům, rekreační středisko Plzeňských pivovarů"},
+  {"year": 2009, "text": "zámek vrácen potomku původních majitelů, Karlu Evženu Czerninovi"}
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Lážeň_(zámek)",
+  "https://www.zameklazen.eu/cs/historie",
+  "https://chudenice.cz/zamek-lazen"
+ ]
+}

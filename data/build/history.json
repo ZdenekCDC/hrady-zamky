@@ -6535,6 +6535,200 @@
    "https://www.loket.cz/historie/ms-4485"
   ]
  },
+ "Q1013071": {
+  "id": "Q1013071",
+  "name": "Malenovice",
+  "founded": {
+   "year": 1356,
+   "approx": false,
+   "text": "Hrad založil ve 2. polovině 14. století (cs.wiki uvádí 1356) moravský markrabě Jan Jindřich; podle muzea vznikl nejspíše po roce 1360 a nahradil starší tvrz neznámého umístění."
+  },
+  "summary": "Gotický hrad v Malenovicích u Zlína založil v druhé polovině 14. století moravský markrabě Jan Jindřich. Po markraběcí éře se majitelé rychle střídali (Šonvaldové, Lichtenburkové), od konce 15. století jej drželi Tetourové z Tetova, kteří jej renesančně přestavěli, poté Bítovští, od roku 1692 Lichtenštejn-Kastelkornové (barokní úpravy), Salm-Neuburkové a od roku 1804 do roku 1945 Šternberkové. Po konfiskaci slouží od roku 1953 muzeu a je od roku 1957 přístupný.",
+  "owners": [
+   {
+    "owner": "lucemburkove",
+    "owner_wiki": "Lucemburkové",
+    "person": "markrabě Jan Jindřich (1356-1375), markrabě Jošt (1375-1406)",
+    "from": 1356,
+    "to": 1406,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "původně královský hrad moravských markrabat; Jan Jindřich byl bratr Karla IV.; od roku 1406 byl hrad zastavován"
+   },
+   {
+    "owner": "z-kunstatu",
+    "owner_wiki": null,
+    "person": "Heralt z Kunštátu",
+    "from": 1406,
+    "to": 1408,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "lenni",
+    "note": "zastavení; zemřel 1408, dědici synové Heralt a Jiří (kultura.cz)"
+   },
+   {
+    "owner": "z-sonvaldu",
+    "owner_wiki": null,
+    "person": "Bohuš ze Šonvaldu, poté Hynek a Bohuš, Anna",
+    "from": 1408,
+    "to": 1437,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "muzeum píše o Hynkovi ze Šumvaldu, padl 1420 u Vyšehradu; husité hrad dobyli (Sirotci, Smil z Moravan); dědička Anna se provdala za Jana z Lichtenburka"
+   },
+   {
+    "owner": "lichtenburkove",
+    "owner_wiki": "Lichtenburkové",
+    "person": "Jan Bítovský z Lichtenburka a Cornštejna, jeho synové Hynek a Štěpán, poté Jan a Půta z Lichtenburka",
+    "from": 1437,
+    "to": 1504,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "snatek",
+    "note": "držení do doby před rokem 1484 (muzeum: od počátku 20. let 15. století do konce 70. let, s přestávkou za husitských bouří); vystavěli věž a rozšířili obytné budovy"
+   },
+   {
+    "owner": "tetourove-z-tetova",
+    "owner_wiki": "Tetourové z Tetova",
+    "person": "Vilém Tetour z Tetova, od 1521 Václav Tetour z Tetova, poté Burjan Tetour",
+    "from": 1504,
+    "to": 1570,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "Vilém získal před rokem 1484 (kultura.cz) / na počátku 80. let 15. století (muzeum), spolu se zlínským panstvím; renesanční přestavba za Václava; 1570 prodal Burjan Tetour"
+   },
+   {
+    "owner": "neznamo",
+    "owner_wiki": null,
+    "person": null,
+    "from": 1570,
+    "to": 1573,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "několik krátkodobých majitelů (muzeum)"
+   },
+   {
+    "owner": "z-slavikovic",
+    "owner_wiki": null,
+    "person": "Bítovští ze Slavíkovic (Vilém, Jáchym, Zikmund; od 1629 Anna Veronika Bítovská)",
+    "from": 1573,
+    "to": 1663,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "kultura.cz uvádí začátek 1575; Anna Veronika (zemřela 1663) byla provdána 1. Prakšický ze Zástřizl, 2. (1629) Kryštof Karel ze Švábenic"
+   },
+   {
+    "owner": "pani-ze-zastrizl",
+    "owner_wiki": "Páni ze Zástřizl",
+    "person": "Zuzana Prakšická ze Zástřizl (provd. Ditrichštejnová)",
+    "from": 1663,
+    "to": 1692,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "dcera Anny Veroniky; po její smrti 1691 panství prodali spoludědicové za 80 000 zlatých 1692; přiřazení k rodu Páni ze Zástřizl je odvozené z příjmení"
+   },
+   {
+    "owner": "lichtenstein-castelcornove",
+    "owner_wiki": "Lichtenstein-Castelcornové",
+    "person": "František Karel z Lichtenštejn-Kastelkornu, poté synové (Maxmilián Rudolf, Jakub Arnošt)",
+    "from": 1692,
+    "to": 1747,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "cs.wiki uvádí koupi 1693; barokní úpravy, trvalé sídlo; Jakub Arnošt byl olomoucký biskup a salcburský arcibiskup, zemřel 1747"
+   },
+   {
+    "owner": "z-salm-neuburku",
+    "owner_wiki": null,
+    "person": "Karel Ota Salm-Neuburk, Karel Vincenc Salm-Neuburk, jeho dcera Antonie provd. Černínová",
+    "from": 1747,
+    "to": 1804,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "od 1797 Antonie provdaná za Volfganga Černína; 1804 prodala Leopoldu Šternberkovi za 660 000 zlatých"
+   },
+   {
+    "owner": "sternberkove",
+    "owner_wiki": "Šternberkové",
+    "person": "Leopold Šternberk a jeho potomci (naposled Jaroslav Šternberk)",
+    "from": 1804,
+    "to": 1945,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "hrad sloužil jako správa panství; 1942 zabráno Němci a dáno do nucené správy; zestátnění šetřeno 1946 (kultura.cz); Jaroslav zemřel 1943"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": null,
+    "from": 1945,
+    "to": 1953,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "muzeum uvádí konfiskaci 1946; od 1951 po požáru rekonstrukce a muzejní využití"
+   },
+   {
+    "owner": "mesto",
+    "owner_wiki": null,
+    "person": "krajské muzeum, dnes Muzeum jihovýchodní Moravy ve Zlíně (zřizovatel Zlínský kraj)",
+    "from": 1953,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "jine",
+    "note": "cs.wiki: majetek krajského muzea od 1953; vlastník vedený jako kraj podle muzea-zlin.cz (investorem oprav je Zlínský kraj), formální vlastník nepotvrzen"
+   }
+  ],
+  "events": [
+   {
+    "year": 1356,
+    "text": "založení hradu markrabětem Janem Jindřichem (podle muzea nejspíše po roce 1360)"
+   },
+   {
+    "year": 1420,
+    "text": "po pádu Hynka ze Šumvaldu hrad dobyli husitští Sirotci a použil jej Smil z Moravan"
+   },
+   {
+    "year": 1521,
+    "text": "Václav Tetour z Tetova zdědil panství a zahájil renesanční přestavbu"
+   },
+   {
+    "year": 1692,
+    "text": "hrad koupil František Karel z Lichtenštejn-Kastelkornu, barokní přestavba na sídlo (cs.wiki 1693)"
+   },
+   {
+    "year": 1804,
+    "text": "panství koupil Leopold Šternberk za 660 000 zlatých"
+   },
+   {
+    "year": 1951,
+    "text": "rekonstrukce po požáru, hrad slouží muzejním účelům"
+   },
+   {
+    "year": 1953,
+    "text": "hrad získalo krajské muzeum, veřejnosti přístupný od 1957"
+   },
+   {
+    "year": 2018,
+    "text": "statické zajištění a oprava fasády, 2019 oprava střechy předhradí, 2024-2025 rekonstrukce interiérů a nové expozice"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Malenovice_(hrad)",
+   "https://www.muzeum-zlin.cz/historie-hradu",
+   "http://www.kultura.cz/profile/5067-hrad-malenovice"
+  ]
+ },
  "Q1013354": {
   "id": "Q1013354",
   "name": "Nové Hrady",
@@ -20681,6 +20875,157 @@
    "https://www.regionem.cz/clanek/krinecky-zamek-se-vraci-k-zivotu-nabizi-barokni-sal-rokokove-salonky-i-park/"
   ]
  },
+ "Q12032970": {
+  "id": "Q12032970",
+  "name": "Leontýnský zámek",
+  "founded": {
+   "year": 1820,
+   "approx": false,
+   "text": "1820 nechal Karel Egon z Fürstenbergu na místě hospodářského dvora Obora postavit klasicistní lovecký zámeček."
+  },
+  "summary": "Lovecký zámeček u Křivoklátu postavil roku 1820 Karel Egon z Fürstenbergu na místě dvora Obora. V letech 1865-1866 jej Max Egon Fürstenberg přestavěl pro manželku Leontýnu z Khevenhülleru a podle ní dostal jméno Leontýn; roku 1893/1894 byl novogoticky přestavěn a zvýšen o patro. Roku 1929 jej získal stát (správa státních lesů), po roce 1950 sloužil škole a vojenskému praporu a od roku 1964 patří hlavnímu městu Praze, které v něm provozuje sociální zařízení (dnes Domov pro osoby se zdravotním postižením Leontýn).",
+  "owners": [
+   {
+    "owner": "furstenbergove",
+    "owner_wiki": "Fürstenbergové",
+    "person": "Karel Egon z Fürstenbergu; Max Egon Fürstenberg",
+    "from": 1820,
+    "to": 1929,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "majitelé křivoklátského panství; od roku 1723 Fürstenberkové (podle webu domova)"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": null,
+    "from": 1929,
+    "to": 1964,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "ředitelství správy státních lesů Obora; od 1950 škola pro vady řeči a pomocný technický prapor; cs.wiki zmiňuje časté střídání majitelů"
+   },
+   {
+    "owner": "mesto",
+    "owner_wiki": null,
+    "person": "Národní výbor hlavního města Prahy (dnes hl. m. Praha)",
+    "from": 1964,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "jine",
+    "note": "generální oprava, ústav sociální péče pro mládež, dnes Domov pro osoby se zdravotním postižením Leontýn; současné vlastnictví hl. m. Prahy je odvozeno z cs.wiki a provozovatele domova"
+   }
+  ],
+  "events": [
+   {
+    "year": 1820,
+    "text": "výstavba klasicistního loveckého zámečku Obora"
+   },
+   {
+    "year": 1866,
+    "text": "1865-1866 přestavba pro Leontýnu z Khevenhülleru, přejmenování na Leontýn, vznik kaple sv. Václava"
+   },
+   {
+    "year": 1894,
+    "text": "1893/1894 přistavěno patro, novogotická přestavba"
+   },
+   {
+    "year": 1929,
+    "text": "zámek získal stát, sídlo ředitelství státních lesů Obora"
+   },
+   {
+    "year": 1964,
+    "text": "převod pod národní výbor hl. m. Prahy, generální oprava a ústav sociální péče"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Leontýnský_zámek",
+   "https://www.leontyn.cz/home"
+  ]
+ },
+ "Q12033142": {
+  "id": "Q12033142",
+  "name": "Letohrádek Mitrovských",
+  "founded": {
+   "year": 1779,
+   "approx": false,
+   "text": "1779-1794 stavba letního sídla (zahradního kasina) pro Antonína Arnošta Mitrovského"
+  },
+  "summary": "Letohrádek ve Starém Brně nechal v letech 1779-1794 postavit generálmajor hrabě Antonín Arnošt Mitrovský na zahradě koupené od moravských stavů. Mitrovští jej roku 1814 prodali a po několika dalších majitelích (mimo jiné Smetana, 1858-1859 letní divadlo Aréna) jej roku 1889 koupila obec starobrněnská, později město Brno. Po rekonstrukci 1978-1987 sloužil Muzeu města Brna a dnes je pronajat soukromníkovi pro kulturní a společenské akce.",
+  "owners": [
+   {
+    "owner": "mitrovsti-z-mitrovic-a-nemysle",
+    "owner_wiki": "Mitrovští z Mitrovic a Nemyšle",
+    "person": "Antonín Arnošt Mitrovský",
+    "from": 1779,
+    "to": 1814,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "zahradu koupil od moravských stavů (původně zahrada císařského soudce Jana Martina Cippse); rok 1814 prodeje podle encyklopedie.brna.cz, Antonín Arnošt zemřel 1813 bez potomků"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "několik soukromých majitelů (mj. Smetana)",
+    "from": 1814,
+    "to": 1889,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "jména většiny majitelů zdroj neuvádí; 1858-1859 zahrada Smetanova s letním divadlem Aréna, poté hostinec"
+   },
+   {
+    "owner": "mesto",
+    "owner_wiki": null,
+    "person": null,
+    "from": 1889,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "koupila obec starobrněnská (od 1919 součást Brna), zřízena mateřská škola; cs.wiki uvádí vlastnictví města Brno od 19. stol.; 1988 převzalo Muzeum města Brna, dnes pronajato soukromníkovi"
+   }
+  ],
+  "events": [
+   {
+    "year": 1779,
+    "text": "zahájena stavba letohrádku pro Antonína Arnošta Mitrovského"
+   },
+   {
+    "year": 1794,
+    "text": "dokončení stavby"
+   },
+   {
+    "year": 1814,
+    "text": "Mitrovští letohrádek prodali"
+   },
+   {
+    "year": 1858,
+    "text": "1858-1859 v zahradě letní divadlo Aréna (kapacita až 1600 diváků)"
+   },
+   {
+    "year": 1889,
+    "text": "koupila obec starobrněnská, zřízena mateřská škola"
+   },
+   {
+    "year": 1978,
+    "text": "1978-1987 generální rekonstrukce"
+   },
+   {
+    "year": 1988,
+    "text": "letohrádek převzalo Muzeum města Brna; od konce 2007 kulturní využití a svatby"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Letohrádek_Mitrovských",
+   "https://encyklopedie.brna.cz/home-mmb/?acc=profil-domu&load=1004",
+   "https://www.letohradekbrno.cz/historie/"
+  ]
+ },
  "Q12033148": {
   "id": "Q12033148",
   "name": "Letovice",
@@ -20959,6 +21304,108 @@
    "http://www.zamekletovice.cz/historie-zamku",
    "http://www.kultura.cz/profile/864-zamek-letovice",
    "https://www.blesk.cz/clanek/regiony-brno-brno-zpravy/701184/koupil-ruinu-udelal-z-ni-prepychove-sidlo-nyni-je-zamek-letovice-na-prodej.html (bulvární zdroj, jen rok restituce)"
+  ]
+ },
+ "Q12033349": {
+  "id": "Q12033349",
+  "name": "Liblice",
+  "founded": {
+   "year": 1699,
+   "approx": false,
+   "text": "1699-1706 vystavěl barokní zámek Arnošt Josef Pachta z Rájova podle projektu G. B. Alliprandiho (koncept J. B. Fischera z Erlachu)."
+  },
+  "summary": "Barokní zámek Liblice, nazývaný perla českého vrcholného baroka, nechal v letech 1699-1706 postavit Arnošt Josef Pachta z Rájova podle Alliprandiho. V první polovině 19. století panství koupili Deymové ze Stříteže, roku 1863 zámek získala Antonie z Valdštejna, která jej částečně novorenesančně přestavěla, a po ní jej zdědili Thun-Hohensteinové. Roku 1945 byl zkonfiskován, od roku 1952 jej spravuje Akademie věd (dnes konferenční centrum a hotel, po rekonstrukci 2001-2007).",
+  "owners": [
+   {
+    "owner": "pachtove-z-rajova",
+    "owner_wiki": "Pachtové z Rájova",
+    "person": "Arnošt Josef Pachta z Rájova",
+    "from": 1699,
+    "to": 1781,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "zalozeni",
+    "note": "stavebník zámku; liblické panství mu podle webu obce odkázala manželka Jana Albrechta Pfefferkorna z Ottopachu (bez roku); Pachtové drželi panství do 1. poloviny 19. století, přesný rok neuveden"
+   },
+   {
+    "owner": "deymove-ze-striteze",
+    "owner_wiki": "Deymové ze Stříteže",
+    "person": "Bedřich Deym, poté Vojtěch Deym ze Stříteže",
+    "from": 1781,
+    "to": 1863,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "koupě v 1. polovině 19. století, přesný rok neuveden; web obce uvádí koupi hraběte Bedřicha Deyma, cs.wiki Vojtěcha Deyma"
+   },
+   {
+    "owner": "valdstejnove",
+    "owner_wiki": "Valdštejnové",
+    "person": "Antonie z Valdštejna",
+    "from": 1863,
+    "to": 1904,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "částečná přestavba v eklektickém stylu s novorenesančními detaily; rok úmrtí neuveden"
+   },
+   {
+    "owner": "thun-hohensteinove",
+    "owner_wiki": "Thun-Hohensteinové",
+    "person": "Christiana Thun-Hohensteinová",
+    "from": 1904,
+    "to": 1945,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "dcera Antonie z Valdštejna; do deportace 1942 byl pachtýřem zámku H. Klinger"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "Československá akademie věd, dnes Akademie věd ČR",
+    "from": 1945,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "v roce 1952 stát zámek propůjčil ČSAV; cs.wiki uvádí současným majitelem Akademii věd ČR (veřejná výzkumná instituce, zde vedeno jako stát)"
+   }
+  ],
+  "events": [
+   {
+    "year": 1706,
+    "text": "1699-1706 výstavba barokního zámku Arnoštem Josefem Pachtou z Rájova"
+   },
+   {
+    "year": 1770,
+    "text": "po roce 1770 Ignác František Platzer doplnil plastickou výzdobu balkónu a freskovou výzdobu saly terreny"
+   },
+   {
+    "year": 1863,
+    "text": "zámek koupila Antonie z Valdštejna, přestavba v novorenesančním duchu"
+   },
+   {
+    "year": 1945,
+    "text": "konfiskace zámku Thun-Hohensteinům"
+   },
+   {
+    "year": 1952,
+    "text": "zámek propůjčen Československé akademii věd"
+   },
+   {
+    "year": 1963,
+    "text": "Liblická konference o Franzi Kafkovi"
+   },
+   {
+    "year": 2007,
+    "text": "2001-2007 nejrozsáhlejší oprava, slavnostní otevření 6. 9. 2007, hotel a konferenční centrum AV ČR"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Liblice_(zámek)",
+   "https://liblice.cz/historie-obce/ds-1071",
+   "https://www.zamek-liblice.cz/cs/"
   ]
  },
  "Q12033634": {
@@ -21304,6 +21751,82 @@
    "https://cs.wikipedia.org/wiki/Loučeň_(zámek)",
    "https://www.zamekloucen.cz/historie-zamku-loucen",
    "https://www.hrady.cz/zamek-loucen-nymburk/"
+  ]
+ },
+ "Q12034565": {
+  "id": "Q12034565",
+  "name": "Lázeň",
+  "founded": {
+   "year": 1792,
+   "approx": false,
+   "text": "Na konci 18. století dal Jan Rudolf Černín z Chudenic vystavět lázeňský hostinec (1792-1794) u léčivého pramene na svahu vrchu Žďár; podle zameklazen.eu lázeňský dům s kapličkou již kolem roku 1728, podle webu obce první písemná zmínka o dřevěném lázeňském domě roku 1786."
+  },
+  "summary": "Malý empírový zámek Lázeň vznikl z lázeňského hostince, který na konci 18. století (1792-1794) dal postavit Jan Rudolf Černín z Chudenic u léčivého pramene nad Chudenicemi. V letech 1821-1823 jej Černínové přestavěli na letní zámeček s anglickým parkem a klasicistně jej upravovali ještě v polovině 19. století. Do roku 1945 patřil Černínům, poté sloužil jako rekreační středisko Plzeňských pivovarů a v prosinci 2009 se vrátil potomkovi původních majitelů.",
+  "owners": [
+   {
+    "owner": "cerninove-z-chudenic",
+    "owner_wiki": "Černínové z Chudenic",
+    "person": "Jan Rudolf Černín z Chudenic, Evžen Karel Černín z Chudenic",
+    "from": 1792,
+    "to": 1945,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "součást chudenického panství; zpočátku pronajímáno jako lázně, od počátku 19. století si hrabě vyhradil pokoje pro vlastní potřebu; letní sídlo rodu"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Plzeňské pivovary (národní podnik), později Plzeňský Prazdroj",
+    "from": 1945,
+    "to": 2009,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "rekreační a školící středisko; po válce odebráno Černínům, přesný rok převodu cs.wiki neuvádí; v majetku Plzeňského Prazdroje do prosince 2009"
+   },
+   {
+    "owner": "cerninove-z-chudenic",
+    "owner_wiki": "Černínové z Chudenic",
+    "person": "Karel Evžen Černín (Czernin)",
+    "from": 2009,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "restituce",
+    "note": "cs.wiki uvádí koupi zpět potomkem původních majitelů v prosinci 2009; zameklazen.eu (září 2009) mimosoudní vyrovnání s pivovarem o bezúplatném vrácení; hrady.cz uvádí odkoupení zpět; způsob nabytí je tedy nejistý"
+   }
+  ],
+  "events": [
+   {
+    "year": 1794,
+    "text": "1792-1794 přestavba na zděný lázeňský hostinec za Jana Rudolfa Černína"
+   },
+   {
+    "year": 1823,
+    "text": "1821-1823 přestavba hrabětem Evženem Karlem na letní zámeček, vznik anglického parku"
+   },
+   {
+    "year": 1830,
+    "text": "ve 20. a na počátku 30. let 19. století rozšíření o podkroví a domácí kapli; stavební úpravy do počátku 30. let"
+   },
+   {
+    "year": 1859,
+    "text": "klasicistní přestavba do dnešní podoby (zameklazen.eu a památkový katalog 1849-1859, cs.wiki uvádí úpravy 1858-1861)"
+   },
+   {
+    "year": 1945,
+    "text": "po válce odebrán Černínům, rekreační středisko Plzeňských pivovarů"
+   },
+   {
+    "year": 2009,
+    "text": "zámek vrácen potomku původních majitelů, Karlu Evženu Czerninovi"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Lážeň_(zámek)",
+   "https://www.zameklazen.eu/cs/historie",
+   "https://chudenice.cz/zamek-lazen"
   ]
  },
  "Q12038651": {
@@ -31580,6 +32103,210 @@
    "https://cs.wikipedia.org/wiki/Nelahozeves_(zámek)",
    "https://en.wikipedia.org/wiki/Nelahozeves",
    "https://de.wikipedia.org/wiki/Schloss_Nelahozeves"
+  ]
+ },
+ "Q1664401": {
+  "id": "Q1664401",
+  "name": "Líšno",
+  "founded": {
+   "year": 1367,
+   "approx": true,
+   "text": "hrad Leštno založil asi roku 1367 Beneš z Dubé; roku 1536 přestavěn na renesanční zámek, dnešní novogotická podoba z let 1873-1884"
+  },
+  "summary": "Gotický hrad Líšno založil asi roku 1367 Beneš z Dubé; později patřil Šternberkům, krátce Hynkovi z Minsterberka, od 1667 pánům z Říčan a dalším šlechtickým majitelům. Roku 1781 jej získali servité, po zrušení kláštera 1785 náboženský fond. V roce 1872 jej koupil průmyslník Čeněk Daněk a v letech 1873-1884 jej přestavěl na novogotický zámek. Po roce 1945 patřil státu (Červený kříž), od roku 2015 je v soukromém vlastnictví.",
+  "owners": [
+   {
+    "owner": "pani-z-dube-benesovici",
+    "owner_wiki": "Páni z Dubé (Benešovici)",
+    "person": "Beneš z Dubé, poté Václav z Dubé",
+    "from": 1367,
+    "to": 1424,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "hrad 1420 obléhán husity; cs.wiki: Václav držel hrad do 1424; zameklisno.cz uvádí držbu rodu z Dubé až do 1443"
+   },
+   {
+    "owner": "sadlo-ze-smilkova",
+    "owner_wiki": null,
+    "person": "Jan Sádlo ze Smilkova",
+    "from": 1424,
+    "to": 1443,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "sídlil zde; zdroje se liší (zameklisno.cz: rod z Dubé do 1443, poté Jan Sádlo mladší)"
+   },
+   {
+    "owner": "sternberkove",
+    "owner_wiki": "Šternberkové",
+    "person": "Zdeněk Konopišťský ze Šternberka",
+    "from": 1443,
+    "to": 1467,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "získal hrad v polovině 15. stol. (zemřel 1476); 1467 dobyt královským vojskem pro zradu Jiřího z Poděbrad"
+   },
+   {
+    "owner": "minsterberkove",
+    "owner_wiki": "Minsterberkové",
+    "person": "Hynek z Minsterberka",
+    "from": 1467,
+    "to": 1478,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "lenni",
+    "note": "syn Jiřího z Poděbrad; hrad se stal nakrátko královským majetkem"
+   },
+   {
+    "owner": "sternberkove",
+    "owner_wiki": "Šternberkové",
+    "person": "Petr II. Holický ze Šternberka, poté syn Jan, Otakar a Dorota",
+    "from": 1478,
+    "to": 1633,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "lenni",
+    "note": "předal Vladislav Jagellonský; Petr zemřel 1514, opravy dokončil syn Jan, po 1589 panství převzala Dorota, dcera Otakara; Dorota zemřela 1633 a majetek zdědily její děti"
+   },
+   {
+    "owner": "pani-z-rican",
+    "owner_wiki": "Páni z Říčan",
+    "person": "Anna Albertina (soudní spor), dcera Dorota z Illova; od 1667 Petr Vilém z Říčan, poté Karel Šebestián",
+    "from": 1633,
+    "to": 1712,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "po soudním sporu dědiců získala Líšno Anna Albertina a její dcera Dorota z Illova; při dělení panství 1667 Petr Vilém z Říčan; za třicetileté války hrad zpustl; rok začátku odvozen z úmrtí Doroty"
+   },
+   {
+    "owner": "z-satzenhofenu",
+    "owner_wiki": null,
+    "person": "Marie Renata ze Satzenhofenu",
+    "from": 1712,
+    "to": 1744,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "zameklisno.cz: koupila od švagra Karla Šebestiána"
+   },
+   {
+    "owner": "kokorovcove-z-kokorova",
+    "owner_wiki": "Kokořovcové z Kokořova",
+    "person": "Lucie z Kokořova",
+    "from": 1744,
+    "to": 1781,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe"
+   },
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "klášter servitů u sv. Michala v Praze",
+    "from": 1781,
+    "to": 1785,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "neudržovaný hrad s panstvím; klášter zrušen 1785"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "náboženský fond",
+    "from": 1785,
+    "to": 1803,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "jine",
+    "note": "po zrušení kláštera servitů; poté se vystřídali dva majitelé, jména zdroje neuvádějí"
+   },
+   {
+    "owner": "pourtalesove",
+    "owner_wiki": null,
+    "person": "Pourtalesové",
+    "from": 1803,
+    "to": 1872,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "uvádí jen zameklisno.cz (rod Pourtales koupil 1803); cs.wiki jej neuvádí; hrad chátral; konec držby odvozen z koupě 1872"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Vincenc (Čeněk) Daněk Edler von Esse, poté rodina (vnuk Oskar Daněk)",
+    "from": 1872,
+    "to": 1945,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "1873-1884 přestavba na zámek; Oskar Daněk přijal za války německé občanství a po válce přišel o majetek"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "Československý (později Český) červený kříž",
+    "from": 1945,
+    "to": 2015,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "konfiskace",
+    "note": "ústřední škola ČSČK; provoz asi do 2000, poté uzavřen, od 2011 nabízen k prodeji; prazdnedomy.cz uvádí, že zámek byl ještě 2011 v majetku Českého červeného kříže"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "TTP invest, a.s.",
+    "from": 2015,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "současný majitel podle infoboxu cs.wiki; nový majitel od března 2015 (prazdnedomy.cz)"
+   }
+  ],
+  "events": [
+   {
+    "year": 1367,
+    "text": "asi tehdy založil hrad Leštno Beneš z Dubé"
+   },
+   {
+    "year": 1420,
+    "text": "hrad neúspěšně obléhán husity"
+   },
+   {
+    "year": 1467,
+    "text": "dobyt královským vojskem, pánem ustanoven Hynek z Minsterberka"
+   },
+   {
+    "year": 1536,
+    "text": "přestavba hradu na renesanční zámek"
+   },
+   {
+    "year": 1785,
+    "text": "po zrušení kláštera servitů hrad připadl náboženskému fondu"
+   },
+   {
+    "year": 1872,
+    "text": "koupil Čeněk Daněk; 1873-1884 novogotická přestavba podle něj"
+   },
+   {
+    "year": 1945,
+    "text": "zřízena ústřední škola Československého červeného kříže"
+   },
+   {
+    "year": 2015,
+    "text": "přechod do soukromého vlastnictví a zahájení rekonstrukce"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Líšno_(zámek)",
+   "https://www.zameklisno.cz/historie",
+   "https://prazdnedomy.cz/domy/objekty/detail/601-zamek-lisno"
   ]
  },
  "Q168391": {
@@ -41913,6 +42640,189 @@
    "https://de.wikipedia.org/wiki/Schloss_Leitersdorf"
   ]
  },
+ "Q2242167": {
+  "id": "Q2242167",
+  "name": "Libá",
+  "founded": {
+   "year": null,
+   "approx": false,
+   "text": "hrad a obec vznikly okolo poloviny 13. století; existence hradu doložena roku 1264 (Ruprecht z Nového Liebensteina)"
+  },
+  "summary": "Hrad Libá (Liebenstein) vznikl okolo poloviny 13. století a po vymření Liebensteinů byl pobořen. Roku 1346 jej získal chebský měšťan František Gosswein, později jej držel Leuchtenberk, Sparnakové a od 15. století Zedtwitzové, kteří hrad přestavěli na zámek (kolem 1770 rokokově). Po prodeji v 1. čtvrtině 20. století ho vlastnil Kaessmann, roku 1945 byl zkonfiskován státem, v roce 1985 vyhořel a od roku 1991 je soukromý a postupně rekonstruován; část je od roku 2014 přístupná.",
+  "owners": [
+   {
+    "owner": "z-liebensteinu",
+    "owner_wiki": null,
+    "person": "Ruprecht z Nového Liebensteina",
+    "from": null,
+    "to": 1298,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "zalozeni",
+    "note": "doložen 1264; rod vymřel na sklonku 13. století a hrad byl pobořen"
+   },
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "klášter Waldsassen",
+    "from": 1298,
+    "to": 1346,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "pouze podle poznejdomy.cz (1298 hrad získal waldsassenský klášter); cs.wiki neuvádí; konec držby neznámý"
+   },
+   {
+    "owner": "z-gossweinu",
+    "owner_wiki": null,
+    "person": "František Gosswein, chebský měšťan",
+    "from": 1346,
+    "to": 1381,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "lenni",
+    "note": "korunní léno, 1355 hrad obnovil se svolením Karla IV.; Václav IV. jim hrad pro loupeže odňal"
+   },
+   {
+    "owner": "leuchtenberkove",
+    "owner_wiki": "Leuchtenberkové",
+    "person": "Johann I. z Leuchtenberka",
+    "from": 1381,
+    "to": 1400,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "lenni",
+    "note": "propůjčeno Václavem IV."
+   },
+   {
+    "owner": "z-rudischu",
+    "owner_wiki": null,
+    "person": "Erhard Rudisch, chebský měšťan",
+    "from": 1400,
+    "to": 1406,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "zemřel 1406"
+   },
+   {
+    "owner": "z-sparnaku",
+    "owner_wiki": null,
+    "person": "rytíři ze Sparnaku",
+    "from": 1406,
+    "to": 1425,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "dedictvi",
+    "note": "konec držby cs.wiki uvádí jen jako 'po roce 1425' (koupě Zedtwitzů)"
+   },
+   {
+    "owner": "zedtwitzove",
+    "owner_wiki": "Zedtwitzové",
+    "person": "Zedtwitzové (od 1879 Zedtwitz-Liebenstein)",
+    "from": 1425,
+    "to": 1912,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "cs.wiki: koupili 'po roce 1425', vlastnili do začátku 20. stol.; poznejdomy.cz uvádí 1424 a konec 1912, anglický zdroj ancient-history-sites uvádí prodej v listopadu 1915 a nabytí 1426"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Leopold Hauser (konsorcium)",
+    "from": 1912,
+    "to": 1927,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "podle ancient-history-sites; po 1912 zámek několikrát změnil majitele (poznejdomy.cz); cs.wiki neuvádí"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Fritz Kaessmann (po jeho smrti 1938 rodina)",
+    "from": 1927,
+    "to": 1945,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "panství 1420 ha; rodina odsunuta 1946; poznejdomy.cz: zámek udržovaný a obydlený do 1947"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": null,
+    "from": 1945,
+    "to": 1991,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "po válce odsunové středisko, lesní správa, poté pustnutí; 1985 požár"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Intertour s.r.o. (Eva Matějková)",
+    "from": 1991,
+    "to": 2006,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "koupeno od státu za 150 000 Kčs, záměr hotel; zdroj poznejdomy.cz"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Vladimír Griněv a Zuzana Griněvová",
+    "from": 2006,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "pokračují v rekonstrukci"
+   }
+  ],
+  "events": [
+   {
+    "year": 1264,
+    "text": "první zmínka o Ruprechtovi z Nového Liebensteina, doložen hrad"
+   },
+   {
+    "year": 1355,
+    "text": "František Gosswein obnovil hrad se svolením Karla IV."
+   },
+   {
+    "year": 1425,
+    "text": "po roce 1425 koupili panství Zedtwitzové"
+   },
+   {
+    "year": 1770,
+    "text": "kolem roku 1770 přestavba na rokokový zámek"
+   },
+   {
+    "year": 1945,
+    "text": "panství zkonfiskováno státem"
+   },
+   {
+    "year": 1985,
+    "text": "požár, značné škody"
+   },
+   {
+    "year": 1991,
+    "text": "zámek koupen do soukromého vlastnictví, začátek rekonstrukce"
+   },
+   {
+    "year": 2014,
+    "text": "část zámku zpřístupněna veřejnosti"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Libá_(zámek)",
+   "https://poznejdomy.cz/domy/detail/718-zamek-liba",
+   "https://www.ancient-history-sites.com/sites/lib-chateau/"
+  ]
+ },
  "Q2242226": {
   "id": "Q2242226",
   "name": "Lnáře",
@@ -50960,6 +51870,152 @@
    "https://www.hrady.cz/zamek-chotebor"
   ]
  },
+ "Q31731738": {
+  "id": "Q31731738",
+  "name": "Lnáře (starý zámek)",
+  "founded": {
+   "year": null,
+   "approx": false,
+   "text": "Tvrz ve Lnářích je poprvé písemně zmíněna roku 1465, ve vsi ale už ve 14. století sídlil rod vladyků ze Lnář; webu tvrze uvádí vznik před rokem 1318. Gotická tvrz byla za Volfa Novohradského z Kolovrat přestavěna na renesanční zámek dokončený nejspíše roku 1593."
+  },
+  "summary": "Starý zámek ve Lnářích je gotická tvrz přestavěná na renesanční zámek, která prošla stavebním vývojem od 14. do 17. století. Drželi ji vladykové ze Lnář, od poloviny 15. století Zmrzlíkové ze Svojšína, poté Šternberkové, Novohradští z Kolovrat, Vratislavové z Mitrovic a od roku 1675 Černínové z Chudenic, za nichž sloužila jako sídlo úředníků a pivovar vedle nového zámku. Ve 2. polovině 20. století ji využívala generální prokuratura a Úřad vlády, od roku 2002 patří obci Lnáře.",
+  "owners": [
+   {
+    "owner": "z-lnar",
+    "owner_wiki": null,
+    "person": "vladykové ze Lnář (Oldřich 1313, Habart, Konrád 1364-1404, Vilém)",
+    "from": null,
+    "to": 1450,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "zalozeni",
+    "note": "web tvrze připisuje založení před 1318 pravděpodobně říšskému rodu von Schlüsselberg; cs.wiki uvádí jen sídlo vladyků ze Lnář ve 14. století; konec držení 'okolo poloviny 15. století'"
+   },
+   {
+    "owner": "zmrzlikove-ze-svojsina",
+    "owner_wiki": "Zmrzlíkové ze Svojšína",
+    "person": "Petr, Václav, Jaroslav a poslední Václav Zmrzlík ze Svojšína",
+    "from": 1450,
+    "to": 1564,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "snatek",
+    "note": "získali díky příbuzenským svazkům (věno Anny ze Šternberka); Václav Zmrzlík prodal 25. 4. 1564"
+   },
+   {
+    "owner": "sternberkove",
+    "owner_wiki": "Šternberkové",
+    "person": "Zdeněk ze Šternberka na Blatné",
+    "from": 1564,
+    "to": 1577,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "koupeno za 20 000 kop pražských grošů; Zdeněk zemřel 1575, 1574 zastavil Lnáře Václavovi z Donína; Volfovi Novohradskému z Kolovrat panství postoupeno 1577"
+   },
+   {
+    "owner": "kolovratove",
+    "owner_wiki": "Kolovratové",
+    "person": "Volf Novohradský z Kolovrat, od 1609 Zdeněk Novohradský z Kolovrat",
+    "from": 1577,
+    "to": 1617,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "jine",
+    "note": "postoupeno za dluh 15 000 kop grošů; Volf přestavěl tvrz na renesanční zámek (dokončen nejspíše 1593); Zdeněk jej 1617 prodal"
+   },
+   {
+    "owner": "sternberkove",
+    "owner_wiki": "Šternberkové",
+    "person": "Adam ze Šternberka, poté Jaroslav Volf ze Šternberka a jeho dcera Eva Johanna",
+    "from": 1617,
+    "to": 1629,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "koupeno za 100 000 kop míšeňských grošů; Eva Johanna prodala podle Sedláčka 1629, Tříska uvádí 1659 nebo 1660 (web tvrze také 1659)"
+   },
+   {
+    "owner": "vratislavove-z-mitrovic",
+    "owner_wiki": "Vratislavové z Mitrovic",
+    "person": "Aleš Ferdinand Vratislav z Mitrovic",
+    "from": 1629,
+    "to": 1675,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "datum nabytí nejisté (1629 / 1659 / 1660); v sousedství založil nový zámek; dcery Marie Terezie a Eva Konstancie prodaly panství 21. 1. 1675"
+   },
+   {
+    "owner": "cerninove-z-chudenic",
+    "owner_wiki": "Černínové z Chudenic",
+    "person": "Humprecht Jan Černín",
+    "from": 1675,
+    "to": 1838,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "koupeno za 180 000 florénů; starý zámek poté sloužil úředníkům statku, byl v něm pivovar a ve věži vězení; pozdější držitelé lnářského panství (podle webu zámku: Künigl, Sweerts-Sporck, Thun, Linker, Lilgenau, ve 20. století Bondy, Vaníček) nejsou v cs.wiki k starému zámku uvedeni"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "generální prokuratura, poté Úřad vlády ČSR",
+    "from": 1838,
+    "to": 2002,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "cs.wiki: ve 2. polovině 20. století zámek využívala generální prokuratura; web tvrze: na počátku 80. let tvrz získal Úřad vlády ČSR, v majetku vlády do roku 2002; přesný rok převzetí nejasný"
+   },
+   {
+    "owner": "mesto",
+    "owner_wiki": null,
+    "person": "obec Lnáře",
+    "from": 2002,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "jine",
+    "note": "obec získala tvrz roku 2002, po povodni zrekonstruovala (knihovna, zdravotní středisko, informační centrum od 2006); cs.wiki uvádí jen kulturní využití, vlastníka z webu obce"
+   }
+  ],
+  "events": [
+   {
+    "year": 1313,
+    "text": "první známý příslušník rodu ze Lnář, Oldřich, připomínán v družině krále Jana"
+   },
+   {
+    "year": 1465,
+    "text": "první písemná zmínka o lnářské tvrzi (za Zmrzlíků ze Svojšína)"
+   },
+   {
+    "year": 1564,
+    "text": "Václav Zmrzlík prodal Lnáře Zdeňkovi ze Šternberka"
+   },
+   {
+    "year": 1593,
+    "text": "Volf Novohradský z Kolovrat dokončil (nejspíše) přestavbu gotické tvrze na renesanční zámek"
+   },
+   {
+    "year": 1675,
+    "text": "panství koupil Humprecht Jan Černín; starý zámek slouží úředníkům, pivovaru a vězení"
+   },
+   {
+    "year": 1985,
+    "text": "Úřad vlády ČSR zahájil rekonstrukci a zbořil pivovarské budovy (rekonstrukce tvrze od 1986, podle webu tvrze)"
+   },
+   {
+    "year": 2002,
+    "text": "tvrz získala obec Lnáře; po povodni rekonstrukce, od 2006 informační centrum"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Lnáře_(starý_zámek)",
+   "http://tvrz.lnare-obec.cz/historie%2Dtvrze/d-1008/p1=1005",
+   "http://www.lnarecastle.cz/history_cz.htm"
+  ]
+ },
  "Q31872969": {
   "id": "Q31872969",
   "name": "Borovany",
@@ -52064,6 +53120,144 @@
    "https://cs.wikipedia.org/wiki/Rudoltice_(zámek)",
    "https://cs.wikipedia.org/wiki/Rudoltice",
    "https://en.wikipedia.org/wiki/Rudoltice"
+  ]
+ },
+ "Q33322463": {
+  "id": "Q33322463",
+  "name": "Malešov",
+  "founded": {
+   "year": null,
+   "approx": false,
+   "text": "přesná doba vzniku je nejasná: nejspíše poslední třetina 17. století (Šporkové), podle Památkového katalogu 1. třetina 18. století; první zmínka 1738"
+  },
+  "summary": "Malešovský zámek je původně správní budova (kanceláře a byty úředníků) velkostatku sousedního hrádku, postavená nejspíše Šporky v poslední třetině 17. století nebo podle památkového katalogu v 1. třetině 18. století. Panství patřilo Šporkům, Osteinům, Bredům a od 1809 Dalbergům, od 1906 Salmům, v roce 1945 bylo zkonfiskováno. Ve 20. století v budově sídlila škola a od roku 2018 Muzeum Malešov.",
+  "owners": [
+   {
+    "owner": "sporkove",
+    "owner_wiki": "Šporkové",
+    "person": "Jan Špork, poté František Antonín Špork",
+    "from": 1666,
+    "to": 1699,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "podle cs.wiki jeden z nich nejspíše zámek postavil; rok 1666 a 1699 podle soupispamatek.cz (panství od Berků z Dubé, prodáno Helleweilovi)"
+   },
+   {
+    "owner": "z-helleweilu",
+    "owner_wiki": null,
+    "person": "František Antonín Helleweil (Hailleveil)",
+    "from": 1699,
+    "to": 1710,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "podle soupispamatek.cz a tvrzmalesov.cz"
+   },
+   {
+    "owner": "z-osteinu",
+    "owner_wiki": null,
+    "person": "František Karel z Osteinu, poté Jindřich Karel z Osteinu",
+    "from": 1710,
+    "to": 1725,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "podle soupispamatek.cz; Jindřich Karel držel od 1717"
+   },
+   {
+    "owner": "bredove",
+    "owner_wiki": "Bredové",
+    "person": "Karel Jáchym Breda",
+    "from": 1725,
+    "to": 1744,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "cs.wiki: zadlužené panství patřilo od 1725 Bredovi, první zmínka o zámku 1738 v odhadu panství"
+   },
+   {
+    "owner": "z-osteinu",
+    "owner_wiki": null,
+    "person": "Jindřich Karel z Osteinu, poté synové Jan Fridrich Karel Maxmilián a Filip Karel; od 1776 Jan Fridrich Karel Maxmilián",
+    "from": 1744,
+    "to": 1809,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "podle soupispamatek.cz; urbanist.eu uvádí návrat panství Osteinům 1762"
+   },
+   {
+    "owner": "z-dalbergu",
+    "owner_wiki": null,
+    "person": "Bedřich Karel z Dalbergu, od 1814 Karel Maxmilián Dalberg-Ostein, od 1862 Fridrich Dalberg-Ostein",
+    "from": 1809,
+    "to": 1906,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "1824-1827 empírová úprava fasád Karlem Maxmiliánem; zámek sloužil jako správa velkostatku; konec 1906 podle soupispamatek.cz"
+   },
+   {
+    "owner": "salmove-pustinna-a-porynska-hrabata",
+    "owner_wiki": "Salmové (Pustinná a porýnská hrabata)",
+    "person": "Marie Anna Salm-Salm",
+    "from": 1906,
+    "to": 1945,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "cs.wiki: v roce 1945 zkonfiskován Marii Salmové; přiřazení k linii Salm-Salm odvozeno z jiných záznamů"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "okresní národní výbor Kutná Hora",
+    "from": 1945,
+    "to": 1986,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "konfiskace",
+    "note": "škola; budovu spravoval ONV Kutná Hora; urbanist.eu: statek po 1947 připadl obci; rok předání nejasný"
+   },
+   {
+    "owner": "mesto",
+    "owner_wiki": null,
+    "person": "městys Malešov",
+    "from": 1986,
+    "to": null,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "odvozeno: městys Malešov vystupuje jako zadavatel oprav 'zámku Malešov č.p. 1' (vhodne-uverejneni.cz); cs.wiki vlastníka neuvádí; od 2018 Muzeum Malešov"
+   }
+  ],
+  "events": [
+   {
+    "year": 1738,
+    "text": "první písemná zmínka o zámku v odhadu zadluženého panství"
+   },
+   {
+    "year": 1824,
+    "text": "1824-1827 úprava fasád v empíru za Karla Maxmiliána Dahlberga-Ostein"
+   },
+   {
+    "year": 1945,
+    "text": "zkonfiskován Marii Salmové, poté škola"
+   },
+   {
+    "year": 2017,
+    "text": "část hospodářských budov využívá Přátelský pivovar Malešov"
+   },
+   {
+    "year": 2018,
+    "text": "v zámku otevřeno Muzeum Malešov"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Malešov_(zámek)",
+   "https://www.soupispamatek.cz/arl-kcz/cs/detail-kcz_un_auth-0000922-Tvrz-Malesov/",
+   "http://www.urbanist.eu/Malesov.pdf"
   ]
  },
  "Q33323103": {
@@ -58608,6 +59802,152 @@
    "https://cs.wikipedia.org/wiki/Pöttingové_z_Persingu",
    "https://cs.wikipedia.org/wiki/František_Eusebius_z_Pöttingu",
    "https://www.cokolivokoli.cz/86528-zamek-rumburk/"
+  ]
+ },
+ "Q37806788": {
+  "id": "Q37806788",
+  "name": "Luhov",
+  "founded": {
+   "year": 1780,
+   "approx": true,
+   "text": "první zmínka o tvrzi 1367; nový barokní zámek v sousedství zaniklé tvrze nechala po roce 1780 postavit Marie Anna Steinbachová"
+  },
+  "summary": "Luhovskou tvrz (zmíněnu 1367) držel převážně chotěšovský klášter, od roku 1576 Oldřich z Říčan a od 1676 Steinbachové z Kranichsteinu. Marie Anna Steinbachová, provdaná Dohalská, nechala po roce 1780 vystavět barokní zámek. V 19. století patřil Perglárům z Perglasu a od 1872 Jakschům z Wartenhorstu, po roce 1945 byl zkonfiskován a užíván státním statkem a rekreačním střediskem. Od roku 1996 jej vlastní rodina Němcových, která jej opravila a v roce 2006 zpřístupnila.",
+  "owners": [
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "chotěšovský klášter (premonstrátky)",
+    "from": null,
+    "to": 1576,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "část vsi; zbytek drobná šlechta; před 1420 zástava Protivovi z Netunic, 1431-1482 bratři z Úlic (Jan starší a mladší, pak Lvík a Markvart), 1496 probošt vyplatil zástavu; od 1546 zástava městu Stříbro; zdroj zamekluhov.cz: dvorec 1175 daroval kníže Soběslav plaskému klášteru, ten jej vyměnil s Chotěšovem"
+   },
+   {
+    "owner": "pani-z-rican",
+    "owner_wiki": "Páni z Říčan",
+    "person": "Oldřich z Říčan a na Pňovanech",
+    "from": 1576,
+    "to": 1638,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "Luhov patřil k Pňovanům; cs.wiki zmiňuje i Annu Alžbětu Příchovskou z Janovic (rok 1526, chronologie nejasná); zamekluhov.cz uvádí nákup 1476/1576 (rozpor v letopočtu)"
+   },
+   {
+    "owner": "z-cenkova",
+    "owner_wiki": null,
+    "person": "Bartoloměj Stehlík z Čenkova",
+    "from": 1638,
+    "to": 1676,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "Luhov opět samostatným panstvím, spolu s Třebobuzí; patřil jeho rodině do 1676"
+   },
+   {
+    "owner": "steinbachove-z-kranichsteinu",
+    "owner_wiki": null,
+    "person": "Steinbachové z Kranichsteinu",
+    "from": 1676,
+    "to": 1779,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "vytvořili malé panství (Dolany, Hracholusky); rok 1779 je svatba dědičky Marie Anny"
+   },
+   {
+    "owner": "dohalsti-z-dohalic",
+    "owner_wiki": "Dohalští z Dohalic",
+    "person": "Marie Anna Steinbachová a Mario Bořek Dohalský",
+    "from": 1779,
+    "to": 1825,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "snatek",
+    "note": "po 1780 nový barokní zámek, kaple 1784; 1796 přikoupeny Pňovany, 1799 Líšťany, 1804 Lipno (alodiální statek Luhov-Líšťany); bez dědiců, Bořek zemřel 1824, Marie Anna 1825"
+   },
+   {
+    "owner": "perglarove-z-perglasu",
+    "owner_wiki": null,
+    "person": "Václav Perglar z Perglasu",
+    "from": 1825,
+    "to": 1872,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "bratranec Bořka Dohalského; cs.wiki: součástí panství do 1853, poté řada majitelů (zamekluhov.cz uvádí Perglary do 1872 a před Jakschem Marii Josefu Hennigerovou z Ebergu)"
+   },
+   {
+    "owner": "jakschove-z-wartenhorstu",
+    "owner_wiki": null,
+    "person": "Anton Jaksch, později Rudolf Jaksch z Wartenhorstu",
+    "from": 1872,
+    "to": 1945,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "Anton koupil 1872; po 1908 Zdenko, pak Rudolf (poslední soukromý majitel, lékař); Rudolf zemřel 1946/1947, zdroj zamekluhov.cz uvádí konfiskaci 1945; cs.wiki: vlastnil do smrti 1946"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "státní statek; od 1980 TJ Uhelné sklady (rekreační středisko)",
+    "from": 1945,
+    "to": 1996,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "konec 20. stol. zámek chátral"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Marie a Petr Němcovi (rodina Němcova)",
+    "from": 1996,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "svépomocná oprava, zpřístupněno v červenci 2006"
+   }
+  ],
+  "events": [
+   {
+    "year": 1175,
+    "text": "podle zamekluhov.cz kníže Soběslav daroval dvorec plaskému klášteru"
+   },
+   {
+    "year": 1367,
+    "text": "první písemná zmínka o tvrzi, patřila chotěšovskému klášteru"
+   },
+   {
+    "year": 1676,
+    "text": "Luhov koupili Steinbachové z Kranichsteinu"
+   },
+   {
+    "year": 1780,
+    "text": "po roce 1780 stavba barokního zámku; 1784 vysvěcena kaple"
+   },
+   {
+    "year": 1872,
+    "text": "Luhov koupil MUDr. Anton Jaksch z Wartenhorstu"
+   },
+   {
+    "year": 1996,
+    "text": "zámek získala rodina Němcových, zahájena oprava"
+   },
+   {
+    "year": 2006,
+    "text": "po desetileté rekonstrukci zpřístupněn veřejnosti"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Luhov_(zámek)",
+   "https://www.zamekluhov.cz/inpage/1/",
+   "https://www.zamekluhov.cz/inpage/majitele-zamku/"
   ]
  },
  "Q37851622": {

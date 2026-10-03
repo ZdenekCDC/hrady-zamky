@@ -1,0 +1,138 @@
+{
+ "id": "Q33322463",
+ "name": "Malešov",
+ "founded": {
+  "year": null,
+  "approx": false,
+  "text": "přesná doba vzniku je nejasná: nejspíše poslední třetina 17. století (Šporkové), podle Památkového katalogu 1. třetina 18. století; první zmínka 1738"
+ },
+ "summary": "Malešovský zámek je původně správní budova (kanceláře a byty úředníků) velkostatku sousedního hrádku, postavená nejspíše Šporky v poslední třetině 17. století nebo podle památkového katalogu v 1. třetině 18. století. Panství patřilo Šporkům, Osteinům, Bredům a od 1809 Dalbergům, od 1906 Salmům, v roce 1945 bylo zkonfiskováno. Ve 20. století v budově sídlila škola a od roku 2018 Muzeum Malešov.",
+ "owners": [
+  {
+   "owner": "sporkove",
+   "owner_wiki": "Šporkové",
+   "person": "Jan Špork, poté František Antonín Špork",
+   "from": 1666,
+   "to": 1699,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "podle cs.wiki jeden z nich nejspíše zámek postavil; rok 1666 a 1699 podle soupispamatek.cz (panství od Berků z Dubé, prodáno Helleweilovi)"
+  },
+  {
+   "owner": "z-helleweilu",
+   "owner_wiki": null,
+   "person": "František Antonín Helleweil (Hailleveil)",
+   "from": 1699,
+   "to": 1710,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "podle soupispamatek.cz a tvrzmalesov.cz"
+  },
+  {
+   "owner": "z-osteinu",
+   "owner_wiki": null,
+   "person": "František Karel z Osteinu, poté Jindřich Karel z Osteinu",
+   "from": 1710,
+   "to": 1725,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "podle soupispamatek.cz; Jindřich Karel držel od 1717"
+  },
+  {
+   "owner": "bredove",
+   "owner_wiki": "Bredové",
+   "person": "Karel Jáchym Breda",
+   "from": 1725,
+   "to": 1744,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "cs.wiki: zadlužené panství patřilo od 1725 Bredovi, první zmínka o zámku 1738 v odhadu panství"
+  },
+  {
+   "owner": "z-osteinu",
+   "owner_wiki": null,
+   "person": "Jindřich Karel z Osteinu, poté synové Jan Fridrich Karel Maxmilián a Filip Karel; od 1776 Jan Fridrich Karel Maxmilián",
+   "from": 1744,
+   "to": 1809,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "podle soupispamatek.cz; urbanist.eu uvádí návrat panství Osteinům 1762"
+  },
+  {
+   "owner": "z-dalbergu",
+   "owner_wiki": null,
+   "person": "Bedřich Karel z Dalbergu, od 1814 Karel Maxmilián Dalberg-Ostein, od 1862 Fridrich Dalberg-Ostein",
+   "from": 1809,
+   "to": 1906,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "1824-1827 empírová úprava fasád Karlem Maxmiliánem; zámek sloužil jako správa velkostatku; konec 1906 podle soupispamatek.cz"
+  },
+  {
+   "owner": "salmove-pustinna-a-porynska-hrabata",
+   "owner_wiki": "Salmové (Pustinná a porýnská hrabata)",
+   "person": "Marie Anna Salm-Salm",
+   "from": 1906,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "cs.wiki: v roce 1945 zkonfiskován Marii Salmové; přiřazení k linii Salm-Salm odvozeno z jiných záznamů"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": "okresní národní výbor Kutná Hora",
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "škola; budovu spravoval ONV Kutná Hora; urbanist.eu: statek po 1947 připadl obci; rok předání nejasný"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "městys Malešov",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "odvozeno: městys Malešov vystupuje jako zadavatel oprav 'zámku Malešov č.p. 1' (vhodne-uverejneni.cz); cs.wiki vlastníka neuvádí; od 2018 Muzeum Malešov"
+  }
+ ],
+ "events": [
+  {
+   "year": 1738,
+   "text": "první písemná zmínka o zámku v odhadu zadluženého panství"
+  },
+  {
+   "year": 1824,
+   "text": "1824-1827 úprava fasád v empíru za Karla Maxmiliána Dahlberga-Ostein"
+  },
+  {
+   "year": 1945,
+   "text": "zkonfiskován Marii Salmové, poté škola"
+  },
+  {
+   "year": 2017,
+   "text": "část hospodářských budov využívá Přátelský pivovar Malešov"
+  },
+  {
+   "year": 2018,
+   "text": "v zámku otevřeno Muzeum Malešov"
+  }
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Malešov_(zámek)",
+  "https://www.soupispamatek.cz/arl-kcz/cs/detail-kcz_un_auth-0000922-Tvrz-Malesov/",
+  "http://www.urbanist.eu/Malesov.pdf"
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "id": "Q12032970",
+ "name": "Leontýnský zámek",
+ "founded": {
+  "year": 1820,
+  "approx": false,
+  "text": "1820 nechal Karel Egon z Fürstenbergu na místě hospodářského dvora Obora postavit klasicistní lovecký zámeček."
+ },
+ "summary": "Lovecký zámeček u Křivoklátu postavil roku 1820 Karel Egon z Fürstenbergu na místě dvora Obora. V letech 1865-1866 jej Max Egon Fürstenberg přestavěl pro manželku Leontýnu z Khevenhülleru a podle ní dostal jméno Leontýn; roku 1893/1894 byl novogoticky přestavěn a zvýšen o patro. Roku 1929 jej získal stát (správa státních lesů), po roce 1950 sloužil škole a vojenskému praporu a od roku 1964 patří hlavnímu městu Praze, které v něm provozuje sociální zařízení (dnes Domov pro osoby se zdravotním postižením Leontýn).",
+ "owners": [
+  {
+   "owner": "furstenbergove",
+   "owner_wiki": "Fürstenbergové",
+   "person": "Karel Egon z Fürstenbergu; Max Egon Fürstenberg",
+   "from": 1820,
+   "to": 1929,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "majitelé křivoklátského panství; od roku 1723 Fürstenberkové (podle webu domova)"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1929,
+   "to": 1964,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "ředitelství správy státních lesů Obora; od 1950 škola pro vady řeči a pomocný technický prapor; cs.wiki zmiňuje časté střídání majitelů"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "Národní výbor hlavního města Prahy (dnes hl. m. Praha)",
+   "from": 1964,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "generální oprava, ústav sociální péče pro mládež, dnes Domov pro osoby se zdravotním postižením Leontýn; současné vlastnictví hl. m. Prahy je odvozeno z cs.wiki a provozovatele domova"
+  }
+ ],
+ "events": [
+  {"year": 1820, "text": "výstavba klasicistního loveckého zámečku Obora"},
+  {"year": 1866, "text": "1865-1866 přestavba pro Leontýnu z Khevenhülleru, přejmenování na Leontýn, vznik kaple sv. Václava"},
+  {"year": 1894, "text": "1893/1894 přistavěno patro, novogotická přestavba"},
+  {"year": 1929, "text": "zámek získal stát, sídlo ředitelství státních lesů Obora"},
+  {"year": 1964, "text": "převod pod národní výbor hl. m. Prahy, generální oprava a ústav sociální péče"}
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Leontýnský_zámek",
+  "https://www.leontyn.cz/home"
+ ]
+}
