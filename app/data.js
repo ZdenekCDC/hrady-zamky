@@ -17,7 +17,7 @@ export const KIND = {
   areal: "areál",
   zahrada: "zahrada",
   pevnost: "pevnost",
-  hradby: "městské opevnění",
+  hradby: "opevnění",
   kostnice: "kostnice",
   krypta: "krypta, katakomby",
 };

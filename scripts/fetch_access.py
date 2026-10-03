@@ -2,7 +2,7 @@
 
 - NPÚ: cs.wiki "Seznam památkových objektů ve správě Národního památkového ústavu" (all open with tours)
 - NIPOS: official statistics of monuments open for admission, per kraj xlsx (data/raw/nipos/*.xlsx)
-- OSM: historic=castle/manor/ruins via Overpass, tags hinting at opening (opening_hours, fee, tourism, access)
+- OSM: historic=castle/manor/ruins (plus monasteries, city walls, forts with a wikidata tag) via Overpass, tags hinting at opening (opening_hours, fee, tourism, access)
 """
 import re
 
@@ -28,6 +28,8 @@ area["ISO3166-1"="CZ"][admin_level=2]->.cz;
 (
   nwr["historic"~"^(castle|manor|palace)$"](area.cz);
   nwr["historic"="ruins"]["ruins"~"castle"](area.cz);
+  nwr["wikidata"]["historic"~"^(monastery|citywalls|fort|fortification)$"](area.cz);
+  nwr["wikidata"]["amenity"="monastery"](area.cz);
 );
 out tags center;
 """

@@ -62,6 +62,15 @@
   ],
   "Klášter Borovany": [
    "Q31872969"
+  ],
+  "Klášter Roudnice a rotunda sv. Jiří a sv. Vojtěcha na Řípu, Roudnice nad Labem": [
+   "Q30132905"
+  ],
+  "Klášter premonstrátů Klášterní Hradisko, Olomouc": [
+   "Q363709"
+  ],
+  "Hradební opevnění, Znojmo": [
+   "Q38228493"
   ]
  },
  "npu_qid": {
@@ -82,7 +91,8 @@
   "Q30202831": "duplicate of Bečov nad Teplou Q13217210 (monument record of the same castle)",
   "Q11878900": "duplicate of zámek Velká Černá Hať Q28913223",
   "Q37447624": "duplicate of zámek Kuks Q12031856 (torzo zámku, same coordinates)",
-  "Q80102912": "hypothetical lost castle, existence undocumented and nothing survives (cs.wiki: 'možná stával'); the town walls and Šindelářská věž are a separate object"
+  "Q80102912": "hypothetical lost castle, existence undocumented and nothing survives (cs.wiki: 'možná stával'); the town walls and Šindelářská věž are a separate object",
+  "Q12043644": "Památník Karla Hynka Máchy v Doksech, typed as hospital on Wikidata"
  },
  "places": {
   "Q1012711": {
@@ -144,6 +154,19 @@
    "kind": "zahrada"
   },
   "Q38094997": {
+   "kind": "tvrz"
+  },
+  "Q318861": {
+   "kind": "pevnost",
+   "access": "vstupne"
+  },
+  "Q55974123": {
+   "access": "vstupne"
+  },
+  "Q523489": {
+   "access": "vstupne"
+  },
+  "Q12054378": {
    "kind": "tvrz"
   }
  }

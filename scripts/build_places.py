@@ -8,6 +8,7 @@ Manual corrections live in data/overrides.json (keyed by Wikidata QID).
 """
 import re
 import sys
+from collections import Counter
 from urllib.parse import unquote
 
 from common import DATA, RAW, load, norm, save
@@ -56,7 +57,7 @@ def short_name(name):
     return s[:1].upper() + s[1:] if s else name
 
 
-GENERIC_NAME = re.compile(r"(?i)^(kostnice|klášter|tvrz|hradby|hradba|opevnění|městské opevnění|městské hradby|pevnost|katakomby|krypta)$")
+GENERIC_NAME = re.compile(r"(?i)^(kostnice|špitál|klášter|tvrz|hradby|hradba|opevnění|městské opevnění|městské hradby|pevnost|katakomby|krypta)$")
 
 
 def display_name(name, kind, obec):
@@ -229,10 +230,13 @@ def main():
         }
         p.update(overrides["places"].get(q, {}))
         places.append(p)
+    names = Counter(p["name"] for p in places)
+    for p in places:
+        if names[p["name"]] > 1 and p["kind"] not in CASTLE_KINDS and p["obec"] and p["obec"] not in p["name"]:
+            p["name"] += f" ({p['obec']})"  # e.g. five places called "Dominikánský klášter"
     places.sort(key=lambda p: p["name"])
     save(DATA / "places.json", places)
 
-    from collections import Counter
     print("places", len(places), Counter(p["access"] for p in places), Counter(p["kind"] for p in places))
     missing_npu = [r["name"] for r in src["npu"] if r["qid"] and r["qid"] not in {p["id"] for p in places}]
     print("NPÚ castles missing from places:", missing_npu)

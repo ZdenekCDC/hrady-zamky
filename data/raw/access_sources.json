@@ -10939,6 +10939,14 @@
    "historic": "castle"
   },
   {
+   "osm": "node/881275033",
+   "lat": 48.789576,
+   "lon": 14.7805881,
+   "name": "Klášter Nové Hrady",
+   "wikidata": "Q26912074",
+   "historic": "monastery"
+  },
+  {
    "osm": "node/887120247",
    "lat": 49.8368749,
    "lon": 15.6537283,
@@ -11288,8 +11296,8 @@
   },
   {
    "osm": "node/1497846409",
-   "lat": 50.1417364,
-   "lon": 13.0365307,
+   "lat": 50.1416913,
+   "lon": 13.036351,
    "name": "Hartenštejn",
    "wikidata": "Q1012205",
    "historic": "ruins",
@@ -11539,6 +11547,16 @@
    "wikidata": "Q37009749",
    "historic": "castle",
    "castle_type": "defensive",
+   "ruins": "yes",
+   "tourism": "attraction"
+  },
+  {
+   "osm": "node/2316230129",
+   "lat": 49.4983732,
+   "lon": 18.7434056,
+   "name": "Jablunkovské šance",
+   "wikidata": "Q9350939",
+   "historic": "fortification",
    "ruins": "yes",
    "tourism": "attraction"
   },
@@ -13368,6 +13386,14 @@
    "castle_type": "palace"
   },
   {
+   "osm": "way/27248001",
+   "lat": 50.0809848,
+   "lon": 14.4155606,
+   "name": "klášter voršilek",
+   "wikidata": "Q56155263",
+   "historic": "yes"
+  },
+  {
    "osm": "way/27326750",
    "lat": 49.1548274,
    "lon": 16.8749163,
@@ -13468,6 +13494,14 @@
    "historic": "castle",
    "castle_type": "stately",
    "website": "https://www.zamek-ratiborice.cz/"
+  },
+  {
+   "osm": "way/28921025",
+   "lat": 50.0851703,
+   "lon": 14.40487,
+   "name": "bývalý dominikánský klášter",
+   "wikidata": "Q24708167",
+   "historic": "monastery"
   },
   {
    "osm": "way/28964453",
@@ -14085,6 +14119,15 @@
    "historic": "castle"
   },
   {
+   "osm": "way/41376985",
+   "lat": 49.4787311,
+   "lon": 13.2853464,
+   "name": "Vodní hrad Švihov",
+   "wikidata": "Q366074",
+   "historic": "castle",
+   "website": "https://www.hrad-svihov.cz"
+  },
+  {
    "osm": "way/41495483",
    "lat": 50.0026518,
    "lon": 15.0412477,
@@ -14207,6 +14250,14 @@
    "wikidata": "Q37466308",
    "historic": "castle",
    "castle_type": "defensive"
+  },
+  {
+   "osm": "way/46129171",
+   "lat": 49.9522257,
+   "lon": 15.0323766,
+   "name": "Františkánský klášter Zásmuky",
+   "wikidata": "Q18106605",
+   "historic": "monastery"
   },
   {
    "osm": "way/46779610",
@@ -14476,6 +14527,15 @@
    "name": "Zámek Všechovice",
    "wikidata": "Q20851426",
    "historic": "castle"
+  },
+  {
+   "osm": "way/51390297",
+   "lat": 49.5805521,
+   "lon": 18.7702402,
+   "name": "Klášter sester Alžbětinek",
+   "wikidata": "Q16620089",
+   "tourism": "attraction",
+   "website": "http://alzbetinky.jablunkov.cz/www/"
   },
   {
    "osm": "way/51399282",
@@ -15077,21 +15137,20 @@
    "ruins": "castle"
   },
   {
+   "osm": "way/65165563",
+   "lat": 49.4666069,
+   "lon": 17.1120272,
+   "name": "Kapucínský klášter",
+   "wikidata": "Q29348865",
+   "historic": "monastery"
+  },
+  {
    "osm": "way/65214036",
    "lat": 49.8305565,
    "lon": 14.5928076,
    "name": "Týnec nad Sázavou",
    "wikidata": "Q20901874",
    "historic": "castle"
-  },
-  {
-   "osm": "way/67268172",
-   "lat": 48.7805896,
-   "lon": 16.7578812,
-   "name": "Hraniční zámeček",
-   "wikidata": "Q12020667",
-   "historic": "castle",
-   "tourism": "attraction"
   },
   {
    "osm": "way/67381945",
@@ -15248,6 +15307,16 @@
    "historic": "castle"
   },
   {
+   "osm": "way/72865648",
+   "lat": 48.8559942,
+   "lon": 14.3715842,
+   "name": "Klášter Zlatá Koruna",
+   "wikidata": "Q1776313",
+   "historic": "monastery",
+   "tourism": "attraction",
+   "website": "https://klaster-zlatakoruna.cz"
+  },
+  {
    "osm": "way/72870910",
    "lat": 49.7567527,
    "lon": 16.6661074,
@@ -15302,6 +15371,14 @@
    "castle_type": "defensive",
    "ruins": "yes",
    "opening_hours": "24/7"
+  },
+  {
+   "osm": "way/75310085",
+   "lat": 50.529694,
+   "lon": 14.9730438,
+   "name": "Kapucínský klášter",
+   "wikidata": "Q30102372",
+   "historic": "monastery"
   },
   {
    "osm": "way/75314282",
@@ -15415,6 +15492,13 @@
    "name": "Zámek Neuberk",
    "historic": "castle",
    "castle_type": "stately"
+  },
+  {
+   "osm": "way/83934216",
+   "lat": 49.1029505,
+   "lon": 15.4186482,
+   "name": "Karmel",
+   "wikidata": "Q87121981"
   },
   {
    "osm": "way/83935876",
@@ -16339,6 +16423,15 @@
    "name": "Čimelický zámek",
    "wikidata": "Q31206350",
    "historic": "castle"
+  },
+  {
+   "osm": "way/117175156",
+   "lat": 49.0896737,
+   "lon": 16.6158105,
+   "name": "Benediktinský klášter Rajhrad",
+   "wikidata": "Q334115",
+   "historic": "monastery",
+   "website": "https://www.rajhrad.benediktini.cz"
   },
   {
    "osm": "way/117702588",
@@ -17293,6 +17386,14 @@
    "wikidata": "Q12029860",
    "historic": "castle",
    "castle_type": "palace"
+  },
+  {
+   "osm": "way/182671144",
+   "lat": 50.0891442,
+   "lon": 14.3994504,
+   "name": "Klášter theatinů (kajetánů)",
+   "wikidata": "Q28050616",
+   "historic": "monastery"
   },
   {
    "osm": "way/182828943",
@@ -18638,6 +18739,14 @@
    "castle_type": "stately"
   },
   {
+   "osm": "way/258908692",
+   "lat": 49.6401932,
+   "lon": 14.6125149,
+   "name": "Tvrz Beztahov",
+   "wikidata": "Q33243522",
+   "historic": "fort"
+  },
+  {
    "osm": "way/259093369",
    "lat": 49.7832245,
    "lon": 15.1472736,
@@ -18832,6 +18941,14 @@
    "castle_type": "stately"
   },
   {
+   "osm": "way/273722461",
+   "lat": 49.6371915,
+   "lon": 16.2265552,
+   "name": "Christianeum",
+   "wikidata": "Q11728364",
+   "historic": "monastery"
+  },
+  {
    "osm": "way/274631523",
    "lat": 50.3680624,
    "lon": 15.1728814,
@@ -18996,6 +19113,13 @@
    "historic": "castle"
   },
   {
+   "osm": "way/293130873",
+   "lat": 49.4734381,
+   "lon": 17.1123313,
+   "wikidata": "Q38051373",
+   "historic": "citywalls"
+  },
+  {
    "osm": "way/294287964",
    "lat": 48.8810596,
    "lon": 14.600063,
@@ -19048,6 +19172,15 @@
    "wikidata": "Q2242736",
    "historic": "castle",
    "castle_type": "stately"
+  },
+  {
+   "osm": "way/300947470",
+   "lat": 49.9850632,
+   "lon": 12.9827733,
+   "name": "Opatství Nový Dvůr",
+   "wikidata": "Q746091",
+   "historic": "monastery",
+   "website": "http://www.novydvur.cz/"
   },
   {
    "osm": "way/304737037",
@@ -19730,6 +19863,14 @@
    "historic": "castle"
   },
   {
+   "osm": "way/436001080",
+   "lat": 50.0697659,
+   "lon": 14.1854755,
+   "name": "Františkánský klášter v Hájku",
+   "wikidata": "Q12029507",
+   "historic": "yes"
+  },
+  {
    "osm": "way/440338515",
    "lat": 49.5849023,
    "lon": 13.0207466,
@@ -19831,6 +19972,14 @@
    "wikidata": "Q12048839",
    "historic": "castle",
    "ruins": "yes"
+  },
+  {
+   "osm": "way/469001940",
+   "lat": 50.0903064,
+   "lon": 14.3909206,
+   "name": "Klášter kapucínů",
+   "wikidata": "Q12029542",
+   "website": "https://kapucini.cz/"
   },
   {
    "osm": "way/473724574",
@@ -20014,6 +20163,14 @@
    "historic": "castle"
   },
   {
+   "osm": "way/546934283",
+   "lat": 49.4716651,
+   "lon": 17.1122866,
+   "name": "Klášter augustiniánů kanovníků",
+   "wikidata": "Q29269953",
+   "historic": "monastery"
+  },
+  {
    "osm": "way/547928982",
    "lat": 49.6009659,
    "lon": 13.3456003,
@@ -20084,6 +20241,14 @@
    "historic": "castle",
    "castle_type": "stately",
    "website": "https://www.zamekvinarice.cz/"
+  },
+  {
+   "osm": "way/590828861",
+   "lat": 49.4861522,
+   "lon": 12.7376663,
+   "name": "klášter Pivoň",
+   "wikidata": "Q33254620",
+   "historic": "yes"
   },
   {
    "osm": "way/597082401",
@@ -20249,6 +20414,16 @@
    "castle_type": "defensive"
   },
   {
+   "osm": "way/675679872",
+   "lat": 49.8777475,
+   "lon": 14.8972184,
+   "name": "Sázavský klášter",
+   "wikidata": "Q369547",
+   "historic": "monastery",
+   "tourism": "attraction",
+   "website": "https://www.klaster-sazava.cz/"
+  },
+  {
    "osm": "way/685281486",
    "lat": 50.3927878,
    "lon": 14.8200006,
@@ -20292,6 +20467,13 @@
    "tourism": "attraction",
    "access": "yes",
    "website": "https://www.divcikamen.cz/"
+  },
+  {
+   "osm": "way/739605190",
+   "lat": 49.0857132,
+   "lon": 16.5977587,
+   "name": "Klášter sester Těšitelek",
+   "wikidata": "Q12029561"
   },
   {
    "osm": "way/741884818",
@@ -20474,6 +20656,14 @@
    "historic": "castle"
   },
   {
+   "osm": "way/888282671",
+   "lat": 49.3538099,
+   "lon": 16.4002745,
+   "name": "Klášter Porta coeli",
+   "wikidata": "Q369543",
+   "website": "https://www.portacoeli.cz/"
+  },
+  {
    "osm": "way/910649654",
    "lat": 50.296071,
    "lon": 13.915933,
@@ -20547,6 +20737,16 @@
    "ruins": "yes"
   },
   {
+   "osm": "way/1075829711",
+   "lat": 50.0856009,
+   "lon": 14.3563827,
+   "name": "Břevnovský klášter",
+   "wikidata": "Q959499",
+   "historic": "yes",
+   "opening_hours": "Sa-Su 10:00+,14:00+",
+   "tourism": "attraction"
+  },
+  {
    "osm": "way/1076782591",
    "lat": 49.9666029,
    "lon": 15.6027297,
@@ -20557,6 +20757,15 @@
    "ruins": "yes"
   },
   {
+   "osm": "way/1090952682",
+   "lat": 49.7454056,
+   "lon": 13.3787452,
+   "name": "Františkánský klášter",
+   "wikidata": "Q12017759",
+   "historic": "monastery",
+   "website": "https://frantiskanskyklaster.4fan.cz/"
+  },
+  {
    "osm": "way/1103245378",
    "lat": 50.0843682,
    "lon": 14.5125258,
@@ -20565,6 +20774,14 @@
    "historic": "castle",
    "castle_type": "palace",
    "access": "private"
+  },
+  {
+   "osm": "way/1113034922",
+   "lat": 49.6530206,
+   "lon": 13.1987955,
+   "name": "Klášter Chotěšov",
+   "wikidata": "Q1775133",
+   "historic": "monastery"
   },
   {
    "osm": "way/1117526601",
@@ -20603,12 +20820,30 @@
    "castle_type": "stately"
   },
   {
+   "osm": "way/1136726235",
+   "lat": 49.1395626,
+   "lon": 15.5650356,
+   "name": "Premonstrátský klášter Nová Říše",
+   "wikidata": "Q334085",
+   "historic": "monastery"
+  },
+  {
    "osm": "way/1149144592",
    "lat": 49.591956,
    "lon": 12.7140666,
    "name": "Zámek Bělá nad Radbuzou",
    "wikidata": "Q16765190",
    "historic": "castle"
+  },
+  {
+   "osm": "way/1167362413",
+   "lat": 49.9851836,
+   "lon": 13.4627755,
+   "name": "Mariánská Týnice",
+   "wikidata": "Q369130",
+   "historic": "monastery",
+   "tourism": "attraction",
+   "website": "https://www.marianskatynice.cz/"
   },
   {
    "osm": "way/1194508025",
@@ -20650,6 +20885,15 @@
    "historic": "castle",
    "castle_type": "stately",
    "website": "www.zamek-lysice.cz/"
+  },
+  {
+   "osm": "way/1230124538",
+   "lat": 50.0887865,
+   "lon": 14.4293615,
+   "name": "klášter kapucínů",
+   "wikidata": "Q24282906",
+   "historic": "yes",
+   "website": "https://kapucini.cz/"
   },
   {
    "osm": "way/1239461237",
@@ -20696,6 +20940,13 @@
    "ruins": "remnants"
   },
   {
+   "osm": "way/1251546472",
+   "lat": 50.3049639,
+   "lon": 12.934766,
+   "name": "Klášter piaristů Ostrov",
+   "wikidata": "Q31968228"
+  },
+  {
    "osm": "way/1265804050",
    "lat": 49.9928623,
    "lon": 14.2053936,
@@ -20730,12 +20981,35 @@
    "website": "https://www.hrady.cz/tvrz-stoupec-chrudim"
   },
   {
+   "osm": "way/1305047104",
+   "lat": 49.6855527,
+   "lon": 14.0175148,
+   "name": "Svatá Hora",
+   "wikidata": "Q47005766"
+  },
+  {
    "osm": "way/1307417443",
    "lat": 50.856957,
    "lon": 14.5819765,
    "historic": "castle",
    "castle_type": "Tolštejn",
    "ruins": "yes"
+  },
+  {
+   "osm": "way/1312580406",
+   "lat": 49.9357565,
+   "lon": 13.3902376,
+   "name": "Klášter Plasy",
+   "wikidata": "Q267033",
+   "tourism": "attraction",
+   "website": "https://www.klaster-plasy.eu/"
+  },
+  {
+   "osm": "way/1328150828",
+   "lat": 49.4564747,
+   "lon": 14.3681594,
+   "name": "Klášter Milevsko",
+   "wikidata": "Q1534969"
   },
   {
    "osm": "way/1340138319",
@@ -20788,6 +21062,15 @@
    "ruins": "castle"
   },
   {
+   "osm": "way/1453951427",
+   "lat": 49.7312459,
+   "lon": 17.3016071,
+   "name": "Augustiniánský klášter",
+   "wikidata": "Q31525073",
+   "historic": "monastery",
+   "website": "https://sternberskyklaster.cz/"
+  },
+  {
    "osm": "way/1459922536",
    "lat": 49.9046768,
    "lon": 15.7529264,
@@ -20836,7 +21119,7 @@
    "osm": "way/1512464253",
    "lat": 50.2115834,
    "lon": 12.8248455,
-   "name": "Doubí",
+   "name": "zámek Doubí",
    "wikidata": "Q16159109",
    "historic": "castle"
   },
@@ -20858,6 +21141,15 @@
    "historic": "castle",
    "fee": "yes",
    "website": "https://www.zameksvojsin.cz/"
+  },
+  {
+   "osm": "way/1525514129",
+   "lat": 49.8024257,
+   "lon": 12.6051226,
+   "name": "Zřícenina kláštera Paulánů, kostela a zámku",
+   "wikidata": "Q18327771",
+   "historic": "monastery",
+   "opening_hours": "24/7"
   },
   {
    "osm": "way/1525521857",
@@ -20928,6 +21220,26 @@
    "website": "https://www.zamek-hradec.cz/"
   },
   {
+   "osm": "relation/28652",
+   "lat": 50.0914975,
+   "lon": 14.4024291,
+   "name": "Jiřský klášter",
+   "wikidata": "Q949070",
+   "historic": "monastery"
+  },
+  {
+   "osm": "relation/33709",
+   "lat": 50.0719862,
+   "lon": 14.4173446,
+   "name": "Emauzský klášter",
+   "wikidata": "Q1000684",
+   "historic": "monastery",
+   "opening_hours": "Nov-Apr Mo-Fr 11:00-16:00; May-Oct Mo-sa 11:00-17:00",
+   "fee": "yes",
+   "access": "yes",
+   "website": "http://emauzy.cz/"
+  },
+  {
    "osm": "relation/33992",
    "lat": 49.3002353,
    "lon": 17.39316,
@@ -20945,6 +21257,14 @@
    "wikidata": "Q11774696",
    "historic": "castle",
    "castle_type": "palace"
+  },
+  {
+   "osm": "relation/38842",
+   "lat": 50.0827534,
+   "lon": 14.4235029,
+   "name": "klášter františkánů",
+   "wikidata": "Q27491319",
+   "historic": "yes"
   },
   {
    "osm": "relation/60015",
@@ -21044,6 +21364,14 @@
    "castle_type": "palace"
   },
   {
+   "osm": "relation/71499",
+   "lat": 50.0852082,
+   "lon": 14.4156083,
+   "name": "Anenský klášter",
+   "wikidata": "Q21098791",
+   "historic": "monastery"
+  },
+  {
    "osm": "relation/71503",
    "lat": 50.0857525,
    "lon": 14.414467,
@@ -21136,6 +21464,21 @@
    "castle_type": "palace"
   },
   {
+   "osm": "relation/74532",
+   "lat": 50.0867707,
+   "lon": 14.4142162,
+   "name": "Klášter křižovníků s červenou hvězdou",
+   "wikidata": "Q22770837"
+  },
+  {
+   "osm": "relation/74533",
+   "lat": 50.0853424,
+   "lon": 14.4186905,
+   "name": "Dominikánský klášter",
+   "wikidata": "Q24708169",
+   "historic": "yes"
+  },
+  {
    "osm": "relation/75838",
    "lat": 50.0895341,
    "lon": 14.4042683,
@@ -21207,6 +21550,13 @@
    "castle_type": "palace"
   },
   {
+   "osm": "relation/92362",
+   "lat": 50.0687174,
+   "lon": 14.4278948,
+   "wikidata": "Q12029530",
+   "historic": "monastery"
+  },
+  {
    "osm": "relation/93057",
    "lat": 50.0902504,
    "lon": 14.4036667,
@@ -21253,6 +21603,14 @@
    "tourism": "yes"
   },
   {
+   "osm": "relation/113988",
+   "lat": 49.1916266,
+   "lon": 16.5939126,
+   "name": "Augustiniánské opatství Staré Brno",
+   "wikidata": "Q334311",
+   "historic": "monastery"
+  },
+  {
    "osm": "relation/123916",
    "lat": 49.2257301,
    "lon": 17.6631857,
@@ -21260,6 +21618,21 @@
    "wikidata": "Q3916631",
    "historic": "castle",
    "castle_type": "stately"
+  },
+  {
+   "osm": "relation/126497",
+   "lat": 50.0691561,
+   "lon": 14.420813,
+   "name": "Nemocnice svaté Alžběty",
+   "wikidata": "Q26207138",
+   "historic": "monastery"
+  },
+  {
+   "osm": "relation/126913",
+   "lat": 50.0678597,
+   "lon": 14.4215683,
+   "wikidata": "Q28464577",
+   "historic": "monastery"
   },
   {
    "osm": "relation/127987",
@@ -21319,6 +21692,15 @@
    "website": "http://www.zamek-cervenalhota.cz"
   },
   {
+   "osm": "relation/152842",
+   "lat": 49.9348615,
+   "lon": 13.3902167,
+   "name": "Klášter Plasy",
+   "wikidata": "Q267033",
+   "tourism": "attraction",
+   "website": "https://www.klaster-plasy.eu/"
+  },
+  {
    "osm": "relation/153799",
    "lat": 50.0691118,
    "lon": 17.0902959,
@@ -21368,6 +21750,14 @@
    "lon": 14.3140114,
    "name": "Horní hrad",
    "historic": "castle"
+  },
+  {
+   "osm": "relation/227976",
+   "lat": 49.1029969,
+   "lon": 17.3953251,
+   "name": "Velehradský klášter",
+   "wikidata": "Q1776234",
+   "historic": "monastery"
   },
   {
    "osm": "relation/239525",
@@ -21500,6 +21890,14 @@
    "wikidata": "Q11878942",
    "historic": "castle",
    "castle_type": "stately"
+  },
+  {
+   "osm": "relation/403672",
+   "lat": 50.0751099,
+   "lon": 14.3957857,
+   "name": "Klášter benediktinek sv. Gabriela",
+   "wikidata": "Q817055",
+   "historic": "monastery"
   },
   {
    "osm": "relation/406059",
@@ -21665,6 +22063,15 @@
    "website": "https://www.zamek-zakupy.cz/"
   },
   {
+   "osm": "relation/937625",
+   "lat": 50.5865231,
+   "lon": 16.3335808,
+   "name": "klášter Broumov",
+   "wikidata": "Q1807024",
+   "historic": "monastery",
+   "website": "https://www.klasterbroumov.cz"
+  },
+  {
    "osm": "relation/941456",
    "lat": 50.343862,
    "lon": 16.1497377,
@@ -21673,6 +22080,15 @@
    "historic": "castle",
    "castle_type": "stately",
    "tourism": "attraction"
+  },
+  {
+   "osm": "relation/941910",
+   "lat": 48.8129841,
+   "lon": 14.3189391,
+   "name": "Minoritský klášter",
+   "wikidata": "Q23803439",
+   "historic": "monastery",
+   "website": "https://www.klasteryck.cz/"
   },
   {
    "osm": "relation/946833",
@@ -21856,6 +22272,14 @@
    "historic": "castle"
   },
   {
+   "osm": "relation/1273975",
+   "lat": 50.6205776,
+   "lon": 13.6937197,
+   "name": "Osecký klášter",
+   "wikidata": "Q1775777",
+   "historic": "monastery"
+  },
+  {
    "osm": "relation/1288455",
    "lat": 49.6673105,
    "lon": 15.4075364,
@@ -21882,6 +22306,13 @@
    "castle_type": "stately"
   },
   {
+   "osm": "relation/1324996",
+   "lat": 50.4421679,
+   "lon": 16.9190032,
+   "wikidata": "Q28854955",
+   "historic": "monastery"
+  },
+  {
    "osm": "relation/1338491",
    "lat": 48.7587872,
    "lon": 16.2342596,
@@ -21898,6 +22329,13 @@
    "historic": "castle",
    "castle_type": "manor",
    "website": "https://www.zamek-dacice.eu/"
+  },
+  {
+   "osm": "relation/1346743",
+   "lat": 49.966115,
+   "lon": 12.878684,
+   "name": "Klášter premonstrátů Teplá",
+   "wikidata": "Q361388"
   },
   {
    "osm": "relation/1366377",
@@ -22157,6 +22595,14 @@
    "castle_type": "stately"
   },
   {
+   "osm": "relation/1689492",
+   "lat": 50.7656529,
+   "lon": 14.7624576,
+   "name": "Dominikánský klášter",
+   "wikidata": "Q12029509",
+   "historic": "monastery"
+  },
+  {
    "osm": "relation/1714528",
    "lat": 50.7774571,
    "lon": 14.787899,
@@ -22240,7 +22686,7 @@
    "osm": "relation/1963577",
    "lat": 49.1907975,
    "lon": 15.1659958,
-   "name": "Česká Olešná",
+   "name": "Zámek Česká Olešná",
    "wikidata": "Q20427882",
    "historic": "castle",
    "castle_type": "stately"
@@ -22310,6 +22756,13 @@
    "tourism": "attraction"
   },
   {
+   "osm": "relation/2142687",
+   "lat": 50.2482397,
+   "lon": 13.7792874,
+   "name": "Klášter Nanebevzetí panny Marie",
+   "wikidata": "Q12029508"
+  },
+  {
    "osm": "relation/2153701",
    "lat": 49.9049292,
    "lon": 14.1496348,
@@ -22372,6 +22825,14 @@
    "castle_type": "stately"
   },
   {
+   "osm": "relation/2318347",
+   "lat": 50.0886293,
+   "lon": 14.4249668,
+   "name": "Minoritský klášter",
+   "wikidata": "Q27097574",
+   "website": "https://praha.minorite.cz/"
+  },
+  {
    "osm": "relation/2318358",
    "lat": 50.0865206,
    "lon": 14.4181209,
@@ -22398,6 +22859,14 @@
    "historic": "castle",
    "castle_type": "stately",
    "opening_hours": "Mo-Su 09:00-11:00,13:00-15:00"
+  },
+  {
+   "osm": "relation/2390824",
+   "lat": 50.0924435,
+   "lon": 14.4238326,
+   "name": "Anežský klášter",
+   "wikidata": "Q394832",
+   "historic": "yes"
   },
   {
    "osm": "relation/2403951",
@@ -22433,6 +22902,14 @@
    "wikidata": "Q11335864",
    "historic": "castle",
    "castle_type": "palace"
+  },
+  {
+   "osm": "relation/2437958",
+   "lat": 50.0889439,
+   "lon": 14.3959563,
+   "name": "Fortna",
+   "wikidata": "Q6852368",
+   "website": "https://fortna.eu"
   },
   {
    "osm": "relation/2514695",
@@ -22768,6 +23245,14 @@
    "castle_type": "stately"
   },
   {
+   "osm": "relation/3577879",
+   "lat": 50.587905,
+   "lon": 15.1579778,
+   "name": "Františkánský klášter",
+   "wikidata": "Q12017760",
+   "historic": "monastery"
+  },
+  {
    "osm": "relation/3735371",
    "lat": 49.5301755,
    "lon": 17.8694501,
@@ -22811,6 +23296,13 @@
    "name": "zámek Pakoměřice",
    "wikidata": "Q33521227",
    "historic": "castle"
+  },
+  {
+   "osm": "relation/4218077",
+   "lat": 49.2288504,
+   "lon": 13.5219546,
+   "name": "Kapucínský klášter",
+   "wikidata": "Q33238483"
   },
   {
    "osm": "relation/4460726",
@@ -23103,6 +23595,14 @@
    "castle_type": "stately"
   },
   {
+   "osm": "relation/6268801",
+   "lat": 50.0862616,
+   "lon": 14.3897135,
+   "name": "Strahovský klášter",
+   "wikidata": "Q969482",
+   "tourism": "attraction"
+  },
+  {
    "osm": "relation/6268802",
    "lat": 50.0881053,
    "lon": 14.3923181,
@@ -23263,6 +23763,13 @@
    "historic": "castle"
   },
   {
+   "osm": "relation/7009964",
+   "lat": 49.7116154,
+   "lon": 12.9955328,
+   "name": "Kladrubský klášter",
+   "wikidata": "Q1416121"
+  },
+  {
    "osm": "relation/7014904",
    "lat": 49.7885335,
    "lon": 13.9778968,
@@ -23278,6 +23785,15 @@
    "name": "Komorní Hrádek",
    "wikidata": "Q21490452",
    "historic": "castle"
+  },
+  {
+   "osm": "relation/7080762",
+   "lat": 49.5447766,
+   "lon": 16.5794585,
+   "name": "Klášter Milosrdných bratří",
+   "wikidata": "Q12029515",
+   "historic": "monastery",
+   "website": "https://www.milosrdni.cz/mista/letovice/"
   },
   {
    "osm": "relation/7098181",
@@ -23420,15 +23936,6 @@
    "website": "https://www.hrad-valdstejn.cz/"
   },
   {
-   "osm": "relation/8542813",
-   "lat": 49.4787311,
-   "lon": 13.2853464,
-   "name": "Vodní hrad Švihov",
-   "wikidata": "Q366074",
-   "historic": "castle",
-   "website": "https://www.hrad-svihov.cz"
-  },
-  {
    "osm": "relation/8602741",
    "lat": 50.0858651,
    "lon": 16.3514038,
@@ -23550,6 +24057,14 @@
    "wikidata": "Q38487907",
    "historic": "castle",
    "castle_type": "manor"
+  },
+  {
+   "osm": "relation/10389269",
+   "lat": 50.4149065,
+   "lon": 14.9030394,
+   "name": "Bývalý piaristický klášter",
+   "wikidata": "Q12029552",
+   "historic": "monastery"
   },
   {
    "osm": "relation/10437481",
@@ -23679,6 +24194,14 @@
    "tourism": "attraction"
   },
   {
+   "osm": "relation/13796575",
+   "lat": 49.6195649,
+   "lon": 17.2503956,
+   "name": "Fort XXII Černovír",
+   "wikidata": "Q38040274",
+   "historic": "fort"
+  },
+  {
    "osm": "relation/13823851",
    "lat": 50.6236553,
    "lon": 15.1910034,
@@ -23695,6 +24218,14 @@
    "wikidata": "Q64676248",
    "historic": "castle",
    "castle_type": "fortress"
+  },
+  {
+   "osm": "relation/13991952",
+   "lat": 50.5140849,
+   "lon": 14.1675654,
+   "name": "Malá pevnost",
+   "wikidata": "Q318861",
+   "historic": "fort"
   },
   {
    "osm": "relation/13992326",
@@ -23861,6 +24392,14 @@
    "historic": "castle"
   },
   {
+   "osm": "relation/19751297",
+   "lat": 48.8983664,
+   "lon": 17.3190782,
+   "name": "Veselská brána",
+   "wikidata": "Q38139910",
+   "historic": "citywalls"
+  },
+  {
    "osm": "relation/19985263",
    "lat": 49.0309569,
    "lon": 17.3022894,
@@ -23894,6 +24433,16 @@
    "name": "Návarov",
    "wikidata": "Q14329551",
    "historic": "castle"
+  },
+  {
+   "osm": "relation/21453962",
+   "lat": 48.7804544,
+   "lon": 16.7578816,
+   "name": "Hraniční zámeček",
+   "wikidata": "Q12020667",
+   "historic": "castle",
+   "castle_type": "stately",
+   "tourism": "attraction"
   }
  ]
 }
