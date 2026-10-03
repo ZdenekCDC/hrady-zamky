@@ -18,7 +18,7 @@ python3 scripts/serve.py        # otevři http://localhost:8000
 - **Náhled při najetí myší**: fotka (lokální miniatura z `data/thumbs/`, rychlá i na GitHub Pages), typ, obec, vznik, přístupnost, rody (ve stroji času vlastník v daném roce).
 - **Detail místa**: fotka (Wikimedia Commons), vznik, shrnutí, časová osa vlastníků (klik na rod -> přehled rodu; tlačítko ⤢ roztáhne panel pro širší osu, volba se pamatuje), události, odkazy (web, Wikipedie, Mapy.com, navigace), návštěvnost (NIPOS), „Co je poblíž“ (nenavštívené do 10-100 km).
 - **Stroj času**: posuvník roku obarví místa podle tehdejšího vlastníka; 8 rodů s nejvíce objekty má pevnou barvu, ostatní rody šedě, instituce tmavě; všechny značky mají tmavý obrys (čitelné na světlé mapě), navštívené modrý a silnější, vybrané rody jsou větší a ostatní se zmenší a zesvětlí. Legenda i výběr „Zvýraznit rod“ zvýrazní jeden rod. Osa začíná u nejstaršího vlastníka v datech zaokrouhleného na 50 let (`D.tmMin` z `loadAll()`, nyní 850); místo se ukáže od roku vzniku (`startYear`: přesný rok, jinak začátek století z textu „14. stol.“, jinak nejstarší rok v historii). Volba „skrýt místa bez data vzniku“ (výchozí zapnuto) schová místa, u kterých se nic z toho nezjistí, kromě navštívených.
-- **Rody** (`#/rody`): přehledová časová osa rodů, detail rodu s erbem, popisem, časovou osou držení, mini-mapou a vazbami (od koho majetek získali / komu předali a jak).
+- **Rody** (`#/rody`): přehledová časová osa rodů, detail rodu s erbem, popisem, časovou osou držení, čtvercovou mapou v pravém sloupci a vazbami (od koho majetek získali / komu předali a jak). Seznam rodů a detail se rolují každý zvlášť (tenké lišty), seznam si drží pozici při přepnutí rodu; na úzkém okně se roluje celá stránka.
 
 ## Podkladové mapy
 
