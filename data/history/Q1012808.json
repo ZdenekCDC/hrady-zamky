@@ -6,7 +6,7 @@
   "approx": true,
   "text": "nejstarší zmínky o Křivoklátu (v Kosmově kronice) se vztahují k letům 1110-1113; kamenný hrad na současném místě budoval od cca 1230 Přemysl Otakar I. a stavba pokračovala do konce vlády Přemysla Otakara II."
  },
- "summary": "Křivoklát byl jedním z nejvýznamnějších hradů přemyslovských a lucemburských panovníků, doloženým už v Kosmově kronice k létům 1110-1113; kamenný hrad zde budoval od cca 1230 Přemysl Otakar I. Hrad zůstával po staletí v majetku koruny, opakovaně však byl zastavován věřitelům a šlechtě (Vilém Zajíc z Valdeka, Oldřich Pluh z Rabštejna, Aleš Holický ze Šternberka aj.); podobu, v níž se v hlavních rysech dochoval dodnes, mu dal roku 1471 Vladislav Jagellonský. V 16. století sloužil Habsburkům jako obávané státní vězení, v 17.-18. století byl postupně zastaven Schwarzenberkům, prodán Valdštejnům a sňatkem přešel na Fürstenberky. Roku 1929 jej Maxmilián Egon II. z Fürstenberku prodal Československému státu; dnes hrad spravuje Národní památkový ústav.",
+ "summary": "Křivoklát byl jedním z nejvýznamnějších hradů přemyslovských a lucemburských panovníků, doloženým už v Kosmově kronice k létům 1110-1113; kamenný hrad zde budoval od cca 1230 Přemysl Otakar I. Hrad zůstával po staletí v majetku koruny, opakovaně však byl zastavován věřitelům a šlechtě (Vilém Zajíc z Valdeka, Oldřich Pluh z Rabštejna, Aleš Holický ze Šternberka aj.); podobu, v níž se v hlavních rysech dochoval dodnes, mu dal roku 1471 Vladislav Jagellonský. V 16. století sloužil Habsburkům jako obávané státní vězení, v 17.-18. století byl postupně zastaven Schwarzenberkům, prodán Valdštejnům (1685) a sňatkem Marie Anny z Valdštejna přešel kolem roku 1733 na Fürstenberky. Roku 1929 jej Maxmilián Egon II. z Fürstenberku prodal Československému státu; dnes hrad spravuje Národní památkový ústav.",
  "owners": [
   {
    "owner": "koruna",
@@ -86,10 +86,10 @@
    "person": "Aleš Holický ze Šternberka",
    "from": 1422,
    "to": 1455,
-   "from_approx": false,
-   "to_approx": false,
+   "from_approx": true,
+   "to_approx": true,
    "how": "lenni",
-   "note": "zástava (spolu s hradem Týřov) ve výši 3960 kop grošů za zásluhy v boji s husity; sídlil zde až do smrti 1455, krátce předtím hrad vyplatil král Ladislav Pohrobek"
+   "note": "zástava (spolu s hradem Týřov) ve výši 3960 kop grošů za zásluhy v boji s husity; sídlil zde až do smrti 1455, krátce předtím hrad vyplatil král Ladislav Pohrobek; deutsche-burgen.org uvádí zástavu 1423-1454"
   },
   {
    "owner": "koruna",
@@ -110,29 +110,29 @@
    "from_approx": true,
    "to_approx": false,
    "how": "lenni",
-   "note": "zastaveno 1655 (podle jiných pramenů 1658)"
+   "note": "zastaveno 1655 (podle jiných pramenů 1658); jen cs.wiki, druhý zdroj dobu zástavy neuvádí"
   },
   {
    "owner": "valdstejnove",
    "owner_wiki": "Valdštejnové",
-   "person": null,
+   "person": "Arnošt Josef z Valdštejna",
    "from": 1685,
-   "to": 1730,
-   "from_approx": false,
+   "to": 1733,
+   "from_approx": true,
    "to_approx": true,
    "how": "koupe",
-   "note": "hrad prodán Valdštejnům roku 1685"
+   "note": "císař Leopold I. prodal křivoklátské panství 1681/1685/1686 (de.wikipedia 1681/85, deutsche-burgen.org 1686, cs.wiki 1685); Jan Josef z Valdštejna 1731/33 odkázal dceři Marii Anně"
   },
   {
    "owner": "furstenbergove",
    "owner_wiki": "Fürstenbergové",
-   "person": null,
-   "from": 1730,
+   "person": "Josef Vilém z Fürstenbergu a Marie Anna z Valdštejna",
+   "from": 1733,
    "to": 1929,
    "from_approx": true,
    "to_approx": false,
    "how": "snatek",
-   "note": "podle pramenů přešlo sňatkem na Fürstenbergy v rozmezí let 1723/1733-1734/1756, přesné datum nejisté"
+   "note": "web hradu: 1733 sňatek Josefa Viléma z Fürstenbergu s dědičkou Marií Annou z Valdštejna (de.wikipedia dědictví 1731/33, cs.wiki rozmezí 1723/1733-1734/1756); 1919-1929 vnucená správa státu v rámci pozemkové reformy"
   },
   {
    "owner": "stat",
@@ -142,7 +142,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "prodáno Československému státu za 118,5 milionu korun po pozemkové reformě; dnes ve správě Národního památkového ústavu"
+   "note": "smlouva se Státním pozemkovým úřadem podepsána 3. 5. 1929; prodáno za 118,5 mil. Kč; dnes ve správě Národního památkového ústavu (od 2003)"
   }
  ],
  "events": [
@@ -175,11 +175,19 @@
    "text": "začátek puristické rekonstrukce hradu (J. Mocker, K. Hilbert)"
   },
   {
+   "year": 1919,
+   "text": "po vzniku ČSR uvalena na panství vnucená správa (pozemková reforma)"
+  },
+  {
    "year": 1929,
    "text": "Maximilián Egon II. z Fürstenbergu prodává hrad Československému státu"
   }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Křivoklát"
+  "https://cs.wikipedia.org/wiki/Křivoklát",
+  "https://www.hrad-krivoklat.cz/cs/o-hradu/historie",
+  "https://hrad-krivoklat.cz/cs/o-hradu/vyznamne-osobnosti/furstenbergove",
+  "https://de.wikipedia.org/wiki/Burg_K%C5%99ivokl%C3%A1t",
+  "https://www.deutsche-burgen.org/modelle/krivoklat/krivoklat_hist.htm"
  ]
 }

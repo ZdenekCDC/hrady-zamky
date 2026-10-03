@@ -4306,7 +4306,7 @@
    "approx": true,
    "text": "nejstarší zmínky o Křivoklátu (v Kosmově kronice) se vztahují k letům 1110-1113; kamenný hrad na současném místě budoval od cca 1230 Přemysl Otakar I. a stavba pokračovala do konce vlády Přemysla Otakara II."
   },
-  "summary": "Křivoklát byl jedním z nejvýznamnějších hradů přemyslovských a lucemburských panovníků, doloženým už v Kosmově kronice k létům 1110-1113; kamenný hrad zde budoval od cca 1230 Přemysl Otakar I. Hrad zůstával po staletí v majetku koruny, opakovaně však byl zastavován věřitelům a šlechtě (Vilém Zajíc z Valdeka, Oldřich Pluh z Rabštejna, Aleš Holický ze Šternberka aj.); podobu, v níž se v hlavních rysech dochoval dodnes, mu dal roku 1471 Vladislav Jagellonský. V 16. století sloužil Habsburkům jako obávané státní vězení, v 17.-18. století byl postupně zastaven Schwarzenberkům, prodán Valdštejnům a sňatkem přešel na Fürstenberky. Roku 1929 jej Maxmilián Egon II. z Fürstenberku prodal Československému státu; dnes hrad spravuje Národní památkový ústav.",
+  "summary": "Křivoklát byl jedním z nejvýznamnějších hradů přemyslovských a lucemburských panovníků, doloženým už v Kosmově kronice k létům 1110-1113; kamenný hrad zde budoval od cca 1230 Přemysl Otakar I. Hrad zůstával po staletí v majetku koruny, opakovaně však byl zastavován věřitelům a šlechtě (Vilém Zajíc z Valdeka, Oldřich Pluh z Rabštejna, Aleš Holický ze Šternberka aj.); podobu, v níž se v hlavních rysech dochoval dodnes, mu dal roku 1471 Vladislav Jagellonský. V 16. století sloužil Habsburkům jako obávané státní vězení, v 17.-18. století byl postupně zastaven Schwarzenberkům, prodán Valdštejnům (1685) a sňatkem Marie Anny z Valdštejna přešel kolem roku 1733 na Fürstenberky. Roku 1929 jej Maxmilián Egon II. z Fürstenberku prodal Československému státu; dnes hrad spravuje Národní památkový ústav.",
   "owners": [
    {
     "owner": "koruna",
@@ -4386,10 +4386,10 @@
     "person": "Aleš Holický ze Šternberka",
     "from": 1422,
     "to": 1455,
-    "from_approx": false,
-    "to_approx": false,
+    "from_approx": true,
+    "to_approx": true,
     "how": "lenni",
-    "note": "zástava (spolu s hradem Týřov) ve výši 3960 kop grošů za zásluhy v boji s husity; sídlil zde až do smrti 1455, krátce předtím hrad vyplatil král Ladislav Pohrobek"
+    "note": "zástava (spolu s hradem Týřov) ve výši 3960 kop grošů za zásluhy v boji s husity; sídlil zde až do smrti 1455, krátce předtím hrad vyplatil král Ladislav Pohrobek; deutsche-burgen.org uvádí zástavu 1423-1454"
    },
    {
     "owner": "koruna",
@@ -4410,29 +4410,29 @@
     "from_approx": true,
     "to_approx": false,
     "how": "lenni",
-    "note": "zastaveno 1655 (podle jiných pramenů 1658)"
+    "note": "zastaveno 1655 (podle jiných pramenů 1658); jen cs.wiki, druhý zdroj dobu zástavy neuvádí"
    },
    {
     "owner": "valdstejnove",
     "owner_wiki": "Valdštejnové",
-    "person": null,
+    "person": "Arnošt Josef z Valdštejna",
     "from": 1685,
-    "to": 1730,
-    "from_approx": false,
+    "to": 1733,
+    "from_approx": true,
     "to_approx": true,
     "how": "koupe",
-    "note": "hrad prodán Valdštejnům roku 1685"
+    "note": "císař Leopold I. prodal křivoklátské panství 1681/1685/1686 (de.wikipedia 1681/85, deutsche-burgen.org 1686, cs.wiki 1685); Jan Josef z Valdštejna 1731/33 odkázal dceři Marii Anně"
    },
    {
     "owner": "furstenbergove",
     "owner_wiki": "Fürstenbergové",
-    "person": null,
-    "from": 1730,
+    "person": "Josef Vilém z Fürstenbergu a Marie Anna z Valdštejna",
+    "from": 1733,
     "to": 1929,
     "from_approx": true,
     "to_approx": false,
     "how": "snatek",
-    "note": "podle pramenů přešlo sňatkem na Fürstenbergy v rozmezí let 1723/1733-1734/1756, přesné datum nejisté"
+    "note": "web hradu: 1733 sňatek Josefa Viléma z Fürstenbergu s dědičkou Marií Annou z Valdštejna (de.wikipedia dědictví 1731/33, cs.wiki rozmezí 1723/1733-1734/1756); 1919-1929 vnucená správa státu v rámci pozemkové reformy"
    },
    {
     "owner": "stat",
@@ -4442,7 +4442,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "prodáno Československému státu za 118,5 milionu korun po pozemkové reformě; dnes ve správě Národního památkového ústavu"
+    "note": "smlouva se Státním pozemkovým úřadem podepsána 3. 5. 1929; prodáno za 118,5 mil. Kč; dnes ve správě Národního památkového ústavu (od 2003)"
    }
   ],
   "events": [
@@ -4475,12 +4475,20 @@
     "text": "začátek puristické rekonstrukce hradu (J. Mocker, K. Hilbert)"
    },
    {
+    "year": 1919,
+    "text": "po vzniku ČSR uvalena na panství vnucená správa (pozemková reforma)"
+   },
+   {
     "year": 1929,
     "text": "Maximilián Egon II. z Fürstenbergu prodává hrad Československému státu"
    }
   ],
   "sources": [
-   "https://cs.wikipedia.org/wiki/Křivoklát"
+   "https://cs.wikipedia.org/wiki/Křivoklát",
+   "https://www.hrad-krivoklat.cz/cs/o-hradu/historie",
+   "https://hrad-krivoklat.cz/cs/o-hradu/vyznamne-osobnosti/furstenbergove",
+   "https://de.wikipedia.org/wiki/Burg_K%C5%99ivokl%C3%A1t",
+   "https://www.deutsche-burgen.org/modelle/krivoklat/krivoklat_hist.htm"
   ]
  },
  "Q1012891": {
@@ -10588,18 +10596,51 @@
    "approx": false,
    "text": "hrad založil roku 1241 Zdeslav z Divišova, jméno odvozeno od erbu hvězdy (Stern-Berg)"
   },
-  "summary": "Český Šternberk založil roku 1241 Zdeslav z Divišova, jehož potomci si podle hradu začali říkat Šternberkové. Rod (větev Holických ze Šternberka) hrad úspěšně ubránil při obléhání vojskem Jiřího z Poděbrad (1467) a držel jej do vymření větve po meči 1712. Roku 1841 hrad koupil zpět Zdeněk ze Šternberka a rodina jej vlastnila až do znárodnění 1949; po restituci 1992 je opět v majetku Sternbergů a patří k nejnavštěvovanějším hradům v Česku.",
+  "summary": "Český Šternberk založil roku 1241 Zdeslav z Divišova a po hradu se jeho potomci nazývali Šternberkové. Hrad ve 15. století držela větev Holických ze Šternberka, po dobytí vojskem Jiřího z Poděbrad 1467 jej krátce drželi jiní a roku 1479 byl rodu vrácen. Po vymření Holických 1712 patřil hrad řadě cizích rodů (Götzové, Roggendorfové, Čejkové z Olbramovic, Hirschové, Somsichové), až jej roku 1841 koupil zpět Zdeněk ze Šternberka; 1949 byl vyvlastněn státem a roku 1992 vrácen v restituci rodině Sternbergů.",
   "owners": [
    {
     "owner": "sternberkove",
     "owner_wiki": "Šternberkové",
     "person": "Zdeslav z Divišova",
     "from": 1241,
+    "to": 1439,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "první větev (Zdeslav z Divišova a jeho potomci); 1439 podle apsida.cz vymřela po meči Petrem"
+   },
+   {
+    "owner": "sternberkove",
+    "owner_wiki": "Šternberkové",
+    "person": "Aleš Holický ze Šternberka, poté jeho syn Petr Holický (v poručnictví Zdeňka Konopišťského)",
+    "from": 1439,
     "to": 1467,
     "from_approx": false,
     "to_approx": true,
-    "how": "zalozeni",
-    "note": "od 15. století drží hrad větev Holických ze Šternberka; hrad dobyt 1467 vojskem Jiřího z Poděbrad"
+    "how": "dedictvi",
+    "note": "větev Holických ze Šternberka (apsida.cz); 1467 hrad dobyt vojskem Jiřího z Poděbrad, vinu nesl poručník Zdeněk Konopišťský"
+   },
+   {
+    "owner": "trckove-z-lipy",
+    "owner_wiki": "Trčkové z Lípy",
+    "person": "Burian Trčka z Lípy",
+    "from": 1467,
+    "to": 1473,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "konfiskace",
+    "note": "získal pobořený hrad za zásluhy při obléhání (apsida.cz); roky nejisté"
+   },
+   {
+    "owner": "pani-z-kunstatu-a-podebrad",
+    "owner_wiki": "Páni z Kunštátu a Poděbrad",
+    "person": "Čeněk z Kunštátu",
+    "from": 1473,
+    "to": 1479,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "krátce před vrácením Šternberkům (apsida.cz)"
    },
    {
     "owner": "sternberkove",
@@ -10609,29 +10650,74 @@
     "to": 1712,
     "from_approx": false,
     "to_approx": false,
-    "how": "dedictvi",
-    "note": "hrad vrácen rodu králem Vladislavem Jagellonským 1479, větev vymřela po meči 1712"
+    "how": "restituce",
+    "note": "hrad vrácen rodu králem Vladislavem Jagellonským 1479; 1670 hrabecí titul Václava Jiřího, barokní úpravy interiérů; větev vymřela po meči 1712"
    },
    {
-    "owner": "neznamo",
+    "owner": "z-gotzu",
     "owner_wiki": null,
-    "person": null,
+    "person": "Jan Maxmilián Götz (manžel Anny Marie Amabilie Holické)",
     "from": 1712,
-    "to": 1841,
+    "to": 1740,
     "from_approx": false,
+    "to_approx": true,
+    "how": "dedictvi",
+    "note": "poslední dcera Holických se provdala za hraběte Götze; roky zdroj neuvádí"
+   },
+   {
+    "owner": "pani-z-roggendorfu",
+    "owner_wiki": "Páni z Roggendorfu",
+    "person": "hrabata z Roggendorfu",
+    "from": 1740,
+    "to": 1767,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "snatek",
+    "note": "jediná dcera Götzových přinesla hrad sňatkem Roggendorfům"
+   },
+   {
+    "owner": "cejkove-z-olbramovic",
+    "owner_wiki": "Čejkové z Olbramovic",
+    "person": "Michal hrabě Čejka z Olbramovic",
+    "from": 1767,
+    "to": 1795,
+    "from_approx": true,
     "to_approx": false,
-    "how": "neznamo",
-    "note": "hrad se dědictvím i prodejem dostal mimo rod Šternberků, konkrétní držitelé nejsou v pramenech blíže specifikováni"
+    "how": "koupe",
+    "note": "ve 2. pol. 18. stol. (sochy 1776-1779); roky nákupu zdroj neuvádí"
+   },
+   {
+    "owner": "z-sternfeldu",
+    "owner_wiki": null,
+    "person": "Ferdinand Hirsch ze Sternfeldu, zemský advokát",
+    "from": 1795,
+    "to": 1818,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "koupil od syna Michala Čejky; držela rodina Hirschů do 1841"
+   },
+   {
+    "owner": "somsichove-de-saard",
+    "owner_wiki": null,
+    "person": "Luisa Hirschová provd. Somsichová, poté její syn Adolf Somsich de Saard",
+    "from": 1818,
+    "to": 1841,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "Luisa odkázala panství synu Adolfovi; ten roku 1841 prodal Zdeňkovi Sternbergovi"
    },
    {
     "owner": "sternberkove",
     "owner_wiki": "Šternberkové",
-    "person": "Zdeněk ze Šternberka",
+    "person": "Zdeněk hrabě ze Šternberka (konopišťská větev)",
     "from": 1841,
     "to": 1949,
     "from_approx": false,
     "to_approx": false,
-    "how": "koupe"
+    "how": "koupe",
+    "note": "odkoupil od Adolfa Somsicha; 1942 vnucená správa okupačními úřady, po válce navrácen; 1949 vyvlastněn; poslední majitel před znárodněním Jiří Douglas Sternberg"
    },
    {
     "owner": "stat",
@@ -10642,7 +10728,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "konfiskace",
-    "note": "Jiří Douglas Sternberg zůstal na hradě kastelánem"
+    "note": "1949 vyvlastnění státem; Jiří Sternberg (+1965) ustanoven správcem hradu a zůstal kastelánem"
    },
    {
     "owner": "sternberkove",
@@ -10652,7 +10738,8 @@
     "to": 2021,
     "from_approx": false,
     "to_approx": true,
-    "how": "restituce"
+    "how": "restituce",
+    "note": "restituce 1992 podle oficiálního webu hradu a cs.wiki (cs.wiki Šternberkové uvádí 1991); syn Jiřího"
    },
    {
     "owner": "sternberkove",
@@ -10662,7 +10749,8 @@
     "to": null,
     "from_approx": true,
     "to_approx": false,
-    "how": "dedictvi"
+    "how": "dedictvi",
+    "note": "syn Zdeňka, zdědil po jeho smrti 2021; cs.wiki (Šternberkové) uvádí úmrtí Filipa Sternberga 2026, nástupce zdroje neuvádějí - současný majitel neověřen"
    }
   ],
   "events": [
@@ -10683,8 +10771,16 @@
     "text": "vymření větve Holických ze Šternberka po meči"
    },
    {
+    "year": 1795,
+    "text": "hrad koupil Ferdinand Hirsch ze Sternfeldu"
+   },
+   {
     "year": 1841,
     "text": "koupě hradu zpět Zdeňkem ze Šternberka"
+   },
+   {
+    "year": 1942,
+    "text": "vnucená správa majetku Sternbergů okupačními úřady"
    },
    {
     "year": 1949,
@@ -10696,7 +10792,9 @@
    }
   ],
   "sources": [
-   "https://cs.wikipedia.org/wiki/Český_Šternberk_(hrad)"
+   "https://cs.wikipedia.org/wiki/Český_Šternberk_(hrad)",
+   "https://hradceskysternberk.cz/historiehrad.html",
+   "https://www.apsida.cz/hrady/strednicechy/okrbene/csternberk/csternberk.htm"
   ]
  },
  "Q1014755": {
@@ -27102,29 +27200,29 @@
    "approx": false,
    "text": "zámek postaven 1707 jako pohodlnější sídlo panství namísto studeného hradu Buchlova"
   },
-  "summary": "Barokní zámek Buchlovice nechal postavit Jan Dětřich z Petřvaldu jako nové sídlo panství namísto nedalekého hradu Buchlova. Od roku 1800 patřil zámek Berchtoldům z Uherčic, kteří jej zvelebili a rozšířili park, až do znárodnění na základě Benešových dekretů v roce 1945. Dnes je ve vlastnictví státu a spravuje jej Národní památkový ústav.",
+  "summary": "Barokní zámek v Buchlovicích nechal Jan Dětřich z Petřvaldu postavit na přelomu 17. a 18. století (dokončen 1707) jako pohodlnější sídlo panství místo hradu Buchlova. Petřvaldští vymřeli roku 1800 a panství zdědili Berchtoldové z Uherčic, kteří zámek upravili, rozšířili park a vlastnili jej do roku 1945. Poté byl zestátněn a dnes jej spravuje Národní památkový ústav.",
   "owners": [
    {
     "owner": "petrvaldsti-z-petrvaldu",
     "owner_wiki": "Petřvaldští z Petřvaldu",
     "person": "Jan Dětřich z Petřvaldu",
-    "from": 1700,
+    "from": 1688,
     "to": 1800,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false,
     "how": "zalozeni",
-    "note": "stavba zámku dokončena 1707"
+    "note": "web zámku: Petřvaldští 1688-1800; zámek postaven 1700-1707 Janem Dětřichem (1688-1734), po něm Zikmund Karel (1734-1751), Bernard Jan (1751-1763, zemřel předčasně), Marie Terezie provdaná Berchtoldová (1763-1768) a její teta Marie Eleonora (1768-1800); magisterská práce MU uvádí držení Petřvaldských od 1644"
    },
    {
     "owner": "berchtoldove-z-uhercic",
     "owner_wiki": "Berchtoldové z Uherčic",
-    "person": "Leopold I. Berchtold, Leopold II. Berchtold",
+    "person": "Leopold I. Berchtold (1800-1809), poté Zikmund I., Leopold II., Alois (od 1942)",
     "from": 1800,
     "to": 1945,
     "from_approx": false,
     "to_approx": false,
-    "how": "koupe",
-    "note": "rozšíření anglického parku, úpravy architekta Dominika Feye"
+    "how": "dedictvi",
+    "note": "Marie Eleonora Petřvaldská odkázala panství synovci Leopoldu Berchtoldovi (poslední vůle 1798, zemřela 1800), původně přes sňatek Marie Terezie s Prosperem Berchtoldem; Leopold I. zřídil vojenskou nemocnici, anglický park, úpravy Dominika Feye; poslední šlechtický majitel Alois Berchtold, 1945 vyhnán"
    },
    {
     "owner": "stat",
@@ -27145,7 +27243,7 @@
    },
    {
     "year": 1800,
-    "text": "Buchlovice získávají Berchtoldové z Uherčic"
+    "text": "Buchlovice dědí Berchtoldové z Uherčic po vymření Petřvaldských (Marie Eleonora zemřela 1800)"
    },
    {
     "year": 1805,
@@ -27161,7 +27259,10 @@
    }
   ],
   "sources": [
-   "https://cs.wikipedia.org/wiki/Buchlovice_(zámek)"
+   "https://cs.wikipedia.org/wiki/Buchlovice_(zámek)",
+   "https://zamek-buchlovice.cz/cs/o-zamku/majitele/petrvaldsti",
+   "https://zamek-buchlovice.cz/cs/o-zamku/majitele/berchtoldove",
+   "https://www.hrady.cz/zamek-buchlovice-uherske-hradiste/texty?pos=300&tid=7537"
   ]
  },
  "Q15735166": {
@@ -33945,7 +34046,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "jine",
-    "note": "sídlo nově zřízeného litomyšlského biskupství, zaniklo v důsledku husitských válek"
+    "note": "sídlo nově zřízeného litomyšlského biskupství (1344, Karel IV.), zaniklo v důsledku husitských válek; cs.wiki a město 1421, web zámku 1425"
    },
    {
     "owner": "koruna",
@@ -33954,7 +34055,7 @@
     "from_approx": true,
     "to_approx": false,
     "how": "konfiskace",
-    "note": "zeměpanský majetek po zabrání bývalého biskupského jmění za husitských válek"
+    "note": "zeměpanský majetek po zabrání biskupského jmění za husitských válek"
    },
    {
     "owner": "kostkove-z-postupic",
@@ -33970,22 +34071,11 @@
    {
     "owner": "koruna",
     "from": 1547,
-    "to": 1547,
-    "from_approx": false,
-    "to_approx": false,
-    "how": "konfiskace",
-    "note": "konfiskace po stavovském odboji proti Ferdinandu I."
-   },
-   {
-    "owner": "pernstejnove",
-    "owner_wiki": "Pernštejnové",
-    "person": "Jaroslav z Pernštejna",
-    "from": 1547,
     "to": 1567,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": true,
-    "how": "lenni",
-    "note": "zástavní držba; roku 1552 doloženo držení Jaroslavem z Pernštejna"
+    "how": "konfiskace",
+    "note": "konfiskace po stavovském odboji 1547; zástavní držba Pernštejnů: 1552 krátce Jaroslav z Pernštejna (cs.wiki), Pernštejnové s jistotou od 1567 (web zámku, město)"
    },
    {
     "owner": "pernstejnove",
@@ -33993,10 +34083,10 @@
     "person": "Vratislav II. z Pernštejna",
     "from": 1567,
     "to": 1582,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false,
     "how": "lenni",
-    "note": "zástava udělená císařem Maxmiliánem II.; 1568-1581 postavil renesanční zámek"
+    "note": "zástava udělená císařem Maxmiliánem II. za věrné služby (1567); 1568-1581 postavil renesanční zámek (cs.wiki 1568-1581, cs.wiki Dějiny Litomyšle dokončen 1573)"
    },
    {
     "owner": "pernstejnove",
@@ -34051,7 +34141,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "syn Polyxeny a Zdeňka Vojtěcha Popela z Lobkovic; roku 1649 panství prodal"
+    "note": "syn Polyxeny a Zdeňka Vojtěcha Popela z Lobkovic; roku 1649 panství prodal; Frebonie zemřela 1646 (web zámku: zámek prodán 1649 po její smrti)"
    },
    {
     "owner": "trauttmansdorffove",
@@ -34062,18 +34152,18 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "1649-1650 Maxmilián, dále synové a vnuci; litomyšlská linie rodu vymřela po meči 1753"
+    "note": "1649-1650 Maxmilián, dále synové a vnuci; litomyšlská linie rodu vymřela po meči 1753; cs.wiki na jednom místě uvádí získání 1646"
    },
    {
     "owner": "valdstejnove",
     "owner_wiki": "Valdštejnové",
     "person": "František Josef Jiří z Valdštejna-Vartenberka",
-    "from": 1757,
+    "from": 1753,
     "to": 1855,
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": false,
     "how": "snatek",
-    "note": "větev Valdštejnové-Vartenberkové; zámek vyženil sňatkem s Marií Františkou Josefou z Trauttmansdorffu; poslední majitel Antonín II. panství pro dluhy prodal v dražbě"
+    "note": "větev Valdštejnové-Vartenberkové; web zámku a město uvádějí 1753 (vymření litomyšlské linie Trauttmansdorffů), cs.wiki sňatek s Marií Františkou Josefou z Trauttmansdorffu 1757; poslední majitel Antonín II. pro dluhy panství prodal v dražbě; poslední majitelé, kteří na zámku bydleli"
    },
    {
     "owner": "thurn-taxisove",
@@ -34093,7 +34183,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "konfiskace",
-    "note": "zámek spravuje Národní památkový ústav"
+    "note": "zámek spravuje Národní památkový ústav; web zámku: od 1945 Československo, od 1993 Česká republika"
    },
    {
     "owner": "mesto",
@@ -34144,7 +34234,10 @@
    }
   ],
   "sources": [
-   "https://cs.wikipedia.org/wiki/Litomyšl_(zámek)"
+   "https://cs.wikipedia.org/wiki/Litomyšl_(zámek)",
+   "https://update.zamek-litomysl.cz/cs/o-zamku/historie",
+   "https://www.litomysl.cz/soubor/1508420965572_pribeh-zamku-litomysl_2018.pdf",
+   "https://www.litomysl.cz/historicke_udalosti"
   ]
  },
  "Q2164919": {
@@ -37872,7 +37965,7 @@
    "approx": true,
    "text": "zámek vznikl na místě vodní tvrze pánů z Kunštátu; první zmínka o tvrzi z roku 1476, Lysické panství k Kunštátům připojeno již před rokem 1320"
   },
-  "summary": "Barokní zámek v Lysicích vznikl na místě vodní tvrze pánů z Kunštátu, kteří panství drželi od počátku 14. století do roku 1521. Poté se vystřídala řada majitelů - Pernštejnové, Černčičtí z Kácova, Březničtí z Náchoda, po bankrotu posledního z nich několik krátkodobých držitelů, Serényiové (barokní přestavba 1705-1711), Ditrichštejnové a Piatiové. Od počátku 19. století zámek sňatkem získali Dubští z Třebomyslic, za nichž prošel klasicistními úpravami a stal se centrem intelektuálního života; posledním majitelem z rodu byl Albrecht Dubský z Třebomyslic. Roku 1945 byl zámek na základě Benešových dekretů zkonfiskován a od té doby je majetkem státu, spravovaným Národním památkovým ústavem.",
+  "summary": "Barokní zámek v Lysicích vznikl na místě vodní tvrze pánů z Kunštátu, kteří panství drželi od počátku 14. století do roku 1521. Poté se vystřídala řada majitelů - Pernštejnové, Černčičtí z Kácova, Březničtí z Náchoda, po bankrotu posledního z nich několik krátkodobých držitelů, Serényiové (barokní přestavba 1705-1711), Ditrichštejnové a Piatiové. Po vymření Piatiů 1807 (dle obce 1811) zámek dědictvím po Antonii Piati získali Dubští z Třebomyslic, za nichž prošel klasicistními úpravami a stal se centrem intelektuálního života; posledním majitelem z rodu byl Albrecht Dubský z Třebomyslic. Roku 1945 byl zámek na základě Benešových dekretů zkonfiskován a od té doby je majetkem státu, spravovaným Národním památkovým ústavem.",
   "owners": [
    {
     "owner": "pani-z-kunstatu-a-podebrad",
@@ -37881,9 +37974,9 @@
     "from": 1308,
     "to": 1521,
     "from_approx": true,
-    "to_approx": false,
+    "to_approx": true,
     "how": "zalozeni",
-    "note": "Lysické panství připojeno ke kunštátskému před rokem 1320; roku 1451 zdědil Procek z Kunštátu a Opatovic; 1521 Ludvík Zajímač z Kunštátu panství prodal"
+    "note": "Lysické panství připojeno ke kunštátskému před rokem 1320; roku 1451 zdědil Procek z Kunštátu a Opatovic; 1521 Ludvík Zajímač z Kunštátu panství prodal; web zámku: první nepřímá zmínka 1308 (Heralt z Kunštátu), web obce: Herald z Kunštátu koupil Lysice 1308-1316, předtím Hrabiš ze Švábenic (1278-1282) a Heroltici; cs.wiki: připojeno před 1320; web zámku: 1514 Ludvík Zajímač postoupil Lysice Vilémovi z Pernštejna (obec: Pernštejnové 1520-1529)"
    },
    {
     "owner": "pernstejnove",
@@ -37891,10 +37984,10 @@
     "person": "Vilém II. z Pernštejna",
     "from": 1521,
     "to": 1528,
-    "from_approx": false,
-    "to_approx": false,
+    "from_approx": true,
+    "to_approx": true,
     "how": "koupe",
-    "note": "roku 1528 Pernštejnové Lysice směnili s Janem Černčickým z Kácova za panství Nové Město nad Metují"
+    "note": "roku 1528 Pernštejnové Lysice směnili s Janem Černčickým z Kácova za panství Nové Město nad Metují; web obce uvádí 1520-1529, web zámku 'o patnáct let později prodali'"
    },
    {
     "owner": "cerncicti-z-kacova",
@@ -37903,20 +37996,20 @@
     "from": 1528,
     "to": 1584,
     "from_approx": false,
-    "to_approx": false,
+    "to_approx": true,
     "how": "vymena",
-    "note": "syn Diviš Černčický nechal v 50. letech 16. stol. tvrz přestavět"
+    "note": "syn Diviš Černčický nechal v 50. letech 16. stol. tvrz přestavět; web obce 1529-1584; 1576 Jan Purkart, který 1584 prodal Hronovi Březnickému (web zámku)"
    },
    {
     "owner": "pani-z-nachoda",
     "owner_wiki": "Páni z Náchoda",
-    "person": "Jindřich Březnický z Náchoda",
+    "person": "Hron Březnický z Náchoda",
     "from": 1584,
-    "to": 1675,
+    "to": 1678,
     "from_approx": false,
-    "to_approx": false,
+    "to_approx": true,
     "how": "koupe",
-    "note": "větev Březničtí z Náchoda; po Jindřichovi Hron (renesanční přestavba), Jiří Březnický z Náchoda (1589-1634) a Ferdinand Leopold Březnický (1625-1677), který panství pro dluhy prodal"
+    "note": "web zámku: 1584 koupil Hron Březnický z Náchoda (luterán), cs.wiki uvádí Jindřicha; Jiří Březnický (1608-1634), František (Ferdinand) Leopold, který 1652 vymohl povýšení Lysic na městečko, zemřel 1660/1677 (zdroje se liší) a odkázal Lysice manželce Alžbětě; cs.wiki konec 1675, web obce a regionem.cz 1678"
    },
    {
     "owner": "soukromnik",
@@ -37936,18 +38029,18 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "krátkodobý držitel; podle jiné verze se panství roku 1685 jako odúmrť dostalo císaři, který je prodal Serényiům"
+    "note": "ostřihomský arcibiskup Jiří Szelepcsényi (1678-1686); podle cs.wiki a webu obce panství 1685 jako odúmrť prodal císař Leopold Serényiům"
    },
    {
     "owner": "serenyiove",
     "owner_wiki": "Serényiové",
-    "person": "Antonín Amatus Serényi",
+    "person": "sirotci po Janu Karlovi Serényim, od 1706 Antonín Amatus Serényi",
     "from": 1686,
     "to": 1740,
     "from_approx": false,
-    "to_approx": false,
+    "to_approx": true,
     "how": "koupe",
-    "note": "baroková přestavba zámku 1705-1711 (stavitel Mořic Grimm); Antonín Amatus pro dluhy v závěti nařídil panství prodat"
+    "note": "web zámku: Serényiové vlastnili do 1740 (web obce 1745); barokní přestavba 1705-1711 (stavitel Mořic Grimm); Antonín Amatus (zemřel 1738) pro dluhy nařídil prodej"
    },
    {
     "owner": "ditrichstejnove",
@@ -37969,7 +38062,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "dále Emanuel Piati (selské povstání 1783) a Antonie Piati, centrum intelektuálního života"
+    "note": "dále Emanuel Piati (od 1762, selské povstání 1783) a Antonie Piati; 1807 Piatiové vymřeli po meči"
    },
    {
     "owner": "dubsti-z-trebomyslic",
@@ -37980,7 +38073,7 @@
     "from_approx": true,
     "to_approx": false,
     "how": "snatek",
-    "note": "panství získáno sňatkem počátkem 19. stol.; posledním majitelem byl Albrecht Dubský z Třebomyslic (1882-1962)"
+    "note": "po vymření Piatiů dědička Antonie Piati provdaná Dubská, držení jejího manžela Františka Dubského; web obce a regionem.cz uvádějí 1811; Emanuel (1806-1881), Quido, Albrecht (1882-1962) poslední majitel"
    },
    {
     "owner": "stat",
@@ -38028,7 +38121,10 @@
    }
   ],
   "sources": [
-   "https://cs.wikipedia.org/wiki/Lysice_(zámek)"
+   "https://cs.wikipedia.org/wiki/Lysice_(zámek)",
+   "https://www.zamek-lysice.cz/cs/o-zamku/historie",
+   "https://www.lysice.cz/mestys/historie/",
+   "https://www.regionem.cz/clanek/lysice-zamek-kde-zahradou-prochazi-kolonada-a-fikovna-ma-posuvnou-strechu/"
   ]
  },
  "Q2242554": {
@@ -46950,18 +47046,18 @@
    "approx": true,
    "text": "druhá polovina 13. století - knížecí hrad u brodu přes soutok Lučiny a Ostravice"
   },
-  "summary": "Slezskoostravský hrad byl od svého založení až do roku 1508 knížecím hradem slezských (těšínských) panovníků a po roce 1327 lénem Koruny české. V roce 1508 jej koupil Jan Sedlnický z Choltic a přestavěl na zámek, od roku 1714 patřil rodu Wilczků až do vyvlastnění v roce 1945, kdy byl poškozen důlní činností. Chátrající hrad koupilo město Ostrava a po rekonstrukci jej roku 2004 zpřístupnilo veřejnosti.",
+  "summary": "Slezskoostravský hrad vybudovali ve 13. století těšínští Piastovci k ochraně hranice na řece Ostravici; první nepřímá zmínka je z roku 1297. Roku 1508 jej získal Jan Sedlnický z Choltic a přestavěl na renesanční zámek, od roku 1714 jej držel rod Wilczků do roku 1945, kdy jej převzal stát. Zámek zničila důlní činnost a zanedbání, v letech 1993-2000 patřil soukromé firmě a od roku 2000 městu Ostrava, které jej po rekonstrukci roku 2004 zpřístupnilo.",
   "owners": [
    {
-    "owner": "koruna",
-    "owner_wiki": null,
+    "owner": "piastovci",
+    "owner_wiki": "Piastovci",
     "person": null,
     "from": 1260,
     "to": 1508,
     "from_approx": true,
     "to_approx": false,
     "how": "zalozeni",
-    "note": "knížecí hrad slezských (těšínských) panovníků, od 1327 léno Koruny české"
+    "note": "knížecí hrad slezských (těšínských) Piastovců; od 1327 léno Koruny české; rok založení jen odhad z 2. pol. 13. stol."
    },
    {
     "owner": "sedlnicti-z-choltic",
@@ -46972,45 +47068,68 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "přestavba hradu na zámek 1534-1548"
+    "note": "Jan Sedlnický z Choltic panství získal 1508 (cs.wiki koupě), přestavba na renesanční zámek 1534-1548 (cs.wiki), dokončena 1560 Jiřím Sedlnickým (web hradu)"
    },
    {
     "owner": "wilczkove",
     "owner_wiki": "Wilczkové",
-    "person": null,
+    "person": "Jindřich Vilém Wilczek",
     "from": 1714,
     "to": 1945,
     "from_approx": false,
     "to_approx": false,
-    "how": "koupe"
+    "how": "koupe",
+    "note": "koupě slezskoostravského panství; hrad od 18. stol. sloužil jako správa panství, nikdy nebyl rodinným sídlem"
    },
    {
     "owner": "stat",
     "owner_wiki": null,
     "person": null,
     "from": 1945,
-    "to": 1990,
+    "to": 1958,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "konfiskace",
-    "note": "objekt poškozen těžbou uhlí, chátral, 1954 vydán demoliční výměr"
+    "note": "majetek Wilczků převzat podle znárodňovacích dekretů; zřícenina v majetku dolu Trojice"
    },
    {
     "owner": "mesto",
     "owner_wiki": null,
-    "person": null,
-    "from": 1990,
-    "to": null,
-    "from_approx": true,
+    "person": "Obvodní národní výbor Slezská Ostrava",
+    "from": 1958,
+    "to": 1993,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "jine",
+    "note": "ObNV Slezská Ostrava; 1979 nepovolená demolice, 1981-1989 nelegální výstavba restaurace Rotunda a 'nového hradu'"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "EAST-WEST Leasing, s.r.o.",
+    "from": 1993,
+    "to": 2000,
+    "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "město Ostrava; rekonstrukce dokončena a hrad otevřen veřejnosti 2004"
+    "note": "firma chtěla objekt dostavět, 1998 zkrachovala"
+   },
+   {
+    "owner": "mesto",
+    "owner_wiki": null,
+    "person": "statutární město Ostrava",
+    "from": 2000,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "správu vykonává Černá louka s.r.o.; po rekonstrukci otevřeno 2004; cs.wiki uvádí jen 'město koupilo' bez roku"
    }
   ],
   "events": [
    {
     "year": 1297,
-    "text": "první písemná zmínka o hradu"
+    "text": "první nepřímá zmínka o hradu (dohoda o hranici na Ostravici, kastelán Heřman Vyzvědač)"
    },
    {
     "year": 1327,
@@ -47030,11 +47149,23 @@
    },
    {
     "year": 1945,
-    "text": "vyvlastnění a poškození hradu důlní činností"
+    "text": "po osvobození převzal majetek Wilczků stát (znárodňovací dekrety), zřícenina patřila dolu Trojice"
    },
    {
     "year": 1954,
     "text": "vydán demoliční výměr na chátrající hrad"
+   },
+   {
+    "year": 1958,
+    "text": "hrad převzal Obvodní národní výbor Slezská Ostrava"
+   },
+   {
+    "year": 1979,
+    "text": "nepovolená demolice části areálu, 1981-1989 nelegální výstavba nového hradu"
+   },
+   {
+    "year": 2000,
+    "text": "hrad získalo město Ostrava"
    },
    {
     "year": 2004,
@@ -47042,7 +47173,9 @@
    }
   ],
   "sources": [
-   "https://cs.wikipedia.org/wiki/Slezskoostravský_hrad"
+   "https://cs.wikipedia.org/wiki/Slezskoostravský_hrad",
+   "https://www.slezskoostravskyhrad.cz/cz/o-hradu/historie-a-soucasnost/",
+   "https://www.historickaostrava.cz/slezskoostravsky-hrad/"
   ]
  },
  "Q3501132": {
@@ -54568,7 +54701,7 @@
    "approx": true,
    "text": "Hrad založen nejpozději kolem roku 1270 (dle infoboxu třetí čtvrtina 13. století) rodem pánů z Medlova, kteří se podle nového sídla začali psát z Pernštejna."
   },
-  "summary": "Gotický hrad bergfritového typu založili kolem roku 1270 páni z Medlova, kteří se poté podle nového sídla začali nazývat z Pernštejna. Pernštejnům patřil hrad do roku 1596, poté se majitelé rychle střídali koupí a sňatkem (Katarin z Kataru, Licek z Rýzmburka, Lichtenstein-Castelcornové, Stockhammer, Schröffel z Mannsberku), až jej roku 1818 sňatkem získali Mitrovští z Mitrovic a Nemyšle, kteří jej drželi do roku 1945. Od té doby je v majetku státu, je přístupný veřejnosti a spravuje jej Národní památkový ústav.",
+  "summary": "Gotický hrad bergfritového typu založili mezi lety 1270 a 1285 páni z Medlova, kteří se poté podle nového sídla začali nazývat z Pernštejna. Pernštejnům patřil hrad do roku 1596, poté se majitelé rychle střídali koupí a sňatkem (Katarin z Kataru, Licek z Rýzmburka, Lichtenstein-Castelcornové, Stockhammerové, Schröfflové z Mannsbergu), až jej od roku 1818 (celý od 1828) drželi Mitrovští z Nemyšle do roku 1945. Od té doby je v majetku státu, je přístupný veřejnosti a spravuje jej Národní památkový ústav.",
   "owners": [
    {
     "owner": "pernstejnove",
@@ -54588,9 +54721,9 @@
     "from": 1596,
     "to": 1609,
     "from_approx": false,
-    "to_approx": false,
+    "to_approx": true,
     "how": "koupe",
-    "note": "rod bez vlastního článku na cs.wiki"
+    "note": "koupil od Jana z Pernštejna za 40 000 zl. (hrady.cz); písař Markrabství moravského; rod bez vlastního článku na cs.wiki"
    },
    {
     "owner": "z-ryzmburka",
@@ -54598,10 +54731,10 @@
     "person": "Adam Lev Licek z Rýzmburka",
     "from": 1609,
     "to": 1623,
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": false,
     "how": "koupe",
-    "note": "koupil od synů Pavla Katarina z Kataru; rod bez vlastního článku na cs.wiki"
+    "note": "koupil od synů Pavla Katarina z Kataru; rod bez vlastního článku na cs.wiki; hrady.cz uvádí přechod na Licka roku 1604, cs.wiki 1609"
    },
    {
     "owner": "lichtenstein-castelcornove",
@@ -54621,9 +54754,9 @@
     "from": 1710,
     "to": 1798,
     "from_approx": false,
-    "to_approx": false,
+    "to_approx": true,
     "how": "koupe",
-    "note": "vládní rada; rod bez vlastního článku na cs.wiki"
+    "note": "vládní rada; rod bez vlastního článku na cs.wiki; hrady.cz uvádí držení Stockhammerů do 1793, oficiální web hradu a cs.wiki 1798"
    },
    {
     "owner": "z-mannsberku",
@@ -54633,8 +54766,8 @@
     "to": 1818,
     "from_approx": false,
     "to_approx": false,
-    "how": "neznamo",
-    "note": "cs.wiki neuvádí způsob nabytí od Stockhammerů; rod bez vlastního článku"
+    "how": "koupe",
+    "note": "koupil od Stockhammerů (hrady.cz, oficiální web hradu 1798)"
    },
    {
     "owner": "mitrovsti-z-mitrovic-a-nemysle",
@@ -54645,7 +54778,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "snatek",
-    "note": "Vilém Mitrovský z Nemyšle si roku 1818 vzal Josefinu, dceru Ignáce Schröffela z Mannsberku"
+    "note": "1813 (cs.wiki 1818) sňatek Viléma Mitrovského s Josefinou Schröfflovou z Mannsbergu přinesl jen polovinu panství (podíl při sňatku 1818 podle webu hradu), druhou polovinu od švagrové Antonie Esterházyové dokoupil 24. 2. 1828; majitelé pobývali na Pernštejně jen občas (sídla Sokolnice, Dolní Rožínka); poslední majitel Vladimír III. Mitrovský"
    },
    {
     "owner": "stat",
@@ -54656,7 +54789,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "konfiskace",
-    "note": "cs.wiki neupřesňuje přesný mechanismus přechodu na stát roku 1945; dnes ve správě Národního památkového ústavu, přístupné veřejnosti"
+    "note": "1945 konfiskace majetku Mitrovských podle Benešových dekretů; od 1949 systematická památková péče a zpřístupnění; dnes ve správě NPÚ"
    }
   ],
   "events": [
@@ -54681,6 +54814,14 @@
     "text": "obléhání Švédy za třicetileté války, poškození střech a věží"
    },
    {
+    "year": 1655,
+    "text": "Pernštejn prohlášen moravskou zemskou pevností"
+   },
+   {
+    "year": 1828,
+    "text": "Vilém Mitrovský dokoupil druhou polovinu panství a získal hrad celý"
+   },
+   {
     "year": 1945,
     "text": "konec šlechtického vlastnictví rodu Mitrovských, hrad přechází na stát"
    },
@@ -54694,7 +54835,10 @@
    }
   ],
   "sources": [
-   "https://cs.wikipedia.org/wiki/Pernštejn_(hrad)"
+   "https://cs.wikipedia.org/wiki/Pernštejn_(hrad)",
+   "https://update.hrad-pernstejn.cz/cs/o-hradu/historie",
+   "https://www.hrady.cz/hrad-pernstejn-brno-venkov/texty?pos=300&tid=3477",
+   "https://www.korunavysociny.cz/novinky/3365-pernstejn-v-rukou-rodu-mitrovskych"
   ]
  },
  "Q695042": {
@@ -55030,7 +55174,7 @@
    "approx": true,
    "text": "konec 13. století (nejpravděpodobněji kolem 1294), založení připisováno biskupu Tobiáši z Bechyně nebo přímo panovníkovi"
   },
-  "summary": "Konopiště patřilo od počátku 14. století Benešovicům, poté téměř 260 let Šternberkům, kteří hrad roku 1467-1468 úspěšně ubránili při obléhání vojskem Jiřího z Poděbrad. Po řadě dalších majitelů (Hodějovští, Valdštejn, Michnové, Vrtbové, Lobkovicové) koupil zámek v roce 1887 arcivévoda František Ferdinand d'Este, jehož zavraždění v Sarajevu 1914 odstartovalo první světovou válku. Po vzniku Československa byl habsburský majetek roku 1921 zkonfiskován a Konopiště od té doby patří státu.",
+  "summary": "Konopiště patřilo od počátku 14. století Benešovicům, poté přes dvě a půl století Šternberkům, kteří hrad roku 1467-1468 ubránili při obléhání vojskem Jiřího z Poděbrad. Po řadě dalších majitelů (Hodějovští, Valdštejn, Michnové, Sinzendorfové, Vrtbové, Lobkovicové) koupil zámek v roce 1887 arcivévoda František Ferdinand d'Este, jehož zavraždění v Sarajevu 1914 odstartovalo první světovou válku. Habsburský majetek byl zákonem z roku 1921 zkonfiskován a Konopiště od té doby patří státu, správu zajišťuje Národní památkový ústav.",
   "owners": [
    {
     "owner": "benesovici",
@@ -55050,31 +55194,31 @@
     "from": 1327,
     "to": 1590,
     "from_approx": false,
-    "to_approx": false,
+    "to_approx": true,
     "how": "dedictvi",
-    "note": "1467-1468 osmnáctiměsíční obležení vojskem Jiřího z Poděbrad, hrad se ubránil"
+    "note": "1467-1468 osmnáctiměsíční obležení vojskem Jiřího z Poděbrad, hrad se ubránil (kapitulace posádky prosinec 1468, potomci Zdeňka ze Šternberka hrad získali zpět 1479); cs.wiki: Šternberkové do 1590, web zámku: 275 let od 1327 (tj. do cca 1602)"
    },
    {
-    "owner": "soukromnik",
+    "owner": "z-kunovic",
     "owner_wiki": null,
-    "person": "Dorota Hodějovská z Harasova",
+    "person": "Arkleb z Kunovic",
     "from": 1590,
     "to": 1603,
     "from_approx": true,
     "to_approx": false,
-    "how": "koupe",
-    "note": "panství prodáno komisionálně 1603 za 110 000 kop grošů míšeňských"
+    "how": "neznamo",
+    "note": "podle seznamu majitelů na cs.wiki; 1602 požádal zemský soud o komisionální prodej panství zatíženého dluhy přes 86 tisíc kop grošů"
    },
    {
     "owner": "hodejovsti-z-hodejova",
     "owner_wiki": "Hodějovští z Hodějova",
-    "person": "Bernard Hodějovský",
+    "person": "Dorota Hodějovská z Harasova a Bernard Hodějovský",
     "from": 1603,
     "to": 1623,
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "protestantská rodina, po stavovském povstání 1618-1620 majetek zkonfiskován"
+    "note": "panství koupeno 18. 10. 1603 za 110 000 kop grošů míšeňských (cs.wiki: Dorota Hodějovská z Harasova; pamatky.cz: Bernard Hodějovský); protestanti, po povstání 1618-1620 majetek zkonfiskován, na hradě pobýval zimní král Fridrich Falcký"
    },
    {
     "owner": "valdstejnove",
@@ -55131,13 +55275,13 @@
    {
     "owner": "lobkovicove",
     "owner_wiki": "Lobkovicové",
-    "person": null,
+    "person": "Jan Nepomuk Karel z Lobkowicz, od 1878 František Eugen z Lobkowicz",
     "from": 1830,
     "to": 1887,
     "from_approx": false,
     "to_approx": false,
-    "how": "koupe",
-    "note": "první novogotická přestavba před rokem 1872"
+    "how": "dedictvi",
+    "note": "1830 univerzální dědic Jana Josefa z Vrtby (křimická větev); první novogotická přestavba před rokem 1872; zadlužený František Eugen zámek 1887 prodal"
    },
    {
     "owner": "habsburkove",
@@ -55204,7 +55348,10 @@
    }
   ],
   "sources": [
-   "https://cs.wikipedia.org/wiki/Konopiště"
+   "https://cs.wikipedia.org/wiki/Konopiště",
+   "https://zamek-konopiste.cz/cs/o-zamku/historie",
+   "https://www.pamatky.cz/pamatky/zamek-konopiste",
+   "https://exa.ai/library/publication/5vd9gkzq3f4"
   ]
  },
  "Q745696": {
@@ -57163,28 +57310,77 @@
    "approx": true,
    "text": "koncem 12. století zde stával dřevohlinitý hrad, v první polovině 13. století rozšířený v pozdně románském slohu"
   },
-  "summary": "Na místě dnešního zámku stával od konce 12. století valtický hrad, který koncem 14. století získali Lichtenštejnové a učinili z něj trvalé sídlo jedné z větví rodu. Od počátku 17. století, kdy byl Karel I. z Lichtenštejna povýšen do knížecího stavu, procházel areál rozsáhlou barokní přestavbou (architekti Tencalla, Erna, Martinelli, Fischer z Erlachu), vyvrcholenou za Karla Eusebia a Jana Adama I. z Lichtenštejna; středověký hrad byl definitivně zbořen v letech 1744/1745. Zámek zůstal knížecím sídlem Lichtenštejnů až do roku 1945, kdy byl rodu bez náhrady vyvlastněn na základě Benešových dekretů. Od té doby je majetkem československého, resp. českého státu; spolu se zámkem Lednice je součástí Lednicko-valtického areálu zapsaného na seznam světového dědictví UNESCO.",
+  "summary": "Na místě dnešního zámku stával středověký hrad, který ve 13. a 14. století držely rakouské rody (Seefeldové, Kuenringové a Rauhensteinové, Pottendorfové, Puchheimové) a který od konce 14. století (1395) patřil Lichtenštejnům. Po ztrátě Mikulova (1560) se Valtice staly hlavním sídlem rodu a od počátku 17. století, kdy byl Karel I. povýšen do knížecího stavu (1608), procházel areál rozsáhlou barokní přestavbou; středověký hrad byl zbořen 1744/1745. Zámek zůstal knížecím sídlem do roku 1945, kdy byl rodu bez náhrady vyvlastněn. Dnes je majetkem státu (spravuje NPÚ) a spolu s Lednicí tvoří světové dědictví UNESCO.",
   "owners": [
    {
-    "owner": "neznamo",
+    "owner": "seefeldove",
+    "owner_wiki": null,
     "person": null,
-    "from": 1175,
-    "to": 1390,
-    "from_approx": true,
+    "from": null,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "středověké opevněné sídlo, podle oficiálního webu zámku vzniklé nejspíš v souvislosti s kolonizací pasovských biskupů ve 2. pol. 11. stol.; Seefeldové vymřeli po meči ve 13. století",
+    "to_unknown": true
+   },
+   {
+    "owner": "kuenringove",
+    "owner_wiki": "Kuenringové",
+    "person": null,
+    "from": null,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "13. a počátek 14. století společně s Rauhensteiny (oficiální web zámku a města Valtice); roky zdroje neuvádějí",
+    "to_unknown": true
+   },
+   {
+    "owner": "rauhensteinove",
+    "owner_wiki": null,
+    "person": null,
+    "from": null,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "s Kuenringy; na počátku 14. stol. oba rody prodali podíl Pottendorfům",
+    "to_unknown": true
+   },
+   {
+    "owner": "pottendorfove",
+    "owner_wiki": null,
+    "person": null,
+    "from": null,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "podíl koupen od Kuenringů a Rauhensteinů; část obce později získali Puchheimové",
+    "to_unknown": true
+   },
+   {
+    "owner": "puchheimove",
+    "owner_wiki": null,
+    "person": null,
+    "from": null,
+    "to": 1395,
+    "from_approx": false,
     "to_approx": true,
     "how": "neznamo",
-    "note": "dřevohlinitý a později kamenný hrad před příchodem Lichtenštejnů, majitelé blíže nedoloženi"
+    "note": "část Valtic koupil od nich 1. 2. 1395 Jan z Lichtenštejna (listina)"
    },
    {
     "owner": "lichtenstejnove",
     "owner_wiki": "Lichtenštejnové",
     "person": null,
-    "from": 1390,
+    "from": 1395,
     "to": 1608,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "areál získali koncem 14. století; za Hartmana I. z Lichtenštejna (+1539/1540) se stal trvalým sídlem jedné z větví rodu; 1606 zřízen rodinný fideikomis"
+    "note": "první šestinu Valtic získali ve 14. stol., podle oficiálního webu zámku koupil část od Puchheimů Jan z Lichtenštejna listinou z 1. 2. 1395 (jiná verze téhož webu: panství zcelili 1387-1391); 1394 krátká konfiskace statků Jana z Lichtenštejna, brzy vráceny; za Hartmana I. (+1539/1540) trvalé sídlo jedné z větví rodu; po ztrátě Mikulova 1560 hlavní sídlo rodu; 1606 rodinný fideikomis"
    },
    {
     "owner": "lichtenstejnove",
@@ -57280,6 +57476,14 @@
     "text": "před branou areálu postavena kaple sv. Mikuláše a sv. Kiliána (zbořena 1649)"
    },
    {
+    "year": 1395,
+    "text": "Jan z Lichtenštejna koupil část Valtic od Puchheimů, Lichtenštejnové drží celé panství"
+   },
+   {
+    "year": 1560,
+    "text": "ztráta Mikulova, Valtice se stávají hlavním sídlem Lichtenštejnů"
+   },
+   {
     "year": 1606,
     "text": "Lichtenštejnové zřizují rodinný fideikomis, do nějž spadaly i Valtice"
    },
@@ -57313,7 +57517,10 @@
    }
   ],
   "sources": [
-   "https://cs.wikipedia.org/wiki/Valtice_(zámek)"
+   "https://cs.wikipedia.org/wiki/Valtice_(zámek)",
+   "https://www.zamek-valtice.cz/cs/o-zamku/lichtenstejnove",
+   "https://update.zamek-valtice.cz/cs/o-zamku/historie",
+   "https://www.valtice.eu/mesto/historie/"
   ]
  },
  "Q884494": {
@@ -57893,7 +58100,7 @@
    "approx": true,
    "text": "podle pověsti založen kolem roku 1059 moravským údělným knížetem Konrádem I. Brněnským, první písemná zmínka je z roku 1213"
   },
-  "summary": "Veveří je jeden z nejstarších a nejrozsáhlejších hradních areálů na Moravě, založený jako zeměpanský hrad moravských Přemyslovců a později Lucemburků. V raném novověku byl v držení šlechtických rodů (Teuffenbachové, Sinzendorfové) a od 19. století patřil řadě soukromých majitelů včetně švédského prince Gustava Vasy a filantropa Maurice de Hirsche. Od roku 1925 je majetkem státu, za druhé světové války jej zabral Wehrmacht a SS, a dnes jej spravuje Národní památkový ústav.",
+  "summary": "Veveří je jeden z nejstarších a nejrozsáhlejších hradních areálů na Moravě, založený jako zeměpanský hrad moravských Přemyslovců a později Lucemburků. Od přelomu 15. a 16. století jej držela řada šlechtických rodů (Ludanicové, Pernštejnové, Lipští, Boskovicové, Lomničtí, od 1609 Teuffenbachové, od 1670 Collaltové a od 1706 Sinzendorfové). V 19. století patřil soukromým majitelům včetně švédského prince Gustava Vasy a filantropa Maurice de Hirsche. Od roku 1924-1925 je majetkem státu a od 1999 jej spravuje Národní památkový ústav.",
   "owners": [
    {
     "owner": "koruna",
@@ -57966,44 +58173,110 @@
     "owner_wiki": "Páni z Ludanic",
     "person": "Václav z Ludanic",
     "from": 1490,
-    "to": 1550,
+    "to": 1510,
     "from_approx": true,
     "to_approx": true,
     "how": "neznamo",
-    "note": "na konci 15. století; poté se majitelé podle zdroje střídali blíže neurčeně"
+    "note": "cs.wiki: konec 15. stol. Václav z Ludanic; NPÚ (soupispamatek.cz): od 1510 Zikmund z Ludanic, dále se střídali Jan z Pernštejna, páni z Lipé, páni z Boskovic, Znata z Lomnice"
+   },
+   {
+    "owner": "pernstejnove",
+    "owner_wiki": "Pernštejnové",
+    "person": "Jan z Pernštejna",
+    "from": 1510,
+    "to": 1530,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "pořadí podle NPÚ; roky zdroj neuvádí"
+   },
+   {
+    "owner": "pani-z-lipe",
+    "owner_wiki": "Páni z Lipé",
+    "person": null,
+    "from": 1530,
+    "to": 1551,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "pořadí podle NPÚ; roky zdroj neuvádí"
+   },
+   {
+    "owner": "boskovicove",
+    "owner_wiki": "Boskovicové",
+    "person": "páni z Boskovic",
+    "from": 1551,
+    "to": 1571,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "pořadí podle NPÚ; roky zdroj neuvádí"
+   },
+   {
+    "owner": "pani-z-lomnice",
+    "owner_wiki": "Páni z Lomnice",
+    "person": "Znata z Lomnice a na Říčanech",
+    "from": 1571,
+    "to": 1591,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "pořadí podle NPÚ; roky zdroj neuvádí"
+   },
+   {
+    "owner": "meziricti-z-lomnice",
+    "owner_wiki": "Meziříčtí z Lomnice",
+    "person": "Tas Meziříčský z Lomnice",
+    "from": 1591,
+    "to": 1609,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "podle NPÚ (soupispamatek.cz)"
    },
    {
     "owner": "teuffenbachove",
     "owner_wiki": "Teuffenbachové",
-    "person": null,
-    "from": 1550,
-    "to": 1707,
-    "from_approx": true,
+    "person": "Zikmund z Teuffenbachu",
+    "from": 1609,
+    "to": 1670,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "snatek",
+    "note": "získal sňatkem (en.wiki, 1609); NPÚ: od 1609 Teuffenbachové; po Bílé hoře (1620) si panství ponechali; 1645 hrad odolal švédskému obléhání"
+   },
+   {
+    "owner": "collaltove",
+    "owner_wiki": "Collaltové",
+    "person": "Leopold hrabě Collalto",
+    "from": 1670,
+    "to": 1706,
+    "from_approx": false,
     "to_approx": false,
     "how": "neznamo",
-    "note": "uvedeni v infoboxu článku mezi dalšími majiteli panství, přesná data nabytí zdroj neuvádí; roku 1645 hrad odolal švédskému obléhání za třicetileté války"
+    "note": "cs.wiki Collalty neuvádí; NPÚ: od 1670 Collaltové, do 1706 Leopold Collalto"
    },
    {
     "owner": "sinzendorfove",
     "owner_wiki": "Sinzendorfové",
     "person": "Prosper ze Sinzendorfu",
-    "from": 1707,
-    "to": 1804,
+    "from": 1706,
+    "to": 1802,
     "from_approx": false,
     "to_approx": false,
     "how": "neznamo",
-    "note": "barokní úpravy hradu, mj. fresky v jídelně; roku 1741 hrad vyplenilo pruské vojsko"
+    "note": "cs.wiki 1707, NPÚ 1706; barokní úpravy, fresky v jídelně; 1741 hrad vyplenili Prusové; od 1756 Václav Jan ze Sinzendorfu; cs.wiki prodej Mundymu 1804, NPÚ 1802"
    },
    {
     "owner": "soukromnik",
     "owner_wiki": null,
     "person": "Vilém Mundy",
-    "from": 1804,
+    "from": 1802,
     "to": 1825,
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": true,
     "how": "koupe",
-    "note": "průmyslník, spojil panství s tišnovským"
+    "note": "průmyslník, spojil panství s tišnovským; cs.wiki koupě 1804, NPÚ od 1802"
    },
    {
     "owner": "soukromnik",
@@ -58047,7 +58320,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "vnučka Georga Simona von Sina; po roce 1870 vznikl anglický park"
+    "note": "vnučka Georga Simona von Sina (NPÚ: dcera); po roce 1870 vznikl anglický park; do 1881"
    },
    {
     "owner": "hirschove-z-gereuthu",
@@ -58056,20 +58329,31 @@
     "from": 1881,
     "to": 1896,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "koupe",
-    "note": "židovský filantrop a obchodník; roku 1908 na hradě strávil část svatební cesty Winston Churchill jako host jeho nástupce"
+    "note": "židovský filantrop a obchodník; zemřel 1896"
+   },
+   {
+    "owner": "hirschove-z-gereuthu",
+    "owner_wiki": "Hirschové z Gereuthu",
+    "person": "Klára de Hirsch (vdova)",
+    "from": 1896,
+    "to": 1899,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "dedictvi",
+    "note": "podle NPÚ a en.wiki; zemřela 1899"
    },
    {
     "owner": "soukromnik",
     "owner_wiki": null,
     "person": "Mořic Arnold de Forest-Bischofsheim",
-    "from": 1896,
+    "from": 1899,
     "to": 1925,
     "from_approx": true,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "anglický baron, příbuzný manželky Maurice de Hirsche; vedl spor s Československou republikou o pozemkovou reformu"
+    "note": "anglický baron, příbuzný manželky Maurice de Hirsche; cs.wiki: zdědil po Hirschově smrti (1896), NPÚ a en.wiki: do 1899 vdova Klára; vedl spor s Československou republikou o pozemkovou reformu; roku 1908 na hradě svatební cesta Winstona Churchilla"
    },
    {
     "owner": "stat",
@@ -58077,10 +58361,10 @@
     "person": null,
     "from": 1925,
     "to": null,
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": false,
     "how": "koupe",
-    "note": "od 1999 ve správě Národního památkového ústavu; v letech 1942-1945 zabaven Wehrmachtem a SS, 1953-1999 užíván školami a VUT Brno"
+    "note": "cs.wiki 1925, NPÚ od 1924; 1924 lesnické učiliště, 1942-1945 Wehrmacht a SS, od 1972 VUT Brno, od 1999 NPÚ"
    }
   ],
   "events": [
@@ -58105,6 +58389,10 @@
     "text": "hrad odolal obléhání švédskými vojsky za třicetileté války"
    },
    {
+    "year": 1741,
+    "text": "hrad dobyt a vypleněn pruským vojskem"
+   },
+   {
     "year": 1925,
     "text": "hrad přechází do vlastnictví československého státu"
    },
@@ -58118,7 +58406,9 @@
    }
   ],
   "sources": [
-   "https://cs.wikipedia.org/wiki/Veveří_(hrad)"
+   "https://cs.wikipedia.org/wiki/Veveří_(hrad)",
+   "https://www.soupispamatek.cz/arl-kcz/en/detail-kcz_un_auth-0001498-Castle-Veveri/",
+   "https://en.wikipedia.org/wiki/Veve%C5%99%C3%AD_Castle"
   ]
  },
  "Q940492": {

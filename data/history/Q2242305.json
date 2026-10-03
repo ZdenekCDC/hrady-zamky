@@ -6,7 +6,7 @@
   "approx": true,
   "text": "zámek vznikl na místě vodní tvrze pánů z Kunštátu; první zmínka o tvrzi z roku 1476, Lysické panství k Kunštátům připojeno již před rokem 1320"
  },
- "summary": "Barokní zámek v Lysicích vznikl na místě vodní tvrze pánů z Kunštátu, kteří panství drželi od počátku 14. století do roku 1521. Poté se vystřídala řada majitelů - Pernštejnové, Černčičtí z Kácova, Březničtí z Náchoda, po bankrotu posledního z nich několik krátkodobých držitelů, Serényiové (barokní přestavba 1705-1711), Ditrichštejnové a Piatiové. Od počátku 19. století zámek sňatkem získali Dubští z Třebomyslic, za nichž prošel klasicistními úpravami a stal se centrem intelektuálního života; posledním majitelem z rodu byl Albrecht Dubský z Třebomyslic. Roku 1945 byl zámek na základě Benešových dekretů zkonfiskován a od té doby je majetkem státu, spravovaným Národním památkovým ústavem.",
+ "summary": "Barokní zámek v Lysicích vznikl na místě vodní tvrze pánů z Kunštátu, kteří panství drželi od počátku 14. století do roku 1521. Poté se vystřídala řada majitelů - Pernštejnové, Černčičtí z Kácova, Březničtí z Náchoda, po bankrotu posledního z nich několik krátkodobých držitelů, Serényiové (barokní přestavba 1705-1711), Ditrichštejnové a Piatiové. Po vymření Piatiů 1807 (dle obce 1811) zámek dědictvím po Antonii Piati získali Dubští z Třebomyslic, za nichž prošel klasicistními úpravami a stal se centrem intelektuálního života; posledním majitelem z rodu byl Albrecht Dubský z Třebomyslic. Roku 1945 byl zámek na základě Benešových dekretů zkonfiskován a od té doby je majetkem státu, spravovaným Národním památkovým ústavem.",
  "owners": [
   {
    "owner": "pani-z-kunstatu-a-podebrad",
@@ -15,9 +15,9 @@
    "from": 1308,
    "to": 1521,
    "from_approx": true,
-   "to_approx": false,
+   "to_approx": true,
    "how": "zalozeni",
-   "note": "Lysické panství připojeno ke kunštátskému před rokem 1320; roku 1451 zdědil Procek z Kunštátu a Opatovic; 1521 Ludvík Zajímač z Kunštátu panství prodal"
+   "note": "Lysické panství připojeno ke kunštátskému před rokem 1320; roku 1451 zdědil Procek z Kunštátu a Opatovic; 1521 Ludvík Zajímač z Kunštátu panství prodal; web zámku: první nepřímá zmínka 1308 (Heralt z Kunštátu), web obce: Herald z Kunštátu koupil Lysice 1308-1316, předtím Hrabiš ze Švábenic (1278-1282) a Heroltici; cs.wiki: připojeno před 1320; web zámku: 1514 Ludvík Zajímač postoupil Lysice Vilémovi z Pernštejna (obec: Pernštejnové 1520-1529)"
   },
   {
    "owner": "pernstejnove",
@@ -25,10 +25,10 @@
    "person": "Vilém II. z Pernštejna",
    "from": 1521,
    "to": 1528,
-   "from_approx": false,
-   "to_approx": false,
+   "from_approx": true,
+   "to_approx": true,
    "how": "koupe",
-   "note": "roku 1528 Pernštejnové Lysice směnili s Janem Černčickým z Kácova za panství Nové Město nad Metují"
+   "note": "roku 1528 Pernštejnové Lysice směnili s Janem Černčickým z Kácova za panství Nové Město nad Metují; web obce uvádí 1520-1529, web zámku 'o patnáct let později prodali'"
   },
   {
    "owner": "cerncicti-z-kacova",
@@ -37,20 +37,20 @@
    "from": 1528,
    "to": 1584,
    "from_approx": false,
-   "to_approx": false,
+   "to_approx": true,
    "how": "vymena",
-   "note": "syn Diviš Černčický nechal v 50. letech 16. stol. tvrz přestavět"
+   "note": "syn Diviš Černčický nechal v 50. letech 16. stol. tvrz přestavět; web obce 1529-1584; 1576 Jan Purkart, který 1584 prodal Hronovi Březnickému (web zámku)"
   },
   {
    "owner": "pani-z-nachoda",
    "owner_wiki": "Páni z Náchoda",
-   "person": "Jindřich Březnický z Náchoda",
+   "person": "Hron Březnický z Náchoda",
    "from": 1584,
-   "to": 1675,
+   "to": 1678,
    "from_approx": false,
-   "to_approx": false,
+   "to_approx": true,
    "how": "koupe",
-   "note": "větev Březničtí z Náchoda; po Jindřichovi Hron (renesanční přestavba), Jiří Březnický z Náchoda (1589-1634) a Ferdinand Leopold Březnický (1625-1677), který panství pro dluhy prodal"
+   "note": "web zámku: 1584 koupil Hron Březnický z Náchoda (luterán), cs.wiki uvádí Jindřicha; Jiří Březnický (1608-1634), František (Ferdinand) Leopold, který 1652 vymohl povýšení Lysic na městečko, zemřel 1660/1677 (zdroje se liší) a odkázal Lysice manželce Alžbětě; cs.wiki konec 1675, web obce a regionem.cz 1678"
   },
   {
    "owner": "soukromnik",
@@ -70,18 +70,18 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "krátkodobý držitel; podle jiné verze se panství roku 1685 jako odúmrť dostalo císaři, který je prodal Serényiům"
+   "note": "ostřihomský arcibiskup Jiří Szelepcsényi (1678-1686); podle cs.wiki a webu obce panství 1685 jako odúmrť prodal císař Leopold Serényiům"
   },
   {
    "owner": "serenyiove",
    "owner_wiki": "Serényiové",
-   "person": "Antonín Amatus Serényi",
+   "person": "sirotci po Janu Karlovi Serényim, od 1706 Antonín Amatus Serényi",
    "from": 1686,
    "to": 1740,
    "from_approx": false,
-   "to_approx": false,
+   "to_approx": true,
    "how": "koupe",
-   "note": "baroková přestavba zámku 1705-1711 (stavitel Mořic Grimm); Antonín Amatus pro dluhy v závěti nařídil panství prodat"
+   "note": "web zámku: Serényiové vlastnili do 1740 (web obce 1745); barokní přestavba 1705-1711 (stavitel Mořic Grimm); Antonín Amatus (zemřel 1738) pro dluhy nařídil prodej"
   },
   {
    "owner": "ditrichstejnove",
@@ -103,7 +103,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "dále Emanuel Piati (selské povstání 1783) a Antonie Piati, centrum intelektuálního života"
+   "note": "dále Emanuel Piati (od 1762, selské povstání 1783) a Antonie Piati; 1807 Piatiové vymřeli po meči"
   },
   {
    "owner": "dubsti-z-trebomyslic",
@@ -114,7 +114,7 @@
    "from_approx": true,
    "to_approx": false,
    "how": "snatek",
-   "note": "panství získáno sňatkem počátkem 19. stol.; posledním majitelem byl Albrecht Dubský z Třebomyslic (1882-1962)"
+   "note": "po vymření Piatiů dědička Antonie Piati provdaná Dubská, držení jejího manžela Františka Dubského; web obce a regionem.cz uvádějí 1811; Emanuel (1806-1881), Quido, Albrecht (1882-1962) poslední majitel"
   },
   {
    "owner": "stat",
@@ -162,6 +162,9 @@
   }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Lysice_(zámek)"
+  "https://cs.wikipedia.org/wiki/Lysice_(zámek)",
+  "https://www.zamek-lysice.cz/cs/o-zamku/historie",
+  "https://www.lysice.cz/mestys/historie/",
+  "https://www.regionem.cz/clanek/lysice-zamek-kde-zahradou-prochazi-kolonada-a-fikovna-ma-posuvnou-strechu/"
  ]
 }

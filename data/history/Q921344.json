@@ -6,7 +6,7 @@
   "approx": true,
   "text": "podle pověsti založen kolem roku 1059 moravským údělným knížetem Konrádem I. Brněnským, první písemná zmínka je z roku 1213"
  },
- "summary": "Veveří je jeden z nejstarších a nejrozsáhlejších hradních areálů na Moravě, založený jako zeměpanský hrad moravských Přemyslovců a později Lucemburků. V raném novověku byl v držení šlechtických rodů (Teuffenbachové, Sinzendorfové) a od 19. století patřil řadě soukromých majitelů včetně švédského prince Gustava Vasy a filantropa Maurice de Hirsche. Od roku 1925 je majetkem státu, za druhé světové války jej zabral Wehrmacht a SS, a dnes jej spravuje Národní památkový ústav.",
+ "summary": "Veveří je jeden z nejstarších a nejrozsáhlejších hradních areálů na Moravě, založený jako zeměpanský hrad moravských Přemyslovců a později Lucemburků. Od přelomu 15. a 16. století jej držela řada šlechtických rodů (Ludanicové, Pernštejnové, Lipští, Boskovicové, Lomničtí, od 1609 Teuffenbachové, od 1670 Collaltové a od 1706 Sinzendorfové). V 19. století patřil soukromým majitelům včetně švédského prince Gustava Vasy a filantropa Maurice de Hirsche. Od roku 1924-1925 je majetkem státu a od 1999 jej spravuje Národní památkový ústav.",
  "owners": [
   {
    "owner": "koruna",
@@ -79,44 +79,110 @@
    "owner_wiki": "Páni z Ludanic",
    "person": "Václav z Ludanic",
    "from": 1490,
-   "to": 1550,
+   "to": null,
    "from_approx": true,
-   "to_approx": true,
+   "to_approx": false,
    "how": "neznamo",
-   "note": "na konci 15. století; poté se majitelé podle zdroje střídali blíže neurčeně"
+   "note": "cs.wiki: konec 15. stol. Václav z Ludanic; NPÚ (soupispamatek.cz): od 1510 Zikmund z Ludanic, dále se střídali Jan z Pernštejna, páni z Lipé, páni z Boskovic, Znata z Lomnice"
+  },
+  {
+   "owner": "pernstejnove",
+   "owner_wiki": "Pernštejnové",
+   "person": "Jan z Pernštejna",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "pořadí podle NPÚ; roky zdroj neuvádí"
+  },
+  {
+   "owner": "pani-z-lipe",
+   "owner_wiki": "Páni z Lipé",
+   "person": null,
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "pořadí podle NPÚ; roky zdroj neuvádí"
+  },
+  {
+   "owner": "boskovicove",
+   "owner_wiki": "Boskovicové",
+   "person": "páni z Boskovic",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "pořadí podle NPÚ; roky zdroj neuvádí"
+  },
+  {
+   "owner": "pani-z-lomnice",
+   "owner_wiki": "Páni z Lomnice",
+   "person": "Znata z Lomnice a na Říčanech",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "pořadí podle NPÚ; roky zdroj neuvádí"
+  },
+  {
+   "owner": "meziricti-z-lomnice",
+   "owner_wiki": "Meziříčtí z Lomnice",
+   "person": "Tas Meziříčský z Lomnice",
+   "from": 1591,
+   "to": 1609,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "podle NPÚ (soupispamatek.cz)"
   },
   {
    "owner": "teuffenbachove",
    "owner_wiki": "Teuffenbachové",
-   "person": null,
-   "from": 1550,
-   "to": 1707,
-   "from_approx": true,
+   "person": "Zikmund z Teuffenbachu",
+   "from": 1609,
+   "to": 1670,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "snatek",
+   "note": "získal sňatkem (en.wiki, 1609); NPÚ: od 1609 Teuffenbachové; po Bílé hoře (1620) si panství ponechali; 1645 hrad odolal švédskému obléhání"
+  },
+  {
+   "owner": "collaltove",
+   "owner_wiki": "Collaltové",
+   "person": "Leopold hrabě Collalto",
+   "from": 1670,
+   "to": 1706,
+   "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "uvedeni v infoboxu článku mezi dalšími majiteli panství, přesná data nabytí zdroj neuvádí; roku 1645 hrad odolal švédskému obléhání za třicetileté války"
+   "note": "cs.wiki Collalty neuvádí; NPÚ: od 1670 Collaltové, do 1706 Leopold Collalto"
   },
   {
    "owner": "sinzendorfove",
    "owner_wiki": "Sinzendorfové",
    "person": "Prosper ze Sinzendorfu",
-   "from": 1707,
-   "to": 1804,
+   "from": 1706,
+   "to": 1802,
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "barokní úpravy hradu, mj. fresky v jídelně; roku 1741 hrad vyplenilo pruské vojsko"
+   "note": "cs.wiki 1707, NPÚ 1706; barokní úpravy, fresky v jídelně; 1741 hrad vyplenili Prusové; od 1756 Václav Jan ze Sinzendorfu; cs.wiki prodej Mundymu 1804, NPÚ 1802"
   },
   {
    "owner": "soukromnik",
    "owner_wiki": null,
    "person": "Vilém Mundy",
-   "from": 1804,
+   "from": 1802,
    "to": 1825,
-   "from_approx": false,
+   "from_approx": true,
    "to_approx": true,
    "how": "koupe",
-   "note": "průmyslník, spojil panství s tišnovským"
+   "note": "průmyslník, spojil panství s tišnovským; cs.wiki koupě 1804, NPÚ od 1802"
   },
   {
    "owner": "soukromnik",
@@ -160,7 +226,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "vnučka Georga Simona von Sina; po roce 1870 vznikl anglický park"
+   "note": "vnučka Georga Simona von Sina (NPÚ: dcera); po roce 1870 vznikl anglický park; do 1881"
   },
   {
    "owner": "hirschove-z-gereuthu",
@@ -169,20 +235,31 @@
    "from": 1881,
    "to": 1896,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "koupe",
-   "note": "židovský filantrop a obchodník; roku 1908 na hradě strávil část svatební cesty Winston Churchill jako host jeho nástupce"
+   "note": "židovský filantrop a obchodník; zemřel 1896"
+  },
+  {
+   "owner": "hirschove-z-gereuthu",
+   "owner_wiki": "Hirschové z Gereuthu",
+   "person": "Klára de Hirsch (vdova)",
+   "from": 1896,
+   "to": 1899,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "podle NPÚ a en.wiki; zemřela 1899"
   },
   {
    "owner": "soukromnik",
    "owner_wiki": null,
    "person": "Mořic Arnold de Forest-Bischofsheim",
-   "from": 1896,
+   "from": 1899,
    "to": 1925,
    "from_approx": true,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "anglický baron, příbuzný manželky Maurice de Hirsche; vedl spor s Československou republikou o pozemkovou reformu"
+   "note": "anglický baron, příbuzný manželky Maurice de Hirsche; cs.wiki: zdědil po Hirschově smrti (1896), NPÚ a en.wiki: do 1899 vdova Klára; vedl spor s Československou republikou o pozemkovou reformu; roku 1908 na hradě svatební cesta Winstona Churchilla"
   },
   {
    "owner": "stat",
@@ -190,10 +267,10 @@
    "person": null,
    "from": 1925,
    "to": null,
-   "from_approx": false,
+   "from_approx": true,
    "to_approx": false,
    "how": "koupe",
-   "note": "od 1999 ve správě Národního památkového ústavu; v letech 1942-1945 zabaven Wehrmachtem a SS, 1953-1999 užíván školami a VUT Brno"
+   "note": "cs.wiki 1925, NPÚ od 1924; 1924 lesnické učiliště, 1942-1945 Wehrmacht a SS, od 1972 VUT Brno, od 1999 NPÚ"
   }
  ],
  "events": [
@@ -218,6 +295,10 @@
    "text": "hrad odolal obléhání švédskými vojsky za třicetileté války"
   },
   {
+   "year": 1741,
+   "text": "hrad dobyt a vypleněn pruským vojskem"
+  },
+  {
    "year": 1925,
    "text": "hrad přechází do vlastnictví československého státu"
   },
@@ -231,6 +312,8 @@
   }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Veveří_(hrad)"
+  "https://cs.wikipedia.org/wiki/Veveří_(hrad)",
+  "https://www.soupispamatek.cz/arl-kcz/en/detail-kcz_un_auth-0001498-Castle-Veveri/",
+  "https://en.wikipedia.org/wiki/Veve%C5%99%C3%AD_Castle"
  ]
 }

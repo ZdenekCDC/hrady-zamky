@@ -1,26 +1,140 @@
 {
  "id": "Q3490598",
  "name": "Slezskoostravský hrad",
- "founded": {"year": 1260, "approx": true, "text": "druhá polovina 13. století - knížecí hrad u brodu přes soutok Lučiny a Ostravice"},
- "summary": "Slezskoostravský hrad byl od svého založení až do roku 1508 knížecím hradem slezských (těšínských) panovníků a po roce 1327 lénem Koruny české. V roce 1508 jej koupil Jan Sedlnický z Choltic a přestavěl na zámek, od roku 1714 patřil rodu Wilczků až do vyvlastnění v roce 1945, kdy byl poškozen důlní činností. Chátrající hrad koupilo město Ostrava a po rekonstrukci jej roku 2004 zpřístupnilo veřejnosti.",
+ "founded": {
+  "year": 1260,
+  "approx": true,
+  "text": "druhá polovina 13. století - knížecí hrad u brodu přes soutok Lučiny a Ostravice"
+ },
+ "summary": "Slezskoostravský hrad vybudovali ve 13. století těšínští Piastovci k ochraně hranice na řece Ostravici; první nepřímá zmínka je z roku 1297. Roku 1508 jej získal Jan Sedlnický z Choltic a přestavěl na renesanční zámek, od roku 1714 jej držel rod Wilczků do roku 1945, kdy jej převzal stát. Zámek zničila důlní činnost a zanedbání, v letech 1993-2000 patřil soukromé firmě a od roku 2000 městu Ostrava, které jej po rekonstrukci roku 2004 zpřístupnilo.",
  "owners": [
-  {"owner": "koruna", "owner_wiki": null, "person": null, "from": 1260, "to": 1508, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "knížecí hrad slezských (těšínských) panovníků, od 1327 léno Koruny české"},
-  {"owner": "sedlnicti-z-choltic", "owner_wiki": "Sedlničtí z Choltic", "person": "Jan Sedlnický z Choltic", "from": 1508, "to": 1714, "from_approx": false, "to_approx": false, "how": "koupe", "note": "přestavba hradu na zámek 1534-1548"},
-  {"owner": "wilczkove", "owner_wiki": "Wilczkové", "person": null, "from": 1714, "to": 1945, "from_approx": false, "to_approx": false, "how": "koupe"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": 1990, "from_approx": false, "to_approx": true, "how": "konfiskace", "note": "objekt poškozen těžbou uhlí, chátral, 1954 vydán demoliční výměr"},
-  {"owner": "mesto", "owner_wiki": null, "person": null, "from": 1990, "to": null, "from_approx": true, "to_approx": false, "how": "koupe", "note": "město Ostrava; rekonstrukce dokončena a hrad otevřen veřejnosti 2004"}
+  {
+   "owner": "piastovci",
+   "owner_wiki": "Piastovci",
+   "person": null,
+   "from": 1260,
+   "to": 1508,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "knížecí hrad slezských (těšínských) Piastovců; od 1327 léno Koruny české; rok založení jen odhad z 2. pol. 13. stol."
+  },
+  {
+   "owner": "sedlnicti-z-choltic",
+   "owner_wiki": "Sedlničtí z Choltic",
+   "person": "Jan Sedlnický z Choltic",
+   "from": 1508,
+   "to": 1714,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Jan Sedlnický z Choltic panství získal 1508 (cs.wiki koupě), přestavba na renesanční zámek 1534-1548 (cs.wiki), dokončena 1560 Jiřím Sedlnickým (web hradu)"
+  },
+  {
+   "owner": "wilczkove",
+   "owner_wiki": "Wilczkové",
+   "person": "Jindřich Vilém Wilczek",
+   "from": 1714,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupě slezskoostravského panství; hrad od 18. stol. sloužil jako správa panství, nikdy nebyl rodinným sídlem"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": 1958,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "majetek Wilczků převzat podle znárodňovacích dekretů; zřícenina v majetku dolu Trojice"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "Obvodní národní výbor Slezská Ostrava",
+   "from": 1958,
+   "to": 1993,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "ObNV Slezská Ostrava; 1979 nepovolená demolice, 1981-1989 nelegální výstavba restaurace Rotunda a 'nového hradu'"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "EAST-WEST Leasing, s.r.o.",
+   "from": 1993,
+   "to": 2000,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "firma chtěla objekt dostavět, 1998 zkrachovala"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "statutární město Ostrava",
+   "from": 2000,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "správu vykonává Černá louka s.r.o.; po rekonstrukci otevřeno 2004; cs.wiki uvádí jen 'město koupilo' bez roku"
+  }
  ],
  "events": [
-  {"year": 1297, "text": "první písemná zmínka o hradu"},
-  {"year": 1327, "text": "slezská knížectví se stávají lénem Koruny české"},
-  {"year": 1508, "text": "koupě Janem Sedlnickým z Choltic, přestavba na zámek"},
-  {"year": 1621, "text": "vydrancování hradu neapolskými vojsky"},
-  {"year": 1714, "text": "přechod panství na rod Wilczků"},
-  {"year": 1945, "text": "vyvlastnění a poškození hradu důlní činností"},
-  {"year": 1954, "text": "vydán demoliční výměr na chátrající hrad"},
-  {"year": 2004, "text": "otevření zrekonstruovaného hradu veřejnosti"}
+  {
+   "year": 1297,
+   "text": "první nepřímá zmínka o hradu (dohoda o hranici na Ostravici, kastelán Heřman Vyzvědač)"
+  },
+  {
+   "year": 1327,
+   "text": "slezská knížectví se stávají lénem Koruny české"
+  },
+  {
+   "year": 1508,
+   "text": "koupě Janem Sedlnickým z Choltic, přestavba na zámek"
+  },
+  {
+   "year": 1621,
+   "text": "vydrancování hradu neapolskými vojsky"
+  },
+  {
+   "year": 1714,
+   "text": "přechod panství na rod Wilczků"
+  },
+  {
+   "year": 1945,
+   "text": "po osvobození převzal majetek Wilczků stát (znárodňovací dekrety), zřícenina patřila dolu Trojice"
+  },
+  {
+   "year": 1954,
+   "text": "vydán demoliční výměr na chátrající hrad"
+  },
+  {
+   "year": 1958,
+   "text": "hrad převzal Obvodní národní výbor Slezská Ostrava"
+  },
+  {
+   "year": 1979,
+   "text": "nepovolená demolice části areálu, 1981-1989 nelegální výstavba nového hradu"
+  },
+  {
+   "year": 2000,
+   "text": "hrad získalo město Ostrava"
+  },
+  {
+   "year": 2004,
+   "text": "otevření zrekonstruovaného hradu veřejnosti"
+  }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Slezskoostravský_hrad"
+  "https://cs.wikipedia.org/wiki/Slezskoostravský_hrad",
+  "https://www.slezskoostravskyhrad.cz/cz/o-hradu/historie-a-soucasnost/",
+  "https://www.historickaostrava.cz/slezskoostravsky-hrad/"
  ]
 }

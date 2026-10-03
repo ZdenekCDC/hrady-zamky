@@ -1,27 +1,209 @@
 {
  "id": "Q1014747",
  "name": "Český Šternberk",
- "founded": {"year": 1241, "approx": false, "text": "hrad založil roku 1241 Zdeslav z Divišova, jméno odvozeno od erbu hvězdy (Stern-Berg)"},
- "summary": "Český Šternberk založil roku 1241 Zdeslav z Divišova, jehož potomci si podle hradu začali říkat Šternberkové. Rod (větev Holických ze Šternberka) hrad úspěšně ubránil při obléhání vojskem Jiřího z Poděbrad (1467) a držel jej do vymření větve po meči 1712. Roku 1841 hrad koupil zpět Zdeněk ze Šternberka a rodina jej vlastnila až do znárodnění 1949; po restituci 1992 je opět v majetku Sternbergů a patří k nejnavštěvovanějším hradům v Česku.",
+ "founded": {
+  "year": 1241,
+  "approx": false,
+  "text": "hrad založil roku 1241 Zdeslav z Divišova, jméno odvozeno od erbu hvězdy (Stern-Berg)"
+ },
+ "summary": "Český Šternberk založil roku 1241 Zdeslav z Divišova a po hradu se jeho potomci nazývali Šternberkové. Hrad ve 15. století držela větev Holických ze Šternberka, po dobytí vojskem Jiřího z Poděbrad 1467 jej krátce drželi jiní a roku 1479 byl rodu vrácen. Po vymření Holických 1712 patřil hrad řadě cizích rodů (Götzové, Roggendorfové, Čejkové z Olbramovic, Hirschové, Somsichové), až jej roku 1841 koupil zpět Zdeněk ze Šternberka; 1949 byl vyvlastněn státem a roku 1992 vrácen v restituci rodině Sternbergů.",
  "owners": [
-  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": "Zdeslav z Divišova", "from": 1241, "to": 1467, "from_approx": false, "to_approx": true, "how": "zalozeni", "note": "od 15. století drží hrad větev Holických ze Šternberka; hrad dobyt 1467 vojskem Jiřího z Poděbrad"},
-  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": "Holičtí ze Šternberka (větev), naposledy Jan Václav ze Šternberka", "from": 1479, "to": 1712, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "hrad vrácen rodu králem Vladislavem Jagellonským 1479, větev vymřela po meči 1712"},
-  {"owner": "neznamo", "owner_wiki": null, "person": null, "from": 1712, "to": 1841, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "hrad se dědictvím i prodejem dostal mimo rod Šternberků, konkrétní držitelé nejsou v pramenech blíže specifikováni"},
-  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": "Zdeněk ze Šternberka", "from": 1841, "to": 1949, "from_approx": false, "to_approx": false, "how": "koupe"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1949, "to": 1992, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "Jiří Douglas Sternberg zůstal na hradě kastelánem"},
-  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": "Zdeněk Sternberg", "from": 1992, "to": 2021, "from_approx": false, "to_approx": true, "how": "restituce"},
-  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": "Filip Sternberg", "from": 2021, "to": null, "from_approx": true, "to_approx": false, "how": "dedictvi"}
+  {
+   "owner": "sternberkove",
+   "owner_wiki": "Šternberkové",
+   "person": "Zdeslav z Divišova",
+   "from": 1241,
+   "to": 1439,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "první větev (Zdeslav z Divišova a jeho potomci); 1439 podle apsida.cz vymřela po meči Petrem"
+  },
+  {
+   "owner": "sternberkove",
+   "owner_wiki": "Šternberkové",
+   "person": "Aleš Holický ze Šternberka, poté jeho syn Petr Holický (v poručnictví Zdeňka Konopišťského)",
+   "from": 1439,
+   "to": 1467,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "větev Holických ze Šternberka (apsida.cz); 1467 hrad dobyt vojskem Jiřího z Poděbrad, vinu nesl poručník Zdeněk Konopišťský"
+  },
+  {
+   "owner": "trckove-z-lipy",
+   "owner_wiki": "Trčkové z Lípy",
+   "person": "Burian Trčka z Lípy",
+   "from": 1467,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "získal pobořený hrad za zásluhy při obléhání (apsida.cz); roky nejisté"
+  },
+  {
+   "owner": "pani-z-kunstatu-a-podebrad",
+   "owner_wiki": "Páni z Kunštátu a Poděbrad",
+   "person": "Čeněk z Kunštátu",
+   "from": null,
+   "to": 1479,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "krátce před vrácením Šternberkům (apsida.cz)"
+  },
+  {
+   "owner": "sternberkove",
+   "owner_wiki": "Šternberkové",
+   "person": "Holičtí ze Šternberka (větev), naposledy Jan Václav ze Šternberka",
+   "from": 1479,
+   "to": 1712,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "restituce",
+   "note": "hrad vrácen rodu králem Vladislavem Jagellonským 1479; 1670 hrabecí titul Václava Jiřího, barokní úpravy interiérů; větev vymřela po meči 1712"
+  },
+  {
+   "owner": "z-gotzu",
+   "owner_wiki": null,
+   "person": "Jan Maxmilián Götz (manžel Anny Marie Amabilie Holické)",
+   "from": 1712,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "poslední dcera Holických se provdala za hraběte Götze; roky zdroj neuvádí"
+  },
+  {
+   "owner": "z-roggendorfu",
+   "owner_wiki": "Páni z Roggendorfu",
+   "person": "hrabata z Roggendorfu",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "snatek",
+   "note": "jediná dcera Götzových přinesla hrad sňatkem Roggendorfům"
+  },
+  {
+   "owner": "cejkove-z-olbramovic",
+   "owner_wiki": "Čejkové z Olbramovic",
+   "person": "Michal hrabě Čejka z Olbramovic",
+   "from": null,
+   "to": 1795,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "ve 2. pol. 18. stol. (sochy 1776-1779); roky nákupu zdroj neuvádí"
+  },
+  {
+   "owner": "z-sternfeldu",
+   "owner_wiki": null,
+   "person": "Ferdinand Hirsch ze Sternfeldu, zemský advokát",
+   "from": 1795,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil od syna Michala Čejky; držela rodina Hirschů do 1841"
+  },
+  {
+   "owner": "somsichove-de-saard",
+   "owner_wiki": null,
+   "person": "Luisa Hirschová provd. Somsichová, poté její syn Adolf Somsich de Saard",
+   "from": null,
+   "to": 1841,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "Luisa odkázala panství synu Adolfovi; ten roku 1841 prodal Zdeňkovi Sternbergovi"
+  },
+  {
+   "owner": "sternberkove",
+   "owner_wiki": "Šternberkové",
+   "person": "Zdeněk hrabě ze Šternberka (konopišťská větev)",
+   "from": 1841,
+   "to": 1949,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "odkoupil od Adolfa Somsicha; 1942 vnucená správa okupačními úřady, po válce navrácen; 1949 vyvlastněn; poslední majitel před znárodněním Jiří Douglas Sternberg"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1949,
+   "to": 1992,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "1949 vyvlastnění státem; Jiří Sternberg (+1965) ustanoven správcem hradu a zůstal kastelánem"
+  },
+  {
+   "owner": "sternberkove",
+   "owner_wiki": "Šternberkové",
+   "person": "Zdeněk Sternberg",
+   "from": 1992,
+   "to": 2021,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "restituce",
+   "note": "restituce 1992 podle oficiálního webu hradu a cs.wiki (cs.wiki Šternberkové uvádí 1991); syn Jiřího"
+  },
+  {
+   "owner": "sternberkove",
+   "owner_wiki": "Šternberkové",
+   "person": "Filip Sternberg",
+   "from": 2021,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "syn Zdeňka, zdědil po jeho smrti 2021; cs.wiki (Šternberkové) uvádí úmrtí Filipa Sternberga 2026, nástupce zdroje neuvádějí - současný majitel neověřen"
+  }
  ],
  "events": [
-  {"year": 1241, "text": "založení hradu Zdeslavem z Divišova"},
-  {"year": 1467, "text": "dobytí hradu vojskem Jiřího z Poděbrad, stavba předsunuté bašty"},
-  {"year": 1479, "text": "navrácení hradu Šternberkům Vladislavem Jagellonským"},
-  {"year": 1712, "text": "vymření větve Holických ze Šternberka po meči"},
-  {"year": 1841, "text": "koupě hradu zpět Zdeňkem ze Šternberka"},
-  {"year": 1949, "text": "znárodnění komunistickým státem"},
-  {"year": 1992, "text": "restituce hradu Zdeňku Sternbergovi"}
+  {
+   "year": 1241,
+   "text": "založení hradu Zdeslavem z Divišova"
+  },
+  {
+   "year": 1467,
+   "text": "dobytí hradu vojskem Jiřího z Poděbrad, stavba předsunuté bašty"
+  },
+  {
+   "year": 1479,
+   "text": "navrácení hradu Šternberkům Vladislavem Jagellonským"
+  },
+  {
+   "year": 1712,
+   "text": "vymření větve Holických ze Šternberka po meči"
+  },
+  {
+   "year": 1795,
+   "text": "hrad koupil Ferdinand Hirsch ze Sternfeldu"
+  },
+  {
+   "year": 1841,
+   "text": "koupě hradu zpět Zdeňkem ze Šternberka"
+  },
+  {
+   "year": 1942,
+   "text": "vnucená správa majetku Sternbergů okupačními úřady"
+  },
+  {
+   "year": 1949,
+   "text": "znárodnění komunistickým státem"
+  },
+  {
+   "year": 1992,
+   "text": "restituce hradu Zdeňku Sternbergovi"
+  }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Český_Šternberk_(hrad)"
+  "https://cs.wikipedia.org/wiki/Český_Šternberk_(hrad)",
+  "https://hradceskysternberk.cz/historiehrad.html",
+  "https://www.apsida.cz/hrady/strednicechy/okrbene/csternberk/csternberk.htm"
  ]
 }

@@ -1,27 +1,148 @@
 {
  "id": "Q655633",
  "name": "Pernštejn",
- "founded": {"year": 1270, "approx": true, "text": "Hrad založen nejpozději kolem roku 1270 (dle infoboxu třetí čtvrtina 13. století) rodem pánů z Medlova, kteří se podle nového sídla začali psát z Pernštejna."},
- "summary": "Gotický hrad bergfritového typu založili kolem roku 1270 páni z Medlova, kteří se poté podle nového sídla začali nazývat z Pernštejna. Pernštejnům patřil hrad do roku 1596, poté se majitelé rychle střídali koupí a sňatkem (Katarin z Kataru, Licek z Rýzmburka, Lichtenstein-Castelcornové, Stockhammer, Schröffel z Mannsberku), až jej roku 1818 sňatkem získali Mitrovští z Mitrovic a Nemyšle, kteří jej drželi do roku 1945. Od té doby je v majetku státu, je přístupný veřejnosti a spravuje jej Národní památkový ústav.",
+ "founded": {
+  "year": 1270,
+  "approx": true,
+  "text": "Hrad založen nejpozději kolem roku 1270 (dle infoboxu třetí čtvrtina 13. století) rodem pánů z Medlova, kteří se podle nového sídla začali psát z Pernštejna."
+ },
+ "summary": "Gotický hrad bergfritového typu založili mezi lety 1270 a 1285 páni z Medlova, kteří se poté podle nového sídla začali nazývat z Pernštejna. Pernštejnům patřil hrad do roku 1596, poté se majitelé rychle střídali koupí a sňatkem (Katarin z Kataru, Licek z Rýzmburka, Lichtenstein-Castelcornové, Stockhammerové, Schröfflové z Mannsbergu), až jej od roku 1818 (celý od 1828) drželi Mitrovští z Nemyšle do roku 1945. Od té doby je v majetku státu, je přístupný veřejnosti a spravuje jej Národní památkový ústav.",
  "owners": [
-  {"owner": "pernstejnove", "owner_wiki": "Pernštejnové", "person": null, "from": 1270, "to": 1596, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "první doložený příslušník roku 1285 Štěpán z Pernštejna a Medlova; roku 1596 Jan V. z Pernštejna hrad prodal"},
-  {"owner": "z-kataru", "owner_wiki": null, "person": "Pavel Katarin z Kataru", "from": 1596, "to": 1609, "from_approx": false, "to_approx": false, "how": "koupe", "note": "rod bez vlastního článku na cs.wiki"},
-  {"owner": "z-ryzmburka", "owner_wiki": null, "person": "Adam Lev Licek z Rýzmburka", "from": 1609, "to": 1623, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil od synů Pavla Katarina z Kataru; rod bez vlastního článku na cs.wiki"},
-  {"owner": "lichtenstein-castelcornove", "owner_wiki": "Lichtenstein-Castelcornové", "person": "Kryštof Pavel z Lichtenštejna-Kastelkornu", "from": 1623, "to": 1710, "from_approx": false, "to_approx": false, "how": "snatek", "note": "získal sňatkem s vdovou Ester Sejdlicovou ze Šenfeldu"},
-  {"owner": "z-stockhammeru", "owner_wiki": null, "person": "František ze Stockhammeru", "from": 1710, "to": 1798, "from_approx": false, "to_approx": false, "how": "koupe", "note": "vládní rada; rod bez vlastního článku na cs.wiki"},
-  {"owner": "z-mannsberku", "owner_wiki": null, "person": "Ignác Schröffel z Mannsberku", "from": 1798, "to": 1818, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "cs.wiki neuvádí způsob nabytí od Stockhammerů; rod bez vlastního článku"},
-  {"owner": "mitrovsti-z-mitrovic-a-nemysle", "owner_wiki": "Mitrovští z Mitrovic a Nemyšle", "person": "Vilém Mitrovský z Nemyšle", "from": 1818, "to": 1945, "from_approx": false, "to_approx": false, "how": "snatek", "note": "Vilém Mitrovský z Nemyšle si roku 1818 vzal Josefinu, dceru Ignáce Schröffela z Mannsberku"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "cs.wiki neupřesňuje přesný mechanismus přechodu na stát roku 1945; dnes ve správě Národního památkového ústavu, přístupné veřejnosti"}
+  {
+   "owner": "pernstejnove",
+   "owner_wiki": "Pernštejnové",
+   "person": null,
+   "from": 1270,
+   "to": 1596,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "první doložený příslušník roku 1285 Štěpán z Pernštejna a Medlova; roku 1596 Jan V. z Pernštejna hrad prodal"
+  },
+  {
+   "owner": "z-kataru",
+   "owner_wiki": null,
+   "person": "Pavel Katarin z Kataru",
+   "from": 1596,
+   "to": 1609,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "koupil od Jana z Pernštejna za 40 000 zl. (hrady.cz); písař Markrabství moravského; rod bez vlastního článku na cs.wiki"
+  },
+  {
+   "owner": "z-ryzmburka",
+   "owner_wiki": null,
+   "person": "Adam Lev Licek z Rýzmburka",
+   "from": 1609,
+   "to": 1623,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil od synů Pavla Katarina z Kataru; rod bez vlastního článku na cs.wiki; hrady.cz uvádí přechod na Licka roku 1604, cs.wiki 1609"
+  },
+  {
+   "owner": "lichtenstein-castelcornove",
+   "owner_wiki": "Lichtenstein-Castelcornové",
+   "person": "Kryštof Pavel z Lichtenštejna-Kastelkornu",
+   "from": 1623,
+   "to": 1710,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "snatek",
+   "note": "získal sňatkem s vdovou Ester Sejdlicovou ze Šenfeldu"
+  },
+  {
+   "owner": "z-stockhammeru",
+   "owner_wiki": null,
+   "person": "František ze Stockhammeru",
+   "from": 1710,
+   "to": 1798,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "vládní rada; rod bez vlastního článku na cs.wiki; hrady.cz uvádí držení Stockhammerů do 1793, oficiální web hradu a cs.wiki 1798"
+  },
+  {
+   "owner": "z-mannsberku",
+   "owner_wiki": null,
+   "person": "Ignác Schröffel z Mannsberku",
+   "from": 1798,
+   "to": 1818,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil od Stockhammerů (hrady.cz, oficiální web hradu 1798)"
+  },
+  {
+   "owner": "mitrovsti-z-mitrovic-a-nemysle",
+   "owner_wiki": "Mitrovští z Mitrovic a Nemyšle",
+   "person": "Vilém Mitrovský z Nemyšle",
+   "from": 1818,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "snatek",
+   "note": "1813 (cs.wiki 1818) sňatek Viléma Mitrovského s Josefinou Schröfflovou z Mannsbergu přinesl jen polovinu panství (podíl při sňatku 1818 podle webu hradu), druhou polovinu od švagrové Antonie Esterházyové dokoupil 24. 2. 1828; majitelé pobývali na Pernštejně jen občas (sídla Sokolnice, Dolní Rožínka); poslední majitel Vladimír III. Mitrovský"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "1945 konfiskace majetku Mitrovských podle Benešových dekretů; od 1949 systematická památková péče a zpřístupnění; dnes ve správě NPÚ"
+  }
  ],
  "events": [
-  {"year": 1270, "text": "založení gotického hradu bergfritového typu páni z Medlova (pozdějšími Pernštejny)"},
-  {"year": 1285, "text": "první písemná zmínka o hradu (Štěpán z Pernštejna a Medlova)"},
-  {"year": 1500, "text": "přelom 15. a 16. století: velká přestavba na reprezentační politické a správní centrum rodu"},
-  {"year": 1596, "text": "Jan V. z Pernštejna prodal hrad, konec vlastnictví Pernštejnů"},
-  {"year": 1645, "text": "obléhání Švédy za třicetileté války, poškození střech a věží"},
-  {"year": 1945, "text": "konec šlechtického vlastnictví rodu Mitrovských, hrad přechází na stát"},
-  {"year": 1995, "text": "hrad prohlášen národní kulturní památkou"},
-  {"year": 2005, "text": "požár depozitáře v bývalé sýpce"}
+  {
+   "year": 1270,
+   "text": "založení gotického hradu bergfritového typu páni z Medlova (pozdějšími Pernštejny)"
+  },
+  {
+   "year": 1285,
+   "text": "první písemná zmínka o hradu (Štěpán z Pernštejna a Medlova)"
+  },
+  {
+   "year": 1500,
+   "text": "přelom 15. a 16. století: velká přestavba na reprezentační politické a správní centrum rodu"
+  },
+  {
+   "year": 1596,
+   "text": "Jan V. z Pernštejna prodal hrad, konec vlastnictví Pernštejnů"
+  },
+  {
+   "year": 1645,
+   "text": "obléhání Švédy za třicetileté války, poškození střech a věží"
+  },
+  {
+   "year": 1655,
+   "text": "Pernštejn prohlášen moravskou zemskou pevností"
+  },
+  {
+   "year": 1828,
+   "text": "Vilém Mitrovský dokoupil druhou polovinu panství a získal hrad celý"
+  },
+  {
+   "year": 1945,
+   "text": "konec šlechtického vlastnictví rodu Mitrovských, hrad přechází na stát"
+  },
+  {
+   "year": 1995,
+   "text": "hrad prohlášen národní kulturní památkou"
+  },
+  {
+   "year": 2005,
+   "text": "požár depozitáře v bývalé sýpce"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Pernštejn_(hrad)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Pernštejn_(hrad)",
+  "https://update.hrad-pernstejn.cz/cs/o-hradu/historie",
+  "https://www.hrady.cz/hrad-pernstejn-brno-venkov/texty?pos=300&tid=3477",
+  "https://www.korunavysociny.cz/novinky/3365-pernstejn-v-rukou-rodu-mitrovskych"
+ ]
 }
