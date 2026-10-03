@@ -73,7 +73,11 @@ function transfersHtml(f) {
 }
 
 function detailHtml(f) {
-  const related = (f.related || []).map((r) => `<li><a href="#/rod/${r.family}">${esc(familyName(D.families, r.family))}</a> - ${esc(r.relation)}</li>`).join("");
+  const link = (id, relation) => `<li><a href="#/rod/${id}">${esc(familyName(D.families, id))}</a> - ${esc(relation)}</li>`;
+  const related = (f.related || []).map((r) => link(r.family, r.relation)).join("");
+  // the relation is stored on the branch only, so the parent family lists the families that point at it
+  const branches = Object.values(D.families).filter((g) => g.id !== f.id && (g.related || []).some((r) => r.family === f.id))
+    .map((g) => link(g.id, (g.related.find((r) => r.family === f.id).relation))).join("");
   return `<div class="family-detail">
     <div class="family-head">
       ${f.coat_of_arms ? `<img src="${commonsThumb(f.coat_of_arms, 200)}" alt="erb ${esc(f.name)}" onerror="this.remove()">` : ""}
@@ -94,6 +98,7 @@ function detailHtml(f) {
       <div><h4>Místa v držení rodu</h4><div id="family-gantt"></div>
         ${transfersHtml(f)}
         ${related ? `<h4>Příbuzné rody</h4><ul class="transfers">${related}</ul>` : ""}
+        ${branches ? `<h4>Větve a rody odvozené od tohoto rodu</h4><ul class="transfers">${branches}</ul>` : ""}
       </div>
       <div><h4>Mapa</h4><div id="family-map"></div>
         <p class="muted" style="font-size:12px">Plná značka = navštíveno.</p></div>

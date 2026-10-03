@@ -444,6 +444,11 @@ def main():
             f"families list shows {page.locator('#fam-list li').count()}, data has {expect_fams} families"
         shot("04-families")
 
+        # a parent family lists the branches that point at it (relation is stored on the branch only)
+        page.goto(base + "#/rod/markvartici")
+        page.wait_for_selector(".family-detail h2")
+        assert "Vartenberkové" in page.inner_text(".family-detail"), "parent family does not list its branches"
+
         first = page.locator("#fam-list li a").first
         first.click()
         page.wait_for_selector("#family-gantt svg")
