@@ -13,7 +13,14 @@ from urllib.parse import unquote
 from common import DATA, RAW, load, norm, save
 
 RUIN_STATES = {"Q109607"}  # P5816 = ruins
-KIND_FROM_NPU = {"Zámek": "zamek", "Hrad": "hrad", "Hrad a zámek": "hradozamek"}
+KIND_FROM_NPU = {
+    "Zámek": "zamek", "Hrad": "hrad", "Hrad a zámek": "hradozamek",
+    "Klášter": "klaster", "Kostel": "kostel", "Usedlost": "usedlost", "Zdravotnické zařízení": "hospital",
+    "Důlní dílo": "dul", "Vila": "vila", "Zámecký park": "areal", "Komplex zahrad": "zahrada",
+}
+CASTLE_KINDS = {"zamek", "hrad", "hradozamek", "zricenina"}
+# Wikidata-only kinds, by precedence when an item has several types (castle types win over all of them)
+OTHER_KINDS = ["tvrz", "pevnost", "klaster", "hospital", "hradby", "kostnice", "krypta"]
 
 
 def domain(url):
@@ -49,10 +56,27 @@ def short_name(name):
     return s[:1].upper() + s[1:] if s else name
 
 
+GENERIC_NAME = re.compile(r"(?i)^(kostnice|klášter|tvrz|hradby|hradba|opevnění|městské opevnění|městské hradby|pevnost|katakomby|krypta)$")
+
+
+def display_name(name, kind, obec):
+    """Castles drop the 'zámek' prefix; other kinds keep their full name, generic ones get the municipality."""
+    if kind in CASTLE_KINDS or kind == "tvrz":
+        return short_name(name)
+    name = name[:1].upper() + name[1:]
+    return f"{name} ({obec})" if GENERIC_NAME.match(name) and obec else name
+
+
 def classify(item, npu_kind):
     types = set(item["types"])
     if npu_kind in ("Hrad", "Hrad a zámek") or (not types and npu_kind in KIND_FROM_NPU):
         return KIND_FROM_NPU[npu_kind]  # NPÚ "Hrad" = castle with roofed, visitable parts, even if Wikidata says ruin
+    if not types & {"hrad", "zamek", "zricenina"}:
+        if npu_kind in KIND_FROM_NPU:
+            return KIND_FROM_NPU[npu_kind]
+        for k in OTHER_KINDS:
+            if k in types:
+                return k
     if "zricenina" in types or RUIN_STATES & set(item["states"]):
         return "zricenina"
     if {"hrad", "zamek"} <= types:
@@ -78,7 +102,7 @@ def match_nipos(rows, items, manual):
                 matched[q] = row
             continue
         main, _, place = row["name"].partition(",")
-        is_castle = re.search(r"(?i)hrad|zámek|zamek|zámeč|zřícenin|pevnost|tvrz", main)
+        is_castle = re.search(r"(?i)hrad|zámek|zamek|zámeč|zřícenin|pevnost|tvrz|klášter|kostnice|katakomb|krypt|hospitál|opevnění", main)
         cands = by_domain.get(domain(row["website"]), []) if row["website"] else []
         if not cands and is_castle:
             key = norm(main)
@@ -159,8 +183,13 @@ def main():
         if not it["types"] and q not in npu and q not in overrides["extra_qids"]:
             continue  # fetched only because of a stale NPÚ link (see overrides npu_qid)
         kind = classify(it, npu.get(q, {}).get("kind"))
-        if q in npu and npu[q]["kind"] not in KIND_FROM_NPU:
-            continue  # NPÚ monasteries, churches, gardens: not castles
+        if kind == "hradby" and re.match(r"(?i)(fort|pevnost|bastion)\b", it["name"]):
+            kind = "pevnost"  # forts are typed as generic fortifications on Wikidata
+        if not re.match(r"\w", display_name(it["name"], kind, it["obec"])):
+            continue  # sub-object labels such as "- areál křižovnického dvora"
+        if (kind not in CASTLE_KINDS and q not in npu and q not in nipos and q not in museums
+                and q not in overrides["extra_qids"] and not it["cswiki"]):
+            continue  # minor non-castle objects: only with a cs.wiki article or a visitor source
         sources = []
         if q in npu:
             sources.append("npu")
@@ -179,7 +208,7 @@ def main():
         image = unquote(it["image"].rsplit("/", 1)[1]) if it["image"] else None
         p = {
             "id": q,
-            "name": short_name(it["name"]),
+            "name": display_name(it["name"], kind, it["obec"]),
             "wd_label": it["name"],
             "kind": kind,
             "lat": round(it["lat"], 5),
@@ -205,7 +234,7 @@ def main():
 
     from collections import Counter
     print("places", len(places), Counter(p["access"] for p in places), Counter(p["kind"] for p in places))
-    missing_npu = [r["name"] for r in src["npu"] if r["kind"] in KIND_FROM_NPU and r["qid"] not in {p["id"] for p in places}]
+    missing_npu = [r["name"] for r in src["npu"] if r["qid"] and r["qid"] not in {p["id"] for p in places}]
     print("NPÚ castles missing from places:", missing_npu)
     if "-v" in sys.argv:
         print("NIPOS castle rows unmatched:")

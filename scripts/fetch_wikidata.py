@@ -5,6 +5,19 @@ TYPES = {
     "Q23413": "hrad",
     "Q751876": "zamek",
     "Q17715832": "zricenina",
+    "Q1408475": "tvrz",
+    "Q44613": "klaster",
+    "Q160742": "klaster",  # abbey
+    "Q1128397": "klaster",  # convent
+    "Q16748868": "hradby",  # town wall
+    "Q18272436": "hradby",
+    "Q57821": "hradby",  # fortification
+    "Q57831": "pevnost",
+    "Q1785071": "pevnost",  # fort
+    "Q255595": "kostnice",
+    "Q192619": "krypta",
+    "Q172896": "krypta",  # catacombs
+    "Q180370": "hospital",
 }
 
 QUERY = """
@@ -25,7 +38,16 @@ WHERE {
   SERVICE wikibase:label { bd:serviceParam wikibase:language "cs,en". }
 }
 """
-BY_TYPE = "VALUES ?type { %s }" % " ".join("wd:" + q for q in TYPES)
+
+
+def by_type(qids):
+    return "VALUES ?type { %s }" % " ".join("wd:" + q for q in qids)
+
+
+# one query per kind: a single query over all types times out on the public endpoint
+KIND_QIDS = {}
+for _q, _k in TYPES.items():
+    KIND_QIDS.setdefault(_k, []).append(_q)
 
 OWNERS = """
 SELECT ?item ?owner ?ownerLabel ?start ?end WHERE {
@@ -57,9 +79,11 @@ def extra_qids():
 def main():
     items = {}
     extra = "VALUES ?item { %s }" % " ".join("wd:" + q for q in extra_qids())
-    rows = sparql(QUERY % BY_TYPE) + sparql(QUERY % extra)
+    rows = [b for qids in KIND_QIDS.values() for b in sparql(QUERY % by_type(qids))] + sparql(QUERY % extra)
     for b in rows:
         qid = val(b, "item").rsplit("/", 1)[1]
+        if not val(b, "coord").startswith("Point("):
+            continue  # "unknown value" coordinate
         lon, lat = map(float, val(b, "coord")[6:-1].split())
         it = items.setdefault(qid, {
             "qid": qid, "name": val(b, "itemLabel"), "types": set(), "lat": lat, "lon": lon,
@@ -82,7 +106,7 @@ def main():
             it["states"].add(val(b, "state").rsplit("/", 1)[1])
         if val(b, "heritageLabel"):
             it["heritage"].add(val(b, "heritageLabel"))
-    for b in sparql(OWNERS % BY_TYPE) + sparql(OWNERS % extra):
+    for b in [b for qids in KIND_QIDS.values() for b in sparql(OWNERS % by_type(qids))] + sparql(OWNERS % extra):
         qid = val(b, "item").rsplit("/", 1)[1]
         if qid in items:
             o = {"qid": val(b, "owner").rsplit("/", 1)[1], "name": val(b, "ownerLabel"),

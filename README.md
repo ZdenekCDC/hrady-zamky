@@ -1,12 +1,12 @@
 # Hrady a zámky ČR
 
-Interaktivní mapa českých hradů, zámků a zřícenin, kde si můžeš odškrtávat, co už jsi navštívil, a pročítat, komu která místa během staletí patřila.
+Interaktivní mapa českých hradů, zámků, zřícenin a dalších památek (tvrze, kláštery, pevnosti, městské opevnění, kostnice), kde si můžeš odškrtávat, co už jsi navštívil, a pročítat, komu která místa během staletí patřila.
 
 **Web: <https://zdenekcdc.github.io/hrady-zamky/>**
 
 ## Co na mapě najdeš
 
-- **Přes 2 200 míst** z celé republiky: hrady, zámky i zříceniny. Zvlášť jsou vidět místa se vstupným (prohlídky, expozice) a volně přístupné zříceniny; typ poznáš podle piktogramu a barvy; barevné téma ikon (zemitá, kámen, sytá, pastelová) si zvolíš v panelu filtrů.
+- **Přes 2 900 míst** z celé republiky: hrady, zámky, zříceniny, tvrze, kláštery, pevnosti, městské opevnění, kostnice a katakomby (nové druhy jsou jen s článkem na cs.wiki nebo ve zdroji návštěvnosti). Zvlášť jsou vidět místa se vstupným (prohlídky, expozice) a volně přístupné zříceniny; typ poznáš podle piktogramu a barvy; barevné téma ikon (zemitá, kámen, sytá, pastelová) si zvolíš v panelu filtrů.
 - **Filtry a hledání:** typ, kraj, správce (NPÚ / ostatní), století vzniku, navštívená / nenavštívená; hledat jde místa i šlechtické rody.
 - **Detail místa:** fotka, vznik, stručná historie, časová osa vlastníků, důležité události, návštěvnost, odkazy na web, Wikipedii a navigaci a „Co je poblíž“ - nenavštívená místa do zvolené vzdálenosti.
 - **Stroj času:** posuneš rok (od 9. století) a mapa se obarví podle toho, který rod tehdy místa vlastnil; místa, která ještě nestála, se skryjí.

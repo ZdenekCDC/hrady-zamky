@@ -14,7 +14,7 @@
 
 ## places.json - položka
 
-`id` (Wikidata QID), `name`, `kind` (`hrad` / `zamek` / `hradozamek` / `zricenina`), `lat`, `lon`, `kraj`, `obec`,
+`id` (Wikidata QID), `name`, `kind` (`hrad` / `zamek` / `hradozamek` / `zricenina` / `tvrz` / `klaster` / `kostel` / `usedlost` / `hospital` / `dul` / `vila` / `areal` / `zahrada` / `pevnost` / `hradby` / `kostnice` / `krypta`), `lat`, `lon`, `kraj`, `obec`,
 `founded` (rok nebo null), `founded_text` (např. „13. stol.“), `access` (`vstupne` / `volne` / `neznamo`),
 `access_sources` (`npu`, `nipos`, `osm`), `manager`, `website`, `cswiki`, `image` (soubor na Commons),
 `visitors` (NIPOS, podle roku), `nkp`, `unesco`.

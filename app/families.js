@@ -37,7 +37,7 @@ function span(f) {
 function overviewHtml() {
   return `<div class="family-detail">
     <h2>Přehled rodů</h2>
-    <p class="secondary">Období, kdy rod držel alespoň jeden ze zpracovaných hradů a zámků. Délka pruhu = od prvního nabytí po poslední ztrátu; číslo = počet objektů. Klikni na rod pro detail.</p>
+    <p class="secondary">Období, kdy rod držel alespoň jedno ze zpracovaných míst. Délka pruhu = od prvního nabytí po poslední ztrátu; číslo = počet objektů. Klikni na rod pro detail.</p>
     <div id="overview-gantt"></div></div>`;
 }
 
@@ -91,7 +91,7 @@ function detailHtml(f) {
       </div>
     </div>
     <div class="family-grid">
-      <div><h4>Hrady a zámky v držení rodu</h4><div id="family-gantt"></div>
+      <div><h4>Místa v držení rodu</h4><div id="family-gantt"></div>
         ${transfersHtml(f)}
         ${related ? `<h4>Příbuzné rody</h4><ul class="transfers">${related}</ul>` : ""}
       </div>

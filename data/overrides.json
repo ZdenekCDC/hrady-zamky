@@ -32,6 +32,36 @@
   ],
   "Zřícenina hradu Putna": [
    "Q6835949"
+  ],
+  "Sedlecký areál - Kostnice-Hřbitovní kostel Všech svatých + Katedrála Nanebevzetí Panny Marie a sv. J. Křtitele, Kutná Hora": [
+   "Q513821"
+  ],
+  "Kostnice u sv. Jakuba, Brno": [
+   "Q4971773"
+  ],
+  "Květná zahrada v Kroměříži": [
+   "Q1104673"
+  ],
+  "Tvrz Semtěš": [
+   "Q38094997"
+  ],
+  "Klášter Sázava": [
+   "Q369547"
+  ],
+  "Klášter Emauzy, Praha 2 - Nové Město": [
+   "Q1000684"
+  ],
+  "Břevnovský klášter, Praha 6": [
+   "Q959499"
+  ],
+  "Bazilika sv. Petra a Pavla na Vyšehradě, Praha 2": [
+   "Q616334"
+  ],
+  "Tvrz Brozany nad Ohří": [
+   "Q28472056"
+  ],
+  "Klášter Borovany": [
+   "Q31872969"
   ]
  },
  "npu_qid": {
@@ -40,7 +70,11 @@
  "extra_qids": [
   "Q11730719",
   "Q10722595",
-  "Q10938001"
+  "Q10938001",
+  "Q513821",
+  "Q4971773",
+  "Q1104673",
+  "Q38094997"
  ],
  "exclude": {
   "Q136722727": "duplicate of Pražský hrad Q193369 (no article, generic coordinates)",
@@ -98,6 +132,19 @@
   },
   "Q6835949": {
    "name": "Michalovice (Putna)"
+  },
+  "Q513821": {
+   "kind": "kostnice",
+   "name": "Sedlecká kostnice"
+  },
+  "Q4971773": {
+   "kind": "kostnice"
+  },
+  "Q1104673": {
+   "kind": "zahrada"
+  },
+  "Q38094997": {
+   "kind": "tvrz"
   }
  }
 }

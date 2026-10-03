@@ -18,7 +18,7 @@ const ICON_THEMES = { zemita: "Zemitá", kamen: "Kámen", syta: "Sytá", pastel:
 const DEFAULT_ICON_THEME = "zemita";
 const DEFAULTS = {
   layers: { vstupne: true, volne: true, neznamo: false },
-  kinds: { hrad: true, zamek: true, hradozamek: true, zricenina: true },
+  kinds: Object.fromEntries(Object.keys(KIND).map((k) => [k, true])),
   kraj: "",
   manager: "",
   cFrom: "",
@@ -269,7 +269,7 @@ function renderFilters() {
     <div class="filter-group" id="v-store">${storageHtml()}</div>
     <div class="timemachine">
       <label class="check"><input type="checkbox" id="f-tm" ${state.tm ? "checked" : ""}> <b>Stroj času</b></label>
-      <div class="muted" style="font-size:12px;margin-bottom:6px">Obarví hrady a zámky podle vlastníka v daném roce (jen objekty se zpracovanou historií).</div>
+      <div class="muted" style="font-size:12px;margin-bottom:6px">Obarví místa podle vlastníka v daném roce (jen objekty se zpracovanou historií).</div>
       <div id="tm-body" ${state.tm ? "" : "hidden"}>
         <div class="row"><span class="year" id="tm-year">${state.year}</span>
           <button id="tm-minus" title="o 10 let zpět">-10</button><button id="tm-plus" title="o 10 let dál">+10</button>

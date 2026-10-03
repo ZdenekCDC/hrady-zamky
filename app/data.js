@@ -7,6 +7,19 @@ export const KIND = {
   zamek: "zámek",
   hradozamek: "hrad a zámek",
   zricenina: "zřícenina",
+  tvrz: "tvrz",
+  klaster: "klášter",
+  kostel: "kostel",
+  usedlost: "usedlost",
+  hospital: "hospitál",
+  dul: "důl",
+  vila: "vila",
+  areal: "areál",
+  zahrada: "zahrada",
+  pevnost: "pevnost",
+  hradby: "městské opevnění",
+  kostnice: "kostnice",
+  krypta: "krypta, katakomby",
 };
 
 // label = layer switch in the filters, legend = map legend, short = badges and hover
