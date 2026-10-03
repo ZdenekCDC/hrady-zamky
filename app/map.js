@@ -168,21 +168,22 @@ function markerStyle(p) {
   if (state.tm) {
     const o = ownerAt(p, state.year);
     const dim = fams.length && (!o || !fams.includes(o.owner));
-    if (!o) return { size: 8, fill: "var(--mk-nodata)", stroke: "var(--mk-bg)", strokeWidth: 1, opacity: dim ? 0.3 : 0.9 };
-    const color = ownerColor(D.families, o.owner, true);
+    // dark outlines keep the grey owners legible on light terrain; highlighted families get bigger markers, the rest shrink
+    if (!o) return { size: dim ? 7 : 9, fill: "var(--mk-nodata)", stroke: "var(--mk-free)", strokeWidth: 1, opacity: dim ? 0.3 : 0.9 };
+    const hit = fams.length && !dim;
     return {
-      size: p.visited ? 18 : 15,
-      fill: color,
-      stroke: p.visited ? "var(--mk-ink)" : "var(--mk-bg)",
-      strokeWidth: p.visited ? 2.5 : 2,
-      opacity: dim ? 0.2 : 1,
+      size: p.visited ? 19 : hit ? 20 : dim ? 10 : 15,
+      fill: ownerColor(D.families, o.owner, true),
+      stroke: p.visited ? "var(--mk-accent)" : "var(--mk-ink)",
+      strokeWidth: p.visited ? 3 : hit ? 2.5 : 1.75,
+      opacity: dim ? 0.35 : 1,
     };
   }
   const hl = fams.length ? highlightedOwner(p) : null;
   const dim = fams.length && !hl;
   if (p.visited) return { size: 20, fill: hl ? ownerColor(D.families, hl, true) : "var(--mk-accent)", stroke: "var(--mk-bg)", check: true, opacity: dim ? 0.25 : 1 };
-  if (hl) return { size: 17, fill: kindFill(p.kind), stroke: ownerColor(D.families, hl, true), strokeWidth: 3 };
-  if (ACCESS_STYLE[p.access]) return { ...ACCESS_STYLE[p.access], fill: kindFill(p.kind, p.access === "volne"), opacity: dim ? 0.2 : 1 };
+  if (hl) return { size: 21, fill: kindFill(p.kind), stroke: ownerColor(D.families, hl, true), strokeWidth: 3.5 };
+  if (ACCESS_STYLE[p.access]) return { ...ACCESS_STYLE[p.access], ...(dim ? { size: 10, strokeWidth: 1.25 } : {}), fill: kindFill(p.kind, p.access === "volne"), opacity: dim ? 0.2 : 1 };
   return { size: 9, fill: "var(--mk-muted)", stroke: "var(--mk-bg)", strokeWidth: 1, opacity: dim ? 0.15 : 0.8 };
 }
 
@@ -386,12 +387,12 @@ function renderLegend() {
   let html = "";
   if (state.tm) {
     const slotted = Object.values(D.families).filter((f) => f.color_slot).sort((a, b) => a.color_slot - b.color_slot);
-    const dot = (fill, extra = {}) => glyph("zamek", { size: 14, fill, stroke: "var(--mk-bg)", strokeWidth: 1, ...extra });
+    const dot = (fill, extra = {}) => glyph("zamek", { size: 14, fill, stroke: "var(--mk-ink)", strokeWidth: 1.75, ...extra });
     html += slotted.map((f) => item(dot(`var(--mk-series-${f.color_slot})`), f.name, f.id)).join("");
     html += item(dot("var(--mk-other)"), "ostatní rody");
     html += item(dot("var(--mk-institution)"), "koruna, stát, církev, město");
-    html += item(glyph("zamek", { size: 8, fill: "var(--mk-nodata)", stroke: "var(--mk-bg)", strokeWidth: 1 }), "bez dat o vlastníkovi");
-    html += item(dot("var(--mk-bg)", { stroke: "var(--mk-ink)", strokeWidth: 2.5 }), "navštíveno (tmavý okraj)");
+    html += item(glyph("zamek", { size: 9, fill: "var(--mk-nodata)", stroke: "var(--mk-free)", strokeWidth: 1 }), "bez dat o vlastníkovi");
+    html += item(dot("var(--mk-bg)", { size: 19, stroke: "var(--mk-accent)", strokeWidth: 3 }), "navštíveno (modrý okraj)");
   } else {
     for (const f of state.families) {
       html += item(glyph("zamek", { size: 15, fill: "var(--mk-bg)", stroke: ownerColor(D.families, f, true), strokeWidth: 3 }), familyName(D.families, f), f);

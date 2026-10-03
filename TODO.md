@@ -108,7 +108,6 @@ Stav k 2026-10-03: web běží na GitHub Pages (<https://zdenekcdc.github.io/hra
 
 ## Stroj času a rody v mapě
 
-- [ ] Vylepšit stroj času (časovou osu) a obarvování podle vlastníka: barevně dělají problém hlavně šedé odstíny (instituce, ostatní rody, bez dat se téměř neliší) a zvýrazněné rody bývají na mapě špatně vidět (fialový obrys na zelenošedém podkladu, malé značky mezi stovkami dalších). Návrhy: výraznější a rozlišitelnější barvy a obrysy, ztlumit ostatní značky, ověřit palety pro barvoslepost (skill `dataviz`).
 - [ ] Barvoslepost ikon: čtyři hlavní druhy (hrad, zámek, hrad a zámek, zřícenina) v zemité paletě (výchozí) validátor prošel (2026-10-03, hradozámek a zřícenina přebarveny); témata kámen, sytá a pastelová a všech 17 druhů pohromadě barvami samotnými neprojdou (kámen je záměrně šedý, 17 odstínů nejde odlišit), druh nese tvar piktogramu. Případně přebarvit sytou a pastelovou na validátor, nebo pro ně přidat popisek druhu při najetí.
 - [ ] Stroj času: ~160 míst bez jakéhokoli data vzniku se po vypnutí volby "skrýt místa bez data vzniku" ukazuje v každém roce (i 870); doplnit data vzniku (století z Wikidat / cs.wiki), ať je volba zbytečná.
 
