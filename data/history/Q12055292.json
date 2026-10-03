@@ -1,0 +1,18 @@
+{
+ "id": "Q12055292",
+ "name": "Sokolí hnízdo",
+ "founded": {"year": 1881, "approx": false, "text": "1881 nechal kníže Edmund Clary-Aldringen na místě malého výčepu z doby kolem roku 1826 postavit výletní zámeček (hotel Prebischtor / Falkennest); stavba trvala asi rok."},
+ "summary": "Zámeček Sokolí hnízdo u Pravčické brány nechal roku 1881 postavit kníže Edmund Clary-Aldringen na místě malého výčepu z doby kolem roku 1826 jako jedno z prvních turistických zázemí v Českém Švýcarsku. Držitelem panství byli Clary-Aldringenové, restaurace s přilehlými pozemky byla roku 1992 privatizována a dnes ji vlastní soukromá společnost PAAL s.r.o. V roce 2003 zde vzniklo muzeum Českého Švýcarska.",
+ "owners": [
+  {"owner": "clary-aldringenove", "owner_wiki": "Clary-Aldringenové", "person": "Edmund Clary-Aldringen", "from": 1881, "to": null, "from_approx": false, "to_approx": false, "how": "zalozeni", "note": "majitelé panství; rok konce držení zdroje neuvádějí"},
+  {"owner": "stat", "person": null, "from": null, "to": 1992, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "předchozí státní vlastnictví je odvozeno z toho, že NP České Švýcarsko uvádí privatizaci objektu roku 1992; zdroje o převodu od Clary-Aldringenů mlčí"},
+  {"owner": "soukromnik", "person": "PAAL s.r.o.", "from": 1992, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "restaurace byla spolu s pozemky privatizována 1992 a je v soukromých rukou dodnes; cs.wiki uvádí současného majitele PAAL s.r.o., zda byla touto firmou již od 1992, není ze zdrojů jasné"}
+ ],
+ "events": [
+  {"year": 1826, "text": "kolem roku 1826 postaven malý výčep krytý kůrou (předchůdce zámečku; NP uvádí 1827)"},
+  {"year": 1881, "text": "kníže Edmund Clary-Aldringen nechal postavit výletní zámeček s hotelem"},
+  {"year": 1992, "text": "restaurace s přilehlými pozemky privatizována"},
+  {"year": 2003, "text": "v prvním patře zřízeno muzeum Českého Švýcarska"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Sokolí_hnízdo", "https://www.npcs.cz/pravcicka-brana", "https://pbrana.cz/"]
+}

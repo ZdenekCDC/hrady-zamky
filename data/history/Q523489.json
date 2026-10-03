@@ -1,0 +1,21 @@
+{
+ "id": "Q523489",
+ "name": "Terezín",
+ "founded": {"year": 1780, "approx": false, "text": "Rozhodnutí o stavbě pevnosti (tehdy Kopisty) vydala 16. 12. 1779 Marie Terezie, stavba začala na jaře 1780, základní kámen 10. 10. 1780; pevnost dokončena 1790."},
+ "summary": "Pevnost Terezín nechali od roku 1780 postavit Marie Terezie a Josef II. jako součást obrany Čech proti Prusku; je to jedna z největších bastionových pevností na světě a nikdy nebyla obléhána. Pevnostní status zrušil císařský výnos z roku 1888, město však zůstalo posádkovým až do odchodu armády v roce 1997. Za druhé světové války sloužila Malá pevnost jako věznice gestapa a Hlavní pevnost jako židovské ghetto; dnes je Malá pevnost Památníkem Terezín a bývalá kasárna využívají noví majitelé včetně Národního muzea.",
+ "owners": [
+  {"owner": "koruna", "person": "Marie Terezie a Josef II. (habsburská armáda)", "from": 1780, "to": 1918, "from_approx": false, "to_approx": false, "how": "zalozeni", "note": "vojenské zařízení habsburské monarchie; pevnostní status zrušen 1888, město zůstalo posádkovým; konec 1918 odpovídá zániku monarchie (zdroje vlastnictví výslovně nepopisují)"},
+  {"owner": "stat", "person": "Československá a poté Česká armáda; Památník Terezín", "from": 1918, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "posádkové město po celou dobu 1. republiky i po 1945, armáda odešla postupně od 1995, poslední vojáci 1997; Malá pevnost (vězení 1918-1939, pak gestapo 1940-1945) je dnes Památníkem Terezín; za okupace Němci obsadili Malou pevnost a Hlavní pevnost (ghetto)"},
+  {"owner": "mesto", "person": "město Terezín a další noví majitelé", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "po odchodu armády využívají kasárna a nemocnici noví majitelé (Národní muzeum, Židovské muzeum v Praze, depozitáře); civilní správu město získalo 1830; současně otevřený záznam se státem je záměrný - vlastnictví je dnes rozdělené a zdroje je nespecifikují"}
+ ],
+ "events": [
+  {"year": 1780, "text": "zahájení stavby, 10. 10. položen základní kámen; 12. 12. přejmenování na Theresienstadt"},
+  {"year": 1782, "text": "Josef II. založil uvnitř hradeb svobodné královské město"},
+  {"year": 1790, "text": "pevnost dokončena, stavební náklady 10 milionů zlatých"},
+  {"year": 1888, "text": "císařský výnos ukončil pevnostní funkci, město zůstalo posádkovým"},
+  {"year": 1941, "text": "1941-1945 Malá pevnost věznicí gestapa, Hlavní pevnost židovským ghettem (od června 1942 sběrný tábor)"},
+  {"year": 1992, "text": "území pevnosti prohlášeno za památkovou rezervaci"},
+  {"year": 1997, "text": "poslední vojáci opustili město"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Terezín", "https://www.hrady.cz/pevnost-bunkr-hlavni-pevnost/texty?pos=1000&tid=28183", "https://www.pevnostterezin.cz/historie-pevnosti/"]
+}

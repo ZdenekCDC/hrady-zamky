@@ -1,0 +1,125 @@
+{
+ "id": "Q24708262",
+ "name": "Rožmitál pod Třemšínem",
+ "founded": {
+  "year": 1250,
+  "approx": true,
+  "text": "V polovině 13. století založil blatný hrad Oldřich z rodu Buziců, první s přídomkem z Rožmitála (jiné místo v cs.wiki uvádí počátek 13. století)."
+ },
+ "summary": "Rožmitál je původně blatný hrad z poloviny 13. století, který založil Oldřich z Buziců a drželi jej páni (Lvové) z Rožmitálu; polovinu hradu měli od roku 1347 pražští arcibiskupové. Po zadlužení Zdeňka Lva z Rožmitálu panství v letech 1550-1555 vykoupil Florián Gryspek, který hrad v letech 1559-1564 přestavěl na renesanční zámek. Po konfiskaci roku 1622 jej dostalo pražské arcibiskupství, jemuž sloužil jako letní sídlo do znárodnění roku 1948. Po státu a městu je dnes zámek v soukromém vlastnictví (Trinity Coop) a chátrá.",
+ "owners": [
+  {
+   "owner": "pani-z-rozmitalu",
+   "owner_wiki": "Páni z Rožmitálu",
+   "person": "Oldřich z Rožmitálu, později Zdeněk Lev z Rožmitálu",
+   "from": 1250,
+   "to": 1545,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "rod Buziců; od 1347 měli polovinu hradu arcibiskupové (viz dále), po jejím získání zpět byl majetek opět sceleno až do roku 1545 (hrady.cz: Zdeněk Lev panství zadlužil, věřitelům postoupeno; Gryspek koupil 1550-1555)"
+  },
+  {
+   "owner": "cirkev",
+   "owner_wiki": null,
+   "person": "Pražské arcibiskupství",
+   "from": 1347,
+   "to": 1436,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dar",
+   "note": "polovina hradu, městečka a vsí darována (cs.wiki: prodána proti vůli Oldřicha - rozpor v rodové stati) Sezimou z Rožmitálu; arcibiskupové ji drželi do husitských válek, 1436 zastavena králem Zikmundem Zmrzlíkům; spoluvlastnictví s pány z Rožmitálu"
+  },
+  {
+   "owner": "zmrzlikove-ze-svojsina",
+   "owner_wiki": "Zmrzlíkové ze Svojšína",
+   "person": "Jan a Václav Zmrzlíkové ze Svojšína",
+   "from": 1436,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "zástava arcibiskupské poloviny za 2000 kop grošů; polovinu poté neznámo jak získali zpět páni z Rožmitálu (rok neuveden)"
+  },
+  {
+   "owner": "gryspekove-z-gryspachu",
+   "owner_wiki": "Gryspekové z Gryspachu",
+   "person": "Florián Gryspek z Gryspachu",
+   "from": 1550,
+   "to": 1622,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "panství vykoupeno od věřitelů 1550-1555 (hrady.cz: 1555 za 11000 kop grošů); v září 1622 konfiskace za účast ve stavovském povstání (hrady.cz uvádí 1621)"
+  },
+  {
+   "owner": "cirkev",
+   "owner_wiki": null,
+   "person": "Arnošt Vojtěch z Harrachu, pražský arcibiskup",
+   "from": 1623,
+   "to": 1948,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dar",
+   "note": "dar od krále Ferdinanda II.; zámek sloužil arcibiskupům jako letní sídlo; pražské arcibiskupství"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": "Československé státní lesy",
+   "from": 1948,
+   "to": 1974,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "znárodnění, byty zaměstnanců Státních lesů do počátku 70. let"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "Místní národní výbor / město Rožmitál pod Třemšínem",
+   "from": 1974,
+   "to": 1998,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "převod na MNV 1974; nabídka zpět arcibiskupství 1990 nepřijata; 1998 převedeno arcibiskupství (rozpor: web zámku uvádí návrat arcibiskupství 1994)"
+  },
+  {
+   "owner": "cirkev",
+   "owner_wiki": null,
+   "person": "Pražské arcibiskupství",
+   "from": 1998,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dar",
+   "note": "poté zámek převeden na společnost Trinity Coop, v níž mělo arcibiskupství podíl (hrady.cz: 20 %), který později prodalo; rok převodu neuveden"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Trinity Coop s.r.o.",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "současný soukromý vlastník; zámek částečně přístupný, práce na opravách utichly 2006"
+  }
+ ],
+ "events": [
+  {"year": 1347, "text": "Sezima z Rožmitálu předal polovinu hradu, městečka a vsí pražskému arcibiskupství"},
+  {"year": 1436, "text": "král Zikmund zastavil arcibiskupskou polovinu Zmrzlíkům ze Svojšína"},
+  {"year": 1559, "text": "1559-1564 Florián Gryspek přestavěl hrad na renesanční zámek (Gryspekovský palác)"},
+  {"year": 1660, "text": "požár zámku, opravil Arnošt z Harrachu"},
+  {"year": 1724, "text": "další požár, oprava až po zhruba čtyřiceti letech"},
+  {"year": 1813, "text": "třetí požár zámku"},
+  {"year": 1974, "text": "zámek převeden místnímu národnímu výboru, následovala rekonstrukce nedokončená po 1989"}
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Rožmitál_pod_Třemšínem_(zámek)",
+  "https://rozmitalskyzamek.cz/o-zamku/",
+  "https://www.hrady.cz/zamek-rozmital-pod-tremsinem"
+ ]
+}

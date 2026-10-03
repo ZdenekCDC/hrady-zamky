@@ -1,0 +1,27 @@
+{
+ "id": "Q12337603",
+ "name": "Stvolínky",
+ "founded": {"year": 1505, "approx": false, "text": "Na místě gotické vodní tvrze (stavěné kolem poloviny 14. stol.), poprvé doložené jako zápis Vilémem II. z Illburka manželce Anežce z Helfenštejna roku 1505; Anežka ji v letech 1520-1538 přestavěla na renesanční zámeček."},
+ "summary": "Zámek ve Stvolínkách vznikl na místě vodní tvrze doložené roku 1505, kterou Anežka z Helfenštejna přestavěla na renesanční zámeček. Roku 1647 panství koupil kardinál Harrach pro nové litoměřické biskupství a zámek byl v letech 1655-1664 přestavěn na raně barokní biskupskou letní rezidenci. Po roce 1950 patřil státnímu statku, od roku 1970 MNV a od roku 1999 jej spravuje obec Stvolínky, která jej postupně rekonstruuje.",
+ "owners": [
+  {"owner": "ilburkove", "owner_wiki": "Ilburkové", "person": "Vilém II. z Illburka", "from": null, "to": 1505, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "pán na Ronově; rok 1505 je zápis tvrze manželce; starší držitelé (Berkové z Dubé 1401, drobný šlechtický rod Kluků) zdroje jen zmiňují"},
+  {"owner": "z-helfenstejna", "owner_wiki": null, "person": "Anežka z Helfenštejna", "from": 1505, "to": null, "from_approx": false, "to_approx": false, "how": "dar", "note": "tvrz jí zapsal manžel; přestavěla ji na renesanční zámeček (1520-1538)"},
+  {"owner": "kurcpachove", "owner_wiki": null, "person": "Jindřich Kurcpach z Trachenburka", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "manžel Anežčiny dcery Anny, ta roku 1575 přistavěla západní část zámku (obec Stvolínky); přesné roky zdroje neuvádějí"},
+  {"owner": "z-pencelinu", "owner_wiki": null, "person": "Jáchym Malcán z Pencelinu", "from": null, "to": 1603, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "získal panství v 90. letech 16. stol. (obec Stvolínky); prodal roku 1603"},
+  {"owner": "vartenberkove", "owner_wiki": "Vartenberkové", "person": "Alžběta z Vartemberka", "from": 1603, "to": 1608, "from_approx": false, "to_approx": false, "how": "koupe"},
+  {"owner": "hrzanove-z-harasova", "owner_wiki": "Hrzánové z Harasova", "person": "Adam Hrzán z Harasova; po něm syn Zdeslav", "from": 1608, "to": 1647, "from_approx": false, "to_approx": false, "how": "koupe", "note": "Adam zemřel 1619, Zdeslav Hrzán (od 1623 svobodný pán) panství převedl na manželku Alžbětu z Haugviců a po její smrti znovu držel do své smrti 1642; pro dluhy byl statek prodán"},
+  {"owner": "cirkev", "person": "litoměřické biskupství (Arnošt Vojtěch z Harrachu, Maxmilián Rudolf ze Schleinitz)", "from": 1647, "to": 1950, "from_approx": false, "to_approx": true, "how": "koupe", "note": "23. 2. 1647 koupil panství za 53 000 zlatých kardinál Harrach pro nově zřizované litoměřické biskupství, letní rezidence biskupů; konec církevního vlastnictví je odvozen z přidělení státnímu statku 1950, zdroje přesný převod nepopisují; po roce 1918 byl zámek pronajímán (K. Stellwag)"},
+  {"owner": "stat", "person": "Státní statek Zahrádky", "from": 1950, "to": 1970, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "zámek přidělen roku 1950 (či 1951) státnímu statku; sloužila kovárna, sušení a byty"},
+  {"owner": "mesto", "person": "MNV Stvolínky, později obec Stvolínky", "from": 1970, "to": null, "from_approx": false, "to_approx": false, "how": "jine", "note": "1970 převeden na MNV Stvolínky, od 1974 ve správě ONV Česká Lípa (depozitář muzea a okresní archiv); podle webu obce převzala obec zámek roku 1999; dnes jej vlastní obec Stvolínky a postupně rekonstruuje"}
+ ],
+ "events": [
+  {"year": 1505, "text": "první doložení tvrze, Vilém II. z Illburka ji zapsal manželce Anežce z Helfenštejna; městečko od 1505"},
+  {"year": 1520, "text": "1520-1538 přestavba tvrze na renesanční zámek za Anežky z Helfenštejna"},
+  {"year": 1608, "text": "Adam Hrzán z Harasova koupil panství a dokončil přestavbu na renesanční zámek s arkádami"},
+  {"year": 1647, "text": "panství koupil kardinál Harrach pro litoměřické biskupství"},
+  {"year": 1655, "text": "1655-1664 raně barokní přestavba na biskupskou letní rezidenci"},
+  {"year": 1970, "text": "zámek převeden na MNV, poté depozitář muzea a okresní archiv"},
+  {"year": 2013, "text": "2013-2023 opravy za 23 mil. Kč, zámek se otevírá při kulturních akcích"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Stvolínky_(zámek)", "https://www.obec-stvolinky.cz/obec/historie/", "https://www.zamekstvolinky.cz/messages/show-detail/58?lastPage=24"]
+}

@@ -8041,6 +8041,107 @@
    "https://exa.ai/library/publication/nndsvgwqrrw"
   ]
  },
+ "Q1013759": {
+  "id": "Q1013759",
+  "name": "Roštejn",
+  "founded": {
+   "year": null,
+   "approx": false,
+   "text": "V první polovině 14. století (podle Muzea Vysočiny 1348-1353) vybudovali hrad páni z Hradce na hranici třešťského a telečského panství; první zmínka 1353."
+  },
+  "summary": "Pozdně gotický hrad Roštejn vybudovali v první polovině 14. století páni z Hradce, kteří roku 1339 získali Telč. V 70. letech 16. století jej Zachariáš z Hradce přestavěl na renesanční lovecký hrádek s oborou. Později patřil Slavatům z Chlumu a Košumberka, Lichtenštejn-Kastelkornům a od roku 1796 Podstatským z Lichtenštejna; dnes je majetkem Kraje Vysočina a spravuje jej Muzeum Vysočiny Jihlava.",
+  "owners": [
+   {
+    "owner": "pani-z-hradce",
+    "owner_wiki": "Páni z Hradce",
+    "person": "Zachariáš z Hradce (renesanční přestavba)",
+    "from": null,
+    "to": 1604,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "hrad vybudovali páni z Hradce v 1. polovině 14. století; rok 1604 je rok přechodu panství právem dědiců na Slavaty (zdroj: Muzeum Vysočiny)"
+   },
+   {
+    "owner": "slavatove-z-chlumu-a-kosumberka",
+    "owner_wiki": "Slavatové z Chlumu a Košumberka",
+    "person": "Vilém Slavata z Chlumu a Košumberka",
+    "from": 1604,
+    "to": 1691,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "právem dědiců; konec držení = rok přechodu na Lichtenštejn-Kastelkorny"
+   },
+   {
+    "owner": "lichtenstein-castelcornove",
+    "owner_wiki": "Lichtenstein-Castelcornové",
+    "person": "Kryštof Filip z Lichtenštejna-Kastelkornu",
+    "from": 1691,
+    "to": 1796,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "právem dědiců"
+   },
+   {
+    "owner": "podstatsti-z-lichtenstejna",
+    "owner_wiki": null,
+    "person": "Leopold I. Podstatský z Lichtenštejna",
+    "from": 1796,
+    "to": 1911,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "dedictvi",
+    "note": "právem dědiců; rok konce držení a převodu na dnešního vlastníka zdroje neuvádějí (od počátku 19. stol. hrad přestal být šlechtickým sídlem)"
+   },
+   {
+    "owner": "mesto",
+    "person": "Kraj Vysočina",
+    "from": 1911,
+    "to": null,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "současný vlastník je Kraj Vysočina, správce Muzeum Vysočiny Jihlava; rok převodu zdroje neuvádějí"
+   }
+  ],
+  "events": [
+   {
+    "year": 1339,
+    "text": "páni z Hradce získávají od Jana Lucemburského Telč"
+   },
+   {
+    "year": 1353,
+    "text": "první zmínka o hradu (purkrabí Martin z Mutic)"
+   },
+   {
+    "year": 1423,
+    "text": "husité údajně obsadili předhradí, hrad nedobyli"
+   },
+   {
+    "year": 1569,
+    "text": "1569-1584 renesanční přestavba na lovecký hrádek za Zachariáše z Hradce"
+   },
+   {
+    "year": 1915,
+    "text": "požár po úderu blesku do věže"
+   },
+   {
+    "year": 1969,
+    "text": "hrad zpřístupněn veřejnosti (opravy od 1958)"
+   },
+   {
+    "year": 2021,
+    "text": "dokončena rozsáhlá obnova za více než 70 mil. Kč"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Roštejn",
+   "https://mvji.cz/pobocky/historie-hradu",
+   "https://www.ohradech.eu/rostejn.html"
+  ]
+ },
  "Q1013771": {
   "id": "Q1013771",
   "name": "Rychmburk",
@@ -24901,6 +25002,409 @@
    "https://www.cestyapamatky.cz/cestopisy-cesko/kraj-tonu-v-ruzkovych-lhoticich"
   ]
  },
+ "Q12055281": {
+  "id": "Q12055281",
+  "name": "Sokolov",
+  "founded": {
+   "year": null,
+   "approx": false,
+   "text": "První panské sídlo (hrádek či tvrz) vzniklo ve druhé polovině 13. století; první zmínka 1279 v predikátu Alberta Nothafta z Falknova."
+  },
+  "summary": "Sokolovský zámek vznikl na místě tvrze z druhé poloviny 13. století, kterou vybudovali Nothaftové z Falknova. Po Winklerech a královské komoře jej držel Kašpar Šlik a jeho potomci, kteří po roce 1480 postavili pozdně gotický hrad. Po konfiskaci 1621 koupili panství Nosticové, kteří po vypálení Švédy zámek roku 1663 přestavěli na barokní a roku 1805 na klasicistní; drželi jej do 1945. Po konfiskaci sloužil armádě a poté muzeu, dnes patří Karlovarskému kraji.",
+  "owners": [
+   {
+    "owner": "nothaftove",
+    "owner_wiki": "Nothaftové",
+    "person": "Albert Nothaft z Falknova",
+    "from": null,
+    "to": 1339,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "první zmínka 1279; cs.wiki uvádí, že od nich Sokolov 1339 získali Winklerové (diplomová práce: Nothaftové o Sokolov přišli, listina z 3. 6. 1339)"
+   },
+   {
+    "owner": "z-kynsperka",
+    "owner_wiki": null,
+    "person": "Mikuláš Winkler, později Tomáš a Trost Winkler z Kynšperka",
+    "from": 1339,
+    "to": 1366,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "Winklerové; cs.wiki uvádí jen, že museli panství před rokem 1366 přenechat královské komoře (podle nezávislého zdroje 1366 vrátil Trost Winkler majetek komoře)"
+   },
+   {
+    "owner": "koruna",
+    "owner_wiki": null,
+    "person": "královská komora, loketské léno České koruny",
+    "from": 1366,
+    "to": 1435,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "jine",
+    "note": "spravováno loketským purkrabím; zástavně držel město Půta z Ilburka (do 1431); zástava Kašparu Šlikovi 1434/1435 (zdroje se liší)"
+   },
+   {
+    "owner": "slikove",
+    "owner_wiki": "Šlikové",
+    "person": "Kašpar Šlik; Mikuláš Šlik; Volf Šlik; Kryštof Šlik; Jan Albín Šlik",
+    "from": 1435,
+    "to": 1621,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "lenni",
+    "note": "zástava za služby a půjčky císaři Zikmundovi (1434 nebo 1435); Mikuláš (zakladatel sokolovské větve) postavil po 1480 pozdně gotický hrad, zemřel 1522; po něm syn Volf (†1556), pak synovec Kryštof, naposledy Jan Albín (1615-1621), vůdce stavovského povstání"
+   },
+   {
+    "owner": "nosticove",
+    "owner_wiki": "Nosticové",
+    "person": "Ota Nostic; Jan Hartvík Nostic; Bedřich Nostic-Rieneck a další",
+    "from": 1621,
+    "to": 1945,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "odkoupeno císařským radou Otou Nosticem po konfiskaci 1621 (jiné zdroje uvádějí 1622); fideikomisní panství"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": null,
+    "from": 1945,
+    "to": 1986,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "konfiskace",
+    "note": "konfiskace podle Benešových dekretů; v 50. letech sídlila v zámku armáda, poté muzeum a knihovna; rok převodu na dnešního vlastníka neznámý"
+   },
+   {
+    "owner": "mesto",
+    "owner_wiki": null,
+    "person": "Karlovarský kraj",
+    "from": 1986,
+    "to": null,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "jine",
+    "note": "dnešní vlastník podle databáze prazdnedomy.cz (zámek patří Karlovarskému kraji); sídlí zde Muzeum Sokolov, p. o. Karlovarského kraje a Městská knihovna; vlastník v cs.wiki neuveden"
+   }
+  ],
+  "events": [
+   {
+    "year": 1279,
+    "text": "první písemná zmínka, Albert Nothaft z Falknova"
+   },
+   {
+    "year": 1480,
+    "text": "po roce 1480 Mikuláš Šlik postavil pozdně gotický hrad"
+   },
+   {
+    "year": 1621,
+    "text": "konfiskace Šlikům, panství koupil Ota Nostic; zámek téhož roku několik měsíců obléhán"
+   },
+   {
+    "year": 1648,
+    "text": "Königsmarkovi Švédové zámek vypálili"
+   },
+   {
+    "year": 1663,
+    "text": "Nosticové postavili na ruinách barokní zámek"
+   },
+   {
+    "year": 1805,
+    "text": "klasicistní přestavba, dochovaná podoba"
+   },
+   {
+    "year": 1994,
+    "text": "1993-1994 velká oprava zámku s archeologickým výzkumem"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Sokolov_(zámek)",
+   "https://dspace.cuni.cz/bitstream/handle/20.500.11956/25884/DPTX_2009_1_11410_OSZD001_76974_0_82083.pdf",
+   "https://prehis.cz/turista/cechy/sokolov/p/szamek.html",
+   "http://prazdnedomy.cz/domy/objekty/detail/4813-zamek-sokolov"
+  ]
+ },
+ "Q12055292": {
+  "id": "Q12055292",
+  "name": "Sokolí hnízdo",
+  "founded": {
+   "year": 1881,
+   "approx": false,
+   "text": "1881 nechal kníže Edmund Clary-Aldringen na místě malého výčepu z doby kolem roku 1826 postavit výletní zámeček (hotel Prebischtor / Falkennest); stavba trvala asi rok."
+  },
+  "summary": "Zámeček Sokolí hnízdo u Pravčické brány nechal roku 1881 postavit kníže Edmund Clary-Aldringen na místě malého výčepu z doby kolem roku 1826 jako jedno z prvních turistických zázemí v Českém Švýcarsku. Držitelem panství byli Clary-Aldringenové, restaurace s přilehlými pozemky byla roku 1992 privatizována a dnes ji vlastní soukromá společnost PAAL s.r.o. V roce 2003 zde vzniklo muzeum Českého Švýcarska.",
+  "owners": [
+   {
+    "owner": "clary-aldringenove",
+    "owner_wiki": "Clary-Aldringenové",
+    "person": "Edmund Clary-Aldringen",
+    "from": 1881,
+    "to": 1936,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "zalozeni",
+    "note": "majitelé panství; rok konce držení zdroje neuvádějí"
+   },
+   {
+    "owner": "stat",
+    "person": null,
+    "from": 1936,
+    "to": 1992,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "předchozí státní vlastnictví je odvozeno z toho, že NP České Švýcarsko uvádí privatizaci objektu roku 1992; zdroje o převodu od Clary-Aldringenů mlčí"
+   },
+   {
+    "owner": "soukromnik",
+    "person": "PAAL s.r.o.",
+    "from": 1992,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "restaurace byla spolu s pozemky privatizována 1992 a je v soukromých rukou dodnes; cs.wiki uvádí současného majitele PAAL s.r.o., zda byla touto firmou již od 1992, není ze zdrojů jasné"
+   }
+  ],
+  "events": [
+   {
+    "year": 1826,
+    "text": "kolem roku 1826 postaven malý výčep krytý kůrou (předchůdce zámečku; NP uvádí 1827)"
+   },
+   {
+    "year": 1881,
+    "text": "kníže Edmund Clary-Aldringen nechal postavit výletní zámeček s hotelem"
+   },
+   {
+    "year": 1992,
+    "text": "restaurace s přilehlými pozemky privatizována"
+   },
+   {
+    "year": 2003,
+    "text": "v prvním patře zřízeno muzeum Českého Švýcarska"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Sokolí_hnízdo",
+   "https://www.npcs.cz/pravcicka-brana",
+   "https://pbrana.cz/"
+  ]
+ },
+ "Q12056191": {
+  "id": "Q12056191",
+  "name": "Staré Hrady",
+  "founded": {
+   "year": 1340,
+   "approx": true,
+   "text": "První písemná zmínka o tvrzi Stará je z roku 1340 v závěti Arnošta ze Staré; kamenný hrad vybudovali Vilém ze Staré a jeho syn Smil Flaška (zmíněn 1384), renesanční zámek dokončen 1573."
+  },
+  "summary": "Staré Hrady vznikly z gotické tvrze Stará, připomínané roku 1340 v závěti Arnošta ze Staré, otce prvního pražského arcibiskupa Arnošta z Pardubic. Po Jenštejnech a řadě střídajících se majitelů je roku 1571 získal Jiří Pruskovský z Pruskova, který hrad přestavěl na renesanční zámek. Od 1628 patřil Valdštejnovi, od 1635/1637 Šlikům (fideikomis Kopidlno - Staré Hrady) a poté Weissenwolfům a Thurn-Taxisům. Po roce 1949 jej spravovala obec, roku 2007 jej prodala soukromým majitelům Sukovým.",
+  "owners": [
+   {
+    "owner": "pani-z-pardubic",
+    "owner_wiki": "Páni z Pardubic",
+    "person": "Arnošt ze Staré (†1342); synové Bohuš, Arnošt a Smil; od 1358 Vilém ze Staré a jeho syn Smil Flaška z Pardubic",
+    "from": 1340,
+    "to": 1393,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "rok 1340 je první zmínka, nikoli doložený počátek držby; přiřazení k Pánům z Pardubic je odvozené z přídomku z Pardubic"
+   },
+   {
+    "owner": "jenstejnove",
+    "owner_wiki": "Jenštejnové",
+    "person": "Pavel z Jenštejna, poté Jan z Jenštejna",
+    "from": 1393,
+    "to": 1418,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "Smil Flaška panství prodal 1393 Pavlovi z Jenštejna; Jan z Jenštejna jej 1418 prodal"
+   },
+   {
+    "owner": "z-kostelce",
+    "owner_wiki": null,
+    "person": "Jan Kostelák z Kostelce",
+    "from": 1418,
+    "to": 1460,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "během 15. století se majitelé často střídali (podrobnosti zdroje neuvádějí)"
+   },
+   {
+    "owner": "valdstejnove",
+    "owner_wiki": "Valdštejnové",
+    "person": "Jan z Valdštejna",
+    "from": 1460,
+    "to": 1503,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "poslední majitel před 1503, od něhož hrad koupil Jan Rašín z Rýzmburka"
+   },
+   {
+    "owner": "rasinove-z-ryzmburka",
+    "owner_wiki": "Rašínové z Rýzmburka",
+    "person": "Jan Rašín z Rýzmburka, poté jeho vnuk Jan Rašín",
+    "from": 1503,
+    "to": 1567,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe"
+   },
+   {
+    "owner": "lobkovicove",
+    "owner_wiki": "Lobkovicové",
+    "person": "Kryštof Popel z Lobkovic",
+    "from": 1567,
+    "to": 1571,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "majitel sousedního panství Kost"
+   },
+   {
+    "owner": "pruskovsti-z-pruskova",
+    "owner_wiki": "Pruskovští z Pruskova",
+    "person": "Jiří Pruskovský z Pruskova, od 1593 Oldřich Desider Pruskovský",
+    "from": 1571,
+    "to": 1618,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "lenni",
+    "note": "postoupeno do zástavy zeti Kryštofa z Lobkovic (hrady.cz); web obce uvádí věno Uršuly z Lobkovic; 1573 dokončena renesanční přestavba; 1593 zdědil syn Oldřich Desider"
+   },
+   {
+    "owner": "lobkovicove",
+    "owner_wiki": "Lobkovicové",
+    "person": "Vilém z Lobkovic, poté jeho manželka Kateřina Benigna",
+    "from": 1618,
+    "to": 1628,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "jine",
+    "note": "hlavní věřitel získal zadlužené panství po smrti Oldřicha Desidera; přenechal je manželce, která je 1628 prodala"
+   },
+   {
+    "owner": "valdstejnove",
+    "owner_wiki": "Valdštejnové",
+    "person": "Albrecht z Valdštejna",
+    "from": 1628,
+    "to": 1634,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "připojeno k frýdlantskému vévodství; spravováno prostřednictvím synovce"
+   },
+   {
+    "owner": "koruna",
+    "owner_wiki": null,
+    "person": "královská koruna (regent Adam Rodovský z Hustířan)",
+    "from": 1634,
+    "to": 1635,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "po zavraždění Valdštejna 1634 spravováno korunou"
+   },
+   {
+    "owner": "slikove",
+    "owner_wiki": "Šlikové",
+    "person": "Jindřich Šlik z Holíče, po 1650 František Arnošt Šlik; poslední Ervín František Schlik",
+    "from": 1635,
+    "to": 1740,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "lenni",
+    "note": "1635 postoupeno a 1637 darováno za nevyplacený žold; 1672 vytvořen fideikomis Kopidlno - Staré Hrady (sídla v Kopidlně a Jičíněvsi, zámek jen hospodářské centrum); po smrti Ervína Františka, posledního muže kopidlňské větve, spor o panství, který vyhráli Weissenwolfové (roky zdroje neuvádějí)"
+   },
+   {
+    "owner": "ungnadove-z-weissenwolffu",
+    "owner_wiki": "Ungnadové z Weissenwolffu",
+    "person": "Weissenwolfové",
+    "from": 1740,
+    "to": 1844,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "dedictvi",
+    "note": "web OSSH: krátce před první světovou válkou získali Weissenwolfové; přiřazení k rodu Ungnadů z Weissenwolffu je odvozené"
+   },
+   {
+    "owner": "thurn-taxisove",
+    "owner_wiki": "Thurn-Taxisové",
+    "person": "Thurn-Taxisové",
+    "from": 1844,
+    "to": 1949,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "poslední šlechtičtí majitelé (web OSSH); způsob a rok nabytí neuvedeny"
+   },
+   {
+    "owner": "mesto",
+    "owner_wiki": null,
+    "person": "Obec Staré Hrady (do 1994 spravováno v rámci Libáně)",
+    "from": 1949,
+    "to": 2007,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "jine",
+    "note": "1949 přešla starost o zámek na obec; zachránen v 70. letech (V. Holman), depozitáře Památníku národního písemnictví (nájem); web obce: od 1994 po oddělení obce od Libáně vlastnictví obec Staré Hrady"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Petra a Rudolf Sukovi",
+    "from": 2007,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "koupeno od obce (od poloviny roku 2007); zámek znovu otevřen veřejnosti 2008"
+   }
+  ],
+  "events": [
+   {
+    "year": 1340,
+    "text": "první písemná zmínka o tvrzi Stará v závěti Arnošta ze Staré"
+   },
+   {
+    "year": 1384,
+    "text": "první zmínka o nově postaveném kamenném hradě (Vilém ze Staré, Smil Flaška)"
+   },
+   {
+    "year": 1573,
+    "text": "Jiří Pruskovský z Pruskova dokončil přestavbu na renesanční zámek"
+   },
+   {
+    "year": 1672,
+    "text": "František Arnošt Šlik zřídil fideikomis Kopidlno - Staré Hrady"
+   },
+   {
+    "year": 1811,
+    "text": "zabezpečovací práce po sesutí gotického křídla po roce 1800"
+   },
+   {
+    "year": 1949,
+    "text": "starost o chátrající zámek přešla na obec"
+   },
+   {
+    "year": 2007,
+    "text": "obec zámek prodala manželům Sukovým; 2008 znovu zpřístupněn"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Staré_Hrady_(zámek)",
+   "https://www.starehrady.cz/historie-hradu-a-zamku-stare-hrady",
+   "https://www.hrady.cz/zamek-stare-hrady/texty?pos=300&tid=37592",
+   "https://ossh.webnode.cz/historie-zamku-stare-hrady/"
+  ]
+ },
  "Q12058218": {
   "id": "Q12058218",
   "name": "Tachov",
@@ -25405,6 +25909,514 @@
    "https://eurozpravy.cz/cestovani/hrad-templstejn-dodnes-udajne-skryva-podklad-radu-templaru.f797e765",
    "https://www.tourismato.cz/hrad-templstejn-znojmo-p172258",
    "https://sk.wikipedia.org/wiki/Templ%C5%A1tejn_(okres_Znojmo)"
+  ]
+ },
+ "Q12060174": {
+  "id": "Q12060174",
+  "name": "Týnec",
+  "founded": {
+   "year": 1704,
+   "approx": false,
+   "text": "Nový barokní zámek postavil podle plánů G. B. Alliprandiho Maxmilián Norbert z Kolovrat v letech 1704-1710 (stavbu zahájil krátce po roce 1700); kolem 1760 upraven synem Janem Josefem Krakovským z Kolovrat."
+  },
+  "summary": "Nový zámek v Týnci je vrcholně barokní stavba z let 1704-1710, kterou podle plánů Giovanniho Battisty Alliprandiho postavil Maxmilián Norbert z Kolovrat jako sídlo týneckého panství. Kolovratové jej drželi do roku 1927, kdy jej koupil architekt Jaroslav Polívka, který zde zřídil hotel. Po jeho krachu patřil zámek spořitelně, od 1937 metodistické církvi (sirotčinec), po zestátnění 1951 armádě a po roce 1989 několika firmám. Od konce roku 1999 jej vlastní sběratel umění Jan Pelánek Lazarowitz, který jej rekonstruoval a v roce 2024 zpřístupnil.",
+  "owners": [
+   {
+    "owner": "kolowrat-krakowsti",
+    "owner_wiki": "Kolowrat-Krakowští",
+    "person": "Maxmilián Norbert z Kolovrat; poté Jan Josef Krakovský z Kolovrat; naposledy Jindřich Kolovrat-Krakovský",
+    "from": 1704,
+    "to": 1927,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "Kolowratové držely týnecké panství od 17. století (od 20. let 17. století); Jindřich Kolovrat-Krakovský zámek 1927 prodal; zámek byl v 19. století pronajímán"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Jaroslav Josef Polívka",
+    "from": 1927,
+    "to": 1935,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "architekt a stavitel; zámek přestavěl na luxusní hotel, který zkrachoval; koupil i starý zámek (hrady.cz); zámek převzal 1934 největší věřitel, Záložna ve Velvarech (web zámku), cs.wiki a hrady.cz uvádějí 1935"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Městská spořitelna ve Velvarech",
+    "from": 1935,
+    "to": 1937,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "největší věřitel Polívky (Záložna ve Velvarech); instituce, nikoli osoba"
+   },
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "Evangelická církev metodistická (Spolek pro péči o sirotky v Praze)",
+    "from": 1937,
+    "to": 1951,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "zámek koupen 15. 6. 1937 pro sociální ústav, sirotčinec; cs.wiki uvádí, že jej 1937 získal Spolek pro péči o sirotky a od 1951 měla zámek metodistická církev (rozpor v pořadí); zestátněn 1. 10. 1951"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "Československá armáda (vojenská správa)",
+    "from": 1951,
+    "to": 1990,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "zestátněn 1. 10. 1951, sirotčinec vystěhován; vojenské útvary do prosince 1988; církev o restituci nepožádala (cs.wiki chybně či zjednodušeně uvádí restituci po 1989)"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Sipox, s.r.o. Bratislava",
+    "from": 1990,
+    "to": 1990,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "majetek převeden hospodářskou smlouvou vojenské správy; téhož roku prodáno dále"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Vakam, s.r.o. Praha",
+    "from": 1990,
+    "to": 1999,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "plánovala hotel, nevhodně rekonstruovala krov, zámek zastavila bance; 1995 vyhlášen konkurs, správkyně konkursní podstaty hledala kupce; podle cs.wiki se po 1989 vystřídala firma, která zámek zastavila bance"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Jan Pelánek Lazarowitz",
+    "from": 1999,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "mecenáš a sběratel umění; koupě koncem 1999 (cs.wiki uvádí 2000); současný vlastník"
+   }
+  ],
+  "events": [
+   {
+    "year": 1704,
+    "text": "1704-1710 stavba vrcholně barokního zámku podle Alliprandiho"
+   },
+   {
+    "year": 1760,
+    "text": "kolem 1760 úpravy Janem Josefem Krakovským z Kolovrat"
+   },
+   {
+    "year": 1927,
+    "text": "Kolowratové prodali zámek Jaroslavu Polívkovi, který jej přestavěl na hotel"
+   },
+   {
+    "year": 1937,
+    "text": "zámek získal sirotčinec Spolku pro péči o sirotky (metodistická církev)"
+   },
+   {
+    "year": 1951,
+    "text": "zestátnění, využití armádou do 1988"
+   },
+   {
+    "year": 1999,
+    "text": "zámek koupil Jan Pelánek Lazarowitz a zahájil rekonstrukci"
+   },
+   {
+    "year": 2014,
+    "text": "zámek prohlášen národní kulturní památkou"
+   },
+   {
+    "year": 2024,
+    "text": "zámek zpřístupněn veřejnosti po rekonstrukci"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Týnec_(nový_zámek)",
+   "https://www.zamektynec.cz/cz/zamek-tynec-v-letech-1934-1999/",
+   "https://www.hrady.cz/zamek-tynec/",
+   "https://www.klatovskyzpravodaj.cz/zamek-tynec"
+  ]
+ },
+ "Q12337603": {
+  "id": "Q12337603",
+  "name": "Stvolínky",
+  "founded": {
+   "year": 1505,
+   "approx": false,
+   "text": "Na místě gotické vodní tvrze (stavěné kolem poloviny 14. stol.), poprvé doložené jako zápis Vilémem II. z Illburka manželce Anežce z Helfenštejna roku 1505; Anežka ji v letech 1520-1538 přestavěla na renesanční zámeček."
+  },
+  "summary": "Zámek ve Stvolínkách vznikl na místě vodní tvrze doložené roku 1505, kterou Anežka z Helfenštejna přestavěla na renesanční zámeček. Roku 1647 panství koupil kardinál Harrach pro nové litoměřické biskupství a zámek byl v letech 1655-1664 přestavěn na raně barokní biskupskou letní rezidenci. Po roce 1950 patřil státnímu statku, od roku 1970 MNV a od roku 1999 jej spravuje obec Stvolínky, která jej postupně rekonstruuje.",
+  "owners": [
+   {
+    "owner": "ilburkove",
+    "owner_wiki": "Ilburkové",
+    "person": "Vilém II. z Illburka",
+    "from": null,
+    "to": 1505,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "pán na Ronově; rok 1505 je zápis tvrze manželce; starší držitelé (Berkové z Dubé 1401, drobný šlechtický rod Kluků) zdroje jen zmiňují"
+   },
+   {
+    "owner": "z-helfenstejna",
+    "owner_wiki": null,
+    "person": "Anežka z Helfenštejna",
+    "from": 1505,
+    "to": 1538,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "dar",
+    "note": "tvrz jí zapsal manžel; přestavěla ji na renesanční zámeček (1520-1538)"
+   },
+   {
+    "owner": "kurcpachove",
+    "owner_wiki": null,
+    "person": "Jindřich Kurcpach z Trachenburka",
+    "from": 1538,
+    "to": 1570,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "dedictvi",
+    "note": "manžel Anežčiny dcery Anny, ta roku 1575 přistavěla západní část zámku (obec Stvolínky); přesné roky zdroje neuvádějí"
+   },
+   {
+    "owner": "z-pencelinu",
+    "owner_wiki": null,
+    "person": "Jáchym Malcán z Pencelinu",
+    "from": 1570,
+    "to": 1603,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "získal panství v 90. letech 16. stol. (obec Stvolínky); prodal roku 1603"
+   },
+   {
+    "owner": "vartenberkove",
+    "owner_wiki": "Vartenberkové",
+    "person": "Alžběta z Vartemberka",
+    "from": 1603,
+    "to": 1608,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe"
+   },
+   {
+    "owner": "hrzanove-z-harasova",
+    "owner_wiki": "Hrzánové z Harasova",
+    "person": "Adam Hrzán z Harasova; po něm syn Zdeslav",
+    "from": 1608,
+    "to": 1647,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "Adam zemřel 1619, Zdeslav Hrzán (od 1623 svobodný pán) panství převedl na manželku Alžbětu z Haugviců a po její smrti znovu držel do své smrti 1642; pro dluhy byl statek prodán"
+   },
+   {
+    "owner": "cirkev",
+    "person": "litoměřické biskupství (Arnošt Vojtěch z Harrachu, Maxmilián Rudolf ze Schleinitz)",
+    "from": 1647,
+    "to": 1950,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "23. 2. 1647 koupil panství za 53 000 zlatých kardinál Harrach pro nově zřizované litoměřické biskupství, letní rezidence biskupů; konec církevního vlastnictví je odvozen z přidělení státnímu statku 1950, zdroje přesný převod nepopisují; po roce 1918 byl zámek pronajímán (K. Stellwag)"
+   },
+   {
+    "owner": "stat",
+    "person": "Státní statek Zahrádky",
+    "from": 1950,
+    "to": 1970,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "zámek přidělen roku 1950 (či 1951) státnímu statku; sloužila kovárna, sušení a byty"
+   },
+   {
+    "owner": "mesto",
+    "person": "MNV Stvolínky, později obec Stvolínky",
+    "from": 1970,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "jine",
+    "note": "1970 převeden na MNV Stvolínky, od 1974 ve správě ONV Česká Lípa (depozitář muzea a okresní archiv); podle webu obce převzala obec zámek roku 1999; dnes jej vlastní obec Stvolínky a postupně rekonstruuje"
+   }
+  ],
+  "events": [
+   {
+    "year": 1505,
+    "text": "první doložení tvrze, Vilém II. z Illburka ji zapsal manželce Anežce z Helfenštejna; městečko od 1505"
+   },
+   {
+    "year": 1520,
+    "text": "1520-1538 přestavba tvrze na renesanční zámek za Anežky z Helfenštejna"
+   },
+   {
+    "year": 1608,
+    "text": "Adam Hrzán z Harasova koupil panství a dokončil přestavbu na renesanční zámek s arkádami"
+   },
+   {
+    "year": 1647,
+    "text": "panství koupil kardinál Harrach pro litoměřické biskupství"
+   },
+   {
+    "year": 1655,
+    "text": "1655-1664 raně barokní přestavba na biskupskou letní rezidenci"
+   },
+   {
+    "year": 1970,
+    "text": "zámek převeden na MNV, poté depozitář muzea a okresní archiv"
+   },
+   {
+    "year": 2013,
+    "text": "2013-2023 opravy za 23 mil. Kč, zámek se otevírá při kulturních akcích"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Stvolínky_(zámek)",
+   "https://www.obec-stvolinky.cz/obec/historie/",
+   "https://www.zamekstvolinky.cz/messages/show-detail/58?lastPage=24"
+  ]
+ },
+ "Q1245405": {
+  "id": "Q1245405",
+  "name": "Teplice",
+  "founded": {
+   "year": 1164,
+   "approx": true,
+   "text": "Ženský benediktinský klášter založila mezi lety 1156 a 1164 královna Judita Durynská (web muzea: okolo roku 1164); po zániku kláštera jej v 15. století přestavěla na hrad královna Johana z Rožmitálu (hrad zmíněn 1467)."
+  },
+  "summary": "Teplický zámek vznikl přestavbou benediktinského kláštera, který založila královna Judita Durynská a který opustily jeptišky v době husitských válek. Klášterní majetek se zmocnil Jakoubek z Vřesovic, areál na hrad přestavěla královna Johana z Rožmitálu a po rychlém střídání majitelů jej od 1543 přestavoval na zámek Volf z Vřesovic. Od 1585 jej drželi Kinští (Vchynští) a po zavraždění Viléma Kinského 1634 Clary-Aldringenové, kteří zde sídlili do května 1945. Od 1947 zámek užívá Regionální muzeum v Teplicích.",
+  "owners": [
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "ženský benediktinský klášter (založila královna Judita Durynská)",
+    "from": 1164,
+    "to": 1435,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "zalozeni",
+    "note": "cs.wiki uvádí založení mezi lety 1156 a 1164; poslední zmínka o klášteru 1435, jeptišky odešly do kláštera sv. Jiří v Praze, jejich práva na majetek uznávána do 1462"
+   },
+   {
+    "owner": "pani-z-vresovic",
+    "owner_wiki": "Páni z Vřesovic",
+    "person": "Jakoubek z Vřesovic",
+    "from": 1435,
+    "to": 1455,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "konfiskace",
+    "note": "husitský hejtman se zmocnil klášterního majetku; 1436 mu císař Zikmund panství zastavil; rok konce držby neuveden"
+   },
+   {
+    "owner": "pani-z-rozmitalu",
+    "owner_wiki": "Páni z Rožmitálu",
+    "person": "Johana z Rožmitálu, česká královna",
+    "from": 1455,
+    "to": 1475,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "dedictvi",
+    "note": "klášterní panství jí v 60. letech 15. století převedl král Jiří z Poděbrad (web muzea); přestavěla areál na hrad zmíněný 1467; rok úmrtí podle cs.wiki článku o rodu (1475)"
+   },
+   {
+    "owner": "pani-z-kunstatu-a-podebrad",
+    "owner_wiki": "Páni z Kunštátu a Poděbrad",
+    "person": "Hynek z Poděbrad",
+    "from": 1475,
+    "to": 1482,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "syn královny Johany; 1478 uváděno jako tvrz a město; po její smrti"
+   },
+   {
+    "owner": "fictumove",
+    "owner_wiki": "Fictumové",
+    "person": "Purkart, Kryštof a Felix Fictumové; poté Opl z Fictumu",
+    "from": 1482,
+    "to": 1508,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "panství nakonec zůstalo Felixovi, po něm je získal Opl z Fictumu, který je 1508 vyměnil"
+   },
+   {
+    "owner": "libstejnsti-z-kolovrat",
+    "owner_wiki": "Libštejnští z Kolovrat",
+    "person": "Albrecht Libštejnský z Kolovrat",
+    "from": 1508,
+    "to": 1511,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "vymena"
+   },
+   {
+    "owner": "valdstejnove",
+    "owner_wiki": "Valdštejnové",
+    "person": "Jan a Albrecht z Valdštejna",
+    "from": 1511,
+    "to": 1524,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "lenni",
+    "note": "panství dostali od krále Vladislava Jagellonského do dědičného držení"
+   },
+   {
+    "owner": "smiricti-ze-smiric",
+    "owner_wiki": "Smiřičtí ze Smiřic",
+    "person": "Zikmund ze Smiřic",
+    "from": 1524,
+    "to": 1529,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "o panství se dělil s Malcány; přesné roky neuvedeny"
+   },
+   {
+    "owner": "z-malcaunu",
+    "owner_wiki": null,
+    "person": "páni z Malcánu (Jáchym Malcán)",
+    "from": 1524,
+    "to": 1529,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "spojili rozdělené panství a prodali je králi Ferdinandovi I. za 64 tisíc rýnských zlatých; cs.wiki uvádí i Jáchyma Malcána 1529-1530"
+   },
+   {
+    "owner": "koruna",
+    "owner_wiki": null,
+    "person": "Ferdinand I.",
+    "from": 1529,
+    "to": 1530,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "poté se majitelé rychle střídali (1529 Albrecht z Valdštejna, 1529-1530 Jáchym Malcán)"
+   },
+   {
+    "owner": "pani-z-rozmitalu",
+    "owner_wiki": "Páni z Rožmitálu",
+    "person": "Zdeněk Lev z Rožmitálu, poté syn Adam",
+    "from": 1530,
+    "to": 1543,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "Adam z Rožmitálu prodal zámek, dvůr a město Šimonu Třeštíkovi z Hyršova (rok neuveden), po něm dědila vdova Kateřina; ta panství buď postoupila králi, nebo je získal Šimonův bratr"
+   },
+   {
+    "owner": "pani-z-vresovic",
+    "owner_wiki": "Páni z Vřesovic",
+    "person": "Volf z Vřesovic",
+    "from": 1543,
+    "to": 1569,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "hejtman Pražského hradu a podkomoří; zahájil přestavbu hradu na zámek, pohřben 1569 v zámecké kapli; držba 1543-1569 podle webu muzea"
+   },
+   {
+    "owner": "pani-z-vresovic",
+    "owner_wiki": "Páni z Vřesovic",
+    "person": "Bernart z Vřesovic, poté Volfovy dcery Anna a Magdaléna",
+    "from": 1569,
+    "to": 1585,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "dedictvi",
+    "note": "panství bylo zadlužené, sestry nedokázaly vyplatit věřitele; poté se vystřídalo několik majitelů (jména neuvedena) až do 1585"
+   },
+   {
+    "owner": "kinsti",
+    "owner_wiki": "Kinští",
+    "person": "Radslav starší Kinský z Vchynic, od 1619 synovec Vilém Kinský",
+    "from": 1585,
+    "to": 1634,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "Vchynští; zámek výrazně přestavěn; Vilém Kinský zavražděn 1634 v Chebu, majetek zkonfiskován"
+   },
+   {
+    "owner": "clary-aldringenove",
+    "owner_wiki": "Clary-Aldringenové",
+    "person": "Jan z Aldringenu, poté Anna a Jeroným de Clary, od 1666 Jan Clary-Aldringen; později Jan Nepomuk, Karel Josef, Edmund Mořic, Karel, Siegmund a Alfons Clary-Aldringen",
+    "from": 1634,
+    "to": 1945,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "4. 5. 1634 získal císařský maršál Jan z Aldringenu; 1666 dědictví syna Anny a Jeronýma de Clary; od 1788 kníže František Václav; poslední soukromý majitel Alfons Clary-Aldringen (do května 1945)"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": null,
+    "from": 1945,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "od 1947 zámek užívá Regionální muzeum v Teplicích (příspěvková organizace Ústeckého kraje od 2001); zdroje nepodávají výslovně dnešního vlastníka"
+   }
+  ],
+  "events": [
+   {
+    "year": 1278,
+    "text": "klášter vyplenilo spojené braniborské, durynské a míšeňské vojsko"
+   },
+   {
+    "year": 1426,
+    "text": "míšeňské vojsko poškodilo klášter natolik, že jej benediktinky opustily"
+   },
+   {
+    "year": 1467,
+    "text": "královna Johana z Rožmitálu přestavěla klášter na hrad, výslovně zmíněn"
+   },
+   {
+    "year": 1543,
+    "text": "Volf z Vřesovic začal přestavbu hradu na zámek"
+   },
+   {
+    "year": 1585,
+    "text": "panství koupil Radslav Kinský z Vchynic, zámek výrazně přestavěn (hlavní trakt, Kolostujovy věžičky kolem 1600)"
+   },
+   {
+    "year": 1788,
+    "text": "otevřeno zámecké divadlo; 1787-1826 klasicistní a novogotické úpravy za Jana Nepomuka Clary-Aldringena"
+   },
+   {
+    "year": 1938,
+    "text": "Alfons Clary-Aldringen hostil na zámku Runcimanovu misi"
+   },
+   {
+    "year": 1947,
+    "text": "zámek dostalo do užívání teplické muzeum"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Teplice_(zámek)",
+   "https://www.zamek-teplice.cz/cz/z-dejin-teplickeho-zamku",
+   "https://www.teplice.cz/regionalni-muzeum"
   ]
  },
  "Q1277855": {
@@ -47021,6 +48033,152 @@
    "https://www.chatar-chalupar.cz/za-chlebem-na-zbecenskou-rychtu/"
   ]
  },
+ "Q24708262": {
+  "id": "Q24708262",
+  "name": "Rožmitál pod Třemšínem",
+  "founded": {
+   "year": 1250,
+   "approx": true,
+   "text": "V polovině 13. století založil blatný hrad Oldřich z rodu Buziců, první s přídomkem z Rožmitála (jiné místo v cs.wiki uvádí počátek 13. století)."
+  },
+  "summary": "Rožmitál je původně blatný hrad z poloviny 13. století, který založil Oldřich z Buziců a drželi jej páni (Lvové) z Rožmitálu; polovinu hradu měli od roku 1347 pražští arcibiskupové. Po zadlužení Zdeňka Lva z Rožmitálu panství v letech 1550-1555 vykoupil Florián Gryspek, který hrad v letech 1559-1564 přestavěl na renesanční zámek. Po konfiskaci roku 1622 jej dostalo pražské arcibiskupství, jemuž sloužil jako letní sídlo do znárodnění roku 1948. Po státu a městu je dnes zámek v soukromém vlastnictví (Trinity Coop) a chátrá.",
+  "owners": [
+   {
+    "owner": "pani-z-rozmitalu",
+    "owner_wiki": "Páni z Rožmitálu",
+    "person": "Oldřich z Rožmitálu, později Zdeněk Lev z Rožmitálu",
+    "from": 1250,
+    "to": 1545,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "rod Buziců; od 1347 měli polovinu hradu arcibiskupové (viz dále), po jejím získání zpět byl majetek opět sceleno až do roku 1545 (hrady.cz: Zdeněk Lev panství zadlužil, věřitelům postoupeno; Gryspek koupil 1550-1555)"
+   },
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "Pražské arcibiskupství",
+    "from": 1347,
+    "to": 1436,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "dar",
+    "note": "polovina hradu, městečka a vsí darována (cs.wiki: prodána proti vůli Oldřicha - rozpor v rodové stati) Sezimou z Rožmitálu; arcibiskupové ji drželi do husitských válek, 1436 zastavena králem Zikmundem Zmrzlíkům; spoluvlastnictví s pány z Rožmitálu"
+   },
+   {
+    "owner": "zmrzlikove-ze-svojsina",
+    "owner_wiki": "Zmrzlíkové ze Svojšína",
+    "person": "Jan a Václav Zmrzlíkové ze Svojšína",
+    "from": 1436,
+    "to": 1550,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "lenni",
+    "note": "zástava arcibiskupské poloviny za 2000 kop grošů; polovinu poté neznámo jak získali zpět páni z Rožmitálu (rok neuveden)"
+   },
+   {
+    "owner": "gryspekove-z-gryspachu",
+    "owner_wiki": "Gryspekové z Gryspachu",
+    "person": "Florián Gryspek z Gryspachu",
+    "from": 1550,
+    "to": 1622,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "panství vykoupeno od věřitelů 1550-1555 (hrady.cz: 1555 za 11000 kop grošů); v září 1622 konfiskace za účast ve stavovském povstání (hrady.cz uvádí 1621)"
+   },
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "Arnošt Vojtěch z Harrachu, pražský arcibiskup",
+    "from": 1623,
+    "to": 1948,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "dar",
+    "note": "dar od krále Ferdinanda II.; zámek sloužil arcibiskupům jako letní sídlo; pražské arcibiskupství"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "Československé státní lesy",
+    "from": 1948,
+    "to": 1974,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "znárodnění, byty zaměstnanců Státních lesů do počátku 70. let"
+   },
+   {
+    "owner": "mesto",
+    "owner_wiki": null,
+    "person": "Místní národní výbor / město Rožmitál pod Třemšínem",
+    "from": 1974,
+    "to": 1998,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "jine",
+    "note": "převod na MNV 1974; nabídka zpět arcibiskupství 1990 nepřijata; 1998 převedeno arcibiskupství (rozpor: web zámku uvádí návrat arcibiskupství 1994)"
+   },
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "Pražské arcibiskupství",
+    "from": 1998,
+    "to": 2012,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "dar",
+    "note": "poté zámek převeden na společnost Trinity Coop, v níž mělo arcibiskupství podíl (hrady.cz: 20 %), který později prodalo; rok převodu neuveden"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Trinity Coop s.r.o.",
+    "from": 2012,
+    "to": null,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "současný soukromý vlastník; zámek částečně přístupný, práce na opravách utichly 2006"
+   }
+  ],
+  "events": [
+   {
+    "year": 1347,
+    "text": "Sezima z Rožmitálu předal polovinu hradu, městečka a vsí pražskému arcibiskupství"
+   },
+   {
+    "year": 1436,
+    "text": "král Zikmund zastavil arcibiskupskou polovinu Zmrzlíkům ze Svojšína"
+   },
+   {
+    "year": 1559,
+    "text": "1559-1564 Florián Gryspek přestavěl hrad na renesanční zámek (Gryspekovský palác)"
+   },
+   {
+    "year": 1660,
+    "text": "požár zámku, opravil Arnošt z Harrachu"
+   },
+   {
+    "year": 1724,
+    "text": "další požár, oprava až po zhruba čtyřiceti letech"
+   },
+   {
+    "year": 1813,
+    "text": "třetí požár zámku"
+   },
+   {
+    "year": 1974,
+    "text": "zámek převeden místnímu národnímu výboru, následovala rekonstrukce nedokončená po 1989"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Rožmitál_pod_Třemšínem_(zámek)",
+   "https://rozmitalskyzamek.cz/o-zamku/",
+   "https://www.hrady.cz/zamek-rozmital-pod-tremsinem"
+  ]
+ },
  "Q2536208": {
   "id": "Q2536208",
   "name": "Vítkův hrádek",
@@ -63125,6 +64283,83 @@
    "https://destinace.kutnahora.cz/d/kostnice"
   ]
  },
+ "Q523489": {
+  "id": "Q523489",
+  "name": "Terezín",
+  "founded": {
+   "year": 1780,
+   "approx": false,
+   "text": "Rozhodnutí o stavbě pevnosti (tehdy Kopisty) vydala 16. 12. 1779 Marie Terezie, stavba začala na jaře 1780, základní kámen 10. 10. 1780; pevnost dokončena 1790."
+  },
+  "summary": "Pevnost Terezín nechali od roku 1780 postavit Marie Terezie a Josef II. jako součást obrany Čech proti Prusku; je to jedna z největších bastionových pevností na světě a nikdy nebyla obléhána. Pevnostní status zrušil císařský výnos z roku 1888, město však zůstalo posádkovým až do odchodu armády v roce 1997. Za druhé světové války sloužila Malá pevnost jako věznice gestapa a Hlavní pevnost jako židovské ghetto; dnes je Malá pevnost Památníkem Terezín a bývalá kasárna využívají noví majitelé včetně Národního muzea.",
+  "owners": [
+   {
+    "owner": "koruna",
+    "person": "Marie Terezie a Josef II. (habsburská armáda)",
+    "from": 1780,
+    "to": 1918,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "vojenské zařízení habsburské monarchie; pevnostní status zrušen 1888, město zůstalo posádkovým; konec 1918 odpovídá zániku monarchie (zdroje vlastnictví výslovně nepopisují)"
+   },
+   {
+    "owner": "stat",
+    "person": "Československá a poté Česká armáda; Památník Terezín",
+    "from": 1918,
+    "to": 1972,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "posádkové město po celou dobu 1. republiky i po 1945, armáda odešla postupně od 1995, poslední vojáci 1997; Malá pevnost (vězení 1918-1939, pak gestapo 1940-1945) je dnes Památníkem Terezín; za okupace Němci obsadili Malou pevnost a Hlavní pevnost (ghetto)"
+   },
+   {
+    "owner": "mesto",
+    "person": "město Terezín a další noví majitelé",
+    "from": 1972,
+    "to": null,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "po odchodu armády využívají kasárna a nemocnici noví majitelé (Národní muzeum, Židovské muzeum v Praze, depozitáře); civilní správu město získalo 1830; současně otevřený záznam se státem je záměrný - vlastnictví je dnes rozdělené a zdroje je nespecifikují"
+   }
+  ],
+  "events": [
+   {
+    "year": 1780,
+    "text": "zahájení stavby, 10. 10. položen základní kámen; 12. 12. přejmenování na Theresienstadt"
+   },
+   {
+    "year": 1782,
+    "text": "Josef II. založil uvnitř hradeb svobodné královské město"
+   },
+   {
+    "year": 1790,
+    "text": "pevnost dokončena, stavební náklady 10 milionů zlatých"
+   },
+   {
+    "year": 1888,
+    "text": "císařský výnos ukončil pevnostní funkci, město zůstalo posádkovým"
+   },
+   {
+    "year": 1941,
+    "text": "1941-1945 Malá pevnost věznicí gestapa, Hlavní pevnost židovským ghettem (od června 1942 sběrný tábor)"
+   },
+   {
+    "year": 1992,
+    "text": "území pevnosti prohlášeno za památkovou rezervaci"
+   },
+   {
+    "year": 1997,
+    "text": "poslední vojáci opustili město"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Terezín",
+   "https://www.hrady.cz/pevnost-bunkr-hlavni-pevnost/texty?pos=1000&tid=28183",
+   "https://www.pevnostterezin.cz/historie-pevnosti/"
+  ]
+ },
  "Q545847": {
   "id": "Q545847",
   "name": "Račice",
@@ -65391,6 +66626,147 @@
    "https://www.hrad-tocnik.cz/cs/o-hradu/historie",
    "https://cs.wikipedia.org/wiki/Točník_(hrad)",
    "https://www.mistopisy.cz/pruvodce/body-zajmu/588/zricenina-hradu-zebrak/ (komerční průvodce, nižší spolehlivost)"
+  ]
+ },
+ "Q735077": {
+  "id": "Q735077",
+  "name": "Seeberg",
+  "founded": {
+   "year": 1200,
+   "approx": true,
+   "text": "Okolo roku 1200 jako sídlo některého z chebských ministeriálů (muzeum uvádí předpokládaný vznik ve 3. čtvrtině 12. stol.); první písemná zmínka 1322."
+  },
+  "summary": "Románský ministeriální hrad Seeberg (Ostroh) vznikl okolo roku 1200 na Chebsku, první zmínka pochází z roku 1322, kdy Ludvík IV. Bavor zastavil Chebsko Janu Lucemburskému. Hrad spravovalo město Cheb, od roku 1434/1435 ho drželi Šlikové, od roku 1461 chebští Junckerové a poté další šlechtické rody; od roku 1703 patřil opět městu Cheb. Po roce 1945 byl bez vlastníka, v letech 1986-1990 jej obnovilo Městské muzeum Františkovy Lázně a dnes patří městu Františkovy Lázně.",
+  "owners": [
+   {
+    "owner": "neznamo",
+    "person": "chebský ministeriál",
+    "from": 1200,
+    "to": 1322,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "cs.wiki předpokládá stavbu jako sídlo některého z chebských ministeriálů; jméno neznámé"
+   },
+   {
+    "owner": "koruna",
+    "person": "Jan Lucemburský",
+    "from": 1322,
+    "to": 1398,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "lenni",
+    "note": "Chebsko zastaveno 1322 Janu Lucemburskému; město Cheb mělo od 1349 právo spravovat hrad vlastním úředníkem (Karel IV.), muzeum uvádí, že mu hrad pravděpodobně patřil již tehdy"
+   },
+   {
+    "owner": "mesto",
+    "person": "město Cheb",
+    "from": 1398,
+    "to": 1435,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "cs.wiki: od 1398 hrad spravovalo město Cheb; rok 1398 zdroje nepotvrzují jednotně (muzeum a petanek.org uvádějí správu již od 1349)"
+   },
+   {
+    "owner": "slikove",
+    "owner_wiki": "Šlikové",
+    "person": "Kašpar Šlik",
+    "from": 1435,
+    "to": 1461,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "dar",
+    "note": "dar císaře Zikmunda kancléři Kašparu Šlikovi; muzeum uvádí rok 1434 a předání bratrům o dva roky později"
+   },
+   {
+    "owner": "junckerove",
+    "owner_wiki": null,
+    "person": "Kašpar Juncker",
+    "from": 1461,
+    "to": 1542,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "chebský radní a patricij; hrad koupil ve špatném stavu, nechal vystavět kostel sv. Wolfganga; konec držení zdroje neuvádějí"
+   },
+   {
+    "owner": "z-neuberka",
+    "owner_wiki": null,
+    "person": "Konrád a Jošt z Neuberga",
+    "from": 1542,
+    "to": 1622,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "dedictvi",
+    "note": "po Junckerovi bratři z Neuberga (von Neiperg), poté dle muzea též páni von Brand; přesné roky cs.wiki neuvádí"
+   },
+   {
+    "owner": "z-steinheimu",
+    "owner_wiki": null,
+    "person": "Vít Dětřich ze Steinheimu",
+    "from": 1622,
+    "to": 1703,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "velitel chebské posádky, vlastnil hrad v době dobytí Švédy 1648 a obnovil jej; další držitelé do 1703 nejsou v cs.wiki jmenováni (petanek.org: Nosticové, Gérardové)"
+   },
+   {
+    "owner": "mesto",
+    "person": "město Cheb",
+    "from": 1703,
+    "to": 1864,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "hrad s panstvím se vrátil městu Cheb; po roce 1950 hrad ztratil konkrétního vlastníka"
+   },
+   {
+    "owner": "mesto",
+    "person": "město Františkovy Lázně",
+    "from": 1864,
+    "to": null,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "současný vlastník dle cs.wiki; správu zajišťuje Městské muzeum Františkovy Lázně; rok převodu zdroje neuvádějí"
+   }
+  ],
+  "events": [
+   {
+    "year": 1322,
+    "text": "první písemná zmínka, Ludvík IV. Bavor zastavil Chebsko Janu Lucemburskému"
+   },
+   {
+    "year": 1435,
+    "text": "císař Zikmund daroval hrad kancléři Kašparu Šlikovi"
+   },
+   {
+    "year": 1461,
+    "text": "hrad koupil chebský radní Kašpar Juncker"
+   },
+   {
+    "year": 1648,
+    "text": "hrad dobyt, vykraden a vypálen Švédy pod Königsmarkem, poté obnoven Vítem Dětřichem ze Steinheimu"
+   },
+   {
+    "year": 1703,
+    "text": "hrad se vrátil do majetku města Chebu"
+   },
+   {
+    "year": 1905,
+    "text": "1905-1915 opravy podle J. Pröckla zachránily hrad před zničením; 1915 otevřena restaurace"
+   },
+   {
+    "year": 1990,
+    "text": "po obnově Městským muzeem Františkovy Lázně otevřen veřejnosti"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Seeberg",
+   "https://www.muzeum-frantiskovylazne.cz/index.php/cz/o-hradu",
+   "https://www.frantiskovy-lazne.cz/hrad-ostroh-seeberg/d-99130"
   ]
  },
  "Q735278": {

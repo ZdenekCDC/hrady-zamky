@@ -1,0 +1,104 @@
+{
+ "id": "Q12055281",
+ "name": "Sokolov",
+ "founded": {
+  "year": null,
+  "approx": false,
+  "text": "První panské sídlo (hrádek či tvrz) vzniklo ve druhé polovině 13. století; první zmínka 1279 v predikátu Alberta Nothafta z Falknova."
+ },
+ "summary": "Sokolovský zámek vznikl na místě tvrze z druhé poloviny 13. století, kterou vybudovali Nothaftové z Falknova. Po Winklerech a královské komoře jej držel Kašpar Šlik a jeho potomci, kteří po roce 1480 postavili pozdně gotický hrad. Po konfiskaci 1621 koupili panství Nosticové, kteří po vypálení Švédy zámek roku 1663 přestavěli na barokní a roku 1805 na klasicistní; drželi jej do 1945. Po konfiskaci sloužil armádě a poté muzeu, dnes patří Karlovarskému kraji.",
+ "owners": [
+  {
+   "owner": "nothaftove",
+   "owner_wiki": "Nothaftové",
+   "person": "Albert Nothaft z Falknova",
+   "from": null,
+   "to": 1339,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "první zmínka 1279; cs.wiki uvádí, že od nich Sokolov 1339 získali Winklerové (diplomová práce: Nothaftové o Sokolov přišli, listina z 3. 6. 1339)"
+  },
+  {
+   "owner": "z-kynsperka",
+   "owner_wiki": null,
+   "person": "Mikuláš Winkler, později Tomáš a Trost Winkler z Kynšperka",
+   "from": 1339,
+   "to": 1366,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "Winklerové; cs.wiki uvádí jen, že museli panství před rokem 1366 přenechat královské komoře (podle nezávislého zdroje 1366 vrátil Trost Winkler majetek komoře)"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "královská komora, loketské léno České koruny",
+   "from": 1366,
+   "to": 1435,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "jine",
+   "note": "spravováno loketským purkrabím; zástavně držel město Půta z Ilburka (do 1431); zástava Kašparu Šlikovi 1434/1435 (zdroje se liší)"
+  },
+  {
+   "owner": "slikove",
+   "owner_wiki": "Šlikové",
+   "person": "Kašpar Šlik; Mikuláš Šlik; Volf Šlik; Kryštof Šlik; Jan Albín Šlik",
+   "from": 1435,
+   "to": 1621,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "zástava za služby a půjčky císaři Zikmundovi (1434 nebo 1435); Mikuláš (zakladatel sokolovské větve) postavil po 1480 pozdně gotický hrad, zemřel 1522; po něm syn Volf (†1556), pak synovec Kryštof, naposledy Jan Albín (1615-1621), vůdce stavovského povstání"
+  },
+  {
+   "owner": "nosticove",
+   "owner_wiki": "Nosticové",
+   "person": "Ota Nostic; Jan Hartvík Nostic; Bedřich Nostic-Rieneck a další",
+   "from": 1621,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "odkoupeno císařským radou Otou Nosticem po konfiskaci 1621 (jiné zdroje uvádějí 1622); fideikomisní panství"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "konfiskace podle Benešových dekretů; v 50. letech sídlila v zámku armáda, poté muzeum a knihovna; rok převodu na dnešního vlastníka neznámý"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "Karlovarský kraj",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "dnešní vlastník podle databáze prazdnedomy.cz (zámek patří Karlovarskému kraji); sídlí zde Muzeum Sokolov, p. o. Karlovarského kraje a Městská knihovna; vlastník v cs.wiki neuveden"
+  }
+ ],
+ "events": [
+  {"year": 1279, "text": "první písemná zmínka, Albert Nothaft z Falknova"},
+  {"year": 1480, "text": "po roce 1480 Mikuláš Šlik postavil pozdně gotický hrad"},
+  {"year": 1621, "text": "konfiskace Šlikům, panství koupil Ota Nostic; zámek téhož roku několik měsíců obléhán"},
+  {"year": 1648, "text": "Königsmarkovi Švédové zámek vypálili"},
+  {"year": 1663, "text": "Nosticové postavili na ruinách barokní zámek"},
+  {"year": 1805, "text": "klasicistní přestavba, dochovaná podoba"},
+  {"year": 1994, "text": "1993-1994 velká oprava zámku s archeologickým výzkumem"}
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Sokolov_(zámek)",
+  "https://dspace.cuni.cz/bitstream/handle/20.500.11956/25884/DPTX_2009_1_11410_OSZD001_76974_0_82083.pdf",
+  "https://prehis.cz/turista/cechy/sokolov/p/szamek.html",
+  "http://prazdnedomy.cz/domy/objekty/detail/4813-zamek-sokolov"
+ ]
+}

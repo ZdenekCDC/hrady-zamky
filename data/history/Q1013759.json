@@ -1,0 +1,23 @@
+{
+ "id": "Q1013759",
+ "name": "Roštejn",
+ "founded": {"year": null, "approx": false, "text": "V první polovině 14. století (podle Muzea Vysočiny 1348-1353) vybudovali hrad páni z Hradce na hranici třešťského a telečského panství; první zmínka 1353."},
+ "summary": "Pozdně gotický hrad Roštejn vybudovali v první polovině 14. století páni z Hradce, kteří roku 1339 získali Telč. V 70. letech 16. století jej Zachariáš z Hradce přestavěl na renesanční lovecký hrádek s oborou. Později patřil Slavatům z Chlumu a Košumberka, Lichtenštejn-Kastelkornům a od roku 1796 Podstatským z Lichtenštejna; dnes je majetkem Kraje Vysočina a spravuje jej Muzeum Vysočiny Jihlava.",
+ "owners": [
+  {"owner": "pani-z-hradce", "owner_wiki": "Páni z Hradce", "person": "Zachariáš z Hradce (renesanční přestavba)", "from": null, "to": 1604, "from_approx": false, "to_approx": false, "how": "zalozeni", "note": "hrad vybudovali páni z Hradce v 1. polovině 14. století; rok 1604 je rok přechodu panství právem dědiců na Slavaty (zdroj: Muzeum Vysočiny)"},
+  {"owner": "slavatove-z-chlumu-a-kosumberka", "owner_wiki": "Slavatové z Chlumu a Košumberka", "person": "Vilém Slavata z Chlumu a Košumberka", "from": 1604, "to": 1691, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "právem dědiců; konec držení = rok přechodu na Lichtenštejn-Kastelkorny"},
+  {"owner": "lichtenstein-castelcornove", "owner_wiki": "Lichtenstein-Castelcornové", "person": "Kryštof Filip z Lichtenštejna-Kastelkornu", "from": 1691, "to": 1796, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "právem dědiců"},
+  {"owner": "podstatsti-z-lichtenstejna", "owner_wiki": null, "person": "Leopold I. Podstatský z Lichtenštejna", "from": 1796, "to": null, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "právem dědiců; rok konce držení a převodu na dnešního vlastníka zdroje neuvádějí (od počátku 19. stol. hrad přestal být šlechtickým sídlem)"},
+  {"owner": "mesto", "person": "Kraj Vysočina", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "současný vlastník je Kraj Vysočina, správce Muzeum Vysočiny Jihlava; rok převodu zdroje neuvádějí"}
+ ],
+ "events": [
+  {"year": 1339, "text": "páni z Hradce získávají od Jana Lucemburského Telč"},
+  {"year": 1353, "text": "první zmínka o hradu (purkrabí Martin z Mutic)"},
+  {"year": 1423, "text": "husité údajně obsadili předhradí, hrad nedobyli"},
+  {"year": 1569, "text": "1569-1584 renesanční přestavba na lovecký hrádek za Zachariáše z Hradce"},
+  {"year": 1915, "text": "požár po úderu blesku do věže"},
+  {"year": 1969, "text": "hrad zpřístupněn veřejnosti (opravy od 1958)"},
+  {"year": 2021, "text": "dokončena rozsáhlá obnova za více než 70 mil. Kč"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Roštejn", "https://mvji.cz/pobocky/historie-hradu", "https://www.ohradech.eu/rostejn.html"]
+}

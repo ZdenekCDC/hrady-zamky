@@ -1,0 +1,191 @@
+{
+ "id": "Q12056191",
+ "name": "Staré Hrady",
+ "founded": {
+  "year": 1340,
+  "approx": true,
+  "text": "První písemná zmínka o tvrzi Stará je z roku 1340 v závěti Arnošta ze Staré; kamenný hrad vybudovali Vilém ze Staré a jeho syn Smil Flaška (zmíněn 1384), renesanční zámek dokončen 1573."
+ },
+ "summary": "Staré Hrady vznikly z gotické tvrze Stará, připomínané roku 1340 v závěti Arnošta ze Staré, otce prvního pražského arcibiskupa Arnošta z Pardubic. Po Jenštejnech a řadě střídajících se majitelů je roku 1571 získal Jiří Pruskovský z Pruskova, který hrad přestavěl na renesanční zámek. Od 1628 patřil Valdštejnovi, od 1635/1637 Šlikům (fideikomis Kopidlno - Staré Hrady) a poté Weissenwolfům a Thurn-Taxisům. Po roce 1949 jej spravovala obec, roku 2007 jej prodala soukromým majitelům Sukovým.",
+ "owners": [
+  {
+   "owner": "pani-z-pardubic",
+   "owner_wiki": "Páni z Pardubic",
+   "person": "Arnošt ze Staré (†1342); synové Bohuš, Arnošt a Smil; od 1358 Vilém ze Staré a jeho syn Smil Flaška z Pardubic",
+   "from": 1340,
+   "to": 1393,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "rok 1340 je první zmínka, nikoli doložený počátek držby; přiřazení k Pánům z Pardubic je odvozené z přídomku z Pardubic"
+  },
+  {
+   "owner": "jenstejnove",
+   "owner_wiki": "Jenštejnové",
+   "person": "Pavel z Jenštejna, poté Jan z Jenštejna",
+   "from": 1393,
+   "to": 1418,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Smil Flaška panství prodal 1393 Pavlovi z Jenštejna; Jan z Jenštejna jej 1418 prodal"
+  },
+  {
+   "owner": "z-kostelce",
+   "owner_wiki": null,
+   "person": "Jan Kostelák z Kostelce",
+   "from": 1418,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "během 15. století se majitelé často střídali (podrobnosti zdroje neuvádějí)"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Jan z Valdštejna",
+   "from": null,
+   "to": 1503,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "poslední majitel před 1503, od něhož hrad koupil Jan Rašín z Rýzmburka"
+  },
+  {
+   "owner": "rasinove-z-ryzmburka",
+   "owner_wiki": "Rašínové z Rýzmburka",
+   "person": "Jan Rašín z Rýzmburka, poté jeho vnuk Jan Rašín",
+   "from": 1503,
+   "to": 1567,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Kryštof Popel z Lobkovic",
+   "from": 1567,
+   "to": 1571,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "majitel sousedního panství Kost"
+  },
+  {
+   "owner": "pruskovsti-z-pruskova",
+   "owner_wiki": "Pruskovští z Pruskova",
+   "person": "Jiří Pruskovský z Pruskova, od 1593 Oldřich Desider Pruskovský",
+   "from": 1571,
+   "to": 1618,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "postoupeno do zástavy zeti Kryštofa z Lobkovic (hrady.cz); web obce uvádí věno Uršuly z Lobkovic; 1573 dokončena renesanční přestavba; 1593 zdědil syn Oldřich Desider"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Vilém z Lobkovic, poté jeho manželka Kateřina Benigna",
+   "from": 1618,
+   "to": 1628,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "hlavní věřitel získal zadlužené panství po smrti Oldřicha Desidera; přenechal je manželce, která je 1628 prodala"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Albrecht z Valdštejna",
+   "from": 1628,
+   "to": 1634,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "připojeno k frýdlantskému vévodství; spravováno prostřednictvím synovce"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "královská koruna (regent Adam Rodovský z Hustířan)",
+   "from": 1634,
+   "to": 1635,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "po zavraždění Valdštejna 1634 spravováno korunou"
+  },
+  {
+   "owner": "slikove",
+   "owner_wiki": "Šlikové",
+   "person": "Jindřich Šlik z Holíče, po 1650 František Arnošt Šlik; poslední Ervín František Schlik",
+   "from": 1635,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "1635 postoupeno a 1637 darováno za nevyplacený žold; 1672 vytvořen fideikomis Kopidlno - Staré Hrady (sídla v Kopidlně a Jičíněvsi, zámek jen hospodářské centrum); po smrti Ervína Františka, posledního muže kopidlňské větve, spor o panství, který vyhráli Weissenwolfové (roky zdroje neuvádějí)"
+  },
+  {
+   "owner": "ungnadove-z-weissenwolffu",
+   "owner_wiki": "Ungnadové z Weissenwolffu",
+   "person": "Weissenwolfové",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "web OSSH: krátce před první světovou válkou získali Weissenwolfové; přiřazení k rodu Ungnadů z Weissenwolffu je odvozené"
+  },
+  {
+   "owner": "thurn-taxisove",
+   "owner_wiki": "Thurn-Taxisové",
+   "person": "Thurn-Taxisové",
+   "from": null,
+   "to": 1949,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "poslední šlechtičtí majitelé (web OSSH); způsob a rok nabytí neuvedeny"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "Obec Staré Hrady (do 1994 spravováno v rámci Libáně)",
+   "from": 1949,
+   "to": 2007,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "1949 přešla starost o zámek na obec; zachránen v 70. letech (V. Holman), depozitáře Památníku národního písemnictví (nájem); web obce: od 1994 po oddělení obce od Libáně vlastnictví obec Staré Hrady"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Petra a Rudolf Sukovi",
+   "from": 2007,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupeno od obce (od poloviny roku 2007); zámek znovu otevřen veřejnosti 2008"
+  }
+ ],
+ "events": [
+  {"year": 1340, "text": "první písemná zmínka o tvrzi Stará v závěti Arnošta ze Staré"},
+  {"year": 1384, "text": "první zmínka o nově postaveném kamenném hradě (Vilém ze Staré, Smil Flaška)"},
+  {"year": 1573, "text": "Jiří Pruskovský z Pruskova dokončil přestavbu na renesanční zámek"},
+  {"year": 1672, "text": "František Arnošt Šlik zřídil fideikomis Kopidlno - Staré Hrady"},
+  {"year": 1811, "text": "zabezpečovací práce po sesutí gotického křídla po roce 1800"},
+  {"year": 1949, "text": "starost o chátrající zámek přešla na obec"},
+  {"year": 2007, "text": "obec zámek prodala manželům Sukovým; 2008 znovu zpřístupněn"}
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Staré_Hrady_(zámek)",
+  "https://www.starehrady.cz/historie-hradu-a-zamku-stare-hrady",
+  "https://www.hrady.cz/zamek-stare-hrady/texty?pos=300&tid=37592",
+  "https://ossh.webnode.cz/historie-zamku-stare-hrady/"
+ ]
+}
