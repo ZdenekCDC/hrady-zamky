@@ -1,22 +1,118 @@
 {
  "id": "Q10531093",
  "name": "Říčany",
- "founded": {"year": 1260, "approx": true, "text": "Krátce po roce 1260 nechal hrad postavit Ondřej ze Všechrom, nejvyšší komoří Přemysla Otakara II.; hrad je poprvé písemně připomínán roku 1289"},
- "summary": "Hrad Říčany postavil krátce po roce 1260 Ondřej ze Všechrom, nejvyšší komoří Přemysla Otakara II. a zakladatel rodu pánů z Říčan, kteří na něm sídlili po několik generací. Roku 1420 jej po obléhání dobylo vojsko pražanů posílené husity Jana Žižky, majitel Diviš z Průhonic byl zajat a hrad poté zůstal v majetku Prahy. V osmdesátých letech 15. století jej získali Trčkové z Lípy, po roce 1516 nechali hrad zpustnout a v roce 1544 je uváděn jako pustý; dnes je zříceninou.",
+ "founded": {
+  "year": 1260,
+  "approx": true,
+  "text": "Hrad vznikl zřejmě v letech 1260-1270 (cs.wiki: krátce po 1260); stavebníkem byl pravděpodobně Ondřej ze Všechrom, nejvyšší komoří Přemysla Otakara II. (web města Říčany uvádí spíše jeho otce Petra, muzeum Říčany upozorňuje, že Ondřej zemřel 1277 a v pramenech jeho doby není s Říčany spojen); poprvé písemně připomínán 1289"
+ },
+ "summary": "Hrad Říčany vznikl v letech 1260-1270 a postavil jej pravděpodobně Ondřej ze Všechrom, nejvyšší komoří Přemysla Otakara II. a předek rodu pánů z Říčan, kteří na něm sídlili do roku 1420. V listopadu 1420 jej po obležení vyhladověním dobyli pražané a táborité Jana Žižky, majitel Diviš z Říčan byl zajat a hrad zůstal v majetku pražanů (Nového Města pražského) do roku 1485. Poté patřil Trčkům z Lípy, kteří jej nechali zpustnout; roku 1544 je uváděn jako pustý a dnes je volně přístupnou zříceninou.",
  "owners": [
-  {"owner": "pani-z-rican", "owner_wiki": "Páni z Říčan", "person": "Ondřej ze Všechrom", "from": 1260, "to": null, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "nejvyšší komoří Přemysla Otakara II., zakladatel rodu pánů z Říčan; hrad poprvé zmiňován 1289"},
-  {"owner": "pani-z-rican", "owner_wiki": "Páni z Říčan", "person": "Oldřich z Říčan", "from": 1300, "to": null, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "nejvyšší zemský sudí; hrad zdědil po Ondřejovi, poté jej předal svému synovi"},
-  {"owner": "pani-z-rican", "owner_wiki": "Páni z Říčan", "person": "syn Oldřicha z Říčan (nejmenován)", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "hrad s okolím předal Jimramovi z Průhonic, příbuznému z jiné větve rodu"},
-  {"owner": "pani-z-rican", "owner_wiki": "Páni z Říčan", "person": "Jimram z Průhonic", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "dar", "note": "větev pánů z Říčan píšící se z Průhonic"},
-  {"owner": "pani-z-rican", "owner_wiki": "Páni z Říčan", "person": "Diviš z Průhonic (též z Říčan)", "from": null, "to": 1420, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "odpůrce husitů; hrad 1420 dobylo vojsko pražanů posílené husity Jana Žižky, Diviš a jeho rodina byli zajati; rok obléhání zdroj přímo neuvádí, je odvozen z popisu husitských válek v textu"},
-  {"owner": "mesto", "owner_wiki": null, "person": "Praha (pražané)", "from": 1420, "to": 1480, "from_approx": false, "to_approx": true, "how": "jine", "note": "po dobytí husity zůstal hrad v majetku pražanů, jeho význam klesal; v osmdesátých letech 15. století jej získali Trčkové z Lípy"},
-  {"owner": "trckove-z-lipy", "owner_wiki": "Trčkové z Lípy", "person": null, "from": 1480, "to": null, "from_approx": true, "to_approx": false, "how": "koupe", "note": "po roce 1516 nechali hrad zpustnout, ve zprávě z roku 1544 je uveden jako pustý; další majitelé nejsou v textu uvedeni"}
+  {
+   "owner": "pani-z-rican",
+   "owner_wiki": "Páni z Říčan",
+   "person": "Ondřej ze Všechrom",
+   "from": 1260,
+   "to": 1300,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "zalozeni",
+   "note": "zakladatel rodu pánů z Říčan, nejvyšší komoří Přemysla Otakara II. (zemřel 1277); stavebník hradu pravděpodobně (web města Říčany uvádí spíše jeho otce Petra ze Všechrom); hrad poprvé zmiňován 1289"
+  },
+  {
+   "owner": "pani-z-rican",
+   "owner_wiki": "Páni z Říčan",
+   "person": "Oldřich z Říčan",
+   "from": 1300,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "přídomek z Říčan s jistotou užíval až Oldřich (nejvyšší zemský sudí 1309-1325), podle webu města vnuk Ondřeje (cs.wiki: dědic po Ondřejovi); hrad poté předal synovi"
+  },
+  {
+   "owner": "pani-z-rican",
+   "owner_wiki": "Páni z Říčan",
+   "person": "syn Oldřicha z Říčan (nejmenován)",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "hrad s okolím předal Jimramovi z Průhonic, příbuznému z jiné větve rodu"
+  },
+  {
+   "owner": "pani-z-rican",
+   "owner_wiki": "Páni z Říčan",
+   "person": "Jimram z Průhonic",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dar",
+   "note": "větev pánů z Říčan píšící se z Průhonic"
+  },
+  {
+   "owner": "pani-z-rican",
+   "owner_wiki": "Páni z Říčan",
+   "person": "Diviš z Průhonic (též z Říčan)",
+   "from": null,
+   "to": 1420,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "odpůrce husitů; hrad v listopadu 1420 obléhali pražané a táborité Jana Žižky a po necelých 14 dnech jej vyhladověním donutili ke kapitulaci, Diviš s rodinou a posádkou byl zajat; rok 1420 potvrzuje web města Říčany"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "pražané (Nové Město pražské)",
+   "from": 1420,
+   "to": 1485,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "po dobytí husity zůstal hrad v majetku pražanů do roku 1485 (web města Říčany, AtlasCeska); cs.wiki: Trčkové jej získali v 80. letech 15. století; hrad byl obsazen husitskou posádkou, jeho význam klesal"
+  },
+  {
+   "owner": "trckove-z-lipy",
+   "owner_wiki": "Trčkové z Lípy",
+   "person": null,
+   "from": 1485,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Trčkové z Lípy drželi Říčany podle webu města 1485-1544 a hrad zcela zanedbali (sídlili ve Vlašimi či v Praze); po roce 1516 ho nechali zpustnout, 1544 uveden jako pustý; pozdější majitelé a dnešní vlastník zdroje neuvádějí"
+  }
  ],
  "events": [
-  {"year": 1289, "text": "první písemná zmínka o hradu"},
-  {"year": 1420, "text": "hrad po obléhání dobylo vojsko pražanů a husitů Jana Žižky, majitel Diviš z Průhonic zajat, u hradu upáleno devět katolických kněží"},
-  {"year": 1516, "text": "Trčkové z Lípy po tomto roce nechali hrad zpustnout"},
-  {"year": 1544, "text": "hrad ve zprávě uveden jako pustý"}
+  {
+   "year": 1289,
+   "text": "první písemná zmínka o hradu"
+  },
+  {
+   "year": 1420,
+   "text": "v listopadu hrad po necelých 14 dnech obležení vyhladověním dobyli pražané a táborité Jana Žižky, majitel Diviš z Říčan zajat, u hradu upáleni katoličtí kněží (zdroje uvádějí 9 nebo 11)"
+  },
+  {
+   "year": 1485,
+   "text": "hrad přechází z majetku pražanů na Trčky z Lípy"
+  },
+  {
+   "year": 1516,
+   "text": "Trčkové z Lípy po tomto roce nechali hrad zpustnout"
+  },
+  {
+   "year": 1544,
+   "text": "hrad ve zprávě uveden jako pustý"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Říčany_(hrad,_okres_Praha-východ)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Říčany_(hrad,_okres_Praha-východ)",
+  "https://www.ricany.cz/mesto/historie/ricansky-hrad/",
+  "https://www.ricany.cz/mesto/historie/",
+  "https://muzeumricany.cz/pani-z-rican-ve-stredoveku-dil-1-ondrej-ze-vsechrom/",
+  "https://www.atlasceska.cz/pamatky/zricenina-hradu-ricany-21491"
+ ]
 }

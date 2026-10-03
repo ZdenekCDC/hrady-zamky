@@ -1,15 +1,62 @@
 {
  "id": "Q11863536",
  "name": "Budětice",
- "founded": {"year": 1275, "approx": true, "text": "Hrad byl založen pravděpodobně ve 2. polovině 13. století pány z Budětic."},
- "summary": "Zřícenina hradu Budětice (zvaného též Džbán) byla založena ve 2. polovině 13. století pány z Budětic. Poslední majitel Bohuslav z Budětic hrad po roce 1291 opustil a přestěhoval se na blízký hrad Rabí, čímž Budětice ponechal svému osudu a hrad zpustl.",
+ "founded": {
+  "year": 1275,
+  "approx": true,
+  "text": "Hrad byl založen pravděpodobně ve 2. polovině 13. století pány z Budětic."
+ },
+ "summary": "Zřícenina hradu Budětice (zvaného též Džbán) vznikla ve 2. polovině 13. století; vesnici Budětice získal roku 1254 Dluhomil a hrad postavili páni z Budětic. Bohuslav z Budětic (doložen 1290/1291) hrad opustil a sídlil na výstavnějším Rabí, hrad zpustl. Po roce 1390 koupili Budětice Švihovští z Rýzmberka a připojili je k rabskému panství; hrad již nebyl udržován.",
  "owners": [
-  {"owner": "z-budetic", "owner_wiki": null, "person": "Bohuslav z Budětic (poslední majitel)", "from": 1275, "to": 1291, "from_approx": true, "to_approx": true, "how": "zalozeni", "note": "hrad založili páni z Budětic (bez vlastního wiki článku); Bohuslav z Budětic jej po roce 1291 opustil a přestěhoval se na hrad Rabí, poté hrad zpustl"}
+  {
+   "owner": "z-budetic",
+   "owner_wiki": null,
+   "person": "Dluhomil z Budětic, poté jeho syn Bohuslav",
+   "from": 1254,
+   "to": 1390,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "zalozeni",
+   "note": "ves získal Dluhomil 1254 (potvrzení Přemyslem II.), hrad vystavěl podle slavikovohnizdo.cz po polovině 13. stol.; Bohuslav doložen 1290/1291, hrad opustil a přesídlil na Rabí, kdy přesně zpustl zdroje neuvádějí; hrady.cz na jednom místě uvádí 1380, jinde 1390; rod bez vlastního článku na cs.wiki"
+  },
+  {
+   "owner": "svihovsti-z-ryzmberka",
+   "owner_wiki": "Švihovští z Rýzmberka",
+   "person": null,
+   "from": 1390,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupili Budětice po r. 1390 (hrady.cz; slavikovohnizdo.cz 1390) a připojili k rabskému panství; hrad již neudržovali; dnešního vlastníka zdroje neuvádějí"
+  }
  ],
  "events": [
-  {"year": 1291, "text": "poslední majitel Bohuslav z Budětic opouští hrad a stěhuje se na Rabí, hrad následně pustne"},
-  {"year": 1945, "text": "po tomto roce odkryty obranné valy a základy věže"},
-  {"year": 1964, "text": "zbytky hradu prohlášeny kulturní památkou"}
+  {
+   "year": 1254,
+   "text": "král Přemysl II. potvrzuje Dluhomilovi držení vsi Budětice"
+  },
+  {
+   "year": 1291,
+   "text": "Bohuslav z Budětic doložen, hrad opouští a stěhuje se na Rabí, hrad následně pustne"
+  },
+  {
+   "year": 1390,
+   "text": "Budětice kupují Švihovští z Rýzmberka (hrady.cz: po r. 1390)"
+  },
+  {
+   "year": 1945,
+   "text": "po tomto roce odkryty obranné valy a základy věže"
+  },
+  {
+   "year": 1964,
+   "text": "zbytky hradu prohlášeny kulturní památkou"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Budětice_(hrad)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Budětice_(hrad)",
+  "https://www.hrady.cz/hrad-budetice-dzban",
+  "http://slavikovohnizdo.cz/historie",
+  "https://digiarchiv.aiscr.cz/id/C-9131738A?lang=cs"
+ ]
 }

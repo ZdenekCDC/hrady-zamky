@@ -1,24 +1,109 @@
 {
  "id": "Q28048966",
  "name": "Jílové",
- "founded": {"year": 1370, "approx": false, "text": "Roku 1370 nahradil starší tvrz vodní hrad, přestavěný v roce 1574 na renesanční zámek"},
- "summary": "Na místě starší tvrze vznikl roku 1370 vodní hrad, který nechali roku 1574 páni z Bünau přestavět na renesanční zámek. Po Bílé hoře jej Bünauové museli opustit a prodali Kryštofu Šimonovi z Thunu; dnešní podobu dal zámku ve druhé polovině 17. století František Zikmund Thun-Hohenstein a rodina Thun-Hohensteinů jej vlastnila až do roku 1945, kdy byl po poškození za náletů konfiskován. Dnes je zámek majetkem města Jílové a slouží jako muzeum a knihovna.",
+ "founded": {
+  "year": 1370,
+  "approx": false,
+  "text": "Roku 1370 nahradil starší tvrz vodní hrad, přestavěný v roce 1574 na renesanční zámek"
+ },
+ "summary": "Na místě starší tvrze vznikl podle cs.wiki roku 1370 vodní hrad. Panství koupil roku 1527 Jindřich z Bünau a Bünauové dali hrad přestavět na renesanční zámek (deska s letopočtem 1574). Po Bílé hoře museli protestanté z Bünau odejít a roku 1628 (jiné prameny 1629) prodali statek Kryštofu Šimonovi z Thunu; Thun-Hohensteinové jej drželi do konfiskace 1945, dnešní podobu dal zámku František Zikmund (+1702) a v letech 1928-1930 byl upraven na rodinné sídlo. Po válce zde byl dětský domov a zemědělské učiliště, od roku 2000 je zámek majetkem města Jílové (knihovna, expozice).",
  "owners": [
-  {"owner": "rytiri-z-bunau", "owner_wiki": "Rytíři z Bünau", "person": "páni z Bünau", "from": 1370, "to": 1620, "from_approx": false, "to_approx": true, "how": "zalozeni", "note": "původní majitelé tvrze a hradu, roku 1574 dali hrad přestavět na renesanční zámek; po bitvě na Bílé hoře museli zámek opustit"},
-  {"owner": "thun-hohensteinove", "owner_wiki": "Thun-Hohensteinové", "person": "Kryštof Šimon z Thunu", "from": 1620, "to": 1639, "from_approx": true, "to_approx": true, "how": "koupe", "note": "koupil zámek od Bünauů po jejich odchodu po Bílé hoře"},
-  {"owner": "thun-hohensteinove", "owner_wiki": "Thun-Hohensteinové", "person": "František Zikmund Thun-Hohenstein", "from": 1639, "to": 1702, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "velkopřevor maltézského řádu v Čechách, dal zámku jeho dnešní podobu ve 2. polovině 17. století"},
-  {"owner": "thun-hohensteinove", "owner_wiki": "Thun-Hohensteinové", "person": "Thun-Hohensteinové (rod, další generace)", "from": 1702, "to": 1932, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "roku 1842 si nevyužívaný zámek pronajal Josef Münzberg a zřídil zde přádelnu vlny; roku 1932 Thunové prodali zámek Děčín, čímž se Jílové stalo po dlouhé době opět sídlem rodiny"},
-  {"owner": "thun-hohensteinove", "owner_wiki": "Thun-Hohensteinové", "person": "František Antonín IV. z Thun-Hohensteinu", "from": 1932, "to": 1945, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "žil na zámku do roku 1945"},
-  {"owner": "stat", "person": null, "from": 1945, "to": null, "from_approx": false, "to_approx": true, "how": "konfiskace", "note": "zámek 1945 poškozen při náletech a po válce konfiskován, velká část majetku zničena či rozprodána; rok předání městu zdroj neuvádí"},
-  {"owner": "mesto", "person": null, "from": null, "to": null, "from_approx": true, "to_approx": false, "how": "jine", "note": "dnes majetkem města Jílové, slouží k výstavám a jako knihovna; přesný rok převodu na město zdroj neuvádí"}
+  {
+   "owner": "vartenberkove",
+   "owner_wiki": "Vartenberkové",
+   "person": "Jan Březenský z Vartenberka",
+   "from": null,
+   "to": 1527,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "jílovské panství (příslušenství hradu Blansko) prodal Bünauům; starší majitele tvrze zdroje neuvádějí (14. stol. lén hradu Lipý - turistik.cz)"
+  },
+  {
+   "owner": "rytiri-z-bunau",
+   "owner_wiki": "Rytíři z Bünau",
+   "person": "Jindřich z Bünau a synové Rudolf a Gunter; později Jindřich (potomek)",
+   "from": 1527,
+   "to": 1628,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "cs.wiki uvádí rok 1620 a nic o koupi 1527; mujilove.cz 1527 koupě, 1628 prodej (jiné prameny 1629), turistik.cz 1529/1629; 1552 prodal Jindřich panství Děčínu bez Jílového, které si zapsal do desek 1554; zámek přestavěn kolem 1574"
+  },
+  {
+   "owner": "thun-hohensteinove",
+   "owner_wiki": "Thun-Hohensteinové",
+   "person": "Kryštof Šimon z Thunu, od 2. pol. 17. stol. mj. František Zikmund Thun-Hohenstein (1639-1702), 1928-1945 František Antonín Thun-Hohenstein",
+   "from": 1628,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupě od Bünauů 2. 8. 1628 (jiné prameny 1629; cs.wiki 'po Bílé hoře'); zámek byl jen krátce panským sídlem (konec 18. stol. hrabě Prokop Thun), 1842-1922 pronájem továrně na vlněné látky (Josef Münzberg); cs.wiki uvádí 1932 prodej zámku Děčín, mujilove.cz že Thunové nabídli děčínský zámek státu a přesídlili do Jílového; 1928-1930 přestavba na rodinné sídlo, bydleli zde do jara 1946"
+  },
+  {
+   "owner": "stat",
+   "person": null,
+   "from": 1945,
+   "to": 2000,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "konfiskace",
+   "note": "zámek konfiskován, v dubnu 1945 poškozen bombardováním; později dětský domov a do 1998 zemědělské učiliště s internátem; přesný rok převodu na město neuvádí cs.wiki, hrady.cz uvádí 2000"
+  },
+  {
+   "owner": "mesto",
+   "person": "město Jílové",
+   "from": 2000,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "od roku 2000 majetkem města, které zámek postupně rekonstruuje; knihovna a expozice"
+  }
  ],
  "events": [
-  {"year": 1370, "text": "starší tvrz nahrazena vodním hradem"},
-  {"year": 1574, "text": "hrad přestavěn na renesanční zámek"},
-  {"year": 1639, "text": "1639-1702 František Zikmund Thun-Hohenstein dává zámku dnešní barokní podobu"},
-  {"year": 1842, "text": "Josef Münzberg si pronajal zámek a založil přádelnu vlny"},
-  {"year": 1932, "text": "Thunové prodali zámek Děčín, Jílové se stalo znovu rodovým sídlem"},
-  {"year": 1945, "text": "zámek poškozen při náletech a po válce konfiskován"}
+  {
+   "year": 1370,
+   "text": "podle cs.wiki starší tvrz nahrazena vodním hradem"
+  },
+  {
+   "year": 1527,
+   "text": "panství kupuje Jindřich z Bünau"
+  },
+  {
+   "year": 1574,
+   "text": "přestavba na renesanční zámek (deska s letopočtem)"
+  },
+  {
+   "year": 1628,
+   "text": "Bünauové prodávají statek Kryštofu Šimonovi z Thunu (jiné prameny 1629)"
+  },
+  {
+   "year": 1702,
+   "text": "zemřel František Zikmund Thun-Hohenstein, který zámku dal dnešní podobu"
+  },
+  {
+   "year": 1842,
+   "text": "Josef Münzberg si pronajal zámek a zřídil továrnu na vlněné látky (do 1922)"
+  },
+  {
+   "year": 1930,
+   "text": "dokončena přestavba na moderní rodinné sídlo Thun-Hohensteinů (od 1928)"
+  },
+  {
+   "year": 1945,
+   "text": "zámek poškozen bombardováním a konfiskován"
+  },
+  {
+   "year": 2000,
+   "text": "zámek přechází do majetku města Jílové"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Jílové_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Jílové_(zámek)",
+  "https://www.mujilove.cz/historie-zamku",
+  "https://www.hrady.cz/zamek-jilove-eulau/",
+  "https://www.cokolivokoli.cz/41656-zamek-jilove/"
+ ]
 }

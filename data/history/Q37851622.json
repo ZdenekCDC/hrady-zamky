@@ -6,7 +6,7 @@
   "approx": true,
   "text": "Gotická tvrz z 15. století, kterou po roce 1579 přestavěl Volf Gothart Perglár z Perglasu (nebo jeho syn Václav Otakar) na renesanční tvrz obehnanou vodním příkopem; první písemná zmínka o vsi je z roku 1418."
  },
- "summary": "Vesnice Mokrosuky patřila od 14. století k velhartickému panství. Roku 1560 ji získal Václav Vyntíř z Vlčkovic jako součást kolineckého panství, roku 1579 ji koupil Volf Gothart Perglár z Perglasu, jehož rod zde nechal přestavět starší gotickou tvrz na renesanční sídlo. Po konfiskaci majetku Václava Otakara Perglára za účast ve stavovském povstání panství roku 1628 koupil Humprecht Račín z Račína, po němž je spravovala jeho dcera Apolena Lidmila Althannová a od roku 1679 bratr Arnošt Vojtěch Račín, který je připojil k hrádeckému panství až do zrušení poddanství.",
+ "summary": "Ves Mokrosuky patřila od 14. století k velhartickému panství, kolem roku 1560 připadla ke kolineckému panství Václava Vyntíře z Vlčkovic a roku 1579 ji koupil Volf Gothart Perglár z Perglasu, který přestavěl gotickou tvrz na renesanční zámek. Po konfiskaci 1623 zde sídlila vojska, panství pak získal Humprecht Račín z Račína (nejspíš 1653), od 1679 je Račínové drželi jako součást hrádeckého panství. Po pozemkové reformě zámek koupil G. Millner, později chátral a od roku 2008 jej opravuje soukromý majitel Jan Jelínek (muzeum šermu).",
  "owners": [
   {
    "owner": "pani-z-velhartic",
@@ -15,9 +15,9 @@
    "from": 1300,
    "to": 1560,
    "from_approx": true,
-   "to_approx": false,
+   "to_approx": true,
    "how": "neznamo",
-   "note": "vesnice patřila od 14. století k velhartickému panství; první písemná zmínka o Mokrosukách je z roku 1418"
+   "note": "vesnice patřila od 14. století k velhartickému panství; první písemná zmínka 1418; rok 1300 je orientační, zdroje uvádějí jen '14. století'"
   },
   {
    "owner": "vyntirove-z-vlckovic",
@@ -25,10 +25,10 @@
    "person": "Václav Vyntíř z Vlčkovic",
    "from": 1560,
    "to": 1579,
-   "from_approx": false,
+   "from_approx": true,
    "to_approx": false,
    "how": "koupe",
-   "note": "Mokrosuky se staly součástí jeho blízkého kolineckého panství"
+   "note": "při dělení velhartického panství 'kolem roku 1560' (web obce); cs.wiki uvádí 1560; Mokrosuky součástí kolineckého panství"
   },
   {
    "owner": "perglarove-z-perglasu",
@@ -39,29 +39,29 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "nechali přestavět starší gotickou tvrz na renesanční sídlo s vodním příkopem; Václav Otakar se 1618-1620 účastnil stavovského povstání, roku 1623 odsouzen ke ztrátě majetku, později omilostněn"
+   "note": "koupil Mokrosuky 1579, přestavěl gotickou tvrz na renesanční dvoukřídlý zámek se sgrafity a příkopem (web zámku; cs.wiki a web obce: on nebo syn Václav Otakar); Václav Otakar 1618-1620 účast ve stavovském povstání, 1623 odsouzen ke ztrátě majetku, později omilostněn"
   },
   {
-   "owner": "marradasove",
+   "owner": "neznamo",
    "owner_wiki": null,
-   "person": "Baltasar Marradas (vojáci jeho pluku)",
+   "person": null,
    "from": 1623,
-   "to": 1628,
+   "to": 1653,
    "from_approx": false,
-   "to_approx": false,
-   "how": "jine",
-   "note": "po konfiskaci Perglárova majetku se v Mokrosukách utábořili jeho vojáci, žold jim byl vyplácen z výnosů panství; od 1628 financoval pobyt pluk Martina de Hoeff-Huerty sídlící na Velharticích; nešlo o vlastnictví v pravém slova smyslu, spíše o vojenské obsazení"
+   "to_approx": true,
+   "how": "konfiskace",
+   "note": "po konfiskaci se na zámku vystřídali vojáci Baltasara Marradase (žold z výnosů panství) a pluk Martina de Hoeff-Huerty (z Velhartic); nešlo o vlastnictví. Konec období: cs.wiki nabytí Račínem neuvádí (1628 je jen rok financování pluku), obecní strategický dokument uvádí nabytí Račínem 1653"
   },
   {
    "owner": "racinove-z-racina",
    "owner_wiki": "Račínové z Račína",
    "person": "Humprecht Račín z Račína",
-   "from": 1628,
+   "from": 1653,
    "to": 1670,
-   "from_approx": false,
+   "from_approx": true,
    "to_approx": false,
    "how": "koupe",
-   "note": "koupil statek s vesnicemi Mokrosuky, Čermná, Lešišov a Nemanice"
+   "note": "koupil statek s vesnicemi Mokrosuky, Čermná, Lešišov a Nemanice; rok nabytí nejistý: cs.wiki neuvádí (1628 je rok financování pluku), strategický dokument obce uvádí 1653"
   },
   {
    "owner": "althannove",
@@ -72,7 +72,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "dcera Humprechta Račína, spravovala zadlužené mokrosucké panství, roku 1679 je předala bratrovi"
+   "note": "dcera Humprechta Račína, od 1670 spravovala zadlužené panství (zámek získala pro dluhy), roku 1679 je předala bratrovi"
   },
   {
    "owner": "racinove-z-racina",
@@ -83,17 +83,69 @@
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "připojil Mokrosuky k hrádeckému panství, u kterého zůstaly až do zrušení poddanství (1848); pozdější majitelé cs.wiki neuvádí"
+   "note": "Arnošt Vojtěch (též Adalbert) Račín připojil Mokrosuky k hrádeckému panství, u kterého zůstaly až do zrušení poddanství (1848); roky konce Račínů ani pozdější šlechtické majitele zdroje neuvádějí"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "G. Millner",
+   "from": null,
+   "to": 2008,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "během pozemkové reformy (1. pol. 20. stol., přesný rok neuveden) zámek odprodán G. Millnerovi (strategický dokument obce); ve 20. stol. hospodářský dvůr, hospoda, kulturní sál, ve 2. pol. 20. stol. veřejné účely; kdo zámek držel mezi Millnerem a rokem 2008, zdroje neuvádějí"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Jan Jelínek (kovář a mečíř, Kovex Ars)",
+   "from": 2008,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "od 2008 rodinná oprava zámku, muzeum historického šermu"
   }
  ],
  "events": [
-  {"year": 1418, "text": "první písemná zmínka o Mokrosukách"},
-  {"year": 1560, "text": "Václav Vyntíř z Vlčkovic získává Mokrosuky jako součást kolineckého panství"},
-  {"year": 1579, "text": "Volf Gothart Perglár z Perglasu kupuje Mokrosuky"},
-  {"year": 1623, "text": "Václav Otakar Perglár odsouzen ke ztrátě majetku za účast ve stavovském povstání"},
-  {"year": 1628, "text": "panství kupuje Humprecht Račín z Račína"},
-  {"year": 1679, "text": "Mokrosuky připojeny k hrádeckému panství"},
-  {"year": 1964, "text": "zámecký areál prohlášen kulturní památkou"}
+  {
+   "year": 1418,
+   "text": "první písemná zmínka o Mokrosukách"
+  },
+  {
+   "year": 1560,
+   "text": "Václav Vyntíř z Vlčkovic získává Mokrosuky jako součást kolineckého panství"
+  },
+  {
+   "year": 1579,
+   "text": "Volf Gothart Perglár z Perglasu kupuje Mokrosuky"
+  },
+  {
+   "year": 1623,
+   "text": "Václav Otakar Perglár odsouzen ke ztrátě majetku za účast ve stavovském povstání"
+  },
+  {
+   "year": 1628,
+   "text": "panství kupuje Humprecht Račín z Račína"
+  },
+  {
+   "year": 1679,
+   "text": "Mokrosuky připojeny k hrádeckému panství"
+  },
+  {
+   "year": 1964,
+   "text": "zámecký areál prohlášen kulturní památkou"
+  },
+  {
+   "year": 2008,
+   "text": "zámek kupuje kovář a mečíř Jan Jelínek a začíná jeho oprava"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Mokrosuky_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Mokrosuky_(zámek)",
+  "https://www.zamekmokrosuky.cz/pribeh-zamku/",
+  "https://www.mokrosuky.cz/mokrosuky/historie.asp",
+  "https://www.obcepro.cz/pro/21341593240911.pdf"
+ ]
 }
