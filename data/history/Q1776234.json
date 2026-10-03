@@ -1,0 +1,116 @@
+{
+ "id": "Q1776234",
+ "name": "Velehradský klášter",
+ "founded": {
+  "year": 1205,
+  "approx": false,
+  "text": "Klášter založil moravský markrabě Vladislav Jindřich; první cisterciáci z Plas přišli 11. 11. 1205, infobox cs.wiki uvádí založení 1220, kostel vysvěcen 1228."
+ },
+ "summary": "Velehradský klášter je nejstarší cisterciácký klášter na Moravě, založený markrabětem Vladislavem Jindřichem a osazený mnichy z Plas roku 1205. Zrušen byl roku 1784, budovy sloužily jako kasárna a lazaret a od roku 1837 byly v soukromých rukou. Roku 1883 je koupilo olomoucké arcibiskupství a od roku 1890 je (s přerušením 1950-1990) užívají jezuité.",
+ "owners": [
+  {
+   "owner": "cirkev",
+   "person": "cisterciácký klášter Velehrad",
+   "from": 1205,
+   "to": 1784,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "zakladatel markrabě Vladislav Jindřich; cs.wiki uvádí přicházející mnichy 1205, infobox založení 1220"
+  },
+  {
+   "owner": "stat",
+   "person": "Náboženský fond",
+   "from": 1784,
+   "to": 1837,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "konfiskace",
+   "note": "podle polské studie (Faracik) klášter nejprve převzal josefínský náboženský fond; budovy sloužily jako kasárna a lazaret; rok 1837 = dražba (cs.wiki)"
+  },
+  {
+   "owner": "soukromnik",
+   "person": "vídeňský bankéř (jméno zdroj neuvádí)",
+   "from": 1837,
+   "to": 1883,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupeno v dražbě, potomci prodali areál arcibiskupství"
+  },
+  {
+   "owner": "cirkev",
+   "person": "olomoucké arcibiskupství",
+   "from": 1883,
+   "to": 1890,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe"
+  },
+  {
+   "owner": "cirkev",
+   "person": "Tovaryšstvo Ježíšovo (jezuité)",
+   "from": 1890,
+   "to": 1950,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "jezuité zřídili kolej a gymnázium"
+  },
+  {
+   "owner": "stat",
+   "person": "Československo",
+   "from": 1950,
+   "to": 1990,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "Akce K, část budov JZD a ústav Vincentinum; hospodářství cs.wiki popisuje jen stručně"
+  },
+  {
+   "owner": "cirkev",
+   "person": "Tovaryšstvo Ježíšovo (jezuité)",
+   "from": 1990,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "restituce",
+   "note": "budovy navraceny řádu postupně; část využívá Stojanovo gymnázium zřízené olomouckým arcibiskupem; cs.wiki: dnes areál náleží jezuitům"
+  }
+ ],
+ "events": [
+  {
+   "year": 1228,
+   "text": "vysvěcení klášterního kostela biskupem Robertem"
+  },
+  {
+   "year": 1421,
+   "text": "vypálení kláštera moravskými husity"
+  },
+  {
+   "year": 1681,
+   "text": "požár; následná barokní přestavba 1685-1735, vysvěcení kostela 2. 10. 1735"
+  },
+  {
+   "year": 1784,
+   "text": "zrušení kláštera za josefínských reforem"
+  },
+  {
+   "year": 1890,
+   "text": "klášter získali jezuité"
+  },
+  {
+   "year": 1950,
+   "text": "Akce K, zrušení koleje a gymnázia"
+  },
+  {
+   "year": 1990,
+   "text": "návštěva papeže Jana Pavla II., návrat jezuitů"
+  }
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Velehradský_klášter",
+  "https://www.abczech.cz/Velehradska-bazilika-a-klaster-P7033103.html",
+  "https://exa.ai/library/publication/xv451tz9ynl"
+ ]
+}

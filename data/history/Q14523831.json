@@ -1,0 +1,23 @@
+{
+ "id": "Q14523831",
+ "name": "Hospital Kuks",
+ "founded": {"year": 1707, "approx": false, "text": "Hrabě František Antonín Špork se roku 1696 rozhodl založit na hradišťském panství domov pro vysloužilé vojáky; stavba kostela Nejsvětější Trojice a hospitálu začala roku 1707 podle G. B. Alliprandiho, provoz zahájili milosrdní bratři 1743-1744."},
+ "summary": "Hospitál Kuks vznikl na přání hraběte Františka Antonína Šporka v letech 1707-1748 jako zaopatřovací ústav pro vojenské veterány z hradišťského panství, s výzdobou z dílny Matyáše Bernarda Brauna. Po Šporkově smrti (1738) provozoval hospitál od roku 1743 řád milosrdných bratří z nadace, jejíž dohled drželi potomci Swéerts-Sporckové; roku 1938 byl řád vyhnán. Po válce přešel do správy státu a dnes jej spravuje NPÚ; v letech 2010-2015 prošel rozsáhlou obnovou.",
+ "owners": [
+  {"owner": "sporkove", "owner_wiki": "Šporkové", "person": "František Antonín Špork", "from": 1707, "to": 1738, "from_approx": false, "to_approx": false, "how": "zalozeni", "note": "zakladatel; rozhodnutí o založení hospitálu 1696, stavba od 1707; Špork zemřel 30. 3. 1738"},
+  {"owner": "sweerts-sporckove", "owner_wiki": "Swéerts-Sporckové", "person": "Anna Kateřina a František Karel Swéerts-Sporck", "from": 1738, "to": 1744, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "dcera zakladatele s manželem; vyjednali převod správy nadace na milosrdné bratry (dohoda 17. 2. 1744); potomci si ponechali právo koinspekce nadace do roku 1935"},
+  {"owner": "cirkev", "owner_wiki": null, "person": "řád milosrdných bratří (nadace Fr. A. Šporka)", "from": 1744, "to": 1938, "from_approx": false, "to_approx": false, "how": "dar", "note": "řád provozoval hospitál a lékárnu U Granátového jablka; jde o správu nadace (komplex byl formálně majetkem hospitální nadace); oficiální web hospitalkuks.cz uvádí odebrání státem roku 1824 s dohledem komtesy - nepotvrzeno druhým zdrojem; rok 1743 dle cs.wiki příchod bratří, 1744 zahájení provozu"},
+  {"owner": "neznamo", "owner_wiki": null, "person": null, "from": 1938, "to": 1945, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "po vyhnání milosrdných bratří využito jako sklad arizovaného majetku, hospodářská škola, muzeum a od 1942 župní polepšovna; formální vlastnické poměry zdroje neuvádějí"},
+  {"owner": "stat", "owner_wiki": null, "person": "ONV Jaroměř, Národní kulturní komise, dnes Národní památkový ústav (správce)", "from": 1945, "to": null, "from_approx": true, "to_approx": false, "how": "jine", "note": "po válce převzato do správy státu; hospitální nadace zrušena komunistickými úřady v 50. letech (hospitalkuks.cz); dnešním majitelem je český stát, správu vykonává NPÚ; národní kulturní památka od 1995"}
+ ],
+ "events": [
+  {"year": 1707, "text": "zahájena stavba kostela Nejsvětější Trojice a hospitálu podle projektu G. B. Alliprandiho"},
+  {"year": 1717, "text": "vysvěcen kostel Nejsvětější Trojice (20. 8. 1717)"},
+  {"year": 1731, "text": "1712-1731 vznik sochařské výzdoby z dílny M. B. Brauna"},
+  {"year": 1743, "text": "do Kuksu přicházejí milosrdní bratři, lékárna U Granátového jablka; provoz hospitálu 1744"},
+  {"year": 1938, "text": "milosrdní bratři vyhnáni, činnost hospitálu ukončena"},
+  {"year": 1995, "text": "areál prohlášen národní kulturní památkou"},
+  {"year": 2015, "text": "dokončena generální obnova 2010-2015 (projekt Kuks - Granátové jablko), ocenění Europa Nostra"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Kuks_(hospitál)", "https://www.hospital-kuks.cz/cs/o-hospitalu/historie", "https://www.hospitalkuks.cz/historie/"]
+}

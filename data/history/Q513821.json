@@ -1,0 +1,75 @@
+{
+ "id": "Q513821",
+ "name": "Sedlecká kostnice",
+ "founded": {
+  "year": null,
+  "approx": false,
+  "text": "Hřbitovní kaple Všech svatých s kostnicí byla budována od počátku 14. století jako součást cisterciáckého kláštera v Sedlci; kostel ve stylu vrcholné gotiky je datován kolem roku 1400."
+ },
+ "summary": "Hřbitovní kostel Všech svatých s kostnicí vznikl na počátku 14. století jako součást sedleckého cisterciáckého kláštera. Po zrušení kláštera Josefem II. a dražbě majetku jej získali Schwarzenbergové z Orlíka, kteří dali kostnici podobu s výzdobou z kostí (František Rint, kolem 1870). Dnes je kostel funkčním římskokatolickým kostelem ve správě sedlecké farnosti.",
+ "owners": [
+  {
+   "owner": "cirkev",
+   "person": "cisterciácký klášter Sedlec",
+   "from": null,
+   "to": 1784,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "hřbitovní kostel a kostnice jako součást kláštera; wiki uvádí zrušení kláštera roku 1784, sedlec.info 1783 (zrušení) a následnou dražbu"
+  },
+  {
+   "owner": "schwarzenbergove",
+   "owner_wiki": "Schwarzenbergové",
+   "person": "Schwarzenbergové z Orlíka",
+   "from": 1784,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "cs.wiki: klášterní majetek odkoupili Schwarzenbergové; sedlec.info: koupili pozemky při veřejné dražbě a převzali patronát nad kostnicí; konec jejich držby zdroje neuvádějí"
+  },
+  {
+   "owner": "cirkev",
+   "person": "Římskokatolická farnost Kutná Hora - Sedlec",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "dnešní správce kostela a investor obnovy od 2014 (sedlec.info); rok převodu zdroje neuvádějí"
+  }
+ ],
+ "events": [
+  {
+   "year": 1421,
+   "text": "stavbu zasáhl požár založený husity"
+  },
+  {
+   "year": 1511,
+   "text": "podle tradice poloslepý mnich seskládal kosti do pyramid"
+  },
+  {
+   "year": 1710,
+   "text": "obnova kaple v letech 1703-1710 podle koncepce opata Snopka a J. B. Santiniho"
+  },
+  {
+   "year": 1784,
+   "text": "zrušení kláštera Josefem II., majetek odkoupili Schwarzenbergové"
+  },
+  {
+   "year": 1870,
+   "text": "výzdoba z kostí upravena řezbářem Františkem Rintem (datace podle sedlec.info a turistik.cz; cs.wiki rok neuvádí)"
+  },
+  {
+   "year": 2014,
+   "text": "zahájena etapová rekonstrukce kostnice"
+  }
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Kostel_Všech_svatých_(Sedlec)",
+  "https://www.sedlec.info/kostnice/",
+  "https://sedlec.info/katedrala/",
+  "https://destinace.kutnahora.cz/d/kostnice"
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "id": "Q969482",
+ "name": "Strahovský klášter",
+ "founded": {"year": 1143, "approx": false, "text": "Klášter založil roku 1143 kníže Vladislav II. s manželkou Gertrudou a olomoucký biskup Jindřich Zdík; premonstráti ze Steinfeldu sem přišli v letech 1142-1143 (oficiální web uvádí první záměr kolem 1140)."},
+ "summary": "Strahovský klášter je nejstarší premonstrátský klášter v Čechách, založený roku 1143 knížetem Vladislavem II. a biskupem Jindřichem Zdíkem. Po vypálení husity (1420) byl obnoven zejména za opata Jana Lohelia a barokně přestavěn, v 18. století poničen při obléhání Prahy. Roku 1950 jej komunistický režim zabral a sídlil zde Památník národního písemnictví; po roce 1990 byl vrácen premonstrátům, přebírání prostor od státu trvalo až do roku 2022.",
+ "owners": [
+  {"owner": "cirkev", "owner_wiki": null, "person": "Řád premonstrátů (kanonie Strahov)", "from": 1143, "to": 1950, "from_approx": false, "to_approx": false, "how": "zalozeni", "note": "řád premonstrátských řeholních kanovníků; zakladatelé Vladislav II. a Jindřich Zdík; roku 1420 vypálen husity, 1648 vyrabován Švédy; Josef II. klášter nezrušil"},
+  {"owner": "stat", "owner_wiki": null, "person": "Památník národního písemnictví", "from": 1950, "to": 1990, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "v dubnu 1950 zabrán v rámci Akce K; řeholníci deportováni; sídlo Památníku národního písemnictví"},
+  {"owner": "cirkev", "owner_wiki": null, "person": "Řád premonstrátů (kanonie Strahov)", "from": 1990, "to": null, "from_approx": false, "to_approx": false, "how": "restituce", "note": "budovy vráceny klášteru po roce 1990; cs.wiki uvádí obnovu 1992-1993; přebírání areálu od státu probíhalo postupně, Památník národního písemnictví odešel na podzim 2022"}
+ ],
+ "events": [
+  {"year": 1143, "text": "založení kláštera, příchod premonstrátů ze Steinfeldu"},
+  {"year": 1182, "text": "podruhé vysvěcena románská bazilika"},
+  {"year": 1258, "text": "požár, gotická přestavba kostela"},
+  {"year": 1420, "text": "klášter vypálen husity"},
+  {"year": 1627, "text": "ostatky sv. Norberta přeneseny z Magdeburku na Strahov"},
+  {"year": 1648, "text": "klášter vyrabovalo švédské vojsko, odvezena část knihovny"},
+  {"year": 1742, "text": "areál poškozen při obléhání Prahy, následná barokní obnova"},
+  {"year": 1950, "text": "klášter zabrán komunistickým režimem, sídlo Památníku národního písemnictví"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Strahovský_klášter", "https://www.strahovskyklaster.cz/reholni-komunita/dejiny-radu/vznik-strahova"]
+}

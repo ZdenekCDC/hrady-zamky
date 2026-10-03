@@ -1,0 +1,130 @@
+{
+ "id": "Q1149939",
+ "name": "Klášter Rosa coeli",
+ "founded": {
+  "year": 1181,
+  "approx": false,
+  "text": "Klášter premonstrátek založil Vilém z Pulína roku 1181; komunita z Louňovic se usídlila 1183. Falešná zakládací listina uvádí 1173."
+ },
+ "summary": "Klášter premonstrátek Rosa coeli v Dolních Kounicích založil roku 1181 moravský velmož Vilém z Pulína a jde o nejstarší ženský klášter na Moravě. Konvent zanikl roku 1527, panství převzal Ferdinand I. a roku 1537 je prodal Jiřímu Žabkovi z Limberka. Od roku 1622 patřil Ditrichštejnům, v letech 1698-1808 strahovským premonstrátům a dnes areál vlastní brněnské biskupství.",
+ "owners": [
+  {
+   "owner": "cirkev",
+   "person": "konvent premonstrátek Rosa coeli",
+   "from": 1181,
+   "to": 1527,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "zakladatel Vilém z Pulína; od 1284 královský klášter (památkový katalog)"
+  },
+  {
+   "owner": "koruna",
+   "person": "Ferdinand I. Habsburský",
+   "from": 1527,
+   "to": 1537,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "pustý klášter převzala nejprve zemská správa, král jej zpočátku zastavoval"
+  },
+  {
+   "owner": "zabkove-z-limberka",
+   "owner_wiki": "Žabkové z Limberka",
+   "person": "Jiří Žabka z Limberka",
+   "from": 1537,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "místokancléř; zřídil v kostele rodinnou hrobku; panství pak několikrát změnilo majitele (jména zdroj neuvádí)"
+  },
+  {
+   "owner": "ditrichstejnove",
+   "owner_wiki": "Ditrichštejnové",
+   "person": "Ditrichštejnové",
+   "from": 1622,
+   "to": 1698,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "konkrétní způsob nabytí zdroj neuvádí"
+  },
+  {
+   "owner": "cirkev",
+   "person": "strahovští premonstráti",
+   "from": 1698,
+   "to": 1808,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "pokus o obnovu, požár 1703; areál bez statků"
+  },
+  {
+   "owner": "ditrichstejnove",
+   "owner_wiki": "Ditrichštejnové",
+   "person": "Ditrichštejnové (kounické panství)",
+   "from": 1808,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "prodej zpět panství; kníže Jan z Ditrichštejna"
+  },
+  {
+   "owner": "soukromnik",
+   "person": "Emil Tomec, později Dr. Jaromír Košťál",
+   "from": 1927,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "podle dolnikounice.cz po zániku feudálního panství získal zámek a klášter správce Emil Tomec, který klášter prodal Dr. Jaromíru Košťálovi; roky neuvedeny"
+  },
+  {
+   "owner": "cirkev",
+   "person": "brněnské biskupství",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "dnešní vlastník areálu; provozovatelem je město Dolní Kounice; rok převodu zdroje neuvádějí"
+  }
+ ],
+ "events": [
+  {
+   "year": 1183,
+   "text": "usídlení premonstrátek z Louňovic"
+  },
+  {
+   "year": 1527,
+   "text": "zánik konventu, panství převzal král Ferdinand I."
+  },
+  {
+   "year": 1537,
+   "text": "prodej panství Jiřímu Žabkovi z Limberka"
+  },
+  {
+   "year": 1698,
+   "text": "areál koupili strahovští premonstráti"
+  },
+  {
+   "year": 1703,
+   "text": "požár zmařil obnovu kostela"
+  },
+  {
+   "year": 1808,
+   "text": "prodej zpět Ditrichštejnům"
+  },
+  {
+   "year": 1926,
+   "text": "vznik Komitétu pro záchranu památek, zabezpečovací práce"
+  }
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Klášter_Rosa_coeli",
+  "https://www.dolnikounice.cz/historie-klastera-rosa-coeli/d-78778",
+  "https://pamatkovykatalog.cz/areal-klastera-rosa-coeli-2144020"
+ ]
+}

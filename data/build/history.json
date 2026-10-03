@@ -13357,6 +13357,75 @@
    "https://www.zamek-manetin.cz/cs/o-zamku/historie"
   ]
  },
+ "Q1104673": {
+  "id": "Q1104673",
+  "name": "Květná zahrada v Kroměříži",
+  "founded": {
+   "year": 1665,
+   "approx": false,
+   "text": "Zahradu (Libosad) založil olomoucký biskup Karel II. z Lichtenštejna-Kastelkornu, hlavní část vznikla v letech 1665-1675, doplňující prostory v 80. letech 17. století."
+  },
+  "summary": "Květná zahrada (Libosad) je raně barokní zahrada za hradbami Kroměříže, kterou v letech 1665-1675 vybudoval olomoucký biskup Karel II. z Lichtenštejna-Kastelkornu podle návrhů Filiberta Lucchese a Giovanniho Pietra Tencally. Patřila olomouckým biskupům a arcibiskupům, kteří ji v 19. století doplnili o nový vstup a skleníky. Za komunistického režimu byla zestátněna a dnes je ve vlastnictví státu ve správě NPÚ; roku 1998 byla spolu se zámkem a Podzámeckou zahradou zapsána na seznam UNESCO a po obnově znovu otevřena v září 2014.",
+  "owners": [
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "Karel II. z Lichtenštejna-Kastelkornu, olomoučtí biskupové a arcibiskupové",
+    "from": 1665,
+    "to": 1846,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "zalozeni",
+    "note": "olomoucké biskupství (od 1777 arcibiskupství), letní rezidence v Kroměříži; zahradu rozvíjel mj. arcibiskup Maxmilián Josef Sommerau-Beckh (1840-1845 nový vstup a skleníky); rok zestátnění zdroje neuvádějí"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "Národní památkový ústav (správce)",
+    "from": 1846,
+    "to": null,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "zahrada je dnes v majetku státu ve správě NPÚ (zámek a Podzámecká zahrada byly naopak 2015 restituovány Olomouckému arcibiskupství); rok převodu na stát použité zdroje neuvádějí, revitalizace v 50. letech 20. století podle P. Janáka"
+   }
+  ],
+  "events": [
+   {
+    "year": 1665,
+    "text": "zahájena výstavba zahrady za hradbami města pro biskupa Karla II. z Lichtenštejna-Kastelkornu"
+   },
+   {
+    "year": 1675,
+    "text": "dokončena hlavní část zahrady (Květnice a Štěpnice), nápis nad vstupem"
+   },
+   {
+    "year": 1691,
+    "text": "vydáno album rytin G. M. Vischera a J. van den Nypoorta zachycující zahradu"
+   },
+   {
+    "year": 1840,
+    "text": "1840-1845 nový vstup a skleníky podle Antonína Archeho za arcibiskupa Sommerau-Beckha"
+   },
+   {
+    "year": 1998,
+    "text": "zápis na seznam UNESCO spolu se zámkem a Podzámeckou zahradou"
+   },
+   {
+    "year": 2014,
+    "text": "slavnostní otevření po rozsáhlé obnově (6.-7. 9. 2014)"
+   },
+   {
+    "year": 2015,
+    "text": "při zahradě zahájilo činnost Národní centrum zahradní kultury"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Květná_zahrada",
+   "https://www.npu.cz/cs/novinky/51530-o-zamek-kromeriz-se-nove-stara-olomoucke-arcibiskupstvi-kvetna-zahrada-zustava-ve-sprave-npu",
+   "https://www.kvetnazahrada-kromeriz.cz/cs/o-zahrade/historie"
+  ]
+ },
  "Q11158655": {
   "id": "Q11158655",
   "name": "Blansko",
@@ -15149,6 +15218,136 @@
    "https://www.hradbrumov.cz/hrad/historie-hradu/ (oficiální web hradu)",
    "https://www.hrady.cz/hrad-brumov-brumov-bylnice",
    "https://www.treking.cz/regiony/brumov-hrad.htm (komerční web, přebírá text webu hradu)"
+  ]
+ },
+ "Q1149939": {
+  "id": "Q1149939",
+  "name": "Klášter Rosa coeli",
+  "founded": {
+   "year": 1181,
+   "approx": false,
+   "text": "Klášter premonstrátek založil Vilém z Pulína roku 1181; komunita z Louňovic se usídlila 1183. Falešná zakládací listina uvádí 1173."
+  },
+  "summary": "Klášter premonstrátek Rosa coeli v Dolních Kounicích založil roku 1181 moravský velmož Vilém z Pulína a jde o nejstarší ženský klášter na Moravě. Konvent zanikl roku 1527, panství převzal Ferdinand I. a roku 1537 je prodal Jiřímu Žabkovi z Limberka. Od roku 1622 patřil Ditrichštejnům, v letech 1698-1808 strahovským premonstrátům a dnes areál vlastní brněnské biskupství.",
+  "owners": [
+   {
+    "owner": "cirkev",
+    "person": "konvent premonstrátek Rosa coeli",
+    "from": 1181,
+    "to": 1527,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "zakladatel Vilém z Pulína; od 1284 královský klášter (památkový katalog)"
+   },
+   {
+    "owner": "koruna",
+    "person": "Ferdinand I. Habsburský",
+    "from": 1527,
+    "to": 1537,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "pustý klášter převzala nejprve zemská správa, král jej zpočátku zastavoval"
+   },
+   {
+    "owner": "zabkove-z-limberka",
+    "owner_wiki": "Žabkové z Limberka",
+    "person": "Jiří Žabka z Limberka",
+    "from": 1537,
+    "to": 1622,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "místokancléř; zřídil v kostele rodinnou hrobku; panství pak několikrát změnilo majitele (jména zdroj neuvádí)"
+   },
+   {
+    "owner": "ditrichstejnove",
+    "owner_wiki": "Ditrichštejnové",
+    "person": "Ditrichštejnové",
+    "from": 1622,
+    "to": 1698,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "konkrétní způsob nabytí zdroj neuvádí"
+   },
+   {
+    "owner": "cirkev",
+    "person": "strahovští premonstráti",
+    "from": 1698,
+    "to": 1808,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "pokus o obnovu, požár 1703; areál bez statků"
+   },
+   {
+    "owner": "ditrichstejnove",
+    "owner_wiki": "Ditrichštejnové",
+    "person": "Ditrichštejnové (kounické panství)",
+    "from": 1808,
+    "to": 1927,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "prodej zpět panství; kníže Jan z Ditrichštejna"
+   },
+   {
+    "owner": "soukromnik",
+    "person": "Emil Tomec, později Dr. Jaromír Košťál",
+    "from": 1927,
+    "to": 1976,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "podle dolnikounice.cz po zániku feudálního panství získal zámek a klášter správce Emil Tomec, který klášter prodal Dr. Jaromíru Košťálovi; roky neuvedeny"
+   },
+   {
+    "owner": "cirkev",
+    "person": "brněnské biskupství",
+    "from": 1976,
+    "to": null,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "dnešní vlastník areálu; provozovatelem je město Dolní Kounice; rok převodu zdroje neuvádějí"
+   }
+  ],
+  "events": [
+   {
+    "year": 1183,
+    "text": "usídlení premonstrátek z Louňovic"
+   },
+   {
+    "year": 1527,
+    "text": "zánik konventu, panství převzal král Ferdinand I."
+   },
+   {
+    "year": 1537,
+    "text": "prodej panství Jiřímu Žabkovi z Limberka"
+   },
+   {
+    "year": 1698,
+    "text": "areál koupili strahovští premonstráti"
+   },
+   {
+    "year": 1703,
+    "text": "požár zmařil obnovu kostela"
+   },
+   {
+    "year": 1808,
+    "text": "prodej zpět Ditrichštejnům"
+   },
+   {
+    "year": 1926,
+    "text": "vznik Komitétu pro záchranu památek, zabezpečovací práce"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Klášter_Rosa_coeli",
+   "https://www.dolnikounice.cz/historie-klastera-rosa-coeli/d-78778",
+   "https://pamatkovykatalog.cz/areal-klastera-rosa-coeli-2144020"
   ]
  },
  "Q116582": {
@@ -18533,6 +18732,90 @@
    "https://www.hrady.cz/hrad-jencov-belec/texty?pos=1000&tid=9399",
    "http://hrady.dejiny.cz/jencov/index.htm",
    "https://plus.rozhlas.cz/jencov-kapesni-hrad-6664305"
+  ]
+ },
+ "Q12029311": {
+  "id": "Q12029311",
+  "name": "Klatovské katakomby",
+  "founded": {
+   "year": 1656,
+   "approx": false,
+   "text": "Krypty byly budovány jako součást jezuitského kostela v letech 1656-1676."
+  },
+  "summary": "Klatovské katakomby jsou krypty pod jezuitským kostelem Neposkvrněného početí Panny Marie a sv. Ignáce, budované v letech 1656-1676 jako pohřebiště jezuitů a jejich dobrodinců. Pohřbívalo se zde do roku 1783, kdy Josef II. zakázal pohřby v kryptách. Po zrušení řádu 1773 přešel kostel na studijní fond a později město, dnes je majetkem římskokatolické církve a v roce 2025 byl s katakombami prohlášen národní kulturní památkou.",
+  "owners": [
+   {
+    "owner": "cirkev",
+    "person": "Tovaryšstvo Ježíšovo (jezuité) v Klatovech",
+    "from": 1656,
+    "to": 1773,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "stavba kostela a krypt 1656-1676, kostel dostavován do 18. století"
+   },
+   {
+    "owner": "stat",
+    "person": "studijní fond",
+    "from": 1773,
+    "to": 1793,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "majetek zrušeného řádu přidělila Marie Terezie studijnímu fondu (katakomby.cz); klatovy.cz uvádí, že kostel připadl městu již po zrušení řádu - rozpor"
+   },
+   {
+    "owner": "mesto",
+    "person": "město Klatovy",
+    "from": 1793,
+    "to": 1910,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "jine",
+    "note": "podle katakomby.cz byl kostel 1793 s vybavením přenechán městu; konec držby zdroje neuvádějí"
+   },
+   {
+    "owner": "cirkev",
+    "person": "Římskokatolická farnost Klatovy",
+    "from": 1910,
+    "to": null,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "katakomby.cz: kostel je majetkem římskokatolické církve, prohlídky probíhají ve spolupráci s farností; rok převodu zdroje neuvádějí"
+   }
+  ],
+  "events": [
+   {
+    "year": 1656,
+    "text": "zahájení stavby kostela a krypt (24. 4. 1656)"
+   },
+   {
+    "year": 1783,
+    "text": "poslední pohřeb v kryptách (Antonín Weichs), 1784 zákaz pohřbívání"
+   },
+   {
+    "year": 1773,
+    "text": "zrušení jezuitského řádu"
+   },
+   {
+    "year": 1937,
+    "text": "po zasypání větracích kanálů ve 30. letech zničeno 140 mumií, pohřbeny na hřbitově sv. Jakuba"
+   },
+   {
+    "year": 2011,
+    "text": "zásadní rekonstrukce a současná expozice"
+   },
+   {
+    "year": 2025,
+    "text": "kostel s katakombami prohlášen národní kulturní památkou"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Klatovské_katakomby",
+   "https://www.katakomby.cz/o-katakombach/jezuite-v-klatovech/",
+   "https://www.katakomby.cz/prohlidky/jezuitsky-kostel/",
+   "https://www.idnes.cz/plzen/zpravy/klatovy-katakomby-kostel-jezuitsky-narodni-kulturni-pamatka.A251106_877382_plzen-zpravy_vb"
   ]
  },
  "Q12029665": {
@@ -26917,6 +27200,108 @@
    "https://www.hrady.cz/zamek-cervene-porici/texty?pos=1000&tid=1373 (komerční web)"
   ]
  },
+ "Q14523831": {
+  "id": "Q14523831",
+  "name": "Hospital Kuks",
+  "founded": {
+   "year": 1707,
+   "approx": false,
+   "text": "Hrabě František Antonín Špork se roku 1696 rozhodl založit na hradišťském panství domov pro vysloužilé vojáky; stavba kostela Nejsvětější Trojice a hospitálu začala roku 1707 podle G. B. Alliprandiho, provoz zahájili milosrdní bratři 1743-1744."
+  },
+  "summary": "Hospitál Kuks vznikl na přání hraběte Františka Antonína Šporka v letech 1707-1748 jako zaopatřovací ústav pro vojenské veterány z hradišťského panství, s výzdobou z dílny Matyáše Bernarda Brauna. Po Šporkově smrti (1738) provozoval hospitál od roku 1743 řád milosrdných bratří z nadace, jejíž dohled drželi potomci Swéerts-Sporckové; roku 1938 byl řád vyhnán. Po válce přešel do správy státu a dnes jej spravuje NPÚ; v letech 2010-2015 prošel rozsáhlou obnovou.",
+  "owners": [
+   {
+    "owner": "sporkove",
+    "owner_wiki": "Šporkové",
+    "person": "František Antonín Špork",
+    "from": 1707,
+    "to": 1738,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "zakladatel; rozhodnutí o založení hospitálu 1696, stavba od 1707; Špork zemřel 30. 3. 1738"
+   },
+   {
+    "owner": "sweerts-sporckove",
+    "owner_wiki": "Swéerts-Sporckové",
+    "person": "Anna Kateřina a František Karel Swéerts-Sporck",
+    "from": 1738,
+    "to": 1744,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "dcera zakladatele s manželem; vyjednali převod správy nadace na milosrdné bratry (dohoda 17. 2. 1744); potomci si ponechali právo koinspekce nadace do roku 1935"
+   },
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "řád milosrdných bratří (nadace Fr. A. Šporka)",
+    "from": 1744,
+    "to": 1938,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "dar",
+    "note": "řád provozoval hospitál a lékárnu U Granátového jablka; jde o správu nadace (komplex byl formálně majetkem hospitální nadace); oficiální web hospitalkuks.cz uvádí odebrání státem roku 1824 s dohledem komtesy - nepotvrzeno druhým zdrojem; rok 1743 dle cs.wiki příchod bratří, 1744 zahájení provozu"
+   },
+   {
+    "owner": "neznamo",
+    "owner_wiki": null,
+    "person": null,
+    "from": 1938,
+    "to": 1945,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "po vyhnání milosrdných bratří využito jako sklad arizovaného majetku, hospodářská škola, muzeum a od 1942 župní polepšovna; formální vlastnické poměry zdroje neuvádějí"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "ONV Jaroměř, Národní kulturní komise, dnes Národní památkový ústav (správce)",
+    "from": 1945,
+    "to": null,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "jine",
+    "note": "po válce převzato do správy státu; hospitální nadace zrušena komunistickými úřady v 50. letech (hospitalkuks.cz); dnešním majitelem je český stát, správu vykonává NPÚ; národní kulturní památka od 1995"
+   }
+  ],
+  "events": [
+   {
+    "year": 1707,
+    "text": "zahájena stavba kostela Nejsvětější Trojice a hospitálu podle projektu G. B. Alliprandiho"
+   },
+   {
+    "year": 1717,
+    "text": "vysvěcen kostel Nejsvětější Trojice (20. 8. 1717)"
+   },
+   {
+    "year": 1731,
+    "text": "1712-1731 vznik sochařské výzdoby z dílny M. B. Brauna"
+   },
+   {
+    "year": 1743,
+    "text": "do Kuksu přicházejí milosrdní bratři, lékárna U Granátového jablka; provoz hospitálu 1744"
+   },
+   {
+    "year": 1938,
+    "text": "milosrdní bratři vyhnáni, činnost hospitálu ukončena"
+   },
+   {
+    "year": 1995,
+    "text": "areál prohlášen národní kulturní památkou"
+   },
+   {
+    "year": 2015,
+    "text": "dokončena generální obnova 2010-2015 (projekt Kuks - Granátové jablko), ocenění Europa Nostra"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Kuks_(hospitál)",
+   "https://www.hospital-kuks.cz/cs/o-hospitalu/historie",
+   "https://www.hospitalkuks.cz/historie/"
+  ]
+ },
  "Q14923651": {
   "id": "Q14923651",
   "name": "Nová Horka",
@@ -31306,6 +31691,122 @@
    "https://cs.wikipedia.org/wiki/Kamil_Rohan",
    "https://cs.wikipedia.org/wiki/Alain_Rohan",
    "https://de.wikipedia.org/wiki/Schloss_Sychrov"
+  ]
+ },
+ "Q1776234": {
+  "id": "Q1776234",
+  "name": "Velehradský klášter",
+  "founded": {
+   "year": 1205,
+   "approx": false,
+   "text": "Klášter založil moravský markrabě Vladislav Jindřich; první cisterciáci z Plas přišli 11. 11. 1205, infobox cs.wiki uvádí založení 1220, kostel vysvěcen 1228."
+  },
+  "summary": "Velehradský klášter je nejstarší cisterciácký klášter na Moravě, založený markrabětem Vladislavem Jindřichem a osazený mnichy z Plas roku 1205. Zrušen byl roku 1784, budovy sloužily jako kasárna a lazaret a od roku 1837 byly v soukromých rukou. Roku 1883 je koupilo olomoucké arcibiskupství a od roku 1890 je (s přerušením 1950-1990) užívají jezuité.",
+  "owners": [
+   {
+    "owner": "cirkev",
+    "person": "cisterciácký klášter Velehrad",
+    "from": 1205,
+    "to": 1784,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "zakladatel markrabě Vladislav Jindřich; cs.wiki uvádí přicházející mnichy 1205, infobox založení 1220"
+   },
+   {
+    "owner": "stat",
+    "person": "Náboženský fond",
+    "from": 1784,
+    "to": 1837,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "konfiskace",
+    "note": "podle polské studie (Faracik) klášter nejprve převzal josefínský náboženský fond; budovy sloužily jako kasárna a lazaret; rok 1837 = dražba (cs.wiki)"
+   },
+   {
+    "owner": "soukromnik",
+    "person": "vídeňský bankéř (jméno zdroj neuvádí)",
+    "from": 1837,
+    "to": 1883,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "koupeno v dražbě, potomci prodali areál arcibiskupství"
+   },
+   {
+    "owner": "cirkev",
+    "person": "olomoucké arcibiskupství",
+    "from": 1883,
+    "to": 1890,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe"
+   },
+   {
+    "owner": "cirkev",
+    "person": "Tovaryšstvo Ježíšovo (jezuité)",
+    "from": 1890,
+    "to": 1950,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "jezuité zřídili kolej a gymnázium"
+   },
+   {
+    "owner": "stat",
+    "person": "Československo",
+    "from": 1950,
+    "to": 1990,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "Akce K, část budov JZD a ústav Vincentinum; hospodářství cs.wiki popisuje jen stručně"
+   },
+   {
+    "owner": "cirkev",
+    "person": "Tovaryšstvo Ježíšovo (jezuité)",
+    "from": 1990,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "restituce",
+    "note": "budovy navraceny řádu postupně; část využívá Stojanovo gymnázium zřízené olomouckým arcibiskupem; cs.wiki: dnes areál náleží jezuitům"
+   }
+  ],
+  "events": [
+   {
+    "year": 1228,
+    "text": "vysvěcení klášterního kostela biskupem Robertem"
+   },
+   {
+    "year": 1421,
+    "text": "vypálení kláštera moravskými husity"
+   },
+   {
+    "year": 1681,
+    "text": "požár; následná barokní přestavba 1685-1735, vysvěcení kostela 2. 10. 1735"
+   },
+   {
+    "year": 1784,
+    "text": "zrušení kláštera za josefínských reforem"
+   },
+   {
+    "year": 1890,
+    "text": "klášter získali jezuité"
+   },
+   {
+    "year": 1950,
+    "text": "Akce K, zrušení koleje a gymnázia"
+   },
+   {
+    "year": 1990,
+    "text": "návštěva papeže Jana Pavla II., návrat jezuitů"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Velehradský_klášter",
+   "https://www.abczech.cz/Velehradska-bazilika-a-klaster-P7033103.html",
+   "https://exa.ai/library/publication/xv451tz9ynl"
   ]
  },
  "Q17874122": {
@@ -43017,6 +43518,76 @@
    "https://denikzruc.cz/historie/ (regionální deník, nižší spolehlivost)"
   ]
  },
+ "Q30132905": {
+  "id": "Q30132905",
+  "name": "Augustiniánský klášter v Roudnici nad Labem",
+  "founded": {
+   "year": 1333,
+   "approx": false,
+   "text": "Pražský biskup Jan IV. z Dražic založil klášter augustiniánů kanovníků roku 1333 (základní kámen 25. května 1333) jako první kanonii tohoto řádu v Čechách, v místě biskupského hradu."
+  },
+  "summary": "Klášter augustiniánů kanovníků v Roudnici založil roku 1333 pražský biskup Jan IV. z Dražic a stal se střediskem tzv. roudnické reformy s významným skriptoriem a knihovnou. Roku 1421 jej zničili husité a kanonie na přelomu 15. a 16. století zanikla (poslední zápis v nekrologiu 1516). Torzo kláštera upravila Polyxena z Rožmberka pro farní správu, roku 1594 získala fara titul proboštství a Lobkowiczové byli patrony kostela; areál spravuje římskokatolická církev a od 1. 7. 2023 je národní kulturní památkou.",
+  "owners": [
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "augustiniáni kanovníci (zakladatel biskup Jan IV. z Dražic)",
+    "from": 1333,
+    "to": 1516,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "zalozeni",
+    "note": "klášter na půdě pražského biskupství; 1421 zničen husity, po 1436 částečná obnova; cs.wiki uvádí zánik kanonie na přelomu 15./16. století, farnost roudnice.cz 1516 (poslední zápis v nekrologiu), podripsko.cz 1467 definitivní odchod řeholníků"
+   },
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "roudnická farnost (proboštství)",
+    "from": 1594,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "jine",
+    "note": "v 80. letech 16. stol. nechala Polyxena z Rožmberka (později z Lobkowicz) torzo kláštera upravit pro farní správu, 1594 fara získala titul proboštství; Lobkowiczové jako patroni hradili barokní přestavbu kostela 1725-1731; majitelem a správcem areálu je dnes římskokatolická církev (farnost); období 1516-1594 zdroje ohledně vlastníka neuvádějí"
+   }
+  ],
+  "events": [
+   {
+    "year": 1333,
+    "text": "položen základní kámen kláštera, první augustiniánská kanonie v Čechách"
+   },
+   {
+    "year": 1340,
+    "text": "biskup Jan IV. vysvětil presbytář kostela a jižní křídlo ambitu"
+   },
+   {
+    "year": 1360,
+    "text": "arcibiskup Arnošt z Pardubic dokončil stavbu klášterního komplexu"
+   },
+   {
+    "year": 1421,
+    "text": "klášter zničila vojska Jana Žižky"
+   },
+   {
+    "year": 1594,
+    "text": "roudnické faře přiznán titul proboštství"
+   },
+   {
+    "year": 1676,
+    "text": "kostel poškozen při požáru, 1725-1734 barokní přestavba podle návrhu Octavia Broggia"
+   },
+   {
+    "year": 2023,
+    "text": "areál prohlášen národní kulturní památkou (účinnost od 1. 7. 2023)"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Augustiniánský_klášter_v_Roudnici_nad_Labem",
+   "https://farnostroudnice.cz/o-nas/historie/",
+   "https://podripsko.cz/menuId-4-strankaId-84-stranka-chram_narozeni_panny_marie.html",
+   "https://www.archiweb.cz/n/domaci/klaster-augustinianu-v-roudnici-bude-po-letech-cekani-narodni-kulturni-pamatkou"
+  ]
+ },
  "Q30729875": {
   "id": "Q30729875",
   "name": "Uherský Ostroh",
@@ -53674,6 +54245,52 @@
    "https://de.zxc.wiki/wiki/Nov%C3%A9_Hrady_u_Skut%C4%8De"
   ]
  },
+ "Q4971773": {
+  "id": "Q4971773",
+  "name": "Kostnice u sv. Jakuba",
+  "founded": {
+   "year": null,
+   "approx": false,
+   "text": "Kostnice vznikla pod kostelem sv. Jakuba pravděpodobně v 17. století (TIC Brno); hřbitov u kostela existoval od 13. století."
+  },
+  "summary": "Brněnská kostnice pod kostelem sv. Jakuba a Jakubským náměstím vznikla z potřeby ukládat ostatky ze svatojakubského hřbitova, který byl zrušen v letech 1784-1785, a poté byla zapomenuta. Znovu ji objevil archeologický průzkum roku 2001; obsahuje až 50 tisíc kosterních pozůstatků. Město Brno ji má od roku 2008 od svatojakubské farnosti v pronájmu za korunu ročně (do 2026) a od června 2012 je přístupná veřejnosti.",
+  "owners": [
+   {
+    "owner": "cirkev",
+    "person": "svatojakubská farnost",
+    "from": null,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "kostnice patří svatojakubské farnosti; město Brno ji má od 2008 v pronájmu do 2026 (TIC Brno ji provozuje); rok vzniku zdroje neuvádějí přesně, nejisté 17. století"
+   }
+  ],
+  "events": [
+   {
+    "year": 1784,
+    "text": "zrušení svatojakubského hřbitova, kostnice uzavřena a zapomenuta"
+   },
+   {
+    "year": 2001,
+    "text": "objev kostnice při archeologickém průzkumu Jakubského náměstí"
+   },
+   {
+    "year": 2008,
+    "text": "smlouva města Brna s farností o pronájmu do roku 2026"
+   },
+   {
+    "year": 2012,
+    "text": "zpřístupnění veřejnosti v červnu 2012"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Kostnice_u_sv._Jakuba",
+   "https://dev.ticbrno.cz/kostnice-u-sv-jakuba",
+   "https://www.ibrno.cz/historie/38060-historie-svatojakubskeho-hrbitova-a-objeveni-kostnice-cast-i.html",
+   "https://www.turistika.cz/mista/brno-kostnice-u-sv-jakuba-chramova-krypta-a-svatojakubske-podzemi/detail"
+  ]
+ },
  "Q499095": {
   "id": "Q499095",
   "name": "Sloup",
@@ -54078,6 +54695,81 @@
    "https://hrad-trosky.cz/cs/o-hradu/historie",
    "http://www.hradtrosky.eu/historie/",
    "https://www.skvelecesko.cz/statni-hrad-trosky-rovensko-pod-troskami-symbol-ceskeho-raje-a4490"
+  ]
+ },
+ "Q513821": {
+  "id": "Q513821",
+  "name": "Sedlecká kostnice",
+  "founded": {
+   "year": null,
+   "approx": false,
+   "text": "Hřbitovní kaple Všech svatých s kostnicí byla budována od počátku 14. století jako součást cisterciáckého kláštera v Sedlci; kostel ve stylu vrcholné gotiky je datován kolem roku 1400."
+  },
+  "summary": "Hřbitovní kostel Všech svatých s kostnicí vznikl na počátku 14. století jako součást sedleckého cisterciáckého kláštera. Po zrušení kláštera Josefem II. a dražbě majetku jej získali Schwarzenbergové z Orlíka, kteří dali kostnici podobu s výzdobou z kostí (František Rint, kolem 1870). Dnes je kostel funkčním římskokatolickým kostelem ve správě sedlecké farnosti.",
+  "owners": [
+   {
+    "owner": "cirkev",
+    "person": "cisterciácký klášter Sedlec",
+    "from": null,
+    "to": 1784,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "hřbitovní kostel a kostnice jako součást kláštera; wiki uvádí zrušení kláštera roku 1784, sedlec.info 1783 (zrušení) a následnou dražbu"
+   },
+   {
+    "owner": "schwarzenbergove",
+    "owner_wiki": "Schwarzenbergové",
+    "person": "Schwarzenbergové z Orlíka",
+    "from": 1784,
+    "to": 1905,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "cs.wiki: klášterní majetek odkoupili Schwarzenbergové; sedlec.info: koupili pozemky při veřejné dražbě a převzali patronát nad kostnicí; konec jejich držby zdroje neuvádějí"
+   },
+   {
+    "owner": "cirkev",
+    "person": "Římskokatolická farnost Kutná Hora - Sedlec",
+    "from": 1905,
+    "to": null,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "dnešní správce kostela a investor obnovy od 2014 (sedlec.info); rok převodu zdroje neuvádějí"
+   }
+  ],
+  "events": [
+   {
+    "year": 1421,
+    "text": "stavbu zasáhl požár založený husity"
+   },
+   {
+    "year": 1511,
+    "text": "podle tradice poloslepý mnich seskládal kosti do pyramid"
+   },
+   {
+    "year": 1710,
+    "text": "obnova kaple v letech 1703-1710 podle koncepce opata Snopka a J. B. Santiniho"
+   },
+   {
+    "year": 1784,
+    "text": "zrušení kláštera Josefem II., majetek odkoupili Schwarzenbergové"
+   },
+   {
+    "year": 1870,
+    "text": "výzdoba z kostí upravena řezbářem Františkem Rintem (datace podle sedlec.info a turistik.cz; cs.wiki rok neuvádí)"
+   },
+   {
+    "year": 2014,
+    "text": "zahájena etapová rekonstrukce kostnice"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Kostel_Všech_svatých_(Sedlec)",
+   "https://www.sedlec.info/kostnice/",
+   "https://sedlec.info/katedrala/",
+   "https://destinace.kutnahora.cz/d/kostnice"
   ]
  },
  "Q545847": {
@@ -55113,6 +55805,112 @@
    "https://www.januv-hrad.cz/cs/o-hradu",
    "https://www.lednice.cz/cs/turista/lednicko-valticky-areal/pamatky-lednicko-valtickeho-arealu/januv-hrad-228cs.html",
    "https://archmap.cz/cs/objekt/6874"
+  ]
+ },
+ "Q616334": {
+  "id": "Q616334",
+  "name": "Vyšehrad",
+  "founded": {
+   "year": null,
+   "approx": false,
+   "text": "Knížecí hradiště doloženo od druhé poloviny 10. století (mincovna přibližně 992-1012); pověst připisuje založení bájnému knížeti Krokovi. Kolem roku 1070 přestavěl Vratislav II. na hlavní panovnické sídlo a zřídil vyšehradskou kapitulu."
+  },
+  "summary": "Vyšehrad je přemyslovské hradiště doložené od konce 10. století, které bylo za Vratislava II. kolem roku 1070 až do roku 1140 sídlem českých panovníků a kde vznikla vyšehradská kapitula. Karel IV. jej v letech 1348-1350 opevnil, husité jej roku 1420 zničili a od roku 1653 byl přestavěn na barokní pevnost. Po zrušení pevnosti (1866) zůstal pod vojenskou správou do roku 1911, kdy jej převzalo město Praha; dnešní podobu s národním hřbitovem získal péčí proboštů kapituly v 19. století.",
+  "owners": [
+   {
+    "owner": "koruna",
+    "owner_wiki": null,
+    "person": "čeští knížata a králové (Přemyslovci)",
+    "from": null,
+    "to": 1140,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "knížecí hradiště doložené koncem 10. století; hlavní panovnické sídlo od Vratislava II. kolem 1070 do Soběslava I.; cs.wiki na jednom místě uvádí opuštění 1135, jinde 1140"
+   },
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "vyšehradská kapitula",
+    "from": 1140,
+    "to": 1653,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "kapitula (zal. kolem 1070, exempce potvrzena 1144) držela rozsáhlé statky a v podhradí měla vliv; po husitech 1420 hrad zničen, Vyšehrad s podhradím samosprávné městečko pod kapitulou; počátek období je odhadem od odchodu panovníků, cs.wiki výslovně převod hradu nepopisuje"
+   },
+   {
+    "owner": "koruna",
+    "owner_wiki": null,
+    "person": "habsburský panovník, vojenská správa",
+    "from": 1653,
+    "to": 1911,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "jine",
+    "note": "po schválení Ferdinandem III. 1653 vznik barokní pevnosti, kapitula z pevnosti vysídlena; pevnost zrušena 1866, vojenská správa trvala do 1911"
+   },
+   {
+    "owner": "mesto",
+    "owner_wiki": null,
+    "person": "hlavní město Praha",
+    "from": 1911,
+    "to": 1968,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "jine",
+    "note": "předání pevnostních objektů městu Praze 1911 (podle oficiálního webu v letech 1909-1919); areál spravuje příspěvková organizace Národní kulturní památka Vyšehrad, zřizovaná hl. m. Prahou, a to jen část areálu ve vlastnictví města"
+   },
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "vyšehradská kapitula",
+    "from": 1968,
+    "to": null,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "souběžně: kapitula je podle odborné literatury vlastníkem části pozemků (doloženo 1923) a spravuje baziliku sv. Petra a Pavla; rozsah dnešního vlastnictví zdroje neuvádějí"
+   }
+  ],
+  "events": [
+   {
+    "year": 1070,
+    "text": "Vratislav II. přesídlil na Vyšehrad, založil kapitulu a kostel sv. Petra a Pavla"
+   },
+   {
+    "year": 1348,
+    "text": "Karel IV. nechal Vyšehrad zcela přebudovat a napojit na hradby Nového Města (1348-1350)"
+   },
+   {
+    "year": 1420,
+    "text": "husité po bitvě na Pankrácké pláni Vyšehrad vyplenili a proměnili v ruiny"
+   },
+   {
+    "year": 1653,
+    "text": "zahájena stavba barokní pevnosti podle plánů Innocenza Contiho"
+   },
+   {
+    "year": 1866,
+    "text": "rozhodnuto o zrušení pevnosti"
+   },
+   {
+    "year": 1883,
+    "text": "Vyšehrad připojen k Praze"
+   },
+   {
+    "year": 1911,
+    "text": "pevnostní objekty předány městu Praze"
+   },
+   {
+    "year": 1962,
+    "text": "areál prohlášen národní kulturní památkou"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Vyšehrad",
+   "https://praha-vysehrad.cz/cs/kontakty/",
+   "https://files.praha-vysehrad.cz/zl3yyk6h2707/Rozbor%20%C4%8Dinnosti%20a%20hospoda%C5%99en%C3%AD%20NKPV%20-%202024.pdf"
   ]
  },
  "Q62610248": {
@@ -59872,6 +60670,89 @@
    "https://www.zamekrychnov.cz/",
    "https://www.atlasceska.cz/pamatky/kolowratsky-zamek-v-rychnove-nad-kneznou-19992",
    "https://cs.wikipedia.org/wiki/Rychnov_nad_Kněžnou"
+  ]
+ },
+ "Q969482": {
+  "id": "Q969482",
+  "name": "Strahovský klášter",
+  "founded": {
+   "year": 1143,
+   "approx": false,
+   "text": "Klášter založil roku 1143 kníže Vladislav II. s manželkou Gertrudou a olomoucký biskup Jindřich Zdík; premonstráti ze Steinfeldu sem přišli v letech 1142-1143 (oficiální web uvádí první záměr kolem 1140)."
+  },
+  "summary": "Strahovský klášter je nejstarší premonstrátský klášter v Čechách, založený roku 1143 knížetem Vladislavem II. a biskupem Jindřichem Zdíkem. Po vypálení husity (1420) byl obnoven zejména za opata Jana Lohelia a barokně přestavěn, v 18. století poničen při obléhání Prahy. Roku 1950 jej komunistický režim zabral a sídlil zde Památník národního písemnictví; po roce 1990 byl vrácen premonstrátům, přebírání prostor od státu trvalo až do roku 2022.",
+  "owners": [
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "Řád premonstrátů (kanonie Strahov)",
+    "from": 1143,
+    "to": 1950,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "řád premonstrátských řeholních kanovníků; zakladatelé Vladislav II. a Jindřich Zdík; roku 1420 vypálen husity, 1648 vyrabován Švédy; Josef II. klášter nezrušil"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "Památník národního písemnictví",
+    "from": 1950,
+    "to": 1990,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "v dubnu 1950 zabrán v rámci Akce K; řeholníci deportováni; sídlo Památníku národního písemnictví"
+   },
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "Řád premonstrátů (kanonie Strahov)",
+    "from": 1990,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "restituce",
+    "note": "budovy vráceny klášteru po roce 1990; cs.wiki uvádí obnovu 1992-1993; přebírání areálu od státu probíhalo postupně, Památník národního písemnictví odešel na podzim 2022"
+   }
+  ],
+  "events": [
+   {
+    "year": 1143,
+    "text": "založení kláštera, příchod premonstrátů ze Steinfeldu"
+   },
+   {
+    "year": 1182,
+    "text": "podruhé vysvěcena románská bazilika"
+   },
+   {
+    "year": 1258,
+    "text": "požár, gotická přestavba kostela"
+   },
+   {
+    "year": 1420,
+    "text": "klášter vypálen husity"
+   },
+   {
+    "year": 1627,
+    "text": "ostatky sv. Norberta přeneseny z Magdeburku na Strahov"
+   },
+   {
+    "year": 1648,
+    "text": "klášter vyrabovalo švédské vojsko, odvezena část knihovny"
+   },
+   {
+    "year": 1742,
+    "text": "areál poškozen při obléhání Prahy, následná barokní obnova"
+   },
+   {
+    "year": 1950,
+    "text": "klášter zabrán komunistickým režimem, sídlo Památníku národního písemnictví"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Strahovský_klášter",
+   "https://www.strahovskyklaster.cz/reholni-komunita/dejiny-radu/vznik-strahova"
   ]
  }
 }

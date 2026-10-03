@@ -1,0 +1,24 @@
+{
+ "id": "Q616334",
+ "name": "Vyšehrad",
+ "founded": {"year": null, "approx": false, "text": "Knížecí hradiště doloženo od druhé poloviny 10. století (mincovna přibližně 992-1012); pověst připisuje založení bájnému knížeti Krokovi. Kolem roku 1070 přestavěl Vratislav II. na hlavní panovnické sídlo a zřídil vyšehradskou kapitulu."},
+ "summary": "Vyšehrad je přemyslovské hradiště doložené od konce 10. století, které bylo za Vratislava II. kolem roku 1070 až do roku 1140 sídlem českých panovníků a kde vznikla vyšehradská kapitula. Karel IV. jej v letech 1348-1350 opevnil, husité jej roku 1420 zničili a od roku 1653 byl přestavěn na barokní pevnost. Po zrušení pevnosti (1866) zůstal pod vojenskou správou do roku 1911, kdy jej převzalo město Praha; dnešní podobu s národním hřbitovem získal péčí proboštů kapituly v 19. století.",
+ "owners": [
+  {"owner": "koruna", "owner_wiki": null, "person": "čeští knížata a králové (Přemyslovci)", "from": null, "to": 1140, "from_approx": false, "to_approx": false, "how": "zalozeni", "note": "knížecí hradiště doložené koncem 10. století; hlavní panovnické sídlo od Vratislava II. kolem 1070 do Soběslava I.; cs.wiki na jednom místě uvádí opuštění 1135, jinde 1140"},
+  {"owner": "cirkev", "owner_wiki": null, "person": "vyšehradská kapitula", "from": 1140, "to": 1653, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "kapitula (zal. kolem 1070, exempce potvrzena 1144) držela rozsáhlé statky a v podhradí měla vliv; po husitech 1420 hrad zničen, Vyšehrad s podhradím samosprávné městečko pod kapitulou; počátek období je odhadem od odchodu panovníků, cs.wiki výslovně převod hradu nepopisuje"},
+  {"owner": "koruna", "owner_wiki": null, "person": "habsburský panovník, vojenská správa", "from": 1653, "to": 1911, "from_approx": false, "to_approx": false, "how": "jine", "note": "po schválení Ferdinandem III. 1653 vznik barokní pevnosti, kapitula z pevnosti vysídlena; pevnost zrušena 1866, vojenská správa trvala do 1911"},
+  {"owner": "mesto", "owner_wiki": null, "person": "hlavní město Praha", "from": 1911, "to": null, "from_approx": false, "to_approx": false, "how": "jine", "note": "předání pevnostních objektů městu Praze 1911 (podle oficiálního webu v letech 1909-1919); areál spravuje příspěvková organizace Národní kulturní památka Vyšehrad, zřizovaná hl. m. Prahou, a to jen část areálu ve vlastnictví města"},
+  {"owner": "cirkev", "owner_wiki": null, "person": "vyšehradská kapitula", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "souběžně: kapitula je podle odborné literatury vlastníkem části pozemků (doloženo 1923) a spravuje baziliku sv. Petra a Pavla; rozsah dnešního vlastnictví zdroje neuvádějí"}
+ ],
+ "events": [
+  {"year": 1070, "text": "Vratislav II. přesídlil na Vyšehrad, založil kapitulu a kostel sv. Petra a Pavla"},
+  {"year": 1348, "text": "Karel IV. nechal Vyšehrad zcela přebudovat a napojit na hradby Nového Města (1348-1350)"},
+  {"year": 1420, "text": "husité po bitvě na Pankrácké pláni Vyšehrad vyplenili a proměnili v ruiny"},
+  {"year": 1653, "text": "zahájena stavba barokní pevnosti podle plánů Innocenza Contiho"},
+  {"year": 1866, "text": "rozhodnuto o zrušení pevnosti"},
+  {"year": 1883, "text": "Vyšehrad připojen k Praze"},
+  {"year": 1911, "text": "pevnostní objekty předány městu Praze"},
+  {"year": 1962, "text": "areál prohlášen národní kulturní památkou"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Vyšehrad", "https://praha-vysehrad.cz/cs/kontakty/", "https://files.praha-vysehrad.cz/zl3yyk6h2707/Rozbor%20%C4%8Dinnosti%20a%20hospoda%C5%99en%C3%AD%20NKPV%20-%202024.pdf"]
+}

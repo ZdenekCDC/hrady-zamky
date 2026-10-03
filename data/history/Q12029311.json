@@ -1,0 +1,84 @@
+{
+ "id": "Q12029311",
+ "name": "Klatovské katakomby",
+ "founded": {
+  "year": 1656,
+  "approx": false,
+  "text": "Krypty byly budovány jako součást jezuitského kostela v letech 1656-1676."
+ },
+ "summary": "Klatovské katakomby jsou krypty pod jezuitským kostelem Neposkvrněného početí Panny Marie a sv. Ignáce, budované v letech 1656-1676 jako pohřebiště jezuitů a jejich dobrodinců. Pohřbívalo se zde do roku 1783, kdy Josef II. zakázal pohřby v kryptách. Po zrušení řádu 1773 přešel kostel na studijní fond a později město, dnes je majetkem římskokatolické církve a v roce 2025 byl s katakombami prohlášen národní kulturní památkou.",
+ "owners": [
+  {
+   "owner": "cirkev",
+   "person": "Tovaryšstvo Ježíšovo (jezuité) v Klatovech",
+   "from": 1656,
+   "to": 1773,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "stavba kostela a krypt 1656-1676, kostel dostavován do 18. století"
+  },
+  {
+   "owner": "stat",
+   "person": "studijní fond",
+   "from": 1773,
+   "to": 1793,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "majetek zrušeného řádu přidělila Marie Terezie studijnímu fondu (katakomby.cz); klatovy.cz uvádí, že kostel připadl městu již po zrušení řádu - rozpor"
+  },
+  {
+   "owner": "mesto",
+   "person": "město Klatovy",
+   "from": 1793,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "podle katakomby.cz byl kostel 1793 s vybavením přenechán městu; konec držby zdroje neuvádějí"
+  },
+  {
+   "owner": "cirkev",
+   "person": "Římskokatolická farnost Klatovy",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "katakomby.cz: kostel je majetkem římskokatolické církve, prohlídky probíhají ve spolupráci s farností; rok převodu zdroje neuvádějí"
+  }
+ ],
+ "events": [
+  {
+   "year": 1656,
+   "text": "zahájení stavby kostela a krypt (24. 4. 1656)"
+  },
+  {
+   "year": 1783,
+   "text": "poslední pohřeb v kryptách (Antonín Weichs), 1784 zákaz pohřbívání"
+  },
+  {
+   "year": 1773,
+   "text": "zrušení jezuitského řádu"
+  },
+  {
+   "year": 1937,
+   "text": "po zasypání větracích kanálů ve 30. letech zničeno 140 mumií, pohřbeny na hřbitově sv. Jakuba"
+  },
+  {
+   "year": 2011,
+   "text": "zásadní rekonstrukce a současná expozice"
+  },
+  {
+   "year": 2025,
+   "text": "kostel s katakombami prohlášen národní kulturní památkou"
+  }
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Klatovské_katakomby",
+  "https://www.katakomby.cz/o-katakombach/jezuite-v-klatovech/",
+  "https://www.katakomby.cz/prohlidky/jezuitsky-kostel/",
+  "https://www.idnes.cz/plzen/zpravy/klatovy-katakomby-kostel-jezuitsky-narodni-kulturni-pamatka.A251106_877382_plzen-zpravy_vb"
+ ]
+}
