@@ -34,6 +34,13 @@ INSTITUTIONS = {"koruna", "stat", "cirkev", "mesto", "soukromnik", "neznamo"}
 VISITED_COPY = OUT / "visited.json"  # the test never writes the real data/visited.json
 
 
+# sidebar sections start collapsed (except layers / more filters): open them all so the tests can reach every control
+OPEN_SECTIONS = """
+if (!localStorage.getItem('hz-filters-v1')) localStorage.setItem('hz-filters-v1', JSON.stringify(
+  {kindsV: 2, open: {layers: true, kinds: true, more: true, fams: true, visits: true, legend: true}}));
+"""
+
+
 def serve():
     if app_server.VISITED.exists():
         shutil.copy(app_server.VISITED, VISITED_COPY)
@@ -101,6 +108,7 @@ def static_visits(pw, opts, errors):
     ctx = pw.chromium.launch_persistent_context(profile, **opts, viewport={"width": 1440, "height": 900},
                                                 accept_downloads=True)
     ctx.add_init_script(FAKE_PICKER)
+    ctx.add_init_script(OPEN_SECTIONS)
     page = ctx.new_page()
     page.on("pageerror", lambda e: errors.append(f"pageerror (static): {e}"))
     visited = lambda: page.evaluate("JSON.parse(document.querySelector('#stats b').textContent)")  # noqa: E731
@@ -109,7 +117,7 @@ def static_visits(pw, opts, errors):
     page.goto(base)
     page.wait_for_selector(".mk")
     assert visited() == 0, f"public site must start with an empty map, got {visited()} visited"
-    assert "jen v tomto prohlížeči" in store(), store()
+    assert "uložené jen v prohlížeči" in store(), store()
 
     page.goto(base + "#/misto/Q655633")  # Pernštejn
     page.wait_for_selector("#d-visit-form")
@@ -279,6 +287,22 @@ def main():
         page.reload()
         page.wait_for_selector(".mk")
         page.wait_for_selector(".city-label", state="attached")
+
+        # defaults: only hrad / zámek / hrad a zámek / zřícenina are on, the other kinds stay off until switched on
+        castles = {"hrad", "zamek", "hradozamek", "zricenina"}
+        want_default = sum(1 for p in DATA_PLACES if p["access"] != "neznamo" and p["kind"] in castles)
+        assert page.locator(".mk").count() == want_default, \
+            f"default map shows {page.locator('.mk').count()} markers, data has {want_default} castles with access"
+        assert page.locator("details[data-sec=kinds]").get_attribute("open") is None, "kinds section should start collapsed"
+        assert page.locator("details[data-sec=layers]").get_attribute("open") is not None, "layers section should start open"
+        page.locator("details[data-sec=kinds] summary").click()
+        page.click("[data-kinds=all]")
+        page.wait_for_function("document.querySelectorAll('.mk').length > %d" % want_default)
+        page.reload()  # the opened section and the kinds survive a reload
+        page.wait_for_selector(".mk")
+        assert page.locator("details[data-sec=kinds]").get_attribute("open") is not None, "section state not kept"
+        assert page.locator(".mk").count() > want_default, "kinds not kept after reload"
+        page.evaluate("document.querySelectorAll('#panel-filters details').forEach((d) => (d.open = true))")
         print("markers on map:", page.locator(".mk").count(), "| city labels:", page.locator(".city-label").count())
         shot("01-map")
 

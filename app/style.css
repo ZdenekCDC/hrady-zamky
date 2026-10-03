@@ -451,3 +451,15 @@ button.link:hover { text-decoration: underline; }
 .city-label.mid .t { font-size: 12px; color: #52514e; }
 .city-label.big .t { font-size: 13px; font-weight: 600; color: #3d3c39; top: -9px; }
 .city-label.big .dot { width: 6px; height: 6px; left: -3px; top: -3px; background: #52514e; }
+
+/* collapsible sidebar sections */
+.sec { margin-bottom: 10px; border-bottom: 1px solid var(--border); padding-bottom: 8px; }
+.sec > summary { display: flex; align-items: center; justify-content: space-between; gap: 8px; cursor: pointer; list-style: none;
+  font-size: 12px; color: var(--text-muted); text-transform: uppercase; letter-spacing: .04em; padding: 2px 0 4px; }
+.sec > summary::-webkit-details-marker { display: none; }
+.sec > summary::before { content: "▸"; margin-right: 4px; transition: transform .1s; display: inline-block; }
+.sec[open] > summary::before { transform: rotate(90deg); }
+.sec > summary > span:first-child { flex: 1; }
+.sec .sum { text-transform: none; letter-spacing: 0; font-variant-numeric: tabular-nums; }
+.sec .quick { display: flex; gap: 12px; margin-top: 4px; }
+.info { color: var(--text-muted); font-size: 12px; cursor: help; margin-left: 2px; }

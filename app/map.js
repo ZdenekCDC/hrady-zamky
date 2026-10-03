@@ -16,9 +16,13 @@ const TABLE_STORE = "hz-detail-table"; // owners shown as a table instead of the
 // colour themes of the icons (CSS variables per theme in style.css); the first one is the default
 const ICON_THEMES = { zemita: "Zemitá", kamen: "Kámen", syta: "Sytá", pastel: "Pastelová" };
 const DEFAULT_ICON_THEME = "zemita";
+// castles first; the other kinds (towers, monasteries, fortifications...) are switched on in the filters
+const DEFAULT_KINDS = ["hrad", "zamek", "hradozamek", "zricenina"];
 const DEFAULTS = {
   layers: { vstupne: true, volne: true, neznamo: false },
-  kinds: Object.fromEntries(Object.keys(KIND).map((k) => [k, true])),
+  kinds: Object.fromEntries(Object.keys(KIND).map((k) => [k, DEFAULT_KINDS.includes(k)])),
+  kindsV: 2, // bumps when the default kinds change, see loadState()
+  open: { layers: true, kinds: false, more: true, fams: false, visits: false, legend: false }, // sidebar sections
   kraj: "",
   manager: "",
   cFrom: "",
@@ -45,7 +49,8 @@ function loadState() {
     if (typeof s.family === "string") s.families = s.family ? [s.family] : []; // single-select from v1
     delete s.family;
     if (!Number.isFinite(s.year)) delete s.year;
-    return { ...structuredClone(DEFAULTS), ...s, layers: { ...DEFAULTS.layers, ...s.layers }, kinds: { ...DEFAULTS.kinds, ...s.kinds } };
+    if (s.kindsV !== DEFAULTS.kindsV) delete s.kinds; // before the other kinds were added every kind was on: take the new default once
+    return { ...structuredClone(DEFAULTS), ...s, kindsV: DEFAULTS.kindsV, layers: { ...DEFAULTS.layers, ...s.layers }, kinds: { ...DEFAULTS.kinds, ...s.kinds }, open: { ...DEFAULTS.open, ...s.open } };
   } catch {
     return structuredClone(DEFAULTS);
   }
@@ -240,6 +245,7 @@ function refresh() {
       if (el) el.textContent = n;
     }
     renderLegend();
+    updateSummaries();
   });
 }
 
@@ -255,6 +261,28 @@ function icon(p, st) {
 
 /* ---------- sidebar: filters + legend ---------- */
 
+/** Small "i" marker whose tooltip carries the explanation that would otherwise take up space in the sidebar. */
+const info = (text) => `<span class="info" title="${esc(text)}" aria-label="${esc(text)}">ⓘ</span>`;
+
+/** Collapsible sidebar section; its open state is kept in `state.open` (saved with the other filters). */
+const section = (key, title, body) => `<details class="sec" data-sec="${key}" ${state.open[key] ? "open" : ""}>
+  <summary><span>${title}</span><span class="sum" data-sum="${key}">${sectionSummary(key)}</span></summary>${body}</details>`;
+
+function sectionSummary(key) {
+  if (key === "layers") return `${Object.values(state.layers).filter(Boolean).length} z ${Object.keys(ACCESS).length}`;
+  if (key === "kinds") return `${Object.values(state.kinds).filter(Boolean).length} z ${Object.keys(KIND).length}`;
+  if (key === "fams") return state.families.length ? String(state.families.length) : "";
+  if (key === "more") {
+    const n = [state.kraj, state.manager, state.cFrom, state.cTo, state.visits, state.onlyHistory].filter(Boolean).length;
+    return n ? `${n} aktivní` : "";
+  }
+  return "";
+}
+
+function updateSummaries() {
+  document.querySelectorAll("#panel-filters [data-sum]").forEach((e) => { e.textContent = sectionSummary(e.dataset.sum); });
+}
+
 function renderFilters() {
   const kraje = [...new Set(D.places.map((p) => p.kraj).filter(Boolean))].sort((a, b) => a.localeCompare(b, "cs"));
   const fams = Object.values(D.families).filter((f) => f.place_count > 0)
@@ -263,17 +291,16 @@ function renderFilters() {
   const el = document.getElementById("panel-filters");
   el.innerHTML = `
     <div class="filters-head"><b>Filtry</b><button id="f-reset" class="link" title="vrátit všechny filtry na výchozí">resetovat vše</button></div>
-    <div class="filter-group"><div class="label">Vrstvy</div>
+    ${section("layers", "Vrstvy", `
       ${Object.entries(ACCESS).map(([k, a]) => `
-        <label class="check"><input type="checkbox" data-layer="${k}" ${state.layers[k] ? "checked" : ""}>
-        ${a.label}<span class="count" data-count="${k}"></span></label>`).join("")}
-    </div>
-    <div class="filter-group"><div class="label">Typ</div>
+        <label class="check" title="${esc(a.hint)}"><input type="checkbox" data-layer="${k}" ${state.layers[k] ? "checked" : ""}>
+        ${a.label}${info(a.hint)}<span class="count" data-count="${k}"></span></label>`).join("")}`)}
+    ${section("kinds", "Typ", `
       <div class="row">${Object.entries(KIND).map(([k, label]) => `
         <label class="check"><input type="checkbox" data-kind="${k}" ${state.kinds[k] ? "checked" : ""}>
         ${glyph(k, { size: 12, fill: kindFill(k), stroke: "var(--mk-ink)", strokeWidth: 1.5 })}${label}</label>`).join("")}</div>
-    </div>
-    <div class="filter-group"><div class="label">Kraj a správce</div>
+      <div class="quick"><button class="link" data-kinds="castles">jen hrady a zámky</button><button class="link" data-kinds="all">vše</button></div>`)}
+    ${section("more", "Další filtry", `
       <div class="row">
         <select id="f-kraj"><option value="">všechny kraje</option>${kraje.map((k) => `<option ${state.kraj === k ? "selected" : ""}>${esc(k)}</option>`).join("")}</select>
         <select id="f-manager">
@@ -282,25 +309,18 @@ function renderFilters() {
           <option value="other" ${state.manager === "other" ? "selected" : ""}>ostatní</option>
         </select>
       </div>
-    </div>
-    <div class="filter-group"><div class="label">Století vzniku</div>
-      <div class="row">
-        <select id="f-cfrom"><option value="">od</option>${centuries.map((c) => `<option value="${c}" ${+state.cFrom === c ? "selected" : ""}>${c}. stol.</option>`).join("")}</select>
+      <div class="row" title="Století vzniku" style="margin-top:6px">
+        <select id="f-cfrom"><option value="">vznik od</option>${centuries.map((c) => `<option value="${c}" ${+state.cFrom === c ? "selected" : ""}>${c}. stol.</option>`).join("")}</select>
         <select id="f-cto"><option value="">do</option>${centuries.map((c) => `<option value="${c}" ${+state.cTo === c ? "selected" : ""}>${c}. stol.</option>`).join("")}</select>
       </div>
-    </div>
-    <div class="filter-group">
-      <label class="check">Návštěvy <select id="f-visits">
+      <label class="check" style="margin-top:6px">Návštěvy <select id="f-visits">
         <option value="">všechny</option>
         <option value="yes" ${state.visits === "yes" ? "selected" : ""}>jen navštívené</option>
         <option value="no" ${state.visits === "no" ? "selected" : ""}>jen nenavštívené</option>
       </select></label>
-      <label class="check"><input type="checkbox" id="f-history" ${state.onlyHistory ? "checked" : ""}> jen s historií vlastníků</label>
-    </div>
-    <div class="filter-group" id="v-store">${storageHtml()}</div>
+      <label class="check"><input type="checkbox" id="f-history" ${state.onlyHistory ? "checked" : ""}> jen s historií vlastníků</label>`)}
     <div class="timemachine">
-      <label class="check"><input type="checkbox" id="f-tm" ${state.tm ? "checked" : ""}> <b>Stroj času</b></label>
-      <div class="muted" style="font-size:12px;margin-bottom:6px">Obarví místa podle vlastníka v daném roce (jen objekty se zpracovanou historií).</div>
+      <label class="check" title="Obarví místa podle vlastníka v daném roce (jen objekty se zpracovanou historií)."><input type="checkbox" id="f-tm" ${state.tm ? "checked" : ""}> <b>Stroj času</b>${info("Obarví místa podle vlastníka v daném roce (jen objekty se zpracovanou historií).")}</label>
       <div id="tm-body" ${state.tm ? "" : "hidden"}>
         <div class="row"><span class="year" id="tm-year">${state.year}</span>
           <button id="tm-minus" title="o 10 let zpět">-10</button><button id="tm-plus" title="o 10 let dál">+10</button>
@@ -309,23 +329,29 @@ function renderFilters() {
         <input type="range" id="f-year" min="${D.tmMin}" max="${NOW}" step="1" value="${state.year}">
       </div>
     </div>
-    <div class="filter-group"><div class="label">Zvýraznit rody
-        <button id="f-fam-reset" class="link" ${state.families.length ? "" : "hidden"}>zrušit výběr</button></div>
+    ${section("fams", "Zvýraznit rody", `
       <div class="chips" id="fam-chips">${state.families.map((id) => `
         <span class="chip"><span class="swatch" style="background:${ownerColor(D.families, id, true)}"></span>${esc(familyName(D.families, id))}
         <button data-unfam="${id}" title="odebrat" aria-label="odebrat ${esc(familyName(D.families, id))}">×</button></span>`).join("")}</div>
       <div class="suggest"><input id="f-family" type="search" placeholder="+ přidat rod…" autocomplete="off">
         <ul id="f-family-results" hidden></ul></div>
-    </div>
-    <div class="filter-group"><label class="check">Barvy ikon <select id="f-icons">
+      <button id="f-fam-reset" class="link" ${state.families.length ? "" : "hidden"}>zrušit výběr</button>`)}
+    <details class="sec" data-sec="visits" id="v-store" ${state.open.visits ? "open" : ""}>${storageHtml()}</details>
+    ${section("legend", "Legenda a barvy", `
+      <label class="check">Barvy ikon <select id="f-icons">
         ${Object.entries(ICON_THEMES).map(([k, label]) => `<option value="${k}" ${document.documentElement.dataset.iconTheme === k ? "selected" : ""}>${label}</option>`).join("")}
-      </select></label></div>
-    <div class="filter-group"><div class="label">Legenda</div><div id="legend" class="legend"></div></div>
+      </select></label>
+      <div id="legend" class="legend"></div>`)}
     <p class="muted" style="font-size:12px">Zdroje: Wikidata, Wikipedie (CC BY-SA), NPÚ, statistika NIPOS 2025, © přispěvatelé OpenStreetMap.</p>`;
 
   const on = (sel, ev, fn) => el.querySelector(sel).addEventListener(ev, (e) => { fn(e); saveState(); refresh(); });
   el.querySelectorAll("[data-layer]").forEach((i) => i.addEventListener("change", () => { state.layers[i.dataset.layer] = i.checked; saveState(); refresh(); }));
   el.querySelectorAll("[data-kind]").forEach((i) => i.addEventListener("change", () => { state.kinds[i.dataset.kind] = i.checked; saveState(); refresh(); }));
+  el.querySelectorAll("[data-kinds]").forEach((b) => b.addEventListener("click", () => {
+    for (const k of Object.keys(KIND)) state.kinds[k] = b.dataset.kinds === "all" || DEFAULT_KINDS.includes(k);
+    saveState(); renderFilters(); refresh();
+  }));
+  el.querySelectorAll("details[data-sec]").forEach((d) => d.addEventListener("toggle", () => { state.open[d.dataset.sec] = d.open; saveState(); }));
   on("#f-kraj", "change", (e) => (state.kraj = e.target.value));
   on("#f-manager", "change", (e) => (state.manager = e.target.value));
   on("#f-cfrom", "change", (e) => (state.cFrom = e.target.value));
@@ -509,8 +535,11 @@ function storageHtml(msg = "") {
     : s.needsPermission ? `Soubor ${name} je připojený, ale prohlížeč potřebuje znovu povolit zápis.${s.pending ? ` Na zápis čeká ${s.pending} ${s.pending === 1 ? "změna" : s.pending < 5 ? "změny" : "změn"}.` : ""}`
     : canConnect() ? "Jsou uložené jen v tomto prohlížeči. Připoj soubor na disku (třeba ve složce Google Drive, OneDrive nebo Dropbox) a web do něj bude ukládat sám."
     : "Jsou uložené jen v tomto prohlížeči (ten neumí zapisovat přímo do souboru). Zálohu si občas stáhni tlačítkem Exportovat.";
-  return `<div class="label">Moje návštěvy (${s.count})</div>
-    <div class="muted" style="font-size:12px">${status}</div>
+  const where = s.mode === "server" ? "server" : s.mode === "file" ? esc(s.fileName || "soubor") : "prohlížeč";
+  const alert = s.needsPermission || msg; // a state that needs attention keeps its text visible
+  return `<summary><span>Moje návštěvy</span><span class="sum">${s.count} · ${where}</span></summary>
+    <div class="muted" style="font-size:12px" ${alert ? "" : "hidden"}>${status}</div>
+    <div class="muted" style="font-size:12px" ${alert ? "hidden" : ""}>${info(status.replace(/<[^>]+>/g, ""))} ${s.mode === "browser" ? "uložené jen v prohlížeči" : "ukládá se průběžně"}</div>
     <div class="row" style="margin-top:6px">
       ${s.needsPermission ? `<button id="v-grant" class="primary">Povolit zápis</button>` : ""}
       ${s.mode === "browser" && !s.needsPermission && canConnect() ? `<button id="v-create" title="založit nový soubor s návštěvami">Vytvořit soubor…</button><button id="v-open" title="připojit dříve uložený soubor">Otevřít soubor…</button>` : ""}

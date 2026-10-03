@@ -22,11 +22,11 @@ export const KIND = {
   krypta: "krypta, katakomby",
 };
 
-// label = layer switch in the filters, legend = map legend, short = badges and hover
+// label = layer switch in the filters, hint = its tooltip, legend = map legend, short = badges and hover
 export const ACCESS = {
-  vstupne: { label: "Se vstupným (prohlídky, expozice)", legend: "se vstupným", short: "vstupné" },
-  volne: { label: "Volně přístupné zříceniny", legend: "volně přístupné", short: "volně přístupné" },
-  neznamo: { label: "Ostatní (přístupnost neznámá)", legend: "přístupnost neznámá", short: "přístupnost neznámá" },
+  vstupne: { label: "Se vstupným", hint: "Prohlídky, expozice (NPÚ, NIPOS, muzea, OSM)", legend: "se vstupným", short: "vstupné" },
+  volne: { label: "Volně přístupné", hint: "Volně přístupné zříceniny", legend: "volně přístupné", short: "volně přístupné" },
+  neznamo: { label: "Ostatní", hint: "Přístupnost neznámá, ve výchozím stavu skryté", legend: "přístupnost neznámá", short: "přístupnost neznámá" },
 };
 
 export const HOW = {
