@@ -56179,6 +56179,43 @@
   "place_count": 1,
   "color_slot": null
  },
+ "z-kestran": {
+  "id": "z-kestran",
+  "type": "rod",
+  "name": "z-kestran",
+  "related": [],
+  "places": [
+   {
+    "place": "Q86813414",
+    "from": null,
+    "to": 1396,
+    "person": "Albert z Kestřan a synové Michal, Šimon, Bartoloměj; později další členové rodu",
+    "how": "zalozeni",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q86813414",
+    "from": 1396,
+    "to": 1446,
+    "person": "Arnošt z Kestřan (potomci Údražští z Kestřan)",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": true
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q86813414",
+    "year": 1446,
+    "from": "z-kestran",
+    "to": "soukromnik",
+    "how": "koupe"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
  "z-kettenburgu": {
   "id": "z-kettenburgu",
   "type": "rod",
@@ -59220,6 +59257,41 @@
     "from": "z-nemosic",
     "to": "trckove-z-lipy",
     "how": "jine"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
+ "z-neuberka": {
+  "id": "z-neuberka",
+  "type": "rod",
+  "name": "z-neuberka",
+  "related": [],
+  "places": [
+   {
+    "place": "Q369547",
+    "from": 1869,
+    "to": 1876,
+    "person": "Jan Fridrich z Neuberka",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": true
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q369547",
+    "year": 1869,
+    "from": "tiegelove-z-lindenkronu",
+    "to": "z-neuberka",
+    "how": "koupe"
+   },
+   {
+    "place": "Q369547",
+    "year": 1876,
+    "from": "z-neuberka",
+    "to": "soukromnik",
+    "how": "koupe"
    }
   ],
   "place_count": 1,
@@ -66177,6 +66249,41 @@
    }
   ],
   "place_count": 13,
+  "color_slot": null
+ },
+ "zajimacove-z-kunstatu": {
+  "id": "zajimacove-z-kunstatu",
+  "type": "rod",
+  "name": "zajimacove-z-kunstatu",
+  "related": [],
+  "places": [
+   {
+    "place": "Q369547",
+    "from": 1421,
+    "to": 1528,
+    "person": "Sezema a Boček, od 1433 Zajímač, od 1460 Jindřich, od 1505 Jan Zajímač z Kunštátu",
+    "how": "lenni",
+    "from_approx": true,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q369547",
+    "year": 1421,
+    "from": "cirkev",
+    "to": "zajimacove-z-kunstatu",
+    "how": "lenni"
+   },
+   {
+    "place": "Q369547",
+    "year": 1528,
+    "from": "zajimacove-z-kunstatu",
+    "to": "soukromnik",
+    "how": "koupe"
+   }
+  ],
+  "place_count": 1,
   "color_slot": null
  },
  "zarubove-z-hustiran": {
@@ -90136,113 +90243,6 @@
    }
   ],
   "place_count": 141,
-  "color_slot": null
- },
- "zajimacove-z-kunstatu": {
-  "id": "zajimacove-z-kunstatu",
-  "name": "zajimacove-z-kunstatu",
-  "type": "rod",
-  "cswiki": null,
-  "places": [
-   {
-    "place": "Q369547",
-    "from": 1421,
-    "to": 1528,
-    "person": "Sezema a Boček, od 1433 Zajímač, od 1460 Jindřich, od 1505 Jan Zajímač z Kunštátu",
-    "how": "lenni",
-    "from_approx": true,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q369547",
-    "year": 1421,
-    "from": "cirkev",
-    "to": "zajimacove-z-kunstatu",
-    "how": "lenni"
-   },
-   {
-    "place": "Q369547",
-    "year": 1528,
-    "from": "zajimacove-z-kunstatu",
-    "to": "soukromnik",
-    "how": "koupe"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
- "z-neuberka": {
-  "id": "z-neuberka",
-  "name": "z-neuberka",
-  "type": "rod",
-  "cswiki": null,
-  "places": [
-   {
-    "place": "Q369547",
-    "from": 1869,
-    "to": 1876,
-    "person": "Jan Fridrich z Neuberka",
-    "how": "koupe",
-    "from_approx": false,
-    "to_approx": true
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q369547",
-    "year": 1869,
-    "from": "tiegelove-z-lindenkronu",
-    "to": "z-neuberka",
-    "how": "koupe"
-   },
-   {
-    "place": "Q369547",
-    "year": 1876,
-    "from": "z-neuberka",
-    "to": "soukromnik",
-    "how": "koupe"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
- "z-kestran": {
-  "id": "z-kestran",
-  "name": "z-kestran",
-  "type": "rod",
-  "cswiki": null,
-  "places": [
-   {
-    "place": "Q86813414",
-    "from": null,
-    "to": 1396,
-    "person": "Albert z Kestřan a synové Michal, Šimon, Bartoloměj; později další členové rodu",
-    "how": "zalozeni",
-    "from_approx": false,
-    "to_approx": false
-   },
-   {
-    "place": "Q86813414",
-    "from": 1396,
-    "to": 1446,
-    "person": "Arnošt z Kestřan (potomci Údražští z Kestřan)",
-    "how": "dedictvi",
-    "from_approx": false,
-    "to_approx": true
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q86813414",
-    "year": 1446,
-    "from": "z-kestran",
-    "to": "soukromnik",
-    "how": "koupe"
-   }
-  ],
-  "place_count": 1,
   "color_slot": null
  }
 }
