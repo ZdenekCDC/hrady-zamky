@@ -1,0 +1,34 @@
+{
+ "id": "Q12047863",
+ "name": "Pětipsy",
+ "founded": {"year": 1322, "approx": false, "text": "Fridrich z Egerberka získal Pětipsy roku 1322 (cs.wiki; oficiální web spolku uvádí zástavu 1332) a postavil zde vodní tvrz ze 14. století; ves je poprvé zmíněna roku 1226."},
+ "summary": "Pětipsy se poprvé připomínají roku 1226 jako majetek doksanského kláštera; později je držela královská komora a ve 14. století je získal Fridrich z Egerberka, který zde založil vodní tvrz. Po Pětipeských z Chýš a Egerberka se vystřídali Lobkovicové, Fictumové, Šlikové a od roku 1559 Hrobčičtí z Hrobčic, kteří tvrz kolem roku 1560 přestavěli na renesanční zámek. Od roku 1630 patřil Thunům z Klášterce do pozemkové reformy, poté rodině Hodků do roku 1948, kdy byl zkonfiskován a státním statkem zdevastován. Roku 2012 areál koupil spolek Via Levamente, který zámek rekonstruuje a od srpna 2024 jej zpřístupňuje.",
+ "owners": [
+  {"owner": "cirkev", "owner_wiki": null, "person": "doksanský klášter (premonstrátky)", "from": 1226, "to": null, "from_approx": false, "to_approx": false, "how": "dar", "note": "ves Pětipsy darována klášteru, rok 1226 je první zmínka; konec držby zdroje neuvádějí (později královská komora)"},
+  {"owner": "koruna", "owner_wiki": null, "person": "královská komora", "from": null, "to": 1322, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "oficiální web spolku uvádí zástavu Fridrichovi z Egerberka roku 1332, cs.wiki léno 1322"},
+  {"owner": "petipesti-z-chys-a-egerberka", "owner_wiki": "Pětipeští z Chýš a Egerberka", "person": "Fridrich z Egerberka, Odolen Pětipeský a další", "from": 1322, "to": 1504, "from_approx": false, "to_approx": false, "how": "lenni", "note": "cs.wiki: léno 1322, jiné datum zástavy 1332 (Via Levamente); roku 1500 prodáno Oplům z Fictumu, ale rychle získáno zpět; 1504 prodáno Lobkovicovi; Odolen mladší věznil ve tvrzi 1404-1407 Vlada z Polák"},
+  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": "Václav Hasištejnský z Lobkovic, od 1518 Zikmund Hasištejnský z Lobkovic", "from": 1504, "to": 1519, "from_approx": false, "to_approx": true, "how": "koupe", "note": "panství připojeno k Hasištejnu; Václav zemřel 1518, dědic Zikmund prodal Oplovi z Fictumu (rok 1519 podle Via Levamente, cs.wiki rok neuvádí)"},
+  {"owner": "fictumove", "owner_wiki": "Fictumové", "person": "Opl z Fictumu", "from": 1519, "to": 1530, "from_approx": true, "to_approx": false, "how": "koupe", "note": "uprchl 1530 před trestem za penězokazectví; majetek zabaven"},
+  {"owner": "koruna", "owner_wiki": null, "person": "královská koruna", "from": 1530, "to": 1545, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "zabavený majetek nejprve zastaven, 1545 prodán Albrechtu Šlikovi"},
+  {"owner": "slikove", "owner_wiki": "Šlikové", "person": "Albrecht Šlik", "from": 1545, "to": 1559, "from_approx": false, "to_approx": false, "how": "koupe", "note": "Pětipsy se staly svobodným statkem"},
+  {"owner": "hrobcicti-z-hrobcic", "owner_wiki": "Hrobčičtí z Hrobčic", "person": "Jeroným Hrobčický z Hrobčic, později Oldřich Hrobčický", "from": 1559, "to": 1623, "from_approx": false, "to_approx": false, "how": "koupe", "note": "kolem 1560 přestavba tvrze na renesanční zámek; Oldřich přišel o statek za účast na stavovském povstání (Via Levamente: majetek propadl komoře po jeho smrti 1629)"},
+  {"owner": "koruna", "owner_wiki": null, "person": "královská komora", "from": 1623, "to": 1630, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "konfiskace po stavovském povstání"},
+  {"owner": "thun-hohensteinove", "owner_wiki": "Thun-Hohensteinové", "person": "Kryštof Šimon z Thun-Hohensteinu a další Thunové z Klášterce", "from": 1630, "to": 1923, "from_approx": false, "to_approx": true, "how": "koupe", "note": "cs.wiki 1630, Via Levamente rok 1635 (vymazání ze zemských desek 1652); do pozemkové reformy (cs.wiki 1923); od 19. století dvůr pronajímán Gustavu Hodkovi (nájem od 1872); na zámku sídlila správa statku"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Zdeněk Hodek (rodina Hodků)", "from": 1926, "to": 1948, "from_approx": false, "to_approx": false, "how": "koupe", "note": "Via Levamente: Zdeněk Hodek koupil zámek s dvorem při pozemkové reformě 1926; cs.wiki rok neuvádí jen jako pozdější koupi"},
+  {"owner": "stat", "owner_wiki": null, "person": "státní statek", "from": 1948, "to": 1995, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "zámek značně zdevastován"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "potomci původních majitelů (Hodkovi)", "from": 1995, "to": 2012, "from_approx": false, "to_approx": false, "how": "restituce", "note": "převzali zámeckou zříceninu"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Via Levamente, z.s.", "from": 2012, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "občanské sdružení koupilo areál za 3 miliony korun a zahájilo záchranu; jde o spolek, nikoli soukromou osobu"}
+ ],
+ "events": [
+  {"year": 1226, "text": "první zmínka o Pětipsech, patřily doksanskému klášteru"},
+  {"year": 1322, "text": "Fridrich z Egerberka získal Pětipsy a postavil vodní tvrz (jiný zdroj 1332)"},
+  {"year": 1404, "text": "1404-1407 věznění Vlada z Polák ve tvrzi Odolenem mladším Pětipeským"},
+  {"year": 1560, "text": "kolem roku 1560 Hrobčičtí přestavěli tvrz na renesanční zámek"},
+  {"year": 1630, "text": "statek koupil Kryštof Šimon z Thun-Hohensteinu, později barokní přestavba v 2. polovině 17. století"},
+  {"year": 1948, "text": "zámek zkonfiskován rodině Hodků, následně zdevastován státním statkem"},
+  {"year": 2012, "text": "areál koupil spolek Via Levamente"},
+  {"year": 2017, "text": "zahájena rekonstrukce gotické části zámku"},
+  {"year": 2024, "text": "3. srpna zámek pravidelně zpřístupněn návštěvníkům"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Pětipsy_(zámek)", "https://www.vialevamente.cz/zamek-informace-pro-navstevniky/soucasnost-a-historie/historie/vznik-petipes/", "https://www.vialevamente.cz/zamek-informace-pro-navstevniky/soucasnost-a-historie/historie/vyvoj-zamku/"]
+}

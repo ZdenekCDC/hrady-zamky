@@ -1,0 +1,29 @@
+{
+ "id": "Q28913094",
+ "name": "Příseka",
+ "founded": {"year": null, "approx": false, "text": "Tvrz na místě dnešního zámku vystavěl Volf Beránek z Petrovic (cs.wiki uvádí výstavbu ve 14. století, což je nejasné; Beránkové sem přenesli sídlo z Petrovic); na počátku 18. století přestavěna na menší barokní zámek."},
+ "summary": "Příseka patřila ve 13. století olomouckému biskupství a od roku 1327 pánům z Lipé, jejichž manové Beránkové z Petrovic zde měli tvrz. Roku 1579 ji získali Brtničtí z Valdštejna a po konfiskaci za stavovského povstání ji roku 1627 přijali Collaltové jako součást brtnického panství; na počátku 18. století byla tvrz přestavěna na barokní zámek. Po pozemkové reformě (1921) a prodeji v roce 1926 zámek chátral jako majetek JZD a obce, po rekonstrukci 2014-2015 v něm sídlí Muzeum autíček firmy Abrex.",
+ "owners": [
+  {"owner": "cirkev", "owner_wiki": null, "person": "olomoucké biskupství", "from": null, "to": 1327, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "ve 2. nebo 3. třetině 13. století získalo biskupství ves a založilo kostel sv. Barbory (web muzea); předtím 1234-1240 patřila oblast cisterciáckému klášteru u Tišnova"},
+  {"owner": "pani-z-lipe", "owner_wiki": "Páni z Lipé", "person": null, "from": 1327, "to": 1533, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "správa přes manský systém, tvrz drželi manové Beránkové z Petrova; 1. 1. 1533 smlouva o zproštění manských povinností"},
+  {"owner": "beranci-z-petrovic", "owner_wiki": null, "person": "Volf Beránek z Petrovic, poté syn Jan Beránek", "from": 1535, "to": 1579, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "cs.wiki uvádí Volfa jako stavitele tvrze; web muzea: záznam o převodu tvrze neexistuje, Volf vlastníkem 1535, Jan Beránek 1568; 1579 přepis v zemských deskách pod nátlakem Hynka Brtnického"},
+  {"owner": "brtnicti-z-valdstejna", "owner_wiki": null, "person": "Hynek Brtnický z Valdštejna, poté vdova Kateřina Zajímačka z Kunštátu", "from": 1579, "to": 1600, "from_approx": false, "to_approx": false, "how": "jine", "note": "součást brtnického panství"},
+  {"owner": "krinecti-z-ronova", "owner_wiki": "Křinečtí z Ronova", "person": "Jiří Volf Křinecký z Ronova; od 1619 Hynek Křinecký, od 1620/1621 bratr Jiří Jindřich", "from": 1600, "to": 1627, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "Jiřímu Jindřichovi byl statek po útěku za hranice za účast ve stavovském odboji zkonfiskován (konfiskační odhad tvrz s vsí 500 zlatých); cs.wiki uvádí 1627 jako návrat k Brtnici"},
+  {"owner": "collaltove", "owner_wiki": "Collaltové", "person": "Collaltové (od 1921 kníže Manfred Collalto na zbytku 9 ha)", "from": 1627, "to": 1921, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "součást brtnického panství; web Kultura21 uvádí získání Collalty 1623; roku 1921 zábor Státním pozemkovým úřadem, v pozemkové reformě byl hospodářský dvůr rozparcelován a zbytkový statek se zámkem nabídnut k odprodeji 1925"},
+  {"owner": "stat", "owner_wiki": null, "person": "Státní pozemkový úřad", "from": 1921, "to": 1926, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "pozemková reforma"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "B. Bém a Václav Bém", "from": 1926, "to": 1950, "from_approx": false, "to_approx": true, "how": "koupe", "note": "odkoupili zbytkový statek se zámkem; konec období není ve zdroji uveden (v 50. letech zámek zabralo JZD)"},
+  {"owner": "stat", "owner_wiki": null, "person": "JZD (zemědělské družstvo)", "from": 1950, "to": null, "from_approx": true, "to_approx": false, "how": "konfiskace", "note": "v 50. letech 20. století zámek zabralo nově založené JZD (byty zaměstnanců); web Kultura21 uvádí zábor státem po 1945; 1955 stržena střecha věže při vichřici"},
+  {"owner": "mesto", "owner_wiki": null, "person": "MNV (místní národní výbor)", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "zámek v majetku MNV, sloužil kulturním účelům; Kultura21 uvádí navrácení původním vlastníkům po změně režimu - rozpor mezi zdroji, roky převodů neuvedeny"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Abrex (Radek Bukovský)", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "dnešní vlastník (cs.wiki, Kultura21, Wikipedie o muzeu); rok koupě neuveden, rekonstrukce od března 2014, Muzeum autíček otevřeno 10. 10. 2015"}
+ ],
+ "events": [
+  {"year": 1579, "text": "ves s tvrzí získal Hynek Brtnický z Valdštejna, součást brtnického panství"},
+  {"year": 1627, "text": "po konfiskaci Příseka znovu připadla Brtnici, držitelem se stali Collaltové"},
+  {"year": 1645, "text": "škody za švédské okupace Jihlavy"},
+  {"year": 1798, "text": "zámek využíván jako škola"},
+  {"year": 1926, "text": "zbytkový statek se zámkem odkoupil B. Bém a Václav Bém"},
+  {"year": 1955, "text": "vichřice strhla jehlancovou střechu věže, zámek chátral"},
+  {"year": 2015, "text": "po rekonstrukci (od 2014) otevřeno Muzeum autíček firmy Abrex"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Příseka_(zámek)", "https://www.muzeumauticek.cz/zamek-priseka/", "https://www.kultura21.cz/historietradice/13272-zamek-priseka-u-jihlavy-muzeum-auticek", "https://cs.wikipedia.org/wiki/Muzeum_autíček"]
+}

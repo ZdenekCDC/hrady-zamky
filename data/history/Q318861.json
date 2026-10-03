@@ -1,0 +1,21 @@
+{
+ "id": "Q318861",
+ "name": "Malá pevnost Terezín",
+ "founded": {"year": 1780, "approx": false, "text": "Stavba pevnosti Terezín začala na jaře 1780 (základní kámen 10. října 1780); Malá pevnost je samostatný fort na pravém břehu Staré Ohře, dokončený do roku 1790."},
+ "summary": "Malá pevnost vznikla v letech 1780-1790 jako součást habsburské pevnosti Terezín, původně vojenský fort na pravém břehu Ohře. Již v 19. století sloužila jako vězení a roku 1888 byla pevnostní funkce Terezína ukončena. Za první světové války v ní byl vězněn Gavrilo Princip, v letech 1940-1945 v ní sídlila věznice pražského gestapa, po válce internační tábor pro Němce (1945-1948). Dnes je národní kulturní památkou a spravuje ji Památník Terezín.",
+ "owners": [
+  {"owner": "koruna", "person": "Josef II.", "from": 1780, "to": 1918, "from_approx": false, "to_approx": true, "how": "zalozeni", "note": "rozhodnutí o založení pevnosti vydala Marie Terezie 16. 12. 1779, stavbu vedl Karl Niclas von Steinmetz; vojenská pevnost, od poloviny 19. stol. též vězení, pevnostní funkce ukončena císařským výnosem 1888; rok 1918 je odvozen z konce monarchie"},
+  {"owner": "stat", "person": null, "from": 1918, "to": 1940, "from_approx": false, "to_approx": false, "how": "jine", "note": "Československo; zdroje neuvádějí konkrétní převod"},
+  {"owner": "neznamo", "person": "gestapo", "from": 1940, "to": 1945, "from_approx": false, "to_approx": false, "how": "jine", "note": "od června 1940 policejní věznice pražského gestapa (Polizeigefängnis Theresienstadt); nacisté uprchli 5. 5. 1945"},
+  {"owner": "stat", "person": "Památník Terezín", "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "jine", "note": "1945-1948 internační tábor pro Němce, 1960-1994 zde sídlil Okresní archiv v Litoměřicích; dnes sídlo Památníku Terezín, rok vzniku Památníku zdroje neuvádějí"}
+ ],
+ "events": [
+  {"year": 1780, "text": "zahájení stavby pevnosti Terezín, 10. října položen základní kámen"},
+  {"year": 1790, "text": "dostavba pevnosti za celkových nákladů 10 milionů zlatých"},
+  {"year": 1888, "text": "císařským výnosem ukončena pevnostní funkce Terezína"},
+  {"year": 1918, "text": "v Malé pevnosti zemřel vězněný Gavrilo Princip (28. dubna)"},
+  {"year": 1940, "text": "zřízení policejní věznice pražského gestapa, prošlo jí kolem 30 000 vězňů"},
+  {"year": 1945, "text": "5. května uprchli nacisté, poté do roku 1948 internační tábor pro Němce"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Malá_pevnost_Terezín", "https://cs.wikipedia.org/wiki/Terezín", "https://www.infocesko.cz/content/clanek_tisk.aspx?clanekid=1251&lid=1"]
+}

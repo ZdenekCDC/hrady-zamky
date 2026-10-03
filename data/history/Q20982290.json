@@ -1,0 +1,33 @@
+{
+ "id": "Q20982290",
+ "name": "Peruc",
+ "founded": {"year": 1300, "approx": true, "text": "Předchůdcem zámku byla tvrz založená na počátku 14. století Jetřichem z Peruce; někdy před rokem 1597 byla přestavěna na renesanční zámek."},
+ "summary": "Zámek v Peruci vznikl přestavbou tvrze založené na počátku 14. století Jetřichem z Peruce, před rokem 1597 byla tvrz přestavěna na renesanční zámek. Po Hruškách z Března a Hýzrlech z Chodů jej od roku 1673 držel rod Ledebourů, který zámek barokně a v letech 1760-1770 rokokově přestavěl. Roku 1798 jej koupili Kinští, roku 1814 Thun-Hohensteinové (do 1945). Po roce 1989 patřil obci, ta jej roku 2007 prodala britským majitelům a od 2013/2015 patří soukromé majitelce.",
+ "owners": [
+  {"owner": "cirkev", "person": "Strahovský klášter", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "podle AMHZ patřila Peruc ve 12. století Strahovskému klášteru; přesné roky neuvedeny"},
+  {"owner": "z-peruce", "owner_wiki": null, "person": "Jetřich z Peruce a potomci (naposledy Tas z Peruce)", "from": 1300, "to": null, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "tvrz založená na počátku 14. století, potomkům patřila do konce 15. století, kdy ji Tas z Peruce prodal"},
+  {"owner": "petipesti-z-krasneho-dvora", "owner_wiki": null, "person": "Zikmund Pětipeský z Krásného Dvora, poté syn Václav Pětipeský", "from": null, "to": 1532, "from_approx": false, "to_approx": false, "how": "koupe", "note": "cs.wiki uvádí Pětipeské z Krásného Dvora"},
+  {"owner": "krajirove-z-krajku", "owner_wiki": null, "person": "Eliška z Krajku", "from": 1532, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "od Václava Pětipeského; roky konce neuvedeny"},
+  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": "Jindřich z Lobkovic, poté Bedřich z Lobkovic", "from": null, "to": 1597, "from_approx": false, "to_approx": false, "how": "koupe", "note": "Bedřich zemřel roku 1594 při tažení v Bratislavě, statek prodala jeho vdova Anna Marie ze Švamberka"},
+  {"owner": "z-brezna", "owner_wiki": null, "person": "Hanuš Hruška z Března", "from": 1597, "to": 1611, "from_approx": false, "to_approx": false, "how": "koupe", "note": "Hanuš zemřel 1610, panství prodali jeho synové Adam Jindřich a Jiří Bedřich; sídlil na zámku v Toužetíně"},
+  {"owner": "z-slovic", "owner_wiki": null, "person": "Alžběta Zapská ze Šlovic", "from": 1611, "to": 1633, "from_approx": false, "to_approx": false, "how": "koupe"},
+  {"owner": "z-chodu", "owner_wiki": null, "person": "Eliška Volfomína Žďárská a Michal Hýzrle z Chodů; dcera Františka Eusebie Hýzrlová a Karel Leopold Caretto z Millesima", "from": 1633, "to": 1673, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "Hýzrlové z Chodů; zámek zdědila dcera Františka Eusebie, její manžel jej roku 1673 prodal"},
+  {"owner": "ledebourove", "owner_wiki": null, "person": "Jan Jetřich z Ledeburu a potomci (naposledy Kašpar z Ledeburu)", "from": 1673, "to": 1798, "from_approx": false, "to_approx": false, "how": "koupe", "note": "kupní smlouva zahrnovala také Telce a Černochov; barokní přestavba (první etapa dokončena 1724) a rokoková 1760-1770"},
+  {"owner": "kinsti", "owner_wiki": "Kinští", "person": "kníže Josef Kinský", "from": 1798, "to": 1814, "from_approx": false, "to_approx": false, "how": "koupe"},
+  {"owner": "thun-hohensteinove", "owner_wiki": "Thun-Hohensteinové", "person": "František Antonín I. Thun-Hohenstein", "from": 1814, "to": 1945, "from_approx": false, "to_approx": false, "how": "koupe"},
+  {"owner": "stat", "owner_wiki": null, "person": "různí správci (mj. Národní muzeum)", "from": 1945, "to": 1994, "from_approx": false, "to_approx": true, "how": "konfiskace", "note": "AMHZ: po 1945 několik správců, nejdéle Národní muzeum; cs.wiki: po 1989 majitelem obec, web Deníku uvádí obec jako majitele od 1994"},
+  {"owner": "mesto", "owner_wiki": null, "person": "obec (městys) Peruc", "from": 1994, "to": 2007, "from_approx": false, "to_approx": false, "how": "restituce", "note": "obec zámek získala do majetku po roce 1989 (Deník: 1994); prodán za 19 milionů Kč"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Francis James Hellyer a Emmanuel Ciolfi", "from": 2007, "to": 2015, "from_approx": false, "to_approx": true, "how": "koupe", "note": "zámek za nich chátral; AMHZ uvádí koupi nynější majitelkou již 2013, cs.wiki a Deník 2015"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Dominika Matušová", "from": 2015, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "cs.wiki v infoboxu uvádí současným majitelem Pavla Ondráčka (partner majitelky, autor projektu); jižní křídlo má věcným břemenem užívat krajská Galerie Benedikta Rejta a pamětní síň Emila Filly spravuje Ústecký kraj"}
+ ],
+ "events": [
+  {"year": 1597, "text": "tvrz přestavěna na renesanční zámek, Peruc koupil Hanuš Hruška z Března"},
+  {"year": 1673, "text": "Peruc koupil Jan Jetřich z Ledeburu"},
+  {"year": 1724, "text": "dokončena první etapa barokní přestavby (Antonio della Porta, Pietro Paolo Columbani)"},
+  {"year": 1770, "text": "1760-1770 rokoková přestavba, sochy Ignáce Františka Platzera"},
+  {"year": 1814, "text": "zámek koupil František Antonín I. Thun-Hohenstein"},
+  {"year": 1947, "text": "1947-1952 v jižním křídle žil a tvořil malíř Emil Filla, později zřízena pamětní síň"},
+  {"year": 2020, "text": "1. července zahájeny prohlídky severního křídla po rekonstrukci"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Peruc_(zámek)", "https://www.amhz.cz/zamek/peruc", "https://zatecky.denik.cz/zpravy_region/peruc_zamek_20071121.html", "https://zatecky.denik.cz/zpravy-region/zamekperucprodej20151016/"]
+}

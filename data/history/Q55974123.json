@@ -1,0 +1,23 @@
+{
+ "id": "Q55974123",
+ "name": "Pevnost Josefov",
+ "founded": {"year": 1780, "approx": false, "text": "Základní kámen pevnostního města Plesu (od 1793 Josefov) položen 3. října 1780 na příkaz Josefa II.; opevnění a většina vojenských budov vznikly 1780-1790, bojeschopná předána 16. září 1787."},
+ "summary": "Pevnost Josefov (původně Ples) nechal Josef II. vybudovat od roku 1780 podle návrhu Clauda Benoîta Duhamela de Querlonde na místě většiny vsi Ples, po koupi smiřického panství císařskou komorou od Jana Václava z Paaru. V boji se nikdy plně neuplatnila a sloužila hlavně jako posádka, vězení a sklad; statut pevnosti byl zrušen roku 1888. Armáda (včetně sovětských vojsk 1968-1991) zde zůstala do 90. let 20. století. Většina objektů dnes patří městu Jaroměř, které s krajem a státem hledá peníze na záchranu kasáren a vojenské nemocnice.",
+ "owners": [
+  {"owner": "paarove", "owner_wiki": "Paarové", "person": "Jan Václav kníže z Paaru", "from": null, "to": 1780, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "majitel smiřického panství, na němž ležela ves Ples; vlastník pozemků před založením pevnosti; zdroj uvádí jen prodej komoře na počátku 1780"},
+  {"owner": "koruna", "owner_wiki": null, "person": "císařská komora, Josef II. a další habsburští panovníci; vojenská správa", "from": 1780, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "panství koupila císařská komora zkraje roku 1780; pevnost byla vojenským zařízením monarchie, zrušení pevnostního statutu 1888, posádkové město zůstalo dál"},
+  {"owner": "stat", "owner_wiki": null, "person": "armáda (Československá armáda, sovětská vojska 1968-1991, Armáda ČR)", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "jine", "note": "zdroje rok přechodu ani způsob nevyjmenovávají; armáda odešla v 90. letech 20. století a působí zde dosud jen v malém zastoupení; přiřazení vlastnictví ke státu je odvozené"},
+  {"owner": "mesto", "owner_wiki": null, "person": "město Jaroměř", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "podle novinových zpráv (iDNES 2024, Seznam Zprávy 2021) je město Jaroměř vlastníkem většiny objektů vč. Čtvercových kasáren a vojenské nemocnice; rok převodu zdroje neuvádějí; kraj uvažoval o převzetí kasáren, dnes jednání o spolufinancování s kraje a státem"}
+ ],
+ "events": [
+  {"year": 1780, "text": "císařská komora koupila smiřické panství, 3. října položen základní kámen pevnosti"},
+  {"year": 1787, "text": "Josef II. předal pevnost vojsku jako bojeschopnou"},
+  {"year": 1791, "text": "Ples povýšen na královské svobodné město"},
+  {"year": 1793, "text": "přejmenování Plesu na Josefov"},
+  {"year": 1866, "text": "pevnost ve válce s Pruskem sloužila jako zbrojnice, sklad a nemocnice, Prusové ji obešli"},
+  {"year": 1888, "text": "zrušen pevnostní statut"},
+  {"year": 1971, "text": "Josefov prohlášen městskou památkovou rezervací"},
+  {"year": 1991, "text": "odchod sovětských vojsk (okupace od 1968), v 90. letech demilitarizace"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Pevnost_Josefov", "https://www.idnes.cz/hradec-kralove/zpravy/pevnost-josefov-jaromer-oprava-kasarna.A240119_772118_hradec-zpravy_kvi", "https://www.jaromer-josefov.cz/volny-cas/pamatky-ve-meste/pevnost-josefov/"]
+}

@@ -1,0 +1,33 @@
+{
+ "id": "Q33524525",
+ "name": "Mirošov",
+ "founded": {"year": 1588, "approx": false, "text": "Renesanční zámek (původně označovaný též jako tvrz) postavili Gryspekové z Gryspachu, pravděpodobně Ferdinand Gryspek, po roce 1588 (cs.wiki uvádí výstavbu 1588-1594)."},
+ "summary": "Renesanční panské sídlo v Mirošově založili koncem 16. století Gryspekové z Gryspachu, pravděpodobně Ferdinand Gryspek. Od roku 1616 patřil statek Vratislavům z Mitrovic (s přestávkou Boryňů ze Lhoty), kteří jej do roku 1723 rozšířili o barokní křídlo podle plánů Jakuba Augustona. Po zadlužení koupila panství roku 1726 císařská komora, v 19. a 20. století se majitelé rychle střídali (Strousberg, Colloredo-Mansfeld, Fitz, Feierabend), po roce 1948 patřil státu a po restituci a prodeji v roce 2015 firmě Green Ways International.",
+ "owners": [
+  {"owner": "gryspekove-z-gryspachu", "owner_wiki": "Gryspekové z Gryspachu", "person": "Ferdinand Gryspek z Gryspachu, poté Blažej Gryspek", "from": 1588, "to": 1616, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "Ferdinand zdědil Mirošov po otci Floriánovi roku 1588, zemřel bez potomků (podle webu města 1606), statek zdědil bratr Blažej a roku 1616 jej prodal"},
+  {"owner": "vratislavove-z-mitrovic", "owner_wiki": "Vratislavové z Mitrovic", "person": "Adam starší Vratislav z Mitrovic", "from": 1616, "to": 1635, "from_approx": false, "to_approx": true, "how": "koupe", "note": "Adam zemřel roku 1624 (web města), poté statek spravovala vdova Saloména a pro dluhy jej zastavovala věřitelům (mj. Veronika Boryňová z Gryspachu 1626, Kašpar Pregl z Pregsdorfu, Václav z Kumburka); konec období 1635 podle nástupu Boryňů"},
+  {"owner": "borynove-ze-lhoty", "owner_wiki": "Boryňové ze Lhoty", "person": "Adam Václav Boryně ze Lhoty", "from": 1635, "to": 1644, "from_approx": false, "to_approx": false, "how": "koupe", "note": "po jeho smrti 1644 zdědily statek dcery Marie Magdaléna a Barbora Estera, roku 1653 si jej dělily, Marie Magdaléna sestřin podíl brzy koupila"},
+  {"owner": "vratislavove-z-mitrovic", "owner_wiki": "Vratislavové z Mitrovic", "person": "František Diviš Vratislav z Mitrovic; Adam František; od 1694 Jan Antonín Vratislav z Mitrovic", "from": null, "to": 1726, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "po Marii Magdaleně (zemřela 1661 nebo 1671) zdědil manžel František Diviš (zemřel 1677), poté syn Adam František (zemřel 1694) a vnuk Jan Antonín, od 1701 hrabě, který zámek přestavěl do 1723 a zadlužil se; panství koupila císařská komora (web města uvádí dražbu 1724)"},
+  {"owner": "koruna", "owner_wiki": null, "person": "císařská komora", "from": 1726, "to": 1868, "from_approx": false, "to_approx": true, "how": "koupe", "note": "koupeno za 226 tisíc zlatých, zámek sloužil úředníkům železářského podniku, spravováno ze Zbirohu a Příbrami; rok 1868 je rok nástupu Strousberga (konec komorního držení zdroj výslovně neuvádí)"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Bethel Henry Strousberg", "from": 1868, "to": 1875, "from_approx": false, "to_approx": false, "how": "koupe", "note": "do krachu jeho podniků"},
+  {"owner": "colloredove", "owner_wiki": "Colloredové", "person": "Josef Colloredo-Mansfeld", "from": 1879, "to": 1890, "from_approx": false, "to_approx": false, "how": "koupe", "note": "cs.wiki: koupil o čtyři roky později (po 1875); do 1890 jde o odvozený rok konce"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Mirošovské kamenouhelné těžařstvo; Jan Fitz (zemřel 1900), poté vdova Emil Van Dyck", "from": 1890, "to": 1904, "from_approx": false, "to_approx": false, "how": "koupe", "note": "Jan Fitz řídil společnost, zámek později koupil a nechal 1893-1897 opravit a vybavit v neorokokovém stylu; po jeho smrti 1900 zdědila vdova provdaná za majora Emila Van Dycka"},
+  {"owner": "schonbornove", "owner_wiki": "Schönbornové", "person": "Bedřich Schönborn", "from": 1904, "to": 1907, "from_approx": false, "to_approx": false, "how": "koupe"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Max Maendl, poté syn Josef Maendl", "from": 1907, "to": 1939, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupeno ve veřejné dražbě; Josef Maendl odešel 1939 do zahraničí"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Ladislav Karel Feierabend", "from": 1939, "to": 1948, "from_approx": false, "to_approx": false, "how": "koupe", "note": "v letech 1940-1945 byl v exilu, za války zámek využívala německá armáda; rok 1948 emigroval"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1951, "to": 1989, "from_approx": false, "to_approx": true, "how": "konfiskace", "note": "od 1951 státní statek, počátkem 70. let Ústřední celní správa Praha; konec období není přesně uveden (koncem 80. let získal Čedok)"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Čedok", "from": 1989, "to": null, "from_approx": true, "to_approx": true, "how": "jine", "note": "cs.wiki uvádí jen 'koncem osmdesátých let'; roky nejisté"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Hana Ludikarová (dědička L. Feierabenda)", "from": null, "to": 2015, "from_approx": false, "to_approx": false, "how": "restituce", "note": "rok restituce zdroj neuvádí; její syn zahájil rekonstrukci"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Green Ways International", "from": 2015, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupeno za 100 milionů Kč; po útlumu po covidu byl zámek 2023 znovu nabídnut k prodeji, současný stav neověřen"}
+ ],
+ "events": [
+  {"year": 1588, "text": "Ferdinand Gryspek zdědil Mirošov, výstavba renesančního sídla (1588-1594)"},
+  {"year": 1616, "text": "Blažej Gryspek prodal panství Adamu Vratislavovi z Mitrovic"},
+  {"year": 1723, "text": "dokončení barokního křídla podle plánů Jakuba Augustona za Jana Antonína Vratislava"},
+  {"year": 1726, "text": "zadlužené panství koupila císařská komora za 226 tisíc zlatých"},
+  {"year": 1897, "text": "1893-1897 nákladná oprava a neorokokové interiéry za Jana Fitze"},
+  {"year": 1964, "text": "areál prohlášen kulturní památkou"},
+  {"year": 2015, "text": "zámek za 100 milionů koupila firma Green Ways International"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Mirošov_(zámek,_okres_Rokycany)", "https://www.mirosov.cz/mesto/o-mirosovu/historie-mesta/gryspekove-a-mirosov/", "https://www.mirosov.cz/mesto/o-mirosovu/historie-mesta/mitrovicove-a-mirosov/", "https://rokycansky.denik.cz/z-regionu/zamek-v-mirosove-je-prodany-20151005.html"]
+}

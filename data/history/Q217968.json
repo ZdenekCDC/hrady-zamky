@@ -1,0 +1,24 @@
+{
+ "id": "Q217968",
+ "name": "Minoritský klášter ve Znojmě",
+ "founded": {"year": 1225, "approx": true, "text": "Minorité se usadili před vchodem do královského hradu kolem založení města Znojma (1225); první písemná zmínka o klášteře je z roku 1239."},
+ "summary": "Minoritský klášter vznikl ve Znojmě po roce 1225 na pozemcích darovaných králem Václavem I. a patřil součástí tzv. Znojemského Assisi spolu s klášterem klarisek. Roku 1534 jej pro nedostatek členů převzali františkáni, kteří v něm působili do zrušení roku 1784. Poté budovy sloužily jako vojenská vychovatelna a od roku 1825 jako věznice, kostel byl zbořen. Od roku 1945 je areál součástí Jihomoravského muzea ve Znojmě.",
+ "owners": [
+  {"owner": "cirkev", "owner_wiki": null, "person": "minorité", "from": 1225, "to": 1534, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "pozemky daroval král Václav I.; rok 1225 je odvozen z formulace o usazení kolem založení města"},
+  {"owner": "cirkev", "owner_wiki": null, "person": "františkáni", "from": 1534, "to": 1784, "from_approx": false, "to_approx": false, "how": "jine", "note": "klášter po uzavření pro nedostatek personálu převzali františkáni, předtím od roku 1470 sídlili na Dolním Předměstí; zrušen za Josefa II."},
+  {"owner": "stat", "owner_wiki": null, "person": "vojenská správa (vychovatelna regimentu prince Coburga), od 1825 věznice", "from": 1784, "to": 1945, "from_approx": false, "to_approx": true, "how": "jine", "note": "zdroje vlastníka výslovně neuvádějí, jen využití objektu; přiřazení ke státu je odvozené; rok 1945 je rok převzetí muzeem"},
+  {"owner": "neznamo", "owner_wiki": null, "person": "Jihomoravské muzeum ve Znojmě", "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "areál je od roku 1945 součástí Jihomoravského muzea ve Znojmě (příspěvková organizace); zdroje neuvádějí zřizovatele ani vlastníka budovy"}
+ ],
+ "events": [
+  {"year": 1239, "text": "první písemná zmínka o klášteře"},
+  {"year": 1279, "text": "do kláštera uloženy ostatky Přemysla Otakara II. (muzeum uvádí 1279-1297, cs.wiki do 1296)"},
+  {"year": 1307, "text": "setkání Rudolfa Habsburského s otcem Albrechtem I. v klášteře"},
+  {"year": 1494, "text": "požár a následná stavební úprava kláštera"},
+  {"year": 1534, "text": "klášter převzali františkáni"},
+  {"year": 1754, "text": "1754-1758 stavba nové budovy klášterního špitálu"},
+  {"year": 1784, "text": "zrušení kláštera za Josefa II."},
+  {"year": 1825, "text": "radikální přestavba na věznici, kostel zbořen"},
+  {"year": 1945, "text": "areál se stal součástí Jihomoravského muzea"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Minoritský_klášter_(Znojmo)", "https://www.muzeumznojmo.cz/Minoritsk%C3%BD-kl%C3%A1%C5%A1ter"]
+}

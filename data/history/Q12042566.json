@@ -1,0 +1,21 @@
+{
+ "id": "Q12042566",
+ "name": "Olomoucký hrad",
+ "founded": {"year": 1050, "approx": true, "text": "Kolem poloviny 11. století vybudován kamenný hrad (sídlo přemyslovských olomouckých údělných knížat) na místě starší hradiště z doby Velkomoravské říše; roku 1131 vysvěcen kostel sv. Václava s kapitulou a biskupským palácem."},
+ "summary": "Olomoucký hrad na Václavském pahorku vyrostl z velkomoravského hradiště a kolem poloviny 11. století se stal kamenným sídlem Přemyslovců vládnoucích olomouckému údělu. Od roku 1131 se o něj dělila údělná knížata s olomouckými biskupy a kapitulou; po pozdně románské přestavbě po požáru 1204 a po roce 1266 převládly církevní funkce. Roku 1531 získala kapitula i okrouhlou věž jako poslední symbol zeměpanské správy. Areál patří k národním kulturním památkám a dnes jej spravují církevní instituce (arcibiskupství a Metropolitní kapitula sv. Václava) ve spolupráci se státem.",
+ "owners": [
+  {"owner": "koruna", "owner_wiki": null, "person": "olomoučtí údělní Přemyslovci (např. Spytihněv II.), po vymření údělné větve král Přemysl Otakar I.", "from": 1050, "to": null, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "zeměpanský/knížecí hrad; od poloviny 11. století sídlo olomouckých údělníků, po vymření jejich větve na počátku 13. století v přímé držbě krále; zeměpanská správa postupně ustupovala církevní, rok konce nelze ze zdrojů určit"},
+  {"owner": "cirkev", "owner_wiki": null, "person": "olomoučtí biskupové a kapitula (biskup Jindřich Zdík)", "from": 1131, "to": null, "from_approx": false, "to_approx": false, "how": "jine", "note": "církevní okrsek na hradě od roku 1131 (kostel sv. Václava, kapitula, biskupský palác), od té doby sdílený s knížaty; po roce 1266 (obnova svěřena biskupu Brunovi ze Schauenburka) převládají církevní funkce, roku 1531 kapitula získala i okrouhlou věž; dnes Arcibiskupství olomoucké a Metropolitní kapitula sv. Václava, část areálu (kapitulní děkanství) byla po 2. sv. válce zestátněna a vrácena církvi, na provoz Arcidiecézního muzea se podílí stát"}
+ ],
+ "events": [
+  {"year": 1063, "text": "zřízeno olomoucké biskupství"},
+  {"year": 1131, "text": "vysvěcen kostel sv. Václava, postavena kapitula a biskupský palác Jindřicha Zdíka"},
+  {"year": 1204, "text": "rozsáhlý požár, následná pozdně románská přestavba hradu s kamennou hradbou"},
+  {"year": 1306, "text": "v kapitulním děkanství zavražděn poslední Přemyslovec Václav III."},
+  {"year": 1531, "text": "olomoucká kapitula získala okrouhlou věž (bývalé purkrabství)"},
+  {"year": 1883, "text": "1883-1890 rozsáhlá novogotická přestavba dómu sv. Václava"},
+  {"year": 1962, "text": "areál prohlášen národní kulturní památkou"},
+  {"year": 1988, "text": "po průzkumech zpřístupněn Zdíkův (Přemyslovský) palác"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Olomoucký_hrad", "https://www.ostrovolomouc.cz/pribeh-hradu", "https://www.soupispamatek.cz/arl-kcz/en/detail-kcz_un_auth-0001064-Castle-Olomouc/"]
+}

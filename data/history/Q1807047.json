@@ -1,0 +1,26 @@
+{
+ "id": "Q1807047",
+ "name": "Poděbrady",
+ "founded": {"year": 1268, "approx": true, "text": "Královský vodní hrad nechal postavit Přemysl Otakar II. (zprávy od roku 1268, hrady.cz a město uvádějí výstavbu 1262-1268); sídlo je doloženo již roku 1223 (Hroznata)."},
+ "summary": "Gotický vodní hrad v Poděbradech založil Přemysl Otakar II. po roce 1262, v letech 1345-1495 byl v držení šlechty (Lichtenburkové, od 1351 páni z Kunštátu a Poděbrad, z nichž pocházel král Jiří). Poté byl panstvím české koruny, renesančně přestavěn 1539-1585 a barokně do dnešní podoby v 18. století. Od roku 1840 patřil Sinům a Hohenlohům, v 20. století sloužil lázním a školství a dnes jej vlastní Univerzita Karlova (předzámčí město Poděbrady).",
+ "owners": [
+  {"owner": "koruna", "owner_wiki": null, "person": "Přemysl Otakar II.", "from": 1268, "to": 1345, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "cs.wiki: královský hrad doložen od 1268; hrady.cz: po 1262 královský hrad, dřívější majitel (1223 Hroznata ze Sezemiců) před tím; za Václava II. a Jana Lucemburského královský"},
+  {"owner": "lichtenburkove", "owner_wiki": "Lichtenburkové", "person": "Hynek z Lichtenburka a ze Žleb", "from": 1345, "to": 1351, "from_approx": false, "to_approx": false, "how": "lenni", "note": "léno; po smrti Hynka zdědila dcera Eliška provdaná za Bočka z Kunštátu"},
+  {"owner": "pani-z-kunstatu-a-podebrad", "owner_wiki": "Páni z Kunštátu a Poděbrad", "person": "Boček z Kunštátu, Boček starší, Hynek, Viktorin, Jiří z Poděbrad", "from": 1351, "to": 1495, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "cs.wiki uvádí získání o šest let později (1351); hrady.cz: dědičně udělil Karel IV. Bočkovi 1362. Hrad obléhán vojsky Zikmunda (1402, 1420) a husity (1426); Jiří z Poděbrad, král 1458; jeho synové Viktorin a Jindřich panství roku 1495 vyměnili s králem Vladislavem II. za slezská knížectví"},
+  {"owner": "koruna", "owner_wiki": null, "person": "čeští králové a císaři", "from": 1495, "to": 1840, "from_approx": false, "to_approx": false, "how": "vymena", "note": "panství bylo zastavováno královským věřitelům, Ferdinand I. roku 1542 rozhodl o vykoupení a zákazu dalšího zastavení; renesanční přestavba 1539-1585; v roce 1840 (hrady.cz a město uvádějí koupi 1839) prodáno baronu Jiřímu Sinovi"},
+  {"owner": "sinove", "owner_wiki": "Sinové", "person": "Jiří Šimon Sina", "from": 1840, "to": 1884, "from_approx": false, "to_approx": false, "how": "koupe", "note": "hrady.cz: po něm panství vlastnil kníže Ypsilanti, poté kníže Hohenlohe"},
+  {"owner": "hohenlohe", "owner_wiki": "Hohenlohe", "person": "kníže Hohenlohe", "from": 1884, "to": 1914, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "cs.wiki: do začátku první světové války (rok 1914 přibližný); manželka Chariklea byla pravnučkou J. Š. Siny; v roce 1905 objeven pramen a vznikly lázně, zámek spravovala lázeňská akciová společnost"},
+  {"owner": "stat", "owner_wiki": null, "person": "Univerzita Karlova", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "dnešní vlastník zámku (cs.wiki, město Poděbrady); rok převodu zdroje neuvádějí; 1922-1935 sídlila v zámku Ukrajinská hospodářská akademie, 1946-1953 Středočeská kolej krále Jiřího z Poděbrad, 2004-2011 Centrum distančního vzdělávání UK"},
+  {"owner": "mesto", "owner_wiki": null, "person": "město Poděbrady", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "vlastník předzámčí (severní a východní křídlo) podle soupisu památek města; současně otevřený záznam vedle Univerzity Karlovy je záměrný (dělené vlastnictví areálu)"}
+ ],
+ "events": [
+  {"year": 1268, "text": "první zprávy o královském vodním hradu Přemysla Otakara II."},
+  {"year": 1345, "text": "hrad dán jako léno Hynku z Lichtenburka a ze Žleb"},
+  {"year": 1420, "text": "podle tradice se na hradě narodil Jiří z Poděbrad, hrad obléhán Zikmundem a husity"},
+  {"year": 1539, "text": "1539-1585 přestavba hradu na renesanční zámek (Hans Tirol)"},
+  {"year": 1651, "text": "oprava hradu poškozeného za třicetileté války"},
+  {"year": 1723, "text": "1723-1780 barokní přestavby (Kaňka, Hübner), dnešní podoba"},
+  {"year": 1905, "text": "objev minerálního pramene na nádvoří, vznik poděbradských lázní"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Poděbrady_(zámek)", "https://www.hrady.cz/zamek-podebrady-nymburk/", "https://mesto-podebrady.cz/strucna%2Dhistorie%2Dspravy%2Duzemi/d-1043", "https://mesto-podebrady.cz/assets/File.ashx?id_org=12349&id_dokumenty=17009"]
+}
