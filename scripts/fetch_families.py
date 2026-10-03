@@ -1,6 +1,6 @@
 """Fill data/families/<id>.json for every noble family used in data/history (from cs.wiki + Wikidata).
 
-Automatic fields: name, wikidata, cswiki, coat_of_arms (P94), period (P571/P576 or first/last ownership),
+Automatic fields: name, wikidata, cswiki, coat_of_arms (P94, else an arms image from the cs.wiki article), period (P571/P576 or first/last ownership),
 summary (intro of the cs.wiki article, first sentences). Existing files keep manually edited fields;
 only missing/empty fields are filled. Run after adding histories, then scripts/build_history.py.
 """
@@ -53,6 +53,50 @@ def wiki_info(titles):
             p = pages.get(tt, {})
             out[t] = {"title": tt, "qid": p.get("pageprops", {}).get("wikibase_item"), "extract": p.get("extract", ""),
                       "missing": not p or "missing" in p}
+    return out
+
+
+ARMS_FILE = re.compile(r"erb|coat[ _]of[ _]arms|wappen|siebmacher|blason|arms|coa[ _.]", re.I)
+
+
+def _plain(s):
+    import unicodedata
+    return re.sub(r"[^a-z0-9]", "", unicodedata.normalize("NFKD", s.lower()).encode("ascii", "ignore").decode())
+
+
+def _names_family(file, title):
+    """The file name must carry a distinctive word of the family name (no generic arms of an unrelated place / family)."""
+    if re.match(r"[A-Z]{3} .*COA", file) or re.search(r"schlo|hrad|zámek|kostel|church|castle", file, re.I):
+        return False  # municipal arms (DEU ... COA) and photos of buildings
+    words = [_plain(w)[:5] for w in re.split(r"[\s()]+", title) if len(_plain(w)) >= 5 and _plain(w) not in ("pani", "rytiri")]
+    return any(w in _plain(file) for w in words)
+
+
+def wiki_arms(titles):
+    """cs.wiki title -> Commons file name of a coat of arms used in the article (fallback when Wikidata has no P94)."""
+    out = {}
+    titles = [t for t in titles if t]
+    for i in range(0, len(titles), 20):
+        if i:
+            time.sleep(1.5)
+        params = {"action": "query", "titles": "|".join(titles[i:i + 20]), "prop": "images", "imlimit": "max",
+                  "redirects": 1, "format": "json"}
+        found = {}
+        while True:
+            r = get("https://cs.wikipedia.org/w/api.php", params=params).json()
+            for pg in r["query"]["pages"].values():
+                for im in pg.get("images", []):
+                    name = im["title"].split(":", 1)[1]
+                    if ARMS_FILE.search(name) and _names_family(name, pg["title"]):
+                        found.setdefault(pg["title"], name)
+            if "continue" not in r:
+                break
+            params.update(r["continue"])
+            time.sleep(1.5)
+        redir = {x["from"]: x["to"] for x in r["query"].get("redirects", [])}
+        for t in titles[i:i + 20]:
+            if redir.get(t, t) in found:
+                out[t] = found[redir.get(t, t)]
     return out
 
 
@@ -110,6 +154,12 @@ def main():
         fams = used_families()
         wi = wiki_info(sorted({t for t in fams.values() if t}))
     wd = wd_info(sorted({v["qid"] for v in wi.values() if v["qid"]}))
+    need = []
+    for fid, t in fams.items():
+        path = DATA / "families" / f"{fid}.json"
+        if t and not (path.exists() and load(path).get("coat_of_arms")) and not wd.get(wi[t]["qid"], {}).get("coa"):
+            need.append(t)
+    arms = wiki_arms(need)
     folder = DATA / "families"
     folder.mkdir(exist_ok=True)
     created = updated = 0
@@ -122,7 +172,7 @@ def main():
             "name": info.get("title") or title or fid,
             "wikidata": info.get("qid"),
             "cswiki": ("https://cs.wikipedia.org/wiki/" + info["title"].replace(" ", "_")) if info.get("title") else None,
-            "coat_of_arms": d.get("coa"),
+            "coat_of_arms": d.get("coa") or arms.get(title),
             "period": (f"{d.get('start') or '?'} - {d.get('end') or 'dosud'}" if d.get("start") or d.get("end") else None),
             "summary": summary_of(info.get("extract")),
         }

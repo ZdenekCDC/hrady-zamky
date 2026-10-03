@@ -303,7 +303,7 @@
    {
     "place": "Q14923651",
     "year": 1643,
-    "from": "z-zampachu",
+    "from": "pani-z-potstejna-a-litic",
     "to": "althannove",
     "how": "snatek"
    },
@@ -1326,7 +1326,7 @@
    {
     "place": "Q13219408",
     "year": 1599,
-    "from": "z-holohlav",
+    "from": "otmarove-z-holohlav",
     "to": "benedove-z-nectin",
     "how": "neznamo"
    },
@@ -1415,7 +1415,7 @@
     "place": "Q30860008",
     "year": 1372,
     "from": "benesovici",
-    "to": "z-drahotus",
+    "to": "pani-z-drahotus",
     "how": "vymena"
    },
    {
@@ -1977,7 +1977,7 @@
     "place": "Q1012711",
     "year": 1427,
     "from": "berkove-z-dube",
-    "to": "pani-z-dube",
+    "to": "pani-z-dube-ronovci",
     "how": "neznamo"
    },
    {
@@ -2187,7 +2187,7 @@
     "place": "Q159971",
     "year": 1471,
     "from": "berkove-z-dube",
-    "to": "z-elsnic",
+    "to": "elsnicove-z-elsnic",
     "how": "koupe"
    },
    {
@@ -2416,6 +2416,44 @@
     "year": 1533,
     "from": "berkovsti-ze-sebirova",
     "to": "kaplirove-ze-sulevic",
+    "how": "neznamo"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
+ "besinove-z-besin": {
+  "id": "besinove-z-besin",
+  "type": "rod",
+  "name": "Běšinové z Běšin",
+  "related": [],
+  "wikidata": "Q2661944",
+  "cswiki": "https://cs.wikipedia.org/wiki/Běšinové_z_Běšin",
+  "summary": "Běšinové z Běšin byli vladycký rod pocházející z vesničky Běšin u Klatov. Nepatřili k významným rodům, působili na nižších úřadech či ve službách významných šlechtických rodů.",
+  "places": [
+   {
+    "place": "Q1013457",
+    "from": 1470,
+    "to": 1491,
+    "person": "Mikuláš z Běšin",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": true
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q1013457",
+    "year": 1470,
+    "from": "janovsti-z-janovic",
+    "to": "besinove-z-besin",
+    "how": "koupe"
+   },
+   {
+    "place": "Q1013457",
+    "year": 1491,
+    "from": "besinove-z-besin",
+    "to": "janovsti-z-janovic",
     "how": "neznamo"
    }
   ],
@@ -2712,7 +2750,7 @@
    {
     "place": "Q33323103",
     "year": 1681,
-    "from": "z-pottingu",
+    "from": "pottingove-z-persingu",
     "to": "bissingenove",
     "how": "neznamo"
    },
@@ -2787,6 +2825,45 @@
    }
   ],
   "place_count": 2,
+  "color_slot": null
+ },
+ "blehove-z-tesnice": {
+  "id": "blehove-z-tesnice",
+  "type": "rod",
+  "name": "Blehové z Těšnice",
+  "related": [],
+  "wikidata": "Q11159609",
+  "cswiki": "https://cs.wikipedia.org/wiki/Blehové_z_Těšnice",
+  "coat_of_arms": "House of Těšnice - coat of arms.jpg",
+  "summary": "Blehové z Těšnice byli český vladycký rod, jehož přídomek se vztahoval k Těšnici na Klatovsku. V erbu měli znamení parohů. Ze stejné vesnice pocházel a stejný erb používal také vladycký rod Mlázovských z Těšnice. Nejstarším známým členem rodu z Těšnice byl Jan, který se připomínal v roce 1379. Jilješ z Těšnice seděl v Tuklekách roku 1414 a měl syna Lidéře, který roku 1420 odpověděl městům pražským.",
+  "places": [
+   {
+    "place": "Q366439",
+    "from": 1437,
+    "to": 1443,
+    "person": "Jan Bleh z Těšnice",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q366439",
+    "year": 1437,
+    "from": "z-lazan",
+    "to": "blehove-z-tesnice",
+    "how": "koupe"
+   },
+   {
+    "place": "Q366439",
+    "year": 1443,
+    "from": "blehove-z-tesnice",
+    "to": "kolowrat-krakowsti",
+    "how": "koupe"
+   }
+  ],
+  "place_count": 1,
   "color_slot": null
  },
  "blucherove": {
@@ -2928,7 +3005,7 @@
     "place": "Q12033148",
     "year": 1820,
     "from": "blumegenove",
-    "to": "z-korospataku",
+    "to": "kalnokyove-z-korospataku",
     "how": "dedictvi"
    },
    {
@@ -4463,7 +4540,7 @@
    {
     "place": "Q1013014",
     "year": 1562,
-    "from": "z-knenic",
+    "from": "okrouhlicti-z-knenic",
     "to": "bubnove-z-litic",
     "how": "koupe"
    },
@@ -4863,6 +4940,7 @@
   "cswiki": "https://cs.wikipedia.org/wiki/Buzici",
   "summary": "Buzici (Buzicové) byli český šlechtický rod.",
   "related": [],
+  "coat_of_arms": "Coat of arms of Buzici .svg",
   "places": [
    {
     "place": "Q10396968",
@@ -4895,7 +4973,7 @@
     "place": "Q1421237",
     "year": 1406,
     "from": "buzici",
-    "to": "z-orlika",
+    "to": "hulerove-z-orlika",
     "how": "neznamo"
    }
   ],
@@ -4973,7 +5051,7 @@
    {
     "place": "Q17167017",
     "year": 1779,
-    "from": "z-hodic",
+    "from": "hodicti-z-hodic",
     "to": "cejkove-z-badenfeldu",
     "how": "koupe"
    },
@@ -4995,7 +5073,12 @@
   "wikidata": "Q339592",
   "cswiki": "https://cs.wikipedia.org/wiki/Černčičtí_z_Kácova",
   "summary": "Černčičtí z Kácova byli český panský rod řazený mezi starobylou českou aristokracii a z rozrodu Kouniců. Mezi Kounice jsou ještě řazeni Bořitové z Martinic, Rychnovští z Rychnova, páni z Ústí, z Drnholce, Stošové z Kounic a páni z Talmberka. Genealogie těchto rodů neumožňuje vzhledem k nedostatku pramenů popsat všechny osoby a rodinné vztahy. Starší údaje uváděné o Černčických z Kácova např.",
-  "related": [],
+  "related": [
+   {
+    "family": "kounicove",
+    "relation": "z rozrodu Kouniců"
+   }
+  ],
   "places": [
    {
     "place": "Q11997003",
@@ -5091,7 +5174,7 @@
    {
     "place": "Q28872964",
     "year": 1548,
-    "from": "z-rokyc",
+    "from": "strelove-z-rokyc",
     "to": "cerncicti-z-kacova",
     "how": "koupe"
    },
@@ -5410,7 +5493,7 @@
     "place": "Q1013789",
     "year": 1676,
     "from": "cerninove-z-chudenic",
-    "to": "z-albenreuthu",
+    "to": "lamingerove-z-albenreuthu",
     "how": "koupe"
    },
    {
@@ -5535,7 +5618,7 @@
    {
     "place": "Q366444",
     "year": 1668,
-    "from": "z-belasy",
+    "from": "khuen-belasi",
     "to": "cerninove-z-chudenic",
     "how": "koupe"
    },
@@ -5933,6 +6016,45 @@
     "from": "choiseul-daillecourt",
     "to": "hardekove",
     "how": "dedictvi"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
+ "chorinsti-z-ledske": {
+  "id": "chorinsti-z-ledske",
+  "type": "rod",
+  "name": "Chorinští z Ledské",
+  "related": [],
+  "wikidata": "Q11726585",
+  "cswiki": "https://cs.wikipedia.org/wiki/Chorinští_z_Ledské",
+  "coat_of_arms": "POL COA Choryński.svg",
+  "summary": "Rod Chorinských z Ledské (německy Chorinski von Ledske, polsky Choryński / Choryńscy) byl nejvýznamnějším držitelem panství Veselí nad Moravou. Na tamním panství sídlili od roku 1731 do roku 1945. Při prvním i druhém sčítání lidu v letech 1921 a 1930 disponovali Chorinští československým státním občanstvím, za protektorátu se přihlásili k německé národnosti. Po ukončení 2.",
+  "places": [
+   {
+    "place": "Q11878928",
+    "from": 1754,
+    "to": 1792,
+    "person": "Ignác Dominik Chorynský z Ledské",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q11878928",
+    "year": 1754,
+    "from": "z-tybi",
+    "to": "chorinsti-z-ledske",
+    "how": "dedictvi"
+   },
+   {
+    "place": "Q11878928",
+    "year": 1792,
+    "from": "chorinsti-z-ledske",
+    "to": "sprinzensteinove",
+    "how": "snatek"
    }
   ],
   "place_count": 1,
@@ -7211,7 +7333,12 @@
   "cswiki": "https://cs.wikipedia.org/wiki/Ditrichštejnové",
   "coat_of_arms": "Dietrichstein Coat of arms.jpg",
   "summary": "Ditrichštejnové či Ditrichsteinové nebo Dietrichsteinové jsou starý šlechtický rod původem z Korutan, spolehlivě písemně doložený až od 15. století v osobě Pankráce z Dietrichsteina (1446-1508), který se v 16. století rozdělil na rakouskou a českomoravskou linii, ale vymřel již v 19. století, kdy jméno přešlo sňatkem na jednu z větví rodu Mensdorff-Pouilly.",
-  "related": [],
+  "related": [
+   {
+    "family": "mensdorff-pouilly",
+    "relation": "dědictví přešlo sňatkem na větev Mensdorff-Pouilly"
+   }
+  ],
   "places": [
    {
     "place": "Q1011134",
@@ -7486,7 +7613,7 @@
    {
     "place": "Q12047753",
     "year": 1676,
-    "from": "z-zampachu",
+    "from": "pani-z-potstejna-a-litic",
     "to": "ditrichstejnove",
     "how": "koupe"
    },
@@ -7564,7 +7691,7 @@
     "place": "Q17167017",
     "year": 1630,
     "from": "ditrichstejnove",
-    "to": "z-hodic",
+    "to": "hodicti-z-hodic",
     "how": "koupe"
    },
    {
@@ -7681,6 +7808,45 @@
    }
   ],
   "place_count": 19,
+  "color_slot": null
+ },
+ "dlouhovesti-z-dlouhe-vsi": {
+  "id": "dlouhovesti-z-dlouhe-vsi",
+  "type": "rod",
+  "name": "Dlouhoveští z Dlouhé Vsi",
+  "related": [],
+  "wikidata": "Q64850994",
+  "cswiki": "https://cs.wikipedia.org/wiki/Dlouhoveští_z_Dlouhé_Vsi",
+  "coat_of_arms": "Blason famille cz Dlouhoveští z Dlouhé Vsi - targe.svg",
+  "summary": "Dlouhoveští z Dlouhé Vsi (často se používá podoba Dlauhoweský, někdy také z Dlouhévsi; německy Dlauhowesky von Langendorf) jsou starý český šlechtický rod pocházející z Dlouhé Vsi u Sušice (Langendorf).",
+  "places": [
+   {
+    "place": "Q10396968",
+    "from": 1629,
+    "to": 1678,
+    "person": "Veronika Přehořovská z Dlouhé Vsi",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q10396968",
+    "year": 1629,
+    "from": "marradasove",
+    "to": "dlouhovesti-z-dlouhe-vsi",
+    "how": "koupe"
+   },
+   {
+    "place": "Q10396968",
+    "year": 1678,
+    "from": "dlouhovesti-z-dlouhe-vsi",
+    "to": "kuenburgove",
+    "how": "koupe"
+   }
+  ],
+  "place_count": 1,
   "color_slot": null
  },
  "dobrensti-z-dobrenic": {
@@ -7864,6 +8030,45 @@
    }
   ],
   "place_count": 2,
+  "color_slot": null
+ },
+ "doupovcove-z-doupova": {
+  "id": "doupovcove-z-doupova",
+  "type": "rod",
+  "name": "Doupovcové z Doupova",
+  "related": [],
+  "wikidata": "Q11824449",
+  "cswiki": "https://cs.wikipedia.org/wiki/Doupovcové_z_Doupova",
+  "summary": "Doupovcové z Doupova (německy Duppauer von Tuppau) byli starý český vladycký rod, odvozující původ od zaniklého města a hradu Doupov.",
+  "coat_of_arms": "Ottův slovník naučný - obrázek č. 1211, Erb Doupovců z Doupova.png",
+  "places": [
+   {
+    "place": "Q11874519",
+    "from": 1416,
+    "to": 1471,
+    "person": "Nevlas a Jan z Doupova, později Sezema z Doupova (doložen 1454) a Jan z Doupova (doložen 1487)",
+    "how": "neznamo",
+    "from_approx": false,
+    "to_approx": true
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q11874519",
+    "year": 1416,
+    "from": "z-buskovic",
+    "to": "doupovcove-z-doupova",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q11874519",
+    "year": 1471,
+    "from": "doupovcove-z-doupova",
+    "to": "pani-z-vresovic",
+    "how": "neznamo"
+   }
+  ],
+  "place_count": 1,
   "color_slot": null
  },
  "drnovsti-z-drnovic": {
@@ -8661,6 +8866,45 @@
   "place_count": 2,
   "color_slot": null
  },
+ "elsnicove-z-elsnic": {
+  "id": "elsnicove-z-elsnic",
+  "type": "rod",
+  "name": "Elsnicové z Elsnic",
+  "related": [],
+  "wikidata": "Q116060772",
+  "cswiki": "https://cs.wikipedia.org/wiki/Elsnicové_z_Elsnic",
+  "coat_of_arms": "Oelsnitz-Wappen Sbm 1605.jpg",
+  "summary": "Elsnicové z Elsnic (německy Oelsnitz von der Oelsnitz) byl původně česko-míšeňský šlechtický rod, jehož společenské postavení bylo v předbělohorském období významné, i když se původně jednalo o nižší šlechtu. Historie rodu započala v míšeňském Krušnohoří, kde si, podle svého sídla v Oelsnitz, zvolili svůj přídomek. V roce 1426 Fridrich z Elsnic, rychtář v Königsteinu, od roku 1423 pak kurfiřt a poddaný Fridricha I.",
+  "places": [
+   {
+    "place": "Q159971",
+    "from": 1471,
+    "to": 1510,
+    "person": "Hanuš Elsnic z Elsnic",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q159971",
+    "year": 1471,
+    "from": "berkove-z-dube",
+    "to": "elsnicove-z-elsnic",
+    "how": "koupe"
+   },
+   {
+    "place": "Q159971",
+    "year": 1510,
+    "from": "elsnicove-z-elsnic",
+    "to": "pani-z-donina",
+    "how": "neznamo"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
  "engelove-z-engelsflussu": {
   "id": "engelove-z-engelsflussu",
   "type": "rod",
@@ -8947,6 +9191,44 @@
     "year": 1784,
     "from": "firmianove",
     "to": "wolkenstein-trostburkove",
+    "how": "neznamo"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
+ "firsicove-z-nabdina": {
+  "id": "firsicove-z-nabdina",
+  "type": "rod",
+  "name": "Firšicové z Nabdína",
+  "related": [],
+  "wikidata": "Q12016665",
+  "cswiki": "https://cs.wikipedia.org/wiki/Firšicové_z_Nabdína",
+  "summary": "Firšicové z Nabdína, jméno staročeské vladycké rodiny, která byla bezpochyby německého původu (snad z Prahy).",
+  "places": [
+   {
+    "place": "Q11730719",
+    "from": 1501,
+    "to": 1510,
+    "person": "Václav Firšic z Nabdína",
+    "how": "neznamo",
+    "from_approx": true,
+    "to_approx": true
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q11730719",
+    "year": 1501,
+    "from": "neznamo",
+    "to": "firsicove-z-nabdina",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q11730719",
+    "year": 1510,
+    "from": "firsicove-z-nabdina",
+    "to": "z-kamenice",
     "how": "neznamo"
    }
   ],
@@ -9273,6 +9555,45 @@
   "place_count": 6,
   "color_slot": null
  },
+ "gasinsti-z-gasina": {
+  "id": "gasinsti-z-gasina",
+  "type": "rod",
+  "name": "Gašinští z Gašina",
+  "related": [],
+  "wikidata": "Q1411937",
+  "cswiki": "https://cs.wikipedia.org/wiki/Gašinští_z_Gašina",
+  "coat_of_arms": "Gaschin-Wappen.png",
+  "summary": "Gašinští z Gašina či z Gašinu, svobodní páni z Rosenbergu (polsky Gaschinowie či Gaszyńscy, německy Grafen von Gaschin, Freiherren von und zu Rosenberg) byli starobylý polský šlechtický rod, který získal majetky na Moravě a ve Slezsku a v roce 1653 dosáhli hodnosti říšských hrabat. Díky držení panství Rosenberg (dnes Olesno) v Opolském vévodství získala rodina Gašinských v 17.",
+  "places": [
+   {
+    "place": "Q62610248",
+    "from": 1650,
+    "to": 1738,
+    "person": "Gašínové z Gašína (Georg Adam z Gašinu)",
+    "how": "neznamo",
+    "from_approx": false,
+    "to_approx": true
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q62610248",
+    "year": 1650,
+    "from": "minsterberkove",
+    "to": "gasinsti-z-gasina",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q62610248",
+    "year": 1738,
+    "from": "gasinsti-z-gasina",
+    "to": "neznamo",
+    "how": "neznamo"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
  "gellhornove": {
   "id": "gellhornove",
   "type": "rod",
@@ -9410,7 +9731,7 @@
    {
     "place": "Q11176339",
     "year": 1549,
-    "from": "z-veitmile",
+    "from": "krabicove-z-veitmile",
     "to": "gerstorfove-z-gerstorfu",
     "how": "lenni"
    },
@@ -9418,7 +9739,7 @@
     "place": "Q11176339",
     "year": 1551,
     "from": "gerstorfove-z-gerstorfu",
-    "to": "z-veitmile",
+    "to": "krabicove-z-veitmile",
     "how": "jine"
    },
    {
@@ -11410,6 +11731,89 @@
   "place_count": 2,
   "color_slot": null
  },
+ "hochhauzarove-z-hochhazu": {
+  "id": "hochhauzarove-z-hochhazu",
+  "type": "rod",
+  "name": "Hochhauzárové z Hochhazu",
+  "related": [],
+  "wikidata": "Q12019892",
+  "cswiki": "https://cs.wikipedia.org/wiki/Hochhauzárové_z_Hochhazu",
+  "summary": "Hochhauzárové z Hochhazu (též Hochhauserové z Hochhausu) je jméno vladycké rodiny pocházející z města Mostu. První známý předek Hanuš Hochhauzár z Hochhauzu byl měšťanem města Mostu a koupil roku 1439 ves Kopisty, které po něm zdědil jeho syn Melichar. Ten postoupil svůj majetek u Mostu v roce 1462 knížatům z Minsterberka. Jeho manželkou byla Marta ze Semtěše.",
+  "places": [
+   {
+    "place": "Q2241772",
+    "from": 1513,
+    "to": 1565,
+    "person": "Mikuláš Hochhauser z Hochhazu",
+    "how": "dedictvi",
+    "from_approx": true,
+    "to_approx": true
+   },
+   {
+    "place": "Q2241772",
+    "from": 1565,
+    "to": 1588,
+    "person": "Petr z Hochhazu",
+    "how": "dedictvi",
+    "from_approx": true,
+    "to_approx": true
+   },
+   {
+    "place": "Q2241772",
+    "from": 1588,
+    "to": 1593,
+    "person": "Václav z Hochhazu",
+    "how": "dedictvi",
+    "from_approx": true,
+    "to_approx": true
+   },
+   {
+    "place": "Q2241772",
+    "from": 1593,
+    "to": 1597,
+    "person": "Mikuláš z Hochhazu mladší",
+    "how": "koupe",
+    "from_approx": true,
+    "to_approx": true
+   },
+   {
+    "place": "Q2241772",
+    "from": 1597,
+    "to": 1602,
+    "person": "Jiří z Hochhazu na Albrechticích a Velemyšlevsi",
+    "how": "koupe",
+    "from_approx": true,
+    "to_approx": false
+   },
+   {
+    "place": "Q2241772",
+    "from": 1602,
+    "to": 1622,
+    "person": "Jan Mikuláš z Hochhazu",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q2241772",
+    "year": 1513,
+    "from": "z-slavic",
+    "to": "hochhauzarove-z-hochhazu",
+    "how": "dedictvi"
+   },
+   {
+    "place": "Q2241772",
+    "year": 1622,
+    "from": "hochhauzarove-z-hochhazu",
+    "to": "lichtenstejnove",
+    "how": "konfiskace"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
  "hochove": {
   "id": "hochove",
   "type": "rod",
@@ -11504,6 +11908,42 @@
     "to_approx": false
    },
    {
+    "place": "Q17167017",
+    "from": 1630,
+    "to": 1667,
+    "person": "Jiří z Hodic",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q17167017",
+    "from": 1667,
+    "to": 1686,
+    "person": "Julius Leopold z Hodic",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q17167017",
+    "from": 1686,
+    "to": 1741,
+    "person": "Karel Josef z Hodic",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": true
+   },
+   {
+    "place": "Q17167017",
+    "from": 1741,
+    "to": 1778,
+    "person": "Albert Josef hrabě z Hodic",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
     "place": "Q27733332",
     "from": 1569,
     "to": 1626,
@@ -11529,6 +11969,20 @@
     "how": "koupe"
    },
    {
+    "place": "Q17167017",
+    "year": 1630,
+    "from": "ditrichstejnove",
+    "to": "hodicti-z-hodic",
+    "how": "koupe"
+   },
+   {
+    "place": "Q17167017",
+    "year": 1779,
+    "from": "hodicti-z-hodic",
+    "to": "cejkove-z-badenfeldu",
+    "how": "koupe"
+   },
+   {
     "place": "Q27733332",
     "year": 1569,
     "from": "z-mirova",
@@ -11543,7 +11997,7 @@
     "how": "konfiskace"
    }
   ],
-  "place_count": 2,
+  "place_count": 3,
   "color_slot": null
  },
  "hoeff-huertove": {
@@ -11597,7 +12051,7 @@
     "place": "Q33323103",
     "year": 1633,
     "from": "hoeff-huertove",
-    "to": "z-pottingu",
+    "to": "pottingove-z-persingu",
     "how": "neznamo"
    }
   ],
@@ -12407,7 +12861,7 @@
    {
     "place": "Q12024521",
     "year": 1542,
-    "from": "z-veitmile",
+    "from": "krabicove-z-veitmile",
     "to": "hrzanove-z-harasova",
     "how": "koupe"
    },
@@ -12497,6 +12951,67 @@
    }
   ],
   "place_count": 1,
+  "color_slot": null
+ },
+ "hulerove-z-orlika": {
+  "id": "hulerove-z-orlika",
+  "type": "rod",
+  "name": "Hulerové z Orlíka",
+  "related": [],
+  "wikidata": "Q12020910",
+  "cswiki": "https://cs.wikipedia.org/wiki/Hulerové_z_Orlíka",
+  "summary": "Hulerové byli měšťanský rod pocházející z Chebu, později přesídlili do Prahy. Na začátku 14. století zbohatli díky obchodování se suknem. Nejznámějším představitelem rodu byl Zikmund Huler z Orlíka. Hulerové vymřeli roku 1460 v Chebu.",
+  "places": [
+   {
+    "place": "Q12024521",
+    "from": 1390,
+    "to": 1401,
+    "person": "Zikmund Huler z Orlíku, podkomoří",
+    "how": "dar",
+    "from_approx": false,
+    "to_approx": true
+   },
+   {
+    "place": "Q1421237",
+    "from": 1406,
+    "to": 1410,
+    "person": "Ondřej Huler z Orlíka",
+    "how": "neznamo",
+    "from_approx": false,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q12024521",
+    "year": 1390,
+    "from": "jenstejnove",
+    "to": "hulerove-z-orlika",
+    "how": "dar"
+   },
+   {
+    "place": "Q12024521",
+    "year": 1401,
+    "from": "hulerove-z-orlika",
+    "to": "z-cernic",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q1421237",
+    "year": 1406,
+    "from": "buzici",
+    "to": "hulerove-z-orlika",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q1421237",
+    "year": 1410,
+    "from": "hulerove-z-orlika",
+    "to": "koruna",
+    "how": "koupe"
+   }
+  ],
+  "place_count": 2,
   "color_slot": null
  },
  "hyrspergarove": {
@@ -12807,6 +13322,7 @@
   "cswiki": "https://cs.wikipedia.org/wiki/Jankovští_z_Vlašimi",
   "summary": "Jankovští z Vlašimi jsou někdejší rytířský a od roku 1615 panský český rod. Svůj přídomek odvozovali od středočeského městečka Jankov a přídomek podle nedalekého města Vlašim, respektive zdejšího stejnojmenného hradu (dnes zámku). Později se rozdělil na několik větví a přesídlila na Moravu, kde rod v 18. století vymřel.",
   "related": [],
+  "coat_of_arms": "Jankovsky COA 1755.jpg",
   "places": [
    {
     "place": "Q1011302",
@@ -12880,6 +13396,15 @@
     "to_approx": true
    },
    {
+    "place": "Q12024521",
+    "from": 1341,
+    "to": 1368,
+    "person": "Jenec z Janovic",
+    "how": "zalozeni",
+    "from_approx": true,
+    "to_approx": true
+   },
+   {
     "place": "Q12045172",
     "from": 1358,
     "to": 1483,
@@ -12932,6 +13457,13 @@
     "how": "lenni"
    },
    {
+    "place": "Q12024521",
+    "year": 1368,
+    "from": "janovici",
+    "to": "jenstejnove",
+    "how": "koupe"
+   },
+   {
     "place": "Q12045172",
     "year": 1358,
     "from": "pani-z-vrtby",
@@ -12981,7 +13513,7 @@
     "how": "koupe"
    }
   ],
-  "place_count": 5,
+  "place_count": 6,
   "color_slot": null
  },
  "janovsti-z-janovic": {
@@ -12991,7 +13523,12 @@
   "wikidata": "Q12023530",
   "cswiki": "https://cs.wikipedia.org/wiki/Janovští_z_Janovic",
   "summary": "Janovští z Janovic (staročesky Janowský z Janowicz a Klenowýho, německy Janowsky von Janowitz und Klenau) jsou starý český panský rod, jehož panství se rozkládalo v západních Čechách na Klatovsku. Mají společné předky s hrabaty Klenovskými z Klenové (německy Klenowsky von Klenau), kteří jsou nejmladší linií rodu a přijali jméno podle svého hradu Klenová stojícího blízko Janovic nad Úhlavou.",
-  "related": [],
+  "related": [
+   {
+    "family": "janovici",
+    "relation": "jiný rod stejného jména z Klatovska (ne větev Janoviců od Sedlčan)"
+   }
+  ],
   "coat_of_arms": "Páni z Janovic a Klenové - coat of arms.png",
   "places": [
    {
@@ -13081,13 +13618,13 @@
     "place": "Q1013457",
     "year": 1470,
     "from": "janovsti-z-janovic",
-    "to": "z-besin",
+    "to": "besinove-z-besin",
     "how": "koupe"
    },
    {
     "place": "Q1013457",
     "year": 1491,
-    "from": "z-besin",
+    "from": "besinove-z-besin",
     "to": "janovsti-z-janovic",
     "how": "neznamo"
    },
@@ -13168,7 +13705,7 @@
    {
     "place": "Q1421237",
     "year": 1623,
-    "from": "z-loksan",
+    "from": "loksanove-z-loksan",
     "to": "jeniskove-z-ujezda",
     "how": "koupe"
    },
@@ -13234,7 +13771,7 @@
    {
     "place": "Q12024521",
     "year": 1368,
-    "from": "z-janovic",
+    "from": "janovici",
     "to": "jenstejnove",
     "how": "koupe"
    },
@@ -13242,13 +13779,13 @@
     "place": "Q12024521",
     "year": 1390,
     "from": "jenstejnove",
-    "to": "z-orlika",
+    "to": "hulerove-z-orlika",
     "how": "dar"
    },
    {
     "place": "Q12042921",
     "year": 1396,
-    "from": "pani-z-dube",
+    "from": "pani-z-dube-benesovici",
     "to": "jenstejnove",
     "how": "snatek"
    },
@@ -13421,7 +13958,7 @@
     "place": "Q28872964",
     "year": 1623,
     "from": "kalenicove-z-kalenic",
-    "to": "z-perglasu",
+    "to": "perglarove-z-perglasu",
     "how": "koupe"
    }
   ],
@@ -13497,6 +14034,68 @@
    }
   ],
   "place_count": 2,
+  "color_slot": null
+ },
+ "kalnokyove-z-korospataku": {
+  "id": "kalnokyove-z-korospataku",
+  "type": "rod",
+  "name": "Kálnokyové z Kőröspataku",
+  "related": [],
+  "wikidata": "Q264081",
+  "cswiki": "https://cs.wikipedia.org/wiki/Kálnokyové_z_Kőröspataku",
+  "coat_of_arms": "Wappen der Grafen Kálnoky von Koröspatak.jpg",
+  "summary": "Kálnokyové z Kőröspataku (Kálnoky von Kőröspatak) jsou šlechtický rod původem ze Sedmihradska. Od roku 1697 jim náleží titul uherských hrabat. Z původně bohatě rozvětveného rodu existuje dodnes jen jedna linie, která se v 19. století usadila na Moravě, kde byly jejími sídly zámky v Letovicích a v Brodku u Prostějova.",
+  "places": [
+   {
+    "place": "Q12033148",
+    "from": 1820,
+    "to": 1945,
+    "person": "rodina Kálnokyů z Kőröspataku",
+    "how": "dedictvi",
+    "from_approx": true,
+    "to_approx": false
+   },
+   {
+    "place": "Q12033148",
+    "from": 2001,
+    "to": 2004,
+    "person": "Alexandr Kálnoky ml.",
+    "how": "restituce",
+    "from_approx": true,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q12033148",
+    "year": 1820,
+    "from": "blumegenove",
+    "to": "kalnokyove-z-korospataku",
+    "how": "dedictvi"
+   },
+   {
+    "place": "Q12033148",
+    "year": 1945,
+    "from": "kalnokyove-z-korospataku",
+    "to": "mesto",
+    "how": "konfiskace"
+   },
+   {
+    "place": "Q12033148",
+    "year": 2001,
+    "from": "mesto",
+    "to": "kalnokyove-z-korospataku",
+    "how": "restituce"
+   },
+   {
+    "place": "Q12033148",
+    "year": 2004,
+    "from": "kalnokyove-z-korospataku",
+    "to": "soukromnik",
+    "how": "koupe"
+   }
+  ],
+  "place_count": 1,
   "color_slot": null
  },
  "kamencove-ze-strizovic-a-cakovic": {
@@ -13855,7 +14454,7 @@
    {
     "place": "Q11176339",
     "year": 1554,
-    "from": "z-veitmile",
+    "from": "krabicove-z-veitmile",
     "to": "karlovicove-z-karlovic",
     "how": "koupe"
    },
@@ -13990,6 +14589,45 @@
    }
   ],
   "place_count": 4,
+  "color_slot": null
+ },
+ "khuen-belasi": {
+  "id": "khuen-belasi",
+  "type": "rod",
+  "name": "Khuen-Belasi",
+  "related": [],
+  "wikidata": "Q1453035",
+  "cswiki": "https://cs.wikipedia.org/wiki/Khuen-Belasi",
+  "coat_of_arms": "Brasão Khuen Belasi.jpg",
+  "summary": "Rod Khuen-Belasi (původně Khuen, Khuon, Khun) je starý rakouský šlechtický rod, který pochází z Tyrolského hrabství. Jeho členové byli držiteli říšského hraběcího titulu, který jim 30. října 1630 udělil Ferdinand II., císař Svaté říše římské.",
+  "places": [
+   {
+    "place": "Q366444",
+    "from": 1639,
+    "to": 1668,
+    "person": "Jakub Khuen z Belasy",
+    "how": "neznamo",
+    "from_approx": false,
+    "to_approx": true
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q366444",
+    "year": 1639,
+    "from": "z-lichtenegga",
+    "to": "khuen-belasi",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q366444",
+    "year": 1668,
+    "from": "khuen-belasi",
+    "to": "cerninove-z-chudenic",
+    "how": "koupe"
+   }
+  ],
+  "place_count": 1,
   "color_slot": null
  },
  "kinsti": {
@@ -14513,7 +15151,12 @@
   "cswiki": "https://cs.wikipedia.org/wiki/Klenovští_z_Klenové",
   "coat_of_arms": "Páni z Janovic a Klenové - coat of arms.png",
   "summary": "Klenovští z Klenové též Klenovští z Klenového a Janovic (německy Klenowsky von Klenau nebo von Klenau und Janowitz), rytíři, páni a později hrabata, patřili k významným českým šlechtický rodům. Klenovští z Klenové jsou stejného původu jako Janovští z Janovic, genealogicky jsou nejmladší odnoží tohoto rodu. Podobné jméno nesli i vladykové Klenovští, kteří však měli přídomek ze Ptení a jiný erb.",
-  "related": [],
+  "related": [
+   {
+    "family": "janovsti-z-janovic",
+    "relation": "nejmladší linie rodu Janovských z Janovic"
+   }
+  ],
   "places": [
    {
     "place": "Q1014408",
@@ -14693,6 +15336,44 @@
   "place_count": 2,
   "color_slot": null
  },
+ "kocovsti-z-kocova": {
+  "id": "kocovsti-z-kocova",
+  "type": "rod",
+  "name": "Kočovští z Kočova",
+  "related": [],
+  "wikidata": "Q135105833",
+  "cswiki": "https://cs.wikipedia.org/wiki/Kočovští_z_Kočova",
+  "summary": "Kočovští z Kočova či též Kocovští z Kocova byli český vladycký a rytířský rod ze jihozápadních Čech.",
+  "places": [
+   {
+    "place": "Q14435327",
+    "from": 1411,
+    "to": 1446,
+    "person": "Radslav z Kočova",
+    "how": "neznamo",
+    "from_approx": true,
+    "to_approx": true
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q14435327",
+    "year": 1411,
+    "from": "z-porici",
+    "to": "kocovsti-z-kocova",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q14435327",
+    "year": 1446,
+    "from": "kocovsti-z-kocova",
+    "to": "z-nekmire",
+    "how": "koupe"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
  "kokorovcove-z-kokorova": {
   "id": "kokorovcove-z-kokorova",
   "type": "rod",
@@ -14771,6 +15452,10 @@
    {
     "family": "kolowrat-krakowsti",
     "relation": "větev (Krakovští z Kolovrat)"
+   },
+   {
+    "family": "janovici",
+    "relation": "pocházejí z rozrodu Janoviců"
    }
   ],
   "places": [
@@ -14973,7 +15658,7 @@
     "place": "Q10816658",
     "year": 1529,
     "from": "kolovratove",
-    "to": "z-landstejna",
+    "to": "landstejnove",
     "how": "koupe"
    },
    {
@@ -15028,7 +15713,7 @@
    {
     "place": "Q1373051",
     "year": 1573,
-    "from": "z-chys",
+    "from": "petipesti-z-chys-a-egerberka",
     "to": "kolovratove",
     "how": "neznamo"
    },
@@ -15099,7 +15784,7 @@
     "place": "Q28872964",
     "year": 1547,
     "from": "kolovratove",
-    "to": "z-rokyc",
+    "to": "strelove-z-rokyc",
     "how": "koupe"
    },
    {
@@ -15331,7 +16016,7 @@
    {
     "place": "Q20428299",
     "year": 1624,
-    "from": "z-vidrsperku",
+    "from": "vidrspergarove-z-vidrspergu",
     "to": "kolowrat-krakowsti",
     "how": "snatek"
    },
@@ -15359,7 +16044,7 @@
    {
     "place": "Q366439",
     "year": 1443,
-    "from": "z-tesnice",
+    "from": "blehove-z-tesnice",
     "to": "kolowrat-krakowsti",
     "how": "koupe"
    },
@@ -15472,7 +16157,7 @@
     "place": "Q11176339",
     "year": 1472,
     "from": "konipasove",
-    "to": "z-ocedelic",
+    "to": "ojirove-z-ocedelic",
     "how": "koupe"
    }
   ],
@@ -15639,7 +16324,7 @@
     "place": "Q1012308",
     "year": 1467,
     "from": "kostkove-z-postupic",
-    "to": "z-landstejna",
+    "to": "landstejnove",
     "how": "koupe"
    },
    {
@@ -15833,6 +16518,114 @@
    }
   ],
   "place_count": 6,
+  "color_slot": null
+ },
+ "krabicove-z-veitmile": {
+  "id": "krabicove-z-veitmile",
+  "type": "rod",
+  "name": "Krabicové z Veitmile",
+  "related": [],
+  "wikidata": "Q2556683",
+  "cswiki": "https://cs.wikipedia.org/wiki/Krabicové_z_Veitmile",
+  "coat_of_arms": "Coat of arms of Weitmühl family.svg",
+  "summary": "Krabicové z Veitmile (též z Weitmile, Vajtmile, německy Krabitz von Weitmühl) [vajtmile] jsou stará česká vladycká rodina (původem z Durynska), která později povýšila do panského stavu. Přídomek odvozovali od tvrze Veitmile u Starých Smrkovic nedaleko Nového Bydžova.",
+  "places": [
+   {
+    "place": "Q1014187",
+    "from": 1319,
+    "to": 1319,
+    "person": "Pešík z Veitmile",
+    "how": "lenni",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q11176339",
+    "from": 1516,
+    "to": 1549,
+    "person": "Anna Glacová, provdaná za Šebestiána z Veitmile",
+    "how": "snatek",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q11176339",
+    "from": 1551,
+    "to": 1554,
+    "person": "Jan z Veitmile",
+    "how": "jine",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q12024521",
+    "from": 1541,
+    "to": 1542,
+    "person": "Hynek Krabice z Veitmile, místopisař",
+    "how": "neznamo",
+    "from_approx": false,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q1014187",
+    "year": 1319,
+    "from": "koruna",
+    "to": "krabicove-z-veitmile",
+    "how": "lenni"
+   },
+   {
+    "place": "Q1014187",
+    "year": 1319,
+    "from": "krabicove-z-veitmile",
+    "to": "vartenberkove",
+    "how": "lenni"
+   },
+   {
+    "place": "Q11176339",
+    "year": 1516,
+    "from": "z-stareho-dvora",
+    "to": "krabicove-z-veitmile",
+    "how": "snatek"
+   },
+   {
+    "place": "Q11176339",
+    "year": 1549,
+    "from": "krabicove-z-veitmile",
+    "to": "gerstorfove-z-gerstorfu",
+    "how": "lenni"
+   },
+   {
+    "place": "Q11176339",
+    "year": 1551,
+    "from": "gerstorfove-z-gerstorfu",
+    "to": "krabicove-z-veitmile",
+    "how": "jine"
+   },
+   {
+    "place": "Q11176339",
+    "year": 1554,
+    "from": "krabicove-z-veitmile",
+    "to": "karlovicove-z-karlovic",
+    "how": "koupe"
+   },
+   {
+    "place": "Q12024521",
+    "year": 1541,
+    "from": "z-usavy",
+    "to": "krabicove-z-veitmile",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q12024521",
+    "year": 1542,
+    "from": "krabicove-z-veitmile",
+    "to": "hrzanove-z-harasova",
+    "how": "koupe"
+   }
+  ],
+  "place_count": 3,
   "color_slot": null
  },
  "krajirove-z-krajku": {
@@ -16282,7 +17075,12 @@
   "wikidata": "Q1545385",
   "cswiki": "https://cs.wikipedia.org/wiki/Křinečtí_z_Ronova",
   "summary": "Křinečtí z Ronova (německy Krzineczky von Ronow und Biberstein) byli starý český panský rod patřící do rozrodu severočeských Ronovců. V pobělohorské době emigrovali do Saska. Od roku 1670, kdy získali titul říšských hrabat, používali predikát z Ronova a Biberštejna.",
-  "related": [],
+  "related": [
+   {
+    "family": "ronovci",
+    "relation": "rozrod severočeských Ronovců"
+   }
+  ],
   "places": [
    {
     "place": "Q31144977",
@@ -16430,7 +17228,7 @@
    {
     "place": "Q10396968",
     "year": 1678,
-    "from": "z-dlouhe-vsi",
+    "from": "dlouhovesti-z-dlouhe-vsi",
     "to": "kuenburgove",
     "how": "koupe"
    },
@@ -16614,6 +17412,68 @@
   "place_count": 3,
   "color_slot": null
  },
+ "lamingerove-z-albenreuthu": {
+  "id": "lamingerove-z-albenreuthu",
+  "type": "rod",
+  "name": "Lamingerové z Albenreuthu",
+  "related": [],
+  "wikidata": "Q1801617",
+  "cswiki": "https://cs.wikipedia.org/wiki/Lamingerové_z_Albenreuthu",
+  "coat_of_arms": "Lamminger Siebmacher.JPG",
+  "summary": "Lamingerové či Lamingenové z Albenreuthu (německy Lamminger von Albenreuth, též Lomaner, či Laminger) byl původně ministeriální šlechtický rod původem z Bavorska, kteří od 16. století měli v držení statky i v západních Čechách. Byli příbuzní s rodem Hertenbergů z Hartenbergu v Čechách (česky Hřebeny).",
+  "places": [
+   {
+    "place": "Q1013789",
+    "from": 1676,
+    "to": 1697,
+    "person": "Volf Maxmilián Laminger z Albenreuthu (Lomikar)",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q21587658",
+    "from": 1621,
+    "to": 1671,
+    "person": "Wolf Vilém Laminger z Albenreuthu (Lomikar)",
+    "how": "konfiskace",
+    "from_approx": false,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q1013789",
+    "year": 1676,
+    "from": "cerninove-z-chudenic",
+    "to": "lamingerove-z-albenreuthu",
+    "how": "koupe"
+   },
+   {
+    "place": "Q1013789",
+    "year": 1697,
+    "from": "lamingerove-z-albenreuthu",
+    "to": "stadionove",
+    "how": "koupe"
+   },
+   {
+    "place": "Q21587658",
+    "year": 1621,
+    "from": "mesto",
+    "to": "lamingerove-z-albenreuthu",
+    "how": "konfiskace"
+   },
+   {
+    "place": "Q21587658",
+    "year": 1671,
+    "from": "lamingerove-z-albenreuthu",
+    "to": "mesto",
+    "how": "vymena"
+   }
+  ],
+  "place_count": 2,
+  "color_slot": null
+ },
  "lamottove-z-frintropu": {
   "id": "lamottove-z-frintropu",
   "type": "rod",
@@ -16662,6 +17522,15 @@
   ],
   "places": [
    {
+    "place": "Q1012308",
+    "from": 1467,
+    "to": 1474,
+    "person": "Jiřík z Landštejna",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
     "place": "Q1012998",
     "from": 1379,
     "to": 1404,
@@ -16678,6 +17547,24 @@
     "how": "neznamo",
     "from_approx": true,
     "to_approx": true
+   },
+   {
+    "place": "Q10816658",
+    "from": 1529,
+    "to": 1576,
+    "person": "Mikuláš Sviták z Landštejna, poté bratr Vilém Sviták z Landštejna",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q10816658",
+    "from": 1582,
+    "to": 1589,
+    "person": "Vilém Sviták z Landštejna",
+    "how": "jine",
+    "from_approx": true,
+    "to_approx": false
    },
    {
     "place": "Q11706363",
@@ -16781,6 +17668,20 @@
   ],
   "transfers": [
    {
+    "place": "Q1012308",
+    "year": 1467,
+    "from": "kostkove-z-postupic",
+    "to": "landstejnove",
+    "how": "koupe"
+   },
+   {
+    "place": "Q1012308",
+    "year": 1474,
+    "from": "landstejnove",
+    "to": "pernstejnove",
+    "how": "koupe"
+   },
+   {
     "place": "Q1012998",
     "year": 1379,
     "from": "pani-z-kunstatu-a-podebrad",
@@ -16807,6 +17708,34 @@
     "from": "landstejnove",
     "to": "rozmberkove",
     "how": "neznamo"
+   },
+   {
+    "place": "Q10816658",
+    "year": 1529,
+    "from": "kolovratove",
+    "to": "landstejnove",
+    "how": "koupe"
+   },
+   {
+    "place": "Q10816658",
+    "year": 1576,
+    "from": "landstejnove",
+    "to": "z-saleku",
+    "how": "koupe"
+   },
+   {
+    "place": "Q10816658",
+    "year": 1582,
+    "from": "z-saleku",
+    "to": "landstejnove",
+    "how": "jine"
+   },
+   {
+    "place": "Q10816658",
+    "year": 1589,
+    "from": "landstejnove",
+    "to": "z-ronsperka",
+    "how": "koupe"
    },
    {
     "place": "Q11706363",
@@ -16893,7 +17822,7 @@
     "how": "neznamo"
    }
   ],
-  "place_count": 9,
+  "place_count": 11,
   "color_slot": null
  },
  "laniusove-z-wellenburgu": {
@@ -17896,7 +18825,12 @@
   "cswiki": "https://cs.wikipedia.org/wiki/Lichtenburkové",
   "coat_of_arms": "Coat of arms of Páni z Lichtenburka.svg",
   "summary": "Páni z Lichtenburka (též z Lichtemburka) byli starým českým panským rodem, jednou z větví Ronovců (spolu s pány z Lipé, Berky z Dubé, pány z Pirkštejna a pány z Klinštejna). Nazývali se podle hradu Lichtenburka - česky Lichnice. Ve 13. století patřili k nejvýznamnějším a nejbohatším šlechtickým rodům v zemi, a to zejména díky stříbrným dolům na jejich havlíčkobrodském panství. Počátkem 14.",
-  "related": [],
+  "related": [
+   {
+    "family": "ronovci",
+    "relation": "větev Ronovců"
+   }
+  ],
   "places": [
    {
     "place": "Q1011302",
@@ -18083,7 +19017,7 @@
     "place": "Q1012914",
     "year": 1422,
     "from": "lichtenburkove",
-    "to": "z-opocna",
+    "to": "pani-z-dobrusky-a-opocna",
     "how": "lenni"
    },
    {
@@ -19008,7 +19942,7 @@
    {
     "place": "Q2241772",
     "year": 1622,
-    "from": "z-hochhazu",
+    "from": "hochhauzarove-z-hochhazu",
     "to": "lichtenstejnove",
     "how": "konfiskace"
    },
@@ -20639,6 +21573,63 @@
   "place_count": 40,
   "color_slot": 2
  },
+ "loksanove-z-loksan": {
+  "id": "loksanove-z-loksan",
+  "type": "rod",
+  "name": "Lokšanové z Lokšan",
+  "related": [],
+  "wikidata": "Q12033865",
+  "cswiki": "https://cs.wikipedia.org/wiki/Lokšanové_z_Lokšan",
+  "coat_of_arms": "COA Lokšanové z Lokšan.png",
+  "summary": "Lokšanové z Lokšan byl slezský rytířský rod, který do Čech přišel v první polovině 16. století.",
+  "places": [
+   {
+    "place": "Q1421237",
+    "from": 1548,
+    "to": 1551,
+    "person": "Jiří z Lokšan, říšský místokancléř",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q1421237",
+    "from": 1551,
+    "to": 1587,
+    "person": "Kateřina Lokšanská z Lokšan, rozená Adlerová",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": true
+   },
+   {
+    "place": "Q1421237",
+    "from": 1587,
+    "to": 1623,
+    "person": "potomci Lokšanů (vnuk Ferdinand, od dělení 1607 jeho synové Adam, Václav a Jiří, kteří drželi panství společně)",
+    "how": "dedictvi",
+    "from_approx": true,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q1421237",
+    "year": 1548,
+    "from": "koruna",
+    "to": "loksanove-z-loksan",
+    "how": "koupe"
+   },
+   {
+    "place": "Q1421237",
+    "year": 1623,
+    "from": "loksanove-z-loksan",
+    "to": "jeniskove-z-ujezda",
+    "how": "koupe"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
  "losyove-z-losinthalu": {
   "id": "losyove-z-losinthalu",
   "type": "rod",
@@ -21400,7 +22391,7 @@
     "place": "Q10396968",
     "year": 1629,
     "from": "marradasove",
-    "to": "z-dlouhe-vsi",
+    "to": "dlouhovesti-z-dlouhe-vsi",
     "how": "koupe"
    },
    {
@@ -22302,7 +23293,7 @@
     "place": "Q62610248",
     "year": 1650,
     "from": "minsterberkove",
-    "to": "z-gasinu",
+    "to": "gasinsti-z-gasina",
     "how": "neznamo"
    }
   ],
@@ -22747,7 +23738,12 @@
   "id": "mracti-z-dube",
   "type": "rod",
   "name": "mracti-z-dube",
-  "related": [],
+  "related": [
+   {
+    "family": "pani-z-dube-benesovici",
+    "relation": "větev pánů z Dubé (Benešovici), založil Petr, syn Ondřeje"
+   }
+  ],
   "places": [
    {
     "place": "Q10396968",
@@ -22780,7 +23776,7 @@
     "place": "Q10396968",
     "year": 1586,
     "from": "mracti-z-dube",
-    "to": "z-lisova",
+    "to": "spanovsti-z-lisova",
     "how": "koupe"
    }
   ],
@@ -23176,7 +24172,7 @@
     "place": "Q12047753",
     "year": 1658,
     "from": "nosticove",
-    "to": "z-zampachu",
+    "to": "pani-z-potstejna-a-litic",
     "how": "koupe"
    },
    {
@@ -23341,6 +24337,77 @@
   "place_count": 1,
   "color_slot": null
  },
+ "ojirove-z-ocedelic": {
+  "id": "ojirove-z-ocedelic",
+  "type": "rod",
+  "name": "Ojířové z Očedělic",
+  "related": [],
+  "wikidata": "Q12042302",
+  "cswiki": "https://cs.wikipedia.org/wiki/Ojířové_z_Očedělic",
+  "summary": "Ojířové z Očedělic byl český šlechtický, respektive vladycký rod. Psali se po vsi Očedělice (německy Dreihöfen) u Verušiček, ale Antonín Profous spojil název Očedělice s vesnicemi Horní a Dolní Záhoří.",
+  "coat_of_arms": "Páni z Očedělic - coat of arms.png",
+  "places": [
+   {
+    "place": "Q11176339",
+    "from": 1472,
+    "to": 1473,
+    "person": "Bedřich Ojíř z Očedělic",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q12024521",
+    "from": 1502,
+    "to": 1507,
+    "person": "Bohuslav Ojíř z Očedělic",
+    "how": "neznamo",
+    "from_approx": true,
+    "to_approx": true
+   },
+   {
+    "place": "Q12024521",
+    "from": 1507,
+    "to": 1514,
+    "person": "Jan Ojíř z Očedělic",
+    "how": "neznamo",
+    "from_approx": false,
+    "to_approx": true
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q11176339",
+    "year": 1472,
+    "from": "konipasove",
+    "to": "ojirove-z-ocedelic",
+    "how": "koupe"
+   },
+   {
+    "place": "Q11176339",
+    "year": 1473,
+    "from": "ojirove-z-ocedelic",
+    "to": "z-stareho-dvora",
+    "how": "koupe"
+   },
+   {
+    "place": "Q12024521",
+    "year": 1502,
+    "from": "z-kosina",
+    "to": "ojirove-z-ocedelic",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q12024521",
+    "year": 1514,
+    "from": "ojirove-z-ocedelic",
+    "to": "z-plotist",
+    "how": "neznamo"
+   }
+  ],
+  "place_count": 2,
+  "color_slot": null
+ },
  "okelly": {
   "id": "okelly",
   "type": "rod",
@@ -23371,6 +24438,45 @@
     "from": "okelly",
     "to": "rumerskirchove",
     "how": "neznamo"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
+ "okrouhlicti-z-knenic": {
+  "id": "okrouhlicti-z-knenic",
+  "type": "rod",
+  "name": "Okrouhličtí z Kněnic",
+  "related": [],
+  "wikidata": "Q12042326",
+  "cswiki": "https://cs.wikipedia.org/wiki/Okrouhličtí_z_Kněnic",
+  "summary": "Okrouhličtí z Kněnic je příjmení původně staromoravské vladycké rodiny, která byla stejného rodu jako páni z Drahotuš a z Holštejna. V průběhu 16. století jsou doloženi zejména v Čechách.",
+  "coat_of_arms": "Okrouhlický z Kněnic - coat of arms.png",
+  "places": [
+   {
+    "place": "Q1013014",
+    "from": 1558,
+    "to": 1562,
+    "person": "Václav Okrouhlický starší z Kněnic",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q1013014",
+    "year": 1558,
+    "from": "wittelsbachove",
+    "to": "okrouhlicti-z-knenic",
+    "how": "koupe"
+   },
+   {
+    "place": "Q1013014",
+    "year": 1562,
+    "from": "okrouhlicti-z-knenic",
+    "to": "bubnove-z-litic",
+    "how": "koupe"
    }
   ],
   "place_count": 1,
@@ -23806,6 +24912,44 @@
   "place_count": 1,
   "color_slot": null
  },
+ "otmarove-z-holohlav": {
+  "id": "otmarove-z-holohlav",
+  "type": "rod",
+  "name": "Otmarové z Holohlav",
+  "related": [],
+  "wikidata": "Q12043252",
+  "cswiki": "https://cs.wikipedia.org/wiki/Otmarové_z_Holohlav",
+  "summary": "Otmarové z Holohlav byli český šlechtický rod žijící převážně na Královéhradecku a Chrudimsku. Patřili k vladyckému stavu a vymřeli patrně v 17. století.",
+  "places": [
+   {
+    "place": "Q13219408",
+    "from": 1588,
+    "to": 1599,
+    "person": "Otomar z Holohlav",
+    "how": "neznamo",
+    "from_approx": false,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q13219408",
+    "year": 1588,
+    "from": "soukromnik",
+    "to": "otmarove-z-holohlav",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q13219408",
+    "year": 1599,
+    "from": "otmarove-z-holohlav",
+    "to": "benedove-z-nectin",
+    "how": "neznamo"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
  "paarove": {
   "id": "paarove",
   "type": "rod",
@@ -23900,7 +25044,7 @@
     "place": "Q16162067",
     "year": 1886,
     "from": "pachtove-z-rajova",
-    "to": "z-schirndingu",
+    "to": "schirndingerove-ze-schirndingu",
     "how": "neznamo"
    }
   ],
@@ -24833,6 +25977,68 @@
   "place_count": 15,
   "color_slot": null
  },
+ "pani-z-dobrusky-a-opocna": {
+  "id": "pani-z-dobrusky-a-opocna",
+  "type": "rod",
+  "name": "Páni z Dobrušky a Opočna",
+  "related": [],
+  "wikidata": "Q1233572",
+  "cswiki": "https://cs.wikipedia.org/wiki/Páni_z_Dobrušky_a_Opočna",
+  "coat_of_arms": "Ottův slovník naučný - obrázek č. 1187, Erb pánů z Dobrušky a Opočna.png",
+  "summary": "Páni z Dobrušky a Opočna byli starý český šlechtický rod, jehož državy byly převážně ve východních Čechách.",
+  "places": [
+   {
+    "place": "Q1012914",
+    "from": 1394,
+    "to": 1397,
+    "person": "Štěpán z Opočna",
+    "how": "lenni",
+    "from_approx": false,
+    "to_approx": true
+   },
+   {
+    "place": "Q1012914",
+    "from": 1422,
+    "to": 1429,
+    "person": "Jan Městecký z Opočna",
+    "how": "lenni",
+    "from_approx": false,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q1012914",
+    "year": 1394,
+    "from": "koruna",
+    "to": "pani-z-dobrusky-a-opocna",
+    "how": "lenni"
+   },
+   {
+    "place": "Q1012914",
+    "year": 1397,
+    "from": "pani-z-dobrusky-a-opocna",
+    "to": "neznamo",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q1012914",
+    "year": 1422,
+    "from": "lichtenburkove",
+    "to": "pani-z-dobrusky-a-opocna",
+    "how": "lenni"
+   },
+   {
+    "place": "Q1012914",
+    "year": 1429,
+    "from": "pani-z-dobrusky-a-opocna",
+    "to": "z-rusinova",
+    "how": "konfiskace"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
  "pani-z-donina": {
   "id": "pani-z-donina",
   "type": "rod",
@@ -24930,7 +26136,7 @@
    {
     "place": "Q159971",
     "year": 1510,
-    "from": "z-elsnic",
+    "from": "elsnicove-z-elsnic",
     "to": "pani-z-donina",
     "how": "neznamo"
    },
@@ -24987,7 +26193,12 @@
   "wikidata": "Q12047707",
   "cswiki": "https://cs.wikipedia.org/wiki/Páni_z_Doubravice",
   "summary": "Páni z Doubravice byli starobylým moravským rodem, který byl odnoží Benešovců. Za zakladatele rodu je považován Zbyněk z Doubravice, který se účastnil výpravy Jana Lucemburského do Rakous. V roce 1331 se účastnil bitvy u Treffenu, při které padl. Pochován byl v Kremži, kde mu byl vystavěn pomník. Jeho potomci obdrželi od krále za tyto služby Doubravici.",
-  "related": [],
+  "related": [
+   {
+    "family": "benesovici",
+    "relation": "odnož Benešoviců"
+   }
+  ],
   "places": [
    {
     "place": "Q12058615",
@@ -25016,6 +26227,67 @@
    }
   ],
   "place_count": 1,
+  "color_slot": null
+ },
+ "pani-z-drahotus": {
+  "id": "pani-z-drahotus",
+  "type": "rod",
+  "name": "Páni z Drahotuš",
+  "related": [],
+  "wikidata": "Q12047709",
+  "cswiki": "https://cs.wikipedia.org/wiki/Páni_z_Drahotuš",
+  "summary": "Páni z Drahotuš byli významným moravským rodem, který koncem 14. století přesídlil na Opavsko, kde žil až do první poloviny 17. století.",
+  "places": [
+   {
+    "place": "Q30860008",
+    "from": 1372,
+    "to": 1594,
+    "person": null,
+    "how": "vymena",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q916931",
+    "from": 1398,
+    "to": 1407,
+    "person": "Čeněk z Drahotuš, poté jeho dcery zvané \"panny cimburské\"",
+    "how": "lenni",
+    "from_approx": false,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q30860008",
+    "year": 1372,
+    "from": "benesovici",
+    "to": "pani-z-drahotus",
+    "how": "vymena"
+   },
+   {
+    "place": "Q30860008",
+    "year": 1594,
+    "from": "pani-z-drahotus",
+    "to": "sipove-z-branice",
+    "how": "dedictvi"
+   },
+   {
+    "place": "Q916931",
+    "year": 1398,
+    "from": "z-letovic",
+    "to": "pani-z-drahotus",
+    "how": "lenni"
+   },
+   {
+    "place": "Q916931",
+    "year": 1407,
+    "from": "pani-z-drahotus",
+    "to": "pani-z-holstejna",
+    "how": "jine"
+   }
+  ],
+  "place_count": 2,
   "color_slot": null
  },
  "pani-z-drazic": {
@@ -25073,14 +26345,68 @@
   "place_count": 2,
   "color_slot": null
  },
- "pani-z-dube": {
-  "id": "pani-z-dube",
+ "pani-z-dube-benesovici": {
+  "id": "pani-z-dube-benesovici",
   "type": "rod",
-  "name": "Páni z Dubé",
-  "wikidata": "Q12047708",
-  "cswiki": "https://cs.wikipedia.org/wiki/Páni_z_Dubé",
-  "summary": "S přídomkem z Dubé se psaly dvě české nepříbuzné šlechtické rodiny: Páni z Dubé (Benešovici) s erbem zavinuté střely, z (Staré) Dubé v Posázaví Páni z Dubé (Ronovci) s erbem zkřížených ostrví, z Dubé na Českolipsku",
-  "related": [],
+  "name": "Páni z Dubé (Benešovici)",
+  "related": [
+   {
+    "family": "benesovici",
+    "relation": "rodová větev Benešoviců"
+   },
+   {
+    "family": "mracti-z-dube",
+    "relation": "větev Mračtí z Dubé (Petr, syn Ondřeje)"
+   }
+  ],
+  "wikidata": "Q12047710",
+  "cswiki": "https://cs.wikipedia.org/wiki/Páni_z_Dubé_(Benešovici)",
+  "summary": "Páni z Dubé byli českou šlechtickou rodinou pocházející z rozrodu Benešoviců erbu zavinuté střely. Jméno pochází od hradu Dubá v Posázaví. Neměli společné předky s pány z Dubé z rodu Ronovců.",
+  "places": [
+   {
+    "place": "Q12042921",
+    "from": 1371,
+    "to": 1396,
+    "person": "Jindřich z Dubé",
+    "how": "zalozeni",
+    "from_approx": true,
+    "to_approx": true
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q12042921",
+    "year": 1396,
+    "from": "pani-z-dube-benesovici",
+    "to": "jenstejnove",
+    "how": "snatek"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
+ "pani-z-dube-ronovci": {
+  "id": "pani-z-dube-ronovci",
+  "type": "rod",
+  "name": "Páni z Dubé (Ronovci)",
+  "related": [
+   {
+    "family": "ronovci",
+    "relation": "větev Ronovců"
+   },
+   {
+    "family": "berkove-z-dube",
+    "relation": "vyčlenila se větev Berků z Dubé"
+   },
+   {
+    "family": "adrspachove-z-dube",
+    "relation": "větev Adršpachů z Dubé"
+   }
+  ],
+  "wikidata": "Q1172764",
+  "cswiki": "https://cs.wikipedia.org/wiki/Páni_z_Dubé_(Ronovci)",
+  "coat_of_arms": "Z lipe.jpg",
+  "summary": "Páni z Dubé byli starý český šlechtický rod, patřící k rozrodu Ronovců, který se usadil v 13. století na Českolipsku, na dnes zaniklém hradě Dubá. Zde získal své rozsáhlé majetky, hrady, města, panství i postavení. V erbu měly dvě zkřížené ostrve, kmeny stromů s nakrátko osekanými větvemi, které se používaly jako žebříky ke zlézání hradeb. Nejsou příbuzní s pány z Dubé z rodu Benešoviců.",
   "places": [
    {
     "place": "Q1012711",
@@ -25092,11 +26418,11 @@
     "to_approx": false
    },
    {
-    "place": "Q12042921",
-    "from": 1371,
-    "to": 1396,
-    "person": "Jindřich z Dubé",
-    "how": "zalozeni",
+    "place": "Q12024521",
+    "from": 1426,
+    "to": 1435,
+    "person": "Aleš Škopek z Dubé",
+    "how": "koupe",
     "from_approx": true,
     "to_approx": true
    },
@@ -25115,34 +26441,41 @@
     "place": "Q1012711",
     "year": 1427,
     "from": "berkove-z-dube",
-    "to": "pani-z-dube",
+    "to": "pani-z-dube-ronovci",
     "how": "neznamo"
    },
    {
     "place": "Q1012711",
     "year": 1434,
-    "from": "pani-z-dube",
+    "from": "pani-z-dube-ronovci",
     "to": "pani-z-klinstejna",
     "how": "dedictvi"
    },
    {
-    "place": "Q12042921",
-    "year": 1396,
-    "from": "pani-z-dube",
-    "to": "jenstejnove",
-    "how": "snatek"
+    "place": "Q12024521",
+    "year": 1426,
+    "from": "vartenberkove",
+    "to": "pani-z-dube-ronovci",
+    "how": "koupe"
+   },
+   {
+    "place": "Q12024521",
+    "year": 1447,
+    "from": "pani-z-dube-ronovci",
+    "to": "z-liblic",
+    "how": "neznamo"
    },
    {
     "place": "Q187633",
     "year": 1330,
     "from": "z-hostinneho",
-    "to": "pani-z-dube",
+    "to": "pani-z-dube-ronovci",
     "how": "neznamo"
    },
    {
     "place": "Q187633",
     "year": 1447,
-    "from": "pani-z-dube",
+    "from": "pani-z-dube-ronovci",
     "to": "pani-z-michalovic",
     "how": "koupe"
    }
@@ -25517,7 +26850,7 @@
    {
     "place": "Q916931",
     "year": 1407,
-    "from": "z-drahotus",
+    "from": "pani-z-drahotus",
     "to": "pani-z-holstejna",
     "how": "jine"
    },
@@ -25985,7 +27318,7 @@
    {
     "place": "Q1012711",
     "year": 1434,
-    "from": "pani-z-dube",
+    "from": "pani-z-dube-ronovci",
     "to": "pani-z-klinstejna",
     "how": "dedictvi"
    },
@@ -26035,7 +27368,12 @@
   "wikidata": "Q1786937",
   "cswiki": "https://cs.wikipedia.org/wiki/Páni_z_Kravař",
   "summary": "Páni z Kravař případně Kravařové (německy Herren von Krawarn) byli starý moravský šlechtický rod s erbem stříbrné zavinuté střely (zvané odřivous) v červeném poli, náležící do rozrodu Benešov(i)ců, s nímž sdíleli tento erb.",
-  "related": [],
+  "related": [
+   {
+    "family": "benesovici",
+    "relation": "rozrod Benešoviců (společný erb)"
+   }
+  ],
   "coat_of_arms": "COA Kravare.png",
   "places": [
    {
@@ -26371,7 +27709,12 @@
   "cswiki": "https://cs.wikipedia.org/wiki/Páni_z_Krumlova",
   "coat_of_arms": "Páni z Krumlova, starý znak.png",
   "summary": "Páni z Krumlova byli významný český šlechtický rod 13. století, jenž byl jedním z pěti rozrodů mocných Vítkovců, sídlící na hradě v Českém Krumlově, od něhož odvozovali svůj název.",
-  "related": [],
+  "related": [
+   {
+    "family": "vitkovci",
+    "relation": "jeden z pěti rozrodů Vítkovců"
+   }
+  ],
   "places": [
    {
     "place": "Q2142483",
@@ -26468,7 +27811,7 @@
     "place": "Q12041421",
     "year": 1605,
     "from": "pani-z-kunovic",
-    "to": "z-zampachu",
+    "to": "pani-z-potstejna-a-litic",
     "how": "snatek"
    },
    {
@@ -27190,7 +28533,7 @@
    {
     "place": "Q2242740",
     "year": 1456,
-    "from": "z-zampachu",
+    "from": "pani-z-potstejna-a-litic",
     "to": "pani-z-kunstatu-a-podebrad",
     "how": "jine"
    },
@@ -28133,7 +29476,12 @@
   "wikidata": "Q12047722",
   "cswiki": "https://cs.wikipedia.org/wiki/Páni_z_Michalovic",
   "summary": "Páni z Michalovic jsou starý panský rod z rozrodu Markvarticů. Jmenují se po hradě Michalovice na Jizeře. Se stejným predikátem později existoval také rod vladyků z Michalovic, který pocházel z rodiny žateckých měšťanů.",
-  "related": [],
+  "related": [
+   {
+    "family": "markvartici",
+    "relation": "z rozrodu Markvarticů"
+   }
+  ],
   "coat_of_arms": "Páni z Michalovic - coat of arms.png",
   "places": [
    {
@@ -28244,7 +29592,7 @@
    {
     "place": "Q187633",
     "year": 1447,
-    "from": "pani-z-dube",
+    "from": "pani-z-dube-ronovci",
     "to": "pani-z-michalovic",
     "how": "koupe"
    },
@@ -28401,6 +29749,86 @@
   "place_count": 4,
   "color_slot": null
  },
+ "pani-z-pardubic": {
+  "id": "pani-z-pardubic",
+  "type": "rod",
+  "name": "Páni z Pardubic",
+  "related": [],
+  "wikidata": "Q2052107",
+  "cswiki": "https://cs.wikipedia.org/wiki/Páni_z_Pardubic",
+  "coat_of_arms": "Pardubice coat-of-arms.png",
+  "summary": "Páni z Pardubic (německy von Pardubitz) jsou starý český panský rod.",
+  "places": [
+   {
+    "place": "Q1013771",
+    "from": 1361,
+    "to": 1387,
+    "person": "Vilém z Pardubic, bratr arcibiskupa Arnošta",
+    "how": "jine",
+    "from_approx": true,
+    "to_approx": false
+   },
+   {
+    "place": "Q1013771",
+    "from": 1387,
+    "to": 1403,
+    "person": "Smil Flaška z Pardubic",
+    "how": "dedictvi",
+    "from_approx": true,
+    "to_approx": false
+   },
+   {
+    "place": "Q1013771",
+    "from": 1403,
+    "to": 1439,
+    "person": "Arnošt Flaška z Pardubic",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q369694",
+    "from": 1351,
+    "to": 1384,
+    "person": "Arnošt z Hostýně (z Pardubic), poté synové včetně Viléma z Pardubic a jeho syna Smila Flašky",
+    "how": "vymena",
+    "from_approx": true,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q1013771",
+    "year": 1361,
+    "from": "vartenberkove",
+    "to": "pani-z-pardubic",
+    "how": "jine"
+   },
+   {
+    "place": "Q1013771",
+    "year": 1439,
+    "from": "pani-z-pardubic",
+    "to": "koruna",
+    "how": "jine"
+   },
+   {
+    "place": "Q369694",
+    "year": 1351,
+    "from": "ronovci",
+    "to": "pani-z-pardubic",
+    "how": "vymena"
+   },
+   {
+    "place": "Q369694",
+    "year": 1384,
+    "from": "pani-z-pardubic",
+    "to": "z-milheimu",
+    "how": "lenni"
+   }
+  ],
+  "place_count": 2,
+  "color_slot": null
+ },
  "pani-z-potstejna-a-litic": {
   "id": "pani-z-potstejna-a-litic",
   "type": "rod",
@@ -28425,6 +29853,42 @@
     "to_approx": false
    },
    {
+    "place": "Q12041421",
+    "from": 1605,
+    "to": 1610,
+    "person": "Zdeněk Žampach z Potštejna (manžel Anny Marie z Kunovic)",
+    "how": "snatek",
+    "from_approx": true,
+    "to_approx": false
+   },
+   {
+    "place": "Q12047753",
+    "from": 1658,
+    "to": 1676,
+    "person": "Jan Karel Hložek ze Žampachu a manželka Anna Františka",
+    "how": "koupe",
+    "from_approx": true,
+    "to_approx": true
+   },
+   {
+    "place": "Q12048927",
+    "from": 1388,
+    "to": 1464,
+    "person": "Vaněk ze Žampachu",
+    "how": "neznamo",
+    "from_approx": true,
+    "to_approx": true
+   },
+   {
+    "place": "Q14923651",
+    "from": 1639,
+    "to": 1643,
+    "person": "Zdeněk Žampach z Potštejna",
+    "how": "snatek",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
     "place": "Q18164",
     "from": 1280,
     "to": 1310,
@@ -28441,6 +29905,33 @@
     "how": "dedictvi",
     "from_approx": true,
     "to_approx": false
+   },
+   {
+    "place": "Q2242740",
+    "from": 1437,
+    "to": 1445,
+    "person": "Jan Kolda starší ze Žampachu",
+    "how": "jine",
+    "from_approx": false,
+    "to_approx": true
+   },
+   {
+    "place": "Q2242740",
+    "from": 1445,
+    "to": 1456,
+    "person": "Jan Kolda mladší ze Žampachu",
+    "how": "dedictvi",
+    "from_approx": true,
+    "to_approx": false
+   },
+   {
+    "place": "Q28872964",
+    "from": 1657,
+    "to": 1664,
+    "person": "Albrecht Kryštof Hložek ze Žampachu",
+    "how": "neznamo",
+    "from_approx": false,
+    "to_approx": true
    },
    {
     "place": "Q369704",
@@ -28477,11 +29968,88 @@
     "how": "jine"
    },
    {
+    "place": "Q12041421",
+    "year": 1605,
+    "from": "pani-z-kunovic",
+    "to": "pani-z-potstejna-a-litic",
+    "how": "snatek"
+   },
+   {
+    "place": "Q12041421",
+    "year": 1610,
+    "from": "pani-z-potstejna-a-litic",
+    "to": "petrvaldsti-z-petrvaldu",
+    "how": "koupe"
+   },
+   {
+    "place": "Q12047753",
+    "year": 1658,
+    "from": "nosticove",
+    "to": "pani-z-potstejna-a-litic",
+    "how": "koupe"
+   },
+   {
+    "place": "Q12047753",
+    "year": 1676,
+    "from": "pani-z-potstejna-a-litic",
+    "to": "ditrichstejnove",
+    "how": "koupe"
+   },
+   {
+    "place": "Q12048927",
+    "year": 1464,
+    "from": "pani-z-potstejna-a-litic",
+    "to": "neznamo",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q14923651",
+    "year": 1639,
+    "from": "sedlnicti-z-choltic",
+    "to": "pani-z-potstejna-a-litic",
+    "how": "snatek"
+   },
+   {
+    "place": "Q14923651",
+    "year": 1643,
+    "from": "pani-z-potstejna-a-litic",
+    "to": "althannove",
+    "how": "snatek"
+   },
+   {
     "place": "Q18164",
     "year": 1339,
     "from": "pani-z-potstejna-a-litic",
     "to": "koruna",
     "how": "konfiskace"
+   },
+   {
+    "place": "Q2242740",
+    "year": 1437,
+    "from": "z-porostle",
+    "to": "pani-z-potstejna-a-litic",
+    "how": "jine"
+   },
+   {
+    "place": "Q2242740",
+    "year": 1456,
+    "from": "pani-z-potstejna-a-litic",
+    "to": "pani-z-kunstatu-a-podebrad",
+    "how": "jine"
+   },
+   {
+    "place": "Q28872964",
+    "year": 1657,
+    "from": "z-dobrohoste",
+    "to": "pani-z-potstejna-a-litic",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q28872964",
+    "year": 1664,
+    "from": "pani-z-potstejna-a-litic",
+    "to": "z-hrachu",
+    "how": "neznamo"
    },
    {
     "place": "Q369704",
@@ -28505,7 +30073,7 @@
     "how": "koupe"
    }
   ],
-  "place_count": 4,
+  "place_count": 10,
   "color_slot": null
  },
  "pani-z-rican": {
@@ -28893,7 +30461,12 @@
   "cswiki": "https://cs.wikipedia.org/wiki/Páni_z_Rožmitálu",
   "coat_of_arms": "Coat of arms of Lvové z Rožmitálu.svg",
   "summary": "Páni z Rožmitálu byl starý český a moravský šlechtický rod v panském stavu, který se odloučil jako odnož z rozrodu Buziců erbu kančí hlavy. Nazývali se podle hradu a městečka Rožmitál pod Třemšínem. Od počátku 15. století přibyl v jejich rodovém erbu lev, podle něhož byli zváni Lvové z Rožmitálu. Podobně figury zajíce s kančí hlavou odlišovaly příbuzné Zajíce z Hazemburka a Zajíce z Valdeka.",
-  "related": [],
+  "related": [
+   {
+    "family": "buzici",
+    "relation": "odnož rozrodu Buziců"
+   }
+  ],
   "places": [
    {
     "place": "Q1013464",
@@ -29739,7 +31312,7 @@
    {
     "place": "Q11874519",
     "year": 1471,
-    "from": "z-doupova",
+    "from": "doupovcove-z-doupova",
     "to": "pani-z-vresovic",
     "how": "neznamo"
    },
@@ -31217,6 +32790,44 @@
   "place_count": 2,
   "color_slot": null
  },
+ "papakove-z-mosnova": {
+  "id": "papakove-z-mosnova",
+  "type": "rod",
+  "name": "Papákové z Mošnova",
+  "related": [],
+  "wikidata": "Q12043768",
+  "cswiki": "https://cs.wikipedia.org/wiki/Papákové_z_Mošnova",
+  "summary": "Papákové z Mošnova (von Moschenaw) byl starý šlechtický rytířský rod. Jméno nese podle obce Mošnov, který leží v rovinaté části Moravské brány v okrese Nový Jičín. Je pravděpodobné, že již koncem 12. nebo začátkem 13. století tady mezi Moravou a Slezskem vznikla malá slovanská osada. Papákové drželi obec nejprve celou, ale v roce 1350 již drželi zřejmě jen její část.",
+  "places": [
+   {
+    "place": "Q30729875",
+    "from": 1446,
+    "to": 1453,
+    "person": "Čeněk (Papák) z Mošnova",
+    "how": "lenni",
+    "from_approx": false,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q30729875",
+    "year": 1446,
+    "from": "neznamo",
+    "to": "papakove-z-mosnova",
+    "how": "lenni"
+   },
+   {
+    "place": "Q30729875",
+    "year": 1453,
+    "from": "papakove-z-mosnova",
+    "to": "z-brandysa",
+    "how": "lenni"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
  "parishove": {
   "id": "parishove",
   "type": "rod",
@@ -31344,9 +32955,27 @@
  "perglarove-z-perglasu": {
   "id": "perglarove-z-perglasu",
   "type": "rod",
-  "name": "perglarove-z-perglasu",
+  "name": "Perglárové z Perglasu",
   "related": [],
   "places": [
+   {
+    "place": "Q1014368",
+    "from": 1597,
+    "to": 1622,
+    "person": "Volf Perglar z Perglasu, poté syn Václav Otakar z Perglasu",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q28872964",
+    "from": 1623,
+    "to": 1642,
+    "person": "Arnold Perglar z Losentic",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   },
    {
     "place": "Q37851622",
     "from": 1579,
@@ -31358,6 +32987,34 @@
    }
   ],
   "transfers": [
+   {
+    "place": "Q1014368",
+    "year": 1597,
+    "from": "plansti-ze-zeberka",
+    "to": "perglarove-z-perglasu",
+    "how": "koupe"
+   },
+   {
+    "place": "Q1014368",
+    "year": 1622,
+    "from": "perglarove-z-perglasu",
+    "to": "soukromnik",
+    "how": "koupe"
+   },
+   {
+    "place": "Q28872964",
+    "year": 1623,
+    "from": "kalenicove-z-kalenic",
+    "to": "perglarove-z-perglasu",
+    "how": "koupe"
+   },
+   {
+    "place": "Q28872964",
+    "year": 1642,
+    "from": "perglarove-z-perglasu",
+    "to": "z-dobrohoste",
+    "how": "koupe"
+   },
    {
     "place": "Q37851622",
     "year": 1579,
@@ -31373,7 +33030,7 @@
     "how": "jine"
    }
   ],
-  "place_count": 1,
+  "place_count": 3,
   "color_slot": null
  },
  "pernstejnove": {
@@ -31724,7 +33381,7 @@
    {
     "place": "Q1012308",
     "year": 1474,
-    "from": "z-landstejna",
+    "from": "landstejnove",
     "to": "pernstejnove",
     "how": "koupe"
    },
@@ -32047,6 +33704,38 @@
   "place_count": 23,
   "color_slot": 8
  },
+ "petipesti-z-chys-a-egerberka": {
+  "id": "petipesti-z-chys-a-egerberka",
+  "type": "rod",
+  "name": "Pětipeští z Chýš a Egerberka",
+  "related": [],
+  "wikidata": "Q1297231",
+  "cswiki": "https://cs.wikipedia.org/wiki/Pětipeští_z_Chýš_a_Egerberka",
+  "coat_of_arms": "Erbpetipessti.png",
+  "summary": "Pětipeští z Chýš a Egerberka jsou stará česká panská, vladycká a rytířská rodina, která pocházela ze tří míst v severních Čechách.",
+  "places": [
+   {
+    "place": "Q1373051",
+    "from": null,
+    "to": 1547,
+    "person": "Václav Pětipeský z Chýš (podle NPÚ z Krásného Dvora)",
+    "how": "neznamo",
+    "from_approx": true,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q1373051",
+    "year": 1573,
+    "from": "petipesti-z-chys-a-egerberka",
+    "to": "kolovratove",
+    "how": "neznamo"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
  "petrvaldsti-z-petrvaldu": {
   "id": "petrvaldsti-z-petrvaldu",
   "type": "rod",
@@ -32148,7 +33837,7 @@
    {
     "place": "Q12041421",
     "year": 1610,
-    "from": "z-zampachu",
+    "from": "pani-z-potstejna-a-litic",
     "to": "petrvaldsti-z-petrvaldu",
     "how": "koupe"
    },
@@ -32701,7 +34390,7 @@
     "place": "Q1014368",
     "year": 1597,
     "from": "plansti-ze-zeberka",
-    "to": "z-perglasu",
+    "to": "perglarove-z-perglasu",
     "how": "koupe"
    },
    {
@@ -33393,6 +35082,15 @@
   "related": [],
   "places": [
    {
+    "place": "Q33323103",
+    "from": 1633,
+    "to": 1681,
+    "person": "hrabata z Pöttingu",
+    "how": "neznamo",
+    "from_approx": true,
+    "to_approx": true
+   },
+   {
     "place": "Q376781",
     "from": 1656,
     "to": 1678,
@@ -33413,6 +35111,20 @@
   ],
   "transfers": [
    {
+    "place": "Q33323103",
+    "year": 1633,
+    "from": "hoeff-huertove",
+    "to": "pottingove-z-persingu",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q33323103",
+    "year": 1681,
+    "from": "pottingove-z-persingu",
+    "to": "bissingenove",
+    "how": "neznamo"
+   },
+   {
     "place": "Q376781",
     "year": 1656,
     "from": "z-krainburku",
@@ -33427,7 +35139,7 @@
     "how": "koupe"
    }
   ],
-  "place_count": 1,
+  "place_count": 2,
   "color_slot": null
  },
  "prazmove-z-bilkova": {
@@ -33666,7 +35378,7 @@
    {
     "place": "Q3501132",
     "year": 1746,
-    "from": "z-lisova",
+    "from": "spanovsti-z-lisova",
     "to": "prichovsti-z-prichovic",
     "how": "snatek"
    },
@@ -34827,7 +36539,7 @@
     "place": "Q369694",
     "year": 1351,
     "from": "ronovci",
-    "to": "z-pardubic",
+    "to": "pani-z-pardubic",
     "how": "vymena"
    }
   ],
@@ -36669,6 +38381,44 @@
   "place_count": 2,
   "color_slot": null
  },
+ "schirndingerove-ze-schirndingu": {
+  "id": "schirndingerove-ze-schirndingu",
+  "type": "rod",
+  "name": "Schirndingerové ze Schirndingu",
+  "related": [],
+  "wikidata": "Q2236378",
+  "cswiki": "https://cs.wikipedia.org/wiki/Schirndingerové_ze_Schirndingu",
+  "summary": "Schirndingerové ze Schirndingu, německy Schirndinger von Schirnding, jsou šlechtický rod pocházející z Horní Falce, jehož větev se na začátku 16. století začala usazovat také v západních Čechách. Rodové jméno i přídomek se někdy uvádějí ve tvaru Schirdinger či Schirding (např. Schirdingovský palác) a Ottův slovník naučný uvádí dokonce počeštěnou podobu Širntyngár ze Širntynku.",
+  "places": [
+   {
+    "place": "Q16162067",
+    "from": 1886,
+    "to": 1909,
+    "person": "hrabě Schirnding",
+    "how": "neznamo",
+    "from_approx": true,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q16162067",
+    "year": 1886,
+    "from": "pachtove-z-rajova",
+    "to": "schirndingerove-ze-schirndingu",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q16162067",
+    "year": 1909,
+    "from": "schirndingerove-ze-schirndingu",
+    "to": "z-kastu-z-ebelsberku",
+    "how": "dedictvi"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
  "schonbornove": {
   "id": "schonbornove",
   "type": "rod",
@@ -37216,7 +38966,12 @@
   "cswiki": "https://cs.wikipedia.org/wiki/Sedlničtí_z_Choltic",
   "coat_of_arms": "WpSedlnitzky.jpg",
   "summary": "Sedlničtí z Choltic (psáno též Sedlnitzky z Choltitz, německy Sedlnitzky von Choltitz) jsou starý český vladycký rod, který později povýšil do panského stavu. Pravděpodobně pocházejí z rozrodu Benešovců. Sídlili ve 14. století v Cholticích u Přelouče, od 15. století na Moravě.",
-  "related": [],
+  "related": [
+   {
+    "family": "benesovici",
+    "relation": "pravděpodobně z rozrodu Benešoviců"
+   }
+  ],
   "places": [
    {
     "place": "Q11878924",
@@ -37317,7 +39072,7 @@
     "place": "Q14923651",
     "year": 1639,
     "from": "sedlnicti-z-choltic",
-    "to": "z-zampachu",
+    "to": "pani-z-potstejna-a-litic",
     "how": "snatek"
    },
    {
@@ -37504,7 +39259,12 @@
   "wikidata": "Q56292944",
   "cswiki": "https://cs.wikipedia.org/wiki/Seinsheimové",
   "summary": "Seinsheimové (též Saunsheimové) jsou původem bavorský šlechtický rod, jeden z nejstarších rodů ve Frankách. Jejich rodové sídlo je Seinsheim východně od Ochsenfurtu. Známější větví Seinsheimů je pozdější český knížecí rod Schwarzenbergů.",
-  "related": [],
+  "related": [
+   {
+    "family": "schwarzenbergove",
+    "relation": "pozdější větev - knížecí rod Schwarzenbergů"
+   }
+  ],
   "coat_of_arms": "CoA Seinsheim.svg",
   "places": [
    {
@@ -37543,7 +39303,12 @@
   "wikidata": "Q10396975",
   "cswiki": "https://cs.wikipedia.org/wiki/Šelmberkové",
   "summary": "Šelmberkové jsou starý český šlechtický rod, pocházející z jedné větve rozrodu Buziců.",
-  "related": [],
+  "related": [
+   {
+    "family": "buzici",
+    "relation": "větev rozrodu Buziců"
+   }
+  ],
   "coat_of_arms": "Páni ze Šelmberka - erb.jpg",
   "places": [
    {
@@ -37947,7 +39712,12 @@
   "wikidata": "Q12051584",
   "cswiki": "https://cs.wikipedia.org/wiki/Sezimové_z_Ústí",
   "summary": "Sezimové z Ústí, případně Sezemové z Ústí nebo páni z Ústí, byli starý český panský rod, který pocházel z rozrodu Vítkovců, pravděpodobně byli odnoží pánů z Hradce.",
-  "related": [],
+  "related": [
+   {
+    "family": "vitkovci",
+    "relation": "z rozrodu Vítkovců, pravděpodobně odnož pánů z Hradce"
+   }
+  ],
   "coat_of_arms": "Páni z Ústí, prostý erb.png",
   "places": [
    {
@@ -38217,7 +39987,7 @@
    {
     "place": "Q30860008",
     "year": 1594,
-    "from": "z-drahotus",
+    "from": "pani-z-drahotus",
     "to": "sipove-z-branice",
     "how": "dedictvi"
    },
@@ -38635,7 +40405,7 @@
     "place": "Q3501132",
     "year": 1642,
     "from": "slavatove-z-chlumu-a-kosumberka",
-    "to": "z-lisova",
+    "to": "spanovsti-z-lisova",
     "how": "koupe"
    },
    {
@@ -39438,11 +41208,87 @@
   "place_count": 1,
   "color_slot": null
  },
+ "spanovsti-z-lisova": {
+  "id": "spanovsti-z-lisova",
+  "type": "rod",
+  "name": "Španovští z Lisova",
+  "related": [],
+  "wikidata": "Q10410618",
+  "cswiki": "https://cs.wikipedia.org/wiki/Španovští_z_Lisova",
+  "summary": "Španovští z Lisova byli český vladycký rod pocházející z vesnic Lisov a Spáňov na Domažlicku. Kvůli stejnosti erbu je pravděpodobné, že byli stejného původu jako páni z Roupova.",
+  "coat_of_arms": "Španovský z Lisova - coat of arms (V. Král).png",
+  "places": [
+   {
+    "place": "Q10396968",
+    "from": 1586,
+    "to": 1603,
+    "person": "Michal Španovský z Lisova a na Pacově, nejvyšší písař království českého",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q3501132",
+    "from": 1642,
+    "to": 1694,
+    "person": "Jan z Lisau (z Lisova)",
+    "how": "koupe",
+    "from_approx": true,
+    "to_approx": true
+   },
+   {
+    "place": "Q3501132",
+    "from": 1694,
+    "to": 1746,
+    "person": "Rudolf Adam z Lisova",
+    "how": "dedictvi",
+    "from_approx": true,
+    "to_approx": true
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q10396968",
+    "year": 1586,
+    "from": "mracti-z-dube",
+    "to": "spanovsti-z-lisova",
+    "how": "koupe"
+   },
+   {
+    "place": "Q10396968",
+    "year": 1603,
+    "from": "spanovsti-z-lisova",
+    "to": "z-funfkirchenu",
+    "how": "koupe"
+   },
+   {
+    "place": "Q3501132",
+    "year": 1642,
+    "from": "slavatove-z-chlumu-a-kosumberka",
+    "to": "spanovsti-z-lisova",
+    "how": "koupe"
+   },
+   {
+    "place": "Q3501132",
+    "year": 1746,
+    "from": "spanovsti-z-lisova",
+    "to": "prichovsti-z-prichovic",
+    "how": "snatek"
+   }
+  ],
+  "place_count": 2,
+  "color_slot": null
+ },
  "spetlove-z-janovic": {
   "id": "spetlove-z-janovic",
   "type": "rod",
   "name": "spetlove-z-janovic",
-  "related": [],
+  "related": [
+   {
+    "family": "janovici",
+    "relation": "větev Janoviců (Špetlové z Janovic)"
+   }
+  ],
   "places": [
    {
     "place": "Q1014002",
@@ -39610,7 +41456,7 @@
    {
     "place": "Q11878928",
     "year": 1792,
-    "from": "z-ledske",
+    "from": "chorinsti-z-ledske",
     "to": "sprinzensteinove",
     "how": "snatek"
    },
@@ -39650,7 +41496,7 @@
    {
     "place": "Q1013789",
     "year": 1697,
-    "from": "z-albenreuthu",
+    "from": "lamingerove-z-albenreuthu",
     "to": "stadionove",
     "how": "koupe"
    },
@@ -41407,6 +43253,44 @@
     "from": "strachwitzove",
     "to": "arco",
     "how": "snatek"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
+ "strelove-z-rokyc": {
+  "id": "strelove-z-rokyc",
+  "type": "rod",
+  "name": "Střelové z Rokyc",
+  "related": [],
+  "wikidata": "Q12057048",
+  "cswiki": "https://cs.wikipedia.org/wiki/Střelové_z_Rokyc",
+  "summary": "Střelové z Rokyc jsou starou českou vladyckou rodinou, která původně vzešla ve 13. století z Horního Slezska (Rokicie, část obce Raszowa, Okres Strzelce). Vlastnili Křivsoudov (1550-1622) a tvrz v Cerhenicích (1550-1689). Přes manželku Štěpána Střely z Rokyc je rod příbuzný s Vančury z Řehnic.",
+  "places": [
+   {
+    "place": "Q28872964",
+    "from": 1547,
+    "to": 1548,
+    "person": "Jindřich Střela z Rokyc",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q28872964",
+    "year": 1547,
+    "from": "kolovratove",
+    "to": "strelove-z-rokyc",
+    "how": "koupe"
+   },
+   {
+    "place": "Q28872964",
+    "year": 1548,
+    "from": "strelove-z-rokyc",
+    "to": "cerncicti-z-kacova",
+    "how": "koupe"
    }
   ],
   "place_count": 1,
@@ -43957,6 +45841,44 @@
   "place_count": 4,
   "color_slot": null
  },
+ "tyrovsti-z-ensidle": {
+  "id": "tyrovsti-z-ensidle",
+  "type": "rod",
+  "name": "Týřovští z Ensidle",
+  "related": [],
+  "wikidata": "Q125894375",
+  "cswiki": "https://cs.wikipedia.org/wiki/Týřovští_z_Ensidle",
+  "summary": "Týřovští z Einsiedlu byl český šlechtický rod, pocházející z Mnichova, v okrese Cheb. Působil především na Rakovnicku a Kralovicku, největší proslulosti dosahoval v osobě svého zakladatele Jošta z Einsiedlu, který byl sekretářem Jiřího z Poděbrad. Jeho potomci se pak zařadili mezi drobnou lokální šlechtu.",
+  "places": [
+   {
+    "place": "Q1014317",
+    "from": 1460,
+    "to": 1577,
+    "person": "Jošt z Ensidle, poté jeho potomci (Týřovští z Ensidle)",
+    "how": "lenni",
+    "from_approx": false,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q1014317",
+    "year": 1460,
+    "from": "koruna",
+    "to": "tyrovsti-z-ensidle",
+    "how": "lenni"
+   },
+   {
+    "place": "Q1014317",
+    "year": 1528,
+    "from": "tyrovsti-z-ensidle",
+    "to": "z-malcaunu",
+    "how": "lenni"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
  "udrcti-z-udrce": {
   "id": "udrcti-z-udrce",
   "type": "rod",
@@ -44151,7 +46073,12 @@
   "cswiki": "https://cs.wikipedia.org/wiki/Valdštejnové",
   "coat_of_arms": "POL COA Waldstein.svg",
   "summary": "Valdštejnové (německy Waldstein nebo též Wallenstein) jsou starý český šlechtický rod, větev markvartického rozrodu, jejíž jméno je odvozeno od hradu Valdštejn. Připomínají se od 13. století. Již v následujícím století se oddělila větev Brtnických z Valdštejna, která pak až do pobělohorských konfiskací sídlila na Vysočině na hradě Rokštejn a v Brtnici.",
-  "related": [],
+  "related": [
+   {
+    "family": "markvartici",
+    "relation": "větev markvartického rozrodu"
+   }
+  ],
   "places": [
    {
     "place": "Q1012726",
@@ -45052,7 +46979,7 @@
     "place": "Q12041603",
     "year": 1680,
     "from": "valdstejnove",
-    "to": "z-verdenberka",
+    "to": "verdenberkove",
     "how": "koupe"
    },
    {
@@ -45738,7 +47665,12 @@
   "cswiki": "https://cs.wikipedia.org/wiki/Vartenberkové",
   "coat_of_arms": "Wappen der Grafen von Wartenberg.jpg",
   "summary": "Vartenberkové (též Vartemberkové, Vartmberkové, Wartenberkové či Wartenbergové, německy (von) Warttenberg) byl český šlechtický rod, významná odnož prastarého rodu Markvarticů. Ve 14. a 15. století patřili k nejvýznamnějším rodům Českého království.",
-  "related": [],
+  "related": [
+   {
+    "family": "markvartici",
+    "relation": "odnož rodu Markvarticů"
+   }
+  ],
   "places": [
    {
     "place": "Q1011076",
@@ -46092,13 +48024,13 @@
     "place": "Q1013771",
     "year": 1361,
     "from": "vartenberkove",
-    "to": "z-pardubic",
+    "to": "pani-z-pardubic",
     "how": "jine"
    },
    {
     "place": "Q1014187",
     "year": 1319,
-    "from": "z-veitmile",
+    "from": "krabicove-z-veitmile",
     "to": "vartenberkove",
     "how": "lenni"
    },
@@ -46204,7 +48136,7 @@
     "place": "Q12024521",
     "year": 1426,
     "from": "vartenberkove",
-    "to": "z-dube",
+    "to": "pani-z-dube-ronovci",
     "how": "koupe"
    },
    {
@@ -46477,6 +48409,44 @@
   "place_count": 1,
   "color_slot": null
  },
+ "verdenberkove": {
+  "id": "verdenberkove",
+  "type": "rod",
+  "name": "Verdenberkové",
+  "related": [],
+  "wikidata": "Q26258865",
+  "cswiki": "https://cs.wikipedia.org/wiki/Verdenberkové",
+  "summary": "Verdenberkové, také Verdenbergové (respektive Werde von Werdenberg) byl šlechtický rod původem z Itálie. Vzestupu dosáhl za třicetileté války v osobě Jana Křtitele Verdenberga. Jeho potomkům více než sto let patřilo několik panství na Moravě, kromě toho měli majetek i v Rakousku. Rod vymřel v roce 1733, jméno a erb Verdenberků pak převzal spřízněný rod knížat Lichnovských.",
+  "places": [
+   {
+    "place": "Q12041603",
+    "from": 1680,
+    "to": 1733,
+    "person": "Jan Křtitel Verda z Verdenberka",
+    "how": "koupe",
+    "from_approx": true,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q12041603",
+    "year": 1680,
+    "from": "valdstejnove",
+    "to": "verdenberkove",
+    "how": "koupe"
+   },
+   {
+    "place": "Q12041603",
+    "year": 1733,
+    "from": "verdenberkove",
+    "to": "z-enkenfurtu",
+    "how": "neznamo"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
  "vernierove": {
   "id": "vernierove",
   "type": "rod",
@@ -46721,6 +48691,45 @@
   "place_count": 2,
   "color_slot": null
  },
+ "vidrspergarove-z-vidrspergu": {
+  "id": "vidrspergarove-z-vidrspergu",
+  "type": "rod",
+  "name": "Vidršpergárové z Vidršpergu",
+  "related": [],
+  "wikidata": "Q11895648",
+  "cswiki": "https://cs.wikipedia.org/wiki/Vidršpergárové_z_Vidršpergu",
+  "summary": "Vidršpergárové z Vidršpergu (též Wiedersperger) jsou starý německý rytířský rod, který pochází z okolí Plavna (Plauen). Do Čech přišli ve II. polovině 15. století.",
+  "coat_of_arms": "Erb Vidršperg.jpg",
+  "places": [
+   {
+    "place": "Q20428299",
+    "from": 1584,
+    "to": 1624,
+    "person": "Jan Vidršpergár z Vidršperku",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q20428299",
+    "year": 1584,
+    "from": "z-otova",
+    "to": "vidrspergarove-z-vidrspergu",
+    "how": "koupe"
+   },
+   {
+    "place": "Q20428299",
+    "year": 1624,
+    "from": "vidrspergarove-z-vidrspergu",
+    "to": "kolowrat-krakowsti",
+    "how": "snatek"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
  "vitanovsti-z-vlckovic": {
   "id": "vitanovsti-z-vlckovic",
   "type": "rod",
@@ -46764,6 +48773,7 @@
   "cswiki": "https://cs.wikipedia.org/wiki/Vítkovci",
   "summary": "Vítkovci, též páni z Růže (německy Witigonen, či Wittigonen), patřili k nejsilnějším domácím rozrodům. Za zakladatele tohoto starého českého rodu je považován Vítek I. z Prčice, ale nejspíše je rod mnohem starší. Jméno Vítek je buď zdrobnělina Víta, po jeho úctě v českém království, a nebo má slovanský význam \"pán\"/\"vládce\" jako ve jméně Svantovít.",
   "related": [],
+  "coat_of_arms": "Erby rodu vitkovcu.jpg",
   "places": [
    {
     "place": "Q1013354",
@@ -46782,6 +48792,45 @@
     "from": "vitkovci",
     "to": "landstejnove",
     "how": "neznamo"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
+ "vitove-ze-rzaveho": {
+  "id": "vitove-ze-rzaveho",
+  "type": "rod",
+  "name": "Vítové ze Rzavého",
+  "related": [],
+  "wikidata": "Q71176091",
+  "cswiki": "https://cs.wikipedia.org/wiki/Vítové_ze_Rzavého",
+  "coat_of_arms": "Vítové ze Rzavého.jpg",
+  "summary": "Vítové ze Rzavého (ve starší podobě Vítové ze Rzawe) byl starý český vladycký rod, který se kolem roku 1400 vydělil z rozrodu Těmínů. Ve druhé polovině 17. století byli povýšeni do stavu svobodných pánů, ale již roku 1675 vymřeli.",
+  "places": [
+   {
+    "place": "Q1012914",
+    "from": 1470,
+    "to": 1473,
+    "person": "Vít ze Rzavého",
+    "how": "konfiskace",
+    "from_approx": false,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q1012914",
+    "year": 1470,
+    "from": "koruna",
+    "to": "vitove-ze-rzaveho",
+    "how": "konfiskace"
+   },
+   {
+    "place": "Q1012914",
+    "year": 1473,
+    "from": "vitove-ze-rzaveho",
+    "to": "koruna",
+    "how": "jine"
    }
   ],
   "place_count": 1,
@@ -47647,7 +49696,7 @@
     "place": "Q1013014",
     "year": 1558,
     "from": "wittelsbachove",
-    "to": "z-knenic",
+    "to": "okrouhlicti-z-knenic",
     "how": "koupe"
    },
    {
@@ -47799,64 +49848,6 @@
    }
   ],
   "place_count": 1,
-  "color_slot": null
- },
- "z-albenreuthu": {
-  "id": "z-albenreuthu",
-  "type": "rod",
-  "name": "z-albenreuthu",
-  "related": [],
-  "places": [
-   {
-    "place": "Q1013789",
-    "from": 1676,
-    "to": 1697,
-    "person": "Volf Maxmilián Laminger z Albenreuthu (Lomikar)",
-    "how": "koupe",
-    "from_approx": false,
-    "to_approx": false
-   },
-   {
-    "place": "Q21587658",
-    "from": 1621,
-    "to": 1671,
-    "person": "Wolf Vilém Laminger z Albenreuthu (Lomikar)",
-    "how": "konfiskace",
-    "from_approx": false,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q1013789",
-    "year": 1676,
-    "from": "cerninove-z-chudenic",
-    "to": "z-albenreuthu",
-    "how": "koupe"
-   },
-   {
-    "place": "Q1013789",
-    "year": 1697,
-    "from": "z-albenreuthu",
-    "to": "stadionove",
-    "how": "koupe"
-   },
-   {
-    "place": "Q21587658",
-    "year": 1621,
-    "from": "mesto",
-    "to": "z-albenreuthu",
-    "how": "konfiskace"
-   },
-   {
-    "place": "Q21587658",
-    "year": 1671,
-    "from": "z-albenreuthu",
-    "to": "mesto",
-    "how": "vymena"
-   }
-  ],
-  "place_count": 2,
   "color_slot": null
  },
  "z-aldringenu": {
@@ -48068,41 +50059,6 @@
   "place_count": 1,
   "color_slot": null
  },
- "z-belasy": {
-  "id": "z-belasy",
-  "type": "rod",
-  "name": "z-belasy",
-  "related": [],
-  "places": [
-   {
-    "place": "Q366444",
-    "from": 1639,
-    "to": 1668,
-    "person": "Jakub Khuen z Belasy",
-    "how": "neznamo",
-    "from_approx": false,
-    "to_approx": true
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q366444",
-    "year": 1639,
-    "from": "z-lichtenegga",
-    "to": "z-belasy",
-    "how": "neznamo"
-   },
-   {
-    "place": "Q366444",
-    "year": 1668,
-    "from": "z-belasy",
-    "to": "cerninove-z-chudenic",
-    "how": "koupe"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
  "z-belin": {
   "id": "z-belin",
   "type": "rod",
@@ -48203,41 +50159,6 @@
     "from": "z-belku",
     "to": "z-perkova",
     "how": "jine"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
- "z-besin": {
-  "id": "z-besin",
-  "type": "rod",
-  "name": "z-besin",
-  "related": [],
-  "places": [
-   {
-    "place": "Q1013457",
-    "from": 1470,
-    "to": 1491,
-    "person": "Mikuláš z Běšin",
-    "how": "koupe",
-    "from_approx": false,
-    "to_approx": true
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q1013457",
-    "year": 1470,
-    "from": "janovsti-z-janovic",
-    "to": "z-besin",
-    "how": "koupe"
-   },
-   {
-    "place": "Q1013457",
-    "year": 1491,
-    "from": "z-besin",
-    "to": "janovsti-z-janovic",
-    "how": "neznamo"
    }
   ],
   "place_count": 1,
@@ -48412,7 +50333,7 @@
    {
     "place": "Q30729875",
     "year": 1453,
-    "from": "z-mosnova",
+    "from": "papakove-z-mosnova",
     "to": "z-brandysa",
     "how": "lenni"
    },
@@ -48736,7 +50657,7 @@
     "place": "Q11874519",
     "year": 1416,
     "from": "z-buskovic",
-    "to": "z-doupova",
+    "to": "doupovcove-z-doupova",
     "how": "neznamo"
    }
   ],
@@ -48966,7 +50887,7 @@
    {
     "place": "Q12024521",
     "year": 1401,
-    "from": "z-orlika",
+    "from": "hulerove-z-orlika",
     "to": "z-cernic",
     "how": "neznamo"
    },
@@ -49404,34 +51325,6 @@
   "place_count": 1,
   "color_slot": null
  },
- "z-chys": {
-  "id": "z-chys",
-  "type": "rod",
-  "name": "z-chys",
-  "related": [],
-  "places": [
-   {
-    "place": "Q1373051",
-    "from": null,
-    "to": 1547,
-    "person": "Václav Pětipeský z Chýš (podle NPÚ z Krásného Dvora)",
-    "how": "neznamo",
-    "from_approx": true,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q1373051",
-    "year": 1573,
-    "from": "z-chys",
-    "to": "kolovratove",
-    "how": "neznamo"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
  "z-ciglheimu": {
   "id": "z-ciglheimu",
   "type": "rod",
@@ -49652,41 +51545,6 @@
   "place_count": 1,
   "color_slot": null
  },
- "z-dlouhe-vsi": {
-  "id": "z-dlouhe-vsi",
-  "type": "rod",
-  "name": "z-dlouhe-vsi",
-  "related": [],
-  "places": [
-   {
-    "place": "Q10396968",
-    "from": 1629,
-    "to": 1678,
-    "person": "Veronika Přehořovská z Dlouhé Vsi",
-    "how": "koupe",
-    "from_approx": false,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q10396968",
-    "year": 1629,
-    "from": "marradasove",
-    "to": "z-dlouhe-vsi",
-    "how": "koupe"
-   },
-   {
-    "place": "Q10396968",
-    "year": 1678,
-    "from": "z-dlouhe-vsi",
-    "to": "kuenburgove",
-    "how": "koupe"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
  "z-dobrichova": {
   "id": "z-dobrichova",
   "type": "rod",
@@ -49742,7 +51600,7 @@
    {
     "place": "Q28872964",
     "year": 1642,
-    "from": "z-perglasu",
+    "from": "perglarove-z-perglasu",
     "to": "z-dobrohoste",
     "how": "koupe"
    },
@@ -49750,7 +51608,7 @@
     "place": "Q28872964",
     "year": 1657,
     "from": "z-dobrohoste",
-    "to": "z-zampachu",
+    "to": "pani-z-potstejna-a-litic",
     "how": "neznamo"
    }
   ],
@@ -49862,41 +51720,6 @@
   "place_count": 1,
   "color_slot": null
  },
- "z-doupova": {
-  "id": "z-doupova",
-  "type": "rod",
-  "name": "z-doupova",
-  "related": [],
-  "places": [
-   {
-    "place": "Q11874519",
-    "from": 1416,
-    "to": 1471,
-    "person": "Nevlas a Jan z Doupova, později Sezema z Doupova (doložen 1454) a Jan z Doupova (doložen 1487)",
-    "how": "neznamo",
-    "from_approx": false,
-    "to_approx": true
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q11874519",
-    "year": 1416,
-    "from": "z-buskovic",
-    "to": "z-doupova",
-    "how": "neznamo"
-   },
-   {
-    "place": "Q11874519",
-    "year": 1471,
-    "from": "z-doupova",
-    "to": "pani-z-vresovic",
-    "how": "neznamo"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
  "z-drahenic": {
   "id": "z-drahenic",
   "type": "rod",
@@ -49930,64 +51753,6 @@
    }
   ],
   "place_count": 1,
-  "color_slot": null
- },
- "z-drahotus": {
-  "id": "z-drahotus",
-  "type": "rod",
-  "name": "z-drahotus",
-  "related": [],
-  "places": [
-   {
-    "place": "Q30860008",
-    "from": 1372,
-    "to": 1594,
-    "person": null,
-    "how": "vymena",
-    "from_approx": false,
-    "to_approx": false
-   },
-   {
-    "place": "Q916931",
-    "from": 1398,
-    "to": 1407,
-    "person": "Čeněk z Drahotuš, poté jeho dcery zvané \"panny cimburské\"",
-    "how": "lenni",
-    "from_approx": false,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q30860008",
-    "year": 1372,
-    "from": "benesovici",
-    "to": "z-drahotus",
-    "how": "vymena"
-   },
-   {
-    "place": "Q30860008",
-    "year": 1594,
-    "from": "z-drahotus",
-    "to": "sipove-z-branice",
-    "how": "dedictvi"
-   },
-   {
-    "place": "Q916931",
-    "year": 1398,
-    "from": "z-letovic",
-    "to": "z-drahotus",
-    "how": "lenni"
-   },
-   {
-    "place": "Q916931",
-    "year": 1407,
-    "from": "z-drahotus",
-    "to": "pani-z-holstejna",
-    "how": "jine"
-   }
-  ],
-  "place_count": 2,
   "color_slot": null
  },
  "z-drstky": {
@@ -50090,15 +51855,6 @@
   "related": [],
   "places": [
    {
-    "place": "Q12024521",
-    "from": 1426,
-    "to": 1435,
-    "person": "Aleš Škopek z Dubé",
-    "how": "koupe",
-    "from_approx": true,
-    "to_approx": true
-   },
-   {
     "place": "Q2242740",
     "from": 1391,
     "to": 1392,
@@ -50109,20 +51865,6 @@
    }
   ],
   "transfers": [
-   {
-    "place": "Q12024521",
-    "year": 1426,
-    "from": "vartenberkove",
-    "to": "z-dube",
-    "how": "koupe"
-   },
-   {
-    "place": "Q12024521",
-    "year": 1447,
-    "from": "z-dube",
-    "to": "z-liblic",
-    "how": "neznamo"
-   },
    {
     "place": "Q2242740",
     "year": 1391,
@@ -50138,7 +51880,7 @@
     "how": "neznamo"
    }
   ],
-  "place_count": 2,
+  "place_count": 1,
   "color_slot": null
  },
  "z-dubnan": {
@@ -50313,41 +52055,6 @@
   "place_count": 1,
   "color_slot": null
  },
- "z-elsnic": {
-  "id": "z-elsnic",
-  "type": "rod",
-  "name": "z-elsnic",
-  "related": [],
-  "places": [
-   {
-    "place": "Q159971",
-    "from": 1471,
-    "to": 1510,
-    "person": "Hanuš Elsnic z Elsnic",
-    "how": "koupe",
-    "from_approx": false,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q159971",
-    "year": 1471,
-    "from": "berkove-z-dube",
-    "to": "z-elsnic",
-    "how": "koupe"
-   },
-   {
-    "place": "Q159971",
-    "year": 1510,
-    "from": "z-elsnic",
-    "to": "pani-z-donina",
-    "how": "neznamo"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
  "z-enkenfurtu": {
   "id": "z-enkenfurtu",
   "type": "rod",
@@ -50391,7 +52098,7 @@
    {
     "place": "Q12041603",
     "year": 1733,
-    "from": "z-verdenberka",
+    "from": "verdenberkove",
     "to": "z-enkenfurtu",
     "how": "neznamo"
    },
@@ -50404,41 +52111,6 @@
    }
   ],
   "place_count": 2,
-  "color_slot": null
- },
- "z-ensidle": {
-  "id": "z-ensidle",
-  "type": "rod",
-  "name": "z-ensidle",
-  "related": [],
-  "places": [
-   {
-    "place": "Q1014317",
-    "from": 1460,
-    "to": 1577,
-    "person": "Jošt z Ensidle, poté jeho potomci (Týřovští z Ensidle)",
-    "how": "lenni",
-    "from_approx": false,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q1014317",
-    "year": 1460,
-    "from": "koruna",
-    "to": "z-ensidle",
-    "how": "lenni"
-   },
-   {
-    "place": "Q1014317",
-    "year": 1528,
-    "from": "z-ensidle",
-    "to": "z-malcaunu",
-    "how": "lenni"
-   }
-  ],
-  "place_count": 1,
   "color_slot": null
  },
  "z-eytzingu": {
@@ -50768,7 +52440,7 @@
    {
     "place": "Q10396968",
     "year": 1603,
-    "from": "z-lisova",
+    "from": "spanovsti-z-lisova",
     "to": "z-funfkirchenu",
     "how": "koupe"
    },
@@ -50778,41 +52450,6 @@
     "from": "z-funfkirchenu",
     "to": "marradasove",
     "how": "konfiskace"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
- "z-gasinu": {
-  "id": "z-gasinu",
-  "type": "rod",
-  "name": "z-gasinu",
-  "related": [],
-  "places": [
-   {
-    "place": "Q62610248",
-    "from": 1650,
-    "to": 1738,
-    "person": "Gašínové z Gašína (Georg Adam z Gašinu)",
-    "how": "neznamo",
-    "from_approx": false,
-    "to_approx": true
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q62610248",
-    "year": 1650,
-    "from": "minsterberkove",
-    "to": "z-gasinu",
-    "how": "neznamo"
-   },
-   {
-    "place": "Q62610248",
-    "year": 1738,
-    "from": "z-gasinu",
-    "to": "neznamo",
-    "how": "neznamo"
    }
   ],
   "place_count": 1,
@@ -51383,86 +53020,6 @@
   "place_count": 1,
   "color_slot": null
  },
- "z-hochhazu": {
-  "id": "z-hochhazu",
-  "type": "rod",
-  "name": "z-hochhazu",
-  "related": [],
-  "places": [
-   {
-    "place": "Q2241772",
-    "from": 1513,
-    "to": 1565,
-    "person": "Mikuláš Hochhauser z Hochhazu",
-    "how": "dedictvi",
-    "from_approx": true,
-    "to_approx": true
-   },
-   {
-    "place": "Q2241772",
-    "from": 1565,
-    "to": 1588,
-    "person": "Petr z Hochhazu",
-    "how": "dedictvi",
-    "from_approx": true,
-    "to_approx": true
-   },
-   {
-    "place": "Q2241772",
-    "from": 1588,
-    "to": 1593,
-    "person": "Václav z Hochhazu",
-    "how": "dedictvi",
-    "from_approx": true,
-    "to_approx": true
-   },
-   {
-    "place": "Q2241772",
-    "from": 1593,
-    "to": 1597,
-    "person": "Mikuláš z Hochhazu mladší",
-    "how": "koupe",
-    "from_approx": true,
-    "to_approx": true
-   },
-   {
-    "place": "Q2241772",
-    "from": 1597,
-    "to": 1602,
-    "person": "Jiří z Hochhazu na Albrechticích a Velemyšlevsi",
-    "how": "koupe",
-    "from_approx": true,
-    "to_approx": false
-   },
-   {
-    "place": "Q2241772",
-    "from": 1602,
-    "to": 1622,
-    "person": "Jan Mikuláš z Hochhazu",
-    "how": "dedictvi",
-    "from_approx": false,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q2241772",
-    "year": 1513,
-    "from": "z-slavic",
-    "to": "z-hochhazu",
-    "how": "dedictvi"
-   },
-   {
-    "place": "Q2241772",
-    "year": 1622,
-    "from": "z-hochhazu",
-    "to": "lichtenstejnove",
-    "how": "konfiskace"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
  "z-hodetina": {
   "id": "z-hodetina",
   "type": "rod",
@@ -51493,68 +53050,6 @@
     "from": "z-hodetina",
     "to": "mesto",
     "how": "jine"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
- "z-hodic": {
-  "id": "z-hodic",
-  "type": "rod",
-  "name": "z-hodic",
-  "related": [],
-  "places": [
-   {
-    "place": "Q17167017",
-    "from": 1630,
-    "to": 1667,
-    "person": "Jiří z Hodic",
-    "how": "koupe",
-    "from_approx": false,
-    "to_approx": false
-   },
-   {
-    "place": "Q17167017",
-    "from": 1667,
-    "to": 1686,
-    "person": "Julius Leopold z Hodic",
-    "how": "dedictvi",
-    "from_approx": false,
-    "to_approx": false
-   },
-   {
-    "place": "Q17167017",
-    "from": 1686,
-    "to": 1741,
-    "person": "Karel Josef z Hodic",
-    "how": "dedictvi",
-    "from_approx": false,
-    "to_approx": true
-   },
-   {
-    "place": "Q17167017",
-    "from": 1741,
-    "to": 1778,
-    "person": "Albert Josef hrabě z Hodic",
-    "how": "dedictvi",
-    "from_approx": false,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q17167017",
-    "year": 1630,
-    "from": "ditrichstejnove",
-    "to": "z-hodic",
-    "how": "koupe"
-   },
-   {
-    "place": "Q17167017",
-    "year": 1779,
-    "from": "z-hodic",
-    "to": "cejkove-z-badenfeldu",
-    "how": "koupe"
    }
   ],
   "place_count": 1,
@@ -51679,41 +53174,6 @@
     "year": 1371,
     "from": "z-holesova",
     "to": "sternberkove",
-    "how": "neznamo"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
- "z-holohlav": {
-  "id": "z-holohlav",
-  "type": "rod",
-  "name": "z-holohlav",
-  "related": [],
-  "places": [
-   {
-    "place": "Q13219408",
-    "from": 1588,
-    "to": 1599,
-    "person": "Otomar z Holohlav",
-    "how": "neznamo",
-    "from_approx": false,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q13219408",
-    "year": 1588,
-    "from": "soukromnik",
-    "to": "z-holohlav",
-    "how": "neznamo"
-   },
-   {
-    "place": "Q13219408",
-    "year": 1599,
-    "from": "z-holohlav",
-    "to": "benedove-z-nectin",
     "how": "neznamo"
    }
   ],
@@ -51885,7 +53345,7 @@
     "place": "Q187633",
     "year": 1330,
     "from": "z-hostinneho",
-    "to": "pani-z-dube",
+    "to": "pani-z-dube-ronovci",
     "how": "neznamo"
    }
   ],
@@ -51912,7 +53372,7 @@
    {
     "place": "Q28872964",
     "year": 1664,
-    "from": "z-zampachu",
+    "from": "pani-z-potstejna-a-litic",
     "to": "z-hrachu",
     "how": "neznamo"
    },
@@ -52176,15 +53636,6 @@
   "related": [],
   "places": [
    {
-    "place": "Q12024521",
-    "from": 1341,
-    "to": 1368,
-    "person": "Jenec z Janovic",
-    "how": "zalozeni",
-    "from_approx": true,
-    "to_approx": true
-   },
-   {
     "place": "Q2242740",
     "from": 1392,
     "to": 1412,
@@ -52195,13 +53646,6 @@
    }
   ],
   "transfers": [
-   {
-    "place": "Q12024521",
-    "year": 1368,
-    "from": "z-janovic",
-    "to": "jenstejnove",
-    "how": "koupe"
-   },
    {
     "place": "Q2242740",
     "year": 1392,
@@ -52217,7 +53661,7 @@
     "how": "jine"
    }
   ],
-  "place_count": 2,
+  "place_count": 1,
   "color_slot": null
  },
  "z-javora": {
@@ -52394,7 +53838,7 @@
    {
     "place": "Q11730719",
     "year": 1510,
-    "from": "z-nabdina",
+    "from": "firsicove-z-nabdina",
     "to": "z-kamenice",
     "how": "neznamo"
    },
@@ -52499,7 +53943,7 @@
    {
     "place": "Q16162067",
     "year": 1909,
-    "from": "z-schirndingu",
+    "from": "schirndingerove-ze-schirndingu",
     "to": "z-kastu-z-ebelsberku",
     "how": "dedictvi"
    },
@@ -52733,41 +54177,6 @@
   "place_count": 1,
   "color_slot": null
  },
- "z-knenic": {
-  "id": "z-knenic",
-  "type": "rod",
-  "name": "z-knenic",
-  "related": [],
-  "places": [
-   {
-    "place": "Q1013014",
-    "from": 1558,
-    "to": 1562,
-    "person": "Václav Okrouhlický starší z Kněnic",
-    "how": "koupe",
-    "from_approx": false,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q1013014",
-    "year": 1558,
-    "from": "wittelsbachove",
-    "to": "z-knenic",
-    "how": "koupe"
-   },
-   {
-    "place": "Q1013014",
-    "year": 1562,
-    "from": "z-knenic",
-    "to": "bubnove-z-litic",
-    "how": "koupe"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
  "z-kochu": {
   "id": "z-kochu",
   "type": "rod",
@@ -52797,41 +54206,6 @@
     "year": 1753,
     "from": "z-kochu",
     "to": "koruna",
-    "how": "koupe"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
- "z-kocova": {
-  "id": "z-kocova",
-  "type": "rod",
-  "name": "z-kocova",
-  "related": [],
-  "places": [
-   {
-    "place": "Q14435327",
-    "from": 1411,
-    "to": 1446,
-    "person": "Radslav z Kočova",
-    "how": "neznamo",
-    "from_approx": true,
-    "to_approx": true
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q14435327",
-    "year": 1411,
-    "from": "z-porici",
-    "to": "z-kocova",
-    "how": "neznamo"
-   },
-   {
-    "place": "Q14435327",
-    "year": 1446,
-    "from": "z-kocova",
-    "to": "z-nekmire",
     "how": "koupe"
    }
   ],
@@ -53001,64 +54375,6 @@
   "place_count": 1,
   "color_slot": null
  },
- "z-korospataku": {
-  "id": "z-korospataku",
-  "type": "rod",
-  "name": "z-korospataku",
-  "related": [],
-  "places": [
-   {
-    "place": "Q12033148",
-    "from": 1820,
-    "to": 1945,
-    "person": "rodina Kálnokyů z Kőröspataku",
-    "how": "dedictvi",
-    "from_approx": true,
-    "to_approx": false
-   },
-   {
-    "place": "Q12033148",
-    "from": 2001,
-    "to": 2004,
-    "person": "Alexandr Kálnoky ml.",
-    "how": "restituce",
-    "from_approx": true,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q12033148",
-    "year": 1820,
-    "from": "blumegenove",
-    "to": "z-korospataku",
-    "how": "dedictvi"
-   },
-   {
-    "place": "Q12033148",
-    "year": 1945,
-    "from": "z-korospataku",
-    "to": "mesto",
-    "how": "konfiskace"
-   },
-   {
-    "place": "Q12033148",
-    "year": 2001,
-    "from": "mesto",
-    "to": "z-korospataku",
-    "how": "restituce"
-   },
-   {
-    "place": "Q12033148",
-    "year": 2004,
-    "from": "z-korospataku",
-    "to": "soukromnik",
-    "how": "koupe"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
  "z-kosina": {
   "id": "z-kosina",
   "type": "rod",
@@ -53087,7 +54403,7 @@
     "place": "Q12024521",
     "year": 1502,
     "from": "z-kosina",
-    "to": "z-ocedelic",
+    "to": "ojirove-z-ocedelic",
     "how": "neznamo"
    }
   ],
@@ -53848,33 +55164,6 @@
   "related": [],
   "places": [
    {
-    "place": "Q1012308",
-    "from": 1467,
-    "to": 1474,
-    "person": "Jiřík z Landštejna",
-    "how": "koupe",
-    "from_approx": false,
-    "to_approx": false
-   },
-   {
-    "place": "Q10816658",
-    "from": 1529,
-    "to": 1576,
-    "person": "Mikuláš Sviták z Landštejna, poté bratr Vilém Sviták z Landštejna",
-    "how": "koupe",
-    "from_approx": false,
-    "to_approx": false
-   },
-   {
-    "place": "Q10816658",
-    "from": 1582,
-    "to": 1589,
-    "person": "Vilém Sviták z Landštejna",
-    "how": "jine",
-    "from_approx": true,
-    "to_approx": false
-   },
-   {
     "place": "Q366444",
     "from": null,
     "to": null,
@@ -53885,48 +55174,6 @@
    }
   ],
   "transfers": [
-   {
-    "place": "Q1012308",
-    "year": 1467,
-    "from": "kostkove-z-postupic",
-    "to": "z-landstejna",
-    "how": "koupe"
-   },
-   {
-    "place": "Q1012308",
-    "year": 1474,
-    "from": "z-landstejna",
-    "to": "pernstejnove",
-    "how": "koupe"
-   },
-   {
-    "place": "Q10816658",
-    "year": 1529,
-    "from": "kolovratove",
-    "to": "z-landstejna",
-    "how": "koupe"
-   },
-   {
-    "place": "Q10816658",
-    "year": 1576,
-    "from": "z-landstejna",
-    "to": "z-saleku",
-    "how": "koupe"
-   },
-   {
-    "place": "Q10816658",
-    "year": 1582,
-    "from": "z-saleku",
-    "to": "z-landstejna",
-    "how": "jine"
-   },
-   {
-    "place": "Q10816658",
-    "year": 1589,
-    "from": "z-landstejna",
-    "to": "z-ronsperka",
-    "how": "koupe"
-   },
    {
     "place": "Q366444",
     "year": null,
@@ -53942,7 +55189,7 @@
     "how": "neznamo"
    }
   ],
-  "place_count": 3,
+  "place_count": 1,
   "color_slot": null
  },
  "z-lazan": {
@@ -54028,7 +55275,7 @@
     "place": "Q366439",
     "year": 1437,
     "from": "z-lazan",
-    "to": "z-tesnice",
+    "to": "blehove-z-tesnice",
     "how": "koupe"
    }
   ],
@@ -54158,41 +55405,6 @@
   "place_count": 1,
   "color_slot": null
  },
- "z-ledske": {
-  "id": "z-ledske",
-  "type": "rod",
-  "name": "z-ledske",
-  "related": [],
-  "places": [
-   {
-    "place": "Q11878928",
-    "from": 1754,
-    "to": 1792,
-    "person": "Ignác Dominik Chorynský z Ledské",
-    "how": "dedictvi",
-    "from_approx": false,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q11878928",
-    "year": 1754,
-    "from": "z-tybi",
-    "to": "z-ledske",
-    "how": "dedictvi"
-   },
-   {
-    "place": "Q11878928",
-    "year": 1792,
-    "from": "z-ledske",
-    "to": "sprinzensteinove",
-    "how": "snatek"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
  "z-leisnecku": {
   "id": "z-leisnecku",
   "type": "rod",
@@ -54299,7 +55511,7 @@
     "place": "Q916931",
     "year": 1398,
     "from": "z-letovic",
-    "to": "z-drahotus",
+    "to": "pani-z-drahotus",
     "how": "lenni"
    }
   ],
@@ -54396,7 +55608,7 @@
    {
     "place": "Q12024521",
     "year": 1447,
-    "from": "z-dube",
+    "from": "pani-z-dube-ronovci",
     "to": "z-liblic",
     "how": "neznamo"
    },
@@ -54439,7 +55651,7 @@
     "place": "Q366444",
     "year": 1639,
     "from": "z-lichtenegga",
-    "to": "z-belasy",
+    "to": "khuen-belasi",
     "how": "neznamo"
    }
   ],
@@ -54667,73 +55879,6 @@
   "place_count": 1,
   "color_slot": null
  },
- "z-lisova": {
-  "id": "z-lisova",
-  "type": "rod",
-  "name": "z-lisova",
-  "related": [],
-  "places": [
-   {
-    "place": "Q10396968",
-    "from": 1586,
-    "to": 1603,
-    "person": "Michal Španovský z Lisova a na Pacově, nejvyšší písař království českého",
-    "how": "koupe",
-    "from_approx": false,
-    "to_approx": false
-   },
-   {
-    "place": "Q3501132",
-    "from": 1642,
-    "to": 1694,
-    "person": "Jan z Lisau (z Lisova)",
-    "how": "koupe",
-    "from_approx": true,
-    "to_approx": true
-   },
-   {
-    "place": "Q3501132",
-    "from": 1694,
-    "to": 1746,
-    "person": "Rudolf Adam z Lisova",
-    "how": "dedictvi",
-    "from_approx": true,
-    "to_approx": true
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q10396968",
-    "year": 1586,
-    "from": "mracti-z-dube",
-    "to": "z-lisova",
-    "how": "koupe"
-   },
-   {
-    "place": "Q10396968",
-    "year": 1603,
-    "from": "z-lisova",
-    "to": "z-funfkirchenu",
-    "how": "koupe"
-   },
-   {
-    "place": "Q3501132",
-    "year": 1642,
-    "from": "slavatove-z-chlumu-a-kosumberka",
-    "to": "z-lisova",
-    "how": "koupe"
-   },
-   {
-    "place": "Q3501132",
-    "year": 1746,
-    "from": "z-lisova",
-    "to": "prichovsti-z-prichovic",
-    "how": "snatek"
-   }
-  ],
-  "place_count": 2,
-  "color_slot": null
- },
  "z-litovic": {
   "id": "z-litovic",
   "type": "rod",
@@ -54902,59 +56047,6 @@
   "place_count": 1,
   "color_slot": null
  },
- "z-loksan": {
-  "id": "z-loksan",
-  "type": "rod",
-  "name": "z-loksan",
-  "related": [],
-  "places": [
-   {
-    "place": "Q1421237",
-    "from": 1548,
-    "to": 1551,
-    "person": "Jiří z Lokšan, říšský místokancléř",
-    "how": "koupe",
-    "from_approx": false,
-    "to_approx": false
-   },
-   {
-    "place": "Q1421237",
-    "from": 1551,
-    "to": 1587,
-    "person": "Kateřina Lokšanská z Lokšan, rozená Adlerová",
-    "how": "dedictvi",
-    "from_approx": false,
-    "to_approx": true
-   },
-   {
-    "place": "Q1421237",
-    "from": 1587,
-    "to": 1623,
-    "person": "potomci Lokšanů (vnuk Ferdinand, od dělení 1607 jeho synové Adam, Václav a Jiří, kteří drželi panství společně)",
-    "how": "dedictvi",
-    "from_approx": true,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q1421237",
-    "year": 1548,
-    "from": "koruna",
-    "to": "z-loksan",
-    "how": "koupe"
-   },
-   {
-    "place": "Q1421237",
-    "year": 1623,
-    "from": "z-loksan",
-    "to": "jeniskove-z-ujezda",
-    "how": "koupe"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
  "z-loweneggu": {
   "id": "z-loweneggu",
   "type": "rod",
@@ -55108,7 +56200,7 @@
    {
     "place": "Q1014317",
     "year": 1528,
-    "from": "z-ensidle",
+    "from": "tyrovsti-z-ensidle",
     "to": "z-malcaunu",
     "how": "lenni"
    },
@@ -55461,7 +56553,7 @@
    {
     "place": "Q369694",
     "year": 1384,
-    "from": "z-pardubic",
+    "from": "pani-z-pardubic",
     "to": "z-milheimu",
     "how": "lenni"
    },
@@ -55688,41 +56780,6 @@
   "place_count": 1,
   "color_slot": null
  },
- "z-mosnova": {
-  "id": "z-mosnova",
-  "type": "rod",
-  "name": "z-mosnova",
-  "related": [],
-  "places": [
-   {
-    "place": "Q30729875",
-    "from": 1446,
-    "to": 1453,
-    "person": "Čeněk (Papák) z Mošnova",
-    "how": "lenni",
-    "from_approx": false,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q30729875",
-    "year": 1446,
-    "from": "neznamo",
-    "to": "z-mosnova",
-    "how": "lenni"
-   },
-   {
-    "place": "Q30729875",
-    "year": 1453,
-    "from": "z-mosnova",
-    "to": "z-brandysa",
-    "how": "lenni"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
  "z-mrdic": {
   "id": "z-mrdic",
   "type": "rod",
@@ -55746,41 +56803,6 @@
     "from": "z-mrdic",
     "to": "vartenberkove",
     "how": "jine"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
- "z-nabdina": {
-  "id": "z-nabdina",
-  "type": "rod",
-  "name": "z-nabdina",
-  "related": [],
-  "places": [
-   {
-    "place": "Q11730719",
-    "from": 1501,
-    "to": 1510,
-    "person": "Václav Firšic z Nabdína",
-    "how": "neznamo",
-    "from_approx": true,
-    "to_approx": true
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q11730719",
-    "year": 1501,
-    "from": "neznamo",
-    "to": "z-nabdina",
-    "how": "neznamo"
-   },
-   {
-    "place": "Q11730719",
-    "year": 1510,
-    "from": "z-nabdina",
-    "to": "z-kamenice",
-    "how": "neznamo"
    }
   ],
   "place_count": 1,
@@ -55967,7 +56989,7 @@
    {
     "place": "Q14435327",
     "year": 1446,
-    "from": "z-kocova",
+    "from": "kocovsti-z-kocova",
     "to": "z-nekmire",
     "how": "koupe"
    },
@@ -56185,73 +57207,6 @@
   "place_count": 1,
   "color_slot": null
  },
- "z-ocedelic": {
-  "id": "z-ocedelic",
-  "type": "rod",
-  "name": "z-ocedelic",
-  "related": [],
-  "places": [
-   {
-    "place": "Q11176339",
-    "from": 1472,
-    "to": 1473,
-    "person": "Bedřich Ojíř z Očedělic",
-    "how": "koupe",
-    "from_approx": false,
-    "to_approx": false
-   },
-   {
-    "place": "Q12024521",
-    "from": 1502,
-    "to": 1507,
-    "person": "Bohuslav Ojíř z Očedělic",
-    "how": "neznamo",
-    "from_approx": true,
-    "to_approx": true
-   },
-   {
-    "place": "Q12024521",
-    "from": 1507,
-    "to": 1514,
-    "person": "Jan Ojíř z Očedělic",
-    "how": "neznamo",
-    "from_approx": false,
-    "to_approx": true
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q11176339",
-    "year": 1472,
-    "from": "konipasove",
-    "to": "z-ocedelic",
-    "how": "koupe"
-   },
-   {
-    "place": "Q11176339",
-    "year": 1473,
-    "from": "z-ocedelic",
-    "to": "z-stareho-dvora",
-    "how": "koupe"
-   },
-   {
-    "place": "Q12024521",
-    "year": 1502,
-    "from": "z-kosina",
-    "to": "z-ocedelic",
-    "how": "neznamo"
-   },
-   {
-    "place": "Q12024521",
-    "year": 1514,
-    "from": "z-ocedelic",
-    "to": "z-plotist",
-    "how": "neznamo"
-   }
-  ],
-  "place_count": 2,
-  "color_slot": null
- },
  "z-ocelovic": {
   "id": "z-ocelovic",
   "type": "rod",
@@ -56466,64 +57421,6 @@
   "place_count": 1,
   "color_slot": null
  },
- "z-opocna": {
-  "id": "z-opocna",
-  "type": "rod",
-  "name": "z-opocna",
-  "related": [],
-  "places": [
-   {
-    "place": "Q1012914",
-    "from": 1394,
-    "to": 1397,
-    "person": "Štěpán z Opočna",
-    "how": "lenni",
-    "from_approx": false,
-    "to_approx": true
-   },
-   {
-    "place": "Q1012914",
-    "from": 1422,
-    "to": 1429,
-    "person": "Jan Městecký z Opočna",
-    "how": "lenni",
-    "from_approx": false,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q1012914",
-    "year": 1394,
-    "from": "koruna",
-    "to": "z-opocna",
-    "how": "lenni"
-   },
-   {
-    "place": "Q1012914",
-    "year": 1397,
-    "from": "z-opocna",
-    "to": "neznamo",
-    "how": "neznamo"
-   },
-   {
-    "place": "Q1012914",
-    "year": 1422,
-    "from": "lichtenburkove",
-    "to": "z-opocna",
-    "how": "lenni"
-   },
-   {
-    "place": "Q1012914",
-    "year": 1429,
-    "from": "z-opocna",
-    "to": "z-rusinova",
-    "how": "konfiskace"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
  "z-orlice": {
   "id": "z-orlice",
   "type": "rod",
@@ -56580,64 +57477,6 @@
    }
   ],
   "place_count": 1,
-  "color_slot": null
- },
- "z-orlika": {
-  "id": "z-orlika",
-  "type": "rod",
-  "name": "z-orlika",
-  "related": [],
-  "places": [
-   {
-    "place": "Q12024521",
-    "from": 1390,
-    "to": 1401,
-    "person": "Zikmund Huler z Orlíku, podkomoří",
-    "how": "dar",
-    "from_approx": false,
-    "to_approx": true
-   },
-   {
-    "place": "Q1421237",
-    "from": 1406,
-    "to": 1410,
-    "person": "Ondřej Huler z Orlíka",
-    "how": "neznamo",
-    "from_approx": false,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q12024521",
-    "year": 1390,
-    "from": "jenstejnove",
-    "to": "z-orlika",
-    "how": "dar"
-   },
-   {
-    "place": "Q12024521",
-    "year": 1401,
-    "from": "z-orlika",
-    "to": "z-cernic",
-    "how": "neznamo"
-   },
-   {
-    "place": "Q1421237",
-    "year": 1406,
-    "from": "buzici",
-    "to": "z-orlika",
-    "how": "neznamo"
-   },
-   {
-    "place": "Q1421237",
-    "year": 1410,
-    "from": "z-orlika",
-    "to": "koruna",
-    "how": "koupe"
-   }
-  ],
-  "place_count": 2,
   "color_slot": null
  },
  "z-osecan": {
@@ -56909,7 +57748,7 @@
     "place": "Q20428299",
     "year": 1584,
     "from": "z-otova",
-    "to": "z-vidrsperku",
+    "to": "vidrspergarove-z-vidrspergu",
     "how": "koupe"
    }
   ],
@@ -56949,82 +57788,6 @@
    }
   ],
   "place_count": 1,
-  "color_slot": null
- },
- "z-pardubic": {
-  "id": "z-pardubic",
-  "type": "rod",
-  "name": "z-pardubic",
-  "related": [],
-  "places": [
-   {
-    "place": "Q1013771",
-    "from": 1361,
-    "to": 1387,
-    "person": "Vilém z Pardubic, bratr arcibiskupa Arnošta",
-    "how": "jine",
-    "from_approx": true,
-    "to_approx": false
-   },
-   {
-    "place": "Q1013771",
-    "from": 1387,
-    "to": 1403,
-    "person": "Smil Flaška z Pardubic",
-    "how": "dedictvi",
-    "from_approx": true,
-    "to_approx": false
-   },
-   {
-    "place": "Q1013771",
-    "from": 1403,
-    "to": 1439,
-    "person": "Arnošt Flaška z Pardubic",
-    "how": "dedictvi",
-    "from_approx": false,
-    "to_approx": false
-   },
-   {
-    "place": "Q369694",
-    "from": 1351,
-    "to": 1384,
-    "person": "Arnošt z Hostýně (z Pardubic), poté synové včetně Viléma z Pardubic a jeho syna Smila Flašky",
-    "how": "vymena",
-    "from_approx": true,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q1013771",
-    "year": 1361,
-    "from": "vartenberkove",
-    "to": "z-pardubic",
-    "how": "jine"
-   },
-   {
-    "place": "Q1013771",
-    "year": 1439,
-    "from": "z-pardubic",
-    "to": "koruna",
-    "how": "jine"
-   },
-   {
-    "place": "Q369694",
-    "year": 1351,
-    "from": "ronovci",
-    "to": "z-pardubic",
-    "how": "vymena"
-   },
-   {
-    "place": "Q369694",
-    "year": 1384,
-    "from": "z-pardubic",
-    "to": "z-milheimu",
-    "how": "lenni"
-   }
-  ],
-  "place_count": 2,
   "color_slot": null
  },
  "z-pavlovic": {
@@ -57190,64 +57953,6 @@
    }
   ],
   "place_count": 1,
-  "color_slot": null
- },
- "z-perglasu": {
-  "id": "z-perglasu",
-  "type": "rod",
-  "name": "z Perglasu",
-  "related": [],
-  "places": [
-   {
-    "place": "Q1014368",
-    "from": 1597,
-    "to": 1622,
-    "person": "Volf Perglar z Perglasu, poté syn Václav Otakar z Perglasu",
-    "how": "koupe",
-    "from_approx": false,
-    "to_approx": false
-   },
-   {
-    "place": "Q28872964",
-    "from": 1623,
-    "to": 1642,
-    "person": "Arnold Perglar z Losentic",
-    "how": "koupe",
-    "from_approx": false,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q1014368",
-    "year": 1597,
-    "from": "plansti-ze-zeberka",
-    "to": "z-perglasu",
-    "how": "koupe"
-   },
-   {
-    "place": "Q1014368",
-    "year": 1622,
-    "from": "z-perglasu",
-    "to": "soukromnik",
-    "how": "koupe"
-   },
-   {
-    "place": "Q28872964",
-    "year": 1623,
-    "from": "kalenicove-z-kalenic",
-    "to": "z-perglasu",
-    "how": "koupe"
-   },
-   {
-    "place": "Q28872964",
-    "year": 1642,
-    "from": "z-perglasu",
-    "to": "z-dobrohoste",
-    "how": "koupe"
-   }
-  ],
-  "place_count": 2,
   "color_slot": null
  },
  "z-perkova": {
@@ -57439,7 +58144,7 @@
    {
     "place": "Q12024521",
     "year": 1514,
-    "from": "z-ocedelic",
+    "from": "ojirove-z-ocedelic",
     "to": "z-plotist",
     "how": "neznamo"
    },
@@ -57794,7 +58499,7 @@
     "place": "Q14435327",
     "year": 1411,
     "from": "z-porici",
-    "to": "z-kocova",
+    "to": "kocovsti-z-kocova",
     "how": "neznamo"
    }
   ],
@@ -57829,7 +58534,7 @@
     "place": "Q2242740",
     "year": 1437,
     "from": "z-porostle",
-    "to": "z-zampachu",
+    "to": "pani-z-potstejna-a-litic",
     "how": "jine"
    }
   ],
@@ -57875,41 +58580,6 @@
     "from": "z-portic",
     "to": "pluhove-z-rabstejna",
     "how": "lenni"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
- "z-pottingu": {
-  "id": "z-pottingu",
-  "type": "rod",
-  "name": "z-pottingu",
-  "related": [],
-  "places": [
-   {
-    "place": "Q33323103",
-    "from": 1633,
-    "to": 1681,
-    "person": "hrabata z Pöttingu",
-    "how": "neznamo",
-    "from_approx": true,
-    "to_approx": true
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q33323103",
-    "year": 1633,
-    "from": "hoeff-huertove",
-    "to": "z-pottingu",
-    "how": "neznamo"
-   },
-   {
-    "place": "Q33323103",
-    "year": 1681,
-    "from": "z-pottingu",
-    "to": "bissingenove",
-    "how": "neznamo"
    }
   ],
   "place_count": 1,
@@ -58593,41 +59263,6 @@
   "place_count": 2,
   "color_slot": null
  },
- "z-rokyc": {
-  "id": "z-rokyc",
-  "type": "rod",
-  "name": "z-rokyc",
-  "related": [],
-  "places": [
-   {
-    "place": "Q28872964",
-    "from": 1547,
-    "to": 1548,
-    "person": "Jindřich Střela z Rokyc",
-    "how": "koupe",
-    "from_approx": false,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q28872964",
-    "year": 1547,
-    "from": "kolovratove",
-    "to": "z-rokyc",
-    "how": "koupe"
-   },
-   {
-    "place": "Q28872964",
-    "year": 1548,
-    "from": "z-rokyc",
-    "to": "cerncicti-z-kacova",
-    "how": "koupe"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
  "z-ronsperka": {
   "id": "z-ronsperka",
   "type": "rod",
@@ -58702,7 +59337,7 @@
    {
     "place": "Q10816658",
     "year": 1589,
-    "from": "z-landstejna",
+    "from": "landstejnove",
     "to": "z-ronsperka",
     "how": "koupe"
    },
@@ -59023,7 +59658,7 @@
    {
     "place": "Q1012914",
     "year": 1429,
-    "from": "z-opocna",
+    "from": "pani-z-dobrusky-a-opocna",
     "to": "z-rusinova",
     "how": "konfiskace"
    },
@@ -59215,41 +59850,6 @@
   "place_count": 2,
   "color_slot": null
  },
- "z-rzaveho": {
-  "id": "z-rzaveho",
-  "type": "rod",
-  "name": "z-rzaveho",
-  "related": [],
-  "places": [
-   {
-    "place": "Q1012914",
-    "from": 1470,
-    "to": 1473,
-    "person": "Vít ze Rzavého",
-    "how": "konfiskace",
-    "from_approx": false,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q1012914",
-    "year": 1470,
-    "from": "koruna",
-    "to": "z-rzaveho",
-    "how": "konfiskace"
-   },
-   {
-    "place": "Q1012914",
-    "year": 1473,
-    "from": "z-rzaveho",
-    "to": "koruna",
-    "how": "jine"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
  "z-saleku": {
   "id": "z-saleku",
   "type": "rod",
@@ -59270,7 +59870,7 @@
    {
     "place": "Q10816658",
     "year": 1576,
-    "from": "z-landstejna",
+    "from": "landstejnove",
     "to": "z-saleku",
     "how": "koupe"
    },
@@ -59278,7 +59878,7 @@
     "place": "Q10816658",
     "year": 1582,
     "from": "z-saleku",
-    "to": "z-landstejna",
+    "to": "landstejnove",
     "how": "jine"
    }
   ],
@@ -59561,41 +60161,6 @@
   "place_count": 3,
   "color_slot": null
  },
- "z-schirndingu": {
-  "id": "z-schirndingu",
-  "type": "rod",
-  "name": "z-schirndingu",
-  "related": [],
-  "places": [
-   {
-    "place": "Q16162067",
-    "from": 1886,
-    "to": 1909,
-    "person": "hrabě Schirnding",
-    "how": "neznamo",
-    "from_approx": true,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q16162067",
-    "year": 1886,
-    "from": "pachtove-z-rajova",
-    "to": "z-schirndingu",
-    "how": "neznamo"
-   },
-   {
-    "place": "Q16162067",
-    "year": 1909,
-    "from": "z-schirndingu",
-    "to": "z-kastu-z-ebelsberku",
-    "how": "dedictvi"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
  "z-skvirina": {
   "id": "z-skvirina",
   "type": "rod",
@@ -59771,7 +60336,7 @@
     "place": "Q2241772",
     "year": 1513,
     "from": "z-slavic",
-    "to": "z-hochhazu",
+    "to": "hochhauzarove-z-hochhazu",
     "how": "dedictvi"
    }
   ],
@@ -60102,7 +60667,7 @@
    {
     "place": "Q11176339",
     "year": 1473,
-    "from": "z-ocedelic",
+    "from": "ojirove-z-ocedelic",
     "to": "z-stareho-dvora",
     "how": "koupe"
    },
@@ -60110,7 +60675,7 @@
     "place": "Q11176339",
     "year": 1516,
     "from": "z-stareho-dvora",
-    "to": "z-veitmile",
+    "to": "krabicove-z-veitmile",
     "how": "snatek"
    }
   ],
@@ -60786,41 +61351,6 @@
   "place_count": 1,
   "color_slot": null
  },
- "z-tesnice": {
-  "id": "z-tesnice",
-  "type": "rod",
-  "name": "z-tesnice",
-  "related": [],
-  "places": [
-   {
-    "place": "Q366439",
-    "from": 1437,
-    "to": 1443,
-    "person": "Jan Bleh z Těšnice",
-    "how": "koupe",
-    "from_approx": false,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q366439",
-    "year": 1437,
-    "from": "z-lazan",
-    "to": "z-tesnice",
-    "how": "koupe"
-   },
-   {
-    "place": "Q366439",
-    "year": 1443,
-    "from": "z-tesnice",
-    "to": "kolowrat-krakowsti",
-    "how": "koupe"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
  "z-tetina": {
   "id": "z-tetina",
   "type": "rod",
@@ -61218,7 +61748,7 @@
     "place": "Q11878928",
     "year": 1754,
     "from": "z-tybi",
-    "to": "z-ledske",
+    "to": "chorinsti-z-ledske",
     "how": "dedictvi"
    }
   ],
@@ -61383,7 +61913,7 @@
     "place": "Q12024521",
     "year": 1541,
     "from": "z-usavy",
-    "to": "z-veitmile",
+    "to": "krabicove-z-veitmile",
     "how": "neznamo"
    }
   ],
@@ -61581,145 +62111,6 @@
   "place_count": 1,
   "color_slot": null
  },
- "z-veitmile": {
-  "id": "z-veitmile",
-  "type": "rod",
-  "name": "z-veitmile",
-  "related": [],
-  "places": [
-   {
-    "place": "Q1014187",
-    "from": 1319,
-    "to": 1319,
-    "person": "Pešík z Veitmile",
-    "how": "lenni",
-    "from_approx": false,
-    "to_approx": false
-   },
-   {
-    "place": "Q11176339",
-    "from": 1516,
-    "to": 1549,
-    "person": "Anna Glacová, provdaná za Šebestiána z Veitmile",
-    "how": "snatek",
-    "from_approx": false,
-    "to_approx": false
-   },
-   {
-    "place": "Q11176339",
-    "from": 1551,
-    "to": 1554,
-    "person": "Jan z Veitmile",
-    "how": "jine",
-    "from_approx": false,
-    "to_approx": false
-   },
-   {
-    "place": "Q12024521",
-    "from": 1541,
-    "to": 1542,
-    "person": "Hynek Krabice z Veitmile, místopisař",
-    "how": "neznamo",
-    "from_approx": false,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q1014187",
-    "year": 1319,
-    "from": "koruna",
-    "to": "z-veitmile",
-    "how": "lenni"
-   },
-   {
-    "place": "Q1014187",
-    "year": 1319,
-    "from": "z-veitmile",
-    "to": "vartenberkove",
-    "how": "lenni"
-   },
-   {
-    "place": "Q11176339",
-    "year": 1516,
-    "from": "z-stareho-dvora",
-    "to": "z-veitmile",
-    "how": "snatek"
-   },
-   {
-    "place": "Q11176339",
-    "year": 1549,
-    "from": "z-veitmile",
-    "to": "gerstorfove-z-gerstorfu",
-    "how": "lenni"
-   },
-   {
-    "place": "Q11176339",
-    "year": 1551,
-    "from": "gerstorfove-z-gerstorfu",
-    "to": "z-veitmile",
-    "how": "jine"
-   },
-   {
-    "place": "Q11176339",
-    "year": 1554,
-    "from": "z-veitmile",
-    "to": "karlovicove-z-karlovic",
-    "how": "koupe"
-   },
-   {
-    "place": "Q12024521",
-    "year": 1541,
-    "from": "z-usavy",
-    "to": "z-veitmile",
-    "how": "neznamo"
-   },
-   {
-    "place": "Q12024521",
-    "year": 1542,
-    "from": "z-veitmile",
-    "to": "hrzanove-z-harasova",
-    "how": "koupe"
-   }
-  ],
-  "place_count": 3,
-  "color_slot": null
- },
- "z-verdenberka": {
-  "id": "z-verdenberka",
-  "type": "rod",
-  "name": "z-verdenberka",
-  "related": [],
-  "places": [
-   {
-    "place": "Q12041603",
-    "from": 1680,
-    "to": 1733,
-    "person": "Jan Křtitel Verda z Verdenberka",
-    "how": "koupe",
-    "from_approx": true,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q12041603",
-    "year": 1680,
-    "from": "valdstejnove",
-    "to": "z-verdenberka",
-    "how": "koupe"
-   },
-   {
-    "place": "Q12041603",
-    "year": 1733,
-    "from": "z-verdenberka",
-    "to": "z-enkenfurtu",
-    "how": "neznamo"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
  "z-vezek": {
   "id": "z-vezek",
   "type": "rod",
@@ -61864,41 +62255,6 @@
     "from": "z-vidhostic",
     "to": "chanovsti-z-dlouhe-vsi",
     "how": "dedictvi"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
- "z-vidrsperku": {
-  "id": "z-vidrsperku",
-  "type": "rod",
-  "name": "z-vidrsperku",
-  "related": [],
-  "places": [
-   {
-    "place": "Q20428299",
-    "from": 1584,
-    "to": 1624,
-    "person": "Jan Vidršpergár z Vidršperku",
-    "how": "koupe",
-    "from_approx": false,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q20428299",
-    "year": 1584,
-    "from": "z-otova",
-    "to": "z-vidrsperku",
-    "how": "koupe"
-   },
-   {
-    "place": "Q20428299",
-    "year": 1624,
-    "from": "z-vidrsperku",
-    "to": "kolowrat-krakowsti",
-    "how": "snatek"
    }
   ],
   "place_count": 1,
@@ -62749,158 +63105,6 @@
   "place_count": 1,
   "color_slot": null
  },
- "z-zampachu": {
-  "id": "z-zampachu",
-  "type": "rod",
-  "name": "z-zampachu",
-  "related": [],
-  "places": [
-   {
-    "place": "Q12041421",
-    "from": 1605,
-    "to": 1610,
-    "person": "Zdeněk Žampach z Potštejna (manžel Anny Marie z Kunovic)",
-    "how": "snatek",
-    "from_approx": true,
-    "to_approx": false
-   },
-   {
-    "place": "Q12047753",
-    "from": 1658,
-    "to": 1676,
-    "person": "Jan Karel Hložek ze Žampachu a manželka Anna Františka",
-    "how": "koupe",
-    "from_approx": true,
-    "to_approx": true
-   },
-   {
-    "place": "Q12048927",
-    "from": 1388,
-    "to": 1464,
-    "person": "Vaněk ze Žampachu",
-    "how": "neznamo",
-    "from_approx": true,
-    "to_approx": true
-   },
-   {
-    "place": "Q14923651",
-    "from": 1639,
-    "to": 1643,
-    "person": "Zdeněk Žampach z Potštejna",
-    "how": "snatek",
-    "from_approx": false,
-    "to_approx": false
-   },
-   {
-    "place": "Q2242740",
-    "from": 1437,
-    "to": 1445,
-    "person": "Jan Kolda starší ze Žampachu",
-    "how": "jine",
-    "from_approx": false,
-    "to_approx": true
-   },
-   {
-    "place": "Q2242740",
-    "from": 1445,
-    "to": 1456,
-    "person": "Jan Kolda mladší ze Žampachu",
-    "how": "dedictvi",
-    "from_approx": true,
-    "to_approx": false
-   },
-   {
-    "place": "Q28872964",
-    "from": 1657,
-    "to": 1664,
-    "person": "Albrecht Kryštof Hložek ze Žampachu",
-    "how": "neznamo",
-    "from_approx": false,
-    "to_approx": true
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q12041421",
-    "year": 1605,
-    "from": "pani-z-kunovic",
-    "to": "z-zampachu",
-    "how": "snatek"
-   },
-   {
-    "place": "Q12041421",
-    "year": 1610,
-    "from": "z-zampachu",
-    "to": "petrvaldsti-z-petrvaldu",
-    "how": "koupe"
-   },
-   {
-    "place": "Q12047753",
-    "year": 1658,
-    "from": "nosticove",
-    "to": "z-zampachu",
-    "how": "koupe"
-   },
-   {
-    "place": "Q12047753",
-    "year": 1676,
-    "from": "z-zampachu",
-    "to": "ditrichstejnove",
-    "how": "koupe"
-   },
-   {
-    "place": "Q12048927",
-    "year": 1464,
-    "from": "z-zampachu",
-    "to": "neznamo",
-    "how": "neznamo"
-   },
-   {
-    "place": "Q14923651",
-    "year": 1639,
-    "from": "sedlnicti-z-choltic",
-    "to": "z-zampachu",
-    "how": "snatek"
-   },
-   {
-    "place": "Q14923651",
-    "year": 1643,
-    "from": "z-zampachu",
-    "to": "althannove",
-    "how": "snatek"
-   },
-   {
-    "place": "Q2242740",
-    "year": 1437,
-    "from": "z-porostle",
-    "to": "z-zampachu",
-    "how": "jine"
-   },
-   {
-    "place": "Q2242740",
-    "year": 1456,
-    "from": "z-zampachu",
-    "to": "pani-z-kunstatu-a-podebrad",
-    "how": "jine"
-   },
-   {
-    "place": "Q28872964",
-    "year": 1657,
-    "from": "z-dobrohoste",
-    "to": "z-zampachu",
-    "how": "neznamo"
-   },
-   {
-    "place": "Q28872964",
-    "year": 1664,
-    "from": "z-zampachu",
-    "to": "z-hrachu",
-    "how": "neznamo"
-   }
-  ],
-  "place_count": 6,
-  "color_slot": null
- },
  "z-zap": {
   "id": "z-zap",
   "type": "rod",
@@ -63313,7 +63517,12 @@
   "cswiki": "https://cs.wikipedia.org/wiki/Zajícové_z_Hazmburka",
   "coat_of_arms": "Hasenburg CoA.jpg",
   "summary": "Zajícové z Hazmburka byli český šlechtický rod, jehož příslušníci zejména ve 14. a 15. století zastávali významné funkce. Byli větví rodu Buziců a jejich rodovým sídlem se ve 14. století stal hrad Hazmburk, podle kterého se začali označovat jako Zajícové z Hazmburka. Jan Zbyněk Zajíc z Hazmburka se na přelomu šestnáctého a sedmnáctého století velmi zadlužil, a přišel tak o většinu majetku.",
-  "related": [],
+  "related": [
+   {
+    "family": "buzici",
+    "relation": "větev rodu Buziců"
+   }
+  ],
   "places": [
    {
     "place": "Q1011224",
@@ -65687,7 +65896,7 @@
    {
     "place": "Q1012914",
     "year": 1397,
-    "from": "z-opocna",
+    "from": "pani-z-dobrusky-a-opocna",
     "to": "neznamo",
     "how": "neznamo"
    },
@@ -65821,7 +66030,7 @@
     "place": "Q11730719",
     "year": 1501,
     "from": "neznamo",
-    "to": "z-nabdina",
+    "to": "firsicove-z-nabdina",
     "how": "neznamo"
    },
    {
@@ -65834,7 +66043,7 @@
    {
     "place": "Q12048927",
     "year": 1464,
-    "from": "z-zampachu",
+    "from": "pani-z-potstejna-a-litic",
     "to": "neznamo",
     "how": "neznamo"
    },
@@ -66024,7 +66233,7 @@
     "place": "Q30729875",
     "year": 1446,
     "from": "neznamo",
-    "to": "z-mosnova",
+    "to": "papakove-z-mosnova",
     "how": "lenni"
    },
    {
@@ -66198,7 +66407,7 @@
    {
     "place": "Q62610248",
     "year": 1738,
-    "from": "z-gasinu",
+    "from": "gasinsti-z-gasina",
     "to": "neznamo",
     "how": "neznamo"
    },
@@ -68677,7 +68886,7 @@
     "place": "Q1012914",
     "year": 1394,
     "from": "koruna",
-    "to": "z-opocna",
+    "to": "pani-z-dobrusky-a-opocna",
     "how": "lenni"
    },
    {
@@ -68705,13 +68914,13 @@
     "place": "Q1012914",
     "year": 1470,
     "from": "koruna",
-    "to": "z-rzaveho",
+    "to": "vitove-ze-rzaveho",
     "how": "konfiskace"
    },
    {
     "place": "Q1012914",
     "year": 1473,
-    "from": "z-rzaveho",
+    "from": "vitove-ze-rzaveho",
     "to": "koruna",
     "how": "jine"
    },
@@ -68865,7 +69074,7 @@
    {
     "place": "Q1013771",
     "year": 1439,
-    "from": "z-pardubic",
+    "from": "pani-z-pardubic",
     "to": "koruna",
     "how": "jine"
    },
@@ -68894,7 +69103,7 @@
     "place": "Q1014187",
     "year": 1319,
     "from": "koruna",
-    "to": "z-veitmile",
+    "to": "krabicove-z-veitmile",
     "how": "lenni"
    },
    {
@@ -69013,7 +69222,7 @@
     "place": "Q1014317",
     "year": 1460,
     "from": "koruna",
-    "to": "z-ensidle",
+    "to": "tyrovsti-z-ensidle",
     "how": "lenni"
    },
    {
@@ -69740,7 +69949,7 @@
    {
     "place": "Q1421237",
     "year": 1410,
-    "from": "z-orlika",
+    "from": "hulerove-z-orlika",
     "to": "koruna",
     "how": "koupe"
    },
@@ -69762,7 +69971,7 @@
     "place": "Q1421237",
     "year": 1548,
     "from": "koruna",
-    "to": "z-loksan",
+    "to": "loksanove-z-loksan",
     "how": "koupe"
    },
    {
@@ -77702,7 +77911,7 @@
    {
     "place": "Q12033148",
     "year": 1945,
-    "from": "z-korospataku",
+    "from": "kalnokyove-z-korospataku",
     "to": "mesto",
     "how": "konfiskace"
    },
@@ -77710,7 +77919,7 @@
     "place": "Q12033148",
     "year": 2001,
     "from": "mesto",
-    "to": "z-korospataku",
+    "to": "kalnokyove-z-korospataku",
     "how": "restituce"
    },
    {
@@ -77962,13 +78171,13 @@
     "place": "Q21587658",
     "year": 1621,
     "from": "mesto",
-    "to": "z-albenreuthu",
+    "to": "lamingerove-z-albenreuthu",
     "how": "konfiskace"
    },
    {
     "place": "Q21587658",
     "year": 1671,
-    "from": "z-albenreuthu",
+    "from": "lamingerove-z-albenreuthu",
     "to": "mesto",
     "how": "vymena"
    },
@@ -81930,7 +82139,7 @@
    {
     "place": "Q1014368",
     "year": 1622,
-    "from": "z-perglasu",
+    "from": "perglarove-z-perglasu",
     "to": "soukromnik",
     "how": "koupe"
    },
@@ -82357,7 +82566,7 @@
    {
     "place": "Q12033148",
     "year": 2004,
-    "from": "z-korospataku",
+    "from": "kalnokyove-z-korospataku",
     "to": "soukromnik",
     "how": "koupe"
    },
@@ -82540,7 +82749,7 @@
     "place": "Q13219408",
     "year": 1588,
     "from": "soukromnik",
-    "to": "z-holohlav",
+    "to": "otmarove-z-holohlav",
     "how": "neznamo"
    },
    {

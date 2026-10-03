@@ -1,39 +1,260 @@
 {
  "id": "Q62610248",
  "name": "Fryštát",
- "founded": {"year": 1288, "approx": true, "text": "Kníže Měšek I. Těšínsko-Osvětimský (dříve Opolský) nechal na skalním návrší nad Olší postavit nový hrad, stavební práce začaly před rokem 1288 gotickou hradní kaplí."},
+ "founded": {
+  "year": 1288,
+  "approx": true,
+  "text": "Kníže Měšek I. Těšínsko-Osvětimský (dříve Opolský) nechal na skalním návrší nad Olší postavit nový hrad, stavební práce začaly před rokem 1288 gotickou hradní kaplí."
+ },
  "summary": "Goticko-renesanční Fryštátský hrad založil koncem 13. století slezský Piastovec Měšek I. Těšínsko-Osvětimský jako strážce obchodní stezky; od 15. století se stal rezidenčním sídlem těšínské a později samostatné fryštátské větve Piastovců, kteří zde vládli jako lenní držitelé českých králů až do vymření rodu roku 1571. Poté hrad krátce patřil habsburské komoře, od roku 1573 Cigánům ze Slupska a od 1637 Žampachům z Potštejna; od roku 1650 jej drželi Gašínové a po roce 1749 Taaffeové. Roku 1791 jej koupili Larisch-Mönnichové, kteří areál přestavěli klasicistně; roku 1945 byl na základě Benešových dekretů zabaven a rozdělen na státní zámek a farní kostel. Zámek s parkem je od roku 1990 majetkem města Karviné.",
  "owners": [
-  {"owner": "piastovci", "owner_wiki": "Piastovci", "person": "Měšek I. Těšínsko-Osvětimský (dříve Měšek III. Opolský)", "from": 1288, "to": 1315, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "stavba začala před rokem 1288 (cs.wiki: 1282-1288 přeložil město a založil hrad); Měšek zemřel 27. 8. 1315 (cs.wiki, článek o Měškovi I. Těšínském); od 1327 byl hrad lénem českých králů, fakticky jej dále drželi Piastovci; nástupce Měška (Kazimír I.) článek o hradu neuvádí"},
-  {"owner": "piastovci", "owner_wiki": "Piastovci", "person": "Přemysl I. Nošák", "from": null, "to": 1410, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "před rokem 1377 provedl přestavbu dřevěných částí na kamenné; počátek jeho držby Fryštátu zdroje neuvádějí, zemřel 23. 5. 1410 (cs.wiki, článek o Přemyslovi I. Nošákovi)"},
-  {"owner": "piastovci", "owner_wiki": "Piastovci", "person": "Boleslav I. a kněžna Eufemie Mazovská", "from": 1412, "to": 1447, "from_approx": false, "to_approx": true, "how": "dar", "note": "Boleslav I. věnoval hrad při sňatku 1412 manželce Eufemii jako věnné léno; po ovdovění (1431) zde kněžna sídlila a vychovala potomky; Boleslav II. převzal fryštátskou část po smrti matky 1447"},
-  {"owner": "piastovci", "owner_wiki": "Piastovci", "person": "Boleslav II. Těšínský", "from": 1447, "to": 1452, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "vládl fryštátské části knížectví z hradu do své smrti roku 1452"},
-  {"owner": "piastovci", "owner_wiki": "Piastovci", "person": "kněžna Anna a syn Kazimír II. Těšínský", "from": 1452, "to": 1477, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "po smrti Boleslava II. žila na hradě jeho žena Anna; Kazimír II. odsud vládl fryštátskému panství 1460-1477, pak sjednotil těšínské knížectví a sídlo přesunul do Těšína"},
-  {"owner": "piastovci", "owner_wiki": "Piastovci", "person": "Kazimír II. Těšínský (hrad dále užíval reprezentativně)", "from": 1477, "to": 1528, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "zemřel v říjnu 1528 (cs.wiki, článek o Kazimírovi II.); 1511-1514 hrad přestavěl na goticko-renesanční zámek"},
-  {"owner": "piastovci", "owner_wiki": "Piastovci", "person": "Václav III. Adam Těšínský", "from": 1528, "to": 1563, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "vnuk Kazimíra II., regentem byl Jan IV. z Pernštejna; 1552 na 4 roky přesunul dvůr na Fryštát, 1567 zde měla předsvatební hostinu jeho druhá žena; rok 1528 podle úmrtí Kazimíra II., cs.wiki o hradu uvádí jen, že Václav byl nezletilý"},
-  {"owner": "piastovci", "owner_wiki": "Piastovci", "person": "Fridrich Kazimír Fryštátský", "from": 1563, "to": 1571, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "1563 rozdělil těšínské knížectví a ujal se vlády nad fryštátskou částí; založil fryštátskou větev, zahájil stavbu zámku Ráj; smrtí roku 1571 větev vymřela"},
-  {"owner": "koruna", "owner_wiki": null, "person": "Maxmilián II. Habsburský", "from": 1571, "to": 1573, "from_approx": false, "to_approx": false, "how": "jine", "note": "jako léno českých králů připadl hrad po vymření fryštátských Piastovců koruně; pro dluhy jej roku 1573 prodal (pl.wiki uvádí 1572)"},
-  {"owner": "z-slupska", "owner_wiki": null, "person": "Václav Cigán ze Slupska", "from": 1573, "to": 1637, "from_approx": false, "to_approx": false, "how": "koupe", "note": "rod se na hradě usídlil, 1637 museli pro protestantské vyznání Fryštát opustit; rozšířili hradní kostel o Moravskou kapli"},
-  {"owner": "pani-z-potstejna-a-litic", "owner_wiki": "Páni z Potštejna a Litic", "person": "Karel Zdeněk Žampach z Potštejna", "from": 1637, "to": 1639, "from_approx": false, "to_approx": true, "how": "koupe", "note": "koupil hrad s panstvím, sám zde nesídlil, ale natrvalo obnovil katolickou víru; podle pl.wiki jej po dvou letech prodal (rok 1639 dopočten)"},
-  {"owner": "minsterberkove", "owner_wiki": "Minsterberkové", "person": "Jindřich Václav z Minstrberka", "from": 1639, "to": null, "from_approx": true, "to_approx": null, "how": "koupe", "note": "pl.wiki (Pałac we Frysztacie) uvádí, že jej po Žampachovi krátce vlastnil; přesné roky nejsou uvedeny"},
-  {"owner": "z-gasinu", "owner_wiki": null, "person": "Gašínové z Gašína (Georg Adam z Gašinu)", "from": 1650, "to": 1738, "from_approx": false, "to_approx": true, "how": "neznamo", "note": "od 1650 hrabata z Gašína (pl.wiki), udělali z něj rodové sídlo, barokní opravy; Georg Adam před rokem 1700 opravil interiéry hradního kostela; konec držby vychází z pl.wiki (1738-1749 čtyři změny majitele)"},
-  {"owner": "neznamo", "owner_wiki": null, "person": null, "from": 1738, "to": 1749, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "pl.wiki: v letech 1738-1749 zámek čtyřikrát změnil majitele, jména nejsou uvedena"},
-  {"owner": "taaffeove", "owner_wiki": null, "person": "Rudolf Taaffe", "from": 1749, "to": 1791, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "hrabata Taaffe jako dlouhodobí majitelé po 1749 (pl.wiki); po roce 1781 Rudolf Taaffe postavil na farním nádvoří novou faru a hradní zeď; způsob nabytí zdroje neuvádějí"},
-  {"owner": "larischove", "owner_wiki": "Larischové", "person": "Larisch-Mönnichové (hrabě Jan Larisch von Mönnich)", "from": 1791, "to": 1945, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupě 1791 podle cs.wiki (pl.wiki uvádí 1792); rozšířili zámek o Lottyhaus, klasicistní fasáda, 1804 anglický park; po 1873 sídlili hlavně v Solci a Fryštát sloužil spíše hospodářsky"},
-  {"owner": "cirkev", "owner_wiki": null, "person": "římskokatolická církev", "from": 1945, "to": null, "from_approx": false, "to_approx": null, "how": "jine", "note": "kostelní část areálu (kostel Povýšení sv. Kříže) připadla při rozdělení 1945 církvi"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": 1990, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "na základě Benešových dekretů zabaven Larisch-Mönnichům; zámecká část připadla státu, sídlil zde MNV a správa dolu"},
-  {"owner": "mesto", "owner_wiki": null, "person": "město Karviná", "from": 1990, "to": null, "from_approx": false, "to_approx": null, "how": "restituce", "note": "podle pl.wiki přešel zámek s parkem roku 1990 do vlastnictví města Karviné, které provedlo rekonstrukci; zpřístupněn 1997"}
+  {
+   "owner": "piastovci",
+   "owner_wiki": "Piastovci",
+   "person": "Měšek I. Těšínsko-Osvětimský (dříve Měšek III. Opolský)",
+   "from": 1288,
+   "to": 1315,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "stavba začala před rokem 1288 (cs.wiki: 1282-1288 přeložil město a založil hrad); Měšek zemřel 27. 8. 1315 (cs.wiki, článek o Měškovi I. Těšínském); od 1327 byl hrad lénem českých králů, fakticky jej dále drželi Piastovci; nástupce Měška (Kazimír I.) článek o hradu neuvádí"
+  },
+  {
+   "owner": "piastovci",
+   "owner_wiki": "Piastovci",
+   "person": "Přemysl I. Nošák",
+   "from": null,
+   "to": 1410,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "před rokem 1377 provedl přestavbu dřevěných částí na kamenné; počátek jeho držby Fryštátu zdroje neuvádějí, zemřel 23. 5. 1410 (cs.wiki, článek o Přemyslovi I. Nošákovi)"
+  },
+  {
+   "owner": "piastovci",
+   "owner_wiki": "Piastovci",
+   "person": "Boleslav I. a kněžna Eufemie Mazovská",
+   "from": 1412,
+   "to": 1447,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dar",
+   "note": "Boleslav I. věnoval hrad při sňatku 1412 manželce Eufemii jako věnné léno; po ovdovění (1431) zde kněžna sídlila a vychovala potomky; Boleslav II. převzal fryštátskou část po smrti matky 1447"
+  },
+  {
+   "owner": "piastovci",
+   "owner_wiki": "Piastovci",
+   "person": "Boleslav II. Těšínský",
+   "from": 1447,
+   "to": 1452,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "vládl fryštátské části knížectví z hradu do své smrti roku 1452"
+  },
+  {
+   "owner": "piastovci",
+   "owner_wiki": "Piastovci",
+   "person": "kněžna Anna a syn Kazimír II. Těšínský",
+   "from": 1452,
+   "to": 1477,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "po smrti Boleslava II. žila na hradě jeho žena Anna; Kazimír II. odsud vládl fryštátskému panství 1460-1477, pak sjednotil těšínské knížectví a sídlo přesunul do Těšína"
+  },
+  {
+   "owner": "piastovci",
+   "owner_wiki": "Piastovci",
+   "person": "Kazimír II. Těšínský (hrad dále užíval reprezentativně)",
+   "from": 1477,
+   "to": 1528,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "zemřel v říjnu 1528 (cs.wiki, článek o Kazimírovi II.); 1511-1514 hrad přestavěl na goticko-renesanční zámek"
+  },
+  {
+   "owner": "piastovci",
+   "owner_wiki": "Piastovci",
+   "person": "Václav III. Adam Těšínský",
+   "from": 1528,
+   "to": 1563,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "vnuk Kazimíra II., regentem byl Jan IV. z Pernštejna; 1552 na 4 roky přesunul dvůr na Fryštát, 1567 zde měla předsvatební hostinu jeho druhá žena; rok 1528 podle úmrtí Kazimíra II., cs.wiki o hradu uvádí jen, že Václav byl nezletilý"
+  },
+  {
+   "owner": "piastovci",
+   "owner_wiki": "Piastovci",
+   "person": "Fridrich Kazimír Fryštátský",
+   "from": 1563,
+   "to": 1571,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "1563 rozdělil těšínské knížectví a ujal se vlády nad fryštátskou částí; založil fryštátskou větev, zahájil stavbu zámku Ráj; smrtí roku 1571 větev vymřela"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Maxmilián II. Habsburský",
+   "from": 1571,
+   "to": 1573,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "jako léno českých králů připadl hrad po vymření fryštátských Piastovců koruně; pro dluhy jej roku 1573 prodal (pl.wiki uvádí 1572)"
+  },
+  {
+   "owner": "z-slupska",
+   "owner_wiki": null,
+   "person": "Václav Cigán ze Slupska",
+   "from": 1573,
+   "to": 1637,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "rod se na hradě usídlil, 1637 museli pro protestantské vyznání Fryštát opustit; rozšířili hradní kostel o Moravskou kapli"
+  },
+  {
+   "owner": "pani-z-potstejna-a-litic",
+   "owner_wiki": "Páni z Potštejna a Litic",
+   "person": "Karel Zdeněk Žampach z Potštejna",
+   "from": 1637,
+   "to": 1639,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "koupil hrad s panstvím, sám zde nesídlil, ale natrvalo obnovil katolickou víru; podle pl.wiki jej po dvou letech prodal (rok 1639 dopočten)"
+  },
+  {
+   "owner": "minsterberkove",
+   "owner_wiki": "Minsterberkové",
+   "person": "Jindřich Václav z Minstrberka",
+   "from": 1639,
+   "to": null,
+   "from_approx": true,
+   "to_approx": null,
+   "how": "koupe",
+   "note": "pl.wiki (Pałac we Frysztacie) uvádí, že jej po Žampachovi krátce vlastnil; přesné roky nejsou uvedeny"
+  },
+  {
+   "owner": "gasinsti-z-gasina",
+   "owner_wiki": "Gašinští z Gašina",
+   "person": "Gašínové z Gašína (Georg Adam z Gašinu)",
+   "from": 1650,
+   "to": 1738,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "od 1650 hrabata z Gašína (pl.wiki), udělali z něj rodové sídlo, barokní opravy; Georg Adam před rokem 1700 opravil interiéry hradního kostela; konec držby vychází z pl.wiki (1738-1749 čtyři změny majitele)"
+  },
+  {
+   "owner": "neznamo",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1738,
+   "to": 1749,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "pl.wiki: v letech 1738-1749 zámek čtyřikrát změnil majitele, jména nejsou uvedena"
+  },
+  {
+   "owner": "taaffeove",
+   "owner_wiki": null,
+   "person": "Rudolf Taaffe",
+   "from": 1749,
+   "to": 1791,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "hrabata Taaffe jako dlouhodobí majitelé po 1749 (pl.wiki); po roce 1781 Rudolf Taaffe postavil na farním nádvoří novou faru a hradní zeď; způsob nabytí zdroje neuvádějí"
+  },
+  {
+   "owner": "larischove",
+   "owner_wiki": "Larischové",
+   "person": "Larisch-Mönnichové (hrabě Jan Larisch von Mönnich)",
+   "from": 1791,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupě 1791 podle cs.wiki (pl.wiki uvádí 1792); rozšířili zámek o Lottyhaus, klasicistní fasáda, 1804 anglický park; po 1873 sídlili hlavně v Solci a Fryštát sloužil spíše hospodářsky"
+  },
+  {
+   "owner": "cirkev",
+   "owner_wiki": null,
+   "person": "římskokatolická církev",
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": null,
+   "how": "jine",
+   "note": "kostelní část areálu (kostel Povýšení sv. Kříže) připadla při rozdělení 1945 církvi"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": 1990,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "na základě Benešových dekretů zabaven Larisch-Mönnichům; zámecká část připadla státu, sídlil zde MNV a správa dolu"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "město Karviná",
+   "from": 1990,
+   "to": null,
+   "from_approx": false,
+   "to_approx": null,
+   "how": "restituce",
+   "note": "podle pl.wiki přešel zámek s parkem roku 1990 do vlastnictví města Karviné, které provedlo rekonstrukci; zpřístupněn 1997"
+  }
  ],
  "events": [
-  {"year": 1288, "text": "Měšek I. zahajuje stavbu nového hradu nad Olší, nejstarší je gotická hradní kaple"},
-  {"year": 1412, "text": "Boleslav I. věnuje hrad manželce Eufemii Mazovské, ta jej rozšiřuje na rezidenční sídlo"},
-  {"year": 1477, "text": "Kazimír II. sjednocuje těšínské knížectví a přesouvá sídlo do Těšína, Fryštát dál slouží reprezentativně"},
-  {"year": 1511, "text": "požár hradu i města, následuje renesanční přestavba (1511-1514) a přístavba věže kostela"},
-  {"year": 1571, "text": "smrtí Fridricha Kazimíra vymírá fryštátská větev Piastovců, hrad připadá jako odúmrť koruně"},
-  {"year": 1637, "text": "hrad kupuje Karel Zdeněk Žampach z Potštejna, natrvalo obnovuje katolickou víru"},
-  {"year": 1791, "text": "areál kupují Larisch-Mönnichové, rozšiřují jej a dávají mu klasicistní podobu"},
-  {"year": 1945, "text": "na základě Benešových dekretů zabaven Larisch-Mönnichům a rozdělen na státní zámek a farní kostel"},
-  {"year": 1990, "text": "zámek s parkem přechází do vlastnictví města Karviné, následuje rekonstrukce a zpřístupnění (1997)"}
+  {
+   "year": 1288,
+   "text": "Měšek I. zahajuje stavbu nového hradu nad Olší, nejstarší je gotická hradní kaple"
+  },
+  {
+   "year": 1412,
+   "text": "Boleslav I. věnuje hrad manželce Eufemii Mazovské, ta jej rozšiřuje na rezidenční sídlo"
+  },
+  {
+   "year": 1477,
+   "text": "Kazimír II. sjednocuje těšínské knížectví a přesouvá sídlo do Těšína, Fryštát dál slouží reprezentativně"
+  },
+  {
+   "year": 1511,
+   "text": "požár hradu i města, následuje renesanční přestavba (1511-1514) a přístavba věže kostela"
+  },
+  {
+   "year": 1571,
+   "text": "smrtí Fridricha Kazimíra vymírá fryštátská větev Piastovců, hrad připadá jako odúmrť koruně"
+  },
+  {
+   "year": 1637,
+   "text": "hrad kupuje Karel Zdeněk Žampach z Potštejna, natrvalo obnovuje katolickou víru"
+  },
+  {
+   "year": 1791,
+   "text": "areál kupují Larisch-Mönnichové, rozšiřují jej a dávají mu klasicistní podobu"
+  },
+  {
+   "year": 1945,
+   "text": "na základě Benešových dekretů zabaven Larisch-Mönnichům a rozdělen na státní zámek a farní kostel"
+  },
+  {
+   "year": 1990,
+   "text": "zámek s parkem přechází do vlastnictví města Karviné, následuje rekonstrukce a zpřístupnění (1997)"
+  }
  ],
  "sources": [
   "https://cs.wikipedia.org/wiki/Fryštát_(hrad)",

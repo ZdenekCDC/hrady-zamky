@@ -1,34 +1,226 @@
 {
  "id": "Q1013014",
  "name": "Litice",
- "founded": {"year": 1290, "approx": true, "text": "Hrad byl založen koncem 13. století za posledních Přemyslovců v rámci kolonizace pohraničního pralesa severovýchodních Čech; vybudovali jej členové rodu Drslaviců, kteří sem přenesli i jména svých plzeňských rodových sídel (Litice, Potštejn)."},
+ "founded": {
+  "year": 1290,
+  "approx": true,
+  "text": "Hrad byl založen koncem 13. století za posledních Přemyslovců v rámci kolonizace pohraničního pralesa severovýchodních Čech; vybudovali jej členové rodu Drslaviců, kteří sem přenesli i jména svých plzeňských rodových sídel (Litice, Potštejn)."
+ },
  "summary": "Hrad Litice nad Orlicí založili koncem 13. století Drslavici v rámci kolonizace Podorlicka. Po nejasném období (možný vztah pražského rodu Pušů, poté král, zástava Jindřichovi z Lipé a výměna s Lichtenburky) patřil od nejpozději roku 1371 pánům z Kunštátu, včetně Jiřího z Poděbrad, který jej přestavěl. Od roku 1495 vlastnili Litice Pernštejnové, poté se panství rychle střídalo (Wittelsbachové, Okrouhličtí z Kněnic), až je roku 1562 získal rod z Bubna, který je držel do roku 1809. Poté hrad krátce patřil Windischgrätzům, od roku 1815 Parishům až do znárodnění velkostatků roku 1948, dnes je majetkem státu a spravuje jej Národní památkový ústav.",
  "owners": [
-  {"owner": "drslavici", "owner_wiki": "Drslavici", "person": null, "from": 1290, "to": null, "from_approx": true, "to_approx": true, "how": "zalozeni", "note": "koncem 13. století, 'těsně před rokem 1300' (en.wiki); založili síť hradů v Podorlicku (Litice, Potštejn) podle plzeňských rodových sídel; konec jejich držby není doložen"},
-  {"owner": "pusove", "owner_wiki": null, "person": null, "from": 1309, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "jen dedukce: roku 1309 zde byli vězněni zemští šlechtici zajatí pražskými a kutnohorskými patricii vedenými Peregrinem Pušem, z čehož cs.wiki usuzuje na vlastnický vztah Pušů k hradu; rok 1309 je rok události, ne doložené držby; nedlouho poté hrad získal král"},
-  {"owner": "koruna", "owner_wiki": null, "person": null, "from": null, "to": 1316, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "cs.wiki: nedlouho po 1309 se hrad stal královským majetkem; přesný rok neuveden"},
-  {"owner": "pani-z-lipe", "owner_wiki": "Páni z Lipé", "person": "Jindřich mladší z Lipé", "from": 1316, "to": 1333, "from_approx": false, "to_approx": false, "how": "lenni", "note": "český král Jan Lucemburský mu hrad zastavil roku 1316"},
-  {"owner": "koruna", "owner_wiki": null, "person": "Karel (markrabě moravský)", "from": 1333, "to": null, "from_approx": false, "to_approx": true, "how": "koupe", "note": "markrabě Karel po návratu z Itálie vykoupil zastavené královské hrady včetně Litic (1333); en.wiki: krátce vlastnili Jan Lucemburský a Karel IV.; hrad poté zřejmě ještě za Jana Lucemburského dostali Lichtenburkové výměnou za Lichnici"},
-  {"owner": "lichtenburkove", "owner_wiki": "Lichtenburkové", "person": null, "from": null, "to": 1365, "from_approx": true, "to_approx": false, "how": "vymena", "note": "připomínáni v 50. a 60. letech 14. století; roku 1365 Jan z Lichtenburka Litice prodal Jindřichovi z Lipé; rok počátku jejich držby cs.wiki neuvádí"},
-  {"owner": "pani-z-lipe", "owner_wiki": "Páni z Lipé", "person": "Jindřich z Lipé", "from": 1365, "to": 1371, "from_approx": false, "to_approx": true, "how": "koupe", "note": "koupil 1365; nedlouho poté hrad opět změnil majitele (nejpozději 1371 už patřil Kunštátům)"},
-  {"owner": "pani-z-kunstatu-a-podebrad", "owner_wiki": "Páni z Kunštátu a Poděbrad", "person": "Boček z Kunštátu, jeho syn Boček, Viktorin a Jiří z Kunštátu a Poděbrad", "from": 1371, "to": 1472, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "nejpozději od roku 1371 (cs.wiki, shoduje se s en.wiki); po Bočkovi (+1373) jeho syn Boček (+1416), pak Viktorin (+1427) a Jiří z Kunštátu a Poděbrad, který hrad po polovině 15. století přestavěl (dokončeno 1468); zde se roku 1470 narodil jeho vnuk Jiří Münsterberský"},
-  {"owner": "pani-z-kunstatu-a-podebrad", "owner_wiki": "Páni z Kunštátu a Poděbrad", "person": "Boček z Kunštátu", "from": 1472, "to": null, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "při dělení majetku po Jiřím z Poděbrad 1472 připadly Litice nesvéprávnému Bočkovi, který je ještě za života postoupil bratru a poručníkovi; rok postoupení cs.wiki neuvádí"},
-  {"owner": "minsterberkove", "owner_wiki": "Minsterberkové", "person": "Jindřich starší z Münsterberka", "from": null, "to": 1495, "from_approx": true, "to_approx": false, "how": "jine", "note": "Boček mu Litice postoupil; roku 1491 je doložen jako vlastník litického panství; kvůli zadlužení (válka s Matyášem Korvínem) panství roku 1495 prodal Vilému z Pernštejna"},
-  {"owner": "pernstejnove", "owner_wiki": "Pernštejnové", "person": "Vilém z Pernštejna, poté syn Vojtěch (od 1521), Jan (od 1534) a Jaroslav z Pernštejna", "from": 1495, "to": 1556, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupeno spolu s Potštejnem; centrem dominia se stal Potštejn, na Liticích zůstal jen minimální personál; Jaroslav z Pernštejna panství roku 1556 kvůli zadlužení prodal"},
-  {"owner": "wittelsbachove", "owner_wiki": "Wittelsbachové", "person": "Arnošt Bavorský, rýnský falckrabě", "from": 1556, "to": 1558, "from_approx": false, "to_approx": false, "how": "koupe", "note": "panství záhy rozdělil na menší statky a rozprodal"},
-  {"owner": "z-knenic", "owner_wiki": null, "person": "Václav Okrouhlický starší z Kněnic", "from": 1558, "to": 1562, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil hrad s městečkem za 6625 kop grošů českých; po jeho smrti bylo zadlužené panství prodáno dál"},
-  {"owner": "bubnove-z-litic", "owner_wiki": "Bubnové z Litic", "person": "Mikuláš z Bubna a jeho potomci", "from": 1562, "to": 1809, "from_approx": false, "to_approx": false, "how": "koupe", "note": "Mikuláš scelil panství, ale sídlil na nově postavených zámcích v Doudlebách a Žamberku; hrad od té doby chátral, k roku 1657 popsán jako polorozbořený"},
-  {"owner": "windischgratzove", "owner_wiki": "Windischgrätzové", "person": "Veriand Windischgrätz", "from": 1809, "to": 1815, "from_approx": false, "to_approx": false, "how": "koupe", "note": "krátká epizoda v dějinách žamberského panství"},
-  {"owner": "parishove", "owner_wiki": "Parishové", "person": "John Parish a jeho potomci", "from": 1815, "to": 1948, "from_approx": false, "to_approx": false, "how": "koupe", "note": "provedli částečnou konzervaci zdiva (1890-1896, 1925) a stavební úpravy jádra hradu (1933-1935); majetek jim patřil až do znárodnění velkostatků roku 1948"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1948, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "spravován národními výbory, od 1974 Krajským střediskem státní památkové péče, dnes Národním památkovým ústavem"}
+  {
+   "owner": "drslavici",
+   "owner_wiki": "Drslavici",
+   "person": null,
+   "from": 1290,
+   "to": null,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "zalozeni",
+   "note": "koncem 13. století, 'těsně před rokem 1300' (en.wiki); založili síť hradů v Podorlicku (Litice, Potštejn) podle plzeňských rodových sídel; konec jejich držby není doložen"
+  },
+  {
+   "owner": "pusove",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1309,
+   "to": null,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "jen dedukce: roku 1309 zde byli vězněni zemští šlechtici zajatí pražskými a kutnohorskými patricii vedenými Peregrinem Pušem, z čehož cs.wiki usuzuje na vlastnický vztah Pušů k hradu; rok 1309 je rok události, ne doložené držby; nedlouho poté hrad získal král"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": null,
+   "from": null,
+   "to": 1316,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "cs.wiki: nedlouho po 1309 se hrad stal královským majetkem; přesný rok neuveden"
+  },
+  {
+   "owner": "pani-z-lipe",
+   "owner_wiki": "Páni z Lipé",
+   "person": "Jindřich mladší z Lipé",
+   "from": 1316,
+   "to": 1333,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "český král Jan Lucemburský mu hrad zastavil roku 1316"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Karel (markrabě moravský)",
+   "from": 1333,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "markrabě Karel po návratu z Itálie vykoupil zastavené královské hrady včetně Litic (1333); en.wiki: krátce vlastnili Jan Lucemburský a Karel IV.; hrad poté zřejmě ještě za Jana Lucemburského dostali Lichtenburkové výměnou za Lichnici"
+  },
+  {
+   "owner": "lichtenburkove",
+   "owner_wiki": "Lichtenburkové",
+   "person": null,
+   "from": null,
+   "to": 1365,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "vymena",
+   "note": "připomínáni v 50. a 60. letech 14. století; roku 1365 Jan z Lichtenburka Litice prodal Jindřichovi z Lipé; rok počátku jejich držby cs.wiki neuvádí"
+  },
+  {
+   "owner": "pani-z-lipe",
+   "owner_wiki": "Páni z Lipé",
+   "person": "Jindřich z Lipé",
+   "from": 1365,
+   "to": 1371,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "koupil 1365; nedlouho poté hrad opět změnil majitele (nejpozději 1371 už patřil Kunštátům)"
+  },
+  {
+   "owner": "pani-z-kunstatu-a-podebrad",
+   "owner_wiki": "Páni z Kunštátu a Poděbrad",
+   "person": "Boček z Kunštátu, jeho syn Boček, Viktorin a Jiří z Kunštátu a Poděbrad",
+   "from": 1371,
+   "to": 1472,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "nejpozději od roku 1371 (cs.wiki, shoduje se s en.wiki); po Bočkovi (+1373) jeho syn Boček (+1416), pak Viktorin (+1427) a Jiří z Kunštátu a Poděbrad, který hrad po polovině 15. století přestavěl (dokončeno 1468); zde se roku 1470 narodil jeho vnuk Jiří Münsterberský"
+  },
+  {
+   "owner": "pani-z-kunstatu-a-podebrad",
+   "owner_wiki": "Páni z Kunštátu a Poděbrad",
+   "person": "Boček z Kunštátu",
+   "from": 1472,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "při dělení majetku po Jiřím z Poděbrad 1472 připadly Litice nesvéprávnému Bočkovi, který je ještě za života postoupil bratru a poručníkovi; rok postoupení cs.wiki neuvádí"
+  },
+  {
+   "owner": "minsterberkove",
+   "owner_wiki": "Minsterberkové",
+   "person": "Jindřich starší z Münsterberka",
+   "from": null,
+   "to": 1495,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "jine",
+   "note": "Boček mu Litice postoupil; roku 1491 je doložen jako vlastník litického panství; kvůli zadlužení (válka s Matyášem Korvínem) panství roku 1495 prodal Vilému z Pernštejna"
+  },
+  {
+   "owner": "pernstejnove",
+   "owner_wiki": "Pernštejnové",
+   "person": "Vilém z Pernštejna, poté syn Vojtěch (od 1521), Jan (od 1534) a Jaroslav z Pernštejna",
+   "from": 1495,
+   "to": 1556,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupeno spolu s Potštejnem; centrem dominia se stal Potštejn, na Liticích zůstal jen minimální personál; Jaroslav z Pernštejna panství roku 1556 kvůli zadlužení prodal"
+  },
+  {
+   "owner": "wittelsbachove",
+   "owner_wiki": "Wittelsbachové",
+   "person": "Arnošt Bavorský, rýnský falckrabě",
+   "from": 1556,
+   "to": 1558,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "panství záhy rozdělil na menší statky a rozprodal"
+  },
+  {
+   "owner": "okrouhlicti-z-knenic",
+   "owner_wiki": "Okrouhličtí z Kněnic",
+   "person": "Václav Okrouhlický starší z Kněnic",
+   "from": 1558,
+   "to": 1562,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil hrad s městečkem za 6625 kop grošů českých; po jeho smrti bylo zadlužené panství prodáno dál"
+  },
+  {
+   "owner": "bubnove-z-litic",
+   "owner_wiki": "Bubnové z Litic",
+   "person": "Mikuláš z Bubna a jeho potomci",
+   "from": 1562,
+   "to": 1809,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Mikuláš scelil panství, ale sídlil na nově postavených zámcích v Doudlebách a Žamberku; hrad od té doby chátral, k roku 1657 popsán jako polorozbořený"
+  },
+  {
+   "owner": "windischgratzove",
+   "owner_wiki": "Windischgrätzové",
+   "person": "Veriand Windischgrätz",
+   "from": 1809,
+   "to": 1815,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "krátká epizoda v dějinách žamberského panství"
+  },
+  {
+   "owner": "parishove",
+   "owner_wiki": "Parishové",
+   "person": "John Parish a jeho potomci",
+   "from": 1815,
+   "to": 1948,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "provedli částečnou konzervaci zdiva (1890-1896, 1925) a stavební úpravy jádra hradu (1933-1935); majetek jim patřil až do znárodnění velkostatků roku 1948"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1948,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "spravován národními výbory, od 1974 Krajským střediskem státní památkové péče, dnes Národním památkovým ústavem"
+  }
  ],
  "events": [
-  {"year": 1309, "text": "na hradě byli vězněni zajatí zemští šlechtici Jindřich z Lipé, Jan I. z Vartenberka a Jan z Klingenberka"},
-  {"year": 1421, "text": "hrad obléhalo vojsko slezských knížat kvůli spojenectví Viktorina z Kunštátu s husity"},
-  {"year": 1452, "text": "po dobytí Tábora byl na hradě vězněn táborský kněz Václav Koranda starší"},
-  {"year": 1468, "text": "dokončena velká přestavba hradu z podnětu Jiřího z Poděbrad (datovací nápis nad branou)"},
-  {"year": 1948, "text": "znárodnění velkostatku Parishů"},
-  {"year": 1985, "text": "1985-1987 záchranný archeologický průzkum, 1992 opětovné zpřístupnění veřejnosti"}
+  {
+   "year": 1309,
+   "text": "na hradě byli vězněni zajatí zemští šlechtici Jindřich z Lipé, Jan I. z Vartenberka a Jan z Klingenberka"
+  },
+  {
+   "year": 1421,
+   "text": "hrad obléhalo vojsko slezských knížat kvůli spojenectví Viktorina z Kunštátu s husity"
+  },
+  {
+   "year": 1452,
+   "text": "po dobytí Tábora byl na hradě vězněn táborský kněz Václav Koranda starší"
+  },
+  {
+   "year": 1468,
+   "text": "dokončena velká přestavba hradu z podnětu Jiřího z Poděbrad (datovací nápis nad branou)"
+  },
+  {
+   "year": 1948,
+   "text": "znárodnění velkostatku Parishů"
+  },
+  {
+   "year": 1985,
+   "text": "1985-1987 záchranný archeologický průzkum, 1992 opětovné zpřístupnění veřejnosti"
+  }
  ],
  "sources": [
   "https://cs.wikipedia.org/wiki/Litice_(hrad)",

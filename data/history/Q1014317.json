@@ -1,30 +1,168 @@
 {
  "id": "Q1014317",
  "name": "Týřov",
- "founded": {"year": null, "approx": true, "text": "Hrad založil král Václav I.; první zmínka je ze září 1249 (snad již 1245), kdy zde král zajal vzbouřeného syna Přemysla. Dendrochronologický průzkum však dochovanou dispozici klade nejdříve do 60. let 13. století (doba Přemysla Otakara II.)."},
+ "founded": {
+  "year": null,
+  "approx": true,
+  "text": "Hrad založil král Václav I.; první zmínka je ze září 1249 (snad již 1245), kdy zde král zajal vzbouřeného syna Přemysla. Dendrochronologický průzkum však dochovanou dispozici klade nejdříve do 60. let 13. století (doba Přemysla Otakara II.)."
+ },
  "summary": "Týřov byl zeměpanským hradem založeným králem Václavem I., zmíněným poprvé roku 1249. Za Jana Lucemburského byl zastaven a roku 1333 jej Karel IV. vykoupil; za husitských válek ho držel v zástavě Aleš Holický ze Šternberka, od roku 1460 Týřovští z Ensidle. Roku 1575 byl uváděn jako pustý, koupil jej Jan starší z Lobkovic a roku 1588 jej Rudolf II. vyměnil zpět ke Křivoklátu, s nímž byl roku 1685 prodán Valdštejnům. Dnes je zřícenina chráněna v NPR Týřov.",
  "owners": [
-  {"owner": "koruna", "owner_wiki": null, "person": "Václav I., později Přemysl Otakar II.", "from": null, "to": 1315, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "první zmínka září 1249; zdroje se rozcházejí v datu založení (Václav I. před 1249 x dochovaná dispozice až z 60.-70. let 13. stol.); hrady.cz uvádí, že 1307-1309 hrad ovládl Vilém Zajíc z Valdeka spolu s Křivoklátem a po jeho smrti se vrátil koruně"},
-  {"owner": "zajicove-z-hazmburka", "owner_wiki": "Zajícové z Hazmburka", "person": "Vilém Zajíc z Valdeka", "from": 1315, "to": 1333, "from_approx": false, "to_approx": false, "how": "lenni", "note": "zástava od Jana Lucemburského podle cs.wiki a rakovnicko.cz; hrady.cz místo něj uvádí Oldřicha Pluha z Rabštejna (Vilém Zajíc měl zemřít 1309); v letech 1315-1316 zde byl vězněn Jindřich z Lipé"},
-  {"owner": "koruna", "owner_wiki": null, "person": "Karel IV., poté další králové", "from": 1333, "to": 1422, "from_approx": false, "to_approx": false, "how": "jine", "note": "Karel IV. hrad vykoupil zpět; Majestas Carolina jej řadí mezi statky podmínečně zcizitelné; 1360 krátce zastaven vévodovi Janu Bavorskému a o rok později vykoupen"},
-  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": "Aleš Holický ze Šternberka, poté syn Petr", "from": 1422, "to": 1454, "from_approx": false, "to_approx": true, "how": "lenni", "note": "zástava od krále Zikmunda spolu s Křivoklátem (3960 kop); díky obrannému systému se husitské války hradu nedotkly; kolem 1427-1439 jej držel jako podzástavu Habart z Adlaru; rok vrácení králi uvádí hrady.cz 1454, rakovnicko.cz krátce po 1450"},
-  {"owner": "koruna", "owner_wiki": null, "person": null, "from": 1454, "to": 1460, "from_approx": true, "to_approx": false, "how": "jine", "note": "Křivoklátsko vykoupeno zpět královskou komorou; přesný rok není u zdrojů shodný"},
-  {"owner": "z-ensidle", "owner_wiki": null, "person": "Jošt z Ensidle, poté jeho potomci (Týřovští z Ensidle)", "from": 1460, "to": 1577, "from_approx": false, "to_approx": false, "how": "lenni", "note": "Jošt, sekretář Jiřího z Poděbrad, dostal hrad s 10 vesnicemi do zástavy za půjčku; hrady.cz uvádí držbu Týřovských do prodeje Lobkovicovi 1577 (poslední Jiřík); cs.wiki uvádí, že 1528 hrad zastavil Jáchymu z Malcaunu"},
-  {"owner": "z-malcaunu", "owner_wiki": null, "person": "Jáchym z Malcaunu", "from": 1528, "to": null, "from_approx": false, "to_approx": true, "how": "lenni", "note": "pouze cs.wiki: zástava za výkupné za Jiřího z Ensidle zajatého u Moháče 1526; hrady.cz ani rakovnicko.cz zástavu neuvádějí; rok konce není znám"},
-  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": "Jan starší z Lobkovic", "from": 1577, "to": 1588, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil za 12 500 kop grošů již pustý hrad, neobnovil jej; cs.wiki uvádí 1578, rakovnicko.cz 80. léta 16. stol., hrady.cz 1577 (zvolen jako nejpodrobnější)"},
-  {"owner": "koruna", "owner_wiki": null, "person": "Rudolf II.", "from": 1588, "to": 1685, "from_approx": false, "to_approx": false, "how": "vymena", "note": "císař vyměnil hrad s Lobkovicem za vsi a městečko Kožlany, aby scelil křivoklátské panství a rozšířil honitbu; hrad byl připojen ke Křivoklátu"},
-  {"owner": "valdstejnove", "owner_wiki": "Valdštejnové", "person": null, "from": 1685, "to": null, "from_approx": false, "to_approx": true, "how": "koupe", "note": "Křivoklát s Týřovem prodán Valdštejnům (hrady.cz); rok konce držby a další majitelé nejsou ve zdrojích uvedeni"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "dnešní vlastník Česká republika (cs.wiki infobox); rok a způsob převodu zdroje neuvádějí"}
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Václav I., později Přemysl Otakar II.",
+   "from": null,
+   "to": 1315,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "první zmínka září 1249; zdroje se rozcházejí v datu založení (Václav I. před 1249 x dochovaná dispozice až z 60.-70. let 13. stol.); hrady.cz uvádí, že 1307-1309 hrad ovládl Vilém Zajíc z Valdeka spolu s Křivoklátem a po jeho smrti se vrátil koruně"
+  },
+  {
+   "owner": "zajicove-z-hazmburka",
+   "owner_wiki": "Zajícové z Hazmburka",
+   "person": "Vilém Zajíc z Valdeka",
+   "from": 1315,
+   "to": 1333,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "zástava od Jana Lucemburského podle cs.wiki a rakovnicko.cz; hrady.cz místo něj uvádí Oldřicha Pluha z Rabštejna (Vilém Zajíc měl zemřít 1309); v letech 1315-1316 zde byl vězněn Jindřich z Lipé"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Karel IV., poté další králové",
+   "from": 1333,
+   "to": 1422,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "Karel IV. hrad vykoupil zpět; Majestas Carolina jej řadí mezi statky podmínečně zcizitelné; 1360 krátce zastaven vévodovi Janu Bavorskému a o rok později vykoupen"
+  },
+  {
+   "owner": "sternberkove",
+   "owner_wiki": "Šternberkové",
+   "person": "Aleš Holický ze Šternberka, poté syn Petr",
+   "from": 1422,
+   "to": 1454,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "lenni",
+   "note": "zástava od krále Zikmunda spolu s Křivoklátem (3960 kop); díky obrannému systému se husitské války hradu nedotkly; kolem 1427-1439 jej držel jako podzástavu Habart z Adlaru; rok vrácení králi uvádí hrady.cz 1454, rakovnicko.cz krátce po 1450"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1454,
+   "to": 1460,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "jine",
+   "note": "Křivoklátsko vykoupeno zpět královskou komorou; přesný rok není u zdrojů shodný"
+  },
+  {
+   "owner": "tyrovsti-z-ensidle",
+   "owner_wiki": "Týřovští z Ensidle",
+   "person": "Jošt z Ensidle, poté jeho potomci (Týřovští z Ensidle)",
+   "from": 1460,
+   "to": 1577,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "Jošt, sekretář Jiřího z Poděbrad, dostal hrad s 10 vesnicemi do zástavy za půjčku; hrady.cz uvádí držbu Týřovských do prodeje Lobkovicovi 1577 (poslední Jiřík); cs.wiki uvádí, že 1528 hrad zastavil Jáchymu z Malcaunu"
+  },
+  {
+   "owner": "z-malcaunu",
+   "owner_wiki": null,
+   "person": "Jáchym z Malcaunu",
+   "from": 1528,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "lenni",
+   "note": "pouze cs.wiki: zástava za výkupné za Jiřího z Ensidle zajatého u Moháče 1526; hrady.cz ani rakovnicko.cz zástavu neuvádějí; rok konce není znám"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Jan starší z Lobkovic",
+   "from": 1577,
+   "to": 1588,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil za 12 500 kop grošů již pustý hrad, neobnovil jej; cs.wiki uvádí 1578, rakovnicko.cz 80. léta 16. stol., hrady.cz 1577 (zvolen jako nejpodrobnější)"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Rudolf II.",
+   "from": 1588,
+   "to": 1685,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "vymena",
+   "note": "císař vyměnil hrad s Lobkovicem za vsi a městečko Kožlany, aby scelil křivoklátské panství a rozšířil honitbu; hrad byl připojen ke Křivoklátu"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": null,
+   "from": 1685,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "Křivoklát s Týřovem prodán Valdštejnům (hrady.cz); rok konce držby a další majitelé nejsou ve zdrojích uvedeni"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "dnešní vlastník Česká republika (cs.wiki infobox); rok a způsob převodu zdroje neuvádějí"
+  }
  ],
  "events": [
-  {"year": 1249, "text": "první zmínka o hradu, král Václav I. zde zajal vzbouřeného syna Přemysla"},
-  {"year": 1315, "text": "hrad zastaven Vilému Zajíci z Valdeka, který zde věznil Jindřicha z Lipé (do 1316)"},
-  {"year": 1333, "text": "Karel IV. hrad vykoupil zpět ke koruně"},
-  {"year": 1422, "text": "král Zikmund zastavil Křivoklát s Týřovem Alšovi Holickému ze Šternberka"},
-  {"year": 1460, "text": "zástava hradu Joštovi z Ensidle, sekretáři Jiřího z Poděbrad"},
-  {"year": 1575, "text": "hrad uváděn jako pustý"},
-  {"year": 1588, "text": "Rudolf II. získal hrad výměnou od Lobkovice a připojil ke Křivoklátu"},
-  {"year": 1685, "text": "Křivoklát s Týřovem prodán Valdštejnům"}
+  {
+   "year": 1249,
+   "text": "první zmínka o hradu, král Václav I. zde zajal vzbouřeného syna Přemysla"
+  },
+  {
+   "year": 1315,
+   "text": "hrad zastaven Vilému Zajíci z Valdeka, který zde věznil Jindřicha z Lipé (do 1316)"
+  },
+  {
+   "year": 1333,
+   "text": "Karel IV. hrad vykoupil zpět ke koruně"
+  },
+  {
+   "year": 1422,
+   "text": "král Zikmund zastavil Křivoklát s Týřovem Alšovi Holickému ze Šternberka"
+  },
+  {
+   "year": 1460,
+   "text": "zástava hradu Joštovi z Ensidle, sekretáři Jiřího z Poděbrad"
+  },
+  {
+   "year": 1575,
+   "text": "hrad uváděn jako pustý"
+  },
+  {
+   "year": 1588,
+   "text": "Rudolf II. získal hrad výměnou od Lobkovice a připojil ke Křivoklátu"
+  },
+  {
+   "year": 1685,
+   "text": "Křivoklát s Týřovem prodán Valdštejnům"
+  }
  ],
  "sources": [
   "https://cs.wikipedia.org/wiki/Týřov",
