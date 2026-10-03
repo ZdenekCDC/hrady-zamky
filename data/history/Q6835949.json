@@ -1,0 +1,27 @@
+{
+ "id": "Q6835949",
+ "name": "Michalovice (Putna)",
+ "founded": {"year": null, "approx": false, "text": "Ve druhé polovině 13. století založil hrad rozvětvený rod Markvarticů; stavebníkem byl podle cs.wiki Jan I. z Michalovic (páni z Michalovic doloženi od 1281)."},
+ "summary": "Hrad Michalovice nad Jizerou založili ve druhé polovině 13. století Markvartici, z nichž vzešli páni z Michalovic, doložení od roku 1281. Rod vymřel roku 1468 po meči a hrad zdědili Tovačovští z Cimburka, kteří na něm nesídlili, takže roku 1513 byl uváděn jako pustý. Později panství držela i další šlechta a od roku 1997 je zřícenina majetkem města Mladá Boleslav. Podkopaná věž Putna se v 19. století naklonila a v roce 1911 byla zpevněna.",
+ "owners": [
+  {"owner": "pani-z-michalovic", "owner_wiki": "Páni z Michalovic", "person": "Jan I. z Michalovic a jeho potomci", "from": null, "to": 1468, "from_approx": false, "to_approx": false, "how": "zalozeni", "note": "z rozrodu Markvarticů, doloženi od 1281; poslední Jindřich Kruhlata zahynul 1468 u Turnova. Turistika.cz (neověřený detail) uvádí, že hrad 1425 dobyli husité (hejtman Kunata z Počapel, poté Bohuněk z Klinštejna do 1437), než se vrátil Michalovickým"},
+  {"owner": "pani-z-cimburka", "owner_wiki": "Páni z Cimburka", "person": "Jan Tovačovský z Cimburka ml. (manžel Magdalény z Michalovic)", "from": 1468, "to": 1513, "from_approx": false, "to_approx": true, "how": "snatek", "note": "věnem po sestře posledního Michalovického; na hradě nesídlili ani jej neudržovali; konec držby není ve zdroji uveden, rok 1513 je první zmínka o hradu jako pustém"},
+  {"owner": "krajirove-z-krajku", "owner_wiki": "Krajířové z Krajku", "person": null, "from": 1513, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "podle turistika.cz roku 1513 koupili zdejší zboží, hrad již zpustlý; není jasné, jak dlouho jej drželi"},
+  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": null, "from": null, "to": 1997, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "turistika.cz uvádí Lobkovice jen jako jednoho z pozdějších majitelů michalovického zboží, bez let; konec držby ani nástupce před rokem 1997 zdroje neuvádějí"},
+  {"owner": "mesto", "owner_wiki": null, "person": "Statutární město Mladá Boleslav", "from": 1997, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "městský majetek podle Památkového katalogu / soupispamatek.cz; způsob nabytí neuveden"}
+ ],
+ "events": [
+  {"year": 1281, "text": "první doložení pánů z Michalovic (Jan z Markvartic se píše z Michalovic)"},
+  {"year": 1468, "text": "vymření pánů z Michalovic po meči, hrad přechází na Tovačovské z Cimburka"},
+  {"year": 1513, "text": "hrad uváděn jako opuštěný a pustý"},
+  {"year": 1911, "text": "podkopaná a nakloněná věž Putna podezděna a zpevněna betonem, od téhož roku slouží jako rozhledna"},
+  {"year": 1935, "text": "pod věží nalezen váček s asi 470 stříbrnými mincemi z doby třicetileté války"},
+  {"year": 1967, "text": "hrad prohlášen kulturní památkou"},
+  {"year": 1997, "text": "město Mladá Boleslav uvedeno jako vlastník"}
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Michalovice_(hrad)",
+  "https://www.soupispamatek.cz/arl-kcz/en/detail-kcz_un_auth-0000318-Castle-Michalovice/",
+  "https://www.turistika.cz/mista/hrad-michalovice/detail"
+ ]
+}

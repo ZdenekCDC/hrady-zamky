@@ -1,0 +1,28 @@
+{
+ "id": "Q1775777",
+ "name": "Klášter Osek",
+ "founded": {"year": 1197, "approx": true, "text": "Cisterciáci vyhnaní z Mašťova byli přibližně roku 1197 usazeni v Oseku Slávkem z rodu Hrabišiců; cs.wiki uvádí v infoboxu založení 1199, web kláštera 1196-1197."},
+ "summary": "Cisterciácký klášter v Oseku vznikl koncem 12. století, když Slávek z rodu Hrabišiců usadil v Oseku mnichy vyhnané z Mašťova. Jako klášter královský přežil do husitských válek, v roce 1580 byl zrušen a spravovalo ho pražské arcibiskupství. Roku 1626 byl vrácen cisterciákům a v letech 1712-1718 jej Octavio Broggio přestavěl do podoby vrcholně barokního areálu. Roku 1950 jej zabral stát (internace řeholníků a později řeholnic), od roku 1991 patří opět cisterciákům.",
+ "owners": [
+  {"owner": "cirkev", "owner_wiki": null, "person": "cisterciáci (opat a konvent)", "from": 1197, "to": 1580, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "zakladatelem a ochráncem Slávek z rodu Hrabišiců, později páni z Rýzmburka; za Jana Lucemburského klášter královský; 1421 vypálen husity, mniši uprchli do Altzelly; zdroje uvádějí vznik 1196-1199"},
+  {"owner": "cirkev", "owner_wiki": null, "person": "pražské arcibiskupství (konzistoř)", "from": 1580, "to": 1626, "from_approx": false, "to_approx": false, "how": "jine", "note": "klášter zrušen na návrh Rudolfa II., majetek přešel pod pražskou arcibiskupskou konzistoř; zrušení anulováno 1614; za třicetileté války bylo panství podle webu kláštera zkonfiskováno a prodáno několika kupcům, dekret o navrácení cisterciákům 1623, skutečně vrácen 17. 5. 1626"},
+  {"owner": "cirkev", "owner_wiki": null, "person": "cisterciácký řád", "from": 1626, "to": 1950, "from_approx": false, "to_approx": false, "how": "restituce", "note": "po roce 1945 museli cisterciáci klášter opustit (odsun, národní správa od 1945, na čas salesiáni), oficiálně stále v majetku řádu do zabrání 1950"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1950, "to": 1991, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "Akce K 1950: internační tábor pro řeholníky, od 1953/54 charitní domov pro řeholnice (do 1993); cisterciáci se vrátili 1989, klášter získali zpět oficiálně 1991"},
+  {"owner": "cirkev", "owner_wiki": null, "person": "cisterciácký řád", "from": 1991, "to": null, "from_approx": false, "to_approx": false, "how": "restituce", "note": "opatem zvolen Bernard Thebes; dnes neobsazený klášter, areál je národní kulturní památkou"}
+ ],
+ "events": [
+  {"year": 1197, "text": "usazení cisterciáků z Mašťova v Oseku (přibližně), zakladatelem Slávek z Hrabišiců", "approx": true},
+  {"year": 1421, "text": "klášter vypálen husity, mniši uprchli do Altzelly"},
+  {"year": 1580, "text": "zrušení kláštera na návrh Rudolfa II., správa pražské konzistoře"},
+  {"year": 1626, "text": "navrácení kláštera cisterciákům"},
+  {"year": 1712, "text": "1712-1718 přestavba do vrcholně barokní podoby podle Octavia Broggia za opata Benedikta Littweriga"},
+  {"year": 1950, "text": "Akce K, zabrání státem a zřízení internačního tábora"},
+  {"year": 1991, "text": "navrácení kláštera cisterciákům"},
+  {"year": 1995, "text": "areál prohlášen národní kulturní památkou"}
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Osecký_klášter",
+  "http://klasterosek.cz/o-klasteru/",
+  "https://www.osek.cz/volny-cas/pamatky/cisterciacky-klaster-osek/"
+ ]
+}

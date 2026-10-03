@@ -1,0 +1,113 @@
+{
+ "id": "Q1775551",
+ "name": "Loucký klášter",
+ "founded": {
+  "year": 1190,
+  "approx": false,
+  "text": "Premonstrátský klášter založil 25. října 1190 kníže Konrád II. Ota se svou matkou Marií."
+ },
+ "summary": "Premonstrátský klášter v Louce u Znojma založil roku 1190 kníže Konrád II. Ota. Za husitských válek byl 1425 vypleněn, v 18. století započala nedokončená barokní přestavba a roku 1784 byl klášter zrušen Josefem II. Poté sloužil jako kasárny a továrna na tabák, 1827 jej koupili Liebenbergové, od roku 1851 byl opět státní (vojenská akademie, kasárna, hřebčín; armáda odešla 1993) a roku 2010 jej stát bezúplatně převedl městu Znojmu, které část pronajímá vinařské firmě Znovín.",
+ "owners": [
+  {
+   "owner": "cirkev",
+   "owner_wiki": null,
+   "person": "premonstráti, Loucká kanonie (zakladatel Konrád II. Ota)",
+   "from": 1190,
+   "to": 1784,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "vypleněn 1242 a po 1278; 12. 11. 1425 dobyt husity, 1426 dobyt zpět; 1784 měl 96 kanovníků, poslední opat Daniel Todl; zrušen 29. 7. 1784 Josefem II."
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": "Náboženský fond, kasárna a továrna na tabák",
+   "from": 1784,
+   "to": 1827,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "po zrušení konvent kasárnami, po 18 letech továrna na tabák; statky ve státní správě a postupně odprodávány"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "rodina Liebenbergů (vídeňští bankéři)",
+   "from": 1827,
+   "to": 1851,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupili loucké panství, budovy upravili na sídlo (Nový zámek); zbylé části koupili další zájemci"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": "stát (vojenská akademie, kasárna, vojenský hřebčín)",
+   "from": 1851,
+   "to": 2010,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "komplex prodán státu; armáda odešla 1993; 1969 stržena barokní brána; od 2008 nabízen k prodeji; formální držitel po roce 1993 je ÚZSVM"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "město Znojmo",
+   "from": 2010,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dar",
+   "note": "bezúplatný převod z Úřadu pro zastupování státu ve věcech majetkových (13. 10. 2010) s podmínkou neprodat 20 let; část pronajímá firma Znovín Znojmo (smlouva od 2000)"
+  },
+  {
+   "owner": "cirkev",
+   "owner_wiki": null,
+   "person": "římskokatolická církev (farnost)",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "práce Hamzové uvádí současné vlastníky dva: město Znojmo a římskokatolickou církev; rozsah a rok nabytí církevní části zdroje neuvádějí (souběžný vlastník s městem)"
+  }
+ ],
+ "events": [
+  {
+   "year": 1190,
+   "text": "založení kláštera knížetem Konrádem II. Otou"
+  },
+  {
+   "year": 1425,
+   "text": "klášter dobyli a vypálili husité, 1426 získán zpět"
+  },
+  {
+   "year": 1784,
+   "text": "zrušení kláštera císařem Josefem II."
+  },
+  {
+   "year": 1827,
+   "text": "loucké panství koupila rodina Liebenbergů"
+  },
+  {
+   "year": 1851,
+   "text": "komplex prodán státu, později vojenská akademie a kasárna"
+  },
+  {
+   "year": 1993,
+   "text": "armáda opustila klášter"
+  },
+  {
+   "year": 2010,
+   "text": "stát bezúplatně převedl klášter městu Znojmu"
+  }
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Loucký_klášter",
+  "https://znojemsky.denik.cz/zpravy-region/stat-ve-stredu-preda-loucky-klaster-mestu-znojmu/",
+  "https://dspace.cuni.cz/bitstream/handle/20.500.11956/176415/130341469.pdf?sequence=1"
+ ]
+}

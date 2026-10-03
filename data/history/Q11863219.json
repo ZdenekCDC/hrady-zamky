@@ -1,0 +1,26 @@
+{
+ "id": "Q11863219",
+ "name": "Důl Michal",
+ "founded": {"year": 1843, "approx": false, "text": "1843 založena c. k. kutací jáma č. 3 rakouským montánním erárem; jméno Michal od 1850, oficiální datum založení dolu 29. 12. 1849 (udělení koncese na dobývání uhlí)."},
+ "summary": "Důl Michal v ostravských Michálkovicích vznikl z kutací jámy, kterou od roku 1843 hloubil rakouský montánní erár. V roce 1856 jej koupila Severní dráha císaře Ferdinanda, která ho vlastnila do znárodnění 1945 a v letech 1912-1915 jej přestavěla podle architekta Františka Fialy. Po znárodnění patřil národnímu podniku OKD (od 1946 název Petr Cingr); po ukončení těžby 1993 byl areál předán Ministerstvu kultury a od roku 2000 jej spravuje NPÚ jako národní kulturní památku přístupnou veřejnosti.",
+ "owners": [
+  {"owner": "stat", "owner_wiki": null, "person": "rakouský stát (c. k. montánní erár)", "from": 1843, "to": 1856, "from_approx": false, "to_approx": false, "how": "zalozeni", "note": "kutací práce od 1842-1843 ve státní režii, ztrátové"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Severní dráha císaře Ferdinanda (Privilegovaná severní dráha Ferdinandova)", "from": 1856, "to": 1945, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupě 15. 12. 1856 od rakouského státu spolu s dalšími doly ostravské části revíru; 1862 báňská dráha, 1912-1915 přestavba"},
+  {"owner": "stat", "owner_wiki": null, "person": "Ostravsko-karvinské kamenouhelné doly (OKD), n. p.", "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "znárodnění 1945, od 1. 1. 1946 začleněn do OKD; po ukončení těžby (1993/1994) areál převzalo Ministerstvo kultury ČR (Průmyslové muzeum, zrušeno 2000), od roku 2000 spravuje NPÚ (územní památková správa)"}
+ ],
+ "events": [
+  {"year": 1843, "text": "založena c. k. kutací jáma č. 3 na základě kutací koncese z 29. 6. 1843"},
+  {"year": 1850, "text": "jáma pojmenována Michael podle dvorního rady Michaela Layera (Laiera)"},
+  {"year": 1856, "text": "koupě dolu Severní dráhou císaře Ferdinanda"},
+  {"year": 1862, "text": "napojení na Báňskou dráhu do Přívozu"},
+  {"year": 1915, "text": "1912-1915 zásadní přestavba podle Františka Fialy, elektrifikace"},
+  {"year": 1946, "text": "přejmenování na Důl Petr Cingr po začlenění do OKD"},
+  {"year": 1994, "text": "po ukončení těžby (1993) předán areál Ministerstvu kultury, Průmyslové muzeum"},
+  {"year": 2000, "text": "areál převzal NPÚ a zpřístupnil expozici posledního pracovního dne"}
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Důl_Michal",
+  "https://www.dul-michal.cz/cs/o-dole/historie",
+  "https://michalkovice.ostrava.cz/cs/o-michalkovicich/zajimavosti/zajimavosti"
+ ]
+}

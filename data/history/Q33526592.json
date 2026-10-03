@@ -1,0 +1,33 @@
+{
+ "id": "Q33526592",
+ "name": "Usedlost Bolevec čp. 1",
+ "founded": {"year": 1635, "approx": false, "text": "První písemná zmínka o dvoru (tehdy pustém Weysovském) je z roku 1635, kdy jej od města Plzně koupil Matouš Wiezl; statek je zřejmě výrazně starší (v Bolevci je v roce 1461 doloženo deset selských usedlostí)."},
+ "summary": "Selský dvůr U Matoušů čp. 1 na návsi v Plzni-Bolevci je doložen od roku 1635, kdy pustý dvůr koupil od města Plzně Matouš Wiezl (Vicl). Po Pechmannech a rodu Mauerů jej od roku 1891 vlastnila rodina Raisových; po roce 1948 byl kolektivizován a statek chátral. Po restituci v 90. letech jej roku 2004 vykoupilo město Plzeň a roku 2007 předalo státu, dnes jej spravuje NPÚ (Národní muzeum v přírodě). Od roku 2008 je národní kulturní památkou a po obnově je od roku 2021 zpřístupněn.",
+ "owners": [
+  {"owner": "mesto", "owner_wiki": null, "person": "město Plzeň", "from": 1460, "to": 1635, "from_approx": false, "to_approx": false, "how": "koupe", "note": "město koupilo ves Bolevec roku 1460 od kapituly sv. Apolináře v Praze; konkrétní dvůr čp. 1 je jako pustý doložen až 1635 a první doložený rok vlastnictví dvora městem není uveden"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Matouš a Mariana Vicl (Wiezl)", "from": 1635, "to": 1684, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupě za 400 kop míšeňských grošů; po Matoušovi je dvůr pojmenován; nmvp.cz uvádí držbu 1635-1684"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Jan Krásný", "from": 1684, "to": 1708, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "na konci 17. století krátce; počátek držby je odvozen z konce držby předchozího majitele; statek 1708 prodal Pechmannovým"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Jiří a Anna Pechmannovi a jejich rod", "from": 1708, "to": 1800, "from_approx": false, "to_approx": false, "how": "koupe"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Vojtěch Mauer, František Mauer, Vojtěch a Kateřina Mauerovi", "from": 1800, "to": 1891, "from_approx": false, "to_approx": true, "how": "koupe", "note": "Vojtěch Mauer, bolevecký rychtář, koupil 1800, přestavba obytného stavení dokončena 1809; následovali syn František a vnuk Vojtěch; přesné roky předání nejsou uvedeny"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Vojtěch a Magdaléna Raisovi, později jejich děti (Barbora Raisová)", "from": 1891, "to": null, "from_approx": false, "to_approx": false, "how": "snatek", "note": "Magdaléna Mauerová se 1888 provdala za Vojtěcha Raise, statek převzali 1891; po 1. světové válce majetkově rozdělen mezi děti; po 1948 kolektivizace (JZD užívalo hospodářské objekty, roku 1952 zabráno JZD, Barbora Raisová 1952 odsouzena), majitelky směly užívat jen dům, 1957 prodaly zbývající pozemky JZD; v 80. letech statek vykoupil stát hluboko pod cenou"},
+  {"owner": "stat", "owner_wiki": null, "person": null, "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "v 80. letech 20. století vykoupen státem pro záměr Stanice mladých přírodovědců (nedokončeno 1989); přesný rok a doba držby nejsou uvedeny"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "původní majitelé (dědicové Raisových)", "from": null, "to": 2004, "from_approx": false, "to_approx": false, "how": "restituce", "note": "v 90. letech vrácen původním majitelům ve špatném technickém stavu"},
+  {"owner": "mesto", "owner_wiki": null, "person": "Statutární město Plzeň", "from": 2004, "to": 2007, "from_approx": false, "to_approx": false, "how": "koupe"},
+  {"owner": "stat", "owner_wiki": null, "person": "Česká republika, Ministerstvo kultury (správa NPÚ, ÚOP Plzeň)", "from": 2007, "to": null, "from_approx": false, "to_approx": false, "how": "dar", "note": "převod města na Ministerstvo kultury, resp. NPÚ; způsob převodu (dar/jiné) není uveden; dnes ve správě Národního muzea v přírodě"}
+ ],
+ "events": [
+  {"year": 1635, "text": "první písemná zmínka, dvůr Weysovský koupil Matouš Wiezl od města Plzně"},
+  {"year": 1809, "text": "dokončena přestavba obytného stavení za Vojtěcha Mauera"},
+  {"year": 1948, "text": "po únoru 1948 JZD převzalo hospodářské objekty, statek sloužil jako vepřín"},
+  {"year": 1958, "text": "usedlost památkově chráněna od 3. 5. 1958"},
+  {"year": 2008, "text": "prohlášení národní kulturní památkou (1. 7. 2008)"},
+  {"year": 2019, "text": "zahájena celková obnova (2019-2021), nová došková střecha 2020"},
+  {"year": 2021, "text": "zpřístupnění po rekonstrukci jako expozice života na vsi"}
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/U_Matoušů",
+  "https://nmvp.cz/bolevec/o-muzeu/majitele-v-prubehu-casu",
+  "https://nmvp.cz/bolevec/o-muzeu/historie-bolevce-a-statku-u-matousu",
+  "https://update.npu.cz/uop/plzen/pdf/Leporela/Plzen-Bolevec-%20selsky%20dvur%20U%20Matousu.pdf"
+ ]
+}

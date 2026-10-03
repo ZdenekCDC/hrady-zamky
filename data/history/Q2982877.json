@@ -1,0 +1,28 @@
+{
+ "id": "Q2982877",
+ "name": "Invalidovna",
+ "founded": {"year": 1731, "approx": false, "text": "1731-1737 stavba barokní Invalidovny podle projektu Kiliána Ignáce Dientzenhofera z prostředků nadace hraběte Petra Strozziho (závěť z 3. 8. 1658); základní kámen 1732, první invalidé 1735."},
+ "summary": "Karlínská Invalidovna vznikla v letech 1731-1737 z prostředků nadace hraběte Petra Strozziho na pozemcích křižovníků s červenou hvězdou, jako ubytování válečných invalidů podle vzoru pařížského Hôtel des Invalides. Realizována byla jen devítina původního záměru. Po roce 1918 zůstala v resortu ministerstva obrany a sloužila jako vojenský archiv, po opuštění armádou 2014/2015 ji spravoval ÚZSVM a po neúspěšné dražbě ji v květnu 2018 převzal NPÚ. Od roku 2017 je národní kulturní památkou, v srpnu 2026 začala její rekonstrukce.",
+ "owners": [
+  {"owner": "cirkev", "owner_wiki": null, "person": "křižovníci s červenou hvězdou (pozemky Špitálského pole)", "from": null, "to": 1731, "from_approx": false, "to_approx": true, "how": "neznamo", "note": "pozemky patřily řádu od poloviny 13. století do 19. století (s výjimkou husitské doby a třicetileté války); konec držby parcely pod Invalidovnou ani způsob předání nadaci zdroje neuvádějí, rok 1731 je rok vytyčení stavby"},
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Nadace hraběte Petra Strozziho", "from": 1731, "to": 1919, "from_approx": false, "to_approx": true, "how": "zalozeni", "note": "správcem nadace byl podle NPÚ řád křižovníků s červenou hvězdou, podle cs.wiki provozovalo pražské arcibiskupství; 1814 formálně přešla do správy Všeobecného invalidního fondu, 1880s nadace obnovena; NPÚ uvádí zrušení nadace až 1952; rok 1919 je odvozen z převzetí objektu resortem obrany (zdroje rok nepřesně neuvádějí)"},
+  {"owner": "stat", "owner_wiki": null, "person": "Ministerstvo obrany ČR (Vojenský ústřední archiv)", "from": 1919, "to": 2014, "from_approx": true, "to_approx": false, "how": "jine", "note": "po sporech mezi ministerstvy zůstal objekt v resortu obrany; po 1919 expozice Vojenského muzea, po 1920 přestavba (Vejrych, Beneš), po 1935 armádní archiv; armáda objekt opustila 2014-2015"},
+  {"owner": "stat", "owner_wiki": null, "person": "Úřad pro zastupování státu ve věcech majetkových (ÚZSVM)", "from": 2014, "to": 2018, "from_approx": false, "to_approx": false, "how": "jine", "note": "příprava prodeje, dražba 2016 s vyvolávací cenou 637,7 mil. Kč bez zájemce; zdroje se liší v roce převzetí od MO (2014 cs.wiki, NPÚ 2015, nasepraha.cz asi 2015)"},
+  {"owner": "stat", "owner_wiki": null, "person": "Národní památkový ústav", "from": 2018, "to": null, "from_approx": false, "to_approx": false, "how": "jine", "note": "svěřena do správy NPÚ v květnu 2018 (cs.wiki 18. 5., nasepraha.cz 19. 5.); vlastníkem zůstává stát"}
+ ],
+ "events": [
+  {"year": 1658, "text": "závěť hraběte Petra Strozziho zakládající nadaci pro válečné invalidy"},
+  {"year": 1732, "text": "základní kámen za účasti Karla VI.; stavba 1731-1737, první invalidé 1735"},
+  {"year": 1890, "text": "povodeň a tragédie zákopníků, v parku postaven pomník"},
+  {"year": 1920, "text": "po roce 1920 rozsáhlá přestavba a elektrifikace (Josef Vejrych, Viktor Beneš)"},
+  {"year": 2002, "text": "povodeň poškodila archiv, budova ve špatném technickém stavu"},
+  {"year": 2017, "text": "prohlášena národní kulturní památkou"},
+  {"year": 2018, "text": "převzetí do správy NPÚ"},
+  {"year": 2026, "text": "zahájena rekonstrukce a dostavba, znovuotevření plánováno na přelom 2029/2030"}
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Invalidovna_(Praha)",
+  "http://www.npu.cz/cs/o-nas/invalidovna",
+  "https://www.nasepraha.cz/pamatkari-v-patek-prevezmou-invalidovnu-chteji-do-ni-investovat-miliardu/"
+ ]
+}

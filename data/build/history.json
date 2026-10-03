@@ -1,4 +1,154 @@
 {
+ "Q1000684": {
+  "id": "Q1000684",
+  "name": "Emauzský klášter",
+  "founded": {
+   "year": 1347,
+   "approx": false,
+   "text": "Karel IV. založil listinou z 21. listopadu 1347 klášter slovanských benediktinů v Podskalí u starého kostelíka sv. Kosmy a Damiána; nový klášterní kostel založen 1371, vysvěcen 1372."
+  },
+  "summary": "Klášter Na Slovanech založil roku 1347 Karel IV. pro benediktiny slovanské liturgie. V husitské době se v něm užívalo přijímání podobojí a komunita zanikla, po obnově katolického života ho 1635-1636 obsadili benediktini z Montserratu, od 1880 beuronští mniši. Za okupace byl 1941 zrušen, 1945 zasažen bombardováním, 1950 zabrán státem a přidělen Československé akademii věd a roku 1990 jej převzali benediktini zpět (lesní a polní majetek 2014).",
+  "owners": [
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "slovanští benediktini (první opat Jan)",
+    "from": 1347,
+    "to": 1635,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "od 1419 husité, přijímání podobojí do 1589, komunita postupně zanikla; od 1592 opat Pavel Horský obnovil katolickou komunitu; 1635 císař Ferdinand III. donutil české mnichy odejít"
+   },
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "benediktini z Montserratu (tzv. černí Španělé)",
+    "from": 1635,
+    "to": 1880,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "jine",
+    "note": "cs.wiki uvádí příchod Španělů 1635 i 1636; barokní přestavba; klášter přečkal josefínské reformy; od 1789 do 1803 Prokop Škoda skupoval umělecké sbírky"
+   },
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "beuronští benediktini (od 1885 samostatné opatství)",
+    "from": 1880,
+    "to": 1919,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "jine",
+    "note": "pozváni kardinálem Schwarzenbergem během Kulturkampfu; regotizace kláštera"
+   },
+   {
+    "owner": "neznamo",
+    "owner_wiki": null,
+    "person": "hudební konzervatoř",
+    "from": 1919,
+    "to": 1920,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "jine",
+    "note": "cs.wiki: po vyhlášení Československa byla komunita vyhoštěna a klášter byl krátce v majetku hudební konzervatoře; podrobnosti neuvedeny"
+   },
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "benediktini (česká komunita, Beuronská kongregace)",
+    "from": 1920,
+    "to": 1941,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "jine",
+    "note": "vrátili se pouze čeští mniši; 1941 opat Arnošt Vykoukal; zdroje uvádějí uzavření 18. nebo 22. 7. 1941"
+   },
+   {
+    "owner": "neznamo",
+    "owner_wiki": null,
+    "person": "nacistická okupační správa",
+    "from": 1941,
+    "to": 1945,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "klášter sloužil jako lazaret, administrativní budova a zdravotnická škola; 14. 2. 1945 bombardování"
+   },
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "benediktini (od 1945 Slovanská kongregace sv. Vojtěcha)",
+    "from": 1945,
+    "to": 1950,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "restituce",
+    "note": "návrat mnichů v květnu 1945"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "Československá akademie věd",
+    "from": 1950,
+    "to": 1990,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "Akce K, klášter zrušen; opravy 1953-1954 a nové věže kostela 1964-1968; předání ČSAV 1. 10. 1990"
+   },
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "Benediktinské opatství Panny Marie a sv. Jeronýma v Emauzích",
+    "from": 1990,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "restituce",
+    "note": "budovy vráceny 1990; 2014 získáno i lesní a polní zázemí v Posázaví; v klášteře sídlí i další nájemci (cs.wiki)"
+   }
+  ],
+  "events": [
+   {
+    "year": 1347,
+    "text": "založení kláštera Karlem IV."
+   },
+   {
+    "year": 1372,
+    "text": "vysvěcení nového klášterního kostela pražským arcibiskupem Janem Očkem z Vlašimi"
+   },
+   {
+    "year": 1419,
+    "text": "převzetí husity, přijímání podobojí do 1589"
+   },
+   {
+    "year": 1636,
+    "text": "příchod benediktinů z Montserratu, barokní přestavba"
+   },
+   {
+    "year": 1880,
+    "text": "příchod beuronských benediktinů, regotizace"
+   },
+   {
+    "year": 1945,
+    "text": "bombardování 14. února zničilo věže kostela, nahrazeny betonovými 1964-1968"
+   },
+   {
+    "year": 1950,
+    "text": "zrušení kláštera v rámci Akce K"
+   },
+   {
+    "year": 1990,
+    "text": "vrácení kláštera benediktinům"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Emauzský_klášter",
+   "https://opatstvi-emauzy.cz/historie/",
+   "https://emauzy.cz/cz/index.php?id=2"
+  ]
+ },
  "Q1011076": {
   "id": "Q1011076",
   "name": "Blansko",
@@ -16984,6 +17134,90 @@
    "https://palava.aopk.gov.cz/documents/64902/1161889/4+-+Historie+hradu+D%C4%9Bvi%C4%8Dky.pdf/03859b3c-e7fd-d6ea-1948-037af67c3d2b?t=1652276666202"
   ]
  },
+ "Q11863219": {
+  "id": "Q11863219",
+  "name": "Důl Michal",
+  "founded": {
+   "year": 1843,
+   "approx": false,
+   "text": "1843 založena c. k. kutací jáma č. 3 rakouským montánním erárem; jméno Michal od 1850, oficiální datum založení dolu 29. 12. 1849 (udělení koncese na dobývání uhlí)."
+  },
+  "summary": "Důl Michal v ostravských Michálkovicích vznikl z kutací jámy, kterou od roku 1843 hloubil rakouský montánní erár. V roce 1856 jej koupila Severní dráha císaře Ferdinanda, která ho vlastnila do znárodnění 1945 a v letech 1912-1915 jej přestavěla podle architekta Františka Fialy. Po znárodnění patřil národnímu podniku OKD (od 1946 název Petr Cingr); po ukončení těžby 1993 byl areál předán Ministerstvu kultury a od roku 2000 jej spravuje NPÚ jako národní kulturní památku přístupnou veřejnosti.",
+  "owners": [
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "rakouský stát (c. k. montánní erár)",
+    "from": 1843,
+    "to": 1856,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "kutací práce od 1842-1843 ve státní režii, ztrátové"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Severní dráha císaře Ferdinanda (Privilegovaná severní dráha Ferdinandova)",
+    "from": 1856,
+    "to": 1945,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "koupě 15. 12. 1856 od rakouského státu spolu s dalšími doly ostravské části revíru; 1862 báňská dráha, 1912-1915 přestavba"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "Ostravsko-karvinské kamenouhelné doly (OKD), n. p.",
+    "from": 1945,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "znárodnění 1945, od 1. 1. 1946 začleněn do OKD; po ukončení těžby (1993/1994) areál převzalo Ministerstvo kultury ČR (Průmyslové muzeum, zrušeno 2000), od roku 2000 spravuje NPÚ (územní památková správa)"
+   }
+  ],
+  "events": [
+   {
+    "year": 1843,
+    "text": "založena c. k. kutací jáma č. 3 na základě kutací koncese z 29. 6. 1843"
+   },
+   {
+    "year": 1850,
+    "text": "jáma pojmenována Michael podle dvorního rady Michaela Layera (Laiera)"
+   },
+   {
+    "year": 1856,
+    "text": "koupě dolu Severní dráhou císaře Ferdinanda"
+   },
+   {
+    "year": 1862,
+    "text": "napojení na Báňskou dráhu do Přívozu"
+   },
+   {
+    "year": 1915,
+    "text": "1912-1915 zásadní přestavba podle Františka Fialy, elektrifikace"
+   },
+   {
+    "year": 1946,
+    "text": "přejmenování na Důl Petr Cingr po začlenění do OKD"
+   },
+   {
+    "year": 1994,
+    "text": "po ukončení těžby (1993) předán areál Ministerstvu kultury, Průmyslové muzeum"
+   },
+   {
+    "year": 2000,
+    "text": "areál převzal NPÚ a zpřístupnil expozici posledního pracovního dne"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Důl_Michal",
+   "https://www.dul-michal.cz/cs/o-dole/historie",
+   "https://michalkovice.ostrava.cz/cs/o-michalkovicich/zajimavosti/zajimavosti"
+  ]
+ },
  "Q11863536": {
   "id": "Q11863536",
   "name": "Budětice",
@@ -32074,6 +32308,226 @@
    "https://poklady.cpkp-zc.cz/klaster-premonstratek-chotesov/"
   ]
  },
+ "Q1775551": {
+  "id": "Q1775551",
+  "name": "Loucký klášter",
+  "founded": {
+   "year": 1190,
+   "approx": false,
+   "text": "Premonstrátský klášter založil 25. října 1190 kníže Konrád II. Ota se svou matkou Marií."
+  },
+  "summary": "Premonstrátský klášter v Louce u Znojma založil roku 1190 kníže Konrád II. Ota. Za husitských válek byl 1425 vypleněn, v 18. století započala nedokončená barokní přestavba a roku 1784 byl klášter zrušen Josefem II. Poté sloužil jako kasárny a továrna na tabák, 1827 jej koupili Liebenbergové, od roku 1851 byl opět státní (vojenská akademie, kasárna, hřebčín; armáda odešla 1993) a roku 2010 jej stát bezúplatně převedl městu Znojmu, které část pronajímá vinařské firmě Znovín.",
+  "owners": [
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "premonstráti, Loucká kanonie (zakladatel Konrád II. Ota)",
+    "from": 1190,
+    "to": 1784,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "vypleněn 1242 a po 1278; 12. 11. 1425 dobyt husity, 1426 dobyt zpět; 1784 měl 96 kanovníků, poslední opat Daniel Todl; zrušen 29. 7. 1784 Josefem II."
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "Náboženský fond, kasárna a továrna na tabák",
+    "from": 1784,
+    "to": 1827,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "po zrušení konvent kasárnami, po 18 letech továrna na tabák; statky ve státní správě a postupně odprodávány"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "rodina Liebenbergů (vídeňští bankéři)",
+    "from": 1827,
+    "to": 1851,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "koupili loucké panství, budovy upravili na sídlo (Nový zámek); zbylé části koupili další zájemci"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "stát (vojenská akademie, kasárna, vojenský hřebčín)",
+    "from": 1851,
+    "to": 2010,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "komplex prodán státu; armáda odešla 1993; 1969 stržena barokní brána; od 2008 nabízen k prodeji; formální držitel po roce 1993 je ÚZSVM"
+   },
+   {
+    "owner": "mesto",
+    "owner_wiki": null,
+    "person": "město Znojmo",
+    "from": 2010,
+    "to": 2018,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "dar",
+    "note": "bezúplatný převod z Úřadu pro zastupování státu ve věcech majetkových (13. 10. 2010) s podmínkou neprodat 20 let; část pronajímá firma Znovín Znojmo (smlouva od 2000)"
+   },
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "římskokatolická církev (farnost)",
+    "from": 2018,
+    "to": null,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "práce Hamzové uvádí současné vlastníky dva: město Znojmo a římskokatolickou církev; rozsah a rok nabytí církevní části zdroje neuvádějí (souběžný vlastník s městem)"
+   }
+  ],
+  "events": [
+   {
+    "year": 1190,
+    "text": "založení kláštera knížetem Konrádem II. Otou"
+   },
+   {
+    "year": 1425,
+    "text": "klášter dobyli a vypálili husité, 1426 získán zpět"
+   },
+   {
+    "year": 1784,
+    "text": "zrušení kláštera císařem Josefem II."
+   },
+   {
+    "year": 1827,
+    "text": "loucké panství koupila rodina Liebenbergů"
+   },
+   {
+    "year": 1851,
+    "text": "komplex prodán státu, později vojenská akademie a kasárna"
+   },
+   {
+    "year": 1993,
+    "text": "armáda opustila klášter"
+   },
+   {
+    "year": 2010,
+    "text": "stát bezúplatně převedl klášter městu Znojmu"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Loucký_klášter",
+   "https://znojemsky.denik.cz/zpravy-region/stat-ve-stredu-preda-loucky-klaster-mestu-znojmu/",
+   "https://dspace.cuni.cz/bitstream/handle/20.500.11956/176415/130341469.pdf?sequence=1"
+  ]
+ },
+ "Q1775777": {
+  "id": "Q1775777",
+  "name": "Klášter Osek",
+  "founded": {
+   "year": 1197,
+   "approx": true,
+   "text": "Cisterciáci vyhnaní z Mašťova byli přibližně roku 1197 usazeni v Oseku Slávkem z rodu Hrabišiců; cs.wiki uvádí v infoboxu založení 1199, web kláštera 1196-1197."
+  },
+  "summary": "Cisterciácký klášter v Oseku vznikl koncem 12. století, když Slávek z rodu Hrabišiců usadil v Oseku mnichy vyhnané z Mašťova. Jako klášter královský přežil do husitských válek, v roce 1580 byl zrušen a spravovalo ho pražské arcibiskupství. Roku 1626 byl vrácen cisterciákům a v letech 1712-1718 jej Octavio Broggio přestavěl do podoby vrcholně barokního areálu. Roku 1950 jej zabral stát (internace řeholníků a později řeholnic), od roku 1991 patří opět cisterciákům.",
+  "owners": [
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "cisterciáci (opat a konvent)",
+    "from": 1197,
+    "to": 1580,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "zakladatelem a ochráncem Slávek z rodu Hrabišiců, později páni z Rýzmburka; za Jana Lucemburského klášter královský; 1421 vypálen husity, mniši uprchli do Altzelly; zdroje uvádějí vznik 1196-1199"
+   },
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "pražské arcibiskupství (konzistoř)",
+    "from": 1580,
+    "to": 1626,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "jine",
+    "note": "klášter zrušen na návrh Rudolfa II., majetek přešel pod pražskou arcibiskupskou konzistoř; zrušení anulováno 1614; za třicetileté války bylo panství podle webu kláštera zkonfiskováno a prodáno několika kupcům, dekret o navrácení cisterciákům 1623, skutečně vrácen 17. 5. 1626"
+   },
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "cisterciácký řád",
+    "from": 1626,
+    "to": 1950,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "restituce",
+    "note": "po roce 1945 museli cisterciáci klášter opustit (odsun, národní správa od 1945, na čas salesiáni), oficiálně stále v majetku řádu do zabrání 1950"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": null,
+    "from": 1950,
+    "to": 1991,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "Akce K 1950: internační tábor pro řeholníky, od 1953/54 charitní domov pro řeholnice (do 1993); cisterciáci se vrátili 1989, klášter získali zpět oficiálně 1991"
+   },
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "cisterciácký řád",
+    "from": 1991,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "restituce",
+    "note": "opatem zvolen Bernard Thebes; dnes neobsazený klášter, areál je národní kulturní památkou"
+   }
+  ],
+  "events": [
+   {
+    "year": 1197,
+    "text": "usazení cisterciáků z Mašťova v Oseku (přibližně), zakladatelem Slávek z Hrabišiců",
+    "approx": true
+   },
+   {
+    "year": 1421,
+    "text": "klášter vypálen husity, mniši uprchli do Altzelly"
+   },
+   {
+    "year": 1580,
+    "text": "zrušení kláštera na návrh Rudolfa II., správa pražské konzistoře"
+   },
+   {
+    "year": 1626,
+    "text": "navrácení kláštera cisterciákům"
+   },
+   {
+    "year": 1712,
+    "text": "1712-1718 přestavba do vrcholně barokní podoby podle Octavia Broggia za opata Benedikta Littweriga"
+   },
+   {
+    "year": 1950,
+    "text": "Akce K, zabrání státem a zřízení internačního tábora"
+   },
+   {
+    "year": 1991,
+    "text": "navrácení kláštera cisterciákům"
+   },
+   {
+    "year": 1995,
+    "text": "areál prohlášen národní kulturní památkou"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Osecký_klášter",
+   "http://klasterosek.cz/o-klasteru/",
+   "https://www.osek.cz/volny-cas/pamatky/cisterciacky-klaster-osek/"
+  ]
+ },
  "Q1776234": {
   "id": "Q1776234",
   "name": "Velehradský klášter",
@@ -44300,6 +44754,112 @@
    "https://denikzruc.cz/historie/ (regionální deník, nižší spolehlivost)"
   ]
  },
+ "Q2982877": {
+  "id": "Q2982877",
+  "name": "Invalidovna",
+  "founded": {
+   "year": 1731,
+   "approx": false,
+   "text": "1731-1737 stavba barokní Invalidovny podle projektu Kiliána Ignáce Dientzenhofera z prostředků nadace hraběte Petra Strozziho (závěť z 3. 8. 1658); základní kámen 1732, první invalidé 1735."
+  },
+  "summary": "Karlínská Invalidovna vznikla v letech 1731-1737 z prostředků nadace hraběte Petra Strozziho na pozemcích křižovníků s červenou hvězdou, jako ubytování válečných invalidů podle vzoru pařížského Hôtel des Invalides. Realizována byla jen devítina původního záměru. Po roce 1918 zůstala v resortu ministerstva obrany a sloužila jako vojenský archiv, po opuštění armádou 2014/2015 ji spravoval ÚZSVM a po neúspěšné dražbě ji v květnu 2018 převzal NPÚ. Od roku 2017 je národní kulturní památkou, v srpnu 2026 začala její rekonstrukce.",
+  "owners": [
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "křižovníci s červenou hvězdou (pozemky Špitálského pole)",
+    "from": null,
+    "to": 1731,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "pozemky patřily řádu od poloviny 13. století do 19. století (s výjimkou husitské doby a třicetileté války); konec držby parcely pod Invalidovnou ani způsob předání nadaci zdroje neuvádějí, rok 1731 je rok vytyčení stavby"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Nadace hraběte Petra Strozziho",
+    "from": 1731,
+    "to": 1919,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "zalozeni",
+    "note": "správcem nadace byl podle NPÚ řád křižovníků s červenou hvězdou, podle cs.wiki provozovalo pražské arcibiskupství; 1814 formálně přešla do správy Všeobecného invalidního fondu, 1880s nadace obnovena; NPÚ uvádí zrušení nadace až 1952; rok 1919 je odvozen z převzetí objektu resortem obrany (zdroje rok nepřesně neuvádějí)"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "Ministerstvo obrany ČR (Vojenský ústřední archiv)",
+    "from": 1919,
+    "to": 2014,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "jine",
+    "note": "po sporech mezi ministerstvy zůstal objekt v resortu obrany; po 1919 expozice Vojenského muzea, po 1920 přestavba (Vejrych, Beneš), po 1935 armádní archiv; armáda objekt opustila 2014-2015"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "Úřad pro zastupování státu ve věcech majetkových (ÚZSVM)",
+    "from": 2014,
+    "to": 2018,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "jine",
+    "note": "příprava prodeje, dražba 2016 s vyvolávací cenou 637,7 mil. Kč bez zájemce; zdroje se liší v roce převzetí od MO (2014 cs.wiki, NPÚ 2015, nasepraha.cz asi 2015)"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "Národní památkový ústav",
+    "from": 2018,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "jine",
+    "note": "svěřena do správy NPÚ v květnu 2018 (cs.wiki 18. 5., nasepraha.cz 19. 5.); vlastníkem zůstává stát"
+   }
+  ],
+  "events": [
+   {
+    "year": 1658,
+    "text": "závěť hraběte Petra Strozziho zakládající nadaci pro válečné invalidy"
+   },
+   {
+    "year": 1732,
+    "text": "základní kámen za účasti Karla VI.; stavba 1731-1737, první invalidé 1735"
+   },
+   {
+    "year": 1890,
+    "text": "povodeň a tragédie zákopníků, v parku postaven pomník"
+   },
+   {
+    "year": 1920,
+    "text": "po roce 1920 rozsáhlá přestavba a elektrifikace (Josef Vejrych, Viktor Beneš)"
+   },
+   {
+    "year": 2002,
+    "text": "povodeň poškodila archiv, budova ve špatném technickém stavu"
+   },
+   {
+    "year": 2017,
+    "text": "prohlášena národní kulturní památkou"
+   },
+   {
+    "year": 2018,
+    "text": "převzetí do správy NPÚ"
+   },
+   {
+    "year": 2026,
+    "text": "zahájena rekonstrukce a dostavba, znovuotevření plánováno na přelom 2029/2030"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Invalidovna_(Praha)",
+   "http://www.npu.cz/cs/o-nas/invalidovna",
+   "https://www.nasepraha.cz/pamatkari-v-patek-prevezmou-invalidovnu-chteji-do-ni-investovat-miliardu/"
+  ]
+ },
  "Q30132905": {
   "id": "Q30132905",
   "name": "Augustiniánský klášter v Roudnici nad Labem",
@@ -49065,6 +49625,162 @@
    "https://infocentrum.kzvalmez.cz/zajimavosti-ve-meste/zajimavosti-ve-meste/historie/"
   ]
  },
+ "Q33526592": {
+  "id": "Q33526592",
+  "name": "Usedlost Bolevec čp. 1",
+  "founded": {
+   "year": 1635,
+   "approx": false,
+   "text": "První písemná zmínka o dvoru (tehdy pustém Weysovském) je z roku 1635, kdy jej od města Plzně koupil Matouš Wiezl; statek je zřejmě výrazně starší (v Bolevci je v roce 1461 doloženo deset selských usedlostí)."
+  },
+  "summary": "Selský dvůr U Matoušů čp. 1 na návsi v Plzni-Bolevci je doložen od roku 1635, kdy pustý dvůr koupil od města Plzně Matouš Wiezl (Vicl). Po Pechmannech a rodu Mauerů jej od roku 1891 vlastnila rodina Raisových; po roce 1948 byl kolektivizován a statek chátral. Po restituci v 90. letech jej roku 2004 vykoupilo město Plzeň a roku 2007 předalo státu, dnes jej spravuje NPÚ (Národní muzeum v přírodě). Od roku 2008 je národní kulturní památkou a po obnově je od roku 2021 zpřístupněn.",
+  "owners": [
+   {
+    "owner": "mesto",
+    "owner_wiki": null,
+    "person": "město Plzeň",
+    "from": 1460,
+    "to": 1635,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "město koupilo ves Bolevec roku 1460 od kapituly sv. Apolináře v Praze; konkrétní dvůr čp. 1 je jako pustý doložen až 1635 a první doložený rok vlastnictví dvora městem není uveden"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Matouš a Mariana Vicl (Wiezl)",
+    "from": 1635,
+    "to": 1684,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "koupě za 400 kop míšeňských grošů; po Matoušovi je dvůr pojmenován; nmvp.cz uvádí držbu 1635-1684"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Jan Krásný",
+    "from": 1684,
+    "to": 1708,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "na konci 17. století krátce; počátek držby je odvozen z konce držby předchozího majitele; statek 1708 prodal Pechmannovým"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Jiří a Anna Pechmannovi a jejich rod",
+    "from": 1708,
+    "to": 1800,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Vojtěch Mauer, František Mauer, Vojtěch a Kateřina Mauerovi",
+    "from": 1800,
+    "to": 1891,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "Vojtěch Mauer, bolevecký rychtář, koupil 1800, přestavba obytného stavení dokončena 1809; následovali syn František a vnuk Vojtěch; přesné roky předání nejsou uvedeny"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Vojtěch a Magdaléna Raisovi, později jejich děti (Barbora Raisová)",
+    "from": 1891,
+    "to": 1929,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "snatek",
+    "note": "Magdaléna Mauerová se 1888 provdala za Vojtěcha Raise, statek převzali 1891; po 1. světové válce majetkově rozdělen mezi děti; po 1948 kolektivizace (JZD užívalo hospodářské objekty, roku 1952 zabráno JZD, Barbora Raisová 1952 odsouzena), majitelky směly užívat jen dům, 1957 prodaly zbývající pozemky JZD; v 80. letech statek vykoupil stát hluboko pod cenou"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": null,
+    "from": 1929,
+    "to": 1966,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "v 80. letech 20. století vykoupen státem pro záměr Stanice mladých přírodovědců (nedokončeno 1989); přesný rok a doba držby nejsou uvedeny"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "původní majitelé (dědicové Raisových)",
+    "from": 1966,
+    "to": 2004,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "restituce",
+    "note": "v 90. letech vrácen původním majitelům ve špatném technickém stavu"
+   },
+   {
+    "owner": "mesto",
+    "owner_wiki": null,
+    "person": "Statutární město Plzeň",
+    "from": 2004,
+    "to": 2007,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "Česká republika, Ministerstvo kultury (správa NPÚ, ÚOP Plzeň)",
+    "from": 2007,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "dar",
+    "note": "převod města na Ministerstvo kultury, resp. NPÚ; způsob převodu (dar/jiné) není uveden; dnes ve správě Národního muzea v přírodě"
+   }
+  ],
+  "events": [
+   {
+    "year": 1635,
+    "text": "první písemná zmínka, dvůr Weysovský koupil Matouš Wiezl od města Plzně"
+   },
+   {
+    "year": 1809,
+    "text": "dokončena přestavba obytného stavení za Vojtěcha Mauera"
+   },
+   {
+    "year": 1948,
+    "text": "po únoru 1948 JZD převzalo hospodářské objekty, statek sloužil jako vepřín"
+   },
+   {
+    "year": 1958,
+    "text": "usedlost památkově chráněna od 3. 5. 1958"
+   },
+   {
+    "year": 2008,
+    "text": "prohlášení národní kulturní památkou (1. 7. 2008)"
+   },
+   {
+    "year": 2019,
+    "text": "zahájena celková obnova (2019-2021), nová došková střecha 2020"
+   },
+   {
+    "year": 2021,
+    "text": "zpřístupnění po rekonstrukci jako expozice života na vsi"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/U_Matoušů",
+   "https://nmvp.cz/bolevec/o-muzeu/majitele-v-prubehu-casu",
+   "https://nmvp.cz/bolevec/o-muzeu/historie-bolevce-a-statku-u-matousu",
+   "https://update.npu.cz/uop/plzen/pdf/Leporela/Plzen-Bolevec-%20selsky%20dvur%20U%20Matousu.pdf"
+  ]
+ },
  "Q3488058": {
   "id": "Q3488058",
   "name": "Jihlavské katakomby",
@@ -52074,6 +52790,245 @@
    "https://cs.wikipedia.org/wiki/Jindřichův_Hradec_(zámek)",
    "https://www.zamek-jindrichuvhradec.cz/cs/o-zamku/historie",
    "https://cs.wikipedia.org/wiki/Černínové_z_Chudenic"
+  ]
+ },
+ "Q369547": {
+  "id": "Q369547",
+  "name": "Sázavský klášter",
+  "founded": {
+   "year": 1032,
+   "approx": false,
+   "text": "Roku 1032 povýšil kníže Oldřich komunitu kolem poustevníka Prokopa na benediktinský klášter; nejstarší zmínky sahají do roku 1032."
+  },
+  "summary": "Benediktinský klášter na Sázavě založil roku 1032 kníže Oldřich se svatým Prokopem a stal se střediskem slovanské liturgie; od roku 1096 jej drželi latinští benediktini z Břevnova. Po husitských válkách byl klášter s panstvím v rukou šlechty (Zajímačové z Kunštátu, Slavatové, Švihovští, Valdštejnové), roku 1663 se vrátili benediktini. Po zrušení roku 1785 se budovy staly zámkem (Tiegelové z Lindenkronu, Neuberkové, Schwarzové), roku 1948 jej převzal stát a roku 2013 byla část vrácena farnosti a emauzským benediktinům, jejichž podíl roku 2018 odkoupil stát.",
+  "owners": [
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "benediktini (klášter)",
+    "from": 1032,
+    "to": 1421,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "zalozeni",
+    "note": "od 1096 latinští benediktini z Břevnova; husité klášter dobyli v dubnu 1421 (apsida.cz); cs.wiki uvádí vyhnání mnichů 1420-1437"
+   },
+   {
+    "owner": "zajimacove-z-kunstatu",
+    "owner_wiki": null,
+    "person": "Sezema a Boček, od 1433 Zajímač, od 1460 Jindřich, od 1505 Jan Zajímač z Kunštátu",
+    "from": 1421,
+    "to": 1528,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "lenni",
+    "note": "husitská moravská šlechta; 1436 získali panství do zástavy od Zikmunda; mniši se od 1433 vrátili a dělili se o budovu; po zadlužení panství 1528 prodáno v dražbě"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Václav Daniel a Jakub Fikar z Vratu",
+    "from": 1528,
+    "to": 1529,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "pražští měšťané, koupě v dražbě"
+   },
+   {
+    "owner": "slavatove-z-chlumu-a-kosumberka",
+    "owner_wiki": "Slavatové z Chlumu a Košumberka",
+    "person": "Michal Slavata, poté Diviš Slavata z Chlumu",
+    "from": 1529,
+    "to": 1547,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "na Sázavě nesídlili; 1547 konfiskace pro účast na stavovském odboji"
+   },
+   {
+    "owner": "koruna",
+    "owner_wiki": null,
+    "person": null,
+    "from": 1547,
+    "to": 1571,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "král postoupil budovu zámku sázavským mnichům, statky si ponechal"
+   },
+   {
+    "owner": "svihovsti-z-ryzmberka",
+    "owner_wiki": "Švihovští z Rýzmberka",
+    "person": "Ferdinand Švihovský z Rýzmberka",
+    "from": 1571,
+    "to": 1599,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "lenni",
+    "note": "zástava od Maxmiliána II.; po jeho smrti 1599 panství připadlo komoře"
+   },
+   {
+    "owner": "koruna",
+    "owner_wiki": null,
+    "person": null,
+    "from": 1599,
+    "to": 1611,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "královská komora"
+   },
+   {
+    "owner": "valdstejnove",
+    "owner_wiki": "Valdštejnové",
+    "person": "Adam mladší z Valdštejna, od 1638 Jan Viktorin z Valdštejna",
+    "from": 1611,
+    "to": 1663,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "lenni",
+    "note": "odměna od Rudolfa II. za dvorské služby; spojeno s Komorním Hrádkem"
+   },
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "benediktini (broumovský opat Augustin Seifert, první opat Daniel Nigrin)",
+    "from": 1663,
+    "to": 1785,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "jine",
+    "note": "obnova kláštera smlouvou s Janem Viktorinem z Valdštejna; rozsáhlá barokní přestavba; klášter zrušen 4. 11. 1785 Josefem II."
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "Náboženský fond",
+    "from": 1785,
+    "to": 1808,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "kostel a fara předány 1788 farnosti; zbytek 1804 prodán v dražbě Františku Heilbergerovi, který nesplnil podmínky"
+   },
+   {
+    "owner": "tiegelove-z-lindenkronu",
+    "owner_wiki": "Tiegelové z Lindenkronu",
+    "person": "Vilém Tiegel z Lindenkronu",
+    "from": 1808,
+    "to": 1869,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "cs.wiki uvádí jen užívání; web kláštera 1808, jiný zdroj 1809; zámek; po Vilémově smrti 1827 syn Emanuel"
+   },
+   {
+    "owner": "z-neuberka",
+    "owner_wiki": null,
+    "person": "Jan Fridrich z Neuberka",
+    "from": 1869,
+    "to": 1876,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "klasicistní novorenesanční přestavba; zdroje se rozcházejí v pořadí: sazavskyklaster.cz uvádí Neuberk 1869 a Schwarze 1869-1948, apsida.cz uvádí prodej Schwarzovi 1867 (zřejmě chyba) a klášter-sazava.cz prodej Schwarzovi po sedmi letech (kolem 1876)"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Bedřich Schwarz a dědicové",
+    "from": 1876,
+    "to": 1948,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "ředitel thurn-taxisských panství; 1932 jeden z dědiců prodal část areálu emauzským benediktinům"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "Československo (Národní kulturní komise)",
+    "from": 1948,
+    "to": 2013,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "znárodnění 1948; cs.wiki uvádí zestátnění 1951"
+   },
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "Římskokatolická farnost Sázava - Černé Budy",
+    "from": 2013,
+    "to": 2013,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "restituce",
+    "note": "současný vlastník fary, kostela sv. Prokopa, nedostavěného trojlodí a části zahrad; souběžný s NPÚ"
+   },
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "Římskokatolická farnost Sázava - Černé Budy a Benediktinské opatství v Emauzích",
+    "from": 2013,
+    "to": 2018,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "restituce",
+    "note": "část areálu; farnost vlastní dál faru, kostel a trojlodí"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "Česká republika (NPÚ)",
+    "from": 2018,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "stát odkoupil podíl emauzských benediktinů; farnost vlastní svou část (kostel, fara, trojlodí, západní část zahrad) a spravuje ji samostatně; dva současní majitelé"
+   }
+  ],
+  "events": [
+   {
+    "year": 1032,
+    "text": "kníže Oldřich povýšil poustevnu sv. Prokopa na benediktinský klášter"
+   },
+   {
+    "year": 1096,
+    "text": "vyhnání slovanských mnichů, klášter předán benediktinům z Břevnova"
+   },
+   {
+    "year": 1204,
+    "text": "kanonizace svatého Prokopa"
+   },
+   {
+    "year": 1421,
+    "text": "husité dobyli klášter, panství přešlo do světských rukou"
+   },
+   {
+    "year": 1663,
+    "text": "obnova kláštera benediktiny z Broumova, následná barokní přestavba"
+   },
+   {
+    "year": 1785,
+    "text": "zrušení kláštera Josefem II., kostel se stal farním"
+   },
+   {
+    "year": 1870,
+    "text": "novorenesanční přestavba konventu na zámek"
+   },
+   {
+    "year": 2021,
+    "text": "dokončena rekonstrukce části areálu farností a nový prohlídkový okruh"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Sázavský_klášter",
+   "https://www.sazavskyklaster.cz/historie/",
+   "https://klaster-sazava.cz/cs/o-klasteru/dejiny-sazavskeho-klastera",
+   "https://www.apsida.cz/hrady/strednicechy/okreskhora/sazava/sazava.htm"
   ]
  },
  "Q369694": {
@@ -57364,6 +58319,108 @@
    "https://budejovice.rozhlas.cz/valka-a-komunisticky-rezim-ponicily-klaster-ve-vyssim-brode-vse-jeste-zhorsily-7037936"
   ]
  },
+ "Q6835949": {
+  "id": "Q6835949",
+  "name": "Michalovice (Putna)",
+  "founded": {
+   "year": null,
+   "approx": false,
+   "text": "Ve druhé polovině 13. století založil hrad rozvětvený rod Markvarticů; stavebníkem byl podle cs.wiki Jan I. z Michalovic (páni z Michalovic doloženi od 1281)."
+  },
+  "summary": "Hrad Michalovice nad Jizerou založili ve druhé polovině 13. století Markvartici, z nichž vzešli páni z Michalovic, doložení od roku 1281. Rod vymřel roku 1468 po meči a hrad zdědili Tovačovští z Cimburka, kteří na něm nesídlili, takže roku 1513 byl uváděn jako pustý. Později panství držela i další šlechta a od roku 1997 je zřícenina majetkem města Mladá Boleslav. Podkopaná věž Putna se v 19. století naklonila a v roce 1911 byla zpevněna.",
+  "owners": [
+   {
+    "owner": "pani-z-michalovic",
+    "owner_wiki": "Páni z Michalovic",
+    "person": "Jan I. z Michalovic a jeho potomci",
+    "from": null,
+    "to": 1468,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "z rozrodu Markvarticů, doloženi od 1281; poslední Jindřich Kruhlata zahynul 1468 u Turnova. Turistika.cz (neověřený detail) uvádí, že hrad 1425 dobyli husité (hejtman Kunata z Počapel, poté Bohuněk z Klinštejna do 1437), než se vrátil Michalovickým"
+   },
+   {
+    "owner": "pani-z-cimburka",
+    "owner_wiki": "Páni z Cimburka",
+    "person": "Jan Tovačovský z Cimburka ml. (manžel Magdalény z Michalovic)",
+    "from": 1468,
+    "to": 1513,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "snatek",
+    "note": "věnem po sestře posledního Michalovického; na hradě nesídlili ani jej neudržovali; konec držby není ve zdroji uveden, rok 1513 je první zmínka o hradu jako pustém"
+   },
+   {
+    "owner": "krajirove-z-krajku",
+    "owner_wiki": "Krajířové z Krajku",
+    "person": null,
+    "from": 1513,
+    "to": 1755,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "podle turistika.cz roku 1513 koupili zdejší zboží, hrad již zpustlý; není jasné, jak dlouho jej drželi"
+   },
+   {
+    "owner": "lobkovicove",
+    "owner_wiki": "Lobkovicové",
+    "person": null,
+    "from": 1755,
+    "to": 1997,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "turistika.cz uvádí Lobkovice jen jako jednoho z pozdějších majitelů michalovického zboží, bez let; konec držby ani nástupce před rokem 1997 zdroje neuvádějí"
+   },
+   {
+    "owner": "mesto",
+    "owner_wiki": null,
+    "person": "Statutární město Mladá Boleslav",
+    "from": 1997,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "městský majetek podle Památkového katalogu / soupispamatek.cz; způsob nabytí neuveden"
+   }
+  ],
+  "events": [
+   {
+    "year": 1281,
+    "text": "první doložení pánů z Michalovic (Jan z Markvartic se píše z Michalovic)"
+   },
+   {
+    "year": 1468,
+    "text": "vymření pánů z Michalovic po meči, hrad přechází na Tovačovské z Cimburka"
+   },
+   {
+    "year": 1513,
+    "text": "hrad uváděn jako opuštěný a pustý"
+   },
+   {
+    "year": 1911,
+    "text": "podkopaná a nakloněná věž Putna podezděna a zpevněna betonem, od téhož roku slouží jako rozhledna"
+   },
+   {
+    "year": 1935,
+    "text": "pod věží nalezen váček s asi 470 stříbrnými mincemi z doby třicetileté války"
+   },
+   {
+    "year": 1967,
+    "text": "hrad prohlášen kulturní památkou"
+   },
+   {
+    "year": 1997,
+    "text": "město Mladá Boleslav uvedeno jako vlastník"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Michalovice_(hrad)",
+   "https://www.soupispamatek.cz/arl-kcz/en/detail-kcz_un_auth-0000318-Castle-Michalovice/",
+   "https://www.turistika.cz/mista/hrad-michalovice/detail"
+  ]
+ },
  "Q695042": {
   "id": "Q695042",
   "name": "Žebrák",
@@ -59610,6 +60667,151 @@
    "http://www.krasybeskyd.cz/hrady/ZamekStaryJicin.htm (turistický web, méně spolehlivý)"
   ]
  },
+ "Q86813414": {
+  "id": "Q86813414",
+  "name": "Horní tvrz Kestřany",
+  "founded": {
+   "year": null,
+   "approx": false,
+   "text": "Založena nejspíše ve druhé polovině 13. století; první známý majitel Albert z Kestřan připomínán 1315."
+  },
+  "summary": "Horní tvrz v Kestřanech u Písku vznikla nejspíše ve 2. polovině 13. století a do 15. století byla sídlem Kestřanských z Kestřan. Roku 1491 ji koupili páni ze Švamberka, kteří ji užívali jako správní centrum panství a koncem 15. století nechali pozdně gotickou přestavbou přistavět palác s kaplí. Po roce 1652 přešla na Paary, kteří si vedle postavili zámek, později patřila Schwarzenbergům a od 1924 státu; od 1990 ji vlastnilo zemědělské družstvo a od roku 2005 ji opravuje soukromá rodina Haladových.",
+  "owners": [
+   {
+    "owner": "z-kestran",
+    "owner_wiki": null,
+    "person": "Albert z Kestřan a synové Michal, Šimon, Bartoloměj; později další členové rodu",
+    "from": null,
+    "to": 1396,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "Albert doložen 1315; panství bylo v dalších letech rozděleno mezi mnoho majitelů; Bartolomějův podíl jako odúmrť věnoval Karel IV. Buzkovi, Přibíkovi, Ondřejovi a Jakubovi ze Lhoty"
+   },
+   {
+    "owner": "z-kestran",
+    "owner_wiki": null,
+    "person": "Arnošt z Kestřan (potomci Údražští z Kestřan)",
+    "from": 1396,
+    "to": 1446,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "dedictvi",
+    "note": "cs.wiki: prodej Vaňkovi Koktanovi 1416, August Sedláček a web tvrze uvádějí 1446"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Vaněk Koktan, poté jeho syn (synovec dle webu) Bohuslav",
+    "from": 1446,
+    "to": 1491,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "Vaněk koupil od příbuzného Arnošta; Bohuslav 1475 (cs.wiki) přikoupil dolní tvrz; web tvrze uvádí Bohuslava jako majitele od 1460 a synovce Vaňka"
+   },
+   {
+    "owner": "pani-ze-svamberka",
+    "owner_wiki": "Páni ze Švamberka",
+    "person": "Jindřich ze Švamberka, od 1523 Kryštof I., od 1540 Jindřich, od 1574 Kryštof II., od 1584 Jan Vilém, poté Jiří Ernreich, Jan Vilém",
+    "from": 1491,
+    "to": 1652,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "synové Bohuslava Václav a Jiří prodali Jindřichovi ze Švamberka a na Zvíkově 1491 (web tvrze uvádí prodej 1492); Švamberkové zprvu nesídlili; 1619 vypleněno; Jan Vilém ze Švamberka zemřel 1651 bez mužských potomků"
+   },
+   {
+    "owner": "paarove",
+    "owner_wiki": "Paarové",
+    "person": "Františka Polyxena ze Švamberka provdaná za hraběte z Paaru",
+    "from": 1652,
+    "to": 1788,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "dedictvi",
+    "note": "12. 10. 1652; Paarové si vedle tvrze postavili zámek; horní tvrz sloužila hospodářským účelům"
+   },
+   {
+    "owner": "schwarzenbergove",
+    "owner_wiki": "Schwarzenbergové",
+    "person": "Schwarzenbergové",
+    "from": 1788,
+    "to": 1924,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "jine",
+    "note": "cs.wiki uvádí jen, že panství „později“ získali Schwarzenbergové; způsob a rok nabytí neuvedeny; 1924 prodali při pozemkové reformě"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "Československé státní lesy a statky; jednotné zemědělské družstvo a Prácheňské muzeum jako správci",
+    "from": 1924,
+    "to": 1990,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "v horní tvrzi byly byty do 70. let, v 70. a 80. letech správcem Prácheňské muzeum; formální vlastník po 1948 neuveden"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Zemědělské družstvo Kestřany",
+    "from": 1990,
+    "to": 2005,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "web tvrze: roku 1990 koupilo celý areál"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "rodina Haladových (Pavel a Kateřina Haladovi)",
+    "from": 2005,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "postupné opravy zdevastovaného areálu, tvrz zpřístupněna celoročně; současný soukromý vlastník"
+   }
+  ],
+  "events": [
+   {
+    "year": 1315,
+    "text": "první písemná zmínka, Albert z Kestřan daroval louku píseckému klášteru"
+   },
+   {
+    "year": 1475,
+    "text": "Bohuslav Koktan přikoupil dolní tvrz"
+   },
+   {
+    "year": 1491,
+    "text": "prodej panství Jindřichovi ze Švamberka"
+   },
+   {
+    "year": 1619,
+    "text": "po bitvě u Záblatí byly Kestřany vypleněny"
+   },
+   {
+    "year": 1652,
+    "text": "panství připadlo Paarům, kteří postavili nový zámek"
+   },
+   {
+    "year": 1924,
+    "text": "Schwarzenbergové prodali panství Státním lesům a statkům"
+   },
+   {
+    "year": 2005,
+    "text": "koupě tvrze rodinou Haladových od zemědělského družstva a zahájení oprav"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Kestřany_(horní_tvrz)",
+   "https://www.kestrany.cz/historie-horni-tvrze/"
+  ]
+ },
  "Q874734": {
   "id": "Q874734",
   "name": "Dětenice",
@@ -61499,6 +62701,82 @@
    "https://cs.wikipedia.org/wiki/Okoř_(hrad)",
    "https://www.hrady.cz/hrad-okor",
    "http://www.obecokor.cz/showpage.php?name=historie_hradu"
+  ]
+ },
+ "Q959499": {
+  "id": "Q959499",
+  "name": "Břevnovský klášter",
+  "founded": {
+   "year": 993,
+   "approx": false,
+   "text": "Podle tradice jej roku 993 založil kníže Boleslav II. s pražským biskupem Vojtěchem; posvěcení 14. 1. 993 doložuje falzum ze 13. století, stavba musela začít již před rokem 993."
+  },
+  "summary": "Nejstarší český mužský klášter založil podle tradice roku 993 kníže Boleslav II. a biskup Vojtěch. Po zničení tábority roku 1420 byl dlouho zpustlý, současná barokní podoba vznikla za opatů Sartoria a Zinka podle Dientzenhoferů (1708-1740). Klášter nebyl za Josefa II. zrušen, roku 1950 jej zabral stát a využíval jej mj. archiv ministerstva vnitra a StB; od roku 1990 se do něj vrátili benediktini a roku 1993 byl povýšen na arciopatství.",
+  "owners": [
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "benediktini, Břevnovské opatství (opati od Anastasia / Astrika)",
+    "from": 993,
+    "to": 1950,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "založil kníže Boleslav II. a biskup Vojtěch; 1420 klášter zničili táborité a mniši odešli do Broumova, obnova v polovině 16. století; nebyl zrušen za Josefa II.; 27. 4. 1950 obsazen policií a zabaven (Akce K), cs.wiki uvádí rozpuštění 1951"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "Československo (Archiv ministerstva vnitra, StB)",
+    "from": 1950,
+    "to": 1990,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "do 1990 zde byl Archiv ministerstva vnitra; Sartoriův konvent užívala StB pod krycím názvem Montážní ústav; při budování Patočkovy ulice 1952-1953 zanikl klášterní pivovar"
+   },
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "Benediktinské arciopatství sv. Vojtěcha a sv. Markéty (arciopat Anastáz Opasek, od 2017 Prokop Siostrzonek)",
+    "from": 1990,
+    "to": null,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "restituce",
+    "note": "opat Opasek se vrátil 1990; 1991-1993 oprava, 10. 2. 1993 povýšení na arciopatství; přesné právní datum a způsob navrácení areálu zdroje neuvádějí (cs.wiki uvádí obnovu 1991, web kláštera návrat 1990)"
+   }
+  ],
+  "events": [
+   {
+    "year": 993,
+    "text": "založení kláštera knížetem Boleslavem II. a biskupem Vojtěchem"
+   },
+   {
+    "year": 1420,
+    "text": "klášter zničili táborité, mniši odešli do Broumova"
+   },
+   {
+    "year": 1708,
+    "text": "zahájení barokní přestavby za opata Otmara Zinka podle Kryštofa Dientzenhofera"
+   },
+   {
+    "year": 1715,
+    "text": "vysvěcení baziliky sv. Markéty, celá stavba trvala do roku 1740"
+   },
+   {
+    "year": 1950,
+    "text": "obsazení kláštera policií, mniši deportováni, areál zabaven státem"
+   },
+   {
+    "year": 1993,
+    "text": "po opravě povýšen papežem Janem Pavlem II. na arciopatství"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Břevnovský_klášter",
+   "https://brevnov.cz/cs/benediktini-a-brevnovsky-klaster/brevnovsky-klaster-ve-20-a-21-stoleti",
+   "https://www.klasterni-stezky.cz/brevnov/93-historie-brevnov"
   ]
  },
  "Q960890": {

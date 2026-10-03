@@ -1,0 +1,76 @@
+{
+ "id": "Q959499",
+ "name": "Břevnovský klášter",
+ "founded": {
+  "year": 993,
+  "approx": false,
+  "text": "Podle tradice jej roku 993 založil kníže Boleslav II. s pražským biskupem Vojtěchem; posvěcení 14. 1. 993 doložuje falzum ze 13. století, stavba musela začít již před rokem 993."
+ },
+ "summary": "Nejstarší český mužský klášter založil podle tradice roku 993 kníže Boleslav II. a biskup Vojtěch. Po zničení tábority roku 1420 byl dlouho zpustlý, současná barokní podoba vznikla za opatů Sartoria a Zinka podle Dientzenhoferů (1708-1740). Klášter nebyl za Josefa II. zrušen, roku 1950 jej zabral stát a využíval jej mj. archiv ministerstva vnitra a StB; od roku 1990 se do něj vrátili benediktini a roku 1993 byl povýšen na arciopatství.",
+ "owners": [
+  {
+   "owner": "cirkev",
+   "owner_wiki": null,
+   "person": "benediktini, Břevnovské opatství (opati od Anastasia / Astrika)",
+   "from": 993,
+   "to": 1950,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "založil kníže Boleslav II. a biskup Vojtěch; 1420 klášter zničili táborité a mniši odešli do Broumova, obnova v polovině 16. století; nebyl zrušen za Josefa II.; 27. 4. 1950 obsazen policií a zabaven (Akce K), cs.wiki uvádí rozpuštění 1951"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": "Československo (Archiv ministerstva vnitra, StB)",
+   "from": 1950,
+   "to": 1990,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "do 1990 zde byl Archiv ministerstva vnitra; Sartoriův konvent užívala StB pod krycím názvem Montážní ústav; při budování Patočkovy ulice 1952-1953 zanikl klášterní pivovar"
+  },
+  {
+   "owner": "cirkev",
+   "owner_wiki": null,
+   "person": "Benediktinské arciopatství sv. Vojtěcha a sv. Markéty (arciopat Anastáz Opasek, od 2017 Prokop Siostrzonek)",
+   "from": 1990,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "restituce",
+   "note": "opat Opasek se vrátil 1990; 1991-1993 oprava, 10. 2. 1993 povýšení na arciopatství; přesné právní datum a způsob navrácení areálu zdroje neuvádějí (cs.wiki uvádí obnovu 1991, web kláštera návrat 1990)"
+  }
+ ],
+ "events": [
+  {
+   "year": 993,
+   "text": "založení kláštera knížetem Boleslavem II. a biskupem Vojtěchem"
+  },
+  {
+   "year": 1420,
+   "text": "klášter zničili táborité, mniši odešli do Broumova"
+  },
+  {
+   "year": 1708,
+   "text": "zahájení barokní přestavby za opata Otmara Zinka podle Kryštofa Dientzenhofera"
+  },
+  {
+   "year": 1715,
+   "text": "vysvěcení baziliky sv. Markéty, celá stavba trvala do roku 1740"
+  },
+  {
+   "year": 1950,
+   "text": "obsazení kláštera policií, mniši deportováni, areál zabaven státem"
+  },
+  {
+   "year": 1993,
+   "text": "po opravě povýšen papežem Janem Pavlem II. na arciopatství"
+  }
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Břevnovský_klášter",
+  "https://brevnov.cz/cs/benediktini-a-brevnovsky-klaster/brevnovsky-klaster-ve-20-a-21-stoleti",
+  "https://www.klasterni-stezky.cz/brevnov/93-historie-brevnov"
+ ]
+}
