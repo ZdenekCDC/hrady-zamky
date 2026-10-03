@@ -382,7 +382,7 @@ function renderLegend() {
   const el = document.getElementById("legend");
   if (!el) return;
   const item = (svg, label, fam) =>
-    `<div class="item ${state.families.length && fam && !state.families.includes(fam) ? "dim" : ""}" ${fam ? `data-fam="${fam}" title="kliknutím zvýraznit / zrušit"` : ""}>${svg}<span>${esc(label)}</span></div>`;
+    `<div class="item ${state.families.length && fam && !state.families.includes(fam) ? "dim" : ""}" ${fam ? `data-fam="${fam}" title="kliknutím zvýraznit / zrušit"` : ""}><span class="sw">${svg}</span><span>${esc(label)}</span></div>`;
   let html = "";
   if (state.tm) {
     const slotted = Object.values(D.families).filter((f) => f.color_slot).sort((a, b) => a.color_slot - b.color_slot);
@@ -397,10 +397,12 @@ function renderLegend() {
       html += item(glyph("zamek", { size: 15, fill: "var(--mk-bg)", stroke: ownerColor(D.families, f, true), strokeWidth: 3 }), familyName(D.families, f), f);
     }
     html += item(glyph("zamek", { size: 20, fill: "var(--mk-accent)", stroke: "var(--mk-bg)", check: true }), "navštíveno");
-    // neutral grey fills (the outline is what carries the access), solid enough to read at legend size
-    html += item(glyph("zamek", { ...ACCESS_STYLE.vstupne, fill: "var(--mk-nodata)" }), ACCESS.vstupne.legend);
-    html += item(glyph("zamek", { ...ACCESS_STYLE.volne, fill: "var(--mk-nodata)" }), ACCESS.volne.legend);
-    html += item(glyph("zamek", { size: 12, fill: "var(--mk-muted)", stroke: "var(--mk-free)", strokeWidth: 1 }), ACCESS.neznamo.legend);
+    // samples are drawn exactly like the markers: solid fill and dark outline / pale fill and grey outline / small grey
+    html += `<div class="legend-head">Přístupnost</div>`;
+    html += item(glyph("zamek", { ...ACCESS_STYLE.vstupne, fill: kindFill("zamek") }), ACCESS.vstupne.legend);
+    html += item(glyph("zamek", { ...ACCESS_STYLE.volne, fill: kindFill("zamek", true) }), ACCESS.volne.legend);
+    html += item(glyph("zamek", { size: 9, fill: "var(--mk-muted)", stroke: "var(--mk-bg)", strokeWidth: 1, opacity: 0.8 }), ACCESS.neznamo.legend);
+    html += `<div class="legend-head">Typ</div>`;
     for (const [k, label] of Object.entries(KIND)) html += item(glyph(k, { size: 12, fill: kindFill(k), stroke: "var(--mk-ink)", strokeWidth: 1.5 }), label);
   }
   el.innerHTML = html;
