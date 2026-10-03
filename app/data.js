@@ -55,13 +55,13 @@ async function json(url, fallback) {
 }
 
 /** Earliest year the place is known to exist: founding year, else the start of the "14. stol." / "1920. léta" text,
- *  else the oldest year in its history (owners, events); null when nothing is known. */
+ *  else the oldest of the first mention (cs.wiki intro) and the years in its history (owners, events); null when nothing is known. */
 function startYear(p) {
   const founded = p.history?.founded?.year ?? p.founded;
   if (founded != null) return founded;
   const m = /^(\d+)\. (stol|léta)/.exec(p.founded_text || "");
   if (m) return m[2] === "stol" ? (+m[1] - 1) * 100 + 1 : +m[1];
-  const years = [...(p.history?.owners || []).map((o) => o.from), ...(p.history?.events || []).map((e) => e.year)].filter((y) => y != null);
+  const years = [p.first_mention, ...(p.history?.owners || []).map((o) => o.from), ...(p.history?.events || []).map((e) => e.year)].filter((y) => y != null);
   return years.length ? Math.min(...years) : null;
 }
 
@@ -69,7 +69,7 @@ function startYear(p) {
 function foundedCentury(p) {
   if (p.foundedYear != null) return century(p.foundedYear);
   const m = /^(\d+)\. (stol|léta)/.exec(p.founded_text || "");
-  if (!m) return null;
+  if (!m) return p.first_mention != null ? century(p.first_mention) : null;
   return m[2] === "stol" ? +m[1] : century(+m[1]);
 }
 

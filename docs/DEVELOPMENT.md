@@ -73,6 +73,7 @@ Požadavky: Python 3.12+ a venv: `python3 -m venv .venv && .venv/bin/pip install
 ```sh
 .venv/bin/python scripts/fetch_access.py     # NPÚ, NIPOS xlsx, OSM -> data/raw/access_sources.json
 .venv/bin/python scripts/fetch_wikidata.py   # Wikidata -> data/raw/wikidata.json
+.venv/bin/python scripts/fetch_founded.py   # odhad vzniku míst bez data ve Wikidatech z textu cs.wiki -> data/founded.json (před build_places)
 .venv/bin/python scripts/build_places.py -v  # sloučení -> data/places.json (vypíše nenapárované řádky NIPOS)
 .venv/bin/python scripts/fetch_thumbs.py     # náhledy fotek pro najetí myší -> data/thumbs/ + data/build/thumbs.json (jen změněné)
 .venv/bin/python scripts/fetch_families.py   # doplní data/families/<id>.json (erb, popis, období)

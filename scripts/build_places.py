@@ -167,6 +167,7 @@ def main():
     src = load(RAW / "access_sources.json")
     overrides_path = DATA / "overrides.json"
     overrides = load(overrides_path)
+    est = load(DATA / "founded.json") if (DATA / "founded.json").exists() else {}  # scripts/fetch_founded.py
 
     npu = {r["qid"]: r for r in src["npu"] if r["qid"]}
     nipos, nipos_unmatched = match_nipos(src["nipos"], items, overrides["nipos_match"])
@@ -228,6 +229,14 @@ def main():
             "nkp": any("národní kulturní památka" in h.lower() for h in it["heritage"]),
             "unesco": any("světového dědictví" in h.lower() or "world heritage" in h.lower() for h in it["heritage"]),
         }
+        e = est.get(q)
+        if e and p["founded"] is None and not p["founded_text"]:  # only where Wikidata has no inception
+            if e["kind"] == "first_mention":
+                p["first_mention"] = e["year"]
+            elif "year" in e:
+                p["founded"], p["founded_text"] = e["year"], str(e["year"])
+            else:
+                p["founded_text"] = f"{e['century']}. stol."
         p.update(overrides["places"].get(q, {}))
         places.append(p)
     names = Counter(p["name"] for p in places)

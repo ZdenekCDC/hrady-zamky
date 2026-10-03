@@ -656,7 +656,7 @@ function renderDetail(p, pan = true) {
       <figcaption class="credit">Foto: ${photoCredit(p) ? esc(photoCredit(p)) + (p.photo.license_url ? ` (<a href="${esc(p.photo.license_url)}" target="_blank" rel="noopener">licence</a>)` : "") + ", " : ""}<a href="https://commons.wikimedia.org/wiki/File:${encodeURIComponent(p.image)}" target="_blank" rel="noopener">Wikimedia Commons</a></figcaption></figure>` : ""}
     <dl class="facts">
       <dt>Obec</dt><dd>${esc(p.obec || "?")}${p.kraj ? ", " + esc(p.kraj) : ""}</dd>
-      ${founded ? `<dt>Vznik</dt><dd>${esc(founded)}</dd>` : ""}
+      ${founded ? `<dt>Vznik</dt><dd>${esc(founded)}</dd>` : p.first_mention ? `<dt>První zmínka</dt><dd>${p.first_mention}</dd>` : ""}
       ${visitors ? `<dt>Návštěvnost</dt><dd>${visitors[1].toLocaleString("cs")} (${visitors[0]}, NIPOS)</dd>` : ""}
       ${tmOwner ? `<dt>V roce ${state.year}</dt><dd>${esc(familyName(D.families, tmOwner.owner))}${tmOwner.person ? " (" + esc(tmOwner.person) + ")" : ""}</dd>` : ""}
     </dl>

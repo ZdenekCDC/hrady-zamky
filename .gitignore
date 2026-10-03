@@ -6,3 +6,5 @@ data/visited.json
 .claude/
 aa/
 piktogramy/
+# cache of cs.wiki article text for scripts/fetch_founded.py (re-downloadable)
+data/raw/cswiki_intro.json

@@ -113,8 +113,8 @@
   "lon": 15.79127,
   "kraj": "Královéhradecký kraj",
   "obec": "Pec pod Sněžkou",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1863,
+  "founded_text": "1863",
   "access": "vstupne",
   "access_sources": [
    "nipos"
@@ -225,7 +225,7 @@
   "kraj": "Jihomoravský kraj",
   "obec": "Valtice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "12. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -351,7 +351,7 @@
   "kraj": "Středočeský kraj",
   "obec": "Příbram I",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "14. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -497,8 +497,8 @@
   "lon": 14.25665,
   "kraj": "Ústecký kraj",
   "obec": "Roudnice nad Labem",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1349,
+  "founded_text": "1349",
   "access": "vstupne",
   "access_sources": [
    "nipos"
@@ -545,8 +545,8 @@
   "lon": 17.30158,
   "kraj": "Olomoucký kraj",
   "obec": "Šternberk",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1389,
+  "founded_text": "1389",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -671,8 +671,8 @@
   "lon": 13.79323,
   "kraj": "Ústecký kraj",
   "obec": "Louny",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1459,
+  "founded_text": "1459",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -736,8 +736,8 @@
   "lon": 15.3944,
   "kraj": "Kraj Vysočina",
   "obec": "Batelov",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1400,
+  "founded_text": "1400",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -809,7 +809,8 @@
   "image": null,
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1519
  },
  {
   "id": "Q33521492",
@@ -883,8 +884,8 @@
   "lon": 16.6579,
   "kraj": "Jihomoravský kraj",
   "obec": "Boskovice",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1707,
+  "founded_text": "1707",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -1036,8 +1037,8 @@
   "lon": 14.31145,
   "kraj": "Ústecký kraj",
   "obec": "Benešov nad Ploučnicí",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1522,
+  "founded_text": "1522",
   "access": "vstupne",
   "access_sources": [
    "npu",
@@ -1085,8 +1086,8 @@
   "lon": 14.82241,
   "kraj": "Středočeský kraj",
   "obec": "Benátky nad Jizerou I",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1525,
+  "founded_text": "1525",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -1325,7 +1326,7 @@
   "kraj": "Karlovarský kraj",
   "obec": "Bečov nad Teplou",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "vstupne",
   "access_sources": [
    "npu",
@@ -1457,8 +1458,8 @@
   "lon": 14.4068,
   "kraj": "Praha",
   "obec": "Praha 1",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1158,
+  "founded_text": "1158",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -1762,7 +1763,7 @@
   "kraj": "Plzeňský kraj",
   "obec": "Blížejov",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "19. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -1813,7 +1814,8 @@
   "image": null,
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1283
  },
  {
   "id": "Q11217221",
@@ -1825,7 +1827,7 @@
   "kraj": "Kraj Vysočina",
   "obec": "Bohdalov",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "14. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -2067,7 +2069,8 @@
   "image": "Boleradice - zbytky hradiště obr01.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1373
  },
  {
   "id": "Q11225857",
@@ -2450,7 +2453,8 @@
   "image": "Boskovštejn, tvrz.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1586
  },
  {
   "id": "Q30767873",
@@ -2471,7 +2475,8 @@
   "image": "Zámek Bosyně.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1408
  },
  {
   "id": "Q940492",
@@ -2779,7 +2784,8 @@
   "image": null,
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1558
  },
  {
   "id": "Q11245731",
@@ -2875,7 +2881,7 @@
   "kraj": "Jihočeský kraj",
   "obec": "Bratronice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "17. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -2905,7 +2911,8 @@
   "image": "Bravantice-NovýZámek1.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1570
  },
  {
   "id": "Q18718614",
@@ -3085,7 +3092,7 @@
   "kraj": "Ústecký kraj",
   "obec": "Štětí",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "16. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -3126,8 +3133,8 @@
   "lon": 13.797,
   "kraj": "Ústecký kraj",
   "obec": "Brodec",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1549,
+  "founded_text": "1549",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -3147,8 +3154,8 @@
   "lon": 17.08221,
   "kraj": "Olomoucký kraj",
   "obec": "Brodek u Prostějova",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1685,
+  "founded_text": "1685",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -3561,7 +3568,7 @@
   "kraj": "Karlovarský kraj",
   "obec": "Verušičky",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "14. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -3605,7 +3612,7 @@
   "kraj": "Královéhradecký kraj",
   "obec": "Krčín",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -3670,7 +3677,7 @@
   "kraj": "Středočeský kraj",
   "obec": "Bukovany",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "20. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -3733,7 +3740,7 @@
   "kraj": "Středočeský kraj",
   "obec": "Buková u Příbramě",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "18. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -3796,7 +3803,7 @@
   "kraj": "Jihočeský kraj",
   "obec": "Buzice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "14. stol.",
   "access": "volne",
   "access_sources": [],
   "manager": null,
@@ -3980,7 +3987,8 @@
   "image": "Bystřice nad Úhlavou - zámek 2.JPG",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1444
  },
  {
   "id": "Q11706363",
@@ -4007,7 +4015,8 @@
    "2023": 6888
   },
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1440
  },
  {
   "id": "Q29017170",
@@ -4091,7 +4100,8 @@
   "image": "Bánov, tři kříže.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1294
  },
  {
   "id": "Q20989010",
@@ -4217,7 +4227,8 @@
   "image": "Bílovice, zámek.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1592
  },
  {
   "id": "Q10856852",
@@ -4467,7 +4478,7 @@
   "kraj": "Středočeský kraj",
   "obec": "Malíkovice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "14. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -4686,7 +4697,8 @@
   "image": "Bělušice tvrz.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1404
  },
  {
   "id": "Q11706805",
@@ -4749,7 +4761,8 @@
   "image": "Bělá nad Radbuzou zámek květen 2024 (1).jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1121
  },
  {
   "id": "Q20755242",
@@ -4782,7 +4795,7 @@
   "kraj": "Pardubický kraj",
   "obec": "Běstvina",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "17. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -4833,7 +4846,8 @@
   "image": "Interier hradu brecstejn.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1532
  },
  {
   "id": "Q959499",
@@ -4873,7 +4887,7 @@
   "kraj": "Plzeňský kraj",
   "obec": "Březina",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "14. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -5121,7 +5135,8 @@
   "image": "Zámek Cerekvice nad Bystřicí,.JPG",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1368
  },
  {
   "id": "Q94490476",
@@ -5184,7 +5199,8 @@
   "image": "Cetechovice Castle 2.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1481
  },
  {
   "id": "Q11723018",
@@ -5196,7 +5212,7 @@
   "kraj": "Kraj Vysočina",
   "obec": "Kněžice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "17. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -5217,7 +5233,7 @@
   "kraj": "Plzeňský kraj",
   "obec": "Chanovice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "vstupne",
   "access_sources": [
    "nipos",
@@ -5457,7 +5473,7 @@
   "kraj": "Jihočeský kraj",
   "obec": "Chlum",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -5655,7 +5671,8 @@
   "image": "Chocomyšl, zámek III.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1545
  },
  {
   "id": "Q11726127",
@@ -5690,7 +5707,7 @@
   "kraj": "Plzeňský kraj",
   "obec": "Chodová Planá",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "20. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -5747,7 +5764,8 @@
   "image": null,
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1328
  },
  {
   "id": "Q21850135",
@@ -5801,7 +5819,7 @@
   "kraj": "Plzeňský kraj",
   "obec": "Blížejov",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "18. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -5957,7 +5975,7 @@
   "kraj": "Královéhradecký kraj",
   "obec": "Choustníkovo Hradiště",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "14. stol.",
   "access": "volne",
   "access_sources": [],
   "manager": null,
@@ -6008,7 +6026,8 @@
   "image": "Zámek Chrast.JPG",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1318
  },
  {
   "id": "Q1383301",
@@ -6164,7 +6183,8 @@
   "image": "Zámek Chudobín.JPG",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1448
  },
  {
   "id": "Q1011348",
@@ -6206,7 +6226,8 @@
   "image": "Chvalkovice castle 2011 1.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1370
  },
  {
   "id": "Q43388127",
@@ -6345,7 +6366,8 @@
    "2023": 5123
   },
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1473
  },
  {
   "id": "Q37168517",
@@ -6420,7 +6442,7 @@
   "kraj": "Plzeňský kraj",
   "obec": "Chříč",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "14. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -6640,8 +6662,8 @@
   "lon": 17.7278,
   "kraj": "Moravskoslezský kraj",
   "obec": "Pod Cvilínem",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1241,
+  "founded_text": "1241",
   "access": "vstupne",
   "access_sources": [
    "osm"
@@ -6726,8 +6748,8 @@
   "lon": 13.8116,
   "kraj": "Ústecký kraj",
   "obec": "Cítoliby",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1665,
+  "founded_text": "1665",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -6789,8 +6811,8 @@
   "lon": 16.24394,
   "kraj": "Kraj Vysočina",
   "obec": "Dalečín",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1850,
+  "founded_text": "1850",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -6953,7 +6975,8 @@
   "image": "Herrenhaus Daňkov (Tschechien).jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1549
  },
  {
   "id": "Q26215091",
@@ -6995,7 +7018,8 @@
   "image": "Deblín, zaniklý hrad (2013-10-05; 02).jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1234
  },
  {
   "id": "Q124370141",
@@ -7070,7 +7094,7 @@
   "kraj": "Plzeňský kraj",
   "obec": "Dešenice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "14. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -7100,7 +7124,8 @@
   "image": "Zámek Deštné 01.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1408
  },
  {
   "id": "Q31731644",
@@ -7174,8 +7199,8 @@
   "lon": 13.96699,
   "kraj": "Ústecký kraj",
   "obec": "Dlažkovice",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1673,
+  "founded_text": "1673",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -7295,7 +7320,8 @@
   "image": "Dobromilice - zámek.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1368
  },
  {
   "id": "Q1011476",
@@ -7327,8 +7353,8 @@
   "lon": 18.1428,
   "kraj": "Moravskoslezský kraj",
   "obec": "Dobroslavice",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1517,
+  "founded_text": "1517",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -7474,8 +7500,8 @@
   "lon": 15.64241,
   "kraj": "Královéhradecký kraj",
   "obec": "Dobřenice",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1775,
+  "founded_text": "1775",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -7592,7 +7618,7 @@
   "kraj": "Plzeňský kraj",
   "obec": "Dolany",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "18. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -7750,7 +7776,8 @@
   "image": "Zámek v Dolních Břežanech.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1332
  },
  {
   "id": "Q11815627",
@@ -8019,8 +8046,8 @@
   "lon": 15.7056,
   "kraj": "Královéhradecký kraj",
   "obec": "Dolní Přím",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1547,
+  "founded_text": "1547",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -8071,7 +8098,8 @@
   "image": null,
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1620
  },
  {
   "id": "Q37178288",
@@ -8092,7 +8120,8 @@
   "image": "Dolní Tošanovice, zámek.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1445
  },
  {
   "id": "Q11817486",
@@ -8125,7 +8154,7 @@
   "kraj": "Kraj Vysočina",
   "obec": "Horní Lhotice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -8316,7 +8345,7 @@
   "kraj": "Liberecký kraj",
   "obec": "Dolánky u Turnova",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "volne",
   "access_sources": [],
   "manager": null,
@@ -8921,7 +8950,8 @@
   "image": "Drahenice zámek(1).JPG",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1638
  },
  {
   "id": "Q37181006",
@@ -9322,7 +9352,8 @@
   "image": "Dubeč tvrz 1.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1508
  },
  {
   "id": "Q56761399",
@@ -9520,7 +9551,8 @@
   "image": "Dub letní ve Dvorečku duben 2019 (1).jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1392
  },
  {
   "id": "Q11836755",
@@ -9667,7 +9699,8 @@
   "image": "Dívčí Hrad 013.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1267
  },
  {
   "id": "Q1011508",
@@ -9728,7 +9761,7 @@
   "kraj": "Karlovarský kraj",
   "obec": "Děpoltovice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "16. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -9919,7 +9952,8 @@
   "image": "Zamek Drevohostice.JPG",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1386
  },
  {
   "id": "Q11863140",
@@ -10532,8 +10566,8 @@
   "lon": 15.00125,
   "kraj": "Jihočeský kraj",
   "obec": "Jindřichův Hradec II",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1478,
+  "founded_text": "1478",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -11080,8 +11114,8 @@
   "lon": 17.90719,
   "kraj": "Moravskoslezský kraj",
   "obec": "Fulnek",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1372,
+  "founded_text": "1372",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -11320,7 +11354,7 @@
   "kraj": "Plzeňský kraj",
   "obec": "Okrouhlé Hradiště",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "14. stol.",
   "access": "vstupne",
   "access_sources": [
    "npu"
@@ -11457,7 +11491,8 @@
   "image": null,
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1529
  },
  {
   "id": "Q23096549",
@@ -11492,7 +11527,7 @@
   "kraj": "Jihočeský kraj",
   "obec": "Hamr",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "15. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -11596,8 +11631,8 @@
   "lon": 12.57551,
   "kraj": "Karlovarský kraj",
   "obec": "Josefov",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1200,
+  "founded_text": "1200",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -11786,7 +11821,8 @@
   "image": null,
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1375
  },
  {
   "id": "Q1724221",
@@ -12067,7 +12103,7 @@
   "kraj": "Pardubický kraj",
   "obec": "Běstovice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "volne",
   "access_sources": [],
   "manager": null,
@@ -12153,7 +12189,7 @@
   "kraj": "Plzeňský kraj",
   "obec": "Hlavňovice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "17. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -12286,8 +12322,8 @@
   "lon": 17.43,
   "kraj": "Olomoucký kraj",
   "obec": "Hrubá Voda",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1340,
+  "founded_text": "1340",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -12454,8 +12490,8 @@
   "lon": 15.29467,
   "kraj": "Středočeský kraj",
   "obec": "Hlízov",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1746,
+  "founded_text": "1746",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -12538,8 +12574,8 @@
   "lon": 13.55911,
   "kraj": "Plzeňský kraj",
   "obec": "Břasy",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1730,
+  "founded_text": "1730",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -12611,7 +12647,8 @@
   "image": "Hodonín, zámek (05).jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1169
  },
  {
   "id": "Q31471378",
@@ -12623,7 +12660,7 @@
   "kraj": "Jihomoravský kraj",
   "obec": "Hodonín",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "20. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -12716,7 +12753,8 @@
   "image": "Plešiště, tvrz.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1336
  },
  {
   "id": "Q12019985",
@@ -13133,8 +13171,8 @@
   "lon": 15.1606,
   "kraj": "Středočeský kraj",
   "obec": "Bezděkov",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1970,
+  "founded_text": "1970",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -13269,7 +13307,8 @@
   "image": "Křovinovo náměstí 16 a 8.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1357
  },
  {
   "id": "Q12020269",
@@ -13322,8 +13361,8 @@
   "lon": 18.49174,
   "kraj": "Moravskoslezský kraj",
   "obec": "Horní Těrlicko",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1800,
+  "founded_text": "1800",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -13385,8 +13424,8 @@
   "lon": 14.07379,
   "kraj": "Jihočeský kraj",
   "obec": "Kestřany",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1446,
+  "founded_text": "1446",
   "access": "vstupne",
   "access_sources": [
    "nipos"
@@ -13596,8 +13635,8 @@
   "lon": 15.49278,
   "kraj": "Kraj Vysočina",
   "obec": "Hostačov",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1846,
+  "founded_text": "1846",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -14004,7 +14043,8 @@
    "2023": null
   },
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1566
  },
  {
   "id": "Q33241107",
@@ -14046,7 +14086,8 @@
   "image": null,
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1565
  },
  {
   "id": "Q31460831",
@@ -14163,7 +14204,7 @@
   "kraj": "Moravskoslezský kraj",
   "obec": "Hradec nad Moravicí",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "vstupne",
   "access_sources": [
    "npu",
@@ -14212,8 +14253,8 @@
   "lon": 13.9927,
   "kraj": "Středočeský kraj",
   "obec": "Nová Ves",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1413,
+  "founded_text": "1413",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -14516,7 +14557,8 @@
   "image": null,
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1553
  },
  {
   "id": "Q18913599",
@@ -14569,8 +14611,8 @@
   "lon": 14.16972,
   "kraj": "Ústecký kraj",
   "obec": "Hrdly",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1523,
+  "founded_text": "1523",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -14807,8 +14849,8 @@
   "lon": 14.85646,
   "kraj": "Středočeský kraj",
   "obec": "Hrušov",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1501,
+  "founded_text": "1501",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -14828,8 +14870,8 @@
   "lon": 13.4971,
   "kraj": "Ústecký kraj",
   "obec": "Hrušovany",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1739,
+  "founded_text": "1739",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -15144,7 +15186,7 @@
   "kraj": "Jihomoravský kraj",
   "obec": "Babice nad Svitavou",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -15186,7 +15228,7 @@
   "kraj": "Pardubický kraj",
   "obec": "Svojanov",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -15361,7 +15403,7 @@
   "kraj": "Jihomoravský kraj",
   "obec": "Senorady",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -15914,7 +15956,8 @@
   "image": "Place of Ivančice castle near house Palacký square 5 in Ivančice, Brno-Country District.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1308
  },
  {
   "id": "Q30788698",
@@ -16413,7 +16456,7 @@
   "kraj": "Středočeský kraj",
   "obec": "Jemniště",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "14. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -16433,8 +16476,8 @@
   "lon": 14.8539,
   "kraj": "Jihočeský kraj",
   "obec": "Jemčina",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1673,
+  "founded_text": "1673",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -17027,7 +17070,8 @@
   "image": "Jezovy-2008-09-19-Zamek-Obr03.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1518
  },
  {
   "id": "Q12024705",
@@ -17192,7 +17236,7 @@
   "kraj": "Karlovarský kraj",
   "obec": "Jindřichovice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "18. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -17262,8 +17306,8 @@
   "lon": 14.35633,
   "kraj": "Praha",
   "obec": "Jinonice",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1621,
+  "founded_text": "1621",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -18504,7 +18548,8 @@
   "image": null,
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1461
  },
  {
   "id": "Q12028869",
@@ -18609,7 +18654,8 @@
   "image": "Kavčiny - pozůstatky skalního hrádku nedaleko Valdštejna (10).jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1440
  },
  {
   "id": "Q37335365",
@@ -18889,7 +18935,8 @@
   "image": "Kladno Chateau CZ 002.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1453
  },
  {
   "id": "Q1416121",
@@ -19082,7 +19129,7 @@
   "kraj": "Zlínský kraj",
   "obec": "Bystřička",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "14. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -19175,7 +19222,8 @@
   "image": "Klimkovice zamek 4.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1513
  },
  {
   "id": "Q12029405",
@@ -19250,7 +19298,7 @@
   "kraj": "Liberecký kraj",
   "obec": "Klokočí",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "14. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -19292,7 +19340,7 @@
   "kraj": "Středočeský kraj",
   "obec": "Kluky",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "18. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -19333,8 +19381,8 @@
   "lon": 15.52884,
   "kraj": "Kraj Vysočina",
   "obec": "Klášter u Vilémova",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1578,
+  "founded_text": "1578",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -20465,8 +20513,8 @@
   "lon": 14.6449,
   "kraj": "Liberecký kraj",
   "obec": "Zákupy",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1950,
+  "founded_text": "1950",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -20885,8 +20933,8 @@
   "lon": 17.2544,
   "kraj": "Olomoucký kraj",
   "obec": "Olomouc",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1619,
+  "founded_text": "1619",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -21021,7 +21069,8 @@
   "image": "Olmütz-Tritonenbrunnen2.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1298
  },
  {
   "id": "Q31204999",
@@ -21032,8 +21081,8 @@
   "lon": 14.31739,
   "kraj": "Jihočeský kraj",
   "obec": "Latrán",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1350,
+  "founded_text": "1350",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -21305,8 +21354,8 @@
   "lon": 14.69144,
   "kraj": "Středočeský kraj",
   "obec": "Benešov",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1247,
+  "founded_text": "1247",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -21473,8 +21522,8 @@
   "lon": 15.5155,
   "kraj": "Královéhradecký kraj",
   "obec": "Nová Paka",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1735,
+  "founded_text": "1735",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -21600,7 +21649,7 @@
   "kraj": "Plzeňský kraj",
   "obec": "Rabštejn nad Střelou",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "17. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -22163,7 +22212,8 @@
   "image": "KojetinHrad.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1429
  },
  {
   "id": "Q23656878",
@@ -22455,7 +22505,7 @@
   "kraj": "Jihočeský kraj",
   "obec": "Komařice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "16. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -22935,7 +22985,8 @@
   "image": "Kopaniny - ruiny zámečku 2008-06-14.JPG",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1537
  },
  {
   "id": "Q31148544",
@@ -23380,7 +23431,8 @@
   "image": "Kostnice a kaple Nejsvětější Trojice (Staré Město), Praha 1, Haštalské nám. 6, Staré Město.JPG",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1601
  },
  {
   "id": "Q4971773",
@@ -23524,7 +23576,7 @@
   "kraj": "Středočeský kraj",
   "obec": "Kounice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "16. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -23554,7 +23606,8 @@
   "image": "Kounice zámek 20.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1554
  },
  {
   "id": "Q38035325",
@@ -23565,8 +23618,8 @@
   "lon": 13.29378,
   "kraj": "Plzeňský kraj",
   "obec": "Neznašovy",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1686,
+  "founded_text": "1686",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -23640,7 +23693,8 @@
   "image": "Kovanice zamecek.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1266
  },
  {
   "id": "Q37428886",
@@ -23765,7 +23819,7 @@
   "kraj": "Liberecký kraj",
   "obec": "Košov",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "15. stol.",
   "access": "volne",
   "access_sources": [],
   "manager": null,
@@ -24038,7 +24092,8 @@
   "image": "Valy hradu Košťálov.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1361
  },
  {
   "id": "Q12031348",
@@ -24345,7 +24400,7 @@
   "kraj": "Jihomoravský kraj",
   "obec": "Kravsko",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "18. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -24414,7 +24469,7 @@
   "kraj": "Ústecký kraj",
   "obec": "Spořice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -24642,7 +24697,8 @@
   "image": null,
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1274
  },
  {
   "id": "Q33250165",
@@ -24653,8 +24709,8 @@
   "lon": 13.09435,
   "kraj": "Plzeňský kraj",
   "obec": "Krukanice",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1698,
+  "founded_text": "1698",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -25017,8 +25073,8 @@
   "lon": 15.8896,
   "kraj": "Královéhradecký kraj",
   "obec": "Kuks",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1692,
+  "founded_text": "1692",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -25273,7 +25329,7 @@
   "kraj": "Pardubický kraj",
   "obec": "Ráby",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "14. stol.",
   "access": "vstupne",
   "access_sources": [
    "npu",
@@ -25381,7 +25437,8 @@
   "image": "Tvrz Kurovice.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1275
  },
  {
   "id": "Q12031991",
@@ -25650,8 +25707,8 @@
   "lon": 18.04493,
   "kraj": "Moravskoslezský kraj",
   "obec": "Kyjovice",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1783,
+  "founded_text": "1783",
   "access": "vstupne",
   "access_sources": [
    "osm"
@@ -25779,7 +25836,8 @@
   "image": "Kyšperk - pozůstatky hradu nad Letohradem (1).jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1308
  },
  {
   "id": "Q19602321",
@@ -25973,7 +26031,8 @@
   "image": "Prague Kreslice Stychova Str.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1431
  },
  {
   "id": "Q12032244",
@@ -26442,7 +26501,7 @@
   "kraj": "Jihočeský kraj",
   "obec": "Lažany",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "16. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -26553,7 +26612,7 @@
   "kraj": "Jihomoravský kraj",
   "obec": "Lednice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "16. stol.",
   "access": "vstupne",
   "access_sources": [
    "npu",
@@ -26759,7 +26818,7 @@
   "kraj": "Plzeňský kraj",
   "obec": "Lesná",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "18. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -26873,7 +26932,8 @@
   "image": "Zámek Letohrad+ 06.JPG",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1570
  },
  {
   "id": "Q123907278",
@@ -27486,8 +27546,8 @@
   "lon": 13.51443,
   "kraj": "Ústecký kraj",
   "obec": "Libočany",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1770,
+  "founded_text": "1770",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -27655,7 +27715,7 @@
   "kraj": "Jihočeský kraj",
   "obec": "Libějovice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "16. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -28216,7 +28276,8 @@
   "image": "Litice Hrad 1.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1212
  },
  {
   "id": "Q11774992",
@@ -28574,7 +28635,8 @@
   "image": "Lochkov, zámek, severní křídlo.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1399
  },
  {
   "id": "Q35823372",
@@ -28971,7 +29033,8 @@
   "image": "Loučka (VS), zámek.JPG",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1563
  },
  {
   "id": "Q12034030",
@@ -29193,7 +29256,7 @@
   "kraj": "Ústecký kraj",
   "obec": "Lovosice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "16. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -29361,7 +29424,7 @@
   "kraj": "Ústecký kraj",
   "obec": "Lukavec",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "18. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -29815,7 +29878,7 @@
   "kraj": "Olomoucký kraj",
   "obec": "Líšnice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "14. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -30178,7 +30241,7 @@
   "kraj": "Ústecký kraj",
   "obec": "Terezín",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "18. stol.",
   "access": "vstupne",
   "access_sources": [],
   "manager": null,
@@ -30311,8 +30374,8 @@
   "lon": 14.39773,
   "kraj": "Praha",
   "obec": "Praha 6",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1653,
+  "founded_text": "1653",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -30500,8 +30563,8 @@
   "lon": 15.07725,
   "kraj": "Středočeský kraj",
   "obec": "Mcely",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1698,
+  "founded_text": "1698",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -30689,8 +30752,8 @@
   "lon": 13.20029,
   "kraj": "Plzeňský kraj",
   "obec": "Merklín",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1670,
+  "founded_text": "1670",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -30802,8 +30865,8 @@
   "lon": 15.67854,
   "kraj": "Královéhradecký kraj",
   "obec": "Miletín",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1693,
+  "founded_text": "1693",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -31092,7 +31155,8 @@
   "image": "Jihlava Minoritský klášter 3.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1257
  },
  {
   "id": "Q33415260",
@@ -31103,8 +31167,8 @@
   "lon": 15.005,
   "kraj": "Jihočeský kraj",
   "obec": "Jindřichův Hradec I",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1399,
+  "founded_text": "1399",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -31226,7 +31290,8 @@
    "2023": 1545
   },
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1398
  },
  {
   "id": "Q29565323",
@@ -31363,8 +31428,8 @@
   "lon": 16.2186,
   "kraj": "Kraj Vysočina",
   "obec": "Strážek",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1779,
+  "founded_text": "1779",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -31513,8 +31578,8 @@
   "lon": 13.40555,
   "kraj": "Plzeňský kraj",
   "obec": "Mlázovy",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1721,
+  "founded_text": "1721",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -31565,7 +31630,8 @@
   "image": null,
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1379
  },
  {
   "id": "Q369715",
@@ -31684,7 +31750,8 @@
   "image": null,
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1274
  },
  {
   "id": "Q18603846",
@@ -31879,7 +31946,8 @@
   "image": null,
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1396
  },
  {
   "id": "Q12038651",
@@ -32102,7 +32170,8 @@
   "image": "Mradice zámek.JPG",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1833
  },
  {
   "id": "Q33518946",
@@ -32165,7 +32234,8 @@
   "image": "Mrač tvrz.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1318
  },
  {
   "id": "Q15735267",
@@ -32198,7 +32268,7 @@
   "kraj": "Kraj Vysočina",
   "obec": "Mstěnice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -32386,8 +32456,8 @@
   "lon": 14.6465,
   "kraj": "Liberecký kraj",
   "obec": "Doksy",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1367,
+  "founded_text": "1367",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -32512,8 +32582,8 @@
   "lon": 13.11472,
   "kraj": "Ústecký kraj",
   "obec": "Měděnec",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1577,
+  "founded_text": "1577",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -32647,7 +32717,7 @@
   "kraj": "Královéhradecký kraj",
   "obec": "Dvůr Králové nad Labem",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "15. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -32677,7 +32747,8 @@
   "image": "Horažďovice - Červená brána s předbraním.JPG",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1318
  },
  {
   "id": "Q37282309",
@@ -32740,7 +32811,8 @@
   "image": "Hradby v Jindřichově Hradci.JPG",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1389
  },
  {
   "id": "Q37343181",
@@ -32803,7 +32875,8 @@
   "image": "Městské opevnění Litomyšl - Červená věž,.JPG",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1351
  },
  {
   "id": "Q37805733",
@@ -32920,7 +32993,7 @@
   "kraj": "Jihočeský kraj",
   "obec": "Prachatice II",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "15. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -32971,7 +33044,8 @@
   "image": "Soběslav, městské opevnění (01).jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1293
  },
  {
   "id": "Q38136281",
@@ -33024,8 +33098,8 @@
   "lon": 12.63486,
   "kraj": "Plzeňský kraj",
   "obec": "Tachov",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1300,
+  "founded_text": "1300",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -33139,7 +33213,8 @@
   "image": "Městské opevnění (Český Dub) (4).jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1512
  },
  {
   "id": "Q105000428",
@@ -33256,7 +33331,7 @@
   "kraj": "Královéhradecký kraj",
   "obec": "Staré Město",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "14. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -33319,7 +33394,7 @@
   "kraj": "Jihomoravský kraj",
   "obec": "Brno-město",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -33382,7 +33457,7 @@
   "kraj": "Karlovarský kraj",
   "obec": "Cheb",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "17. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -33718,7 +33793,7 @@
   "kraj": "Pardubický kraj",
   "obec": "Moravská Třebová",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "16. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -33895,7 +33970,8 @@
   "image": "Telč, městské opevnění, Horní brána.JPG",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1387
  },
  {
   "id": "Q38191468",
@@ -33949,7 +34025,7 @@
   "kraj": "Zlínský kraj",
   "obec": "Uherské Hradiště",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "14. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -33991,7 +34067,7 @@
   "kraj": "Středočeský kraj",
   "obec": "Čáslav",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -34306,7 +34382,7 @@
   "kraj": "Jihomoravský kraj",
   "obec": "Znojmo",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "vstupne",
   "access_sources": [
    "nipos"
@@ -34353,8 +34429,8 @@
   "lon": 12.92214,
   "kraj": "Karlovarský kraj",
   "obec": "Jáchymov",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1530,
+  "founded_text": "1530",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -34396,7 +34472,7 @@
   "kraj": "Středočeský kraj",
   "obec": "Měšetice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -34459,7 +34535,7 @@
   "kraj": "Středočeský kraj",
   "obec": "Mšec",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "14. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -34816,7 +34892,7 @@
   "kraj": "Plzeňský kraj",
   "obec": "Nalžovy",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "15. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -34878,8 +34954,8 @@
   "lon": 14.90654,
   "kraj": "Středočeský kraj",
   "obec": "Načeradec",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1734,
+  "founded_text": "1734",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -34900,7 +34976,7 @@
   "kraj": "Královéhradecký kraj",
   "obec": "Roveň",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "volne",
   "access_sources": [],
   "manager": null,
@@ -34948,8 +35024,8 @@
   "lon": 14.60561,
   "kraj": "Středočeský kraj",
   "obec": "Nebřenice",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1437,
+  "founded_text": "1437",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -34991,7 +35067,7 @@
   "kraj": "Plzeňský kraj",
   "obec": "Nedražice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "17. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -35084,7 +35160,8 @@
   "image": "Nekmíř, zámek.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1358
  },
  {
   "id": "Q1633104",
@@ -35160,7 +35237,8 @@
   "image": "Nemilkov - renesanční zámek 2.JPG",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1382
  },
  {
   "id": "Q16668676",
@@ -35319,7 +35397,7 @@
   "kraj": "Plzeňský kraj",
   "obec": "Netunice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "16. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -35508,7 +35586,7 @@
   "kraj": "Středočeský kraj",
   "obec": "Neumětely",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "14. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -35649,7 +35727,8 @@
   "image": "Nečemice čp. 1.JPG",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1400
  },
  {
   "id": "Q18718648",
@@ -35852,7 +35931,7 @@
   "kraj": "Středočeský kraj",
   "obec": "Nová Lhota",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "16. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -35942,7 +36021,7 @@
   "kraj": "Středočeský kraj",
   "obec": "Nové Dvory",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "17. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -36040,8 +36119,8 @@
   "lon": 17.08035,
   "kraj": "Jihomoravský kraj",
   "obec": "Nové Hvězdlice",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1712,
+  "founded_text": "1712",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -36258,7 +36337,7 @@
   "kraj": "Pardubický kraj",
   "obec": "Nové Hrady",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "15. stol.",
   "access": "volne",
   "access_sources": [],
   "manager": null,
@@ -36362,8 +36441,8 @@
   "lon": 16.02064,
   "kraj": "Královéhradecký kraj",
   "obec": "Velká Jesenice",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1800,
+  "founded_text": "1800",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -36734,8 +36813,8 @@
   "lon": 13.3685,
   "kraj": "Plzeňský kraj",
   "obec": "Nový Čestín",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1655,
+  "founded_text": "1655",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -36798,7 +36877,7 @@
   "kraj": "Královéhradecký kraj",
   "obec": "Náchod",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "vstupne",
   "access_sources": [
    "npu",
@@ -36986,8 +37065,8 @@
   "lon": 15.8036,
   "kraj": "Kraj Vysočina",
   "obec": "Nížkov",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1709,
+  "founded_text": "1709",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -37008,7 +37087,7 @@
   "kraj": "Jihočeský kraj",
   "obec": "Němčice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "16. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -37176,7 +37255,7 @@
   "kraj": "Středočeský kraj",
   "obec": "Odlochovice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "14. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -37344,7 +37423,7 @@
   "kraj": "Středočeský kraj",
   "obec": "Okoř",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "vstupne",
   "access_sources": [
    "nipos"
@@ -37688,7 +37767,7 @@
   "kraj": "Královéhradecký kraj",
   "obec": "Opočno",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "16. stol.",
   "access": "vstupne",
   "access_sources": [
    "npu",
@@ -37862,7 +37941,7 @@
   "kraj": "Středočeský kraj",
   "obec": "Oráčov",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -38008,8 +38087,8 @@
   "lon": 14.43404,
   "kraj": "Středočeský kraj",
   "obec": "Osečany",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1680,
+  "founded_text": "1680",
   "access": "vstupne",
   "access_sources": [
    "nipos"
@@ -38108,7 +38187,8 @@
   "image": "Osová - zámek obr01.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1329
  },
  {
   "id": "Q18603842",
@@ -38225,7 +38305,7 @@
   "kraj": "Středočeský kraj",
   "obec": "Jedomělice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "14. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -38414,7 +38494,7 @@
   "kraj": "Plzeňský kraj",
   "obec": "Otín",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "16. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -38612,7 +38692,7 @@
   "kraj": "Ústecký kraj",
   "obec": "Panenský Týnec",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -38740,7 +38820,7 @@
   "kraj": "Moravskoslezský kraj",
   "obec": "Paskov",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "17. stol.",
   "access": "vstupne",
   "access_sources": [
    "nipos"
@@ -38914,7 +38994,7 @@
   "kraj": "Kraj Vysočina",
   "obec": "Velká Chyška",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "12. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -39287,7 +39367,7 @@
   "kraj": "Olomoucký kraj",
   "obec": "Olomouc",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "11. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -39454,8 +39534,8 @@
   "lon": 16.63711,
   "kraj": "Jihomoravský kraj",
   "obec": "Mikulov",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1631,
+  "founded_text": "1631",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -39581,7 +39661,7 @@
   "kraj": "Středočeský kraj",
   "obec": "Pičín",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -39674,7 +39754,8 @@
   "image": "Zámek Plaveč.JPG",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1358
  },
  {
   "id": "Q25603428",
@@ -39915,8 +39996,8 @@
   "lon": 12.2058,
   "kraj": null,
   "obec": "podhradí",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1693,
+  "founded_text": "1693",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -40147,7 +40228,7 @@
   "kraj": "Kraj Vysočina",
   "obec": "Pohled",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -40177,7 +40258,8 @@
   "image": "Pohořelice (ZL), zámek.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1524
  },
  {
   "id": "Q61717088",
@@ -40198,7 +40280,8 @@
   "image": "Polanka zámek.JPG",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1586
  },
  {
   "id": "Q38049586",
@@ -40210,7 +40293,7 @@
   "kraj": "Jihočeský kraj",
   "obec": "Pole",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "17. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -40536,8 +40619,8 @@
   "lon": 18.1709,
   "kraj": "Moravskoslezský kraj",
   "obec": "Poruba",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1573,
+  "founded_text": "1573",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -40753,7 +40836,7 @@
   "kraj": "Jihomoravský kraj",
   "obec": "Pozořice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "17. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -40774,7 +40857,7 @@
   "kraj": "Plzeňský kraj",
   "obec": "Pořejov",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "14. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -40825,7 +40908,8 @@
   "image": "Zamek Porici z vychodu.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1379
  },
  {
   "id": "Q7238843",
@@ -40937,7 +41021,8 @@
   "image": "Ostrovačice 13.JPG",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1683
  },
  {
   "id": "Q30106698",
@@ -40991,7 +41076,7 @@
   "kraj": "Kraj Vysočina",
   "obec": "Proseč",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "14. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -41231,7 +41316,8 @@
   "image": "Prčice zámek 4.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1179
  },
  {
   "id": "Q6584085",
@@ -41311,8 +41397,8 @@
   "lon": 13.1871,
   "kraj": "Plzeňský kraj",
   "obec": "Ptenín",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1535,
+  "founded_text": "1535",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -41375,7 +41461,7 @@
   "kraj": "Zlínský kraj",
   "obec": "Pulčín",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "volne",
   "access_sources": [],
   "manager": null,
@@ -41426,7 +41512,8 @@
   "image": "Hradisko Zelená Hora.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1277
  },
  {
   "id": "Q123753592",
@@ -41585,7 +41672,7 @@
   "kraj": "Moravskoslezský kraj",
   "obec": "Pustějov",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "18. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -41845,8 +41932,8 @@
   "lon": 14.62413,
   "kraj": "Středočeský kraj",
   "obec": "Předboř",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1762,
+  "founded_text": "1762",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -41929,8 +42016,8 @@
   "lon": 13.24478,
   "kraj": "Plzeňský kraj",
   "obec": "Přestavlky",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1740,
+  "founded_text": "1740",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -42226,8 +42313,8 @@
   "lon": 15.7314,
   "kraj": "Kraj Vysočina",
   "obec": "Brtnice",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1464,
+  "founded_text": "1464",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -42332,7 +42419,7 @@
   "kraj": "Plzeňský kraj",
   "obec": "Blížejov",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "18. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -42833,7 +42920,7 @@
   "kraj": "Jihočeský kraj",
   "obec": "Radvanov",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "18. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -43335,8 +43422,8 @@
   "lon": 16.46419,
   "kraj": "Královéhradecký kraj",
   "obec": "Rokytnice v Orlických horách",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1567,
+  "founded_text": "1567",
   "access": "vstupne",
   "access_sources": [
    "nipos"
@@ -43908,7 +43995,7 @@
   "kraj": "Kraj Vysočina",
   "obec": "Rožná",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "volne",
   "access_sources": [],
   "manager": null,
@@ -44043,7 +44130,8 @@
   "image": "Rudnik pivovar 1.JPG",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1615
  },
  {
   "id": "Q12050106",
@@ -44097,7 +44185,7 @@
   "kraj": "Pardubický kraj",
   "obec": "Rudoltice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "17. stol.",
   "access": "vstupne",
   "access_sources": [
    "nipos"
@@ -44744,7 +44832,7 @@
   "kraj": "Středočeský kraj",
   "obec": "Sazená",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "17. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -44828,7 +44916,7 @@
   "kraj": "Středočeský kraj",
   "obec": "Sedlec",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "19. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -44960,7 +45048,7 @@
   "kraj": "Jihočeský kraj",
   "obec": "Sedlice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "15. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -45186,7 +45274,8 @@
   "image": null,
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1540
  },
  {
   "id": "Q29977072",
@@ -45249,7 +45338,8 @@
   "image": null,
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1543
  },
  {
   "id": "Q16164793",
@@ -45450,7 +45540,7 @@
   "kraj": "Ústecký kraj",
   "obec": "Dobkovice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "19. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -45543,7 +45633,8 @@
   "image": "Skala southern part.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1568
  },
  {
   "id": "Q1014002",
@@ -45608,7 +45699,8 @@
   "image": "Zámek Skřivany 02.JPG",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1628
  },
  {
   "id": "Q30857459",
@@ -45629,7 +45721,8 @@
   "image": "Skřivaň, zámeček.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1355
  },
  {
   "id": "Q13403267",
@@ -45661,8 +45754,8 @@
   "lon": 13.71318,
   "kraj": "Středočeský kraj",
   "obec": "Slabce",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1735,
+  "founded_text": "1735",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -45762,7 +45855,8 @@
    "2023": 31711
   },
   "nkp": true,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1371
  },
  {
   "id": "Q33256100",
@@ -45933,8 +46027,8 @@
   "lon": 17.70181,
   "kraj": "Moravskoslezský kraj",
   "obec": "Slezské Pavlovice",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1557,
+  "founded_text": "1557",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -46187,7 +46281,8 @@
   "image": "Smilův hrad.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1391
  },
  {
   "id": "Q26161613",
@@ -46208,7 +46303,8 @@
   "image": "Smiřice 01.JPG",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1392
  },
  {
   "id": "Q31208753",
@@ -46418,7 +46514,8 @@
   "image": null,
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1623
  },
  {
   "id": "Q21685618",
@@ -46493,7 +46590,7 @@
   "kraj": "Karlovarský kraj",
   "obec": "Sokolov",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -46598,7 +46695,7 @@
   "kraj": "Moravskoslezský kraj",
   "obec": "Sosnová",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "17. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -47217,7 +47314,7 @@
   "kraj": "Královéhradecký kraj",
   "obec": "Trutnov",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "15. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -47364,7 +47461,7 @@
   "kraj": "Středočeský kraj",
   "obec": "Kolešovice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "18. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -47448,7 +47545,7 @@
   "kraj": "Středočeský kraj",
   "obec": "Zruč nad Sázavou",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "volne",
   "access_sources": [],
   "manager": null,
@@ -47632,7 +47729,8 @@
   "image": null,
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1394
  },
  {
   "id": "Q969482",
@@ -47842,7 +47940,7 @@
   "kraj": "Ústecký kraj",
   "obec": "Lubenec",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "18. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -47926,7 +48024,7 @@
   "kraj": "Kraj Vysočina",
   "obec": "Stránecká Zhoř",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "14. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -47983,7 +48081,8 @@
    "2023": 5788
   },
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1429
  },
  {
   "id": "Q12056660",
@@ -48037,7 +48136,7 @@
   "kraj": "Jihomoravský kraj",
   "obec": "Strážnice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -48172,7 +48271,8 @@
   "image": "Studenec zamek.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1623
  },
  {
   "id": "Q21012467",
@@ -48235,7 +48335,8 @@
   "image": "Stvolínky zámek 5.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1505
  },
  {
   "id": "Q33323073",
@@ -48464,8 +48565,8 @@
   "lon": 13.75575,
   "kraj": "Jihočeský kraj",
   "obec": "Střelské Hoštice",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1500,
+  "founded_text": "1500",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -48590,8 +48691,8 @@
   "lon": 17.20943,
   "kraj": "Zlínský kraj",
   "obec": "Střílky",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1321,
+  "founded_text": "1321",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -48675,7 +48776,7 @@
   "kraj": "Středočeský kraj",
   "obec": "Suchomasty",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "18. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -48696,7 +48797,7 @@
   "kraj": "Královéhradecký kraj",
   "obec": "Pěčín",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -49089,7 +49190,7 @@
   "kraj": "Olomoucký kraj",
   "obec": "Hranice I-Město",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "14. stol.",
   "access": "volne",
   "access_sources": [],
   "manager": null,
@@ -49110,7 +49211,7 @@
   "kraj": "Plzeňský kraj",
   "obec": "Svrčovec",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "15. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -49561,7 +49662,8 @@
   "image": "Tažovice-zámek1.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1544
  },
  {
   "id": "Q38147361",
@@ -49645,7 +49747,8 @@
   "image": "Telč, náměstí Zachariáše z Hradce, kostel sv. Ducha.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1315
  },
  {
   "id": "Q2243703",
@@ -50033,7 +50136,8 @@
   "image": "Tmaň, zámek.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1422
  },
  {
   "id": "Q31461962",
@@ -50198,7 +50302,7 @@
   "kraj": "Olomoucký kraj",
   "obec": "Tovačov I-Město",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "15. stol.",
   "access": "vstupne",
   "access_sources": [
    "nipos"
@@ -50316,7 +50420,7 @@
   "kraj": "Středočeský kraj",
   "obec": "Toušice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "14. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -50379,7 +50483,7 @@
   "kraj": "Středočeský kraj",
   "obec": "Trnová",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "17. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -50547,7 +50651,8 @@
   "image": "Tršice, zámek.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1377
  },
  {
   "id": "Q28856233",
@@ -50589,7 +50694,8 @@
   "image": "Klaster Tuchomerice.JPG",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1436
  },
  {
   "id": "Q12059842",
@@ -50684,8 +50790,8 @@
   "lon": 14.8053,
   "kraj": "Jihočeský kraj",
   "obec": "Tučapy",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1407,
+  "founded_text": "1407",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -50757,7 +50863,8 @@
   "image": "Hrádek (Trhové Sviny) - tvrziště.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1360
  },
  {
   "id": "Q31869504",
@@ -50916,7 +51023,7 @@
   "kraj": "Jihočeský kraj",
   "obec": "Jistebnice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -50967,7 +51074,8 @@
   "image": "Tvrz Malešov.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1359
  },
  {
   "id": "Q33325037",
@@ -51177,7 +51285,8 @@
   "image": "Overview of fort Hornice in Hornice, Třebíč District.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1348
  },
  {
   "id": "Q15132723",
@@ -51330,7 +51439,8 @@
   "image": "Týnec nad Labem - tvrz.JPG",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1553
  },
  {
   "id": "Q20901874",
@@ -51542,7 +51652,8 @@
   "image": "Třebotov. tvrz.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1374
  },
  {
   "id": "Q28444744",
@@ -51612,7 +51723,8 @@
    "2023": 10547
   },
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1379
  },
  {
   "id": "Q28545455",
@@ -51759,7 +51871,8 @@
   "image": "Třešť zámek 1.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1513
  },
  {
   "id": "Q28816007",
@@ -51834,7 +51947,7 @@
   "kraj": "Liberecký kraj",
   "obec": "Hvězda",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "volne",
   "access_sources": [],
   "manager": null,
@@ -51855,7 +51968,7 @@
   "kraj": "Liberecký kraj",
   "obec": "Kluk",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -52192,7 +52305,8 @@
    "2023": 10001
   },
   "nkp": true,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1553
  },
  {
   "id": "Q61577629",
@@ -52255,7 +52369,8 @@
   "image": "UhriceZamek.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1336
  },
  {
   "id": "Q11877733",
@@ -52267,7 +52382,7 @@
   "kraj": "Praha",
   "obec": "Uhříněves",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "16. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -52360,7 +52475,8 @@
   "image": "Uncovice tvrz.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1348
  },
  {
   "id": "Q33526592",
@@ -52372,7 +52488,7 @@
   "kraj": "Plzeňský kraj",
   "obec": "Bolevec",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "20. stol.",
   "access": "vstupne",
   "access_sources": [
    "npu",
@@ -52451,7 +52567,8 @@
   "image": "Patokryje - tvrz.JPG",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1378
  },
  {
   "id": "Q21034369",
@@ -52463,7 +52580,7 @@
   "kraj": "Středočeský kraj",
   "obec": "Předboj",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "14. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -53193,7 +53310,7 @@
   "kraj": "Ústecký kraj",
   "obec": "Velké Březno",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "15. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -53344,7 +53461,7 @@
   "kraj": "Olomoucký kraj",
   "obec": "Velké Losiny",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "14. stol.",
   "access": "vstupne",
   "access_sources": [
    "npu",
@@ -53456,8 +53573,8 @@
   "lon": 16.03571,
   "kraj": "Královéhradecký kraj",
   "obec": "Velké Svatoňovice",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1009,
+  "founded_text": "1009",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -53508,7 +53625,8 @@
   "image": "Velké Žernoseky, zámek.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1543
  },
  {
   "id": "Q21875342",
@@ -53540,8 +53658,8 @@
   "lon": 17.33273,
   "kraj": "Olomoucký kraj",
   "obec": "Velký Týnec",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1765,
+  "founded_text": "1765",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -53901,7 +54019,8 @@
   "image": "Zámek s parkem (Vidnava).JPG",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1371
  },
  {
   "id": "Q1014388",
@@ -54005,8 +54124,8 @@
   "lon": 17.60671,
   "kraj": "Moravskoslezský kraj",
   "obec": "Budišov nad Budišovkou",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1247,
+  "founded_text": "1247",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -54504,7 +54623,7 @@
   "kraj": "Jihočeský kraj",
   "obec": "Vlksice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "16. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -54576,7 +54695,8 @@
   "image": "Vlčice (TU), zámek.JPG",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1475
  },
  {
   "id": "Q115901415",
@@ -54822,7 +54942,8 @@
   "image": "Jeseník 2.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1374
  },
  {
   "id": "Q11878505",
@@ -54864,7 +54985,8 @@
   "image": "Svinov (Ostrava) - sýpka v ulici Nad Porubkou 1190.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1553
  },
  {
   "id": "Q13217508",
@@ -55197,8 +55319,8 @@
   "lon": 16.82716,
   "kraj": "Pardubický kraj",
   "obec": "Vranová Lhota",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1389,
+  "founded_text": "1389",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -55366,7 +55488,7 @@
   "kraj": "Moravskoslezský kraj",
   "obec": "Vrbno pod Pradědem",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "17. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -55545,7 +55667,8 @@
   "image": "Vsetinsky zamek.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1610
  },
  {
   "id": "Q11944057",
@@ -55578,7 +55701,7 @@
   "kraj": "Plzeňský kraj",
   "obec": "Svojkovice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "volne",
   "access_sources": [],
   "manager": null,
@@ -55978,7 +56101,8 @@
   "image": "Vážany nad Litavou - bývalé JZD.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1287
  },
  {
   "id": "Q33322961",
@@ -56041,7 +56165,8 @@
   "image": "Zámek Vísky.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1386
  },
  {
   "id": "Q2243899",
@@ -56337,7 +56462,7 @@
   "kraj": "Středočeský kraj",
   "obec": "Semtěš",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "16. stol.",
   "access": "vstupne",
   "access_sources": [
    "nipos"
@@ -56520,7 +56645,8 @@
   "image": "Všeradice, zámek, hlavní budova.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1381
  },
  {
   "id": "Q19305590",
@@ -56553,7 +56679,7 @@
   "kraj": "Středočeský kraj",
   "obec": "Všetaty",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "15. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -56625,7 +56751,8 @@
   "image": "Winterstein (Loupežnický vrch).jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1441
  },
  {
   "id": "Q28376950",
@@ -56910,7 +57037,7 @@
   "kraj": "Moravskoslezský kraj",
   "obec": "Řepiště",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "volne",
   "access_sources": [],
   "manager": null,
@@ -56952,7 +57079,7 @@
   "kraj": "Moravskoslezský kraj",
   "obec": "Vratimov",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -56994,7 +57121,7 @@
   "kraj": "Středočeský kraj",
   "obec": "Zbenice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "15. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -57315,7 +57442,7 @@
   "kraj": "Středočeský kraj",
   "obec": "Zduchovice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "16. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -57764,8 +57891,8 @@
   "lon": 13.68916,
   "kraj": "Plzeňský kraj",
   "obec": "Zvíkovec",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1753,
+  "founded_text": "1753",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -57906,7 +58033,8 @@
   "image": "Záběhlice zámek 2-2.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1389
  },
  {
   "id": "Q10861712",
@@ -58050,8 +58178,8 @@
   "lon": 12.8832,
   "kraj": "Karlovarský kraj",
   "obec": "Karlovy Vary",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1358,
+  "founded_text": "1358",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -58333,7 +58461,8 @@
   "image": "Zámek v Zámrsku.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1469
  },
  {
   "id": "Q10941851",
@@ -58365,8 +58494,8 @@
   "lon": 15.02803,
   "kraj": "Středočeský kraj",
   "obec": "Zásmuky",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1350,
+  "founded_text": "1350",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -58723,7 +58852,7 @@
   "kraj": "Jihočeský kraj",
   "obec": "Albrechtice nad Vltavou",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "volne",
   "access_sources": [],
   "manager": null,
@@ -59172,7 +59301,7 @@
   "kraj": "Jihočeský kraj",
   "obec": "Čekanice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "18. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -59255,8 +59384,8 @@
   "lon": 14.75156,
   "kraj": "Středočeský kraj",
   "obec": "Čelákovice",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1300,
+  "founded_text": "1300",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -59319,7 +59448,7 @@
   "kraj": "Jihočeský kraj",
   "obec": "Čepřovice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "17. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -59447,7 +59576,7 @@
   "kraj": "Jihočeský kraj",
   "obec": "Černětice",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "18. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -59477,7 +59606,8 @@
   "image": "Zámek Čertousy, čelní strana.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1400
  },
  {
   "id": "Q11175453",
@@ -60263,7 +60393,8 @@
   "image": "Čížkrajice, tvrz (02).jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1437
  },
  {
   "id": "Q11388271",
@@ -60275,7 +60406,7 @@
   "kraj": "Kraj Vysočina",
   "obec": "Stará Říše",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -60295,8 +60426,8 @@
   "lon": 14.09334,
   "kraj": "Jihočeský kraj",
   "obec": "Čížová",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1560,
+  "founded_text": "1560",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -60401,7 +60532,7 @@
   "kraj": "Středočeský kraj",
   "obec": "Řepín",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "19. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -60431,7 +60562,8 @@
   "image": "Kasejovice, Řesanice, fortress.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1454
  },
  {
   "id": "Q117161800",
@@ -60634,7 +60766,7 @@
   "kraj": "Zlínský kraj",
   "obec": "Březolupy",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "volne",
   "access_sources": [],
   "manager": null,
@@ -60787,8 +60919,8 @@
   "lon": 12.45583,
   "kraj": "Plzeňský kraj",
   "obec": "Lesná",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1300,
+  "founded_text": "1300",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -60892,8 +61024,8 @@
   "lon": 18.27498,
   "kraj": "Moravskoslezský kraj",
   "obec": "Šilheřovice",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1905,
+  "founded_text": "1905",
   "access": "vstupne",
   "access_sources": [
    "osm"
@@ -61218,8 +61350,8 @@
   "lon": 15.56751,
   "kraj": "Liberecký kraj",
   "obec": "Horní Branná",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1710,
+  "founded_text": "1710",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -61239,8 +61371,8 @@
   "lon": 15.12261,
   "kraj": "Středočeský kraj",
   "obec": "Poděbrady III",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1444,
+  "founded_text": "1444",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -61345,7 +61477,7 @@
   "kraj": "Olomoucký kraj",
   "obec": "Luká",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "14. stol.",
   "access": "volne",
   "access_sources": [],
   "manager": null,
@@ -61478,8 +61610,8 @@
   "lon": 15.58899,
   "kraj": "Kraj Vysočina",
   "obec": "Štoky",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1760,
+  "founded_text": "1760",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -61551,7 +61683,8 @@
   "image": "Zámek Štáblovice 08 crop.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1528
  },
  {
   "id": "Q10423494",
@@ -62087,7 +62220,8 @@
   "image": null,
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1318
  },
  {
   "id": "Q31471826",
@@ -62284,7 +62418,8 @@
   "image": "Castle of Žerotínové.JPG",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1545
  },
  {
   "id": "Q31954682",
@@ -62338,7 +62473,7 @@
   "kraj": "Plzeňský kraj",
   "obec": "Žihle",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "16. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -62666,8 +62801,8 @@
   "lon": 15.37027,
   "kraj": "Středočeský kraj",
   "obec": "Žáky",
-  "founded": null,
-  "founded_text": null,
+  "founded": 1803,
+  "founded_text": "1803",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -62709,7 +62844,7 @@
   "kraj": "Karlovarský kraj",
   "obec": "vojenský újezd Hradiště",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "13. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
