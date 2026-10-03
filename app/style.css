@@ -40,8 +40,8 @@
   /* fill per place type, earthy theme (unused types are ready for new kinds) */
   --mk-kind-hrad: #d9a441;
   --mk-kind-zamek: #b5523b;
-  --mk-kind-hradozamek: #7d5a7a;
-  --mk-kind-zricenina: #6b8f71;
+  --mk-kind-hradozamek: #6f4f9a;
+  --mk-kind-zricenina: #1f9d8d;
   --mk-kind-tvrz: #a67c52;
   --mk-kind-klaster: #5f7a8c;
   --mk-kind-kostel: #8a9a5b;
@@ -58,8 +58,8 @@
   /* freely accessible places: the same hues mixed 50 % with --mk-bg, darker grey outline than --mk-muted */
   --mk-kind-hrad-soft: #ead09e;
   --mk-kind-zamek-soft: #d8a79b;
-  --mk-kind-hradozamek-soft: #bcabba;
-  --mk-kind-zricenina-soft: #b4c6b6;
+  --mk-kind-hradozamek-soft: #b6a6ca;
+  --mk-kind-zricenina-soft: #8eccc4;
   --mk-kind-tvrz-soft: #d1bca6;
   --mk-kind-klaster-soft: #aebbc4;
   --mk-kind-kostel-soft: #c3cbab;
