@@ -8,17 +8,69 @@
  },
  "summary": "Klasicistní lovecký zámek Kozel nechal v letech 1784-1789 postavit hrabě Jan Vojtěch Černín z Chudenic, nejvyšší lovčí království českého na dvoře Josefa II. Po jeho smrti roku 1816 bez mužského dědice zámek zdědil prasynovec Kristián Vincenc Valdštejn, jehož rod na Kozlu hospodařil až do roku 1945, kdy byl zámek zestátněn. Dnes je majetkem státu, spravuje jej Národní památkový ústav a je přístupný veřejnosti.",
  "owners": [
-  {"owner": "cerninove-z-chudenic", "owner_wiki": "Černínové z Chudenic", "person": "Jan Vojtěch Černín z Chudenic", "from": 1784, "to": 1816, "from_approx": false, "to_approx": false, "how": "zalozeni", "note": "nechal zámek postavit jako letní a lovecké sídlo; zemřel 1816 bez mužského dědice, touto větví rod Černínů vymřel po meči"},
-  {"owner": "valdstejnove", "owner_wiki": "Valdštejnové", "person": "Kristián Vincenc Valdštejn", "from": 1816, "to": 1945, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "Jan Vojtěch Černín mu před smrtí odkázal svá panství jako prasynovci; rod na Kozlu hospodařil až do roku 1945"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "po roce 1945 zámek zestátněn; sloužil jako svozový zámek zkonfiskovaného mobiliáře z jiných zámků regionu, dnes ve správě Národního památkového ústavu"}
+  {
+   "owner": "cerninove-z-chudenic",
+   "owner_wiki": "Černínové z Chudenic",
+   "person": "Jan Vojtěch Černín z Chudenic",
+   "from": 1784,
+   "to": 1816,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "nechal zámek postavit jako lovecký zámek (hosté při honech), sám trvale sídlil ve Šťáhlavech; majitel šťáhlavsko-nebílovského panství; zemřel 1816 bez mužských potomků, touto větví rod Černínů vymřel po meči"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Kristián Vincenc Valdštejn-Vartenberk, poté syn Arnošt",
+   "from": 1816,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "panství mu před smrtí odkázal prasynovec Jan Vojtěch Černín (dědictví zatížené dluhy); Kristián zde měl letní sídlo do 1832, kdy zdědil mnichovohradišťské panství; Kozel poté zdědil jeho prvorozený syn Arnošt (rok neuveden); rod držel zámek do 1945"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "po 1945 konfiskován na základě Benešových dekretů; sloužil jako svozový zámek mobiliáře z okolních zámků, dnes ve správě Národního památkového ústavu"
+  }
  ],
  "events": [
-  {"year": 1784, "text": "1784-1789 stavba zámku pro Jana Vojtěcha Černína z Chudenic architektem Václavem Haberditzem"},
-  {"year": 1790, "text": "Ignác Palliardi doplnil areál o jízdárnu, kapli, lokajnu a konírnu, sochařskou výzdobu vytvořil Ignác Platzer mladší"},
-  {"year": 1816, "text": "smrt Jana Vojtěcha Černína, zámek dědí prasynovec Kristián Vincenc Valdštejn"},
-  {"year": 1945, "text": "zámek zestátněn, slouží jako svozové místo zkonfiskovaného mobiliáře z regionu"},
-  {"year": 1963, "text": "zámek prohlášen kulturní památkou"},
-  {"year": 2002, "text": "od 1. ledna zámek prohlášen národní kulturní památkou ČR"}
+  {
+   "year": 1784,
+   "text": "1784-1789 stavba zámku pro Jana Vojtěcha Černína z Chudenic architektem Václavem Haberditzem"
+  },
+  {
+   "year": 1790,
+   "text": "Ignác Palliardi doplnil areál o jízdárnu, kapli, lokajnu a konírnu, sochařskou výzdobu vytvořil Ignác Platzer mladší"
+  },
+  {
+   "year": 1816,
+   "text": "smrt Jana Vojtěcha Černína, zámek dědí prasynovec Kristián Vincenc Valdštejn"
+  },
+  {
+   "year": 1945,
+   "text": "zámek zestátněn, slouží jako svozové místo zkonfiskovaného mobiliáře z regionu"
+  },
+  {
+   "year": 1963,
+   "text": "zámek prohlášen kulturní památkou"
+  },
+  {
+   "year": 2002,
+   "text": "od 1. ledna zámek prohlášen národní kulturní památkou ČR"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Kozel_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Kozel_(zámek)",
+  "https://zamek-kozel.cz/cs/o-zamku/historie",
+  "https://www.archmap.cz/cs/objekt/41306"
+ ]
 }

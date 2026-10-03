@@ -8,27 +8,151 @@
  },
  "summary": "Předchůdcem zámku byla gotická tvrz, poprvé zmíněná roku 1335, kterou ve 14. a 15. století drželi Zajícové z Hazmburka. Roku 1558 hazmburské panství koupili Lobkovicové a na místě zchátralé tvrze postavili renesanční zámek. Po pobělohorských majetkových proměnách (doživotní užívání Zikmunda Bátoryho, Šternberkové) koupil panství roku 1676 Gundakar z Ditrichštejna, který zámek raně barokně přestavěl; jeho dochovaná podoba je výsledkem této přestavby. Ditrichštejnům patřil až do vymření rodu, kdy jej sňatkem roku 1849 získali Herbersteinové, jimž byl roku 1945 zkonfiskován a zestátněn.",
  "owners": [
-  {"owner": "zajicove-z-hazmburka", "owner_wiki": "Zajícové z Hazmburka", "person": "Zbyněk Zajíc z Hazmburka", "from": 1335, "to": null, "from_approx": false, "to_approx": true, "how": "koupe", "note": "koupil hrad Hazmburk s Libochovicemi od Jana Lucemburského za 2300 kop grošů"},
-  {"owner": "zajicove-z-hazmburka", "owner_wiki": "Zajícové z Hazmburka", "person": "různí příslušníci rodu (mj. Oldřich, Mikuláš, Jaroslav)", "from": null, "to": 1558, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "ve 14.-15. století se o tvrz dělili různí příslušníci rodu; tvrz byla rozdělena na díly, k roku 1550/1553 uváděna jako pustá; roku 1558 Kryštof Zajíc z Hazmburka prodal panství"},
-  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": "Jan Popel z Lobkovic", "from": 1558, "to": 1569, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil hazmburské panství, v letech 1560-1564 nechal postavit nový renesanční zámek, zemřel na zámku 1569"},
-  {"owner": "lobkovicove", "owner_wiki": "Lobkovicové", "person": "Jiří Popel z Lobkovic", "from": 1569, "to": 1594, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "syn Jana Popela; po jeho mocenském pádu roku 1594 pořízen inventář zámeckého vybavení"},
-  {"owner": "koruna", "owner_wiki": null, "person": null, "from": 1594, "to": 1606, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "koncem 16. století Libochovice spravovala královská komora po pádu Jiřího Popela z Lobkovic"},
-  {"owner": "bathoryove", "owner_wiki": null, "person": "Zikmund Báthory", "from": 1606, "to": 1610, "from_approx": false, "to_approx": false, "how": "lenni", "note": "císař Rudolf II. mu 22. 8. 1606 poskytl panství k doživotnímu užívání; roku 1610 zatčen pro spiknutí proti císaři a uvězněn v Praze, panství mu formálně zůstalo"},
-  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": "Adam ze Šternberka", "from": 1610, "to": 1619, "from_approx": false, "to_approx": false, "how": "lenni", "note": "císař mu panství propůjčil za půjčku 95 000 zlatých ještě za života Zikmunda Báthoryho (spravoval hejtman Jan Kavkovec z Kavkovic); po Báthoryho smrti 1613 se stal jediným majitelem"},
-  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": "František Matyáš ze Šternberka", "from": 1623, "to": null, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "syn Adama ze Šternberka, zdědil spolu se sourozenci roku 1623 (Adam během stavovského povstání 1618-1620 odjel ze země, majetek mezitím zabraly stavy, po potlačení povstání se vrátil a brzy zemřel); rodina upřednostňovala sídlo v Budyni nad Ohří"},
-  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": "Václav Vojtěch ze Šternberka", "from": null, "to": 1676, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "roku 1676 prodal libochovické panství knížeti Gundakarovi z Ditrichštejna"},
-  {"owner": "ditrichstejnove", "owner_wiki": "Ditrichštejnové", "person": "Gundakar z Ditrichštejna", "from": 1676, "to": null, "from_approx": false, "to_approx": true, "how": "koupe", "note": "po požáru 1676 nechal v letech 1682-1690 stavitelem Antoniem della Portou vystavět nový barokní zámek"},
-  {"owner": "ditrichstejnove", "owner_wiki": "Ditrichštejnové", "person": "Josef z Ditrichštejna", "from": null, "to": 1849, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "poslední mužský příslušník rodu na Libochovicích; jeho dcera Terezie se roku 1849 provdala za Jana Bedřicha z Herbersteinu"},
-  {"owner": "herbersteinove", "owner_wiki": "Herbersteinové", "person": "Terezie z Ditrichštejna, provd. Herbersteinová a Jan Bedřich z Herbersteinu", "from": 1849, "to": 1945, "from_approx": false, "to_approx": false, "how": "snatek", "note": "zámek zůstal Herbersteinům až do roku 1945; hrabě Josef Herberstein (2. pol. 19. stol.) shromáždil sbírky z cest mimo Evropu"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "zámek Herbersteinům zkonfiskován a zestátněn, dnes ve správě Národního památkového ústavu; roku 1947 zde zřízena pamětní světnice J. E. Purkyně"}
+  {
+   "owner": "zajicove-z-hazmburka",
+   "owner_wiki": "Zajícové z Hazmburka",
+   "person": "Zbyněk Zajíc z Hazmburka a potomci (mj. Anna, Mikuláš, Oldřich, Jaroslav, Jan III., Kryštof)",
+   "from": 1335,
+   "to": 1558,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "1335 koupil hrad Hazmburk s Libochovicemi od Jana Lucemburského za 2300 kop grošů (web zámku: Jan Lucemburský koupil Libochovice 1314 od syna Hynka ze Žleb a Lichtenburka, dřívější držení Lichtenburků od 1292 nejisté); ve 14.-15. stol. dělení tvrze mezi příslušníky rodu; 1424 městečko vypáleno husity; tvrz uváděna jako pustá 1550/1553; po smrti Jana III. 1553 panství rozděleno; 1558 prodal Kryštof Zajíc svůj díl Janu staršímu z Lobkovic, 1564 Jiří Zajíc další díl"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Jan starší Popel z Lobkovic",
+   "from": 1558,
+   "to": 1569,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil hazmburské panství za 15 000 kop grošů; 1560 povýšil Libochovice na město; 1560-1564 renesanční zámek (mistr Jakub); zemřel 1569"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Jiří Popel z Lobkovic",
+   "from": 1569,
+   "to": 1594,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "syn Jana staršího; 1591 udělil městu výsady; 1594 zatčen a uvězněn na Loktu (zemřel 1613), majetek zkonfiskován a pořízen inventář zámku"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1594,
+   "to": 1602,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "konfiskace",
+   "note": "po pádu Jiřího Popela spravovala panství královská komora; Báthory dostal panství 1606 (cs.wiki) / 1602 (hrady.cz) k doživotnímu užívání"
+  },
+  {
+   "owner": "bathoryove",
+   "owner_wiki": null,
+   "person": "Zikmund Báthory",
+   "from": 1602,
+   "to": 1610,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "Rudolf II. mu 22. 8. 1606 poskytl panství k doživotnímu užívání (cs.wiki; hrady.cz uvádí 1602); roku 1610 zatčen pro spiknutí a uvězněn, panství mu formálně zůstalo do smrti 1613; spravoval je hejtman Jan Kavkovec z Kavkovic"
+  },
+  {
+   "owner": "sternberkove",
+   "owner_wiki": "Šternberkové",
+   "person": "Adam ze Šternberka",
+   "from": 1610,
+   "to": 1619,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "císař mu panství propůjčil za půjčku 95 000 zlatých (hrady.cz: koupě 1613 za 150 000 kop grošů míšeňských); po Báthoryho smrti 1613 jediným majitelem; 1619 ujel ze země, stavové statky zkonfiskovali, 1620 zámek obsadili povstalí poddaní, regentem panství byl Matěj Planický"
+  },
+  {
+   "owner": "sternberkove",
+   "owner_wiki": "Šternberkové",
+   "person": "František Matyáš ze Šternberka, od 1648 Václav Vojtěch ze Šternberka",
+   "from": 1623,
+   "to": 1676,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "po Bílé hoře se panství vrátilo Šternberkům (synové Adama zdědili 1623); rodina sídlila v Budyni nad Ohří; 1661 požár města a zámku; Václav Vojtěch 1676 prodal panství Gundakarovi z Ditrichštejna"
+  },
+  {
+   "owner": "ditrichstejnove",
+   "owner_wiki": "Ditrichštejnové",
+   "person": "Gundakar z Ditrichštejna, později Josef z Ditrichštejna",
+   "from": 1676,
+   "to": 1849,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "po požáru 1676 nechal Gundakar 1682-1690 postavit raně barokní zámek (Antonio della Porta); Josef byl poslední mužský příslušník rodu; konec držení: cs.wiki a hrady.cz 1849 (sňatek Terezie), web zámku a zameklibochovice.cz uvádějí převzetí Herbersteinem 1858 po smrti Josefa"
+  },
+  {
+   "owner": "ditrichstejnove",
+   "owner_wiki": "Ditrichštejnové",
+   "person": "Josef z Ditrichštejna",
+   "from": null,
+   "to": 1849,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "Terezie, nejstarší dcera Josefa z Ditrichštejna, se provdala za Jana Bedřicha z Herbersteinu (cs.wiki a hrady.cz 1849; web zámku a zameklibochovice.cz uvádějí převzetí panství 1858); zámek zůstal Herbersteinům do 1945; hrabě Josef Herberstein shromáždil sbírky z cest mimo Evropu"
+  },
+  {
+   "owner": "herbersteinove",
+   "owner_wiki": "Herbersteinové",
+   "person": "Terezie z Ditrichštejna, provd. Herbersteinová a Jan Bedřich z Herbersteinu",
+   "from": 1849,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "snatek",
+   "note": "zámek zůstal Herbersteinům až do roku 1945; hrabě Josef Herberstein (2. pol. 19. stol.) shromáždil sbírky z cest mimo Evropu"
+  }
  ],
  "events": [
-  {"year": 1424, "text": "městečko podle Bohuslava Balbína vypáleno vojskem Jana Žižky, dobytí tvrze nejisté"},
-  {"year": 1560, "text": "1560-1564 stavba renesančního zámku mistrem Jakubem pro Jana Popela z Lobkovic"},
-  {"year": 1676, "text": "libochovické panství koupil Gundakar z Ditrichštejna, téhož roku zámek poškozen požárem"},
-  {"year": 1682, "text": "1682-1690 stavba nového barokního zámku podle Antonia della Porty"},
-  {"year": 1849, "text": "zámek sňatkem Terezie z Ditrichštejna přešel na Herbersteiny"},
-  {"year": 1945, "text": "zámek Herbersteinům zkonfiskován a zestátněn"}
+  {
+   "year": 1424,
+   "text": "městečko podle Bohuslava Balbína vypáleno vojskem Jana Žižky, dobytí tvrze nejisté"
+  },
+  {
+   "year": 1560,
+   "text": "1560-1564 stavba renesančního zámku mistrem Jakubem pro Jana Popela z Lobkovic"
+  },
+  {
+   "year": 1661,
+   "text": "velký požár města a zámku (web zámku; cs.wiki uvádí požár 1676)"
+  },
+  {
+   "year": 1676,
+   "text": "libochovické panství koupil Gundakar z Ditrichštejna, téhož roku zámek poškozen požárem"
+  },
+  {
+   "year": 1682,
+   "text": "1682-1690 stavba nového barokního zámku podle Antonia della Porty"
+  },
+  {
+   "year": 1849,
+   "text": "zámek sňatkem Terezie z Ditrichštejna přešel na Herbersteiny"
+  },
+  {
+   "year": 1945,
+   "text": "zámek Herbersteinům zkonfiskován a zestátněn"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Libochovice_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Libochovice_(zámek)",
+  "https://zamek-libochovice.cz/cs/o-zamku/historie",
+  "https://www.hrady.cz/zamek-libochovice-litomerice",
+  "https://www.zameklibochovice.cz/historie/"
+ ]
 }

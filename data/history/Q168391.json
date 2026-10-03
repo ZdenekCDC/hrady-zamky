@@ -1,32 +1,188 @@
 {
  "id": "Q168391",
  "name": "Hradec nad Moravicí",
- "founded": {"year": 1250, "approx": true, "text": "polovina 13. století, rozsáhlý gotický hrad postaven za Přemysla Otakara II. po požáru staršího objektu; místo bylo osídleno hradištěm už od 8.-10. století"},
+ "founded": {
+  "year": 1250,
+  "approx": true,
+  "text": "polovina 13. století, rozsáhlý gotický hrad postaven za Přemysla Otakara II. po požáru staršího objektu; místo bylo osídleno hradištěm už od 8.-10. století"
+ },
  "summary": "Pohraniční hrad nad řekou Moravicí patřil od 13. století českým panovníkům, od roku 1269 pak opavské větvi Přemyslovců, kterou roku 1318 Jan Lucemburský ustavil jako samostatné Opavské knížectví. Po skoupení majetku Jiřím z Poděbrad se od 16. století v zástavní držbě vystřídali Žabkové z Limberka, Cetrysové z Kynšperka a Pruskovští z Pruskova, kteří roku 1584 získali panství dědičně a přestavěli je na renesanční sídlo. Roku 1733 koupili Hradec Neffzernové, po nich 1777 Lichnovští z Voštic, kteří zámek po požáru 1796 klasicisticky přestavěli a v letech 1874-1881 rozšířili o novogotický Červený zámek. Jako německý majetek byl zámek roku 1945 konfiskován a od té doby je majetkem státu ve správě Národního památkového ústavu.",
  "owners": [
-  {"owner": "koruna", "person": "čeští Přemyslovci", "from": 1050, "to": 1269, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "pohraniční hradiště, roku 1060 odolalo obléhání polského knížete Boleslava II. Smělého; ve 13. stol. za Přemysla Otakara II. vznikl gotický hrad"},
-  {"owner": "opavsti-premyslovci", "owner_wiki": "Opavští Přemyslovci", "person": "Mikuláš I. Opavský a potomci", "from": 1269, "to": 1460, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "Mikuláš I., nemanželský syn Přemysla Otakara II., založil opavskou větev Přemyslovců; 1318 Jan Lucemburský vyplatil dřívější zástavu polským Piastovcům a ustavil samostatné Opavské knížectví; od Jana III. Opavského majetek skoupil Jiří z Poděbrad"},
-  {"owner": "koruna", "person": "Jiří z Poděbrad a syn Viktorín z Poděbrad", "from": 1460, "to": 1530, "from_approx": true, "to_approx": false, "how": "koupe", "note": "Viktorín z Poděbrad udělil Hradci 1481 městská práva a znak, význam hradu ale postupně upadal ve prospěch Opavy"},
-  {"owner": "zabkove-z-limberka", "owner_wiki": "Žabkové z Limberka", "from": 1530, "to": 1531, "from_approx": false, "to_approx": false, "how": "lenni", "note": "hrad rok po převzetí zástavy (1531) vyhořel"},
-  {"owner": "cetrysove-z-kynsperka", "owner_wiki": "Cetrysové z Kynšperka", "from": 1531, "to": 1581, "from_approx": false, "to_approx": false, "how": "lenni", "note": "zástavní držitelé přes 50 let, provedli přestavbu vyhořelého hradu v raně renesančním stylu"},
-  {"owner": "pruskovsti-z-pruskova", "owner_wiki": "Pruskovští z Pruskova", "person": "Kašpar Pruskovský z Pruskova", "from": 1581, "to": 1584, "from_approx": false, "to_approx": false, "how": "lenni", "note": "zástava mu byla udělena z politických (rekatolizačních) důvodů za Rudolfa II."},
-  {"owner": "pruskovsti-z-pruskova", "owner_wiki": "Pruskovští z Pruskova", "person": "Kašpar Pruskovský a potomci (Jan Kryštof, Erdman Kryštof)", "from": 1584, "to": 1733, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "1584 dosáhli dědičného vlastnictví, čímž skončila éra Hradce jako majetku panovnických dynastií; 1585-1620 přestavba na renesanční sídlo, 1626-1627 okupace dánským vojskem; Erdman Kryštof Pruskovský Hradec 1733 po 150 letech prodal"},
-  {"owner": "neffzernove", "owner_wiki": null, "person": "Wolf Konrád Neffzern a syn Wolfgang Karel Neffzern", "from": 1733, "to": 1777, "from_approx": false, "to_approx": false, "how": "koupe", "note": "svobodný pán, císařský rada a podnikatel v těžbě drahých kovů; rodina nechala 1764 zřídit křížovou cestu na Kalvárii"},
-  {"owner": "lichnovsti-z-vostic", "owner_wiki": "Lichnovští z Voštic", "person": "Jan Karel Lichnovský", "from": 1777, "to": 1788, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupě za 270 000 zlatých"},
-  {"owner": "lichnovsti-z-vostic", "owner_wiki": "Lichnovští z Voštic", "person": "Karel Alois a Felix Lichnovský", "from": 1788, "to": 1848, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "požár 1796 vedl ke klasicistní přestavbě Bílého zámku architektem Johannem Mihatschem; Hradec navštívili Beethoven i Liszt"},
-  {"owner": "soukromnik", "person": "Dorothea, vévodkyně zaháňská", "from": 1848, "to": 1850, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "zdědila po Felixu Lichnovském na základě ústního odkazu na smrtelném loži, vyrovnala dluhy panství a 1850 je za půl milionu zlatých prodala zpět Lichnovským"},
-  {"owner": "lichnovsti-z-vostic", "owner_wiki": "Lichnovští z Voštic", "person": "Karel Maria, Karel Max a Vilém Lichnovský", "from": 1850, "to": 1945, "from_approx": false, "to_approx": false, "how": "koupe", "note": "1857 sloučení lichnovských statků; 1874-1881 výstavba novogotického Červeného zámku; posledním soukromým majitelem byl Vilém (Wilhelm) Lichnovský, rodina odjela před frontou koncem dubna 1945"},
-  {"owner": "stat", "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "konfiskace jako německého majetku; 1948 přešel pod Národní fond Praha, 1949 zpřístupněn veřejnosti, dnes ve správě Národního památkového ústavu"}
+  {
+   "owner": "koruna",
+   "person": "čeští Přemyslovci",
+   "from": 1050,
+   "to": 1269,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "pohraniční hradiště, roku 1060 odolalo obléhání polského knížete Boleslava II. Smělého; ve 13. stol. za Přemysla Otakara II. vznikl gotický hrad"
+  },
+  {
+   "owner": "opavsti-premyslovci",
+   "owner_wiki": "Opavští Přemyslovci",
+   "person": "Mikuláš I. Opavský a potomci",
+   "from": 1269,
+   "to": 1460,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "Mikuláš I., nemanželský syn Přemysla Otakara II., založil opavskou větev Přemyslovců; 1318 Jan Lucemburský vyplatil dřívější zástavu polským Piastovcům a ustavil samostatné Opavské knížectví; od Jana III. Opavského majetek skoupil Jiří z Poděbrad"
+  },
+  {
+   "owner": "koruna",
+   "person": "Jiří z Poděbrad a syn Viktorín z Poděbrad",
+   "from": 1460,
+   "to": 1530,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Viktorín z Poděbrad udělil Hradci 1481 městská práva a znak, význam hradu ale postupně upadal ve prospěch Opavy"
+  },
+  {
+   "owner": "zabkove-z-limberka",
+   "owner_wiki": "Žabkové z Limberka",
+   "from": 1530,
+   "to": 1531,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "hrad rok po převzetí zástavy (1531) vyhořel"
+  },
+  {
+   "owner": "cetrysove-z-kynsperka",
+   "owner_wiki": "Cetrysové z Kynšperka",
+   "from": 1531,
+   "to": 1581,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "zástavní držitelé přes 50 let, provedli přestavbu vyhořelého hradu v raně renesančním stylu"
+  },
+  {
+   "owner": "pruskovsti-z-pruskova",
+   "owner_wiki": "Pruskovští z Pruskova",
+   "person": "Kašpar Pruskovský z Pruskova",
+   "from": 1581,
+   "to": 1584,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "lenni",
+   "note": "zástava mu byla udělena z politických (rekatolizačních) důvodů za Rudolfa II."
+  },
+  {
+   "owner": "pruskovsti-z-pruskova",
+   "owner_wiki": "Pruskovští z Pruskova",
+   "person": "Kašpar Pruskovský a potomci (Jan Kryštof, Erdman Kryštof)",
+   "from": 1584,
+   "to": 1733,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "1584 dosáhli dědičného vlastnictví, čímž skončila éra Hradce jako majetku panovnických dynastií; 1585-1620 přestavba na renesanční sídlo, 1626-1627 okupace dánským vojskem; Erdman Kryštof Pruskovský Hradec 1733 po 150 letech prodal; cs.wiki 1584, web zámku a hrady.cz 1585 (dědičné vlastnictví)"
+  },
+  {
+   "owner": "neffzernove",
+   "owner_wiki": null,
+   "person": "Wolf Konrád Neffzern a syn Wolfgang Karel Neffzern",
+   "from": 1733,
+   "to": 1777,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "svobodný pán, císařský rada a podnikatel v těžbě drahých kovů; rodina nechala 1764 zřídit křížovou cestu na Kalvárii"
+  },
+  {
+   "owner": "lichnovsti-z-vostic",
+   "owner_wiki": "Lichnovští z Voštic",
+   "person": "Jan Karel Lichnovský",
+   "from": 1777,
+   "to": 1788,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupě za 270 000 zlatých; cs.wiki 1777, oficiální web zámku a Kudy z nudy 1778"
+  },
+  {
+   "owner": "lichnovsti-z-vostic",
+   "owner_wiki": "Lichnovští z Voštic",
+   "person": "Karel Alois a Felix Lichnovský",
+   "from": 1788,
+   "to": 1848,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "požár 1796 vedl ke klasicistní přestavbě Bílého zámku architektem Johannem Mihatschem; Hradec navštívili Beethoven i Liszt"
+  },
+  {
+   "owner": "soukromnik",
+   "person": "Dorothea, vévodkyně zaháňská",
+   "from": 1848,
+   "to": 1850,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "zdědila po Felixu Lichnovském na základě ústního odkazu na smrtelném loži, vyrovnala dluhy panství a 1850 je za půl milionu zlatých prodala zpět Lichnovským"
+  },
+  {
+   "owner": "lichnovsti-z-vostic",
+   "owner_wiki": "Lichnovští z Voštic",
+   "person": "Karel Maria, Karel Max a Vilém Lichnovský",
+   "from": 1850,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "1857 sloučení lichnovských statků; 1874-1881 výstavba novogotického Červeného zámku; posledním soukromým majitelem byl Vilém (Wilhelm) Lichnovský, rodina odjela před frontou koncem dubna 1945"
+  },
+  {
+   "owner": "stat",
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "konfiskace jako německého majetku (květen 1945); 1948 přešel pod Národní fond Praha, 1949 zpřístupněn veřejnosti, dnes ve správě Národního památkového ústavu"
+  }
  ],
  "events": [
-  {"year": 1060, "text": "hrad úspěšně odolal obléhání polského knížete Boleslava II. Smělého"},
-  {"year": 1269, "text": "Mikuláš I. Opavský zakládá opavskou větev Přemyslovců"},
-  {"year": 1318, "text": "Jan Lucemburský vyplácí zástavu Piastovců a ustavuje samostatné Opavské knížectví"},
-  {"year": 1531, "text": "hrad vyhořel, následně jej opravili Cetrysové z Kynšperka"},
-  {"year": 1584, "text": "Kašpar Pruskovský z Pruskova získává panství do dědičného vlastnictví"},
-  {"year": 1796, "text": "požár zámku vede ke klasicistní přestavbě Bílého zámku"},
-  {"year": 1881, "text": "dokončena výstavba novogotického Červeného zámku"},
-  {"year": 1945, "text": "konfiskace zámku jako německého majetku"}
+  {
+   "year": 1060,
+   "text": "hrad úspěšně odolal obléhání polského knížete Boleslava II. Smělého"
+  },
+  {
+   "year": 1269,
+   "text": "Mikuláš I. Opavský zakládá opavskou větev Přemyslovců"
+  },
+  {
+   "year": 1318,
+   "text": "Jan Lucemburský vyplácí zástavu Piastovců a ustavuje samostatné Opavské knížectví"
+  },
+  {
+   "year": 1531,
+   "text": "hrad vyhořel, následně jej opravili Cetrysové z Kynšperka"
+  },
+  {
+   "year": 1584,
+   "text": "Kašpar Pruskovský z Pruskova získává panství do dědičného vlastnictví (web zámku uvádí 1585)"
+  },
+  {
+   "year": 1796,
+   "text": "požár zámku vede ke klasicistní přestavbě Bílého zámku"
+  },
+  {
+   "year": 1881,
+   "text": "dokončena výstavba novogotického Červeného zámku"
+  },
+  {
+   "year": 1945,
+   "text": "konfiskace zámku jako německého majetku"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Hradec_nad_Moravicí_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Hradec_nad_Moravicí_(zámek)",
+  "https://www.zamek-hradec.cz/cs/o-zamku/historie",
+  "https://hradycz.cz/hrady/hradec-nad-moravici/",
+  "https://www.kudyznudy.cz/ceska-nej/historicke/lichnovsti-slechticky-rod-ktery-vlastnil-zamek-v-h"
+ ]
 }

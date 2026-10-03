@@ -1,23 +1,84 @@
 {
  "id": "Q2243837",
  "name": "Velké Losiny",
- "founded": {"year": 1531, "approx": false, "text": "Renesanční zámek vznikl od roku 1531 přestavbou starší vodní tvrze ze 14. století z podnětu Jana mladšího ze Žerotína."},
- "summary": "Zámek vznikl od roku 1531 přestavbou starší vodní tvrze, kterou od roku 1496 vlastnili Žerotínové. Po stavovském povstání rod přišel o většinu majetku, roku 1642 si losinské statky od Habsburků vykoupil zpět, ale místo se v letech 1678-1696 proslavilo čarodějnickými procesy vedenými Jindřichem Františkem Bobligem. Na počátku 19. století Žerotínové zámek prodali Lichtenštejnům, po osvobození v roce 1945 připadl státu, dnes je ve správě Národního památkového ústavu a přístupný veřejnosti.",
+ "founded": {
+  "year": 1531,
+  "approx": true,
+  "text": "Renesanční zámek vznikl přestavbou starší vodní tvrze ze 14. století; cs.wiki uvádí začátek přestavby 1531 (Jan mladší ze Žerotína), turistika.cz 1581-1589, NPÚ jen „závěr 16. století“"
+ },
+ "summary": "Zámek vznikl přestavbou starší vodní tvrze, kterou roku 1496 získali zástavou od krále Vladislava II. Žerotínové; renesanční zámek dokončený koncem 16. století později doplnila barokní křídla. Po stavovském povstání rod přišel o část majetku, roku 1642 si losinské statky od Habsburků vykoupil zpět a v letech 1678-1696 zde probíhaly čarodějnické procesy vedené Jindřichem Františkem Bobligem. V roce 1802 Žerotínové zadlužené panství prodali Lichtenštejnům, kteří jej drželi do 1945; od té doby je státní a spravuje jej Národní památkový ústav.",
  "owners": [
-  {"owner": "zerotinove", "owner_wiki": "Žerotínové", "person": "Jan mladší ze Žerotína", "from": 1496, "to": 1620, "from_approx": false, "to_approx": true, "how": "koupe", "note": "od 1531 přestavba tvrze na renesanční zámek; Jan mladší založil i nedalekou papírnu a losinské lázně"},
-  {"owner": "koruna", "owner_wiki": null, "person": null, "from": 1620, "to": 1642, "from_approx": true, "to_approx": false, "how": "konfiskace", "note": "po porážce stavovského povstání přišli losinští Žerotínové o tři čtvrtiny majetku ve prospěch Habsburků; na losinských statcích však zůstali"},
-  {"owner": "zerotinove", "owner_wiki": "Žerotínové", "person": "Jan Jetřich a Přemek II. ze Žerotína, poté Přemek III. a Jan Jáchym ze Žerotína", "from": 1642, "to": 1800, "from_approx": false, "to_approx": true, "how": "jine", "note": "statky roku 1642 vykoupeny zpět od Habsburků za 100 000 zlatých s podmínkou přestupu na katolictví (splnil až Přemek III.); v letech 1678-1696 zde probíhaly čarodějnické procesy vedené Jindřichem Františkem Bobligem z Edelstadtu, zastavené Janem Jáchymem ze Žerotína; přesný rok prodeje Lichtenštejnům článek neuvádí"},
-  {"owner": "lichtenstejnove", "owner_wiki": "Lichtenštejnové", "person": null, "from": 1800, "to": 1945, "from_approx": true, "to_approx": false, "how": "koupe", "note": "Žerotínové se na počátku 19. století dostali do finanční tísně a zámek jim prodali"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "jine", "note": "zámek stát získal po osvobození roku 1945; dnes ve správě Národního památkového ústavu"}
+  {
+   "owner": "zerotinove",
+   "owner_wiki": "Žerotínové",
+   "person": "Jan starší ze Žerotína, Jan mladší, Přemek II. a Jan Jetřich, Přemek III., Jan Jáchym, naposledy Ludvík Antonín ze Žerotína",
+   "from": 1496,
+   "to": 1802,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "1496 získal Losiny zástavou od Vladislava II. Jagellonského Jan starší ze Žerotína (turistika.cz; cs.wiki uvádí jen „získali Žerotínové“); přestavba na renesanční zámek: cs.wiki od 1531, turistika.cz 1581-1589; po stavovském povstání ztratili Žerotínové část majetku (cs.wiki: tři čtvrtiny), na losinských statcích ale zůstali a 1642 je vykoupili zpět za 100 000 zlatých s podmínkou přestupu na katolictví (splnil až Přemek III.); 1678-1696 čarodějnické procesy (NPÚ uvádí 1678-1692, 56 obětí); poslední Žerotín Ludvík Antonín zadlužené panství 1802 prodal a odstěhoval se do Bludova"
+  },
+  {
+   "owner": "lichtenstejnove",
+   "owner_wiki": "Lichtenštejnové",
+   "person": "Karel Liechtenstein (poručníci), od 1910 kníže Alois z Liechtensteinu a Alžběta Amálie Rakouská",
+   "from": 1802,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupě 1802 od Ludvíka Antonína ze Žerotína (moravskokrumlovská sekundogenitura); letní sídlo, v 19. stol. úprava barokní zahrady na anglický park, od 1910 zámek využívali Alois a Alžběta Amálie z Liechtensteinu"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "od 1945 majetek státu (zkonfiskován knížeti Aloisovi, první kastelán Josef Helekal); dnes ve správě Národního památkového ústavu; do zámku svezeny mobiliáře z okolních zámků; 1995 národní kulturní památka"
+  }
  ],
  "events": [
-  {"year": 1496, "text": "vodní tvrz získali Žerotínové"},
-  {"year": 1531, "text": "Jan mladší ze Žerotína zahájil přestavbu tvrze na renesanční zámek"},
-  {"year": 1642, "text": "Žerotínové vykoupili losinské statky zpět od Habsburků za 100 000 zlatých"},
-  {"year": 1678, "text": "začaly čarodějnické procesy, které trvaly do roku 1696 a připravily o život 56 osob"},
-  {"year": 1696, "text": "Jan Jáchym ze Žerotína čarodějnické procesy zastavil a nechal rozšířit zámek o barokní křídla"},
-  {"year": 1945, "text": "po osvobození zámek připadl státu"},
-  {"year": 1995, "text": "areál prohlášen národní kulturní památkou"}
+  {
+   "year": 1496,
+   "text": "Losiny získali zástavou od krále Vladislava II. Žerotínové (Jan starší ze Žerotína)"
+  },
+  {
+   "year": 1531,
+   "text": "podle cs.wiki Jan mladší ze Žerotína zahájil přestavbu tvrze na renesanční zámek (turistika.cz uvádí 1581-1589)"
+  },
+  {
+   "year": 1642,
+   "text": "Žerotínové vykoupili losinské statky zpět od Habsburků za 100 000 zlatých"
+  },
+  {
+   "year": 1678,
+   "text": "začaly čarodějnické procesy (konec 1692 podle NPÚ, 1696 podle cs.wiki), při nichž zahynulo 56 osob"
+  },
+  {
+   "year": 1696,
+   "text": "Jan Jáchym ze Žerotína zastavil procesy a nechal rozšířit zámek o barokní křídla"
+  },
+  {
+   "year": 1802,
+   "text": "Ludvík Antonín ze Žerotína prodal zadlužené panství Lichtenštejnům"
+  },
+  {
+   "year": 1945,
+   "text": "zámek připadl státu"
+  },
+  {
+   "year": 1995,
+   "text": "areál prohlášen národní kulturní památkou"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Velké_Losiny_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Velké_Losiny_(zámek)",
+  "https://zamek-velkelosiny.cz/cs/o-zamku/historie",
+  "https://www.turistika.cz/mista/velke-losiny--3/detail"
+ ]
 }

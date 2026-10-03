@@ -6,84 +6,128 @@
   "approx": true,
   "text": "Skalní hrad postavili pravděpodobně na počátku 14. století Ronovci, jeho prvním doloženým majitelem byl Čeněk z Lipé."
  },
- "summary": "Skalní hrad Sloup postavili počátkem 14. století Ronovci (páni z Lipé), po roce 1330 jej koupili příbuzní Berkové z Dubé. Koncem husitských válek jej ovládl loupeživý rytíř Mikeš Pancíř ze Smojna, než jej roku 1471 znovu koupili Berkové z Dubé; roku 1639 hrad za třicetileté války zničila švédská vojska a už nebyl obnoven. Roku 1679 skálu se zbytky hradu získal hrabě Ferdinand Hroznata z Kokořova a věnoval ji poustevníkům, od roku 1780 skálu vlastnili Kinští, kteří ji upravili na výletní místo; roku 1940 ji zdědil Vilém Emanuel Preysing a roku 1945 mu byl majetek zkonfiskován - dnes je ve správě státu jako kulturní památka.",
+ "summary": "Skalní hrad Sloup nechal kolem roku 1300 opevnit Čeněk z Ojvína (z Lipé) z rodu Ronovců; od poloviny 14. století patřil Berkům z Dubé, v letech 1412-1471 se v držbě vystřídali Hanuš Welfl z Varnsdorfu, Pancířové ze Smojna (loupeživý rytíř Mikeš Pancíř) a Vilém Ilburk, roku 1471 jej znovu koupili Berkové. Po Berkech (do 1607), Solhauzech a po konfiskaci 1622 Libštejnských z Kolovrat hrad roku 1639 za třicetileté války zničila švédská vojska a nebyl obnoven. Roku 1679 získal panství Ferdinand Hroznata Kokořovec, který na skále zřídil poustevnu; roku 1710 panství koupili Kinští, od roku 1941 Preysingové a roku 1945 byl majetek konfiskován státu.",
  "owners": [
   {
    "owner": "pani-z-lipe",
    "owner_wiki": "Páni z Lipé",
-   "person": "Čeněk z Lipé",
+   "person": "Čeněk z Ojvína (z Lipé / ze Sloupu)",
    "from": 1300,
    "to": 1330,
    "from_approx": true,
-   "to_approx": false,
+   "to_approx": true,
    "how": "zalozeni",
-   "note": "hrad postavili pravděpodobně Ronovci; Čeněk z Lipé je jeho prvním doloženým majitelem"
+   "note": "hrad kolem 1300 opevnil Čeněk z Ojvína, syn či vnuk Chvala z Lipé (Ronovci); první zmínka o Sloupu 1324; cs.wiki uvádí první zmínku o hradu 1324 a možné starší založení; Čeněk doložen 1330"
   },
   {
    "owner": "berkove-z-dube",
    "owner_wiki": "Berkové z Dubé",
-   "person": null,
-   "from": 1330,
-   "to": 1427,
+   "person": "Hynek Berka z Dubé a jeho potomci (honštejnská větev), Hynek Hlaváč z Dubé",
+   "from": 1348,
+   "to": 1412,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "web hradu: držiteli Hynek Berka z Dubé (+1348), po něm synové a vnuk do 1412, kdy Hynek Hlaváč prodal Hanuši Welflovi; cs.wiki uvádí Hlaváče jako držitele od 1400; původní soubor uváděl koupi Berků 1330 (nepotvrzeno)"
+  },
+  {
+   "owner": "z-varnsdorfu",
+   "owner_wiki": null,
+   "person": "Hanuš Welfl z Varnsdorfu",
+   "from": 1412,
+   "to": null,
    "from_approx": false,
    "to_approx": true,
    "how": "koupe",
-   "note": "koupili od příbuzných pánů z Lipé"
+   "note": "koupil 1412 za 200 kop grošů od Hynka Hlaváče; konec držby není doložen (web hradu: do cca 1426)"
   },
   {
    "owner": "pancirove-ze-smojna",
    "owner_wiki": "Pancířové ze Smojna",
    "person": "Mikeš (Mikuláš) Pancíř ze Smojna, od 1455 jeho synové",
-   "from": 1427,
+   "from": 1440,
    "to": 1471,
    "from_approx": true,
    "to_approx": false,
    "how": "jine",
-   "note": "loupeživý rytíř se na hradě usídlil pod ochranou pánů z Vartenberka a podnikal odtud výpravy do Lužice; 1444 a 1445 hrad obléhán vojsky z Lužice, 1445 vypálen, do tří let obnoven, 1455 předán synům"
+   "note": "loupeživý rytíř, 1444 a 1445 hrad obléhán a pobořen vojsky z Lužice, Mikeš jej obnovil; 1455 předal synům; počátek držby web hradu odhaduje na cca 1440, cs.wiki uvádí pohusitskou dobu"
+  },
+  {
+   "owner": "ilburkove",
+   "owner_wiki": "Ilburkové",
+   "person": "Vilém Ilburk z Ronova",
+   "from": null,
+   "to": 1471,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "web hradu uvádí Viléma Ilburka jako držitele před rokem 1471"
   },
   {
    "owner": "berkove-z-dube",
    "owner_wiki": "Berkové z Dubé",
-   "person": null,
+   "person": "bratři Petr, Jaroslav, Jan a Jiřík Berkové z Dubé, později Zikmund, Jetřich Jiří a Adam Berka z Dubé",
    "from": 1471,
-   "to": 1639,
+   "to": 1607,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "roku 1639 byl hrad za třicetileté války zničen švédskými vojsky generála Johana Banéra a už nebyl obnoven"
+   "note": "v lednu 1471 koupili hrad s podhradím; Adam Berka zemřel 1607 jako poslední mužský člen rodu; kolem 1562 nechal Zikmund Berka postavit Nový dům (Berkovský zámek)"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Anna Marie Zejdlicová, rozená Berkovna (dcera Adama Berky), její matka Anna a Solhauzové ze Solhauzu (Jan Abraham, Volf)",
+   "from": 1607,
+   "to": 1622,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "web hradu: 1607-1616 Anna Marie Zejdlicová, 1616-1621 Solhauzové (Jan Abraham, od 1617 jeho bratr Volf, účastník stavovského povstání); 1622 císařská konfiskace"
+  },
+  {
+   "owner": "libstejnsti-z-kolovrat",
+   "owner_wiki": "Libštejnští z Kolovrat",
+   "person": "Zdeněk Lev Libštejnský z Kolovrat, syn Václav František (jezuita), vdova Kateřina z Vrtby",
+   "from": 1623,
+   "to": 1679,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "1623-1640 Zdeněk Lev, 1640-1652 syn Václav František (panství zadlužil, 1643-1652 úřední správa), 1652-1679 Kateřina z Vrtby; 1639 hrad zničen švédskými vojsky generála Banéra a už nebyl obnoven"
   },
   {
    "owner": "kokorovcove-z-kokorova",
    "owner_wiki": "Kokořovcové z Kokořova",
-   "person": "Ferdinand Hroznata z Kokořova, poté Štěpán Vilém Oldřich",
+   "person": "Ferdinand Hroznata Kokořovec z Kokořova (+1708), poté jeho synové",
    "from": 1679,
-   "to": 1780,
+   "to": 1710,
    "from_approx": false,
-   "to_approx": false,
-   "how": "koupe",
-   "note": "hrabě získal sloupské panství se skálou a zřícenou zbytky hradu, věnoval skálu poustevníkům; po jeho smrti 1708 pokračoval v úpravách Štěpán Vilém Oldřich"
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "1679 mu panství postoupila matka Kateřina z Vrtby; zřídil na skále poustevnu; po jeho smrti 1708 dědicové panství prodali Kinským (cs.wiki 1708 prodej, web hradu 1709-1710 synové)"
   },
   {
    "owner": "kinsti",
    "owner_wiki": "Kinští",
-   "person": "Filip Josef Kinský, ... August František Kinský",
-   "from": 1780,
-   "to": 1940,
+   "person": "Václav Norbert Oktavián Kinský, Josef Jan Maxmilián, Filip, Karel, August Leopold, August František Kinský",
+   "from": 1710,
+   "to": 1941,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "roku 1785 byla zdejší poustevna úředně zrušena josefínskými reformami; Kinští skálu upravili na výletní místo pro hosty"
+   "note": "koupě za 280 000 zlatých (cs.wiki: 1708, web hradu a cs.wiki o zámku: 1710); 1782 (cs.wiki 1785) poustevna zrušena Josefem II.; Kinští skálu upravili na výletní místo; zemřel August František Kinský (1941)"
   },
   {
    "owner": "z-preysingu",
    "owner_wiki": null,
-   "person": "Vilém Emanuel Preysing",
-   "from": 1940,
+   "person": "Vilém Emanuel Preysing a manželka Marie Filipína, rozená Kinská",
+   "from": 1941,
    "to": 1945,
    "from_approx": false,
    "to_approx": false,
-   "how": "jine",
-   "note": "po smrti Augusta Františka Kinského převzal poustevnu i obec; přesný způsob nabytí (dědictví/koupě) cs.wiki neuvádí"
+   "how": "dedictvi",
+   "note": "Marie Filipína zdědila po otci Augustu Františkovi Kinském; původní soubor uváděl rok 1940, web hradu a cs.wiki o zámku 1941"
   },
   {
    "owner": "stat",
@@ -94,17 +138,17 @@
    "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "majetek zkonfiskován, skála zůstala opuštěná; 1953 prohlášena kulturní památkou, kastelánem a nájemcem je od 1998 Ivan Volman"
+   "note": "majetek zkonfiskován podle Benešových dekretů, skála zůstala opuštěná; 1953 prohlášena kulturní památkou, kastelánem a nájemcem je od 1998 Ivan Volman"
   }
  ],
  "events": [
   {
    "year": 1300,
-   "text": "hrad postaven pravděpodobně Ronovci na počátku 14. století"
+   "text": "hrad opevnil kolem roku 1300 Čeněk z Ojvína (Ronovci)"
   },
   {
-   "year": 1427,
-   "text": "hrad ovládl loupeživý rytíř Mikeš Pancíř ze Smojna"
+   "year": 1412,
+   "text": "Hynek Hlaváč z Dubé prodal panství Hanuši Welflovi z Varnsdorfu"
   },
   {
    "year": 1445,
@@ -120,11 +164,15 @@
   },
   {
    "year": 1679,
-   "text": "hrabě Ferdinand Hroznata z Kokořova věnuje skálu poustevníkům, začíná barokní přestavba na poustevnu"
+   "text": "Ferdinand Hroznata Kokořovec získává panství a zřizuje na skále poustevnu"
+  },
+  {
+   "year": 1710,
+   "text": "panství koupil Václav Norbert Oktavián Kinský od Kokořovců"
   },
   {
    "year": 1785,
-   "text": "poustevna zrušena josefínskými reformami"
+   "text": "poustevna zrušena josefínskými reformami (web hradu uvádí 1782)"
   },
   {
    "year": 1945,
@@ -132,6 +180,9 @@
   }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Sloup_(skalní_hrad)"
+  "https://cs.wikipedia.org/wiki/Sloup_(skalní_hrad)",
+  "https://hradsloup.cz/historie/historie-panstvi-sloup/",
+  "https://hradsloup.cz/historie/od-praveku-do-roku-1679/",
+  "https://cs.wikipedia.org/wiki/Sloup_v_%C4%8Cech%C3%A1ch_(z%C3%A1mek)"
  ]
 }

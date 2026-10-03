@@ -8,18 +8,105 @@
  },
  "summary": "Gotický vodní hrad Švihov založili Švihovští z Rýzmberka, kteří jej za husitských válek úspěšně bránili a v letech 1480-1489 za Půty Švihovského nákladně přestavěli v pozdně gotickém slohu (na dostavbě opevnění se podílel Benedikt Rejt). Roku 1548 jej převzali Kavkové z Říčan a po jejich špatném hospodaření jej roku 1598 koupili Černínové z Chudenic, kteří jej vlastnili (s malými přestávkami) až do roku 1945. Po neúspěšném obležení Švédy za třicetileté války měl být hrad na příkaz Ferdinanda III. zbořen, k čemuž nakonec došlo jen částečně; po konfiskaci Černínům roku 1945 je hrad majetkem státu a od roku 1950 postupně citlivě rekonstruován.",
  "owners": [
-  {"owner": "svihovsti-z-ryzmberka", "owner_wiki": "Švihovští z Rýzmberka", "person": "Vilém III. Švihovský z Rýzmberka, poté syn Půta Švihovský z Rýzmberka a jeho synové", "from": 1375, "to": 1548, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "Vilém III. za husitských válek patřil k předním odpůrcům husitů, hrad roku 1434 odolal obléhání; Půta jej 1480-1489 nákladně přestavěl v pozdní gotice, na stavbě opevnění pracoval i Benedikt Rejt"},
-  {"owner": "pani-z-rican", "owner_wiki": "Páni z Říčan", "person": "Kavkové z Říčan", "from": 1548, "to": 1598, "from_approx": false, "to_approx": false, "how": "koupe", "note": "špatné hospodaření je donutilo hrad roku 1598 prodat"},
-  {"owner": "cerninove-z-chudenic", "owner_wiki": "Černínové z Chudenic", "person": null, "from": 1598, "to": 1945, "from_approx": false, "to_approx": false, "how": "koupe", "note": "hrad drželi s malými přestávkami až do roku 1945; za třicetileté války jej neúspěšně obléhali Švédové, po válce nařídil Ferdinand III. demolici, provedenou jen částečně"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "konfiskováno na základě Benešových dekretů; od 1950 rekonstrukce pod vedením Břetislava Štorma, dnes spravuje Národní památkový ústav"}
+  {
+   "owner": "svihovsti-z-ryzmberka",
+   "owner_wiki": "Švihovští z Rýzmberka",
+   "person": "Vilém III. Švihovský z Rýzmberka (předchůdci Vilém II. z Rýzmberka a Břeněk Švihovský)",
+   "from": 1375,
+   "to": 1472,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "hrad poprvé zmiňován 1375 (cs.wiki); web hradu uvádí rod od přelomu 13./14. stol.; za husitských válek 1434 (cs.wiki) obležen, web hradu uvádí obležení tvrze 1425; NPÚ upozorňuje, že počátky hradu jsou nejisté"
+  },
+  {
+   "owner": "svihovsti-z-ryzmberka",
+   "owner_wiki": "Švihovští z Rýzmberka",
+   "person": "Půta Švihovský z Rýzmberka",
+   "from": 1472,
+   "to": 1504,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "královský sudí; 1480-1489 pozdně gotická přestavba, dostavbu opevnění po jeho smrti vedl Benedikt Rejt (Ried)"
+  },
+  {
+   "owner": "svihovsti-z-ryzmberka",
+   "owner_wiki": "Švihovští z Rýzmberka",
+   "person": "Jindřich a Václav Švihovští, od 1535 Jindřich a Jan Půta (Václavův syn)",
+   "from": 1505,
+   "to": 1548,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "synové Půty; nepodařilo se jim panství udržet, hrad 1548 prodali Heraltu Kavkovi z Říčan"
+  },
+  {
+   "owner": "pani-z-rican",
+   "owner_wiki": "Páni z Říčan",
+   "person": "Heralt Kavka z Říčan a ze Štěkně (1548-1563), poté Zdeněk a Heralt Kavka mladší (do 1595)",
+   "from": 1548,
+   "to": 1598,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "synové Heralta Kavky se hradu roku 1598 zbavili (prodej Humprechtu Černínovi); web hradu uvádí Heralta Kavku mladšího jako majitele 1566-1595; renesanční úpravy vnitřního hradu na konci 16. stol."
+  },
+  {
+   "owner": "cerninove-z-chudenic",
+   "owner_wiki": "Černínové z Chudenic",
+   "person": "Humprecht Černín z Chudenic (1598-1603), Jindřich Černín (1603-1640), další Černínové",
+   "from": 1598,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "web hradu uvádí Černíny 1598-1925, hospodářskou správu 1925-1930 (Karel Knapp, Václav Levora) a opět Černíny 1930-1945 (Eugen Černín zahájil záchranu); za třicetileté války neúspěšně obléhání Švédy, po válce demoliční rozkaz Ferdinanda III. provedený jen částečně (Černínům se jeho zrušení podařilo), hrad slouží hospodářským účelům"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "po 1945 konfiskován Černínům; 1946-1947 Národní pozemkový fond, od 1947 Národní kulturní komise, dnes Národní památkový ústav; rekonstrukce od 1949/1950 pod vedením Břetislava Štorma"
+  }
  ],
  "events": [
-  {"year": 1434, "text": "hrad obléhalo husitské vojsko, posádka se vzdala až po vypuštění příkopů"},
-  {"year": 1480, "text": "1480-1489 nákladná pozdně gotická přestavba za Půty Švihovského z Rýzmberka, na opevnění pracoval Benedikt Rejt"},
-  {"year": 1598, "text": "Černínové z Chudenic kupují hrad od zadlužených Kavků z Říčan"},
-  {"year": 1648, "text": "neúspěšné obléhání švédskými vojsky za třicetileté války"},
-  {"year": 1945, "text": "hrad konfiskován Černínům na základě Benešových dekretů"},
-  {"year": 1950, "text": "zahájeny programové rekonstrukční práce pod vedením Břetislava Štorma"}
+  {
+   "year": 1425,
+   "text": "obléhání tvrze husity pod Janem Hvězdou z Vícemilic (web hradu; cs.wiki uvádí 1434)"
+  },
+  {
+   "year": 1434,
+   "text": "hrad obléhalo husitské vojsko, posádka se vzdala až po vypuštění příkopů"
+  },
+  {
+   "year": 1480,
+   "text": "1480-1489 nákladná pozdně gotická přestavba za Půty Švihovského z Rýzmberka, na opevnění pracoval Benedikt Rejt"
+  },
+  {
+   "year": 1598,
+   "text": "Černínové z Chudenic kupují hrad od zadlužených Kavků z Říčan"
+  },
+  {
+   "year": 1641,
+   "text": "1641-1644 neúspěšné obléhání Švédy za třicetileté války a vypálení města (cs.wiki neuvádí rok)"
+  },
+  {
+   "year": 1945,
+   "text": "hrad konfiskován Černínům na základě Benešových dekretů"
+  },
+  {
+   "year": 1950,
+   "text": "zahájeny programové rekonstrukční práce pod vedením Břetislava Štorma"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Švihov_(hrad)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Švihov_(hrad)",
+  "https://hrad-svihov.cz/cs/o-hradu/historie"
+ ]
 }

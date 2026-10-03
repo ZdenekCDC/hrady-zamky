@@ -11,44 +11,74 @@
   {
    "owner": "cerninove-z-chudenic",
    "owner_wiki": "Černínové z Chudenic",
-   "person": "Humprecht Jan Černín z Chudenic",
+   "person": "Humprecht Jan Černín z Chudenic (+1682) a další Černínové",
    "from": 1666,
    "to": 1738,
    "from_approx": false,
    "to_approx": false,
    "how": "zalozeni",
-   "note": "nechal zámeček postavit jako letní sídlo; pojmenován po něm"
+   "note": "smlouva s architektem Carlem Luragem uzavřena 22. 6. 1666; zámek letní a lovecké sídlo na panství Kost, pojmenován po stavebníkovi (původně Humprechtsberk); hrady.cz uvádí stavbu 1666-1669; 1678 požár od blesku, oprava a zvýšení o patro 1678-1681; další Černínové zámek využívali jen občas"
   },
   {
    "owner": "netolicti-z-eisenberka",
    "owner_wiki": "Netoličtí z Eisenberka",
-   "person": "Václav Kasimír Netolický z Eisenberku",
+   "person": "Václav Kazimír Netolický z Eisenberka, později Antonín Vratislav Netolický a další Netoličtí",
    "from": 1738,
    "to": 1926,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "za jejich držby zámek postupně chátral"
+   "note": "koupě celého kosteckého panství 1738 (inventura 32 postelí); za jejich držby zámek chátral, kolem 1780 uvažováno o demolici, místo toho postaven zámek ve Vlčím Poli (sídlo panství do 1945); 1829 oprava střech; po 1848 správa velkostatku šetřila na údržbě"
   },
   {
    "owner": "mesto",
    "owner_wiki": null,
-   "person": null,
+   "person": "město Sobotka",
    "from": 1926,
    "to": null,
    "from_approx": false,
    "to_approx": false,
-   "how": "jine",
-   "note": "v rámci pozemkové reformy připadl zámek městu Sobotka, jehož majetkem je dodnes"
+   "how": "konfiskace",
+   "note": "v rámci první pozemkové reformy připadl zámek s dvorem městu Sobotka (za 423 730 Kč); 1937-39 opravy za přispění Kruhu rodáků a přátel Sobotky, 1940 sbírky soboteckého muzea, 1958 oddělení Památníku národního písemnictví; město je vlastníkem dodnes"
   }
  ],
  "events": [
-  {"year": 1668, "text": "dokončena stavba loveckého zámečku podle návrhu Carla Luraga"},
-  {"year": 1678, "text": "zámek poškozen požárem, Francesco Ceresola jej opravil a zvýšil o patro"},
-  {"year": 1738, "text": "zámek koupila rodina Netolických z Eisenberku"},
-  {"year": 1926, "text": "v rámci pozemkové reformy připadl zámek městu Sobotka"},
-  {"year": 1939, "text": "dokončena rekonstrukce zámku (1937-1939)"},
-  {"year": 2023, "text": "dokončena rekonstrukce zámku (2021-2023)"}
+  {
+   "year": 1666,
+   "text": "smlouva s Carlem Luragem o stavbě nového zámku (22. června)"
+  },
+  {
+   "year": 1668,
+   "text": "dokončena stavba loveckého zámečku podle návrhu Carla Luraga (hrady.cz: 1666-1669)"
+  },
+  {
+   "year": 1678,
+   "text": "zámek poškozen požárem, Francesco Ceresola jej opravil a zvýšil o patro"
+  },
+  {
+   "year": 1738,
+   "text": "zámek koupila rodina Netolických z Eisenberku"
+  },
+  {
+   "year": 1829,
+   "text": "oprava střech, na věž místo kříže umístěn půlměsíc"
+  },
+  {
+   "year": 1926,
+   "text": "v rámci pozemkové reformy připadl zámek městu Sobotka"
+  },
+  {
+   "year": 1939,
+   "text": "dokončena rekonstrukce zámku (1937-1939)"
+  },
+  {
+   "year": 2023,
+   "text": "dokončena rekonstrukce zámku (2021-2023)"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Humprecht"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Humprecht",
+  "https://www.hrady.cz/zamek-humprecht-sobotka/texty?pos=300&tid=9387",
+  "https://www.atlasceska.cz/pamatky/zamek-humprecht-19919"
+ ]
 }
