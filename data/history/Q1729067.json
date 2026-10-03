@@ -1,27 +1,134 @@
 {
  "id": "Q1729067",
  "name": "Frýdlant",
- "founded": {"year": 1241, "approx": true, "text": "hrad založen v 1. polovině 13. století rodem Ronovců; podle pověsti stála věž Indika na místě již roku 1014"},
+ "founded": {
+  "year": 1250,
+  "approx": true,
+  "text": "hrad vznikl kolem poloviny 13. století (Ronovci); podle pověsti stála věž Indika na místě již roku 1014"
+ },
  "summary": "Hrad nad městem Frýdlant založili ve 13. století Ronovci, roku 1278 jej od nich odebral a prodal Přemysl Otakar II. Rudolfovi z Biberštejna, jehož rod zde vládl téměř tři staletí. Po vymření Biberštejnů panství koupili Redernové, kteří hrad přestavěli na renesanční zámek, a po konfiskaci roku 1622 jej získal Albrecht z Valdštejna. Po jeho zavraždění připadlo panství Gallasům a sňatkem Clam-Gallasům, kteří na zámku sídlili až do konfiskace roku 1945, od té doby je majetkem státu ve správě NPÚ.",
  "owners": [
-  {"owner": "ronovci", "owner_wiki": "Ronovci", "from": 1241, "to": 1278, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "vybudování hradu, neznámý příslušník rodu"},
-  {"owner": "pani-z-bibersteina", "owner_wiki": "Páni z Biberštejna", "person": "Rudolf z Biberštejna", "from": 1278, "to": 1551, "from_approx": false, "to_approx": false, "how": "koupe", "note": "Přemysl Otakar II. odňal panství Ronovcům a prodal je za 800 hřiven stříbra; frýdlantská větev vymřela smrtí Kryštofa z Biberštejna 1551"},
-  {"owner": "koruna", "from": 1551, "to": 1558, "from_approx": false, "to_approx": false, "how": "jine", "note": "odumřelé léno, spravovala Česká královská komora"},
-  {"owner": "redernove", "owner_wiki": "Redernové", "person": "Bedřich z Redernu", "from": 1558, "to": 1622, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupě od České komory za 40 000 tolarů; renesanční přestavba za Melchiora a Kateřiny z Redernu"},
-  {"owner": "valdstejnove", "owner_wiki": "Valdštejnové", "person": "Albrecht z Valdštejna", "from": 1622, "to": 1634, "from_approx": false, "to_approx": false, "how": "koupe", "note": "panství zkonfiskováno Kryštofu z Redernu za stavovské povstání, Valdštejn je koupil a získal v léno"},
-  {"owner": "gallasove", "owner_wiki": "Gallasové", "person": "Matyáš Gallas", "from": 1634, "to": 1759, "from_approx": false, "to_approx": true, "how": "dar", "note": "odměna od císaře za zradu Valdštejna; do cca 1759 spravovala vdova Anna Marie, rozená Colonnová z Felsu"},
-  {"owner": "clam-gallasove", "owner_wiki": "Clam-Gallasové", "person": "Kristián Filip z Clam-Gallasu", "from": 1759, "to": 1945, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "dědictví po tetě Anně Marii z Gallasu; hrad 1801 zpřístupněn jako první hradní muzeum ve střední Evropě"},
-  {"owner": "stat", "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "konfiskace na základě dekretů prezidenta republiky, dnes ve správě Národního památkového ústavu"}
+  {
+   "owner": "ronovci",
+   "owner_wiki": "Ronovci",
+   "from": 1250,
+   "to": 1278,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "vybudování hradu, neznámý příslušník rodu; oficiální web i NPÚ: založen patrně kolem poloviny 13. stol."
+  },
+  {
+   "owner": "pani-z-bibersteina",
+   "owner_wiki": "Páni z Biberštejna",
+   "person": "Rudolf z Biberštejna",
+   "from": 1278,
+   "to": 1551,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Přemysl Otakar II. odňal panství Ronovcům a prodal je za 800 hřiven stříbra; frýdlantská větev vymřela smrtí Kryštofa z Biberštejna 1551; NPÚ uvádí rok 1278 i konec držby 1551, oficiální web hradu jen 1278"
+  },
+  {
+   "owner": "koruna",
+   "from": 1551,
+   "to": 1558,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "odumřelé léno (NPÚ: připadlo koruně 1552), dočasně spravovali královští hejtmani / Česká komora"
+  },
+  {
+   "owner": "redernove",
+   "owner_wiki": "Redernové",
+   "person": "Bedřich z Redernu",
+   "from": 1558,
+   "to": 1622,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupě od České komory za 40 000 tolarů; renesanční přestavba za Melchiora a Kateřiny z Redernu; oficiální web hradu uvádí období 1558-1620 (Kryštof z Redernu převzal správu 1611)"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Albrecht z Valdštejna",
+   "from": 1622,
+   "to": 1634,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "panství zkonfiskováno Kryštofu z Redernu, Valdštejn je od 1621 držel v zástavě a 5. 6. 1622 koupil a získal v léno (web hradu: za 150 000 zlatých)"
+  },
+  {
+   "owner": "gallasove",
+   "owner_wiki": "Gallasové",
+   "person": "Matyáš Gallas",
+   "from": 1634,
+   "to": 1759,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dar",
+   "note": "odměna od císaře za zradu Valdštejna; do cca 1759 spravovala vdova Anna Marie, rozená Colonnová z Felsu; po 1648 se k nim hrad vrátil po švédských a císařských vojscích"
+  },
+  {
+   "owner": "clam-gallasove",
+   "owner_wiki": "Clam-Gallasové",
+   "person": "Kristián Filip z Clam-Gallasu",
+   "from": 1759,
+   "to": 1945,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "dědictví po tetě Anně Marii z Gallasu; hrad 1801 zpřístupněn jako první hradní muzeum ve střední Evropě"
+  },
+  {
+   "owner": "stat",
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "konfiskace na základě dekretů prezidenta republiky, dnes ve správě Národního památkového ústavu"
+  }
  ],
  "events": [
-  {"year": 1278, "text": "Přemysl Otakar II. odňal hrad Ronovcům a prodal jej Rudolfovi z Biberštejna"},
-  {"year": 1558, "text": "panství po vymření Biberštejnů koupil od České komory Bedřich z Redernu"},
-  {"year": 1582, "text": "zahájena renesanční přestavba hradu na zámek (Melchior a Kateřina z Redernu, stavitel Marcus Antonio de Lanzio)"},
-  {"year": 1622, "text": "Albrecht z Valdštejna koupil zkonfiskované panství a získal je v léno"},
-  {"year": 1634, "text": "zavraždění Albrechta z Valdštejna v Chebu, panství připadlo Matyáši Gallasovi"},
-  {"year": 1645, "text": "obléhání a obsazení hradu švédským vojskem za třicetileté války"},
-  {"year": 1801, "text": "hrad zpřístupněn veřejnosti jako první hradní muzeum ve střední Evropě"},
-  {"year": 1945, "text": "konfiskace zámku Clam-Gallasům na základě dekretů prezidenta republiky"}
+  {
+   "year": 1278,
+   "text": "Přemysl Otakar II. odňal hrad Ronovcům a prodal jej Rudolfovi z Biberštejna"
+  },
+  {
+   "year": 1558,
+   "text": "panství po vymření Biberštejnů koupil od České komory Bedřich z Redernu"
+  },
+  {
+   "year": 1582,
+   "text": "zahájena renesanční přestavba hradu na zámek (Melchior a Kateřina z Redernu, stavitel Marcus Antonio de Lanzio)"
+  },
+  {
+   "year": 1622,
+   "text": "Albrecht z Valdštejna koupil zkonfiskované panství a získal je v léno"
+  },
+  {
+   "year": 1634,
+   "text": "zavraždění Albrechta z Valdštejna v Chebu, panství připadlo Matyáši Gallasovi"
+  },
+  {
+   "year": 1645,
+   "text": "obléhání a obsazení hradu švédským vojskem za třicetileté války"
+  },
+  {
+   "year": 1801,
+   "text": "hrad zpřístupněn veřejnosti jako první hradní muzeum ve střední Evropě"
+  },
+  {
+   "year": 1945,
+   "text": "konfiskace zámku Clam-Gallasům na základě dekretů prezidenta republiky"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Frýdlant_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Frýdlant_(zámek)",
+  "https://zamek-frydlant.cz/cs/o-zamku/historie",
+  "https://www.pamatkovykatalog.cz/zamek-frydlant-16108750"
+ ]
 }

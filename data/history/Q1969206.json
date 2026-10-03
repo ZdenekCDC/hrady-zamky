@@ -1,29 +1,204 @@
 {
  "id": "Q1969206",
  "name": "Červená Lhota",
- "founded": {"year": 1350, "approx": true, "text": "polovina 14. století, gotická tvrz v údolí Dírenského potoka; investor nejistý (snad páni z Hradce), první písemná zmínka až z roku 1465"},
- "summary": "Gotickou tvrz z poloviny 14. století koupili roku 1530 rytíři Kábové z Rybňan, kteří ji přestavěli na renesanční zámeček zvaný od počátku 17. století Červená Lhota. Po konci 16. století ji vlastnili Růtové z Dírné, kterým byl majetek po bitvě na Bílé hoře 1620 konfiskován; za třicetileté války jej krátce držel Antonio Bruccio a od roku 1641 Vilém Slavata z Chlumu a Košumberka, jehož rod jej barokně přestavěl na letohrádek. Po vymření Slavatů 1693 přešlo panství sňatkem na Windischgrätze, později na Stillfriedy a od roku 1835 na knížecí rod Schönburg-Hartenstein, kterému bylo jako německým občanům roku 1945 konfiskováno. Od té doby je zámek majetkem státu ve správě Národního památkového ústavu.",
+ "founded": {
+  "year": 1350,
+  "approx": true,
+  "text": "polovina 14. století, gotická tvrz v údolí Dírenského potoka; stavitel nejistý (cs.wiki snad páni z Hradce, oficiální web a MPO Zásmučtí ze Zásmuk), první písemná zmínka z roku 1465"
+ },
+ "summary": "Gotická tvrz z poloviny 14. století je poprvé doložena roku 1465 (Zásmučtí ze Zásmuk), kolem roku 1530 ji koupili Kábové z Rybňan a přestavěli na renesanční zámek; od roku 1597 patřila Růtům z Dírné, po Bílé hoře ji držel Antonio Bruccio a od roku 1641 Slavatové, kteří z ní udělali letohrádek. Od roku 1693 zámek vlastnili Windischgrätzové, od roku 1755 Gudenusové, od 1776 Stillfriedové, od 1820 Jakub Veith a od roku 1835 knížata Schönburg-Hartenstein. Rodu byl roku 1945 zkonfiskován a dnes patří státu, spravuje jej NPÚ.",
  "owners": [
-  {"owner": "pani-z-hradce", "owner_wiki": "Páni z Hradce", "from": 1350, "to": 1530, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "investor gotické tvrze je nejistý, v infoboxu uveden s otazníkem; první písemná zmínka pochází až z roku 1465"},
-  {"owner": "kabove-z-rybnan", "owner_wiki": "Kábové z Rybňan", "person": "Jan Kába z Rybňan", "from": 1530, "to": 1590, "from_approx": false, "to_approx": true, "how": "neznamo", "note": "Jan Kába nechal starou gotickou tvrz přestavět na renesanční zámeček zvaný Nová Lhota; jméno Červená Lhota se objevuje až od počátku 17. stol."},
-  {"owner": "z-dirne", "owner_wiki": null, "person": "Růtové z Dírné", "from": 1590, "to": 1620, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "jako utrakvistům jim byl majetek po bitvě na Bílé hoře 1620 konfiskován, ačkoli se stavovského povstání nezúčastnili"},
-  {"owner": "soukromnik", "person": "Antonio Bruccio", "from": 1620, "to": 1641, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "italský rytmistr, vlastnil panství za třicetileté války; nechal postavit kamenný most k zámku a založil lázně v Deštné"},
-  {"owner": "slavatove-z-chlumu-a-kosumberka", "owner_wiki": "Slavatové z Chlumu a Košumberka", "person": "Vilém Slavata z Chlumu a Košumberka", "from": 1641, "to": 1693, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupil zámek po Bruccziově smrti; barokní přestavby 1641 a 1658-1678 proměnily sídlo v letohrádek; rod vymřel po meči 1693"},
-  {"owner": "slavatove-z-chlumu-a-kosumberka", "owner_wiki": "Slavatové z Chlumu a Košumberka", "person": "Marie Terezie, neteř posledního Slavaty", "from": 1693, "to": 1700, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "zdědila po vymření rodu po meči, provdala se za Arnošta Bedřicha z Windischgrätze a panství mu předala"},
-  {"owner": "windischgratzove", "owner_wiki": "Windischgrätzové", "person": "Arnošt Bedřich z Windischgrätze", "from": 1700, "to": 1750, "from_approx": true, "to_approx": true, "how": "snatek", "note": "získal sňatkem s Marií Terezií Slavatovou; od poloviny 18. stol. se majitelé opět několikrát měnili"},
-  {"owner": "stillfriedove-z-ratenic", "owner_wiki": "Stillfriedové z Ratenic", "person": "Ignác Stillfried", "from": 1780, "to": 1835, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "v letech 1796-1799 na zámku pobýval skladatel Karl Ditters von Dittersdorf"},
-  {"owner": "schonburg-hartensteinove", "owner_wiki": "Schönburg-Hartensteinové", "person": "čtyři generace knížecí rodiny Schönburg-Hartenstein", "from": 1835, "to": 1945, "from_approx": false, "to_approx": false, "how": "koupe", "note": "polovina 19. stol. novogotická úprava věže a štítů, 1903-1913 neorenesanční přestavba architekta Humberta Walchera z Moltheimu do dnešní podoby; majetek jim jako německým občanům 1945 konfiskován"},
-  {"owner": "stat", "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "zámek spravuje Národní památkový ústav"}
+  {
+   "owner": "zasmucti-ze-zasmuk",
+   "owner_wiki": "Zásmučtí ze Zásmuk",
+   "person": "Lhotečtí ze Zásmuk (1465 Ctibor ze Zásmuk, synové Petr a Václav)",
+   "from": 1350,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "oficiální web zámku a MPO: tvrz předpokládána od poloviny 14. stol., první doložený majitel Ctibor ze Zásmuk (zápis v zemských deskách 1465); cs.wiki uvádí jako možného stavitele Pány z Hradce (s otazníkem) - rozpor; konec držení Zásmuckých neuveden"
+  },
+  {
+   "owner": "boubinsti-z-ujezda",
+   "person": "Diviš Boubínský z Újezda",
+   "from": null,
+   "to": 1530,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "snad koupí získal tvrz od Zásmuckých; někdy kolem roku 1530 ji prodal Kábům z Rybňan (rok přibližný)"
+  },
+  {
+   "owner": "kabove-z-rybnan",
+   "owner_wiki": "Kábové z Rybňan",
+   "person": "Jan Kába z Rybňan, po něm synové Bohuchval, Zikmund a Jiří",
+   "from": 1530,
+   "to": 1597,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Jan Kába nechal tvrz přestavět na renesanční zámeček Nová Lhota; po jeho smrti dědili synové, kteří spolu žili ve sporu; 1597 Jan, syn Bohuchvala, odkoupil podíl strýce Jiřího a sjednocené panství prodal Vilému Růtovi z Dírné"
+  },
+  {
+   "owner": "z-dirne",
+   "person": "Vilém Rut z Dírné a jeho rod (poslední Bohuslav)",
+   "from": 1597,
+   "to": 1620,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Růtové spojili Lhotu s Dírnou a Deštnou; jako utrakvisté museli po Bílé hoře 1620 opustit zemi a majetek jim byl konfiskován; cs.wiki uvádí jen konec 16. stol."
+  },
+  {
+   "owner": "soukromnik",
+   "person": "Antonio Bruccio",
+   "from": 1621,
+   "to": 1639,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "italský rytmistr císařského vojska; oficiální web: Lhotu obsadil 1621, zemřel 1639 bezdětný (cs.wiki neuvádí roky); nechal postavit lázně v Deštné"
+  },
+  {
+   "owner": "koruna",
+   "person": null,
+   "from": 1639,
+   "to": 1641,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "po Brucciově smrti panství připadlo královské komoře, od níž je 1641 koupil Vilém Slavata"
+  },
+  {
+   "owner": "slavatove-z-chlumu-a-kosumberka",
+   "owner_wiki": "Slavatové z Chlumu a Košumberka",
+   "person": "Vilém Slavata z Chlumu a Košumberka a jeho potomci",
+   "from": 1641,
+   "to": 1693,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "baroko 1641 a 1658-1678 proměnilo sídlo v letohrádek hradeckého panství; rod vymřel po meči"
+  },
+  {
+   "owner": "windischgratzove",
+   "owner_wiki": "Windischgrätzové",
+   "person": "Arnošt Bedřich z Windischgrätze, jeho syn Leopold a Windischgrätzové",
+   "from": 1693,
+   "to": 1755,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "snatek",
+   "note": "sňatkem dědičky Slavatů; oficiální web uvádí nevěstu Marii Markétu (dcera Ferdinanda Viléma), cs.wiki Marii Terezii; zadlužené panství navrženo k prodeji"
+  },
+  {
+   "owner": "z-gudenusu",
+   "person": "František de Paula svobodný pán z Gudenusu",
+   "from": 1755,
+   "to": 1776,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "oficiální web zámku; 1774 požár hospodářských budov; cs.wiki Gudenusy neuvádí"
+  },
+  {
+   "owner": "stillfriedove-z-ratenic",
+   "owner_wiki": "Stillfriedové z Ratenic",
+   "person": "Ignác Stillfried a syn Mořic",
+   "from": 1776,
+   "to": 1820,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Ignác baron Stillfried; 1796-1799 pobýval na zámku skladatel Karl Ditters von Dittersdorf (oficiální web: čtyřletý pobyt); Mořic panství 1820 prodal"
+  },
+  {
+   "owner": "soukromnik",
+   "person": "Jakub Veith, poté dcera Terezie",
+   "from": 1820,
+   "to": 1835,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "podnikatel a mecenáš; dcera Terezie zámek 1835 prodala"
+  },
+  {
+   "owner": "schonburg-hartensteinove",
+   "owner_wiki": "Schönburg-Hartensteinové",
+   "person": "Heinrich Eduard Schönburg-Hartenstein, Josef Alexandr, Johann (+1937) a další",
+   "from": 1835,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "čtyři generace knížecí rodiny; 1903-1913 neorenesanční přestavba Humberta Walchera z Moltheimu; konfiskace 1945 jako německým občanům"
+  },
+  {
+   "owner": "stat",
+   "person": null,
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "stát (od 1947 zámek zpřístupněn), dnes ve správě Národního památkového ústavu; Soupis památek uvádí vlastnictví státu od 1947"
+  }
  ],
  "events": [
-  {"year": 1465, "text": "první písemná zmínka o tvrzi"},
-  {"year": 1530, "text": "Kábové z Rybňan přestavují gotickou tvrz na renesanční zámeček"},
-  {"year": 1620, "text": "konfiskace majetku Růtů z Dírné po bitvě na Bílé hoře"},
-  {"year": 1641, "text": "Vilém Slavata z Chlumu a Košumberka kupuje zámek a zahajuje barokní přestavbu"},
-  {"year": 1693, "text": "vymření Slavatů po meči, panství přechází na Windischgrätze"},
-  {"year": 1835, "text": "zámek kupuje knížecí rod Schönburg-Hartenstein"},
-  {"year": 1910, "text": "dokončena neorenesanční přestavba do dnešní podoby"},
-  {"year": 1945, "text": "konfiskace majetku Schönburg-Hartensteinů jako německých občanů, zámek přechází pod stát"}
+  {
+   "year": 1465,
+   "text": "první písemná zmínka o tvrzi"
+  },
+  {
+   "year": 1530,
+   "text": "kolem tohoto roku Kábové z Rybňan kupují tvrz a přestavují ji na renesanční zámek"
+  },
+  {
+   "year": 1597,
+   "text": "Vilém Rut z Dírné kupuje panství (červený nátěr fasády)"
+  },
+  {
+   "year": 1620,
+   "text": "konfiskace majetku Růtů z Dírné po bitvě na Bílé hoře"
+  },
+  {
+   "year": 1641,
+   "text": "Vilém Slavata z Chlumu a Košumberka kupuje zámek a zahajuje barokní přestavbu"
+  },
+  {
+   "year": 1693,
+   "text": "vymření Slavatů po meči, panství přechází na Windischgrätze"
+  },
+  {
+   "year": 1755,
+   "text": "panství kupují Gudenusové"
+  },
+  {
+   "year": 1776,
+   "text": "panství získává baron Ignác Stillfried"
+  },
+  {
+   "year": 1820,
+   "text": "panství kupuje Jakub Veith"
+  },
+  {
+   "year": 1835,
+   "text": "zámek kupuje knížecí rod Schönburg-Hartenstein"
+  },
+  {
+   "year": 1910,
+   "text": "dokončena neorenesanční přestavba do dnešní podoby"
+  },
+  {
+   "year": 1945,
+   "text": "konfiskace majetku Schönburg-Hartensteinů jako německých občanů, zámek přechází pod stát"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Červená_Lhota_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Červená_Lhota_(zámek)",
+  "https://www.zamek-cervenalhota.cz/cs/o-zamku/historie",
+  "https://mpo.gov.cz/cz/e-komunikace-a-posta/postovni-sluzby/emise-znamek/znamky-vydavane-v-roce-2014/zamek-cervena-lhota--149085/",
+  "https://www.soupispamatek.cz/arl-kcz/cs/detail-kcz_un_auth-0000681-Zamek-cervena-Lhota/"
+ ]
 }

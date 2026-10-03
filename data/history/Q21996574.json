@@ -28,7 +28,7 @@
    "from_approx": true,
    "to_approx": true,
    "how": "jine",
-   "note": "po bitvě na Moravském poli se hradu ujal a nechal si jej od Václava II. zapsat do držby; bezpečně doložen 1289"
+   "note": "po bitvě na Moravském poli se hradu ujal a nechal si jej od Václava II. zapsat do držby; bezpečně doložen 1289; NPÚ: hrad doložen 1289 v majetku pánů z Obřan"
   },
   {
    "owner": "pani-z-lipe",
@@ -50,7 +50,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "přestavba a rozšíření hradu; rod vymřel 1434"
+   "note": "přestavba a rozšíření hradu; rod vymřel 1434; web města uvádí, že hrad postoupili zpět Lipým 1437"
   },
   {
    "owner": "pani-z-lipe",
@@ -68,9 +68,9 @@
    "owner_wiki": null,
    "person": "Ferdinand II. Štýrský",
    "from": 1622,
-   "to": 1625,
+   "to": 1623,
    "from_approx": false,
-   "to_approx": false,
+   "to_approx": true,
    "how": "konfiskace",
    "note": "konfiskace za účast Pertolda Bohobuda z Lipé na stavovském povstání"
   },
@@ -78,12 +78,12 @@
    "owner": "lichtenstejnove",
    "owner_wiki": "Lichtenštejnové",
    "person": "Gundakar z Lichtenštejna",
-   "from": 1625,
+   "from": 1623,
    "to": 1908,
-   "from_approx": false,
+   "from_approx": true,
    "to_approx": false,
    "how": "koupe",
-   "note": "odkoupeno od koruny, založen malý majorát; krumlovská větev vymřela 1908"
+   "note": "odkoupeno od koruny (NPÚ: 1623, cs.wiki 1625), valtická větev Lichtenštejnů, Gundakar založil malý majorát; krumlovská větev vymřela 1908, majetek prodán / zděděn Kinskými"
   },
   {
    "owner": "kinsti",
@@ -94,29 +94,29 @@
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "po něm syn Rudolf Antonín Kinský (1898-1965)"
+   "note": "po 1908 dědí Ferdinand Rudolf Kinský (web města: prodáno spřízněnému rodu Kinských), po něm syn Rudolf Antonín Kinský (1898-1965); konfiskace 1945"
   },
   {
    "owner": "stat",
    "owner_wiki": null,
    "person": null,
    "from": 1945,
-   "to": 1990,
+   "to": 1992,
    "from_approx": false,
    "to_approx": true,
    "how": "konfiskace",
-   "note": "konfiskace podle Benešových dekretů"
+   "note": "konfiskace podle Benešových dekretů; po válce úřady, kasárna, Konekta, od 1963 odborné učiliště železničního stavitelství (do 1991); NPÚ: od 1989 v soukromých rukou"
   },
   {
    "owner": "soukromnik",
    "owner_wiki": null,
    "person": null,
-   "from": 1990,
+   "from": 1992,
    "to": 2004,
    "from_approx": true,
    "to_approx": false,
    "how": "koupe",
-   "note": "firma Zámek spol. s r. o. za symbolickou 1 Kčs"
+   "note": "firma Zámek spol. s r. o. za symbolickou 1 Kč(s) (web města: 1992; Soupis památek: 1997, od 2001 Zámek Moravský Krumlov a.s.)"
   },
   {
    "owner": "soukromnik",
@@ -127,7 +127,7 @@
    "from_approx": false,
    "to_approx": true,
    "how": "koupe",
-   "note": "společnost Incheba Praha, koupě v dražbě"
+   "note": "2004 dražba, koupila Incheba (web města: Incheba Bratislava); majitelem byla dceřiná firma Reality MJ, jíž hrozila insolvence a věřitelé, Městský soud v Praze nařídil dražbu"
   },
   {
    "owner": "mesto",
@@ -135,10 +135,10 @@
    "person": null,
    "from": 2016,
    "to": null,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "město Moravský Krumlov koupilo zámek po dražbě vyhlášené 2016"
+   "note": "město koupilo zámek v elektronické dražbě 29. 6. 2016 za 14 milionů Kč (ČT24, iROZHLAS)"
   }
  ],
  "events": [
@@ -176,6 +176,10 @@
   }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Moravský_Krumlov_(zámek)"
+  "https://cs.wikipedia.org/wiki/Moravský_Krumlov_(zámek)",
+  "https://www.npu.cz/cs/ohrozene-pamatky/5690-zamek-moravsky-krumlov",
+  "http://www.moravskykrumlov.cz/historie-moravsky-krumlov.html",
+  "https://www.irozhlas.cz/regiony/zamek-moravsky-krumlov-koupi-mesto-ziskalo-ho-v-drazbe-za-14-milionu-korun_201606291510_kspicakova",
+  "https://www.soupispamatek.cz/arl-kcz/sk/detail-kcz_un_auth-0000971-Zamok-Moravsky-Krumlov/"
  ]
 }

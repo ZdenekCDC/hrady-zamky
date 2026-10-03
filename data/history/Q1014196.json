@@ -1,29 +1,215 @@
 {
  "id": "Q1014196",
  "name": "Svojanov",
- "founded": {"year": 1265, "approx": true, "text": "hrad založil král Přemysl Otakar II. pravděpodobně souběžně se založením Poličky roku 1265"},
- "summary": "Svojanov (německy Fürstenberg) je královský hrad, který spravoval jako strážní pevnost na zemské stezce mezi Čechami a Moravou. Krátce jej vlastnil Záviš z Falkenštejna, poté zůstal v majetku Koruny, později byl zastaven pánům z Boskovic a v 17.-18. století patřil Zárubům z Hustířan a Salm-Neuburgům. Od roku 1910 (s přestávkou 1945-1992) patří městu Poličce.",
+ "founded": {
+  "year": 1265,
+  "approx": true,
+  "text": "hrad založil král Přemysl Otakar II. pravděpodobně souběžně se založením Poličky roku 1265"
+ },
+ "summary": "Svojanov (německy Fürstenberg) je královský hrad založený asi v letech 1250-1265, který střežil zemskou stezku mezi Čechami a Moravou. Krátce jej držel Záviš z Falkenštejna, pak zůstal v majetku Koruny až do husitských válek, kdy jej zastavili pánům z Boskovic; po nich ho měli Trčkové z Lípy, Žehušičtí z Nestajova, Zárubové z Hustířan a Salmové. Po 1797 se majitelé často střídali (grafitová manufaktura, požár 1842); od roku 1910 patří městu Polička, s přestávkou státního vlastnictví do restituce 1992.",
  "owners": [
-  {"owner": "koruna", "owner_wiki": null, "person": "Přemysl Otakar II.", "from": 1265, "to": 1285, "from_approx": false, "to_approx": true, "how": "zalozeni"},
-  {"owner": "soukromnik", "owner_wiki": null, "person": "Záviš z Falkenštejna", "from": 1285, "to": 1289, "from_approx": true, "to_approx": false, "how": "dar", "note": "první písemná zmínka o hradu 1287; po Závišově uvěznění 1289 hrad připadl panovníkovi"},
-  {"owner": "koruna", "owner_wiki": null, "person": null, "from": 1289, "to": 1420, "from_approx": false, "to_approx": true, "how": "konfiskace", "note": "Karel IV. zahrnul Svojanov mezi hrady nezcizitelné z majetku koruny (Majestas Carolina)"},
-  {"owner": "boskovicove", "owner_wiki": "Boskovicové", "person": null, "from": 1420, "to": 1600, "from_approx": true, "to_approx": true, "how": "lenni", "note": "Zikmund Lucemburský zastavil hrad pánům z Boskovic za husitských válek; přesný rok konce zástavy prameny neuvádějí"},
-  {"owner": "zarubove-z-hustiran", "owner_wiki": "Zárubové z Hustířan", "person": null, "from": 1600, "to": 1650, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "přesné roky přechodu vlastnictví nejsou v cs.wiki článku uvedeny"},
-  {"owner": "salmove-wigerichovci", "owner_wiki": "Salmové (Wigerichovci)", "person": null, "from": 1650, "to": 1910, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "hrad poškozen požárem a Švédy za třicetileté války; v 19. stol. v areálu provozována manufaktura na grafitovou keramiku"},
-  {"owner": "mesto", "owner_wiki": null, "person": null, "from": 1910, "to": 1945, "from_approx": false, "to_approx": false, "how": "koupe", "note": "město Polička"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": 1992, "from_approx": false, "to_approx": false, "how": "konfiskace"},
-  {"owner": "mesto", "owner_wiki": null, "person": null, "from": 1992, "to": null, "from_approx": false, "to_approx": false, "how": "restituce", "note": "město Polička"}
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Přemysl Otakar II.",
+   "from": 1265,
+   "to": 1285,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "zalozeni"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Záviš z Falkenštejna",
+   "from": 1285,
+   "to": 1289,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dar",
+   "note": "první písemná zmínka o hradu 1287; po Závišově uvěznění 1289 hrad připadl panovníkovi"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1289,
+   "to": 1419,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "Karel IV. zahrnul Svojanov mezi hrady nezcizitelné z majetku koruny (Majestas Carolina, návrh 1355); v 1. pol. 14. stol. držel hrad např. purkrabí Michálek z Vlašimi (1356-1363)"
+  },
+  {
+   "owner": "boskovicove",
+   "owner_wiki": "Boskovicové",
+   "person": "Oldřich z Boskovic, od 1437 syn Ješek Svojanovský z Boskovic",
+   "from": 1419,
+   "to": 1512,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "zástava od císaře Zikmunda (web hradu: kolem 1420, hrady.cz: 1419); roku 1437 Zikmund zapsal svojanovské panství jako věno manželce Barboře Celské, držení Boskoviců ale pokračovalo; 1512 Ladislav z Boskovic hrad vyměnil s Mikulášem Trčkou z Lípy za panství Zábřeh a Rudu"
+  },
+  {
+   "owner": "trckove-z-lipy",
+   "owner_wiki": "Trčkové z Lípy",
+   "person": "Mikuláš mladší Trčka z Lípy",
+   "from": 1512,
+   "to": 1547,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "vymena",
+   "note": "pozdně gotické úpravy hradu; rok odchodu Trčků je u hrady.cz jen přibližný (asi 1547 nový majitel Žehušický)"
+  },
+  {
+   "owner": "zehusicti-z-nestajova",
+   "owner_wiki": "Žehušičtí z Nestajova",
+   "person": "Václav Žehušický z Nestajova (+1555), poté synové Hertvík a Jan",
+   "from": 1547,
+   "to": 1583,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "hrady.cz: asi 1547 majitelem Václav Žehušický; Hertvík se 1566 oženil s Bohunkou Zárubovou z Hustířan a hrad jí odkázal; 1569 požár a renesanční přestavba; Bohunka zemřela 1583"
+  },
+  {
+   "owner": "zarubove-z-hustiran",
+   "owner_wiki": "Zárubové z Hustířan",
+   "person": "Bohunka Zárubová z Hustířan a její rod",
+   "from": 1583,
+   "to": 1744,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "hrad držel rod Zárubů až do vymření po meči (poslední Josef Antonín Záruba); dceru Eleonoru provdali před 1744 za Karla Otto ze Salmu; konec Zárubů v přesném roce neuveden"
+  },
+  {
+   "owner": "salmove-wigerichovci",
+   "owner_wiki": "Salmové (Wigerichovci)",
+   "person": "Karel Otto ze Salmu a po něm Karel Vincent ze Salmu",
+   "from": 1744,
+   "to": 1797,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "snatek",
+   "note": "hrady.cz uvádí Salmy (cs.wiki: Salm-Neuburgové); po smrti Karla Vincenta prodal poručník jeho tří dcer Svojanov 1797; v 18. stol. se majitelé často střídali a hrad pustl"
+  },
+  {
+   "owner": "soukromnik",
+   "person": "Václav Ignác Ubelli ze Siegburgu, Jiří Haissler (1800), Martin Dlouhý (1804), František Heyssig (1818)",
+   "from": 1797,
+   "to": 1820,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "časté střídání majitelů; Dlouhý zřídil na hradě dílnu na zpracování tuhy (grafitu)"
+  },
+  {
+   "owner": "stillfriedove-z-ratenic",
+   "owner_wiki": "Stillfriedové z Ratenic",
+   "person": "Rüdiger svobodný pán ze Stillfriedu",
+   "from": 1820,
+   "to": 1840,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "poté několik úřednických a měšťanských držitelů; web hradu uvádí Stillfrieda jako majitele od 1820, přesný rok konce neuveden"
+  },
+  {
+   "owner": "soukromnik",
+   "person": "Josef Kristen (Kriesten), od 1879 Antonín František Haasche",
+   "from": 1840,
+   "to": 1910,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "1840 koupě v dražbě; 4. 5. 1842 požár, 1843-1844 přestavba paláce na empírový zámeček; od 1879 Haasche, poslední soukromý majitel"
+  },
+  {
+   "owner": "mesto",
+   "person": "město Polička",
+   "from": 1910,
+   "to": 1952,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupě za 400 tisíc rakouských korun, spolu s 507 ha pozemků"
+  },
+  {
+   "owner": "stat",
+   "person": null,
+   "from": 1952,
+   "to": 1992,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "znárodnění 1952 a předání státním lesům, od 1955 památková správa KNV Pardubice; cs.wiki uvádí 1945, jiný zdroj 1948, web hradu 1952"
+  },
+  {
+   "owner": "mesto",
+   "person": "město Polička",
+   "from": 1992,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "restituce",
+   "note": "restituce městu Polička"
+  }
  ],
  "events": [
-  {"year": 1265, "text": "založení hradu Přemyslem Otakarem II. spolu s Poličkou"},
-  {"year": 1287, "text": "první písemná zmínka, majitel Záviš z Falkenštejna"},
-  {"year": 1327, "text": "Karel IV. zahrnuje Svojanov mezi neodcizitelné hrady koruny (Majestas Carolina)"},
-  {"year": 1842, "text": "požár ukončuje provoz grafitové manufaktury v areálu hradu"},
-  {"year": 1910, "text": "hrad kupuje město Polička"},
-  {"year": 1945, "text": "znárodnění hradu státem"},
-  {"year": 1992, "text": "restituce hradu městu Polička"}
+  {
+   "year": 1265,
+   "text": "založení hradu Přemyslem Otakarem II. spolu s Poličkou"
+  },
+  {
+   "year": 1287,
+   "text": "první písemná zmínka, majitel Záviš z Falkenštejna"
+  },
+  {
+   "year": 1355,
+   "text": "Karel IV. zahrnuje Svojanov mezi neodcizitelné hrady koruny (Majestas Carolina)"
+  },
+  {
+   "year": 1419,
+   "text": "hrad zastaven Oldřichu z Boskovic (web hradu: kolem 1420)"
+  },
+  {
+   "year": 1512,
+   "text": "Ladislav z Boskovic vyměnil Svojanov s Mikulášem Trčkou z Lípy"
+  },
+  {
+   "year": 1569,
+   "text": "požár a renesanční přestavba (nový palác) za Žehušických z Nestajova"
+  },
+  {
+   "year": 1797,
+   "text": "Svojanov kupuje Václav Ignác Ubelli ze Siegburgu"
+  },
+  {
+   "year": 1842,
+   "text": "požár ukončuje provoz grafitové manufaktury v areálu hradu"
+  },
+  {
+   "year": 1843,
+   "text": "přestavba paláce na empírový zámeček"
+  },
+  {
+   "year": 1910,
+   "text": "hrad kupuje město Polička"
+  },
+  {
+   "year": 1945,
+   "text": "znárodnění hradu státem"
+  },
+  {
+   "year": 1992,
+   "text": "restituce hradu městu Polička"
+  }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Svojanov_(hrad)"
+  "https://cs.wikipedia.org/wiki/Svojanov_(hrad)",
+  "https://svojanov.cz/historie/",
+  "https://www.hrady.cz/hrad-svojanov-svitavy/"
  ]
 }

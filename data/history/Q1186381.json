@@ -57,7 +57,7 @@
    "owner_wiki": null,
    "person": "Karel IV.",
    "from": 1348,
-   "to": 1402,
+   "to": 1393,
    "from_approx": true,
    "to_approx": true,
    "how": "jine",
@@ -67,12 +67,12 @@
    "owner": "lucemburkove",
    "owner_wiki": "Lucemburkové",
    "person": "Prokop Lucemburský",
-   "from": 1400,
+   "from": 1393,
    "to": 1402,
    "from_approx": true,
    "to_approx": false,
    "how": "lenni",
-   "note": "zástava od Václava IV., rok zastavení neuveden"
+   "note": "zástava od Václava IV. markraběti Prokopovi do jeho života (Ottův slovník naučný: 1393; cs.wiki rok neuvádí); 1402 zapsal hrad Havlovi ze Zvířetic"
   },
   {
    "owner": "pani-ze-zviretic",
@@ -215,7 +215,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "odkaz manželky Barbory; po stavovském povstání majetek ztratil"
+   "note": "odkaz manželky Barbory (Ottův slovník: zápis 1607); po stavovském povstání majetek ztratil"
   },
   {
    "owner": "koruna",
@@ -237,7 +237,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "koupeno 6. 7. 1622"
+   "note": "koupeno 6. 7. 1622 (Ottův slovník: od Adama koupil strýc Albrecht a připojil ke knížectví frýdlantskému)"
   },
   {
    "owner": "valdstejnove",
@@ -270,7 +270,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "dar",
-   "note": "emauzský klášter v Praze (benediktini); 1679 prodal panství Kryštofu Ferdinandovi z Heissensteinu, vrch s hradem si ponechal"
+   "note": "emauzský klášter v Praze (benediktini montserratští); 1679 prodal panství Doksy-Bezděz Heissensteinům, vrch s hradem si ponechal (Ottův slovník, web CUNI)"
   },
   {
    "owner": "koruna",
@@ -342,6 +342,11 @@
    "text": "Jan z Michalovic obsadil hrad posádkou, za husitských válek útočiště katolíků a místo uložení dvorských desek"
   },
   {
+   "year": 1393,
+   "text": "Václav IV. zastavil hrad markraběti Prokopovi do jeho života",
+   "approx": true
+  },
+  {
    "year": 1621,
    "text": "5. ledna dobyt, vydrancován a zapálen vojskem Maxmiliána Bavorského"
   },
@@ -364,6 +369,9 @@
  ],
  "sources": [
   "https://cs.wikipedia.org/wiki/Bezděz_(hrad)",
-  "https://cs.wikipedia.org/wiki/Jindřich_II._Kruhlata_z_Michalovic"
+  "https://cs.wikipedia.org/wiki/Jindřich_II._Kruhlata_z_Michalovic",
+  "https://www.hrad-bezdez.cz/cs/o-hradu/historie",
+  "https://cs.wikisource.org/wiki/Ottův_slovník_naučný/Bezděz",
+  "https://dspace.cuni.cz/bitstream/handle/20.500.11956/80751/BPTX_2015_2_11260_0_419873_0_176731.pdf"
  ]
 }
