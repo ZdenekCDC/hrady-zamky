@@ -1,0 +1,22 @@
+{
+ "id": "Q9374731",
+ "name": "Vila Stiassni",
+ "founded": {"year": 1927, "approx": false, "text": "1927-1929 stavba puristické vily podle Ernsta Wiesnera pro textilního průmyslníka Alfreda Stiassniho"},
+ "summary": "Vilu v brněnských Pisárkách postavil v letech 1927-1929 architekt Ernst Wiesner pro textilního továrníka Alfreda Stiassniho a jeho ženu Hermine. Rodina před okupací roku 1938 emigrovala, vilu zabavilo roku 1939 gestapo, po válce ji převzala národní správa a od roku 1952 sloužila jako reprezentační tzv. vládní vila krajského národního výboru. Od roku 2009 ji spravuje Národní památkový ústav, po rekonstrukci byla roku 2014 zpřístupněna veřejnosti.",
+ "owners": [
+  {"owner": "soukromnik", "owner_wiki": null, "person": "Alfred a Hermine Stiassni", "from": 1929, "to": 1939, "from_approx": false, "to_approx": false, "how": "zalozeni", "note": "stavebníci vily; rodina emigrovala v roce 1938 (Londýn, poté Kalifornie); Brněnská encyklopedie uvádí majitele 1929-1940"},
+  {"owner": "neznamo", "owner_wiki": null, "person": "říšská státní policie (gestapo); formálně správce Moravská eskomptní banka", "from": 1939, "to": 1946, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "vila zabavena 30. 11. 1939, důstojnické kasino; Moravská eskomptní banka byla oficiálním správcem 1940-1946"},
+  {"owner": "stat", "owner_wiki": null, "person": "národní správa, od 1952 Jihomoravský krajský národní výbor (tzv. vládní vila)", "from": 1946, "to": 2009, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "v 90. letech vilu pronajímala BVV Fair Travel Brno; cs.wiki uvádí, že tehdy 'přešla do soukromých rukou', Brněnská encyklopedie ale jmenuje jako majitele Úřad pro zastupování státu ve věcech majetkových - rozpor, zde vedeno jako stát"},
+  {"owner": "stat", "owner_wiki": null, "person": "Národní památkový ústav (územní odborné pracoviště Brno)", "from": 2009, "to": null, "from_approx": false, "to_approx": false, "how": "jine", "note": "cs.wiki uvádí jako současného majitele Českou republiku, od 2009 ve správě NPÚ"}
+ ],
+ "events": [
+  {"year": 1929, "text": "dokončení vily podle návrhu Ernsta Wiesnera (návrhy z roku 1927)"},
+  {"year": 1939, "text": "vila zabavena říšskou státní policií, zřízeno důstojnické kasino"},
+  {"year": 1946, "text": "uvalena národní správa"},
+  {"year": 1952, "text": "vila se zahradou připadla krajskému národnímu výboru k reprezentačním účelům (vládní vila, mj. Fidel Castro 1972)"},
+  {"year": 1982, "text": "zapsána na seznam kulturních památek"},
+  {"year": 2009, "text": "převzal ji do správy Národní památkový ústav, zahájena obnova (do 2014)"},
+  {"year": 2014, "text": "po rekonstrukci zpřístupněna veřejnosti, otevřeno Metodické centrum moderní architektury"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Vila_Stiassni", "https://encyklopedie.brna.cz/home-mmb/?acc=profil-domu&load=88", "https://www.vila-stiassni.cz/cs/o-vile/historie"]
+}

@@ -1,0 +1,81 @@
+{
+ "id": "Q675724",
+ "name": "Vyšebrodský klášter",
+ "founded": {
+  "year": 1259,
+  "approx": false,
+  "text": "1259 založil Vok I. z Rožmberka jako cisterciácký klášter, osídlen mnichy z Wilheringu"
+ },
+ "summary": "Cisterciácký klášter ve Vyšším Brodě založil roku 1259 Vok I. z Rožmberka jako rodovou nekropoli Rožmberků. Přes husitskou zkázu a zadlužení unikl Josefovu rušení a v 19. století vzkvétal. Za nacistů byl roku 1941 zrušen, roku 1950 jej zabral komunistický stát (Akce K) a řád jej získal zpět od roku 1990 (část 1991, zbytek až restitucemi 2014-2016); dnes je opět sídlem cisterciáckého opatství.",
+ "owners": [
+  {
+   "owner": "cirkev",
+   "person": "cisterciáci (opatství Vyšší Brod)",
+   "from": 1259,
+   "to": 1950,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "zakladatel Vok I. z Rožmberka, klášter byl rodovou nekropolí Rožmberků; 1941-1945 zrušen nacisty (budovy využívalo gestapo jako depozitář), mniši se 1945 vrátili; 1950 zrušen komunisty. Klášter spadal v 17.-18. stol. pod vliv Eggenberků a Schwarzenberků (klasterni-stezky.cz), vynětí z krumlovského panství až 1822"
+  },
+  {
+   "owner": "stat",
+   "person": "Československo (zábor Akcí K)",
+   "from": 1950,
+   "to": 1990,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "klášter zabrán StB a SNB, mniši internováni; část využita jako muzeum, areál pustl; po 1948 konfiskace majetku podle Benešových dekretů"
+  },
+  {
+   "owner": "cirkev",
+   "person": "cisterciáci (opatství Vyšší Brod)",
+   "from": 1990,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "restituce",
+   "note": "1990 návrat prvních mnichů, část areálu vrácena 1991; zbytek areálu (např. pivovar 2015) vrácen v církevních restitucích 2014-2016; cs.wiki rok restituce přímo neuvádí"
+  }
+ ],
+ "events": [
+  {
+   "year": 1259,
+   "text": "založení kláštera Vokem I. z Rožmberka, vysvěcen kostel 1. června"
+  },
+  {
+   "year": 1262,
+   "text": "pohřben Vok I., začátek rožmberské nekropole (do 1611)"
+  },
+  {
+   "year": 1422,
+   "text": "husité klášter zapálili (podle klasterni-stezky.cz; cs.wiki uvádí úpadek v 15. stol.)"
+  },
+  {
+   "year": 1822,
+   "text": "klášter vyňat z krumlovského panství"
+  },
+  {
+   "year": 1941,
+   "text": "zrušení kláštera nacisty, mniši vyhnáni"
+  },
+  {
+   "year": 1950,
+   "text": "komunisté klášter zrušili a mnichy internovali (Akce K)"
+  },
+  {
+   "year": 1990,
+   "text": "návrat prvních mnichů a obnova řeholního života"
+  },
+  {
+   "year": 2012,
+   "text": "znovuotevřen generálně opravený klášterní kostel"
+  }
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Vyšebrodský_klášter",
+  "https://www.klasterni-stezky.cz/klaster-cisterciaku-vyssi-brod/52-historie-vyssi-brod",
+  "https://budejovice.rozhlas.cz/valka-a-komunisticky-rezim-ponicily-klaster-ve-vyssim-brode-vse-jeste-zhorsily-7037936"
+ ]
+}

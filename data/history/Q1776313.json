@@ -1,0 +1,83 @@
+{
+ "id": "Q1776313",
+ "name": "Zlatá Koruna",
+ "founded": {
+  "year": 1263,
+  "approx": false,
+  "text": "1263 založil král Přemysl Otakar II. cisterciácký klášter Svatá Koruna, osídlen mnichy z Heiligenkreuzu"
+ },
+ "summary": "Cisterciácký klášter založil roku 1263 Přemysl Otakar II. Po vypálení husity roku 1420 mu rožmberský panský rod zabral statky a nikdy je nevrátil; klášter existoval až do zrušení Josefem II. roku 1785. Budovy poté koupili Schwarzenbergové (1787) a pronajímali je průmyslovým provozům do roku 1909. Roku 1940 je zabavilo gestapo, roku 1947 byly konfiskovány státu (Lex Schwarzenberg) a dnes je spravuje Národní památkový ústav.",
+ "owners": [
+  {
+   "owner": "cirkev",
+   "person": "cisterciáci (klášter Svatá Koruna)",
+   "from": 1263,
+   "to": 1785,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "zakladatel král Přemysl Otakar II. (zeměpanská fundace); klášterní statky po 1420 zabral Oldřich II. z Rožmberka jako zástavu a připojil ke krumlovskému panství, mniši klášter užívali dál; 1785 zrušen Josefem II."
+  },
+  {
+   "owner": "schwarzenbergove",
+   "owner_wiki": "Schwarzenbergové",
+   "person": "Schwarzenbergové",
+   "from": 1787,
+   "to": 1947,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "budovy odkoupeny krumlovskými Schwarzenbergy (1787) a pronajímány průmyslu (slévárna, strojírna, hedvábí, sukno) do 1909; 1940 zabaveno gestapem; 1947 konfiskace podle Lex Schwarzenberg"
+  },
+  {
+   "owner": "stat",
+   "person": "Československo; správa Státní vědecká knihovna (1979-2000), dnes NPÚ",
+   "from": 1947,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "konfiskováno podle zákona č. 143/1947 Sb. (Lex Schwarzenberg); 1979-2000 pod správou Státní vědecké knihovny v Českých Budějovicích, nyní spravuje Národní památkový ústav; NKP od 1995"
+  }
+ ],
+ "events": [
+  {
+   "year": 1263,
+   "text": "příchod prvních mnichů z Heiligenkreuzu"
+  },
+  {
+   "year": 1276,
+   "text": "po smrti Přemysla Otakara II. klášter zničen Vítkovci, obnoven 1291"
+  },
+  {
+   "year": 1354,
+   "text": "požár kláštera"
+  },
+  {
+   "year": 1420,
+   "text": "klášter dvakrát vypálen husity; statky později obsadili Rožmberkové"
+  },
+  {
+   "year": 1785,
+   "text": "zrušení kláštera Josefem II."
+  },
+  {
+   "year": 1787,
+   "text": "budovy koupili Schwarzenbergové a pronajali je průmyslovým provozům"
+  },
+  {
+   "year": 1909,
+   "text": "ukončen průmyslový provoz, zahájeny rekonstrukce"
+  },
+  {
+   "year": 1947,
+   "text": "konfiskace Schwarzenbergům (Lex Schwarzenberg)"
+  }
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Klášter_Zlatá_Koruna",
+  "https://klaster-zlatakoruna.cz/cs/o-klastere/historie",
+  "https://www.zlatakoruna.cz/klaster",
+  "https://www.npu.cz/cs/novinky/121269-kdyz-mnisi-odesli-vystava-ve-zlate-korune"
+ ]
+}

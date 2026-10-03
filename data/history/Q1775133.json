@@ -1,0 +1,26 @@
+{
+ "id": "Q1775133",
+ "name": "Klášter Chotěšov",
+ "founded": {"year": 1206, "approx": true, "text": "ženský klášter premonstrátek založený mezi lety 1202 a 1210 blahoslaveným Hroznatou na žádost sestry Vojslavy; sestry přišly z Doksan"},
+ "summary": "Klášter premonstrátek v Chotěšově založil mezi lety 1202 a 1210 blahoslavený Hroznata, dnešní barokní konvent vznikl v letech 1734-1756. Roku 1782 jej zrušil Josef II., roku 1822 panství koupili Thurn-Taxisové a od roku 1878 konvent užívaly sestry vizitantky, které jej roku 1937 odkoupily. Po roce 1950 klášter devastovala armáda; od roku 1991 patří obci Chotěšov, která spravuje národní kulturní památku a zpřístupňuje ji.",
+ "owners": [
+  {"owner": "cirkev", "owner_wiki": null, "person": "klášter premonstrátek", "from": 1206, "to": 1782, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "založení mezi 1202 a 1210, rok 1206 je střed intervalu; klášter zrušen 22. 3. 1782 císařem Josefem II."},
+  {"owner": "stat", "owner_wiki": null, "person": "Náboženský fond", "from": 1782, "to": 1822, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "majetek zrušeného kláštera předán do správy Náboženského fondu"},
+  {"owner": "thurn-taxisove", "owner_wiki": "Thurn-Taxisové", "person": "Karel Alexander von Thurn und Taxis", "from": 1822, "to": 1937, "from_approx": false, "to_approx": false, "how": "koupe", "note": "koupě chotěšovského panství 1. 1. 1822 za 1 080 000 zlatých; 1878 konvent pronajat sestrám vizitantkám; při pozemkové reformě 1925 byly zkonfiskovány dvory, rodině zůstaly klášterní budovy; 1937 je sestry odkoupily"},
+  {"owner": "cirkev", "owner_wiki": null, "person": "sestry řádu Navštívení Panny Marie (vizitantky)", "from": 1937, "to": 1950, "from_approx": false, "to_approx": false, "how": "koupe", "note": "odkoupení konventu s přilehlými budovami a zahradami za symbolickou cenu; 1950 sestry vystěhovány"},
+  {"owner": "stat", "owner_wiki": null, "person": "Československá armáda, později další státní organizace", "from": 1950, "to": 1991, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "armáda areál užívala 1950-1973 a velmi jej poškodila; poté sklady a státní podniky; zdroje výslovně neuvádějí formu převzetí vlastnictví"},
+  {"owner": "cirkev", "owner_wiki": null, "person": "sestry řádu Navštívení Panny Marie (vizitantky)", "from": 1991, "to": 2002, "from_approx": false, "to_approx": true, "how": "restituce", "note": "1. 8. 1991 podle zákona č. 338/1991 Sb. vrácena část odkoupená 1937 (konvent); správou pověřena a. s. Christiana Praha, později obec; rok 2002 (konec) podle webu Znovuobjevené poklady Sudet, přesný rok převodu nepotvrzen"},
+  {"owner": "mesto", "owner_wiki": null, "person": "obec Chotěšov", "from": 1991, "to": null, "from_approx": false, "to_approx": false, "how": "jine", "note": "od 1. 1. 1991 podle zákona č. 172/1991 Sb. v majetku obce (zbytek areálu); budovu konventu získala obec od sester podle jednoho zdroje roku 2002; dnes celý areál ve vlastnictví obce, správu zajišťuje její ústav Správa kláštera premonstrátek v Chotěšově (od 2017)"}
+ ],
+ "events": [
+  {"year": 1278, "text": "po smrti Přemysla Otakara II. klášter vypleněn, kostel znovu vysvěcen 1282"},
+  {"year": 1490, "text": "dokončena obnova kláštera pobořeného a vypáleného na počátku husitských válek"},
+  {"year": 1734, "text": "dokončování čtyřkřídlého barokního konventu (1734-1756)"},
+  {"year": 1782, "text": "zrušení kláštera Josefem II."},
+  {"year": 1822, "text": "panství koupil kníže Karel Alexander Thurn-Taxis"},
+  {"year": 1878, "text": "konvent pronajat sestrám vizitantkám, penzionát pro dívky"},
+  {"year": 1950, "text": "sestry vystěhovány a do areálu se nastěhovala armáda (do 1973)"},
+  {"year": 2010, "text": "klášter prohlášen národní kulturní památkou"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Klášter_Chotěšov", "https://www.chotesovskyklaster.cz/sprava-klastera/o-nas/zakladni-informace/", "https://poklady.cpkp-zc.cz/klaster-premonstratek-chotesov/"]
+}

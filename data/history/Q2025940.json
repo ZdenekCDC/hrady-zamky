@@ -1,0 +1,21 @@
+{
+ "id": "Q2025940",
+ "name": "Kostel Nanebevzetí Panny Marie v Mostě",
+ "founded": {"year": 1255, "approx": true, "text": "raně gotická trojlodní bazilika založená mezi lety 1253 a 1257; dnešní pozdně gotický kostel stavěn od 20. 8. 1517 po požáru města 1515"},
+ "summary": "Předchůdcem dnešního kostela byla raně gotická bazilika z poloviny 13. století, která roku 1515 vyhořela. Nový pozdně gotický halový kostel se stavěl od roku 1517 podle Jakuba Heilmanna ze Schweinfurtu, patronát nad ním měl původně klášter křižovníků Božího hrobu a od roku 1501 město Most. Roku 1975 byl kostel kvůli těžbě uhlí přesunut o 841 metrů po kolejích. Dnes je ve vlastnictví státu, spravuje jej Národní památkový ústav a je národní kulturní památkou.",
+ "owners": [
+  {"owner": "cirkev", "owner_wiki": null, "person": "římskokatolická církev (děkanský kostel); patronát křižovníků Božího hrobu na Zderaze, od 1501 města Mostu", "from": 1255, "to": null, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "patronátní právo do 1501 vykonával klášter křižovníků Božího hrobu, roku 1501 je papež potvrdil městu Mostu; zdroje neuvádějí vlastnické změny, rok přechodu na stát neznám (kostel byl po přesunu 1975 využíván státem, k bohoslužbám vrácen až 1993)"},
+  {"owner": "stat", "owner_wiki": null, "person": "Česká republika (správce Národní památkový ústav)", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "cs.wiki i kostel-most.cz uvádějí současným vlastníkem stát se správou NPÚ; rok převodu zdroje neuvádějí"}
+ ],
+ "events": [
+  {"year": 1296, "text": "listina papeže Bonifáce VIII. nepřímo dokládá původní raně gotický kostel"},
+  {"year": 1501, "text": "papež Alexandr VI. potvrdil městu Mostu patronátní právo nad kostelem (dříve křižovníci Božího hrobu)"},
+  {"year": 1515, "text": "požár města a původního kostela"},
+  {"year": 1517, "text": "zahájena stavba nového pozdně gotického kostela podle Jakuba Heilmanna ze Schweinfurtu (hrubá stavba 1549)"},
+  {"year": 1578, "text": "další požár města, kostel částečně vyhořel (opravován do 1602)"},
+  {"year": 1975, "text": "přesun celého kostela o 841 m po kolejích (30. 9. - 27. 10.) kvůli těžbě uhlí"},
+  {"year": 1988, "text": "kostel zpřístupněn veřejnosti, bohoslužby po vysvěcení 1993"},
+  {"year": 2010, "text": "prohlášen národní kulturní památkou"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Kostel_Nanebevzetí_Panny_Marie_(Most)", "https://www.kostel-most.cz/cs/o-kostelu", "http://farnost-most.cz/historie/"]
+}

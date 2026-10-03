@@ -1,0 +1,27 @@
+{
+ "id": "Q267033",
+ "name": "Klášter Plasy",
+ "founded": {"year": 1144, "approx": false, "text": "1144 založení cisterciáckého kláštera knížetem Vladislavem II. a jeho manželkou Gertrudou; řeholníci z Langheimu přišli v březnu 1145"},
+ "summary": "Cisterciácký klášter v Plasích založil roku 1144 kníže Vladislav II. a jeho manželka Gertruda. Po husitských válkách ztratil většinu majetku, barokní rozkvět nastal od 17. století a velkolepý konvent vznikl podle plánů Santiniho (1711-1740). Roku 1785 byl klášter zrušen, jeho majetek spravoval Náboženský fond a roku 1827 jej koupil kancléř Metternich, který z prelatury udělal zámek. Po konfiskaci roku 1945 patří areál státu a spravují jej NPÚ a Národní technické muzeum.",
+ "owners": [
+  {"owner": "cirkev", "owner_wiki": null, "person": "cisterciácký klášter (opati)", "from": 1144, "to": 1785, "from_approx": false, "to_approx": false, "how": "zalozeni", "note": "klášter nadaný knížetem Vladislavem II.; v letech 1419-1425 ztratil husitskými válkami a zástavami králem Zikmundem většinu statků (zastavení Kolovratům, Gutštejnovi, Švamberkovi), samotný klášter ale zůstal a po Bílé hoře 1623 mu byl majetek vrácen"},
+  {"owner": "stat", "owner_wiki": null, "person": "Náboženský fond", "from": 1785, "to": 1827, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "zrušení kláštera Josefem II. 9. 11. 1785; majetek spravoval Náboženský fond"},
+  {"owner": "metternichove", "owner_wiki": "Metternichové", "person": "Klemens Václav Nepomuk Lothar Metternich", "from": 1827, "to": 1859, "from_approx": false, "to_approx": false, "how": "koupe", "note": "kupní smlouva 4. 7. 1827, cena 1 100 050 zlatých; prelaturu upravil na zámek (NPÚ uvádí nákup k roku 1826/1827)"},
+  {"owner": "metternichove", "owner_wiki": "Metternichové", "person": "Richard Metternich", "from": 1859, "to": 1895, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "nejstarší syn kancléře"},
+  {"owner": "metternichove", "owner_wiki": "Metternichové", "person": "Pavel Lothar Metternich", "from": 1895, "to": 1906, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "převzal správu po Richardovi, který měl jen dcery"},
+  {"owner": "metternichove", "owner_wiki": "Metternichové", "person": "Klement Michal Metternich", "from": 1906, "to": 1930, "from_approx": false, "to_approx": false, "how": "dedictvi", "note": "syn Pavla Lothara"},
+  {"owner": "metternichove", "owner_wiki": "Metternichové", "person": "Pavel Alfons Metternich", "from": 1930, "to": 1945, "from_approx": true, "to_approx": false, "how": "dedictvi", "note": "cs.wiki uvádí jako posledního vlastníka; přesný rok převzetí po Klementově smrti (1930) zdroj výslovně neuvádí"},
+  {"owner": "stat", "owner_wiki": null, "person": "Československo / ČR (NPÚ, Národní technické muzeum)", "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "konfiskace podle dekretu č. 12/1945 Sb. (rozhodnutí ONV Kralovice 18. 8. 1945); NPÚ areál majetkově sjednotil 2006; od 1. 1. 2009 část areálu (hospodářská) spravuje Národní technické muzeum, NPÚ konvent, prelaturu a sýpky"}
+ ],
+ "events": [
+  {"year": 1154, "text": "opat Ivo zahájil stavbu románské baziliky Nanebevzetí Panny Marie (vysvěcena 1204)"},
+  {"year": 1421, "text": "klášter vypálen husity a do roku 1421 ztratil pět šestin majetku"},
+  {"year": 1623, "text": "po Bílé hoře císař Ferdinand II. vrátil klášteru majetek"},
+  {"year": 1711, "text": "zahájena přestavba konventu podle Santiniho (do 1740) na dubovém roštu"},
+  {"year": 1785, "text": "zrušení kláštera Josefem II."},
+  {"year": 1827, "text": "panství koupil kancléř Metternich a z prelatury zřídil zámek"},
+  {"year": 1894, "text": "velký požár konventu"},
+  {"year": 1995, "text": "prohlášení za národní kulturní památku"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Klášter_Plasy", "https://monasterium.cz/klaster-plasy/klaster-plasy-historie/", "https://npu.cz/uop/plzen/pdf/publikacni%20cinnost/pzc-2021/Pamatky%20zapadnich%20Cech%20VIII-2021-%20sep.%2015%20-%20Plasy%20-%20pamatkova%20obnova.pdf"]
+}

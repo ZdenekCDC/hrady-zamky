@@ -1,0 +1,92 @@
+{
+ "id": "Q1416121",
+ "name": "Kladrubský klášter",
+ "founded": {
+  "year": 1115,
+  "approx": false,
+  "text": "1115 založen knížetem Vladislavem I. jako benediktinský klášter, osídlen mnichy ze Zwiefaltenu"
+ },
+ "summary": "Benediktinský klášter v Kladrubech založil roku 1115 kníže Vladislav I. Roku 1421 jej vypálili husité, po obnově ve 2. polovině 17. a v 18. století (Santini, Dientzenhofer) byl roku 1785 zrušen Josefem II. Poté sloužil jako kasárny, nemocnice a invalidovna, od roku 1825 patřil knížatům Windischgrätzům (pivovar 1863-1933). Roku 1945 byl konfiskován a dnes je ve vlastnictví státu, správu zajišťuje Národní památkový ústav.",
+ "owners": [
+  {
+   "owner": "cirkev",
+   "person": "benediktini (konvent kláštera Kladruby)",
+   "from": 1115,
+   "to": 1785,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "zakladatel kníže Vladislav I.; klášter v roce 1421 pobořen husity, 1705 získal zpět přeštické panství; 1785 zrušen Josefem II."
+  },
+  {
+   "owner": "stat",
+   "person": "majetek zrušeného kláštera (kasárny, vojenská nemocnice, invalidovna)",
+   "from": 1785,
+   "to": 1825,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "cs.wiki výslovně vlastníka neuvádí; po zrušení byly zřízeny kasárny, nemocnice a invalidovna, 1825 celé panství prodáno v aukci"
+  },
+  {
+   "owner": "windischgratzove",
+   "owner_wiki": "Windischgrätzové",
+   "person": "Alfréd I. Windischgrätz, později Alfréd II. a další",
+   "from": 1825,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "kladrubské panství přikoupeno ke Štěkni a Tachovu, součást fideikomisu; 1863-1933 pivovar; 1945 konfiskováno podle Benešových dekretů"
+  },
+  {
+   "owner": "stat",
+   "person": "Československé státní statky, Národní kulturní komise, od 1967 památková péče; dnes NPÚ",
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "1946 měl být majetek přidělen benediktinům, ti jej nepřevzali; 1948 správa Národní kulturní komise; 1967 převzala památková péče; dnes ve vlastnictví státu, správa NPÚ"
+  }
+ ],
+ "events": [
+  {
+   "year": 1115,
+   "text": "založení kláštera knížetem Vladislavem I."
+  },
+  {
+   "year": 1421,
+   "text": "klášter pobořen husity"
+  },
+  {
+   "year": 1590,
+   "text": "požár kláštera"
+  },
+  {
+   "year": 1712,
+   "text": "zahájena Santiniho přestavba klášterního kostela, vysvěcen 1726"
+  },
+  {
+   "year": 1785,
+   "text": "zrušení kláštera Josefem II."
+  },
+  {
+   "year": 1825,
+   "text": "panství koupil kníže Alfréd I. Windischgrätz"
+  },
+  {
+   "year": 1864,
+   "text": "v klášteře zřízen pivovar (do 1933)"
+  },
+  {
+   "year": 1967,
+   "text": "správu převzala státní památková péče, klášter zpřístupněn veřejnosti"
+  }
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Kladrubský_klášter",
+  "https://www.klaster-kladruby.cz/cs/o-klasteru/historie-v-datech",
+  "https://www.klaster-kladruby.cz/cs/projekty/pivovar-a-zivot-v-radu"
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "id": "Q1776361",
+ "name": "Želivský klášter",
+ "founded": {"year": 1139, "approx": false, "text": "1139 založení Soběslavem I. (podle Pulkavovy kroniky; část historiků uvádí 1144), původně benediktini; od 1149 premonstráti ze Steinfeldu"},
+ "summary": "Klášter u Želiva založil podle tradice roku 1139 kníže Soběslav I. pro benediktiny a roku 1149 jej osídlili premonstráti ze Steinfeldu. Roku 1468 jej Jiří z Poděbrad zastavil Burianu Trčkovi z Lípy, který řeholníky vyhnal a část kláštera přestavěl na hrad. Premonstráti získali Želiv zpět roku 1622 (strahovský opat), po požáru 1712 jej přestavěl Santini-Aichel. Roku 1950 byl klášter zrušen a sloužil jako internační tábor a později psychiatrická léčebna, premonstráti se vrátili roku 1990.",
+ "owners": [
+  {"owner": "cirkev", "owner_wiki": null, "person": "benediktini ze Sázavy, od 1149 premonstráti (klášter Steinfeld)", "from": 1139, "to": 1468, "from_approx": false, "to_approx": false, "how": "zalozeni", "note": "rok založení nejistý (1139 podle Pulkavovy kroniky, 1144 podle listiny Konráda III.); roku 1149 nově osídlen premonstráty"},
+  {"owner": "trckove-z-lipy", "owner_wiki": "Trčkové z Lípy", "person": "Burian Trčka z Lípy", "from": 1468, "to": 1622, "from_approx": false, "to_approx": false, "how": "lenni", "note": "zástava krále Jiřího z Poděbrad 29. 3. 1468; řeholníci vyhnáni a západní část kláštera přestavěna na Trčkův hrad; klášterní obec obnovil strahovský opat Jan Lohel 1590 a postupně vykupoval statky"},
+  {"owner": "cirkev", "owner_wiki": null, "person": "strahovští premonstráti (opat Questenberk), od 1643 samostatný želivský klášter", "from": 1622, "to": 1950, "from_approx": false, "to_approx": false, "how": "koupe", "note": "cs.wiki uvádí koupi od Marie Trčkové z Lípy 1622, jiný zdroj (kamsevydat.cz) 1623; od 1643 opět samostatný klášter; za druhé světové války klášter zabrali nacisté (zdroj zeliv.eu)"},
+  {"owner": "stat", "owner_wiki": null, "person": "internační tábor, poté pobočka psychiatrické léčebny Havlíčkův Brod", "from": 1950, "to": 1990, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "zrušení kláštera v dubnu 1950 (Akce K), do 1956 internační tábor pro 464 kněží a řeholníků, poté psychiatrická léčebna; zdroje uvádějí návrat premonstrátů 1990 nebo 1991"},
+  {"owner": "cirkev", "owner_wiki": null, "person": "premonstrátský řád (kanonie Želiv)", "from": 1990, "to": null, "from_approx": false, "to_approx": false, "how": "restituce", "note": "klášter obnoven 1990; dnes sídlí komunita premonstrátů, hostel a klášterní pivovar"}
+ ],
+ "events": [
+  {"year": 1149, "text": "klášter osídlen premonstráty ze Steinfeldu"},
+  {"year": 1420, "text": "klášter nejspíše zpustošen husity"},
+  {"year": 1468, "text": "Jiří z Poděbrad zastavil klášter Burianu Trčkovi z Lípy, mniši vyhnáni"},
+  {"year": 1622, "text": "klášter koupen zpět od Marie Trčkové z Lípy"},
+  {"year": 1713, "text": "po požáru 1712 přestavba podle Jana Blažeje Santiniho-Aichela (do 1720)"},
+  {"year": 1950, "text": "zrušení kláštera a zřízení internačního tábora pro kněze a řeholníky (do 1956)"},
+  {"year": 1990, "text": "obnovení kláštera a návrat premonstrátů"},
+  {"year": 2010, "text": "zápis na seznam národních kulturních památek"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Želivský_klášter", "https://www.zeliv.eu/historie-klastera", "https://www.klasterni-stezky.cz/klaster-premonstratu-zeliv/103-historie-zeliv"]
+}

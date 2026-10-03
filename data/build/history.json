@@ -25356,6 +25356,98 @@
    "http://www.ceskycestovatel.cz/zamek-bruntal/"
   ]
  },
+ "Q1416121": {
+  "id": "Q1416121",
+  "name": "Kladrubský klášter",
+  "founded": {
+   "year": 1115,
+   "approx": false,
+   "text": "1115 založen knížetem Vladislavem I. jako benediktinský klášter, osídlen mnichy ze Zwiefaltenu"
+  },
+  "summary": "Benediktinský klášter v Kladrubech založil roku 1115 kníže Vladislav I. Roku 1421 jej vypálili husité, po obnově ve 2. polovině 17. a v 18. století (Santini, Dientzenhofer) byl roku 1785 zrušen Josefem II. Poté sloužil jako kasárny, nemocnice a invalidovna, od roku 1825 patřil knížatům Windischgrätzům (pivovar 1863-1933). Roku 1945 byl konfiskován a dnes je ve vlastnictví státu, správu zajišťuje Národní památkový ústav.",
+  "owners": [
+   {
+    "owner": "cirkev",
+    "person": "benediktini (konvent kláštera Kladruby)",
+    "from": 1115,
+    "to": 1785,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "zakladatel kníže Vladislav I.; klášter v roce 1421 pobořen husity, 1705 získal zpět přeštické panství; 1785 zrušen Josefem II."
+   },
+   {
+    "owner": "stat",
+    "person": "majetek zrušeného kláštera (kasárny, vojenská nemocnice, invalidovna)",
+    "from": 1785,
+    "to": 1825,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "cs.wiki výslovně vlastníka neuvádí; po zrušení byly zřízeny kasárny, nemocnice a invalidovna, 1825 celé panství prodáno v aukci"
+   },
+   {
+    "owner": "windischgratzove",
+    "owner_wiki": "Windischgrätzové",
+    "person": "Alfréd I. Windischgrätz, později Alfréd II. a další",
+    "from": 1825,
+    "to": 1945,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "kladrubské panství přikoupeno ke Štěkni a Tachovu, součást fideikomisu; 1863-1933 pivovar; 1945 konfiskováno podle Benešových dekretů"
+   },
+   {
+    "owner": "stat",
+    "person": "Československé státní statky, Národní kulturní komise, od 1967 památková péče; dnes NPÚ",
+    "from": 1945,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "1946 měl být majetek přidělen benediktinům, ti jej nepřevzali; 1948 správa Národní kulturní komise; 1967 převzala památková péče; dnes ve vlastnictví státu, správa NPÚ"
+   }
+  ],
+  "events": [
+   {
+    "year": 1115,
+    "text": "založení kláštera knížetem Vladislavem I."
+   },
+   {
+    "year": 1421,
+    "text": "klášter pobořen husity"
+   },
+   {
+    "year": 1590,
+    "text": "požár kláštera"
+   },
+   {
+    "year": 1712,
+    "text": "zahájena Santiniho přestavba klášterního kostela, vysvěcen 1726"
+   },
+   {
+    "year": 1785,
+    "text": "zrušení kláštera Josefem II."
+   },
+   {
+    "year": 1825,
+    "text": "panství koupil kníže Alfréd I. Windischgrätz"
+   },
+   {
+    "year": 1864,
+    "text": "v klášteře zřízen pivovar (do 1933)"
+   },
+   {
+    "year": 1967,
+    "text": "správu převzala státní památková péče, klášter zpřístupněn veřejnosti"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Kladrubský_klášter",
+   "https://www.klaster-kladruby.cz/cs/o-klasteru/historie-v-datech",
+   "https://www.klaster-kladruby.cz/cs/projekty/pivovar-a-zivot-v-radu"
+  ]
+ },
  "Q1416937": {
   "id": "Q1416937",
   "name": "Duchcov",
@@ -28737,6 +28829,167 @@
    "https://cs.wikipedia.org/wiki/Úsov"
   ]
  },
+ "Q1589971": {
+  "id": "Q1589971",
+  "name": "Palácové zahrady pod Pražským hradem",
+  "founded": {
+   "year": null,
+   "approx": false,
+   "text": "Od doby Karla IV. malé vinice a zahrádky na jižním svahu Hradčan; renesanční zahrady od 16. století, dnešní barokní podoba z 18. století"
+  },
+  "summary": "Palácové zahrady vznikly na jižním svahu Hradčan z vinic a zahrádek, které od 16. století skupovala šlechta a zámožní měšťané; po pobělohorské obnově získaly barokní podobu a patřily vlastníkům přilehlých malostranských paláců (Trauttmansdorfové, Valdštejnové, Fürstenbergové, Černínové, Kolowratové, Pálffyové). Palác a zahrady postupně přešly na stát (Pálffyovský palác 1902, Kolovratský 1918, dům čp. 155 vyvlastněn 1945). V druhé polovině 20. století byly zahrady uzavřeny a po rekonstrukci znovu otevřeny (1995-2008); stát je vlastní a spravuje je Národní památkový ústav.",
+  "owners": [
+   {
+    "owner": "trauttmansdorffove",
+    "owner_wiki": "Trauttmansdorffové",
+    "person": "Marie Charlotta a Leopold Antonín Trauttmansdorffové",
+    "from": 1697,
+    "to": 1727,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "Ledeburský palác a zahrada; zahrada dotvořena po roce 1697. Zahrady jsou samostatné celky s různými majiteli, záznamy se proto překrývají."
+   },
+   {
+    "owner": "valdstejnove",
+    "owner_wiki": "Valdštejnové",
+    "person": "Jan Josef z Valdštejna",
+    "from": 1709,
+    "to": 1731,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "Pálffyovský palác a zahrada; 1709 získal dva domy a 1712-1720 je přestavěl na palác; konec přibližný (od 1731 Fürstenbergové)"
+   },
+   {
+    "owner": "furstenbergove",
+    "owner_wiki": "Fürstenbergové",
+    "person": "Marie Anna z Fürstenberku",
+    "from": 1731,
+    "to": 1881,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "Pálffyovský palác a zahrady (terasové zahrady založeny kolem 1751); Fürstenbergové vlastnili i dům čp. 155 (Malá Fürstenberská zahrada) od 1868"
+   },
+   {
+    "owner": "cerninove-z-chudenic",
+    "owner_wiki": "Černínové z Chudenic",
+    "person": "Marie Barbora Černínová, rozená Schaffgotsche",
+    "from": 1759,
+    "to": 1789,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "dům čp. 155 s Malou Fürstenberskou (Velkou Kolowratskou) zahradou; zahrada přestavěna 1769-1789; 1789 smrt hraběnky"
+   },
+   {
+    "owner": "kolowrat-krakowsti",
+    "owner_wiki": "Kolowrat-Krakowští",
+    "person": "Josef Krakovský z Kolowrat",
+    "from": 1783,
+    "to": 1852,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "Ledeburský palác; konec do 1852 (kdy palác získali Ledebourové)"
+   },
+   {
+    "owner": "ledebourove",
+    "owner_wiki": null,
+    "person": "Ledebourové",
+    "from": 1852,
+    "to": 1868,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "Ledeburský palác získán 1852; zdroj neuvádí rok konce ani dalšího majitele"
+   },
+   {
+    "owner": "furstenbergove",
+    "owner_wiki": "Fürstenbergové",
+    "person": "Fürstenbergové (dům čp. 155)",
+    "from": 1868,
+    "to": 1945,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "dům čp. 155 s Malou Fürstenberskou zahradou; 1945 vyvlastněn"
+   },
+   {
+    "owner": "palffyove",
+    "owner_wiki": "Pálffyové",
+    "person": "Eduard Pálffy",
+    "from": 1881,
+    "to": 1902,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "Pálffyovský palác a zahrady, odprodal státu 1902"
+   },
+   {
+    "owner": "kolowrat-krakowsti",
+    "owner_wiki": "Kolowrat-Krakowští",
+    "person": "Kolowratové Krakovští",
+    "from": 1886,
+    "to": 1918,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "Kolovratský palác a zahrady; od 1918 stát"
+   },
+   {
+    "owner": "stat",
+    "person": "Národní památkový ústav (správce)",
+    "from": 1902,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "stát získal Pálffyovský palác 1902, Kolovratský 1918, čp. 155 vyvlastněn 1945; dnes ve vlastnictví státu, správa NPÚ (od listopadu 2010 přímo NPÚ po sporném pronájmu soukromému nájemci od 2004)"
+   }
+  ],
+  "events": [
+   {
+    "year": 1580,
+    "text": "vytvořena dnešní Fürstenberská zahrada (cs.wiki)"
+   },
+   {
+    "year": 1648,
+    "text": "zahrady zpustošeny Švédy po dobytí Malé Strany"
+   },
+   {
+    "year": 1697,
+    "text": "vznik Ledeburské (Trauttmansdorfské) zahrady při přestavbě paláce"
+   },
+   {
+    "year": 1769,
+    "text": "1769-1789 přestavba Malé Fürstenberské (Velké Kolowratské) zahrady podle Palliardiho"
+   },
+   {
+    "year": 1952,
+    "text": "rekonstrukce zahrad (1950-1952)"
+   },
+   {
+    "year": 1995,
+    "text": "otevřeny Ledeburská a Malá Pálffyovská zahrada po rekonstrukci"
+   },
+   {
+    "year": 2008,
+    "text": "otevřena terasová část Velké Fürstenberské zahrady"
+   },
+   {
+    "year": 2016,
+    "text": "zahájena další rekonstrukce zahrad"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Palácové_zahrady_pod_Pražským_hradem",
+   "https://www.palacove-zahrady.cz/cs/o-zahradach/historie",
+   "https://prague.eu/cs/objevujte/zahrady-pod-prazskym-hradem/",
+   "https://www.npu.cz/cs/pro-media/10096-zahrady-pod-prazskym-hradem-prestanou-chatrat-npu-pripravuje-obnovu"
+  ]
+ },
  "Q1592121": {
   "id": "Q1592121",
   "name": "Hazmburk",
@@ -31693,6 +31946,134 @@
    "https://de.wikipedia.org/wiki/Schloss_Sychrov"
   ]
  },
+ "Q1775133": {
+  "id": "Q1775133",
+  "name": "Klášter Chotěšov",
+  "founded": {
+   "year": 1206,
+   "approx": true,
+   "text": "ženský klášter premonstrátek založený mezi lety 1202 a 1210 blahoslaveným Hroznatou na žádost sestry Vojslavy; sestry přišly z Doksan"
+  },
+  "summary": "Klášter premonstrátek v Chotěšově založil mezi lety 1202 a 1210 blahoslavený Hroznata, dnešní barokní konvent vznikl v letech 1734-1756. Roku 1782 jej zrušil Josef II., roku 1822 panství koupili Thurn-Taxisové a od roku 1878 konvent užívaly sestry vizitantky, které jej roku 1937 odkoupily. Po roce 1950 klášter devastovala armáda; od roku 1991 patří obci Chotěšov, která spravuje národní kulturní památku a zpřístupňuje ji.",
+  "owners": [
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "klášter premonstrátek",
+    "from": 1206,
+    "to": 1782,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "založení mezi 1202 a 1210, rok 1206 je střed intervalu; klášter zrušen 22. 3. 1782 císařem Josefem II."
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "Náboženský fond",
+    "from": 1782,
+    "to": 1822,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "majetek zrušeného kláštera předán do správy Náboženského fondu"
+   },
+   {
+    "owner": "thurn-taxisove",
+    "owner_wiki": "Thurn-Taxisové",
+    "person": "Karel Alexander von Thurn und Taxis",
+    "from": 1822,
+    "to": 1937,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "koupě chotěšovského panství 1. 1. 1822 za 1 080 000 zlatých; 1878 konvent pronajat sestrám vizitantkám; při pozemkové reformě 1925 byly zkonfiskovány dvory, rodině zůstaly klášterní budovy; 1937 je sestry odkoupily"
+   },
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "sestry řádu Navštívení Panny Marie (vizitantky)",
+    "from": 1937,
+    "to": 1950,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "odkoupení konventu s přilehlými budovami a zahradami za symbolickou cenu; 1950 sestry vystěhovány"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "Československá armáda, později další státní organizace",
+    "from": 1950,
+    "to": 1991,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "armáda areál užívala 1950-1973 a velmi jej poškodila; poté sklady a státní podniky; zdroje výslovně neuvádějí formu převzetí vlastnictví"
+   },
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "sestry řádu Navštívení Panny Marie (vizitantky)",
+    "from": 1991,
+    "to": 2002,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "restituce",
+    "note": "1. 8. 1991 podle zákona č. 338/1991 Sb. vrácena část odkoupená 1937 (konvent); správou pověřena a. s. Christiana Praha, později obec; rok 2002 (konec) podle webu Znovuobjevené poklady Sudet, přesný rok převodu nepotvrzen"
+   },
+   {
+    "owner": "mesto",
+    "owner_wiki": null,
+    "person": "obec Chotěšov",
+    "from": 1991,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "jine",
+    "note": "od 1. 1. 1991 podle zákona č. 172/1991 Sb. v majetku obce (zbytek areálu); budovu konventu získala obec od sester podle jednoho zdroje roku 2002; dnes celý areál ve vlastnictví obce, správu zajišťuje její ústav Správa kláštera premonstrátek v Chotěšově (od 2017)"
+   }
+  ],
+  "events": [
+   {
+    "year": 1278,
+    "text": "po smrti Přemysla Otakara II. klášter vypleněn, kostel znovu vysvěcen 1282"
+   },
+   {
+    "year": 1490,
+    "text": "dokončena obnova kláštera pobořeného a vypáleného na počátku husitských válek"
+   },
+   {
+    "year": 1734,
+    "text": "dokončování čtyřkřídlého barokního konventu (1734-1756)"
+   },
+   {
+    "year": 1782,
+    "text": "zrušení kláštera Josefem II."
+   },
+   {
+    "year": 1822,
+    "text": "panství koupil kníže Karel Alexander Thurn-Taxis"
+   },
+   {
+    "year": 1878,
+    "text": "konvent pronajat sestrám vizitantkám, penzionát pro dívky"
+   },
+   {
+    "year": 1950,
+    "text": "sestry vystěhovány a do areálu se nastěhovala armáda (do 1973)"
+   },
+   {
+    "year": 2010,
+    "text": "klášter prohlášen národní kulturní památkou"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Klášter_Chotěšov",
+   "https://www.chotesovskyklaster.cz/sprava-klastera/o-nas/zakladni-informace/",
+   "https://poklady.cpkp-zc.cz/klaster-premonstratek-chotesov/"
+  ]
+ },
  "Q1776234": {
   "id": "Q1776234",
   "name": "Velehradský klášter",
@@ -31807,6 +32188,195 @@
    "https://cs.wikipedia.org/wiki/Velehradský_klášter",
    "https://www.abczech.cz/Velehradska-bazilika-a-klaster-P7033103.html",
    "https://exa.ai/library/publication/xv451tz9ynl"
+  ]
+ },
+ "Q1776313": {
+  "id": "Q1776313",
+  "name": "Zlatá Koruna",
+  "founded": {
+   "year": 1263,
+   "approx": false,
+   "text": "1263 založil král Přemysl Otakar II. cisterciácký klášter Svatá Koruna, osídlen mnichy z Heiligenkreuzu"
+  },
+  "summary": "Cisterciácký klášter založil roku 1263 Přemysl Otakar II. Po vypálení husity roku 1420 mu rožmberský panský rod zabral statky a nikdy je nevrátil; klášter existoval až do zrušení Josefem II. roku 1785. Budovy poté koupili Schwarzenbergové (1787) a pronajímali je průmyslovým provozům do roku 1909. Roku 1940 je zabavilo gestapo, roku 1947 byly konfiskovány státu (Lex Schwarzenberg) a dnes je spravuje Národní památkový ústav.",
+  "owners": [
+   {
+    "owner": "cirkev",
+    "person": "cisterciáci (klášter Svatá Koruna)",
+    "from": 1263,
+    "to": 1785,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "zakladatel král Přemysl Otakar II. (zeměpanská fundace); klášterní statky po 1420 zabral Oldřich II. z Rožmberka jako zástavu a připojil ke krumlovskému panství, mniši klášter užívali dál; 1785 zrušen Josefem II."
+   },
+   {
+    "owner": "schwarzenbergove",
+    "owner_wiki": "Schwarzenbergové",
+    "person": "Schwarzenbergové",
+    "from": 1787,
+    "to": 1947,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "budovy odkoupeny krumlovskými Schwarzenbergy (1787) a pronajímány průmyslu (slévárna, strojírna, hedvábí, sukno) do 1909; 1940 zabaveno gestapem; 1947 konfiskace podle Lex Schwarzenberg"
+   },
+   {
+    "owner": "stat",
+    "person": "Československo; správa Státní vědecká knihovna (1979-2000), dnes NPÚ",
+    "from": 1947,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "konfiskováno podle zákona č. 143/1947 Sb. (Lex Schwarzenberg); 1979-2000 pod správou Státní vědecké knihovny v Českých Budějovicích, nyní spravuje Národní památkový ústav; NKP od 1995"
+   }
+  ],
+  "events": [
+   {
+    "year": 1263,
+    "text": "příchod prvních mnichů z Heiligenkreuzu"
+   },
+   {
+    "year": 1276,
+    "text": "po smrti Přemysla Otakara II. klášter zničen Vítkovci, obnoven 1291"
+   },
+   {
+    "year": 1354,
+    "text": "požár kláštera"
+   },
+   {
+    "year": 1420,
+    "text": "klášter dvakrát vypálen husity; statky později obsadili Rožmberkové"
+   },
+   {
+    "year": 1785,
+    "text": "zrušení kláštera Josefem II."
+   },
+   {
+    "year": 1787,
+    "text": "budovy koupili Schwarzenbergové a pronajali je průmyslovým provozům"
+   },
+   {
+    "year": 1909,
+    "text": "ukončen průmyslový provoz, zahájeny rekonstrukce"
+   },
+   {
+    "year": 1947,
+    "text": "konfiskace Schwarzenbergům (Lex Schwarzenberg)"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Klášter_Zlatá_Koruna",
+   "https://klaster-zlatakoruna.cz/cs/o-klastere/historie",
+   "https://www.zlatakoruna.cz/klaster",
+   "https://www.npu.cz/cs/novinky/121269-kdyz-mnisi-odesli-vystava-ve-zlate-korune"
+  ]
+ },
+ "Q1776361": {
+  "id": "Q1776361",
+  "name": "Želivský klášter",
+  "founded": {
+   "year": 1139,
+   "approx": false,
+   "text": "1139 založení Soběslavem I. (podle Pulkavovy kroniky; část historiků uvádí 1144), původně benediktini; od 1149 premonstráti ze Steinfeldu"
+  },
+  "summary": "Klášter u Želiva založil podle tradice roku 1139 kníže Soběslav I. pro benediktiny a roku 1149 jej osídlili premonstráti ze Steinfeldu. Roku 1468 jej Jiří z Poděbrad zastavil Burianu Trčkovi z Lípy, který řeholníky vyhnal a část kláštera přestavěl na hrad. Premonstráti získali Želiv zpět roku 1622 (strahovský opat), po požáru 1712 jej přestavěl Santini-Aichel. Roku 1950 byl klášter zrušen a sloužil jako internační tábor a později psychiatrická léčebna, premonstráti se vrátili roku 1990.",
+  "owners": [
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "benediktini ze Sázavy, od 1149 premonstráti (klášter Steinfeld)",
+    "from": 1139,
+    "to": 1468,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "rok založení nejistý (1139 podle Pulkavovy kroniky, 1144 podle listiny Konráda III.); roku 1149 nově osídlen premonstráty"
+   },
+   {
+    "owner": "trckove-z-lipy",
+    "owner_wiki": "Trčkové z Lípy",
+    "person": "Burian Trčka z Lípy",
+    "from": 1468,
+    "to": 1622,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "lenni",
+    "note": "zástava krále Jiřího z Poděbrad 29. 3. 1468; řeholníci vyhnáni a západní část kláštera přestavěna na Trčkův hrad; klášterní obec obnovil strahovský opat Jan Lohel 1590 a postupně vykupoval statky"
+   },
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "strahovští premonstráti (opat Questenberk), od 1643 samostatný želivský klášter",
+    "from": 1622,
+    "to": 1950,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "cs.wiki uvádí koupi od Marie Trčkové z Lípy 1622, jiný zdroj (kamsevydat.cz) 1623; od 1643 opět samostatný klášter; za druhé světové války klášter zabrali nacisté (zdroj zeliv.eu)"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "internační tábor, poté pobočka psychiatrické léčebny Havlíčkův Brod",
+    "from": 1950,
+    "to": 1990,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "zrušení kláštera v dubnu 1950 (Akce K), do 1956 internační tábor pro 464 kněží a řeholníků, poté psychiatrická léčebna; zdroje uvádějí návrat premonstrátů 1990 nebo 1991"
+   },
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "premonstrátský řád (kanonie Želiv)",
+    "from": 1990,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "restituce",
+    "note": "klášter obnoven 1990; dnes sídlí komunita premonstrátů, hostel a klášterní pivovar"
+   }
+  ],
+  "events": [
+   {
+    "year": 1149,
+    "text": "klášter osídlen premonstráty ze Steinfeldu"
+   },
+   {
+    "year": 1420,
+    "text": "klášter nejspíše zpustošen husity"
+   },
+   {
+    "year": 1468,
+    "text": "Jiří z Poděbrad zastavil klášter Burianu Trčkovi z Lípy, mniši vyhnáni"
+   },
+   {
+    "year": 1622,
+    "text": "klášter koupen zpět od Marie Trčkové z Lípy"
+   },
+   {
+    "year": 1713,
+    "text": "po požáru 1712 přestavba podle Jana Blažeje Santiniho-Aichela (do 1720)"
+   },
+   {
+    "year": 1950,
+    "text": "zrušení kláštera a zřízení internačního tábora pro kněze a řeholníky (do 1956)"
+   },
+   {
+    "year": 1990,
+    "text": "obnovení kláštera a návrat premonstrátů"
+   },
+   {
+    "year": 2010,
+    "text": "zápis na seznam národních kulturních památek"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Želivský_klášter",
+   "https://www.zeliv.eu/historie-klastera",
+   "https://www.klasterni-stezky.cz/klaster-premonstratu-zeliv/103-historie-zeliv"
   ]
  },
  "Q17874122": {
@@ -34520,6 +35090,79 @@
    "https://www.zamek-kromeriz.cz/historie-zamku/",
    "https://www.npu.cz/cs/novinky/51530-o-zamek-kromeriz-se-nove-stara-olomoucke-arcibiskupstvi-kvetna-zahrada-zustava-ve-sprave-npu",
    "https://www.impuls.cz/regiony/zlinsky-kraj/arcibiskupstvi-prevzalo-od-statu-zamek-v-kromerizi.A170407_161206_imp-zlinsky_kov/tisk"
+  ]
+ },
+ "Q2025940": {
+  "id": "Q2025940",
+  "name": "Kostel Nanebevzetí Panny Marie v Mostě",
+  "founded": {
+   "year": 1255,
+   "approx": true,
+   "text": "raně gotická trojlodní bazilika založená mezi lety 1253 a 1257; dnešní pozdně gotický kostel stavěn od 20. 8. 1517 po požáru města 1515"
+  },
+  "summary": "Předchůdcem dnešního kostela byla raně gotická bazilika z poloviny 13. století, která roku 1515 vyhořela. Nový pozdně gotický halový kostel se stavěl od roku 1517 podle Jakuba Heilmanna ze Schweinfurtu, patronát nad ním měl původně klášter křižovníků Božího hrobu a od roku 1501 město Most. Roku 1975 byl kostel kvůli těžbě uhlí přesunut o 841 metrů po kolejích. Dnes je ve vlastnictví státu, spravuje jej Národní památkový ústav a je národní kulturní památkou.",
+  "owners": [
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "římskokatolická církev (děkanský kostel); patronát křižovníků Božího hrobu na Zderaze, od 1501 města Mostu",
+    "from": 1255,
+    "to": 1640,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "zalozeni",
+    "note": "patronátní právo do 1501 vykonával klášter křižovníků Božího hrobu, roku 1501 je papež potvrdil městu Mostu; zdroje neuvádějí vlastnické změny, rok přechodu na stát neznám (kostel byl po přesunu 1975 využíván státem, k bohoslužbám vrácen až 1993)"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "Česká republika (správce Národní památkový ústav)",
+    "from": 1640,
+    "to": null,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "cs.wiki i kostel-most.cz uvádějí současným vlastníkem stát se správou NPÚ; rok převodu zdroje neuvádějí"
+   }
+  ],
+  "events": [
+   {
+    "year": 1296,
+    "text": "listina papeže Bonifáce VIII. nepřímo dokládá původní raně gotický kostel"
+   },
+   {
+    "year": 1501,
+    "text": "papež Alexandr VI. potvrdil městu Mostu patronátní právo nad kostelem (dříve křižovníci Božího hrobu)"
+   },
+   {
+    "year": 1515,
+    "text": "požár města a původního kostela"
+   },
+   {
+    "year": 1517,
+    "text": "zahájena stavba nového pozdně gotického kostela podle Jakuba Heilmanna ze Schweinfurtu (hrubá stavba 1549)"
+   },
+   {
+    "year": 1578,
+    "text": "další požár města, kostel částečně vyhořel (opravován do 1602)"
+   },
+   {
+    "year": 1975,
+    "text": "přesun celého kostela o 841 m po kolejích (30. 9. - 27. 10.) kvůli těžbě uhlí"
+   },
+   {
+    "year": 1988,
+    "text": "kostel zpřístupněn veřejnosti, bohoslužby po vysvěcení 1993"
+   },
+   {
+    "year": 2010,
+    "text": "prohlášen národní kulturní památkou"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Kostel_Nanebevzetí_Panny_Marie_(Most)",
+   "https://www.kostel-most.cz/cs/o-kostelu",
+   "http://farnost-most.cz/historie/"
   ]
  },
  "Q20428299": {
@@ -42477,6 +43120,145 @@
    "https://www.nechanice.cz/mesto/historie-nechanic/"
   ]
  },
+ "Q267033": {
+  "id": "Q267033",
+  "name": "Klášter Plasy",
+  "founded": {
+   "year": 1144,
+   "approx": false,
+   "text": "1144 založení cisterciáckého kláštera knížetem Vladislavem II. a jeho manželkou Gertrudou; řeholníci z Langheimu přišli v březnu 1145"
+  },
+  "summary": "Cisterciácký klášter v Plasích založil roku 1144 kníže Vladislav II. a jeho manželka Gertruda. Po husitských válkách ztratil většinu majetku, barokní rozkvět nastal od 17. století a velkolepý konvent vznikl podle plánů Santiniho (1711-1740). Roku 1785 byl klášter zrušen, jeho majetek spravoval Náboženský fond a roku 1827 jej koupil kancléř Metternich, který z prelatury udělal zámek. Po konfiskaci roku 1945 patří areál státu a spravují jej NPÚ a Národní technické muzeum.",
+  "owners": [
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "cisterciácký klášter (opati)",
+    "from": 1144,
+    "to": 1785,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "klášter nadaný knížetem Vladislavem II.; v letech 1419-1425 ztratil husitskými válkami a zástavami králem Zikmundem většinu statků (zastavení Kolovratům, Gutštejnovi, Švamberkovi), samotný klášter ale zůstal a po Bílé hoře 1623 mu byl majetek vrácen"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "Náboženský fond",
+    "from": 1785,
+    "to": 1827,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "zrušení kláštera Josefem II. 9. 11. 1785; majetek spravoval Náboženský fond"
+   },
+   {
+    "owner": "metternichove",
+    "owner_wiki": "Metternichové",
+    "person": "Klemens Václav Nepomuk Lothar Metternich",
+    "from": 1827,
+    "to": 1859,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "kupní smlouva 4. 7. 1827, cena 1 100 050 zlatých; prelaturu upravil na zámek (NPÚ uvádí nákup k roku 1826/1827)"
+   },
+   {
+    "owner": "metternichove",
+    "owner_wiki": "Metternichové",
+    "person": "Richard Metternich",
+    "from": 1859,
+    "to": 1895,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "nejstarší syn kancléře"
+   },
+   {
+    "owner": "metternichove",
+    "owner_wiki": "Metternichové",
+    "person": "Pavel Lothar Metternich",
+    "from": 1895,
+    "to": 1906,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "převzal správu po Richardovi, který měl jen dcery"
+   },
+   {
+    "owner": "metternichove",
+    "owner_wiki": "Metternichové",
+    "person": "Klement Michal Metternich",
+    "from": 1906,
+    "to": 1930,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "syn Pavla Lothara"
+   },
+   {
+    "owner": "metternichove",
+    "owner_wiki": "Metternichové",
+    "person": "Pavel Alfons Metternich",
+    "from": 1930,
+    "to": 1945,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "cs.wiki uvádí jako posledního vlastníka; přesný rok převzetí po Klementově smrti (1930) zdroj výslovně neuvádí"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "Československo / ČR (NPÚ, Národní technické muzeum)",
+    "from": 1945,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "konfiskace podle dekretu č. 12/1945 Sb. (rozhodnutí ONV Kralovice 18. 8. 1945); NPÚ areál majetkově sjednotil 2006; od 1. 1. 2009 část areálu (hospodářská) spravuje Národní technické muzeum, NPÚ konvent, prelaturu a sýpky"
+   }
+  ],
+  "events": [
+   {
+    "year": 1154,
+    "text": "opat Ivo zahájil stavbu románské baziliky Nanebevzetí Panny Marie (vysvěcena 1204)"
+   },
+   {
+    "year": 1421,
+    "text": "klášter vypálen husity a do roku 1421 ztratil pět šestin majetku"
+   },
+   {
+    "year": 1623,
+    "text": "po Bílé hoře císař Ferdinand II. vrátil klášteru majetek"
+   },
+   {
+    "year": 1711,
+    "text": "zahájena přestavba konventu podle Santiniho (do 1740) na dubovém roštu"
+   },
+   {
+    "year": 1785,
+    "text": "zrušení kláštera Josefem II."
+   },
+   {
+    "year": 1827,
+    "text": "panství koupil kancléř Metternich a z prelatury zřídil zámek"
+   },
+   {
+    "year": 1894,
+    "text": "velký požár konventu"
+   },
+   {
+    "year": 1995,
+    "text": "prohlášení za národní kulturní památku"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Klášter_Plasy",
+   "https://monasterium.cz/klaster-plasy/klaster-plasy-historie/",
+   "https://npu.cz/uop/plzen/pdf/publikacni%20cinnost/pzc-2021/Pamatky%20zapadnich%20Cech%20VIII-2021-%20sep.%2015%20-%20Plasy%20-%20pamatkova%20obnova.pdf"
+  ]
+ },
  "Q26868416": {
   "id": "Q26868416",
   "name": "Tovačov",
@@ -48281,6 +49063,70 @@
    "https://cs.wikipedia.org/wiki/Valašské_Meziříčí_(zámek)",
    "https://www.kzvalmez.cz/o-nas/historie/",
    "https://infocentrum.kzvalmez.cz/zajimavosti-ve-meste/zajimavosti-ve-meste/historie/"
+  ]
+ },
+ "Q3488058": {
+  "id": "Q3488058",
+  "name": "Jihlavské katakomby",
+  "founded": {
+   "year": null,
+   "approx": false,
+   "text": "sklepy od poloviny 13. století, hlavní ražba chodeb ve 14.-16. století"
+  },
+  "summary": "Jihlavské podzemí (laicky katakomby) je labyrint asi 25 km chodeb pod historickým centrem, druhý největší v ČR po znojemském. Vznikl rozšiřováním měšťanských sklepů od poloviny 13. století a hlavně ražbou ve 14.-16. století. Domy nad ním patřily městskému patriciátu; dnes podzemí provozuje město Jihlava prostřednictvím příspěvkové organizace Brána Jihlavy.",
+  "owners": [
+   {
+    "owner": "soukromnik",
+    "person": "jihlavští měšťané (patriciát), majitelé domů nad sklepy",
+    "from": null,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "sklepy a chodeb patřily majitelům domů; cs.wiki neuvádí roky; po sanaci v 60. letech 20. století podzemí spravuje město",
+    "to_unknown": true
+   },
+   {
+    "owner": "mesto",
+    "person": "město Jihlava",
+    "from": null,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "jine",
+    "note": "zpřístupněné okruhy dnes provozuje město přes příspěvkovou organizaci Brána Jihlavy; rok převodu zdroje neuvádějí"
+   }
+  ],
+  "events": [
+   {
+    "year": 1328,
+    "text": "zemětřesení zavalilo mnoho okolních dolů (poklesla těžba stříbra)"
+   },
+   {
+    "year": 1523,
+    "text": "velký požár města, chudina bydlela rok v podzemí"
+   },
+   {
+    "year": 1645,
+    "text": "1645-1647 Švédové využívali podzemí za třicetileté války"
+   },
+   {
+    "year": 1936,
+    "text": "první zpřístupnění části chodeb veřejnosti"
+   },
+   {
+    "year": 1969,
+    "text": "po sanaci betonem (od 1966) podzemí uzavřeno pro veřejnost"
+   },
+   {
+    "year": 1990,
+    "text": "opětovné zpřístupnění (cs.wiki 1990, jihlava.cz 1991)"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Jihlavské_podzemí",
+   "https://jihlava.cz/historicke-podzemi/ms-108142",
+   "https://jihlava.cz/pro%2Dnavstevniky/os-43906/p1=108142"
   ]
  },
  "Q3490598": {
@@ -56437,6 +57283,87 @@
    "https://www.korunavysociny.cz/novinky/3365-pernstejn-v-rukou-rodu-mitrovskych"
   ]
  },
+ "Q675724": {
+  "id": "Q675724",
+  "name": "Vyšebrodský klášter",
+  "founded": {
+   "year": 1259,
+   "approx": false,
+   "text": "1259 založil Vok I. z Rožmberka jako cisterciácký klášter, osídlen mnichy z Wilheringu"
+  },
+  "summary": "Cisterciácký klášter ve Vyšším Brodě založil roku 1259 Vok I. z Rožmberka jako rodovou nekropoli Rožmberků. Přes husitskou zkázu a zadlužení unikl Josefovu rušení a v 19. století vzkvétal. Za nacistů byl roku 1941 zrušen, roku 1950 jej zabral komunistický stát (Akce K) a řád jej získal zpět od roku 1990 (část 1991, zbytek až restitucemi 2014-2016); dnes je opět sídlem cisterciáckého opatství.",
+  "owners": [
+   {
+    "owner": "cirkev",
+    "person": "cisterciáci (opatství Vyšší Brod)",
+    "from": 1259,
+    "to": 1950,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "zakladatel Vok I. z Rožmberka, klášter byl rodovou nekropolí Rožmberků; 1941-1945 zrušen nacisty (budovy využívalo gestapo jako depozitář), mniši se 1945 vrátili; 1950 zrušen komunisty. Klášter spadal v 17.-18. stol. pod vliv Eggenberků a Schwarzenberků (klasterni-stezky.cz), vynětí z krumlovského panství až 1822"
+   },
+   {
+    "owner": "stat",
+    "person": "Československo (zábor Akcí K)",
+    "from": 1950,
+    "to": 1990,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "klášter zabrán StB a SNB, mniši internováni; část využita jako muzeum, areál pustl; po 1948 konfiskace majetku podle Benešových dekretů"
+   },
+   {
+    "owner": "cirkev",
+    "person": "cisterciáci (opatství Vyšší Brod)",
+    "from": 1990,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "restituce",
+    "note": "1990 návrat prvních mnichů, část areálu vrácena 1991; zbytek areálu (např. pivovar 2015) vrácen v církevních restitucích 2014-2016; cs.wiki rok restituce přímo neuvádí"
+   }
+  ],
+  "events": [
+   {
+    "year": 1259,
+    "text": "založení kláštera Vokem I. z Rožmberka, vysvěcen kostel 1. června"
+   },
+   {
+    "year": 1262,
+    "text": "pohřben Vok I., začátek rožmberské nekropole (do 1611)"
+   },
+   {
+    "year": 1422,
+    "text": "husité klášter zapálili (podle klasterni-stezky.cz; cs.wiki uvádí úpadek v 15. stol.)"
+   },
+   {
+    "year": 1822,
+    "text": "klášter vyňat z krumlovského panství"
+   },
+   {
+    "year": 1941,
+    "text": "zrušení kláštera nacisty, mniši vyhnáni"
+   },
+   {
+    "year": 1950,
+    "text": "komunisté klášter zrušili a mnichy internovali (Akce K)"
+   },
+   {
+    "year": 1990,
+    "text": "návrat prvních mnichů a obnova řeholního života"
+   },
+   {
+    "year": 2012,
+    "text": "znovuotevřen generálně opravený klášterní kostel"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Vyšebrodský_klášter",
+   "https://www.klasterni-stezky.cz/klaster-cisterciaku-vyssi-brod/52-historie-vyssi-brod",
+   "https://budejovice.rozhlas.cz/valka-a-komunisticky-rezim-ponicily-klaster-ve-vyssim-brode-vse-jeste-zhorsily-7037936"
+  ]
+ },
  "Q695042": {
   "id": "Q695042",
   "name": "Žebrák",
@@ -60005,6 +60932,97 @@
    "https://cs.wikipedia.org/wiki/Veveří_(hrad)",
    "https://www.soupispamatek.cz/arl-kcz/en/detail-kcz_un_auth-0001498-Castle-Veveri/",
    "https://en.wikipedia.org/wiki/Veve%C5%99%C3%AD_Castle"
+  ]
+ },
+ "Q9374731": {
+  "id": "Q9374731",
+  "name": "Vila Stiassni",
+  "founded": {
+   "year": 1927,
+   "approx": false,
+   "text": "1927-1929 stavba puristické vily podle Ernsta Wiesnera pro textilního průmyslníka Alfreda Stiassniho"
+  },
+  "summary": "Vilu v brněnských Pisárkách postavil v letech 1927-1929 architekt Ernst Wiesner pro textilního továrníka Alfreda Stiassniho a jeho ženu Hermine. Rodina před okupací roku 1938 emigrovala, vilu zabavilo roku 1939 gestapo, po válce ji převzala národní správa a od roku 1952 sloužila jako reprezentační tzv. vládní vila krajského národního výboru. Od roku 2009 ji spravuje Národní památkový ústav, po rekonstrukci byla roku 2014 zpřístupněna veřejnosti.",
+  "owners": [
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Alfred a Hermine Stiassni",
+    "from": 1929,
+    "to": 1939,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "stavebníci vily; rodina emigrovala v roce 1938 (Londýn, poté Kalifornie); Brněnská encyklopedie uvádí majitele 1929-1940"
+   },
+   {
+    "owner": "neznamo",
+    "owner_wiki": null,
+    "person": "říšská státní policie (gestapo); formálně správce Moravská eskomptní banka",
+    "from": 1939,
+    "to": 1946,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "vila zabavena 30. 11. 1939, důstojnické kasino; Moravská eskomptní banka byla oficiálním správcem 1940-1946"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "národní správa, od 1952 Jihomoravský krajský národní výbor (tzv. vládní vila)",
+    "from": 1946,
+    "to": 2009,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "v 90. letech vilu pronajímala BVV Fair Travel Brno; cs.wiki uvádí, že tehdy 'přešla do soukromých rukou', Brněnská encyklopedie ale jmenuje jako majitele Úřad pro zastupování státu ve věcech majetkových - rozpor, zde vedeno jako stát"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "Národní památkový ústav (územní odborné pracoviště Brno)",
+    "from": 2009,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "jine",
+    "note": "cs.wiki uvádí jako současného majitele Českou republiku, od 2009 ve správě NPÚ"
+   }
+  ],
+  "events": [
+   {
+    "year": 1929,
+    "text": "dokončení vily podle návrhu Ernsta Wiesnera (návrhy z roku 1927)"
+   },
+   {
+    "year": 1939,
+    "text": "vila zabavena říšskou státní policií, zřízeno důstojnické kasino"
+   },
+   {
+    "year": 1946,
+    "text": "uvalena národní správa"
+   },
+   {
+    "year": 1952,
+    "text": "vila se zahradou připadla krajskému národnímu výboru k reprezentačním účelům (vládní vila, mj. Fidel Castro 1972)"
+   },
+   {
+    "year": 1982,
+    "text": "zapsána na seznam kulturních památek"
+   },
+   {
+    "year": 2009,
+    "text": "převzal ji do správy Národní památkový ústav, zahájena obnova (do 2014)"
+   },
+   {
+    "year": 2014,
+    "text": "po rekonstrukci zpřístupněna veřejnosti, otevřeno Metodické centrum moderní architektury"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Vila_Stiassni",
+   "https://encyklopedie.brna.cz/home-mmb/?acc=profil-domu&load=88",
+   "https://www.vila-stiassni.cz/cs/o-vile/historie"
   ]
  },
  "Q940492": {
