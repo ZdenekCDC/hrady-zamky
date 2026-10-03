@@ -1,0 +1,341 @@
+{
+ "id": "Q31876033",
+ "name": "Dub",
+ "founded": {
+  "year": 1500,
+  "approx": true,
+  "text": "Předhusitská tvrz, kolem roku 1500 pozdně gotická přestavba za Beneše Dubského z Třebomyslic; na počátku 17. století renesanční zámek za Pavla Kavky z Říčan"
+ },
+ "summary": "Zámek Dub vznikl z předhusitské tvrze, kterou kolem roku 1500 přestavěl Beneš Dubský z Třebomyslic a na počátku 17. století Pavel Kavka z Říčan na renesanční zámek. Majitelé se později často střídali (Buquoyové, Cukrové z Tamfeldu, řada podnikatelů). Dnešní novogotickou podobu mu dal v letech 1854-1860 Mořic z Hönigsteinu. Po 1948 patřil státu a sloužil zemědělské škole, od restituce 1993 a prodeje 1998 je v soukromých rukách rodiny Battagliů.",
+ "owners": [
+  {
+   "owner": "dubsti-z-trebomyslic",
+   "owner_wiki": "Dubští z Třebomyslic",
+   "person": "Beneš Dubský z Třebomyslic",
+   "from": null,
+   "to": 1533,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "na Dubu sídlili od počátku 15. stol.; kolem roku 1500 přestavěl tvrz v pozdně gotickém stylu; prodali kolem roku 1533"
+  },
+  {
+   "owner": "budkovsti-z-budkova",
+   "owner_wiki": "Budkovští z Budkova",
+   "person": "Mikuláš Budkovský z Budkova",
+   "from": 1533,
+   "to": 1543,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "koupe"
+  },
+  {
+   "owner": "boubinsti-z-ujezda",
+   "owner_wiki": null,
+   "person": "Diviš Boubínský z Újezda",
+   "from": 1543,
+   "to": 1570,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "první písemná zmínka o tvrzi; kolem/po roce 1570 vsi vyměnili s Leskovci"
+  },
+  {
+   "owner": "leskovcove-z-leskovce",
+   "owner_wiki": "Leskovcové z Leskovce",
+   "person": "Vlachyně Leskovec z Leskovce",
+   "from": 1570,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "vymena",
+   "note": "výměna za zámek Střela (hrady.cz)"
+  },
+  {
+   "owner": "z-rican",
+   "owner_wiki": null,
+   "person": "Pavel Kavka z Říčan",
+   "from": null,
+   "to": 1622,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "majitelem v 90. letech 16. stol.; tvrz na počátku 17. stol. přestavěl na renesanční zámek; za stavovského povstání mu byl statek zkonfiskován"
+  },
+  {
+   "owner": "hodejovsti-z-hodejova",
+   "owner_wiki": "Hodějovští z Hodějova",
+   "person": "Anna z Hodějova (manželka Pavla Kavky)",
+   "from": 1622,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "zámek vykoupila (podle jiných zdrojů za čtvrtinu hodnoty); rok 1622 z webu visit.prachatice.eu a hrady.cz"
+  },
+  {
+   "owner": "z-hradku",
+   "owner_wiki": null,
+   "person": "Diviš Markvart z Hrádku",
+   "from": null,
+   "to": 1689,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "snatek",
+   "note": "manžel dcery Anny; Markvartové panství roku 1689 prodali"
+  },
+  {
+   "owner": "buquoyove",
+   "owner_wiki": "Buquoyové",
+   "person": "Karel Filip Buquoy",
+   "from": 1689,
+   "to": 1720,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe"
+  },
+  {
+   "owner": "rajsti-z-dubnice",
+   "owner_wiki": "Rajští z Dubnice",
+   "person": "Jan Štěpán Rajský z Dubnice",
+   "from": 1720,
+   "to": 1728,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe"
+  },
+  {
+   "owner": "buquoyove",
+   "owner_wiki": "Buquoyové",
+   "person": "Karel Kajetán Buquoy",
+   "from": 1728,
+   "to": 1741,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe"
+  },
+  {
+   "owner": "cukrove-z-tamfeldu",
+   "owner_wiki": "Cukrové z Tamfeldu",
+   "person": "Jan Erasmus Cukr z Tamfeldu",
+   "from": 1741,
+   "to": 1781,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "zemřel bez mužského dědice, rod vymřel; panství připadlo jeho vdově Markétě Malovcové z Malovic"
+  },
+  {
+   "owner": "z-linkeru",
+   "owner_wiki": null,
+   "person": "Jan František Linker z Lützenwicku",
+   "from": 1781,
+   "to": 1792,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "snatek",
+   "note": "roku 1781 se oženil s vdovou Markétou Malovcovou z Malovic"
+  },
+  {
+   "owner": "zadubsti-ze-schonthalu",
+   "owner_wiki": null,
+   "person": "Jáchym Zádubský ze Schönthalu",
+   "from": 1792,
+   "to": 1799,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Jakub Veith",
+   "from": 1799,
+   "to": 1810,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "textilní podnikatel, první nešlechtický majitel"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Andreas Neuhold",
+   "from": 1810,
+   "to": 1820,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "kutnohorský měšťan a voják"
+  },
+  {
+   "owner": "nadherni-z-borutina",
+   "owner_wiki": "Nádherní z Borutína",
+   "person": "Jan Nádherný",
+   "from": 1820,
+   "to": 1839,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "podnikatel, 1838 povýšen do šlechtického stavu"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Mořic rytíř z Hönigsteinu (Heniksteinu)",
+   "from": 1839,
+   "to": 1865,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "v letech 1854-1860 novogotická přestavba podle Josefa Niklase; zadlužil se a roku 1865 prodal"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Josef Odkolek",
+   "from": 1865,
+   "to": 1872,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "pražský podnikatel/měšťan"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Josef Lippmann rytíř z Bissingenu",
+   "from": 1872,
+   "to": 1873,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Crédit foncier für das Königreich Böhmen (hypoteční banka)",
+   "from": 1873,
+   "to": 1878,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "největší věřitel"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Gustav rytíř Schlesinger",
+   "from": 1878,
+   "to": 1882,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Emil Bellot",
+   "from": 1882,
+   "to": 1886,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "lékař"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Alina Bellotová, provd. Bambergerová",
+   "from": 1886,
+   "to": 1917,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "nezletilou dceru zastupovala matka Anna; Alina se 1892 provdala za Rudolfa Bambergera"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Josef Bromovský",
+   "from": 1917,
+   "to": 1948,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "po jeho smrti 1923 držela zámek podle hrady.cz manželka Marie; po únoru 1948 zabaveno"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1948,
+   "to": 1993,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "1951 převzaly Československé státní statky; později zemědělská škola (vystěhována 1995); mistopisy.cz uvádí rok 1948 jako převod státu"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Jiří Bromovský a potomci rodiny Bromovských",
+   "from": 1993,
+   "to": 1998,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "restituce"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Jaroslav Janoušek (rodina Battagliů)",
+   "from": 1998,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "stavební inženýr; syn Daniel adoptován Blankou Marií Battagliovou a rodina přijala jméno Battagliové; hospodářský dvůr koupen 2003, park a vila zůstaly potomkům Bromovských; mistopisy.cz uvádí Battagliovi jako majitele od 1992"
+  }
+ ],
+ "events": [
+  {
+   "year": 1274,
+   "text": "první písemná zmínka o Dubu (v přídomku Jana z Dubu)"
+  },
+  {
+   "year": 1543,
+   "text": "první písemná zmínka o tvrzi při prodeji Divišovi Boubínskému z Újezda"
+  },
+  {
+   "year": 1602,
+   "text": "počátek 17. století: Pavel Kavka z Říčan přestavěl tvrz na renesanční čtyřkřídlý zámek (hrady.cz: po 1602)"
+  },
+  {
+   "year": 1854,
+   "text": "1854-1860 novogotická přestavba podle projektu Josefa Niklase, vznik anglického parku"
+  },
+  {
+   "year": 1929,
+   "text": "zámek elektrifikován"
+  },
+  {
+   "year": 1951,
+   "text": "zámek převzaly Československé státní statky, později zemědělská škola"
+  },
+  {
+   "year": 1995,
+   "text": "vystěhování zemědělské školy ze zámku"
+  },
+  {
+   "year": 2004,
+   "text": "otevřena zámecká galerie, zámek je přístupný veřejnosti"
+  }
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Dub_(zámek)",
+  "https://www.hrady.cz/zamek-dub-prachatice/",
+  "https://visit.prachatice.eu/tipy-na-vylety/automaticky-vytvoreny-koncept-3/",
+  "https://zamekdub.webnode.cz/news/historie/"
+ ]
+}

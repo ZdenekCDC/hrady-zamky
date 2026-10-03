@@ -1,0 +1,20 @@
+{
+ "id": "Q11774453",
+ "name": "Dačice (starý zámek)",
+ "founded": {"year": 1572, "approx": false, "text": "1572-1579 stavba renesančního městského paláce Albrechtem Krajířem z Krajku a Magdalénou z Vřesovic"},
+ "summary": "Starý zámek v Dačicích dal v letech 1572-1579 postavit Albrecht Krajíř z Krajku s manželkou Magdalénou z Vřesovic jako náhradu za tvrz. Už roku 1591 je zmíněn nový zámek a starý sloužil jako sídlo správy panství. Od roku 1939 v něm sídlí městská správa; dnes patří městu Dačice a je v něm též městské muzeum.",
+ "owners": [
+  {"owner": "krajirove-z-krajku", "owner_wiki": "Krajířové z Krajku", "person": "Albrecht Krajíř z Krajku", "from": 1572, "to": 1610, "from_approx": false, "to_approx": false, "how": "zalozeni", "note": "Krajířové dačické panství drželi od 1459; rod vymřel po meči roku 1600, roku 1610 Kateřina z Krajku panství prodala Vilému Dubskému z Třebomyslic"},
+  {"owner": "neznamo", "owner_wiki": null, "person": "majitelé dačického panství", "from": 1610, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "zdroje neuvádějí majitele samotné budovy; panství držel Dubský z Třebomyslic (1610), Berkové z Dubé (1623), Fürstenberkové (1644), Vrbnové (1714), Ostein (1728), Dalberg (1809). Datum přechodu na město zdroje neuvádějí (správa města zde od 1939)"},
+  {"owner": "mesto", "owner_wiki": null, "person": "město Dačice", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "současný majitel dle cs.wiki; rok převodu neuveden, městská správa sídlí v budově od 1939 (po přestávce 1960-1991 znovu od 1991)"}
+ ],
+ "events": [
+  {"year": 1572, "text": "zahájena stavba starého zámku (dokončen 1579)"},
+  {"year": 1591, "text": "zmíněn nový zámek, starý zámek přestal sloužit jako sídlo šlechty a sloužil správě panství"},
+  {"year": 1939, "text": "do budovy přeneseno sídlo městské správy, úpravy"},
+  {"year": 1960, "text": "radnice přenesena do budovy v Komenského ulici"},
+  {"year": 1991, "text": "městský úřad se vrací do budovy zámku"},
+  {"year": 1992, "text": "poslední celková oprava, obnova sgrafit"}
+ ],
+ "sources": ["https://cs.wikipedia.org/wiki/Dačice_(starý_zámek)", "https://www.hrady.cz/zamek-dacice-stary-zamek", "https://www.dacice.cz/mesto/historie/"]
+}
