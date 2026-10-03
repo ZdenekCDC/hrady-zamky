@@ -6,7 +6,7 @@
   "approx": true,
   "text": "Hrad vystavěl nejspíše na přelomu 13. a 14. století piastovský vévoda Bolko I. Svídnický; první písemná zmínka pochází z roku 1307."
  },
- "summary": "Hrad nad Javorníkem založil piastovský vévoda Bolko I. Svídnický, roku 1348 jej vévoda Bolko II. postoupil vratislavskému biskupovi Přeclavovi z Pohořelé a od té doby byl součástí stolního majetku vratislavského biskupství. Po husitském dobytí roku 1428 jej biskupové Jan IV. Roth a Jan V. Thurzo přestavěli na renesanční zámek a pojmenovali Jánský Vrch; v 18. století za biskupa Schaffgotsche prošel barokní přestavbou a stal se oblíbeným letním sídlem vratislavských biskupů až do smrti kardinála Adolfa Bertrama roku 1945. Po válce se majetkové vztahy řešily desetiletí, roku 1959 byl zámek pronajat státu a roku 1984 plně zestátněn.",
+ "summary": "Hrad nad Javorníkem založil piastovský vévoda Bolko I. Svídnický, roku 1348 jej vévoda Bolko II. postoupil vratislavskému biskupovi Přeclavovi z Pohořelé a od té doby byl součástí stolního majetku vratislavského biskupství. Po husitském dobytí roku 1428 jej biskupové Jan IV. Roth a Jan V. Thurzo přestavěli na renesanční zámek a pojmenovali Jánský Vrch; v 18. století za biskupa Schaffgotsche prošel barokní přestavbou a stal se oblíbeným letním sídlem vratislavských biskupů až do smrti kardinála Adolfa Bertrama roku 1945. Po válce se majetkové vztahy mezi českou a polskou církví řešily desetiletí; roku 1959 byl zámek pronajat státu a v září 1984 plně zestátněn, dnes jej spravuje NPÚ.",
  "owners": [
   {
    "owner": "koruna",
@@ -17,39 +17,65 @@
    "from_approx": true,
    "to_approx": false,
    "how": "zalozeni",
-   "note": "piastovský vévoda svídnický, zeměpanský majetek; první písemná zmínka o hradu 1307"
+   "note": "piastovský vévoda svídnický, zeměpanský majetek; první písemná zmínka o hradu 1307; hrady.cz uvádí, že hrad roku 1348 koupil Bolko společně s biskupem Přeclavem od neuvedeného držitele (cs.wiki: Bolko II. práva postoupil biskupovi, hrad si mohl ponechat do smrti)"
   },
   {
    "owner": "cirkev",
    "owner_wiki": null,
    "person": "vratislavští biskupové",
    "from": 1348,
-   "to": 1945,
+   "to": 1984,
    "from_approx": false,
    "to_approx": false,
    "how": "dar",
-   "note": "vévoda Bolko II. Svídnický postoupil hrad biskupu Přeclavovi z Pohořelé; 1368-1371 dočasně obsazen vévodou Jindřichem Falkenberským, poté opět biskupský; posledním obyvatelem kardinál Adolf Bertram, zemřel na zámku 6. července 1945"
+   "note": "vévoda Bolko II. Svídnický postoupil hrad biskupu Přeclavovi z Pohořelé; 1368-1371 dočasně obsazen vévodou Jindřichem Falkenberským; do 1945 letní sídlo biskupů (kardinál Adolf Bertram zemřel na zámku 6. 7. 1945); po 1945 spravovala apoštolská administratura v Českém Těšíně a majetkové vztahy mezi českou a polskou církví se řešily do roku 1984; 1959 pronajato státu, 1963 správa Okresního vlastivědného muzea Šumperk"
   },
   {
    "owner": "stat",
    "owner_wiki": null,
    "person": null,
-   "from": 1945,
+   "from": 1984,
    "to": null,
    "from_approx": false,
    "to_approx": false,
-   "how": "konfiskace",
-   "note": "po válce se majetkové vztahy k zámku mezi českou a polskou římskokatolickou církví řešily desetiletí; 1959 pronajato státu, 1984 majetkové nároky vyrovnány a zámek plně zestátněn; dnes ve správě NPÚ"
+   "how": "jine",
+   "note": "v září 1984 vyrovnány majetkové nároky české a polské církve a zámek plně zestátněn; dnes ve správě NPÚ (ÚPS Kroměříž), od 2002 národní kulturní památka"
   }
  ],
  "events": [
-  {"year": 1307, "text": "první písemná zmínka o hradu Javorník (Jawirnich)"},
-  {"year": 1348, "text": "vévoda Bolko II. Svídnický postoupil hrad vratislavskému biskupovi Přeclavovi z Pohořelé"},
-  {"year": 1428, "text": "hrad dobyt a těžce poškozen husity"},
-  {"year": 1506, "text": "1482-1520 přestavba na renesanční zámek za biskupů Jana IV. Rotha a Jana V. Thurza, který mu dal jméno Jánský Vrch"},
-  {"year": 1766, "text": "biskup Filip Gotthard ze Schaffgotsche zahájil barokní přestavbu, na zámku žil až do smrti 1795"},
-  {"year": 1945, "text": "smrt kardinála Adolfa Bertrama, posledního rezidenta zámku"},
-  {"year": 1984, "text": "vyrovnány majetkové nároky české a polské církve, zámek plně zestátněn"}
+  {
+   "year": 1307,
+   "text": "první písemná zmínka o hradu Javorník (Jawirnich)"
+  },
+  {
+   "year": 1348,
+   "text": "vévoda Bolko II. Svídnický postoupil hrad vratislavskému biskupovi Přeclavovi z Pohořelé"
+  },
+  {
+   "year": 1428,
+   "text": "hrad dobyt a těžce poškozen husity"
+  },
+  {
+   "year": 1506,
+   "text": "1482-1520 přestavba na renesanční zámek za biskupů Jana IV. Rotha a Jana V. Thurza, který mu dal jméno Jánský Vrch"
+  },
+  {
+   "year": 1766,
+   "text": "biskup Filip Gotthard ze Schaffgotsche zahájil barokní přestavbu, na zámku žil až do smrti 1795"
+  },
+  {
+   "year": 1945,
+   "text": "smrt kardinála Adolfa Bertrama, posledního rezidenta zámku"
+  },
+  {
+   "year": 1984,
+   "text": "vyrovnány majetkové nároky české a polské církve, zámek plně zestátněn"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Jánský_Vrch_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Jánský_Vrch_(zámek)",
+  "https://www.zamek-janskyvrch.cz/cs/o-zamku",
+  "https://www.hrady.cz/zamek-jansky-vrch/texty?tid=4208",
+  "https://www.mestojavornik.cz/volny-cas/kultura-1/zamek-jansky-vrch/"
+ ]
 }

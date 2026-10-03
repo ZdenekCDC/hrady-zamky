@@ -6,7 +6,7 @@
   "approx": true,
   "text": "Hrad pravděpodobně založil v závěru své vlády (zemřel 1278) král Přemysl Otakar II. jako strážní bod u cesty z Milevska do Mirovic, kde se vybíralo mýto z plavby po Vltavě; do trvalého šlechtického držení se dostal až za Karla IV."
  },
- "summary": "Hrad Orlík založil ve druhé polovině 13. století Přemysl Otakar II. jako královský strážní bod nad Vltavou; roku 1357 jej Karel IV. udělil v manství mindenskému biskupovi Dětřichovi z Portic a později Pluhům z Rabštejna. Od roku 1407 jej vlastnili Zmrzlíkové ze Svojšína, mimo jiné husitský hejtman Petr Zmrzlík, který zde roku 1422 hostil Jana Žižku; roku 1514 hrad koupili Švamberkové, kteří jej přestavěli na zámek a hospodářské centrum panství. Po konfiskaci majetku Petra II. ze Švamberka za stavovského povstání koupili panství roku 1623 Eggenbergové a po vymření rodu roku 1717 je zdědili Schwarzenbergové, jejichž orlická větev na zámku sídlí (s přestávkami za nacistické a komunistické konfiskace 1939-1945 a 1948-1992) dodnes.",
+ "summary": "Hrad Orlík založil ve druhé polovině 13. století Přemysl Otakar II. jako královský strážní bod nad Vltavou; roku 1357 jej Karel IV. udělil v manství mindenskému biskupovi Dětřichovi z Portic a později Pluhům z Rabštejna. Od roku 1407 jej vlastnili Zmrzlíkové ze Svojšína, mimo jiné husitský hejtman Petr Zmrzlík, který zde roku 1422 hostil Jana Žižku; roku 1514 (podle webu zámku 1512) hrad koupili Švamberkové, kteří jej přestavěli na zámek a hospodářské centrum panství. Po konfiskaci majetku Petra II. ze Švamberka za stavovského povstání koupili panství roku 1623 Eggenbergové a po vymření rodu roku 1717 je zdědili Schwarzenbergové, jejichž orlická větev na zámku sídlí (s přestávkami za nacistické a komunistické konfiskace 1939-1945 a 1948-1992) dodnes.",
  "owners": [
   {
    "owner": "koruna",
@@ -147,9 +147,9 @@
    "from": 1501,
    "to": 1514,
    "from_approx": false,
-   "to_approx": false,
+   "to_approx": true,
    "how": "dedictvi",
-   "note": "hrad 1508 vyhořel, odstěhoval se do Lnářů a ustanovil purkrabím Jindřicha ze Sobučic; 1513 dosáhl propuštění hradu z manství, 2. února 1514 jej prodal Kryštofovi ze Švamberka"
+   "note": "hrad 1508 vyhořel, odstěhoval se do Lnářů a ustanovil purkrabím Jindřicha ze Sobučic; 1513 dosáhl propuštění hradu z manství, 2. února 1514 jej prodal Kryštofovi ze Švamberka; web zámku uvádí prodej Kryštofovi ze Švamberka už 1512"
   },
   {
    "owner": "pani-ze-svamberka",
@@ -157,10 +157,10 @@
    "person": "Kryštof ze Švamberka",
    "from": 1514,
    "to": 1534,
-   "from_approx": false,
+   "from_approx": true,
    "to_approx": false,
    "how": "koupe",
-   "note": "nechal hrad rozsáhle přestavět (obytné prostory, pivovar, hospodářské budovy); Orlík se stal centrem panství s pěti dvory, 51 vesnicemi a třemi městečky"
+   "note": "nechal hrad rozsáhle přestavět (obytné prostory, pivovar, hospodářské budovy); Orlík se stal centrem panství s pěti dvory, 51 vesnicemi a třemi městečky; cs.wiki 1514 (2. 2. 1514), web zámku uvádí prodej 1512"
   },
   {
    "owner": "pani-ze-svamberka",
@@ -281,29 +281,40 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "koupil 13. listopadu 1623 za 159 360 kop a 8 míšeňských grošů; Eggenbergové na zámku trvale nesídlili, ale nechali jej udržovat a rozšiřovat; roku 1717 zemřel poslední mužský příslušník rodu, třináctiletý Jan Kristián II."
+   "note": "koupil 13. listopadu 1623 za 159 360 kop a 8 míšeňských grošů; Eggenbergové na zámku trvale nesídlili, ale nechali jej udržovat a rozšiřovat; roku 1717 zemřel poslední mužský příslušník rodu, třináctiletý Jan Kristián II.; web zámku uvádí držení Eggenbergů do 1719"
   },
   {
    "owner": "eggenbergove",
    "owner_wiki": "Eggenbergové",
    "person": "Marie Arnoštka z Eggenberku (vdova po Janu Kristiánovi I.)",
    "from": 1717,
-   "to": 1717,
+   "to": 1719,
    "from_approx": false,
    "to_approx": true,
    "how": "dedictvi",
-   "note": "zdědila majetek po smrti nezletilého Jana Kristiána II.; odkázala jej svému synovci Adamu Františkovi ze Schwarzenbergu"
+   "note": "po smrti nezletilého Jana Kristiána II. (1717) zdědila majetek; zemřela 1719 a odkázala jej synovci Adamu Františkovi ze Schwarzenbergu (web zámku a cs.wiki hrobky: Schwarzenbergové drží Orlík od 1719)"
   },
   {
    "owner": "schwarzenbergove",
    "owner_wiki": "Schwarzenbergové",
    "person": "Adam František ze Schwarzenbergu",
-   "from": 1717,
-   "to": null,
+   "from": 1719,
+   "to": 1732,
    "from_approx": true,
    "to_approx": true,
    "how": "dedictvi",
-   "note": "Schwarzenbergové sídlili především v Českém Krumlově, pro Orlík vznikly jen projekty přestaveb (A. E. Martinelli 1725, 1731; F. J. Fortini 1751-1753)"
+   "note": "Orlík byl sídlem panské správy, ne rodu (Schwarzenbergové sídlili v Českém Krumlově); pro Orlík vznikly jen projekty přestaveb (A. E. Martinelli 1725, 1731; F. J. Fortini 1751-1753); rok 1717 (cs.wiki) vs 1719 (web zámku); úmrtí Adama Františka 1732 podle cs.wiki článku o hrobce"
+  },
+  {
+   "owner": "schwarzenbergove",
+   "owner_wiki": "Schwarzenbergové",
+   "person": "Schwarzenbergové (jeho nástupci, primogenitura)",
+   "from": 1732,
+   "to": 1802,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "jednotliví držitelé zdroje neuvádějí; do 1802 patřil Orlík k jednotnému schwarzenberskému majetku"
   },
   {
    "owner": "schwarzenbergove",
@@ -314,7 +325,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "po rozdělení schwarzenberského majetku na dvě větve (1802) se s rodinou stal prvním trvalým panským obyvatelem zámku po dlouhé době; polní maršálek, vítěz nad Napoleonem u Lipska; zemřel 15. října 1820"
+   "note": "po rozdělení schwarzenberského majetku na dvě větve (1802) se s rodinou stal prvním trvalým panským obyvatelem zámku po dlouhé době; polní maršálek, vítěz nad Napoleonem u Lipska; zemřel 15. října 1820; 1802 zámek stižen požárem a zvýšen o třetí patro"
   },
   {
    "owner": "schwarzenbergove",
@@ -391,7 +402,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "restituce",
-   "note": "po restituci majetku 1992 se vzdal funkce vedoucího kanceláře prezidenta Václava Havla a převzal správu rodového panství"
+   "note": "po restituci majetku 1992 se vzdal funkce vedoucího kanceláře prezidenta Václava Havla a převzal správu rodového panství; web zámku: restituce 1992, Karel VII. (adoptován 1962 Jindřichem Schwarzenbergem, spojil obě větve rodu)"
   },
   {
    "owner": "schwarzenbergove",
@@ -399,21 +410,58 @@
    "person": "Jan Nepomuk Schwarzenberg",
    "from": 2006,
    "to": null,
-   "from_approx": false,
+   "from_approx": true,
    "to_approx": false,
    "how": "jine",
-   "note": "od roku 2006 rodový majetek, včetně zámku Orlík, spravuje syn Karla Schwarzenberga"
+   "note": "od roku 2006 (cs.wiki; web zámku uvádí převzetí správy 2007) rodový majetek včetně zámku spravuje syn Karla Schwarzenberga; současný majitel"
   }
  ],
  "events": [
-  {"year": 1357, "text": "Karel IV. udělil hrad v manství mindenskému biskupovi Dětřichovi z Portic"},
-  {"year": 1407, "text": "hrad koupil Petr starší Zmrzlík ze Svojšína"},
-  {"year": 1422, "text": "na hradě pobýval husitský vojevůdce Jan Žižka a napsal zde list Domažlickým"},
-  {"year": 1514, "text": "Orlík koupil Kryštof ze Švamberka, rod jej přestavěl na zámek a hospodářské centrum panství"},
-  {"year": 1621, "text": "stavovská posádka hradu se po obležení císařským vojskem vzdala"},
-  {"year": 1623, "text": "zkonfiskované panství koupil Jan Oldřich z Eggenberka"},
-  {"year": 1802, "text": "rozdělení schwarzenberského majetku na dvě větve, Karel Filip ze Schwarzenbergu se stal prvním trvalým obyvatelem zámku"},
-  {"year": 1948, "text": "majetek zabaven komunistickým režimem, Schwarzenbergové odešli do exilu; zámek zpřístupněn veřejnosti"}
+  {
+   "year": 1357,
+   "text": "Karel IV. udělil hrad v manství mindenskému biskupovi Dětřichovi z Portic"
+  },
+  {
+   "year": 1407,
+   "text": "hrad koupil Petr starší Zmrzlík ze Svojšína"
+  },
+  {
+   "year": 1422,
+   "text": "na hradě pobýval husitský vojevůdce Jan Žižka a napsal zde list Domažlickým"
+  },
+  {
+   "year": 1514,
+   "text": "Orlík koupil Kryštof ze Švamberka, rod jej přestavěl na zámek a hospodářské centrum panství"
+  },
+  {
+   "year": 1621,
+   "text": "stavovská posádka hradu se po obležení císařským vojskem vzdala"
+  },
+  {
+   "year": 1623,
+   "text": "zkonfiskované panství koupil Jan Oldřich z Eggenberka"
+  },
+  {
+   "year": 1802,
+   "text": "rozdělení schwarzenberského majetku na dvě větve, Karel Filip ze Schwarzenbergu se stal prvním trvalým obyvatelem zámku"
+  },
+  {
+   "year": 1802,
+   "text": "požár zámku, při obnově zvýšen o třetí patro; zámek se stal sídlem orlické větve Schwarzenbergů"
+  },
+  {
+   "year": 1948,
+   "text": "majetek zabaven komunistickým režimem, Schwarzenbergové odešli do exilu; zámek zpřístupněn veřejnosti"
+  },
+  {
+   "year": 1992,
+   "text": "zámek vyňat ze státní správy a v restituci vrácen Karlu Schwarzenbergovi"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Orlík_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Orlík_(zámek)",
+  "https://www.zamekorlik.cz/o-zamku/historie-zamku/",
+  "https://www.zamekorlik.cz/o-zamku/schwarzenbergove-a-orlik/",
+  "https://cs.wikipedia.org/wiki/Schwarzenbersk%C3%A1_hrobka_(Orl%C3%ADk_nad_Vltavou)"
+ ]
 }

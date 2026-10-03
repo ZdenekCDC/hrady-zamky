@@ -6,30 +6,177 @@
   "approx": false,
   "text": "Roku 1371 byla na místě dnešního zámku písemně zmíněna tvrz, kterou vlastnil Smil z Police."
  },
- "summary": "Tvrz v Polici, doloženou od roku 1371, vlastnila postupně řada nižších šlechticů, než ji Bačkovičtí mezi lety 1444-1520 rozšířili a roku 1524 prodali Janovi Tavíkovskému z Tavíkovic, který ji roku 1534 přestavěl na renesanční zámek. Od roku 1633 do 1821 zámek patřil Berchtoldům z Uherčic, poté se v 19. století rychle střídali soukromí majitelé i město Znojmo, než jej roku 1887 získali Wraždové z Kunvaldu. Po konfiskaci roku 1945 sloužil zámek mimo jiné jako průmyslový objekt, roku 1996 jej získala obec Police a postupně jej zrekonstruovala a zpřístupnila veřejnosti.",
+ "summary": "Tvrz v Polici, doloženou od roku 1371, vlastnila postupně řada nižších šlechticů, než ji Bačkovičtí mezi lety 1444-1520 rozšířili a roku 1524 prodali Janovi Tavíkovskému z Tavíkovic, který ji roku 1534 přestavěl na renesanční zámek. Od roku 1633 do 1821 zámek patřil Berchtoldům z Uherčic, poté se v 19. století rychle střídali soukromí majitelé i město Znojmo, než jej roku 1887 získali Wraždové z Kunvaldu. Po konfiskaci roku 1945 sloužil zámek mimo jiné jako průmyslový objekt, roku 1996 jej získala obec Police (hrady.cz uvádí 1989) a postupně jej zrekonstruovala a zpřístupnila veřejnosti.",
  "owners": [
-  {"owner": "z-police", "owner_wiki": null, "person": "Smil z Police", "from": 1371, "to": 1390, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "článek o rodu na cs.wiki neexistuje"},
-  {"owner": "z-kostnik", "owner_wiki": null, "person": "Jan z Kostník", "from": 1390, "to": 1437, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "článek o rodu na cs.wiki neexistuje"},
-  {"owner": "z-backovic", "owner_wiki": null, "person": "Adam z Bačkovic", "from": 1437, "to": 1524, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "Bačkovičtí zámek mezi lety 1444 a 1520 značně rozšířili, roku 1524 jej prodali; článek o rodu na cs.wiki neexistuje"},
-  {"owner": "z-tavikovic", "owner_wiki": null, "person": "Jan Tavíkovský z Tavíkovic", "from": 1524, "to": 1633, "from_approx": false, "to_approx": false, "how": "koupe", "note": "roku 1534 přestavěl tvrz na renesanční zámek s pozdně gotickými rysy, vznikl zámecký park; článek o rodu na cs.wiki neexistuje"},
-  {"owner": "berchtoldove-z-uhercic", "owner_wiki": "Berchtoldové z Uherčic", "person": null, "from": 1633, "to": 1821, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "v 18. století upravili interiér do barokního stylu, v letech 1702-1705 na výzdobě pracoval italský sochař a štukatér Baldassare Fontana"},
-  {"owner": "soukromnik", "owner_wiki": null, "person": "August Segur", "from": 1821, "to": 1860, "from_approx": false, "to_approx": false, "how": "koupe", "note": "jeho rodina zámek roku 1860 prodala"},
-  {"owner": "mesto", "owner_wiki": null, "person": null, "from": 1860, "to": 1872, "from_approx": false, "to_approx": false, "how": "koupe", "note": "město Znojmo"},
-  {"owner": "soukromnik", "owner_wiki": null, "person": "Maxmilián Springer", "from": 1872, "to": 1885, "from_approx": false, "to_approx": false, "how": "koupe"},
-  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": "Leopold Šternberk", "from": 1885, "to": 1887, "from_approx": false, "to_approx": false, "how": "koupe"},
-  {"owner": "z-kunvaldu", "owner_wiki": null, "person": null, "from": 1887, "to": 1945, "from_approx": false, "to_approx": false, "how": "koupe", "note": "Wraždové z Kunvaldu; článek o rodu na cs.wiki neexistuje"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": 1996, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "zámek využíván mimo jiné jako průmyslový objekt pro zpracování kůží"},
-  {"owner": "mesto", "owner_wiki": null, "person": null, "from": 1996, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "obec Police zámek postupně rekonstruovala, 2005 zpřístupněn veřejnosti, 2008 rekonstrukce západního křídla; obec usiluje o statut Národní kulturní památky"}
+  {
+   "owner": "z-police",
+   "owner_wiki": null,
+   "person": "Smil z Police",
+   "from": 1371,
+   "to": 1390,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "článek o rodu na cs.wiki neexistuje"
+  },
+  {
+   "owner": "z-kostnik",
+   "owner_wiki": null,
+   "person": "Jan z Kostník",
+   "from": 1390,
+   "to": 1437,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "tvrz prodal Adamovi z Bačkovic před rokem 1437 (hrady.cz); článek o rodu na cs.wiki neexistuje"
+  },
+  {
+   "owner": "z-backovic",
+   "owner_wiki": null,
+   "person": "Adam z Bačkovic",
+   "from": 1437,
+   "to": 1524,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "synové Adama z Bačkovic a nejspíš i vnuk tvrz 1444-1520 značně rozšířili, 1524 prodána; článek o rodu na cs.wiki neexistuje"
+  },
+  {
+   "owner": "z-tavikovic",
+   "owner_wiki": null,
+   "person": "Jan Tavíkovský z Tavíkovic",
+   "from": 1524,
+   "to": 1633,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "roku 1534 přestavěl tvrz na renesanční zámek s pozdně gotickými rysy, vznikl zámecký park; článek o rodu na cs.wiki neexistuje"
+  },
+  {
+   "owner": "berchtoldove-z-uhercic",
+   "owner_wiki": "Berchtoldové z Uherčic",
+   "person": "Jakub Berchtold z Uherčic (získal 1633), později Karel Berchtold",
+   "from": 1633,
+   "to": 1821,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "oficiální web obce uvádí Jakuba Berchtolda jako majitele od 1633 do 1821; koncem 18. století barokní úprava interiéru, štuky Baldassare Fontany (1702-1705); Karel Berchtold panství prodal Augustu Segurovi"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "August Segur (francouzský šlechtic, hrabě)",
+   "from": 1821,
+   "to": 1860,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "jeho rodina zámek roku 1860 prodala"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1860,
+   "to": 1872,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "město Znojmo zámek po 1860 dávalo do nájmu"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Maxmilián Springer",
+   "from": 1872,
+   "to": 1885,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe"
+  },
+  {
+   "owner": "sternberkove",
+   "owner_wiki": "Šternberkové",
+   "person": "Leopold Šternberk",
+   "from": 1885,
+   "to": 1887,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe"
+  },
+  {
+   "owner": "z-kunvaldu",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1887,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Wraždové z Kunvaldu; článek o rodu na cs.wiki neexistuje"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": 1996,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "Wraždové z Kunvaldu; 1945 konfiskace; poté hospodařilo několik organizací, mj. kožedělný podnik z Jihlavy; oficiální web obce uvádí neurčitě 'do roku 1948 se vystřídalo několik rodů'; 1958 učiliště, od 1970 dílny Snahy Jihlava; článek o rodu na cs.wiki neexistuje"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1996,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "podle cs.wiki a webu obce od 1996 majetkem obce (hrady.cz uvádí 1989, 'po revoluci'); 2005 zpřístupněn, 2008 rekonstrukce západního křídla; obec usiluje o statut NKP"
+  }
  ],
  "events": [
-  {"year": 1371, "text": "první písemná zmínka o tvrzi, majitel Smil z Police"},
-  {"year": 1524, "text": "Bačkovičtí prodávají rozšířenou tvrz Janovi Tavíkovskému z Tavíkovic"},
-  {"year": 1534, "text": "přestavba na renesanční zámek s pozdně gotickými prvky"},
-  {"year": 1633, "text": "zámek získávají Berchtoldové z Uherčic"},
-  {"year": 1705, "text": "dokončena barokní výzdoba interiérů italským sochařem Baldassare Fontanou (1702-1705)"},
-  {"year": 1945, "text": "zámek zkonfiskován, později sloužil mimo jiné jako průmyslový objekt"},
-  {"year": 1996, "text": "zámek získává obec Police a zahajuje jeho rekonstrukci"},
-  {"year": 2017, "text": "v zámku otevřeno muzeum RAF"}
+  {
+   "year": 1371,
+   "text": "první písemná zmínka o tvrzi, majitel Smil z Police"
+  },
+  {
+   "year": 1524,
+   "text": "Bačkovičtí prodávají rozšířenou tvrz Janovi Tavíkovskému z Tavíkovic"
+  },
+  {
+   "year": 1534,
+   "text": "přestavba na renesanční zámek s pozdně gotickými prvky"
+  },
+  {
+   "year": 1633,
+   "text": "zámek získávají Berchtoldové z Uherčic"
+  },
+  {
+   "year": 1705,
+   "text": "dokončena barokní výzdoba interiérů italským sochařem Baldassare Fontanou (1702-1705)"
+  },
+  {
+   "year": 1945,
+   "text": "zámek zkonfiskován, později sloužil mimo jiné jako průmyslový objekt"
+  },
+  {
+   "year": 1996,
+   "text": "zámek získává obec Police a zahajuje jeho rekonstrukci"
+  },
+  {
+   "year": 2017,
+   "text": "v zámku otevřeno muzeum RAF"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Police_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Police_(zámek)",
+  "https://www.obec-police.cz/zamek-police-5",
+  "https://www.obec-police.cz/historie-obce-1",
+  "https://www.hrady.cz/zamek-police/"
+ ]
 }

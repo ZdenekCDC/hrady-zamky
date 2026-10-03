@@ -1,14 +1,39 @@
 {
  "id": "Q11176678",
  "name": "Červený Újezd",
- "founded": {"year": 2001, "approx": false, "text": "hrad je historizující novostavba postavená v letech 2001-2002 ve stylu rytířské tvrze a usedlosti; není totožný s dřívějším zámkem téhož jména"},
+ "founded": {
+  "year": 2001,
+  "approx": false,
+  "text": "hrad je historizující novostavba postavená v letech 2001-2002 ve stylu rytířské tvrze a usedlosti; není totožný s dřívějším zámkem téhož jména; web hradu uvádí stavbu 2001-2002, rozhovor v Pražském deníku (2014) dokončení 2003"
+ },
  "summary": "Hrad Červený Újezd je moderní historizující novostavba postavená v letech 2001-2002 investorem Pavlem Ornou, mísící gotické, renesanční a další dobové slohy. Od svého vzniku slouží komerčně jako muzeum, skanzen a místo pro ubytování i firemní a společenské akce. Nejedná se o stejný objekt jako starší zámek Červený Újezd, který v 16. a počátkem 17. století patřil Žďárským ze Žďáru.",
  "owners": [
-  {"owner": "soukromnik", "owner_wiki": null, "person": "Pavel Orna", "from": 2001, "to": null, "from_approx": false, "to_approx": false, "how": "zalozeni", "note": "majitel a investor novostavby; na vlastních stránkách hradu jméno není zmíněno"}
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Pavel Orna",
+   "from": 2001,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "majitel a investor novostavby; vlastník potvrzen rejstříkem ARES (Pavel Orna, IČO 12250414, provozuje Hrad Červený Újezd) a rozhovorem v Pražském deníku; na vlastních stránkách hradu jméno není zmíněno (Pražský deník jej na jednom místě chybně uvádí jako Petra Ornu); dokončení podle deníku až 2003, web hradu 2002"
+  }
  ],
  "events": [
-  {"year": 2001, "text": "zahájena stavba historizujícího hradu (dokončena 2002)"},
-  {"year": 2008, "text": "provozovatel uvádí ve vystaveném Muzeu českého venkova na 4000 exponátů"}
+  {
+   "year": 2001,
+   "text": "zahájena stavba historizujícího hradu (dokončena 2002)"
+  },
+  {
+   "year": 2008,
+   "text": "provozovatel uvádí ve vystaveném Muzeu českého venkova na 4000 exponátů"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Červený_Újezd_(hrad)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Červený_Újezd_(hrad)",
+  "https://www.hrad-cervenyujezd.cz/inpage/hrad-a-muzeum/",
+  "https://prazsky.denik.cz/z-regionu/postavil-si-vlastni-hrad-kde-se-snazi-vypravet-o-cesich-20140204.html",
+  "https://www.finmag.cz/obchodni-rejstrik/ares/12250414-pavel-orna"
+ ]
 }

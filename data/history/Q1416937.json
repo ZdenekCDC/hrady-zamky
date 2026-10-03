@@ -6,7 +6,7 @@
   "approx": true,
   "text": "Gotická tvrz, předchůdkyně zámku, je poprvé písemně doložena roku 1385, patrně vznikla už dříve ve 14. století"
  },
- "summary": "Duchcovský zámek vznikl na místě gotické tvrze, kterou od roku 1473 vlastnili Kaplířové ze Sulevic a roku 1527 ji prodali Lobkovicům; ti nechali sídlo renesančně přestavět. Od roku 1642 patřil rodu Valdštejnů, kteří provedli rozsáhlou barokní přestavbu (architekt Jan Baptista Mathey) a zámek drželi až do roku 1920, kdy byl v rámci pozemkové reformy zkonfiskován. Od té doby je majetkem státu, dnes je ve správě Národního památkového ústavu a slouží kulturním účelům, mj. expozici věnované Giacomu Casanovovi, který zde působil jako knihovník.",
+ "summary": "Duchcovský zámek vznikl na místě gotické tvrze, kterou od roku 1473 vlastnili Kaplířové ze Sulevic a roku 1527 ji prodali Lobkovicům; ti nechali sídlo renesančně přestavět. Od roku 1642 patřil rodu Valdštejnů, kteří provedli rozsáhlou barokní přestavbu (architekt Jan Baptista Mathey) a zámek drželi až do roku 1920, kdy byl v rámci pozemkové reformy zkonfiskován (zdroje uvádějí 1920-1922). Od té doby je majetkem státu, dnes je ve správě Národního památkového ústavu a slouží kulturním účelům, mj. expozici věnované Giacomu Casanovovi, který zde působil jako knihovník.",
  "owners": [
   {
    "owner": "kaplirove-ze-sulevic",
@@ -17,29 +17,249 @@
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "Pavel Kaplíř založil v sousedství vyhořelé staré tvrze novou, která se od 1491 stala centrem panství; posledním z rodu v Duchcově byl Jan Kaplíř ze Sulevic, jenž panství 1527 prodal"
+   "note": "Pavel Kaplíř založil v sousedství vyhořelé staré tvrze novou, která se od 1491 stala centrem panství; posledním z rodu v Duchcově byl Jan Kaplíř ze Sulevic, jenž panství 1527 prodal; web zámku uvádí Kaplíře jako majitele na přelomu 15. a 16. stol.; Pavlovi následoval Purkart Kaplíř ze Sulevic"
   },
   {
    "owner": "lobkovicove",
    "owner_wiki": "Lobkovicové",
-   "person": "Děpolt a Václav Popel z Lobkovic",
+   "person": "Děpolt Popel z Lobkovic",
    "from": 1527,
-   "to": 1642,
+   "to": 1538,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "koupil za 19 600 kop míšeňských grošů od Jana Kaplíře; král Ferdinand I. jej osvobodil z lenního závazku; panství pak přešlo na Václava Popela (podle městské chronologie 1538)"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Václav Popel z Lobkovic",
+   "from": 1538,
+   "to": 1574,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "nechal tvrz renesančně přestavět, druhá přestavba od 1570 podle Ulrica Aostalliho de Sala; zemřel 1574"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Jiří Popel z Lobkovic (nejprve za nezletilé bratry spravovala vdova Benigna z Veitmile)",
+   "from": 1574,
+   "to": null,
    "from_approx": false,
    "to_approx": false,
-   "how": "koupe",
-   "note": "koupeno za 19600 kop míšeňských grošů; Václav Popel nechal tvrz renesančně přestavět; po dělení mezi syny a vnuky připadl zámek nakonec Františku Josefu Popelovi z Lobkovic, po jehož smrti jej zdědila manželka Polyxena Marie z Talmberka"
+   "how": "dedictvi",
+   "note": "po dělení bratří připadl Duchcov Jiřímu, který jej držel do smrti"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Adam Havel Popel z Lobkovic",
+   "from": null,
+   "to": 1606,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "sestrám Barboře a Anně zapsal podíl 7 500 kop grošů každé; zemřel 1606"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "Václav Vilém Popel z Lobkovic",
+   "from": 1612,
+   "to": 1621,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "nezletilý, panství spravovaly do 1612 jeho tety Barbora a Anna; zemřel okolo 1625, panství přešlo už 1621 na syna"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "František Josef Popel z Lobkovic",
+   "from": 1621,
+   "to": 1642,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "plnoletosti dosáhl 1635 (říšský hrabě), poslední Lobkovic v Duchcově; zemřel brzy, zámek odkázal manželce Polyxeně Marii z Talmberka, která se 1642 provdala za Maxmiliána z Valdštejna"
   },
   {
    "owner": "valdstejnove",
    "owner_wiki": "Valdštejnové",
    "person": "Maxmilián z Valdštejna",
    "from": 1642,
-   "to": 1920,
+   "to": 1655,
    "from_approx": false,
    "to_approx": false,
    "how": "snatek",
-   "note": "získal zámek sňatkem s ovdovělou Polyxenou Marií z Talmberka; syn Jan Bedřich zahájil barokní přestavbu (1675-1720. léta, architekt J. B. Mathey); posledním šlechtickým majitelem byl Adolf Arnošt z Valdštejna (od 1912)"
+   "note": "získal zámek sňatkem s ovdovělou Polyxenou Marií z Talmberka; zámek web zámku i NPÚ uvádí od 1642; článek na webu města (duchcov.cz) uvádí koupi Valdštejny od Lobkoviců už 1618 (hrabě Adam, zemřel 1640) - rozpor"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Jan Bedřich z Valdštejna (pražský arcibiskup)",
+   "from": 1655,
+   "to": 1694,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "zahájil barokní přestavbu (od 1675, J. B. Mathey); 1667 spojil panství Duchcov a Horní Litvínov do fideikomisu; bezdětný"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Jan Josef z Valdštejna",
+   "from": 1694,
+   "to": 1731,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "prasynovec Jana Bedřicha, univerzální dědic fideikomisu; do 1707 panství spravoval jeho otec Arnošt Josef (kostel Zvěstování Panny Marie, biliárové křídlo)"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "František Josef z Valdštejna",
+   "from": 1731,
+   "to": 1760,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "synovec Jana Josefa"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Emanuel Filibert z Valdštejna",
+   "from": 1760,
+   "to": 1775,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "syn Františka Josefa"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Josef Karel Emanuel z Valdštejna",
+   "from": 1775,
+   "to": 1814,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "hostitel Giacoma Casanovy, který zde 1785-1798 působil jako knihovník; bezdětný; mladší bratr Jan Bedřich zemřel 1812 před převzetím panství"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "František Adam z Valdštejna",
+   "from": 1814,
+   "to": 1823,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "klasicistní úprava fasád 1812-1818; vlastnil do března 1823"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Ferdinand Arnošt z Valdštejna",
+   "from": 1823,
+   "to": 1823,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "bratr předchozího, zemřel po dvou měsících"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Jiří Josef z Valdštejna",
+   "from": 1823,
+   "to": 1825,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "bratranec předchozích hrabat; zemřel 1825"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Antonín z Valdštejna",
+   "from": 1825,
+   "to": 1848,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "syn Jiřího Josefa; kongres panovníků a přehlídky 1835 a 1838"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Jiří z Valdštejna",
+   "from": 1848,
+   "to": 1854,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "po jeho smrti 1854 statek spravovala vdova Antonie, rozená Boudová"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Antonie z Valdštejna, rozená Boudová (vdova, správkyně)",
+   "from": 1854,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "rok předání synovi zdroje neuvádějí"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Jiří Vilém z Valdštejna",
+   "from": null,
+   "to": 1890,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "manžel Pascaliny Metternich-Winnenburgové; po jeho smrti 1890 spory o majetek"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Jiří Jan z Valdštejna",
+   "from": 1894,
+   "to": 1901,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "synovec Jiřího Viléma; jeho smrtí vymřela duchcovská větev rodu"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Arnošt Karel z Valdštejna (mnichovohradišťská větev)",
+   "from": 1901,
+   "to": 1912,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "zemřel 1913 (cs.wiki: 1849-1913); rok 1912 viz následník"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Adolf Arnošt z Valdštejna",
+   "from": 1912,
+   "to": 1920,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "nevlastní bratr Arnošta Karla, poslední šlechtický majitel; vlastnil i Mnichovo Hradiště, Doksy aj.; konec držení se v pramenech liší (1920 konfiskace, 1921 prodej státu, 1922 koupě okresním úřadem)"
   },
   {
    "owner": "stat",
@@ -47,21 +267,54 @@
    "person": null,
    "from": 1920,
    "to": null,
-   "from_approx": false,
+   "from_approx": true,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "panství zkonfiskováno při pozemkové reformě, samotný zámek 1922 koupil okresní úřad v Duchcově; po 2. světové válce sloužil různým institucím, dnes je ve správě Národního památkového ústavu"
+   "note": "panství zkonfiskováno při pozemkové reformě 1920, samotný zámek 1922 koupil okresní úřad v Duchcově (cs.wiki); web zámku: 1921 Valdštejnové prodali zámek státu, městská chronologie: 1918 se zámek stává majetkem státu; dnes ve vlastnictví státu, správu zajišťuje Národní památkový ústav; kostel Zvěstování Panny Marie zůstává v majetku církve"
   }
  ],
  "events": [
-  {"year": 1385, "text": "první písemná zmínka o duchcovské tvrzi"},
-  {"year": 1425, "text": "stará tvrz vyhořela"},
-  {"year": 1473, "text": "Duchcov získali Kaplířové ze Sulevic, Pavel Kaplíř založil novou tvrz"},
-  {"year": 1527, "text": "Jan Kaplíř ze Sulevic prodal panství Popelům z Lobkovic"},
-  {"year": 1675, "text": "zahájena barokní přestavba zámku podle plánů Jana Baptisty Matheye"},
-  {"year": 1785, "text": "na zámku začal jako knihovník působit Giacomo Casanova"},
-  {"year": 1920, "text": "panství zkonfiskováno při pozemkové reformě, zámek přešel do veřejného vlastnictví"},
-  {"year": 1964, "text": "zámek prohlášen kulturní památkou"}
+  {
+   "year": 1385,
+   "text": "první písemná zmínka o duchcovské tvrzi"
+  },
+  {
+   "year": 1425,
+   "text": "stará tvrz vyhořela"
+  },
+  {
+   "year": 1473,
+   "text": "Duchcov získali Kaplířové ze Sulevic, Pavel Kaplíř založil novou tvrz"
+  },
+  {
+   "year": 1527,
+   "text": "Jan Kaplíř ze Sulevic prodal panství Popelům z Lobkovic"
+  },
+  {
+   "year": 1675,
+   "text": "zahájena barokní přestavba zámku podle plánů Jana Baptisty Matheye"
+  },
+  {
+   "year": 1785,
+   "text": "na zámku začal jako knihovník působit Giacomo Casanova"
+  },
+  {
+   "year": 1920,
+   "text": "panství zkonfiskováno při pozemkové reformě, zámek přešel do veřejného vlastnictví"
+  },
+  {
+   "year": 1945,
+   "text": "10. května požár zámeckého kostela Zvěstování Panny Marie za pobytu sovětské armády, interiér zničen"
+  },
+  {
+   "year": 1964,
+   "text": "zámek prohlášen kulturní památkou"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Duchcov_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Duchcov_(zámek)",
+  "https://www.zamek-duchcov.cz/cs/o-zamku/historie",
+  "https://www.duchcov.cz/historie/d-1002",
+  "https://www.duchcov.cz/noviny/200801/historie.htm"
+ ]
 }

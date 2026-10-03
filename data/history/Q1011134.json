@@ -2,11 +2,11 @@
  "id": "Q1011134",
  "name": "Boskovice",
  "founded": {
-  "year": 1230,
-  "approx": true,
-  "text": "Hrad založili pravděpodobně již v první polovině 13. století páni z Boskovic; první písemná zmínka o boskovickém hradu je až z roku 1312, k roku 1222 je doložen šlechtic Jimram z Boskovic, možná ještě na jiném opevněném sídle."
+  "year": null,
+  "approx": false,
+  "text": "1. pol. 13. stol. (cs.wiki); web hradu a archeologie: dnešní hrad vzniká až ve 2. pol. 13. stol. nebo kolem 1400 (Kunštátští); první písemná zmínka 1312 (cs.wiki) / 1313 (web hradu)"
  },
- "summary": "Hrad založili ve 13. století páni z Boskovic, kteří jej s přestávkami (zástava Ederům ze Štiavnice, mezidobí pánů z Kunštátu a Poděbrad za husitských válek) drželi až do roku 1547. Poté hrad vlastnili postupně Ederové ze Štiavnice, páni ze Zástřizl, kteří jej renesančně přestavěli, a od roku 1690 Ditrichštejnové, kteří kolem roku 1720 přesídlili do nového barokního sídla ve městě, takže hrad chátral a byl roku 1784 opuštěn. Od roku 1856 patří rodině Mensdorff-Pouilly (s výjimkou komunistické konfiskace 1950-1991), která jej vlastní dodnes.",
+ "summary": "Hrad založili ve 13. století páni z Boskovic, kteří jej s přestávkami (zástava Ederům ze Štiavnice, mezidobí pánů z Kunštátu a Poděbrad za husitských válek) drželi až do roku 1547. Poté hrad vlastnili postupně Ederové ze Štiavnice, páni ze Zástřizl, kteří jej renesančně přestavěli, a od roku 1690 Ditrichštejnové, kteří kolem roku 1720 přesídlili do nového barokního sídla ve městě, takže hrad chátral a byl roku 1784 opuštěn. Od roku 1856 patří rodině Mensdorff-Pouilly (podle webu hradu a hrady.cz dnes jejich soukromý majetek) (s výjimkou komunistické konfiskace 1950-1991), která jej vlastní dodnes.",
  "owners": [
   {
    "owner": "boskovicove",
@@ -61,7 +61,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "lenni",
-   "note": "markrabě Jošt zničený hrad zabavil a přidělil svému straníkovi Erhartovi z Kunštátu s povolením jej obnovit"
+   "note": "markrabě Jošt zničený hrad zabavil a přidělil svému straníkovi Erhartovi z Kunštátu s povolením jej obnovit; hrady.cz a atlas uvádějí jméno Heralt z Kunštátu, který zbořený hrad koupil od Tase z Boskovic; stavbu nového hradu zahájil před 1398"
   },
   {
    "owner": "pani-z-kunstatu-a-podebrad",
@@ -263,13 +263,13 @@
   {
    "owner": "ditrichstejnove",
    "owner_wiki": "Ditrichštejnové",
-   "person": "Jan Leopold z Ditrichštejna",
+   "person": "Jan Leopold z Ditrichštejna a další členové boskovické větve Ditrichštejnů",
    "from": 1738,
    "to": 1850,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "dedictvi",
-   "note": "hrad byl opuštěn roku 1784 a chátral; boskovická větev pokračovala až k Františku Xaveru z Ditrichštejna, který zemřel 1850 - přesné mezidata cs.wiki neuvádí, panství postupně připadlo jeho dcerám Marii a Terezii"
+   "note": "hrad byl od 1720 neobýván, ve 30. letech 18. stol. sundána střecha (cca 1733), 1784 zcela opuštěn; jednotlivé držitele do 1850 zdroje neuvádějí; boskovická větev vymřela po meči Františkem Xaverem z Ditrichštejna (zemřel 1850)"
   },
   {
    "owner": "ditrichstejnove",
@@ -280,18 +280,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "dcery Františka Xavera z Ditrichštejna, jímž vymřela boskovická větev po meči"
-  },
-  {
-   "owner": "mensdorff-pouilly",
-   "owner_wiki": "Mensdorff-Pouilly",
-   "person": "Terezie z Ditrichštejna, provd. Mensdorff-Pouilly",
-   "from": 1850,
-   "to": 1856,
-   "from_approx": false,
-   "to_approx": false,
-   "how": "dedictvi",
-   "note": "zdědila panství spolu se sestrou Marií 1850; provdala se už 1843 za hraběte Alfonse Mensdorff-Pouilly; zemřela 1856 a dědictví přešlo na rodinu jejího manžela"
+   "note": "dcery Františka Xavera z Ditrichštejna, jímž vymřela boskovická větev po meči; Terezie provdaná za Alfonse Mensdorff-Pouilly (sňatek 1843) zemřela 1856 a dědictví přešlo na rodinu jejího manžela"
   },
   {
    "owner": "mensdorff-pouilly",
@@ -362,6 +351,9 @@
   }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Boskovice_(hrad)"
+  "https://cs.wikipedia.org/wiki/Boskovice_(hrad)",
+  "https://www.hradboskovice.cz/historie-hradu",
+  "https://www.hrady.cz/hrad-boskovice/texty?pos=300&tid=3399",
+  "https://zaobzory.cz/misto/hrad-boskovice/"
  ]
 }

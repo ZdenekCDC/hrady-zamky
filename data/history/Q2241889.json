@@ -6,7 +6,7 @@
   "approx": false,
   "text": "Panské sídlo v podobě malé tvrze ve městě založil roku 1514 Volf Dětřich z Fictumu jako náhradu za nepohodlný hrad Šumburk."
  },
- "summary": "Zámek v Klášterci nad Ohří vznikl z tvrze, kterou roku 1514 založil Volf Dětřich z Fictumu; jeho potomci ji na přelomu 16. a 17. století rozšířili na renesanční čtyřkřídlou stavbu. Po účasti Kryštofa z Fictumu ve stavovském povstání byl majetek roku 1623 zkonfiskován a koupil jej Kryštof Šimon Thun, od roku 1629 Thun-Hohenstein, jehož rod zámek barokně přestavěl (zejména za Michaela Osvalda Thun-Hohensteina) a držel až do roku 1945. Po druhé světové válce byl Matyáši Osvaldu Thun-Hohensteinovi majetek zkonfiskován podle Benešových dekretů a zámek připadl státu; dnes je v něm expozice porcelánu Uměleckoprůmyslového muzea a je přístupný veřejnosti.",
+ "summary": "Zámek v Klášterci nad Ohří vznikl z tvrze, kterou roku 1514 založil Volf Dětřich z Fictumu; jeho potomci ji na přelomu 16. a 17. století rozšířili na renesanční čtyřkřídlou stavbu. Po účasti Kryštofa z Fictumu ve stavovském povstání byl majetek roku 1623 zkonfiskován a koupil jej Kryštof Šimon Thun, od roku 1629 Thun-Hohenstein, jehož rod zámek barokně přestavěl (zejména za Michaela Osvalda Thun-Hohensteina) a držel až do roku 1945. Po druhé světové válce byl Matyáši Osvaldu Thun-Hohensteinovi majetek zkonfiskován podle Benešových dekretů a zámek připadl státu, od roku 1993 patří městu Klášterec nad Ohří; je v něm expozice porcelánu Uměleckoprůmyslového muzea a je přístupný veřejnosti.",
  "owners": [
   {
    "owner": "fictumove",
@@ -59,9 +59,9 @@
    "from": 1590,
    "to": 1623,
    "from_approx": false,
-   "to_approx": false,
+   "to_approx": true,
    "how": "dedictvi",
-   "note": "při dělení 1590 získal Klášterec, bratr Bohuslav Felix Pichlberk, Prunéřov a Mory; jako direktor stavovského povstání (1618-1620) odešel do Saska, majetek mu byl zkonfiskován"
+   "note": "při dělení 1590 získal Klášterec, bratr Bohuslav Felix Pichlberk, Prunéřov a Mory; jako direktor stavovského povstání (1618-1620) odešel do Saska, majetek mu byl zkonfiskován; brožura města uvádí, že Kryštof zemřel už 1619 a majetek mu byl posmrtně zkonfiskován, 1620-1623 rok odchodu se liší"
   },
   {
    "owner": "thun-hohensteinove",
@@ -220,22 +220,66 @@
    "owner_wiki": null,
    "person": null,
    "from": 1945,
-   "to": null,
+   "to": 1993,
    "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "v letech 1950-1952 zrestaurovány renesanční interiéry a instalována expozice porcelánu ze sbírek Uměleckoprůmyslového muzea v Praze"
+   "note": "1945 zkonfiskován; 1948 správu převzala Národní kulturní komise; v letech 1950-1952 zrestaurovány interiéry a od 1953 expozice porcelánu Uměleckoprůmyslového muzea v Praze"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "město Klášterec nad Ohří",
+   "from": 1993,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "podle brožury města (2023) od roku 1993 v majetku města; expozice porcelánu UPM zde trvá"
   }
  ],
  "events": [
-  {"year": 1514, "text": "Volf Dětřich z Fictumu založil tvrz jako náhradu za hrad Šumburk"},
-  {"year": 1590, "text": "za bratrů Kryštofa a Bohuslava Felixe z Fictumu rozšířen do podoby čtyřkřídlé renesanční stavby"},
-  {"year": 1623, "text": "po konfiskaci majetku Kryštofa z Fictumu koupil panství Kryštof Šimon Thun"},
-  {"year": 1639, "text": "zámek i město vypáleny švédským vojskem"},
-  {"year": 1660, "text": "Michael Osvald Thun-Hohenstein zahájil rozsáhlou barokní přestavbu zámeckého areálu a založil francouzský park"},
-  {"year": 1784, "text": "požár ve městě se rozšířil na zámek, který vyhořel"},
-  {"year": 1856, "text": "zámek znovu vyhořel, poté byl novogoticky přestavěn architektem Václavem Hagenauerem"},
-  {"year": 1945, "text": "zámek po zkonfiskování majetku Matyáše Osvalda Thun-Hohensteina přešel do vlastnictví státu"}
+  {
+   "year": 1514,
+   "text": "Volf Dětřich z Fictumu založil tvrz jako náhradu za hrad Šumburk"
+  },
+  {
+   "year": 1590,
+   "text": "za bratrů Kryštofa a Bohuslava Felixe z Fictumu rozšířen do podoby čtyřkřídlé renesanční stavby"
+  },
+  {
+   "year": 1623,
+   "text": "po konfiskaci majetku Kryštofa z Fictumu koupil panství Kryštof Šimon Thun"
+  },
+  {
+   "year": 1639,
+   "text": "zámek i město vypáleny švédským vojskem"
+  },
+  {
+   "year": 1660,
+   "text": "Michael Osvald Thun-Hohenstein zahájil rozsáhlou barokní přestavbu zámeckého areálu a založil francouzský park"
+  },
+  {
+   "year": 1784,
+   "text": "požár ve městě se rozšířil na zámek, který vyhořel"
+  },
+  {
+   "year": 1856,
+   "text": "zámek znovu vyhořel, poté byl novogoticky přestavěn architektem Václavem Hagenauerem"
+  },
+  {
+   "year": 1945,
+   "text": "zámek po zkonfiskování majetku Matyáše Osvalda Thun-Hohensteina přešel do vlastnictví státu"
+  },
+  {
+   "year": 1993,
+   "text": "zámek přešel do majetku města Klášterec nad Ohří"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Klášterec_nad_Ohří_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Klášterec_nad_Ohří_(zámek)",
+  "https://www.dolnipoohri.cz/wp-content/uploads/2023/06/Brozura_Thunove_400_Klasterec.pdf",
+  "https://www.hrady.cz/zamek-klasterec-nad-ohri/texty?pos=300&tid=37216",
+  "https://stuky.upce.cz/public/915"
+ ]
 }

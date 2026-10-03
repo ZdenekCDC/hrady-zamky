@@ -13,11 +13,88 @@
    "owner_wiki": "Chotkové z Chotkova",
    "person": "Václav Antonín Chotek",
    "from": 1706,
-   "to": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "snatek",
+   "note": "panství Jeviněves-Veltrusy zdědila 1698 jeho manželka Marie Terezie ze Scheidlerů; zámek stavěn od 1706 (NPÚ: začal vznikat 1704); během stavby podle dohody se syny Janem Karlem a Rudolfem připadlo panství Rudolfovi; zemřel 1754"
+  },
+  {
+   "owner": "chotkove-z-chotkova",
+   "owner_wiki": "Chotkové z Chotkova",
+   "person": "Rudolf Chotek",
+   "from": null,
+   "to": 1771,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "rok převzetí zdroje neuvádějí (během stavby zámku); ministr financí, 1754 zde pořádal první vzorkový veletrh; zavedl fideikomis; zemřel 1771"
+  },
+  {
+   "owner": "chotkove-z-chotkova",
+   "owner_wiki": "Chotkové z Chotkova",
+   "person": "Jan Rudolf Chotek",
+   "from": 1771,
+   "to": 1824,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "synovec Rudolfa, třetí majitel zámku podle fideikomisu; krajinářský park, klasicistní úprava zámku po 1804; zemřel 1824"
+  },
+  {
+   "owner": "chotkove-z-chotkova",
+   "owner_wiki": "Chotkové z Chotkova",
+   "person": "Jindřich Chotek",
+   "from": 1824,
+   "to": 1864,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "vnuk Jana Rudolfa, univerzální dědic; završil rozkvět panství; rok úmrtí 1864"
+  },
+  {
+   "owner": "chotkove-z-chotkova",
+   "owner_wiki": "Chotkové z Chotkova",
+   "person": "Rudolf Chotek",
+   "from": 1864,
+   "to": 1894,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "nejstarší syn Jindřicha; úpadek panství, hospodaření ustávalo; zemřel 1894"
+  },
+  {
+   "owner": "chotkove-z-chotkova",
+   "owner_wiki": "Chotkové z Chotkova",
+   "person": "Emerich Chotek",
+   "from": 1894,
+   "to": 1911,
    "from_approx": false,
    "to_approx": false,
-   "how": "zalozeni",
-   "note": "pozemky zdědila 1698 jeho manželka Marie Terezie ze Scheidleru; zámek stavěn od 1706, rod jej vlastnil nepřetržitě do roku 1945; posledními soukromými majiteli byli Karel Maria Chotek (březenská větev) a jeho manželka Livie Mailáthová de Székhely"
+   "how": "dedictvi",
+   "note": "mladší bratr Rudolfa"
+  },
+  {
+   "owner": "chotkove-z-chotkova",
+   "owner_wiki": "Chotkové z Chotkova",
+   "person": "Arnošt Chotek",
+   "from": 1911,
+   "to": 1927,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "nejmladší bratr; poslední člen veltruské linie, 1921 pozval jako dědice Karla a Livii Chotkovy; zemřel 1927"
+  },
+  {
+   "owner": "chotkove-z-chotkova",
+   "owner_wiki": "Chotkové z Chotkova",
+   "person": "Karel Maria Chotek (březenská větev) a Livie Mailáthová de Székhely",
+   "from": 1927,
+   "to": 1945,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "poslední soukromí majitelé; za války zámek obsadila německá armáda, v květnu 1945 Rudá armáda; po válce odešli do SRN, zemřeli 1970 bez potomků; rok 1927 odvozen z úmrtí Arnošta Chotka"
   },
   {
    "owner": "stat",
@@ -28,16 +105,42 @@
    "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "zkonfiskováno na základě Benešových dekretů, majitelé opustili Československo; dnes ve správě Národního památkového ústavu"
+   "note": "cs.wiki: konfiskace podle Benešových dekretů 1945; NPÚ: zámek prohlášen za státní kulturní majetek podle zákona č. 137/1946 Sb. a převzat do státní správy k 1. 1. 1947, zpřístupněn 1948; dnes spravuje Národní památkový ústav"
   }
  ],
  "events": [
-  {"year": 1706, "text": "zahájena výstavba zámku podle plánů Giovanniho Battisty Alliprandiho"},
-  {"year": 1709, "text": "dokončena hrubá stavba, následovaly výzdobné práce (štuky Giovanni Domenico Spazio)"},
-  {"year": 1754, "text": "v zámeckých a parkových prostorách se koná první vzorkový veletrh na světě (Velký trh tovarů Království českého)"},
-  {"year": 1945, "text": "zámek zkonfiskován Chotkům na základě Benešových dekretů"},
-  {"year": 2002, "text": "srpnová povodeň zaplavila a poškodila velkou část parku a staveb"},
-  {"year": 2021, "text": "24. července kompletně otevřen obnovený areál po 19 letech od uzavření"}
+  {
+   "year": 1706,
+   "text": "zahájena výstavba zámku podle plánů Giovanniho Battisty Alliprandiho"
+  },
+  {
+   "year": 1709,
+   "text": "dokončena hrubá stavba, následovaly výzdobné práce (štuky Giovanni Domenico Spazio)"
+  },
+  {
+   "year": 1754,
+   "text": "v zámeckých a parkových prostorách se koná první vzorkový veletrh na světě (Velký trh tovarů Království českého)"
+  },
+  {
+   "year": 1945,
+   "text": "zámek zkonfiskován Chotkům na základě Benešových dekretů"
+  },
+  {
+   "year": 1947,
+   "text": "zámek převzat do státní správy (státní kulturní majetek podle zákona č. 137/1946 Sb.), v roce 1948 zpřístupněn"
+  },
+  {
+   "year": 2002,
+   "text": "srpnová povodeň zaplavila a poškodila velkou část parku a staveb"
+  },
+  {
+   "year": 2021,
+   "text": "24. července kompletně otevřen obnovený areál po 19 letech od uzavření"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Veltrusy_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Veltrusy_(zámek)",
+  "https://www.npu.cz/cs/hrady-a-zamky/tipy-na-vylet/19917-statni-zamek-veltrusy",
+  "https://update.zamek-veltrusy.cz/cs/informace-pro-navstevniky/o-zamku/historie"
+ ]
 }
