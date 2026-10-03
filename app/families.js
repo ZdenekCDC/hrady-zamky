@@ -148,6 +148,7 @@ export function showFamilies(id) {
   const root = document.getElementById("view-families");
   const f = id ? D.families[id] : null;
   if (id && !f) { location.hash = "#/rody"; return; }
+  const listScroll = root.querySelector(".family-list")?.scrollTop || 0; // the list keeps its position when a family is picked
   root.innerHTML = `<div class="families-layout">
     <div class="family-list">
       <input id="fam-q" type="search" placeholder="Filtrovat rody…" value="${esc(filter.q)}">
@@ -165,6 +166,7 @@ export function showFamilies(id) {
     root.querySelector("#fam-list").innerHTML = listHtml(id);
     if (!f) renderOverview();
   };
+  root.querySelector(".family-list").scrollTop = listScroll;
   root.querySelector("#fam-q").addEventListener("input", (e) => { filter.q = e.target.value; rerender(); });
   root.querySelector("#fam-sort").addEventListener("change", (e) => { filter.sort = e.target.value; rerender(); });
   root.querySelector("#fam-inst").addEventListener("change", (e) => { filter.showInst = e.target.checked; rerender(); });

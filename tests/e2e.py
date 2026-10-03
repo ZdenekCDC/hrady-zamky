@@ -448,6 +448,13 @@ def main():
         first.click()
         page.wait_for_selector("#family-gantt svg")
         print("family:", page.inner_text(".family-detail h2"), "| places:", page.locator("#family-gantt .row").count())
+        # the list and the detail scroll separately and nothing scrolls the whole view
+        scroll = page.evaluate("""() => {
+            const v = document.getElementById('view-families'), l = document.querySelector('.family-list'), d = document.querySelector('.family-detail');
+            l.scrollTop = 400;
+            return { view: v.scrollHeight - v.clientHeight, list: l.scrollTop, detail: d.scrollTop, listCan: l.scrollHeight > l.clientHeight };
+        }""")
+        assert scroll["view"] <= 1 and scroll["list"] > 0 and scroll["detail"] == 0, f"families view scrolls as one: {scroll}"
         fam_name = page.inner_text(".family-detail h2").strip()
         fam_id = next(i for i, f in DATA_FAMILIES.items() if f["name"] == fam_name)
         fam_places = sum(1 for h in DATA_HISTORY.values() if any(o["owner"] == fam_id for o in h["owners"]))
