@@ -29,6 +29,7 @@ import serve as app_server  # noqa: E402  (the real server, with its write API)
 DATA_PLACES = json.loads((ROOT / "data" / "places.json").read_text(encoding="utf-8"))
 DATA_HISTORY = json.loads((ROOT / "data" / "build" / "history.json").read_text(encoding="utf-8"))
 DATA_FAMILIES = json.loads((ROOT / "data" / "build" / "families.json").read_text(encoding="utf-8"))
+KIND_LABELS = set(re.findall(r'^\s+\w+: "([^"]+)",?$', (ROOT / "app" / "data.js").read_text(encoding="utf-8").split("export const KIND = {")[1].split("};")[0], re.M))
 INSTITUTIONS = {"koruna", "stat", "cirkev", "mesto", "soukromnik", "neznamo"}
 
 VISITED_COPY = OUT / "visited.json"  # the test never writes the real data/visited.json
@@ -309,6 +310,9 @@ def main():
         page.locator(".mk").nth(40).hover(force=True)
         page.wait_for_selector(".hz-hover .hov")
         print("hover:", page.inner_text(".hz-hover .t"))
+        # colour alone does not separate the 17 kinds (colour-blind themes): the hover names the kind in words
+        kind_line = page.inner_text(".hz-hover .hov-body .muted").split(" · ")[0]
+        assert kind_line in KIND_LABELS, f"hover does not name the kind of the place: {kind_line!r}"
         hov_img = page.locator(".hz-hover .hov img")
         if hov_img.count():  # places with a photo use the local thumbnail from scripts/fetch_thumbs.py
             src = hov_img.get_attribute("src")
