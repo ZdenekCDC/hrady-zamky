@@ -453,6 +453,9 @@ def main():
         page.goto(base + "#/rod/markvartici")
         page.wait_for_selector(".family-detail h2")
         assert "Vartenberkové" in page.inner_text(".family-detail"), "parent family does not list its branches"
+        page.goto(base + "#/rody")  # back to the list: the next steps wait for a fresh detail, not this one
+        page.wait_for_selector("#overview-gantt svg")
+        page.wait_for_selector("#family-gantt", state="detached")
 
         first = page.locator("#fam-list li a").first
         first.click()
