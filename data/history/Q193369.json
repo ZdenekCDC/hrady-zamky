@@ -1,21 +1,83 @@
 {
  "id": "Q193369",
  "name": "Pražský hrad",
- "founded": {"year": 870, "approx": true, "text": "9. století - opevněné přemyslovské hradiště, nejstarší doložená stavba (kostel Panny Marie) po roce 885"},
- "summary": "Pražský hrad byl od 9. století sídlem českých knížat a králů a příležitostně i císařů Svaté říše římské, postupně přestavovaným z raně středověkého hradiště na rozsáhlý komplex paláců a katedrálu sv. Víta. Po vzniku Československa v roce 1918 se stal sídlem prezidenta republiky a tuto funkci si podržel dodnes. V zadání se u Pražského hradu sleduje pouze úroveň koruna/stát, bez detailu jednotlivých panovnických rodů, které se na trůnu vystřídaly (Přemyslovci, Lucemburkové, Jagellonci, Habsburkové).",
+ "founded": {
+  "year": 880,
+  "approx": true,
+  "text": "kolem roku 880 založil kníže Bořivoj z rodu Přemyslovců (podle hrad.cz); nejstarší doložená stavba kostel Panny Marie po roce 885"
+ },
+ "summary": "Pražský hrad založil kolem roku 880 přemyslovský kníže Bořivoj a od té doby byl sídlem českých knížat a králů, dvakrát i hlavní rezidencí císaře Svaté říše římské; z raně středověkého hradiště vyrostl komplex paláců a katedrála sv. Víta (dokončena 1929). Do roku 1918 patřil panovníkovi (Přemyslovci, Lucemburkové, Jagellonci, Habsburkové), od vzniku Československa je sídlem prezidenta republiky a majetkem státu, který spravuje Správa Pražského hradu při Kanceláři prezidenta republiky. Některé objekty (katedrála, arcibiskupský palác) drží církevní subjekty.",
  "owners": [
-  {"owner": "koruna", "owner_wiki": null, "person": null, "from": 870, "to": 1918, "from_approx": true, "to_approx": false, "how": "zalozeni", "note": "zeměpanský majetek českého knížectví a království; postupně Přemyslovci, Lucemburkové, Jagellonci, Habsburkové a Habsbursko-lotrinská dynastie"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1918, "to": null, "from_approx": false, "to_approx": false, "how": "jine", "note": "sídlo prezidenta Československé republiky, od 1993 České republiky; dílčí objekty (katedrála sv. Víta, arcibiskupský palác) spravují církevní subjekty"}
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": null,
+   "from": 880,
+   "to": 1918,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "zeměpanský majetek českého knížectví a království; postupně Přemyslovci, Lucemburkové, Jagellonci, Habsburkové a Habsbursko-lotrinská dynastie (podrobnosti o rodech nesledovány)"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1918,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "od 1918 sídlo hlavy státu (od 1993 České republiky); areál spravuje od 1. 5. 1993 Správa Pražského hradu (příspěvková organizace Kanceláře prezidenta republiky); cs.wiki uvádí mezi dnešními vlastníky i Arcibiskupství pražské, Metropolitní kapitulu u sv. Víta a Williama Lobkowicze (dílčí objekty)"
+  }
  ],
  "events": [
-  {"year": 885, "text": "kníže Bořivoj I. nechal postavit kostel Panny Marie, nejstarší doloženou stavbu na hradě", "approx": true},
-  {"year": 973, "text": "založení pražského biskupství, rotunda sv. Víta se stává biskupským kostelem"},
-  {"year": 1135, "text": "kníže Soběslav I. zahájil přestavbu hradiště na kamenný hrad"},
-  {"year": 1344, "text": "položen základní kámen katedrály svatého Víta"},
-  {"year": 1541, "text": "ničivý požár Malé Strany a Hradčan poškodil hrad i katedrálu"},
-  {"year": 1583, "text": "Rudolf II. učinil z Pražského hradu svou trvalou rezidenci"},
-  {"year": 1918, "text": "hrad se stal sídlem prezidenta Československé republiky"},
-  {"year": 1929, "text": "dokončení katedrály svatého Víta"}
+  {
+   "year": 880,
+   "text": "kníže Bořivoj zakládá hradiště (podle hrad.cz)",
+   "approx": true
+  },
+  {
+   "year": 885,
+   "text": "kníže Bořivoj I. nechal postavit kostel Panny Marie, nejstarší doloženou stavbu na hradě",
+   "approx": true
+  },
+  {
+   "year": 973,
+   "text": "založení pražského biskupství, rotunda sv. Víta se stává biskupským kostelem"
+  },
+  {
+   "year": 1135,
+   "text": "kníže Soběslav I. zahájil přestavbu hradiště na kamenný hrad"
+  },
+  {
+   "year": 1344,
+   "text": "položen základní kámen katedrály svatého Víta"
+  },
+  {
+   "year": 1541,
+   "text": "ničivý požár Malé Strany a Hradčan poškodil hrad i katedrálu"
+  },
+  {
+   "year": 1583,
+   "text": "Rudolf II. učinil z Pražského hradu svou trvalou rezidenci"
+  },
+  {
+   "year": 1918,
+   "text": "hrad se stal sídlem prezidenta Československé republiky"
+  },
+  {
+   "year": 1920,
+   "text": "přestavba hradu pro prezidenta Masaryka pod vedením architekta Josipa Plečnika"
+  },
+  {
+   "year": 1929,
+   "text": "dokončení katedrály svatého Víta"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Pražský_hrad"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Pražský_hrad",
+  "https://www.hrad.cz/cs/prazsky-hrad-pro-navstevniky/ostatni/dejiny-prazskeho-hradu-seznam-s-odkazem-na-stranky-dejiny-prazskeho-hradu-a-archeologicky-vyzkum-10287",
+  "https://www.hrad.cz/cs/prezident-cr/sprava-prazskeho-hradu/statut"
+ ]
 }

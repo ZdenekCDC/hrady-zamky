@@ -422,13 +422,14 @@ def main():
         page.fill("#f-year", "1550")
         page.dispatch_event("#f-year", "input")
         n_1550 = page.locator(".leaflet-marker-pane .mk").count()
-        # the axis starts at the oldest owner (Pražský hrad 870 -> 850) and places not built yet are hidden
-        assert page.get_attribute("#f-year", "min") == "850", page.get_attribute("#f-year", "min")
-        page.fill("#f-year", "870")
+        # the axis starts at the oldest owner (Pražský hrad ~880 -> 850) and places not built yet are hidden
+        oldest = min(o["from"] for h in DATA_HISTORY.values() for o in h["owners"] if o["from"] is not None)
+        assert page.get_attribute("#f-year", "min") == str(oldest // 50 * 50), page.get_attribute("#f-year", "min")
+        page.fill("#f-year", str(oldest))
         page.dispatch_event("#f-year", "input")
         page.wait_for_timeout(300)
         n_870 = page.locator(".leaflet-marker-pane .mk").count()
-        assert 1 <= n_870 < n_1550 * 0.5, f"time machine 870: {n_870} markers, 1550: {n_1550}"
+        assert 1 <= n_870 < n_1550 * 0.5, f"time machine {oldest}: {n_870} markers, 1550: {n_1550}"
         # places without a founding date are hidden by default; the option brings them back
         page.uncheck("#f-undated")
         page.wait_for_timeout(300)

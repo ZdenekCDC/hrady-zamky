@@ -58,13 +58,13 @@
   {
    "owner": "chudi-z-ujezda",
    "owner_wiki": null,
-   "person": "Mikuláš Chudý z Újezda",
+   "person": "Mikuláš z Lobkovic (Chudý z Újezda)",
    "from": 1420,
    "to": 1454,
    "from_approx": true,
    "to_approx": false,
    "how": "lenni",
-   "note": "hrad se vsí zastavil císař Zikmund Lucemburský"
+   "note": "hrad se vsí zastavil císař Zikmund Lucemburský; rok zástavy zdroje neuvádějí; hrad vykoupil 1454 Jiří z Poděbrad od potomků"
   },
   {
    "owner": "koruna",
@@ -113,10 +113,10 @@
    "owner": "koruna",
    "from": 1561,
    "to": 1562,
-   "from_approx": false,
-   "to_approx": false,
+   "from_approx": true,
+   "to_approx": true,
    "how": "koupe",
-   "note": "královská komora vykoupila panství od Ungnadů"
+   "note": "královská komora vykoupila panství od Ungnadů; cs.wiki 1561/1562, web zámku uvádí koupi Hradci už 1561"
   },
   {
    "owner": "pani-z-hradce",
@@ -124,9 +124,10 @@
    "person": "Jáchym z Hradce",
    "from": 1562,
    "to": 1598,
-   "from_approx": false,
+   "from_approx": true,
    "to_approx": false,
-   "how": "koupe"
+   "how": "koupe",
+   "note": "cs.wiki 1562 (koupě od královské komory), web zámku 1561; po 1562 přestavba hradu na renesanční zámek"
   },
   {
    "owner": "malovcove-z-malovic",
@@ -135,9 +136,9 @@
    "from": 1598,
    "to": 1622,
    "from_approx": false,
-   "to_approx": false,
+   "to_approx": true,
    "how": "koupe",
-   "note": "prodal zadlužený Jáchym Oldřich z Hradce; majetek Malovcům zkonfiskován za účast na stavovském povstání"
+   "note": "prodal zadlužený Jáchym Oldřich z Hradce; cs.wiki konfiskace 1622, web zámku ztráta panství 1619; majetek zkonfiskován za účast na stavovském povstání"
   },
   {
    "owner": "marradasove",
@@ -145,10 +146,10 @@
    "person": "Baltasar Marradas",
    "from": 1622,
    "to": 1661,
-   "from_approx": false,
+   "from_approx": true,
    "to_approx": false,
    "how": "dar",
-   "note": "španělský aristokrat a císařský polní maršál získal zkonfiskované panství; po jeho smrti 1638 zdědil synovec Francesco de Salant y Marradas"
+   "note": "španělský generál a císařský polní maršál, panství získal za válečné pohledávky od Ferdinanda II. (cs.wiki 1622, web zámku 1623); po smrti 1638 zdědil synovec Francesco de Salant y Marradas; 1661 prodal jeho syn Bartoloměj"
   },
   {
    "owner": "schwarzenbergove",
@@ -159,7 +160,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "koupil od Bartoloměje, syna Francesca de Salant y Marradas; jihočeské sídlo rodu téměř tři století, posledním soukromým majitelem byl Adolf ze Schwarzenbergu (1890-1950), který 1939 emigroval"
+   "note": "koupil od Bartoloměje, syna Francesca (web zámku: od synovce Marradase) de Salant y Marradas; jihočeské sídlo rodu téměř tři století, posledním soukromým majitelem byl Adolf ze Schwarzenbergu (1890-1950), který 1939 emigroval"
   },
   {
    "owner": "stat",
@@ -207,6 +208,8 @@
   }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Hluboká_nad_Vltavou_(zámek)"
+  "https://cs.wikipedia.org/wiki/Hluboká_nad_Vltavou_(zámek)",
+  "https://www.zamek-hluboka.cz/en/about/history",
+  "https://mckbrno.cz/mckbrno-databaze/naki/index.php/objekt-sz-hluboka-nad-vltavou/historie-sz-hluboka"
  ]
 }

@@ -1,27 +1,173 @@
 {
  "id": "Q12034021",
  "name": "Loučeň",
- "founded": {"year": 1223, "approx": true, "text": "první zmínka o zdejší tvrzi z roku 1223 (vysvědčení pražského biskupa Peregrina); dnešní barokní zámek na jejím místě vznikl přestavbou v letech 1704-1713"},
- "summary": "Na místě dnešního zámku stála od počátku 13. století tvrz, kterou do roku 1618 vlastnila řada vladyků a zemanů. Od roku 1612 ji držel Václav Berka z Dubé starší, jemuž byl majetek po bitvě na Bílé hoře roku 1622 konfiskován a koupil jej Adam z Valdštejna; jeho potomek Karel Arnošt z Valdštejna nechal v letech 1704-1713 zchátralou tvrz přestavět na barokní zámek. Dědičky z rodu Valdštejnů provdáním přenesly panství na Fürstenberky a roku 1809 sňatkem na Thurn-Taxisy, kteří zámek vlastnili až do roku 1945, kdy byl vyrabován sovětskou armádou a následně přešel pod stát (od 1949 Ministerstvo obrany). Od roku 2000 je zámek v soukromém vlastnictví manželů Šrámkových prostřednictvím společnosti Loučeň, a.s., která jej nechala kompletně zrekonstruovat.",
+ "founded": {
+  "year": 1223,
+  "approx": true,
+  "text": "první zmínka o zdejší tvrzi z roku 1223 (vysvědčení pražského biskupa Peregrina); dnešní barokní zámek na jejím místě vznikl přestavbou v letech 1704-1713"
+ },
+ "summary": "Na místě dnešního zámku stála od počátku 13. století tvrz (první zmínka 1223), kterou držela řada vladyků a zemanů, od 1510 Křinečtí z Ronova, na konci 16. století Kolovratové a od 1612 Václav Berka z Dubé starší. Po jeho konfiskaci po Bílé hoře koupil panství roku 1623 Adam z Valdštejna a Karel Arnošt z Valdštejna nechal v letech 1704-1713 tvrz přestavět na barokní zámek. Valdštejny vystřídali dědictvím Fürstenberkové a od roku 1809 Thurn-Taxisové, kteří zámek vlastnili do konfiskace 1945; poté sloužil státním institucím (doprava) a od roku 2000 je v soukromém vlastnictví společnosti Loučeň, a.s. (manželé Šrámkovi).",
  "owners": [
-  {"owner": "neznamo", "from": 1223, "to": 1612, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "od první zmínky 1223 se na tvrzi vystřídala řada vladyků a zemanů, jejichž jména nejsou v dostupném textu cs. wikipedie specifikována"},
-  {"owner": "soukromnik", "person": "Václav Berka z Dubé starší", "from": 1612, "to": 1622, "from_approx": false, "to_approx": false, "how": "koupe", "note": "bohatý šlechtic, po bitvě na Bílé hoře (1620) opustil zemi kvůli nesympatiím k Ferdinandu II.; majetek mu byl 1622 konfiskován za účast ve stavovském odboji"},
-  {"owner": "valdstejnove", "owner_wiki": "Valdštejnové", "person": "Adam z Valdštejna", "from": 1623, "to": 1704, "from_approx": false, "to_approx": true, "how": "koupe", "note": "koupil zkonfiskovaný Berkův majetek; tvrz zůstala za třicetileté války zchátralá"},
-  {"owner": "valdstejnove", "owner_wiki": "Valdštejnové", "person": "Karel Arnošt z Valdštejna, poté dcera Eleanora a vnučka Marie Anna", "from": 1704, "to": 1770, "from_approx": false, "to_approx": true, "how": "dedictvi", "note": "1704-1713 přestavba zchátralé tvrze na barokní zámek, přistavěna kaple (později kostel Nanebevzetí Panny Marie); Marie Anna se provdala za Josefa z Fürstenbergu"},
-  {"owner": "furstenbergove", "owner_wiki": "Fürstenbergové", "person": "Marie Anna, provdaná Fürstenbergová, a potomci", "from": 1770, "to": 1809, "from_approx": true, "to_approx": false, "how": "snatek", "note": "panství přešlo z rodu Valdštejnů pod Fürstenberky"},
-  {"owner": "thurn-taxisove", "owner_wiki": "Thurn-Taxisové", "person": "Maxmilián z Thurn-Taxisu", "from": 1809, "to": 1945, "from_approx": false, "to_approx": false, "how": "snatek", "note": "získal zámek sňatkem s kněžnou z rodu Fürstenberků; 1813 na zámku hostil císaře Františka I. a cara Alexandra I.; posledním majitelem z rodu byl kníže Alexandr (Paša) z Thurn-Taxisu, zemřel 1939"},
-  {"owner": "stat", "from": 1945, "to": 2000, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "1945 zámek vyrabován sovětskou armádou a obyvateli Loučeně, od 1949 v majetku Ministerstva obrany ČR"},
-  {"owner": "soukromnik", "person": "manželé Šrámkovi (Loučeň, a.s.)", "from": 2000, "to": null, "from_approx": false, "to_approx": false, "how": "koupe", "note": "zámek i park kompletně zrekonstruovali (2000-2007), otevřen veřejnosti 2007"}
+  {
+   "owner": "neznamo",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1223,
+   "to": 1510,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "od první zmínky 1223 (Předslav z Loučně) se střídali vladykové a zemané; jména neuvádí ani oficiální web zámku"
+  },
+  {
+   "owner": "krinecti-z-ronova",
+   "owner_wiki": "Křinečtí z Ronova",
+   "person": "Ladislav Křinecký z Ronova (zemřel 1571)",
+   "from": 1510,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "hrady.cz: od 1510 Křinečtí z Ronova, Ladislav zde postavil panský dům; konec držení neuveden"
+  },
+  {
+   "owner": "kolovratove",
+   "owner_wiki": "Kolovratové",
+   "person": "Alena z Kolovrat",
+   "from": null,
+   "to": 1612,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "hrady.cz: na konci 16. stol. držela Loučeň Alena z Kolovrat; rok nabytí neuveden"
+  },
+  {
+   "owner": "berkove-z-dube",
+   "owner_wiki": "Berkové z Dubé",
+   "person": "Václav Berka z Dubé starší",
+   "from": 1612,
+   "to": 1622,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "po Bílé hoře uprchl ze země, majetek 1622 zkonfiskován za účast ve stavovském odboji"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Adam z Valdštejna, poté Karel Arnošt z Valdštejna",
+   "from": 1623,
+   "to": 1713,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil zkonfiskovaný majetek (strýc Albrechta z Valdštejna); 1704-1713 barokní přestavba tvrze za Karla Arnošta (zemřel 1713)"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "dcera Eleonora, poté vnučka Marie Anna provdaná z Fürstenbergu",
+   "from": 1713,
+   "to": 1752,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "Marie Anna zemřela 1752 (web zámku) nebo 1756 (hrady.cz) - rok přechodu na Fürstenberky nejistý"
+  },
+  {
+   "owner": "furstenbergove",
+   "owner_wiki": "Fürstenbergové",
+   "person": "Karel Egon (zemřel 1787), Filip Nerius, Karel Gabriel (zemřel 1799), poté vdova Marie Josefa ze Šternberka",
+   "from": 1752,
+   "to": 1809,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "po Karlu Gabrielovi spor o dědictví, panství vysoudila vdova po Karlu Egonovi a odkázala je příbuznému Thurn-Taxisovi"
+  },
+  {
+   "owner": "thurn-taxisove",
+   "owner_wiki": "Thurn-Taxisové",
+   "person": "Maxmilián Josef z Thurn-Taxisu, od 1831 Karel Anselm, poslední Alexandr (zemřel 1939)",
+   "from": 1809,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "cs.wiki a web zámku uvádějí získání sňatkem s Fürstenberkovou, hrady.cz odkaz příbuznému Maxmiliánu Josefovi; 1945 konfiskace"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": 2000,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "zámek vyrabován 1945; cs.wiki uvádí od 1949 Ministerstvo obrany, web zámku a hrady.cz ministerstvo dopravy (Fond sociální péče, dráhy, od 1968 Ústřední dopravní institut) - spor zdrojů; sloužil jako školicí středisko a učiliště"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Loučeň, a.s. (manželé Šrámkovi)",
+   "from": 2000,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "od 1. 1. 2000; rekonstrukce, otevřeno 7. 7. 2007"
+  }
  ],
  "events": [
-  {"year": 1223, "text": "první písemná zmínka o zdejší tvrzi"},
-  {"year": 1612, "text": "Václav Berka z Dubé starší získává tvrz Loučeň"},
-  {"year": 1622, "text": "konfiskace majetku Václava Berky po bitvě na Bílé hoře, koupě Adamem z Valdštejna"},
-  {"year": 1713, "text": "dokončena barokní přestavba zámku Karlem Arnoštem z Valdštejna"},
-  {"year": 1809, "text": "Maxmilián z Thurn-Taxisu získává zámek sňatkem s kněžnou Fürstenbergovou"},
-  {"year": 1813, "text": "zámek hostí císaře Františka I. a ruského cara Alexandra I."},
-  {"year": 1945, "text": "zámek vyrabován sovětskou armádou, majetek přechází pod stát"},
-  {"year": 2000, "text": "zámek kupují manželé Šrámkovi a zahajují jeho kompletní rekonstrukci"}
+  {
+   "year": 1223,
+   "text": "první písemná zmínka o Loučni (Předslav z Loučně) a zdejší tvrzi"
+  },
+  {
+   "year": 1510,
+   "text": "Loučeň získávají Křinečtí z Ronova"
+  },
+  {
+   "year": 1612,
+   "text": "Václav Berka z Dubé starší získává Loučeň"
+  },
+  {
+   "year": 1622,
+   "text": "konfiskace majetku Václava Berky po Bílé hoře"
+  },
+  {
+   "year": 1623,
+   "text": "Loučeň kupuje Adam z Valdštejna"
+  },
+  {
+   "year": 1713,
+   "text": "dokončena barokní přestavba zámku Karlem Arnoštem z Valdštejna (1704-1713)"
+  },
+  {
+   "year": 1809,
+   "text": "Loučeň přechází na Thurn-Taxisy (Maxmilián Josef)"
+  },
+  {
+   "year": 1828,
+   "text": "počátek budování anglického parku za Karla Anselma Thurn-Taxise"
+  },
+  {
+   "year": 1945,
+   "text": "zámek vyrabován, majetek Thurn-Taxisů zkonfiskován"
+  },
+  {
+   "year": 2000,
+   "text": "vlastníkem se stává Loučeň, a.s. (manželé Šrámkovi)"
+  },
+  {
+   "year": 2007,
+   "text": "zpřístupnění zrekonstruovaného zámku a parku s labyrinty"
+  }
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Loučeň_(zámek)"]
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Loučeň_(zámek)",
+  "https://www.zamekloucen.cz/historie-zamku-loucen",
+  "https://www.hrady.cz/zamek-loucen-nymburk/"
+ ]
 }

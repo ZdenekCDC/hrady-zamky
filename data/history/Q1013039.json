@@ -1,29 +1,120 @@
 {
  "id": "Q1013039",
  "name": "Loket",
- "founded": {"year": 1100, "approx": true, "text": "Románský hrad na skalním ostrohu nad Ohří; podle archeologického výzkumu z roku 2025 vznikl kolem roku 1100 jako kamenný hrad zděný na maltu, podle starší tradice jej založil král Přemysl Otakar I. na přelomu 12. a 13. století."},
+ "founded": {
+  "year": 1100,
+  "approx": true,
+  "text": "Románský hrad na skalním ostrohu nad Ohří; podle archeologického výzkumu z roku 2025 vznikl kolem roku 1100 jako kamenný hrad zděný na maltu, podle starší tradice jej založil král Přemysl Otakar I. na přelomu 12. a 13. století. Památkový katalog NPÚ klade vznik kamenného hradu do 3. čtvrtiny 12. století (král Vladislav II.), první zmínka 1227, výslovně 1234."
+ },
  "summary": "Loket je jeden z nejstarších kamenných hradů v Čechách, po staletí sídlo královských purkrabích a centrum loketského manského systému. Ve 15. a 16. století byl zastavován, mimo jiné rodu Šliků, kteří jej přestavěli na reprezentační sídlo a spravovali odsud loketský kraj. Od počátku 17. století patřil městu Loket, v letech 1792-1948 sloužil jako státní vězení a od roku 1993 je zpřístupněn veřejnosti.",
  "owners": [
-  {"owner": "koruna", "from": 1100, "from_approx": true, "to": 1422, "to_approx": true, "how": "zalozeni", "note": "královský hrad spravovaný purkrabími, centrum manského systému založeného Přemyslem Otakarem II."},
-  {"owner": "ilburkove", "owner_wiki": "Ilburkové", "person": "Půta z Ilburka", "from": 1422, "from_approx": true, "to": 1434, "how": "lenni", "note": "zástava od krále Zikmunda Lucemburského; spory s many a měšťany vyvrcholily v letech 1432-1434"},
-  {"owner": "slikove", "owner_wiki": "Šlikové", "person": "Kašpar Šlik", "from": 1434, "to": 1449, "how": "lenni", "note": "zástava hradu, města a dalších panství královským kancléřem Zikmundem Lucemburským (20. 9. 1434)"},
-  {"owner": "slikove", "owner_wiki": "Šlikové", "person": "Matyáš, Jeroným a Mikuláš Šlikové a jejich potomci", "from": 1449, "to": 1547, "how": "dedictvi", "note": "majetek rozdělen mezi bratry (1487/1489); požár hradu 1473, obléhání zemskou hotovostí 1505; konec konfiskací po bitvě u Mühlberka"},
-  {"owner": "koruna", "from": 1547, "to": 1551, "how": "konfiskace", "note": "konfiskace majetku Jeronýma Šlika; hejtmani Kryštof ze Štampachu a Volf z Hertenberka"},
-  {"owner": "plavensti-z-plavna", "owner_wiki": "Plavenští z Plavna", "person": "Jindřich IV. z Plavna", "from": 1551, "to": 1562, "how": "lenni", "note": "zástava za půjčku 24 000 tolarů králi na válku s Turky"},
-  {"owner": "mesto", "from": 1562, "to": 1602, "how": "lenni", "note": "město Loket získalo panství do zástavy na 30 let; po vypršení zástavy 1592 zůstala správa hradu městu"},
-  {"owner": "mesto", "from": 1602, "to": null, "how": "koupe", "note": "město Loket vyplatilo 1450 kop grošů a získalo hrad do dědičného držení; 1606-1607 vězněn Jiří Popel z Lobkovic, 1792-1948 státní vězení, po rekonstrukcích zpřístupněn veřejnosti roku 1993"}
+  {
+   "owner": "koruna",
+   "from": 1100,
+   "from_approx": true,
+   "to": 1422,
+   "to_approx": true,
+   "how": "zalozeni",
+   "note": "královský hrad spravovaný purkrabími, centrum manského systému založeného Přemyslem Otakarem II.; vznik hradu: cs.wiki kolem 1100, NPÚ 3. čtvrtina 12. stol. (rok proto přibližný)"
+  },
+  {
+   "owner": "ilburkove",
+   "owner_wiki": "Ilburkové",
+   "person": "Půta z Ilburka",
+   "from": 1422,
+   "from_approx": true,
+   "to": 1434,
+   "how": "lenni",
+   "note": "zástava od krále Zikmunda Lucemburského; spory s many a měšťany vyvrcholily v letech 1432-1434",
+   "to_approx": false
+  },
+  {
+   "owner": "slikove",
+   "owner_wiki": "Šlikové",
+   "person": "Kašpar Šlik",
+   "from": 1434,
+   "to": 1449,
+   "how": "lenni",
+   "note": "zástava hradu, města a dalších panství královským kancléřem Zikmundem Lucemburským (20. 9. 1434)"
+  },
+  {
+   "owner": "slikove",
+   "owner_wiki": "Šlikové",
+   "person": "Matyáš, Václav a Zikmund Šlikové a jejich potomci",
+   "from": 1449,
+   "to": 1547,
+   "how": "dedictvi",
+   "note": "po Kašparovi zdědili 1449 Matyáš, Václav a Zikmund; majetek dělen mezi členy rodu; požár hradu 1473 (nebo 1474), obléhání zemskou hotovostí 1505; od Albrechta Šlika přešel k Jeronýmovi Šlikovi z ostrovské větve; konfiskace po bitvě u Mühlberka 1547 (NPÚ: zástavní držení Šliků 1434-1547)"
+  },
+  {
+   "owner": "koruna",
+   "from": 1547,
+   "to": 1551,
+   "how": "konfiskace",
+   "note": "konfiskace majetku Jeronýma Šlika; hejtmani Kryštof ze Štampachu a Volf z Hertenberka"
+  },
+  {
+   "owner": "plavensti-z-plavna",
+   "owner_wiki": "Plavenští z Plavna",
+   "person": "Jindřich IV. z Plavna",
+   "from": 1551,
+   "to": 1562,
+   "how": "lenni",
+   "note": "město Loket získalo 29. 6. 1562 panství do zástavy na 30 let (NPÚ 1562 zástava); zástava vypršela 1592, správa hradu zůstala městu; web města Loket uvádí vykoupení zastavěného panství 1598"
+  },
+  {
+   "owner": "mesto",
+   "from": 1562,
+   "to": 1602,
+   "how": "lenni",
+   "note": "město Loket vyplatilo 1450 kop grošů a získalo hrad do dědičného držení (cs.wiki i NPÚ 1602); po třicetileté válce zpočátku správa císařského rychtáře; 1606-1607 vězněn Jiří Popel z Lobkovic; od konce 18. stol. do 1948 státní vězení, po rekonstrukcích zpřístupněn 1993",
+   "from_approx": false
+  },
+  {
+   "owner": "mesto",
+   "from": 1602,
+   "to": null,
+   "how": "koupe",
+   "note": "město Loket vyplatilo 1450 kop grošů a získalo hrad do dědičného držení; 1606-1607 vězněn Jiří Popel z Lobkovic, 1792-1948 státní vězení, po rekonstrukcích zpřístupněn veřejnosti roku 1993"
+  }
  ],
  "events": [
-  {"year": 1227, "text": "první písemná zmínka o hradu - jednání krále s dominikánským mnichem z Řezna"},
-  {"year": 1319, "text": "na hradě vězněn mladý Václav (pozdější Karel IV.) v temné komoře po sporu krále s královnou Eliškou Přemyslovnou"},
-  {"year": 1434, "text": "král Zikmund zastavil hrad kancléři Kašparu Šlikovi, počátek dvou generací šlikovské správy"},
-  {"year": 1473, "text": "požár při konfliktu Šliků s Plavenskými zničil téměř celý hrad kromě Markrabského domu"},
-  {"year": 1505, "text": "zemská hotovost pod velením Jindřicha z Hradce obléhala hrad Šebestiána Šlika"},
-  {"year": 1547, "text": "po bitvě u Mühlberka byl Jeroným Šlik potrestán konfiskací a hrad připadl králi"},
-  {"year": 1792, "text": "na hradě zřízeno státní vězení, fungující až do roku 1948"},
-  {"year": 1993, "text": "po velkých rekonstrukcích v 80. a 90. letech 20. století byl hrad zpřístupněn veřejnosti"}
+  {
+   "year": 1227,
+   "text": "první písemná zmínka o hradu - jednání krále s dominikánským mnichem z Řezna"
+  },
+  {
+   "year": 1319,
+   "text": "na hradě vězněn mladý Václav (pozdější Karel IV.) v temné komoře po sporu krále s královnou Eliškou Přemyslovnou"
+  },
+  {
+   "year": 1434,
+   "text": "král Zikmund zastavil hrad kancléři Kašparu Šlikovi, počátek dvou generací šlikovské správy"
+  },
+  {
+   "year": 1473,
+   "text": "požár při konfliktu Šliků s Plavenskými zničil téměř celý hrad kromě Markrabského domu"
+  },
+  {
+   "year": 1505,
+   "text": "zemská hotovost pod velením Jindřicha z Hradce obléhala hrad Šebestiána Šlika"
+  },
+  {
+   "year": 1547,
+   "text": "po bitvě u Mühlberka byl Jeroným Šlik potrestán konfiskací a hrad připadl králi"
+  },
+  {
+   "year": 1792,
+   "text": "zřízeno státní vězení (cs.wiki 1792; přestavba na věznici podle NPÚ od 1797 do 1822), provoz do 1948"
+  },
+  {
+   "year": 1993,
+   "text": "po velkých rekonstrukcích v 80. a 90. letech 20. století byl hrad zpřístupněn veřejnosti"
+  }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Loket_(hrad)"
+  "https://cs.wikipedia.org/wiki/Loket_(hrad)",
+  "https://www.pamatkovykatalog.cz/hrad-loket-15265450",
+  "https://www.loket.cz/historie/ms-4485"
  ]
 }

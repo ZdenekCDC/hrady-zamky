@@ -1,23 +1,98 @@
 {
  "id": "Q200693",
  "name": "Kroměříž",
- "founded": {"year": 1260, "approx": true, "text": "polovina 13. století - gotický hrad biskupa Bruna ze Schauenburku na místě starší trhové osady"},
- "summary": "Kroměřížský zámek byl od roku 1110 majetkem olomouckého biskupství (později arcibiskupství), které zde v polovině 13. století vybudovalo gotický hrad a v 17. století jej po zničení třicetiletou válkou přestavělo v barokní podobě. Po roce 1948 byl zámek fakticky spravován státem, arcibiskupství olomouckému byl vrácen restitucí až v roce 2017. V roce 1998 byl zámek se zahradami zapsán na seznam UNESCO.",
+ "founded": {
+  "year": 1260,
+  "approx": true,
+  "text": "polovina 13. století - gotický hrad biskupa Bruna ze Schauenburku na místě starší trhové osady"
+ },
+ "summary": "Trhovou osadu Kroměříž koupil roku 1110 olomoucký biskup Jan II. a od té doby patřila olomouckému biskupství (od 1777 arcibiskupství). Biskup Bruno ze Schauenburku zde v polovině 13. století postavil hrad, za Stanislava Thurza vznikl renesanční zámek a po zničení Švédy 1643 a požáru 1752 získal dnešní raně barokní podobu zejména za biskupa Karla II. z Lichtensteinu-Castelcorna. Po roce 1945 byl zámek zestátněn (sbírky a mobiliář 1950, vlastnictví sbírek církvi potvrzeno 1992) a spravoval jej stát; budova a Podzámecká zahrada byly vráceny Arcibiskupství olomouckému restitucí (předání klíčů 7. 4. 2017), Květná zahrada zůstala státní. Od roku 1998 je zámek se zahradami na seznamu UNESCO.",
  "owners": [
-  {"owner": "cirkev", "owner_wiki": null, "person": null, "from": 1110, "to": 1949, "from_approx": false, "to_approx": true, "how": "koupe", "note": "olomoucké biskupství, od 1777 arcibiskupství; koupě trhové osady biskupem Janem II. 1110"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1949, "to": 2017, "from_approx": true, "to_approx": false, "how": "konfiskace", "note": "spravováno státem (NPÚ), vlastnická práva církve fakticky omezena"},
-  {"owner": "cirkev", "owner_wiki": null, "person": null, "from": 2017, "to": null, "from_approx": false, "to_approx": false, "how": "restituce", "note": "Arcibiskupství olomoucké, zámek i sbírky spravuje Arcidiecézní muzeum Olomouc"}
+  {
+   "owner": "cirkev",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1110,
+   "to": 1949,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "olomoucké biskupství, od 1777 arcibiskupství; koupě trhové osady biskupem Janem II. 1110; za německé okupace pod nucenou správou; zestátnění budovy zámku po 1945 (web zámku uvádí národní správu, přesný rok neuvádí), sbírky a mobiliář zestátněny 1950"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1949,
+   "to": 2017,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "zámek státní (národní správa, od 1970 Státní zámek a zahrady, později NPÚ); sbírky a mobiliář zůstaly ve vlastnictví arcibiskupství (potvrzeno 1992); rok zestátnění budovy cs.wiki 1949, web zámku bez přesného roku"
+  },
+  {
+   "owner": "cirkev",
+   "owner_wiki": null,
+   "person": null,
+   "from": 2017,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "restituce",
+   "note": "Arcibiskupství olomoucké; restituční žádost 2013, smlouvy podepsány kolem přelomu 2016/2017, slavnostní předání klíčů 7. 4. 2017 (NPÚ uvádí restituci již 2015, správu převzala církev v roce 2017); vrácen zámek a Podzámecká zahrada, Květná zahrada zůstala státu (EU investice); NPÚ zámek dále spravuje a má v něm sídlo, sbírky spravuje Arcidiecézní muzeum Olomouc"
+  }
  ],
  "events": [
-  {"year": 1110, "text": "olomoucký biskup Jan II. kupuje trhovou osadu Kroměříž"},
-  {"year": 1261, "text": "biskup Bruno ze Schauenburku povyšuje Kroměříž na město a staví gotický hrad"},
-  {"year": 1643, "text": "zničení Kroměříže švédskými vojsky za třicetileté války"},
-  {"year": 1685, "text": "dokončení barokní přestavby zámku za biskupa Karla II. z Lichtensteinu-Castelcorna"},
-  {"year": 1848, "text": "zasedání Ústavodárného říšského sněmu (Kroměřížský sněm)"},
-  {"year": 1998, "text": "zápis zámku se zahradami na seznam UNESCO"},
-  {"year": 2017, "text": "restituce zámku Arcibiskupství olomouckému"}
+  {
+   "year": 1110,
+   "text": "olomoucký biskup Jan II. kupuje trhovou osadu Kroměříž"
+  },
+  {
+   "year": 1261,
+   "text": "biskup Bruno ze Schauenburku povyšuje Kroměříž na město a staví gotický hrad"
+  },
+  {
+   "year": 1643,
+   "text": "zničení Kroměříže švédskými vojsky za třicetileté války"
+  },
+  {
+   "year": 1685,
+   "text": "dokončení barokní přestavby zámku za biskupa Karla II. z Lichtensteinu-Castelcorna"
+  },
+  {
+   "year": 1777,
+   "text": "olomoucké biskupství povýšeno na arcibiskupství (první arcibiskup Antonín Colloredo)"
+  },
+  {
+   "year": 1848,
+   "text": "zasedání Ústavodárného říšského sněmu (Kroměřížský sněm)"
+  },
+  {
+   "year": 1945,
+   "text": "německá vojska zapálila zámeckou věž, po válce zestátnění budovy zámku",
+   "approx": true
+  },
+  {
+   "year": 1950,
+   "text": "zestátnění sbírek a mobiliáře"
+  },
+  {
+   "year": 1992,
+   "text": "potvrzeno vlastnictví sbírek a mobiliáře Arcibiskupstvím olomouckým"
+  },
+  {
+   "year": 1998,
+   "text": "zápis zámku se zahradami na seznam UNESCO"
+  },
+  {
+   "year": 2017,
+   "text": "restituce: zámek a Podzámecká zahrada vráceny Arcibiskupství olomouckému (Květná zahrada zůstává státní)"
+  }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Arcibiskupský_zámek_Kroměříž"
+  "https://cs.wikipedia.org/wiki/Arcibiskupský_zámek_Kroměříž",
+  "https://www.zamek-kromeriz.cz/historie-zamku/",
+  "https://www.npu.cz/cs/novinky/51530-o-zamek-kromeriz-se-nove-stara-olomoucke-arcibiskupstvi-kvetna-zahrada-zustava-ve-sprave-npu",
+  "https://www.impuls.cz/regiony/zlinsky-kraj/arcibiskupstvi-prevzalo-od-statu-zamek-v-kromerizi.A170407_161206_imp-zlinsky_kov/tisk"
  ]
 }

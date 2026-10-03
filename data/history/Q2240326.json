@@ -1,28 +1,192 @@
 {
  "id": "Q2240326",
  "name": "Blatná",
- "founded": {"year": 1235, "approx": true, "text": "první písemná zmínka o \"blatném hradě\" 1235, jádro pochází z 13. století"},
- "summary": "Blatná patřila od 13. století pánům Bavorům ze Strakonic, od konce 14. století pánům z Rožmitálu, za nichž byla za Zdeňka Lva z Rožmitálu v 15. století přestavěna Benediktem Rejtem na reprezentační sídlo. Od roku 1798 vlastnili hrad přestavěný na zámek Hildprandtové z Ottenhausenu, kterým byl v letech 1948-1952 zkonfiskován. Po restituci v roce 1992 je zámek opět v majetku rodiny Hildprandtů a je přístupný veřejnosti.",
+ "founded": {
+  "year": 1235,
+  "approx": true,
+  "text": "první písemná zmínka o \"blatném hradě\" 1235, jádro pochází z 13. století"
+ },
+ "summary": "Blatná je vodní hrad poprvé zmíněný roku 1235, od druhé poloviny 13. století v držení Bavorů ze Strakonic a poté pánů z Rožmitálu, za nichž (Jaroslav Lev, Zdeněk Lev) dosáhl vrcholného rozkvětu a byl přestavěn Benediktem Rejtem. Po rozprodeji rožmitálského majetku se vystřídali Šternberkové, Řepičtí ze Sudoměře, Rozdražovští (do 1691), krátce Kolovratové a od 1695 Serényiové. Roku 1798 koupil panství Hildprandt z Ottenhausenu, rodině byl zámek v letech 1948-1952 zkonfiskován a po restituci kolem roku 1992 se vrátil Hildprandtům; je přístupný veřejnosti.",
  "owners": [
-  {"owner": "bavori-ze-strakonic", "owner_wiki": "Bavorové ze Strakonic", "person": null, "from": 1235, "to": 1391, "from_approx": true, "to_approx": false, "how": "zalozeni"},
-  {"owner": "pani-z-rozmitalu", "owner_wiki": "Páni z Rožmitálu", "person": "Zdeněk Lev z Rožmitálu", "from": 1391, "to": 1541, "from_approx": false, "to_approx": false, "how": "koupe", "note": "vrchol rozvoje za Zdeňka Lva z Rožmitálu (15. stol.), přestavba s Benediktem Rejtem"},
-  {"owner": "sternberkove", "owner_wiki": "Šternberkové", "person": null, "from": 1541, "to": 1579, "from_approx": false, "to_approx": false, "how": "dedictvi"},
-  {"owner": "z-rozdrazova", "owner_wiki": null, "person": "Jan z Rozdražova, syn Václav z Rozdražova", "from": 1579, "to": 1695, "from_approx": false, "to_approx": false, "how": "koupe"},
-  {"owner": "serenyiove", "owner_wiki": "Serényiové", "person": null, "from": 1695, "to": 1798, "from_approx": false, "to_approx": false, "how": "koupe", "note": "za Serényiů zámek vyhořel, opravy 1763-1767"},
-  {"owner": "hildprandtove-z-ottenhausenu", "owner_wiki": "Hildprandtové z Ottenhausenu", "person": "Karel Hildprandt", "from": 1798, "to": 1948, "from_approx": false, "to_approx": false, "how": "koupe", "note": "regotizace 1850-1856 za Roberta Hildprandta"},
-  {"owner": "stat", "owner_wiki": null, "person": null, "from": 1948, "to": 1992, "from_approx": false, "to_approx": false, "how": "konfiskace"},
-  {"owner": "hildprandtove-z-ottenhausenu", "owner_wiki": "Hildprandtové z Ottenhausenu", "person": "Kornelie, Josefina a Jana Hildprandtové", "from": 1992, "to": null, "from_approx": false, "to_approx": false, "how": "restituce", "note": "současní majitelé Stefanos-Filipos Germenis a Jana Germenis-Hildprandt"}
+  {
+   "owner": "bavorove-ze-strakonic",
+   "owner_wiki": "Bavorové ze Strakonic",
+   "person": null,
+   "from": null,
+   "to": 1391,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "zalozeni",
+   "note": "druhá polovina 13. stol. (rok neuveden); rok konce nejistý: cs.wiki 1391 (nástup Rožmitálů), web zámku uvádí posledního Bavora Břetislava do 1403"
+  },
+  {
+   "owner": "pani-z-rozmitalu",
+   "owner_wiki": "Páni z Rožmitálu",
+   "person": "Jan z Rožmitálu, synové Jaroslav Lev a Protiva (od 1430), Zdeněk Lev, Adam Lev",
+   "from": 1391,
+   "to": 1541,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "Rožmitálové dědili po Bavorech jako příbuzní; vrchol za Jaroslava Lva a Zdeňka Lva (přestavba Benediktem Rejtem); cs.wiki a AMHZ 1541, web zámku uvádí prodej Adamem Levem až 1555"
+  },
+  {
+   "owner": "sternberkove",
+   "owner_wiki": "Šternberkové",
+   "person": "Adam ze Šternberka",
+   "from": 1541,
+   "to": 1555,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "podle cs.wiki a AMHZ; web zámku tento mezistupeň neuvádí (Adam Lev prodal 1555 Řepickým)"
+  },
+  {
+   "owner": "repicti-ze-sudomere",
+   "owner_wiki": "Řepičtí ze Sudoměře",
+   "person": "sestry Kateřina a Anna Řepické ze Sudoměře",
+   "from": 1555,
+   "to": 1560,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "podle webu zámku a AMHZ; cs.wiki tento záznam vynechává"
+  },
+  {
+   "owner": "sternberkove",
+   "owner_wiki": "Šternberkové",
+   "person": "Zdeněk Šternberk (manžel Kateřiny Řepické)",
+   "from": 1560,
+   "to": 1575,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "web zámku: koupil 1560 od manželčiny sestry, zemřel dva roky před 1577; cs.wiki uvádí Šternberky do 1579"
+  },
+  {
+   "owner": "z-rozdrazova",
+   "owner_wiki": null,
+   "person": "Jan z Rozdražova, poté syn Václav (zemřel 1625), poté Anna Marie s nezletilým synem Františkem Ignácem, od 1645 František Ignác",
+   "from": 1577,
+   "to": 1691,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "cs.wiki uvádí koupi Jana z Rozdražova 1579, web zámku 1577; Rozdražovští vymřeli 1691 po meči (František Ignác); 1622 vydrancování Mansfeldem, Václav uprchl do Slezska"
+  },
+  {
+   "owner": "kolowrat-krakowsti",
+   "owner_wiki": "Kolowrat-Krakowští",
+   "person": "Jan František Krakovský z Kolovrat",
+   "from": 1691,
+   "to": 1695,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "syn sestry Františka Ignáce; panství vzápětí prodal"
+  },
+  {
+   "owner": "serenyiove",
+   "owner_wiki": "Serényiové",
+   "person": "hraběnka Ernestina Serényiová a potomci",
+   "from": 1695,
+   "to": 1798,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "za Serényiů zámek vyhořel, opravy 1763-1767, barokizace Rozdražovského paláce"
+  },
+  {
+   "owner": "hildprandtove-z-ottenhausenu",
+   "owner_wiki": "Hildprandtové z Ottenhausenu",
+   "person": "Václav Karel (Karel) Hildprandt, František, Robert",
+   "from": 1798,
+   "to": 1948,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "koupil od bratří Serényiů; 1850-1856 novogotické úpravy za Roberta Hildprandta (Bernard Grueber); rok konfiskace: cs.wiki 1948, web zámku 1952 (koncem 40. let převzala zámek Národní kulturní komise)"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1948,
+   "to": 1992,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "konfiskace",
+   "note": "komunistická konfiskace (1948-1952); rodina emigrovala do Etiopie; rok restituce: pamatky.cz 1992, web zámku po 1991"
+  },
+  {
+   "owner": "hildprandtove-z-ottenhausenu",
+   "owner_wiki": "Hildprandtové z Ottenhausenu",
+   "person": "Kornelie (zemřela 2014), Josefina (zemřela 2020) a Jana Hildprandtová; dnes Stefanos-Filipos Germenis a Jana Germenis-Hildprandt",
+   "from": 1992,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "restituce",
+   "note": "zámek v soukromém vlastnictví, přístupný veřejnosti"
+  }
  ],
  "events": [
-  {"year": 1235, "text": "první písemná zmínka o blatenském hradu"},
-  {"year": 1470, "text": "přestavba paláce a opevnění pro Zdeňka Lva z Rožmitálu (Benedikt Rejt)"},
-  {"year": 1695, "text": "hrad získávají uherská hrabata Serényiové, po požáru opravy 1763-1767"},
-  {"year": 1798, "text": "koupě baronem Karlem Hildprandtem"},
-  {"year": 1856, "text": "dokončení novogotické regotizace zámku (Bernard Grueber)"},
-  {"year": 1948, "text": "konfiskace majetku Hildprandtů komunistickým státem"},
-  {"year": 1992, "text": "restituce zámku rodině Hildprandtů"}
+  {
+   "year": 1235,
+   "text": "první písemná zmínka o blatenské tvrzi (sídlo Vyšemíra)"
+  },
+  {
+   "year": 1430,
+   "text": "po smrti Jana z Rožmitálu drží Blatnou synové Jaroslav Lev a Protiva"
+  },
+  {
+   "year": 1528,
+   "text": "přestavba jihozápadního paláce na Rejtův palác pro Zdeňka Lva z Rožmitálu (Benedikt Rejt)",
+   "approx": true
+  },
+  {
+   "year": 1555,
+   "text": "Adam Lev z Rožmitálu kvůli dluhům prodává Blatnou sestrám Řepickým ze Sudoměře"
+  },
+  {
+   "year": 1622,
+   "text": "po vydrancování hradu Mansfeldovým vojskem odchází Václav z Rozdražova do Slezska"
+  },
+  {
+   "year": 1691,
+   "text": "zemřel František Ignác z Rozdražova, rod Rozdražovských vymřel po meči"
+  },
+  {
+   "year": 1695,
+   "text": "Blatnou získávají Serényiové"
+  },
+  {
+   "year": 1763,
+   "text": "po požáru oprava zámku (do 1767)"
+  },
+  {
+   "year": 1798,
+   "text": "koupě Václavem Karlem Hildprandtem z Ottenhausenu"
+  },
+  {
+   "year": 1856,
+   "text": "dokončení novogotické regotizace zámku (Bernard Grueber, od 1850)"
+  },
+  {
+   "year": 1948,
+   "text": "konfiskace majetku Hildprandtů (do 1952)",
+   "approx": true
+  },
+  {
+   "year": 1992,
+   "text": "restituce zámku rodině Hildprandtů",
+   "approx": true
+  }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Blatná_(zámek)"
+  "https://cs.wikipedia.org/wiki/Blatná_(zámek)",
+  "https://www.zamek-blatna.cz/about/castle-history",
+  "https://www.amhz.cz/zamek/blatna",
+  "https://www.pamatky.cz/pamatky/blatna"
  ]
 }

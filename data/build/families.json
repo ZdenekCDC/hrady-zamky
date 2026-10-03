@@ -1076,12 +1076,12 @@
    },
    {
     "place": "Q2240326",
-    "from": 1235,
+    "from": null,
     "to": 1391,
     "person": null,
     "how": "zalozeni",
-    "from_approx": true,
-    "to_approx": false
+    "from_approx": false,
+    "to_approx": true
    }
   ],
   "transfers": [
@@ -1118,7 +1118,7 @@
     "year": 1391,
     "from": "bavorove-ze-strakonic",
     "to": "pani-z-rozmitalu",
-    "how": "koupe"
+    "how": "dedictvi"
    }
   ],
   "place_count": 4,
@@ -1560,6 +1560,45 @@
   "place_count": 5,
   "color_slot": null
  },
+ "bergerove-z-bergu": {
+  "id": "bergerove-z-bergu",
+  "type": "rod",
+  "name": "Bergerové z Bergu",
+  "wikidata": "Q8234715",
+  "cswiki": "https://cs.wikipedia.org/wiki/Bergerové_z_Bergu",
+  "coat_of_arms": "Bergerové z Bergu - coat of arms.png",
+  "summary": "Bergrové z Bergu (též Pergerové z Pergu) byli lužický šlechtický rod, jehož členové se koncem 16. století vyskytovali na Moravě. Jan Berger z Bergu od roku 1583 držel hrad Bouzov, na kterém žil roku 1617 i jeho syn Mikuláš. Přes podobnost jmen s chorvatskými šlechtici Pergary z Perku s nimi neměli nic společného.",
+  "related": [],
+  "places": [
+   {
+    "place": "Q940492",
+    "from": 1583,
+    "to": 1617,
+    "person": "Jan Berger z Bergu",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q940492",
+    "year": 1583,
+    "from": "podstatsti-z-prusinovic",
+    "to": "bergerove-z-bergu",
+    "how": "koupe"
+   },
+   {
+    "place": "Q940492",
+    "year": 1617,
+    "from": "bergerove-z-bergu",
+    "to": "oppersdorfove",
+    "how": "koupe"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
  "berkove-z-dube": {
   "id": "berkove-z-dube",
   "type": "rod",
@@ -1747,6 +1786,15 @@
     "to": 1607,
     "person": "Jindřich Berka z Dubé a jeho synové a vnuci",
     "how": "jine",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q12034021",
+    "from": 1612,
+    "to": 1622,
+    "person": "Václav Berka z Dubé starší",
+    "how": "koupe",
     "from_approx": false,
     "to_approx": false
    },
@@ -2121,6 +2169,20 @@
     "how": "snatek"
    },
    {
+    "place": "Q12034021",
+    "year": 1612,
+    "from": "kolovratove",
+    "to": "berkove-z-dube",
+    "how": "koupe"
+   },
+   {
+    "place": "Q12034021",
+    "year": 1623,
+    "from": "berkove-z-dube",
+    "to": "valdstejnove",
+    "how": "koupe"
+   },
+   {
     "place": "Q13411246",
     "year": 1622,
     "from": "koruna",
@@ -2380,7 +2442,7 @@
     "how": "koupe"
    }
   ],
-  "place_count": 23,
+  "place_count": 24,
   "color_slot": 7
  },
  "berkovsti-ze-sebirova": {
@@ -6173,7 +6235,7 @@
     "place": "Q2142483",
     "from": 1420,
     "to": 1454,
-    "person": "Mikuláš Chudý z Újezda",
+    "person": "Mikuláš z Lobkovic (Chudý z Újezda)",
     "how": "lenni",
     "from_approx": true,
     "to_approx": false
@@ -7459,10 +7521,19 @@
    },
    {
     "place": "Q2240368",
-    "from": 1784,
-    "to": 1856,
+    "from": 1785,
+    "to": 1850,
     "person": "František Xaver Ditrichštejn",
     "how": "koupe",
+    "from_approx": true,
+    "to_approx": false
+   },
+   {
+    "place": "Q2240368",
+    "from": 1850,
+    "to": 1856,
+    "person": "Terezie Rosa z Ditrichštejna (provdaná Mensdorff-Pouilly)",
+    "how": "dedictvi",
     "from_approx": false,
     "to_approx": false
    },
@@ -7696,7 +7767,7 @@
    },
    {
     "place": "Q2240368",
-    "year": 1784,
+    "year": 1785,
     "from": "cirkev",
     "to": "ditrichstejnove",
     "how": "koupe"
@@ -7706,7 +7777,7 @@
     "year": 1856,
     "from": "ditrichstejnove",
     "to": "mensdorff-pouilly",
-    "how": "neznamo"
+    "how": "dedictvi"
    },
    {
     "place": "Q2242305",
@@ -9305,10 +9376,10 @@
    },
    {
     "place": "Q12034021",
-    "from": 1770,
+    "from": 1752,
     "to": 1809,
-    "person": "Marie Anna, provdaná Fürstenbergová, a potomci",
-    "how": "snatek",
+    "person": "Karel Egon (zemřel 1787), Filip Nerius, Karel Gabriel (zemřel 1799), poté vdova Marie Josefa ze Šternberka",
+    "how": "dedictvi",
     "from_approx": true,
     "to_approx": false
    },
@@ -9362,17 +9433,17 @@
    },
    {
     "place": "Q12034021",
-    "year": 1770,
+    "year": 1752,
     "from": "valdstejnove",
     "to": "furstenbergove",
-    "how": "snatek"
+    "how": "dedictvi"
    },
    {
     "place": "Q12034021",
     "year": 1809,
     "from": "furstenbergove",
     "to": "thurn-taxisove",
-    "how": "snatek"
+    "how": "dedictvi"
    },
    {
     "place": "Q13411246",
@@ -11059,7 +11130,7 @@
    {
     "place": "Q940492",
     "from": 1494,
-    "to": 1649,
+    "to": 1547,
     "person": "Jan Hanuš Haugvic z Biskupic",
     "how": "koupe",
     "from_approx": false,
@@ -11196,16 +11267,16 @@
    {
     "place": "Q940492",
     "year": 1494,
-    "from": "neznamo",
+    "from": "pani-z-kunstatu-a-podebrad",
     "to": "haugvicove-z-biskupic",
     "how": "koupe"
    },
    {
     "place": "Q940492",
-    "year": 1649,
+    "year": 1547,
     "from": "haugvicove-z-biskupic",
     "to": "podstatsti-z-prusinovic",
-    "how": "koupe"
+    "how": "neznamo"
    }
   ],
   "place_count": 10,
@@ -11605,18 +11676,18 @@
     "place": "Q2240326",
     "from": 1798,
     "to": 1948,
-    "person": "Karel Hildprandt",
+    "person": "Václav Karel (Karel) Hildprandt, František, Robert",
     "how": "koupe",
     "from_approx": false,
-    "to_approx": false
+    "to_approx": true
    },
    {
     "place": "Q2240326",
     "from": 1992,
     "to": null,
-    "person": "Kornelie, Josefina a Jana Hildprandtové",
+    "person": "Kornelie (zemřela 2014), Josefina (zemřela 2020) a Jana Hildprandtová; dnes Stefanos-Filipos Germenis a Jana Germenis-Hildprandt",
     "how": "restituce",
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": false
    },
    {
@@ -11951,6 +12022,15 @@
     "how": "vymena",
     "from_approx": false,
     "to_approx": true
+   },
+   {
+    "place": "Q940492",
+    "from": 1676,
+    "to": 1696,
+    "person": "Julius Leopold z Hodic, jeho syn František Josef z Hodic",
+    "how": "dedictvi",
+    "from_approx": true,
+    "to_approx": false
    }
   ],
   "transfers": [
@@ -11995,9 +12075,23 @@
     "from": "hodicti-z-hodic",
     "to": "pani-z-nachoda",
     "how": "konfiskace"
+   },
+   {
+    "place": "Q940492",
+    "year": 1676,
+    "from": "podstatsti-z-prusinovic",
+    "to": "hodicti-z-hodic",
+    "how": "dedictvi"
+   },
+   {
+    "place": "Q940492",
+    "year": 1696,
+    "from": "hodicti-z-hodic",
+    "to": "rad-nemeckych-rytiru",
+    "how": "koupe"
    }
   ],
-  "place_count": 3,
+  "place_count": 4,
   "color_slot": null
  },
  "hoeff-huertove": {
@@ -14513,15 +14607,6 @@
    },
    {
     "place": "Q370990",
-    "from": 1560,
-    "to": 1571,
-    "person": "Lászlo Kerecsényi",
-    "how": "koupe",
-    "from_approx": false,
-    "to_approx": false
-   },
-   {
-    "place": "Q370990",
     "from": 1571,
     "to": 1575,
     "person": "Kristóf Kerecsényi",
@@ -14575,10 +14660,10 @@
    },
    {
     "place": "Q370990",
-    "year": 1560,
+    "year": 1571,
     "from": "lichtenstejnove",
     "to": "kereczenyiove",
-    "how": "koupe"
+    "how": "dedictvi"
    },
    {
     "place": "Q370990",
@@ -15514,6 +15599,15 @@
     "to_approx": false
    },
    {
+    "place": "Q12034021",
+    "from": 1561,
+    "to": 1612,
+    "person": "Alena z Kolovrat",
+    "how": "neznamo",
+    "from_approx": true,
+    "to_approx": false
+   },
+   {
     "place": "Q12047753",
     "from": 1614,
     "to": 1614,
@@ -15676,6 +15770,20 @@
     "how": "koupe"
    },
    {
+    "place": "Q12034021",
+    "year": 1561,
+    "from": "krinecti-z-ronova",
+    "to": "kolovratove",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q12034021",
+    "year": 1612,
+    "from": "kolovratove",
+    "to": "berkove-z-dube",
+    "how": "koupe"
+   },
+   {
     "place": "Q12047753",
     "year": 1614,
     "from": "lobkovicove",
@@ -15802,7 +15910,7 @@
     "how": "lenni"
    }
   ],
-  "place_count": 15,
+  "place_count": 16,
   "color_slot": null
  },
  "kolowrat-krakowsti": {
@@ -15879,6 +15987,15 @@
     "from": 1721,
     "to": 1927,
     "person": "Jan Josef Hyacint Krakovský z Kolovrat",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q2240326",
+    "from": 1691,
+    "to": 1695,
+    "person": "Jan František Krakovský z Kolovrat",
     "how": "dedictvi",
     "from_approx": false,
     "to_approx": false
@@ -16028,6 +16145,20 @@
     "how": "koupe"
    },
    {
+    "place": "Q2240326",
+    "year": 1691,
+    "from": "z-rozdrazova",
+    "to": "kolowrat-krakowsti",
+    "how": "dedictvi"
+   },
+   {
+    "place": "Q2240326",
+    "year": 1695,
+    "from": "kolowrat-krakowsti",
+    "to": "serenyiove",
+    "how": "koupe"
+   },
+   {
     "place": "Q31144977",
     "year": 1620,
     "from": "ze-sloupna",
@@ -16091,7 +16222,7 @@
     "how": "restituce"
    }
   ],
-  "place_count": 7,
+  "place_count": 8,
   "color_slot": null
  },
  "konigsfeldove": {
@@ -16310,6 +16441,15 @@
     "how": "zalozeni",
     "from_approx": true,
     "to_approx": true
+   },
+   {
+    "place": "Q940492",
+    "from": 1442,
+    "to": 1472,
+    "person": "Zdeněk Kostka z Postupic",
+    "how": "dar",
+    "from_approx": true,
+    "to_approx": true
    }
   ],
   "transfers": [
@@ -16361,9 +16501,23 @@
     "from": "kostkove-z-postupic",
     "to": "koruna",
     "how": "jine"
+   },
+   {
+    "place": "Q940492",
+    "year": 1442,
+    "from": "pani-z-kunstatu-a-podebrad",
+    "to": "kostkove-z-postupic",
+    "how": "dar"
+   },
+   {
+    "place": "Q940492",
+    "year": 1472,
+    "from": "kostkove-z-postupic",
+    "to": "selmberkove",
+    "how": "neznamo"
    }
   ],
-  "place_count": 4,
+  "place_count": 5,
   "color_slot": null
  },
  "kounicove": {
@@ -17083,6 +17237,15 @@
   ],
   "places": [
    {
+    "place": "Q12034021",
+    "from": 1510,
+    "to": 1561,
+    "person": "Ladislav Křinecký z Ronova (zemřel 1571)",
+    "how": "neznamo",
+    "from_approx": false,
+    "to_approx": true
+   },
+   {
     "place": "Q31144977",
     "from": 1603,
     "to": 1609,
@@ -17111,6 +17274,20 @@
    }
   ],
   "transfers": [
+   {
+    "place": "Q12034021",
+    "year": 1510,
+    "from": "neznamo",
+    "to": "krinecti-z-ronova",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q12034021",
+    "year": 1561,
+    "from": "krinecti-z-ronova",
+    "to": "kolovratove",
+    "how": "neznamo"
+   },
    {
     "place": "Q31144977",
     "year": 1603,
@@ -17154,7 +17331,7 @@
     "how": "koupe"
    }
   ],
-  "place_count": 2,
+  "place_count": 3,
   "color_slot": null
  },
  "kropacove-z-holstejna": {
@@ -19528,19 +19705,19 @@
    {
     "place": "Q370990",
     "from": 1322,
-    "to": 1560,
+    "to": 1571,
     "person": "Jan I. z Lichtenštejna-Murau",
     "how": "lenni",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q370990",
-    "from": 1575,
+    "from": 1576,
     "to": 1601,
     "person": "Hartman II. z Lichtenštejna",
     "how": "koupe",
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": false
    },
    {
@@ -20067,14 +20244,14 @@
    },
    {
     "place": "Q370990",
-    "year": 1560,
+    "year": 1571,
     "from": "lichtenstejnove",
     "to": "kereczenyiove",
-    "how": "koupe"
+    "how": "dedictvi"
    },
    {
     "place": "Q370990",
-    "year": 1575,
+    "year": 1576,
     "from": "koruna",
     "to": "lichtenstejnove",
     "how": "koupe"
@@ -22128,7 +22305,7 @@
     "person": "Bohuslav Malovec z Malovic",
     "how": "koupe",
     "from_approx": false,
-    "to_approx": false
+    "to_approx": true
    }
   ],
   "transfers": [
@@ -22357,7 +22534,7 @@
     "to": 1661,
     "person": "Baltasar Marradas",
     "how": "dar",
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": false
    },
    {
@@ -22626,10 +22803,10 @@
     "place": "Q2240368",
     "from": 1856,
     "to": 1950,
-    "person": null,
-    "how": "neznamo",
+    "person": "Alfons Fridrich Mensdorff-Pouilly",
+    "how": "dedictvi",
     "from_approx": false,
-    "to_approx": false
+    "to_approx": true
    },
    {
     "place": "Q2240368",
@@ -22668,7 +22845,7 @@
     "year": 1856,
     "from": "ditrichstejnove",
     "to": "mensdorff-pouilly",
-    "how": "neznamo"
+    "how": "dedictvi"
    },
    {
     "place": "Q2240368",
@@ -24706,6 +24883,15 @@
     "how": "koupe",
     "from_approx": false,
     "to_approx": false
+   },
+   {
+    "place": "Q940492",
+    "from": 1617,
+    "to": 1655,
+    "person": "Fridrich z Oppersdorfu",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
    }
   ],
   "transfers": [
@@ -24806,9 +24992,23 @@
     "from": "oppersdorfove",
     "to": "smiricti-ze-smiric",
     "how": "koupe"
+   },
+   {
+    "place": "Q940492",
+    "year": 1617,
+    "from": "bergerove-z-bergu",
+    "to": "oppersdorfove",
+    "how": "koupe"
+   },
+   {
+    "place": "Q940492",
+    "year": 1655,
+    "from": "oppersdorfove",
+    "to": "podstatsti-z-prusinovic",
+    "how": "koupe"
    }
   ],
-  "place_count": 7,
+  "place_count": 8,
   "color_slot": null
  },
  "orlikove-z-laziska": {
@@ -25334,7 +25534,7 @@
     "to": 1415,
     "person": "Ota III. z Bergova",
     "how": "jine",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": true
    },
    {
@@ -26967,7 +27167,7 @@
     "to": 1598,
     "person": "Jáchym z Hradce",
     "how": "koupe",
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": false
    },
    {
@@ -28228,11 +28428,20 @@
    {
     "place": "Q940492",
     "from": 1396,
-    "to": 1466,
-    "person": null,
-    "how": "dar",
+    "to": 1442,
+    "person": "Heralt z Kunštátu, od 1408 Boček z Poděbrad, Viktorín z Poděbrad",
+    "how": "lenni",
     "from_approx": false,
     "to_approx": true
+   },
+   {
+    "place": "Q940492",
+    "from": 1481,
+    "to": 1494,
+    "person": "Boček Kuna z Kunštátu",
+    "how": "neznamo",
+    "from_approx": false,
+    "to_approx": false
    }
   ],
   "transfers": [
@@ -28647,14 +28856,28 @@
     "year": 1396,
     "from": "koruna",
     "to": "pani-z-kunstatu-a-podebrad",
+    "how": "lenni"
+   },
+   {
+    "place": "Q940492",
+    "year": 1442,
+    "from": "pani-z-kunstatu-a-podebrad",
+    "to": "kostkove-z-postupic",
     "how": "dar"
    },
    {
     "place": "Q940492",
-    "year": 1466,
-    "from": "pani-z-kunstatu-a-podebrad",
-    "to": "neznamo",
+    "year": 1481,
+    "from": "selmberkove",
+    "to": "pani-z-kunstatu-a-podebrad",
     "how": "neznamo"
+   },
+   {
+    "place": "Q940492",
+    "year": 1494,
+    "from": "pani-z-kunstatu-a-podebrad",
+    "to": "haugvicove-z-biskupic",
+    "how": "koupe"
    }
   ],
   "place_count": 29,
@@ -30571,10 +30794,10 @@
     "place": "Q2240326",
     "from": 1391,
     "to": 1541,
-    "person": "Zdeněk Lev z Rožmitálu",
-    "how": "koupe",
-    "from_approx": false,
-    "to_approx": false
+    "person": "Jan z Rožmitálu, synové Jaroslav Lev a Protiva (od 1430), Zdeněk Lev, Adam Lev",
+    "how": "dedictvi",
+    "from_approx": true,
+    "to_approx": true
    },
    {
     "place": "Q2244318",
@@ -30757,14 +30980,14 @@
     "year": 1391,
     "from": "bavorove-ze-strakonic",
     "to": "pani-z-rozmitalu",
-    "how": "koupe"
+    "how": "dedictvi"
    },
    {
     "place": "Q2240326",
     "year": 1541,
     "from": "pani-z-rozmitalu",
     "to": "sternberkove",
-    "how": "dedictvi"
+    "how": "koupe"
    },
    {
     "place": "Q2244318",
@@ -32625,10 +32848,10 @@
     "place": "Q2240368",
     "from": 1682,
     "to": 1682,
-    "person": "Jan Bohuš ze Zástřizl",
+    "person": "Jan Bohuš (Bohuslav) ze Zástřizl s manželkou Zuzanou Kateřinou Prakšickou",
     "how": "zalozeni",
-    "from_approx": false,
-    "to_approx": false
+    "from_approx": true,
+    "to_approx": true
    },
    {
     "place": "Q31698034",
@@ -34954,12 +35177,21 @@
    },
    {
     "place": "Q940492",
-    "from": 1649,
-    "to": 1696,
-    "person": "Eugenie Podstatská z Prusinovic",
-    "how": "koupe",
+    "from": 1547,
+    "to": 1583,
+    "person": "Prokop Podstatský, poté Jindřich Podstatský",
+    "how": "neznamo",
     "from_approx": false,
     "to_approx": false
+   },
+   {
+    "place": "Q940492",
+    "from": 1655,
+    "to": 1676,
+    "person": "Eusebie Sabina Podstatská, odkázala třetímu manželovi Juliu Leopoldovi z Hodic",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": true
    }
   ],
   "transfers": [
@@ -35021,17 +35253,31 @@
    },
    {
     "place": "Q940492",
-    "year": 1649,
+    "year": 1547,
     "from": "haugvicove-z-biskupic",
+    "to": "podstatsti-z-prusinovic",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q940492",
+    "year": 1583,
+    "from": "podstatsti-z-prusinovic",
+    "to": "bergerove-z-bergu",
+    "how": "koupe"
+   },
+   {
+    "place": "Q940492",
+    "year": 1655,
+    "from": "oppersdorfove",
     "to": "podstatsti-z-prusinovic",
     "how": "koupe"
    },
    {
     "place": "Q940492",
-    "year": 1696,
+    "year": 1676,
     "from": "podstatsti-z-prusinovic",
-    "to": "rad-nemeckych-rytiru",
-    "how": "koupe"
+    "to": "hodicti-z-hodic",
+    "how": "dedictvi"
    }
   ],
   "place_count": 5,
@@ -35818,7 +36064,7 @@
    {
     "place": "Q940492",
     "year": 1696,
-    "from": "podstatsti-z-prusinovic",
+    "from": "hodicti-z-hodic",
     "to": "rad-nemeckych-rytiru",
     "how": "koupe"
    },
@@ -35826,7 +36072,7 @@
     "place": "Q940492",
     "year": 1939,
     "from": "rad-nemeckych-rytiru",
-    "to": "stat",
+    "to": "neznamo",
     "how": "konfiskace"
    }
   ],
@@ -36158,6 +36404,45 @@
    }
   ],
   "place_count": 2,
+  "color_slot": null
+ },
+ "repicti-ze-sudomere": {
+  "id": "repicti-ze-sudomere",
+  "type": "rod",
+  "name": "Řepičtí ze Sudoměře",
+  "wikidata": "Q10513635",
+  "cswiki": "https://cs.wikipedia.org/wiki/Řepičtí_ze_Sudoměře",
+  "coat_of_arms": "Řepický of Sudoměř - coat of arms.jpg",
+  "summary": "Řepičtí ze Sudoměře byli starý český vladycký rod pocházející ze Sudoměře na Strakonicku. Mají shodný původ i erb s Kunaši z Machovic.",
+  "related": [],
+  "places": [
+   {
+    "place": "Q2240326",
+    "from": 1555,
+    "to": 1560,
+    "person": "sestry Kateřina a Anna Řepické ze Sudoměře",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q2240326",
+    "year": 1555,
+    "from": "sternberkove",
+    "to": "repicti-ze-sudomere",
+    "how": "koupe"
+   },
+   {
+    "place": "Q2240326",
+    "year": 1560,
+    "from": "repicti-ze-sudomere",
+    "to": "sternberkove",
+    "how": "koupe"
+   }
+  ],
+  "place_count": 1,
   "color_slot": null
  },
  "robmhapove-ze-suche": {
@@ -39418,6 +39703,15 @@
     "how": "dedictvi",
     "from_approx": false,
     "to_approx": true
+   },
+   {
+    "place": "Q940492",
+    "from": 1472,
+    "to": 1481,
+    "person": "Jan ze Šelmberka",
+    "how": "neznamo",
+    "from_approx": false,
+    "to_approx": false
    }
   ],
   "transfers": [
@@ -39560,9 +39854,23 @@
     "from": "selmberkove",
     "to": "pani-z-biberstejna",
     "how": "koupe"
+   },
+   {
+    "place": "Q940492",
+    "year": 1472,
+    "from": "kostkove-z-postupic",
+    "to": "selmberkove",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q940492",
+    "year": 1481,
+    "from": "selmberkove",
+    "to": "pani-z-kunstatu-a-podebrad",
+    "how": "neznamo"
    }
   ],
-  "place_count": 10,
+  "place_count": 11,
   "color_slot": null
  },
  "serenyiove": {
@@ -39615,7 +39923,7 @@
     "place": "Q2240326",
     "from": 1695,
     "to": 1798,
-    "person": null,
+    "person": "hraběnka Ernestina Serényiová a potomci",
     "how": "koupe",
     "from_approx": false,
     "to_approx": false
@@ -39676,7 +39984,7 @@
    {
     "place": "Q2240326",
     "year": 1695,
-    "from": "z-rozdrazova",
+    "from": "kolowrat-krakowsti",
     "to": "serenyiove",
     "how": "koupe"
    },
@@ -40534,7 +40842,7 @@
     "place": "Q1013039",
     "from": 1449,
     "to": 1547,
-    "person": "Matyáš, Jeroným a Mikuláš Šlikové a jejich potomci",
+    "person": "Matyáš, Václav a Zikmund Šlikové a jejich potomci",
     "how": "dedictvi",
     "from_approx": false,
     "to_approx": false
@@ -42206,11 +42514,20 @@
    {
     "place": "Q2240326",
     "from": 1541,
-    "to": 1579,
-    "person": null,
-    "how": "dedictvi",
+    "to": 1555,
+    "person": "Adam ze Šternberka",
+    "how": "koupe",
+    "from_approx": true,
+    "to_approx": true
+   },
+   {
+    "place": "Q2240326",
+    "from": 1560,
+    "to": 1575,
+    "person": "Zdeněk Šternberk (manžel Kateřiny Řepické)",
+    "how": "koupe",
     "from_approx": false,
-    "to_approx": false
+    "to_approx": true
    },
    {
     "place": "Q2241754",
@@ -42748,11 +43065,25 @@
     "year": 1541,
     "from": "pani-z-rozmitalu",
     "to": "sternberkove",
-    "how": "dedictvi"
+    "how": "koupe"
    },
    {
     "place": "Q2240326",
-    "year": 1579,
+    "year": 1555,
+    "from": "sternberkove",
+    "to": "repicti-ze-sudomere",
+    "how": "koupe"
+   },
+   {
+    "place": "Q2240326",
+    "year": 1560,
+    "from": "repicti-ze-sudomere",
+    "to": "sternberkove",
+    "how": "koupe"
+   },
+   {
+    "place": "Q2240326",
+    "year": 1577,
     "from": "sternberkove",
     "to": "z-rozdrazova",
     "how": "koupe"
@@ -44553,8 +44884,8 @@
     "place": "Q12034021",
     "from": 1809,
     "to": 1945,
-    "person": "Maxmilián z Thurn-Taxisu",
-    "how": "snatek",
+    "person": "Maxmilián Josef z Thurn-Taxisu, od 1831 Karel Anselm, poslední Alexandr (zemřel 1939)",
+    "how": "dedictvi",
     "from_approx": false,
     "to_approx": false
    },
@@ -44602,7 +44933,7 @@
     "year": 1809,
     "from": "furstenbergove",
     "to": "thurn-taxisove",
-    "how": "snatek"
+    "how": "dedictvi"
    },
    {
     "place": "Q12034021",
@@ -46272,19 +46603,19 @@
    {
     "place": "Q12034021",
     "from": 1623,
-    "to": 1704,
-    "person": "Adam z Valdštejna",
+    "to": 1713,
+    "person": "Adam z Valdštejna, poté Karel Arnošt z Valdštejna",
     "how": "koupe",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q12034021",
-    "from": 1704,
-    "to": 1770,
-    "person": "Karel Arnošt z Valdštejna, poté dcera Eleanora a vnučka Marie Anna",
+    "from": 1713,
+    "to": 1752,
+    "person": "dcera Eleonora, poté vnučka Marie Anna provdaná z Fürstenbergu",
     "how": "dedictvi",
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": true
    },
    {
@@ -46660,9 +46991,9 @@
     "place": "Q508519",
     "from": 1622,
     "to": 1821,
-    "person": "Albrecht z Valdštejna",
+    "person": "Albrecht z Valdštejna a jeho dědicové (rod Valdštejnů)",
     "how": "jine",
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": false
    },
    {
@@ -46957,16 +47288,16 @@
    {
     "place": "Q12034021",
     "year": 1623,
-    "from": "soukromnik",
+    "from": "berkove-z-dube",
     "to": "valdstejnove",
     "how": "koupe"
    },
    {
     "place": "Q12034021",
-    "year": 1770,
+    "year": 1752,
     "from": "valdstejnove",
     "to": "furstenbergove",
-    "how": "snatek"
+    "how": "dedictvi"
    },
    {
     "place": "Q12041603",
@@ -47927,11 +48258,11 @@
    {
     "place": "Q508519",
     "from": 1380,
-    "to": 1392,
+    "to": 1394,
     "person": "Čeněk z Vartenberka",
     "how": "zalozeni",
     "from_approx": true,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q573922",
@@ -48309,7 +48640,7 @@
    },
    {
     "place": "Q508519",
-    "year": 1392,
+    "year": 1394,
     "from": "vartenberkove",
     "to": "koruna",
     "how": "jine"
@@ -55390,7 +55721,7 @@
     "person": "Adamar a Lipert z Lednice",
     "how": "zalozeni",
     "from_approx": true,
-    "to_approx": false
+    "to_approx": true
    }
   ],
   "transfers": [
@@ -59555,9 +59886,9 @@
   "places": [
    {
     "place": "Q2240326",
-    "from": 1579,
-    "to": 1695,
-    "person": "Jan z Rozdražova, syn Václav z Rozdražova",
+    "from": 1577,
+    "to": 1691,
+    "person": "Jan z Rozdražova, poté syn Václav (zemřel 1625), poté Anna Marie s nezletilým synem Františkem Ignácem, od 1645 František Ignác",
     "how": "koupe",
     "from_approx": false,
     "to_approx": false
@@ -59566,17 +59897,17 @@
   "transfers": [
    {
     "place": "Q2240326",
-    "year": 1579,
+    "year": 1577,
     "from": "sternberkove",
     "to": "z-rozdrazova",
     "how": "koupe"
    },
    {
     "place": "Q2240326",
-    "year": 1695,
+    "year": 1691,
     "from": "z-rozdrazova",
-    "to": "serenyiove",
-    "how": "koupe"
+    "to": "kolowrat-krakowsti",
+    "how": "dedictvi"
    }
   ],
   "place_count": 1,
@@ -65413,7 +65744,7 @@
    {
     "place": "Q12034021",
     "from": 1223,
-    "to": 1612,
+    "to": 1510,
     "person": null,
     "how": "neznamo",
     "from_approx": true,
@@ -65668,7 +65999,7 @@
     "to": 1322,
     "person": "Sigfried Wais řečený Sirotek, poté Ortlín Sirotek",
     "how": "lenni",
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": false
    },
    {
@@ -65754,11 +66085,11 @@
    },
    {
     "place": "Q940492",
-    "from": 1466,
-    "to": 1494,
-    "person": null,
-    "how": "neznamo",
-    "from_approx": true,
+    "from": 1939,
+    "to": 1945,
+    "person": "Německá říše (jednotky SS)",
+    "how": "konfiskace",
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -66035,10 +66366,10 @@
    },
    {
     "place": "Q12034021",
-    "year": 1612,
+    "year": 1510,
     "from": "neznamo",
-    "to": "soukromnik",
-    "how": "koupe"
+    "to": "krinecti-z-ronova",
+    "how": "neznamo"
    },
    {
     "place": "Q12048927",
@@ -66476,17 +66807,17 @@
    },
    {
     "place": "Q940492",
-    "year": 1466,
-    "from": "pani-z-kunstatu-a-podebrad",
+    "year": 1939,
+    "from": "rad-nemeckych-rytiru",
     "to": "neznamo",
-    "how": "neznamo"
+    "how": "konfiskace"
    },
    {
     "place": "Q940492",
-    "year": 1494,
+    "year": 1945,
     "from": "neznamo",
-    "to": "haugvicove-z-biskupic",
-    "how": "koupe"
+    "to": "stat",
+    "how": "konfiskace"
    },
    {
     "place": "Q956766",
@@ -67790,7 +68121,7 @@
    },
    {
     "place": "Q193369",
-    "from": 870,
+    "from": 880,
     "to": 1918,
     "person": null,
     "how": "zalozeni",
@@ -67857,8 +68188,8 @@
     "to": 1562,
     "person": null,
     "how": "koupe",
-    "from_approx": false,
-    "to_approx": false
+    "from_approx": true,
+    "to_approx": true
    },
    {
     "place": "Q21587658",
@@ -68304,11 +68635,11 @@
    {
     "place": "Q370990",
     "from": 1575,
-    "to": 1575,
+    "to": 1576,
     "person": "Maxmilián II. Habsburský",
     "how": "konfiskace",
-    "from_approx": false,
-    "to_approx": false
+    "from_approx": true,
+    "to_approx": true
    },
    {
     "place": "Q376781",
@@ -68348,12 +68679,12 @@
    },
    {
     "place": "Q508519",
-    "from": 1392,
+    "from": 1394,
     "to": 1399,
     "person": "Václav IV.",
     "how": "jine",
-    "from_approx": true,
-    "to_approx": true
+    "from_approx": false,
+    "to_approx": false
    },
    {
     "place": "Q508519",
@@ -70893,7 +71224,7 @@
    },
    {
     "place": "Q370990",
-    "year": 1575,
+    "year": 1576,
     "from": "koruna",
     "to": "lichtenstejnove",
     "how": "koupe"
@@ -70956,7 +71287,7 @@
    },
    {
     "place": "Q508519",
-    "year": 1392,
+    "year": 1394,
     "from": "vartenberkove",
     "to": "koruna",
     "how": "jine"
@@ -71260,7 +71591,7 @@
     "year": 1396,
     "from": "koruna",
     "to": "pani-z-kunstatu-a-podebrad",
-    "how": "dar"
+    "how": "lenni"
    },
    {
     "place": "Q960890",
@@ -72588,8 +72919,8 @@
     "to": 1992,
     "person": null,
     "how": "konfiskace",
-    "from_approx": false,
-    "to_approx": false
+    "from_approx": true,
+    "to_approx": true
    },
    {
     "place": "Q2240368",
@@ -72597,7 +72928,7 @@
     "to": 1991,
     "person": null,
     "how": "konfiskace",
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": false
    },
    {
@@ -73542,15 +73873,6 @@
     "to": null,
     "person": null,
     "how": "koupe",
-    "from_approx": false,
-    "to_approx": false
-   },
-   {
-    "place": "Q940492",
-    "from": 1939,
-    "to": 1945,
-    "person": null,
-    "how": "konfiskace",
     "from_approx": false,
     "to_approx": false
    },
@@ -76212,8 +76534,8 @@
    },
    {
     "place": "Q940492",
-    "year": 1939,
-    "from": "rad-nemeckych-rytiru",
+    "year": 1945,
+    "from": "neznamo",
     "to": "stat",
     "how": "konfiskace"
    },
@@ -79787,18 +80109,9 @@
    },
    {
     "place": "Q12034021",
-    "from": 1612,
-    "to": 1622,
-    "person": "Václav Berka z Dubé starší",
-    "how": "koupe",
-    "from_approx": false,
-    "to_approx": false
-   },
-   {
-    "place": "Q12034021",
     "from": 2000,
     "to": null,
-    "person": "manželé Šrámkovi (Loučeň, a.s.)",
+    "person": "Loučeň, a.s. (manželé Šrámkovi)",
     "how": "koupe",
     "from_approx": false,
     "to_approx": false
@@ -82586,20 +82899,6 @@
    },
    {
     "place": "Q12034021",
-    "year": 1612,
-    "from": "neznamo",
-    "to": "soukromnik",
-    "how": "koupe"
-   },
-   {
-    "place": "Q12034021",
-    "year": 1623,
-    "from": "soukromnik",
-    "to": "valdstejnove",
-    "how": "koupe"
-   },
-   {
-    "place": "Q12034021",
     "year": 2000,
     "from": "stat",
     "to": "soukromnik",
@@ -84554,7 +84853,7 @@
     "to": 1784,
     "person": null,
     "how": "dar",
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": false
    },
    {
@@ -85239,7 +85538,7 @@
    },
    {
     "place": "Q2240368",
-    "year": 1784,
+    "year": 1785,
     "from": "cirkev",
     "to": "ditrichstejnove",
     "how": "koupe"

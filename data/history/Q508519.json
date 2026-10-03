@@ -13,22 +13,22 @@
    "owner_wiki": "Vartenberkové",
    "person": "Čeněk z Vartenberka",
    "from": 1380,
-   "to": 1392,
+   "to": 1394,
    "from_approx": true,
-   "to_approx": true,
+   "to_approx": false,
    "how": "zalozeni",
-   "note": "hrad postoupil kvůli finančním potížím králi na počátku 90. let 14. století"
+   "note": "hrad postoupil kvůli dluhům králi Václavu IV.; cs.wiki \"počátek 90. let 14. stol.\", web hradu 1394; web hradu a hradtrosky.eu uvádějí vznik 1380-1390"
   },
   {
    "owner": "koruna",
    "owner_wiki": null,
    "person": "Václav IV.",
-   "from": 1392,
+   "from": 1394,
    "to": 1399,
-   "from_approx": true,
-   "to_approx": true,
+   "from_approx": false,
+   "to_approx": false,
    "how": "jine",
-   "note": "postoupení od Čeňka z Vartenberka"
+   "note": "postoupení od Čeňka z Vartenberka (Nový Bydžov a Trosky, dlužil králi); web hradu: král hrad po čtyřech letech (1398) prodal Bergům, cs.wiki: Bergové doloženi 1399"
   },
   {
    "owner": "pani-z-bergova",
@@ -36,10 +36,10 @@
    "person": "Ota III. z Bergova",
    "from": 1399,
    "to": 1415,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": true,
    "how": "jine",
-   "note": "získal hrad od krále, v jeho majetku doložen poprvé 1399; rok předání synovi zdroj neuvádí"
+   "note": "získal hrad od krále, v majetku doložen od 1399 (cs.wiki; web hradu 1398/1399); Ota starší a mladší z Bergova; rok předání synovi zdroj neuvádí"
   },
   {
    "owner": "pani-z-bergova",
@@ -71,7 +71,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "připojeno ke kostskému panství; 1469 dočasně obsazeno královským vojskem, poté vráceno; Trosky doživotně držela Janova dcera Anežka, manželka Zdeňka ze Šternberka"
+   "note": "připojeno ke kostskému panství; 1469 dočasně obsazeno královským vojskem, poté vráceno; Trosky doživotně držela Janova dcera Anežka, manželka Zdeňka ze Šternberka; připojeno ke kostskému panství, vrchnost na hradě už nesídlila"
   },
   {
    "owner": "selmberkove",
@@ -104,7 +104,7 @@
    "from_approx": true,
    "to_approx": false,
    "how": "koupe",
-   "note": "převzal hrady Kost a Trosky za dluhy; po něm krátce bratr Kryštof († 1551)"
+   "note": "převzal hrady Kost a Trosky za dluhy; po něm krátce bratr Kryštof († 1551); skvelecesko.cz uvádí Biberštejny od 1524 (cs.wiki 1520, hradtrosky.eu připisuje Šelmberkům do 1551)"
   },
   {
    "owner": "lobkovicove",
@@ -142,13 +142,13 @@
   {
    "owner": "valdstejnove",
    "owner_wiki": "Valdštejnové",
-   "person": "Albrecht z Valdštejna",
+   "person": "Albrecht z Valdštejna a jeho dědicové (rod Valdštejnů)",
    "from": 1622,
    "to": 1821,
-   "from_approx": false,
+   "from_approx": true,
    "to_approx": false,
    "how": "jine",
-   "note": "způsob nabytí zdroj neuvádí; Valdštejnové drželi zříceninu s Hrubou Skálou do roku 1821"
+   "note": "cs.wiki 1622, hradtrosky.eu 1621; web hradu: přešlo dědictvím do majetku Valdštejnů; rod držel zříceninu s Hrubou Skálou do 1821"
   },
   {
    "owner": "lexove-z-aehrenthalu",
@@ -159,7 +159,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "romantické úpravy zříceniny; syn Alois stavěl od 1841 schodiště na Pannu"
+   "note": "romantické úpravy zříceniny; syn Alois stavěl od 1841 schodiště na Pannu; web hradu: na počátku 20. stol. Aehrenthalové převedli Trosky Turistické župě Českého ráje a hrad spravoval Klub českých turistů (přesný právní stav před 1925 zdroje neupřesňují)"
   },
   {
    "owner": "stat",
@@ -210,6 +210,9 @@
  "sources": [
   "https://cs.wikipedia.org/wiki/Trosky_(hrad)",
   "https://cs.wikipedia.org/wiki/Kost_(hrad)",
-  "https://cs.wikipedia.org/wiki/Hrubá_Skála_(zámek)"
+  "https://cs.wikipedia.org/wiki/Hrubá_Skála_(zámek)",
+  "https://hrad-trosky.cz/cs/o-hradu/historie",
+  "http://www.hradtrosky.eu/historie/",
+  "https://www.skvelecesko.cz/statni-hrad-trosky-rovensko-pod-troskami-symbol-ceskeho-raje-a4490"
  ]
 }

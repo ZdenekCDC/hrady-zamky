@@ -6052,7 +6052,7 @@
   "founded": {
    "year": 1100,
    "approx": true,
-   "text": "Románský hrad na skalním ostrohu nad Ohří; podle archeologického výzkumu z roku 2025 vznikl kolem roku 1100 jako kamenný hrad zděný na maltu, podle starší tradice jej založil král Přemysl Otakar I. na přelomu 12. a 13. století."
+   "text": "Románský hrad na skalním ostrohu nad Ohří; podle archeologického výzkumu z roku 2025 vznikl kolem roku 1100 jako kamenný hrad zděný na maltu, podle starší tradice jej založil král Přemysl Otakar I. na přelomu 12. a 13. století. Památkový katalog NPÚ klade vznik kamenného hradu do 3. čtvrtiny 12. století (král Vladislav II.), první zmínka 1227, výslovně 1234."
   },
   "summary": "Loket je jeden z nejstarších kamenných hradů v Čechách, po staletí sídlo královských purkrabích a centrum loketského manského systému. Ve 15. a 16. století byl zastavován, mimo jiné rodu Šliků, kteří jej přestavěli na reprezentační sídlo a spravovali odsud loketský kraj. Od počátku 17. století patřil městu Loket, v letech 1792-1948 sloužil jako státní vězení a od roku 1993 je zpřístupněn veřejnosti.",
   "owners": [
@@ -6063,7 +6063,7 @@
     "to": 1422,
     "to_approx": true,
     "how": "zalozeni",
-    "note": "královský hrad spravovaný purkrabími, centrum manského systému založeného Přemyslem Otakarem II."
+    "note": "královský hrad spravovaný purkrabími, centrum manského systému založeného Přemyslem Otakarem II.; vznik hradu: cs.wiki kolem 1100, NPÚ 3. čtvrtina 12. stol. (rok proto přibližný)"
    },
    {
     "owner": "ilburkove",
@@ -6073,7 +6073,8 @@
     "from_approx": true,
     "to": 1434,
     "how": "lenni",
-    "note": "zástava od krále Zikmunda Lucemburského; spory s many a měšťany vyvrcholily v letech 1432-1434"
+    "note": "zástava od krále Zikmunda Lucemburského; spory s many a měšťany vyvrcholily v letech 1432-1434",
+    "to_approx": false
    },
    {
     "owner": "slikove",
@@ -6087,11 +6088,11 @@
    {
     "owner": "slikove",
     "owner_wiki": "Šlikové",
-    "person": "Matyáš, Jeroným a Mikuláš Šlikové a jejich potomci",
+    "person": "Matyáš, Václav a Zikmund Šlikové a jejich potomci",
     "from": 1449,
     "to": 1547,
     "how": "dedictvi",
-    "note": "majetek rozdělen mezi bratry (1487/1489); požár hradu 1473, obléhání zemskou hotovostí 1505; konec konfiskací po bitvě u Mühlberka"
+    "note": "po Kašparovi zdědili 1449 Matyáš, Václav a Zikmund; majetek dělen mezi členy rodu; požár hradu 1473 (nebo 1474), obléhání zemskou hotovostí 1505; od Albrechta Šlika přešel k Jeronýmovi Šlikovi z ostrovské větve; konfiskace po bitvě u Mühlberka 1547 (NPÚ: zástavní držení Šliků 1434-1547)"
    },
    {
     "owner": "koruna",
@@ -6107,14 +6108,15 @@
     "from": 1551,
     "to": 1562,
     "how": "lenni",
-    "note": "zástava za půjčku 24 000 tolarů králi na válku s Turky"
+    "note": "město Loket získalo 29. 6. 1562 panství do zástavy na 30 let (NPÚ 1562 zástava); zástava vypršela 1592, správa hradu zůstala městu; web města Loket uvádí vykoupení zastavěného panství 1598"
    },
    {
     "owner": "mesto",
     "from": 1562,
     "to": 1602,
     "how": "lenni",
-    "note": "město Loket získalo panství do zástavy na 30 let; po vypršení zástavy 1592 zůstala správa hradu městu"
+    "note": "město Loket vyplatilo 1450 kop grošů a získalo hrad do dědičného držení (cs.wiki i NPÚ 1602); po třicetileté válce zpočátku správa císařského rychtáře; 1606-1607 vězněn Jiří Popel z Lobkovic; od konce 18. stol. do 1948 státní vězení, po rekonstrukcích zpřístupněn 1993",
+    "from_approx": false
    },
    {
     "owner": "mesto",
@@ -6151,7 +6153,7 @@
    },
    {
     "year": 1792,
-    "text": "na hradě zřízeno státní vězení, fungující až do roku 1948"
+    "text": "zřízeno státní vězení (cs.wiki 1792; přestavba na věznici podle NPÚ od 1797 do 1822), provoz do 1948"
    },
    {
     "year": 1993,
@@ -6159,7 +6161,9 @@
    }
   ],
   "sources": [
-   "https://cs.wikipedia.org/wiki/Loket_(hrad)"
+   "https://cs.wikipedia.org/wiki/Loket_(hrad)",
+   "https://www.pamatkovykatalog.cz/hrad-loket-15265450",
+   "https://www.loket.cz/historie/ms-4485"
   ]
  },
  "Q1013354": {
@@ -19323,127 +19327,169 @@
    "approx": true,
    "text": "první zmínka o zdejší tvrzi z roku 1223 (vysvědčení pražského biskupa Peregrina); dnešní barokní zámek na jejím místě vznikl přestavbou v letech 1704-1713"
   },
-  "summary": "Na místě dnešního zámku stála od počátku 13. století tvrz, kterou do roku 1618 vlastnila řada vladyků a zemanů. Od roku 1612 ji držel Václav Berka z Dubé starší, jemuž byl majetek po bitvě na Bílé hoře roku 1622 konfiskován a koupil jej Adam z Valdštejna; jeho potomek Karel Arnošt z Valdštejna nechal v letech 1704-1713 zchátralou tvrz přestavět na barokní zámek. Dědičky z rodu Valdštejnů provdáním přenesly panství na Fürstenberky a roku 1809 sňatkem na Thurn-Taxisy, kteří zámek vlastnili až do roku 1945, kdy byl vyrabován sovětskou armádou a následně přešel pod stát (od 1949 Ministerstvo obrany). Od roku 2000 je zámek v soukromém vlastnictví manželů Šrámkových prostřednictvím společnosti Loučeň, a.s., která jej nechala kompletně zrekonstruovat.",
+  "summary": "Na místě dnešního zámku stála od počátku 13. století tvrz (první zmínka 1223), kterou držela řada vladyků a zemanů, od 1510 Křinečtí z Ronova, na konci 16. století Kolovratové a od 1612 Václav Berka z Dubé starší. Po jeho konfiskaci po Bílé hoře koupil panství roku 1623 Adam z Valdštejna a Karel Arnošt z Valdštejna nechal v letech 1704-1713 tvrz přestavět na barokní zámek. Valdštejny vystřídali dědictvím Fürstenberkové a od roku 1809 Thurn-Taxisové, kteří zámek vlastnili do konfiskace 1945; poté sloužil státním institucím (doprava) a od roku 2000 je v soukromém vlastnictví společnosti Loučeň, a.s. (manželé Šrámkovi).",
   "owners": [
    {
     "owner": "neznamo",
+    "owner_wiki": null,
+    "person": null,
     "from": 1223,
+    "to": 1510,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "od první zmínky 1223 (Předslav z Loučně) se střídali vladykové a zemané; jména neuvádí ani oficiální web zámku"
+   },
+   {
+    "owner": "krinecti-z-ronova",
+    "owner_wiki": "Křinečtí z Ronova",
+    "person": "Ladislav Křinecký z Ronova (zemřel 1571)",
+    "from": 1510,
+    "to": 1561,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "hrady.cz: od 1510 Křinečtí z Ronova, Ladislav zde postavil panský dům; konec držení neuveden"
+   },
+   {
+    "owner": "kolovratove",
+    "owner_wiki": "Kolovratové",
+    "person": "Alena z Kolovrat",
+    "from": 1561,
     "to": 1612,
     "from_approx": true,
     "to_approx": false,
     "how": "neznamo",
-    "note": "od první zmínky 1223 se na tvrzi vystřídala řada vladyků a zemanů, jejichž jména nejsou v dostupném textu cs. wikipedie specifikována"
+    "note": "hrady.cz: na konci 16. stol. držela Loučeň Alena z Kolovrat; rok nabytí neuveden"
    },
    {
-    "owner": "soukromnik",
+    "owner": "berkove-z-dube",
+    "owner_wiki": "Berkové z Dubé",
     "person": "Václav Berka z Dubé starší",
     "from": 1612,
     "to": 1622,
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "bohatý šlechtic, po bitvě na Bílé hoře (1620) opustil zemi kvůli nesympatiím k Ferdinandu II.; majetek mu byl 1622 konfiskován za účast ve stavovském odboji"
+    "note": "po Bílé hoře uprchl ze země, majetek 1622 zkonfiskován za účast ve stavovském odboji"
    },
    {
     "owner": "valdstejnove",
     "owner_wiki": "Valdštejnové",
-    "person": "Adam z Valdštejna",
+    "person": "Adam z Valdštejna, poté Karel Arnošt z Valdštejna",
     "from": 1623,
-    "to": 1704,
+    "to": 1713,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "koupe",
-    "note": "koupil zkonfiskovaný Berkův majetek; tvrz zůstala za třicetileté války zchátralá"
+    "note": "koupil zkonfiskovaný majetek (strýc Albrechta z Valdštejna); 1704-1713 barokní přestavba tvrze za Karla Arnošta (zemřel 1713)"
    },
    {
     "owner": "valdstejnove",
     "owner_wiki": "Valdštejnové",
-    "person": "Karel Arnošt z Valdštejna, poté dcera Eleanora a vnučka Marie Anna",
-    "from": 1704,
-    "to": 1770,
-    "from_approx": false,
+    "person": "dcera Eleonora, poté vnučka Marie Anna provdaná z Fürstenbergu",
+    "from": 1713,
+    "to": 1752,
+    "from_approx": true,
     "to_approx": true,
     "how": "dedictvi",
-    "note": "1704-1713 přestavba zchátralé tvrze na barokní zámek, přistavěna kaple (později kostel Nanebevzetí Panny Marie); Marie Anna se provdala za Josefa z Fürstenbergu"
+    "note": "Marie Anna zemřela 1752 (web zámku) nebo 1756 (hrady.cz) - rok přechodu na Fürstenberky nejistý"
    },
    {
     "owner": "furstenbergove",
     "owner_wiki": "Fürstenbergové",
-    "person": "Marie Anna, provdaná Fürstenbergová, a potomci",
-    "from": 1770,
+    "person": "Karel Egon (zemřel 1787), Filip Nerius, Karel Gabriel (zemřel 1799), poté vdova Marie Josefa ze Šternberka",
+    "from": 1752,
     "to": 1809,
     "from_approx": true,
     "to_approx": false,
-    "how": "snatek",
-    "note": "panství přešlo z rodu Valdštejnů pod Fürstenberky"
+    "how": "dedictvi",
+    "note": "po Karlu Gabrielovi spor o dědictví, panství vysoudila vdova po Karlu Egonovi a odkázala je příbuznému Thurn-Taxisovi"
    },
    {
     "owner": "thurn-taxisove",
     "owner_wiki": "Thurn-Taxisové",
-    "person": "Maxmilián z Thurn-Taxisu",
+    "person": "Maxmilián Josef z Thurn-Taxisu, od 1831 Karel Anselm, poslední Alexandr (zemřel 1939)",
     "from": 1809,
     "to": 1945,
     "from_approx": false,
     "to_approx": false,
-    "how": "snatek",
-    "note": "získal zámek sňatkem s kněžnou z rodu Fürstenberků; 1813 na zámku hostil císaře Františka I. a cara Alexandra I.; posledním majitelem z rodu byl kníže Alexandr (Paša) z Thurn-Taxisu, zemřel 1939"
+    "how": "dedictvi",
+    "note": "cs.wiki a web zámku uvádějí získání sňatkem s Fürstenberkovou, hrady.cz odkaz příbuznému Maxmiliánu Josefovi; 1945 konfiskace"
    },
    {
     "owner": "stat",
+    "owner_wiki": null,
+    "person": null,
     "from": 1945,
     "to": 2000,
     "from_approx": false,
     "to_approx": false,
     "how": "konfiskace",
-    "note": "1945 zámek vyrabován sovětskou armádou a obyvateli Loučeně, od 1949 v majetku Ministerstva obrany ČR"
+    "note": "zámek vyrabován 1945; cs.wiki uvádí od 1949 Ministerstvo obrany, web zámku a hrady.cz ministerstvo dopravy (Fond sociální péče, dráhy, od 1968 Ústřední dopravní institut) - spor zdrojů; sloužil jako školicí středisko a učiliště"
    },
    {
     "owner": "soukromnik",
-    "person": "manželé Šrámkovi (Loučeň, a.s.)",
+    "owner_wiki": null,
+    "person": "Loučeň, a.s. (manželé Šrámkovi)",
     "from": 2000,
     "to": null,
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "zámek i park kompletně zrekonstruovali (2000-2007), otevřen veřejnosti 2007"
+    "note": "od 1. 1. 2000; rekonstrukce, otevřeno 7. 7. 2007"
    }
   ],
   "events": [
    {
     "year": 1223,
-    "text": "první písemná zmínka o zdejší tvrzi"
+    "text": "první písemná zmínka o Loučni (Předslav z Loučně) a zdejší tvrzi"
+   },
+   {
+    "year": 1510,
+    "text": "Loučeň získávají Křinečtí z Ronova"
    },
    {
     "year": 1612,
-    "text": "Václav Berka z Dubé starší získává tvrz Loučeň"
+    "text": "Václav Berka z Dubé starší získává Loučeň"
    },
    {
     "year": 1622,
-    "text": "konfiskace majetku Václava Berky po bitvě na Bílé hoře, koupě Adamem z Valdštejna"
+    "text": "konfiskace majetku Václava Berky po Bílé hoře"
+   },
+   {
+    "year": 1623,
+    "text": "Loučeň kupuje Adam z Valdštejna"
    },
    {
     "year": 1713,
-    "text": "dokončena barokní přestavba zámku Karlem Arnoštem z Valdštejna"
+    "text": "dokončena barokní přestavba zámku Karlem Arnoštem z Valdštejna (1704-1713)"
    },
    {
     "year": 1809,
-    "text": "Maxmilián z Thurn-Taxisu získává zámek sňatkem s kněžnou Fürstenbergovou"
+    "text": "Loučeň přechází na Thurn-Taxisy (Maxmilián Josef)"
    },
    {
-    "year": 1813,
-    "text": "zámek hostí císaře Františka I. a ruského cara Alexandra I."
+    "year": 1828,
+    "text": "počátek budování anglického parku za Karla Anselma Thurn-Taxise"
    },
    {
     "year": 1945,
-    "text": "zámek vyrabován sovětskou armádou, majetek přechází pod stát"
+    "text": "zámek vyrabován, majetek Thurn-Taxisů zkonfiskován"
    },
    {
     "year": 2000,
-    "text": "zámek kupují manželé Šrámkovi a zahajují jeho kompletní rekonstrukci"
+    "text": "vlastníkem se stává Loučeň, a.s. (manželé Šrámkovi)"
+   },
+   {
+    "year": 2007,
+    "text": "zpřístupnění zrekonstruovaného zámku a parku s labyrinty"
    }
   ],
   "sources": [
-   "https://cs.wikipedia.org/wiki/Loučeň_(zámek)"
+   "https://cs.wikipedia.org/wiki/Loučeň_(zámek)",
+   "https://www.zamekloucen.cz/historie-zamku-loucen",
+   "https://www.hrady.cz/zamek-loucen-nymburk/"
   ]
  },
  "Q12038651": {
@@ -31850,22 +31896,22 @@
   "id": "Q193369",
   "name": "Pražský hrad",
   "founded": {
-   "year": 870,
+   "year": 880,
    "approx": true,
-   "text": "9. století - opevněné přemyslovské hradiště, nejstarší doložená stavba (kostel Panny Marie) po roce 885"
+   "text": "kolem roku 880 založil kníže Bořivoj z rodu Přemyslovců (podle hrad.cz); nejstarší doložená stavba kostel Panny Marie po roce 885"
   },
-  "summary": "Pražský hrad byl od 9. století sídlem českých knížat a králů a příležitostně i císařů Svaté říše římské, postupně přestavovaným z raně středověkého hradiště na rozsáhlý komplex paláců a katedrálu sv. Víta. Po vzniku Československa v roce 1918 se stal sídlem prezidenta republiky a tuto funkci si podržel dodnes. V zadání se u Pražského hradu sleduje pouze úroveň koruna/stát, bez detailu jednotlivých panovnických rodů, které se na trůnu vystřídaly (Přemyslovci, Lucemburkové, Jagellonci, Habsburkové).",
+  "summary": "Pražský hrad založil kolem roku 880 přemyslovský kníže Bořivoj a od té doby byl sídlem českých knížat a králů, dvakrát i hlavní rezidencí císaře Svaté říše římské; z raně středověkého hradiště vyrostl komplex paláců a katedrála sv. Víta (dokončena 1929). Do roku 1918 patřil panovníkovi (Přemyslovci, Lucemburkové, Jagellonci, Habsburkové), od vzniku Československa je sídlem prezidenta republiky a majetkem státu, který spravuje Správa Pražského hradu při Kanceláři prezidenta republiky. Některé objekty (katedrála, arcibiskupský palác) drží církevní subjekty.",
   "owners": [
    {
     "owner": "koruna",
     "owner_wiki": null,
     "person": null,
-    "from": 870,
+    "from": 880,
     "to": 1918,
     "from_approx": true,
     "to_approx": false,
     "how": "zalozeni",
-    "note": "zeměpanský majetek českého knížectví a království; postupně Přemyslovci, Lucemburkové, Jagellonci, Habsburkové a Habsbursko-lotrinská dynastie"
+    "note": "zeměpanský majetek českého knížectví a království; postupně Přemyslovci, Lucemburkové, Jagellonci, Habsburkové a Habsbursko-lotrinská dynastie (podrobnosti o rodech nesledovány)"
    },
    {
     "owner": "stat",
@@ -31876,10 +31922,15 @@
     "from_approx": false,
     "to_approx": false,
     "how": "jine",
-    "note": "sídlo prezidenta Československé republiky, od 1993 České republiky; dílčí objekty (katedrála sv. Víta, arcibiskupský palác) spravují církevní subjekty"
+    "note": "od 1918 sídlo hlavy státu (od 1993 České republiky); areál spravuje od 1. 5. 1993 Správa Pražského hradu (příspěvková organizace Kanceláře prezidenta republiky); cs.wiki uvádí mezi dnešními vlastníky i Arcibiskupství pražské, Metropolitní kapitulu u sv. Víta a Williama Lobkowicze (dílčí objekty)"
    }
   ],
   "events": [
+   {
+    "year": 880,
+    "text": "kníže Bořivoj zakládá hradiště (podle hrad.cz)",
+    "approx": true
+   },
    {
     "year": 885,
     "text": "kníže Bořivoj I. nechal postavit kostel Panny Marie, nejstarší doloženou stavbu na hradě",
@@ -31910,12 +31961,18 @@
     "text": "hrad se stal sídlem prezidenta Československé republiky"
    },
    {
+    "year": 1920,
+    "text": "přestavba hradu pro prezidenta Masaryka pod vedením architekta Josipa Plečnika"
+   },
+   {
     "year": 1929,
     "text": "dokončení katedrály svatého Víta"
    }
   ],
   "sources": [
-   "https://cs.wikipedia.org/wiki/Pražský_hrad"
+   "https://cs.wikipedia.org/wiki/Pražský_hrad",
+   "https://www.hrad.cz/cs/prazsky-hrad-pro-navstevniky/ostatni/dejiny-prazskeho-hradu-seznam-s-odkazem-na-stranky-dejiny-prazskeho-hradu-a-archeologicky-vyzkum-10287",
+   "https://www.hrad.cz/cs/prezident-cr/sprava-prazskeho-hradu/statut"
   ]
  },
  "Q19601765": {
@@ -33201,7 +33258,7 @@
    "approx": true,
    "text": "polovina 13. století - gotický hrad biskupa Bruna ze Schauenburku na místě starší trhové osady"
   },
-  "summary": "Kroměřížský zámek byl od roku 1110 majetkem olomouckého biskupství (později arcibiskupství), které zde v polovině 13. století vybudovalo gotický hrad a v 17. století jej po zničení třicetiletou válkou přestavělo v barokní podobě. Po roce 1948 byl zámek fakticky spravován státem, arcibiskupství olomouckému byl vrácen restitucí až v roce 2017. V roce 1998 byl zámek se zahradami zapsán na seznam UNESCO.",
+  "summary": "Trhovou osadu Kroměříž koupil roku 1110 olomoucký biskup Jan II. a od té doby patřila olomouckému biskupství (od 1777 arcibiskupství). Biskup Bruno ze Schauenburku zde v polovině 13. století postavil hrad, za Stanislava Thurza vznikl renesanční zámek a po zničení Švédy 1643 a požáru 1752 získal dnešní raně barokní podobu zejména za biskupa Karla II. z Lichtensteinu-Castelcorna. Po roce 1945 byl zámek zestátněn (sbírky a mobiliář 1950, vlastnictví sbírek církvi potvrzeno 1992) a spravoval jej stát; budova a Podzámecká zahrada byly vráceny Arcibiskupství olomouckému restitucí (předání klíčů 7. 4. 2017), Květná zahrada zůstala státní. Od roku 1998 je zámek se zahradami na seznamu UNESCO.",
   "owners": [
    {
     "owner": "cirkev",
@@ -33212,7 +33269,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "koupe",
-    "note": "olomoucké biskupství, od 1777 arcibiskupství; koupě trhové osady biskupem Janem II. 1110"
+    "note": "olomoucké biskupství, od 1777 arcibiskupství; koupě trhové osady biskupem Janem II. 1110; za německé okupace pod nucenou správou; zestátnění budovy zámku po 1945 (web zámku uvádí národní správu, přesný rok neuvádí), sbírky a mobiliář zestátněny 1950"
    },
    {
     "owner": "stat",
@@ -33223,7 +33280,7 @@
     "from_approx": true,
     "to_approx": false,
     "how": "konfiskace",
-    "note": "spravováno státem (NPÚ), vlastnická práva církve fakticky omezena"
+    "note": "zámek státní (národní správa, od 1970 Státní zámek a zahrady, později NPÚ); sbírky a mobiliář zůstaly ve vlastnictví arcibiskupství (potvrzeno 1992); rok zestátnění budovy cs.wiki 1949, web zámku bez přesného roku"
    },
    {
     "owner": "cirkev",
@@ -33234,7 +33291,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "restituce",
-    "note": "Arcibiskupství olomoucké, zámek i sbírky spravuje Arcidiecézní muzeum Olomouc"
+    "note": "Arcibiskupství olomoucké; restituční žádost 2013, smlouvy podepsány kolem přelomu 2016/2017, slavnostní předání klíčů 7. 4. 2017 (NPÚ uvádí restituci již 2015, správu převzala církev v roce 2017); vrácen zámek a Podzámecká zahrada, Květná zahrada zůstala státu (EU investice); NPÚ zámek dále spravuje a má v něm sídlo, sbírky spravuje Arcidiecézní muzeum Olomouc"
    }
   ],
   "events": [
@@ -33255,8 +33312,25 @@
     "text": "dokončení barokní přestavby zámku za biskupa Karla II. z Lichtensteinu-Castelcorna"
    },
    {
+    "year": 1777,
+    "text": "olomoucké biskupství povýšeno na arcibiskupství (první arcibiskup Antonín Colloredo)"
+   },
+   {
     "year": 1848,
     "text": "zasedání Ústavodárného říšského sněmu (Kroměřížský sněm)"
+   },
+   {
+    "year": 1945,
+    "text": "německá vojska zapálila zámeckou věž, po válce zestátnění budovy zámku",
+    "approx": true
+   },
+   {
+    "year": 1950,
+    "text": "zestátnění sbírek a mobiliáře"
+   },
+   {
+    "year": 1992,
+    "text": "potvrzeno vlastnictví sbírek a mobiliáře Arcibiskupstvím olomouckým"
    },
    {
     "year": 1998,
@@ -33264,11 +33338,14 @@
    },
    {
     "year": 2017,
-    "text": "restituce zámku Arcibiskupství olomouckému"
+    "text": "restituce: zámek a Podzámecká zahrada vráceny Arcibiskupství olomouckému (Květná zahrada zůstává státní)"
    }
   ],
   "sources": [
-   "https://cs.wikipedia.org/wiki/Arcibiskupský_zámek_Kroměříž"
+   "https://cs.wikipedia.org/wiki/Arcibiskupský_zámek_Kroměříž",
+   "https://www.zamek-kromeriz.cz/historie-zamku/",
+   "https://www.npu.cz/cs/novinky/51530-o-zamek-kromeriz-se-nove-stara-olomoucke-arcibiskupstvi-kvetna-zahrada-zustava-ve-sprave-npu",
+   "https://www.impuls.cz/regiony/zlinsky-kraj/arcibiskupstvi-prevzalo-od-statu-zamek-v-kromerizi.A170407_161206_imp-zlinsky_kov/tisk"
   ]
  },
  "Q20428299": {
@@ -33527,13 +33604,13 @@
    {
     "owner": "chudi-z-ujezda",
     "owner_wiki": null,
-    "person": "Mikuláš Chudý z Újezda",
+    "person": "Mikuláš z Lobkovic (Chudý z Újezda)",
     "from": 1420,
     "to": 1454,
     "from_approx": true,
     "to_approx": false,
     "how": "lenni",
-    "note": "hrad se vsí zastavil císař Zikmund Lucemburský"
+    "note": "hrad se vsí zastavil císař Zikmund Lucemburský; rok zástavy zdroje neuvádějí; hrad vykoupil 1454 Jiří z Poděbrad od potomků"
    },
    {
     "owner": "koruna",
@@ -33582,10 +33659,10 @@
     "owner": "koruna",
     "from": 1561,
     "to": 1562,
-    "from_approx": false,
-    "to_approx": false,
+    "from_approx": true,
+    "to_approx": true,
     "how": "koupe",
-    "note": "královská komora vykoupila panství od Ungnadů"
+    "note": "královská komora vykoupila panství od Ungnadů; cs.wiki 1561/1562, web zámku uvádí koupi Hradci už 1561"
    },
    {
     "owner": "pani-z-hradce",
@@ -33593,9 +33670,10 @@
     "person": "Jáchym z Hradce",
     "from": 1562,
     "to": 1598,
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": false,
-    "how": "koupe"
+    "how": "koupe",
+    "note": "cs.wiki 1562 (koupě od královské komory), web zámku 1561; po 1562 přestavba hradu na renesanční zámek"
    },
    {
     "owner": "malovcove-z-malovic",
@@ -33604,9 +33682,9 @@
     "from": 1598,
     "to": 1622,
     "from_approx": false,
-    "to_approx": false,
+    "to_approx": true,
     "how": "koupe",
-    "note": "prodal zadlužený Jáchym Oldřich z Hradce; majetek Malovcům zkonfiskován za účast na stavovském povstání"
+    "note": "prodal zadlužený Jáchym Oldřich z Hradce; cs.wiki konfiskace 1622, web zámku ztráta panství 1619; majetek zkonfiskován za účast na stavovském povstání"
    },
    {
     "owner": "marradasove",
@@ -33614,10 +33692,10 @@
     "person": "Baltasar Marradas",
     "from": 1622,
     "to": 1661,
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": false,
     "how": "dar",
-    "note": "španělský aristokrat a císařský polní maršál získal zkonfiskované panství; po jeho smrti 1638 zdědil synovec Francesco de Salant y Marradas"
+    "note": "španělský generál a císařský polní maršál, panství získal za válečné pohledávky od Ferdinanda II. (cs.wiki 1622, web zámku 1623); po smrti 1638 zdědil synovec Francesco de Salant y Marradas; 1661 prodal jeho syn Bartoloměj"
    },
    {
     "owner": "schwarzenbergove",
@@ -33628,7 +33706,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "koupil od Bartoloměje, syna Francesca de Salant y Marradas; jihočeské sídlo rodu téměř tři století, posledním soukromým majitelem byl Adolf ze Schwarzenbergu (1890-1950), který 1939 emigroval"
+    "note": "koupil od Bartoloměje, syna Francesca (web zámku: od synovce Marradase) de Salant y Marradas; jihočeské sídlo rodu téměř tři století, posledním soukromým majitelem byl Adolf ze Schwarzenbergu (1890-1950), který 1939 emigroval"
    },
    {
     "owner": "stat",
@@ -33676,7 +33754,9 @@
    }
   ],
   "sources": [
-   "https://cs.wikipedia.org/wiki/Hluboká_nad_Vltavou_(zámek)"
+   "https://cs.wikipedia.org/wiki/Hluboká_nad_Vltavou_(zámek)",
+   "https://www.zamek-hluboka.cz/en/about/history",
+   "https://mckbrno.cz/mckbrno-databaze/naki/index.php/objekt-sz-hluboka-nad-vltavou/historie-sz-hluboka"
   ]
  },
  "Q21587658": {
@@ -35176,70 +35256,106 @@
    "approx": true,
    "text": "první písemná zmínka o \"blatném hradě\" 1235, jádro pochází z 13. století"
   },
-  "summary": "Blatná patřila od 13. století pánům Bavorům ze Strakonic, od konce 14. století pánům z Rožmitálu, za nichž byla za Zdeňka Lva z Rožmitálu v 15. století přestavěna Benediktem Rejtem na reprezentační sídlo. Od roku 1798 vlastnili hrad přestavěný na zámek Hildprandtové z Ottenhausenu, kterým byl v letech 1948-1952 zkonfiskován. Po restituci v roce 1992 je zámek opět v majetku rodiny Hildprandtů a je přístupný veřejnosti.",
+  "summary": "Blatná je vodní hrad poprvé zmíněný roku 1235, od druhé poloviny 13. století v držení Bavorů ze Strakonic a poté pánů z Rožmitálu, za nichž (Jaroslav Lev, Zdeněk Lev) dosáhl vrcholného rozkvětu a byl přestavěn Benediktem Rejtem. Po rozprodeji rožmitálského majetku se vystřídali Šternberkové, Řepičtí ze Sudoměře, Rozdražovští (do 1691), krátce Kolovratové a od 1695 Serényiové. Roku 1798 koupil panství Hildprandt z Ottenhausenu, rodině byl zámek v letech 1948-1952 zkonfiskován a po restituci kolem roku 1992 se vrátil Hildprandtům; je přístupný veřejnosti.",
   "owners": [
    {
     "owner": "bavorove-ze-strakonic",
     "owner_wiki": "Bavorové ze Strakonic",
     "person": null,
-    "from": 1235,
+    "from": null,
     "to": 1391,
-    "from_approx": true,
-    "to_approx": false,
-    "how": "zalozeni"
+    "from_approx": false,
+    "to_approx": true,
+    "how": "zalozeni",
+    "note": "druhá polovina 13. stol. (rok neuveden); rok konce nejistý: cs.wiki 1391 (nástup Rožmitálů), web zámku uvádí posledního Bavora Břetislava do 1403"
    },
    {
     "owner": "pani-z-rozmitalu",
     "owner_wiki": "Páni z Rožmitálu",
-    "person": "Zdeněk Lev z Rožmitálu",
+    "person": "Jan z Rožmitálu, synové Jaroslav Lev a Protiva (od 1430), Zdeněk Lev, Adam Lev",
     "from": 1391,
     "to": 1541,
-    "from_approx": false,
-    "to_approx": false,
-    "how": "koupe",
-    "note": "vrchol rozvoje za Zdeňka Lva z Rožmitálu (15. stol.), přestavba s Benediktem Rejtem"
+    "from_approx": true,
+    "to_approx": true,
+    "how": "dedictvi",
+    "note": "Rožmitálové dědili po Bavorech jako příbuzní; vrchol za Jaroslava Lva a Zdeňka Lva (přestavba Benediktem Rejtem); cs.wiki a AMHZ 1541, web zámku uvádí prodej Adamem Levem až 1555"
    },
    {
     "owner": "sternberkove",
     "owner_wiki": "Šternberkové",
-    "person": null,
+    "person": "Adam ze Šternberka",
     "from": 1541,
-    "to": 1579,
+    "to": 1555,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "podle cs.wiki a AMHZ; web zámku tento mezistupeň neuvádí (Adam Lev prodal 1555 Řepickým)"
+   },
+   {
+    "owner": "repicti-ze-sudomere",
+    "owner_wiki": "Řepičtí ze Sudoměře",
+    "person": "sestry Kateřina a Anna Řepické ze Sudoměře",
+    "from": 1555,
+    "to": 1560,
     "from_approx": false,
     "to_approx": false,
-    "how": "dedictvi"
+    "how": "koupe",
+    "note": "podle webu zámku a AMHZ; cs.wiki tento záznam vynechává"
+   },
+   {
+    "owner": "sternberkove",
+    "owner_wiki": "Šternberkové",
+    "person": "Zdeněk Šternberk (manžel Kateřiny Řepické)",
+    "from": 1560,
+    "to": 1575,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "web zámku: koupil 1560 od manželčiny sestry, zemřel dva roky před 1577; cs.wiki uvádí Šternberky do 1579"
    },
    {
     "owner": "z-rozdrazova",
     "owner_wiki": null,
-    "person": "Jan z Rozdražova, syn Václav z Rozdražova",
-    "from": 1579,
+    "person": "Jan z Rozdražova, poté syn Václav (zemřel 1625), poté Anna Marie s nezletilým synem Františkem Ignácem, od 1645 František Ignác",
+    "from": 1577,
+    "to": 1691,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "cs.wiki uvádí koupi Jana z Rozdražova 1579, web zámku 1577; Rozdražovští vymřeli 1691 po meči (František Ignác); 1622 vydrancování Mansfeldem, Václav uprchl do Slezska"
+   },
+   {
+    "owner": "kolowrat-krakowsti",
+    "owner_wiki": "Kolowrat-Krakowští",
+    "person": "Jan František Krakovský z Kolovrat",
+    "from": 1691,
     "to": 1695,
     "from_approx": false,
     "to_approx": false,
-    "how": "koupe"
+    "how": "dedictvi",
+    "note": "syn sestry Františka Ignáce; panství vzápětí prodal"
    },
    {
     "owner": "serenyiove",
     "owner_wiki": "Serényiové",
-    "person": null,
+    "person": "hraběnka Ernestina Serényiová a potomci",
     "from": 1695,
     "to": 1798,
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "za Serényiů zámek vyhořel, opravy 1763-1767"
+    "note": "za Serényiů zámek vyhořel, opravy 1763-1767, barokizace Rozdražovského paláce"
    },
    {
     "owner": "hildprandtove-z-ottenhausenu",
     "owner_wiki": "Hildprandtové z Ottenhausenu",
-    "person": "Karel Hildprandt",
+    "person": "Václav Karel (Karel) Hildprandt, František, Robert",
     "from": 1798,
     "to": 1948,
     "from_approx": false,
-    "to_approx": false,
+    "to_approx": true,
     "how": "koupe",
-    "note": "regotizace 1850-1856 za Roberta Hildprandta"
+    "note": "koupil od bratří Serényiů; 1850-1856 novogotické úpravy za Roberta Hildprandta (Bernard Grueber); rok konfiskace: cs.wiki 1948, web zámku 1952 (koncem 40. let převzala zámek Národní kulturní komise)"
    },
    {
     "owner": "stat",
@@ -35247,54 +35363,81 @@
     "person": null,
     "from": 1948,
     "to": 1992,
-    "from_approx": false,
-    "to_approx": false,
-    "how": "konfiskace"
+    "from_approx": true,
+    "to_approx": true,
+    "how": "konfiskace",
+    "note": "komunistická konfiskace (1948-1952); rodina emigrovala do Etiopie; rok restituce: pamatky.cz 1992, web zámku po 1991"
    },
    {
     "owner": "hildprandtove-z-ottenhausenu",
     "owner_wiki": "Hildprandtové z Ottenhausenu",
-    "person": "Kornelie, Josefina a Jana Hildprandtové",
+    "person": "Kornelie (zemřela 2014), Josefina (zemřela 2020) a Jana Hildprandtová; dnes Stefanos-Filipos Germenis a Jana Germenis-Hildprandt",
     "from": 1992,
     "to": null,
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": false,
     "how": "restituce",
-    "note": "současní majitelé Stefanos-Filipos Germenis a Jana Germenis-Hildprandt"
+    "note": "zámek v soukromém vlastnictví, přístupný veřejnosti"
    }
   ],
   "events": [
    {
     "year": 1235,
-    "text": "první písemná zmínka o blatenském hradu"
+    "text": "první písemná zmínka o blatenské tvrzi (sídlo Vyšemíra)"
    },
    {
-    "year": 1470,
-    "text": "přestavba paláce a opevnění pro Zdeňka Lva z Rožmitálu (Benedikt Rejt)"
+    "year": 1430,
+    "text": "po smrti Jana z Rožmitálu drží Blatnou synové Jaroslav Lev a Protiva"
+   },
+   {
+    "year": 1528,
+    "text": "přestavba jihozápadního paláce na Rejtův palác pro Zdeňka Lva z Rožmitálu (Benedikt Rejt)",
+    "approx": true
+   },
+   {
+    "year": 1555,
+    "text": "Adam Lev z Rožmitálu kvůli dluhům prodává Blatnou sestrám Řepickým ze Sudoměře"
+   },
+   {
+    "year": 1622,
+    "text": "po vydrancování hradu Mansfeldovým vojskem odchází Václav z Rozdražova do Slezska"
+   },
+   {
+    "year": 1691,
+    "text": "zemřel František Ignác z Rozdražova, rod Rozdražovských vymřel po meči"
    },
    {
     "year": 1695,
-    "text": "hrad získávají uherská hrabata Serényiové, po požáru opravy 1763-1767"
+    "text": "Blatnou získávají Serényiové"
+   },
+   {
+    "year": 1763,
+    "text": "po požáru oprava zámku (do 1767)"
    },
    {
     "year": 1798,
-    "text": "koupě baronem Karlem Hildprandtem"
+    "text": "koupě Václavem Karlem Hildprandtem z Ottenhausenu"
    },
    {
     "year": 1856,
-    "text": "dokončení novogotické regotizace zámku (Bernard Grueber)"
+    "text": "dokončení novogotické regotizace zámku (Bernard Grueber, od 1850)"
    },
    {
     "year": 1948,
-    "text": "konfiskace majetku Hildprandtů komunistickým státem"
+    "text": "konfiskace majetku Hildprandtů (do 1952)",
+    "approx": true
    },
    {
     "year": 1992,
-    "text": "restituce zámku rodině Hildprandtů"
+    "text": "restituce zámku rodině Hildprandtů",
+    "approx": true
    }
   ],
   "sources": [
-   "https://cs.wikipedia.org/wiki/Blatná_(zámek)"
+   "https://cs.wikipedia.org/wiki/Blatná_(zámek)",
+   "https://www.zamek-blatna.cz/about/castle-history",
+   "https://www.amhz.cz/zamek/blatna",
+   "https://www.pamatky.cz/pamatky/blatna"
   ]
  },
  "Q2240368": {
@@ -35302,21 +35445,21 @@
   "name": "Boskovice",
   "founded": {
    "year": 1682,
-   "approx": false,
-   "text": "1682 - Jan Bohuš ze Zástřizl založil na místě dnešního zámku dominikánský klášter s kostelem; vlastní empírový zámek vznikl přestavbou v letech 1819-1826."
+   "approx": true,
+   "text": "1682 (cs.wiki) - Jan Bohuš ze Zástřizl založil na místě dnešního zámku dominikánský klášter s kostelem; web zámku: fundaci schválil 1684 Leopold I. a stavba proběhla v 90. letech 17. stol.; vlastní empírový zámek vznikl přestavbou v letech 1819-1826."
   },
   "summary": "Dnešní empírový zámek Boskovice vznikl přestavbou zrušeného dominikánského kláštera, který v roce 1682 založil Jan Bohuš ze Zástřizl. Po zrušení kláštera za Josefa II. objekt roku 1784 koupili Ditrichštejnové a v letech 1819-1826 jej přestavěli na zámek. Od roku 1856 patřil rodu Mensdorff-Pouilly, kterému byl v roce 1950 znárodněn a v roce 1991 vrácen v restituci.",
   "owners": [
    {
     "owner": "pani-ze-zastrizl",
     "owner_wiki": "Páni ze Zástřizl",
-    "person": "Jan Bohuš ze Zástřizl",
+    "person": "Jan Bohuš (Bohuslav) ze Zástřizl s manželkou Zuzanou Kateřinou Prakšickou",
     "from": 1682,
     "to": 1682,
-    "from_approx": false,
-    "to_approx": false,
+    "from_approx": true,
+    "to_approx": true,
     "how": "zalozeni",
-    "note": "založil na místě dnešního zámku dominikánský klášter s kostelem"
+    "note": "založil klášter; cs.wiki 1682, web zámku fundace schválena 1684, stavba 1690-1695"
    },
    {
     "owner": "cirkev",
@@ -35324,32 +35467,43 @@
     "person": null,
     "from": 1682,
     "to": 1784,
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": false,
     "how": "dar",
-    "note": "dominikánský klášter; zrušen za Josefa II. v roce 1784"
+    "note": "dominikánský klášter; zrušen Josefem II. v roce 1784, majetek převeden do náboženského fondu"
    },
    {
     "owner": "ditrichstejnove",
     "owner_wiki": "Ditrichštejnové",
     "person": "František Xaver Ditrichštejn",
-    "from": 1784,
+    "from": 1785,
+    "to": 1850,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "koupili zrušený klášter (cs.wiki 1784, web zámku 1785), zřídili manufakturu na barvy; 1819-1826 přestavba na zámek za Františka Xavera Ditrichštejna; 1850 rod po meči vymřel"
+   },
+   {
+    "owner": "ditrichstejnove",
+    "owner_wiki": "Ditrichštejnové",
+    "person": "Terezie Rosa z Ditrichštejna (provdaná Mensdorff-Pouilly)",
+    "from": 1850,
     "to": 1856,
     "from_approx": false,
     "to_approx": false,
-    "how": "koupe",
-    "note": "koupili zrušený klášter, provozovali zde manufakturu na barvy, v letech 1819-1826 přestavba na zámek"
+    "how": "dedictvi",
+    "note": "nejmladší dcera Františka Xavera, manželka Alfonse Mensdorff-Pouilly (sňatek 1843); po její smrti 1856 přešel majetek na rod Mensdorff-Pouilly"
    },
    {
     "owner": "mensdorff-pouilly",
     "owner_wiki": "Mensdorff-Pouilly",
-    "person": null,
+    "person": "Alfons Fridrich Mensdorff-Pouilly",
     "from": 1856,
     "to": 1950,
     "from_approx": false,
-    "to_approx": false,
-    "how": "neznamo",
-    "note": "zdroj neuvádí způsob nabytí; roku 1950 majetek znárodněn"
+    "to_approx": true,
+    "how": "dedictvi",
+    "note": "dědictví po manželce Terezii Rose (†1856); rok znárodnění cs.wiki 1950; za protektorátu vnucená správa, web zámku uvádí po 1948 správu státní"
    },
    {
     "owner": "stat",
@@ -35357,7 +35511,7 @@
     "person": null,
     "from": 1950,
     "to": 1991,
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": false,
     "how": "konfiskace",
     "note": "znárodnění; v zámku mj. Muzeum Boskovicka a středoškolský internát"
@@ -35409,7 +35563,10 @@
    }
   ],
   "sources": [
-   "https://cs.wikipedia.org/wiki/Boskovice_(zámek)"
+   "https://cs.wikipedia.org/wiki/Boskovice_(zámek)",
+   "http://www.zamekboskovice.cz/stavebni-historie",
+   "https://www.historickaslechta.cz/mista/boskovice/",
+   "https://www.npu.cz/cs/hrady-a-zamky/tipy-na-vylet/70127-zamek-boskovice"
   ]
  },
  "Q2240587": {
@@ -51095,7 +51252,7 @@
     "from": 1220,
     "to": 1244,
     "from_approx": true,
-    "to_approx": false,
+    "to_approx": true,
     "how": "zalozeni",
     "note": "místní vladykové, první písemná zmínka o Lednici 1222"
    },
@@ -51105,31 +51262,21 @@
     "person": "Sigfried Wais řečený Sirotek, poté Ortlín Sirotek",
     "from": 1244,
     "to": 1322,
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": false,
     "how": "lenni",
-    "note": "léno udělené králem Václavem I."
+    "note": "léno udělené králem Václavem I.; cs.wiki 1244, web zámku 1249"
    },
    {
     "owner": "lichtenstejnove",
     "owner_wiki": "Lichtenštejnové",
     "person": "Jan I. z Lichtenštejna-Murau",
     "from": 1322,
-    "to": 1560,
-    "from_approx": false,
-    "to_approx": true,
-    "how": "lenni",
-    "note": "zprvu léno (1322-1582), celé panství získáno kolem 1370"
-   },
-   {
-    "owner": "kereczenyiove",
-    "owner_wiki": null,
-    "person": "Lászlo Kerecsényi",
-    "from": 1560,
     "to": 1571,
     "from_approx": false,
     "to_approx": false,
-    "how": "koupe"
+    "how": "lenni",
+    "note": "zprvu léno (1322-1582), celé panství získáno kolem 1370; Kryštof z Lichtenštejna zvaný Rozmařilý prodal 1560 část mikulovského panství Kerecsényiům, Lednice ale podle zdrojů (cs.wiki, atlasceska) lichtenštejnská do 1571"
    },
    {
     "owner": "kereczenyiove",
@@ -51139,29 +51286,30 @@
     "to": 1575,
     "from_approx": false,
     "to_approx": false,
-    "how": "dedictvi"
+    "how": "dedictvi",
+    "note": "koupil zbytek mikulovského panství i s Lednicí; zemřel bezdětný"
    },
    {
     "owner": "koruna",
     "owner_wiki": null,
     "person": "Maxmilián II. Habsburský",
     "from": 1575,
-    "to": 1575,
-    "from_approx": false,
-    "to_approx": false,
+    "to": 1576,
+    "from_approx": true,
+    "to_approx": true,
     "how": "konfiskace",
-    "note": "odúmrť po bezdětném Kristófu Kerecsényim, téhož roku prodáno zpět Lichtenštejnům"
+    "note": "odúmrť po Kristófu Kerecsényim; Lednice podle atlasceska/cz-milka v držení císaře 1571-1576; prodáno zpět Lichtenštejnům"
    },
    {
     "owner": "lichtenstejnove",
     "owner_wiki": "Lichtenštejnové",
     "person": "Hartman II. z Lichtenštejna",
-    "from": 1575,
+    "from": 1576,
     "to": 1601,
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": false,
     "how": "koupe",
-    "note": "menší polovina mikulovského panství se zámkem"
+    "note": "menší polovina mikulovského panství se zámkem; cs.wiki 1575, jiné zdroje 1576; renesanční přestavba"
    },
    {
     "owner": "lichtenstejnove",
@@ -51327,7 +51475,10 @@
    }
   ],
   "sources": [
-   "https://cs.wikipedia.org/wiki/Lednice_(zámek)"
+   "https://cs.wikipedia.org/wiki/Lednice_(zámek)",
+   "https://www.zamek-lednice.com/en/about/history",
+   "https://zamek-lednice.com/cs/o-zamku",
+   "https://www.atlasceska.cz/pamatky/zamek-lednice-19530"
   ]
  },
  "Q376781": {
@@ -52803,22 +52954,22 @@
     "owner_wiki": "Vartenberkové",
     "person": "Čeněk z Vartenberka",
     "from": 1380,
-    "to": 1392,
+    "to": 1394,
     "from_approx": true,
-    "to_approx": true,
+    "to_approx": false,
     "how": "zalozeni",
-    "note": "hrad postoupil kvůli finančním potížím králi na počátku 90. let 14. století"
+    "note": "hrad postoupil kvůli dluhům králi Václavu IV.; cs.wiki \"počátek 90. let 14. stol.\", web hradu 1394; web hradu a hradtrosky.eu uvádějí vznik 1380-1390"
    },
    {
     "owner": "koruna",
     "owner_wiki": null,
     "person": "Václav IV.",
-    "from": 1392,
+    "from": 1394,
     "to": 1399,
-    "from_approx": true,
-    "to_approx": true,
+    "from_approx": false,
+    "to_approx": false,
     "how": "jine",
-    "note": "postoupení od Čeňka z Vartenberka"
+    "note": "postoupení od Čeňka z Vartenberka (Nový Bydžov a Trosky, dlužil králi); web hradu: král hrad po čtyřech letech (1398) prodal Bergům, cs.wiki: Bergové doloženi 1399"
    },
    {
     "owner": "pani-z-bergova",
@@ -52826,10 +52977,10 @@
     "person": "Ota III. z Bergova",
     "from": 1399,
     "to": 1415,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": true,
     "how": "jine",
-    "note": "získal hrad od krále, v jeho majetku doložen poprvé 1399; rok předání synovi zdroj neuvádí"
+    "note": "získal hrad od krále, v majetku doložen od 1399 (cs.wiki; web hradu 1398/1399); Ota starší a mladší z Bergova; rok předání synovi zdroj neuvádí"
    },
    {
     "owner": "pani-z-bergova",
@@ -52861,7 +53012,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "připojeno ke kostskému panství; 1469 dočasně obsazeno královským vojskem, poté vráceno; Trosky doživotně držela Janova dcera Anežka, manželka Zdeňka ze Šternberka"
+    "note": "připojeno ke kostskému panství; 1469 dočasně obsazeno královským vojskem, poté vráceno; Trosky doživotně držela Janova dcera Anežka, manželka Zdeňka ze Šternberka; připojeno ke kostskému panství, vrchnost na hradě už nesídlila"
    },
    {
     "owner": "selmberkove",
@@ -52894,7 +53045,7 @@
     "from_approx": true,
     "to_approx": false,
     "how": "koupe",
-    "note": "převzal hrady Kost a Trosky za dluhy; po něm krátce bratr Kryštof († 1551)"
+    "note": "převzal hrady Kost a Trosky za dluhy; po něm krátce bratr Kryštof († 1551); skvelecesko.cz uvádí Biberštejny od 1524 (cs.wiki 1520, hradtrosky.eu připisuje Šelmberkům do 1551)"
    },
    {
     "owner": "lobkovicove",
@@ -52932,13 +53083,13 @@
    {
     "owner": "valdstejnove",
     "owner_wiki": "Valdštejnové",
-    "person": "Albrecht z Valdštejna",
+    "person": "Albrecht z Valdštejna a jeho dědicové (rod Valdštejnů)",
     "from": 1622,
     "to": 1821,
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": false,
     "how": "jine",
-    "note": "způsob nabytí zdroj neuvádí; Valdštejnové drželi zříceninu s Hrubou Skálou do roku 1821"
+    "note": "cs.wiki 1622, hradtrosky.eu 1621; web hradu: přešlo dědictvím do majetku Valdštejnů; rod držel zříceninu s Hrubou Skálou do 1821"
    },
    {
     "owner": "lexove-z-aehrenthalu",
@@ -52949,7 +53100,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "romantické úpravy zříceniny; syn Alois stavěl od 1841 schodiště na Pannu"
+    "note": "romantické úpravy zříceniny; syn Alois stavěl od 1841 schodiště na Pannu; web hradu: na počátku 20. stol. Aehrenthalové převedli Trosky Turistické župě Českého ráje a hrad spravoval Klub českých turistů (přesný právní stav před 1925 zdroje neupřesňují)"
    },
    {
     "owner": "stat",
@@ -53000,7 +53151,10 @@
   "sources": [
    "https://cs.wikipedia.org/wiki/Trosky_(hrad)",
    "https://cs.wikipedia.org/wiki/Kost_(hrad)",
-   "https://cs.wikipedia.org/wiki/Hrubá_Skála_(zámek)"
+   "https://cs.wikipedia.org/wiki/Hrubá_Skála_(zámek)",
+   "https://hrad-trosky.cz/cs/o-hradu/historie",
+   "http://www.hradtrosky.eu/historie/",
+   "https://www.skvelecesko.cz/statni-hrad-trosky-rovensko-pod-troskami-symbol-ceskeho-raje-a4490"
   ]
  },
  "Q545847": {
@@ -57975,17 +58129,18 @@
    "approx": true,
    "text": "hrad pravděpodobně postaven na přelomu 13. a 14. století; prvním písemně doloženým majitelem byl Búz z Bouzova v letech 1317-1339"
   },
-  "summary": "Hrad Bouzov byl založen na přelomu 13. a 14. století, prvním doloženým majitelem byl v letech 1317-1339 Búz z Bouzova. Vystřídala se na něm řada šlechtických rodů (páni z Vildenberka, markrabě Jošt, páni z Kunštátu, Haugvicové z Biskupic, Podstatští z Prusinovic), roku 1696 jej koupil Řád německých rytířů, který jej vlastnil (s přerušením v letech 1918-1923 a zabráním nacisty za 2. světové války) až do roku 1945. Současnou romanticky historizující podobu dostal přestavbou v letech 1895-1910 na popud velmistra řádu arcivévody Evžena Rakousko-Těšínského. Od roku 1945 je majetkem československého, resp. českého státu ve správě Národního památkového ústavu; Řád německých rytířů se o navrácení hradu neúspěšně uchází dodnes.",
+  "summary": "Hrad Bouzov vznikl na přelomu 13. a 14. století, prvním doloženým držitelem byl 1317-1339 Búz z Bouzova, od poloviny 14. století páni z Vildenberka, od 1382 markrabě Jošt a od 1396 páni z Kunštátu, kteří jej největší měrou rozšířili. Pak se vystřídali Kostkové z Postupic, Šelmberkové, Haugvicové z Biskupic (od 1494), Podstatští z Prusinovic, Bergerové z Bergu, Oppersdorfové a páni z Hodic, kteří jej roku 1696 prodali Řádu německých rytířů. Řád hrad v letech 1895-1910 romanticky přestavěl pro velmistra arcivévodu Evžena a vlastnil jej do 1939; od 1945 patří státu (spravuje NPÚ) a restituční nárok řádu soud 2006 zamítl.",
   "owners": [
    {
     "owner": "soukromnik",
+    "owner_wiki": null,
     "person": "Búz z Bouzova",
     "from": 1317,
     "to": 1339,
     "from_approx": false,
     "to_approx": false,
     "how": "neznamo",
-    "note": "první písemně doložený majitel hradu"
+    "note": "první známý držitel hradu, rod se psal podle Bouzova"
    },
    {
     "owner": "pani-z-vildenberka",
@@ -57996,60 +58151,128 @@
     "from_approx": true,
     "to_approx": false,
     "how": "neznamo",
-    "note": "od poloviny 14. století; roku 1382 prodali hrad markraběti Joštovi"
+    "note": "od poloviny 14. stol. (přesný rok neuveden); 1382 prodali panství markraběti Joštovi"
    },
    {
     "owner": "koruna",
+    "owner_wiki": null,
     "person": "Jošt Moravský",
     "from": 1382,
     "to": 1396,
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "moravský markrabě; roku 1396 hrad přenechal pánům z Kunštátu"
+    "note": "moravský markrabě; 1396 hrad postoupil svému přívrženci Heraltovi z Kunštátu"
    },
    {
     "owner": "pani-z-kunstatu-a-podebrad",
     "owner_wiki": "Páni z Kunštátu a Poděbrad",
-    "person": null,
+    "person": "Heralt z Kunštátu, od 1408 Boček z Poděbrad, Viktorín z Poděbrad",
     "from": 1396,
-    "to": 1466,
+    "to": 1442,
     "from_approx": false,
     "to_approx": true,
-    "how": "dar",
-    "note": "hrad upravovali a opevňovali, drželi jej přibližně 70 let"
+    "how": "lenni",
+    "note": "1396 postoupil Jošt; 1408 synové Heralta postoupili strýci Bočkovi z poděbradské větve; Zdeněk Kostka dostal panství od Jiřího z Poděbrad někdy před 1442; největší rozkvět hradu"
    },
    {
-    "owner": "neznamo",
-    "person": null,
-    "from": 1466,
-    "to": 1494,
+    "owner": "kostkove-z-postupic",
+    "owner_wiki": "Kostkové z Postupic",
+    "person": "Zdeněk Kostka z Postupic",
+    "from": 1442,
+    "to": 1472,
     "from_approx": true,
+    "to_approx": true,
+    "how": "dar",
+    "note": "od Jiřího z Poděbrad; rok nabytí (před 1442) i konce nejistý"
+   },
+   {
+    "owner": "selmberkove",
+    "owner_wiki": "Šelmberkové",
+    "person": "Jan ze Šelmberka",
+    "from": 1472,
+    "to": 1481,
+    "from_approx": false,
     "to_approx": false,
     "how": "neznamo",
-    "note": "vystřídalo se více majitelů, blíže nespecifikováno"
+    "note": "hrad poté opět v rukou pánů z Kunštátu"
+   },
+   {
+    "owner": "pani-z-kunstatu-a-podebrad",
+    "owner_wiki": "Páni z Kunštátu a Poděbrad",
+    "person": "Boček Kuna z Kunštátu",
+    "from": 1481,
+    "to": 1494,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "1494 zapsal bouzovské zboží Hanuši Haugvicovi z Biskupic"
    },
    {
     "owner": "haugvicove-z-biskupic",
     "owner_wiki": "Haugvicové z Biskupic",
     "person": "Jan Hanuš Haugvic z Biskupic",
     "from": 1494,
-    "to": 1649,
+    "to": 1547,
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "1502 povýšení do panského stavu; Jan Hanuš zemřel na hradě 1524, dále drželi dědicové"
+    "note": "1494 zápis (koupě) bouzovského zboží; 1502 povýšení do panského stavu; od 1499 stavba východního paláce; cs.wiki uvádí rod do 1649, hrady.cz 1547 přechod na Podstatské"
    },
    {
     "owner": "podstatsti-z-prusinovic",
     "owner_wiki": "Podstatští z Prusinovic",
-    "person": "Eugenie Podstatská z Prusinovic",
-    "from": 1649,
-    "to": 1696,
+    "person": "Prokop Podstatský, poté Jindřich Podstatský",
+    "from": 1547,
+    "to": 1583,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "po smrti Prokopa panství rozděleno, větší část s hradem Jindřich; 1583 ji prodal Nakserovi z Chotějovic, který ji téhož roku postoupil Janu Bergerovi z Bergu; 1558 požár hradu"
+   },
+   {
+    "owner": "bergerove-z-bergu",
+    "owner_wiki": "Bergerové z Bergu",
+    "person": "Jan Berger z Bergu",
+    "from": 1583,
+    "to": 1617,
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "roku 1696 syn Eugenie hrad prodal Řádu německých rytířů"
+    "note": "hrady.cz; od 1617 Fridrich z Oppersdorfu"
+   },
+   {
+    "owner": "oppersdorfove",
+    "owner_wiki": "Oppersdorfové",
+    "person": "Fridrich z Oppersdorfu",
+    "from": 1617,
+    "to": 1655,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "1617 zahájena stavba jižního křídla; za třicetileté války císařská pevnost a vězení; 1655 prodal syn Fridricha"
+   },
+   {
+    "owner": "podstatsti-z-prusinovic",
+    "owner_wiki": "Podstatští z Prusinovic",
+    "person": "Eusebie Sabina Podstatská, odkázala třetímu manželovi Juliu Leopoldovi z Hodic",
+    "from": 1655,
+    "to": 1676,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "cs.wiki uvádí Eugenii Podstatskou od 1649; hrady.cz 1655 (Eusebie Sabina); rok předání Hodicům neuveden"
+   },
+   {
+    "owner": "hodicti-z-hodic",
+    "owner_wiki": "Hodičtí z Hodic",
+    "person": "Julius Leopold z Hodic, jeho syn František Josef z Hodic",
+    "from": 1676,
+    "to": 1696,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "František Josef spojil obě části panství a 1696 je prodal Řádu německých rytířů"
    },
    {
     "owner": "rad-nemeckych-rytiru",
@@ -58060,45 +58283,59 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "1918-1923 hrad okupován československým vojskem kvůli konfiskaci majetku arcivévody Evžena Rakousko-Těšínského, majetek řádu vrácen po rozhodnutí Haagského soudu; 1895-1910 romantická přestavba podle plánů Georga von Hauberrissera"
+    "note": "hrad chátral, 1895-1910 romantická přestavba pro velmistra arcivévodu Evžena (Georg von Hauberrisser); cs.wiki dále uvádí 1918-1923 okupaci čs. vojskem (druhým zdrojem neověřeno)"
    },
    {
-    "owner": "stat",
-    "person": null,
+    "owner": "neznamo",
+    "owner_wiki": null,
+    "person": "Německá říše (jednotky SS)",
     "from": 1939,
     "to": 1945,
     "from_approx": false,
     "to_approx": false,
     "how": "konfiskace",
-    "note": "hrad zabrán jednotkami SS, které jej užívaly jako základnu"
+    "note": "zabrání nacisty, hrad užívaly jednotky SS"
    },
    {
     "owner": "stat",
+    "owner_wiki": null,
     "person": null,
     "from": 1945,
     "to": null,
     "from_approx": false,
     "to_approx": false,
     "how": "konfiskace",
-    "note": "po válce zkonfiskován československým státem, dosud ve státní správě (NPÚ); snahy Řádu německých rytířů o navrácení hradu zatím neúspěšné"
+    "note": "majetek státu, spravuje NPÚ; 1998 řád požádal o vydání, soud v květnu 2006 žádost zamítl"
    }
   ],
   "events": [
+   {
+    "year": 1317,
+    "text": "první písemná zmínka o hradu, Búz z Bouzova prvním známým držitelem"
+   },
    {
     "year": 1382,
     "text": "páni z Vildenberka prodávají hrad markraběti Joštovi"
    },
    {
     "year": 1396,
-    "text": "Jošt přenechává hrad pánům z Kunštátu"
+    "text": "Jošt postupuje hrad Heraltovi z Kunštátu"
+   },
+   {
+    "year": 1408,
+    "text": "synové Heralta z Kunštátu postupují panství strýci Bočkovi z Poděbrad"
    },
    {
     "year": 1494,
-    "text": "Jan Hanuš Haugvic z Biskupic kupuje hrad Bouzov"
+    "text": "Boček Kuna z Kunštátu zapisuje Bouzov Hanuši Haugvicovi z Biskupic"
+   },
+   {
+    "year": 1547,
+    "text": "panství přechází na Prokopa Podstatského z Prusinovic"
    },
    {
     "year": 1558,
-    "text": "požár hradu, obnoven až roku 1620"
+    "text": "požár hradu"
    },
    {
     "year": 1696,
@@ -58106,23 +58343,31 @@
    },
    {
     "year": 1895,
-    "text": "začátek romantické přestavby hradu podle Georga von Hauberrissera (dokončena 1910)"
+    "text": "začátek romantické přestavby hradu (dokončena 1910)"
    },
    {
     "year": 1939,
-    "text": "hrad zabírají jednotky SS"
+    "text": "hrad zabírají nacisté, jednotky SS"
    },
    {
     "year": 1945,
-    "text": "poválečná konfiskace hradu československým státem"
+    "text": "hrad zkonfiskován československým státem"
    },
    {
     "year": 1999,
-    "text": "hrad zapsán na seznam národních kulturních památek"
+    "text": "hrad prohlášen národní kulturní památkou"
+   },
+   {
+    "year": 2006,
+    "text": "soud zamítl restituční nárok Řádu německých rytířů"
    }
   ],
   "sources": [
-   "https://cs.wikipedia.org/wiki/Bouzov_(hrad)"
+   "https://cs.wikipedia.org/wiki/Bouzov_(hrad)",
+   "https://www.hrady.cz/hrad-bouzov/texty?tid=1678",
+   "https://www.hradbouzov.cz/historie/",
+   "https://www.hrad-bouzov.cz/cs/o-hradu",
+   "https://www.soupispamatek.cz/arl-kcz/sk/detail-kcz_un_auth-0000162-Hrad-Bouzov/"
   ]
  },
  "Q956766": {
