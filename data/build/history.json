@@ -23408,7 +23408,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "koupe",
-    "note": "odkoupil konfiskované humpolecké panství; hrad pustl, další držitelé do 20. stol. nezjištěni; článek o rodu na cs.wiki neověřen; konec držby Solmsů a následní držitelé neznámí (rok 1997 je nejpozdější doložený počátek městského vlastnictví)"
+    "note": "odkoupil konfiskované humpolecké panství 1623 (cs.wiki, Castrum o.p.s.); hrad pustl; další držitelé do 20. stol. ve zdrojích (cs.wiki, Castrum, hrady.cz, turisticka.oblast.cz) neuvedeni, konec držby Solmsů neověřen; článek o rodu na cs.wiki neověřen"
    },
    {
     "owner": "mesto",
@@ -23419,7 +23419,7 @@
     "from_approx": true,
     "to_approx": false,
     "how": "jine",
-    "note": "nejpozději od 1997 v městském majetku (opravy 1992-1996 financoval okresní úřad a město); správu zajišťuje Castrum o.p.s., hrad zpřístupněn 1997; vlastníci mezi 1623 a koncem 20. stol. nezjištěni"
+    "note": "cs.wiki (Současný majitel: město Humpolec) a e-trasy.cz potvrzují město Humpolec jako dnešního vlastníka; Castrum o.p.s. uvádí hrad v městském majetku už v 1997 (opravy 1992-1996 financoval okresní úřad a město); správu zajišťuje Castrum o.p.s.; turisticka.oblast.cz uvádí jako majitele/uživatele též Lesy ČR (LS Ledeč nad Sázavou) - pravděpodobně okolní pozemky, nepotvrzeno; datum nabytí městem a předchozí vlastník neznámé"
    }
   ],
   "events": [
@@ -23471,7 +23471,9 @@
   "sources": [
    "https://cs.wikipedia.org/wiki/Orlík_(hrad,_okres_Pelhřimov)",
    "https://www.castrum.cz/zricenina-hradu-orlik/historie/",
-   "https://www.hrady.cz/hrad-orlik-humpolec"
+   "https://www.hrady.cz/hrad-orlik-humpolec",
+   "https://e-trasy.cz/z-humpolce-na-zriceninu-hradu-orlik/",
+   "http://www.turisticka.oblast.cz/encyklopedie/objekty1.phtml?id=76199"
   ]
  },
  "Q12045172": {
@@ -29380,7 +29382,7 @@
    "approx": true,
    "text": "Gotická tvrz, předchůdkyně zámku, je poprvé písemně doložena roku 1385, patrně vznikla už dříve ve 14. století"
   },
-  "summary": "Duchcovský zámek vznikl na místě gotické tvrze, kterou od roku 1473 vlastnili Kaplířové ze Sulevic a roku 1527 ji prodali Lobkovicům; ti nechali sídlo renesančně přestavět. Od roku 1642 patřil rodu Valdštejnů, kteří provedli rozsáhlou barokní přestavbu (architekt Jan Baptista Mathey) a zámek drželi až do roku 1920, kdy byl v rámci pozemkové reformy zkonfiskován (zdroje uvádějí 1920-1922). Od té doby je majetkem státu, dnes je ve správě Národního památkového ústavu a slouží kulturním účelům, mj. expozici věnované Giacomu Casanovovi, který zde působil jako knihovník.",
+  "summary": "Duchcovský zámek vznikl na místě gotické tvrze, kterou od roku 1473 vlastnili Kaplířové ze Sulevic a roku 1527 ji prodali Lobkovicům; ti nechali sídlo renesančně přestavět. Od roku 1642 patřil rodu Valdštejnů, kteří provedli rozsáhlou barokní přestavbu (architekt Jan Baptista Mathey) a zámek drželi až do pozemkové reformy; podle webu zámku jej roku 1921 prodali státu (cs.wiki uvádí konfiskaci 1920 a koupi 1922). Od té doby je majetkem státu, dnes je ve správě Národního památkového ústavu a slouží kulturním účelům, mj. expozici věnované Giacomu Casanovovi, který zde působil jako knihovník.",
   "owners": [
    {
     "owner": "kaplirove-ze-sulevic",
@@ -29468,7 +29470,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "snatek",
-    "note": "získal zámek sňatkem s ovdovělou Polyxenou Marií z Talmberka; zámek web zámku i NPÚ uvádí od 1642; článek na webu města (duchcov.cz) uvádí koupi Valdštejny od Lobkoviců už 1618 (hrabě Adam, zemřel 1640) - rozpor"
+    "note": "získal zámek sňatkem s ovdovělou Polyxenou Marií z Talmberka; zámek web zámku i NPÚ uvádí od 1642; článek na webu města (duchcov.cz) uvádí koupi Valdštejny od Lobkoviců už 1618 (hrabě Adam, zemřel 1640) - rozpor; rok 1642 potvrzuje i web zámku (NPÚ) a infopedia, rok 1618 je jen na webu města a je pravděpodobně chybný"
    },
    {
     "owner": "valdstejnove",
@@ -29629,22 +29631,22 @@
     "owner_wiki": "Valdštejnové",
     "person": "Adolf Arnošt z Valdštejna",
     "from": 1912,
-    "to": 1920,
+    "to": 1921,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "dedictvi",
-    "note": "nevlastní bratr Arnošta Karla, poslední šlechtický majitel; vlastnil i Mnichovo Hradiště, Doksy aj.; konec držení se v pramenech liší (1920 konfiskace, 1921 prodej státu, 1922 koupě okresním úřadem)"
+    "note": "poslední šlechtický majitel (nevlastní bratr Arnošta Karla); vlastnil i Mnichovo Hradiště, Doksy aj.; konec držení: web zámku (NPÚ) na dvou stránkách uvádí 1921 (Valdštejnové prodali zámek státu), cs.wiki uvádí 1920 konfiskaci panství a 1922 koupi zámku okresním úřadem, městská chronologie 1918 - do from/to dáno 1921 (zdroj správce zámku)"
    },
    {
     "owner": "stat",
     "owner_wiki": null,
     "person": null,
-    "from": 1920,
+    "from": 1921,
     "to": null,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false,
-    "how": "konfiskace",
-    "note": "panství zkonfiskováno při pozemkové reformě 1920, samotný zámek 1922 koupil okresní úřad v Duchcově (cs.wiki); web zámku: 1921 Valdštejnové prodali zámek státu, městská chronologie: 1918 se zámek stává majetkem státu; dnes ve vlastnictví státu, správu zajišťuje Národní památkový ústav; kostel Zvěstování Panny Marie zůstává v majetku církve"
+    "how": "koupe",
+    "note": "web zámku (NPÚ): po pozemkové reformě 1921 Valdštejnové prodali zámek státu; cs.wiki: panství 1920 zkonfiskováno, zámek 1922 koupil okresní úřad v Duchcově; městská chronologie: 1918 - rok se liší, použit 1921; dnes ve vlastnictví státu, správa Národní památkový ústav; kostel Zvěstování Panny Marie zůstává v majetku církve"
    }
   ],
   "events": [
@@ -29689,7 +29691,8 @@
    "https://cs.wikipedia.org/wiki/Duchcov_(zámek)",
    "https://www.zamek-duchcov.cz/cs/o-zamku/historie",
    "https://www.duchcov.cz/historie/d-1002",
-   "https://www.duchcov.cz/noviny/200801/historie.htm"
+   "https://www.duchcov.cz/noviny/200801/historie.htm",
+   "https://www.zamek-duchcov.cz/cs/informace-pro-navstevniky/prohlidkove-okruhy/1564-valdstejnska-prohlidka-zakladni-okruh"
   ]
  },
  "Q1416944": {
@@ -44435,22 +44438,22 @@
     "owner_wiki": "Thun-Hohensteinové",
     "person": "Quidobald Thun-Hohenstein",
     "from": 1646,
-    "to": 1670,
+    "to": 1655,
     "from_approx": false,
     "to_approx": true,
     "how": "dedictvi",
-    "note": "klášterecký díl mu připadl při dělení otcovského majetku mezi osm synů; později jej získal bratr Michael Osvald"
+    "note": "klášterecký díl mu připadl při dělení otcovského majetku mezi osm synů; později jej získal bratr Michael Osvald; rok 1655 (převzetí dědictví po matce Michaelem Osvaldem) podle hrady.cz, cs.wiki k 1655 uvádí jen Felixburk - přibližně"
    },
    {
     "owner": "thun-hohensteinove",
     "owner_wiki": "Thun-Hohensteinové",
     "person": "Michael Osvald Thun-Hohenstein",
-    "from": 1670,
+    "from": 1655,
     "to": 1694,
     "from_approx": true,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "zvolil zámek za hlavní sídlo, od poč. 60. let 17. stol. jej barokně přestavěl (snad podle plánů Carla Luraga), založil francouzský park; klášterecké panství spojil do tzv. prvního majorátu; zemřel bez synů 1694"
+    "note": "zvolil zámek za hlavní sídlo, od poč. 60. let 17. stol. jej barokně přestavěl (snad podle plánů Carla Luraga), založil francouzský park; klášterecké panství spojil do tzv. prvního majorátu; zemřel bez synů 1694; od 1655 zdědil po matce a zvolil Klášterec za sídlo (hrady.cz, slabší zdroj; přesný rok získání Klášterce od Quidobalda nejistý); 1671 vytvořil první (klášterecký) fideikomis (hrady.cz, brožura města)"
    },
    {
     "owner": "thun-hohensteinove",
@@ -44468,39 +44471,39 @@
     "owner_wiki": "Thun-Hohensteinové",
     "person": "Jan František Josef Thun-Hohenstein",
     "from": 1701,
-    "to": 1743,
+    "to": 1720,
     "from_approx": false,
     "to_approx": true,
     "how": "dedictvi",
-    "note": "sloučil všechny tři rodové majoráty a odkázal je synovi Janu Josefovi"
+    "note": "sloučil všechny tři rodové majoráty a odkázal je synovi Janu Josefovi; rok konce 1720 odvozen z historickaslechta.cz (dědic Jan Josef zdědil v devíti letech, nar. 1711) - přibližně"
    },
    {
     "owner": "thun-hohensteinove",
     "owner_wiki": "Thun-Hohensteinové",
     "person": "Jan Josef Thun-Hohenstein",
-    "from": 1743,
+    "from": 1720,
     "to": 1785,
     "from_approx": true,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "roku 1784 zámek vyhořel; roku 1785 postoupil správu majetku svým dětem"
+    "note": "roku 1784 zámek vyhořel; roku 1785 postoupil správu majetku svým dětem; zdědil v devíti letech (cs.wiki Thun-Hohensteinové, nar. 1711; zemřel 1788); rok 1785 postoupení správy dětem (cs.wiki, brožura města), historickaslechta.cz uvádí rozdělení majorátů 1786"
    },
    {
     "owner": "thun-hohensteinove",
     "owner_wiki": "Thun-Hohensteinové",
     "person": "František Josef Thun-Hohenstein",
     "from": 1785,
-    "to": 1798,
+    "to": 1801,
     "from_approx": false,
     "to_approx": true,
     "how": "dedictvi",
-    "note": "dostal klášterecký majorát, roku 1786 zahájil obnovu vyhořelého zámku"
+    "note": "dostal klášterecký majorát, roku 1786 zahájil obnovu vyhořelého zámku; zemřel 1801 (cs.wiki osobní článek; rodový článek uvádí 1800, historickaslechta.cz 1813 u majorátu) - konec držby přibližně podle úmrtí"
    },
    {
     "owner": "thun-hohensteinove",
     "owner_wiki": "Thun-Hohensteinové",
     "person": "Josef Jan Thun-Hohenstein",
-    "from": 1798,
+    "from": 1801,
     "to": 1810,
     "from_approx": true,
     "to_approx": false,
@@ -44512,42 +44515,44 @@
     "owner_wiki": "Thun-Hohensteinové",
     "person": "Josef Matyáš Thun-Hohenstein",
     "from": 1810,
-    "to": 1843,
+    "to": 1849,
     "from_approx": false,
     "to_approx": true,
-    "how": "dedictvi"
+    "how": "dedictvi",
+    "note": "1849 převzal správu statků syn Josef Osvald I. ještě za otcova života (cs.wiki); Josef Matyáš zemřel 1868 v Salcburku (historickaslechta.cz, brožura města); od 1810 po Josefu Janovi (cs.wiki)"
    },
    {
     "owner": "thun-hohensteinove",
     "owner_wiki": "Thun-Hohensteinové",
     "person": "Josef Osvald I. Thun-Hohenstein",
-    "from": 1843,
+    "from": 1849,
     "to": 1876,
     "from_approx": true,
     "to_approx": true,
-    "how": "dedictvi"
+    "how": "dedictvi",
+    "note": "1817-1883; 1849 převzal správu statků za života otce, majitelem fideikomisu a členem panské sněmovny 1861 (cs.wiki); po požáru 1856 nechal zámek novogoticky přestavět (Hagenauer, hrady.cz); správu převzal 1876 syn, sám zemřel 1883"
    },
    {
     "owner": "thun-hohensteinove",
     "owner_wiki": "Thun-Hohensteinové",
     "person": "Josef Osvald II. Thun-Hohenstein",
     "from": 1876,
-    "to": 1909,
+    "to": 1913,
     "from_approx": true,
-    "to_approx": true,
+    "to_approx": false,
     "how": "dedictvi",
-    "note": "manželka Christiane pocházela z dokské větve Valdštejn-Wartenbergů; nechal rozšířit park v anglickém stylu"
+    "note": "manželka Christiane pocházela z dokské větve Valdštejn-Wartenbergů; nechal rozšířit park v anglickém stylu; 1849-1913; od 1876 správa majetku (cs.wiki), zemřel 1913 (brožura města, historickaslechta.cz)"
    },
    {
     "owner": "thun-hohensteinove",
     "owner_wiki": "Thun-Hohensteinové",
     "person": "Josef Osvald III. Thun-Hohenstein",
-    "from": 1909,
+    "from": 1913,
     "to": 1942,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "vnuk Josefa Osvalda I.; zemřel 1942, zámek zdědil adoptovaný synovec"
+    "note": "po smrti otce 1913 převzal klášterecké panství (brožura města); po 1918 část panství zabavena pozemkovou reformou; vnuk Josefa Osvalda I.; zemřel 1942, zámek zdědil adoptovaný synovec"
    },
    {
     "owner": "thun-hohensteinove",
@@ -44625,7 +44630,8 @@
    "https://cs.wikipedia.org/wiki/Klášterec_nad_Ohří_(zámek)",
    "https://www.dolnipoohri.cz/wp-content/uploads/2023/06/Brozura_Thunove_400_Klasterec.pdf",
    "https://www.hrady.cz/zamek-klasterec-nad-ohri/texty?pos=300&tid=37216",
-   "https://stuky.upce.cz/public/915"
+   "https://stuky.upce.cz/public/915",
+   "https://www.historickaslechta.cz/prehled-rodu/thun-hohenstein/"
   ]
  },
  "Q2241917": {
@@ -47200,22 +47206,11 @@
     "owner_wiki": "Chotkové z Chotkova",
     "person": "Karel Chotek z Chotkova a Vojnína",
     "from": 1842,
-    "to": 1876,
+    "to": 1884,
     "from_approx": false,
     "to_approx": true,
     "how": "zalozeni",
-    "note": "panství koupil 1841, zámek postaven 1842-1845 (stavba od září 1842, od května 1844 zde rodina bydlela); další majitelé v 19. stol. mezi Karlem a jeho vnukem zdroje nejmenují"
-   },
-   {
-    "owner": "chotkove-z-chotkova",
-    "owner_wiki": "Chotkové z Chotkova",
-    "from_approx": true,
-    "to_approx": true,
-    "how": "dedictvi",
-    "person": "Karel Maria Chotek",
-    "from": 1876,
-    "to": 1911,
-    "note": "vnuk zakladatele (1853-1926), předposlední majitel; 1885-1910 nechal zámek novorenesančně přestavět podle Ernsta Fleischera (web zámku); roky držby neuvedeny"
+    "note": "panství koupil 1841, zámek postaven 1842-1845 (stavba od září 1842, od května 1844 zde rodina bydlela); další majitelé v 19. stol. mezi Karlem a jeho vnukem zdroje nejmenují; zakladatel Karel Chotek zemřel 1868 (katalog MZK)"
    },
    {
     "owner": "chotkove-z-chotkova",
@@ -47223,10 +47218,21 @@
     "from_approx": true,
     "to_approx": false,
     "how": "dedictvi",
-    "person": "Karel Chotek",
-    "from": 1911,
+    "person": "Karel Maria Chotek",
+    "from": 1884,
+    "to": 1926,
+    "note": "vnuk zakladatele (1853-1926), předposlední majitel; 1885-1910 nechal zámek novorenesančně přestavět podle Ernsta Fleischera (web zámku); držbu skončil smrtí 1926 (iDNES, genealogie Chotků ČVUT); rok nástupu a případný mezičlánek po zakladateli (zemřel 1868) zdroje neuvádějí"
+   },
+   {
+    "owner": "chotkove-z-chotkova",
+    "owner_wiki": "Chotkové z Chotkova",
+    "from_approx": false,
+    "to_approx": false,
+    "how": "dedictvi",
+    "person": "Karel Maria Chotek (nejmladší)",
+    "from": 1926,
     "to": 1945,
-    "note": "poslední majitel z rodu, vymřel po meči roku 1970; zámek mu byl 1945 zkonfiskován podle Benešových dekretů"
+    "note": "Karel Maria Chotek (1887-1970), poslední majitel z rodu; 1926 zdědil zámek po otci, 1927 i Veltrusy (iDNES, genealogie Chotků ČVUT); zámek mu byl 1945 zkonfiskován podle Benešových dekretů, odešel do Německa; zemřel 1970 bez potomků"
    },
    {
     "owner": "stat",
@@ -47237,7 +47243,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "konfiskace",
-    "note": "zabaveno podle Benešových dekretů; sloužil jako dětský domov, politická škola a sklad Československé lidové armády, veřejnosti přístupný od 80. let 20. stol., dnes ve správě NPÚ; správa NPÚ (ÚPS Ústí nad Labem)"
+    "note": "zabaveno podle Benešových dekretů; sloužil jako dětský domov, politická škola a sklad Československé lidové armády, veřejnosti přístupný od 80. let 20. stol., dnes ve správě NPÚ; správa NPÚ (ÚPS Ústí nad Labem); dnešní vlastník stát (Česká republika, cs.wiki), zámek spravuje Národní památkový ústav"
    }
   ],
   "events": [
@@ -47262,7 +47268,9 @@
    "https://cs.wikipedia.org/wiki/Velké_Březno_(nový_zámek)",
    "https://zamek-velkebrezno.cz/cs/o-zamku/historie",
    "http://www.tourism.cz/encyklopedie/objekty1.phtml?id=76687",
-   "https://www.npu.cz/cs/e-shop/9452-statni-zamek-velke-brezno"
+   "https://www.npu.cz/cs/e-shop/9452-statni-zamek-velke-brezno",
+   "https://www.idnes.cz/usti/zpravy/karel-maria-chotek-hrabe-zamek-velke-brezno-vyhnanstvi-livie-mailathova.A200127_529116_usti-zpravy_pakr",
+   "http://gis.fsv.cvut.cz/zamky/genealogie/chotek/php/person.php?o=25"
   ]
  },
  "Q2243837": {
@@ -56706,7 +56714,7 @@
   "founded": {
    "year": 1371,
    "approx": false,
-   "text": "Roku 1371 byla na místě dnešního zámku písemně zmíněna tvrz, kterou vlastnil Smil z Police."
+   "text": "Roku 1371 byla na místě dnešního zámku písemně zmíněna tvrz, kterou vlastnil Smil z Police. Obec Police a kultura.cz uvádějí nejstarší zmínku o sídle už k roku 1358 (dle dokladu, bez upřesnění); 1371 je doloženo zemskými deskami (hrady.cz, cs.wiki)."
   },
   "summary": "Tvrz v Polici, doloženou od roku 1371, vlastnila postupně řada nižších šlechticů, než ji Bačkovičtí mezi lety 1444-1520 rozšířili a roku 1524 prodali Janovi Tavíkovskému z Tavíkovic, který ji roku 1534 přestavěl na renesanční zámek. Od roku 1633 do 1821 zámek patřil Berchtoldům z Uherčic, poté se v 19. století rychle střídali soukromí majitelé i město Znojmo, než jej roku 1887 získali Wraždové z Kunvaldu. Po konfiskaci roku 1945 sloužil zámek mimo jiné jako průmyslový objekt, roku 1996 jej získala obec Police (hrady.cz uvádí 1989) a postupně jej zrekonstruovala a zpřístupnila veřejnosti.",
   "owners": [
@@ -56719,7 +56727,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "neznamo",
-    "note": "článek o rodu na cs.wiki neexistuje"
+    "note": "1371 zmínka v zemských deskách (cs.wiki, hrady.cz); web obce a kultura.cz uvádějí nejstarší zmínku o sídle k 1358, bez jména držitele, proto from ponecháno 1371; článek o rodu na cs.wiki neexistuje"
    },
    {
     "owner": "z-kostnik",
@@ -56838,7 +56846,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "podle cs.wiki a webu obce od 1996 majetkem obce (hrady.cz uvádí 1989, 'po revoluci'); 2005 zpřístupněn, 2008 rekonstrukce západního křídla; obec usiluje o statut NKP"
+    "note": "od 1996 majetkem obce (cs.wiki a oficiální web obce, který obec výslovně označuje za vlastníka památky); hrady.cz uvádí 1989 - rozpor, lépe doložen 1996 (web obce); 2005 zpřístupněn, 2008 rekonstrukce západního křídla; obec usiluje o statut NKP"
    }
   ],
   "events": [
@@ -56879,7 +56887,9 @@
    "https://cs.wikipedia.org/wiki/Police_(zámek)",
    "https://www.obec-police.cz/zamek-police-5",
    "https://www.obec-police.cz/historie-obce-1",
-   "https://www.hrady.cz/zamek-police/"
+   "https://www.hrady.cz/zamek-police/",
+   "http://www.kultura.cz/profile/5652-zamek-police",
+   "https://poznejdomy.cz/domy/detail/2200-zamek-police"
   ]
  },
  "Q33405615": {
@@ -63401,22 +63411,33 @@
     "owner_wiki": "Račínové z Račína",
     "person": "Arnošt Vojtěch Račín z Račína",
     "from": 1679,
-    "to": 1844,
+    "to": 1789,
     "from_approx": false,
     "to_approx": true,
     "how": "dedictvi",
-    "note": "Arnošt Vojtěch (též Adalbert) Račín připojil Mokrosuky k hrádeckému panství, u kterého zůstaly až do zrušení poddanství (1848); roky konce Račínů ani pozdější šlechtické majitele zdroje neuvádějí"
+    "note": "Arnošt Vojtěch (též Adalbert) Račín připojil Mokrosuky k hrádeckému panství, u kterého zůstaly až do zrušení poddanství (1848); roky konce Račínů ani pozdější šlechtické majitele zdroje neuvádějí; podle turistika.cz zůstaly Mokrosuky součástí hrádeckého panství do 20. let 20. stol. (jméno pozdějších majitelů neuvedeno)"
    },
    {
     "owner": "soukromnik",
     "owner_wiki": null,
     "person": "G. Millner",
-    "from": 1844,
+    "from": 1789,
+    "to": 1898,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "během pozemkové reformy (1. pol. 20. stol., přesný rok neuveden) zámek odprodán G. Millnerovi (strategický dokument obce); ve 20. stol. hospodářský dvůr, hospoda, kulturní sál, ve 2. pol. 20. stol. veřejné účely; rok Millnerova konce neznámý"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "neznámá majitelka (jméno nezjištěno)",
+    "from": 1898,
     "to": 2008,
     "from_approx": true,
     "to_approx": false,
-    "how": "koupe",
-    "note": "během pozemkové reformy (1. pol. 20. stol., přesný rok neuveden) zámek odprodán G. Millnerovi (strategický dokument obce); ve 20. stol. hospodářský dvůr, hospoda, kulturní sál, ve 2. pol. 20. stol. veřejné účely; kdo zámek držel mezi Millnerem a rokem 2008, zdroje neuvádějí"
+    "how": "neznamo",
+    "note": "podle rozhovoru s J. Jelínkem (centrum.cz 2026) mu zámek v 2008 prodala 'paní majitelka' (jméno neuvedeno); vztah k Millnerovi ve zdrojích neuveden, držitelé mezi Millnerem a ní nezjištěni"
    },
    {
     "owner": "soukromnik",
@@ -63427,7 +63448,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "od 2008 rodinná oprava zámku, muzeum historického šermu"
+    "note": "od 2008 rodinná oprava zámku, muzeum historického šermu; vlastnictví potvrzují web zámku, Klatovský deník 2022/2023 a centrum.cz (2026)"
    }
   ],
   "events": [
@@ -63449,7 +63470,7 @@
    },
    {
     "year": 1628,
-    "text": "panství kupuje Humprecht Račín z Račína"
+    "text": "panství financuje pluk Martina de Hoeff-Huerty (cs.wiki); turistika.cz uvádí prodej statku Hoeff-Huertovi 1628, Račín statek koupil až nakonec"
    },
    {
     "year": 1679,
@@ -63468,7 +63489,10 @@
    "https://cs.wikipedia.org/wiki/Mokrosuky_(zámek)",
    "https://www.zamekmokrosuky.cz/pribeh-zamku/",
    "https://www.mokrosuky.cz/mokrosuky/historie.asp",
-   "https://www.obcepro.cz/pro/21341593240911.pdf"
+   "https://www.obcepro.cz/pro/21341593240911.pdf",
+   "https://www.turistika.cz/mista/zamek-mokrosuky/detail",
+   "https://klatovsky.denik.cz/zpravy-region/byt-zameckym-panem-je-nekonecna-prace-rika-majitel-mokrosuk/",
+   "https://www.centrum.cz/clanek/rodina-historickeho-sermire-vlastni-malebny-zamek-se-strasidly-stale-ho-opravuje-273663"
   ]
  },
  "Q38090398": {

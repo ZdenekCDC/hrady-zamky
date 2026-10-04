@@ -6886,7 +6886,7 @@
    {
     "place": "Q2243834",
     "from": 1842,
-    "to": 1876,
+    "to": 1884,
     "person": "Karel Chotek z Chotkova a Vojnína",
     "how": "zalozeni",
     "from_approx": false,
@@ -6894,20 +6894,20 @@
    },
    {
     "place": "Q2243834",
-    "from": 1876,
-    "to": 1911,
+    "from": 1884,
+    "to": 1926,
     "person": "Karel Maria Chotek",
     "how": "dedictvi",
     "from_approx": true,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q2243834",
-    "from": 1911,
+    "from": 1926,
     "to": 1945,
-    "person": "Karel Chotek",
+    "person": "Karel Maria Chotek (nejmladší)",
     "how": "dedictvi",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -40164,7 +40164,7 @@
    {
     "place": "Q37851622",
     "from": 1679,
-    "to": 1844,
+    "to": 1789,
     "person": "Arnošt Vojtěch Račín z Račína",
     "how": "dedictvi",
     "from_approx": false,
@@ -40223,7 +40223,7 @@
    },
    {
     "place": "Q37851622",
-    "year": 1844,
+    "year": 1789,
     "from": "racinove-z-racina",
     "to": "soukromnik",
     "how": "koupe"
@@ -50262,7 +50262,7 @@
    {
     "place": "Q2241889",
     "from": 1646,
-    "to": 1670,
+    "to": 1655,
     "person": "Quidobald Thun-Hohenstein",
     "how": "dedictvi",
     "from_approx": false,
@@ -50270,7 +50270,7 @@
    },
    {
     "place": "Q2241889",
-    "from": 1670,
+    "from": 1655,
     "to": 1694,
     "person": "Michael Osvald Thun-Hohenstein",
     "how": "dedictvi",
@@ -50289,7 +50289,7 @@
    {
     "place": "Q2241889",
     "from": 1701,
-    "to": 1743,
+    "to": 1720,
     "person": "Jan František Josef Thun-Hohenstein",
     "how": "dedictvi",
     "from_approx": false,
@@ -50297,7 +50297,7 @@
    },
    {
     "place": "Q2241889",
-    "from": 1743,
+    "from": 1720,
     "to": 1785,
     "person": "Jan Josef Thun-Hohenstein",
     "how": "dedictvi",
@@ -50307,7 +50307,7 @@
    {
     "place": "Q2241889",
     "from": 1785,
-    "to": 1798,
+    "to": 1801,
     "person": "František Josef Thun-Hohenstein",
     "how": "dedictvi",
     "from_approx": false,
@@ -50315,7 +50315,7 @@
    },
    {
     "place": "Q2241889",
-    "from": 1798,
+    "from": 1801,
     "to": 1810,
     "person": "Josef Jan Thun-Hohenstein",
     "how": "dedictvi",
@@ -50325,7 +50325,7 @@
    {
     "place": "Q2241889",
     "from": 1810,
-    "to": 1843,
+    "to": 1849,
     "person": "Josef Matyáš Thun-Hohenstein",
     "how": "dedictvi",
     "from_approx": false,
@@ -50333,7 +50333,7 @@
    },
    {
     "place": "Q2241889",
-    "from": 1843,
+    "from": 1849,
     "to": 1876,
     "person": "Josef Osvald I. Thun-Hohenstein",
     "how": "dedictvi",
@@ -50343,19 +50343,19 @@
    {
     "place": "Q2241889",
     "from": 1876,
-    "to": 1909,
+    "to": 1913,
     "person": "Josef Osvald II. Thun-Hohenstein",
     "how": "dedictvi",
     "from_approx": true,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q2241889",
-    "from": 1909,
+    "from": 1913,
     "to": 1942,
     "person": "Josef Osvald III. Thun-Hohenstein",
     "how": "dedictvi",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -52991,11 +52991,11 @@
    {
     "place": "Q1416937",
     "from": 1912,
-    "to": 1920,
+    "to": 1921,
     "person": "Adolf Arnošt z Valdštejna",
     "how": "dedictvi",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q1589971",
@@ -53805,10 +53805,10 @@
    },
    {
     "place": "Q1416937",
-    "year": 1920,
+    "year": 1921,
     "from": "valdstejnove",
     "to": "stat",
-    "how": "konfiskace"
+    "how": "koupe"
    },
    {
     "place": "Q1589971",
@@ -80617,11 +80617,11 @@
    },
    {
     "place": "Q1416937",
-    "from": 1920,
+    "from": 1921,
     "to": null,
     "person": null,
-    "how": "konfiskace",
-    "from_approx": true,
+    "how": "koupe",
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -83940,10 +83940,10 @@
    },
    {
     "place": "Q1416937",
-    "year": 1920,
+    "year": 1921,
     "from": "valdstejnove",
     "to": "stat",
-    "how": "konfiskace"
+    "how": "koupe"
    },
    {
     "place": "Q1416944",
@@ -98405,10 +98405,19 @@
    },
    {
     "place": "Q37851622",
-    "from": 1844,
-    "to": 2008,
+    "from": 1789,
+    "to": 1898,
     "person": "G. Millner",
     "how": "koupe",
+    "from_approx": true,
+    "to_approx": true
+   },
+   {
+    "place": "Q37851622",
+    "from": 1898,
+    "to": 2008,
+    "person": "neznámá majitelka (jméno nezjištěno)",
+    "how": "neznamo",
     "from_approx": true,
     "to_approx": false
    },
@@ -101698,7 +101707,7 @@
    },
    {
     "place": "Q37851622",
-    "year": 1844,
+    "year": 1789,
     "from": "racinove-z-racina",
     "to": "soukromnik",
     "how": "koupe"

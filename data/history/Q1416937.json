@@ -6,7 +6,7 @@
   "approx": true,
   "text": "Gotická tvrz, předchůdkyně zámku, je poprvé písemně doložena roku 1385, patrně vznikla už dříve ve 14. století"
  },
- "summary": "Duchcovský zámek vznikl na místě gotické tvrze, kterou od roku 1473 vlastnili Kaplířové ze Sulevic a roku 1527 ji prodali Lobkovicům; ti nechali sídlo renesančně přestavět. Od roku 1642 patřil rodu Valdštejnů, kteří provedli rozsáhlou barokní přestavbu (architekt Jan Baptista Mathey) a zámek drželi až do roku 1920, kdy byl v rámci pozemkové reformy zkonfiskován (zdroje uvádějí 1920-1922). Od té doby je majetkem státu, dnes je ve správě Národního památkového ústavu a slouží kulturním účelům, mj. expozici věnované Giacomu Casanovovi, který zde působil jako knihovník.",
+ "summary": "Duchcovský zámek vznikl na místě gotické tvrze, kterou od roku 1473 vlastnili Kaplířové ze Sulevic a roku 1527 ji prodali Lobkovicům; ti nechali sídlo renesančně přestavět. Od roku 1642 patřil rodu Valdštejnů, kteří provedli rozsáhlou barokní přestavbu (architekt Jan Baptista Mathey) a zámek drželi až do pozemkové reformy; podle webu zámku jej roku 1921 prodali státu (cs.wiki uvádí konfiskaci 1920 a koupi 1922). Od té doby je majetkem státu, dnes je ve správě Národního památkového ústavu a slouží kulturním účelům, mj. expozici věnované Giacomu Casanovovi, který zde působil jako knihovník.",
  "owners": [
   {
    "owner": "kaplirove-ze-sulevic",
@@ -94,7 +94,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "snatek",
-   "note": "získal zámek sňatkem s ovdovělou Polyxenou Marií z Talmberka; zámek web zámku i NPÚ uvádí od 1642; článek na webu města (duchcov.cz) uvádí koupi Valdštejny od Lobkoviců už 1618 (hrabě Adam, zemřel 1640) - rozpor"
+   "note": "získal zámek sňatkem s ovdovělou Polyxenou Marií z Talmberka; zámek web zámku i NPÚ uvádí od 1642; článek na webu města (duchcov.cz) uvádí koupi Valdštejny od Lobkoviců už 1618 (hrabě Adam, zemřel 1640) - rozpor; rok 1642 potvrzuje i web zámku (NPÚ) a infopedia, rok 1618 je jen na webu města a je pravděpodobně chybný"
   },
   {
    "owner": "valdstejnove",
@@ -255,22 +255,22 @@
    "owner_wiki": "Valdštejnové",
    "person": "Adolf Arnošt z Valdštejna",
    "from": 1912,
-   "to": 1920,
+   "to": 1921,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "dedictvi",
-   "note": "nevlastní bratr Arnošta Karla, poslední šlechtický majitel; vlastnil i Mnichovo Hradiště, Doksy aj.; konec držení se v pramenech liší (1920 konfiskace, 1921 prodej státu, 1922 koupě okresním úřadem)"
+   "note": "poslední šlechtický majitel (nevlastní bratr Arnošta Karla); vlastnil i Mnichovo Hradiště, Doksy aj.; konec držení: web zámku (NPÚ) na dvou stránkách uvádí 1921 (Valdštejnové prodali zámek státu), cs.wiki uvádí 1920 konfiskaci panství a 1922 koupi zámku okresním úřadem, městská chronologie 1918 - do from/to dáno 1921 (zdroj správce zámku)"
   },
   {
    "owner": "stat",
    "owner_wiki": null,
    "person": null,
-   "from": 1920,
+   "from": 1921,
    "to": null,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
-   "how": "konfiskace",
-   "note": "panství zkonfiskováno při pozemkové reformě 1920, samotný zámek 1922 koupil okresní úřad v Duchcově (cs.wiki); web zámku: 1921 Valdštejnové prodali zámek státu, městská chronologie: 1918 se zámek stává majetkem státu; dnes ve vlastnictví státu, správu zajišťuje Národní památkový ústav; kostel Zvěstování Panny Marie zůstává v majetku církve"
+   "how": "koupe",
+   "note": "web zámku (NPÚ): po pozemkové reformě 1921 Valdštejnové prodali zámek státu; cs.wiki: panství 1920 zkonfiskováno, zámek 1922 koupil okresní úřad v Duchcově; městská chronologie: 1918 - rok se liší, použit 1921; dnes ve vlastnictví státu, správa Národní památkový ústav; kostel Zvěstování Panny Marie zůstává v majetku církve"
   }
  ],
  "events": [
@@ -315,6 +315,7 @@
   "https://cs.wikipedia.org/wiki/Duchcov_(zámek)",
   "https://www.zamek-duchcov.cz/cs/o-zamku/historie",
   "https://www.duchcov.cz/historie/d-1002",
-  "https://www.duchcov.cz/noviny/200801/historie.htm"
+  "https://www.duchcov.cz/noviny/200801/historie.htm",
+  "https://www.zamek-duchcov.cz/cs/informace-pro-navstevniky/prohlidkove-okruhy/1564-valdstejnska-prohlidka-zakladni-okruh"
  ]
 }

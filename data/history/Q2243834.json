@@ -17,18 +17,7 @@
    "from_approx": false,
    "to_approx": true,
    "how": "zalozeni",
-   "note": "panství koupil 1841, zámek postaven 1842-1845 (stavba od září 1842, od května 1844 zde rodina bydlela); další majitelé v 19. stol. mezi Karlem a jeho vnukem zdroje nejmenují"
-  },
-  {
-   "owner": "chotkove-z-chotkova",
-   "owner_wiki": "Chotkové z Chotkova",
-   "from_approx": true,
-   "to_approx": true,
-   "how": "dedictvi",
-   "person": "Karel Maria Chotek",
-   "from": null,
-   "to": null,
-   "note": "vnuk zakladatele (1853-1926), předposlední majitel; 1885-1910 nechal zámek novorenesančně přestavět podle Ernsta Fleischera (web zámku); roky držby neuvedeny"
+   "note": "panství koupil 1841, zámek postaven 1842-1845 (stavba od září 1842, od května 1844 zde rodina bydlela); další majitelé v 19. stol. mezi Karlem a jeho vnukem zdroje nejmenují; zakladatel Karel Chotek zemřel 1868 (katalog MZK)"
   },
   {
    "owner": "chotkove-z-chotkova",
@@ -36,10 +25,21 @@
    "from_approx": true,
    "to_approx": false,
    "how": "dedictvi",
-   "person": "Karel Chotek",
+   "person": "Karel Maria Chotek",
    "from": null,
+   "to": 1926,
+   "note": "vnuk zakladatele (1853-1926), předposlední majitel; 1885-1910 nechal zámek novorenesančně přestavět podle Ernsta Fleischera (web zámku); držbu skončil smrtí 1926 (iDNES, genealogie Chotků ČVUT); rok nástupu a případný mezičlánek po zakladateli (zemřel 1868) zdroje neuvádějí"
+  },
+  {
+   "owner": "chotkove-z-chotkova",
+   "owner_wiki": "Chotkové z Chotkova",
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "person": "Karel Maria Chotek (nejmladší)",
+   "from": 1926,
    "to": 1945,
-   "note": "poslední majitel z rodu, vymřel po meči roku 1970; zámek mu byl 1945 zkonfiskován podle Benešových dekretů"
+   "note": "Karel Maria Chotek (1887-1970), poslední majitel z rodu; 1926 zdědil zámek po otci, 1927 i Veltrusy (iDNES, genealogie Chotků ČVUT); zámek mu byl 1945 zkonfiskován podle Benešových dekretů, odešel do Německa; zemřel 1970 bez potomků"
   },
   {
    "owner": "stat",
@@ -50,7 +50,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "zabaveno podle Benešových dekretů; sloužil jako dětský domov, politická škola a sklad Československé lidové armády, veřejnosti přístupný od 80. let 20. stol., dnes ve správě NPÚ; správa NPÚ (ÚPS Ústí nad Labem)"
+   "note": "zabaveno podle Benešových dekretů; sloužil jako dětský domov, politická škola a sklad Československé lidové armády, veřejnosti přístupný od 80. let 20. stol., dnes ve správě NPÚ; správa NPÚ (ÚPS Ústí nad Labem); dnešní vlastník stát (Česká republika, cs.wiki), zámek spravuje Národní památkový ústav"
   }
  ],
  "events": [
@@ -75,6 +75,8 @@
   "https://cs.wikipedia.org/wiki/Velké_Březno_(nový_zámek)",
   "https://zamek-velkebrezno.cz/cs/o-zamku/historie",
   "http://www.tourism.cz/encyklopedie/objekty1.phtml?id=76687",
-  "https://www.npu.cz/cs/e-shop/9452-statni-zamek-velke-brezno"
+  "https://www.npu.cz/cs/e-shop/9452-statni-zamek-velke-brezno",
+  "https://www.idnes.cz/usti/zpravy/karel-maria-chotek-hrabe-zamek-velke-brezno-vyhnanstvi-livie-mailathova.A200127_529116_usti-zpravy_pakr",
+  "http://gis.fsv.cvut.cz/zamky/genealogie/chotek/php/person.php?o=25"
  ]
 }
