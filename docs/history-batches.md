@@ -62,3 +62,13 @@ Pravidla obsahu:
 
 Závěrečná zpráva (stručně, max ~15 řádků): pro každý objekt počet vlastníků, nové id rodů, které nejsou v data/families, a konkrétní nejistoty (odhadnuté roky, sporné zařazení). Nic dalšího.
 ```
+
+## Ověřovací dávky (2026-10-04)
+
+Druhý průchod už hotových historií: agent najde druhý zdroj mimo cs.wiki a opraví `data/history/<QID>.json`. Po 55 objektech (vlny 2-3) mají druhý zdroj všechny zpřístupněné historie kromě Rychlebského hradu.
+
+- Stejná pravidla jako výše (max 2 agenti Sonnet, 3 objekty na agenta, žádné vnořené agenty, zapisují jen své `data/history/<QID>.json`), v dávce 6-7 objektů ~2-6 % pětihodinového okna.
+- Zadání: stejný blok PŘÍSNÁ PRAVIDLA, ale úkol je „OVĚŘIT a OPRAVIT existující historii“, seznam objektů s nejistotami z `TODO.md`, webové hledání přes Exa (`mcp__exa__web_search_exa`, `mcp__exa__web_fetch_exa`; curl na cs.wikipedia.org v sandboxu nejde), max ~8 vyhledávání na objekt. Rok měnit jen s konkrétním zdrojem (přidat do `sources`), rozpor nechat v `note` s oběma roky, `null` doplnit jen když ho zdroj výslovně uvádí.
+- Kandidáty vybrat podle návštěvnosti NIPOS (`places.json`) mezi historiemi, jejichž `sources` jsou jen cs.wiki. Pozor na zaměněné objekty se stejným názvem (Nové Hrady, Kynžvart hrad / zámek, Boskovice hrad / zámek) - QID v zadání ověřit v `places.json`.
+- Po doběhnutí: `fetch_families.py` (potřebuje síť na cs.wikipedia.org a Wikidata), `build_history.py`, E2E, commit, nejistoty do `TODO.md`.
+- Co agenti rádi pokazí (ověřovací dávky): příslušnost osoby k rodu odvozená jen z jména (vrátit na `z-<predikat>` bez článku), roky odvozené z věku dědiců nebo z obecné znalosti, klíč `approx` v události (schéma ho nezná), id rodu s pomlčkou uprostřed (`radziwi-ove` místo `radziwiove`), překrývající se nebo nechronologické záznamy `owners`.
