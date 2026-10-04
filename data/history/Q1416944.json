@@ -135,7 +135,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "pardubické panství (cs.wiki Staré Ždánice: po čtvrt tisíciletí v majetku české komory přešlo roku 1856 do držení rakouské národní banky); přiřazení hradu odvozeno z příslušnosti k panství"
+   "note": "pardubické panství (cs.wiki Staré Ždánice: po čtvrt tisíciletí v majetku české komory přešlo roku 1856 do držení rakouské národní banky); přiřazení hradu odvozeno z příslušnosti k panství; VČM (Mucke, Kunětické družstvo, 2007): pardubické panství přenecháno rakouské národní bance roku 1855 (cs.wiki 1856 ponecháno); hrad je součástí panství, výslovně ho zdroj nejmenuje"
   },
   {
    "owner": "soukromnik",
@@ -145,7 +145,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "pardubický velkostatek koupil v dražbě 1863 a postupně rozprodával vesnice a pozemky (cs.wiki Staré Ždánice; Zámek Pardubice: Privilegovaný rakouský berní ústav 1863-1881); přiřazení hradu odvozeno z příslušnosti k panství"
+   "note": "pardubický velkostatek koupil v dražbě 1863 a postupně rozprodával vesnice a pozemky (cs.wiki Staré Ždánice; Zámek Pardubice: Privilegovaný rakouský berní ústav 1863-1881); přiřazení hradu odvozeno z příslušnosti k panství; VČM (Mucke 2007): 1863 získal panství v dražbě c. k. privil. rakouský úvěrní ústav pro obchod a průmysl spolu s Leopoldem Lämelem, který panství rozdělil na devět dílů"
   },
   {
    "owner": "z-wartinberka",
@@ -153,10 +153,10 @@
    "person": "Richard Drasche z Wartinberga",
    "from": 1881,
    "to": 1920,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "velkostatek (pardubické panství, k němuž hrad patřil od 1560) koupil 1881 Richard baron Drasche z Wartinberga; roku 1884-1920 jednal s Klubem českých turistů o odprodeji zříceniny a na začátku roku 1920 hrad koupil pardubický Muzejní spolek; přiřazení hradu k velkostatku 1881 je odvozeno, zdroj to o hradu výslovně neuvádí"
+   "note": "velkostatek koupil 1881 za 2 020 000 zl.; VČM (Mucke 2007) výslovně uvádí, že část Pardubice s Kunětickou horou koupil 1881 vídeňský velkoprůmyslník Richard Drasche, svobodný pán z Wartinbergu; Muzejní spolek hrad od 1.10.1917 pronajímal a hrad od něj koupil"
   },
   {
    "owner": "soukromnik",
@@ -166,7 +166,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "spolek zříceninu koupil a zahájil postupnou obnovu (mj. projekt Dušana Jurkoviče 1923-1928)"
+   "note": "spolek zříceninu koupil a zahájil postupnou obnovu (mj. projekt Dušana Jurkoviče 1923-1928); rok koupě: VČM (Mucke 2007) smlouva 8. 1. 1920 za 86 000 Kč (cs.wiki totéž, začátek 1920), web hradu uvádí 1919; do from dán 1920 jako lépe doložený"
   },
   {
    "owner": "stat",
@@ -175,7 +175,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "jine",
-   "note": "přechod do vlastnictví státu; dnes ve správě Národního památkového ústavu, po opravách znovu zpřístupněn 1993"
+   "note": "přechod do vlastnictví státu; dnes ve správě Národního památkového ústavu, po opravách znovu zpřístupněn 1993; rok 1953 uvádí cs.wiki i oficiální web hradu (hrad-kunetickahora.cz)"
   }
  ],
  "events": [
@@ -223,6 +223,9 @@
  "sources": [
   "https://cs.wikipedia.org/wiki/Kunětická_hora_(hrad)",
   "https://cs.wikipedia.org/wiki/Staré_Ždánice",
-  "https://cs.wikipedia.org/wiki/Zámek_Pardubice"
+  "https://cs.wikipedia.org/wiki/Zámek_Pardubice",
+  "https://www.vcm.cz/documents/1195/mucke_vcsh14-2007.pdf",
+  "https://www.hrad-kunetickahora.cz/cs/o-hradu/historie",
+  "https://www.raby-obec.cz/statni-hrad-kuneticka-hora"
  ]
 }

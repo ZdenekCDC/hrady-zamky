@@ -38,7 +38,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "podle cs.wiki Dobříš držel statek od roku 1321; konec držby zdroj neuvádí"
+   "note": "podle cs.wiki, města Dobříš (mestodobris.cz) i hrady.cz držel statek od roku 1321 (listina Štěpána z Tetína z 1321 za Jana Lucemburského); kdy statek přešel zpět ke králi, žádný ze zdrojů rok neuvádí (hrady.cz: Jan Lucemburský statek brzy znovu získal zpět, mestodobris.cz: po roce 1340 Karel IV. nechal vystavět Vargač); cz-milka.net řadí Jana Lucemburského až po Štěpánovi"
   },
   {
    "owner": "koruna",
@@ -59,7 +59,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "lenni",
-   "note": "Zikmund Lucemburský jim hrad zastavil 1422; dalším držitelem byl Hanušův stejnojmenný syn, kterého vyplatil Jiří z Poděbrad (rok vyplacení zdroj neuvádí)"
+   "note": "Zikmund Lucemburský jim hrad zastavil 1422; dalším držitelem byl Hanušův stejnojmenný syn, kterého vyplatil Jiří z Poděbrad (rok vyplacení zdroj neuvádí; hrady.cz: Hanuš držel ještě 1444, Bedřich zemřel 1432, Jiří z Poděbrad panství vyplatil a až 1461 zastavil synům - rok vyplacení žádný zdroj neuvádí, proto zůstává to: null)"
   },
   {
    "owner": "pani-z-kunstatu-a-podebrad",
@@ -98,12 +98,12 @@
    "owner": "svihovsti-z-ryzmberka",
    "owner_wiki": "Švihovští z Rýzmberka",
    "person": "Vilém Švihovský z Rýzmberka a jeho synové",
-   "from": 1530,
+   "from": 1534,
    "to": 1569,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "lenni",
-   "note": "král Ferdinand I. mu hrad po 1530 přenechal k doživotnímu užívání, později jej udělil všem Vilémovým synům (hrad Vargač popisován jako zchátralý); 1569 se panství vrátilo do královských rukou"
+   "note": "král Ferdinand I. mu Dobříš po návratu od Lobkoviců 1530 přenechal (hrady.cz: 1534 doživotně; cs.wiki jen „po 1530“, rok 1534 převzat z hrady.cz), později jej udělil všem Vilémovým synům (hrad Vargač popisován jako zchátralý); 1569 se panství vrátilo do královských rukou"
   },
   {
    "owner": "koruna",
@@ -113,7 +113,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "vyplatil zástavu, povýšil Dobříš na městečko a rozšířil panství o další vesnice; Rudolf II. nechal postavit hejtmanské obydlí; podle článku Vargač panství v roce 1569 král zastavil sázavskému klášteru (ostatní zdroje o této zástavě mlčí)"
+   "note": "vyplatil zástavu, povýšil Dobříš na městečko a rozšířil panství o další vesnice; Rudolf II. nechal postavit hejtmanské obydlí; Rudolf II. se podle hrady.cz 1598 rozhodl statek prodat; podle článku Vargač panství v roce 1569 král zastavil sázavskému klášteru (ostatní zdroje o této zástavě mlčí)"
   },
   {
    "owner": "lobkovicove",
@@ -227,6 +227,9 @@
  "sources": [
   "https://cs.wikipedia.org/wiki/Dobříš_(zámek)",
   "https://cs.wikipedia.org/wiki/Dobříš",
-  "https://cs.wikipedia.org/wiki/Vargač"
+  "https://cs.wikipedia.org/wiki/Vargač",
+  "https://www.hrady.cz/hrad-vargac-dobris/",
+  "https://www.mestodobris.cz/historie-dobrise/d-465411",
+  "https://www.cz-milka.net/pamatky/03-zamky/dobris/"
  ]
 }
