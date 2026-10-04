@@ -5659,6 +5659,53 @@
   "place_count": 1,
   "color_slot": null
  },
+ "cedlarove-z-hoffu": {
+  "id": "cedlarove-z-hoffu",
+  "type": "rod",
+  "name": "Cedlarové z Hoffu",
+  "wikidata": "Q11722523",
+  "cswiki": "https://cs.wikipedia.org/wiki/Cedlarové_z_Hoffu",
+  "summary": "Cedlarové z Hoffu byl šlechtický rod sídlící v Čechách nebo na Moravě před i po Bílé hoře.",
+  "related": [],
+  "places": [
+   {
+    "place": "Q31208025",
+    "from": 1617,
+    "to": 1619,
+    "person": "Kryštof Cedlar z Hofu",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q31208025",
+    "from": 1619,
+    "to": 1622,
+    "person": "Anna Cedlarová z Hofu",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": true
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q31208025",
+    "year": 1617,
+    "from": "z-belkovic",
+    "to": "cedlarove-z-hoffu",
+    "how": "dedictvi"
+   },
+   {
+    "place": "Q31208025",
+    "year": 1622,
+    "from": "cedlarove-z-hoffu",
+    "to": "koruna",
+    "how": "konfiskace"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
  "cejkove-z-badenfeldu": {
   "id": "cejkove-z-badenfeldu",
   "type": "rod",
@@ -12702,7 +12749,7 @@
    {
     "place": "Q11816208",
     "year": 1510,
-    "from": "z-prudic",
+    "from": "spetlove-z-janovic",
     "to": "haugvicove-z-biskupic",
     "how": "neznamo"
    },
@@ -13219,7 +13266,7 @@
    {
     "place": "Q19800624",
     "year": 1872,
-    "from": "z-jezova",
+    "from": "jensikove-z-jezova",
     "to": "herbersteinove",
     "how": "koupe"
    },
@@ -14294,6 +14341,44 @@
     "year": 1742,
     "from": "horecti",
     "to": "z-gillernu",
+    "how": "neznamo"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
+ "horicti-z-horic": {
+  "id": "horicti-z-horic",
+  "type": "rod",
+  "name": "Hořičtí z Hořic",
+  "wikidata": "Q12020494",
+  "cswiki": "https://cs.wikipedia.org/wiki/Hořičtí_z_Hořic",
+  "summary": "Hořičtí z Hořic byli český a moravský šlechtický rod, jejichž historie prokazatelně sahá až k roku 1403.",
+  "related": [],
+  "places": [
+   {
+    "place": "Q1013464",
+    "from": 1515,
+    "to": 1548,
+    "person": "Mikuláš Hořický z Hořic",
+    "how": "koupe",
+    "from_approx": true,
+    "to_approx": true
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q1013464",
+    "year": 1515,
+    "from": "pani-z-rozmitalu",
+    "to": "horicti-z-horic",
+    "how": "koupe"
+   },
+   {
+    "place": "Q1013464",
+    "year": 1548,
+    "from": "horicti-z-horic",
+    "to": "z-bilych-otradovic",
     "how": "neznamo"
    }
   ],
@@ -15580,7 +15665,7 @@
     "place": "Q1186381",
     "year": 1503,
     "from": "janovsti-z-janovic",
-    "to": "z-prudic",
+    "to": "spetlove-z-janovic",
     "how": "dedictvi"
    }
   ],
@@ -15647,6 +15732,53 @@
    }
   ],
   "place_count": 2,
+  "color_slot": null
+ },
+ "jensikove-z-jezova": {
+  "id": "jensikove-z-jezova",
+  "type": "rod",
+  "name": "Jenšíkové z Ježova",
+  "wikidata": "Q12024520",
+  "cswiki": "https://cs.wikipedia.org/wiki/Jenšíkové_z_Ježova",
+  "summary": "Jenšíkové z Ježova jsou česká vladycká a později rytířská rodina. Přídomek odvozovala od vesnice Ježov (okres Pelhřimov) u Humpolce.Podle Haladova Lexikonu české šlechty pocházel původně vladycký rod rytířů Jenšíků ze vsi Ježova severozápadně od Humpolce, zatímco v Erbovníku 2 Milana Myslivečka se píše, že česká novoštítná rodina Jenčíků pocházela ze svobodnického rodu, žijícího původně na Bechyňsku, jejíž pojmenován…",
+  "related": [],
+  "places": [
+   {
+    "place": "Q19800624",
+    "from": 1845,
+    "to": 1862,
+    "person": "Jenšík, rytíř z Ježova (Wilhelm Jenšík z Ježova)",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q19800624",
+    "from": 1862,
+    "to": 1872,
+    "person": "Ignác, Sáva a Eugen z Ježova",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q19800624",
+    "year": 1845,
+    "from": "soukromnik",
+    "to": "jensikove-z-jezova",
+    "how": "koupe"
+   },
+   {
+    "place": "Q19800624",
+    "year": 1872,
+    "from": "jensikove-z-jezova",
+    "to": "herbersteinove",
+    "how": "koupe"
+   }
+  ],
+  "place_count": 1,
   "color_slot": null
  },
  "jenstejnove": {
@@ -15852,7 +15984,7 @@
     "place": "Q735077",
     "year": 1542,
     "from": "junckerove",
-    "to": "z-neuberka",
+    "to": "neuberkove",
     "how": "dedictvi"
    }
   ],
@@ -19108,7 +19240,7 @@
    {
     "place": "Q12024521",
     "year": 1541,
-    "from": "z-usavy",
+    "from": "rendlove-z-ousavy",
     "to": "krabicove-z-veitmile",
     "how": "neznamo"
    },
@@ -27590,6 +27722,45 @@
   "place_count": 2,
   "color_slot": null
  },
+ "neuberkove": {
+  "id": "neuberkove",
+  "type": "rod",
+  "name": "Neuberkové",
+  "wikidata": "Q1979275",
+  "cswiki": "https://cs.wikipedia.org/wiki/Neuberkové",
+  "coat_of_arms": "Siebmacher Neuberg.JPG",
+  "summary": "Neubergové (počeštěně též Neuberkové, existují také varianty N(e)itberg, Ney(d)berg(k), Nyperch nebo Neipperg) byli šlechtický rod ve Fojtsku, Míšeňsku a Čechách. Jejich rodový erb je totožný s původně sousedními šlechtickými rody Hazlovských (Hozlauerů) a Raitenbachů, což by mohlo naznačovat vzájemnou rodovou spřízněnost.",
+  "related": [],
+  "places": [
+   {
+    "place": "Q735077",
+    "from": 1542,
+    "to": 1622,
+    "person": "Konrád a Jošt z Neuberga",
+    "how": "dedictvi",
+    "from_approx": true,
+    "to_approx": true
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q735077",
+    "year": 1542,
+    "from": "junckerove",
+    "to": "neuberkove",
+    "how": "dedictvi"
+   },
+   {
+    "place": "Q735077",
+    "year": 1622,
+    "from": "neuberkove",
+    "to": "z-steinheimu",
+    "how": "neznamo"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
  "nimptschove": {
   "id": "nimptschove",
   "type": "rod",
@@ -34814,7 +34985,7 @@
     "place": "Q1013464",
     "year": 1515,
     "from": "pani-z-rozmitalu",
-    "to": "z-horic",
+    "to": "horicti-z-horic",
     "how": "koupe"
    },
    {
@@ -35354,7 +35525,7 @@
     "place": "Q31449010",
     "year": 1560,
     "from": "pani-z-velhartic",
-    "to": "z-usavy",
+    "to": "rendlove-z-ousavy",
     "how": "jine"
    },
    {
@@ -41426,6 +41597,67 @@
   "place_count": 2,
   "color_slot": null
  },
+ "rendlove-z-ousavy": {
+  "id": "rendlove-z-ousavy",
+  "type": "rod",
+  "name": "Rendlové z Oušavy",
+  "wikidata": "Q15735378",
+  "cswiki": "https://cs.wikipedia.org/wiki/Rendlové_z_Oušavy",
+  "summary": "Rendlové z Oušavy (též Rendlové z Úšavy) byli český rytířský rod pocházejí z Tachovska.",
+  "related": [],
+  "places": [
+   {
+    "place": "Q12024521",
+    "from": 1539,
+    "to": 1541,
+    "person": "Mikuláš Rendl z Úšavy",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q31449010",
+    "from": 1560,
+    "to": 1564,
+    "person": "Jan Rendl z Úšavy",
+    "how": "jine",
+    "from_approx": true,
+    "to_approx": true
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q12024521",
+    "year": 1539,
+    "from": "z-hrusova",
+    "to": "rendlove-z-ousavy",
+    "how": "koupe"
+   },
+   {
+    "place": "Q12024521",
+    "year": 1541,
+    "from": "rendlove-z-ousavy",
+    "to": "krabicove-z-veitmile",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q31449010",
+    "year": 1560,
+    "from": "pani-z-velhartic",
+    "to": "rendlove-z-ousavy",
+    "how": "jine"
+   },
+   {
+    "place": "Q31449010",
+    "year": 1564,
+    "from": "rendlove-z-ousavy",
+    "to": "vyntirove-z-vlckovic",
+    "how": "koupe"
+   }
+  ],
+  "place_count": 2,
+  "color_slot": null
+ },
  "renspergarove-z-rensperka": {
   "id": "renspergarove-z-rensperka",
   "type": "rod",
@@ -47463,6 +47695,24 @@
     "to_approx": true
    },
    {
+    "place": "Q11816208",
+    "from": 1502,
+    "to": 1510,
+    "person": "Jindřich Špetle z Prudic",
+    "how": "neznamo",
+    "from_approx": false,
+    "to_approx": true
+   },
+   {
+    "place": "Q1186381",
+    "from": 1503,
+    "to": 1553,
+    "person": "Jan Špetle z Prudic",
+    "how": "dedictvi",
+    "from_approx": true,
+    "to_approx": false
+   },
+   {
     "place": "Q187633",
     "from": 1517,
     "to": 1772,
@@ -47520,6 +47770,27 @@
     "how": "jine"
    },
    {
+    "place": "Q11816208",
+    "year": 1510,
+    "from": "spetlove-z-janovic",
+    "to": "haugvicove-z-biskupic",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q1186381",
+    "year": 1503,
+    "from": "janovsti-z-janovic",
+    "to": "spetlove-z-janovic",
+    "how": "dedictvi"
+   },
+   {
+    "place": "Q1186381",
+    "year": 1553,
+    "from": "spetlove-z-janovic",
+    "to": "zajicove-z-hazmburka",
+    "how": "snatek"
+   },
+   {
     "place": "Q187633",
     "year": 1517,
     "from": "adrspachove-z-dube",
@@ -47548,7 +47819,7 @@
     "how": "koupe"
    }
   ],
-  "place_count": 3,
+  "place_count": 5,
   "color_slot": null
  },
  "sporkove": {
@@ -57156,7 +57427,7 @@
    {
     "place": "Q31449010",
     "year": 1564,
-    "from": "z-usavy",
+    "from": "rendlove-z-ousavy",
     "to": "vyntirove-z-vlckovic",
     "how": "koupe"
    },
@@ -58383,7 +58654,7 @@
     "place": "Q31208025",
     "year": 1617,
     "from": "z-belkovic",
-    "to": "z-hofu",
+    "to": "cedlarove-z-hoffu",
     "how": "dedictvi"
    }
   ],
@@ -58559,7 +58830,7 @@
    {
     "place": "Q1013464",
     "year": 1548,
-    "from": "z-horic",
+    "from": "horicti-z-horic",
     "to": "z-bilych-otradovic",
     "how": "neznamo"
    },
@@ -61858,50 +62129,6 @@
   "place_count": 1,
   "color_slot": null
  },
- "z-hofu": {
-  "id": "z-hofu",
-  "type": "rod",
-  "name": "z-hofu",
-  "related": [],
-  "places": [
-   {
-    "place": "Q31208025",
-    "from": 1617,
-    "to": 1619,
-    "person": "Kryštof Cedlar z Hofu",
-    "how": "dedictvi",
-    "from_approx": false,
-    "to_approx": false
-   },
-   {
-    "place": "Q31208025",
-    "from": 1619,
-    "to": 1622,
-    "person": "Anna Cedlarová z Hofu",
-    "how": "dedictvi",
-    "from_approx": false,
-    "to_approx": true
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q31208025",
-    "year": 1617,
-    "from": "z-belkovic",
-    "to": "z-hofu",
-    "how": "dedictvi"
-   },
-   {
-    "place": "Q31208025",
-    "year": 1622,
-    "from": "z-hofu",
-    "to": "koruna",
-    "how": "konfiskace"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
  "z-holesova": {
   "id": "z-holesova",
   "type": "rod",
@@ -61946,15 +62173,6 @@
   "related": [],
   "places": [
    {
-    "place": "Q1013464",
-    "from": 1515,
-    "to": 1548,
-    "person": "Mikuláš Hořický z Hořic",
-    "how": "koupe",
-    "from_approx": true,
-    "to_approx": true
-   },
-   {
     "place": "Q10396968",
     "from": 1431,
     "to": 1505,
@@ -61965,20 +62183,6 @@
    }
   ],
   "transfers": [
-   {
-    "place": "Q1013464",
-    "year": 1515,
-    "from": "pani-z-rozmitalu",
-    "to": "z-horic",
-    "how": "koupe"
-   },
-   {
-    "place": "Q1013464",
-    "year": 1548,
-    "from": "z-horic",
-    "to": "z-bilych-otradovic",
-    "how": "neznamo"
-   },
    {
     "place": "Q10396968",
     "year": 1431,
@@ -61994,7 +62198,7 @@
     "how": "neznamo"
    }
   ],
-  "place_count": 2,
+  "place_count": 1,
   "color_slot": null
  },
  "z-horky-a-vratkova": {
@@ -62357,7 +62561,7 @@
     "place": "Q12024521",
     "year": 1539,
     "from": "z-hrusova",
-    "to": "z-usavy",
+    "to": "rendlove-z-ousavy",
     "how": "koupe"
    }
   ],
@@ -62564,50 +62768,6 @@
     "from": "z-jelcan",
     "to": "rozmberkove",
     "how": "vymena"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
- "z-jezova": {
-  "id": "z-jezova",
-  "type": "rod",
-  "name": "z-jezova",
-  "related": [],
-  "places": [
-   {
-    "place": "Q19800624",
-    "from": 1845,
-    "to": 1862,
-    "person": "Jenšík, rytíř z Ježova (Wilhelm Jenšík z Ježova)",
-    "how": "koupe",
-    "from_approx": false,
-    "to_approx": false
-   },
-   {
-    "place": "Q19800624",
-    "from": 1862,
-    "to": 1872,
-    "person": "Ignác, Sáva a Eugen z Ježova",
-    "how": "dedictvi",
-    "from_approx": false,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q19800624",
-    "year": 1845,
-    "from": "soukromnik",
-    "to": "z-jezova",
-    "how": "koupe"
-   },
-   {
-    "place": "Q19800624",
-    "year": 1872,
-    "from": "z-jezova",
-    "to": "herbersteinove",
-    "how": "koupe"
    }
   ],
   "place_count": 1,
@@ -66562,15 +66722,6 @@
     "how": "koupe",
     "from_approx": false,
     "to_approx": true
-   },
-   {
-    "place": "Q735077",
-    "from": 1542,
-    "to": 1622,
-    "person": "Konrád a Jošt z Neuberga",
-    "how": "dedictvi",
-    "from_approx": true,
-    "to_approx": true
    }
   ],
   "transfers": [
@@ -66587,23 +66738,9 @@
     "from": "z-neuberka",
     "to": "soukromnik",
     "how": "koupe"
-   },
-   {
-    "place": "Q735077",
-    "year": 1542,
-    "from": "junckerove",
-    "to": "z-neuberka",
-    "how": "dedictvi"
-   },
-   {
-    "place": "Q735077",
-    "year": 1622,
-    "from": "z-neuberka",
-    "to": "z-steinheimu",
-    "how": "neznamo"
    }
   ],
-  "place_count": 2,
+  "place_count": 1,
   "color_slot": null
  },
  "z-neuenperka": {
@@ -68594,57 +68731,6 @@
    }
   ],
   "place_count": 1,
-  "color_slot": null
- },
- "z-prudic": {
-  "id": "z-prudic",
-  "type": "rod",
-  "name": "z Prudic",
-  "related": [],
-  "places": [
-   {
-    "place": "Q11816208",
-    "from": 1502,
-    "to": 1510,
-    "person": "Jindřich Špetle z Prudic",
-    "how": "neznamo",
-    "from_approx": false,
-    "to_approx": true
-   },
-   {
-    "place": "Q1186381",
-    "from": 1503,
-    "to": 1553,
-    "person": "Jan Špetle z Prudic",
-    "how": "dedictvi",
-    "from_approx": true,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q11816208",
-    "year": 1510,
-    "from": "z-prudic",
-    "to": "haugvicove-z-biskupic",
-    "how": "neznamo"
-   },
-   {
-    "place": "Q1186381",
-    "year": 1503,
-    "from": "janovsti-z-janovic",
-    "to": "z-prudic",
-    "how": "dedictvi"
-   },
-   {
-    "place": "Q1186381",
-    "year": 1553,
-    "from": "z-prudic",
-    "to": "zajicove-z-hazmburka",
-    "how": "snatek"
-   }
-  ],
-  "place_count": 2,
   "color_slot": null
  },
  "z-prus": {
@@ -70973,7 +71059,7 @@
    {
     "place": "Q735077",
     "year": 1622,
-    "from": "z-neuberka",
+    "from": "neuberkove",
     "to": "z-steinheimu",
     "how": "neznamo"
    },
@@ -71982,64 +72068,6 @@
    }
   ],
   "place_count": 1,
-  "color_slot": null
- },
- "z-usavy": {
-  "id": "z-usavy",
-  "type": "rod",
-  "name": "z-usavy",
-  "related": [],
-  "places": [
-   {
-    "place": "Q12024521",
-    "from": 1539,
-    "to": 1541,
-    "person": "Mikuláš Rendl z Úšavy",
-    "how": "koupe",
-    "from_approx": false,
-    "to_approx": false
-   },
-   {
-    "place": "Q31449010",
-    "from": 1560,
-    "to": 1564,
-    "person": "Jan Rendl z Úšavy",
-    "how": "jine",
-    "from_approx": true,
-    "to_approx": true
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q12024521",
-    "year": 1539,
-    "from": "z-hrusova",
-    "to": "z-usavy",
-    "how": "koupe"
-   },
-   {
-    "place": "Q12024521",
-    "year": 1541,
-    "from": "z-usavy",
-    "to": "krabicove-z-veitmile",
-    "how": "neznamo"
-   },
-   {
-    "place": "Q31449010",
-    "year": 1560,
-    "from": "pani-z-velhartic",
-    "to": "z-usavy",
-    "how": "jine"
-   },
-   {
-    "place": "Q31449010",
-    "year": 1564,
-    "from": "z-usavy",
-    "to": "vyntirove-z-vlckovic",
-    "how": "koupe"
-   }
-  ],
-  "place_count": 2,
   "color_slot": null
  },
  "z-valce": {
@@ -73877,7 +73905,7 @@
    {
     "place": "Q1186381",
     "year": 1553,
-    "from": "z-prudic",
+    "from": "spetlove-z-janovic",
     "to": "zajicove-z-hazmburka",
     "how": "snatek"
    },
@@ -91428,7 +91456,7 @@
    {
     "place": "Q31208025",
     "year": 1622,
-    "from": "z-hofu",
+    "from": "cedlarove-z-hoffu",
     "to": "koruna",
     "how": "konfiskace"
    },
@@ -101039,7 +101067,7 @@
     "place": "Q19800624",
     "year": 1845,
     "from": "soukromnik",
-    "to": "z-jezova",
+    "to": "jensikove-z-jezova",
     "how": "koupe"
    },
    {
