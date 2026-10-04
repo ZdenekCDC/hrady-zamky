@@ -6,51 +6,150 @@
   "approx": true,
   "text": "hrad založen na začátku 14. století, snad 1303; nesporná první zmínka 1318"
  },
- "summary": "Vlašimský hrad vznikl na začátku 14. století (první nesporná zmínka 1318) a rozvoj zažil v 15. století za Trčků z Lípy. Kolem roku 1600 jej Vostrovcové z Kralovic přestavěli na renesanční zámek. V 19. století, kdy na zámku sídlila knížata z Auerspergu (do roku 1945), dostal dnešní podobu; dnes patří městu Vlašim a sídlí v něm Muzeum Podblanicka.",
+ "summary": "Vlašimský hrad vznikl na začátku 14. století (první nesporná zmínka 1318); od 1363 jej držel Michal z Jenštejna, jehož bratr Jan Očko z Vlašimi a synovec Jan z Jenštejna z něj učinili reprezentativní sídlo. Rozvoj zažil po 1442 za Trčků z Lípy a kolem 1600 jej Vostrovcové z Kralovic přestavěli na renesanční zámek; po konfiskaci 1621 následovali Talmberkové, Porciové, Weissenwolffové a Trautsonové a od 1744 knížata z Auerspergu (do 1945), za nichž zámek a park dostaly dnešní podobu. Dnes patří městu Vlašim a sídlí v něm Muzeum Podblanicka.",
  "owners": [
   {
-   "owner": "neznamo",
+   "owner": "z-vlasimi",
    "owner_wiki": null,
-   "person": "pánové z Vlašimi (druhý pražský arcibiskup Jan Očko z Vlašimi)",
+   "person": "páni z Vlašimi (Hynek z Vlašimi, doložen 1318)",
    "from": 1303,
-   "to": null,
+   "to": 1363,
    "from_approx": true,
    "to_approx": false,
    "how": "zalozeni",
-   "note": "zdroj uvádí jen, že se hrad stal reprezentativním sídlem díky Janu Očkovi z Vlašimi; majitele před Trčky neuvádí"
+   "note": "hrad založen kolem 1300 / snad 1303, první doložený držitel Hynek z Vlašimi 1318 (muzeumpodblanicka.cz); rok 1363 viz další záznam"
+  },
+  {
+   "owner": "jenstejnove",
+   "owner_wiki": "Jenštejnové",
+   "person": "Michal z Jenštejna, purkrabí na Svojanově; jeho bratr arcibiskup Jan Očko z Vlašimi a synovec Jan z Jenštejna",
+   "from": 1363,
+   "to": 1413,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Michal hrad koupil 1363 (muzeumpodblanicka.cz, cz-milka.net); Slavík (obsah) uvádí období 1303-1413 u 'druhých pánů z Vlašimě odjinud z Jenštejna' - ROZPOR v počátku, 1363 přijato ze dvou souhlasných zdrojů; konec 1413 podle Slavíka"
+  },
+  {
+   "owner": "z-chotemic",
+   "owner_wiki": null,
+   "person": "rytíři Svidničtí z Chotěmic (Jan z Chotěmic)",
+   "from": 1413,
+   "to": 1442,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "1413-1442 podle Slavíka (obsah); 1437 hostili císaře Zikmunda; Trčka získal Vlašim 1442 (muzeumpodblanicka.cz, cz-milka.net)"
   },
   {
    "owner": "trckove-z-lipy",
    "owner_wiki": "Trčkové z Lípy",
-   "person": "Trčkové z Lípy",
-   "from": null,
-   "to": null,
+   "person": "Trčkové z Lípy (Mikuláš Trčka z Lípy)",
+   "from": 1442,
+   "to": 1546,
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "rozvoj hradu v 15. století; roky zdroj neuvádí"
+   "note": "1442-1546 podle Slavíka (obsah); 1442 shoduje s muzeumpodblanicka.cz; rozvoj hradu a dělostřelecké opevnění"
+  },
+  {
+   "owner": "z-sovojovic",
+   "owner_wiki": null,
+   "person": "rytíř Markvart Stranovský ze Sovojovic",
+   "from": 1546,
+   "to": 1550,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "podle Slavíka (obsah); cz-milka.net jmenuje Stranovské ze Sovojovic po Trčcích"
+  },
+  {
+   "owner": "z-pteni",
+   "owner_wiki": null,
+   "person": "rytíři Klenovští ze Ptení",
+   "from": 1550,
+   "to": 1588,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "podle Slavíka (obsah); cz-milka.net jmenuje Klenovské ze Ptení po Trčcích"
   },
   {
    "owner": "z-kralovic",
    "owner_wiki": null,
-   "person": "Jan Vostrovec z Kralovic",
-   "from": null,
-   "to": null,
+   "person": "Vostrovcové z Kralovic (Jan Vostrovec z Kralovic)",
+   "from": 1588,
+   "to": 1621,
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "kolem roku 1600 přestavba na renesanční zámek (alianční znak Jana Vostrovce a Anny Bryknarové); roky držení zdroj neuvádí"
+   "note": "1588-1621 podle Slavíka (obsah); renesanční přestavba kolem 1600 (alianční znak Jana Vostrovce a Anny Bryknarové); Jan Vostrovec direktor stavovského povstání, panství zkonfiskováno 1621 (muzeumpodblanicka.cz). cs.wiki infobox píše Ostrovcové"
+  },
+  {
+   "owner": "pani-z-talmberka",
+   "owner_wiki": "Páni z Talmberka",
+   "person": "Bedřich z Talmberka a další páni z Talmberka",
+   "from": 1622,
+   "to": 1665,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "panství po konfiskaci přešlo 1622 na Talmberky (cz-milka.net; Slavík obsah 1622-1665)"
+  },
+  {
+   "owner": "porciove",
+   "owner_wiki": null,
+   "person": "kněžna Božena z Porcie, rozená Kavková z Říčan",
+   "from": 1665,
+   "to": 1681,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "podle Slavíka (obsah); cz-milka.net jmenuje Boženu Porcii; přiřazení k rodu Porciů podle jejího příjmení v pramenu"
+  },
+  {
+   "owner": "ungnadove-z-weissenwolffu",
+   "owner_wiki": "Ungnadové z Weissenwolffu",
+   "person": "hrabata z Weissenwolffu",
+   "from": 1681,
+   "to": 1715,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "podle Slavíka (obsah: potomci a dědicové kněžny Boženy z Porcie)"
+  },
+  {
+   "owner": "trautsonove",
+   "owner_wiki": "Trautsonové",
+   "person": "hrabata z Trautsonu",
+   "from": 1715,
+   "to": 1744,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "podle Slavíka (obsah); 1744 Marie Josefa z Trautsonu provdána za Karla Josefa z Auerspergu"
   },
   {
    "owner": "auerspergove",
    "owner_wiki": "Auerspergové",
-   "person": "knížata z Auerspergu (Karel Josef z Auerspergu, Marie Josefa z Auerspergu)",
-   "from": null,
+   "person": "knížata z Auerspergu (Karel Josef, Vilém I., Karel Vilém/Carlos, Karel Maria, poslední Karel Auersperg-Breunner)",
+   "from": 1744,
    "to": 1945,
    "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "začátek držení zdroj neuvádí (kaple 1771, park 1775); sídlili zde do roku 1945"
+   "how": "snatek",
+   "note": "sňatek Marie Josefy z Trautsonu s Karlem Josefem z Auerspergu 1744 (muzeumpodblanicka.cz, anawe vlasimskypark); do 1945, vyvlastněno"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": "Československo (vyvlastnění 1945)",
+   "from": 1945,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "cz-milka.net: 1945 přešel do rukou československého státu; kultura.cz uvádí, že od 1945 patří městu - rozpor, rok převodu na město neověřen"
   },
   {
    "owner": "mesto",
@@ -61,7 +160,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "zámek i park jsou ve vlastnictví města Vlašimi; rok převodu zdroj neuvádí"
+   "note": "zámek i park jsou ve vlastnictví města Vlašimi (cs.wiki, vlasimskypark.cz, kultura.cz); rok převodu zdroje neuvádějí"
   }
  ],
  "events": [
@@ -70,8 +169,20 @@
    "text": "první nesporná písemná zmínka o hradu"
   },
   {
+   "year": 1363,
+   "text": "hrad koupil Michal, purkrabí na Svojanově (z Jenštejna)"
+  },
+  {
    "year": 1600,
    "text": "kolem roku 1600 přestavba na renesanční zámek za Vostrovců z Kralovic"
+  },
+  {
+   "year": 1621,
+   "text": "konfiskace panství po Janu Vostrovcovi z Kralovic, od 1622 Talmberkové"
+  },
+  {
+   "year": 1744,
+   "text": "sňatek Marie Josefy z Trautsonu s Karlem Josefem z Auerspergu, začátek auerspergského držení"
   },
   {
    "year": 1771,
@@ -91,6 +202,10 @@
   }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Vlašim_(zámek)"
+  "https://cs.wikipedia.org/wiki/Vlašim_(zámek)",
+  "https://www.muzeumpodblanicka.cz/objekt/zamek-vlasim/",
+  "https://archive.org/stream/dejiny_mesta_vlasime_a_jeho_statku/dejiny_mesta_vlasime_a_jeho_statku_djvu.txt",
+  "https://www.cz-milka.net/pamatky/03-zamky/vlasim/",
+  "http://www.kultura.cz/profile/5868-zamek-vlasim"
  ]
 }

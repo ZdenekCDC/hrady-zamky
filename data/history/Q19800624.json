@@ -6,7 +6,7 @@
   "approx": false,
   "text": "1786-1789 stavba pozdně barokního zámku Františkem Karlem Kresselem z Kvaltenberka"
  },
- "summary": "Pozdně barokní zámek ve Vrbičanech postavil v letech 1786-1789 František Karel Kressel z Kvaltenberka. Po jeho smrti ho krátce vlastnila vdova Josefa a pak Puteaniové, od roku 1864 hrabata Herbersteinové. Roku 1946 byl zkonfiskován a sloužil zemědělskému školství; roku 2011 jej koupila firma Sempra Vrbičany a od 2015 je zpřístupněn.",
+ "summary": "Pozdně barokní zámek ve Vrbičanech postavil v letech 1786-1789 František Karel Kressel z Kvaltenberka. Po jeho smrti ho krátce vlastnila vdova Josefa a pak Puteaniové; po několika dalších majitelích (Vávra, Jenšíkové z Ježova) jej 1872 koupila Terezie z Herbersteinu (cs.wiki uvádí 1864). Roku 1946 byl zkonfiskován a sloužil zemědělskému školství; roku 2011 jej koupila od Ústeckého kraje firma Sempra Vrbičany a od 2015 je zpřístupněn.",
  "owners": [
   {
    "owner": "kreslove-z-kvaltenberka",
@@ -17,7 +17,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "zalozeni",
-   "note": "stavitel zámku 1786-1789; zemřel 1801"
+   "note": "stavitel zámku 1786-1789; zemřel 1801; obecní web vrbicany.cz uvádí úmrtí Kressla 1802 (cs.wiki 1801)"
   },
   {
    "owner": "strakove-z-nedabylic",
@@ -39,18 +39,51 @@
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "zdědil po prateti Josefě; rok nabytí odvozen z jejího úmrtí"
+   "note": "podle cs.wiki i obecního webu vrbicany.cz dědic po Kresslovi (prasynovec); rok nabytí 1802 stále odvozen z úmrtí Josefy / Kressla; do 1843 podle obou zdrojů, 1843 prodej mlynáři Vávrovi"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Antonín Vávra, mlynář z Nymburka, s manželkou Františkou",
+   "from": 1843,
+   "to": 1845,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil od Puteani 1843; prodal 22. 6. 1845 (vrbicany.cz)"
+  },
+  {
+   "owner": "z-jezova",
+   "owner_wiki": null,
+   "person": "Jenšík, rytíř z Ježova (Wilhelm Jenšík z Ježova)",
+   "from": 1845,
+   "to": 1862,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupě 1845; po smrti rytíře 3. 1. 1862 zdědili Ignác, Sáva a Eugen z Ježova (vrbicany.cz)"
+  },
+  {
+   "owner": "z-jezova",
+   "owner_wiki": null,
+   "person": "Ignác, Sáva a Eugen z Ježova",
+   "from": 1862,
+   "to": 1872,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "Ignác prodal statek 9. 2. 1872 Terezii z Herbersteinu (vrbicany.cz)"
   },
   {
    "owner": "herbersteinove",
    "owner_wiki": "Herbersteinové",
-   "person": "Terezie z Herbersteinu a její potomci",
-   "from": 1864,
+   "person": "Terezie, hraběnka z Herbersteinu, rozená kněžna z Dietrichsteinu (věnovala synu Janu Josefovi), a potomci",
+   "from": 1872,
    "to": 1946,
    "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "rok 1864 získala Terezie z Herbersteinu; období 1843-1864 zdroj neuvádí"
+   "how": "koupe",
+   "note": "ROZPOR: cs.wiki uvádí rok 1864, obecní web vrbicany.cz (a Babinet) 1872 - koupě od Ignáce z Ježova 9. 2. 1872; do 1872 zvolen detailněji doložený obecní zdroj. Za okupace 1939-1944 nucená správa, formálně vlastnictví do konfiskace 1946"
   },
   {
    "owner": "soukromnik",
@@ -61,7 +94,18 @@
    "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "konfiskace podle Benešových dekretů; zřízeno strojní učiliště a Státní traktorová stanice; rok konce zdroj neuvádí"
+   "note": "konfiskace 1946 podle Benešových dekretů; strojní učiliště, Státní traktorová stanice, zemědělské učiliště (do 1991 podle Deníku); rok konce a dalších držitelů zdroje neuvádějí"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "Ústecký kraj",
+   "from": null,
+   "to": 2011,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "obecní web vrbicany.cz: 2011 zámek koupila Sempra Vrbičany od Ústeckého kraje; rok převzetí krajem neznámý"
   },
   {
    "owner": "soukromnik",
@@ -98,6 +142,9 @@
   }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Vrbičany_(zámek)"
+  "https://cs.wikipedia.org/wiki/Vrbičany_(zámek)",
+  "https://www.vrbicany.cz/historie",
+  "https://litomericky.denik.cz/zpravy-region/zamek-vrbicany-denik-na-navsteve/",
+  "https://babinet.cz/kam-vyrazit/clanek-29420-zamek-vrbicany-pomalu-vstava-z-popela-a-stoji-za-vasi-navstevu"
  ]
 }

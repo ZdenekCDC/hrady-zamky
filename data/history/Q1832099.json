@@ -6,7 +6,7 @@
   "approx": false,
   "text": "1101 založení benediktinského kláštera Litoldem Znojemským a Oldřichem Brněnským; v 16. století přestavba na renesanční zámek"
  },
- "summary": "Zámek v Třebíči-Podklášteří vznikl v 16. století přestavbou benediktinského kláštera založeného roku 1101. Po husitských válkách a dobytí města Uhry roku 1468 se klášter dostal do světských rukou (Šternberkové, od roku 1490 Pernštejnové) a poslední mnichy vyhnal roku 1525 Arkleb Trnavský z Boskovic. Panství pak držela rodina Osovských z Doubravice a Valdštejnové, po roce 1945 byl zámek konfiskován a od 50. let v něm sídlí muzeum (dnes Muzeum Vysočiny Třebíč); od roku 2018 je součástí památek UNESCO.",
+ "summary": "Zámek v Třebíči-Podklášteří vznikl v 16. století přestavbou benediktinského kláštera založeného roku 1101. Po husitských válkách a dobytí města Uhry roku 1468 se klášter dostal do světských rukou (Šternberkové, od roku 1490 v zástavě Pernštejnové) a poslední mnichy vyhnal roku 1525 Arkleb Černohorský z Boskovic (cs.wiki Trnavský). Panství pak držela rodina Osovských z Doubravice a Valdštejnové, po roce 1945 byl zámek konfiskován a od 50. let v něm sídlí muzeum (dnes Muzeum Vysočiny Třebíč); od roku 2018 je součástí památek UNESCO.",
  "owners": [
   {
    "owner": "cirkev",
@@ -35,33 +35,33 @@
    "owner_wiki": "Pernštejnové",
    "person": "Vilém z Pernštejna",
    "from": 1490,
-   "to": null,
+   "to": 1556,
    "from_approx": false,
    "to_approx": false,
-   "how": "koupe",
-   "note": "1490 dostal od krále Vladislava plnou moc k vyplacení zástavních věřitelů třebíčských statků, zástavy vykoupil a klášter opravoval; kdy panství pozbyli, zdroj neuvádí"
+   "how": "lenni",
+   "note": "14. 12. 1490 zástava třebíčského zboží králem Vladislavem Vilémovi z Pernštejna (město Třebíč), držení v zástavě do 1556, kdy Vratislav z Pernštejna získal panství do dědičné držby a prodal ho Osovskému (trebic.cz, unesco-czech.cz); v mezidobí postoupil Jan z Pernštejna panství Arklebovi Černohorskému z Boskovic (syn a zeť), který 1525 vyhnal poslední mnichy, ale panství se za pár let vrátilo Pernštejnům - Arkleb není samostatný záznam"
   },
   {
    "owner": "pani-z-doubravice",
    "owner_wiki": "Páni z Doubravice",
-   "person": "Osovští z Doubravice",
-   "from": null,
-   "to": null,
-   "from_approx": false,
+   "person": "Burian Osovský z Doubravice (od 1568 Smil Osovský z Doubravice)",
+   "from": 1556,
+   "to": 1613,
+   "from_approx": true,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "další majitelé panství po Pernštejnech (roky zdroj neuvádí); přestavěli zámek, baziliku změnili na pivovar. Arkleb Trnavský z Boskovic vyhnal 1525 poslední mnichy - jeho postavení zdroj nespecifikuje"
+   "how": "koupe",
+   "note": "koupě od Vratislava z Pernštejna 1556/1557, deskový vklad 1558 (unesco-czech.cz, trebic.cz; visittrebic.eu uvádí 1557); Smil Osovský se ujal panství 1568, zemřel bezdětný 1613; přestavěli klášter na renesanční zámek, baziliku na pivovar"
   },
   {
    "owner": "valdstejnove",
    "owner_wiki": "Valdštejnové",
-   "person": "Rudolf František Augustin z Valdštejna; poslední majitel od 1932 Emanuel Waldstein-Wartenberg",
-   "from": null,
+   "person": "Kateřina z Valdštejna (1613), od 1629 Adam z Valdštejna a jeho potomci (Rudolf František Augustin z Valdštejna); poslední majitel od 1932 Emanuel Waldstein-Wartenberg",
+   "from": 1613,
    "to": 1945,
-   "from_approx": false,
+   "from_approx": true,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "začátek valdštejnského držení zdroj neuvádí (doloženo koncem 17. století); zámek 1945 konfiskován"
+   "how": "dedictvi",
+   "note": "panství 1613 zdědila vdova po Smilu Osovském Kateřina z Valdštejna (po 1614 manželka Karla st. ze Žerotína), ponechala si ho; 1628/1629 z důvodu exilu přenechala Adamovi z Valdštejna, závěť 1637 zřizuje seniorát a fideikomis, 'definitivně Valdštejnové' do 1945 (trebic.cz). Zařazení Kateřiny pod rod Valdštejnů je podle jejího jména v pramenu; od 1629/1637 jistě rod; poslední majitel od 1932 Emanuel Waldstein-Wartenberg; zámek 1945 konfiskován"
   },
   {
    "owner": "stat",
@@ -82,7 +82,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "dnešního vlastníka zámku zdroj výslovně neuvádí; rekonstrukci 2011-2012 investoval Kraj Vysočina, zámecký park převzalo 2008 město Třebíč"
+   "note": "dnešního vlastníka budovy zámku zdroje výslovně neuvádějí: cs.wiki (infobox) město Třebíč; Muzeum Vysočiny Třebíč je příspěvková organizace Kraje Vysočina, majetkový odbor kraje hradí údržbu budovy a kraj financoval rekonstrukci 2011-2013 (moderniobec.cz, kr-vysocina.cz) - vlastník kraj vs. město neověřen; zámecký park převzalo 2008 město Třebíč"
   }
  ],
  "events": [
@@ -104,7 +104,7 @@
   },
   {
    "year": 1525,
-   "text": "Arkleb Trnavský z Boskovic vyhnal poslední mnichy; klášter přestavěn na renesanční zámek"
+   "text": "Arkleb Černohorský (cs.wiki Trnavský) z Boskovic vyhnal poslední mnichy; klášter přestavěn na renesanční zámek"
   },
   {
    "year": 1953,
@@ -120,6 +120,11 @@
   }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Třebíč_(zámek)"
+  "https://cs.wikipedia.org/wiki/Třebíč_(zámek)",
+  "https://www.trebic.cz/historie-mesta-trebic-v-datech/d-1385",
+  "https://www.unesco-czech.cz/trebic/historie/",
+  "https://cs.wikipedia.org/wiki/T%C5%99eb%C3%AD%C4%8D_v_16._a_17._stolet%C3%AD",
+  "https://trebicsky.denik.cz/zpravy_region/posledni-valdstejnove-byli-v-trebici-doma-20161013.html",
+  "https://moderniobec.cz/muzea-nezmenila-jen-sve-nazvy/"
  ]
 }

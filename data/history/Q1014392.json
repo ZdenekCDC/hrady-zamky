@@ -17,27 +17,29 @@
    "from_approx": false,
    "to_approx": false,
    "how": "zalozeni",
-   "note": "první známý majitel, uváděný k roku 1224"
+   "note": "první známý majitel, uváděný k roku 1224; hrady.cz: 1224 listina opata Erharda z Waldsass o výkupu desátků od Gerolda z Vildštejna, asi zakladatel; Albert Nothaft se jako svědek objevuje 1225, asi Geroldův příbuzný; cs.wiki: Vojtěch Nothaft 1225"
   },
   {
    "owner": "nothaftove",
    "owner_wiki": "Nothaftové",
    "person": "Vojtěch Nothaft",
    "from": 1225,
-   "to": 1299,
+   "to": 1298,
    "from_approx": false,
    "to_approx": false,
-   "how": "neznamo"
+   "how": "neznamo",
+   "note": "konec držby 1298: web města Skalná a Turistický atlas (hrad dán do zástavy Janu Rabovi z Mechelsgrünu); cs.wiki uvádí 1299; web města začíná Nothafty již 1125, což odporuje první zmínce 1224 a není převzato"
   },
   {
    "owner": "z-mechelsgrunu",
    "owner_wiki": null,
    "person": "Jan Rab z Mechelsgrünu a jeho potomci",
-   "from": 1299,
+   "from": 1298,
    "to": 1349,
    "from_approx": false,
    "to_approx": false,
-   "how": "koupe"
+   "how": "koupe",
+   "note": "od 1298 (web města Skalná, Turistický atlas: původně zástava); cs.wiki 1299; konec 1349 podle cs.wiki; hrady.cz: 1349 hrad od Nothaftů získal Rüdiger ze Sparnecku jako léno, 1358-1360 opět Rabové, 1362 Rudolf z Ramberka, po 1376 Fridrich z Donína (tyto krátké držby nejsou v řetězci); web města: Rabové do cca 1398"
   },
   {
    "owner": "frankengrunerove-z-chebu",
@@ -47,40 +49,41 @@
    "to": 1439,
    "from_approx": false,
    "to_approx": false,
-   "how": "koupe"
+   "how": "koupe",
+   "note": "od 1349 podle cs.wiki; hrady.cz a Turistický atlas uvádějí Frankengrünery až od 1412 (web města 1407-1429, pak Junckherové 1429-1436 a Hieserlové 1436-1439); konec 1439 shodně (hrady.cz, cs.wiki, web města)"
   },
   {
    "owner": "gumerauerove",
    "owner_wiki": null,
    "person": "Gumerauerové",
    "from": 1439,
-   "to": null,
+   "to": 1521,
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "rok konce zdroj neuvádí"
+   "note": "1439 koupil Vildštejn Albert Šlik a hned jej prodal chebským Gummerauerům (hrady.cz); 1452 hrad vypálen vojskem Jiřího z Poděbrad; konec 1521 podle hrady.cz a Turistického atlasu (web města Skalná uvádí 1524)"
   },
   {
    "owner": "slikove",
    "owner_wiki": "Šlikové",
    "person": "Šlikové",
-   "from": null,
-   "to": null,
+   "from": 1521,
+   "to": 1531,
    "from_approx": false,
    "to_approx": false,
-   "how": "koupe",
-   "note": "koupili hrad i panství od Gumerauerů; roky zdroj neuvádí"
+   "how": "snatek",
+   "note": "1521 přešel hrad sňatkem na Šliky (hrady.cz, Turistický atlas; cs.wiki uvádí koupi od Gumerauerů); web města 1524-1531; 1531 Albrecht Šlik prodal hrad Volfovi z Viršperku za 7000 zl. (hrady.cz)"
   },
   {
    "owner": "wirspergove",
    "owner_wiki": null,
    "person": "Wirspergové",
-   "from": null,
+   "from": 1531,
    "to": 1596,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "koupili po deseti letech od Šliků; rok nabytí zdroj neuvádí"
+   "note": "od 1531 (hrady.cz, Turistický atlas, web města); cs.wiki: 'po deseti letech od Šliků' (nejasné); 1541 rozdělení panství na Horní a Dolní Vildštejn; držba do 1596 (hrady.cz); web města: Wirsbergové do cca 1614"
   },
   {
    "owner": "trautenbergove",
@@ -91,61 +94,62 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "zdroj uvádí rok 1596 i 'krátce po 1607'; roku 1783 si v předhradí postavili zámek"
+   "note": "1596 koupili za 18 000 chebských zlatých (hrady.cz, Turistický atlas, cs.wiki); cs.wiki na jiném místě uvádí 'krátce po 1607', web města Skalná 1614 - do from dán 1596 (shoda dvou zdrojů a cs.wiki); 1783 si v předhradí postavili zámek; do 1799"
   },
   {
    "owner": "wilhelmove",
    "owner_wiki": null,
-   "person": "Wilhelmové",
+   "person": "Wilhelmové (Jan Jiří Wilhelm von Helmsfeld a potomci)",
    "from": 1799,
    "to": 1884,
    "from_approx": false,
    "to_approx": false,
-   "how": "neznamo"
+   "how": "koupe",
+   "note": "1799 koupil rytíř Jan Jiří Wilhelm von Helmsfeld za 160 000 zl. (Turistický atlas, komerční web); web města Skalná: Georg Johann Wilhelm a potomci 1799-1884"
   },
   {
    "owner": "wolkenstein-trostburkove",
    "owner_wiki": "Wolkenstein-Trostburkové",
    "person": "Wolkenstein-Trostburgové",
    "from": 1884,
-   "to": null,
+   "to": 1918,
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "drželi do první světové války; rok konce zdroj neuvádí"
+   "note": "1884-1918 (web města Skalná); Turistický atlas: koncem první světové války hrad prodali Geipelům"
   },
   {
    "owner": "soukromnik",
    "owner_wiki": null,
-   "person": "továrnická rodina Geipelů",
-   "from": null,
-   "to": null,
+   "person": "továrnická rodina Geipelů (Fridrich Adam Geipel a bratři)",
+   "from": 1918,
+   "to": 1945,
    "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "do druhé světové války; roky zdroj neuvádí"
+   "how": "koupe",
+   "note": "1918-1945 (web města Skalná: bratři Geipelové; Turistický atlas: továrník Fridrich Adam Geipel); 1945 zabaveno (Novinky.cz)"
   },
   {
    "owner": "stat",
    "owner_wiki": null,
    "person": "státní statek",
-   "from": null,
-   "to": null,
+   "from": 1945,
+   "to": 1999,
    "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "ve 2. polovině 20. století hrad pod státním statkem chátral; od 1985 rekonstrukce"
+   "how": "konfiskace",
+   "note": "po 1945 přešel hrad na stát; 1950 správa místního národního výboru (web města), 1951 státní statky a posléze město Skalná (hrady.cz); 1950 devastace rumunskými reemigranty; od 1985 obnova dobrovolníků; přesné roky přechodu mezi stát - státní statek - MNV/město nejsou jednoznačné"
   },
   {
    "owner": "soukromnik",
    "owner_wiki": null,
-   "person": "soukromý vlastník",
+   "person": "Miroslav Pumr (po jeho smrti rodina, dcera Zuzana s partnerem)",
    "from": 1999,
    "to": null,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "od roku 1999 v soukromém vlastnictví; jméno zdroj neuvádí; obec Skalná získala cenu Patria Nostra za rekonstrukci hradu"
+   "note": "1999 koupil hrad Miroslav Pumr, 2001 zpřístupněn (Novinky.cz 2020, Drbna.cz 2021 - zpravodajské weby); dnes se o hrad stará dcera Zuzana s partnerem; Patria Nostra (2020) obdrželi majitelé, starostka Skalné a architekti"
   }
  ],
  "events": [
@@ -175,6 +179,11 @@
   }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Vildštejn"
+  "https://cs.wikipedia.org/wiki/Vildštejn",
+  "https://www.skalna.cz/turista/historicke-pamatky/hrad-vildstejn-80cs.html (oficiální web města Skalná; roky se místy liší)",
+  "https://www.hrady.cz/hrad-skalna-vildstejn/texty?pos=300&tid=26477 (popularizační server, slabší zdroj)",
+  "https://turistickyatlas.cz/vse/misto/7480_hrad-vildstejn-ve-skalne.html (komerční web, slabší zdroj)",
+  "https://www.novinky.cz/clanek/vase-zpravy-za-obnovu-totalne-zniceneho-vildstejna-povysili-majitele-do-rytirskeho-stavu-40328183",
+  "https://karlovarska.drbna.cz/zpravy/4258-hrad-vildstejn-se-pred-20-lety-poprve-otevrel-verejnosti.html"
  ]
 }

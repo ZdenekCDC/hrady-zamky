@@ -17,7 +17,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "zalozeni",
-   "note": "podle farní kroniky zakladatelé tvrze; rod vymřel brzy po polovině 15. století (Valkoun z Třebešic pomáhal Jiřímu z Poděbrad)"
+   "note": "podle farní kroniky zakladatelé tvrze; rod vymřel brzy po polovině 15. století (Valkoun z Třebešic pomáhal Jiřímu z Poděbrad); roky zakladatelů ani rodu zdroje (farní kronika, cs.wiki, web zámku) neuvádějí, zůstávají null"
   },
   {
    "owner": "z-zahori",
@@ -28,7 +28,7 @@
    "from_approx": false,
    "to_approx": true,
    "how": "dedictvi",
-   "note": "roku 1544 vložil do obnovených zemských desk dědictví (tvrz, dvůr, ves); rok konce odvozen z koupě panství roku 1599"
+   "note": "roku 1544 vložil do obnovených zemských desk dědictví (tvrz, dvůr, ves); rok konce odvozen z koupě panství roku 1599; rok konce 1599 je pouze terminus ante quem (záznam o koupi Věžníkem, cs.wiki a zamektrebesice.cz); přesný rok koupě zdroje neuvádějí"
   },
   {
    "owner": "veznikove-z-veznik",
@@ -47,9 +47,9 @@
    "from": 1651,
    "to": 1704,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "koupe",
-   "note": "rok konce odvozen z nabytí zámku roku 1704"
+   "note": "koupil 1. 7. 1651 (cs.wiki Třebešice (okres Benešov)); Jan Tomáš Sohier převzal 1668 (zemřel 1683), pak dědičně Anna Polyxena, její bratr Leopold Jakub Marek a nakonec Marie Magdalena Sohierová (1657-1726), provdaná Bechyňová z Lažan; v roce 1704 statek prodal František Bechyně z Lažan Juditě Alžbětě z Götzu (rok 1704 doložen, nejde již o odvození)"
   },
   {
    "owner": "gotzenove",
@@ -59,8 +59,8 @@
    "to": 1752,
    "from_approx": false,
    "to_approx": false,
-   "how": "jine",
-   "note": "způsob nabytí zdroj neuvádí; roku 1752 zámek prodala Marie Barbora z Roggendorfu, rozená z Götzu"
+   "how": "koupe",
+   "note": "1704 koupila od Františka Bechyně z Lažan (cs.wiki Třebešice (okres Benešov)); zámek po ní zdědila dcera Marie Barbora, provdaná za Františka Antonína hrabě z Roggendorfu (zemřel 1739, majetek zadlužený); 30. 6. 1752 prodala vdova Marie Barbora z Roggendorfu, rozená z Götzu"
   },
   {
    "owner": "cirkev",
@@ -70,7 +70,8 @@
    "to": 1924,
    "from_approx": false,
    "to_approx": false,
-   "how": "koupe"
+   "how": "koupe",
+   "note": "podle cs.wiki Třebešice (okres Benešov) klášter půjčil panstvu 7 000 zl. a po nesplacení se stal majitelem (prodej 30. 6. 1752); vlastnil do pozemkové reformy 1924"
   },
   {
    "owner": "soukromnik",
@@ -81,18 +82,18 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "koupil zámek s lihovarem při pozemkové reformě; rodina byla v 50. letech násilně vystěhována a zámek užívalo místní JZD (vlastnictví v té době zdroj neuvádí)"
+   "note": "koupil zámek s lihovarem 1924 při pozemkové reformě (cs.wiki, web zámku); rodina byla v 50. letech násilně vystěhována (přesný rok zdroje neuvádějí) a zámek užívalo místní JZD; vlastnické vztahy 1950-2008 zdroje neuvádějí (NPÚ: areál před koupí opuštěný a zanedbaný)"
   },
   {
    "owner": "soukromnik",
    "owner_wiki": null,
    "person": "Eliška a Igor Valdovi",
-   "from": 2009,
+   "from": 2008,
    "to": null,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "zámek v letech 2009-2020 zrekonstruovali; 2018 hlavní cena Patrimonium pro futuro"
+   "note": "NPÚ (npu.cz, Záchrana zámeckého areálu v Třebešicích) uvádí koupi v roce 2008 a první opravy 2009; cs.wiki uvádí 2009 jako rok koupě - do from dán rok z NPÚ; rekonstrukce 2009-2020; 2018 hlavní cena Patrimonium pro futuro"
   }
  ],
  "events": [
@@ -122,10 +123,13 @@
   },
   {
    "year": 2009,
-   "text": "koupě zámku manžely Valdovými, rekonstrukce 2009-2020"
+   "text": "rekonstrukce zámku manžely Valdovými (koupě 2008 podle NPÚ, 2009 podle cs.wiki), dokončeno 2020"
   }
  ],
  "sources": [
-  "https://cs.wikipedia.org/wiki/Třebešice_(zámek,_okres_Benešov)"
+  "https://cs.wikipedia.org/wiki/Třebešice_(zámek,_okres_Benešov)",
+  "https://www.zamektrebesice.cz/historie-zamku-trebesice/ (web zámku, text shodný s cs.wiki)",
+  "https://cs.wikipedia.org/wiki/Třebešice_(okres_Benešov)",
+  "https://www.npu.cz/cs/opravujete-pamatku/inspirujte-se/34227-zachrana-zameckeho-arealu-v-trebesicich"
  ]
 }
