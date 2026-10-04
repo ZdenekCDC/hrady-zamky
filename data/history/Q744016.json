@@ -26,9 +26,9 @@
    "from": 1327,
    "to": 1590,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "dedictvi",
-   "note": "1467-1468 osmnáctiměsíční obležení vojskem Jiřího z Poděbrad, hrad se ubránil (kapitulace posádky prosinec 1468, potomci Zdeňka ze Šternberka hrad získali zpět 1479); cs.wiki: Šternberkové do 1590, web zámku: 275 let od 1327 (tj. do cca 1602)"
+   "note": "1467-1468 osmnáctiměsíční obležení vojskem Jiřího z Poděbrad, hrad se ubránil (kapitulace posádky prosinec 1468, potomci Zdeňka ze Šternberka hrad získali zpět 1479); konec 1590: cs.wiki a web zamekkonopiste.info Šternberkové do 1590, apsida.cz: 1590 vdova Eliška předala majetek manželovi a synům (Kunovicové); spolek přátel Konopiště: 275 let od 1327 až do 1602 (nejspíš zahrnuje Kunovice a komisionální prodej 1602) - rozpor vysvětlen, do `to` dáno 1590"
   },
   {
    "owner": "z-kunovic",
@@ -39,7 +39,7 @@
    "from_approx": true,
    "to_approx": false,
    "how": "neznamo",
-   "note": "podle seznamu majitelů na cs.wiki; 1602 požádal zemský soud o komisionální prodej panství zatíženého dluhy přes 86 tisíc kop grošů"
+   "note": "podle seznamu majitelů na cs.wiki; 1602 požádal zemský soud o komisionální prodej panství zatíženého dluhy přes 86 tisíc kop grošů; 1590-1603 shodně cs.wiki, zamekkonopiste.info; apsida.cz: Šternberkové předali manželovi a synům, rod z Uherského Brodu"
   },
   {
    "owner": "hodejovsti-z-hodejova",
@@ -56,22 +56,23 @@
    "owner": "valdstejnove",
    "owner_wiki": "Valdštejnové",
    "person": "Albrecht z Valdštejna",
-   "from": 1623,
+   "from": 1622,
    "to": 1623,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "koupě pobělohorské konfiskace za 65 000 zlatých"
+   "note": "koupě pobělohorské konfiskace za 65 000 zlatých (někde 65 606 rýnských zl.), kupní smlouva 19. 12. 1622, nikdy nezaplaceno; 22. 2. 1623 postoupeno Pavlu Michnovi z Vacínova za 215 288 zl. (diplomová práce FF UK, dspace.cuni.cz)"
   },
   {
    "owner": "michnove-z-vacinova",
    "owner_wiki": "Michnové z Vacínova",
-   "person": null,
+   "person": "Pavel Michna z Vacínova",
    "from": 1623,
    "to": 1673,
    "from_approx": false,
    "to_approx": false,
-   "how": "koupe"
+   "how": "koupe",
+   "note": "od 22. 2. 1623 (dspace.cuni.cz); 1673 prodej v dražbě z moci úřední"
   },
   {
    "owner": "sinzendorfove",
@@ -113,7 +114,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "1830 univerzální dědic Jana Josefa z Vrtby (křimická větev); první novogotická přestavba před rokem 1872; zadlužený František Eugen zámek 1887 prodal"
+   "note": "1830 univerzální dědic Jana Josefa z Vrtby (křimická větev); první novogotická přestavba před rokem 1872; zadlužený František Eugen zámek 1887 prodal; 1830-1887 shodně cs.wiki, web zámku, zamekkonopiste.info"
   },
   {
    "owner": "habsburkove",
@@ -146,7 +147,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "konfiskace habsburského majetku zákonem z r. 1921; restituční nárok rodiny Hohenbergů/Nostitz-Rieneckových po roce 1989 nebyl uznán"
+   "note": "konfiskace habsburského majetku zákonem č. 354/1921 Sb.; web zámku: 1921 převzal stát od arcivévodových dědiců; restituční nárok Hohenbergů/Nostitz-Rieneckových (žaloba 2000/2006) nebyl uznán; dnes ve vlastnictví státu, správa NPÚ (cs.wiki, ověřeno)"
   }
  ],
  "events": [
@@ -183,6 +184,10 @@
   "https://cs.wikipedia.org/wiki/Konopiště",
   "https://zamek-konopiste.cz/cs/o-zamku/historie",
   "https://www.pamatky.cz/pamatky/zamek-konopiste",
-  "https://exa.ai/library/publication/5vd9gkzq3f4"
+  "https://exa.ai/library/publication/5vd9gkzq3f4",
+  "https://spolekpratelkonopiste.cz/?page_id=3373",
+  "https://www.apsida.cz/hrady/strednicechy/okrbene/konopiste/konopiste.htm",
+  "https://zamekkonopiste.info/historie/",
+  "https://dspace.cuni.cz/bitstream/handle/20.500.11956/62735/BPTX_2013_2_11260_0_348983_0_149331.pdf"
  ]
 }

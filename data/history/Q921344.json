@@ -55,79 +55,79 @@
   {
    "owner": "koruna",
    "owner_wiki": null,
-   "person": "Přemysl II. Těšínský",
-   "from": 1440,
-   "to": 1468,
-   "from_approx": true,
+   "person": "Přemek Těšínský, od 1481 Kazimír Těšínský",
+   "from": 1459,
+   "to": 1483,
+   "from_approx": false,
    "to_approx": false,
    "how": "lenni",
-   "note": "těšínský kníže, spojenec Jiřího z Poděbrad za česko-uherské války"
+   "note": "těšínský kníže, spojenec Jiřího z Poděbrad; Encyklopedie dějin města Brna: Přemek 1459-1481, jeho syn Kazimír 1481-1483 (dřívější roky 1440-1468 z cs.wiki zpřesněny)"
   },
   {
    "owner": "koruna",
    "owner_wiki": null,
    "person": "Matyáš Korvín",
    "from": 1468,
-   "to": 1490,
+   "to": 1483,
    "from_approx": false,
    "to_approx": true,
    "how": "konfiskace",
-   "note": "hrad dobyt uherským vojskem"
+   "note": "hrad dobyt uherským vojskem 1468 (cs.wiki); Encyklopedie dějin města Brna Korvína mezi držiteli neuvádí a hrad drželi Těšínští do 1483 - rozpor, držba Korvína nejistá"
   },
   {
    "owner": "z-ludanic",
    "owner_wiki": "Páni z Ludanic",
-   "person": "Václav z Ludanic",
-   "from": 1490,
-   "to": null,
-   "from_approx": true,
+   "person": "Václav z Ludanic, od 1515 Zikmund z Ludanic, od 1531 Jan Rokytský z Ludanic",
+   "from": 1483,
+   "to": 1537,
+   "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "cs.wiki: konec 15. stol. Václav z Ludanic; NPÚ (soupispamatek.cz): od 1510 Zikmund z Ludanic, dále se střídali Jan z Pernštejna, páni z Lipé, páni z Boskovic, Znata z Lomnice"
+   "how": "lenni",
+   "note": "Encyklopedie dějin města Brna: Václav 1483-1515 (zástavní právo), Zikmund 1515-1531, 1531 krátce zástava Lomničtí a Jan Kuna z Kunštátu, pak Jan Rokytský z Ludanic 1531-1537 hrad vyplatil; cs.wiki: konec 15. stol. Václav; NPÚ: od 1510 Zikmund"
   },
   {
    "owner": "pernstejnove",
    "owner_wiki": "Pernštejnové",
    "person": "Jan z Pernštejna",
-   "from": null,
-   "to": null,
+   "from": 1537,
+   "to": 1541,
    "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "pořadí podle NPÚ; roky zdroj neuvádí"
+   "how": "koupe",
+   "note": "Encyklopedie dějin města Brna (1537-1541); NPÚ jen pořadí"
   },
   {
    "owner": "pani-z-lipe",
    "owner_wiki": "Páni z Lipé",
-   "person": null,
-   "from": null,
-   "to": null,
+   "person": "Pertold z Lipé a bratři Vilém a Čeněk",
+   "from": 1541,
+   "to": 1559,
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "pořadí podle NPÚ; roky zdroj neuvádí"
+   "note": "Encyklopedie dějin města Brna (1541-1559)"
   },
   {
    "owner": "boskovicove",
    "owner_wiki": "Boskovicové",
-   "person": "páni z Boskovic",
-   "from": null,
-   "to": null,
+   "person": "Albrecht Černohorský z Boskovic",
+   "from": 1559,
+   "to": 1572,
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "pořadí podle NPÚ; roky zdroj neuvádí"
+   "note": "Encyklopedie dějin města Brna (1559-1572); manžel Boženy z Lipé"
   },
   {
    "owner": "pani-z-lomnice",
    "owner_wiki": "Páni z Lomnice",
    "person": "Znata z Lomnice a na Říčanech",
-   "from": null,
-   "to": null,
+   "from": 1572,
+   "to": 1588,
    "from_approx": false,
-   "to_approx": false,
+   "to_approx": true,
    "how": "neznamo",
-   "note": "pořadí podle NPÚ; roky zdroj neuvádí"
+   "note": "Encyklopedie dějin města Brna: 1572-1588 (konec s otazníkem)"
   },
   {
    "owner": "meziricti-z-lomnice",
@@ -138,7 +138,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "podle NPÚ (soupispamatek.cz)"
+   "note": "podle NPÚ (soupispamatek.cz) od 1591; Encyklopedie dějin města Brna: Tas 1588?-1594, poté jeho dcera Kateřina Meziříčská z Lomnice 1594-1609, od níž Zikmund z Teuffenbachu 1609 koupil"
   },
   {
    "owner": "teuffenbachove",
@@ -149,7 +149,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "snatek",
-   "note": "získal sňatkem (en.wiki, 1609); NPÚ: od 1609 Teuffenbachové; po Bílé hoře (1620) si panství ponechali; 1645 hrad odolal švédskému obléhání"
+   "note": "získal sňatkem (en.wiki, 1609); NPÚ: od 1609 Teuffenbachové; po Bílé hoře (1620) si panství ponechali; 1645 hrad odolal švédskému obléhání; Encyklopedie dějin města Brna: Zikmund 1609-1633, Rudolf 1633-1650, vdova Marie Eva Alžběta 1650-1668 (hrad získal koupí od Kateřiny z Lomnice, ne jen sňatkem)"
   },
   {
    "owner": "collaltove",
@@ -270,7 +270,7 @@
    "from_approx": true,
    "to_approx": false,
    "how": "koupe",
-   "note": "cs.wiki 1925, NPÚ od 1924; 1924 lesnické učiliště, 1942-1945 Wehrmacht a SS, od 1972 VUT Brno, od 1999 NPÚ"
+   "note": "cs.wiki 1925, NPÚ od 1924; 1924 lesnické učiliště, 1942-1945 Wehrmacht a SS, od 1972 VUT Brno, od 1999 NPÚ; Encyklopedie dějin města Brna: stát 1925 dosud, správa NPÚ (pracoviště Brno), tj. správce dnes ověřen"
   }
  ],
  "events": [
@@ -314,6 +314,8 @@
  "sources": [
   "https://cs.wikipedia.org/wiki/Veveří_(hrad)",
   "https://www.soupispamatek.cz/arl-kcz/en/detail-kcz_un_auth-0001498-Castle-Veveri/",
-  "https://en.wikipedia.org/wiki/Veve%C5%99%C3%AD_Castle"
+  "https://en.wikipedia.org/wiki/Veve%C5%99%C3%AD_Castle",
+  "https://encyklopedie.brna.cz/home-mmb/?acc=profil-domu&load=962",
+  "https://www.hrad-veveri.cz/cs"
  ]
 }

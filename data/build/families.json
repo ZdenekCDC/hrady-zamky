@@ -3738,12 +3738,12 @@
    },
    {
     "place": "Q921344",
-    "from": 1551,
-    "to": 1571,
-    "person": "páni z Boskovic",
+    "from": 1559,
+    "to": 1572,
+    "person": "Albrecht Černohorský z Boskovic",
     "how": "neznamo",
-    "from_approx": true,
-    "to_approx": true
+    "from_approx": false,
+    "to_approx": false
    }
   ],
   "transfers": [
@@ -4029,14 +4029,14 @@
    },
    {
     "place": "Q921344",
-    "year": 1551,
+    "year": 1559,
     "from": "pani-z-lipe",
     "to": "boskovicove",
     "how": "neznamo"
    },
    {
     "place": "Q921344",
-    "year": 1571,
+    "year": 1572,
     "from": "boskovicove",
     "to": "pani-z-lomnice",
     "how": "neznamo"
@@ -13371,7 +13371,7 @@
    },
    {
     "place": "Q744016",
-    "year": 1623,
+    "year": 1622,
     "from": "hodejovsti-z-hodejova",
     "to": "valdstejnove",
     "how": "koupe"
@@ -26100,7 +26100,7 @@
     "place": "Q744016",
     "from": 1623,
     "to": 1673,
-    "person": null,
+    "person": "Pavel Michna z Vacínova",
     "how": "koupe",
     "from_approx": false,
     "to_approx": false
@@ -32523,12 +32523,12 @@
    },
    {
     "place": "Q921344",
-    "from": 1530,
-    "to": 1551,
-    "person": null,
+    "from": 1541,
+    "to": 1559,
+    "person": "Pertold z Lipé a bratři Vilém a Čeněk",
     "how": "neznamo",
-    "from_approx": true,
-    "to_approx": true
+    "from_approx": false,
+    "to_approx": false
    }
   ],
   "transfers": [
@@ -32786,14 +32786,14 @@
    },
    {
     "place": "Q921344",
-    "year": 1530,
+    "year": 1541,
     "from": "pernstejnove",
     "to": "pani-z-lipe",
     "how": "neznamo"
    },
    {
     "place": "Q921344",
-    "year": 1551,
+    "year": 1559,
     "from": "pani-z-lipe",
     "to": "boskovicove",
     "how": "neznamo"
@@ -32895,11 +32895,11 @@
    },
    {
     "place": "Q921344",
-    "from": 1571,
-    "to": 1591,
+    "from": 1572,
+    "to": 1588,
     "person": "Znata z Lomnice a na Říčanech",
     "how": "neznamo",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": true
    }
   ],
@@ -33011,7 +33011,7 @@
    },
    {
     "place": "Q921344",
-    "year": 1571,
+    "year": 1572,
     "from": "boskovicove",
     "to": "pani-z-lomnice",
     "how": "neznamo"
@@ -33084,12 +33084,12 @@
    },
    {
     "place": "Q921344",
-    "from": 1490,
-    "to": 1510,
-    "person": "Václav z Ludanic",
-    "how": "neznamo",
-    "from_approx": true,
-    "to_approx": true
+    "from": 1483,
+    "to": 1537,
+    "person": "Václav z Ludanic, od 1515 Zikmund z Ludanic, od 1531 Jan Rokytský z Ludanic",
+    "how": "lenni",
+    "from_approx": false,
+    "to_approx": false
    }
   ],
   "transfers": [
@@ -33130,17 +33130,17 @@
    },
    {
     "place": "Q921344",
-    "year": 1490,
+    "year": 1483,
     "from": "koruna",
     "to": "pani-z-ludanic",
-    "how": "neznamo"
+    "how": "lenni"
    },
    {
     "place": "Q921344",
-    "year": 1510,
+    "year": 1537,
     "from": "pani-z-ludanic",
     "to": "pernstejnove",
-    "how": "neznamo"
+    "how": "koupe"
    }
   ],
   "place_count": 4,
@@ -33345,11 +33345,11 @@
    {
     "place": "Q2242305",
     "from": 1584,
-    "to": 1678,
+    "to": 1675,
     "person": "Hron Březnický z Náchoda",
     "how": "koupe",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q2242740",
@@ -37427,12 +37427,12 @@
    },
    {
     "place": "Q921344",
-    "from": 1510,
-    "to": 1530,
+    "from": 1537,
+    "to": 1541,
     "person": "Jan z Pernštejna",
-    "how": "neznamo",
-    "from_approx": true,
-    "to_approx": true
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
    },
    {
     "place": "Q960890",
@@ -37797,14 +37797,14 @@
    },
    {
     "place": "Q921344",
-    "year": 1510,
+    "year": 1537,
     "from": "pani-z-ludanic",
     "to": "pernstejnove",
-    "how": "neznamo"
+    "how": "koupe"
    },
    {
     "place": "Q921344",
-    "year": 1530,
+    "year": 1541,
     "from": "pernstejnove",
     "to": "pani-z-lipe",
     "how": "neznamo"
@@ -43492,11 +43492,11 @@
    },
    {
     "place": "Q1012808",
-    "from": 1655,
+    "from": 1658,
     "to": 1685,
     "person": null,
     "how": "lenni",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -43711,7 +43711,7 @@
    },
    {
     "place": "Q1012808",
-    "year": 1655,
+    "year": 1658,
     "from": "koruna",
     "to": "schwarzenbergove",
     "how": "lenni"
@@ -47939,7 +47939,7 @@
     "person": "Petr Konopišťský ze Šternberka, od 1440 Zdeněk Konopišťský ze Šternberka",
     "how": "dedictvi",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q745696",
@@ -53327,7 +53327,7 @@
    },
    {
     "place": "Q744016",
-    "from": 1623,
+    "from": 1622,
     "to": 1623,
     "person": "Albrecht z Valdštejna",
     "how": "koupe",
@@ -54163,7 +54163,7 @@
    },
    {
     "place": "Q744016",
-    "year": 1623,
+    "year": 1622,
     "from": "hodejovsti-z-hodejova",
     "to": "valdstejnove",
     "how": "koupe"
@@ -81119,11 +81119,11 @@
    {
     "place": "Q2164885",
     "from": 1945,
-    "to": 1990,
+    "to": null,
     "person": null,
     "how": "konfiskace",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q2164919",
@@ -84542,13 +84542,6 @@
     "how": "konfiskace"
    },
    {
-    "place": "Q2164885",
-    "year": 1990,
-    "from": "stat",
-    "to": "mesto",
-    "how": "restituce"
-   },
-   {
     "place": "Q2164919",
     "year": 1947,
     "from": "schwarzenbergove",
@@ -86419,7 +86412,7 @@
    {
     "place": "Q1012808",
     "from": 1455,
-    "to": 1655,
+    "to": 1658,
     "person": "Vladislav Jagellonský",
     "how": "jine",
     "from_approx": false,
@@ -88551,17 +88544,17 @@
    },
    {
     "place": "Q921344",
-    "from": 1440,
-    "to": 1468,
-    "person": "Přemysl II. Těšínský",
+    "from": 1459,
+    "to": 1483,
+    "person": "Přemek Těšínský, od 1481 Kazimír Těšínský",
     "how": "lenni",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false
    },
    {
     "place": "Q921344",
     "from": 1468,
-    "to": 1490,
+    "to": 1483,
     "person": "Matyáš Korvín",
     "how": "konfiskace",
     "from_approx": false,
@@ -88829,7 +88822,7 @@
    },
    {
     "place": "Q1012808",
-    "year": 1655,
+    "year": 1658,
     "from": "koruna",
     "to": "schwarzenbergove",
     "how": "lenni"
@@ -91573,10 +91566,10 @@
    },
    {
     "place": "Q921344",
-    "year": 1490,
+    "year": 1483,
     "from": "koruna",
     "to": "pani-z-ludanic",
-    "how": "neznamo"
+    "how": "lenni"
    },
    {
     "place": "Q9350939",
@@ -92591,15 +92584,6 @@
     "person": "Domažlice",
     "how": "vymena",
     "from_approx": false,
-    "to_approx": false
-   },
-   {
-    "place": "Q2164885",
-    "from": 1990,
-    "to": null,
-    "person": null,
-    "how": "restituce",
-    "from_approx": true,
     "to_approx": false
    },
    {
@@ -94218,13 +94202,6 @@
     "how": "vymena"
    },
    {
-    "place": "Q2164885",
-    "year": 1990,
-    "from": "stat",
-    "to": "mesto",
-    "how": "restituce"
-   },
-   {
     "place": "Q21758915",
     "year": 1989,
     "from": "stat",
@@ -94890,7 +94867,7 @@
     "how": "neznamo"
    }
   ],
-  "place_count": 158,
+  "place_count": 157,
   "color_slot": null
  },
  "soukromnik": {

@@ -95,7 +95,7 @@
    "owner": "koruna",
    "person": "Vladislav Jagellonský",
    "from": 1455,
-   "to": 1655,
+   "to": 1658,
    "from_approx": false,
    "to_approx": true,
    "how": "jine",
@@ -105,12 +105,12 @@
    "owner": "schwarzenberkove",
    "owner_wiki": "Schwarzenbergové",
    "person": null,
-   "from": 1655,
+   "from": 1658,
    "to": 1685,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "lenni",
-   "note": "zastaveno 1655 (podle jiných pramenů 1658); jen cs.wiki, druhý zdroj dobu zástavy neuvádí"
+   "note": "zástava Schwarzenbergům: 1658 (hradkrivoklat.eu, Deník.cz, sk.wiki; cs.wiki uvádí 1655 (1658)) - do from dán 1658; konec zástavy: prodej Valdštejnům 1685 (cs.wiki, thesis P. Kučera), Deník.cz a hradkrivoklat.eu uvádějí 1686 (vyplacení Schwarzenbergů 400 000 zl.)"
   },
   {
    "owner": "valdstejnove",
@@ -132,7 +132,7 @@
    "from_approx": true,
    "to_approx": false,
    "how": "snatek",
-   "note": "web hradu: 1733 sňatek Josefa Viléma z Fürstenbergu s dědičkou Marií Annou z Valdštejna (de.wikipedia dědictví 1731/33, cs.wiki rozmezí 1723/1733-1734/1756); 1919-1929 vnucená správa státu v rámci pozemkové reformy"
+   "note": "web hradu: 1733 sňatek Josefa Viléma z Fürstenbergu s dědičkou Marií Annou z Valdštejna (de.wikipedia dědictví 1731/33, cs.wiki rozmezí 1723/1733-1734/1756); 1919-1929 vnucená správa státu v rámci pozemkové reformy; hrad.krivoklat.cz: Fürstenbergové 1733-1929, zbytek křivoklátského majetku konfiskován 1945 (hrad už byl státní od 1929)"
   },
   {
    "owner": "stat",
@@ -142,7 +142,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "smlouva se Státním pozemkovým úřadem podepsána 3. 5. 1929; prodáno za 118,5 mil. Kč; dnes ve správě Národního památkového ústavu (od 2003)"
+   "note": "smlouva se Státním pozemkovým úřadem podepsána 3. 5. 1929; prodáno za 118,5 mil. Kč (cs.wiki; hrad-krivoklat.cz: necelých 120 mil. Kč); od 1. 1. 2003 spravuje Národní památkový ústav; hrad je ve vlastnictví České republiky; soupispamatek.cz uvádí 'od r. 1921 stát' (pravděpodobně vnucená správa, nepřevzato)"
   }
  ],
  "events": [
@@ -188,6 +188,10 @@
   "https://www.hrad-krivoklat.cz/cs/o-hradu/historie",
   "https://hrad-krivoklat.cz/cs/o-hradu/vyznamne-osobnosti/furstenbergove",
   "https://de.wikipedia.org/wiki/Burg_K%C5%99ivokl%C3%A1t",
-  "https://www.deutsche-burgen.org/modelle/krivoklat/krivoklat_hist.htm"
+  "https://www.deutsche-burgen.org/modelle/krivoklat/krivoklat_hist.htm",
+  "https://www.hradkrivoklat.eu/historie/",
+  "https://www.denik.cz/historie/hrad-krivoklat-pozar/",
+  "https://sk.wikipedia.org/wiki/Hrad_K%C5%99ivokl%C3%A1t",
+  "https://dspace.cuni.cz/bitstream/handle/20.500.11956/51501/DPTX_2011_2_11210_0_342537_0_123103.pdf"
  ]
 }

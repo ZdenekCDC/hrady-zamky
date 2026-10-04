@@ -4756,7 +4756,7 @@
     "owner": "koruna",
     "person": "Vladislav Jagellonský",
     "from": 1455,
-    "to": 1655,
+    "to": 1658,
     "from_approx": false,
     "to_approx": true,
     "how": "jine",
@@ -4766,12 +4766,12 @@
     "owner": "schwarzenbergove",
     "owner_wiki": "Schwarzenbergové",
     "person": null,
-    "from": 1655,
+    "from": 1658,
     "to": 1685,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false,
     "how": "lenni",
-    "note": "zastaveno 1655 (podle jiných pramenů 1658); jen cs.wiki, druhý zdroj dobu zástavy neuvádí"
+    "note": "zástava Schwarzenbergům: 1658 (hradkrivoklat.eu, Deník.cz, sk.wiki; cs.wiki uvádí 1655 (1658)) - do from dán 1658; konec zástavy: prodej Valdštejnům 1685 (cs.wiki, thesis P. Kučera), Deník.cz a hradkrivoklat.eu uvádějí 1686 (vyplacení Schwarzenbergů 400 000 zl.)"
    },
    {
     "owner": "valdstejnove",
@@ -4793,7 +4793,7 @@
     "from_approx": true,
     "to_approx": false,
     "how": "snatek",
-    "note": "web hradu: 1733 sňatek Josefa Viléma z Fürstenbergu s dědičkou Marií Annou z Valdštejna (de.wikipedia dědictví 1731/33, cs.wiki rozmezí 1723/1733-1734/1756); 1919-1929 vnucená správa státu v rámci pozemkové reformy"
+    "note": "web hradu: 1733 sňatek Josefa Viléma z Fürstenbergu s dědičkou Marií Annou z Valdštejna (de.wikipedia dědictví 1731/33, cs.wiki rozmezí 1723/1733-1734/1756); 1919-1929 vnucená správa státu v rámci pozemkové reformy; hrad.krivoklat.cz: Fürstenbergové 1733-1929, zbytek křivoklátského majetku konfiskován 1945 (hrad už byl státní od 1929)"
    },
    {
     "owner": "stat",
@@ -4803,7 +4803,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "smlouva se Státním pozemkovým úřadem podepsána 3. 5. 1929; prodáno za 118,5 mil. Kč; dnes ve správě Národního památkového ústavu (od 2003)"
+    "note": "smlouva se Státním pozemkovým úřadem podepsána 3. 5. 1929; prodáno za 118,5 mil. Kč (cs.wiki; hrad-krivoklat.cz: necelých 120 mil. Kč); od 1. 1. 2003 spravuje Národní památkový ústav; hrad je ve vlastnictví České republiky; soupispamatek.cz uvádí 'od r. 1921 stát' (pravděpodobně vnucená správa, nepřevzato)"
    }
   ],
   "events": [
@@ -4849,7 +4849,11 @@
    "https://www.hrad-krivoklat.cz/cs/o-hradu/historie",
    "https://hrad-krivoklat.cz/cs/o-hradu/vyznamne-osobnosti/furstenbergove",
    "https://de.wikipedia.org/wiki/Burg_K%C5%99ivokl%C3%A1t",
-   "https://www.deutsche-burgen.org/modelle/krivoklat/krivoklat_hist.htm"
+   "https://www.deutsche-burgen.org/modelle/krivoklat/krivoklat_hist.htm",
+   "https://www.hradkrivoklat.eu/historie/",
+   "https://www.denik.cz/historie/hrad-krivoklat-pozar/",
+   "https://sk.wikipedia.org/wiki/Hrad_K%C5%99ivokl%C3%A1t",
+   "https://dspace.cuni.cz/bitstream/handle/20.500.11956/51501/DPTX_2011_2_11210_0_342537_0_123103.pdf"
   ]
  },
  "Q1012891": {
@@ -41474,7 +41478,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "1649-1650 Maxmilián, dále synové a vnuci; litomyšlská linie rodu vymřela po meči 1753; cs.wiki na jednom místě uvádí získání 1646"
+    "note": "koupě od Václava Eusebia Popela z Lobkovic 1649 (cs.wiki Litomyšl (zámek), cs.wiki Dějiny Litomyšle, město Litomyšl - Příběh zámku 2018); web zámku v přehledu milníků uvádí 1646 (rok smrti Frebonie Eusebie) - rozpor, do from dán 1649; Maxmilián 1649-1650, dále synové a vnuci; litomyšlská linie vymřela po meči 1753"
    },
    {
     "owner": "valdstejnove",
@@ -41501,20 +41505,11 @@
    {
     "owner": "stat",
     "from": 1945,
-    "to": 1990,
-    "from_approx": false,
-    "to_approx": true,
-    "how": "konfiskace",
-    "note": "zámek spravuje Národní památkový ústav; web zámku: od 1945 Československo, od 1993 Česká republika"
-   },
-   {
-    "owner": "mesto",
-    "from": 1990,
     "to": null,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false,
-    "how": "restituce",
-    "note": "areál rozdělen restitucí na část státní a městskou (pivovar, jízdárna, konírna, I. nádvoří)"
+    "how": "konfiskace",
+    "note": "zámek spravuje Národní památkový ústav; web zámku: od 1945 Československo, od 1993 Česká republika; podle cs.wiki je areál po restitucích rozdělen: státní část (zámek, kočárovna, úřednický dům čp. 94, salet, francouzská zahrada, anglický park) a městská část (pivovar, jízdárna, konírna, úřednický dům čp. 134, I. nádvoří) - město Litomyšl převzalo pivovar 1994 (StavbaWeb); rok restituce ostatních městských částí neověřen"
    }
   ],
   "events": [
@@ -41559,7 +41554,10 @@
    "https://cs.wikipedia.org/wiki/Litomyšl_(zámek)",
    "https://update.zamek-litomysl.cz/cs/o-zamku/historie",
    "https://www.litomysl.cz/soubor/1508420965572_pribeh-zamku-litomysl_2018.pdf",
-   "https://www.litomysl.cz/historicke_udalosti"
+   "https://www.litomysl.cz/historicke_udalosti",
+   "https://cs.wikipedia.org/wiki/Dějiny_Litomyšle",
+   "http://www.zamek-litomysl.cz/cs/o-zamku",
+   "https://www.stavbaweb.cz/clanek/zamecky-pivovar-v-litomysli-3446/"
   ]
  },
  "Q2164919": {
@@ -45726,11 +45724,11 @@
     "owner_wiki": "Páni z Náchoda",
     "person": "Hron Březnický z Náchoda",
     "from": 1584,
-    "to": 1678,
+    "to": 1675,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "koupe",
-    "note": "web zámku: 1584 koupil Hron Březnický z Náchoda (luterán), cs.wiki uvádí Jindřicha; Jiří Březnický (1608-1634), František (Ferdinand) Leopold, který 1652 vymohl povýšení Lysic na městečko, zemřel 1660/1677 (zdroje se liší) a odkázal Lysice manželce Alžbětě; cs.wiki konec 1675, web obce a regionem.cz 1678"
+    "note": "web zámku: 1584 koupil Hron Březnický z Náchoda (luterán), cs.wiki uvádí Jindřicha; Jiří Březnický (1608-1634), František (Ferdinand) Leopold, který 1652 vymohl povýšení Lysic na městečko; úmrtí: web zámku (a Světadíly) uvádí 1660 s odkazem Lysic manželce Alžbětě, cs.wiki životní data 1625-1677 (rozpor nevyřešen, 1660 je doloženo webem zámku v kontextu odkazu); konec držení 1675 podle cs.wiki i webu zámku (web obce a regionem.cz 1678 - překryv s Montrochierem)"
    },
    {
     "owner": "soukromnik",
@@ -45804,7 +45802,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "konfiskace",
-    "note": "konfiskace na základě Benešových dekretů; od 1952 postupně zpřístupňován veřejnosti, dnes ve správě Národního památkového ústavu"
+    "note": "konfiskace na základě Benešových dekretů; od 1952 postupně zpřístupňován veřejnosti; vlastník stát, správu vykonává Národní památkový ústav, územní památková správa v Kroměříži (NPÚ ÚPS Kroměříž, návštěvní řád 2023)"
    }
   ],
   "events": [
@@ -45845,7 +45843,9 @@
    "https://cs.wikipedia.org/wiki/Lysice_(zámek)",
    "https://www.zamek-lysice.cz/cs/o-zamku/historie",
    "https://www.lysice.cz/mestys/historie/",
-   "https://www.regionem.cz/clanek/lysice-zamek-kde-zahradou-prochazi-kolonada-a-fikovna-ma-posuvnou-strechu/"
+   "https://www.regionem.cz/clanek/lysice-zamek-kde-zahradou-prochazi-kolonada-a-fikovna-ma-posuvnou-strechu/",
+   "https://www.npu.cz/cs/ups-kromeriz/cinnost/sprava-pamatek",
+   "http://zamek-lysice.cz/cs/informace-pro-navstevniky/navstevni-rad"
   ]
  },
  "Q2242554": {
@@ -67688,9 +67688,9 @@
     "from": 1327,
     "to": 1590,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "dedictvi",
-    "note": "1467-1468 osmnáctiměsíční obležení vojskem Jiřího z Poděbrad, hrad se ubránil (kapitulace posádky prosinec 1468, potomci Zdeňka ze Šternberka hrad získali zpět 1479); cs.wiki: Šternberkové do 1590, web zámku: 275 let od 1327 (tj. do cca 1602)"
+    "note": "1467-1468 osmnáctiměsíční obležení vojskem Jiřího z Poděbrad, hrad se ubránil (kapitulace posádky prosinec 1468, potomci Zdeňka ze Šternberka hrad získali zpět 1479); konec 1590: cs.wiki a web zamekkonopiste.info Šternberkové do 1590, apsida.cz: 1590 vdova Eliška předala majetek manželovi a synům (Kunovicové); spolek přátel Konopiště: 275 let od 1327 až do 1602 (nejspíš zahrnuje Kunovice a komisionální prodej 1602) - rozpor vysvětlen, do `to` dáno 1590"
    },
    {
     "owner": "z-kunovic",
@@ -67701,7 +67701,7 @@
     "from_approx": true,
     "to_approx": false,
     "how": "neznamo",
-    "note": "podle seznamu majitelů na cs.wiki; 1602 požádal zemský soud o komisionální prodej panství zatíženého dluhy přes 86 tisíc kop grošů"
+    "note": "podle seznamu majitelů na cs.wiki; 1602 požádal zemský soud o komisionální prodej panství zatíženého dluhy přes 86 tisíc kop grošů; 1590-1603 shodně cs.wiki, zamekkonopiste.info; apsida.cz: Šternberkové předali manželovi a synům, rod z Uherského Brodu"
    },
    {
     "owner": "hodejovsti-z-hodejova",
@@ -67718,22 +67718,23 @@
     "owner": "valdstejnove",
     "owner_wiki": "Valdštejnové",
     "person": "Albrecht z Valdštejna",
-    "from": 1623,
+    "from": 1622,
     "to": 1623,
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "koupě pobělohorské konfiskace za 65 000 zlatých"
+    "note": "koupě pobělohorské konfiskace za 65 000 zlatých (někde 65 606 rýnských zl.), kupní smlouva 19. 12. 1622, nikdy nezaplaceno; 22. 2. 1623 postoupeno Pavlu Michnovi z Vacínova za 215 288 zl. (diplomová práce FF UK, dspace.cuni.cz)"
    },
    {
     "owner": "michnove-z-vacinova",
     "owner_wiki": "Michnové z Vacínova",
-    "person": null,
+    "person": "Pavel Michna z Vacínova",
     "from": 1623,
     "to": 1673,
     "from_approx": false,
     "to_approx": false,
-    "how": "koupe"
+    "how": "koupe",
+    "note": "od 22. 2. 1623 (dspace.cuni.cz); 1673 prodej v dražbě z moci úřední"
    },
    {
     "owner": "sinzendorfove",
@@ -67775,7 +67776,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "1830 univerzální dědic Jana Josefa z Vrtby (křimická větev); první novogotická přestavba před rokem 1872; zadlužený František Eugen zámek 1887 prodal"
+    "note": "1830 univerzální dědic Jana Josefa z Vrtby (křimická větev); první novogotická přestavba před rokem 1872; zadlužený František Eugen zámek 1887 prodal; 1830-1887 shodně cs.wiki, web zámku, zamekkonopiste.info"
    },
    {
     "owner": "habsburkove",
@@ -67808,7 +67809,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "konfiskace",
-    "note": "konfiskace habsburského majetku zákonem z r. 1921; restituční nárok rodiny Hohenbergů/Nostitz-Rieneckových po roce 1989 nebyl uznán"
+    "note": "konfiskace habsburského majetku zákonem č. 354/1921 Sb.; web zámku: 1921 převzal stát od arcivévodových dědiců; restituční nárok Hohenbergů/Nostitz-Rieneckových (žaloba 2000/2006) nebyl uznán; dnes ve vlastnictví státu, správa NPÚ (cs.wiki, ověřeno)"
    }
   ],
   "events": [
@@ -67845,7 +67846,11 @@
    "https://cs.wikipedia.org/wiki/Konopiště",
    "https://zamek-konopiste.cz/cs/o-zamku/historie",
    "https://www.pamatky.cz/pamatky/zamek-konopiste",
-   "https://exa.ai/library/publication/5vd9gkzq3f4"
+   "https://exa.ai/library/publication/5vd9gkzq3f4",
+   "https://spolekpratelkonopiste.cz/?page_id=3373",
+   "https://www.apsida.cz/hrady/strednicechy/okrbene/konopiste/konopiste.htm",
+   "https://zamekkonopiste.info/historie/",
+   "https://dspace.cuni.cz/bitstream/handle/20.500.11956/62735/BPTX_2013_2_11260_0_348983_0_149331.pdf"
   ]
  },
  "Q745696": {
@@ -70792,79 +70797,79 @@
    {
     "owner": "koruna",
     "owner_wiki": null,
-    "person": "Přemysl II. Těšínský",
-    "from": 1440,
-    "to": 1468,
-    "from_approx": true,
+    "person": "Přemek Těšínský, od 1481 Kazimír Těšínský",
+    "from": 1459,
+    "to": 1483,
+    "from_approx": false,
     "to_approx": false,
     "how": "lenni",
-    "note": "těšínský kníže, spojenec Jiřího z Poděbrad za česko-uherské války"
+    "note": "těšínský kníže, spojenec Jiřího z Poděbrad; Encyklopedie dějin města Brna: Přemek 1459-1481, jeho syn Kazimír 1481-1483 (dřívější roky 1440-1468 z cs.wiki zpřesněny)"
    },
    {
     "owner": "koruna",
     "owner_wiki": null,
     "person": "Matyáš Korvín",
     "from": 1468,
-    "to": 1490,
+    "to": 1483,
     "from_approx": false,
     "to_approx": true,
     "how": "konfiskace",
-    "note": "hrad dobyt uherským vojskem"
+    "note": "hrad dobyt uherským vojskem 1468 (cs.wiki); Encyklopedie dějin města Brna Korvína mezi držiteli neuvádí a hrad drželi Těšínští do 1483 - rozpor, držba Korvína nejistá"
    },
    {
     "owner": "pani-z-ludanic",
     "owner_wiki": "Páni z Ludanic",
-    "person": "Václav z Ludanic",
-    "from": 1490,
-    "to": 1510,
-    "from_approx": true,
-    "to_approx": true,
-    "how": "neznamo",
-    "note": "cs.wiki: konec 15. stol. Václav z Ludanic; NPÚ (soupispamatek.cz): od 1510 Zikmund z Ludanic, dále se střídali Jan z Pernštejna, páni z Lipé, páni z Boskovic, Znata z Lomnice"
+    "person": "Václav z Ludanic, od 1515 Zikmund z Ludanic, od 1531 Jan Rokytský z Ludanic",
+    "from": 1483,
+    "to": 1537,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "lenni",
+    "note": "Encyklopedie dějin města Brna: Václav 1483-1515 (zástavní právo), Zikmund 1515-1531, 1531 krátce zástava Lomničtí a Jan Kuna z Kunštátu, pak Jan Rokytský z Ludanic 1531-1537 hrad vyplatil; cs.wiki: konec 15. stol. Václav; NPÚ: od 1510 Zikmund"
    },
    {
     "owner": "pernstejnove",
     "owner_wiki": "Pernštejnové",
     "person": "Jan z Pernštejna",
-    "from": 1510,
-    "to": 1530,
-    "from_approx": true,
-    "to_approx": true,
-    "how": "neznamo",
-    "note": "pořadí podle NPÚ; roky zdroj neuvádí"
+    "from": 1537,
+    "to": 1541,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "Encyklopedie dějin města Brna (1537-1541); NPÚ jen pořadí"
    },
    {
     "owner": "pani-z-lipe",
     "owner_wiki": "Páni z Lipé",
-    "person": null,
-    "from": 1530,
-    "to": 1551,
-    "from_approx": true,
-    "to_approx": true,
+    "person": "Pertold z Lipé a bratři Vilém a Čeněk",
+    "from": 1541,
+    "to": 1559,
+    "from_approx": false,
+    "to_approx": false,
     "how": "neznamo",
-    "note": "pořadí podle NPÚ; roky zdroj neuvádí"
+    "note": "Encyklopedie dějin města Brna (1541-1559)"
    },
    {
     "owner": "boskovicove",
     "owner_wiki": "Boskovicové",
-    "person": "páni z Boskovic",
-    "from": 1551,
-    "to": 1571,
-    "from_approx": true,
-    "to_approx": true,
+    "person": "Albrecht Černohorský z Boskovic",
+    "from": 1559,
+    "to": 1572,
+    "from_approx": false,
+    "to_approx": false,
     "how": "neznamo",
-    "note": "pořadí podle NPÚ; roky zdroj neuvádí"
+    "note": "Encyklopedie dějin města Brna (1559-1572); manžel Boženy z Lipé"
    },
    {
     "owner": "pani-z-lomnice",
     "owner_wiki": "Páni z Lomnice",
     "person": "Znata z Lomnice a na Říčanech",
-    "from": 1571,
-    "to": 1591,
-    "from_approx": true,
+    "from": 1572,
+    "to": 1588,
+    "from_approx": false,
     "to_approx": true,
     "how": "neznamo",
-    "note": "pořadí podle NPÚ; roky zdroj neuvádí"
+    "note": "Encyklopedie dějin města Brna: 1572-1588 (konec s otazníkem)"
    },
    {
     "owner": "meziricti-z-lomnice",
@@ -70875,7 +70880,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "neznamo",
-    "note": "podle NPÚ (soupispamatek.cz)"
+    "note": "podle NPÚ (soupispamatek.cz) od 1591; Encyklopedie dějin města Brna: Tas 1588?-1594, poté jeho dcera Kateřina Meziříčská z Lomnice 1594-1609, od níž Zikmund z Teuffenbachu 1609 koupil"
    },
    {
     "owner": "teuffenbachove",
@@ -70886,7 +70891,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "snatek",
-    "note": "získal sňatkem (en.wiki, 1609); NPÚ: od 1609 Teuffenbachové; po Bílé hoře (1620) si panství ponechali; 1645 hrad odolal švédskému obléhání"
+    "note": "získal sňatkem (en.wiki, 1609); NPÚ: od 1609 Teuffenbachové; po Bílé hoře (1620) si panství ponechali; 1645 hrad odolal švédskému obléhání; Encyklopedie dějin města Brna: Zikmund 1609-1633, Rudolf 1633-1650, vdova Marie Eva Alžběta 1650-1668 (hrad získal koupí od Kateřiny z Lomnice, ne jen sňatkem)"
    },
    {
     "owner": "collaltove",
@@ -71007,7 +71012,7 @@
     "from_approx": true,
     "to_approx": false,
     "how": "koupe",
-    "note": "cs.wiki 1925, NPÚ od 1924; 1924 lesnické učiliště, 1942-1945 Wehrmacht a SS, od 1972 VUT Brno, od 1999 NPÚ"
+    "note": "cs.wiki 1925, NPÚ od 1924; 1924 lesnické učiliště, 1942-1945 Wehrmacht a SS, od 1972 VUT Brno, od 1999 NPÚ; Encyklopedie dějin města Brna: stát 1925 dosud, správa NPÚ (pracoviště Brno), tj. správce dnes ověřen"
    }
   ],
   "events": [
@@ -71051,7 +71056,9 @@
   "sources": [
    "https://cs.wikipedia.org/wiki/Veveří_(hrad)",
    "https://www.soupispamatek.cz/arl-kcz/en/detail-kcz_un_auth-0001498-Castle-Veveri/",
-   "https://en.wikipedia.org/wiki/Veve%C5%99%C3%AD_Castle"
+   "https://en.wikipedia.org/wiki/Veve%C5%99%C3%AD_Castle",
+   "https://encyklopedie.brna.cz/home-mmb/?acc=profil-domu&load=962",
+   "https://www.hrad-veveri.cz/cs"
   ]
  },
  "Q9350939": {
