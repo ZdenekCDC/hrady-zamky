@@ -5144,11 +5144,11 @@
   "places": [
    {
     "place": "Q1013354",
-    "from": 1635,
+    "from": 1620,
     "to": 1945,
-    "person": null,
-    "how": "neznamo",
-    "from_approx": true,
+    "person": "Karel Bonaventura Buquoy, poté vdova Marie Magdalena z Biglia a potomci",
+    "how": "konfiskace",
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -5353,10 +5353,10 @@
   "transfers": [
    {
     "place": "Q1013354",
-    "year": 1635,
+    "year": 1620,
     "from": "pani-ze-svamberka",
     "to": "buquoyove",
-    "how": "neznamo"
+    "how": "konfiskace"
    },
    {
     "place": "Q1013354",
@@ -5973,15 +5973,15 @@
    {
     "place": "Q2242226",
     "from": 1682,
-    "to": 1704,
+    "to": 1700,
     "person": "Tomáš Zachariáš Černín",
     "how": "dedictvi",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q2242226",
-    "from": 1704,
+    "from": 1700,
     "to": 1726,
     "person": "Marie Josefa Černínová, provdaná hraběnka Künigl (za manžela Leopolda Josefa Künigla)",
     "how": "dedictvi",
@@ -20032,7 +20032,7 @@
    },
    {
     "place": "Q1013354",
-    "from": 1304,
+    "from": 1341,
     "to": 1359,
     "person": null,
     "how": "neznamo",
@@ -20197,7 +20197,7 @@
    },
    {
     "place": "Q1013354",
-    "year": 1304,
+    "year": 1341,
     "from": "vitkovci",
     "to": "landstejnove",
     "how": "neznamo"
@@ -20207,7 +20207,7 @@
     "year": 1359,
     "from": "landstejnove",
     "to": "rozmberkove",
-    "how": "neznamo"
+    "how": "koupe"
    },
    {
     "place": "Q10816658",
@@ -25816,7 +25816,7 @@
     "place": "Q12032119",
     "from": 1623,
     "to": null,
-    "person": null,
+    "person": "bratři Johann Reinhard, Karel, Emmerich, Wilhelm a Lothar z Metternichu",
     "how": "koupe",
     "from_approx": false,
     "to_approx": false
@@ -30110,7 +30110,7 @@
    {
     "place": "Q12032119",
     "from": 1491,
-    "to": 1522,
+    "to": 1506,
     "person": null,
     "how": "neznamo",
     "from_approx": true,
@@ -30266,10 +30266,10 @@
    },
    {
     "place": "Q12032119",
-    "year": 1522,
+    "year": 1506,
     "from": "pani-z-gutstejna",
     "to": "koruna",
-    "how": "neznamo"
+    "how": "lenni"
    },
    {
     "place": "Q12045172",
@@ -35634,11 +35634,11 @@
    {
     "place": "Q1013354",
     "from": 1611,
-    "to": 1635,
+    "to": 1620,
     "person": null,
     "how": "dedictvi",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q1013458",
@@ -35936,6 +35936,15 @@
     "how": "lenni",
     "from_approx": false,
     "to_approx": false
+   },
+   {
+    "place": "Q12032119",
+    "from": 1558,
+    "to": 1583,
+    "person": "Jindřich, Zdeněk a Jáchym ze Švamberka",
+    "how": "lenni",
+    "from_approx": false,
+    "to_approx": true
    },
    {
     "place": "Q12058218",
@@ -36296,10 +36305,10 @@
    },
    {
     "place": "Q1013354",
-    "year": 1635,
+    "year": 1620,
     "from": "pani-ze-svamberka",
     "to": "buquoyove",
-    "how": "neznamo"
+    "how": "konfiskace"
    },
    {
     "place": "Q1013458",
@@ -36404,6 +36413,20 @@
     "year": 1544,
     "from": "pani-ze-svamberka",
     "to": "krajirove-z-krajku",
+    "how": "koupe"
+   },
+   {
+    "place": "Q12032119",
+    "year": 1558,
+    "from": "koruna",
+    "to": "pani-ze-svamberka",
+    "how": "lenni"
+   },
+   {
+    "place": "Q12032119",
+    "year": 1583,
+    "from": "pani-ze-svamberka",
+    "to": "zedtwitzove",
     "how": "koupe"
    },
    {
@@ -36582,7 +36605,7 @@
     "how": "dedictvi"
    }
   ],
-  "place_count": 20,
+  "place_count": 21,
   "color_slot": null
  },
  "pani-ze-zastrizl": {
@@ -39041,11 +39064,11 @@
    },
    {
     "place": "Q12032119",
-    "from": 1552,
-    "to": 1583,
-    "person": null,
-    "how": "neznamo",
-    "from_approx": true,
+    "from": 1534,
+    "to": 1547,
+    "person": "Hanuš (Hynčík) Pluh z Rabštejna, po jeho smrti 1537 synovec Kašpar Pluh",
+    "how": "lenni",
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -39139,17 +39162,17 @@
    },
    {
     "place": "Q12032119",
-    "year": 1552,
+    "year": 1534,
     "from": "koruna",
     "to": "pluhove-z-rabstejna",
-    "how": "neznamo"
+    "how": "lenni"
    },
    {
     "place": "Q12032119",
-    "year": 1583,
+    "year": 1547,
     "from": "pluhove-z-rabstejna",
-    "to": "zedtwitzove",
-    "how": "koupe"
+    "to": "koruna",
+    "how": "konfiskace"
    },
    {
     "place": "Q12047776",
@@ -41713,7 +41736,7 @@
     "from": 1359,
     "to": 1611,
     "person": null,
-    "how": "neznamo",
+    "how": "koupe",
     "from_approx": false,
     "to_approx": false
    },
@@ -42133,7 +42156,7 @@
     "year": 1359,
     "from": "landstejnove",
     "to": "rozmberkove",
-    "how": "neznamo"
+    "how": "koupe"
    },
    {
     "place": "Q1013354",
@@ -55798,7 +55821,7 @@
    {
     "place": "Q1013354",
     "from": 1250,
-    "to": 1304,
+    "to": 1341,
     "person": "Ojíř ze Svin",
     "how": "zalozeni",
     "from_approx": true,
@@ -55808,7 +55831,7 @@
   "transfers": [
    {
     "place": "Q1013354",
-    "year": 1304,
+    "year": 1341,
     "from": "vitkovci",
     "to": "landstejnove",
     "how": "neznamo"
@@ -74513,8 +74536,8 @@
    {
     "place": "Q12032119",
     "from": 1583,
-    "to": 1623,
-    "person": null,
+    "to": 1622,
+    "person": "Jindřich Kryštof ze Zedtwitzu (Cedvic)",
     "how": "koupe",
     "from_approx": false,
     "to_approx": false
@@ -74542,7 +74565,7 @@
    {
     "place": "Q12032119",
     "year": 1583,
-    "from": "pluhove-z-rabstejna",
+    "from": "pani-ze-svamberka",
     "to": "zedtwitzove",
     "how": "koupe"
    },
@@ -87446,12 +87469,21 @@
    },
    {
     "place": "Q12032119",
-    "from": 1522,
-    "to": 1552,
-    "person": "Vladislav Jagellonský",
-    "how": "neznamo",
-    "from_approx": true,
-    "to_approx": true
+    "from": 1506,
+    "to": 1534,
+    "person": "Vladislav Jagellonský, později králové (do 1534)",
+    "how": "lenni",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q12032119",
+    "from": 1547,
+    "to": 1558,
+    "person": "královští hejtmani (Miškovský, Mezewadt z Budyšína)",
+    "how": "konfiskace",
+    "from_approx": false,
+    "to_approx": false
    },
    {
     "place": "Q12038651",
@@ -89982,17 +90014,31 @@
    },
    {
     "place": "Q12032119",
-    "year": 1522,
+    "year": 1506,
     "from": "pani-z-gutstejna",
     "to": "koruna",
-    "how": "neznamo"
+    "how": "lenni"
    },
    {
     "place": "Q12032119",
-    "year": 1552,
+    "year": 1534,
     "from": "koruna",
     "to": "pluhove-z-rabstejna",
-    "how": "neznamo"
+    "how": "lenni"
+   },
+   {
+    "place": "Q12032119",
+    "year": 1547,
+    "from": "pluhove-z-rabstejna",
+    "to": "koruna",
+    "how": "konfiskace"
+   },
+   {
+    "place": "Q12032119",
+    "year": 1558,
+    "from": "koruna",
+    "to": "pani-ze-svamberka",
+    "how": "lenni"
    },
    {
     "place": "Q12038651",
@@ -97425,7 +97471,7 @@
     "place": "Q2242226",
     "from": 1992,
     "to": null,
-    "person": "potomci Jindřicha A. Vaníčka (dnes spravuje Ivan Vaníček)",
+    "person": "potomci Jindřicha A. Vaníčka (podle rozhlasu 2026 má zámek 16 majitelů z rodiny Vaníčků; dnes spravuje Ivan Vaníček)",
     "how": "restituce",
     "from_approx": true,
     "to_approx": false

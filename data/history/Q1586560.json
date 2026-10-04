@@ -39,7 +39,7 @@
    "from_approx": false,
    "to_approx": true,
    "how": "lenni",
-   "note": "zástava od Jana Lucemburského 1330 jako náhrada škod z tažení proti Slezsku, rodina zde sídlila asi 20 let; cs.wiki článek o městě Úsov na jiném místě uvádí, že hrad byl královský kromě let 1335-1350, konec zástavy je tedy přibližný"
+   "note": "zástava od Jana Lucemburského 1330 jako náhrada škod z tažení proti Slezsku, rodina zde sídlila asi 20 let; cs.wiki článek o městě Úsov na jiném místě uvádí, že hrad byl královský kromě let 1335-1350, konec zástavy je tedy přibližný; druhý zdroj (atlaso.cz, přebírá stejný text) a hrady.dejiny.cz konec zástavy nepřesnují (druhý uvádí jen časté zastavování od 14. stol.), usov.cz (oficiální web města) chybně uvádí Šternberky 'v 15. století'; rozpor 1330 vs 1335 jako začátek / 1350 jako konec zůstává, neověřeno"
   },
   {
    "owner": "koruna",
@@ -61,7 +61,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "lenni",
-   "note": "markrabě Jošt zastavil Úsov roku 1408; cs.wiki článek o městě Úsov uvádí zástavu pánům Otovi a Albrechtovi z Kurovic (rozpor v zdrojích, článek o zámku uvádí Krhovice); článek o rodu na cs.wiki chybí"
+   "note": "markrabě Jošt zastavil Úsov roku 1408; cs.wiki článek o městě Úsov uvádí zástavu pánům Otovi a Albrechtovi z Kurovic (rozpor v zdrojích, článek o zámku uvádí Krhovice); článek o rodu na cs.wiki chybí; atlaso.cz uvádí zástavu 1408 Otovi a Albrechtovi z Kurovic (stejně jako cs.wiki Úsov), hrady.dejiny.cz jméno držitele neuvádí; držitel 1408-1416 zůstává nejasný (Krhovice vs Kurovice)"
   },
   {
    "owner": "jankovsti-z-vlasimi",
@@ -72,7 +72,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "lenni",
-   "note": "Václav IV. potvrdil 1416 zástavu Janu z Vlašimi; koncem 15. stol. (gotická přestavba 1487) bratři Karel a Jiří z Vlašimi; Jiřím z Vlašimi rod 1513 vymřel po meči; cs.wiki přesměrovává 'Páni z Vlašimi' na článek Jankovští z Vlašimi"
+   "note": "Václav IV. potvrdil 1416 zástavu Janu z Vlašimi; koncem 15. stol. (gotická přestavba 1487) bratři Karel a Jiří z Vlašimi; Jiřím z Vlašimi rod 1513 vymřel po meči; cs.wiki přesměrovává 'Páni z Vlašimi' na článek Jankovští z Vlašimi; hrady.dejiny.cz uvádí zástavu pánů z Vlašimi 1415-1513 (cs.wiki 1416 potvrzení Václavem IV.), ponechán 1416"
   },
   {
    "owner": "boskovicove",
@@ -137,7 +137,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "snatek",
-   "note": "sňatky dcer Jana Šembery, Anny Alžběty a Kateřiny, s Karlem a Maxmiliánem z Lichtenštejna položily základ lichtenštejnského dědictví po Boskovicích"
+   "note": "sňatky dcer Jana Šembery, Anny Alžběty a Kateřiny, s Karlem a Maxmiliánem z Lichtenštejna položily základ lichtenštejnského dědictví po Boskovicích; rok 1597-1945 potvrzují hrady.dejiny.cz, usov.cz a atlaso.cz"
   },
   {
    "owner": "stat",
@@ -148,7 +148,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "1945 zámek s inventářem majetkem československého státu; 1951 svěřen Krajskému vlastivědnému muzeu v Olomouci, od 1967/1968 Vlastivědnému ústavu v Šumperku"
+   "note": "1945 zámek s inventářem majetkem československého státu; 1951 svěřen Krajskému vlastivědnému muzeu v Olomouci, od 1967/1968 Vlastivědnému ústavu v Šumperku; konfiskaci 1945 potvrzuje hrady.dejiny.cz, správu státem usov.cz"
   },
   {
    "owner": "mesto",
@@ -159,7 +159,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "jine",
-   "note": "areál v majetku města Úsov, sbírky nadále spravuje Vlastivědné muzeum v Šumperku"
+   "note": "areál v majetku města Úsov, sbírky nadále spravuje Vlastivědné muzeum v Šumperku; rok 1995 a majitele města potvrzují usov.cz (oficiální web) i hrady.dejiny.cz"
   }
  ],
  "events": [
@@ -202,6 +202,9 @@
  ],
  "sources": [
   "https://cs.wikipedia.org/wiki/Úsov_(zámek)",
-  "https://cs.wikipedia.org/wiki/Úsov"
+  "https://cs.wikipedia.org/wiki/Úsov",
+  "https://www.usov.cz/zamek-usov-a-jeho-expozice/gs-3713",
+  "http://hrady.dejiny.cz/usov/",
+  "https://www.atlaso.cz/mista/usov-podrobne-informace/"
  ]
 }
