@@ -6871,7 +6871,7 @@
     "to": 1945,
     "person": "Karel Maria Chotek (březenská větev) a Livie Mailáthová de Székhely",
     "how": "dedictvi",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -18417,6 +18417,15 @@
     "to_approx": true
    },
    {
+    "place": "Q1701829",
+    "from": 1493,
+    "to": 1521,
+    "person": "Vilém Kostka z Postupic",
+    "how": "neznamo",
+    "from_approx": true,
+    "to_approx": false
+   },
+   {
     "place": "Q2164885",
     "from": 1432,
     "to": 1547,
@@ -18474,6 +18483,20 @@
     "how": "koupe"
    },
    {
+    "place": "Q1701829",
+    "year": 1493,
+    "from": "landstejnove",
+    "to": "kostkove-z-postupic",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q1701829",
+    "year": 1521,
+    "from": "kostkove-z-postupic",
+    "to": "pernstejnove",
+    "how": "koupe"
+   },
+   {
     "place": "Q2164885",
     "year": 1432,
     "from": "koruna",
@@ -18509,7 +18532,7 @@
     "how": "neznamo"
    }
   ],
-  "place_count": 5,
+  "place_count": 6,
   "color_slot": null
  },
  "kounicove": {
@@ -20009,8 +20032,8 @@
    {
     "place": "Q1701829",
     "from": 1488,
-    "to": 1517,
-    "person": "Jan a Vilém z Landštejna",
+    "to": 1493,
+    "person": "Vilém Zub z Landštejna (cs.wiki: Jan a Vilém z Landštejna)",
     "how": "neznamo",
     "from_approx": false,
     "to_approx": false
@@ -20203,10 +20226,10 @@
    },
    {
     "place": "Q1701829",
-    "year": 1521,
+    "year": 1493,
     "from": "landstejnove",
-    "to": "pernstejnove",
-    "how": "koupe"
+    "to": "kostkove-z-postupic",
+    "how": "neznamo"
    },
    {
     "place": "Q1749860",
@@ -28652,7 +28675,7 @@
    },
    {
     "place": "Q499095",
-    "from": 1440,
+    "from": 1427,
     "to": 1471,
     "person": "Mikeš (Mikuláš) Pancíř ze Smojna, od 1455 jeho synové",
     "how": "jine",
@@ -28670,7 +28693,7 @@
    },
    {
     "place": "Q499095",
-    "year": 1440,
+    "year": 1427,
     "from": "z-varnsdorfu",
     "to": "pancirove-ze-smojna",
     "how": "jine"
@@ -28745,7 +28768,7 @@
    },
    {
     "place": "Q1701829",
-    "from": 1400,
+    "from": 1397,
     "to": 1461,
     "person": null,
     "how": "neznamo",
@@ -28790,14 +28813,14 @@
    },
    {
     "place": "Q1701829",
-    "year": 1400,
-    "from": "sternberkove",
+    "year": 1397,
+    "from": "z-opocna",
     "to": "pani-z-bergova",
     "how": "neznamo"
    },
    {
     "place": "Q1701829",
-    "year": 1469,
+    "year": 1461,
     "from": "pani-z-bergova",
     "to": "z-hradku",
     "how": "neznamo"
@@ -37537,7 +37560,7 @@
    {
     "place": "Q1701829",
     "year": 1521,
-    "from": "landstejnove",
+    "from": "kostkove-z-postupic",
     "to": "pernstejnove",
     "how": "koupe"
    },
@@ -43502,10 +43525,28 @@
    {
     "place": "Q1013458",
     "from": 1732,
-    "to": 1802,
-    "person": "Schwarzenbergové (jeho nástupci, primogenitura)",
+    "to": 1782,
+    "person": "Josef I. Adam ze Schwarzenbergu",
     "how": "dedictvi",
-    "from_approx": true,
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q1013458",
+    "from": 1782,
+    "to": 1789,
+    "person": "Jan Nepomuk I. ze Schwarzenbergu",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q1013458",
+    "from": 1789,
+    "to": 1802,
+    "person": "Josef II. ze Schwarzenbergu",
+    "how": "dedictvi",
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -43520,16 +43561,16 @@
    {
     "place": "Q1013458",
     "from": 1820,
-    "to": 1860,
+    "to": 1858,
     "person": "Karel II. ze Schwarzenbergu",
     "how": "dedictvi",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q1013458",
-    "from": 1860,
-    "to": 1899,
+    "from": 1858,
+    "to": 1933,
     "person": "Karel III. Schwarzenberg",
     "how": "dedictvi",
     "from_approx": true,
@@ -43537,11 +43578,11 @@
    },
    {
     "place": "Q1013458",
-    "from": 1899,
+    "from": 1933,
     "to": 1939,
     "person": "Karel VI. Schwarzenberg",
     "how": "dedictvi",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -48296,10 +48337,10 @@
    },
    {
     "place": "Q1701829",
-    "year": 1400,
+    "year": 1393,
     "from": "sternberkove",
-    "to": "pani-z-bergova",
-    "how": "neznamo"
+    "to": "z-opocna",
+    "how": "koupe"
    },
    {
     "place": "Q1708948",
@@ -54260,12 +54301,12 @@
    },
    {
     "place": "Q1701829",
-    "from": 1472,
+    "from": 1464,
     "to": 1488,
     "person": "Vaněk z Valečova",
     "how": "neznamo",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q369704",
@@ -54340,7 +54381,7 @@
    },
    {
     "place": "Q1701829",
-    "year": 1472,
+    "year": 1464,
     "from": "z-hradku",
     "to": "valecovsti-z-valecova",
     "how": "neznamo"
@@ -61266,12 +61307,12 @@
    },
    {
     "place": "Q1701829",
-    "from": 1469,
-    "to": 1472,
+    "from": 1461,
+    "to": 1464,
     "person": "Samuel z Hrádku",
     "how": "neznamo",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q188015",
@@ -61318,14 +61359,14 @@
    },
    {
     "place": "Q1701829",
-    "year": 1469,
+    "year": 1461,
     "from": "pani-z-bergova",
     "to": "z-hradku",
     "how": "neznamo"
    },
    {
     "place": "Q1701829",
-    "year": 1472,
+    "year": 1464,
     "from": "z-hradku",
     "to": "valecovsti-z-valecova",
     "how": "neznamo"
@@ -66035,6 +66076,41 @@
     "from": "z-olivove-hory",
     "to": "morzinove",
     "how": "koupe"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
+ "z-opocna": {
+  "id": "z-opocna",
+  "type": "rod",
+  "name": "z-opocna",
+  "related": [],
+  "places": [
+   {
+    "place": "Q1701829",
+    "from": 1393,
+    "to": 1397,
+    "person": "Štěpán z Opočna",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q1701829",
+    "year": 1393,
+    "from": "sternberkove",
+    "to": "z-opocna",
+    "how": "koupe"
+   },
+   {
+    "place": "Q1701829",
+    "year": 1397,
+    "from": "z-opocna",
+    "to": "pani-z-bergova",
+    "how": "neznamo"
    }
   ],
   "place_count": 1,
@@ -71585,7 +71661,7 @@
    {
     "place": "Q499095",
     "from": 1412,
-    "to": 1440,
+    "to": 1426,
     "person": "Hanuš Welfl z Varnsdorfu",
     "how": "koupe",
     "from_approx": false,
@@ -71630,7 +71706,7 @@
    },
    {
     "place": "Q499095",
-    "year": 1440,
+    "year": 1427,
     "from": "z-varnsdorfu",
     "to": "pancirove-ze-smojna",
     "how": "jine"
@@ -82288,11 +82364,11 @@
    {
     "place": "Q499095",
     "from": 1945,
-    "to": null,
+    "to": 1986,
     "person": null,
     "how": "konfiskace",
     "from_approx": false,
-    "to_approx": false
+    "to_approx": true
    },
    {
     "place": "Q508519",
@@ -85933,6 +86009,13 @@
     "from": "z-preysingu",
     "to": "stat",
     "how": "konfiskace"
+   },
+   {
+    "place": "Q499095",
+    "year": 1986,
+    "from": "stat",
+    "to": "mesto",
+    "how": "neznamo"
    },
    {
     "place": "Q508519",
@@ -93126,6 +93209,15 @@
     "to_approx": false
    },
    {
+    "place": "Q499095",
+    "from": 1986,
+    "to": null,
+    "person": "obec Sloup v Čechách",
+    "how": "neznamo",
+    "from_approx": true,
+    "to_approx": false
+   },
+   {
     "place": "Q523489",
     "from": 1972,
     "to": null,
@@ -94734,6 +94826,13 @@
     "how": "jine"
    },
    {
+    "place": "Q499095",
+    "year": 1986,
+    "from": "stat",
+    "to": "mesto",
+    "how": "neznamo"
+   },
+   {
     "place": "Q523489",
     "year": 1972,
     "from": "stat",
@@ -94902,7 +95001,7 @@
     "how": "neznamo"
    }
   ],
-  "place_count": 157,
+  "place_count": 158,
   "color_slot": null
  },
  "soukromnik": {

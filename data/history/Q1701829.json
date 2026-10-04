@@ -17,50 +17,73 @@
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "podle cs.wiki Chlumec nad Cidlinou"
+   "note": "Šternberkové drželi Chlumec do 1393, kdy Oldřich ze Šternberka prodal panství Štěpánovi z Opočna (hrady.cz, text k hradu Chlumec); cs.wiki Chlumec také 1393; web IC města uvádí 1397"
+  },
+  {
+   "owner": "z-opocna",
+   "owner_wiki": null,
+   "person": "Štěpán z Opočna",
+   "from": 1393,
+   "to": 1397,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "hrady.cz: koupil 1393, kolem 1394 krátce Půta z Častolovic, do 1397 opět Štěpán; příslušnost k rodu Opočenských dle jména, neověřeno | rod bez článku: příslušnost k Opočenským zdroj neuvádí"
   },
   {
    "owner": "pani-z-bergova",
    "owner_wiki": "Páni z Bergova",
    "person": null,
-   "from": 1400,
+   "from": 1397,
    "to": 1461,
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "podle cs.wiki Chlumec nad Cidlinou; cs.wiki a zámek uvádějí, že roku 1424 se zdejší tvrze zmocnil husitský válečník Boček z Poděbrad (konflikt s držbou Bergů nevysvětlen, Boček proto není veden jako vlastník)"
+   "note": "Ota z Bergova koupil 1397 (hrady.cz, web IC města; cs.wiki Chlumec uvádí 1400), poté syn Ota a vnuk Jan; konec držby 1461 (SAS NPÚ, cs.wiki), hrady.cz uvádí do 1458 a prodej Janem z Němčic 1461; cs.wiki a zámek uvádějí, že roku 1424 se tvrze zmocnil Boček z Poděbrad (jako vlastník neveden)"
   },
   {
    "owner": "z-hradku",
    "owner_wiki": null,
    "person": "Samuel z Hrádku",
-   "from": 1469,
-   "to": null,
+   "from": 1461,
+   "to": 1464,
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "za něj vznikl nejspíše v 70.-80. letech 15. stol. nový vodní hrad"
+   "note": "hrady.cz: Jan z Němčic prodal 1461 Samuelovi z Hrádku (cs.wiki Chlumec: 1469); hrad vznikl nejspíše v 70.-80. letech 15. stol."
   },
   {
    "owner": "valecovsti-z-valecova",
    "owner_wiki": null,
    "person": "Vaněk z Valečova",
-   "from": 1472,
-   "to": null,
+   "from": 1464,
+   "to": 1488,
    "from_approx": false,
    "to_approx": false,
-   "how": "neznamo"
+   "how": "neznamo",
+   "note": "hrady.cz: 1464 Vaněk z Valečova a z Opočna (cs.wiki Chlumec: 1472)"
   },
   {
    "owner": "landstejnove",
    "owner_wiki": "Landštejnové",
-   "person": "Jan a Vilém z Landštejna",
+   "person": "Vilém Zub z Landštejna (cs.wiki: Jan a Vilém z Landštejna)",
    "from": 1488,
-   "to": 1517,
+   "to": 1493,
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "hrad rozšířen o zemní val a vodní příkop"
+   "note": "hrady.cz: Vilém Zub z Landštejna 1488-1493; cs.wiki Chlumec uvádí Jana a Viléma z Landštejna 1488-1517; hrad rozšířen o zemní val a vodní příkop"
+  },
+  {
+   "owner": "kostkove-z-postupic",
+   "owner_wiki": "Kostkové z Postupic",
+   "person": "Vilém Kostka z Postupic",
+   "from": null,
+   "to": 1521,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "hrady.cz: 1521 Vilém Kostka z Postupic prodal panství Vojtěchovi z Pernštejna; rok nabytí není doložen (cs.wiki Chlumec jej nezná, uvádí Landštejny do 1517)"
   },
   {
    "owner": "pernstejnove",
@@ -102,7 +125,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "po znárodnění zámek spravoval stát; od roku 1969 zde měla expozici \"Barok v Čechách\" Národní galerie Praha"
+   "note": "po znárodnění zámek spravoval stát; od roku 1969 zde měla expozici \"Barok v Čechách\" Národní galerie Praha; hrady.cz uvádí držbu Kinských do 1945, cs.wiki, web zámku a Radio Prague: 1948 znárodnění"
   },
   {
    "owner": "kinsti",
@@ -158,6 +181,11 @@
   "https://cs.wikipedia.org/wiki/Karlova_Koruna",
   "https://www.karlovakoruna-zamek.cz/",
   "https://amhz.cz/zamek/karlova_koruna",
-  "https://cs.wikipedia.org/wiki/Chlumec_nad_Cidlinou"
+  "https://cs.wikipedia.org/wiki/Chlumec_nad_Cidlinou",
+  "https://www.hrady.cz/hrad-chlumec-nad-cidlinou",
+  "https://isad.npu.cz/chlumec-nad-cidlinou-jadro-mesta-11156",
+  "https://ic.chlumecnc.cz/historicky-vyvoj",
+  "https://www.npu.cz/cs/pamatkova-pece/sluzby-pro-verejnost/opravujete-pamatku/inspirujte-se/121433-obnova-arealu-zamku-karlova-koruna-v-chlumci-nad-cidlinou",
+  "https://cesky.radio.cz/majitele-karlovy-koruny-zalozili-velkou-pardubickou-privezli-tenis-a-tropili-si-8811829"
  ]
 }

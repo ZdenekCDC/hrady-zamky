@@ -600,7 +600,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "hrad byl od 1720 neobýván, ve 30. letech 18. stol. sundána střecha (cca 1733), 1784 zcela opuštěn; jednotlivé držitele do 1850 zdroje neuvádějí; boskovická větev vymřela po meči Františkem Xaverem z Ditrichštejna (zemřel 1850)"
+    "note": "hrad byl od 1720 neobýván, ve 30. letech 18. stol. sundána střecha (cca 1733), 1784 zcela opuštěn; jednotlivé držitele do 1850 zdroje neuvádějí; boskovická větev vymřela po meči Františkem Xaverem z Ditrichštejna (zemřel 1850); ověřeno (soupispamatek.cz, zamekboskovice/cs.wiki): poslední držitel před Mensdorff-Pouilly František Xaver z Ditrichštejna, přestavba kláštera na zámek 1819-1826 za něj; roky nástupu jednotlivých držitelů 1738-1850 žádný dohledaný zdroj neuvádí, zůstávají neznámé"
    },
    {
     "owner": "ditrichstejnove",
@@ -622,7 +622,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "rodina Mensdorff-Pouilly"
+    "note": "rodina Mensdorff-Pouilly (Alfons Friedrich, od 1843 manžel Terezie z Ditrichštejna, dědictví po její smrti 1856); konfiskace 1950 (cs.wiki zámek, soupispamatek.cz) vs 1952 (amhz.cz, objevujpamatky.cz) - ponecháno 1950"
    },
    {
     "owner": "stat",
@@ -633,7 +633,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "konfiskace",
-    "note": "veškerý majetek rodiny včetně hradu zabavila komunistická moc"
+    "note": "veškerý majetek rodiny včetně hradu zabavila komunistická moc; rozpor: 1950 (cs.wiki zámek, soupispamatek.cz) vs 1952 (amhz.cz, objevujpamatky.cz); po 1989 hrad provozovalo město Boskovice / muzeum, soupispamatek.cz uvádí stát do 1997"
    },
    {
     "owner": "mensdorff-pouilly",
@@ -644,7 +644,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "restituce",
-    "note": "rodina hrad získala zpět v rámci restitucí a vlastní jej dodnes"
+    "note": "restituce 1991 (amhz.cz, objevujpamatky.cz, iDNES 2023: zámek vrácen 1991); současný vlastník rodina Mensdorff-Pouilly prostřednictvím firmy MP Holding (ČT24 2016, cs.wiki zámek: MP Holding, a.s.); hrad je soukromý, nikoli městský, provozuje kastelán/nájemce (do 2016 Jiří Mazal); soupispamatek.cz uvádí Mensdorff-Pouilly Holding od 1997 - zůstává neověřeno, zda formální převod na holding proběhl později než restituce"
    }
   ],
   "events": [
@@ -685,7 +685,11 @@
    "https://cs.wikipedia.org/wiki/Boskovice_(hrad)",
    "https://www.hradboskovice.cz/historie-hradu",
    "https://www.hrady.cz/hrad-boskovice/texty?pos=300&tid=3399",
-   "https://zaobzory.cz/misto/hrad-boskovice/"
+   "https://zaobzory.cz/misto/hrad-boskovice/",
+   "https://www.soupispamatek.cz/arl-kcz/sk/detail-kcz_un_auth-0000155-Hrad-Boskovice/",
+   "https://www.amhz.cz/hrad/boskovice",
+   "https://ct24.ceskatelevize.cz/clanek/regiony/boskovicky-hrad-zije-tvrdi-majitel-potrebuje-noveho-kastelana-a-opravy-za-nekolik-milionu-109264",
+   "https://cs.wikipedia.org/wiki/Boskovice_(z%C3%A1mek)"
   ]
  },
  "Q1011224": {
@@ -7404,13 +7408,35 @@
    {
     "owner": "schwarzenbergove",
     "owner_wiki": "Schwarzenbergové",
-    "person": "Schwarzenbergové (jeho nástupci, primogenitura)",
+    "person": "Josef I. Adam ze Schwarzenbergu",
     "from": 1732,
-    "to": 1802,
-    "from_approx": true,
+    "to": 1782,
+    "from_approx": false,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "jednotliví držitelé zdroje neuvádějí; do 1802 patřil Orlík k jednotnému schwarzenberskému majetku"
+    "note": "hlava rodu (4. kníže, vládnoucí kníže před dělením 1802), následoval Adama Františka 1732, zemřel 17. 2. 1782 (cs.wiki); Orlík patřil k jednotnému schwarzenberskému majetku, konkrétního držitele Orlíku zdroje neuvádějí - uvedena hlava rodu"
+   },
+   {
+    "owner": "schwarzenbergove",
+    "owner_wiki": "Schwarzenbergové",
+    "person": "Jan Nepomuk I. ze Schwarzenbergu",
+    "from": 1782,
+    "to": 1789,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "5. kníže, hlava rodu 1782-1789 (zemřel 5. 11. 1789, cs.wiki); Orlík součástí jednotného majetku, uvedena hlava rodu"
+   },
+   {
+    "owner": "schwarzenbergove",
+    "owner_wiki": "Schwarzenbergové",
+    "person": "Josef II. ze Schwarzenbergu",
+    "from": 1789,
+    "to": 1802,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "6. kníže, hlava rodu od 5. 11. 1789; 1802 rozdělil majetek s bratrem Karlem Filipem na primogenituru a sekundogenituru (Orlík připadl Karlu Filipovi); cs.wiki"
    },
    {
     "owner": "schwarzenbergove",
@@ -7428,33 +7454,33 @@
     "owner_wiki": "Schwarzenbergové",
     "person": "Karel II. ze Schwarzenbergu",
     "from": 1820,
-    "to": 1860,
+    "to": 1858,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "dedictvi",
-    "note": "zdědil místo staršího bratra Bedřicha; 1849-1860 novogotické úpravy podle Bernharda Gruebera"
+    "note": "zdědil místo staršího bratra Bedřicha; 1849-1860 novogotické úpravy podle Bernharda Gruebera; držitelem do 1858 (zamekorlik.cz: Karel II. 1802-1858)"
    },
    {
     "owner": "schwarzenbergove",
     "owner_wiki": "Schwarzenbergové",
     "person": "Karel III. Schwarzenberg",
-    "from": 1860,
-    "to": 1899,
+    "from": 1858,
+    "to": 1933,
     "from_approx": true,
     "to_approx": true,
     "how": "dedictvi",
-    "note": "v letech 1861-1864 nechal postavit rodinnou hrobku severozápadně od zámku"
+    "note": "v letech 1861-1864 nechal postavit rodinnou hrobku severozápadně od zámku; Karel III. Adolf Josef (1824-1904, soupispamatek.cz), rok nástupu odvozen z úmrtí otce 1858"
    },
    {
     "owner": "schwarzenbergove",
     "owner_wiki": "Schwarzenbergové",
     "person": "Karel VI. Schwarzenberg",
-    "from": 1899,
+    "from": 1933,
     "to": 1939,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "1938-1939 spoluautor Deklarace české šlechty; za nacistické okupace mu byl majetek zabaven"
+    "note": "správu rodového majetku převzal 1933 (zamekorlik.cz); 1938-1939 spoluautor Deklarace české šlechty; za nacistické okupace mu byl majetek zabaven; zamekorlik.cz: za 2. světové války uvalena nucená správa, rodina internována v Čimelicích"
    },
    {
     "owner": "stat",
@@ -7498,7 +7524,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "restituce",
-    "note": "po restituci majetku 1992 se vzdal funkce vedoucího kanceláře prezidenta Václava Havla a převzal správu rodového panství; web zámku: restituce 1992, Karel VII. (adoptován 1962 Jindřichem Schwarzenbergem, spojil obě větve rodu)"
+    "note": "po restituci majetku 1992 se vzdal funkce vedoucího kanceláře prezidenta Václava Havla a převzal správu rodového panství; web zámku: restituce 1992, Karel VII. (adoptován 1962 Jindřichem Schwarzenbergem, spojil obě větve rodu); schwarzenberg.cz: restituce podle zákona č. 229/1991 proběhla v letech 1992-1993"
    },
    {
     "owner": "schwarzenbergove",
@@ -7509,7 +7535,7 @@
     "from_approx": true,
     "to_approx": false,
     "how": "jine",
-    "note": "od roku 2006 (cs.wiki; web zámku uvádí převzetí správy 2007) rodový majetek včetně zámku spravuje syn Karla Schwarzenberga; současný majitel"
+    "note": "od roku 2006 (cs.wiki; web zámku uvádí převzetí správy 2007) rodový majetek včetně zámku spravuje syn Karla Schwarzenberga; současný majitel; ověřeno: současný majitel Jan Nepomuk Schwarzenberg (zamekorlik.cz, cs.wiki), zámek je soukromý, nikoli ve správě NPÚ"
    }
   ],
   "events": [
@@ -7558,7 +7584,12 @@
    "https://cs.wikipedia.org/wiki/Orlík_(zámek)",
    "https://www.zamekorlik.cz/o-zamku/historie-zamku/",
    "https://www.zamekorlik.cz/o-zamku/schwarzenbergove-a-orlik/",
-   "https://cs.wikipedia.org/wiki/Schwarzenbersk%C3%A1_hrobka_(Orl%C3%ADk_nad_Vltavou)"
+   "https://cs.wikipedia.org/wiki/Schwarzenbersk%C3%A1_hrobka_(Orl%C3%ADk_nad_Vltavou)",
+   "https://cs.wikipedia.org/wiki/Josef_I._Adam_ze_Schwarzenbergu",
+   "https://cs.wikipedia.org/wiki/Jan_Nepomuk_I._ze_Schwarzenbergu",
+   "https://cs.wikipedia.org/wiki/Josef_II._ze_Schwarzenbergu",
+   "https://www.soupispamatek.cz/arl-kcz/sk/detail-kcz_un_auth-0001077-Zamok-Orlik-nad-Vltavou/",
+   "https://www.schwarzenberg.cz/panstvi-orlik/zamek-orlik"
   ]
  },
  "Q1013464": {
@@ -34438,50 +34469,73 @@
     "from_approx": false,
     "to_approx": false,
     "how": "neznamo",
-    "note": "podle cs.wiki Chlumec nad Cidlinou"
+    "note": "Šternberkové drželi Chlumec do 1393, kdy Oldřich ze Šternberka prodal panství Štěpánovi z Opočna (hrady.cz, text k hradu Chlumec); cs.wiki Chlumec také 1393; web IC města uvádí 1397"
+   },
+   {
+    "owner": "z-opocna",
+    "owner_wiki": null,
+    "person": "Štěpán z Opočna",
+    "from": 1393,
+    "to": 1397,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "hrady.cz: koupil 1393, kolem 1394 krátce Půta z Častolovic, do 1397 opět Štěpán; příslušnost k rodu Opočenských dle jména, neověřeno | rod bez článku: příslušnost k Opočenským zdroj neuvádí"
    },
    {
     "owner": "pani-z-bergova",
     "owner_wiki": "Páni z Bergova",
     "person": null,
-    "from": 1400,
+    "from": 1397,
     "to": 1461,
     "from_approx": false,
     "to_approx": false,
     "how": "neznamo",
-    "note": "podle cs.wiki Chlumec nad Cidlinou; cs.wiki a zámek uvádějí, že roku 1424 se zdejší tvrze zmocnil husitský válečník Boček z Poděbrad (konflikt s držbou Bergů nevysvětlen, Boček proto není veden jako vlastník)"
+    "note": "Ota z Bergova koupil 1397 (hrady.cz, web IC města; cs.wiki Chlumec uvádí 1400), poté syn Ota a vnuk Jan; konec držby 1461 (SAS NPÚ, cs.wiki), hrady.cz uvádí do 1458 a prodej Janem z Němčic 1461; cs.wiki a zámek uvádějí, že roku 1424 se tvrze zmocnil Boček z Poděbrad (jako vlastník neveden)"
    },
    {
     "owner": "z-hradku",
     "owner_wiki": null,
     "person": "Samuel z Hrádku",
-    "from": 1469,
-    "to": 1472,
+    "from": 1461,
+    "to": 1464,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "neznamo",
-    "note": "za něj vznikl nejspíše v 70.-80. letech 15. stol. nový vodní hrad"
+    "note": "hrady.cz: Jan z Němčic prodal 1461 Samuelovi z Hrádku (cs.wiki Chlumec: 1469); hrad vznikl nejspíše v 70.-80. letech 15. stol."
    },
    {
     "owner": "valecovsti-z-valecova",
     "owner_wiki": null,
     "person": "Vaněk z Valečova",
-    "from": 1472,
+    "from": 1464,
     "to": 1488,
     "from_approx": false,
-    "to_approx": true,
-    "how": "neznamo"
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "hrady.cz: 1464 Vaněk z Valečova a z Opočna (cs.wiki Chlumec: 1472)"
    },
    {
     "owner": "landstejnove",
     "owner_wiki": "Landštejnové",
-    "person": "Jan a Vilém z Landštejna",
+    "person": "Vilém Zub z Landštejna (cs.wiki: Jan a Vilém z Landštejna)",
     "from": 1488,
-    "to": 1517,
+    "to": 1493,
     "from_approx": false,
     "to_approx": false,
     "how": "neznamo",
-    "note": "hrad rozšířen o zemní val a vodní příkop"
+    "note": "hrady.cz: Vilém Zub z Landštejna 1488-1493; cs.wiki Chlumec uvádí Jana a Viléma z Landštejna 1488-1517; hrad rozšířen o zemní val a vodní příkop"
+   },
+   {
+    "owner": "kostkove-z-postupic",
+    "owner_wiki": "Kostkové z Postupic",
+    "person": "Vilém Kostka z Postupic",
+    "from": 1493,
+    "to": 1521,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "hrady.cz: 1521 Vilém Kostka z Postupic prodal panství Vojtěchovi z Pernštejna; rok nabytí není doložen (cs.wiki Chlumec jej nezná, uvádí Landštejny do 1517)"
    },
    {
     "owner": "pernstejnove",
@@ -34523,7 +34577,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "konfiskace",
-    "note": "po znárodnění zámek spravoval stát; od roku 1969 zde měla expozici \"Barok v Čechách\" Národní galerie Praha"
+    "note": "po znárodnění zámek spravoval stát; od roku 1969 zde měla expozici \"Barok v Čechách\" Národní galerie Praha; hrady.cz uvádí držbu Kinských do 1945, cs.wiki, web zámku a Radio Prague: 1948 znárodnění"
    },
    {
     "owner": "kinsti",
@@ -34579,7 +34633,12 @@
    "https://cs.wikipedia.org/wiki/Karlova_Koruna",
    "https://www.karlovakoruna-zamek.cz/",
    "https://amhz.cz/zamek/karlova_koruna",
-   "https://cs.wikipedia.org/wiki/Chlumec_nad_Cidlinou"
+   "https://cs.wikipedia.org/wiki/Chlumec_nad_Cidlinou",
+   "https://www.hrady.cz/hrad-chlumec-nad-cidlinou",
+   "https://isad.npu.cz/chlumec-nad-cidlinou-jadro-mesta-11156",
+   "https://ic.chlumecnc.cz/historicky-vyvoj",
+   "https://www.npu.cz/cs/pamatkova-pece/sluzby-pro-verejnost/opravujete-pamatku/inspirujte-se/121433-obnova-arealu-zamku-karlova-koruna-v-chlumci-nad-cidlinou",
+   "https://cesky.radio.cz/majitele-karlovy-koruny-zalozili-velkou-pardubickou-privezli-tenis-a-tropili-si-8811829"
   ]
  },
  "Q1708948": {
@@ -41280,7 +41339,7 @@
     "from_approx": true,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "synovec Rudolfa, třetí majitel zámku podle fideikomisu; krajinářský park, klasicistní úprava zámku po 1804; zemřel 1824"
+    "note": "synovec Rudolfa, třetí majitel zámku podle fideikomisu; krajinářský park, klasicistní úprava zámku po 1804; zemřel 1824; rok 1771 = úmrtí Rudolfa Chotka (NPÚ: 1706-1771), nástup dle fideikomisu"
    },
    {
     "owner": "chotkove-z-chotkova",
@@ -41332,10 +41391,10 @@
     "person": "Karel Maria Chotek (březenská větev) a Livie Mailáthová de Székhely",
     "from": 1927,
     "to": 1945,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "poslední soukromí majitelé; za války zámek obsadila německá armáda, v květnu 1945 Rudá armáda; po válce odešli do SRN, zemřeli 1970 bez potomků; rok 1927 odvozen z úmrtí Arnošta Chotka"
+    "note": "poslední soukromí majitelé; Arnošt Chotek zemřel 24. 1. 1927 a Karel byl univerzálním dědicem (cs.wiki Arnošt Chotek, zamek-veltrusy.cz); 1942 uvalen nucený správce (Pozemkový úřad), zámek využit jako pracovní tábor; za války zámek obsadila německá armáda, v květnu 1945 Rudá armáda; po válce (1945 konfiskace podle Benešových dekretů) odešli do Bavorska, zemřeli 1970 bez potomků"
    },
    {
     "owner": "stat",
@@ -41346,7 +41405,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "konfiskace",
-    "note": "cs.wiki: konfiskace podle Benešových dekretů 1945; NPÚ: zámek prohlášen za státní kulturní majetek podle zákona č. 137/1946 Sb. a převzat do státní správy k 1. 1. 1947, zpřístupněn 1948; dnes spravuje Národní památkový ústav"
+    "note": "konfiskace 1945 podle Benešových dekretů (cs.wiki, zamek-veltrusy.cz); po roce 1945 zámek prohlášen za státní kulturní majetek podle zákona č. 137/1946 Sb., do státní správy (NPÚ/SPÚ předchůdce) formálně převzat k 1. 1. 1947, zpřístupněn 1948; dnes spravuje Národní památkový ústav, vlastníkem je stát"
    }
   ],
   "events": [
@@ -41382,7 +41441,9 @@
   "sources": [
    "https://cs.wikipedia.org/wiki/Veltrusy_(zámek)",
    "https://www.npu.cz/cs/hrady-a-zamky/tipy-na-vylet/19917-statni-zamek-veltrusy",
-   "https://update.zamek-veltrusy.cz/cs/informace-pro-navstevniky/o-zamku/historie"
+   "https://update.zamek-veltrusy.cz/cs/informace-pro-navstevniky/o-zamku/historie",
+   "https://www.zamek-veltrusy.cz/cs/informace-pro-navstevniky/o-zamku/posledni-chotkove",
+   "https://cs.wikipedia.org/wiki/Arno%C5%A1t_Chotek_z_Chotkova"
   ]
  },
  "Q2164885": {
@@ -42341,7 +42402,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "konfiskace",
-    "note": "konfiskace podle Benešových dekretů; po válce úřady, kasárna, Konekta, od 1963 odborné učiliště železničního stavitelství (do 1991); NPÚ: od 1989 v soukromých rukou"
+    "note": "konfiskace podle Benešových dekretů; po válce úřady, kasárna, Konekta, od 1963 odborné učiliště železničního stavitelství (do 1991); NPÚ: od 1989 v soukromých rukou; město (Třetina 2022) a cs.wiki: zámek 1992 získala a.s. Zámek za 1 Kč, cs.wiki uvádí \"po roce 1989\" a 1 Kčs"
    },
    {
     "owner": "soukromnik",
@@ -42352,7 +42413,7 @@
     "from_approx": true,
     "to_approx": false,
     "how": "koupe",
-    "note": "firma Zámek spol. s r. o. za symbolickou 1 Kč(s) (web města: 1992; Soupis památek: 1997, od 2001 Zámek Moravský Krumlov a.s.)"
+    "note": "firma Zámek spol. s r. o. za symbolickou 1 Kč(s) (web města: 1992; Soupis památek: 1997, od 2001 Zámek Moravský Krumlov a.s.); potvrzeno prezentací města (Třetina, 2022): 1992 a.s. Zámek za 1 Kč, nedokončila průzkum, s bankovními půjčkami odešla"
    },
    {
     "owner": "soukromnik",
@@ -42363,7 +42424,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "koupe",
-    "note": "2004 dražba, koupila Incheba (web města: Incheba Bratislava); majitelem byla dceřiná firma Reality MJ, jíž hrozila insolvence a věřitelé, Městský soud v Praze nařídil dražbu"
+    "note": "2004 dražba, koupila Incheba (web města: Incheba Bratislava); majitelem byla dceřiná firma Reality MJ, jíž hrozila insolvence a věřitelé, Městský soud v Praze nařídil dražbu; 2004 Incheba Praha (cs.wiki, prezentace města 2022); majitelem 2016 dceřiná Reality MJ/MK (ČT24, Aktuálně.cz); jméno soukromého majitele po 1989 mimo firmy není doloženo"
    },
    {
     "owner": "mesto",
@@ -42416,7 +42477,9 @@
    "https://www.npu.cz/cs/ohrozene-pamatky/5690-zamek-moravsky-krumlov",
    "http://www.moravskykrumlov.cz/historie-moravsky-krumlov.html",
    "https://www.irozhlas.cz/regiony/zamek-moravsky-krumlov-koupi-mesto-ziskalo-ho-v-drazbe-za-14-milionu-korun_201606291510_kspicakova",
-   "https://www.soupispamatek.cz/arl-kcz/sk/detail-kcz_un_auth-0000971-Zamok-Moravsky-Krumlov/"
+   "https://www.soupispamatek.cz/arl-kcz/sk/detail-kcz_un_auth-0000971-Zamok-Moravsky-Krumlov/",
+   "https://znojmoregion.cz/att/432/4_Tom%C3%A1%C5%A1%20T%C5%99etina_MORAVSK%C3%9D%20KRUMLOV_Rekonstrukce%20a%20znovuo%C5%BEiven%C3%AD%20z%C3%A1mku%20MK_9-11-2022.pdf",
+   "http://www.ceskatelevize.cz/ct24/regiony/1831628-zamek-v-moravskem-krumlove-vydrazilo-mesto-nikdo-jiny-jej-nechtel"
   ]
  },
  "Q2240221": {
@@ -64590,22 +64653,22 @@
     "owner_wiki": null,
     "person": "Hanuš Welfl z Varnsdorfu",
     "from": 1412,
-    "to": 1440,
+    "to": 1426,
     "from_approx": false,
     "to_approx": true,
     "how": "koupe",
-    "note": "koupil 1412 za 200 kop grošů od Hynka Hlaváče; konec držby není doložen (web hradu: do cca 1426)"
+    "note": "koupil 1412 za 200 kop grošů od Hynka Hlaváče; web hradu uvádí konec držby cca 1426; cs.wiki (Pancířové ze Smojna) uvádí, že Mikeš Pancíř žil na Sloupu od 1427; přesný rok a způsob předání nejsou doloženy"
    },
    {
     "owner": "pancirove-ze-smojna",
     "owner_wiki": "Pancířové ze Smojna",
     "person": "Mikeš (Mikuláš) Pancíř ze Smojna, od 1455 jeho synové",
-    "from": 1440,
+    "from": 1427,
     "to": 1471,
     "from_approx": true,
     "to_approx": false,
     "how": "jine",
-    "note": "loupeživý rytíř, 1444 a 1445 hrad obléhán a pobořen vojsky z Lužice, Mikeš jej obnovil; 1455 předal synům; počátek držby web hradu odhaduje na cca 1440, cs.wiki uvádí pohusitskou dobu"
+    "note": "loupeživý rytíř, 1444 a 1445 hrad obléhán a pobořen vojsky z Lužice, Mikeš jej obnovil; 1455 předal synům; počátek držby: cs.wiki (Pancířové ze Smojna) od 1427, web hradu cca 1440 (dřívější záznam), zde vzato 1427, cs.wiki uvádí pohusitskou dobu"
    },
    {
     "owner": "ilburkove",
@@ -64689,11 +64752,22 @@
     "owner_wiki": null,
     "person": null,
     "from": 1945,
-    "to": null,
+    "to": 1986,
     "from_approx": false,
-    "to_approx": false,
+    "to_approx": true,
     "how": "konfiskace",
-    "note": "majetek zkonfiskován podle Benešových dekretů, skála zůstala opuštěná; 1953 prohlášena kulturní památkou, kastelánem a nájemcem je od 1998 Ivan Volman"
+    "note": "majetek zkonfiskován podle Benešových dekretů, skála zůstala opuštěná; 1953 prohlášena kulturní památkou; rok převodu na obec není doložen"
+   },
+   {
+    "owner": "mesto",
+    "owner_wiki": null,
+    "person": "obec Sloup v Čechách",
+    "from": 1986,
+    "to": null,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "majitelem hradu je obec Sloup v Čechách (Impuls 2017: obec, majitel hradu, jej pronajímá; mistopisy.cz, oblast.cz); nájemcem od 1998 Ivan Volman, kastelán od 1977; rok přechodu od státu není doložen"
    }
   ],
   "events": [
@@ -64738,7 +64812,10 @@
    "https://cs.wikipedia.org/wiki/Sloup_(skalní_hrad)",
    "https://hradsloup.cz/historie/historie-panstvi-sloup/",
    "https://hradsloup.cz/historie/od-praveku-do-roku-1679/",
-   "https://cs.wikipedia.org/wiki/Sloup_v_%C4%8Cech%C3%A1ch_(z%C3%A1mek)"
+   "https://cs.wikipedia.org/wiki/Sloup_v_%C4%8Cech%C3%A1ch_(z%C3%A1mek)",
+   "https://www.impuls.cz/regiony/liberecky-kraj/kastelan-skalni-hrad-sloup-ivan-volman.A170706_073014_imp-liberecky_kov/tisk",
+   "https://www.mistopisy.cz/pruvodce/body-zajmu/1256/skalni-hrad-sloup/",
+   "https://cs.wikipedia.org/wiki/Panc%C3%AD%C5%99ov%C3%A9_ze_Smojna"
   ]
  },
  "Q508519": {

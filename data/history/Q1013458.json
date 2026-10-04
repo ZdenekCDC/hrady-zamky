@@ -308,13 +308,35 @@
   {
    "owner": "schwarzenbergove",
    "owner_wiki": "Schwarzenbergové",
-   "person": "Schwarzenbergové (jeho nástupci, primogenitura)",
+   "person": "Josef I. Adam ze Schwarzenbergu",
    "from": 1732,
-   "to": 1802,
-   "from_approx": true,
+   "to": 1782,
+   "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "jednotliví držitelé zdroje neuvádějí; do 1802 patřil Orlík k jednotnému schwarzenberskému majetku"
+   "note": "hlava rodu (4. kníže, vládnoucí kníže před dělením 1802), následoval Adama Františka 1732, zemřel 17. 2. 1782 (cs.wiki); Orlík patřil k jednotnému schwarzenberskému majetku, konkrétního držitele Orlíku zdroje neuvádějí - uvedena hlava rodu"
+  },
+  {
+   "owner": "schwarzenbergove",
+   "owner_wiki": "Schwarzenbergové",
+   "person": "Jan Nepomuk I. ze Schwarzenbergu",
+   "from": 1782,
+   "to": 1789,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "5. kníže, hlava rodu 1782-1789 (zemřel 5. 11. 1789, cs.wiki); Orlík součástí jednotného majetku, uvedena hlava rodu"
+  },
+  {
+   "owner": "schwarzenbergove",
+   "owner_wiki": "Schwarzenbergové",
+   "person": "Josef II. ze Schwarzenbergu",
+   "from": 1789,
+   "to": 1802,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "6. kníže, hlava rodu od 5. 11. 1789; 1802 rozdělil majetek s bratrem Karlem Filipem na primogenituru a sekundogenituru (Orlík připadl Karlu Filipovi); cs.wiki"
   },
   {
    "owner": "schwarzenbergove",
@@ -332,33 +354,33 @@
    "owner_wiki": "Schwarzenbergové",
    "person": "Karel II. ze Schwarzenbergu",
    "from": 1820,
-   "to": null,
+   "to": 1858,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "dedictvi",
-   "note": "zdědil místo staršího bratra Bedřicha; 1849-1860 novogotické úpravy podle Bernharda Gruebera"
+   "note": "zdědil místo staršího bratra Bedřicha; 1849-1860 novogotické úpravy podle Bernharda Gruebera; držitelem do 1858 (zamekorlik.cz: Karel II. 1802-1858)"
   },
   {
    "owner": "schwarzenbergove",
    "owner_wiki": "Schwarzenbergové",
    "person": "Karel III. Schwarzenberg",
-   "from": null,
+   "from": 1858,
    "to": null,
    "from_approx": true,
    "to_approx": true,
    "how": "dedictvi",
-   "note": "v letech 1861-1864 nechal postavit rodinnou hrobku severozápadně od zámku"
+   "note": "v letech 1861-1864 nechal postavit rodinnou hrobku severozápadně od zámku; Karel III. Adolf Josef (1824-1904, soupispamatek.cz), rok nástupu odvozen z úmrtí otce 1858"
   },
   {
    "owner": "schwarzenbergove",
    "owner_wiki": "Schwarzenbergové",
    "person": "Karel VI. Schwarzenberg",
-   "from": null,
+   "from": 1933,
    "to": 1939,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "1938-1939 spoluautor Deklarace české šlechty; za nacistické okupace mu byl majetek zabaven"
+   "note": "správu rodového majetku převzal 1933 (zamekorlik.cz); 1938-1939 spoluautor Deklarace české šlechty; za nacistické okupace mu byl majetek zabaven; zamekorlik.cz: za 2. světové války uvalena nucená správa, rodina internována v Čimelicích"
   },
   {
    "owner": "stat",
@@ -402,7 +424,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "restituce",
-   "note": "po restituci majetku 1992 se vzdal funkce vedoucího kanceláře prezidenta Václava Havla a převzal správu rodového panství; web zámku: restituce 1992, Karel VII. (adoptován 1962 Jindřichem Schwarzenbergem, spojil obě větve rodu)"
+   "note": "po restituci majetku 1992 se vzdal funkce vedoucího kanceláře prezidenta Václava Havla a převzal správu rodového panství; web zámku: restituce 1992, Karel VII. (adoptován 1962 Jindřichem Schwarzenbergem, spojil obě větve rodu); schwarzenberg.cz: restituce podle zákona č. 229/1991 proběhla v letech 1992-1993"
   },
   {
    "owner": "schwarzenbergove",
@@ -413,7 +435,7 @@
    "from_approx": true,
    "to_approx": false,
    "how": "jine",
-   "note": "od roku 2006 (cs.wiki; web zámku uvádí převzetí správy 2007) rodový majetek včetně zámku spravuje syn Karla Schwarzenberga; současný majitel"
+   "note": "od roku 2006 (cs.wiki; web zámku uvádí převzetí správy 2007) rodový majetek včetně zámku spravuje syn Karla Schwarzenberga; současný majitel; ověřeno: současný majitel Jan Nepomuk Schwarzenberg (zamekorlik.cz, cs.wiki), zámek je soukromý, nikoli ve správě NPÚ"
   }
  ],
  "events": [
@@ -462,6 +484,11 @@
   "https://cs.wikipedia.org/wiki/Orlík_(zámek)",
   "https://www.zamekorlik.cz/o-zamku/historie-zamku/",
   "https://www.zamekorlik.cz/o-zamku/schwarzenbergove-a-orlik/",
-  "https://cs.wikipedia.org/wiki/Schwarzenbersk%C3%A1_hrobka_(Orl%C3%ADk_nad_Vltavou)"
+  "https://cs.wikipedia.org/wiki/Schwarzenbersk%C3%A1_hrobka_(Orl%C3%ADk_nad_Vltavou)",
+  "https://cs.wikipedia.org/wiki/Josef_I._Adam_ze_Schwarzenbergu",
+  "https://cs.wikipedia.org/wiki/Jan_Nepomuk_I._ze_Schwarzenbergu",
+  "https://cs.wikipedia.org/wiki/Josef_II._ze_Schwarzenbergu",
+  "https://www.soupispamatek.cz/arl-kcz/sk/detail-kcz_un_auth-0001077-Zamok-Orlik-nad-Vltavou/",
+  "https://www.schwarzenberg.cz/panstvi-orlik/zamek-orlik"
  ]
 }

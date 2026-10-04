@@ -35,22 +35,22 @@
    "owner_wiki": null,
    "person": "Hanuš Welfl z Varnsdorfu",
    "from": 1412,
-   "to": null,
+   "to": 1426,
    "from_approx": false,
    "to_approx": true,
    "how": "koupe",
-   "note": "koupil 1412 za 200 kop grošů od Hynka Hlaváče; konec držby není doložen (web hradu: do cca 1426)"
+   "note": "koupil 1412 za 200 kop grošů od Hynka Hlaváče; web hradu uvádí konec držby cca 1426; cs.wiki (Pancířové ze Smojna) uvádí, že Mikeš Pancíř žil na Sloupu od 1427; přesný rok a způsob předání nejsou doloženy"
   },
   {
    "owner": "pancirove-ze-smojna",
    "owner_wiki": "Pancířové ze Smojna",
    "person": "Mikeš (Mikuláš) Pancíř ze Smojna, od 1455 jeho synové",
-   "from": 1440,
+   "from": 1427,
    "to": 1471,
    "from_approx": true,
    "to_approx": false,
    "how": "jine",
-   "note": "loupeživý rytíř, 1444 a 1445 hrad obléhán a pobořen vojsky z Lužice, Mikeš jej obnovil; 1455 předal synům; počátek držby web hradu odhaduje na cca 1440, cs.wiki uvádí pohusitskou dobu"
+   "note": "loupeživý rytíř, 1444 a 1445 hrad obléhán a pobořen vojsky z Lužice, Mikeš jej obnovil; 1455 předal synům; počátek držby: cs.wiki (Pancířové ze Smojna) od 1427, web hradu cca 1440 (dřívější záznam), zde vzato 1427, cs.wiki uvádí pohusitskou dobu"
   },
   {
    "owner": "ilburkove",
@@ -138,7 +138,18 @@
    "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "majetek zkonfiskován podle Benešových dekretů, skála zůstala opuštěná; 1953 prohlášena kulturní památkou, kastelánem a nájemcem je od 1998 Ivan Volman"
+   "note": "majetek zkonfiskován podle Benešových dekretů, skála zůstala opuštěná; 1953 prohlášena kulturní památkou; rok převodu na obec není doložen"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "obec Sloup v Čechách",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "majitelem hradu je obec Sloup v Čechách (Impuls 2017: obec, majitel hradu, jej pronajímá; mistopisy.cz, oblast.cz); nájemcem od 1998 Ivan Volman, kastelán od 1977; rok přechodu od státu není doložen"
   }
  ],
  "events": [
@@ -183,6 +194,9 @@
   "https://cs.wikipedia.org/wiki/Sloup_(skalní_hrad)",
   "https://hradsloup.cz/historie/historie-panstvi-sloup/",
   "https://hradsloup.cz/historie/od-praveku-do-roku-1679/",
-  "https://cs.wikipedia.org/wiki/Sloup_v_%C4%8Cech%C3%A1ch_(z%C3%A1mek)"
+  "https://cs.wikipedia.org/wiki/Sloup_v_%C4%8Cech%C3%A1ch_(z%C3%A1mek)",
+  "https://www.impuls.cz/regiony/liberecky-kraj/kastelan-skalni-hrad-sloup-ivan-volman.A170706_073014_imp-liberecky_kov/tisk",
+  "https://www.mistopisy.cz/pruvodce/body-zajmu/1256/skalni-hrad-sloup/",
+  "https://cs.wikipedia.org/wiki/Panc%C3%AD%C5%99ov%C3%A9_ze_Smojna"
  ]
 }
