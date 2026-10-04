@@ -2569,7 +2569,7 @@
    {
     "place": "Q3501132",
     "year": 1545,
-    "from": "z-sovojovic",
+    "from": "stranovsti-ze-sovojovic",
     "to": "berkove-z-dube",
     "how": "neznamo"
    },
@@ -12081,7 +12081,7 @@
    {
     "place": "Q1013464",
     "year": 1612,
-    "from": "z-bilych-otradovic",
+    "from": "skopkove-z-dube",
     "to": "harantove-z-polzic-a-bezdruzic",
     "how": "snatek"
    },
@@ -12206,6 +12206,15 @@
   "places": [
    {
     "place": "Q1012297",
+    "from": 1484,
+    "to": 1484,
+    "person": "Jindřich ze Štetenberka a jeho stejnojmenný bratr",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q1012297",
     "from": 1499,
     "to": 1503,
     "person": "Oldřich z Hardeka (nezletilý, poručník Petr z Rožmberka)",
@@ -12251,6 +12260,20 @@
    }
   ],
   "transfers": [
+   {
+    "place": "Q1012297",
+    "year": 1484,
+    "from": "z-cenova",
+    "to": "hardekove",
+    "how": "koupe"
+   },
+   {
+    "place": "Q1012297",
+    "year": 1484,
+    "from": "hardekove",
+    "to": "rozmberkove",
+    "how": "lenni"
+   },
    {
     "place": "Q1012297",
     "year": 1499,
@@ -14378,7 +14401,7 @@
     "place": "Q1013464",
     "year": 1548,
     "from": "horicti-z-horic",
-    "to": "z-bilych-otradovic",
+    "to": "skopkove-z-dube",
     "how": "neznamo"
    }
   ],
@@ -30859,6 +30882,15 @@
     "how": "jine",
     "from_approx": false,
     "to_approx": false
+   },
+   {
+    "place": "Q916931",
+    "from": 1429,
+    "to": 1450,
+    "person": "Štěpán ze Zdounek a Vartnova",
+    "how": "dar",
+    "from_approx": false,
+    "to_approx": true
    }
   ],
   "transfers": [
@@ -30899,10 +30931,10 @@
    },
    {
     "place": "Q916931",
-    "year": 1429,
+    "year": 1450,
     "from": "pani-z-holstejna",
-    "to": "z-zdounek",
-    "how": "dar"
+    "to": "neznamo",
+    "how": "dedictvi"
    }
   ],
   "place_count": 3,
@@ -34588,7 +34620,7 @@
    {
     "place": "Q19800573",
     "year": 1447,
-    "from": "z-drstky",
+    "from": "z-ronsperka",
     "to": "pani-z-rican",
     "how": "dedictvi"
    },
@@ -37677,7 +37709,7 @@
    {
     "place": "Q11874519",
     "year": 1797,
-    "from": "z-globen",
+    "from": "stampachove-ze-stampachu",
     "to": "pergenove",
     "how": "koupe"
    },
@@ -42948,7 +42980,7 @@
    {
     "place": "Q1012297",
     "year": 1484,
-    "from": "z-stetenberka",
+    "from": "hardekove",
     "to": "rozmberkove",
     "how": "lenni"
    },
@@ -46081,6 +46113,53 @@
   "place_count": 1,
   "color_slot": null
  },
+ "skopkove-z-dube": {
+  "id": "skopkove-z-dube",
+  "type": "rod",
+  "name": "Škopkové z Dubé",
+  "wikidata": "Q10406246",
+  "cswiki": "https://cs.wikipedia.org/wiki/Škopkové_z_Dubé",
+  "summary": "Škopkové z Dubé je někdejší větev staročeského panského rozrodu Ronovců, společně užívající erb ostrve.",
+  "related": [],
+  "places": [
+   {
+    "place": "Q1013464",
+    "from": 1548,
+    "to": 1580,
+    "person": "Jindřich Škopek z Bílých Otradovic",
+    "how": "neznamo",
+    "from_approx": true,
+    "to_approx": true
+   },
+   {
+    "place": "Q1013464",
+    "from": 1580,
+    "to": 1612,
+    "person": "Karel a Adam Škopkové z Bílých Otradovic",
+    "how": "dedictvi",
+    "from_approx": true,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q1013464",
+    "year": 1548,
+    "from": "horicti-z-horic",
+    "to": "skopkove-z-dube",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q1013464",
+    "year": 1612,
+    "from": "skopkove-z-dube",
+    "to": "harantove-z-polzic-a-bezdruzic",
+    "how": "snatek"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
  "skrbensti-z-hriste": {
   "id": "skrbensti-z-hriste",
   "type": "rod",
@@ -48096,6 +48175,15 @@
     "to_approx": false
    },
    {
+    "place": "Q11874519",
+    "from": 1694,
+    "to": 1797,
+    "person": "Jan Kryštof Kager ze Štampachu, syn Jan Ferdinand, poté Karel Josef August a Marie Josefa Kager z Globen",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
     "place": "Q1373051",
     "from": 1591,
     "to": 1591,
@@ -48152,10 +48240,10 @@
    },
    {
     "place": "Q11874519",
-    "year": 1694,
+    "year": 1797,
     "from": "stampachove-ze-stampachu",
-    "to": "z-globen",
-    "how": "dedictvi"
+    "to": "pergenove",
+    "how": "koupe"
    },
    {
     "place": "Q1373051",
@@ -50090,6 +50178,67 @@
   "place_count": 1,
   "color_slot": null
  },
+ "stranovsti-ze-sovojovic": {
+  "id": "stranovsti-ze-sovojovic",
+  "type": "rod",
+  "name": "Stránovští ze Sovojovic",
+  "wikidata": "Q12056658",
+  "cswiki": "https://cs.wikipedia.org/wiki/Stránovští_ze_Sovojovic",
+  "summary": "Stránovští ze Sovojovic byli vladycký rod, který působil na Mladoboleslavsku. Poprvé se tento rod připomíná v 15. století, kdy Jaroš ze Sovojovic získal hrad Stránov u Mladé Boleslavi a začal jej používat ve svém přídomku. Jan byl jedním z velkých přívrženců Jiřího z Poděbrad a také se v roce 1448 podílel na obsazení Prahy. Stránovští postupně vlastnili mimo jiné Kříčov, Niměřice, Vlašim a Chotělice.",
+  "related": [],
+  "places": [
+   {
+    "place": "Q1749959",
+    "from": 1546,
+    "to": 1550,
+    "person": "rytíř Markvart Stranovský ze Sovojovic",
+    "how": "neznamo",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q3501132",
+    "from": 1463,
+    "to": 1545,
+    "person": "Jaroš ze Sovojovic",
+    "how": "zalozeni",
+    "from_approx": false,
+    "to_approx": true
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q1749959",
+    "year": 1546,
+    "from": "trckove-z-lipy",
+    "to": "stranovsti-ze-sovojovic",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q1749959",
+    "year": 1550,
+    "from": "stranovsti-ze-sovojovic",
+    "to": "z-pteni",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q3501132",
+    "year": 1463,
+    "from": "z-stranova",
+    "to": "stranovsti-ze-sovojovic",
+    "how": "zalozeni"
+   },
+   {
+    "place": "Q3501132",
+    "year": 1545,
+    "from": "stranovsti-ze-sovojovic",
+    "to": "berkove-z-dube",
+    "how": "neznamo"
+   }
+  ],
+  "place_count": 2,
+  "color_slot": null
+ },
  "strelove-z-rokyc": {
   "id": "strelove-z-rokyc",
   "type": "rod",
@@ -50775,6 +50924,15 @@
     "to_approx": true
    },
    {
+    "place": "Q1012711",
+    "from": 1774,
+    "to": 1807,
+    "person": "hraběnka Barbora O'Reillová",
+    "how": "dedictvi",
+    "from_approx": true,
+    "to_approx": false
+   },
+   {
     "place": "Q11227176",
     "from": 1715,
     "to": 1722,
@@ -50821,10 +50979,10 @@
    },
    {
     "place": "Q1012711",
-    "year": 1774,
+    "year": 1807,
     "from": "sweerts-sporckove",
-    "to": "z-reillyu",
-    "how": "dedictvi"
+    "to": "neznamo",
+    "how": "koupe"
    },
    {
     "place": "Q11227176",
@@ -53140,7 +53298,7 @@
     "place": "Q1749959",
     "year": 1546,
     "from": "trckove-z-lipy",
-    "to": "z-sovojovic",
+    "to": "stranovsti-ze-sovojovic",
     "how": "neznamo"
    },
    {
@@ -58801,50 +58959,6 @@
   "place_count": 1,
   "color_slot": null
  },
- "z-bilych-otradovic": {
-  "id": "z-bilych-otradovic",
-  "type": "rod",
-  "name": "z-bilych-otradovic",
-  "related": [],
-  "places": [
-   {
-    "place": "Q1013464",
-    "from": 1548,
-    "to": 1580,
-    "person": "Jindřich Škopek z Bílých Otradovic",
-    "how": "neznamo",
-    "from_approx": true,
-    "to_approx": true
-   },
-   {
-    "place": "Q1013464",
-    "from": 1580,
-    "to": 1612,
-    "person": "Karel a Adam Škopkové z Bílých Otradovic",
-    "how": "dedictvi",
-    "from_approx": true,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q1013464",
-    "year": 1548,
-    "from": "horicti-z-horic",
-    "to": "z-bilych-otradovic",
-    "how": "neznamo"
-   },
-   {
-    "place": "Q1013464",
-    "year": 1612,
-    "from": "z-bilych-otradovic",
-    "to": "harantove-z-polzic-a-bezdruzic",
-    "how": "snatek"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
  "z-blyne": {
   "id": "z-blyne",
   "type": "rod",
@@ -59274,41 +59388,6 @@
   "place_count": 1,
   "color_slot": null
  },
- "z-budivojovic": {
-  "id": "z-budivojovic",
-  "type": "rod",
-  "name": "z Budivojovic",
-  "related": [],
-  "places": [
-   {
-    "place": "Q2142483",
-    "from": 1260,
-    "to": 1278,
-    "person": "Čéč z Budivojovic",
-    "how": "lenni",
-    "from_approx": true,
-    "to_approx": true
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q2142483",
-    "year": 1260,
-    "from": "koruna",
-    "to": "z-budivojovic",
-    "how": "lenni"
-   },
-   {
-    "place": "Q2142483",
-    "year": 1278,
-    "from": "z-budivojovic",
-    "to": "koruna",
-    "how": "jine"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
  "z-burgvic": {
   "id": "z-burgvic",
   "type": "rod",
@@ -59547,7 +59626,7 @@
     "place": "Q1012297",
     "year": 1484,
     "from": "z-cenova",
-    "to": "z-stetenberka",
+    "to": "hardekove",
     "how": "koupe"
    }
   ],
@@ -60610,64 +60689,6 @@
   "place_count": 1,
   "color_slot": null
  },
- "z-drstky": {
-  "id": "z-drstky",
-  "type": "rod",
-  "name": "z-drstky",
-  "related": [],
-  "places": [
-   {
-    "place": "Q19800573",
-    "from": 1390,
-    "to": 1447,
-    "person": "Nachval, Sezema, Břeněk a Zdeněk (synové nebo vnuci Dobrohosta)",
-    "how": "dedictvi",
-    "from_approx": false,
-    "to_approx": true
-   },
-   {
-    "place": "Q367343",
-    "from": 1426,
-    "to": 1438,
-    "person": "Zdeněk z Drštky",
-    "how": "lenni",
-    "from_approx": false,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q19800573",
-    "year": 1390,
-    "from": "z-ronsperka",
-    "to": "z-drstky",
-    "how": "dedictvi"
-   },
-   {
-    "place": "Q19800573",
-    "year": 1447,
-    "from": "z-drstky",
-    "to": "pani-z-rican",
-    "how": "dedictvi"
-   },
-   {
-    "place": "Q367343",
-    "year": 1426,
-    "from": "cirkev",
-    "to": "z-drstky",
-    "how": "lenni"
-   },
-   {
-    "place": "Q367343",
-    "year": 1438,
-    "from": "z-drstky",
-    "to": "z-ronsperka",
-    "how": "lenni"
-   }
-  ],
-  "place_count": 2,
-  "color_slot": null
- },
  "z-duban": {
   "id": "z-duban",
   "type": "rod",
@@ -61301,41 +61322,6 @@
     "from": "z-gillernu",
     "to": "neznamo",
     "how": "neznamo"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
- "z-globen": {
-  "id": "z-globen",
-  "type": "rod",
-  "name": "z-globen",
-  "related": [],
-  "places": [
-   {
-    "place": "Q11874519",
-    "from": 1694,
-    "to": 1797,
-    "person": "Jan Kryštof Kager ze Štampachu, syn Jan Ferdinand, poté Karel Josef August a Marie Josefa Kager z Globen",
-    "how": "dedictvi",
-    "from_approx": false,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q11874519",
-    "year": 1694,
-    "from": "stampachove-ze-stampachu",
-    "to": "z-globen",
-    "how": "dedictvi"
-   },
-   {
-    "place": "Q11874519",
-    "year": 1797,
-    "from": "z-globen",
-    "to": "pergenove",
-    "how": "koupe"
    }
   ],
   "place_count": 1,
@@ -68823,7 +68809,7 @@
    {
     "place": "Q1749959",
     "year": 1550,
-    "from": "z-sovojovic",
+    "from": "stranovsti-ze-sovojovic",
     "to": "z-pteni",
     "how": "neznamo"
    },
@@ -69092,41 +69078,6 @@
   "place_count": 1,
   "color_slot": null
  },
- "z-reillyu": {
-  "id": "z-reillyu",
-  "type": "rod",
-  "name": "z-reillyu",
-  "related": [],
-  "places": [
-   {
-    "place": "Q1012711",
-    "from": 1774,
-    "to": 1807,
-    "person": "hraběnka Barbora O'Reillová",
-    "how": "dedictvi",
-    "from_approx": true,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q1012711",
-    "year": 1774,
-    "from": "sweerts-sporckove",
-    "to": "z-reillyu",
-    "how": "dedictvi"
-   },
-   {
-    "place": "Q1012711",
-    "year": 1807,
-    "from": "z-reillyu",
-    "to": "neznamo",
-    "how": "koupe"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
  "z-rezna": {
   "id": "z-rezna",
   "type": "rod",
@@ -69257,6 +69208,15 @@
     "to_approx": true
    },
    {
+    "place": "Q19800573",
+    "from": 1390,
+    "to": 1447,
+    "person": "Nachval, Sezema, Břeněk a Zdeněk (synové nebo vnuci Dobrohosta)",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": true
+   },
+   {
     "place": "Q21758915",
     "from": 1459,
     "to": 1510,
@@ -69273,6 +69233,15 @@
     "how": "neznamo",
     "from_approx": false,
     "to_approx": true
+   },
+   {
+    "place": "Q367343",
+    "from": 1426,
+    "to": 1438,
+    "person": "Zdeněk z Drštky",
+    "how": "lenni",
+    "from_approx": false,
+    "to_approx": false
    },
    {
     "place": "Q367343",
@@ -69310,9 +69279,9 @@
    },
    {
     "place": "Q19800573",
-    "year": 1390,
+    "year": 1447,
     "from": "z-ronsperka",
-    "to": "z-drstky",
+    "to": "pani-z-rican",
     "how": "dedictvi"
    },
    {
@@ -69324,8 +69293,8 @@
    },
    {
     "place": "Q367343",
-    "year": 1438,
-    "from": "z-drstky",
+    "year": 1426,
+    "from": "cirkev",
     "to": "z-ronsperka",
     "how": "lenni"
    },
@@ -70735,64 +70704,6 @@
   "place_count": 1,
   "color_slot": null
  },
- "z-sovojovic": {
-  "id": "z-sovojovic",
-  "type": "rod",
-  "name": "z-sovojovic",
-  "related": [],
-  "places": [
-   {
-    "place": "Q1749959",
-    "from": 1546,
-    "to": 1550,
-    "person": "rytíř Markvart Stranovský ze Sovojovic",
-    "how": "neznamo",
-    "from_approx": false,
-    "to_approx": false
-   },
-   {
-    "place": "Q3501132",
-    "from": 1463,
-    "to": 1545,
-    "person": "Jaroš ze Sovojovic",
-    "how": "zalozeni",
-    "from_approx": false,
-    "to_approx": true
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q1749959",
-    "year": 1546,
-    "from": "trckove-z-lipy",
-    "to": "z-sovojovic",
-    "how": "neznamo"
-   },
-   {
-    "place": "Q1749959",
-    "year": 1550,
-    "from": "z-sovojovic",
-    "to": "z-pteni",
-    "how": "neznamo"
-   },
-   {
-    "place": "Q3501132",
-    "year": 1463,
-    "from": "z-stranova",
-    "to": "z-sovojovic",
-    "how": "zalozeni"
-   },
-   {
-    "place": "Q3501132",
-    "year": 1545,
-    "from": "z-sovojovic",
-    "to": "berkove-z-dube",
-    "how": "neznamo"
-   }
-  ],
-  "place_count": 2,
-  "color_slot": null
- },
  "z-sparnaku": {
   "id": "z-sparnaku",
   "type": "rod",
@@ -71109,41 +71020,6 @@
   "place_count": 1,
   "color_slot": null
  },
- "z-stetenberka": {
-  "id": "z-stetenberka",
-  "type": "rod",
-  "name": "z-stetenberka",
-  "related": [],
-  "places": [
-   {
-    "place": "Q1012297",
-    "from": 1484,
-    "to": 1484,
-    "person": "Jindřich ze Štetenberka a jeho stejnojmenný bratr",
-    "how": "koupe",
-    "from_approx": false,
-    "to_approx": false
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q1012297",
-    "year": 1484,
-    "from": "z-cenova",
-    "to": "z-stetenberka",
-    "how": "koupe"
-   },
-   {
-    "place": "Q1012297",
-    "year": 1484,
-    "from": "z-stetenberka",
-    "to": "rozmberkove",
-    "how": "lenni"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
  "z-stinavy": {
   "id": "z-stinavy",
   "type": "rod",
@@ -71235,7 +71111,7 @@
     "place": "Q3501132",
     "year": 1463,
     "from": "z-stranova",
-    "to": "z-sovojovic",
+    "to": "stranovsti-ze-sovojovic",
     "how": "zalozeni"
    }
   ],
@@ -73318,41 +73194,6 @@
   "place_count": 1,
   "color_slot": null
  },
- "z-zdounek": {
-  "id": "z-zdounek",
-  "type": "rod",
-  "name": "z-zdounek",
-  "related": [],
-  "places": [
-   {
-    "place": "Q916931",
-    "from": 1429,
-    "to": 1450,
-    "person": "Štěpán ze Zdounek a Vartnova",
-    "how": "dar",
-    "from_approx": false,
-    "to_approx": true
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q916931",
-    "year": 1429,
-    "from": "pani-z-holstejna",
-    "to": "z-zdounek",
-    "how": "dar"
-   },
-   {
-    "place": "Q916931",
-    "year": 1450,
-    "from": "z-zdounek",
-    "to": "neznamo",
-    "how": "dedictvi"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
  "z-zeletic": {
   "id": "z-zeletic",
   "type": "rod",
@@ -73402,6 +73243,15 @@
     "how": "neznamo",
     "from_approx": true,
     "to_approx": true
+   },
+   {
+    "place": "Q2142483",
+    "from": 1260,
+    "to": 1278,
+    "person": "Čéč z Budivojovic",
+    "how": "lenni",
+    "from_approx": true,
+    "to_approx": true
    }
   ],
   "transfers": [
@@ -73418,9 +73268,23 @@
     "from": "z-zeleznice",
     "to": "z-pecky",
     "how": "dedictvi"
+   },
+   {
+    "place": "Q2142483",
+    "year": 1260,
+    "from": "koruna",
+    "to": "z-zeleznice",
+    "how": "lenni"
+   },
+   {
+    "place": "Q2142483",
+    "year": 1278,
+    "from": "z-zeleznice",
+    "to": "koruna",
+    "how": "jine"
    }
   ],
-  "place_count": 1,
+  "place_count": 2,
   "color_slot": null
  },
  "z-zlunic": {
@@ -78336,7 +78200,7 @@
     "place": "Q367343",
     "year": 1426,
     "from": "cirkev",
-    "to": "z-drstky",
+    "to": "z-ronsperka",
     "how": "lenni"
    },
    {
@@ -79295,7 +79159,7 @@
    {
     "place": "Q1012711",
     "year": 1807,
-    "from": "z-reillyu",
+    "from": "sweerts-sporckove",
     "to": "neznamo",
     "how": "koupe"
    },
@@ -79953,7 +79817,7 @@
    {
     "place": "Q916931",
     "year": 1450,
-    "from": "z-zdounek",
+    "from": "pani-z-holstejna",
     "to": "neznamo",
     "how": "dedictvi"
    },
@@ -91044,13 +90908,13 @@
     "place": "Q2142483",
     "year": 1260,
     "from": "koruna",
-    "to": "z-budivojovic",
+    "to": "z-zeleznice",
     "how": "lenni"
    },
    {
     "place": "Q2142483",
     "year": 1278,
-    "from": "z-budivojovic",
+    "from": "z-zeleznice",
     "to": "koruna",
     "how": "jine"
    },
