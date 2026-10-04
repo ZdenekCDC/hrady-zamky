@@ -46169,6 +46169,15 @@
     "to_approx": true
    },
    {
+    "place": "Q10531093",
+    "from": 1572,
+    "to": null,
+    "person": "Jaroslav Smiřický ze Smiřic",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
     "place": "Q1186381",
     "from": 1445,
     "to": 1453,
@@ -46361,6 +46370,13 @@
     "how": "neznamo"
    },
    {
+    "place": "Q10531093",
+    "year": 1572,
+    "from": "z-kralovic",
+    "to": "smiricti-ze-smiric",
+    "how": "koupe"
+   },
+   {
     "place": "Q1186381",
     "year": 1445,
     "from": "pani-z-michalovic",
@@ -46501,7 +46517,7 @@
     "how": "konfiskace"
    }
   ],
-  "place_count": 12,
+  "place_count": 13,
   "color_slot": null
  },
  "sofove-z-helfenburka": {
@@ -51475,7 +51491,7 @@
    {
     "place": "Q10531093",
     "from": 1485,
-    "to": null,
+    "to": 1544,
     "person": null,
     "how": "koupe",
     "from_approx": false,
@@ -51834,6 +51850,13 @@
     "year": 1485,
     "from": "mesto",
     "to": "trckove-z-lipy",
+    "how": "koupe"
+   },
+   {
+    "place": "Q10531093",
+    "year": 1551,
+    "from": "trckove-z-lipy",
+    "to": "z-kralovic",
     "how": "koupe"
    },
    {
@@ -62696,6 +62719,15 @@
   "related": [],
   "places": [
    {
+    "place": "Q10531093",
+    "from": 1551,
+    "to": 1572,
+    "person": "Ladislav Ostrovec z Kralovic",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
     "place": "Q1749959",
     "from": 1624,
     "to": 1784,
@@ -62724,6 +62756,20 @@
    }
   ],
   "transfers": [
+   {
+    "place": "Q10531093",
+    "year": 1551,
+    "from": "trckove-z-lipy",
+    "to": "z-kralovic",
+    "how": "koupe"
+   },
+   {
+    "place": "Q10531093",
+    "year": 1572,
+    "from": "z-kralovic",
+    "to": "smiricti-ze-smiric",
+    "how": "koupe"
+   },
    {
     "place": "Q1749959",
     "year": 1624,
@@ -62767,7 +62813,7 @@
     "how": "koupe"
    }
   ],
-  "place_count": 3,
+  "place_count": 4,
   "color_slot": null
  },
  "z-kraselova": {
@@ -81684,7 +81730,7 @@
     "person": null,
     "how": "konfiskace",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q28472056",

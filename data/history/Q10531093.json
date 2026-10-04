@@ -6,7 +6,7 @@
   "approx": true,
   "text": "Hrad vznikl zřejmě v letech 1260-1270 (cs.wiki: krátce po 1260); stavebníkem byl pravděpodobně Ondřej ze Všechrom, nejvyšší komoří Přemysla Otakara II. (web města Říčany uvádí spíše jeho otce Petra, muzeum Říčany upozorňuje, že Ondřej zemřel 1277 a v pramenech jeho doby není s Říčany spojen); poprvé písemně připomínán 1289"
  },
- "summary": "Hrad Říčany vznikl v letech 1260-1270 a postavil jej pravděpodobně Ondřej ze Všechrom, nejvyšší komoří Přemysla Otakara II. a předek rodu pánů z Říčan, kteří na něm sídlili do roku 1420. V listopadu 1420 jej po obležení vyhladověním dobyli pražané a táborité Jana Žižky, majitel Diviš z Říčan byl zajat a hrad zůstal v majetku pražanů (Nového Města pražského) do roku 1485. Poté patřil Trčkům z Lípy, kteří jej nechali zpustnout; roku 1544 je uváděn jako pustý a dnes je volně přístupnou zříceninou.",
+ "summary": "Hrad Říčany vznikl v letech 1260-1270 a postavil jej pravděpodobně Ondřej ze Všechrom, nejvyšší komoří Přemysla Otakara II. a předek rodu pánů z Říčan, kteří na něm sídlili do roku 1420. V listopadu 1420 jej po obležení vyhladověním dobyli pražané a táborité Jana Žižky, majitel Diviš z Říčan byl zajat a hrad zůstal v majetku pražanů (Nového Města pražského) do roku 1485. Poté patřil Trčkům z Lípy, kteří jej nechali zpustnout (1544 uváděn jako pustý); roku 1551 panství koupili Ostrovci z Kralovic a 1572 Smiřičtí ze Smiřic. Dnes je volně přístupnou zříceninou.",
  "owners": [
   {
    "owner": "pani-z-rican",
@@ -79,11 +79,33 @@
    "owner_wiki": "Trčkové z Lípy",
    "person": null,
    "from": 1485,
+   "to": 1544,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Trčkové z Lípy drželi Říčany podle webu města 1485-1544 a hrad zcela zanedbali (sídlili ve Vlašimi či v Praze); po roce 1516 ho nechali zpustnout; 1544 uveden jako pustý (Jan Trčka sídlící na Lichtenburce tehdy panství upsal bratranci Vilémovi - CZ-Milka, slabší zdroj); cs.wiki uvádí získání v 80. letech 15. stol. (CZ-Milka: pravděpodobně po 1486)"
+  },
+  {
+   "owner": "z-kralovic",
+   "owner_wiki": null,
+   "person": "Ladislav Ostrovec z Kralovic",
+   "from": 1551,
+   "to": 1572,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil panství 1551, po něm Jetřich Ostrovec, který je zadlužil; 1572 přenechal polorozbořený hrad Smiřickému (CZ-Milka, amatérský zdroj, jen jeden zdroj; mezi 1544 a 1551 držitel neuveden)"
+  },
+  {
+   "owner": "smiricti-ze-smiric",
+   "owner_wiki": "Smiřičtí ze Smiřic",
+   "person": "Jaroslav Smiřický ze Smiřic",
+   "from": 1572,
    "to": null,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "Trčkové z Lípy drželi Říčany podle webu města 1485-1544 a hrad zcela zanedbali (sídlili ve Vlašimi či v Praze); po roce 1516 ho nechali zpustnout, 1544 uveden jako pustý; pozdější majitelé a dnešní vlastník zdroje neuvádějí"
+   "note": "koupil panství 1572 (web města Říčany potvrzuje 1572; hrad a dvůr tehdy označeny jako zpustlé), po sedmi letech přenesl sídlo do Uhříněvsi; další držitelé ani dnešní vlastník ruiny ve zdrojích nenalezeny (město Říčany zříceninu spravuje a financuje její úpravy, vlastnictví ale výslovně neuvedeno)"
   }
  ],
  "events": [
@@ -113,6 +135,9 @@
   "https://www.ricany.cz/mesto/historie/ricansky-hrad/",
   "https://www.ricany.cz/mesto/historie/",
   "https://muzeumricany.cz/pani-z-rican-ve-stredoveku-dil-1-ondrej-ze-vsechrom/",
-  "https://www.atlasceska.cz/pamatky/zricenina-hradu-ricany-21491"
+  "https://www.atlasceska.cz/pamatky/zricenina-hradu-ricany-21491",
+  "https://www.cz-milka.net/pamatky/04-mesta-a-obce/ricany-(vcetne-hradu)/",
+  "https://www.ricany.cz/radnice/finance-a-majetek-mesta/dotacni-projekty-mesta/ricansky-hrad-konzervace-puvodni-goticke-veze-donjon/",
+  "https://isadtest.npu.cz/ricany-stredoveky-hrad-a-intravilan-obce-8504"
  ]
 }
