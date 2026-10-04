@@ -12356,7 +12356,7 @@
     "to": 1906,
     "person": null,
     "how": "dedictvi",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -12471,8 +12471,8 @@
     "place": "Q1011302",
     "year": 1906,
     "from": "haugvicove-z-biskupic",
-    "to": "radziwiove",
-    "how": "neznamo"
+    "to": "zamoysti",
+    "how": "koupe"
    },
    {
     "place": "Q11816208",
@@ -15007,11 +15007,11 @@
   "places": [
    {
     "place": "Q1011302",
-    "from": 1617,
+    "from": 1612,
     "to": 1739,
     "person": "Fridrich Jankovský z Vlašimi",
     "how": "koupe",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -15027,7 +15027,7 @@
   "transfers": [
    {
     "place": "Q1011302",
-    "year": 1617,
+    "year": 1612,
     "from": "z-svarcenavy",
     "to": "jankovsti-z-vlasimi",
     "how": "koupe"
@@ -21453,11 +21453,11 @@
    {
     "place": "Q1011302",
     "from": 1307,
-    "to": 1576,
+    "to": 1572,
     "person": null,
     "how": "neznamo",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q1012914",
@@ -40332,21 +40332,21 @@
   "places": [
    {
     "place": "Q1011302",
-    "from": 1906,
+    "from": 1908,
     "to": 1912,
     "person": "kníže František Radziwiłł (synovec Jana Zamoyského)",
-    "how": "neznamo",
-    "from_approx": true,
+    "how": "koupe",
+    "from_approx": false,
     "to_approx": false
    }
   ],
   "transfers": [
    {
     "place": "Q1011302",
-    "year": 1906,
-    "from": "haugvicove-z-biskupic",
+    "year": 1908,
+    "from": "zamoysti",
     "to": "radziwiove",
-    "how": "neznamo"
+    "how": "koupe"
    },
    {
     "place": "Q1011302",
@@ -41703,11 +41703,11 @@
    },
    {
     "place": "Q366087",
-    "from": 1559,
+    "from": 1561,
     "to": 1563,
     "person": "Vilém z Rožmberka",
     "how": "koupe",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": true
    },
    {
@@ -42188,7 +42188,7 @@
    },
    {
     "place": "Q366087",
-    "year": 1559,
+    "year": 1561,
     "from": "z-libejovic",
     "to": "rozmberkove",
     "how": "koupe"
@@ -42840,7 +42840,7 @@
     "to": 1797,
     "person": "Karel Otto ze Salmu a po něm Karel Vincent ze Salmu",
     "how": "snatek",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -47498,15 +47498,24 @@
     "person": "Zdeněk Sternberg",
     "how": "restituce",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q1014747",
     "from": 2021,
-    "to": null,
+    "to": 2026,
     "person": "Filip Sternberg",
     "how": "dedictvi",
-    "from_approx": true,
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q1014747",
+    "from": 2026,
+    "to": null,
+    "person": "Anastasia Sternberg (*1999), dcera Filipa",
+    "how": "dedictvi",
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -49443,11 +49452,11 @@
    {
     "place": "Q366087",
     "from": 1380,
-    "to": 1549,
+    "to": 1544,
     "person": "Půta Švihovský z Rýzmberka",
     "how": "neznamo",
-    "from_approx": true,
-    "to_approx": true
+    "from_approx": false,
+    "to_approx": false
    },
    {
     "place": "Q369547",
@@ -49581,7 +49590,7 @@
    },
    {
     "place": "Q366087",
-    "year": 1549,
+    "year": 1544,
     "from": "svihovsti-z-ryzmberka",
     "to": "z-trachenberka",
     "how": "koupe"
@@ -56442,7 +56451,7 @@
     "place": "Q1969206",
     "from": 1693,
     "to": 1755,
-    "person": "Arnošt Bedřich z Windischgrätze, jeho syn Leopold a Windischgrätzové",
+    "person": "Arnošt Bedřich z Windischgrätze (manžel Marie Terezie Slavatové), jeho syn Leopold a Windischgrätzové",
     "how": "snatek",
     "from_approx": false,
     "to_approx": false
@@ -63779,11 +63788,11 @@
    {
     "place": "Q366087",
     "from": 1557,
-    "to": 1559,
+    "to": 1561,
     "person": "Diviš Malovec z Libějovic",
     "how": "koupe",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    }
   ],
   "transfers": [
@@ -63796,7 +63805,7 @@
    },
    {
     "place": "Q366087",
-    "year": 1559,
+    "year": 1561,
     "from": "z-libejovic",
     "to": "rozmberkove",
     "how": "koupe"
@@ -70552,11 +70561,11 @@
    {
     "place": "Q1011302",
     "from": 1576,
-    "to": 1617,
-    "person": "Volf Strejn ze Švarcenavy",
+    "to": 1612,
+    "person": "Wolf Strein ze Švarcenavy, po něm syn Hanuš Wolfart",
     "how": "koupe",
-    "from_approx": true,
-    "to_approx": true
+    "from_approx": false,
+    "to_approx": false
    },
    {
     "place": "Q1417125",
@@ -70614,7 +70623,7 @@
    },
    {
     "place": "Q1011302",
-    "year": 1617,
+    "year": 1612,
     "from": "z-svarcenavy",
     "to": "jankovsti-z-vlasimi",
     "how": "koupe"
@@ -71049,11 +71058,11 @@
    },
    {
     "place": "Q366087",
-    "from": 1549,
+    "from": 1544,
     "to": 1557,
-    "person": "Jindřich Krucpach z Trachenberka",
+    "person": "Jindřich Kurcpach z Trachenburka",
     "how": "koupe",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false
    }
   ],
@@ -71088,7 +71097,7 @@
    },
    {
     "place": "Q366087",
-    "year": 1549,
+    "year": 1544,
     "from": "svihovsti-z-ryzmberka",
     "to": "z-trachenberka",
     "how": "koupe"
@@ -73608,6 +73617,41 @@
     "year": 1528,
     "from": "zajimacove-z-kunstatu",
     "to": "soukromnik",
+    "how": "koupe"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
+ "zamoysti": {
+  "id": "zamoysti",
+  "type": "rod",
+  "name": "zamoysti",
+  "related": [],
+  "places": [
+   {
+    "place": "Q1011302",
+    "from": 1906,
+    "to": 1908,
+    "person": "Jan I. hrabě Zamoyski (Zamojski)",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q1011302",
+    "year": 1906,
+    "from": "haugvicove-z-biskupic",
+    "to": "zamoysti",
+    "how": "koupe"
+   },
+   {
+    "place": "Q1011302",
+    "year": 1908,
+    "from": "zamoysti",
+    "to": "radziwiove",
     "how": "koupe"
    }
   ],

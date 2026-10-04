@@ -6,7 +6,7 @@
   "approx": false,
   "text": "hrad založil roku 1241 Zdeslav z Divišova, jméno odvozeno od erbu hvězdy (Stern-Berg)"
  },
- "summary": "Český Šternberk založil roku 1241 Zdeslav z Divišova a po hradu se jeho potomci nazývali Šternberkové. Hrad ve 15. století držela větev Holických ze Šternberka, po dobytí vojskem Jiřího z Poděbrad 1467 jej krátce drželi jiní a roku 1479 byl rodu vrácen. Po vymření Holických 1712 patřil hrad řadě cizích rodů (Götzové, Roggendorfové, Čejkové z Olbramovic, Hirschové, Somsichové), až jej roku 1841 koupil zpět Zdeněk ze Šternberka; 1949 byl vyvlastněn státem a roku 1992 vrácen v restituci rodině Sternbergů.",
+ "summary": "Český Šternberk založil roku 1241 Zdeslav z Divišova a po hradu se jeho potomci nazývali Šternberkové. Hrad ve 15. století držela větev Holických ze Šternberka, po dobytí vojskem Jiřího z Poděbrad 1467 jej krátce drželi jiní a roku 1479 byl rodu vrácen. Po vymření Holických 1712 patřil hrad řadě cizích rodů (Götzové, Roggendorfové, Čejkové z Olbramovic, Hirschové, Somsichové), až jej roku 1841 koupil zpět Zdeněk ze Šternberka; 1949 byl vyvlastněn státem a roku 1992 vrácen v restituci rodině Sternbergů (Zdeněk, od 2021 Filip, od září 2026 správu přebírá dcera Anastasia).",
  "owners": [
   {
    "owner": "sternberkove",
@@ -147,20 +147,31 @@
    "from": 1992,
    "to": 2021,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "restituce",
-   "note": "restituce 1992 podle oficiálního webu hradu a cs.wiki (cs.wiki Šternberkové uvádí 1991); syn Jiřího"
+   "note": "restituce 1992 podle oficiálního webu hradu (hradceskysternberk.cz: 'po restitucích v roce 1992') a cs.wiki (cs.wiki Šternberkové uvádí 1991); syn Jiřího; zemřel 2021"
   },
   {
    "owner": "sternberkove",
    "owner_wiki": "Šternberkové",
    "person": "Filip Sternberg",
    "from": 2021,
-   "to": null,
-   "from_approx": true,
+   "to": 2026,
+   "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "syn Zdeňka, zdědil po jeho smrti 2021; cs.wiki (Šternberkové) uvádí úmrtí Filipa Sternberga 2026, nástupce zdroje neuvádějí - současný majitel neověřen"
+   "note": "syn Zdeňka, po jeho smrti 2021 zdědil hrad; zemřel 5. 9. 2026 ve Vídni (web hradu, ČTK/Blesk, cs.wiki)"
+  },
+  {
+   "owner": "sternberkove",
+   "owner_wiki": "Šternberkové",
+   "person": "Anastasia Sternberg (*1999), dcera Filipa",
+   "from": 2026,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "web hradu a ČTK (9/2026): správu rodového majetku po otci převezme dcera Anastasia; formální dědické řízení / zápis vlastnictví zdroje neuvádějí"
   }
  ],
  "events": [
@@ -199,11 +210,17 @@
   {
    "year": 1992,
    "text": "restituce hradu Zdeňku Sternbergovi"
+  },
+  {
+   "year": 2026,
+   "text": "úmrtí majitele Filipa Sternberga (5. 9.), správu rodového majetku přebírá dcera Anastasia"
   }
  ],
  "sources": [
   "https://cs.wikipedia.org/wiki/Český_Šternberk_(hrad)",
   "https://hradceskysternberk.cz/historiehrad.html",
-  "https://www.apsida.cz/hrady/strednicechy/okrbene/csternberk/csternberk.htm"
+  "https://www.apsida.cz/hrady/strednicechy/okrbene/csternberk/csternberk.htm",
+  "https://hradceskysternberk.cz/novinky.php",
+  "https://www.blesk.cz/clanek/zpravy-udalosti/847666/zemrel-filip-sternberg-69-majitel-hradu-cesky-sternberk-podlehl-tezke-nemoci.html"
  ]
 }

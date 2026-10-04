@@ -6,7 +6,7 @@
   "approx": true,
   "text": "1. polovina 13. století (cs.wiki: Wittelsbachové), podle hrad-rabi.cz až 1. polovina 14. století (páni z Rýzmberka), podle hrady.cz kolem 1300 páni z Velhartic/Budětic; založení není písemně doloženo"
  },
- "summary": "Rabí je největší hradní zřícenina v Čechách, založená ve 13. století Wittelsbachy a od roku 1273 v držení pánů z Velhartic/Budětic, po nichž hrad zdědili Švihovští z Rýzmberka. Ti jej na konci 15. a počátkem 16. století rozšířili velkorysou pozdně gotickou přestavbou, finančně ji ale nezvládli a roku 1549 hrad prodali. Po sérii dalších majitelů hrad roku 1708 koupili Lambergové, za nichž vyhořel a přestal být obýván. Ve 20. století přešel do veřejného vlastnictví a od roku 2003 jej jako zříceninu a muzeum spravuje Národní památkový ústav.",
+ "summary": "Rabí je největší hradní zřícenina v Čechách, založená ve 13. století Wittelsbachy a od roku 1273 v držení pánů z Velhartic/Budětic, po nichž hrad zdědili Švihovští z Rýzmberka. Ti jej na konci 15. a počátkem 16. století rozšířili velkorysou pozdně gotickou přestavbou, finančně ji ale nezvládli a hrad prodali (1544 podle webu hradu, 1549 podle cs.wiki). Po sérii dalších majitelů hrad roku 1708 koupili Lambergové, za nichž vyhořel a přestal být obýván. Ve 20. století přešel do veřejného vlastnictví a od roku 2003 jej jako zříceninu a muzeum spravuje Národní památkový ústav.",
  "owners": [
   {
    "owner": "wittelsbachove",
@@ -16,7 +16,7 @@
    "from_approx": true,
    "to_approx": false,
    "how": "zalozeni",
-   "note": "cs.wiki: hrad postaven nejspíše Wittelsbachy v severní části jejich panství (vrácené Čechám 1273); založení není doloženo, hrady.cz a obec Slatina uvádějí vlastníky až páni z Velhartic/Budětic"
+   "note": "cs.wiki: hrad postaven nejspíše Wittelsbachy v 1. pol. 13. stol. (románské zdivo; panství vráceno Čechám 1273); založení není písemně doloženo; oficiální web hradu (NPÚ) naopak uvádí vznik až v 1. pol. / polovině 14. stol. za pánů z Rýzmberka (Švihovských), hrady.cz a obec Slatina pány z Velhartic/Budětic - rozpor nerozřešen"
   },
   {
    "owner": "pani-z-velhartic",
@@ -26,51 +26,51 @@
    "from_approx": false,
    "to_approx": true,
    "how": "neznamo",
-   "note": "větev pánů z Velhartic sídlící na Buděticích, podle hrady.cz zakladatelé hradu kolem 1300; kdy a jak hrad získali Švihovští, není známo; první písemná zmínka až 1380 (Půta Švihovský)"
+   "note": "větev pánů z Velhartic sídlící na Buděticích (cs.wiki: získali hrad po 1273); hrady.cz je uvádí jako zakladatele kolem 1300; oficiální web hradu tohoto majitele neuvádí a vede Rýzmberky od poloviny 14. stol.; kdy a jak hrad získali Švihovští, není známo; první držitel doložený webem hradu Půta z Rýzmberka od 1380"
   },
   {
    "owner": "svihovsti-z-ryzmberka",
    "owner_wiki": "Švihovští z Rýzmberka",
    "person": "Půta Švihovský z Rýzmberka",
    "from": 1380,
-   "to": 1549,
-   "from_approx": true,
-   "to_approx": true,
+   "to": 1544,
+   "from_approx": false,
+   "to_approx": false,
    "how": "neznamo",
-   "note": "postupně vlastnili Půta, Břeněk, Jan Rabský, Vilém mladší, Půta ml. a jeho synové Břetislav a Vilém; za husitských válek hrad roku 1420-1421 obléhal Jan Žižka, pozdně gotickou přestavbu s Benediktem Rejtem zahájil Půta Švihovský; kvůli vysokým nákladům přestavby rod roku 1549 hrad prodal; hrad-rabi.cz: rod založil hrad ve 14. století a držel jej do 1544, cs.wiki a hrady.cz 1549"
+   "note": "web hradu (NPÚ, přehled majitelů): Půta 1380-1399, Břeněk 1399-1407, Jan 1407-1450, Vilém ml. 1450-1479, Půta Švihovský 1480-1504, Vilém a Břetislav 1505-1544; husitské obléhání 1420 a 1421 (Žižka přišel o oko); pozdně gotická přestavba za Půty Švihovského; rod se zadlužil a dědictví rozprodával; konec držby 1544 dle webu hradu (detailní seznam), cs.wiki a hrady.cz 1549 - rozpor"
   },
   {
    "owner": "z-trachenberka",
    "owner_wiki": null,
-   "person": "Jindřich Krucpach z Trachenberka",
-   "from": 1549,
+   "person": "Jindřich Kurcpach z Trachenburka",
+   "from": 1544,
    "to": 1557,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "web hradu uvádí období 1544-1557, cs.wiki a hrady.cz od 1549"
+   "note": "web hradu (NPÚ) 1544-1557; cs.wiki a hrady.cz od 1549"
   },
   {
    "owner": "z-libejovic",
    "owner_wiki": null,
    "person": "Diviš Malovec z Libějovic",
    "from": 1557,
-   "to": 1559,
+   "to": 1561,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "koupe",
-   "note": "web hradu 1557-1561, cs.wiki a hrady.cz do 1559"
+   "note": "web hradu (NPÚ) 1557-1561; cs.wiki a hrady.cz do 1559"
   },
   {
    "owner": "rozmberkove",
    "owner_wiki": "Rožmberkové",
    "person": "Vilém z Rožmberka",
-   "from": 1559,
+   "from": 1561,
    "to": 1563,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": true,
    "how": "koupe",
-   "note": "web hradu 1561-1563/1570, cs.wiki a hrady.cz 1559-1563"
+   "note": "web hradu (NPÚ) 1561-1563/1570 (konec nejistý); cs.wiki a hrady.cz 1559-1563"
   },
   {
    "owner": "chanovsti-z-dlouhe-vsi",
@@ -81,7 +81,7 @@
    "from_approx": true,
    "to_approx": false,
    "how": "koupe",
-   "note": "za třicetileté války hrad vyplenilo vojsko generála Mansfelda; po smrti Jana Viléma Chanovského (1625) byl majetek mezi dědice rozdělen, sjednocen zpět až Janem Vilémem mladším roku 1694, který již neobyvatelný hrad roku 1708 prodal; web hradu 1563/1570 a Jan Vilém mladší 1695-1708 (obec Slatina uvádí 1570)"
+   "note": "web hradu (NPÚ): Adam Chanovský od 1563/1570, dále Jan Vilém 1598-1607, Adam Přibík 1607-1620, Kryštof 1620-1628, Jan Jindřich 1628-1647, 1647-1672 tři bratři, Jan Jindřich 1672-1685, Jan Václav 1685-1695, Jan Vilém 1695-1708; za třicetileté války hrad vyplenilo Mansfeldovo vojsko; Jan Vilém ml. neobyvatelný hrad 1708 prodal; obec Slatina uvádí začátek 1570"
   },
   {
    "owner": "lambergove",
@@ -92,7 +92,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "kardinál Jan Filip koupil panství Rabí, hrad nebyl ve smlouvě ani uveden; krátce po koupi hrad vyhořel (1708/1710); sídlem Lambergů byl zámek v Žihobcích; kníže Gustav Jáchym zřídil vyhlídku; posledním soukromým vlastníkem byl hrabě Jindřich Lamberg, který se 1920 vzdal nároků za symbolickou 1 Kč"
+   "note": "kardinál Jan Filip koupil panství Rabí, hrad nebyl ve smlouvě ani uveden; krátce po koupi hrad vyhořel (1708/1710); sídlem Lambergů byl zámek v Žihobcích; kníže Gustav Jáchym zřídil vyhlídku; posledním soukromým vlastníkem byl hrabě Jindřich Lamberg, který se 1920 vzdal nároků za symbolickou 1 Kč; web hradu (NPÚ): Jan Filip 1708-1712, František Antonín 1712-1759, Jan Nepomuk 1759-1797, Karel Evžen 1797-1831, Gustav Jáchym 1831-1862, Gustav Vilém 1862-1886, František Emerich 1886-1901, Jindřich 1901-1920; hrad vyhořel v 1. pol. 18. stol."
   },
   {
    "owner": "soukromnik",
@@ -102,7 +102,7 @@
    "from_approx": false,
    "to_approx": true,
    "how": "dar",
-   "note": "krajanský spolek se sídlem v Horažďovicích (založen 1913), hrad od 1920 (hrady.cz: dar Lambergů) prováděl opravy a archeologický výzkum do 1947; hrady.cz uvádí po 1945 přechod na stát"
+   "note": "krajanský spolek se sídlem v Horažďovicích (založen 1913), hrad od 1920 (hrady.cz: dar Lambergů) prováděl opravy a archeologický výzkum do 1947; hrady.cz uvádí po 1945 přechod na stát; web hradu: spolek 1920-1953"
   },
   {
    "owner": "stat",
@@ -111,7 +111,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "dar",
-   "note": "1953 prohlášen státním kulturním majetkem, formální darovací smlouva se spolkem uzavřena 1954; ve 20. stol. spravováno ministerstvem školství a poté Státním ústavem památkové péče a ochrany přírody v Plzni, od roku 2003 Národním památkovým ústavem"
+   "note": "web hradu: státním hradem od 50. let 20. stol. (správa státu 1954, NKP 1978); cs.wiki: státní kulturní majetek 1953, darovací smlouva 1954; správa: ministerstvo školství, SÚPPOP Plzeň (1958-1990), SÚPP Plzeň, NPÚ ÚOP Plzeň (2002-2012), od 2013 NPÚ ÚPS České Budějovice (web hradu; cs.wiki uvádí NPÚ od 2003); dnešní vlastník stát (ČR)"
   }
  ],
  "events": [
@@ -126,7 +126,7 @@
   },
   {
    "year": 1549,
-   "text": "zadlužení Švihovští prodávají hrad kvůli nákladné přestavbě"
+   "text": "zadlužení Švihovští prodávají hrad kvůli nákladné přestavbě (rok dle cs.wiki a hrady.cz; web hradu uvádí konec držby 1544)"
   },
   {
    "year": 1625,
@@ -154,6 +154,7 @@
   "https://hrad-rabi.cz/cs/o-hradu/majitele-hradu",
   "https://www.hrad-rabi.cz/cs/o-hradu/strucna-historie",
   "https://www.hrady.cz/hrad-rabi-klatovy/texty?pos=300&tid=1707",
-  "https://obec-slatina.eu/rabi"
+  "https://obec-slatina.eu/rabi",
+  "https://www.hrad-rabi.cz/cs/o-hradu/stavebni-vyvoj"
  ]
 }

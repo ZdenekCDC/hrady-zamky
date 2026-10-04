@@ -6,7 +6,7 @@
   "approx": true,
   "text": "hrad založen v 11. století na místě velkomoravského hradiště jako první z řetězce hradů chránících jižní hranici přemyslovského státu; první písemná zmínka pochází z roku 1061"
  },
- "summary": "Bítov patřil od 11. do počátku 14. století přemyslovským knížatům a byl jedním z hradů chránících jižní hranici přemyslovského státu. Po roce 1307 jej drželi Lichtenburkové z Bítova, od počátku 17. století Jankovští z Vlašimi (barokní přestavba) a od roku 1755 Daunové, kteří provedli romantickou gotizující přestavbu. Po nich se vystřídali Haugwitzové, Radziwiłłové a od roku 1912 Haasové z Hasenfelsu, jimž byl roku 1945 konfiskován; od té doby je hrad státní a spravuje jej NPÚ.",
+ "summary": "Bítov patřil od 11. do počátku 14. století přemyslovským knížatům a byl jedním z hradů chránících jižní hranici přemyslovského státu. Po roce 1307 jej drželi Lichtenburkové z Bítova, od počátku 17. století Jankovští z Vlašimi (barokní přestavba) a od roku 1755 Daunové, kteří provedli romantickou gotizující přestavbu. Po nich se vystřídali Haugwitzové, Zamoyští, Radziwiłłové a od roku 1912 Haasové z Hasenfelsu, jimž byl roku 1945 konfiskován; od té doby je hrad státní a spravuje jej NPÚ.",
  "owners": [
   {
    "owner": "koruna",
@@ -21,31 +21,31 @@
    "owner": "lichtenburkove",
    "owner_wiki": "Lichtenburkové",
    "from": 1307,
-   "to": 1576,
+   "to": 1572,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "neznamo",
-   "note": "Lichtenburkové z Bítova vybudovali jádro hradu na východní straně; poslední mužský člen Jindřich zemřel 29. 9. 1572, dědičkami sestry; Soupis památek uvádí jako držitelku do 1576 neteř Ludmilu; web hradu 1307-1572"
+   "note": "Lichtenburkové z Bítova vybudovali jádro hradu na východní straně; poslední mužský člen Jindřich zemřel 29. 9. 1572, dědičkami sestry; web hradu a cs.wiki rod do 1572; Soupis památek vede jako držitelku do 1576 neteř Ludmilu (Ludmila Bítovská z Lichtenburka 1572-1576) - ta hrad 1576 prodala Streinovi (web hradu)"
   },
   {
    "owner": "z-svarcenavy",
-   "from_approx": true,
-   "to_approx": true,
+   "from_approx": false,
+   "to_approx": false,
    "how": "koupe",
-   "person": "Volf Strejn ze Švarcenavy",
+   "person": "Wolf Strein ze Švarcenavy, po něm syn Hanuš Wolfart",
    "from": 1576,
-   "to": 1617,
-   "note": "podle Soupisu památek (Encyklopedický přehled sídel); cs.wiki toto období neuvádí (1572-1612)"
+   "to": 1612,
+   "note": "web hradu: Ludmila prodala 1576 Wolfu Streinovi (znojemský hejtman), 'následujících 36 roků' panství Streinů, Hanuš Wolfart zadlužený (Uherčice) Bítov prodal 1612; Soupis památek uvádí Volfa Strejna 1576-1617 a Jankovské od 1617; cs.wiki (infobox) Jankovské od 1612; do 'to' dán rok 1612 (web hradu, egeon.cz, cs.wiki)"
   },
   {
    "owner": "jankovsti-z-vlasimi",
    "owner_wiki": "Jankovští z Vlašimi",
-   "from": 1617,
+   "from": 1612,
    "to": 1739,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "cs.wiki 1612, Soupis památek 1617 (Fridrich Jankovský koupil panství); za jejich držby hrad přestavěn na barokní opevněný zámek; Maxmilián II. povýšen do hraběcího stavu 1702; web hradu uvádí rod do 1755",
+   "note": "web hradu (prodej Streina 1612) a cs.wiki 1612; Soupis památek 1617 (Fridrich Jankovský koupil panství) - rozpor 1612 / 1617 nerozřešen; za jejich držby hrad přestavěn na barokní opevněný zámek; Maxmilián II. povýšen do hraběcího stavu 1702; web hradu: rod do dědického sporu rozhodnutého 1755 (Soupis památek rod do 1734/1736, cs.wiki do 1739)",
    "person": "Fridrich Jankovský z Vlašimi"
   },
   {
@@ -66,27 +66,38 @@
    "from_approx": false,
    "to_approx": true,
    "how": "neznamo",
-   "note": "1811-1863 romantická gotizující přestavba; 1846 nová podoba kaple a rodová hrobka (Jindřich Daun); Jindřich zemřel 1890 a jeho vdova rozprodala zařízení; cs.wiki uvádí konec 1890, web hradu a Soupis památek (hrabě Otakar Daun) 1904"
+   "note": "1811-1863 romantická gotizující přestavba; 1846 nová podoba kaple a rodová hrobka (Jindřich Daun); Jindřich zemřel 1890 a jeho vdova Antonie rozprodala zařízení paláce (web hradu); cs.wiki uvádí konec Daunů 1890, web hradu (úvodní strana) a Soupis památek (hrabě Otakar Daun do 1904) 1904; do 'to' dáno 1904 podle Soupisu a webu, rok 1890 označuje spíše smrt Jindřicha"
   },
   {
    "owner": "haugvicove-z-biskupic",
    "owner_wiki": "Haugvicové z Biskupic",
    "from": 1904,
    "to": 1906,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "Haugwitzové z Náměště nad Oslavou, dědicové Daunů; cs.wiki 1890-1906, web hradu 1904-1906; zařízení přestěhovali na Náměšť"
+   "note": "Haugwitzové z Náměště nad Oslavou, dědicové Daunů; web hradu a Soupis památek (od r. 1904) 1904-1906; cs.wiki 1890-1906; zařízení přestěhovali na Náměšť; 1906 Bítov prodali (Zamoyskému za 3 mil. korun - web hradu)"
   },
   {
-   "owner": "radziwi-ove",
-   "from_approx": true,
-   "to_approx": false,
-   "how": "neznamo",
-   "person": "kníže František Radziwiłł (synovec Jana Zamoyského)",
+   "owner": "zamoysti",
+   "owner_wiki": null,
+   "person": "Jan I. hrabě Zamoyski (Zamojski)",
    "from": 1906,
+   "to": 1908,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "web hradu: koupil 1906 od Haugwitzů za 3 mil. korun, na Bítově jen 2 roky, 1908 hrad přešel na synovce Františka Radziwiłła; egeon.cz shodně"
+  },
+  {
+   "owner": "radziwiove",
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "person": "kníže František Radziwiłł (synovec Jana Zamoyského)",
+   "from": 1908,
    "to": 1912,
-   "note": "web hradu: Bítov převzal 1908 kníže František Radziwiłł, jediný knížecí rod v dějinách Bítova; 1912 jej prodal Haasovi; Soupis památek uvádí Zamoyské a Radziwiłły",
+   "note": "web hradu: Bítov převzal 1908 kníže František Radziwiłł, jediný knížecí rod v dějinách Bítova; 1912 jej prodal Haasovi; Soupis památek uvádí Zamoyské a Radziwiłły bez let",
    "owner_wiki": "Radziwiłłové"
   },
   {
@@ -107,7 +118,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "hrad spravuje Národní památkový ústav"
+   "note": "hrad spravuje Národní památkový ústav; Soupis památek: od 1945 stát, od 2003 ČR - NPÚ (ÚOP Brno); cs.wiki: současný majitel Česká republika"
   }
  ],
  "events": [
@@ -155,6 +166,8 @@
  "sources": [
   "https://cs.wikipedia.org/wiki/Bítov_(hrad)",
   "https://www.hrad-bitov.cz/cs/o-hradu/historie",
-  "https://www.soupispamatek.cz/arl-kcz/cs/detail-kcz_un_auth-0000130-Hrad-Bitov/"
+  "https://www.soupispamatek.cz/arl-kcz/cs/detail-kcz_un_auth-0000130-Hrad-Bitov/",
+  "https://www.hrad-bitov.cz/cs",
+  "https://egeon.cz/cile/604/hrad-bitov?c=9538"
  ]
 }
