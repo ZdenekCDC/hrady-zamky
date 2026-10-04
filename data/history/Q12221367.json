@@ -1,0 +1,131 @@
+{
+ "id": "Q12221367",
+ "name": "Třebešice",
+ "founded": {
+  "year": null,
+  "approx": false,
+  "text": "13. století - podle farní kroniky tvrz Třebešice a tvrz Debrník; renesanční zámek vznikl po roce 1544"
+ },
+ "summary": "Zámek v Třebešicích vznikl z tvrze, kterou podle farní kroniky ve 13. století založili vladykové Valkoun, Jan a Jaroslav. Po vymření rodu získali panství Záhorové ze Záhoří, kteří si postavili nové sídlo blíže kostela; později jej drželi Věžníkové, Sohierové z Windmühle a Götzové. Od roku 1752 do pozemkové reformy 1924 patřil Emauzskému klášteru v Praze, pak Františku Šestákovi, a po letech užívání JZD jej roku 2009 koupili manželé Valdovi, kteří jej do roku 2020 zrekonstruovali.",
+ "owners": [
+  {
+   "owner": "z-trebesic",
+   "owner_wiki": null,
+   "person": "Valkoun, Jan a Jaroslav (vladykové z Třebešic)",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "podle farní kroniky zakladatelé tvrze; rod vymřel brzy po polovině 15. století (Valkoun z Třebešic pomáhal Jiřímu z Poděbrad)"
+  },
+  {
+   "owner": "z-zahori",
+   "owner_wiki": null,
+   "person": "Václav Záhora ze Záhoří",
+   "from": 1544,
+   "to": 1599,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "dedictvi",
+   "note": "roku 1544 vložil do obnovených zemských desk dědictví (tvrz, dvůr, ves); rok konce odvozen z koupě panství roku 1599"
+  },
+  {
+   "owner": "veznikove-z-veznik",
+   "owner_wiki": "Věžníkové z Věžník",
+   "person": "Václav Věžník z Věžníka",
+   "from": 1599,
+   "to": 1651,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe"
+  },
+  {
+   "owner": "sohierove-z-windmuhle",
+   "owner_wiki": null,
+   "person": "Tomáš Sohier z Windmühle",
+   "from": 1651,
+   "to": 1704,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "rok konce odvozen z nabytí zámku roku 1704"
+  },
+  {
+   "owner": "gotzenove",
+   "owner_wiki": null,
+   "person": "Judita Alžběta, manželka Jana Maxmiliána hraběte z Götzu",
+   "from": 1704,
+   "to": 1752,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "způsob nabytí zdroj neuvádí; roku 1752 zámek prodala Marie Barbora z Roggendorfu, rozená z Götzu"
+  },
+  {
+   "owner": "cirkev",
+   "owner_wiki": null,
+   "person": "Emauzský klášter v Praze",
+   "from": 1752,
+   "to": 1924,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "František Šesták",
+   "from": 1924,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil zámek s lihovarem při pozemkové reformě; rodina byla v 50. letech násilně vystěhována a zámek užívalo místní JZD (vlastnictví v té době zdroj neuvádí)"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Eliška a Igor Valdovi",
+   "from": 2009,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "zámek v letech 2009-2020 zrekonstruovali; 2018 hlavní cena Patrimonium pro futuro"
+  }
+ ],
+ "events": [
+  {
+   "year": 1544,
+   "text": "Václav Záhora ze Záhoří vkládá do zemských desk dědictví v Třebešicích"
+  },
+  {
+   "year": 1599,
+   "text": "záznam o koupi panství Václavem Věžníkem z Věžníka"
+  },
+  {
+   "year": 1752,
+   "text": "zámek koupil Emauzský klášter v Praze"
+  },
+  {
+   "year": 1773,
+   "text": "datace na jižním štítu barokního špýcharu"
+  },
+  {
+   "year": 1924,
+   "text": "pozemková reforma, zámek s lihovarem koupil František Šesták"
+  },
+  {
+   "year": 1965,
+   "text": "zámecký areál prohlášen kulturní památkou"
+  },
+  {
+   "year": 2009,
+   "text": "koupě zámku manžely Valdovými, rekonstrukce 2009-2020"
+  }
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Třebešice_(zámek,_okres_Benešov)"
+ ]
+}

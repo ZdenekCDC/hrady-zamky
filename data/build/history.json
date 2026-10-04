@@ -10972,6 +10972,186 @@
    "https://www.archeologickyatlas.cz/cs/lokace/radkov_op_hrad_vikstejn"
   ]
  },
+ "Q1014392": {
+  "id": "Q1014392",
+  "name": "Vildštejn",
+  "founded": {
+   "year": 1200,
+   "approx": true,
+   "text": "Hrad vznikl okolo roku 1200 jako románský vodní hrad; první známý majitel Gerold (1224)"
+  },
+  "summary": "Románský hrad Vildštejn vznikl okolo roku 1200 a patří k nejstarším českým hradům. Střídali se na něm Nothaftové, Rabové z Mechelsgrünu, Frankengrünerové z Chebu, Gumerauerové, Šlikové, Wirspergové a od 1596 Trautenbergové, kteří si roku 1783 postavili v předhradí zámek. Po roce 1799 se majitelé často střídali, ve 2. polovině 20. století hrad patřil státnímu statku a chátral, od roku 1985 byl rekonstruován a od 1999 je v soukromém vlastnictví.",
+  "owners": [
+   {
+    "owner": "neznamo",
+    "owner_wiki": null,
+    "person": "Gerold",
+    "from": 1224,
+    "to": 1225,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "první známý majitel, uváděný k roku 1224"
+   },
+   {
+    "owner": "nothaftove",
+    "owner_wiki": "Nothaftové",
+    "person": "Vojtěch Nothaft",
+    "from": 1225,
+    "to": 1299,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo"
+   },
+   {
+    "owner": "z-mechelsgrunu",
+    "owner_wiki": null,
+    "person": "Jan Rab z Mechelsgrünu a jeho potomci",
+    "from": 1299,
+    "to": 1349,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe"
+   },
+   {
+    "owner": "frankengrunerove-z-chebu",
+    "owner_wiki": null,
+    "person": "Frankengrünerové z Chebu",
+    "from": 1349,
+    "to": 1439,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe"
+   },
+   {
+    "owner": "gumerauerove",
+    "owner_wiki": null,
+    "person": "Gumerauerové",
+    "from": 1439,
+    "to": 1491,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "rok konce zdroj neuvádí"
+   },
+   {
+    "owner": "slikove",
+    "owner_wiki": "Šlikové",
+    "person": "Šlikové",
+    "from": 1491,
+    "to": 1544,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "koupili hrad i panství od Gumerauerů; roky zdroj neuvádí"
+   },
+   {
+    "owner": "wirspergove",
+    "owner_wiki": null,
+    "person": "Wirspergové",
+    "from": 1544,
+    "to": 1596,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "koupili po deseti letech od Šliků; rok nabytí zdroj neuvádí"
+   },
+   {
+    "owner": "trautenbergove",
+    "owner_wiki": null,
+    "person": "Trautenbergové",
+    "from": 1596,
+    "to": 1799,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "zdroj uvádí rok 1596 i 'krátce po 1607'; roku 1783 si v předhradí postavili zámek"
+   },
+   {
+    "owner": "wilhelmove",
+    "owner_wiki": null,
+    "person": "Wilhelmové",
+    "from": 1799,
+    "to": 1884,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo"
+   },
+   {
+    "owner": "wolkenstein-trostburkove",
+    "owner_wiki": "Wolkenstein-Trostburkové",
+    "person": "Wolkenstein-Trostburgové",
+    "from": 1884,
+    "to": 1922,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "drželi do první světové války; rok konce zdroj neuvádí"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "továrnická rodina Geipelů",
+    "from": 1922,
+    "to": 1961,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "do druhé světové války; roky zdroj neuvádí"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "státní statek",
+    "from": 1961,
+    "to": 1999,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "ve 2. polovině 20. století hrad pod státním statkem chátral; od 1985 rekonstrukce"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "soukromý vlastník",
+    "from": 1999,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "od roku 1999 v soukromém vlastnictví; jméno zdroj neuvádí; obec Skalná získala cenu Patria Nostra za rekonstrukci hradu"
+   }
+  ],
+  "events": [
+   {
+    "year": 1224,
+    "text": "první zmínka o majiteli hradu Gerold"
+   },
+   {
+    "year": 1783,
+    "text": "stavba dvoukřídlého zámku v předhradí"
+   },
+   {
+    "year": 1843,
+    "text": "hrad využíván jako sladovna"
+   },
+   {
+    "year": 1985,
+    "text": "zahájena rekonstrukce hradního areálu"
+   },
+   {
+    "year": 1999,
+    "text": "hrad přešel do soukromého vlastnictví"
+   },
+   {
+    "year": 2001,
+    "text": "hrad zpřístupněn veřejnosti"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Vildštejn"
+  ]
+ },
  "Q1014408": {
   "id": "Q1014408",
   "name": "Vlčtejn",
@@ -26051,6 +26231,137 @@
    "https://www.klatovskyzpravodaj.cz/zamek-tynec"
   ]
  },
+ "Q12221367": {
+  "id": "Q12221367",
+  "name": "Třebešice",
+  "founded": {
+   "year": null,
+   "approx": false,
+   "text": "13. století - podle farní kroniky tvrz Třebešice a tvrz Debrník; renesanční zámek vznikl po roce 1544"
+  },
+  "summary": "Zámek v Třebešicích vznikl z tvrze, kterou podle farní kroniky ve 13. století založili vladykové Valkoun, Jan a Jaroslav. Po vymření rodu získali panství Záhorové ze Záhoří, kteří si postavili nové sídlo blíže kostela; později jej drželi Věžníkové, Sohierové z Windmühle a Götzové. Od roku 1752 do pozemkové reformy 1924 patřil Emauzskému klášteru v Praze, pak Františku Šestákovi, a po letech užívání JZD jej roku 2009 koupili manželé Valdovi, kteří jej do roku 2020 zrekonstruovali.",
+  "owners": [
+   {
+    "owner": "z-trebesic",
+    "owner_wiki": null,
+    "person": "Valkoun, Jan a Jaroslav (vladykové z Třebešic)",
+    "from": null,
+    "to": 1544,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "zalozeni",
+    "note": "podle farní kroniky zakladatelé tvrze; rod vymřel brzy po polovině 15. století (Valkoun z Třebešic pomáhal Jiřímu z Poděbrad)"
+   },
+   {
+    "owner": "z-zahori",
+    "owner_wiki": null,
+    "person": "Václav Záhora ze Záhoří",
+    "from": 1544,
+    "to": 1599,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "dedictvi",
+    "note": "roku 1544 vložil do obnovených zemských desk dědictví (tvrz, dvůr, ves); rok konce odvozen z koupě panství roku 1599"
+   },
+   {
+    "owner": "veznikove-z-veznik",
+    "owner_wiki": "Věžníkové z Věžník",
+    "person": "Václav Věžník z Věžníka",
+    "from": 1599,
+    "to": 1651,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe"
+   },
+   {
+    "owner": "sohierove-z-windmuhle",
+    "owner_wiki": null,
+    "person": "Tomáš Sohier z Windmühle",
+    "from": 1651,
+    "to": 1704,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "rok konce odvozen z nabytí zámku roku 1704"
+   },
+   {
+    "owner": "gotzenove",
+    "owner_wiki": null,
+    "person": "Judita Alžběta, manželka Jana Maxmiliána hraběte z Götzu",
+    "from": 1704,
+    "to": 1752,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "jine",
+    "note": "způsob nabytí zdroj neuvádí; roku 1752 zámek prodala Marie Barbora z Roggendorfu, rozená z Götzu"
+   },
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "Emauzský klášter v Praze",
+    "from": 1752,
+    "to": 1924,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "František Šesták",
+    "from": 1924,
+    "to": 2009,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "koupil zámek s lihovarem při pozemkové reformě; rodina byla v 50. letech násilně vystěhována a zámek užívalo místní JZD (vlastnictví v té době zdroj neuvádí)"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Eliška a Igor Valdovi",
+    "from": 2009,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "zámek v letech 2009-2020 zrekonstruovali; 2018 hlavní cena Patrimonium pro futuro"
+   }
+  ],
+  "events": [
+   {
+    "year": 1544,
+    "text": "Václav Záhora ze Záhoří vkládá do zemských desk dědictví v Třebešicích"
+   },
+   {
+    "year": 1599,
+    "text": "záznam o koupi panství Václavem Věžníkem z Věžníka"
+   },
+   {
+    "year": 1752,
+    "text": "zámek koupil Emauzský klášter v Praze"
+   },
+   {
+    "year": 1773,
+    "text": "datace na jižním štítu barokního špýcharu"
+   },
+   {
+    "year": 1924,
+    "text": "pozemková reforma, zámek s lihovarem koupil František Šesták"
+   },
+   {
+    "year": 1965,
+    "text": "zámecký areál prohlášen kulturní památkou"
+   },
+   {
+    "year": 2009,
+    "text": "koupě zámku manžely Valdovými, rekonstrukce 2009-2020"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Třebešice_(zámek,_okres_Benešov)"
+  ]
+ },
  "Q12337603": {
   "id": "Q12337603",
   "name": "Stvolínky",
@@ -35141,6 +35452,102 @@
    "https://www.npu.cz/cs/hrady-a-zamky/tipy-na-vylet/49340-trebonsky-zamek-v-krajine-dvojiho-nebe"
   ]
  },
+ "Q1749959": {
+  "id": "Q1749959",
+  "name": "Vlašim",
+  "founded": {
+   "year": 1303,
+   "approx": true,
+   "text": "hrad založen na začátku 14. století, snad 1303; nesporná první zmínka 1318"
+  },
+  "summary": "Vlašimský hrad vznikl na začátku 14. století (první nesporná zmínka 1318) a rozvoj zažil v 15. století za Trčků z Lípy. Kolem roku 1600 jej Vostrovcové z Kralovic přestavěli na renesanční zámek. V 19. století, kdy na zámku sídlila knížata z Auerspergu (do roku 1945), dostal dnešní podobu; dnes patří městu Vlašim a sídlí v něm Muzeum Podblanicka.",
+  "owners": [
+   {
+    "owner": "neznamo",
+    "owner_wiki": null,
+    "person": "pánové z Vlašimi (druhý pražský arcibiskup Jan Očko z Vlašimi)",
+    "from": 1303,
+    "to": 1464,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "zalozeni",
+    "note": "zdroj uvádí jen, že se hrad stal reprezentativním sídlem díky Janu Očkovi z Vlašimi; majitele před Trčky neuvádí"
+   },
+   {
+    "owner": "trckove-z-lipy",
+    "owner_wiki": "Trčkové z Lípy",
+    "person": "Trčkové z Lípy",
+    "from": 1464,
+    "to": 1624,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "rozvoj hradu v 15. století; roky zdroj neuvádí"
+   },
+   {
+    "owner": "z-kralovic",
+    "owner_wiki": null,
+    "person": "Jan Vostrovec z Kralovic",
+    "from": 1624,
+    "to": 1784,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "kolem roku 1600 přestavba na renesanční zámek (alianční znak Jana Vostrovce a Anny Bryknarové); roky držení zdroj neuvádí"
+   },
+   {
+    "owner": "auerspergove",
+    "owner_wiki": "Auerspergové",
+    "person": "knížata z Auerspergu (Karel Josef z Auerspergu, Marie Josefa z Auerspergu)",
+    "from": 1784,
+    "to": 1945,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "začátek držení zdroj neuvádí (kaple 1771, park 1775); sídlili zde do roku 1945"
+   },
+   {
+    "owner": "mesto",
+    "owner_wiki": null,
+    "person": "město Vlašim",
+    "from": 1945,
+    "to": null,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "zámek i park jsou ve vlastnictví města Vlašimi; rok převodu zdroj neuvádí"
+   }
+  ],
+  "events": [
+   {
+    "year": 1318,
+    "text": "první nesporná písemná zmínka o hradu"
+   },
+   {
+    "year": 1600,
+    "text": "kolem roku 1600 přestavba na renesanční zámek za Vostrovců z Kralovic"
+   },
+   {
+    "year": 1771,
+    "text": "zřízena zámecká kaple sv. Vincence (Marie Josefa z Auerspergu)"
+   },
+   {
+    "year": 1775,
+    "text": "založen anglický park Karlem Josefem z Auerspergu"
+   },
+   {
+    "year": 1992,
+    "text": "požár zničil jižní křídlo zámku"
+   },
+   {
+    "year": 2005,
+    "text": "dokončeny rekonstrukce zámku"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Vlašim_(zámek)"
+  ]
+ },
  "Q1752882": {
   "id": "Q1752882",
   "name": "Ploskovice",
@@ -37228,6 +37635,131 @@
    "https://www.zamekpotstejn.cz/cs/historie-zamku",
    "https://cs.wikipedia.org/wiki/Potštejn_(zámek)",
    "https://potstejn.cz/wp-content/uploads/2024/01/potstejn_leporelo_2022_nahled4.pdf"
+  ]
+ },
+ "Q1832099": {
+  "id": "Q1832099",
+  "name": "Třebíč",
+  "founded": {
+   "year": 1101,
+   "approx": false,
+   "text": "1101 založení benediktinského kláštera Litoldem Znojemským a Oldřichem Brněnským; v 16. století přestavba na renesanční zámek"
+  },
+  "summary": "Zámek v Třebíči-Podklášteří vznikl v 16. století přestavbou benediktinského kláštera založeného roku 1101. Po husitských válkách a dobytí města Uhry roku 1468 se klášter dostal do světských rukou (Šternberkové, od roku 1490 Pernštejnové) a poslední mnichy vyhnal roku 1525 Arkleb Trnavský z Boskovic. Panství pak držela rodina Osovských z Doubravice a Valdštejnové, po roce 1945 byl zámek konfiskován a od 50. let v něm sídlí muzeum (dnes Muzeum Vysočiny Třebíč); od roku 2018 je součástí památek UNESCO.",
+  "owners": [
+   {
+    "owner": "cirkev",
+    "owner_wiki": null,
+    "person": "Benediktinský klášter (opati)",
+    "from": 1101,
+    "to": 1296,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "zalozeni",
+    "note": "klášter založili Litold Znojemský a Oldřich Brněnský; poslední opat Tiburtius 1473, klášter do roku 1472 neměl opata; husité klášter drželi 1421-1426"
+   },
+   {
+    "owner": "sternberkove",
+    "owner_wiki": "Šternberkové",
+    "person": "páni ze Šternberka",
+    "from": 1296,
+    "to": 1479,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "lenni",
+    "note": "klášter a zboží dal Matyáš Korvín jako náhradu za škody; ještě roku 1479 na klášteře seděli; přesný rok nástupu zdroj neuvádí"
+   },
+   {
+    "owner": "pernstejnove",
+    "owner_wiki": "Pernštejnové",
+    "person": "Vilém z Pernštejna",
+    "from": 1490,
+    "to": 1642,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "1490 dostal od krále Vladislava plnou moc k vyplacení zástavních věřitelů třebíčských statků, zástavy vykoupil a klášter opravoval; kdy panství pozbyli, zdroj neuvádí"
+   },
+   {
+    "owner": "pani-z-doubravice",
+    "owner_wiki": "Páni z Doubravice",
+    "person": "Osovští z Doubravice",
+    "from": 1642,
+    "to": 1793,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "další majitelé panství po Pernštejnech (roky zdroj neuvádí); přestavěli zámek, baziliku změnili na pivovar. Arkleb Trnavský z Boskovic vyhnal 1525 poslední mnichy - jeho postavení zdroj nespecifikuje"
+   },
+   {
+    "owner": "valdstejnove",
+    "owner_wiki": "Valdštejnové",
+    "person": "Rudolf František Augustin z Valdštejna; poslední majitel od 1932 Emanuel Waldstein-Wartenberg",
+    "from": 1793,
+    "to": 1945,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "začátek valdštejnského držení zdroj neuvádí (doloženo koncem 17. století); zámek 1945 konfiskován"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "Národní pozemkový fond",
+    "from": 1945,
+    "to": 1946,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace"
+   },
+   {
+    "owner": "mesto",
+    "owner_wiki": null,
+    "person": "Místní národní výbor v Třebíči; později muzeum (Západomoravské muzeum 1953, dnes Muzeum Vysočiny Třebíč)",
+    "from": 1946,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "dnešního vlastníka zámku zdroj výslovně neuvádí; rekonstrukci 2011-2012 investoval Kraj Vysočina, zámecký park převzalo 2008 město Třebíč"
+   }
+  ],
+  "events": [
+   {
+    "year": 1101,
+    "text": "založení benediktinského kláštera"
+   },
+   {
+    "year": 1450,
+    "text": "za opata Trojana v polovině 15. století dobudován jako mohutná pevnost"
+   },
+   {
+    "year": 1468,
+    "text": "dobytí města uherskými vojsky, obléhání a poškození kláštera"
+   },
+   {
+    "year": 1490,
+    "text": "Vilém z Pernštejna pověřen vyplacením zástavních věřitelů třebíčských statků"
+   },
+   {
+    "year": 1525,
+    "text": "Arkleb Trnavský z Boskovic vyhnal poslední mnichy; klášter přestavěn na renesanční zámek"
+   },
+   {
+    "year": 1953,
+    "text": "v zámku nalezlo prostor Západomoravské muzeum, dnes Muzeum Vysočiny"
+   },
+   {
+    "year": 2012,
+    "text": "rekonstrukce zámku a parku za 91 mil. Kč (2011-2012)"
+   },
+   {
+    "year": 2018,
+    "text": "zápis zámku na seznam UNESCO"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Třebíč_(zámek)"
   ]
  },
  "Q18327771": {
@@ -39318,6 +39850,109 @@
    "https://cs.wikipedia.org/wiki/Poláky",
    "https://www.prehis.cz/en/turista/cechy/chomutov/p/polaky.html",
    "https://turisticky-magazin.cz/turistika.php?fchange=open&id_cl=705"
+  ]
+ },
+ "Q19800624": {
+  "id": "Q19800624",
+  "name": "Vrbičany",
+  "founded": {
+   "year": 1786,
+   "approx": false,
+   "text": "1786-1789 stavba pozdně barokního zámku Františkem Karlem Kresselem z Kvaltenberka"
+  },
+  "summary": "Pozdně barokní zámek ve Vrbičanech postavil v letech 1786-1789 František Karel Kressel z Kvaltenberka. Po jeho smrti ho krátce vlastnila vdova Josefa a pak Puteaniové, od roku 1864 hrabata Herbersteinové. Roku 1946 byl zkonfiskován a sloužil zemědělskému školství; roku 2011 jej koupila firma Sempra Vrbičany a od 2015 je zpřístupněn.",
+  "owners": [
+   {
+    "owner": "kreslove-z-kvaltenberka",
+    "owner_wiki": "Kreslové z Kvaltenberka",
+    "person": "František Karel Kressel, svobodný pán z Kvaltenberka",
+    "from": 1786,
+    "to": 1801,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "zalozeni",
+    "note": "stavitel zámku 1786-1789; zemřel 1801"
+   },
+   {
+    "owner": "strakove-z-nedabylic",
+    "owner_wiki": "Strakové z Nedabylic",
+    "person": "Josefa, rozená hraběnka Straková z Nedabylic",
+    "from": 1801,
+    "to": 1802,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "vdova po staviteli; zemřela 1802"
+   },
+   {
+    "owner": "puteani",
+    "owner_wiki": null,
+    "person": "František Saleský Karel, svobodný pán z Puteani",
+    "from": 1802,
+    "to": 1843,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "zdědil po prateti Josefě; rok nabytí odvozen z jejího úmrtí"
+   },
+   {
+    "owner": "herbersteinove",
+    "owner_wiki": "Herbersteinové",
+    "person": "Terezie z Herbersteinu a její potomci",
+    "from": 1864,
+    "to": 1946,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "rok 1864 získala Terezie z Herbersteinu; období 1843-1864 zdroj neuvádí"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Jednotný svaz českých zemědělců",
+    "from": 1946,
+    "to": 2011,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "konfiskace",
+    "note": "konfiskace podle Benešových dekretů; zřízeno strojní učiliště a Státní traktorová stanice; rok konce zdroj neuvádí"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Sempra Vrbičany",
+    "from": 2011,
+    "to": null,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "firma 2015 dokončila opravu střechy a přízemí jednoho křídla; zámek zpřístupněn"
+   }
+  ],
+  "events": [
+   {
+    "year": 1789,
+    "text": "dokončení stavby pozdně barokního zámku"
+   },
+   {
+    "year": 1946,
+    "text": "konfiskace podle Benešových dekretů, zřízeno strojní učiliště"
+   },
+   {
+    "year": 1964,
+    "text": "zámek prohlášen kulturní památkou"
+   },
+   {
+    "year": 2011,
+    "text": "koupě firmou Sempra Vrbičany"
+   },
+   {
+    "year": 2015,
+    "text": "oprava střechy a přízemí, zámek zpřístupněn veřejnosti"
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Vrbičany_(zámek)"
   ]
  },
  "Q20057388": {

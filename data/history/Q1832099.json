@@ -1,0 +1,125 @@
+{
+ "id": "Q1832099",
+ "name": "Třebíč",
+ "founded": {
+  "year": 1101,
+  "approx": false,
+  "text": "1101 založení benediktinského kláštera Litoldem Znojemským a Oldřichem Brněnským; v 16. století přestavba na renesanční zámek"
+ },
+ "summary": "Zámek v Třebíči-Podklášteří vznikl v 16. století přestavbou benediktinského kláštera založeného roku 1101. Po husitských válkách a dobytí města Uhry roku 1468 se klášter dostal do světských rukou (Šternberkové, od roku 1490 Pernštejnové) a poslední mnichy vyhnal roku 1525 Arkleb Trnavský z Boskovic. Panství pak držela rodina Osovských z Doubravice a Valdštejnové, po roce 1945 byl zámek konfiskován a od 50. let v něm sídlí muzeum (dnes Muzeum Vysočiny Třebíč); od roku 2018 je součástí památek UNESCO.",
+ "owners": [
+  {
+   "owner": "cirkev",
+   "owner_wiki": null,
+   "person": "Benediktinský klášter (opati)",
+   "from": 1101,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "klášter založili Litold Znojemský a Oldřich Brněnský; poslední opat Tiburtius 1473, klášter do roku 1472 neměl opata; husité klášter drželi 1421-1426"
+  },
+  {
+   "owner": "sternberkove",
+   "owner_wiki": "Šternberkové",
+   "person": "páni ze Šternberka",
+   "from": null,
+   "to": 1479,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "lenni",
+   "note": "klášter a zboží dal Matyáš Korvín jako náhradu za škody; ještě roku 1479 na klášteře seděli; přesný rok nástupu zdroj neuvádí"
+  },
+  {
+   "owner": "pernstejnove",
+   "owner_wiki": "Pernštejnové",
+   "person": "Vilém z Pernštejna",
+   "from": 1490,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "1490 dostal od krále Vladislava plnou moc k vyplacení zástavních věřitelů třebíčských statků, zástavy vykoupil a klášter opravoval; kdy panství pozbyli, zdroj neuvádí"
+  },
+  {
+   "owner": "pani-z-doubravice",
+   "owner_wiki": "Páni z Doubravice",
+   "person": "Osovští z Doubravice",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "další majitelé panství po Pernštejnech (roky zdroj neuvádí); přestavěli zámek, baziliku změnili na pivovar. Arkleb Trnavský z Boskovic vyhnal 1525 poslední mnichy - jeho postavení zdroj nespecifikuje"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Rudolf František Augustin z Valdštejna; poslední majitel od 1932 Emanuel Waldstein-Wartenberg",
+   "from": null,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "začátek valdštejnského držení zdroj neuvádí (doloženo koncem 17. století); zámek 1945 konfiskován"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": "Národní pozemkový fond",
+   "from": 1945,
+   "to": 1946,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "Místní národní výbor v Třebíči; později muzeum (Západomoravské muzeum 1953, dnes Muzeum Vysočiny Třebíč)",
+   "from": 1946,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "dnešního vlastníka zámku zdroj výslovně neuvádí; rekonstrukci 2011-2012 investoval Kraj Vysočina, zámecký park převzalo 2008 město Třebíč"
+  }
+ ],
+ "events": [
+  {
+   "year": 1101,
+   "text": "založení benediktinského kláštera"
+  },
+  {
+   "year": 1450,
+   "text": "za opata Trojana v polovině 15. století dobudován jako mohutná pevnost"
+  },
+  {
+   "year": 1468,
+   "text": "dobytí města uherskými vojsky, obléhání a poškození kláštera"
+  },
+  {
+   "year": 1490,
+   "text": "Vilém z Pernštejna pověřen vyplacením zástavních věřitelů třebíčských statků"
+  },
+  {
+   "year": 1525,
+   "text": "Arkleb Trnavský z Boskovic vyhnal poslední mnichy; klášter přestavěn na renesanční zámek"
+  },
+  {
+   "year": 1953,
+   "text": "v zámku nalezlo prostor Západomoravské muzeum, dnes Muzeum Vysočiny"
+  },
+  {
+   "year": 2012,
+   "text": "rekonstrukce zámku a parku za 91 mil. Kč (2011-2012)"
+  },
+  {
+   "year": 2018,
+   "text": "zápis zámku na seznam UNESCO"
+  }
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Třebíč_(zámek)"
+ ]
+}
