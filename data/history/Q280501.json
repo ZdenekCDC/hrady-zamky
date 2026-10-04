@@ -6,7 +6,7 @@
   "approx": false,
   "text": "Gotická tvrz je poprvé připomínána roku 1335, kdy král Jan Lucemburský prodal hrad Hazmburk s městečkem Libochovice a tamní tvrzí Zbyňkovi Zajíci z Hazmburka."
  },
- "summary": "Předchůdcem zámku byla gotická tvrz, poprvé zmíněná roku 1335, kterou ve 14. a 15. století drželi Zajícové z Hazmburka. Roku 1558 hazmburské panství koupili Lobkovicové a na místě zchátralé tvrze postavili renesanční zámek. Po pobělohorských majetkových proměnách (doživotní užívání Zikmunda Bátoryho, Šternberkové) koupil panství roku 1676 Gundakar z Ditrichštejna, který zámek raně barokně přestavěl; jeho dochovaná podoba je výsledkem této přestavby. Ditrichštejnům patřil až do vymření rodu, kdy jej sňatkem roku 1849 získali Herbersteinové, jimž byl roku 1945 zkonfiskován a zestátněn.",
+ "summary": "Předchůdcem zámku byla gotická tvrz, poprvé zmíněná roku 1335, kterou ve 14. a 15. století drželi Zajícové z Hazmburka. Roku 1558 hazmburské panství koupili Lobkovicové a na místě zchátralé tvrze postavili renesanční zámek. Po pobělohorských majetkových proměnách (doživotní užívání Zikmunda Bátoryho, Šternberkové) koupil panství roku 1676 Gundakar z Ditrichštejna, který zámek raně barokně přestavěl; jeho dochovaná podoba je výsledkem této přestavby. Ditrichštejnům patřil do smrti posledního knížete Josefa roku 1858, kdy fideikomis zdědila jeho dcera Terezie, provdaná od 1849 za Jana Bedřicha z Herbersteina; Herbersteinům byl roku 1945 zkonfiskován a dnes je státním zámkem ve správě NPÚ.",
  "owners": [
   {
    "owner": "zajicove-z-hazmburka",
@@ -46,22 +46,22 @@
    "owner_wiki": null,
    "person": null,
    "from": 1594,
-   "to": 1602,
+   "to": 1606,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "konfiskace",
-   "note": "po pádu Jiřího Popela spravovala panství královská komora; Báthory dostal panství 1606 (cs.wiki) / 1602 (hrady.cz) k doživotnímu užívání"
+   "note": "po pádu Jiřího Popela spravovala panství královská komora; Báthory dostal panství k doživotnímu užívání 1606 (cs.wiki, web zámku); hrady.cz uvádí 1602"
   },
   {
    "owner": "bathoryove",
    "owner_wiki": null,
    "person": "Zikmund Báthory",
-   "from": 1602,
+   "from": 1606,
    "to": 1610,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "lenni",
-   "note": "Rudolf II. mu 22. 8. 1606 poskytl panství k doživotnímu užívání (cs.wiki; hrady.cz uvádí 1602); roku 1610 zatčen pro spiknutí a uvězněn, panství mu formálně zůstalo do smrti 1613; spravoval je hejtman Jan Kavkovec z Kavkovic"
+   "note": "1606 se vzdal sedmihradského knížectví ve prospěch Rudolfa II. za 50 tisíc dukátů a doživotní užívání libochovického panství (web zámku, cs.wiki; hrady.cz uvádí 1602); 1610 zatčen pro spiknutí a uvězněn, panství mu formálně zůstalo do smrti 1613; spravoval je hejtman Jan Kavkovec z Kavkovic"
   },
   {
    "owner": "sternberkove",
@@ -90,33 +90,22 @@
    "owner_wiki": "Ditrichštejnové",
    "person": "Gundakar z Ditrichštejna, později Josef z Ditrichštejna",
    "from": 1676,
-   "to": 1849,
+   "to": 1858,
    "from_approx": false,
-   "to_approx": true,
-   "how": "koupe",
-   "note": "po požáru 1676 nechal Gundakar 1682-1690 postavit raně barokní zámek (Antonio della Porta); Josef byl poslední mužský příslušník rodu; konec držení: cs.wiki a hrady.cz 1849 (sňatek Terezie), web zámku a zameklibochovice.cz uvádějí převzetí Herbersteinem 1858 po smrti Josefa"
-  },
-  {
-   "owner": "ditrichstejnove",
-   "owner_wiki": "Ditrichštejnové",
-   "person": "Josef z Ditrichštejna",
-   "from": null,
-   "to": 1849,
-   "from_approx": true,
    "to_approx": false,
-   "how": "dedictvi",
-   "note": "Terezie, nejstarší dcera Josefa z Ditrichštejna, se provdala za Jana Bedřicha z Herbersteinu (cs.wiki a hrady.cz 1849; web zámku a zameklibochovice.cz uvádějí převzetí panství 1858); zámek zůstal Herbersteinům do 1945; hrabě Josef Herberstein shromáždil sbírky z cest mimo Evropu"
+   "how": "koupe",
+   "note": "po požáru 1661 prodal Václav Vojtěch ze Šternberka 1676 panství Gundakarovi z Ditrichštejna (web zámku, de.wiki); 1682-1690 raně barokní přestavba (Antonio della Porta); Josef z Ditrichštejna (1798-1858), poslední majitel z knížecí linie, zemřel bez mužského potomka 1858 a fideikomis zdědila nejstarší dcera Terezie (web zámku, Herbersteinové na Libochovicích; de.wiki: Majoratsherr 1847-1858)"
   },
   {
    "owner": "herbersteinove",
    "owner_wiki": "Herbersteinové",
-   "person": "Terezie z Ditrichštejna, provd. Herbersteinová a Jan Bedřich z Herbersteinu",
-   "from": 1849,
+   "person": "Terezie z Ditrichštejna, provd. Herbersteinová, poté syn Johann Josef Herberstein",
+   "from": 1858,
    "to": 1945,
    "from_approx": false,
    "to_approx": false,
-   "how": "snatek",
-   "note": "zámek zůstal Herbersteinům až do roku 1945; hrabě Josef Herberstein (2. pol. 19. stol.) shromáždil sbírky z cest mimo Evropu"
+   "how": "dedictvi",
+   "note": "Terezie z Ditrichštejna (1822-1895) zdědila 1858 po otci Gundakarův fideikomis (Libochovice, Budyně, Nepomyšl, Vlachovo Březí); provdána od 1849 za Jana Bedřicha z Herbersteinu (+1861), 1849 je jen rok sňatku (cs.wiki a hrady.cz uvádějí 1849 jako přechod, web zámku, de.wiki a cs.wiki o Terezii 1858); poté syn Johann Josef Herberstein (1854-1944), který panství převzal po matce 1895; 1945 zkonfiskováno státem, zámek převzala Státní památková správa"
   }
  ],
  "events": [
@@ -141,8 +130,8 @@
    "text": "1682-1690 stavba nového barokního zámku podle Antonia della Porty"
   },
   {
-   "year": 1849,
-   "text": "zámek sňatkem Terezie z Ditrichštejna přešel na Herbersteiny"
+   "year": 1858,
+   "text": "po smrti knížete Josefa z Ditrichštejna zdědila fideikomis s Libochovicemi dcera Terezie, manželka Jana Bedřicha z Herbersteinu (sňatek 1849)"
   },
   {
    "year": 1945,
@@ -153,6 +142,9 @@
   "https://cs.wikipedia.org/wiki/Libochovice_(zámek)",
   "https://zamek-libochovice.cz/cs/o-zamku/historie",
   "https://www.hrady.cz/zamek-libochovice-litomerice",
-  "https://www.zameklibochovice.cz/historie/"
+  "https://www.zameklibochovice.cz/historie/",
+  "https://www.zamek-libochovice.cz/cs/o-zamku/historie/herbersteinove-na-libochovicich",
+  "https://de.wikipedia.org/wiki/Schloss_Libochovice",
+  "https://cs.wikipedia.org/wiki/Terezie_z_Herbersteinu"
  ]
 }

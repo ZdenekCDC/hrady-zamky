@@ -6,7 +6,7 @@
   "approx": true,
   "text": "13. století, gotický hrad založili Lichtenburkové (snad Smil, spíše jeho syn Jindřich z Lichtenburka); první nepřímá zmínka 1289"
  },
- "summary": "Gotický hrad založili ve 13. století Lichtenburkové, jejichž žlebská větev jej držela do roku 1356, kdy jej koupil Karel IV.; poté byl hrad více než století často zastavován řadě šlechticů a za husitských válek dvakrát dobyt. Od počátku 16. století se v renesančně přestavěném sídle vystřídali Žehušičtí z Nestajova, Bohdanečtí z Hodkova, Chotouchovští z Nebovid, Černínové z Chudenic, italští důstojníci de Magni, Trčkové z Lípy (jimž byl po popravě Jana Rudolfa Trčky majetek pobělohorsky konfiskován), Kaisersteinové, Bredové a Schönfeldové. Sňatkem Kateřiny ze Schönfeldu přešly Žleby roku 1746 na Auersperggy, kteří zámek 1754 barokně a v letech 1849-1878 novogoticky přestavěli do dnešní podoby; po smrti posledního mužského Auersperga 1942 zdědila panství jeho sestra z Trauttmannsdorfu a roku 1945 byl zámek zestátněn.",
+ "summary": "Gotický hrad založili ve 13. století Lichtenburkové, jejichž žlebská větev jej držela do roku 1356, kdy jej koupil Karel IV.; poté byl hrad více než století často zastavován řadě šlechticů a za husitských válek dvakrát dobyt. Od počátku 16. století se v renesančně přestavěném sídle vystřídali Žehušičtí z Nestajova, Bohdanečtí z Hodkova, Chotouchovští z Nebovid, Černínové z Chudenic, italští důstojníci de Magni, Trčkové z Lípy (jimž byl po popravě Jana Rudolfa Trčky majetek pobělohorsky konfiskován), Kaisersteinové, Bredové a Schönfeldové. Kateřina ze Schönfeldu se roku 1746 provdala za Jana Adama Auersperga a roku 1754 mu Žleby odkázala (web zámku i NPÚ uvádějí 1754); Auerspergové zámek barokně přestavěli a v letech 1849-1878 novogoticky do dnešní podoby; po smrti posledního mužského Auersperga 1942 zdědila panství jeho sestra z Trauttmannsdorfu a roku 1945 byl zámek zestátněn.",
  "owners": [
   {
    "owner": "lichtenburkove",
@@ -212,22 +212,22 @@
    "owner_wiki": "Schönfeldové",
    "person": "Josef František ze Schönfeldu, poté dcera Kateřina",
    "from": 1736,
-   "to": 1746,
+   "to": 1754,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "Kateřina zdědila statek jako nezletilá po otcově smrti 1737"
+   "note": "Josef František koupil panství v dražbě 1736, po jeho smrti 1737 zdědila nezletilá dcera Kateřina; 1746 se provdala za Jana Adama Auersperga a Žleby mu před svou smrtí 1754 odkázala (cs.wiki)"
   },
   {
    "owner": "auerspergove",
    "owner_wiki": "Auerspergové",
    "person": "Jan Adam Auersperg (manžel Kateřiny ze Schönfeldu)",
-   "from": 1746,
+   "from": 1754,
    "to": 1795,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
-   "how": "snatek",
-   "note": "Kateřina mu zámek před svou smrtí 1754 odkázala; téhož roku proběhla pozdně barokní přestavba; web zámku a zriceniny.cz uvádějí vlastnictví Auerspergů od 1754 (rok odkazu), cs.wiki sňatek 1746"
+   "how": "dedictvi",
+   "note": "Kateřina ze Schönfeldu se 1746 provdala za Jana Adama Auersperga a zámek mu před svou smrtí 1754 odkázala (cs.wiki; botany.cz a populární weby uvádějí vlastnictví Auerspergů od 1746); web zámku i NPÚ (Unikátní předměty z majetku NPÚ) uvádějí získání dědictvím 1754, proto 1754 jako začátek vlastnictví; téhož roku pozdně barokní přestavba"
   },
   {
    "owner": "auerspergove",
@@ -269,7 +269,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "zestátněn dekretem prezidenta republiky č. 12/1945 Sb.; dnes ve správě Národního památkového ústavu"
+   "note": "zestátněn dekretem prezidenta republiky č. 12/1945 Sb. (web zámku, NPÚ); dnes státní zámek ve správě Národního památkového ústavu (cs.wiki, NPÚ)"
   }
  ],
  "events": [
@@ -310,6 +310,7 @@
   "https://cs.wikipedia.org/wiki/Žleby_(zámek)",
   "https://www.zamek-zleby.cz/cs/o-zamku/historie",
   "https://zriceniny.cz/zamek-zleby/",
-  "https://www.treking.cz/regiony/zleby.htm"
+  "https://www.treking.cz/regiony/zleby.htm",
+  "https://www.hilbertinum.cz/upm/zleby.html"
  ]
 }

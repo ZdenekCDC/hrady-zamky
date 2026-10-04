@@ -662,11 +662,11 @@
    },
    {
     "place": "Q2244402",
-    "from": 1746,
+    "from": 1754,
     "to": 1795,
     "person": "Jan Adam Auersperg (manžel Kateřiny ze Schönfeldu)",
-    "how": "snatek",
-    "from_approx": true,
+    "how": "dedictvi",
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -843,10 +843,10 @@
    },
    {
     "place": "Q2244402",
-    "year": 1746,
+    "year": 1754,
     "from": "schonfeldove",
     "to": "auerspergove",
-    "how": "snatek"
+    "how": "dedictvi"
    },
    {
     "place": "Q2244402",
@@ -1044,7 +1044,7 @@
   "places": [
    {
     "place": "Q1592121",
-    "from": 1602,
+    "from": 1606,
     "to": 1613,
     "person": "Zikmund Báthory",
     "how": "jine",
@@ -1053,18 +1053,18 @@
    },
    {
     "place": "Q280501",
-    "from": 1602,
+    "from": 1606,
     "to": 1610,
     "person": "Zikmund Báthory",
     "how": "lenni",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false
    }
   ],
   "transfers": [
    {
     "place": "Q1592121",
-    "year": 1602,
+    "year": 1606,
     "from": "koruna",
     "to": "bathoryove",
     "how": "jine"
@@ -1074,11 +1074,11 @@
     "year": 1613,
     "from": "bathoryove",
     "to": "sternberkove",
-    "how": "neznamo"
+    "how": "lenni"
    },
    {
     "place": "Q280501",
-    "year": 1602,
+    "year": 1606,
     "from": "koruna",
     "to": "bathoryove",
     "how": "lenni"
@@ -8479,7 +8479,7 @@
     "place": "Q1592121",
     "from": 1676,
     "to": 1858,
-    "person": null,
+    "person": "Gundakar z Ditrichštejna, později Josef z Ditrichštejna",
     "how": "koupe",
     "from_approx": false,
     "to_approx": false
@@ -8541,19 +8541,10 @@
    {
     "place": "Q280501",
     "from": 1676,
-    "to": 1849,
+    "to": 1858,
     "person": "Gundakar z Ditrichštejna, později Josef z Ditrichštejna",
     "how": "koupe",
     "from_approx": false,
-    "to_approx": true
-   },
-   {
-    "place": "Q280501",
-    "from": 1849,
-    "to": 1849,
-    "person": "Josef z Ditrichštejna",
-    "how": "dedictvi",
-    "from_approx": true,
     "to_approx": false
    },
    {
@@ -8751,7 +8742,7 @@
     "year": 1858,
     "from": "ditrichstejnove",
     "to": "herbersteinove",
-    "how": "neznamo"
+    "how": "dedictvi"
    },
    {
     "place": "Q17167017",
@@ -8832,10 +8823,10 @@
    },
    {
     "place": "Q280501",
-    "year": 1849,
+    "year": 1858,
     "from": "ditrichstejnove",
     "to": "herbersteinove",
-    "how": "snatek"
+    "how": "dedictvi"
    },
    {
     "place": "Q33249162",
@@ -12897,8 +12888,8 @@
     "place": "Q1592121",
     "from": 1858,
     "to": 1945,
-    "person": null,
-    "how": "neznamo",
+    "person": "Terezie z Ditrichštejna, provd. Herbersteinová, poté syn Johann Josef Herberstein",
+    "how": "dedictvi",
     "from_approx": false,
     "to_approx": false
    },
@@ -12913,10 +12904,10 @@
    },
    {
     "place": "Q280501",
-    "from": 1849,
+    "from": 1858,
     "to": 1945,
-    "person": "Terezie z Ditrichštejna, provd. Herbersteinová a Jan Bedřich z Herbersteinu",
-    "how": "snatek",
+    "person": "Terezie z Ditrichštejna, provd. Herbersteinová, poté syn Johann Josef Herberstein",
+    "how": "dedictvi",
     "from_approx": false,
     "to_approx": false
    },
@@ -12982,7 +12973,7 @@
     "year": 1858,
     "from": "ditrichstejnove",
     "to": "herbersteinove",
-    "how": "neznamo"
+    "how": "dedictvi"
    },
    {
     "place": "Q1592121",
@@ -13007,10 +12998,10 @@
    },
    {
     "place": "Q280501",
-    "year": 1849,
+    "year": 1858,
     "from": "ditrichstejnove",
     "to": "herbersteinove",
-    "how": "snatek"
+    "how": "dedictvi"
    },
    {
     "place": "Q31208247",
@@ -43398,7 +43389,7 @@
    {
     "place": "Q2244402",
     "from": 1736,
-    "to": 1746,
+    "to": 1754,
     "person": "Josef František ze Schönfeldu, poté dcera Kateřina",
     "how": "koupe",
     "from_approx": false,
@@ -43438,10 +43429,10 @@
    },
    {
     "place": "Q2244402",
-    "year": 1746,
+    "year": 1754,
     "from": "schonfeldove",
     "to": "auerspergove",
-    "how": "snatek"
+    "how": "dedictvi"
    },
    {
     "place": "Q884494",
@@ -47639,8 +47630,8 @@
     "place": "Q1592121",
     "from": 1613,
     "to": 1676,
-    "person": null,
-    "how": "neznamo",
+    "person": "Adam ze Šternberka, po Bílé hoře jeho synové (František Matyáš, od 1648 Václav Vojtěch)",
+    "how": "lenni",
     "from_approx": false,
     "to_approx": false
    },
@@ -48266,7 +48257,7 @@
     "year": 1613,
     "from": "bathoryove",
     "to": "sternberkove",
-    "how": "neznamo"
+    "how": "lenni"
    },
    {
     "place": "Q1592121",
@@ -53275,7 +53266,7 @@
     "place": "Q370663",
     "from": 1816,
     "to": 1945,
-    "person": "Kristián Vincenc Valdštejn-Vartenberk, poté syn Arnošt",
+    "person": "Kristián Vincenc Valdštejn-Vartenberk (zemř. 1858), poté syn Arnošt (František), od 1904 Arnošt Karel, naposledy Karel Arnošt",
     "how": "dedictvi",
     "from_approx": false,
     "to_approx": false
@@ -87554,7 +87545,7 @@
    {
     "place": "Q1592121",
     "from": 1594,
-    "to": 1602,
+    "to": 1606,
     "person": null,
     "how": "konfiskace",
     "from_approx": false,
@@ -87995,11 +87986,11 @@
    {
     "place": "Q280501",
     "from": 1594,
-    "to": 1602,
+    "to": 1606,
     "person": null,
     "how": "konfiskace",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q28472056",
@@ -90245,7 +90236,7 @@
    },
    {
     "place": "Q1592121",
-    "year": 1602,
+    "year": 1606,
     "from": "koruna",
     "to": "bathoryove",
     "how": "jine"
@@ -90819,7 +90810,7 @@
    },
    {
     "place": "Q280501",
-    "year": 1602,
+    "year": 1606,
     "from": "koruna",
     "to": "bathoryove",
     "how": "lenni"
