@@ -50067,6 +50067,34 @@
   "place_count": 2,
   "color_slot": null
  },
+ "theerove-ze-silbersteinu": {
+  "id": "theerove-ze-silbersteinu",
+  "type": "rod",
+  "name": "theerove-ze-silbersteinu",
+  "related": [],
+  "places": [
+   {
+    "place": "Q61635243",
+    "from": 1790,
+    "to": 1835,
+    "person": "Josef Karl Theer ze Silbersteinu",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": true
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q61635243",
+    "year": 1835,
+    "from": "theerove-ze-silbersteinu",
+    "to": "soukromnik",
+    "how": "neznamo"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
  "thun-hohensteinove": {
   "id": "thun-hohensteinove",
   "type": "rod",
@@ -78128,6 +78156,15 @@
     "to_approx": false
    },
    {
+    "place": "Q114289232",
+    "from": 1889,
+    "to": null,
+    "person": null,
+    "how": "neznamo",
+    "from_approx": true,
+    "to_approx": false
+   },
+   {
     "place": "Q11726127",
     "from": 1558,
     "to": 1617,
@@ -78834,6 +78871,13 @@
     "how": "koupe"
    },
    {
+    "place": "Q114289232",
+    "year": 1889,
+    "from": "koruna",
+    "to": "neznamo",
+    "how": "neznamo"
+   },
+   {
     "place": "Q11726127",
     "year": 1558,
     "from": "z-adlaru",
@@ -79429,7 +79473,7 @@
     "how": "koupe"
    }
   ],
-  "place_count": 61,
+  "place_count": 62,
   "color_slot": null
  },
  "stat": {
@@ -82281,6 +82325,15 @@
     "how": "konfiskace",
     "from_approx": false,
     "to_approx": false
+   },
+   {
+    "place": "Q61635243",
+    "from": 1945,
+    "to": 1986,
+    "person": "národní podnik Texlen (byty zaměstnanců)",
+    "how": "konfiskace",
+    "from_approx": true,
+    "to_approx": true
    },
    {
     "place": "Q62610248",
@@ -85933,6 +85986,20 @@
     "how": "konfiskace"
    },
    {
+    "place": "Q61635243",
+    "year": 1945,
+    "from": "soukromnik",
+    "to": "stat",
+    "how": "konfiskace"
+   },
+   {
+    "place": "Q61635243",
+    "year": 1986,
+    "from": "stat",
+    "to": "soukromnik",
+    "how": "neznamo"
+   },
+   {
     "place": "Q62610248",
     "year": 1945,
     "from": "cirkev",
@@ -86164,7 +86231,7 @@
     "how": "restituce"
    }
   ],
-  "place_count": 304,
+  "place_count": 305,
   "color_slot": null
  },
  "koruna": {
@@ -86837,6 +86904,15 @@
     "person": "purkrabí Smil ze Střílek a Brumova (1255), Oldřich z Hradce (1294-1303), Pankrác ze Svatého Mikuláše (v husitských válkách)",
     "how": "zalozeni",
     "from_approx": true,
+    "to_approx": true
+   },
+   {
+    "place": "Q114289232",
+    "from": 1659,
+    "to": 1889,
+    "person": "císař / vojenská správa pevnosti Olomouc",
+    "how": "zalozeni",
+    "from_approx": false,
     "to_approx": true
    },
    {
@@ -89356,6 +89432,13 @@
     "how": "lenni"
    },
    {
+    "place": "Q114289232",
+    "year": 1889,
+    "from": "koruna",
+    "to": "neznamo",
+    "how": "neznamo"
+   },
+   {
     "place": "Q1149939",
     "year": 1527,
     "from": "cirkev",
@@ -91533,7 +91616,7 @@
     "how": "koupe"
    }
   ],
-  "place_count": 146,
+  "place_count": 147,
   "color_slot": null
  },
  "mesto": {
@@ -98430,6 +98513,33 @@
     "to_approx": true
    },
    {
+    "place": "Q61635243",
+    "from": 1835,
+    "to": 1880,
+    "person": "továrník Vilharta",
+    "how": "neznamo",
+    "from_approx": true,
+    "to_approx": true
+   },
+   {
+    "place": "Q61635243",
+    "from": 1880,
+    "to": 1945,
+    "person": "rodina Kluge (továrníci)",
+    "how": "koupe",
+    "from_approx": true,
+    "to_approx": false
+   },
+   {
+    "place": "Q61635243",
+    "from": 1986,
+    "to": null,
+    "person": "provozovatel penzionu Zámek Rudník",
+    "how": "neznamo",
+    "from_approx": true,
+    "to_approx": false
+   },
+   {
     "place": "Q695042",
     "from": 1864,
     "to": 1875,
@@ -101646,6 +101756,27 @@
     "how": "jine"
    },
    {
+    "place": "Q61635243",
+    "year": 1835,
+    "from": "theerove-ze-silbersteinu",
+    "to": "soukromnik",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q61635243",
+    "year": 1945,
+    "from": "soukromnik",
+    "to": "stat",
+    "how": "konfiskace"
+   },
+   {
+    "place": "Q61635243",
+    "year": 1986,
+    "from": "stat",
+    "to": "soukromnik",
+    "how": "neznamo"
+   },
+   {
     "place": "Q695042",
     "year": 1864,
     "from": "koruna",
@@ -101884,7 +102015,7 @@
     "how": "koupe"
    }
   ],
-  "place_count": 169,
+  "place_count": 170,
   "color_slot": null
  }
 }

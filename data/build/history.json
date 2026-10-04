@@ -16193,6 +16193,71 @@
    "https://www.treking.cz/regiony/brumov-hrad.htm (komerční web, přebírá text webu hradu)"
   ]
  },
+ "Q114289232": {
+  "id": "Q114289232",
+  "name": "Locatelliho bastion",
+  "founded": {
+   "year": 1659,
+   "approx": false,
+   "text": "1659-1676 stavba bastionu (zemní val tu vznikl za švédské okupace po 1642)"
+  },
+  "summary": "Locatelliho bastion v Olomouci je nejstarší dochovaný bastion olomoucké pevnosti, stavěný v letech 1659-1676 za prvního velitele pevnosti Locatella de Locatelli. Po zrušení pevnosti 1886 (fakticky 1889) zůstal při bourání valů zachován, za druhé světové války v něm byla pancéřová střílna a od roku 1958 je v něm letní kino s kapacitou 3200 diváků.",
+  "owners": [
+   {
+    "owner": "koruna",
+    "owner_wiki": null,
+    "person": "císař / vojenská správa pevnosti Olomouc",
+    "from": 1659,
+    "to": 1889,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "zalozeni",
+    "note": "pevnost prohlášena 1655 Ferdinandem III.; vlastnictví výslovně neuvedeno, odvozeno z vojenské funkce; pevnost zrušena 1886, fakticky 1889"
+   },
+   {
+    "owner": "neznamo",
+    "owner_wiki": null,
+    "person": null,
+    "from": 1889,
+    "to": null,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "zdroje neuvádějí, kdo bastion po zrušení pevnosti vlastnil ani kdo ho dnes vlastní (letní kino v něm funguje od 1958); neověřeno"
+   }
+  ],
+  "events": [
+   {
+    "year": 1642,
+    "text": "Švédové po obsazení Olomouce zbudovali zemní val v místech pozdějšího bastionu"
+   },
+   {
+    "year": 1655,
+    "text": "Ferdinand III. prohlásil Olomouc za pevnost, prvním velitelem Locatello de Locatelli"
+   },
+   {
+    "year": 1676,
+    "text": "dokončení bastionu (stavba od 1659)"
+   },
+   {
+    "year": 1924,
+    "text": "při bourání valů (1924-26) bastion ušetřen, na rozdíl od Špitálského bastionu"
+   },
+   {
+    "year": 1958,
+    "text": "otevřeno letní kino s kapacitou 3200 diváků"
+   },
+   {
+    "year": 1984,
+    "text": "po havarijním stavu a rekonstrukci (zavřeno 1979) letní kino znovu otevřeno"
+   }
+  ],
+  "sources": [
+   "https://www.moravskyturista.cz/2013/09/olomouc-locatelliho-bastion-letni-kino.html",
+   "https://www.ok-tourism.cz/cil/locatelliho-bastion/",
+   "https://cs.wikipedia.org/wiki/Pevnost_Olomouc"
+  ]
+ },
  "Q1149939": {
   "id": "Q1149939",
   "name": "Klášter Rosa coeli",
@@ -66229,6 +66294,96 @@
    "https://cs.wikipedia.org/wiki/Vyšehrad",
    "https://praha-vysehrad.cz/cs/kontakty/",
    "https://files.praha-vysehrad.cz/zl3yyk6h2707/Rozbor%20%C4%8Dinnosti%20a%20hospoda%C5%99en%C3%AD%20NKPV%20-%202024.pdf"
+  ]
+ },
+ "Q61635243": {
+  "id": "Q61635243",
+  "name": "Rudník (novogotický)",
+  "founded": {
+   "year": 1815,
+   "approx": false,
+   "text": "1815 přestavba úřednické budovy bělidla na zámek; novogotická podoba kolem 1858 (v Arnultovicích)"
+  },
+  "summary": "Novogotický zámek (též zámek Arnultovice, dolní zámek) vznikl roku 1815 přestavbou úřednické budovy bělidla panstvím Theerů ze Silbersteinu a svou anglo-gotickou podobu s parkem získal kolem 1858. Koncem 19. století panství koupila továrnická rodina Kluge, po válce byl zámek znárodněn a sloužil jako byty pro zaměstnance národního podniku Texlen; dnes je v něm penzion.",
+  "owners": [
+   {
+    "owner": "theerove-ze-silbersteinu",
+    "owner_wiki": null,
+    "person": "Josef Karl Theer ze Silbersteinu",
+    "from": 1790,
+    "to": 1835,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "Theerové koupili 1790 vlčické panství i s Heřmanovými Sejfy; zámek nechal zřídit Josef Karel Theer (1815 / 30. léta 19. stol., zdroje se liší); konec držby zdroje neuvádějí"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "továrník Vilharta",
+    "from": 1835,
+    "to": 1880,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "jen z hradyazamky.eu; jméno a roky neověřeny"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "rodina Kluge (továrníci)",
+    "from": 1880,
+    "to": 1945,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "koupili panství Heřmanovy Sejfy i se zámkem a podniky; začátek 1880 (mistopisy.cz) / koncem 19. stol.; konec 1945 odvozen z odsunu a znárodnění"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "národní podnik Texlen (byty zaměstnanců)",
+    "from": 1945,
+    "to": 1986,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "konfiskace",
+    "note": "po válce znárodněn; rok převodu zdroj neuvádí"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "provozovatel penzionu Zámek Rudník",
+    "from": 1986,
+    "to": null,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "současný vlastník ani rok převodu ve zdrojích není; zámek je částečně penzion"
+   }
+  ],
+  "events": [
+   {
+    "year": 1790,
+    "text": "Theerové ze Silbersteinu kupují vlčické panství včetně Heřmanových Sejf"
+   },
+   {
+    "year": 1815,
+    "text": "přestavba úřednické budovy bělidla na zámek"
+   },
+   {
+    "year": 1858,
+    "text": "přestavba v novogotickém / anglickém slohu s rozlehlým parkem"
+   },
+   {
+    "year": 1952,
+    "text": "obec Heřmanovy Sejfy přejmenována na Rudník"
+   }
+  ],
+  "sources": [
+   "https://hradyazamky.eu/zamek-arnultovice-rudnik/",
+   "https://www.mistopisy.cz/pruvodce/obec/10177/rudnik/historie/",
+   "https://www.rudnik.cz/e_download.php?file=data%2Feditor%2F274cs_4.pdf&original=Rudnik-670let-priloha-historie01-web.pdf"
   ]
  },
  "Q62610248": {

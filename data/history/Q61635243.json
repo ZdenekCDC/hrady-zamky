@@ -1,0 +1,90 @@
+{
+ "id": "Q61635243",
+ "name": "Rudník (novogotický)",
+ "founded": {
+  "year": 1815,
+  "approx": false,
+  "text": "1815 přestavba úřednické budovy bělidla na zámek; novogotická podoba kolem 1858 (v Arnultovicích)"
+ },
+ "summary": "Novogotický zámek (též zámek Arnultovice, dolní zámek) vznikl roku 1815 přestavbou úřednické budovy bělidla panstvím Theerů ze Silbersteinu a svou anglo-gotickou podobu s parkem získal kolem 1858. Koncem 19. století panství koupila továrnická rodina Kluge, po válce byl zámek znárodněn a sloužil jako byty pro zaměstnance národního podniku Texlen; dnes je v něm penzion.",
+ "owners": [
+  {
+   "owner": "theerove-ze-silbersteinu",
+   "owner_wiki": null,
+   "person": "Josef Karl Theer ze Silbersteinu",
+   "from": 1790,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Theerové koupili 1790 vlčické panství i s Heřmanovými Sejfy; zámek nechal zřídit Josef Karel Theer (1815 / 30. léta 19. stol., zdroje se liší); konec držby zdroje neuvádějí"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "továrník Vilharta",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "jen z hradyazamky.eu; jméno a roky neověřeny"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "rodina Kluge (továrníci)",
+   "from": 1880,
+   "to": 1945,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupili panství Heřmanovy Sejfy i se zámkem a podniky; začátek 1880 (mistopisy.cz) / koncem 19. stol.; konec 1945 odvozen z odsunu a znárodnění"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": "národní podnik Texlen (byty zaměstnanců)",
+   "from": 1945,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "po válce znárodněn; rok převodu zdroj neuvádí"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "provozovatel penzionu Zámek Rudník",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "současný vlastník ani rok převodu ve zdrojích není; zámek je částečně penzion"
+  }
+ ],
+ "events": [
+  {
+   "year": 1790,
+   "text": "Theerové ze Silbersteinu kupují vlčické panství včetně Heřmanových Sejf"
+  },
+  {
+   "year": 1815,
+   "text": "přestavba úřednické budovy bělidla na zámek"
+  },
+  {
+   "year": 1858,
+   "text": "přestavba v novogotickém / anglickém slohu s rozlehlým parkem"
+  },
+  {
+   "year": 1952,
+   "text": "obec Heřmanovy Sejfy přejmenována na Rudník"
+  }
+ ],
+ "sources": [
+  "https://hradyazamky.eu/zamek-arnultovice-rudnik/",
+  "https://www.mistopisy.cz/pruvodce/obec/10177/rudnik/historie/",
+  "https://www.rudnik.cz/e_download.php?file=data%2Feditor%2F274cs_4.pdf&original=Rudnik-670let-priloha-historie01-web.pdf"
+ ]
+}
