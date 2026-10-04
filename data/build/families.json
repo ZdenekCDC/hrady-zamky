@@ -13068,7 +13068,7 @@
     "person": "Václav Karel (Karel) Hildprandt, František, Robert",
     "how": "koupe",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q2240326",
@@ -13076,7 +13076,7 @@
     "to": null,
     "person": "Kornelie (zemřela 2014), Josefina (zemřela 2020) a Jana Hildprandtová; dnes Stefanos-Filipos Germenis a Jana Germenis-Hildprandt",
     "how": "restituce",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -13446,7 +13446,7 @@
    },
    {
     "place": "Q940492",
-    "from": 1676,
+    "from": 1672,
     "to": 1696,
     "person": "Julius Leopold z Hodic, jeho syn František Josef z Hodic",
     "how": "dedictvi",
@@ -13499,7 +13499,7 @@
    },
    {
     "place": "Q940492",
-    "year": 1676,
+    "year": 1672,
     "from": "podstatsti-z-prusinovic",
     "to": "hodicti-z-hodic",
     "how": "dedictvi"
@@ -19617,25 +19617,25 @@
   "places": [
    {
     "place": "Q877062",
-    "from": null,
-    "to": null,
+    "from": 1270,
+    "to": 1347,
     "person": null,
     "how": "neznamo",
-    "from_approx": false,
-    "to_approx": false
+    "from_approx": true,
+    "to_approx": true
    }
   ],
   "transfers": [
    {
     "place": "Q877062",
-    "year": null,
+    "year": 1270,
     "from": "seefeldove",
     "to": "kuenringove",
     "how": "neznamo"
    },
    {
     "place": "Q877062",
-    "year": null,
+    "year": 1347,
     "from": "kuenringove",
     "to": "rauhensteinove",
     "how": "neznamo"
@@ -27998,7 +27998,7 @@
    {
     "place": "Q940492",
     "from": 1617,
-    "to": 1655,
+    "to": 1649,
     "person": "Fridrich z Oppersdorfu",
     "how": "koupe",
     "from_approx": false,
@@ -28113,7 +28113,7 @@
    },
    {
     "place": "Q940492",
-    "year": 1655,
+    "year": 1649,
     "from": "oppersdorfove",
     "to": "podstatsti-z-prusinovic",
     "how": "koupe"
@@ -39211,9 +39211,9 @@
    },
    {
     "place": "Q940492",
-    "from": 1655,
-    "to": 1676,
-    "person": "Eusebie Sabina Podstatská, odkázala třetímu manželovi Juliu Leopoldovi z Hodic",
+    "from": 1649,
+    "to": 1672,
+    "person": "Eusebie Sabina (Eugenie) Podstatská, odkázala třetímu manželovi Juliu Leopoldovi z Hodic",
     "how": "koupe",
     "from_approx": false,
     "to_approx": true
@@ -39292,14 +39292,14 @@
    },
    {
     "place": "Q940492",
-    "year": 1655,
+    "year": 1649,
     "from": "oppersdorfove",
     "to": "podstatsti-z-prusinovic",
     "how": "koupe"
    },
    {
     "place": "Q940492",
-    "year": 1676,
+    "year": 1672,
     "from": "podstatsti-z-prusinovic",
     "to": "hodicti-z-hodic",
     "how": "dedictvi"
@@ -39351,25 +39351,25 @@
   "places": [
    {
     "place": "Q877062",
-    "from": null,
-    "to": null,
+    "from": 1347,
+    "to": 1371,
     "person": null,
     "how": "neznamo",
-    "from_approx": false,
-    "to_approx": false
+    "from_approx": true,
+    "to_approx": true
    }
   ],
   "transfers": [
    {
     "place": "Q877062",
-    "year": null,
+    "year": 1347,
     "from": "rauhensteinove",
     "to": "pottendorfove",
     "how": "neznamo"
    },
    {
     "place": "Q877062",
-    "year": null,
+    "year": 1371,
     "from": "pottendorfove",
     "to": "puchheimove",
     "how": "neznamo"
@@ -39893,18 +39893,18 @@
   "places": [
    {
     "place": "Q877062",
-    "from": null,
+    "from": 1371,
     "to": 1395,
     "person": null,
     "how": "neznamo",
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": true
    }
   ],
   "transfers": [
    {
     "place": "Q877062",
-    "year": null,
+    "year": 1371,
     "from": "pottendorfove",
     "to": "puchheimove",
     "how": "neznamo"
@@ -40467,25 +40467,25 @@
   "places": [
    {
     "place": "Q877062",
-    "from": null,
-    "to": null,
-    "person": null,
+    "from": 1347,
+    "to": 1347,
+    "person": "Pilichsdorf-Rauhensteinové",
     "how": "neznamo",
-    "from_approx": false,
-    "to_approx": false
+    "from_approx": true,
+    "to_approx": true
    }
   ],
   "transfers": [
    {
     "place": "Q877062",
-    "year": null,
+    "year": 1347,
     "from": "kuenringove",
     "to": "rauhensteinove",
     "how": "neznamo"
    },
    {
     "place": "Q877062",
-    "year": null,
+    "year": 1347,
     "from": "rauhensteinove",
     "to": "pottendorfove",
     "how": "neznamo"
@@ -44117,12 +44117,12 @@
    },
    {
     "place": "Q877062",
-    "from": null,
-    "to": null,
-    "person": null,
-    "how": "neznamo",
+    "from": 1193,
+    "to": 1270,
+    "person": "Wichard ze Seefeldu, syn Kadold, poslední Albero z Feldsbergu",
+    "how": "vymena",
     "from_approx": false,
-    "to_approx": false
+    "to_approx": true
    }
   ],
   "transfers": [
@@ -44142,7 +44142,7 @@
    },
    {
     "place": "Q877062",
-    "year": null,
+    "year": 1270,
     "from": "seefeldove",
     "to": "kuenringove",
     "how": "neznamo"
@@ -68484,7 +68484,7 @@
     "to": 1691,
     "person": "Jan z Rozdražova, poté syn Václav (zemřel 1625), poté Anna Marie s nezletilým synem Františkem Ignácem, od 1645 František Ignác",
     "how": "koupe",
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": false
    }
   ],
@@ -81194,8 +81194,8 @@
     "to": 1992,
     "person": null,
     "how": "konfiskace",
-    "from_approx": true,
-    "to_approx": true
+    "from_approx": false,
+    "to_approx": false
    },
    {
     "place": "Q2240368",

@@ -28,7 +28,7 @@
    "from_approx": true,
    "to_approx": false,
    "how": "lenni",
-   "note": "léno udělené králem Václavem I.; cs.wiki 1244, web zámku 1249"
+   "note": "léno udělené králem Václavem I.; cs.wiki a atlasceska 1244, web zámku (zamek-lednice.com) a mckbrno 1249 - rozpor ponechán, do from dáno 1244 (cs.wiki); 1322 Ortlín Sirotek postoupil tvrz Janovi z Lichtenštejna (cs.wiki, web zámku shodně)"
   },
   {
    "owner": "lichtenstejnove",
@@ -39,7 +39,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "lenni",
-   "note": "zprvu léno (1322-1582), celé panství získáno kolem 1370; Kryštof z Lichtenštejna zvaný Rozmařilý prodal 1560 část mikulovského panství Kerecsényiům, Lednice ale podle zdrojů (cs.wiki, atlasceska) lichtenštejnská do 1571"
+   "note": "zprvu léno (1322-1582), celé panství získáno kolem 1370; Kryštof z Lichtenštejna zvaný Rozmařilý prodal 1560 část mikulovského panství Kerecsényiům, Lednice ale podle zdrojů (cs.wiki, atlasceska) lichtenštejnská do 1571; cs.wiki: 1560 prodána část mikulovského panství Lászlovi Kerecsényimu; web zámku, cz-milka a webnode uvádějí Lichtenštejny až do 1571 (shodně s cs.wiki 1571-1576 přerušení)"
   },
   {
    "owner": "kereczenyiove",
@@ -50,7 +50,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "koupil zbytek mikulovského panství i s Lednicí; zemřel bezdětný"
+   "note": "cs.wiki: 1571 koupil Kristóf Kerecsényi (syn Lászla, který koupil část 1560) zbytek panství i s Lednicí a zemřel bezdětný; jiná verze (cz-milka, webnode): Kryštof z Lichtenštejna chtěl 1571 prodat, císař prodej nepovolil a Lednici držel sám - Kerecsényi pak v Lednici nefigurují; rozpor neřešen, ponechána verze cs.wiki"
   },
   {
    "owner": "koruna",
@@ -61,7 +61,7 @@
    "from_approx": true,
    "to_approx": true,
    "how": "konfiskace",
-   "note": "odúmrť po Kristófu Kerecsényim; Lednice podle atlasceska/cz-milka v držení císaře 1571-1576; prodáno zpět Lichtenštejnům"
+   "note": "odúmrť po Kristófu Kerecsényim; Lednice podle cz-milka v držení císaře 1571-1576; návrat Lichtenštejnům 1575 (cs.wiki, webnode) / 1576 (cz-milka)"
   },
   {
    "owner": "lichtenstejnove",
@@ -200,7 +200,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "zkonfiskováno na základě Benešových dekretů; poválečné restituční spory rodu neúspěšné; dnes ve správě NPÚ, od 1996 UNESCO"
+   "note": "zestátněno 1945 na základě dekretů prezidenta republiky (web zámku); poválečné restituční spory rodu neúspěšné; dnes ve správě NPÚ, od 1996 UNESCO"
   }
  ],
  "events": [
@@ -241,6 +241,9 @@
   "https://cs.wikipedia.org/wiki/Lednice_(zámek)",
   "https://www.zamek-lednice.com/en/about/history",
   "https://zamek-lednice.com/cs/o-zamku",
-  "https://www.atlasceska.cz/pamatky/zamek-lednice-19530"
+  "https://www.atlasceska.cz/pamatky/zamek-lednice-19530",
+  "https://www.zamek-lednice.com/cs/informace-pro-navstevniky/texty-ke-stazeni/i.-okruh/cestina-i",
+  "https://mckbrno.cz/mckbrno-databaze/naki/index.php/objekt-sz-lednice/historie",
+  "https://www.cz-milka.net/pamatky/03-zamky/lednice/ (amatérský zdroj)"
  ]
 }

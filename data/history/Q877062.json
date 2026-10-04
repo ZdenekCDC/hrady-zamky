@@ -11,46 +11,46 @@
   {
    "owner": "seefeldove",
    "owner_wiki": null,
-   "person": null,
-   "from": null,
-   "to": null,
+   "person": "Wichard ze Seefeldu, syn Kadold, poslední Albero z Feldsbergu",
+   "from": 1193,
+   "to": 1270,
    "from_approx": false,
-   "to_approx": false,
-   "how": "neznamo",
-   "note": "středověké opevněné sídlo, podle oficiálního webu zámku vzniklé nejspíš v souvislosti s kolonizací pasovských biskupů ve 2. pol. 11. stol.; Seefeldové vymřeli po meči ve 13. století"
+   "to_approx": true,
+   "how": "vymena",
+   "note": "1193 (10. 1.) císař Jindřich VI. potvrdil směnu Valtic mezi pasovským biskupem Wolfgerem a Wichardem ze Seefeldu (web zámku); opevněné sídlo stálo už dříve; Seefeldové vymřeli po meči Alberem z Feldsbergu, rok jeho smrti 1270 jen podle amatérského cz-milka (web zámku roky neuvádí); rod nemá článek na cs.wiki"
   },
   {
    "owner": "kuenringove",
    "owner_wiki": "Kuenringové",
    "person": null,
    "from": null,
-   "to": null,
+   "to": 1347,
    "from_approx": false,
-   "to_approx": false,
+   "to_approx": true,
    "how": "neznamo",
-   "note": "13. a počátek 14. století společně s Rauhensteiny (oficiální web zámku a města Valtice); roky zdroje neuvádějí"
+   "note": "počátek 14. stol. (po svatbách Alberových dcer, cz-milka) společně s Rauhensteiny (web zámku); Kuenringové prodali svůj podíl Pottendorfům 1347 (jen cz-milka, amatérský zdroj; web zámku píše 'záhy'); rod Kuenringové na cs.wiki existuje"
   },
   {
    "owner": "rauhensteinove",
    "owner_wiki": null,
-   "person": null,
+   "person": "Pilichsdorf-Rauhensteinové",
    "from": null,
    "to": null,
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "s Kuenringy; na počátku 14. stol. oba rody prodali podíl Pottendorfům"
+   "note": "s Kuenringy; podle webu zámku oba rody záhy prodaly podíl Pottendorfům, podle cz-milka prodali jen Kuenringové (1347) a Rauhensteinové část dále dělili; roky držení zdroje neuvádějí"
   },
   {
    "owner": "pottendorfove",
    "owner_wiki": null,
    "person": null,
-   "from": null,
+   "from": 1347,
    "to": null,
-   "from_approx": false,
+   "from_approx": true,
    "to_approx": false,
    "how": "neznamo",
-   "note": "podíl koupen od Kuenringů a Rauhensteinů; část obce později získali Puchheimové"
+   "note": "podíl koupen od Kuenringů (1347 podle cz-milka, slabší zdroj) a podle webu zámku i od Rauhensteinů; část Valtic později získali Puchheimové; rod bez článku na cs.wiki"
   },
   {
    "owner": "puchheimove",
@@ -61,7 +61,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "část Valtic koupil od nich 1. 2. 1395 Jan z Lichtenštejna (listina)"
+   "note": "část Valtic koupil od nich 1. 2. 1395 Jan z Lichtenštejna (listina, web zámku); cz-milka: šestinu získala Alžběta, 3. manželka Jana I. z Lichtenštejna, po její smrti Jan získal panství celé; roky držení Puchheimů zdroje neuvádějí"
   },
   {
    "owner": "lichtenstejnove",
@@ -72,7 +72,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "první šestinu Valtic získali ve 14. stol., podle oficiálního webu zámku koupil část od Puchheimů Jan z Lichtenštejna listinou z 1. 2. 1395 (jiná verze téhož webu: panství zcelili 1387-1391); 1394 krátká konfiskace statků Jana z Lichtenštejna, brzy vráceny; za Hartmana I. (+1539/1540) trvalé sídlo jedné z větví rodu; po ztrátě Mikulova 1560 hlavní sídlo rodu; 1606 rodinný fideikomis"
+   "note": "web zámku (cs 'o-zamku/lichtenstejnove'): část obce koupil od Puchheimů Jan z Lichtenštejna listinou z 1. 2. 1395, 1394 krátká konfiskace statků (brzy vráceny), 1395 Albrecht III. potvrdil panství jako léno (cz-milka); jiná stránka téhož webu (historie): panství zcelili 1387-1391 - rozpor, do from dáno 1395 (doložené listinou, shoduje se s cs.wiki 'konec 14. stol.' a hlavním okruhem 'definitivně 1395'); za Hartmana I. (+1539/1540) trvalé sídlo jedné z větví rodu; po ztrátě Mikulova 1560 hlavní sídlo rodu; 1606 rodinný fideikomis"
   },
   {
    "owner": "lichtenstejnove",
@@ -159,10 +159,15 @@
    "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "vyvlastnění rodu Lichtenštejnů bez náhrady na základě Benešových dekretů; restituční nároky knížete Hanse Adama II. po roce 1989 dosud nebyly vyřešeny; dnes ve správě Národního památkového ústavu"
+   "note": "vyvlastnění rodu Lichtenštejnů bez náhrady na základě Benešových dekretů; restituční nároky knížete Hanse Adama II. po roce 1989 dosud nebyly vyřešeny; dnes ve správě Národního památkového ústavu; stát (ČR) vlastník dle cs.wiki, správa NPÚ (web zámku/cs.wiki)",
+   "owner_wiki": null
   }
  ],
  "events": [
+  {
+   "year": 1193,
+   "text": "první písemná zmínka o Valticích (Veldesperch): směna mezi pasovským biskupem Wolfgerem a Wichardem ze Seefeldu"
+  },
   {
    "year": 1377,
    "text": "před branou areálu postavena kaple sv. Mikuláše a sv. Kiliána (zbořena 1649)"
@@ -212,6 +217,9 @@
   "https://cs.wikipedia.org/wiki/Valtice_(zámek)",
   "https://www.zamek-valtice.cz/cs/o-zamku/lichtenstejnove",
   "https://update.zamek-valtice.cz/cs/o-zamku/historie",
-  "https://www.valtice.eu/mesto/historie/"
+  "https://www.valtice.eu/mesto/historie/",
+  "https://www.zamek-valtice.cz/en/about/history",
+  "https://www.zamek-valtice.cz/pamatky/valtice/texty-okruhu/CZ-maintour-text.pdf",
+  "https://www.cz-milka.net/pamatky/03-zamky/valtice/ (amatérský zdroj)"
  ]
 }

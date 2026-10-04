@@ -72,7 +72,7 @@
    "from_approx": true,
    "to_approx": true,
    "how": "dedictvi",
-   "note": "Marie Anna zemřela 1752 (web zámku) nebo 1756 (hrady.cz) - rok přechodu na Fürstenberky nejistý"
+   "note": "Marie Anna zemřela 1752 (web zámku, od níž Fürstenberkové) nebo 1756 (hrady.cz a bakalářská práce UK 2011 - Fürstenberkové od 1756, dědí syn Karel Egon); rok přechodu zůstává nejistý, v datech ponechán 1752 (web zámku uvádí i 1733 jako smrt posledního muže rodu)"
   },
   {
    "owner": "furstenbergove",
@@ -83,7 +83,7 @@
    "from_approx": true,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "po Karlu Gabrielovi spor o dědictví, panství vysoudila vdova po Karlu Egonovi a odkázala je příbuznému Thurn-Taxisovi"
+   "note": "po Karlu Gabrielovi (+1799) čtyřletý spor o dědictví, panství vysoudila vdova po Karlu Egonovi Marie Josefa ze Šternberka a odkázala je příbuznému Thurn-Taxisovi (hrady.cz); bakalářská práce UK 2011 uvádí konec Fürstenberků 1808 (odkaz Marie Josefy), web zámku 1809; začátek 1752 / 1756 viz předchozí záznam"
   },
   {
    "owner": "thurn-taxisove",
@@ -94,7 +94,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "cs.wiki a web zámku uvádějí získání sňatkem s Fürstenberkovou, hrady.cz odkaz příbuznému Maxmiliánu Josefovi; 1945 konfiskace"
+   "note": "způsob nabytí je ve zdrojích rozporný: web zámku a cs.wiki uvádějí sňatek s Fürstenberkovou (web zámku zároveň píše o sporu dvou Fürstenberkových o dědictví), hrady.cz a bakalářská práce UK 2011 odkaz Marie Josefy z Fürstenbergu příbuznému Maxmiliánu Josefovi (matka Marie Henrietta rozená Fürstenbergová); rok 1809 web zámku a cs.wiki, 1808 bakalářská práce; 1945 konfiskace"
   },
   {
    "owner": "stat",
@@ -105,7 +105,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "zámek vyrabován 1945; cs.wiki uvádí od 1949 Ministerstvo obrany, web zámku a hrady.cz ministerstvo dopravy (Fond sociální péče, dráhy, od 1968 Ústřední dopravní institut) - spor zdrojů; sloužil jako školicí středisko a učiliště"
+   "note": "zámek vyrabován 1945; web zámku: od 1949 ministerstvo dopravy (rekreační a výukové středisko, 1959-1968 železniční učiliště, od 1968 Ústřední dopravní institut), tj. ověřeno proti cs.wiki, která uvádí ministerstvo obrany - spor zdrojů, v datech ministerstvo dopravy"
   },
   {
    "owner": "soukromnik",
@@ -116,7 +116,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "od 1. 1. 2000; rekonstrukce, otevřeno 7. 7. 2007"
+   "note": "od 2000 (web zámku: vlastníkem se stává Loučeň a.s., nyní Zámek Loučeň a.s.; cs.wiki 1. 1. 2000); zpřístupněno 7. 7. 2007"
   }
  ],
  "events": [
@@ -168,6 +168,7 @@
  "sources": [
   "https://cs.wikipedia.org/wiki/Loučeň_(zámek)",
   "https://www.zamekloucen.cz/historie-zamku-loucen",
-  "https://www.hrady.cz/zamek-loucen-nymburk/"
+  "https://www.hrady.cz/zamek-loucen-nymburk/",
+  "https://dspace.cuni.cz/bitstream/handle/20.500.11956/59689/BPTX_2011_2_11410_0_320738_0_121349.pdf"
  ]
 }

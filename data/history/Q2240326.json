@@ -28,7 +28,7 @@
    "from_approx": true,
    "to_approx": true,
    "how": "dedictvi",
-   "note": "Rožmitálové dědili po Bavorech jako příbuzní; vrchol za Jaroslava Lva a Zdeňka Lva (přestavba Benediktem Rejtem); cs.wiki a AMHZ 1541, web zámku uvádí prodej Adamem Levem až 1555"
+   "note": "Rožmitálové dědili po Bavorech jako příbuzní (Bavor Břetislav doložen do 1403 - web zámku, hrady.cz, en.wiki; cs.wiki uvádí 1391); vrchol za Jaroslavu Lvovi a Zdeňku Lvovi (přestavba Benediktem Rejtem, Zdeněk Lev zemřel 1535). Konec: 1541 (cs.wiki, AMHZ, soupis památek NPÚ, hrady.cz - syn Adam rozprodal zadlužené dědictví, Blatnou 1541 získal věřitel ze Šternberka) vs. 1555 (web zámku a en.wiki - Adam Lev prodal přímo Řepickým); v datech 1541"
   },
   {
    "owner": "sternberkove",
@@ -39,7 +39,7 @@
    "from_approx": true,
    "to_approx": true,
    "how": "koupe",
-   "note": "podle cs.wiki a AMHZ; web zámku tento mezistupeň neuvádí (Adam Lev prodal 1555 Řepickým)"
+   "note": "podle cs.wiki, AMHZ, NPÚ soupisu památek (od 1541 Šternberkové) a hrady.cz (věřitel Adam / Dama ze Šternberka, 1555 prodal Řepickým); web zámku a en.wiki tento mezistupeň neuvádějí (Adam Lev prodal 1555 Řepickým); mezistupeň 1541-1555 je tedy podložen jen části zdrojů"
   },
   {
    "owner": "repicti-ze-sudomere",
@@ -61,7 +61,7 @@
    "from_approx": false,
    "to_approx": true,
    "how": "koupe",
-   "note": "web zámku: koupil 1560 od manželčiny sestry, zemřel dva roky před 1577; cs.wiki uvádí Šternberky do 1579"
+   "note": "web zámku a hrady.cz: 1560 Zdeněk ze Šternberka (manžel Kateřiny Řepické), zemřel 1575; cs.wiki uvádí Šternberky do 1579 (prodej Rozdražovi)"
   },
   {
    "owner": "z-rozdrazova",
@@ -69,10 +69,10 @@
    "person": "Jan z Rozdražova, poté syn Václav (zemřel 1625), poté Anna Marie s nezletilým synem Františkem Ignácem, od 1645 František Ignác",
    "from": 1577,
    "to": 1691,
-   "from_approx": false,
+   "from_approx": true,
    "to_approx": false,
    "how": "koupe",
-   "note": "cs.wiki uvádí koupi Jana z Rozdražova 1579, web zámku 1577; Rozdražovští vymřeli 1691 po meči (František Ignác); 1622 vydrancování Mansfeldem, Václav uprchl do Slezska"
+   "note": "rok koupě Jana z Rozdražova: 1577 (web zámku - dva roky po smrti Zdeňka ze Šternberka 1575) vs. 1579 (cs.wiki, hrady.cz); Jan zemřel 1585 (hrady.cz, město Blatná), poté syn Václav (zemřel 1625), Anna Marie s nezletilým synem Františkem Ignácem, od 1645 František Ignác; vymřeli 1691; 1622 vydrancování Mansfeldem, Václav uprchl do Slezska"
   },
   {
    "owner": "kolowrat-krakowsti",
@@ -103,9 +103,9 @@
    "from": 1798,
    "to": 1948,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "koupe",
-   "note": "koupil od bratří Serényiů; 1850-1856 novogotické úpravy za Roberta Hildprandta (Bernard Grueber); rok konfiskace: cs.wiki 1948, web zámku 1952 (koncem 40. let převzala zámek Národní kulturní komise)"
+   "note": "koupil od bratří Serényiů; 1850-1856 novogotické úpravy za Roberta Hildprandta (Bernard Grueber); konfiskace: XII. 1948 (soupis památek NPÚ, cs.wiki, hrady.cz 1948 po převzetí Národní památkovou komisí 1947) vs. 1952 (web zámku); v datech 1948"
   },
   {
    "owner": "stat",
@@ -113,10 +113,10 @@
    "person": null,
    "from": 1948,
    "to": 1992,
-   "from_approx": true,
-   "to_approx": true,
+   "from_approx": false,
+   "to_approx": false,
    "how": "konfiskace",
-   "note": "komunistická konfiskace (1948-1952); rodina emigrovala do Etiopie; rok restituce: pamatky.cz 1992, web zámku po 1991"
+   "note": "komunistická konfiskace XII. 1948 (soupis památek NPÚ); web zámku uvádí 1952; rodina po 1958 emigrovala do Etiopie; restituce: 1992 (pamatky.cz, město Blatná), web zámku a hrady.cz jen 'po 1991', soupis památek 'v 90. letech'; v datech 1992"
   },
   {
    "owner": "hildprandtove-z-ottenhausenu",
@@ -124,10 +124,10 @@
    "person": "Kornelie (zemřela 2014), Josefina (zemřela 2020) a Jana Hildprandtová; dnes Stefanos-Filipos Germenis a Jana Germenis-Hildprandt",
    "from": 1992,
    "to": null,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "restituce",
-   "note": "zámek v soukromém vlastnictví, přístupný veřejnosti"
+   "note": "restituce 1992 (město Blatná, pamatky.cz; web zámku po 1991), rodina Hildprandtů (Kornelie, Josefina, Jana); dnešní vlastníci dle cs.wiki Stefanos-Filipos Germenis a Jana Germenis-Hildprandt (aktuálnost neověřena druhým zdrojem); soukromý, přístupný veřejnosti"
   }
  ],
  "events": [
@@ -174,8 +174,8 @@
   },
   {
    "year": 1948,
-   "text": "konfiskace majetku Hildprandtů (do 1952)",
-   "approx": true
+   "text": "konfiskace majetku Hildprandtů (XII. 1948; web zámku uvádí 1952)",
+   "approx": false
   },
   {
    "year": 1992,
@@ -187,6 +187,10 @@
   "https://cs.wikipedia.org/wiki/Blatná_(zámek)",
   "https://www.zamek-blatna.cz/about/castle-history",
   "https://www.amhz.cz/zamek/blatna",
-  "https://www.pamatky.cz/pamatky/blatna"
+  "https://www.pamatky.cz/pamatky/blatna",
+  "https://www.hrady.cz/zamek-blatna-strakonice/",
+  "https://www.soupispamatek.cz/arl-kcz/en/detail-kcz_un_auth-0000132-Chateau-Blatna/",
+  "https://www.mesto-blatna.cz/mesto-1/historie-a-soucasnost-mesta/blatna-v-zrcadle-casu/",
+  "https://en.wikipedia.org/wiki/Blatn%C3%A1_Castle"
  ]
 }
