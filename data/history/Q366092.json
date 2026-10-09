@@ -26,9 +26,9 @@
    "from": 1597,
    "to": 1945,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "snatek",
-   "note": "zámek a panství vyženil Maxmilián z Lichtenštejna s Kateřinou, dcerou Jana Šembery (cs.wiki Lichtenštejnové: Bučovice získal 1597 sňatkem, 14 310 ha; druhá dcera Anna Marie se provdala za Karla I.); od 1681 přestal zámek sloužit jako panské sídlo a stal se správním centrem panství, od 1722 sídlem centrální lichtenštejnské účtárny; cs.wiki: Lichtenštejnové vlastnili statky 'do roku 1945', po roce 1945 byl veškerý jejich majetek zkonfiskován - přesný rok převodu zámku na stát zdroje neuvádějí"
+   "note": "zámek a panství vyženil Maxmilián z Lichtenštejna s Kateřinou, dcerou Jana Šembery (cs.wiki Lichtenštejnové: Bučovice získal 1597 sňatkem, 14 310 ha; druhá dcera Anna Marie se provdala za Karla I.); od 1681 přestal zámek sloužit jako panské sídlo a stal se správním centrem panství, od 1722 sídlem centrální lichtenštejnské účtárny; poslední držitel Alois Lichtenštejn; po skončení druhé světové války byl zámek Lichtenštejnům zabaven státem podle Benešových dekretů (zamek-bucovice.cz, update web); egeon.cz: od 1945 zámek připadl československému státu"
   },
   {
    "owner": "stat",
@@ -36,10 +36,10 @@
    "person": null,
    "from": 1945,
    "to": null,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "po roce 1945 konfiskace lichtenštejnského majetku (cs.wiki Lichtenštejnové); dnes Státní zámek Bučovice ve správě Národního památkového ústavu (zamek-bucovice.cz); přesný rok převodu do vlastnictví státu se v citovaných zdrojích nepodařilo ověřit, rok 1945 je přibližný"
+   "note": "1945 konfiskace lichtenštejnského majetku podle dekretů (cs.wiki Lichtenštejnové; egeon.cz: 'od r. 1945 zámek připadl československému státu', do 1958 zde zemědělsko-lesnický archiv; zamek-bucovice.cz: po skončení války zabaven státem); dnes Státní zámek Bučovice ve správě Národního památkového ústavu; dekret č. 12/1945 Sb. z 23. 6. 1945 (Ústavní soud) stanoví nabytí státem k tomuto dni, ale přímo pro zámek Bučovice zdroj konkrétní datum neuvádí"
   }
  ],
  "events": [
@@ -77,6 +77,8 @@
   "https://cs.wikipedia.org/wiki/Bučovice",
   "https://cs.wikipedia.org/wiki/Boskovicové",
   "https://cs.wikipedia.org/wiki/Lichtenštejnové",
-  "https://www.zamek-bucovice.cz/cs/o-zamku/historie"
+  "https://www.zamek-bucovice.cz/cs/o-zamku/historie",
+  "https://update.zamek-bucovice.cz/cs/o-zamku/lichtenstejni-na-zamku-v-bucovicich",
+  "https://egeon.cz/cile/609/zamek-bucovice"
  ]
 }

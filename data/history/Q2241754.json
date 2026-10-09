@@ -6,7 +6,7 @@
   "approx": false,
   "text": "Roku 1724 nechal hrabě František Adam z Trauttmansdorffu vystavět nový barokní zámek podle projektu Františka Maxmiliána Kaňky; starší panské sídlo ve vsi (tzv. starý zámek) vzniklo přestavbou středověké tvrze, první písemná zmínka o Jemništi je z roku 1381."
  },
- "summary": "Nový barokní zámek Jemniště nechal roku 1724 postavit hrabě František Adam z Trauttmansdorffu podle projektu Františka Maxmiliána Kaňky; po požáru roku 1754 byl znovu vybaven a od té doby se prakticky nezměnil. Po Trauttmansdorffech panství sňatkem získal roku 1773 Jindřich František z Rottenhanu, po jeho smrti ho drželi manželé jeho dcer Chotkové a Buquoyové, roku 1836 je koupil Veriand Windischgrätz a roku 1868 Zdeněk ze Šternberka, jehož potomci zámek drželi (s přestávkou nacistické konfiskace 1943-1945 a komunistické konfiskace od počátku 50. let) až do restituce roku 1995. Dnes zámek vlastní Jiří Sternberg a je přístupný veřejnosti.",
+ "summary": "Nový barokní zámek Jemniště nechal roku 1724 postavit hrabě František Adam z Trauttmansdorffu podle projektu Františka Maxmiliána Kaňky; po požáru roku 1754 byl znovu vybaven a od té doby se prakticky nezměnil. Po Trauttmansdorffech panství sňatkem získal roku 1773 Jindřich František z Rottenhanu, po jeho smrti ho zdědily dcery (Chotkové), roku 1829 je koupil Jiří Buquoy a roku 1836 Veriand Windischgrätz a roku 1868 Zdeněk ze Šternberka, jehož potomci zámek drželi (s přestávkou nacistické konfiskace 1943-1945 a komunistického znárodnění 1951) až do restituce roku 1995. Dnes zámek vlastní Jiří Sternberg a je přístupný veřejnosti.",
  "owners": [
   {
    "owner": "trauttmansdorffove",
@@ -44,24 +44,24 @@
   {
    "owner": "chotkove-z-chotkova",
    "owner_wiki": "Chotkové z Chotkova",
-   "person": "Jan Nepomuk Chotek",
+   "person": "Marie Isabela Chotková z Rottenhanu (manžel Jan Nepomuk Chotek), po ní dcera Sidonie (provd. Fünfkirchen)",
    "from": 1809,
-   "to": null,
+   "to": 1829,
    "from_approx": true,
-   "to_approx": true,
+   "to_approx": false,
    "how": "snatek",
-   "note": "manžel jedné z Rottenhanových dcer, vlastnil po Rottenhanově smrti (1809, odvozeno); přesné roky nejsou v cs.wiki ani na webu zámku"
+   "note": "dědička panství po otci Rottenhanovi (sňatkem s hrabětem Janem Nepomukem Chotkem); po její smrti (1817) panství zdědila dcera Sidonie, která Jemniště roku 1829 prodala svému strýci Jiřímu Buquoyovi (cs.wiki Jindřich Chotek, zemesveta.cz); počátek 1809 odvozen z úmrtí Rottenhana, přesný rok nabytí zdroje neuvádějí"
   },
   {
    "owner": "buquoyove",
    "owner_wiki": "Buquoyové",
    "person": "Jiří Buquoy",
-   "from": null,
+   "from": 1829,
    "to": 1836,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
-   "how": "snatek",
-   "note": "manžel druhé z Rottenhanových dcer, následoval po Chotkovi; roky držby nejsou ve zdrojích; 1836 koupil panství Windischgrätz"
+   "how": "koupe",
+   "note": "Jiří Buquoy, strýc Sidonie Chotkové (manžel jedné z Rottenhanových dcer), koupil roku 1829 od Sidonie; po sedmi letech panství prodal Windischgrätzovi (zemesveta.cz, cs.wiki Jindřich Chotek); 1836 koupil panství Windischgrätz"
   },
   {
    "owner": "windischgratzove",
@@ -134,22 +134,22 @@
    "owner_wiki": "Šternberkové",
    "person": "Terezie a František Josef Mensdorff-Pouilly",
    "from": 1945,
-   "to": 1953,
+   "to": 1951,
    "from_approx": false,
-   "to_approx": true,
-   "how": "jine",
-   "note": "po válce zámek navrácen právoplatným majitelům; počátkem 50. let jej zkonfiskovali komunisté (přesný rok zdroje neuvádějí, konec držby aproximován rokem 1953 prvního doloženého využití státem); Terezie zemřela 1985, František 1991"
+   "to_approx": false,
+   "how": "restituce",
+   "note": "po válce zámek (nejprve zestátněný jako německý majetek) po žádosti o restituci navrácen právoplatným majitelům, kteří se na zámek již nenastěhovali; roku 1951 jej znovu znárodnil komunistický režim (jemniste.cz; cs.wiki uvádí jen 'počátkem 50. let'); Terezie zemřela 1985, František 1991"
   },
   {
    "owner": "stat",
    "owner_wiki": null,
    "person": null,
-   "from": 1953,
+   "from": 1951,
    "to": 1995,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "bývalí majitelé se přestěhovali na postupickou faru; cs.wiki: počátkem 50. let konfiskace komunisty (rok neuveden), první doložené využití 1953 (Muzeum osobní a společenské kultury 1953-1961, Oblastní muzeum Podblanicka 1962-1974, od 1975 výstava o československo-sovětském přátelství); web zámku (en) uvádí, že zámek byl po květnu 1945 sovětskými vojsky považován za německý a zestátněn navzdory protestům, po žádosti o restituci mu byl vrácen"
+   "note": "znárodněno 1951 (jemniste.cz; cs.wiki: počátkem 50. let); bývalí majitelé se přestěhovali na postupickou faru; Muzeum osobní a společenské kultury 1953-1961, Oblastní muzeum Podblanicka 1962-1974, od 1975 výstava o československo-sovětském přátelství"
   },
   {
    "owner": "sternberkove",
@@ -181,12 +181,24 @@
    "text": "zámek vyhořel a byl znovu přestavěn a vybaven"
   },
   {
+   "year": 1829,
+   "text": "Sidonie Chotková prodává Jemniště strýci Jiřímu Buquoyovi"
+  },
+  {
+   "year": 1836,
+   "text": "Jiří Buquoy prodává panství Veriandu Windischgrätzovi"
+  },
+  {
    "year": 1868,
    "text": "Zdeněk ze Šternberka koupil zámek od Windischgrätzů"
   },
   {
    "year": 1943,
    "text": "nacistická konfiskace zámku rodině Mensdorff-Pouilly"
+  },
+  {
+   "year": 1951,
+   "text": "zámek znárodněn komunistickým režimem"
   },
   {
    "year": 1995,
@@ -196,6 +208,8 @@
  "sources": [
   "https://cs.wikipedia.org/wiki/Jemniště_(nový_zámek)",
   "https://www.jemniste.cz/historie-zamku/",
-  "https://www.jemniste.cz/en/history-of-the-chateau"
+  "https://www.jemniste.cz/en/history-of-the-chateau",
+  "https://zemesveta.cz/jemniste-barokni-perla/",
+  "https://cs.wikipedia.org/wiki/Jindřich_Chotek"
  ]
 }

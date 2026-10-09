@@ -5311,11 +5311,11 @@
    },
    {
     "place": "Q2241754",
-    "from": 1822,
+    "from": 1829,
     "to": 1836,
     "person": "Jiří Buquoy",
-    "how": "snatek",
-    "from_approx": true,
+    "how": "koupe",
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -5501,10 +5501,10 @@
    },
    {
     "place": "Q2241754",
-    "year": 1822,
+    "year": 1829,
     "from": "chotkove-z-chotkova",
     "to": "buquoyove",
-    "how": "snatek"
+    "how": "koupe"
    },
    {
     "place": "Q2241754",
@@ -7074,11 +7074,11 @@
    {
     "place": "Q2241754",
     "from": 1809,
-    "to": 1822,
-    "person": "Jan Nepomuk Chotek",
+    "to": 1829,
+    "person": "Marie Isabela Chotková z Rottenhanu (manžel Jan Nepomuk Chotek), po ní dcera Sidonie (provd. Fünfkirchen)",
     "how": "snatek",
     "from_approx": true,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q2243834",
@@ -7141,10 +7141,10 @@
    },
    {
     "place": "Q2241754",
-    "year": 1822,
+    "year": 1829,
     "from": "chotkove-z-chotkova",
     "to": "buquoyove",
-    "how": "snatek"
+    "how": "koupe"
    },
    {
     "place": "Q2243834",
@@ -22920,7 +22920,7 @@
     "person": "Maxmilián z Lichtenštejna a Kateřina, dcera Jana Šembery z Boskovic",
     "how": "snatek",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q366535",
@@ -49255,11 +49255,11 @@
    {
     "place": "Q2241754",
     "from": 1945,
-    "to": 1953,
+    "to": 1951,
     "person": "Terezie a František Josef Mensdorff-Pouilly",
-    "how": "jine",
+    "how": "restituce",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q2241754",
@@ -49922,11 +49922,11 @@
     "year": 1945,
     "from": "soukromnik",
     "to": "sternberkove",
-    "how": "jine"
+    "how": "restituce"
    },
    {
     "place": "Q2241754",
-    "year": 1953,
+    "year": 1951,
     "from": "sternberkove",
     "to": "stat",
     "how": "konfiskace"
@@ -54359,11 +54359,29 @@
    {
     "place": "Q1014692",
     "from": 1624,
-    "to": 1816,
-    "person": "Maxmilián z Valdštejna, poté Ferdinand, jeho vdova Marie Eleonora a syn Arnošt Josef",
+    "to": 1652,
+    "person": "Maxmilián z Valdštejna",
     "how": "jine",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
+   },
+   {
+    "place": "Q1014692",
+    "from": 1652,
+    "to": 1656,
+    "person": "Ferdinand Arnošt z Valdštejna",
+    "how": "dar",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q1014692",
+    "from": 1656,
+    "to": 1945,
+    "person": "Marie Eleonora z Rottalu a syn Arnošt Josef (zemřel 1708), poté další Valdštejnové (mnichovohradišťská větev)",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": false
    },
    {
     "place": "Q11353489",
@@ -55274,7 +55292,7 @@
    },
    {
     "place": "Q1014692",
-    "year": 1816,
+    "year": 1945,
     "from": "valdstejnove",
     "to": "neznamo",
     "how": "neznamo"
@@ -79272,11 +79290,11 @@
    },
    {
     "place": "Q1014692",
-    "from": 1816,
+    "from": 1945,
     "to": 2007,
     "person": null,
     "how": "neznamo",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -79935,7 +79953,7 @@
    },
    {
     "place": "Q1014692",
-    "year": 1816,
+    "year": 1945,
     "from": "valdstejnove",
     "to": "neznamo",
     "how": "neznamo"
@@ -82362,11 +82380,11 @@
    },
    {
     "place": "Q2241754",
-    "from": 1953,
+    "from": 1951,
     "to": 1995,
     "person": null,
     "how": "konfiskace",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -83095,7 +83113,7 @@
     "to": null,
     "person": null,
     "how": "konfiskace",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -85852,7 +85870,7 @@
    },
    {
     "place": "Q2241754",
-    "year": 1953,
+    "year": 1951,
     "from": "sternberkove",
     "to": "stat",
     "how": "konfiskace"
@@ -102057,7 +102075,7 @@
     "year": 1945,
     "from": "soukromnik",
     "to": "sternberkove",
-    "how": "jine"
+    "how": "restituce"
    },
    {
     "place": "Q2241928",

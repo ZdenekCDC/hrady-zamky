@@ -28,7 +28,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "1504 hrad získal Václav Sezima z Ústí (cs.wiki: 'nedlouhé vlastnictví'); roku 1528 jej prodal Janovi z Vartenberka (apsida.cz)"
+   "note": "1504 hrad získal Václav Sezima z Ústí (cs.wiki: 'nedlouhé vlastnictví'); roku 1528 jej prodal Janovi z Vartenberka (apsida.cz); hrady.dejiny.cz: Hašek ze Zvířetic prodal hrad Václavu Sezimovi 2 roky po smrti bratra Petra (1502), tedy 1504; Václavovi synové Adam, Bedřich a Jan jej 1528 prodali Janu z Vartemberka"
   },
   {
    "owner": "vartenberkove",
@@ -39,7 +39,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "roku 1528 hrad koupil Jan z Vartenberka (apsida.cz) a Vartenberkové jej postupně přestavěli na renesanční zámek; Adam z Vartenberka byl za účast v povstání proti Ferdinandovi I. odsouzen k domácímu vězení na Zvířeticích a panství prodal příbuzné větvi Vartenberků, která je držela do 1610 (apsida.cz, komerční web)"
+   "note": "roku 1528 hrad koupil Jan z Vartenberka (apsida.cz) a Vartenberkové jej postupně přestavěli na renesanční zámek; Adam z Vartenberka byl za účast v povstání proti Ferdinandovi I. odsouzen k domácímu vězení na Zvířeticích a panství prodal příbuzné větvi Vartenberků, která je držela do 1610 (apsida.cz, komerční web); hrady.dejiny.cz: Adamovi z Vartemberka bylo po povstání 1547 zkonfiskováno většina panství, Zvířetice mu zůstaly jako manství, 1556 je prodal příbuzným Jindřichovi, Abrahamovi a Janovi z Vartemberka, 1605 dělení, Jan je 1610 prodal Jiřímu Vratislavovi z Mitrovic"
   },
   {
    "owner": "vratislavove-z-mitrovic",
@@ -61,7 +61,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "de.wiki: majetek mu byl po stavovském povstání 1618 zkonfiskován; rok konfiskace není uveden, rok 1623 je rok koupě Albrechtem z Valdštejna"
+   "note": "de.wiki: majetek mu byl po stavovském povstání 1618 zkonfiskován; rok konfiskace není uveden, rok 1623 je rok koupě Albrechtem z Valdštejna; hrady.dejiny.cz: Janu Vlkovi bylo za účast v povstání 1618-1620 zkonfiskováno, 1623 koupil Albrecht z Valdštejna od královské komory"
   },
   {
    "owner": "valdstejnove",
@@ -77,24 +77,46 @@
   {
    "owner": "valdstejnove",
    "owner_wiki": "Valdštejnové",
-   "person": "Maxmilián z Valdštejna, poté Ferdinand, jeho vdova Marie Eleonora a syn Arnošt Josef",
+   "person": "Maxmilián z Valdštejna",
    "from": 1624,
-   "to": null,
+   "to": 1652,
    "from_approx": false,
    "to_approx": false,
    "how": "jine",
-   "note": "de.wiki: Albrecht panství roku 1624 přenechal vzdálenému bratranci Maxmiliánovi (zámek Mnichovo Hradiště uvádí rok 1627); za Ferdinanda byla 1653 postavena barokní kaple; Marie Eleonora (zemřela 1683) založila zahradu, Arnošt Josef (1654-1708) panství sloučil a od 1690 sídlil na zámku v Mnichově Hradišti, Zvířetice sloužily jen správě panství; po požárech 1693 a 1720 opuštěn; Valdštejnové vlastnili Mnichovo Hradiště do 1946, o zvířetickém hradu zdroje konec jejich držby výslovně neuvádějí"
+   "note": "Albrecht panství 1624 přenechal vzdálenému příbuznému Maxmiliánovi (de.wiki 1624; zámek Mnichovo Hradiště uvádí 1627; hrady.dejiny.cz: Albrecht 1623 koupil od královské komory, následujícího roku zastavil a později postoupil Maxmiliánovi, zemřel 1655); 1652 daroval Zvířetice nejstaršímu synovi Ferdinandu Arnoštovi (hrady.dejiny.cz)"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Ferdinand Arnošt z Valdštejna",
+   "from": 1652,
+   "to": 1656,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dar",
+   "note": "hrady.dejiny.cz: dar od otce Maxmiliána 1652, zemřel 1656; roku 1653 postavena barokní kaple (cs.wiki / novinky.cz: Ferdinand z Valdštejna); na Zvířeticích nesídlil"
+  },
+  {
+   "owner": "valdstejnove",
+   "owner_wiki": "Valdštejnové",
+   "person": "Marie Eleonora z Rottalu a syn Arnošt Josef (zemřel 1708), poté další Valdštejnové (mnichovohradišťská větev)",
+   "from": 1656,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "hrady.dejiny.cz: po Ferdinandovi vdova Marie Eleonora a syn Arnošt Josef, který z nich a okolních statků vytvořil panství Mnichovo Hradiště; Zvířetice byly správním střediskem, po požárech 1693 a 1720 opuštěny; 'až do roku 1945' součástí mnichovohradišťského panství v držení hradišťské větve Valdštejnů; Karlu Arnoštovi (1897-1985) zkonfiskovány statky po druhé světové válce; konkrétní držba samotné zříceniny po 1720 se ve zdroji výslovně nerozlišuje; rok 1945 podle hrady.dejiny.cz"
   },
   {
    "owner": "neznamo",
    "owner_wiki": null,
    "person": null,
-   "from": null,
+   "from": 1945,
    "to": 2007,
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "majitelé zříceniny mezi Valdštejny a rokem 2007 nejsou ve zdrojích uvedeni; zříceninu ve 30. letech 20. stol. využil Klub českých turistů (rozhledna) a později hnutí Brontosaurus (letní tábory 70.-80. léta), z textu není zřejmé, zda jako majitelé"
+   "note": "majitel zříceniny mezi 1945 a rokem 2007 není ve zdrojích uveden (hrady.dejiny.cz: po 1945 statky Valdštejnů zkonfiskovány, o zřícenině nic konkrétního); zříceninu ve 30. letech 20. stol. využil Klub českých turistů (rozhledna) a později hnutí Brontosaurus (letní tábory 70.-80. léta), z textu není zřejmé, zda jako majitelé"
   },
   {
    "owner": "mesto",
@@ -151,6 +173,8 @@
   "https://de.wikipedia.org/wiki/Burg_Zvířetice",
   "https://www.apsida.cz/hrady/strednicechy/okrbol/zviretice/zviretice.htm",
   "https://www.zviretice.cz/zviretice/zricenina-v-krajine/",
-  "http://zamek-mnichovohradiste.cz/cs/o-zamku/historie"
+  "http://zamek-mnichovohradiste.cz/cs/o-zamku/historie",
+  "http://hrady.dejiny.cz/zviretice/",
+  "https://www.czechnationaltrust.org/projects/zviretice-3d/"
  ]
 }
