@@ -6,7 +6,7 @@
   "approx": false,
   "text": "Šlechtický hrad založil ve 2. pol. 13. stol. Oldřich Zajíc z Valdeka u obchodní stezky z Prahy do Bavorska; hrad existoval nejpozději 1271"
  },
- "summary": "Žebrák založil ve druhé polovině 13. století Oldřich Zajíc z Valdeka; roku 1336 jej výměnou získal král Jan Lucemburský a hrad se stal panovnickou rezidencí Karla IV. a zejména Václava IV., který jej nákladně přestavěl. Po založení Točníku jeho význam klesal; od 1421 byl se Točníkem v zástavě (Kolovratové, Poděbradové, Šumburkové, Gutštejnové, Vartenberkové, Krajířové, Valdštejnové), od 1552 Lobkoviců a po jejich zabavení koncem 16. století komorním majetkem. Po požáru 1532 a hledání pokladů se z něj stala zřícenina; 1864/1865 koupil panství Strousberg, 1875 Colloredo-Mansfeldové, 1923 Klub československých turistů a od roku 1953 je majetkem státu.",
+ "summary": "Žebrák založil ve druhé polovině 13. století Oldřich Zajíc z Valdeka; roku 1336 jej výměnou získal král Jan Lucemburský a hrad se stal panovnickou rezidencí Karla IV. a zejména Václava IV., který jej nákladně přestavěl. Po založení Točníku jeho význam klesal; od 1421 byl se Točníkem v zástavě (Kolovratové, Poděbradové, Šumburkové, Gutštejnové, Vartenberkové, Krajířové, Valdštejnové), od 1552 Lobkoviců a po jejich zabavení koncem 16. století komorním majetkem. Po požáru 1532 a hledání pokladů se z něj stala zřícenina; 1868 (podle cs.wiki 1864/1865) koupil panství Strousberg, 1879 Colloredo-Mansfeldové, 1923 Klub československých turistů a od roku 1953 je majetkem státu.",
  "owners": [
   {
    "owner": "zajicove-z-hazmburka",
@@ -138,7 +138,7 @@
    "from_approx": true,
    "to_approx": false,
    "how": "neznamo",
-   "note": "1484 už držel Burian (doloženo nejpozději k tomuto roku), po něm syn Kryštof, který byl 1509 zemským soudem odsouzen a hrady vydal králi Vladislavovi"
+   "note": "1484 už držel Burian (doloženo nejpozději k tomuto roku), po něm syn Kryštof, který byl 1509 zemským soudem odsouzen a hrady vydal králi Vladislavovi; hrady.cz (Sedláček) uvádí zástavu Burianem až 1475-1487, tedy rok převzetí od Šumburka není jistý"
   },
   {
    "owner": "koruna",
@@ -204,16 +204,16 @@
    "from_approx": false,
    "to_approx": true,
    "how": "koupe",
-   "note": "1552 zastaveno, 1557 dědičně prodáno ke zbirožskému panství (cs.wiki Točník); po zapletení Ladislava do protihabsburské aféry zabaveno, web hradu uvádí 1594/1595, cs.wiki k Točníku 1597"
+   "note": "1552 zastaveno, 1557 dědičně prodáno ke zbirožskému panství (cs.wiki Točník); po zapletení Ladislava do protihabsburské aféry zabaveno, web hradu uvádí 1594/1595, cs.wiki k Točníku 1597; hrady.dejiny.cz uvádí zabavení Točníku Ladislavovi 1594, Sedláček (hrady.cz) zabavení zbirožského panství 1594 a Točník až po smrti Bohuslava Havla 7. 7. 1597 (ten si užívání vymínil), web hradu vyplacení Magdalény 1595"
   },
   {
    "owner": "koruna",
    "owner_wiki": null,
    "person": "česká komora (zbirožské panství)",
    "from": 1597,
-   "to": 1864,
+   "to": 1868,
    "from_approx": true,
-   "to_approx": true,
+   "to_approx": false,
    "how": "konfiskace",
    "note": "komorní majetek spravovaný hejtmany na Zbirohu; hrad již zřícenina; 1858 schválen, ale neuskutečněn prodej Kirchmayerovi a Simundtovi"
   },
@@ -221,23 +221,34 @@
    "owner": "soukromnik",
    "owner_wiki": null,
    "person": "Bethel Henry Strousberg",
-   "from": 1864,
+   "from": 1868,
    "to": 1875,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "1864/1865 koupil zbirožské panství s hrady; 1875 prodal Colloredo-Mansfeldům (web Točníku: 3 350 000 zl., cs.wiki: 3 500 000 zl.)"
+   "note": "1868 koupil panství Zbiroh, Mirošov a Osek (se Točníkem a Žebrákem) od Samuela Sigmundta a Vincence Kirchmayera za 9,4 mil. zl. (cs.wiki o Strousbergovi, brdy.org, vlastovka.org); cs.wiki Točník a web hradu uvádějí 1864/1865 (brdy.org u Točníku 1865); říjen 1875 konkurz, 1877 exekuční dražba jeho podniků"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Vídeňská hypoteční banka (věřitel Strousberga)",
+   "from": 1875,
+   "to": 1879,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "jine",
+   "note": "po Strousbergově krachu panství připadlo věřitelům, největším byla vídeňská hypoteční banka (lesyzbiroh.cz, vlastovka.org); rok převzetí zdroje výslovně neuvádějí"
   },
   {
    "owner": "colloredove",
    "owner_wiki": "Colloredové",
    "person": "Colloredo-Mansfeldové, naposledy Josef Colloredo-Mansfeld",
-   "from": 1875,
+   "from": 1879,
    "to": 1923,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "1923 Josef Colloredo-Mansfeld prodal Žebrák (s pivovarskými sklepy) za 8 000 Kčs Klubu československých turistů"
+   "note": "29. 3. 1879 koupil Josef Colloredo-Mansfeld zbirožské panství od Vídeňské hypoteční banky za 3 350 100 zl. (vlastovka.org; lesyzbiroh.cz: dražba 1879; web hradu 3 350 000 zl.); cs.wiki Točník uvádí 1875 a 3 500 000 zl.; 1923 odkoupil Klub československých turistů"
   },
   {
    "owner": "soukromnik",
@@ -320,6 +331,11 @@
   "http://www.hrad-zebrak.cz/cs/o-hradu/historie-hradu",
   "https://www.hrad-tocnik.cz/cs/o-hradu/historie",
   "https://cs.wikipedia.org/wiki/Točník_(hrad)",
-  "https://www.mistopisy.cz/pruvodce/body-zajmu/588/zricenina-hradu-zebrak/ (komerční průvodce, nižší spolehlivost)"
+  "https://www.mistopisy.cz/pruvodce/body-zajmu/588/zricenina-hradu-zebrak/ (komerční průvodce, nižší spolehlivost)",
+  "https://www.hrady.cz/hrad-zebrak/texty?pos=300&tid=52230",
+  "http://hrady.dejiny.cz/tocnik/",
+  "https://cs.wikipedia.org/wiki/Bethel_Henry_Strousberg",
+  "https://vlastovka.org/?page_id=469",
+  "https://lesyzbiroh.cz/o-nas/"
  ]
 }

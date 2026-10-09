@@ -72,7 +72,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "cs.wiki: Jindřich V. z Rožmberka mu hrad 1473 přenechal (jako strýci); de.wiki: 28. 9. 1473 mu prodal čtvrtinu rožmberských statků včetně zvíkovské zástavy (Bohuslav Krušina označen za bratrance); zástavní držení, rok konce zdroje neuvádějí"
+   "note": "cs.wiki: Jindřich V. z Rožmberka mu hrad 1473 přenechal (jako strýci); de.wiki: 28. 9. 1473 mu prodal čtvrtinu rožmberských statků včetně zvíkovské zástavy (Bohuslav Krušina označen za bratrance); zástavní držení, rok konce zdroje neuvádějí; vztah ke Rožmberkům: cs.wiki a bakalářská práce UK (dspace.cuni.cz) uvádějí strýce a poručníka Jindřicha z Rožmberka, de.wiki bratrance; prodejní cena 13 000 kop grošů (cs.wiki Švamberk, práce UK)"
   },
   {
    "owner": "pani-ze-svamberka",
@@ -83,7 +83,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "po polovině 16. století zahájil renesanční úpravy hradu (1550 pivovar, 1554 zvýšena věž Hláska); mezi Bohuslavem Krušinou a Kryštofem II. zdroje další držitele nejmenují, roky přechodů neuvádějí"
+   "note": "po polovině 16. století zahájil renesanční úpravy hradu (1550 pivovar, 1554 zvýšena věž Hláska); mezi Bohuslavem Krušinou a Kryštofem II. zdroje další držitele nejmenují, roky přechodů neuvádějí; veselicko.eu: Kryštofovi připadlo zvíkovské panství po smrti strýce Jindřicha 1574"
   },
   {
    "owner": "pani-ze-svamberka",
@@ -94,7 +94,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "koupil Zvíkov od královské komory a získal jej do dědičného držení rodu (de.wiki uvádí prodej Maxmiliánem II. roku 1575 Kryštofovi ze Švamberka na Orlíku)"
+   "note": "koupil Zvíkov od královské komory a získal jej do dědičného držení rodu (de.wiki uvádí prodej Maxmiliánem II. roku 1575 Kryštofovi ze Švamberka na Orlíku); rok 1574 uvádí i hrady.cz, cojeco.cz a veselicko.eu (koupě od Maxmiliána II.), 1575 jen de.wiki"
   },
   {
    "owner": "pani-ze-svamberka",
@@ -111,22 +111,22 @@
    "owner_wiki": "Páni ze Švamberka",
    "person": "Jan Jiří ze Švamberka",
    "from": 1592,
-   "to": null,
+   "to": 1617,
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "rok smrti ani přechodu na Petra II. zdroje neuvádějí"
+   "note": "hrady.cz: 1592 zvíkovské panství přešlo dědictvím po Petrovi ze Švamberka na Jana Jiřího z borské větve; zemřel 1617"
   },
   {
    "owner": "pani-ze-svamberka",
    "owner_wiki": "Páni ze Švamberka",
    "person": "Petr II. ze Švamberka",
-   "from": null,
+   "from": 1617,
    "to": 1622,
    "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "účastnil se stavovského povstání; posádka Zvíkova odmítla kapitulovat a odolávala až do roku 1622, kdy byl hrad obležen, dobyt a vyrabován; rok nástupu zdroje neuvádějí"
+   "note": "syn Jana Jiřího, po jeho smrti 1617 (hrady.cz); účastnil se stavovského povstání; posádka Zvíkova odmítla kapitulovat a odolávala až do roku 1622, kdy byl hrad obležen, dobyt a vyrabován"
   },
   {
    "owner": "eggenbergove",
@@ -207,6 +207,11 @@
  "sources": [
   "https://cs.wikipedia.org/wiki/Zvíkov_(hrad)",
   "https://de.wikipedia.org/wiki/Burg_Zvíkov",
-  "https://en.wikipedia.org/wiki/Zvíkov_Castle"
+  "https://en.wikipedia.org/wiki/Zvíkov_Castle",
+  "https://www.hrady.cz/hrad-zvikov-zvikovske-podhradi/texty?tid=1725",
+  "https://www.veselicko.eu/inpage/majitele-vesnic-veselicko-a-bilina/",
+  "https://www.cojeco.cz/zvikov",
+  "https://cs.wikipedia.org/wiki/%C5%A0vamberk",
+  "https://dspace.cuni.cz/handle/20.500.11956/80756"
  ]
 }

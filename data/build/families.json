@@ -2082,8 +2082,8 @@
    },
    {
     "place": "Q1577660",
-    "from": 1588,
-    "to": 1603,
+    "from": 1606,
+    "to": 1611,
     "person": null,
     "how": "koupe",
     "from_approx": true,
@@ -2463,14 +2463,14 @@
    },
    {
     "place": "Q1577660",
-    "year": 1588,
+    "year": 1606,
     "from": "tetourove-z-tetova",
     "to": "berkove-z-dube",
     "how": "koupe"
    },
    {
     "place": "Q1577660",
-    "year": 1603,
+    "year": 1611,
     "from": "berkove-z-dube",
     "to": "z-svarcenavy",
     "how": "koupe"
@@ -7618,7 +7618,7 @@
   "places": [
    {
     "place": "Q1014274",
-    "from": 1875,
+    "from": 1879,
     "to": 1923,
     "person": "rod Colloredo-Mansfeldů, naposledy Josef Colloredo-Mansfeld",
     "how": "koupe",
@@ -7708,7 +7708,7 @@
    },
    {
     "place": "Q695042",
-    "from": 1875,
+    "from": 1879,
     "to": 1923,
     "person": "Colloredo-Mansfeldové, naposledy Josef Colloredo-Mansfeld",
     "how": "koupe",
@@ -7719,7 +7719,7 @@
   "transfers": [
    {
     "place": "Q1014274",
-    "year": 1875,
+    "year": 1879,
     "from": "soukromnik",
     "to": "colloredove",
     "how": "koupe"
@@ -7852,7 +7852,7 @@
    },
    {
     "place": "Q695042",
-    "year": 1875,
+    "year": 1879,
     "from": "soukromnik",
     "to": "colloredove",
     "how": "koupe"
@@ -8658,12 +8658,12 @@
    },
    {
     "place": "Q1577660",
-    "from": 1559,
-    "to": 1574,
+    "from": 1568,
+    "to": 1600,
     "person": null,
     "how": "koupe",
-    "from_approx": true,
-    "to_approx": true
+    "from_approx": false,
+    "to_approx": false
    },
    {
     "place": "Q1592121",
@@ -8908,14 +8908,14 @@
    },
    {
     "place": "Q1577660",
-    "year": 1559,
+    "year": 1568,
     "from": "z-certorej",
     "to": "ditrichstejnove",
     "how": "koupe"
    },
    {
     "place": "Q1577660",
-    "year": 1574,
+    "year": 1600,
     "from": "ditrichstejnove",
     "to": "tetourove-z-tetova",
     "how": "neznamo"
@@ -19427,12 +19427,12 @@
    },
    {
     "place": "Q1577660",
-    "from": 1530,
-    "to": 1545,
+    "from": 1549,
+    "to": 1560,
     "person": null,
     "how": "koupe",
-    "from_approx": true,
-    "to_approx": true
+    "from_approx": false,
+    "to_approx": false
    },
    {
     "place": "Q20982290",
@@ -19633,14 +19633,14 @@
    },
    {
     "place": "Q1577660",
-    "year": 1530,
+    "year": 1549,
     "from": "pani-z-kunstatu-a-podebrad",
     "to": "krajirove-z-krajku",
     "how": "koupe"
    },
    {
     "place": "Q1577660",
-    "year": 1545,
+    "year": 1560,
     "from": "krajirove-z-krajku",
     "to": "z-certorej",
     "how": "koupe"
@@ -31588,11 +31588,11 @@
    {
     "place": "Q1752946",
     "from": 1460,
-    "to": 1480,
+    "to": 1479,
     "person": null,
     "how": "neznamo",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q21996574",
@@ -32148,12 +32148,12 @@
    },
    {
     "place": "Q1577660",
-    "from": 1516,
-    "to": 1530,
+    "from": 1521,
+    "to": 1549,
     "person": null,
     "how": "neznamo",
-    "from_approx": true,
-    "to_approx": true
+    "from_approx": false,
+    "to_approx": false
    },
    {
     "place": "Q1708948",
@@ -32594,14 +32594,14 @@
    },
    {
     "place": "Q1577660",
-    "year": 1516,
+    "year": 1521,
     "from": "z-backovic",
     "to": "pani-z-kunstatu-a-podebrad",
     "how": "neznamo"
    },
    {
     "place": "Q1577660",
-    "year": 1530,
+    "year": 1549,
     "from": "pani-z-kunstatu-a-podebrad",
     "to": "krajirove-z-krajku",
     "how": "koupe"
@@ -33070,7 +33070,7 @@
    },
    {
     "place": "Q1752946",
-    "from": 1549,
+    "from": 1570,
     "to": 1572,
     "person": null,
     "how": "neznamo",
@@ -33310,7 +33310,7 @@
    },
    {
     "place": "Q1752946",
-    "year": 1549,
+    "year": 1570,
     "from": "zerotinove",
     "to": "pani-z-lipe",
     "how": "neznamo"
@@ -36915,19 +36915,19 @@
    {
     "place": "Q769690",
     "from": 1592,
-    "to": 1607,
+    "to": 1617,
     "person": "Jan Jiří ze Švamberka",
     "how": "dedictvi",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q769690",
-    "from": 1607,
+    "from": 1617,
     "to": 1622,
     "person": "Petr II. ze Švamberka",
     "how": "konfiskace",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -37412,11 +37412,11 @@
    },
    {
     "place": "Q1752946",
-    "from": 1503,
-    "to": 1526,
+    "from": 1490,
+    "to": 1552,
     "person": null,
     "how": "neznamo",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": true
    },
    {
@@ -37506,14 +37506,14 @@
    },
    {
     "place": "Q1752946",
-    "year": 1503,
+    "year": 1490,
     "from": "z-ojnic",
     "to": "pani-ze-zastrizl",
     "how": "neznamo"
    },
    {
     "place": "Q1752946",
-    "year": 1526,
+    "year": 1552,
     "from": "pani-ze-zastrizl",
     "to": "zerotinove",
     "how": "neznamo"
@@ -51209,8 +51209,8 @@
    },
    {
     "place": "Q1577660",
-    "from": 1574,
-    "to": 1588,
+    "from": 1600,
+    "to": 1606,
     "person": null,
     "how": "neznamo",
     "from_approx": true,
@@ -51280,14 +51280,14 @@
    },
    {
     "place": "Q1577660",
-    "year": 1574,
+    "year": 1600,
     "from": "ditrichstejnove",
     "to": "tetourove-z-tetova",
     "how": "neznamo"
    },
    {
     "place": "Q1577660",
-    "year": 1588,
+    "year": 1606,
     "from": "tetourove-z-tetova",
     "to": "berkove-z-dube",
     "how": "koupe"
@@ -58705,7 +58705,7 @@
    {
     "place": "Q1577660",
     "from": 1516,
-    "to": 1516,
+    "to": 1521,
     "person": null,
     "how": "neznamo",
     "from_approx": true,
@@ -58731,7 +58731,7 @@
    },
    {
     "place": "Q1577660",
-    "year": 1516,
+    "year": 1521,
     "from": "z-backovic",
     "to": "pani-z-kunstatu-a-podebrad",
     "how": "neznamo"
@@ -59788,8 +59788,8 @@
    },
    {
     "place": "Q1577660",
-    "from": 1545,
-    "to": 1559,
+    "from": 1560,
+    "to": 1568,
     "person": null,
     "how": "koupe",
     "from_approx": true,
@@ -59813,14 +59813,14 @@
    },
    {
     "place": "Q1577660",
-    "year": 1545,
+    "year": 1560,
     "from": "krajirove-z-krajku",
     "to": "z-certorej",
     "how": "koupe"
    },
    {
     "place": "Q1577660",
-    "year": 1559,
+    "year": 1568,
     "from": "z-certorej",
     "to": "ditrichstejnove",
     "how": "koupe"
@@ -61065,7 +61065,7 @@
     "person": "Osvald z Eytzingu",
     "how": "neznamo",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    }
   ],
   "transfers": [
@@ -66358,7 +66358,7 @@
     "person": "Jan z Moravan",
     "how": "neznamo",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    }
   ],
   "transfers": [
@@ -67009,11 +67009,11 @@
    {
     "place": "Q1752946",
     "from": 1480,
-    "to": 1503,
+    "to": 1490,
     "person": "páni z Ojnic",
     "how": "neznamo",
-    "from_approx": true,
-    "to_approx": true
+    "from_approx": false,
+    "to_approx": false
    }
   ],
   "transfers": [
@@ -67026,7 +67026,7 @@
    },
    {
     "place": "Q1752946",
-    "year": 1503,
+    "year": 1490,
     "from": "z-ojnic",
     "to": "pani-ze-zastrizl",
     "how": "neznamo"
@@ -71327,7 +71327,7 @@
    },
    {
     "place": "Q1577660",
-    "from": 1603,
+    "from": 1611,
     "to": 1617,
     "person": null,
     "how": "koupe",
@@ -71380,7 +71380,7 @@
    },
    {
     "place": "Q1577660",
-    "year": 1603,
+    "year": 1611,
     "from": "berkove-z-dube",
     "to": "z-svarcenavy",
     "how": "koupe"
@@ -74979,12 +74979,12 @@
    },
    {
     "place": "Q1752946",
-    "from": 1526,
-    "to": 1549,
+    "from": 1552,
+    "to": 1570,
     "person": null,
     "how": "neznamo",
-    "from_approx": true,
-    "to_approx": true
+    "from_approx": false,
+    "to_approx": false
    },
    {
     "place": "Q18915349",
@@ -75290,14 +75290,14 @@
    },
    {
     "place": "Q1752946",
-    "year": 1526,
+    "year": 1552,
     "from": "pani-ze-zastrizl",
     "to": "zerotinove",
     "how": "neznamo"
    },
    {
     "place": "Q1752946",
-    "year": 1549,
+    "year": 1570,
     "from": "zerotinove",
     "to": "pani-z-lipe",
     "how": "neznamo"
@@ -87188,7 +87188,7 @@
    {
     "place": "Q1014274",
     "from": 1723,
-    "to": 1864,
+    "to": 1868,
     "person": "česká komora (zbirožské panství)",
     "how": "jine",
     "from_approx": false,
@@ -88880,11 +88880,11 @@
    {
     "place": "Q695042",
     "from": 1597,
-    "to": 1864,
+    "to": 1868,
     "person": "česká komora (zbirožské panství)",
     "how": "konfiskace",
     "from_approx": true,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q735077",
@@ -89688,7 +89688,7 @@
    },
    {
     "place": "Q1014274",
-    "year": 1864,
+    "year": 1868,
     "from": "koruna",
     "to": "soukromnik",
     "how": "koupe"
@@ -91886,7 +91886,7 @@
    },
    {
     "place": "Q695042",
-    "year": 1864,
+    "year": 1868,
     "from": "koruna",
     "to": "soukromnik",
     "how": "koupe"
@@ -95950,10 +95950,19 @@
    },
    {
     "place": "Q1014274",
-    "from": 1864,
+    "from": 1868,
     "to": 1875,
     "person": "Bethel Henry Strousberg",
     "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q1014274",
+    "from": 1875,
+    "to": 1879,
+    "person": "Vídeňská hypoteční banka (věřitel Strousberga)",
+    "how": "jine",
     "from_approx": true,
     "to_approx": false
    },
@@ -99064,10 +99073,19 @@
    },
    {
     "place": "Q695042",
-    "from": 1864,
+    "from": 1868,
     "to": 1875,
     "person": "Bethel Henry Strousberg",
     "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q695042",
+    "from": 1875,
+    "to": 1879,
+    "person": "Vídeňská hypoteční banka (věřitel Strousberga)",
+    "how": "jine",
     "from_approx": true,
     "to_approx": false
    },
@@ -99809,14 +99827,14 @@
    },
    {
     "place": "Q1014274",
-    "year": 1864,
+    "year": 1868,
     "from": "koruna",
     "to": "soukromnik",
     "how": "koupe"
    },
    {
     "place": "Q1014274",
-    "year": 1875,
+    "year": 1879,
     "from": "soukromnik",
     "to": "colloredove",
     "how": "koupe"
@@ -102315,14 +102333,14 @@
    },
    {
     "place": "Q695042",
-    "year": 1864,
+    "year": 1868,
     "from": "koruna",
     "to": "soukromnik",
     "how": "koupe"
    },
    {
     "place": "Q695042",
-    "year": 1875,
+    "year": 1879,
     "from": "soukromnik",
     "to": "colloredove",
     "how": "koupe"

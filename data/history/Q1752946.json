@@ -6,7 +6,7 @@
   "approx": false,
   "text": "Vodní tvrz připomínaná ve 14. století; ves poprvé zmíněna 1341 v misálu plebána Hermanna; první známí držitelé Milotic od roku 1360 páni z Ronova"
  },
- "summary": "Vodní tvrz v Miloticích, doložená ve 14. století, patřila od roku 1360 pánům z Ronova, poté Moravanům, Kravařům, Ojnicům a Zástřizlům; ve 2. polovině 16. a v 1. polovině 17. století se majitelé rychle střídali (mimo jiné Tovar, který tvrz přestavěl na renesanční zámek, a Valdštejn). Roku 1648 panství koupil Gabriel Serényi, jehož rod dal zámku barokní podobu a držel jej do roku 1811; poté dědictvím přešel přes Choiseul d'Aillecourty a Hardeggy až k Seilernům, kteří jej vlastnili od roku 1888 do konfiskace 1945. Od té doby je majetkem státu, přístupným od roku 1974.",
+ "summary": "Vodní tvrz v Miloticích, doložená ve 14. století, patřila od roku 1360 pánům z Ronova, poté Moravanům, Kravařům, Ojnicům a Zástřizlům; ve 2. polovině 16. a v 1. polovině 17. století se majitelé rychle střídali (mimo jiné Tovar, který tvrz přestavěl na renesanční zámek, a Valdštejn). Roku 1648 panství koupil Gabriel Serényi, jehož rod dal zámku barokní podobu a držel jej do roku 1811; poté dědictvím přešel přes Choiseul d'Aillecourty a Hardeggy až k Seilernům, kteří jej vlastnili od roku 1888 do konfiskace 1945. Od té doby je majetkem státu; veřejnosti byl zpřístupněn 1948, nová instalace od roku 1974.",
  "owners": [
   {
    "owner": "ronovci",
@@ -24,9 +24,9 @@
    "owner_wiki": null,
    "person": "Jan z Moravan",
    "from": 1412,
-   "to": null,
+   "to": 1460,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "neznamo",
    "note": "1412 zapsány Janovi z Moravan (web obce); cs.wiki uvádí nástup ve 2. desetiletí 15. stol.; za jejich držby významné středisko husitů, po 1427 opevněný tábor"
   },
@@ -35,44 +35,44 @@
    "owner_wiki": "Páni z Kravař",
    "person": null,
    "from": 1460,
-   "to": null,
+   "to": 1479,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "neznamo",
-   "note": "1460 vystřídali Moravany (cs.wiki); web zámku uvádí střídání Kravařů a Ojnických jen ve 2. pol. 15. stol."
+   "note": "1460-1479 (NPÚ, isad.npu.cz); 1460 vystřídali Moravany (cs.wiki); web zámku uvádí střídání Kravařů a Ojnických jen ve 2. pol. 15. stol."
   },
   {
    "owner": "z-ojnic",
    "owner_wiki": null,
    "person": "páni z Ojnic",
    "from": 1480,
-   "to": null,
-   "from_approx": true,
-   "to_approx": true,
+   "to": 1490,
+   "from_approx": false,
+   "to_approx": false,
    "how": "neznamo",
-   "note": "cs.wiki: na počátku osmdesátých let 15. stol.; roky konce držby zdroje neuvádějí"
+   "note": "1480-1490 (NPÚ, isad.npu.cz); cs.wiki: na počátku osmdesátých let 15. stol."
   },
   {
    "owner": "pani-ze-zastrizl",
    "owner_wiki": "Páni ze Zástřizl",
    "person": null,
-   "from": null,
-   "to": null,
-   "from_approx": true,
+   "from": 1490,
+   "to": 1552,
+   "from_approx": false,
    "to_approx": true,
    "how": "neznamo",
-   "note": "cs.wiki: na konci 15. stol., z Milotic vytvořili centrum svého dominia, \"šedesátiletá zástřizlovská éra\"; web zámku uvádí Zástřizly v 1. pol. 16. stol.; přesné roky neuvedeny"
+   "note": "NPÚ: Zástřizlové sídlili na tvrzi do poloviny 16. stol., Žerotínové od 1552 (konec = nástup Žerotínů); cs.wiki: \"šedesátiletá zástřizlovská éra\", z Milotic vytvořili centrum dominia; web zámku uvádí Zástřizly v 1. pol. 16. stol."
   },
   {
    "owner": "zerotinove",
    "owner_wiki": "Žerotínové",
    "person": null,
-   "from": null,
-   "to": null,
-   "from_approx": true,
-   "to_approx": true,
+   "from": 1552,
+   "to": 1570,
+   "from_approx": false,
+   "to_approx": false,
    "how": "neznamo",
-   "note": "po Zástřizlech; web zámku uvádí Žerotíny ve 2. pol. 16. stol.; roky neuvedeny"
+   "note": "po Zástřizlech; NPÚ (isad.npu.cz): panství vlastnili 1552-1570, zahájili přestavbu tvrze na renesanční zámek; web zámku uvádí Žerotíny ve 2. pol. 16. stol."
   },
   {
    "owner": "pani-z-lipe",
@@ -80,10 +80,10 @@
    "person": null,
    "from": null,
    "to": null,
-   "from_approx": true,
-   "to_approx": true,
+   "from_approx": false,
+   "to_approx": false,
    "how": "neznamo",
-   "note": "uvádí jen cs.wiki mezi majiteli 2. pol. 16. stol. (web zámku a obce je neuvádějí); roky neuvedeny"
+   "note": "uvádí jen cs.wiki mezi majiteli 2. pol. 16. stol. po Žerotínech (web zámku a obce je neuvádějí); roky neuvedeny"
   },
   {
    "owner": "haugvicove-z-biskupic",
@@ -215,7 +215,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "1888 skoupil všechny dědické podíly a stal se jediným vlastníkem (web zámku: vnuk Františky de Paula; cs.wiki: syn Karla Maxmiliána ze Seilern-Aspangu, který se 1849 oženil s Marií Aloisií z Hardeggu - rodinné vazby se ve zdrojích liší); 1916 odkázal panství synovci Ladislavu, který zámek obýval do 1945; zabaveno 1945 na základě Benešových dekretů (web zámku: Ladislav se roku 1941 přihlásil k německé státní příslušnosti)"
+   "note": "1888 skoupil všechny dědické podíly a stal se jediným vlastníkem (web zámku: vnuk Františky de Paula; cs.wiki: syn Karla Maxmiliána ze Seilern-Aspangu, který se 1849 oženil s Marií Aloisií z Hardeggu - rodinné vazby se ve zdrojích liší); 1916 odkázal panství synovci Ladislavu, který zámek obýval do 1945; zabaveno 1945 na základě Benešových dekretů (web zámku: Ladislav se roku 1941 přihlásil k německé státní příslušnosti); web zámku formulací \"z důvodu přihlášení se 1941 k německé státní příslušnosti byl zabaven majetek\" nevylučuje dřívější zabavení, rok 1945 uvádí cs.wiki i web jako konec držby"
   },
   {
    "owner": "stat",
@@ -230,6 +230,10 @@
   }
  ],
  "events": [
+  {
+   "year": 1552,
+   "text": "panství získávají Žerotínové (vlastnili do 1570), kteří zahájili přestavbu tvrze na renesanční zámek (NPÚ)"
+  },
   {
    "year": 1587,
    "text": "renesanční kašna zhotovená Bohušem Morkovským ze Zástřizl pro zámek ve Svatobořicích (později přenesena do Milotic)"
@@ -259,13 +263,18 @@
    "text": "zámek zabaven rodině Seilernů na základě Benešových dekretů"
   },
   {
+   "year": 1948,
+   "text": "zámek zpřístupněn veřejnosti (web zámku); nová prohlídková instalace dokončena 1974"
+  },
+  {
    "year": 1974,
-   "text": "po rekonstrukci zpřístupněn veřejnosti"
+   "text": "po rekonstrukci dokončena nová stylizovaná instalace a prohlídková trasa"
   }
  ],
  "sources": [
   "https://cs.wikipedia.org/wiki/Milotice_(zámek)",
   "https://www.zamek-milotice.cz/cs/o-zamkku/historie-a-majitele",
-  "https://www.milotice.cz/o-miloticich/informace/historie/"
+  "https://www.milotice.cz/o-miloticich/informace/historie/",
+  "https://isad.npu.cz/zamek-milotice-31332"
  ]
 }
