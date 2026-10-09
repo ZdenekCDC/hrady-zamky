@@ -43184,7 +43184,7 @@
     "owner_wiki": null,
     "person": "Přemysl Otakar II.",
     "from": 1268,
-    "to": 1334,
+    "to": 1304,
     "from_approx": false,
     "to_approx": true,
     "how": "zalozeni",
@@ -43194,29 +43194,40 @@
     "owner": "pani-z-kunstatu-a-podebrad",
     "owner_wiki": "Páni z Kunštátu a Poděbrad",
     "person": "Štěpán z Kunštátu",
-    "from": 1334,
-    "to": 1400,
+    "from": 1304,
+    "to": 1340,
     "from_approx": true,
     "to_approx": true,
     "how": "neznamo",
     "note": "cs.wiki: Bechyně se před rokem 1340 dostala do majetku Štěpána z Kunštátu; způsob ani přesné roky neuvádí (de.wiki k době kolem 1340 uvádí Šternberky, rozpor)"
    },
    {
+    "owner": "sternberkove",
+    "owner_wiki": "Šternberkové",
+    "person": null,
+    "from": 1340,
+    "to": 1367,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "oficiální web zámku (zamek-bechyne.cz) a bechynsko.cz: roku 1340 byla Bechyně v držbě pánů ze Šternberka, od nichž ji 1367 získal markrabě Jošt; cs.wiki a hrady.cz místo toho uvádějí Štěpána z Kunštátu před 1340, rozpor"
+   },
+   {
     "owner": "lucemburkove",
     "owner_wiki": "Lucemburkové",
     "person": "Jošt Moravský",
-    "from": 1400,
-    "to": 1407,
-    "from_approx": true,
+    "from": 1367,
+    "to": 1390,
+    "from_approx": false,
     "to_approx": true,
     "how": "neznamo",
-    "note": "de.wiki: kolem 1400 markrabě Jošt Moravský, od něj město a hrad přešly na Bočka II. z Poděbrad; cs.wiki tuto etapu neuvádí"
+    "note": "oficiální web zámku: 1367 získal od Šternberků markrabě Jošt; de.wiki uvádí markraběte Jošta až kolem 1400, od něj město a hrad přešly na Bočka II. z Poděbrad; cs.wiki tuto etapu neuvádí"
    },
    {
     "owner": "pani-z-kunstatu-a-podebrad",
     "owner_wiki": "Páni z Kunštátu a Poděbrad",
     "person": "Boček II. z Poděbrad (†1417)",
-    "from": 1407,
+    "from": 1390,
     "to": 1414,
     "from_approx": true,
     "to_approx": false,
@@ -43287,7 +43298,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "roku 1596 koupil Adam ze Šternberka a na Sedlci (1575-1623) od zadluženého Petra Voka; podle cs.wiki zůstal zámek Šternberkům do 1761; rok 1715 (sňatek dědičky s Paarem) cs.wiki označuje za přechod do rukou Paarů, de.wiki uvádí dědění Paary až 1761"
+    "note": "roku 1596 koupil Adam ze Šternberka a na Sedlci (1575-1623) od zadluženého Petra Voka; podle cs.wiki zůstal zámek Šternberkům do 1761; rok 1715 (sňatek dědičky s Paarem) cs.wiki, oficiální web zámku i bechynsko.cz označují za přechod do rukou Paarů, de.wiki a hrady.cz uvádějí dědění Paary až 1761 (druhý okruh zdrojů tedy rozpor nerozřešil)"
    },
    {
     "owner": "paarove",
@@ -43320,7 +43331,7 @@
     "from_approx": true,
     "to_approx": true,
     "how": "restituce",
-    "note": "sourozenci zámek restituovali na počátku 90. let, vložili jej do společnosti APS (ovládané Josefem Šťávou) a posléze prodali; rok vložení ani prodeje zdroje neuvádějí"
+    "note": "sourozenci zámek restituovali na počátku 90. let, vložili jej do společnosti APS (ovládané Josefem Šťávou) a posléze prodali; rok vložení ani prodeje zdroje neuvádějí; web zámku a bechynsko.cz uvádějí jen 'po roce 1989' a opravy společnosti Panství Bechyně od 1994 (zpřístupnění 1998); Táborský deník 2017: restituent Alfons vložil majetek do A.P.S. a ten přešel do společnosti Panství Bechyně"
    },
    {
     "owner": "soukromnik",
@@ -43376,7 +43387,11 @@
    "https://cs.wikipedia.org/wiki/Bechyně_(zámek)",
    "https://de.wikipedia.org/wiki/Schloss_Bechyně",
    "https://cs.wikipedia.org/wiki/Paarové",
-   "https://zamek-bechyne.cz/prohlidky/o-zamku"
+   "https://zamek-bechyne.cz/prohlidky/o-zamku",
+   "https://zamek-bechyne.cz/prohlidky/o-zamku/historie",
+   "https://www.hrady.cz/zamek-bechyne-tabor/",
+   "https://www.bechynsko.cz/pametihodnosti/zamek/zamek-bechyne.html",
+   "https://taborsky.denik.cz/zpravy-region/boj-o-bechynsky-zamek-sveho-detstvi-karel-eduard-paar-nevzdava/"
   ]
  },
  "Q2240237": {
@@ -52287,7 +52302,7 @@
    "approx": true,
    "text": "Zeměpanský hrad (tehdy Stenice) vznikl nejspíše po roce 1260 za Přemysla Otakara II. jako vodní pevnost na moravsko-uherském pomezí; nejstarší doklad je listina z roku 1275, první zmínka purkrabího Matouše z Černé Hory pochází z roku 1286"
   },
-  "summary": "Hrad Uherský Ostroh (původně Stenice) založil nejspíše po roce 1260 Přemysl Otakar II. jako zeměpanskou vodní pevnost na uherském pomezí. Ve 14. století jej zastavovali biskup Konrád I. a Šternberkové a držel jej markrabě Jan Jindřich a jeho potomci; od 1411 Hašek z Valdštejna, z něhož udělal středisko husitství. V 15. století se rychle střídali zástavní držitelé (kníže Fridrich, Čeněk z Mošnova, Jiskra, Cimburkové, Matyáš Korvín a jeho hejtmani), než se Janu z Kunovic podařilo získat panství (1493, dědičně 1511) a jeho rod hrad přestavěl na renesanční zámek. Po Bílé hoře jej zkonfiskovali a roku 1625 koupili Lichtenštejnové, kterým patřil do roku 1945; dnes slouží jako městský úřad a knihovna.",
+  "summary": "Hrad Uherský Ostroh (původně Stenice) založil nejspíše po roce 1260 Přemysl Otakar II. jako zeměpanskou vodní pevnost na uherském pomezí. Ve 14. století jej zastavovali biskup Konrád I. a Šternberkové a držel jej markrabě Jan Jindřich a jeho potomci; od 1411 Hašek z Valdštejna, z něhož udělal středisko husitství. V 15. století se rychle střídali zástavní držitelé (kníže Fridrich, Čeněk z Mošnova, Jiskra, Cimburkové, Matyáš Korvín a jeho hejtmani), než se Janu z Kunovic podařilo získat panství (1493, dědičně 1511) a jeho rod hrad přestavěl na renesanční zámek. Po Bílé hoře jej zkonfiskovali a roku 1625 koupili Lichtenštejnové, od nichž budovu zámku roku 1932 koupilo město; dnes slouží jako městský úřad a knihovna.",
   "owners": [
    {
     "owner": "koruna",
@@ -52448,33 +52463,22 @@
     "owner_wiki": "Lichtenštejnové",
     "person": "Gundakar z Lichtenštejna a jeho potomci",
     "from": 1625,
-    "to": 1945,
+    "to": 1932,
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "poslední šlechtičtí majitelé; roku 1645 zámek dobylo švédské vojsko; zámek přestal být šlechtickým sídlem a sloužil jako středisko správy panství (pivovar, stáje), po 1850 kanceláře velkostatku, byty úředníků a sídlo okresního soudu; 1945 vyvlastněn podle Benešových dekretů"
-   },
-   {
-    "owner": "stat",
-    "owner_wiki": null,
-    "person": "Československo (místní národní výbor)",
-    "from": 1945,
-    "to": 1986,
-    "from_approx": false,
-    "to_approx": true,
-    "how": "konfiskace",
-    "note": "po vyvlastnění sloužil jako sídlo místního národního výboru; rok přechodu na město zdroje neuvádějí"
+    "note": "poslední šlechtičtí majitelé; roku 1645 zámek dobylo švédské vojsko; zámek přestal být šlechtickým sídlem a sloužil jako středisko správy panství (pivovar, stáje), po 1850 kanceláře velkostatku, byty úředníků a sídlo okresního soudu; cs.wiki, pamatky-vm.cz a hrady.cz uvádějí Lichtenštejny jako majitele do 1945 (vyvlastnění Benešovými dekrety, platí patrně pro panství), ale podle regionálního tisku (iDobryDen) koupilo budovu zámku město již 1932 od knížete Františka Josefa z Lichtenštejna"
    },
    {
     "owner": "mesto",
     "owner_wiki": null,
     "person": "Město Uherský Ostroh",
-    "from": 1986,
+    "from": 1932,
     "to": null,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false,
-    "how": "jine",
-    "note": "podle cs.wiki (infobox) je dnešním majitelem město Uherský Ostroh, zámek slouží jako městský úřad, knihovna a galerie; rok a způsob převodu zdroje neuvádějí"
+    "how": "koupe",
+    "note": "budovu zámku odkoupilo město 1932 od knížete Františka Josefa z Lichtenštejna (iDobryDen, regionální tisk); po 1945 sloužil jako sídlo místního národního výboru, dnes městský úřad, knihovna a galerie; rozpor se zdroji uvádějícími vyvlastnění Lichtenštejnů 1945 (nejspíš se týkalo zbytku panství)"
    }
   ],
   "events": [
@@ -52515,8 +52519,12 @@
     "text": "zámek dobylo švédské vojsko za třicetileté války"
    },
    {
+    "year": 1932,
+    "text": "zámek odkoupilo město Uherský Ostroh od knížete Františka Josefa z Lichtenštejna (iDobryDen)"
+   },
+   {
     "year": 1945,
-    "text": "zámek vyvlastněn podle Benešových dekretů, sídlo národního výboru"
+    "text": "majetek Lichtenštejnů vyvlastněn podle Benešových dekretů, zámek sídlem místního národního výboru"
    }
   ],
   "sources": [
@@ -52524,7 +52532,9 @@
    "https://www.pamatky-vm.cz/Pamatky/zamky.php?menu=historie&nazev=uhersky-ostroh (Památky jihovýchodní Moravy, soukromý web M. Zvonka)",
    "https://www.hrady.cz/zamek-uhersky-ostroh",
    "https://www.historickasidla.cz/dr-cs/525-uhersky-ostroh.html",
-   "https://medievalheritage.eu/pl/strona-glowna/zabytki/czechy/uhersky-ostroh-zamek/"
+   "https://medievalheritage.eu/pl/strona-glowna/zabytki/czechy/uhersky-ostroh-zamek/",
+   "https://www.idobryden.cz/kultura/v-hlavni-roli-ostrozsky-zamek-59752.html",
+   "https://old.mic.uh.cz/lokalita/46/cms/14558/"
   ]
  },
  "Q30860008": {
@@ -56475,7 +56485,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "1565 při dělení dědictví po otci Adamovi z Vartenberka připadly Svijany tehdy ještě nezletilému Jaroslavovi (cs.wiki uvádí 'získal ves'); vystavěl renesanční tvrz (cs.wiki 1565, obec Svijany a muzeum Turnov 70.-78. léta 16. stol.); zemřel 1602"
+    "note": "1565 při dělení dědictví po otci Adamovi z Vartenberka připadly Svijany tehdy ještě nezletilému Jaroslavovi (cs.wiki uvádí 'získal ves'; zameksvijany.cz uvádí dělení 1567, stavba zámku 1567-1578); vystavěl renesanční tvrz (cs.wiki 1565, obec Svijany a muzeum Turnov 70.-78. léta 16. stol.); zemřel 1602"
    },
    {
     "owner": "smiricti-ze-smiric",
@@ -56503,12 +56513,12 @@
     "owner": "valdstejnove",
     "owner_wiki": "Valdštejnové",
     "person": "Albrecht z Valdštejna, později jeho příbuzní z Mnichova Hradiště",
-    "from": 1622,
+    "from": 1623,
     "to": 1820,
     "from_approx": false,
     "to_approx": false,
     "how": "konfiskace",
-    "note": "konfiskovaný majetek popraveného Šlika získal 1622 Albrecht z Valdštejna a spojil jej s Mnichovým Hradištěm; potomci Maxmiliána z Valdštejna drželi až do 1820; tvrz přestavěli na zámek, 1768 a 1789 stavební úpravy; cs.wiki a web pivovaru uvádějí konec valdštejnského hospodaření 1814, obec Svijany, muzeum Turnov a práce o Sychrovu uvádějí prodej Rohanům až 1820, proto mezera 1814-1820 neexistuje"
+    "note": "konfiskovaný majetek popraveného Šlika získal Albrecht z Valdštejna (zameksvijany.cz a Liberecký kraj: 1623; cs.wiki a pivovar jen 'po 1621') a spojil jej s Mnichovým Hradištěm; potomci Maxmiliána z Valdštejna drželi až do 1820; tvrz přestavěli na zámek, 1768 a 1789 stavební úpravy; cs.wiki a web pivovaru uvádějí konec valdštejnského hospodaření 1814, obec Svijany, muzeum Turnov a práce o Sychrovu uvádějí prodej Rohanům až 1820, proto mezera 1814-1820 neexistuje"
    },
    {
     "owner": "rohanove",
@@ -56519,7 +56529,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "30. 8. 1820 koupil od Františka Adama z Valdštejna panství Svijany se Sychrovem aj. za 650 000 zl. (studijni-svet.cz, méně spolehlivý zdroj); připojil je k sychrovskému velkostatku, zámek sloužil panskému úřadu a ubytování úředníků; pivovar v letech 1909-1912 odprodán nájemci A. Kratochvílovi, 1939 zpět Rohanům; Liberecký deník uvádí konfiskaci až 1948"
+    "note": "30. 8. 1820 koupil od Františka Adama z Valdštejna panství Svijany se Sychrovem aj. za 650 000 zl. (studijni-svet.cz, méně spolehlivý zdroj); připojil je k sychrovskému velkostatku, zámek sloužil panskému úřadu a ubytování úředníků; pivovar v letech 1909-1912 odprodán nájemci A. Kratochvílovi, 1939 zpět Rohanům; zámek zkonfiskován 1945 podle Benešových dekretů (cs.wiki, pivovar, muzeum-turnov.cz, zameksvijany.cz), do 1948 státní správa; rok 1948 (Liberecký deník) odpovídá převodu na Severočeské pivovary"
    },
    {
     "owner": "stat",
@@ -56530,7 +56540,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "konfiskace",
-    "note": "zámek zkonfiskován a posléze znárodněn"
+    "note": "1945 konfiskace, do 1948 státní správa, 1948 převod do majetku Severočeských pivovarů, n. p. (zameksvijany.cz, muzeum-turnov.cz); rok 1996 prodeje Rýdlovi podle cs.wiki, zameksvijany.cz uvádí jen 'po roce 1989'"
    },
    {
     "owner": "soukromnik",
@@ -56588,7 +56598,9 @@
   "sources": [
    "https://cs.wikipedia.org/wiki/Svijany_(zámek)",
    "https://www.obecsvijany.cz/historicky-vyvoj/",
-   "https://www.muzeum-turnov.cz/pivovar-svijany/"
+   "https://www.muzeum-turnov.cz/pivovar-svijany/",
+   "https://www.zameksvijany.cz/zamek/",
+   "https://www.kraj-lbc.cz/urad/odbory/odbor-kultury-pamatkove-pece-a-cestovniho-ruchu/oddeleni/oddeleni-pamatkove-pece/kalendar-lk-2024/zamek-svijany"
   ]
  },
  "Q33239938": {
@@ -58878,7 +58890,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "koupe",
-    "note": "císařský rada a nejvyšší mincmistr Království českého; panství Stránov získal 1589 (cs.wiki Páni z Biberštejna); způsob nabytí ve zdrojích výslovně není, 'koupe' převzato z předchozího zápisu; konec držby zdroje neuvádějí"
+    "note": "císařský rada a nejvyšší mincmistr Království českého; panství Stránov získal 1589 (cs.wiki Páni z Biberštejna); způsob nabytí ve zdrojích výslovně není, 'koupe' převzato z předchozího zápisu; podle webu obce Krnsko Karel (koupil koncem 16. stol.) sídlil na zámku jen 4 roky, poté syn Adam, který majetek přepsal manželce Anně; ta se po jeho smrti provdala za Michala Slavatu; roky ani konec držby Biberštejnů zdroje (zamekstranov.cz, amhz.cz, hrady.cz, jizernivtelno.cz) neuvádějí"
    },
    {
     "owner": "slavatove-z-chlumu-a-kosumberka",
@@ -58889,7 +58901,7 @@
     "from_approx": true,
     "to_approx": true,
     "how": "snatek",
-    "note": "zdroje uvádějí jen 'později hrad získal sňatkem'; roky nabytí ani konce neuvedeny; renesanční přestavbu na zámek provedli Biberštejnové nebo Slavatové (nejednoznačné)"
+    "note": "zdroje uvádějí jen 'později hrad získal sňatkem' (Michal si vzal vdovu po Adamovi z Biberštejna Annu, web obce Krnsko); roky nabytí ani konce neuvedeny (obec Jizerní Vtelno: Slavatové zámek po povstání 1618 nekonfiskováni; hrady.cz: 1545-89 Berkové, po nich Biberštejnové a Slavatové, za třicetileté války páni z Lisova); renesanční přestavbu na zámek provedli Biberštejnové nebo Slavatové (nejednoznačné)"
    },
    {
     "owner": "spanovsti-z-lisova",
@@ -58944,7 +58956,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "koupe",
-    "note": "od 1794 majitelem Jan z Herites (cs.wiki; web zámku uvádí jako majitele spíše Václava Vojtěcha z Herites); na zámku spíše pobýval strýc, svatovítský probošt Václav Vojtěch z Herites (zemřel a pochován 1822); po něm o panství pečoval synovec Jan Herites; způsob nabytí (prodej Příchovskými) podle cs.wiki Příchovští; rok 1830 odvozen z formulace 'v posledních čtyřech letech' před prodejem 1834"
+    "note": "od 1794 majitelem Jan z Herites (cs.wiki; web zámku a web obce Krnsko uvádějí jako majitele od 1794 Václava Vojtěcha z Herites, který panství koupil); na zámku spíše pobýval strýc, svatovítský probošt Václav Vojtěch z Herites (zemřel a pochován 1822); po něm o panství pečoval synovec Jan Herites; způsob nabytí (prodej Příchovskými) podle cs.wiki Příchovští; rok 1830 odvozen z formulace 'v posledních čtyřech letech' před prodejem 1834"
    },
    {
     "owner": "z-heritesu",
@@ -58977,7 +58989,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "koupila statek (725 ha, hodnota 340 000 zl.) od Neubauera 1864 (cs.wiki Valdštejnové); 1890-1894 novorenesanční přestavba podle Josefa Schulze (Marie z Valdštejna a Vartenberka); rok 1917 je prodej Šimonkovi"
+    "note": "koupila statek (725 ha, hodnota 340 000 zl.) od Neubauera 1864 (cs.wiki Valdštejnové); 1890-1894 novorenesanční přestavba podle Josefa Schulze (Marie z Valdštejna a Vartenberka); rok 1917 je prodej Šimonkovi (web obce Krnsko: prodala dcera Gabriela za 2 800 000 korun)"
    },
    {
     "owner": "soukromnik",
@@ -58999,7 +59011,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "konfiskace",
-    "note": "po znárodnění zámek sloužil jako dětský domov, v předzámčí bylo JZD"
+    "note": "po znárodnění zámek sloužil jako dětský domov, v předzámčí bylo JZD; hrady.cz uvádí zabavení zámku 1948 (rekreační středisko SNB, od 1955 dětský domov) a vrácení větší části areálu rodině po roce 1990, web zámku a cs.wiki uvádějí 1950 a 2003"
    },
    {
     "owner": "soukromnik",
@@ -59072,7 +59084,11 @@
    "https://zamekstranov.cz/historie-zamku/",
    "https://cs.wikipedia.org/wiki/Valdštejnové",
    "https://cs.wikipedia.org/wiki/Příchovští_z_Příchovic",
-   "https://cs.wikipedia.org/wiki/Páni_z_Biberštejna"
+   "https://cs.wikipedia.org/wiki/Páni_z_Biberštejna",
+   "https://www.krnsko.cz/obec-7/stripky-z-historie/nase-sousedni-obce/stranov/",
+   "https://www.hrady.cz/zamek-novy-stranov/",
+   "https://amhz.cz/zamek/stranov",
+   "https://www.jizernivtelno.cz/obec/historie-1/"
   ]
  },
  "Q3509590": {
@@ -63395,7 +63411,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "1739 přešel zámek dědictvím na Heřmana Jakuba (podle jiného textu téhož webu prodán 'do rodiny' zadluženými Černíny); bydleli zejména ve Šťáhlavech, Nebílovy na okraji zájmu; zdroj: zamek-nebilovy.cz"
+    "note": "1739 přešel zámek na příbuzného Heřmana Jakuba: cs.wiki (článek o Heřmanu Jakubovi) a hrady.cz uvádějí dědictví po předčasně zemřelém Františku Antonínovi, web zámku na jedné stránce dědictví, na druhé prodej 'do rodiny' zadluženými Černíny (rok 1739 shodně); bydleli zejména ve Šťáhlavech, Nebílovy na okraji zájmu; zdroj: zamek-nebilovy.cz"
    },
    {
     "owner": "cerninove-z-chudenic",
@@ -63516,7 +63532,10 @@
   "sources": [
    "https://cs.wikipedia.org/wiki/Nebílovy_(zámek)",
    "https://www.zamek-nebilovy.cz/cs/o-zamku/historie",
-   "https://www.zamek-nebilovy.cz/cs/o-zamku/jak-sel-cas-s-nebilovskym-zamkem"
+   "https://www.zamek-nebilovy.cz/cs/o-zamku/jak-sel-cas-s-nebilovskym-zamkem",
+   "https://www.hrady.cz/zamek-nebilovy-plzen-jih/texty?pos=300&tid=2333",
+   "https://cs.wikipedia.org/wiki/Heřman_Jakub_Černín_(1706–1784)",
+   "https://www.obecnebilovy.cz/seniori/obec-125/informace-o-obci/historie/"
   ]
  },
  "Q370894": {
@@ -65053,7 +65072,7 @@
     "from_approx": true,
     "to_approx": false,
     "how": "neznamo",
-    "note": "po roce 1469 (vpád Matyášových vojsk tvrz přečkala) držela tvrz Boubínští z Újezda, později zvaní Choltičtí z Újezda; Jaroslav doložen 1490, Pavel povýšil Choltice na městečko; Divišovu polovinu koupil v prosinci 1541 Gerštorf; počátek držby zdroj neuvádí; zdroj: zamek-choltice.cz"
+    "note": "po roce 1469 (vpád Matyášových vojsk tvrz přečkala) držela tvrz Boubínští z Újezda, později zvaní Choltičtí z Újezda; Jaroslav doložen 1490, Pavel povýšil Choltice na městečko; Divišovu polovinu koupil v prosinci 1541 Gerštorf; počátek držby zdroj neuvádí rok (hrady.cz: Jaroslav a Petr koupili obě poloviny panství 'koncem 15. století'; zamek-choltice.cz: po 1469); zdroj: zamek-choltice.cz, hrady.cz"
    },
    {
     "owner": "gerstorfove-z-gerstorfu",
@@ -65181,7 +65200,8 @@
   "sources": [
    "https://cs.wikipedia.org/wiki/Choltice_(zámek)",
    "https://www.choltice.cz/mestys/historie/iv-novi-majitele-znovu-thunove/",
-   "https://www.zamek-choltice.cz/o-nas-zajimavosti/historie/prvni-majitele/"
+   "https://www.zamek-choltice.cz/o-nas-zajimavosti/historie/prvni-majitele/",
+   "https://www.hrady.cz/zamek-choltice-pardubice/texty?pos=300&tid=11279"
   ]
  },
  "Q439598": {

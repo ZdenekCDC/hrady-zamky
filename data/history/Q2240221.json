@@ -31,15 +31,26 @@
    "note": "cs.wiki: Bechyně se před rokem 1340 dostala do majetku Štěpána z Kunštátu; způsob ani přesné roky neuvádí (de.wiki k době kolem 1340 uvádí Šternberky, rozpor)"
   },
   {
+   "owner": "sternberkove",
+   "owner_wiki": "Šternberkové",
+   "person": null,
+   "from": 1340,
+   "to": 1367,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "oficiální web zámku (zamek-bechyne.cz) a bechynsko.cz: roku 1340 byla Bechyně v držbě pánů ze Šternberka, od nichž ji 1367 získal markrabě Jošt; cs.wiki a hrady.cz místo toho uvádějí Štěpána z Kunštátu před 1340, rozpor"
+  },
+  {
    "owner": "lucemburkove",
    "owner_wiki": "Lucemburkové",
    "person": "Jošt Moravský",
-   "from": 1400,
+   "from": 1367,
    "to": null,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "de.wiki: kolem 1400 markrabě Jošt Moravský, od něj město a hrad přešly na Bočka II. z Poděbrad; cs.wiki tuto etapu neuvádí"
+   "note": "oficiální web zámku: 1367 získal od Šternberků markrabě Jošt; de.wiki uvádí markraběte Jošta až kolem 1400, od něj město a hrad přešly na Bočka II. z Poděbrad; cs.wiki tuto etapu neuvádí"
   },
   {
    "owner": "pani-z-kunstatu-a-podebrad",
@@ -116,7 +127,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "roku 1596 koupil Adam ze Šternberka a na Sedlci (1575-1623) od zadluženého Petra Voka; podle cs.wiki zůstal zámek Šternberkům do 1761; rok 1715 (sňatek dědičky s Paarem) cs.wiki označuje za přechod do rukou Paarů, de.wiki uvádí dědění Paary až 1761"
+   "note": "roku 1596 koupil Adam ze Šternberka a na Sedlci (1575-1623) od zadluženého Petra Voka; podle cs.wiki zůstal zámek Šternberkům do 1761; rok 1715 (sňatek dědičky s Paarem) cs.wiki, oficiální web zámku i bechynsko.cz označují za přechod do rukou Paarů, de.wiki a hrady.cz uvádějí dědění Paary až 1761 (druhý okruh zdrojů tedy rozpor nerozřešil)"
   },
   {
    "owner": "paarove",
@@ -149,7 +160,7 @@
    "from_approx": true,
    "to_approx": false,
    "how": "restituce",
-   "note": "sourozenci zámek restituovali na počátku 90. let, vložili jej do společnosti APS (ovládané Josefem Šťávou) a posléze prodali; rok vložení ani prodeje zdroje neuvádějí"
+   "note": "sourozenci zámek restituovali na počátku 90. let, vložili jej do společnosti APS (ovládané Josefem Šťávou) a posléze prodali; rok vložení ani prodeje zdroje neuvádějí; web zámku a bechynsko.cz uvádějí jen 'po roce 1989' a opravy společnosti Panství Bechyně od 1994 (zpřístupnění 1998); Táborský deník 2017: restituent Alfons vložil majetek do A.P.S. a ten přešel do společnosti Panství Bechyně"
   },
   {
    "owner": "soukromnik",
@@ -205,6 +216,10 @@
   "https://cs.wikipedia.org/wiki/Bechyně_(zámek)",
   "https://de.wikipedia.org/wiki/Schloss_Bechyně",
   "https://cs.wikipedia.org/wiki/Paarové",
-  "https://zamek-bechyne.cz/prohlidky/o-zamku"
+  "https://zamek-bechyne.cz/prohlidky/o-zamku",
+  "https://zamek-bechyne.cz/prohlidky/o-zamku/historie",
+  "https://www.hrady.cz/zamek-bechyne-tabor/",
+  "https://www.bechynsko.cz/pametihodnosti/zamek/zamek-bechyne.html",
+  "https://taborsky.denik.cz/zpravy-region/boj-o-bechynsky-zamek-sveho-detstvi-karel-eduard-paar-nevzdava/"
  ]
 }

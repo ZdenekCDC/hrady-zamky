@@ -22889,7 +22889,7 @@
    {
     "place": "Q30729875",
     "from": 1625,
-    "to": 1945,
+    "to": 1932,
     "person": "Gundakar z Lichtenštejna a jeho potomci",
     "how": "koupe",
     "from_approx": false,
@@ -23433,10 +23433,10 @@
    },
    {
     "place": "Q30729875",
-    "year": 1945,
+    "year": 1932,
     "from": "lichtenstejnove",
-    "to": "stat",
-    "how": "konfiskace"
+    "to": "mesto",
+    "how": "koupe"
    },
    {
     "place": "Q31698034",
@@ -25572,11 +25572,11 @@
    },
    {
     "place": "Q2240221",
-    "from": 1400,
-    "to": 1407,
+    "from": 1367,
+    "to": 1390,
     "person": "Jošt Moravský",
     "how": "neznamo",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": true
    },
    {
@@ -25643,14 +25643,14 @@
    },
    {
     "place": "Q2240221",
-    "year": 1400,
-    "from": "pani-z-kunstatu-a-podebrad",
+    "year": 1367,
+    "from": "sternberkove",
     "to": "lucemburkove",
     "how": "neznamo"
    },
    {
     "place": "Q2240221",
-    "year": 1407,
+    "year": 1390,
     "from": "lucemburkove",
     "to": "pani-z-kunstatu-a-podebrad",
     "how": "neznamo"
@@ -32396,8 +32396,8 @@
    },
    {
     "place": "Q2240221",
-    "from": 1334,
-    "to": 1400,
+    "from": 1304,
+    "to": 1340,
     "person": "Štěpán z Kunštátu",
     "how": "neznamo",
     "from_approx": true,
@@ -32405,7 +32405,7 @@
    },
    {
     "place": "Q2240221",
-    "from": 1407,
+    "from": 1390,
     "to": 1414,
     "person": "Boček II. z Poděbrad (†1417)",
     "how": "neznamo",
@@ -32854,21 +32854,21 @@
    },
    {
     "place": "Q2240221",
-    "year": 1334,
+    "year": 1304,
     "from": "koruna",
     "to": "pani-z-kunstatu-a-podebrad",
     "how": "neznamo"
    },
    {
     "place": "Q2240221",
-    "year": 1400,
+    "year": 1340,
     "from": "pani-z-kunstatu-a-podebrad",
-    "to": "lucemburkove",
+    "to": "sternberkove",
     "how": "neznamo"
    },
    {
     "place": "Q2240221",
-    "year": 1407,
+    "year": 1390,
     "from": "lucemburkove",
     "to": "pani-z-kunstatu-a-podebrad",
     "how": "neznamo"
@@ -47371,7 +47371,7 @@
    },
    {
     "place": "Q31953758",
-    "year": 1622,
+    "year": 1623,
     "from": "slikove",
     "to": "valdstejnove",
     "how": "konfiskace"
@@ -49132,6 +49132,15 @@
    },
    {
     "place": "Q2240221",
+    "from": 1340,
+    "to": 1367,
+    "person": null,
+    "how": "neznamo",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q2240221",
     "from": 1477,
     "to": 1530,
     "person": "Jaroslav a Zdeslav ze Šternberka",
@@ -49782,6 +49791,20 @@
     "from": "sternberkove",
     "to": "pani-z-lomnice",
     "how": "dedictvi"
+   },
+   {
+    "place": "Q2240221",
+    "year": 1340,
+    "from": "pani-z-kunstatu-a-podebrad",
+    "to": "sternberkove",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q2240221",
+    "year": 1367,
+    "from": "sternberkove",
+    "to": "lucemburkove",
+    "how": "neznamo"
    },
    {
     "place": "Q2240221",
@@ -54771,7 +54794,7 @@
    },
    {
     "place": "Q31953758",
-    "from": 1622,
+    "from": 1623,
     "to": 1820,
     "person": "Albrecht z Valdštejna, později jeho příbuzní z Mnichova Hradiště",
     "how": "konfiskace",
@@ -55686,7 +55709,7 @@
    },
    {
     "place": "Q31953758",
-    "year": 1622,
+    "year": 1623,
     "from": "slikove",
     "to": "valdstejnove",
     "how": "konfiskace"
@@ -82560,15 +82583,6 @@
     "to_approx": false
    },
    {
-    "place": "Q30729875",
-    "from": 1945,
-    "to": 1986,
-    "person": "Československo (místní národní výbor)",
-    "how": "konfiskace",
-    "from_approx": false,
-    "to_approx": true
-   },
-   {
     "place": "Q30860068",
     "from": 1945,
     "to": 2001,
@@ -86128,20 +86142,6 @@
     "how": "jine"
    },
    {
-    "place": "Q30729875",
-    "year": 1945,
-    "from": "lichtenstejnove",
-    "to": "stat",
-    "how": "konfiskace"
-   },
-   {
-    "place": "Q30729875",
-    "year": 1986,
-    "from": "stat",
-    "to": "mesto",
-    "how": "jine"
-   },
-   {
     "place": "Q30860068",
     "year": 1945,
     "from": "razumovsti",
@@ -87206,7 +87206,7 @@
     "how": "restituce"
    }
   ],
-  "place_count": 309,
+  "place_count": 308,
   "color_slot": null
  },
  "koruna": {
@@ -88793,7 +88793,7 @@
    {
     "place": "Q2240221",
     "from": 1268,
-    "to": 1334,
+    "to": 1304,
     "person": "Přemysl Otakar II.",
     "how": "zalozeni",
     "from_approx": false,
@@ -91620,7 +91620,7 @@
    },
    {
     "place": "Q2240221",
-    "year": 1334,
+    "year": 1304,
     "from": "koruna",
     "to": "pani-z-kunstatu-a-podebrad",
     "how": "neznamo"
@@ -93866,11 +93866,11 @@
    },
    {
     "place": "Q30729875",
-    "from": 1986,
+    "from": 1932,
     "to": null,
     "person": "Město Uherský Ostroh",
-    "how": "jine",
-    "from_approx": true,
+    "how": "koupe",
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -95541,10 +95541,10 @@
    },
    {
     "place": "Q30729875",
-    "year": 1986,
-    "from": "stat",
+    "year": 1932,
+    "from": "lichtenstejnove",
     "to": "mesto",
-    "how": "jine"
+    "how": "koupe"
    },
    {
     "place": "Q30860008",
