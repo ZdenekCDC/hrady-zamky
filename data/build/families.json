@@ -3051,8 +3051,8 @@
     "place": "Q21816281",
     "from": 1636,
     "to": 1658,
-    "person": "Oldřich z Bisingenu",
-    "how": "neznamo",
+    "person": "Jan Oldřich z Bissingenu (Oldřich z Bisingenu)",
+    "how": "koupe",
     "from_approx": false,
     "to_approx": false
    },
@@ -3072,7 +3072,7 @@
     "year": 1636,
     "from": "kaplirove-ze-sulevic",
     "to": "bissingenove",
-    "how": "neznamo"
+    "how": "koupe"
    },
    {
     "place": "Q21816281",
@@ -12276,7 +12276,7 @@
    {
     "place": "Q1012713",
     "from": null,
-    "to": 1387,
+    "to": 1391,
     "person": "Jan z Hardeka mladší, zvaný 'z Kozí'",
     "how": "neznamo",
     "from_approx": false,
@@ -16605,7 +16605,7 @@
     "year": 1636,
     "from": "kaplirove-ze-sulevic",
     "to": "bissingenove",
-    "how": "neznamo"
+    "how": "koupe"
    },
    {
     "place": "Q31144977",
@@ -25271,7 +25271,7 @@
    {
     "place": "Q1421237",
     "from": 1551,
-    "to": 1587,
+    "to": 1577,
     "person": "Kateřina Lokšanská z Lokšan, rozená Adlerová",
     "how": "dedictvi",
     "from_approx": false,
@@ -25279,11 +25279,20 @@
    },
    {
     "place": "Q1421237",
-    "from": 1587,
-    "to": 1623,
-    "person": "potomci Lokšanů (vnuk Ferdinand, od dělení 1607 jeho synové Adam, Václav a Jiří, kteří drželi panství společně)",
+    "from": 1577,
+    "to": 1603,
+    "person": "Ferdinand z Lokšan, syn Jiřího a Kateřiny",
     "how": "dedictvi",
     "from_approx": true,
+    "to_approx": false
+   },
+   {
+    "place": "Q1421237",
+    "from": 1603,
+    "to": 1623,
+    "person": "synové Ferdinanda z Lokšan Adam, Václav a Jiří, od dělení 1607 drželi panství společně",
+    "how": "dedictvi",
+    "from_approx": false,
     "to_approx": false
    }
   ],
@@ -31104,11 +31113,11 @@
    {
     "place": "Q1012713",
     "from": 1391,
-    "to": 1400,
+    "to": 1406,
     "person": "Jindřich I. z Hradce",
     "how": "koupe",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q1013759",
@@ -31310,7 +31319,7 @@
    },
    {
     "place": "Q1012713",
-    "year": 1400,
+    "year": 1406,
     "from": "pani-z-hradce",
     "to": "z-ujezda",
     "how": "neznamo"
@@ -69562,8 +69571,8 @@
   "places": [
    {
     "place": "Q1012713",
-    "from": 1712,
-    "to": 1852,
+    "from": 1586,
+    "to": 1600,
     "person": "Zikmund Pek z Římek",
     "how": "koupe",
     "from_approx": true,
@@ -69573,17 +69582,17 @@
   "transfers": [
    {
     "place": "Q1012713",
-    "year": 1712,
+    "year": 1586,
     "from": "soukromnik",
     "to": "z-rimek",
     "how": "koupe"
    },
    {
     "place": "Q1012713",
-    "year": 1852,
+    "year": 1600,
     "from": "z-rimek",
-    "to": "neznamo",
-    "how": "neznamo"
+    "to": "mesto",
+    "how": "koupe"
    }
   ],
   "place_count": 1,
@@ -72292,17 +72301,17 @@
   "places": [
    {
     "place": "Q1012713",
-    "from": 1400,
+    "from": 1406,
     "to": 1408,
     "person": "Vilém z Újezda",
     "how": "neznamo",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false
    },
    {
     "place": "Q1012713",
     "from": 1408,
-    "to": 1490,
+    "to": 1446,
     "person": "Jan a Ctibor z Kozího (synové Viléma z Újezda)",
     "how": "dedictvi",
     "from_approx": true,
@@ -72312,17 +72321,17 @@
   "transfers": [
    {
     "place": "Q1012713",
-    "year": 1400,
+    "year": 1406,
     "from": "pani-z-hradce",
     "to": "z-ujezda",
     "how": "neznamo"
    },
    {
     "place": "Q1012713",
-    "year": 1490,
+    "year": 1446,
     "from": "z-ujezda",
     "to": "mesto",
-    "how": "neznamo"
+    "how": "koupe"
    }
   ],
   "place_count": 1,
@@ -78996,7 +79005,7 @@
    },
    {
     "place": "Q1012713",
-    "from": 1852,
+    "from": 1796,
     "to": 1991,
     "person": null,
     "how": "neznamo",
@@ -79622,8 +79631,8 @@
    },
    {
     "place": "Q1012713",
-    "year": 1852,
-    "from": "z-rimek",
+    "year": 1796,
+    "from": "mesto",
     "to": "neznamo",
     "how": "neznamo"
    },
@@ -92783,12 +92792,21 @@
    },
    {
     "place": "Q1012713",
-    "from": 1490,
+    "from": 1446,
     "to": 1573,
     "person": "Tábor",
-    "how": "neznamo",
+    "how": "koupe",
     "from_approx": true,
     "to_approx": false
+   },
+   {
+    "place": "Q1012713",
+    "from": 1600,
+    "to": 1796,
+    "person": "Tábor",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": true
    },
    {
     "place": "Q1012713",
@@ -94447,10 +94465,10 @@
    },
    {
     "place": "Q1012713",
-    "year": 1490,
+    "year": 1446,
     "from": "z-ujezda",
     "to": "mesto",
-    "how": "neznamo"
+    "how": "koupe"
    },
    {
     "place": "Q1012713",
@@ -94458,6 +94476,20 @@
     "from": "mesto",
     "to": "soukromnik",
     "how": "koupe"
+   },
+   {
+    "place": "Q1012713",
+    "year": 1600,
+    "from": "z-rimek",
+    "to": "mesto",
+    "how": "koupe"
+   },
+   {
+    "place": "Q1012713",
+    "year": 1796,
+    "from": "mesto",
+    "to": "neznamo",
+    "how": "neznamo"
    },
    {
     "place": "Q1012713",
@@ -96124,7 +96156,7 @@
    {
     "place": "Q1012713",
     "from": 1573,
-    "to": 1712,
+    "to": 1586,
     "person": "Pavel Lučín",
     "how": "koupe",
     "from_approx": false,
@@ -98032,7 +98064,7 @@
    {
     "place": "Q21816281",
     "from": 1907,
-    "to": 1928,
+    "to": 1924,
     "person": "Hans Friedrich Gimbel",
     "how": "koupe",
     "from_approx": false,
@@ -98040,11 +98072,20 @@
    },
    {
     "place": "Q21816281",
-    "from": 1928,
-    "to": 1949,
-    "person": "Gérold Déteindre (švýcarský konzul) a jeho potomci",
+    "from": 1924,
+    "to": 1940,
+    "person": "Gérold Déteindre (švýcarský konzul)",
     "how": "dedictvi",
     "from_approx": true,
+    "to_approx": false
+   },
+   {
+    "place": "Q21816281",
+    "from": 1940,
+    "to": 1949,
+    "person": "Hana Déteindreová a synové Egon a René",
+    "how": "dedictvi",
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -100135,7 +100176,7 @@
    },
    {
     "place": "Q1012713",
-    "year": 1712,
+    "year": 1586,
     "from": "soukromnik",
     "to": "z-rimek",
     "how": "koupe"

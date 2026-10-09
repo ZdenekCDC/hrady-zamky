@@ -50,7 +50,7 @@
    "from_approx": true,
    "to_approx": false,
    "how": "koupe",
-   "note": "roku 1631 při vpádu Sasů do Čech se majetku znovu ujal navrátivší se Alexandr Kaplíř ze Sulevic"
+   "note": "roku 1631 při vpádu Sasů do Čech se majetku znovu ujal navrátivší se Alexandr Kaplíř ze Sulevic; cestouchmele.chizatec.cz (Historická stezka) uvádí, že Aldringenové panství drželi do 1636, kdy je koupil Jan Oldřich z Bissingenu"
   },
   {
    "owner": "kaplirove-ze-sulevic",
@@ -61,17 +61,18 @@
    "from_approx": false,
    "to_approx": false,
    "how": "jine",
-   "note": "vrátil se z vyhnanství s vpádem Sasů a ujal se dřívějšího majetku; o tři roky později (1634) mu byl majetek znovu zabaven"
+   "note": "vrátil se z vyhnanství s vpádem Sasů a ujal se dřívějšího majetku; o tři roky později (1634) mu byl majetek znovu zabaven; cestouchmele.chizatec.cz tento návrat 1631-1634 neuvádí a Aldringeny drží do 1636"
   },
   {
    "owner": "bissingenove",
    "owner_wiki": "Bissingenové",
-   "person": "Oldřich z Bisingenu",
+   "person": "Jan Oldřich z Bissingenu (Oldřich z Bisingenu)",
    "from": 1636,
    "to": 1658,
    "from_approx": false,
    "to_approx": false,
-   "how": "neznamo"
+   "how": "koupe",
+   "note": "plukovník císařského vojska; 1636 koupil panství (cestouchmele.chizatec.cz); mezera 1634-1636 mezi zabavením Kaplířovi a koupí zůstává bez doložených držitelů"
   },
   {
    "owner": "soukromnik",
@@ -141,13 +142,24 @@
   {
    "owner": "soukromnik",
    "owner_wiki": null,
-   "person": "Gérold Déteindre (švýcarský konzul) a jeho potomci",
+   "person": "Gérold Déteindre (švýcarský konzul)",
    "from": null,
-   "to": 1949,
+   "to": 1940,
    "from_approx": true,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "zeť Hanse Friedricha Gimbela, po jeho smrti zámek zdědil; poslední soukromý majitel; potomci drželi velkostatek do prosince 1949; rok převzetí zdroje neuvádějí (hrady.cz a NPÚ uvádějí rodinu Déteindre jako vlastníky 1907-1949)"
+   "note": "zeť Hanse Friedricha Gimbela, který mu část zámku postoupil (rok neuveden) a po jehož smrti zámek zdědil; 1912-1927 švýcarský konzul v Praze, poslední soukromý majitel; zemřel 1940 (cestouchmele.chizatec.cz); rok převzetí zdroje neuvádějí"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Hana Déteindreová a synové Egon a René",
+   "from": 1940,
+   "to": 1949,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "dědicové po Géroldu Déteindre (cestouchmele.chizatec.cz); potomci drželi velkostatek do prosince 1949"
   },
   {
    "owner": "stat",
@@ -158,7 +170,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "v prosinci 1949 vykoupila velkostatek včetně zámku a mobiliáře československá vláda v rámci Náhradové dohody se Švýcarskou konfederací (zamek-steknik.cz, NPÚ); en verze téhož webu hovoří o konfiskaci, starší text hrady.cz o konfiskaci po 2. světové válce a Déteindrech do 1945 - rozpor; od 1950 zámek využíval Výzkumný ústav chmelařský v Žatci, poté Národní galerie v Praze jako depozitář, od 1997 jej spravuje Národní památkový ústav (hrady.cz uvádí 1996)"
+   "note": "v prosinci 1949 vykoupila velkostatek včetně zámku a mobiliáře československá vláda v rámci Náhradové dohody se Švýcarskou konfederací (zamek-steknik.cz, NPÚ); en verze téhož webu hovoří o konfiskaci, starší text hrady.cz o konfiskaci po 2. světové válce a Déteindrech do 1945 - rozpor; od 1950 zámek využíval Výzkumný ústav chmelařský v Žatci, poté Národní galerie v Praze jako depozitář, od 1997 jej spravuje Národní památkový ústav (hrady.cz uvádí 1996); cestouchmele.chizatec.cz: 1949 vykoupen státem na základě náhradové smlouvy, správu měly Československé státní statky, od 1952 Výzkumný ústav chmelařský, od 1967 Národní galerie, od 1997 NPÚ"
   }
  ],
  "events": [
@@ -202,6 +214,8 @@
  "sources": [
   "https://cs.wikipedia.org/wiki/Stekník_(zámek)",
   "https://www.zamek-steknik.cz/cs/o-zamku/historie",
-  "https://www.hrady.cz/zamek-steknik/texty?pos=1000&tid=41071"
+  "https://www.hrady.cz/zamek-steknik/texty?pos=1000&tid=41071",
+  "https://www.zamek-steknik.cz/en/about/history",
+  "https://cestouchmele.chizatec.cz/mapa-historicke-stezky/?arc=5&bod=31"
  ]
 }

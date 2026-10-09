@@ -17,62 +17,62 @@
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "první doložený držitel, zmíněn 21. ledna 1377; začátek ani konec jeho držby zdroje neuvádějí"
+   "note": "první doložený držitel, zmíněn 21. ledna 1377 (cs.wiki, kozi-hradek.cz); hrady.cz k 1377 uvádí jako držitele Jana mladšího z Hardeka; začátek ani konec držby zdroje neuvádějí"
   },
   {
    "owner": "hardekove",
    "owner_wiki": "Hardekové",
    "person": "Jan z Hardeka mladší, zvaný 'z Kozí'",
    "from": null,
-   "to": 1387,
+   "to": 1391,
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "po Vlčkovi hrad získali Hardekové; podle en.wiki držel hrad do roku 1387; začátek držby není doložen"
+   "note": "po Vlčkovi hrad získali Hardekové; hrady.cz: Jan mladší z Hardeka, magdeburský purkrabí, držel hrad 1377 a roku 1391 jej prodal příbuznému Jindřichovi z Hradce; en.wiki uvádí konec držby 1387; začátek držby není doložen"
   },
   {
    "owner": "pani-z-hradce",
    "owner_wiki": "Páni z Hradce",
    "person": "Jindřich I. z Hradce",
    "from": 1391,
-   "to": null,
+   "to": 1406,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "podle en.wiki byl hrad s panstvím roku 1391 prodán Jindřichovi z Hradce za 2000 pražských grošů; konec držby zdroje neuvádějí (nejpozději 1406)"
+   "note": "1391 koupil hrad s dvorem a vsemi Kravín, Lhota, Lipí, Turovec a dvorem Bedřichov (hrady.cz; en.wiki: 2000 pražských grošů); Jindřich byl ženat s Eliškou z Hardeka; rok 1406 podle kozi-hradek.cz a cs.wiki, kdy hrad získal Vilém z Újezda"
   },
   {
    "owner": "z-ujezda",
    "owner_wiki": null,
    "person": "Vilém z Újezda",
-   "from": null,
+   "from": 1406,
    "to": 1408,
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "cs.wiki: od roku 1406 držitel Vilém z Újezda; podle en.wiki zemřel 1408 a stal se zakladatelem rodu Kozských z Kozího; rok převzetí zdroje neuvádějí (nejpozději 1406)"
+   "note": "1406 získal Vilém z Újezda (kozi-hradek.cz, cs.wiki), hrady.cz ho zná 'seděním na Kozí' 1406-1407; podle kozi-hradek.cz zemřel po 2 letech (en.wiki: 1408) a hrad zdědili synové Ctibor a Jan"
   },
   {
    "owner": "z-ujezda",
    "owner_wiki": null,
    "person": "Jan a Ctibor z Kozího (synové Viléma z Újezda)",
    "from": 1408,
-   "to": null,
+   "to": 1446,
    "from_approx": true,
-   "to_approx": false,
+   "to_approx": true,
    "how": "dedictvi",
-   "note": "synové Viléma z Újezda; rok 1408 je rok otcovy smrti (en.wiki), přesné datum nabytí není doloženo; roku 1412 pozvali na hrad mistra Jana Husa, který zde pobýval na podzim 1412 a od jara 1413 do 15. července 1414 (en.wiki uvádí Jana jako 'z Ústí'); konec držby zdroje neuvádějí, hrad 1438 vyhořel"
+   "note": "synové Viléma z Újezda, Ctibor (hrady.cz: 1408-1437) a Jan (1408-1457); rok 1408 je rok otcovy smrti, přesné datum nabytí není doloženo; roku 1412 pozvali na hrad mistra Jana Husa, který zde pobýval na podzim 1412 a od jara 1413 do jara 1414 (en.wiki uvádí Jana jako 'z Ústí'); hrad 1438 vyhořel; hrady.cz: Tábor hrad (tehdy již jen dvůr a pivovar) zřejmě nabyl až 1446 od Jana z Kozího"
   },
   {
    "owner": "mesto",
    "owner_wiki": null,
    "person": "Tábor",
-   "from": null,
+   "from": 1446,
    "to": 1573,
-   "from_approx": false,
+   "from_approx": true,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "podle en.wiki po husitských válkách (hrad byl předtím pod vlivem táborské obce) zpustlý hrad připadl městu Tábor; cs.wiki: 1542 zápis v zemských deskách o majetku táborském 'Kozí hrad pustý'; rok přechodu na Tábor není doložen"
+   "how": "koupe",
+   "note": "hrady.cz: Tábor zřejmě nabyl až 1446 od Jana z Kozího (v privilegiu pro Tábor 1437 ještě uveden není); 1542 zápis v zemských deskách 'Kozí hrad pustý'; rok 1573 podle en.wiki, hrady.cz uvádí, že Pavel Lucín držby jen dočasně ujal"
   },
   {
    "owner": "soukromnik",
@@ -83,18 +83,29 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "en.wiki: roku 1573 hrad zakoupil básník Pavel Lučín, který jej dále prodal; rok dalšího prodeje není uveden"
+   "note": "en.wiki: roku 1573 hrad zakoupil básník Pavel Lučín (hrady.cz: Lucín, syn táborského radního písaře), který jej dále prodal; rok dalšího prodeje není uveden"
   },
   {
    "owner": "z-rimek",
    "owner_wiki": null,
    "person": "Zikmund Pek z Římek",
    "from": null,
+   "to": 1600,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "hrady.cz: nástupce Lucína, znovu vystavěl na Kozím (Červený) dvůr a mlýn z kamene hradních zřícenin; po jeho smrti Tábor Kozí roku 1600 znovu přikoupil; rok nabytí ani smrti zdroje neuvádějí"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "Tábor",
+   "from": 1600,
    "to": null,
    "from_approx": false,
-   "to_approx": false,
+   "to_approx": true,
    "how": "koupe",
-   "note": "en.wiki: od Pavla Lučína hrad získal Zikmund Pek z Římek; rok ani konec držby není uveden"
+   "note": "hrady.cz: po smrti Peka z Římku Tábor roku 1600 Kozí znovu přikoupil ke svému majetku; za táborské držby sloužily trosky jako zdroj stavebního materiálu až do 19. století; kdy Tábor zříceninu pozbyl, zdroje neuvádějí"
   },
   {
    "owner": "neznamo",
@@ -105,7 +116,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "majitele zříceniny od 16. století do 1991 zdroje neuvádějí; sloužila jako zdroj stavebního kamene pro okolí (např. Meziříčí) a postupně zarostla"
+   "note": "mezi koncem táborské držby a rokem 1991 majitele zdroje neuvádějí; zřícenina sloužila jako zdroj stavebního kamene a postupně zarostla"
   },
   {
    "owner": "mesto",
@@ -116,7 +127,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "od roku 1991 je zřícenina v majetku města Sezimovo Ústí (cs.wiki, en.wiki); způsob nabytí neuveden"
+   "note": "od roku 1991 je zřícenina v majetku města Sezimovo Ústí (cs.wiki, en.wiki); způsob nabytí neuveden (kozi-hradek.cz, hrady.cz a mistopisy.cz shodně uvádějí 1991)"
   }
  ],
  "events": [
@@ -141,12 +152,20 @@
    "text": "hrad pravděpodobně vyhořel během tažení Albrechta II. Habsburského"
   },
   {
+   "year": 1446,
+   "text": "Tábor zřejmě nabývá Kozí od Jana z Kozího (hrady.cz)"
+  },
+  {
    "year": 1542,
    "text": "zemské desky zaznamenávají hrad jako pustý"
   },
   {
    "year": 1573,
    "text": "hrad kupuje básník Pavel Lučín, který jej prodal Zikmundu Pekovi z Římek"
+  },
+  {
+   "year": 1600,
+   "text": "Tábor po smrti Zikmunda Peka z Římek Kozí znovu přikupuje"
   },
   {
    "year": 1899,
@@ -163,6 +182,8 @@
  ],
  "sources": [
   "https://cs.wikipedia.org/wiki/Kozí_hrádek",
-  "https://en.wikipedia.org/wiki/Kozí_hrádek"
+  "https://en.wikipedia.org/wiki/Kozí_hrádek",
+  "https://www.hrady.cz/hrad-kozi-hradek/",
+  "https://www.kozi-hradek.cz/historie/"
  ]
 }

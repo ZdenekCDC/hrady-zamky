@@ -94,18 +94,29 @@
    "from_approx": false,
    "to_approx": true,
    "how": "dedictvi",
-   "note": "vdova, dokončila přestavbu (alianční znak 1567), 1558 knihovna, 1555-1560 pobyty arcivévody Ferdinanda a Filipíny Welserové; konec její držby zdroje neuvádějí"
+   "note": "vdova, dokončila přestavbu (alianční znak 1567), 1558 knihovna, 1555-1560 pobyty arcivévody Ferdinanda a Filipíny Welserové; po 1567 odjela s arcivévodou Ferdinandem do Tyrol jako hofmistryně Filipíny a zemřela 1580 v Innsbrucku (cs.wiki, článek o Kateřině); rok předání Březnice synovi Ferdinandovi zdroje neuvádějí"
   },
   {
    "owner": "loksanove-z-loksan",
    "owner_wiki": "Lokšanové z Lokšan",
-   "person": "potomci Lokšanů (vnuk Ferdinand, od dělení 1607 jeho synové Adam, Václav a Jiří, kteří drželi panství společně)",
+   "person": "Ferdinand z Lokšan, syn Jiřího a Kateřiny",
    "from": null,
-   "to": 1623,
+   "to": 1603,
    "from_approx": true,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "po Bílé hoře majetek bratří konfiskován, polovinu uhájila Adamova manželka Lidmila Černínová z Chudenic a 1623 ji prodala Jeníškovi (hrady.cz, komerční portál)"
+   "note": "zemřel 1603 (cs.wiki, Vlastenský slovník historický); hrady.cz jej chybně označuje za vnuka Jiřího; 1575 udělil městu privilegium pivovaru (nadacnipivovar.cz); rok převzetí panství zdroje neuvádějí"
+  },
+  {
+   "owner": "loksanove-z-loksan",
+   "owner_wiki": "Lokšanové z Lokšan",
+   "person": "synové Ferdinanda z Lokšan Adam, Václav a Jiří, od dělení 1607 drželi panství společně",
+   "from": 1603,
+   "to": 1623,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "po smrti Ferdinanda 1603 se synové o panství dělili (nadacnipivovar.cz), 1607 dělení pozůstalosti a dohoda o společném vlastnictví (hrady.cz); po Bílé hoře majetek konfiskován, polovinu uhájila Adamova manželka Lidmila Černínová z Chudenic a 1623 ji prodala Jeníškovi; nadacnipivovar.cz: Jeníšek získal panství 1623 zčásti konfiskací, zčásti koupí"
   },
   {
    "owner": "jeniskove-z-ujezda",
@@ -193,6 +204,8 @@
  "sources": [
   "https://cs.wikipedia.org/wiki/Březnice_(zámek)",
   "https://www.zamek-breznice.cz/cs/o-zamku/historie",
-  "https://www.hrady.cz/zamek-breznice-pribram/texty?tid=1301"
+  "https://www.hrady.cz/zamek-breznice-pribram/texty?tid=1301",
+  "https://cs.wikipedia.org/wiki/Kateřina_Lokšanská_z_Lokšan",
+  "http://www.nadacnipivovar.cz/historie-pivovaru-v-breznici/"
  ]
 }
