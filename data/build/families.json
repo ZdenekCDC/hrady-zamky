@@ -15459,15 +15459,6 @@
     "how": "zalozeni",
     "from_approx": true,
     "to_approx": false
-   },
-   {
-    "place": "Q369704",
-    "from": 1487,
-    "to": 1495,
-    "person": "Jan z Janovic a Prešpurka",
-    "how": "koupe",
-    "from_approx": false,
-    "to_approx": false
    }
   ],
   "transfers": [
@@ -15526,23 +15517,9 @@
     "from": "janovici",
     "to": "z-vrchotic",
     "how": "neznamo"
-   },
-   {
-    "place": "Q369704",
-    "year": 1487,
-    "from": "valecovsti-z-valecova",
-    "to": "janovici",
-    "how": "koupe"
-   },
-   {
-    "place": "Q369704",
-    "year": 1495,
-    "from": "janovici",
-    "to": "trckove-z-lipy",
-    "how": "koupe"
    }
   ],
-  "place_count": 6,
+  "place_count": 5,
   "color_slot": null
  },
  "janovsti-z-janovic": {
@@ -16143,7 +16120,7 @@
     "place": "Q28872964",
     "from": 1553,
     "to": 1623,
-    "person": "Jiří z Kalenic, syn Adam z Kalenic, Jan Starší z Kalenic, Bavor z Kalenic",
+    "person": "Jiří z Kalenic, syn Adam z Kalenic, Jan Starší z Kalenic, Albrecht Bavor z Kalenic",
     "how": "koupe",
     "from_approx": false,
     "to_approx": false
@@ -24066,26 +24043,26 @@
    {
     "place": "Q2241772",
     "from": 1647,
-    "to": 1713,
+    "to": 1708,
     "person": "František Vilém Popel z Lobkovic, poté syn Ferdinand Vilém z Lobkovic",
     "how": "dedictvi",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q2241772",
-    "from": 1713,
+    "from": 1708,
     "to": 1722,
     "person": "Oldřich Felix Popel z Lobkovic",
     "how": "dedictvi",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false
    },
    {
     "place": "Q2241772",
     "from": 1722,
     "to": 1752,
-    "person": "Jiří Kristián Lobkovic",
+    "person": "Karel Adam z Lobkovic (zastupovaný otcem Jiřím Kristiánem Lobkovicem)",
     "how": "dedictvi",
     "from_approx": false,
     "to_approx": false
@@ -42916,20 +42893,20 @@
    {
     "place": "Q775712",
     "from": 1539,
-    "to": 1566,
+    "to": 1545,
     "person": "Petr V. z Rožmberka",
     "how": "dedictvi",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q775712",
-    "from": 1566,
+    "from": 1545,
     "to": 1592,
     "person": "Vilém z Rožmberka",
     "how": "dedictvi",
-    "from_approx": true,
-    "to_approx": true
+    "from_approx": false,
+    "to_approx": false
    },
    {
     "place": "Q775712",
@@ -53456,7 +53433,7 @@
    {
     "place": "Q369704",
     "year": 1495,
-    "from": "janovici",
+    "from": "z-janovic",
     "to": "trckove-z-lipy",
     "how": "koupe"
    },
@@ -55820,7 +55797,7 @@
     "place": "Q369704",
     "year": 1487,
     "from": "valecovsti-z-valecova",
-    "to": "janovici",
+    "to": "z-janovic",
     "how": "koupe"
    }
   ],
@@ -62722,6 +62699,15 @@
     "how": "neznamo",
     "from_approx": false,
     "to_approx": false
+   },
+   {
+    "place": "Q369704",
+    "from": 1487,
+    "to": 1495,
+    "person": "Jan z Janovic a Prešpurka",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
    }
   ],
   "transfers": [
@@ -62738,9 +62724,23 @@
     "from": "z-janovic",
     "to": "koruna",
     "how": "jine"
+   },
+   {
+    "place": "Q369704",
+    "year": 1487,
+    "from": "valecovsti-z-valecova",
+    "to": "z-janovic",
+    "how": "koupe"
+   },
+   {
+    "place": "Q369704",
+    "year": 1495,
+    "from": "z-janovic",
+    "to": "trckove-z-lipy",
+    "how": "koupe"
    }
   ],
-  "place_count": 1,
+  "place_count": 2,
   "color_slot": null
  },
  "z-javora": {

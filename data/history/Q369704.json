@@ -101,7 +101,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "vlastnictví je podle cs.wiki, oficiálního webu zámku i Historické šlechty nejasné a sporné; uváděni jsou Jiří z Dubé a Vízmburku (oficiální web: 1431? - 1450, cs.wiki: do 1441, Sedláček jej neuvádí), Mikuláš Suchan z Libáně († 1451; doložen až dodatečně k 1455, pořadí vůči Svojšovi se u zdrojů liší) a Petr Svojše ze Zahrádky (uzurpátor kolem 1450, proti němu trestná výprava); jednoznačné pořadí ani roky držby žádný zdroj neuvádí, proto zůstává jako neznámé"
+   "note": "vlastnictví je podle cs.wiki, oficiálního webu zámku i Historické šlechty nejasné a sporné; uváděni jsou Jiří z Dubé a Vízmburku (oficiální web: 1431? - 1450, cs.wiki: do 1441, Sedláček jej neuvádí), Mikuláš Suchan z Libáně († 1451; doložen až dodatečně k 1455, pořadí vůči Svojšovi se u zdrojů liší) a Petr Svojše ze Zahrádky (uzurpátor kolem 1450, proti němu trestná výprava); jednoznačné pořadí ani roky držby žádný zdroj neuvádí, proto zůstává jako neznámé; druhý zdroj (petanek.org) uvádí jen pořadí Jiří Berka z Dubé, Svojše, Suchan; Historická šlechta Svojšeho a Suchana bez roků a Suchana před Svojšem podle Sedláčka; rok 1451 (odúmrť, Ladislav Pohrobek) shodně"
   },
   {
    "owner": "koruna",
@@ -159,15 +159,15 @@
    "note": "strýc Viktorína; držel od zhruba 1481 podle dědické smlouvy, před smrtí 1488 panství prodal (cs.wiki: Jan z Janovic koupí od 1487, oficiální web: 1488)"
   },
   {
-   "owner": "janovici",
-   "owner_wiki": "Janovici",
+   "owner": "z-janovic",
+   "owner_wiki": null,
    "person": "Jan z Janovic a Prešpurka",
    "from": 1487,
    "to": 1495,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "přiřazení k rodu Janoviců je neověřené: cs.wiki ani oficiální web zámku (Jan z Janovic a Petršpurka) ani Historická šlechta (uvádí Jan z Petrovic a Petršpurka) rodovou příslušnost neuvádějí, odvozeno jen z predikátu; koupil panství od Samuela z Hrádku před rokem 1488, rok 1495 koupě Trčky (v literatuře 1493-1495)"
+   "note": "příslušnost k rodu Janoviců žádný zdroj neuvádí (cs.wiki, oficiální web zámku i petanek.org: Jan z Janovic a Petršpurka; Historická šlechta: Jan z Petrovic a Petršpurka), proto jen predikát; koupil panství od Samuela z Hrádku před rokem 1488 (oficiální web 1488-1495, cs.wiki 1487), rok koupě Trčky 1495 (v literatuře 1493-1495)"
   },
   {
    "owner": "trckove-z-lipy",
@@ -361,6 +361,8 @@
   "https://cs.wikipedia.org/wiki/Opočno_(zámek)",
   "https://www.zamek-opocno.cz/cs/o-zamku/historicke-udalosti-a-majitele",
   "https://www.historickaslechta.cz/mista/opocno-zamek/",
-  "https://cs.wikipedia.org/wiki/Opočno"
+  "https://cs.wikipedia.org/wiki/Opočno",
+  "https://petanek.org/hrady/zamek-opocno.htm",
+  "https://www.seznam-obci.cz/opocno/"
  ]
 }

@@ -3217,7 +3217,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "konfiskace",
-    "note": "'následovaly další střídačky majitelů' (3dcesko.cz); Kokořín mezitím zařazen mezi tzv. prokleté hrady, které se nesměly opravovat"
+    "note": "'následovaly další střídačky majitelů' (3dcesko.cz); Kokořín mezitím zařazen mezi tzv. prokleté hrady, které se nesměly opravovat; kultura.cz / treking.cz: konfiskované panství bylo prodáno Valdštejnům a po smrti Albrechta z Valdštejna (1634) přešlo opět do královského držení (rok prodeje zdroj neuvádí)"
    },
    {
     "owner": "bubnove-z-litic",
@@ -3272,7 +3272,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "pražský podnikatel koupil zříceninu, syn Jan ji nechal 1911-1916 novogoticky zrekonstruovat architektem Eduardem Sochorem; cs.wiki uvádí koupi 1894, oficiální web hradu 1896 (kokořínské panství včetně zříceniny)"
+    "note": "pražský podnikatel koupil zříceninu, syn Jan ji nechal 1911-1916 novogoticky zrekonstruovat architektem Eduardem Sochorem; cs.wiki uvádí koupi 1894, oficiální web hradu 1896 (kokořínské panství včetně zříceniny); rok koupě se zdroje rozcházejí: 1894 (cs.wiki, hradkokorin.eu), 1895 (Radio Prague / kastelánka), 1896 (hrad-kokorin.cz, kultura.cz)"
    },
    {
     "owner": "stat",
@@ -3283,7 +3283,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "konfiskace",
-    "note": "hrad zestátněn/zkonfiskován; roku 2001 se stal národní kulturní památkou, což ztížilo (ne však znemožnilo) pozdější restituci"
+    "note": "hrad zestátněn/zkonfiskován; roku 2001 se stal národní kulturní památkou, což ztížilo (ne však znemožnilo) pozdější restituci; hrad-kokorin.cz uvádí přechod na stát 'po roce 1950' (pozemková reforma), cs.wiki 1951"
    },
    {
     "owner": "soukromnik",
@@ -3364,7 +3364,10 @@
    "https://cs.wikipedia.org/wiki/Beřkovští_ze_Šebířova",
    "https://cs.wikipedia.org/wiki/Jan_Řitka_z_Bezdědic",
    "https://3dcesko.cz/hrad-kokorin",
-   "https://hrad-kokorin.cz/historie-hradu/"
+   "https://hrad-kokorin.cz/historie-hradu/",
+   "https://hradkokorin.eu/historie/",
+   "https://www.kultura.cz/profile/5034-hrad-kokorin",
+   "https://cesky.radio.cz/kokorin-8606966"
   ]
  },
  "Q1012713": {
@@ -44466,7 +44469,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "na zámku uváděn 1605; za účast na stavovském povstání mu bylo panství zkonfiskováno (cs.wiki rok 1623, zamekjezeri.cz císařské darování 15. 3. 1622)"
+    "note": "na zámku uváděn 1605; za účast na stavovském povstání mu bylo panství zkonfiskováno (cs.wiki rok 1623, zamekjezeri.cz císařské darování 15. 3. 1622); litvinovsko.sator.eu uvádí konfiskaci 1621"
    },
    {
     "owner": "lichtenstejnove",
@@ -44495,33 +44498,33 @@
     "owner_wiki": "Lobkovicové",
     "person": "František Vilém Popel z Lobkovic, poté syn Ferdinand Vilém z Lobkovic",
     "from": 1647,
-    "to": 1713,
+    "to": 1708,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "dedictvi",
-    "note": "Ferdinand Vilém nechal roku 1696 zámek znovu barokně vybudovat; rok 1713 odpovídá převzetí Oldřichem Felixem (rok jeho nástupu cs.wiki výslovně neuvádí)"
+    "note": "Ferdinand Vilém nechal roku 1696 zámek znovu barokně vybudovat (na Jezeří sídlil až od 1697); bez mužských potomků panství přenechal bratru Oldřichu Felixovi, který se podle litvinovsko.sator.eu ujal dědictví roku 1708 (cs.wiki rok nástupu neuvádí)"
    },
    {
     "owner": "lobkovicove",
     "owner_wiki": "Lobkovicové",
     "person": "Oldřich Felix Popel z Lobkovic",
-    "from": 1713,
+    "from": 1708,
     "to": 1722,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "25. září 1713 zámek opět vyhořel a byl znovu barokně obnoven; bezdětný, zřídil svěřenství, po jeho smrti 1722 jej získal Jiří Kristián Lobkovic (zamekjezeri.cz uvádí jako dědice Karla Adama)"
+    "note": "od 1708 (litvinovsko.sator.eu); 25. září 1713 zámek opět vyhořel a byl znovu barokně obnoven; bezdětný, tragicky zemřel 1722, závěť z 4. 9. 1722 převedla panství na Karla Adama (zastupoval ho otec Jiří Kristián); cs.wiki uvádí jako dědice Jiřího Kristiána"
    },
    {
     "owner": "lobkovicove",
     "owner_wiki": "Lobkovicové",
-    "person": "Jiří Kristián Lobkovic",
+    "person": "Karel Adam z Lobkovic (zastupovaný otcem Jiřím Kristiánem Lobkovicem)",
     "from": 1722,
     "to": 1752,
     "from_approx": false,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "zakladatel mělnické větve, využíval Jezeří jako lovecký zámek; 1752 je prodal Ferdinandu Filipovi z Lobkovic"
+    "note": "zakladatel mělnické větve Jiří Kristián využíval Jezeří jako lovecký zámek; zamek-jezeri.cz: dědicem podle závěti 1722 Karel Adam, který 1752 formálně prodal Jezeří Ferdinandu Filipovi Josefovi z Lobkowicz na Roudnici (roudnicko-bílinská linie)"
    },
    {
     "owner": "lobkovicove",
@@ -44637,7 +44640,9 @@
    "https://cs.wikipedia.org/wiki/Jezeří_(zámek)",
    "https://www.zamek-jezeri.cz/cs/o-zamku/historie",
    "https://zamekjezeri.cz/historie/",
-   "https://www.i60.cz/clanek/detail/34767/pozvanka-do-naseho-kraje-jezeri-zamek-na-rozhrani-dvou-svetu"
+   "https://www.i60.cz/clanek/detail/34767/pozvanka-do-naseho-kraje-jezeri-zamek-na-rozhrani-dvou-svetu",
+   "http://litvinovsko.sator.eu/kategorie/zanikle-obce/jezeri/historie-zamku-jezeri",
+   "https://www.mistopisy.cz/pruvodce/body-zajmu/545/zamek-jezeri/"
   ]
  },
  "Q2241795": {
@@ -46681,7 +46686,7 @@
     "from_approx": true,
     "to_approx": true,
     "how": "dedictvi",
-    "note": "Hronův syn; roky držby zdroje neuvádějí"
+    "note": "Hronův syn; roky držby zdroje (NPÚ seznam majitelů) neuvádějí"
    },
    {
     "owner": "pani-z-nachoda",
@@ -46758,7 +46763,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "neznamo",
-    "note": "zemřel před 1407; příslušnost k jedné z větví pánů z Dubé zdroje neuvádějí"
+    "note": "NPÚ seznam majitelů: Beneš Silný z Dubé (1391-1392); zemřel před 1407; příslušnost k větvi pánů z Dubé zdroje neuvádějí"
    },
    {
     "owner": "z-janovic",
@@ -46769,7 +46774,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "neznamo",
-    "note": "zemřel bez dědiců, zboží padlo jako odúmrť na korunu; zda patří k rozrodu Janoviců, zdroje neuvádějí (cs.wiki Janovici ho nezmiňuje)"
+    "note": "NPÚ: Jetřich z Janovic (1392-1412), zemřel bez dědiců, zboží padlo jako odúmrť na Korunu; zdroje ho nepřiřazují k rodu Janoviců (cs.wiki Janovici ho nezmiňuje)"
    },
    {
     "owner": "koruna",
@@ -47033,7 +47038,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "slabomyslný bratr, poručníkem Albrecht z Valdštejna, který 1623 panství prodal Trčkům (podle NPÚ byl majetek 1621-1623 zkonfiskován a prodala jej královská komora; rozpor ve zdrojích)"
+    "note": "slabomyslný bratr, poručníkem Albrecht z Valdštejna, který 1623 panství prodal Trčkům (podle NPÚ byl majetek 1621-1623 zkonfiskován a prodala jej královská komora; rozpor ve zdrojích); NPÚ (majitele-zamku): panství konfiskováno 1621-1623 a královská komora je prodala Trčkům po vyřešení nároků Albrechta z Valdštejna"
    },
    {
     "owner": "trckove-z-lipy",
@@ -47301,7 +47306,7 @@
   ],
   "sources": [
    "https://cs.wikipedia.org/wiki/Náchod_(zámek)",
-   "http://www.zamek-nachod.cz/cs/o-zamku/majitele-zamku (NPÚ, Posloupnost držitelů)",
+   "https://www.zamek-nachod.cz/cs/o-zamku/majitele-zamku (NPÚ, Majitelé Náchoda)",
    "https://www.zamek-nachod.cz/cs/o-zamku/historie (NPÚ)",
    "https://cs.wikipedia.org/wiki/Náchodské_panství",
    "https://cs.wikipedia.org/wiki/Janovici"
@@ -51095,13 +51100,13 @@
    {
     "owner": "kalenicove-z-kalenic",
     "owner_wiki": "Kalenicové z Kalenic",
-    "person": "Jiří z Kalenic, syn Adam z Kalenic, Jan Starší z Kalenic, Bavor z Kalenic",
+    "person": "Jiří z Kalenic, syn Adam z Kalenic, Jan Starší z Kalenic, Albrecht Bavor z Kalenic",
     "from": 1553,
     "to": 1623,
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "1560 Adam z Kalenic prodal hrad Janu Staršímu z Kalenic; v druhé pol. 16. stol. renesanční přestavba hradu na zámek; 1561 Zruč povýšena na městečko; 1623 panství zkonfiskováno za účast na stavovském povstání (cs.wiki uvádí Bavora z Kalenic, hrady.cz a cs.wiki o městě Albrechta z Kalenic)"
+    "note": "1560 Adam z Kalenic prodal hrad Janu Staršímu z Kalenic; v druhé pol. 16. stol. renesanční přestavba hradu na zámek; 1561 Zruč povýšena na městečko; 1623 panství zkonfiskováno za účast na stavovském povstání Albrechtu Bavorovi z Kalenic (kalenice.cz a kontribuční rejstříky čáslavského kraje podle T. V. Bílka: Albrecht Bavor z Kalenic na Zruči; cs.wiki o zámku uvádí Bavora, o městě Albrechta - jde o jednu osobu); kalenice.cz: 1553 koupil Jiří z Kalenic od Jana Černčického z Kácova"
    },
    {
     "owner": "perglarove-z-perglasu",
@@ -51382,7 +51387,9 @@
    "https://www.mesto-zruc.cz/mesto/historie-mesta/",
    "https://www.zamek-zruc.cz/o-zamku",
    "https://www.hrady.cz/zamek-zruc-nad-sazavou/texty?pos=1000&tid=9033 (komerční web hrady.cz, nižší spolehlivost)",
-   "https://denikzruc.cz/historie/ (regionální deník, nižší spolehlivost)"
+   "https://denikzruc.cz/historie/ (regionální deník, nižší spolehlivost)",
+   "https://www.kalenice.cz/historie5.php",
+   "https://exa.ai/library/publication/x194tk99l3h (M. Boukalová, Nižší šlechta v Čáslavském kraji, podle Bílka)"
   ]
  },
  "Q28913094": {
@@ -61948,7 +61955,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "neznamo",
-    "note": "vlastnictví je podle cs.wiki, oficiálního webu zámku i Historické šlechty nejasné a sporné; uváděni jsou Jiří z Dubé a Vízmburku (oficiální web: 1431? - 1450, cs.wiki: do 1441, Sedláček jej neuvádí), Mikuláš Suchan z Libáně († 1451; doložen až dodatečně k 1455, pořadí vůči Svojšovi se u zdrojů liší) a Petr Svojše ze Zahrádky (uzurpátor kolem 1450, proti němu trestná výprava); jednoznačné pořadí ani roky držby žádný zdroj neuvádí, proto zůstává jako neznámé"
+    "note": "vlastnictví je podle cs.wiki, oficiálního webu zámku i Historické šlechty nejasné a sporné; uváděni jsou Jiří z Dubé a Vízmburku (oficiální web: 1431? - 1450, cs.wiki: do 1441, Sedláček jej neuvádí), Mikuláš Suchan z Libáně († 1451; doložen až dodatečně k 1455, pořadí vůči Svojšovi se u zdrojů liší) a Petr Svojše ze Zahrádky (uzurpátor kolem 1450, proti němu trestná výprava); jednoznačné pořadí ani roky držby žádný zdroj neuvádí, proto zůstává jako neznámé; druhý zdroj (petanek.org) uvádí jen pořadí Jiří Berka z Dubé, Svojše, Suchan; Historická šlechta Svojšeho a Suchana bez roků a Suchana před Svojšem podle Sedláčka; rok 1451 (odúmrť, Ladislav Pohrobek) shodně"
    },
    {
     "owner": "koruna",
@@ -62006,15 +62013,15 @@
     "note": "strýc Viktorína; držel od zhruba 1481 podle dědické smlouvy, před smrtí 1488 panství prodal (cs.wiki: Jan z Janovic koupí od 1487, oficiální web: 1488)"
    },
    {
-    "owner": "janovici",
-    "owner_wiki": "Janovici",
+    "owner": "z-janovic",
+    "owner_wiki": null,
     "person": "Jan z Janovic a Prešpurka",
     "from": 1487,
     "to": 1495,
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "přiřazení k rodu Janoviců je neověřené: cs.wiki ani oficiální web zámku (Jan z Janovic a Petršpurka) ani Historická šlechta (uvádí Jan z Petrovic a Petršpurka) rodovou příslušnost neuvádějí, odvozeno jen z predikátu; koupil panství od Samuela z Hrádku před rokem 1488, rok 1495 koupě Trčky (v literatuře 1493-1495)"
+    "note": "příslušnost k rodu Janoviců žádný zdroj neuvádí (cs.wiki, oficiální web zámku i petanek.org: Jan z Janovic a Petršpurka; Historická šlechta: Jan z Petrovic a Petršpurka), proto jen predikát; koupil panství od Samuela z Hrádku před rokem 1488 (oficiální web 1488-1495, cs.wiki 1487), rok koupě Trčky 1495 (v literatuře 1493-1495)"
    },
    {
     "owner": "trckove-z-lipy",
@@ -62208,7 +62215,9 @@
    "https://cs.wikipedia.org/wiki/Opočno_(zámek)",
    "https://www.zamek-opocno.cz/cs/o-zamku/historicke-udalosti-a-majitele",
    "https://www.historickaslechta.cz/mista/opocno-zamek/",
-   "https://cs.wikipedia.org/wiki/Opočno"
+   "https://cs.wikipedia.org/wiki/Opočno",
+   "https://petanek.org/hrady/zamek-opocno.htm",
+   "https://www.seznam-obci.cz/opocno/"
   ]
  },
  "Q369715": {
@@ -69252,22 +69261,22 @@
     "owner_wiki": "Rožmberkové",
     "person": "Petr V. z Rožmberka",
     "from": 1539,
-    "to": 1566,
+    "to": 1545,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "dedictvi",
-    "note": "nechal zapsat příslušenství hradu do obnovených desk zemských; zemřel bezdětný, rok konce cs.wiki neuvádí"
+    "note": "nechal zapsat příslušenství hradu do obnovených desk zemských; zemřel bezdětný 2./6. listopadu 1545 (cs.wiki Petr V. z Rožmberka, hrady.cz: 1545)"
    },
    {
     "owner": "rozmberkove",
     "owner_wiki": "Rožmberkové",
     "person": "Vilém z Rožmberka",
-    "from": 1566,
+    "from": 1545,
     "to": 1592,
-    "from_approx": true,
-    "to_approx": true,
+    "from_approx": false,
+    "to_approx": false,
     "how": "dedictvi",
-    "note": "synovec Petra V.; 1556 zahájena přestavba zchátralého Dolního hradu na renesanční zámek; rok konce odvozen z nástupu Petra Voka 1592 (hrady.cz uvádí Vilémovo úmrtí 1591)"
+    "note": "synovec Petra V.; po smrti Petra V. 1545 pod poručnictvím, oficiálním rožmberským vladařem od 12. 5. 1551 (cs.wiki Vilém z Rožmberka); 1556 zahájena přestavba zchátralého Dolního hradu na renesanční zámek; zemřel 31. 8. 1592 (cs.wiki, ckrumlov.cz), hrady.cz uvádí 1591"
    },
    {
     "owner": "rozmberkove",
@@ -69278,7 +69287,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "poslední z rodu; 1597 daroval Rožmberk synovci Janu Zrinskému s výminkou návratu při jeho dřívější smrti (encyklopedie ckrumlov.cz uvádí 1600); 1610 dohoda se Švamberky; rod vymřel jeho smrtí 1611"
+    "note": "poslední z rodu; 1597 daroval Rožmberk synovci Janu Zrinskému s výminkou návratu při jeho dřívější smrti (hrady.cz a ckrumlov.cz /mesto_histor_porpvr/ 1597; ckrumlov.cz /region_histor_hraroz/ 1600); 1610 dohoda se Švamberky; rod vymřel jeho smrtí 1611"
    },
    {
     "owner": "zrinsti",
@@ -69333,7 +69342,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "vdova Marie Magdalena z Biglia byla poručnicí syna"
+    "note": "vdova Marie Magdalena z Biglia byla poručnicí syna; roky 1621-1663 podle cs.wiki (hrady.cz uvádí jen 'Buquoyové do 1945')"
    },
    {
     "owner": "buquoyove",
@@ -69344,7 +69353,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "roky podle výčtu majitelů v cs.wiki; překrývá se s předchozím záznamem (spoluvlastnictví nebo chyba zdroje)"
+    "note": "roky podle výčtu majitelů v cs.wiki (označeno 'chybí zdroj'); překrývá se s Karlem Albertem (1621-1663) a Ferdinandem Karlem (1663-1685), hrady.cz ani ckrumlov.cz roky neuvádějí, rozpor zůstává neověřen"
    },
    {
     "owner": "buquoyove",
@@ -69522,7 +69531,10 @@
    "https://cs.wikipedia.org/wiki/Rožmberk_(hrad)",
    "https://www.hrady.cz/hrad-rozmberk-rozmberk-nad-vltavou/texty?pos=1000&tid=1708 (komerční web)",
    "https://encyklopedie.ckrumlov.cz/en/region_histor_hraroz/ (Město Český Krumlov)",
-   "https://medievalheritage.eu/pl/strona-glowna/zabytki/czechy/rozmberk-nad-vltavou-zamek/"
+   "https://medievalheritage.eu/pl/strona-glowna/zabytki/czechy/rozmberk-nad-vltavou-zamek/",
+   "https://encyklopedie.ckrumlov.cz/cz/mesto_histor_porpvr/",
+   "https://cs.wikipedia.org/wiki/Petr_V._z_Rožmberka",
+   "https://cs.wikipedia.org/wiki/Vilém_z_Rožmberka"
   ]
  },
  "Q8073144": {
