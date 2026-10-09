@@ -56802,6 +56802,41 @@
   "place_count": 29,
   "color_slot": 6
  },
+ "vasovci": {
+  "id": "vasovci",
+  "type": "rod",
+  "name": "vasovci",
+  "related": [],
+  "places": [
+   {
+    "place": "Q1749860",
+    "from": 1637,
+    "to": 1645,
+    "person": "Cecilie Renata Habsburská a její manžel polský král Vladislav IV. Vasa",
+    "how": "lenni",
+    "from_approx": false,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q1749860",
+    "year": 1637,
+    "from": "koruna",
+    "to": "vasovci",
+    "how": "lenni"
+   },
+   {
+    "place": "Q1749860",
+    "year": 1645,
+    "from": "vasovci",
+    "to": "koruna",
+    "how": "jine"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
  "verdemonove": {
   "id": "verdemonove",
   "type": "rod",
@@ -58088,7 +58123,7 @@
    {
     "place": "Q1014368",
     "from": 1938,
-    "to": 1946,
+    "to": 1945,
     "person": "dědicové Anny Hennové (obýval JUDr. Josef Windischgrätz)",
     "how": "dedictvi",
     "from_approx": false,
@@ -58200,7 +58235,7 @@
    },
    {
     "place": "Q1014368",
-    "year": 1946,
+    "year": 1945,
     "from": "windischgratzove",
     "to": "stat",
     "how": "konfiskace"
@@ -71537,7 +71572,7 @@
     "person": "Hanuš Volfart Štrejn ze Švarcenavy",
     "how": "koupe",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q1440293",
@@ -80478,7 +80513,7 @@
    },
    {
     "place": "Q1014368",
-    "from": 1946,
+    "from": 1945,
     "to": null,
     "person": null,
     "how": "konfiskace",
@@ -83671,7 +83706,7 @@
    },
    {
     "place": "Q1014368",
-    "year": 1946,
+    "year": 1945,
     "from": "windischgratzove",
     "to": "stat",
     "how": "konfiskace"
@@ -88177,7 +88212,7 @@
    {
     "place": "Q1416944",
     "from": 1560,
-    "to": 1856,
+    "to": 1855,
     "person": "Maxmilián II. Habsburský",
     "how": "koupe",
     "from_approx": false,
@@ -88366,9 +88401,18 @@
    {
     "place": "Q1749860",
     "from": 1621,
-    "to": 1660,
-    "person": "Ferdinand II.",
+    "to": 1637,
+    "person": "Ferdinand II., od 1625 jeho syn Ferdinand (III.)",
     "how": "konfiskace",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q1749860",
+    "from": 1645,
+    "to": 1660,
+    "person": "Ferdinand III.",
+    "how": "jine",
     "from_approx": false,
     "to_approx": false
    },
@@ -90861,7 +90905,7 @@
    },
    {
     "place": "Q1416944",
-    "year": 1856,
+    "year": 1855,
     "from": "koruna",
     "to": "soukromnik",
     "how": "neznamo"
@@ -91124,6 +91168,20 @@
     "from": "pani-ze-svamberka",
     "to": "koruna",
     "how": "konfiskace"
+   },
+   {
+    "place": "Q1749860",
+    "year": 1637,
+    "from": "koruna",
+    "to": "vasovci",
+    "how": "lenni"
+   },
+   {
+    "place": "Q1749860",
+    "year": 1645,
+    "from": "vasovci",
+    "to": "koruna",
+    "how": "jine"
    },
    {
     "place": "Q1749860",
@@ -97449,7 +97507,7 @@
    },
    {
     "place": "Q1416944",
-    "from": 1856,
+    "from": 1855,
     "to": 1863,
     "person": "Rakouská národní banka",
     "how": "neznamo",
@@ -101076,7 +101134,7 @@
    },
    {
     "place": "Q1416944",
-    "year": 1856,
+    "year": 1855,
     "from": "koruna",
     "to": "soukromnik",
     "how": "neznamo"

@@ -44,13 +44,35 @@
   {
    "owner": "koruna",
    "owner_wiki": null,
-   "person": "Ferdinand II.",
+   "person": "Ferdinand II., od 1625 jeho syn Ferdinand (III.)",
    "from": 1621,
-   "to": 1660,
+   "to": 1637,
    "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "třeboňské panství zkonfiskováno císařem po Bílé hoře (město se vzdalo v únoru 1622); podle zámku Třeboň a diplomové práce ZČU zůstalo v majetku panovníka do 1660. Zdroje se liší: cs.wiki (Dějiny Třeboně, Eggenbergové, Rožmberská a schwarzenberská hrobka) uvádí, že Třeboň velmi krátce držel rod Eggenbergů a Schwarzenbergové ji roku 1660 získali od nich; roky držby Eggenbergů žádný zdroj neuvádí, proto nejsou zaneseny zvlášť"
+   "note": "třeboňské panství zkonfiskováno císařem Ferdinandem II. po Bílé hoře (město se vzdalo v únoru 1622); 1625 je císař daroval synovi Ferdinandovi (hrady.cz, Hrady, zámky a tvrze v Čechách - Jižní Čechy)"
+  },
+  {
+   "owner": "vasovci",
+   "owner_wiki": null,
+   "person": "Cecilie Renata Habsburská a její manžel polský král Vladislav IV. Vasa",
+   "from": 1637,
+   "to": 1645,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "lenni",
+   "note": "Ferdinand zastavil 1637 třeboňské panství sestře Cecilii Renatě (místo nevyplaceného věna) a jejímu manželovi polskému králi Vladislavovi jako záruku dluhu; zástava trvala do 1645, kdy Ferdinand III. zastavil polskému králi slezská knížectví opolské a ratibořské (hrady.cz)"
+  },
+  {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "Ferdinand III.",
+   "from": 1645,
+   "to": 1660,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "po zrušení zástavy zpět v držení panovníka do 1660 (hrady.cz); cs.wiki (Dějiny Třeboně, Eggenbergové, Rožmberská a schwarzenberská hrobka) uvádí, že Třeboň v době před 1660 velmi krátce držel rod Eggenbergů a Schwarzenbergové ji roku 1660 získali od nich ('dosud eggenberské panství'); roky držby Eggenbergů žádný zdroj neuvádí, proto nejsou zaneseny zvlášť; web zámku a NPÚ uvádějí jen 1621 konfiskaci a 1660 nové majitele Schwarzenbergy"
   },
   {
    "owner": "schwarzenbergove",
@@ -105,6 +127,10 @@
    "text": "třeboňské panství zkonfiskováno Švamberkům po Bílé hoře"
   },
   {
+   "year": 1637,
+   "text": "třeboňské panství zastaveno polskému králi Vladislavu IV. a jeho manželce Cecilii Renatě (zástava do 1645)"
+  },
+  {
    "year": 1660,
    "text": "Schwarzenbergové (Jan Adolf I.) získávají třeboňské panství"
   },
@@ -118,6 +144,7 @@
   "https://cs.wikipedia.org/wiki/Jan_Adolf_I._ze_Schwarzenbergu",
   "https://cs.wikipedia.org/wiki/Dějiny_Třeboně",
   "https://www.zamek-trebon.cz/cs/o-zamku/historie-zamku",
-  "https://www.npu.cz/cs/hrady-a-zamky/tipy-na-vylet/49340-trebonsky-zamek-v-krajine-dvojiho-nebe"
+  "https://www.npu.cz/cs/hrady-a-zamky/tipy-na-vylet/49340-trebonsky-zamek-v-krajine-dvojiho-nebe",
+  "https://www.hrady.cz/zamek-trebon-jindrichuv-hradec/texty?pos=2000&tid=1311"
  ]
 }
