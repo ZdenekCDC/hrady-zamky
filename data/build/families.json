@@ -11624,7 +11624,7 @@
     "from": 1544,
     "to": 1588,
     "person": "Florián Gryspek z Gryspachu",
-    "how": "neznamo",
+    "how": "koupe",
     "from_approx": false,
     "to_approx": false
    },
@@ -36332,25 +36332,25 @@
    },
    {
     "place": "Q1632404",
-    "from": 1565,
+    "from": 1603,
     "to": 1609,
     "person": "Jan Postiborský z Vrtby",
     "how": "neznamo",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": true
    },
    {
     "place": "Q1632404",
     "from": 1609,
-    "to": 1708,
+    "to": 1648,
     "person": "Sezima z Vrtby",
     "how": "koupe",
     "from_approx": true,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q1632404",
-    "from": 1708,
+    "from": 1648,
     "to": 1807,
     "person": "Ferdinand František Leopold, František Arnošt starší, František Arnošt mladší, naposledy Adam František z Vrtby",
     "how": "dedictvi",
@@ -36428,8 +36428,8 @@
    },
    {
     "place": "Q1632404",
-    "year": 1565,
-    "from": "z-radesina",
+    "year": 1603,
+    "from": "z-rican",
     "to": "pani-z-vrtby",
     "how": "neznamo"
    },
@@ -67983,12 +67983,12 @@
    },
    {
     "place": "Q1632404",
-    "from": 1477,
-    "to": 1521,
+    "from": 1532,
+    "to": 1533,
     "person": "Vilém Osečanský z Osečan",
     "how": "neznamo",
-    "from_approx": true,
-    "to_approx": true
+    "from_approx": false,
+    "to_approx": false
    },
    {
     "place": "Q31431783",
@@ -68026,14 +68026,14 @@
    },
    {
     "place": "Q1632404",
-    "year": 1477,
+    "year": 1532,
     "from": "z-vrchotic",
     "to": "z-osecan",
     "how": "neznamo"
    },
    {
     "place": "Q1632404",
-    "year": 1521,
+    "year": 1533,
     "from": "z-osecan",
     "to": "z-radesina",
     "how": "neznamo"
@@ -69578,28 +69578,28 @@
   "places": [
    {
     "place": "Q1632404",
-    "from": 1521,
-    "to": 1565,
+    "from": 1533,
+    "to": 1540,
     "person": "Předbor z Radešína",
     "how": "neznamo",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": true
    }
   ],
   "transfers": [
    {
     "place": "Q1632404",
-    "year": 1521,
+    "year": 1533,
     "from": "z-osecan",
     "to": "z-radesina",
     "how": "neznamo"
    },
    {
     "place": "Q1632404",
-    "year": 1565,
+    "year": 1540,
     "from": "z-radesina",
-    "to": "pani-z-vrtby",
-    "how": "neznamo"
+    "to": "z-rican",
+    "how": "koupe"
    }
   ],
   "place_count": 1,
@@ -69810,6 +69810,15 @@
     "how": "neznamo",
     "from_approx": false,
     "to_approx": true
+   },
+   {
+    "place": "Q1632404",
+    "from": 1540,
+    "to": 1589,
+    "person": "Jan starší z Říčan, poté syn Vlachyně",
+    "how": "koupe",
+    "from_approx": true,
+    "to_approx": true
    }
   ],
   "transfers": [
@@ -69826,9 +69835,23 @@
     "from": "z-rican",
     "to": "z-podoli",
     "how": "neznamo"
+   },
+   {
+    "place": "Q1632404",
+    "year": 1540,
+    "from": "z-radesina",
+    "to": "z-rican",
+    "how": "koupe"
+   },
+   {
+    "place": "Q1632404",
+    "year": 1603,
+    "from": "z-rican",
+    "to": "pani-z-vrtby",
+    "how": "neznamo"
    }
   ],
-  "place_count": 1,
+  "place_count": 2,
   "color_slot": null
  },
  "z-rimek": {
@@ -73503,8 +73526,8 @@
    {
     "place": "Q1632404",
     "from": 1433,
-    "to": 1477,
-    "person": "Bohuněk Vrchota z Vrchotic",
+    "to": 1532,
+    "person": "Bohuněk Vrchota z Vrchotic, další Vrchotové (naposledy Jan Vrchota)",
     "how": "neznamo",
     "from_approx": false,
     "to_approx": true
@@ -73520,7 +73543,7 @@
    },
    {
     "place": "Q1632404",
-    "year": 1477,
+    "year": 1532,
     "from": "z-vrchotic",
     "to": "z-osecan",
     "how": "neznamo"
