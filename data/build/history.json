@@ -45981,7 +45981,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "lenni",
-    "note": "knížectví mu císař převedl 15. března 1623 (de.wiki; cs.wiki Krnov (zámek) uvádí odkoupení spolu s knížectvím, rok 1622); Lichtenštejnové zámek vlastnili do konce 2. světové války; po požáru 1779 přestavba podle Jana Kryštofa Fabicha"
+    "note": "knížectví mu císař převedl 15. března 1623 (de.wiki; cs.wiki Krnov (zámek) uvádí odkoupení spolu s knížectvím, rok 1622; hrady.cz také 1622, Jan Jiří uprchl 1622 a knížectví koupil Karel z Lichtenštejna hned 1622); Lichtenštejnové zámek vlastnili do konce 2. světové války; po požáru 1779 přestavba podle Jana Kryštofa Fabicha"
    },
    {
     "owner": "stat",
@@ -45992,7 +45992,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "konfiskace",
-    "note": "zabaven rodu Lichtenštejnů 1945; sloužil správě Lesního závodu Krnov (později Lesy ČR podle hrady-zriceniny.cz); rok prodeje dnešnímu vlastníkovi zdroje neuvádějí"
+    "note": "zabaven rodu Lichtenštejnů 1945; sloužil správě Lesního závodu Krnov (později Lesy ČR podle hrady-zriceniny.cz); rok prodeje dnešnímu vlastníkovi zdroje neuvádějí; turistik.cz uvádí jako uživatele Lesy ČR"
    },
    {
     "owner": "soukromnik",
@@ -46003,7 +46003,7 @@
     "from_approx": true,
     "to_approx": false,
     "how": "koupe",
-    "note": "dnešní vlastník podle cs.wiki (infobox) a webu zámku (zamekkrnov.cz, komerční zdroj: zámek je sídlem společnosti ZLT a.s.); rok a způsob nabytí neuvedeny"
+    "note": "dnešní vlastník podle cs.wiki (infobox) a webu zámku (zamekkrnov.cz, komerční zdroj: zámek je sídlem společnosti ZLT a.s.); rok a způsob nabytí neuvedeny (zamekkrnov.cz: společnost ZLT a.s. založena 1992, což není doklad nabytí zámku)"
    }
   ],
   "events": [
@@ -46045,7 +46045,9 @@
    "https://cs.wikipedia.org/wiki/Krnovské_knížectví",
    "https://de.wikipedia.org/wiki/Herzogtum_Jägerndorf",
    "https://www.zamekkrnov.cz/historie/",
-   "https://hrady-zriceniny.cz/hrad_krnov.htm"
+   "https://hrady-zriceniny.cz/hrad_krnov.htm",
+   "https://www.hrady.cz/zamek-krnov-bruntal",
+   "https://www.zamekkrnov.cz/o-spolecnosti/"
   ]
  },
  "Q2242143": {
@@ -46133,7 +46135,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "koupe",
-    "note": "koupili léno od Václava Bítovského; další vlastník je doložen až 1618"
+    "note": "koupili léno od Václava Bítovského; další vlastník je doložen až 1618; krasnecesko.cz: po 1614 se držitelé rychle střídali"
    },
    {
     "owner": "z-petrovic",
@@ -46166,7 +46168,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "lenni",
-    "note": "léno udělil biskup sirotkům Görtzům z Steina (de.wiki: Görz von Astein); 1704 bylo panství vydraženo; v letech 1704-1714 zdroje majitele neuvádějí"
+    "note": "léno udělil biskup sirotkům Görtzům z Steina (de.wiki: Görz von Astein); 1704 bylo panství vydraženo; v letech 1704-1714 zdroje majitele neuvádějí (krasnecesko.cz: po 1694 rychlá výměna majitelů)"
    },
    {
     "owner": "tetzlernove",
@@ -46259,7 +46261,9 @@
    "https://cs.wikipedia.org/wiki/Litultovice_(zámek)",
    "https://www.litultovice.cz/mestys/historie/",
    "https://www.litultovice.cz/mestys/pametihodnosti/zamek/",
-   "https://de.wikipedia.org/wiki/Schloss_Leitersdorf"
+   "https://de.wikipedia.org/wiki/Schloss_Leitersdorf",
+   "http://www.krasnecesko.cz/lokality/29749-litultovice-zamek.html",
+   "https://www.pamatky.cz/pamatky/litultovice"
   ]
  },
  "Q2242167": {
@@ -46862,7 +46866,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "lenni",
-    "note": "hrad mu 1542 zastavil Ferdinand I.; přestavěl jej na renesanční sídlo, vzniklo severní křídlo s věží; konec držby 1646 odvozen z zástavy Černínům (cs.wiki Berky v dalších letech nezmiňuje; web zámku uvádí, že Jiří Popel z Lobkovic držel Mělník jako léno Rudolfa II., roky neuvedeny)"
+    "note": "hrad mu 1542 zastavil Ferdinand I.; přestavěl jej na renesanční sídlo, vzniklo severní křídlo s věží; konec držby 1646 odvozen z zástavy Černínům (cs.wiki Berky v dalších letech nezmiňuje; web zámku a historickaslechta.cz uvádějí, že Jiří starší Popel z Lobkovic držel Mělník po roce 1579 jako léno Rudolfa II., hrady.cz jej označuje za zástavního držitele k 1579; konec jeho držby neuveden (1594 ztráta majetku podle cs.wiki o Popelovi je jen obecná), vztah k zástavě Berků zdroje nevysvětlují; roky Berků proto ponechány)"
    },
    {
     "owner": "cerninove-z-chudenic",
@@ -46960,7 +46964,10 @@
   ],
   "sources": [
    "https://cs.wikipedia.org/wiki/Mělník_(zámek)",
-   "https://www.lobkowicz-melnik.cz/en/history"
+   "https://www.lobkowicz-melnik.cz/en/history",
+   "https://lobkowicz-melnik.cz/historie-zamku-melnik/",
+   "https://www.hrady.cz/zamek-melnik-melnik/texty?pos=1000&tid=38879",
+   "https://ticmelnik.cz/pamatky-a-zajimavosti/historie/strucna-historie-melnika/"
   ]
  },
  "Q2242723": {
@@ -52999,7 +53006,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "zdědil po Amálii Junckerové-Bigattové 1935 a vlastnil jej do roku 1945 (zámek, hrady.cz i web zámku); způsob ztráty zdroje neupřesňují"
+    "note": "zdědil po Amálii Junckerové-Bigattové 1935 a vlastnil jej do roku 1945 (zámek, hrady.cz i web zámku); způsob ztráty zdroje neupřesňují (cs.wiki: 'na konci druhé světové války o zámek přišel'; web zámku: 'po roce 1945 převzal stát')"
    },
    {
     "owner": "stat",
@@ -53020,8 +53027,8 @@
     "to": null,
     "from_approx": false,
     "to_approx": false,
-    "how": "jine",
-    "note": "obec zámek získala roku 1990 (způsob nabytí zdroj neuvádí); 2003-2015 rekonstrukce, dnes přístupný veřejnosti (kavárna, výstavní sál, ubytovna)"
+    "how": "dar",
+    "note": "obec zámek získala roku 1990 od státu bezúplatným převodem (krasnecesko.cz); 2003-2015 rekonstrukce, dnes přístupný veřejnosti (kavárna, výstavní sál, ubytovna)"
    }
   ],
   "events": [
@@ -53066,7 +53073,8 @@
    "https://cs.wikipedia.org/wiki/Svojšín_(zámek)",
    "https://www.zameksvojsin.cz/o-nas/historie/",
    "https://www.svojsin.cz/nase-obec/historie/",
-   "https://www.hrady.cz/zamek-svojsin-tachov"
+   "https://www.hrady.cz/zamek-svojsin-tachov",
+   "https://www.krasnecesko.cz/lokalita_detail.php?id=39623-zamek-svojsin-zamek&strana="
   ]
  },
  "Q30897455": {
@@ -53237,7 +53245,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "neznamo",
-    "note": "další vlastník mezi 1376 a smrtí Kryštofa z Věžek v 50. letech 15. století není v článku uveden"
+    "note": "obec Kovanice: 1376 statek Elišce z Lichtenburka, vdově po Bočkovi z Kunštátu a z Poděbrad; další vlastník mezi 1376 a smrtí Kryštofa z Věžek v 50. letech 15. století není v článku uveden"
    },
    {
     "owner": "z-vezek",
@@ -53390,7 +53398,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "souběžně s Ludvíkem z Colloredo-Waldsee v roce 1668; hned následujícího roku zámek koupil Jan Petr Hubryk z Hernštorfu"
+    "note": "souběžně s Ludvíkem z Colloredo-Waldsee v roce 1668; hned následujícího roku zámek koupil Jan Petr Hubryk z Hernštorfu; pořadí a konkrétní rok žádný druhý zdroj nepotvrzuje (německá wiki zmiňuje jen Colloredy kolem 1660 u usazení Židů)"
    },
    {
     "owner": "z-hernstorfu",
@@ -53400,7 +53408,8 @@
     "to": 1676,
     "from_approx": false,
     "to_approx": false,
-    "how": "koupe"
+    "how": "koupe",
+    "note": "obec Kovanice potvrzuje, že statek 1669 vlastnili Hubrykové (dostavba nového pivovaru)"
    },
    {
     "owner": "z-olivove-hory",
@@ -53432,7 +53441,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "koupe",
-    "note": "hrabě Pavel Tomáš z Morzinu zemřel 1697; Kovanice patřily jeho potomkům 'do začátku 18. století', rok prodeje zdroj neuvádí"
+    "note": "hrabě Pavel Tomáš z Morzinu zemřel 1697; Kovanice patřily jeho potomkům 'do začátku 18. století', rok prodeje zdroj neuvádí (obec Kovanice ani hrady.cz Morziny a Bubny nezmiňují)"
    },
    {
     "owner": "bubnove-z-litic",
@@ -54264,7 +54273,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "koupe",
-    "note": "1927 nechal zámek upravit, při úpravě zničena řada architektonických prvků včetně nástěnných maleb; rok konce jeho držby zdroje neuvádějí, po roce 1945 zámek připadl MNV"
+    "note": "1927 nechal zámek upravit, při úpravě zničena řada architektonických prvků včetně nástěnných maleb; rok konce jeho držby zdroje neuvádějí (1945 je jen odhad), po roce 1945 zámek připadl MNV"
    },
    {
     "owner": "mesto",
@@ -54275,7 +54284,7 @@
     "from_approx": true,
     "to_approx": false,
     "how": "neznamo",
-    "note": "po roce 1945 se zámek stal majetkem místního národního výboru a byl opraven, dnes po celkové rekonstrukci sídlo obecního úřadu; způsob přechodu zdroje neuvádějí (konfiskace je odhad podle kontextu)"
+    "note": "po roce 1945 se zámek stal majetkem místního národního výboru a byl opraven, dnes po celkové rekonstrukci sídlo obecního úřadu; cs.wiki, hrady.cz a obec: majetkem MNV; Opavský a hlučínský deník: po válce se zámek stal majetkem státu a využíval jej MNV; kultura.cz: 1945 do správy obce; způsob přechodu (konfiskace, převod) žádný zdroj neuvádí"
    }
   ],
   "events": [
@@ -54308,7 +54317,9 @@
    "https://cs.wikipedia.org/wiki/Bolatice_(zámek)",
    "https://www.bolatice.cz/obec-bolatice/informace-o-obci/historie-obce-bolatice/",
    "https://www.bolatice.cz/modules/file_storage/download.php?file=c5b64fd1%7C105",
-   "https://opavsky.denik.cz/zpravy-region/z-historie-barokni-zamek-nechala-postavit-cirkev/"
+   "https://opavsky.denik.cz/zpravy-region/z-historie-barokni-zamek-nechala-postavit-cirkev/",
+   "https://www.hrady.cz/zamek-bolatice-opava",
+   "http://www.kultura.cz/profile/5207-zamek-bolatice"
   ]
  },
  "Q31431735": {
