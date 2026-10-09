@@ -28,7 +28,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "hrad opustili a přímo u městečka si postavili tvrz (poprvé doložena 1538)"
+   "note": "hrad opustili a přímo u městečka si postavili tvrz (poprvé doložena 1538); ocimaturisty.cz uvádí, že od Zástřizlů získali Ždánice 1558 Albrecht a Jan Sernberové z Boskovic, kteří je po 11 letech prodali Oldřichu z Kounic (rozpor s rokem 1566 z cs.wiki, nezapracováno)"
   },
   {
    "owner": "kounicove",
@@ -39,7 +39,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "na místě tvrze vybudoval ve druhé polovině 60. let 16. století renesanční zámek"
+   "note": "na místě tvrze vybudoval ve druhé polovině 60. let 16. století renesanční zámek (dokončen 1569 podle ocimaturisty.cz); po Bílé hoře panství Karlu z Kounic zkonfiskováno a získali je Lichtenštejnové"
   },
   {
    "owner": "lichtenstejnove",
@@ -61,7 +61,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "podle kultura.cz a mistopisy.cz získal zámek roku 1923 při parcelaci velkostatků dr. Eduard Seidl (1854-1934), po něm syn Ervín (1881-1947); cs.wiki uvádí jen, že rodina měla od Lichtenštejnů pronajaty statky a cukrovar; 1935 se Ervín Seidl přestěhoval do zámku"
+   "note": "podle kultura.cz (při parcelaci velkostatků) a mistopisy.cz získal zámek roku 1923 při parcelaci velkostatků dr. Eduard Seidl (1854-1934), po něm syn Ervín (1881-1947); cs.wiki uvádí jen, že rodina měla od Lichtenštejnů pronajaty statky a cukrovar; 1935 se Ervín Seidl přestěhoval do zámku"
   },
   {
    "owner": "stat",
@@ -93,8 +93,8 @@
    "to": null,
    "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "od roku 1992 je zámek v soukromém vlastnictví (cs.wiki: 'soukromá osoba', muzeum Ždánice, kultura.cz); jméno vlastníka ani okolnosti prodeje (tedy ani zda šlo o koupi) zdroje neuvádějí"
+   "how": "koupe",
+   "note": "od roku 1992 je zámek v soukromém vlastnictví (cs.wiki: 'soukromá osoba', muzeum Ždánice, kultura.cz; ocimaturisty.cz uvádí, že zámek v roce 1992 koupil soukromý majitel); encyklopedie oblast.cz u zámku uvádí pole Majitel/Uživatel: Mgr. Milan Kotík (nedatovaný údaj, neověřeno, proto není v person); jméno vlastníka ani okolnosti prodeje (tedy ani zda šlo o koupi) zdroje neuvádějí"
   }
  ],
  "events": [
@@ -138,6 +138,8 @@
  "sources": [
   "https://cs.wikipedia.org/wiki/Ždánice_(zámek)",
   "https://www.muzeumzdanice.cz/historie-zdanickeho-zamku/",
-  "http://www.kultura.cz/profile/5916-zamek-zdanice"
+  "http://www.kultura.cz/profile/5916-zamek-zdanice",
+  "https://www.ocimaturisty.cz/clanky/hrady--zamky-a-zriceniny/zamky/zdanice---zamek-a-vrbasovo-muzeum.html",
+  "http://www.35.oblast.cz/encyklopedie/objekty1.phtml?id=112528"
  ]
 }

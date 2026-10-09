@@ -6,7 +6,7 @@
     "approx": true,
     "text": "Na místě zámku stála renesanční tvrz, vybudovaná údajně v druhé polovině 16. století rodem Vrbenských (Bruntálských z Vrbna), kteří Šilheřovice drželi v letech 1560-1609."
   },
-  "summary": "Renesanční tvrz v Šilheřovicích vybudovali v druhé polovině 16. století Bruntálští z Vrbna a poté se zde vystřídali Stošové z Kounic, Geraltovští z Geraltovic a Šlikové, než ji roku 1666 získali jezuité opavské koleje. Po zrušení jezuitského řádu 1773 připadlo panství královské komoře, která je roku 1787 prodala Karlu Larischovi ze Lhoty; ten je hned prodal Johannu Friedrichovi z Eichendorffu, jenž zde postavil klasicistní zámek. Roku 1845 panství koupil Salomon Meyer Rothschild (zdroje uvádějí i 1842, 1844); rodině byl v květnu 1939 zkonfiskován nacisty a po roce 1945 nebyl navrácen, zámek sloužil různým institucím (domov mládeže, učiliště), až jej roku 2008 koupila společnost RACIMOLO RONI a.s., která jej rekonstruuje a částečně zpřístupňuje veřejnosti.",
+  "summary": "Renesanční tvrz v Šilheřovicích vybudovali v druhé polovině 16. století Bruntálští z Vrbna a poté se zde vystřídali Stošové z Kounic, Geraltovští z Geraltovic a Šlikové, než ji Barbora Perpetua (dědička z roku 1666) prodala jezuitům opavské koleje (1673; jiné zdroje uvádějí 1647). Po zrušení jezuitského řádu 1773 připadlo panství královské komoře, která je roku 1787 prodala Karlu Larischovi ze Lhoty; ten je hned prodal Johannu Friedrichovi z Eichendorffu, jenž zde postavil klasicistní zámek. Roku 1845 panství koupil Salomon Meyer Rothschild (zdroje uvádějí i 1842, 1844); rodině byl v květnu 1939 zkonfiskován nacisty a po roce 1945 nebyl navrácen, zámek sloužil různým institucím (domov mládeže, učiliště), až jej roku 2008 koupila společnost RACIMOLO RONI a.s., která jej rekonstruuje a částečně zpřístupňuje veřejnosti.",
   "owners": [
     {
       "owner": "bruntalsti-z-vrbna",
@@ -111,22 +111,22 @@
       "owner_wiki": null,
       "person": "Barbora Perpetua",
       "from": 1666,
-      "to": null,
+      "to": 1673,
       "from_approx": false,
       "to_approx": false,
       "how": "dedictvi",
-      "note": "neteř Františka Borra; prodala celý šilheřovický statek opavské jezuitské koleji"
+      "note": "neteř Františka Borra; prodala celý šilheřovický statek opavské jezuitské koleji (rok prodeje 1673: web obce PDF a cs.wiki o obci, 30000 zlatých; web obce a atlasceska.cz uvádějí 1647)"
     },
     {
       "owner": "cirkev",
       "owner_wiki": null,
       "person": "opavská jezuitská kolej",
-      "from": null,
+      "from": 1673,
       "to": 1773,
       "from_approx": false,
       "to_approx": false,
       "how": "koupe",
-      "note": "jezuité nechali tvrz pravděpodobně zpustnout; roku 1773 byl jezuitský řád zrušen; rok koupě zdroje rozcházejí (cs.wiki: statek prodala neteř Barbora Perpetua po 1666, atlasceska.cz uvádí 1647), ponechán pořadí dle cs.wiki"
+      "note": "jezuité nechali tvrz pravděpodobně zpustnout; roku 1773 byl jezuitský řád zrušen; rok koupě se v zdrojích rozchází: 1673 (web obce PDF, cs.wiki o obci), 1647 (web obce, atlasceska.cz; neslučitelné s držbou Šliků a Borra do 1666), cs.wiki o zámku jen 'po 1666'; zvolen 1673; podle hrady.cz a atlasceska.cz po 1773 panství připadlo náboženskému fondu"
     },
     {
       "owner": "koruna",
@@ -144,7 +144,7 @@
       "owner_wiki": "Larischové",
       "person": "Karel Larisch ze Lhoty",
       "from": 1787,
-      "to": null,
+      "to": 1787,
       "from_approx": false,
       "to_approx": false,
       "how": "koupe",
@@ -181,7 +181,7 @@
       "from_approx": false,
       "to_approx": false,
       "how": "koupe",
-      "note": "kupní smlouva z 31. 8. 1845 (web obce); cs.wiki a zamek web uvádějí 1844, rothschildarchive.org 1842, web obce na jiném místě 1846 - zvolen rok kupní smlouvy; spojil šilheřovické panství s hlučínským"
+      "note": "kupní smlouva z 31. 8. 1845 (web obce); cs.wiki, zamek web a PDF obce uvádějí 1844, rothschildarchive.org 1842, web obce na jiném místě 1846 (též en.wiki), denik.cz a atlasceska.cz 1845 - zvolen rok kupní smlouvy; spojil šilheřovické panství s hlučínským"
     },
     {
       "owner": "rothschildove",
@@ -203,7 +203,7 @@
       "from_approx": false,
       "to_approx": false,
       "how": "dedictvi",
-      "note": "posledním majitelem Alphonse; web obce uvádí konec rodinné držby 1938, cs.wiki konfiskaci majetku v květnu 1939; Alphonse zemřel v exilu 1942"
+      "note": "posledním majitelem Alphonse; web obce, atlasceska.cz a ostravalove.cz uvádějí konec rodinné držby 1938 (zábor území 8.-9. 10. 1938), cs.wiki konfiskaci majetku v květnu 1939; Alphonse zemřel v exilu 1942"
     },
     {
       "owner": "stat",
@@ -238,8 +238,8 @@
       "text": "první zmínka o tvrzi, Jan z Vrbna prodal panství Bohunce Stošové z Kounic"
     },
     {
-      "year": 1666,
-      "text": "statek prodán opavské jezuitské koleji"
+      "year": 1673,
+      "text": "statek prodán opavské jezuitské koleji (jiné zdroje 1647)"
     },
     {
       "year": 1787,
@@ -267,6 +267,9 @@
     "https://www.silherovice.cz/turista/historie/",
     "https://www.zameksilherovice.cz/cs/historie-zamku",
     "https://www.atlasceska.cz/pamatky/zamek-silherovice-20398",
-    "https://family.rothschildarchive.org/estates/54-schillersdorf"
+    "https://family.rothschildarchive.org/estates/54-schillersdorf",
+    "https://opavsky.denik.cz/zpravy_region/historie-silherovice-zamek12082017.html",
+    "https://www.ostravalove.cz/zamek-a-park-silherovice/",
+    "https://www.hrady.cz/zamek-silherovice-opava/"
   ]
 }
