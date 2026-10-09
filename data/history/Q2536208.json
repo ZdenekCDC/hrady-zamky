@@ -6,7 +6,7 @@
   "approx": true,
   "text": "Hrad založili v první polovině 13. století páni z Hradce, za konkrétního stavitele bývá považován Vítek z Hradce."
  },
- "summary": "Vítkův hrádek u Blažejova založili v první polovině 13. století páni z Hradce; roku 1267 jej Vítek z Hradce věnoval řádu německých rytířů z Jindřichova Hradce, který jej vlastnil pravděpodobně do počátku 15. století. Podle Augusta Sedláčka byl posledním majitelem Sezema z Chotěnic, zmiňovaný roku 1416, a roku 1458 byl hrad již pustý. Dnes je zříceninou chráněnou jako kulturní památka.",
+ "summary": "Vítkův hrádek u Blažejova založili v první polovině 13. století páni z Hradce; roku 1267 jej Vítek z Hradce věnoval řádu německých rytířů z Jindřichova Hradce, který jej vlastnil pravděpodobně do počátku 15. století. Podle Augusta Sedláčka byl posledním majitelem Sezema z Chotěmic (cs.wiki Chotěnic), zmiňovaný roku 1416, který mohl být jen zástavním držitelem, a roku 1458 byl hrad již pustý. Dnes je zříceninou chráněnou jako kulturní památka.",
  "owners": [
   {
    "owner": "pani-z-hradce",
@@ -28,18 +28,18 @@
    "from_approx": false,
    "to_approx": true,
    "how": "dar",
-   "note": "roku 1267 podle Sedláčka věnoval Vítek z Hradce hrad při svém vstupu do řádu německých rytířů z Jindřichova Hradce; podle podacího práva ke kostelu v Blažejově řád hrad držel v přímém držení pravděpodobně do počátku 15. století, sídlo ale nejspíš nevyužíval; zdroj počátku 15. století udává jen přibližně (konec držby řádu nejasný)"
+   "note": "roku 1267 podle Sedláčka věnoval Vítek z Hradce hrad při svém vstupu do řádu německých rytířů z Jindřichova Hradce; podle podacího práva ke kostelu v Blažejově řád hrad držel v přímém držení pravděpodobně do počátku 15. století, sídlo ale nejspíš nevyužíval; zdroj počátku 15. století udává jen přibližně (konec držby řádu nejasný); Atlas Česka uvádí dar řádu již 1257 a pobyt řádu do 1405, hradeczije.cz uvádí držbu řádu nejpozději do 1405 (rozpor s rokem 1267 u Sedláčka/hrady.cz, rok nepřebírán)"
   },
   {
-   "owner": "z-chotenic",
+   "owner": "z-chotemic",
    "owner_wiki": null,
-   "person": "Sezema z Chotěnic",
+   "person": "Sezema z Chotěmic",
    "from": null,
    "to": 1416,
    "from_approx": true,
    "to_approx": true,
    "how": "neznamo",
-   "note": "August Sedláček uvádí k roku 1416 Sezemu z Chotěnic (hrady.cz píše Chotěmic) jako posledního majitele, podle hrady.cz však mohl být jen zástavním držitelem; přesný způsob a rok nabytí zdroje neuvádějí; roku 1458 byl hrad již pustý, pravděpodobně stále v majetku řádu (Millauer)"
+   "note": "August Sedláček uvádí k roku 1416 Sezemu z Chotěmic (cs.wiki píše Chotěnic) jako posledního majitele, podle hrady.cz však mohl být jen zástavním držitelem a hrad zůstal v držení řádu; konec držby řádu a nabytí Sezemy zdroje neuvádějí s rokem; roku 1458 byl hrad již pustý, pravděpodobně stále v majetku řádu (Millauer)"
   }
  ],
  "events": [
@@ -49,7 +49,7 @@
   },
   {
    "year": 1416,
-   "text": "posledním doloženým majitelem podle A. Sedláčka Sezema z Chotěnic"
+   "text": "posledním doloženým majitelem podle A. Sedláčka Sezema z Chotěmic (mohl být jen zástavní držitel)"
   },
   {
    "year": 1458,
@@ -63,6 +63,8 @@
  "sources": [
   "https://cs.wikipedia.org/wiki/Vítkův_hrádek_(okres_Jindřichův_Hradec)",
   "https://www.hrady.cz/hrad-vitkuv-hradek (komerční web, popis dle Sedláčka, Durdíka a Millauera)",
-  "https://isad.npu.cz/x-22493 (Státní archeologický seznam ČR)"
+  "https://isad.npu.cz/x-22493 (Státní archeologický seznam ČR)",
+  "https://www.atlasceska.cz/pamatky/zricenina-vitkuv-hradek-20045",
+  "https://hradeczije.cz/rozvalinu-vitkuv-hradek-opradaji-povesti/"
  ]
 }

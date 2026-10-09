@@ -77,13 +77,13 @@
   {
    "owner": "desfoursove",
    "owner_wiki": "Desfoursové",
-   "person": "Desfoursové",
+   "person": "Josef Vojtěch Desfours (1734-1791), poté jeho bratranec František Antonín I. Desfours",
    "from": 1783,
    "to": 1792,
    "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "cs.wiki Náchod (zámek): po vymření větve Piccolomini-Pieri 1783 měli panství několik let Desfoursové; způsob nabytí zdroj neuvádí a roky do 1792 odvozeny z koupě Petrem Bironem"
+   "how": "dedictvi",
+   "note": "cs.wiki Desfoursové: Josef Vojtěch, syn Ludmily Piccolominiové, zdědil po vymření Piccolominiů 1783 jejich české statky (Náchod), nároky musel hájit u soudu a fakticky panství převzal 1787 (obec Litoboř uvádí rovněž 1787); po jeho smrti 1791 zdědil zadlužené panství František Antonín I., který je 1792 prodal ve veřejné dražbě Petru Bironovi za 1 222 000 zl. (cs.wiki František Antonín I. Desfours)"
   },
   {
    "owner": "bironove",
@@ -145,22 +145,22 @@
    "owner_wiki": "Schaumburg-Lippe",
    "person": "princ Vilém ze Schaumburg-Lippe",
    "from": 1860,
-   "to": null,
+   "to": 1906,
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "druhorozený syn Jiřího Viléma; rok jeho úmrtí zdroje neuvádějí"
+   "note": "druhorozený syn Jiřího Viléma (1834-1906), zdědil po otci 21. 11. 1860 (cs.wiki Vilém ze Schaumburg-Lippe); polní maršál, zemřel 4. 4. 1906 na zámku v Náchodě; zámek 1860-1864 upraven do dnešní podoby (zamek-ratiborice.cz)"
   },
   {
    "owner": "schaumburg-lippe",
    "owner_wiki": "Schaumburg-Lippe",
    "person": "princ Bedřich ze Schaumburg-Lippe",
-   "from": null,
+   "from": 1906,
    "to": 1945,
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "druhorozený syn Viléma, poslední majitel panství; za druhé světové války zámek využívala německá armáda a vnitřek zpustošila; zemřel 1945 po vyhnání do Polska (de.wiki); rok převzetí zdroje neuvádějí"
+   "note": "druhorozený syn Viléma, poslední majitel panství; za druhé světové války zámek využívala německá armáda a vnitřek zpustošila; zemřel 12. 12. 1945 v Zakrze u Kudowy po vypovězení z Československa (gis.fsv.cvut.cz, genealogie rodu); po smrti staršího bratra Františka Josefa 1881 se stal dědicem; rok převzetí 1906 podle úmrtí otce, zdroj jej výslovně nepotvrzuje"
   },
   {
    "owner": "stat",
@@ -215,6 +215,11 @@
  "sources": [
   "https://cs.wikipedia.org/wiki/Ratibořice_(zámek)",
   "https://cs.wikipedia.org/wiki/Náchod_(zámek)",
-  "https://de.wikipedia.org/wiki/Schloss_Ratibořice"
+  "https://de.wikipedia.org/wiki/Schloss_Ratibořice",
+  "https://cs.wikipedia.org/wiki/Desfoursové",
+  "https://cs.wikipedia.org/wiki/Vilém_ze_Schaumburg-Lippe",
+  "https://www.zamek-ratiborice.cz/cs/o-zamku/historie (oficiální web zámku, NPÚ)",
+  "http://gis.fsv.cvut.cz/zamky/genealogie/schaumburg-lippe/php/person.php?o=6 (genealogie, ČVUT)",
+  "https://litobor.webnode.cz/obec/historie-obce/ (web obce, 1787)"
  ]
 }

@@ -6175,7 +6175,7 @@
    {
     "place": "Q366444",
     "from": 1668,
-    "to": 1683,
+    "to": 1672,
     "person": "Humprecht Jan Černín",
     "how": "koupe",
     "from_approx": false,
@@ -6183,12 +6183,12 @@
    },
    {
     "place": "Q366444",
-    "from": 1683,
+    "from": 1672,
     "to": 1685,
-    "person": "Tomáš Zachariáš Černín",
+    "person": "Tomáš Zacheus (Zachariáš) Černín",
     "how": "dedictvi",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q367362",
@@ -8303,8 +8303,8 @@
     "place": "Q12048927",
     "from": 1783,
     "to": 1792,
-    "person": "Desfoursové",
-    "how": "neznamo",
+    "person": "Josef Vojtěch Desfours (1734-1791), poté jeho bratranec František Antonín I. Desfours",
+    "how": "dedictvi",
     "from_approx": false,
     "to_approx": false
    },
@@ -8420,7 +8420,7 @@
     "year": 1783,
     "from": "piccolominiove",
     "to": "desfoursove",
-    "how": "neznamo"
+    "how": "dedictvi"
    },
    {
     "place": "Q12048927",
@@ -9076,7 +9076,7 @@
     "year": 1706,
     "from": "ditrichstejnove",
     "to": "zenove-z-dannhausenu",
-    "how": "neznamo"
+    "how": "koupe"
    }
   ],
   "place_count": 20,
@@ -13278,8 +13278,8 @@
    {
     "place": "Q366444",
     "from": 1685,
-    "to": 1816,
-    "person": "Ferdinand Arnošt z Herbersteina a potomci",
+    "to": 1837,
+    "person": "Ferdinand Arnošt z Herbersteina a potomci (Václav, Leopold Karel, Karel Josef, Josef Jan, Josef František a Otto Herberstein-Moltke)",
     "how": "koupe",
     "from_approx": false,
     "to_approx": false
@@ -13374,7 +13374,7 @@
    },
    {
     "place": "Q366444",
-    "year": 1816,
+    "year": 1837,
     "from": "herbersteinove",
     "to": "neznamo",
     "how": "neznamo"
@@ -16840,10 +16840,10 @@
     "place": "Q366444",
     "from": 1639,
     "to": 1668,
-    "person": "Jakub Khuen z Belasy",
+    "person": "Jakub Khuen z Belasy, poté Matyáš a Anna Zuzana Khuenová",
     "how": "neznamo",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    }
   ],
   "transfers": [
@@ -19510,37 +19510,82 @@
    {
     "place": "Q366444",
     "from": 1381,
-    "to": 1430,
-    "person": "Konrád Krajíř z Krajku",
+    "to": 1400,
+    "person": "Konrád I. Krajíř z Krajku",
     "how": "dar",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q366444",
-    "from": 1430,
-    "to": 1479,
-    "person": "Lipold z Krajku",
+    "from": 1400,
+    "to": 1433,
+    "person": "Lipold Krajíř z Krajku",
     "how": "dedictvi",
-    "from_approx": true,
-    "to_approx": true
+    "from_approx": false,
+    "to_approx": false
    },
    {
     "place": "Q366444",
-    "from": 1479,
-    "to": 1528,
-    "person": "Volfgang z Krajku",
+    "from": 1433,
+    "to": 1446,
+    "person": "Konrád II. Krajíř z Krajku",
     "how": "dedictvi",
-    "from_approx": true,
-    "to_approx": true
+    "from_approx": false,
+    "to_approx": false
    },
    {
     "place": "Q366444",
-    "from": 1528,
+    "from": 1446,
+    "to": 1491,
+    "person": "Volfgang I. Krajíř z Krajku",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q366444",
+    "from": 1491,
+    "to": 1492,
+    "person": "Jiří a Konrád III. Krajířové z Krajku",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q366444",
+    "from": 1492,
+    "to": 1513,
+    "person": "Konrád III. Krajíř z Krajku",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q366444",
+    "from": 1513,
+    "to": 1540,
+    "person": "Zdeněk I. a Volf starší Krajířové z Krajku",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q366444",
+    "from": 1540,
+    "to": 1545,
+    "person": "Volf starší Krajíř z Krajku",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q366444",
+    "from": 1545,
     "to": 1577,
     "person": "Zdeněk II. z Krajku",
     "how": "dedictvi",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -20665,15 +20710,15 @@
    {
     "place": "Q366444",
     "from": 1302,
-    "to": 1311,
+    "to": 1312,
     "person": "Vítek z Landštejna",
     "how": "neznamo",
     "from_approx": true,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q366444",
-    "from": 1315,
+    "from": 1312,
     "to": 1356,
     "person": "Vilém z Landštejna",
     "how": "dedictvi",
@@ -39393,7 +39438,7 @@
     "year": 1783,
     "from": "piccolominiove",
     "to": "desfoursove",
-    "how": "neznamo"
+    "how": "dedictvi"
    },
    {
     "place": "Q2242740",
@@ -44248,19 +44293,19 @@
    {
     "place": "Q12048927",
     "from": 1860,
-    "to": 1902,
+    "to": 1906,
     "person": "princ Vilém ze Schaumburg-Lippe",
     "how": "dedictvi",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q12048927",
-    "from": 1902,
+    "from": 1906,
     "to": 1945,
     "person": "princ Bedřich ze Schaumburg-Lippe",
     "how": "dedictvi",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -48534,8 +48579,26 @@
    {
     "place": "Q366444",
     "from": 1846,
+    "to": 1897,
+    "person": "Ferdinand Wenzel-Sternbach",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q366444",
+    "from": 1897,
+    "to": 1918,
+    "person": "Leopold Wenzl-Sternbach st.",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q366444",
+    "from": 1918,
     "to": 1945,
-    "person": "Ferdinand Sternbach",
+    "person": "Leopold Wenzl-Sternbach ml.",
     "how": "dedictvi",
     "from_approx": false,
     "to_approx": false
@@ -60368,6 +60431,15 @@
     "how": "neznamo",
     "from_approx": false,
     "to_approx": false
+   },
+   {
+    "place": "Q2536208",
+    "from": 1342,
+    "to": 1416,
+    "person": "Sezema z Chotěmic",
+    "how": "neznamo",
+    "from_approx": true,
+    "to_approx": true
    }
   ],
   "transfers": [
@@ -60426,37 +60498,16 @@
     "from": "z-chotemic",
     "to": "trckove-z-lipy",
     "how": "neznamo"
-   }
-  ],
-  "place_count": 3,
-  "color_slot": null
- },
- "z-chotenic": {
-  "id": "z-chotenic",
-  "type": "rod",
-  "name": "z-chotenic",
-  "related": [],
-  "places": [
-   {
-    "place": "Q2536208",
-    "from": 1342,
-    "to": 1416,
-    "person": "Sezema z Chotěnic",
-    "how": "neznamo",
-    "from_approx": true,
-    "to_approx": true
-   }
-  ],
-  "transfers": [
+   },
    {
     "place": "Q2536208",
     "year": 1342,
     "from": "cirkev",
-    "to": "z-chotenic",
+    "to": "z-chotemic",
     "how": "neznamo"
    }
   ],
-  "place_count": 1,
+  "place_count": 4,
   "color_slot": null
  },
  "z-chrastu": {
@@ -65263,14 +65314,14 @@
     "person": "Maxmilián a Ferdinand Mohrové z Lichtenegga",
     "how": "koupe",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    }
   ],
   "transfers": [
    {
     "place": "Q366444",
     "year": 1623,
-    "from": "soukromnik",
+    "from": "z-rotendorfu",
     "to": "z-lichtenegga",
     "how": "koupe"
    },
@@ -69670,6 +69721,41 @@
     "year": 1450,
     "from": "z-rosic",
     "to": "piastovci",
+    "how": "koupe"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
+ "z-rotendorfu": {
+  "id": "z-rotendorfu",
+  "type": "rod",
+  "name": "z-rotendorfu",
+  "related": [],
+  "places": [
+   {
+    "place": "Q366444",
+    "from": 1622,
+    "to": 1623,
+    "person": "Jakub Kecl z Rotendorfu",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q366444",
+    "year": 1622,
+    "from": "soukromnik",
+    "to": "z-rotendorfu",
+    "how": "koupe"
+   },
+   {
+    "place": "Q366444",
+    "year": 1623,
+    "from": "z-rotendorfu",
+    "to": "z-lichtenegga",
     "how": "koupe"
    }
   ],
@@ -75188,7 +75274,7 @@
     "from": 1706,
     "to": 1772,
     "person": null,
-    "how": "neznamo",
+    "how": "koupe",
     "from_approx": false,
     "to_approx": false
    }
@@ -75199,7 +75285,7 @@
     "year": 1706,
     "from": "ditrichstejnove",
     "to": "zenove-z-dannhausenu",
-    "how": "neznamo"
+    "how": "koupe"
    },
    {
     "place": "Q847039",
@@ -78303,7 +78389,7 @@
     "place": "Q2536208",
     "year": 1342,
     "from": "cirkev",
-    "to": "z-chotenic",
+    "to": "z-chotemic",
     "how": "neznamo"
    },
    {
@@ -79208,7 +79294,7 @@
    },
    {
     "place": "Q366444",
-    "from": 1816,
+    "from": 1837,
     "to": 1846,
     "person": null,
     "how": "neznamo",
@@ -79957,7 +80043,7 @@
    },
    {
     "place": "Q366444",
-    "year": 1816,
+    "year": 1837,
     "from": "herbersteinove",
     "to": "neznamo",
     "how": "neznamo"
@@ -99092,11 +99178,38 @@
    {
     "place": "Q366444",
     "from": 1599,
-    "to": 1619,
-    "person": "David Neumaier a syn",
+    "to": 1603,
+    "person": "David Neumaier z Winterberka",
     "how": "koupe",
     "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q366444",
+    "from": 1603,
+    "to": 1618,
+    "person": "Barbora Neumaier z Winterberka, rozená Štubik z Königsteinu, za nezletilého syna",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q366444",
+    "from": 1618,
+    "to": 1621,
+    "person": "Gotfried Neumaier z Winterberka",
+    "how": "dedictvi",
+    "from_approx": false,
     "to_approx": true
+   },
+   {
+    "place": "Q366444",
+    "from": 1621,
+    "to": 1622,
+    "person": "Kristian Hübner",
+    "how": "konfiskace",
+    "from_approx": false,
+    "to_approx": false
    },
    {
     "place": "Q366448",
@@ -102450,9 +102563,9 @@
    },
    {
     "place": "Q366444",
-    "year": 1623,
+    "year": 1622,
     "from": "soukromnik",
-    "to": "z-lichtenegga",
+    "to": "z-rotendorfu",
     "how": "koupe"
    },
    {
