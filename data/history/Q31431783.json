@@ -167,11 +167,11 @@
    "owner_wiki": null,
    "person": "Johanna Mayer von Mayersbach a manžel Joseph Pulpán Ritter von Feldstein (1789-1840)",
    "from": null,
-   "to": null,
+   "to": 1840,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "Johanna, sestra Adolpha, statek zakoupil manžel Joseph Pulpán; roky držby cs.wiki neuvádí"
+   "note": "Johanna, sestra Adolpha, statek zakoupil manžel Joseph Pulpán; roky držby cs.wiki neuvádí; rok 1840 = úmrtí Josepha Pulpána, od něhož podle obecní historie (osecany.cz) majitelkou dcera Anna"
   },
   {
    "owner": "tiegelove-z-lindenkronu",
@@ -182,18 +182,18 @@
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "v letech 1850-1860 dala zámek upravit v novogotickém stylu (jde o dobu úpravy, ne o dobu držby); vztah ke jménu Johanny Pulpán von Feldstein cs.wiki nevysvětluje"
+   "note": "v letech 1850-1860 dala zámek upravit v novogotickém stylu (jde o dobu úpravy, ne o dobu držby); vztah ke jménu Johanny Pulpán von Feldstein cs.wiki nevysvětluje; obecní historie (osecany.cz) i CzechIndex mezi Pulpánem a Annou žádnou Johannu Tiegel nejmenují, jméno je nejspíš zmatení v cs.wiki s Johannou Pulpán rozenou Mayer (vdova po Josephu Pulpánovi) - jde tedy pravděpodobně o tutéž osobu, ale zdroje to výslovně nepotvrzují"
   },
   {
    "owner": "tiegelove-z-lindenkronu",
    "owner_wiki": null,
    "person": "Anna Pulpán von Feldstein (1831-1862) a manžel (Johann) Emanuel Tiegel von Lindenkron (1822-1911)",
-   "from": null,
+   "from": 1840,
    "to": null,
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "jediná dcera a dědička Johanny; podle obecní historie majitelkou od roku 1840 (rok úmrtí Josepha Pulpána), cs.wiki rok neuvádí"
+   "note": "jediná dcera a dědička Johanny; majitelkou od roku 1840 podle obecní historie (osecany.cz: 'od roku 1840 jeho dcera Anna, provdaná Tieglová z Lindekronu'); do 1884 (sňatek dcery Anny Tiegel s Rudolfem Voithem) doba držby nepřesná; cs.wiki rok neuvádí"
   },
   {
    "owner": "voithove-ze-sterbezu",
@@ -248,7 +248,7 @@
    "from_approx": false,
    "to_approx": true,
    "how": "koupe",
-   "note": "zámek bez hospodářské části koupen se záměrem zřídit oční sanatorium / ozdravovnu (k tomu nedošlo); cs.wiki, hrady.cz a knihovna Benešov uvádějí koupi lékařským spolkem už 1928, rozpor s webem zámku není vyřešen, převzat rok 1938 z webu zámku; 1943 byla obec vystěhována a zámek se stal součástí výcvikového prostoru zbraní SS, poškozen střelbou"
+   "note": "zámek bez hospodářské části koupen se záměrem zřídit oční sanatorium / ozdravovnu (k tomu nedošlo); cs.wiki, hrady.cz a knihovna Benešov uvádějí koupi lékařským spolkem už 1928, web majitelů zámku (zamekbude.cz) uvádí, že zámek okres prodal družstvu 1938 po darování záložnou okresnímu zastupitelstvu; rozpor mezi 1928 a 1938 není vyřešen, převzat rok 1938 z webu zámku; 1943 byla obec vystěhována a zámek se stal součástí výcvikového prostoru zbraní SS, poškozen střelbou"
   },
   {
    "owner": "stat",
@@ -347,6 +347,7 @@
   "https://cs.wikipedia.org/wiki/Osečany",
   "https://www.osecany.cz/z-historie-obce",
   "https://zamekbude.cz/o-zamku/ (web současných majitelů, komerční zdroj)",
-  "https://www.hrady.cz/zamek-osecany-pribram/ (komerční web)"
+  "https://www.hrady.cz/zamek-osecany-pribram/ (komerční web)",
+  "https://www.czechindex.cz/stredocesky-kraj/pribram/osecany/ (podrobná historie majitelů, 5. 6. 1931 koupě velkostatku záložnou)"
  ]
 }

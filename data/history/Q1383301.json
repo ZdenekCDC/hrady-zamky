@@ -33,24 +33,46 @@
   {
    "owner": "cerncicti-z-kacova",
    "owner_wiki": "Černčičtí z Kácova",
-   "person": null,
+   "person": "Jan Purkart Černický z Kácova a na Lysicích",
    "from": 1581,
+   "to": 1585,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "po smrti Hanuše Haugvice koupil od dědiců 1581, 1585 odkázal synovci; zdroj: hobby web 'Jiřího web' (estranky.cz), jména nepotvrzena druhým zdrojem; web města uvádí jen, že 1581-1615 se vystřídalo 6 majitelů"
+  },
+  {
+   "owner": "z-boskovic",
+   "owner_wiki": null,
+   "person": "Jan z Boskovic (synovec Jana Purkarta Černického)",
+   "from": 1585,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "odkaz 1585; rok konce neuveden; zdroj: estranky.cz (jména nepotvrzena druhým zdrojem)"
+  },
+  {
+   "owner": "z-slavaty",
+   "owner_wiki": null,
+   "person": "Jindřich Slavata",
+   "from": null,
    "to": 1595,
-   "from_approx": true,
-   "to_approx": true,
+   "from_approx": false,
+   "to_approx": false,
    "how": "neznamo",
-   "note": "podle starší verze cs.wiki hesla Chropyně (zrcadlo z roku 2007); jména ani způsob nabytí neuvedeny; po smrti Haugvice podle webu města panství často měnilo majitele"
+   "note": "získal od Jana z Boskovic, 1595 prodal Pražmovi z Bílkova; příslušnost k rodu odvozena z příjmení; zdroj: estranky.cz"
   },
   {
    "owner": "prazmove-z-bilkova",
    "owner_wiki": "Pražmové z Bílkova",
-   "person": null,
+   "person": "Pražma z Bílkova a jeho dědicové",
    "from": 1595,
    "to": 1615,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "podle starší verze cs.wiki hesla Chropyně (zrcadlo z roku 2007) po roce 1595; jména neuvedena"
+   "note": "1595 koupil od Jindřicha Slavaty, od jeho dědiců panství 1615 koupil kardinál Dietrichštejn (estranky.cz; cs.wiki 2007 uvádí po 1595)"
   },
   {
    "owner": "ditrichstejnove",
@@ -61,7 +83,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "koupil panství pro sebe, nikoli pro biskupství, za 153 000 zlatých; letopočet 1615 na portálu zámku; roku 1616 (cs.wiki a muchropyne uvádějí 1617) je vyměnil s olomouckým biskupstvím za panství Žďár"
+   "note": "koupil panství pro sebe, nikoli pro biskupství, za 153 000 zlatých; letopočet 1615 na portálu zámku; směna s olomouckým biskupstvím za Žďár nad Sázavou: 1616 podle webu města a SMM Chropyně (muchropyne.cz/zajimavosti), cs.wiki, stonepath a obecní stránka historie uvádějí 1617"
   },
   {
    "owner": "cirkev",
@@ -72,7 +94,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "vymena",
-   "note": "směna se Žďárem 1616 podle webu SMM Chropyně (cs.wiki a web města uvádějí 1617); za biskupa Karla Lotrinského přestavba 1701-1703, autor projektu pravděpodobně Giovanni Pietro Tencalla; po 1850 lovecký zámeček kardinála Fürstenberga; web města uvádí biskupský majetek do 1848 (zánik feudálních vztahů), cs.wiki až do 1949 zestátnění"
+   "note": "směna se Žďárem 1616 podle webu SMM Chropyně (cs.wiki a web města uvádějí 1617); za biskupa Karla Lotrinského přestavba 1701-1703, autor projektu pravděpodobně Giovanni Pietro Tencalla; po 1850 lovecký zámeček kardinála Fürstenberga; web města uvádí biskupský majetek do 1848 (zánik feudálních vztahů), cs.wiki až do 1949 zestátnění; obecní web (historie obce) uvádí biskupství do 1848"
   },
   {
    "owner": "stat",
@@ -94,7 +116,7 @@
    "from_approx": true,
    "to_approx": false,
    "how": "restituce",
-   "note": "navrácen po roce 1989 (přesný rok není uveden); na provozu se podílelo Město Chropyně a Muzeum Kroměřížska, 2022-2023 provozovala příspěvková organizace SLOCH, od 2024 Správa majetku města Chropyně"
+   "note": "navrácen po roce 1989 (přesný rok není uveden); na provozu se podílelo Město Chropyně a Muzeum Kroměřížska, 2022-2023 provozovala příspěvková organizace SLOCH, od 2024 Správa majetku města Chropyně; obecní web (historie obce) uvádí biskupství do 1848"
   }
  ],
  "events": [
@@ -144,6 +166,9 @@
   "https://www.smmchropyne.cz/uvod/zamek/historie-zamku/",
   "https://www.muchropyne.cz/mesto/historie/historie-chropyne/",
   "https://www.hrady.cz/hrad-chropyne-novy-haugvicov/ (komerční web)",
-  "http://wikipedia2007.classicistranieri.com/cs/c/h/r/Chropyn%C4%9B.html (zrcadlo staré verze cs.wiki, méně spolehlivé)"
+  "http://wikipedia2007.classicistranieri.com/cs/c/h/r/Chropyn%C4%9B.html (zrcadlo staré verze cs.wiki, méně spolehlivé)",
+  "https://www.muchropyne.cz/mesto/zajimavosti/vyznamna-data/ (významná data: 1581-1615 šest majitelů, 1616 směna)",
+  "https://www.muchropyne.cz/mesto/zajimavosti/zamek/ (po roce 1989 vrácen Arcibiskupství olomouckému, bez roku)",
+  "https://george007.estranky.cz/clanky/www.historie-chropyne.cz.html (hobby web, jména držitelů 1581-1595)"
  ]
 }
