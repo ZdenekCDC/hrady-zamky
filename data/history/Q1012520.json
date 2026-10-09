@@ -6,7 +6,7 @@
   "approx": true,
   "text": "Hrad postavili páni z Příbora (potomci Franka z Hückeswagenu) jako náhradu za ztracený hrad Jičín, nejspíše mezi lety 1260-1270; první písemná zmínka pochází z roku 1285."
  },
- "summary": "Hukvaldy postavili ve 13. století páni z Příbora, od roku 1359 hrad s panstvím trvale vlastnilo olomoucké biskupství, s výjimkou opakovaných zástav a krátkodobých držav světských pánů během markraběcích a husitských válek (Rýzmburkové, Volfsberkové, Falkenberkové, Tovačovští z Cimburka, Lamberkové, Jan Čapek ze Sán aj.). V letech 1466-1511 hrad osobně vlastnil rod pánů z Boskovic, poté se natrvalo vrátil biskupství, které jej v 16. století přebudovalo na mohutnou pevnost proti tureckému nebezpečí (biskupové Thurzo, Khuen a další). Dnes je zříceninou a kulturní památkou. Roku 1760 byly úřady panství přeneseny do nového zámku v podhradí a hrad postupně zpustl na zříceninu; arcibiskupství jej v 19. stol. zajišťovalo a opravovalo, od 1969 jej obnovuje a spravuje muzeum (dnes Muzeum Beskyd Frýdek-Místek). Kdy přestal být majetkem arcibiskupství a kdo je dnešním vlastníkem, se z použitých zdrojů nepodařilo zjistit.",
+ "summary": "Hukvaldy postavili ve 13. století páni z Příbora, od roku 1359 hrad s panstvím trvale vlastnilo olomoucké biskupství, s výjimkou opakovaných zástav a krátkodobých držav světských pánů během markraběcích a husitských válek (Rýzmburkové, Volfsberkové, Falkenberkové, Tovačovští z Cimburka, Lamberkové, Jan Čapek ze Sán aj.). V letech 1466-1511 hrad osobně vlastnil rod pánů z Boskovic, poté se natrvalo vrátil biskupství, které jej v 16. století přebudovalo na mohutnou pevnost proti tureckému nebezpečí (biskupové Thurzo, Khuen a další). Dnes je zříceninou a kulturní památkou. Roku 1760 byly úřady panství přeneseny do nového zámku v podhradí a hrad postupně zpustl na zříceninu; arcibiskupství jej v 19. stol. zajišťovalo a opravovalo, od 1969 jej obnovuje a spravuje muzeum (dnes Muzeum Beskyd Frýdek-Místek). Arcibiskupství panství držel do roku 1948, kdy bylo zestátněno; hrad je dnes majetkem státu, spravuje jej Muzeum Beskyd Frýdek-Místek.",
  "owners": [
   {
    "owner": "z-pribora",
@@ -194,11 +194,22 @@
    "owner_wiki": null,
    "person": "Marek Khuen, Vilém Prusinovský z Víckova, Jan Mezon z Telče, Stanislav Pavlovský z Pavlovic, František z Dietrichsteina, další olomoučtí biskupové a od roku 1777 arcibiskupové (např. Bedřich z Fürstenberka, Theodor Kohn)",
    "from": 1553,
-   "to": null,
+   "to": 1948,
    "from_approx": false,
    "to_approx": true,
    "how": "koupe",
-   "note": "olomoucké biskupství (od 1777 arcibiskupství); podle Hukvaldského panství drželi biskupové panství nepřetržitě s výjimkou let 1593-1596 a 1617; 1617 biskup František z Ditrichštejna zastavil Hukvaldy na 6 let městu Příboru; arcibiskupství hrad opravovalo ještě v 19. stol. (1860-1862, od 1896 pravidelně). Zdroje neuvádějí, kdy a jak hrad přestal být majetkem arcibiskupství (od 1969 jej opravuje a spravuje Okresní vlastivědné muzeum, dnes Muzeum Beskyd Frýdek-Místek) ani kdo je dnešním vlastníkem - nepodařilo se ověřit, proto záznam zůstává otevřený (to null)"
+   "note": "olomoucké biskupství (od 1777 arcibiskupství); podle Hukvaldského panství drželi biskupové panství nepřetržitě s výjimkou let 1593-1596 a 1617; 1617 biskup František z Ditrichštejna zastavil Hukvaldy na 6 let městu Příboru; arcibiskupství hrad opravovalo ještě v 19. stol. (1860-1862, od 1896 pravidelně).; arcibiskupství vlastnilo hukvaldské panství a oboru kolem hradu do února 1948, kdy mu byl majetek zestátněn (oborahukvaldy.cz, cirkev.cz); rok převodu samotné zříceniny zdroje výslovně neuvádějí, 1948 je odvozen z převodu obory, jejíž součástí je památkově chráněný areál hradu"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": "Československo / Česká republika (správce Muzeum Beskyd Frýdek-Místek)",
+   "from": 1948,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "cs.wiki uvádí jako současného majitele stát, Moravskoslezský deník (2016): památkově chráněný hrad je majetkem státu; od 1969 jej obnovuje a spravuje muzeum (dnes příspěvková organizace Muzeum Beskyd Frýdek-Místek, pobočka Hrad Hukvaldy, zřizovatel Moravskoslezský kraj); obora kolem hradu přešla 1. 10. 2014 při majetkovém narovnání na Biskupství ostravsko-opavské"
   }
  ],
  "events": [
@@ -259,6 +270,10 @@
    "text": "olomoucké arcibiskupství začalo každoročně provádět opravy hradu"
   },
   {
+   "year": 1948,
+   "text": "po únoru 1948 zestátněn majetek olomouckého arcibiskupství na Hukvaldech včetně obory kolem hradu"
+  },
+  {
    "year": 1969,
    "text": "od roku 1969 postupná obnova a zpřístupnění hradu, kterou zajišťovalo Okresní vlastivědné muzeum ve Frýdku-Místku; opravy dnes zajišťuje Muzeum Beskyd Frýdek-Místek, které hrad spravuje"
   },
@@ -272,6 +287,9 @@
   "https://www.hradhukvaldy.eu/hrad-hukvaldy/historie-hradu/17-18-stoleti-knezske-vezeni/",
   "https://www.hradhukvaldy.eu/hrad-hukvaldy/historie-hradu/od-19-stoleti/",
   "https://www.hradhukvaldy.eu/",
-  "https://cs.wikipedia.org/wiki/Hukvaldské_panství"
+  "https://cs.wikipedia.org/wiki/Hukvaldské_panství",
+  "https://moravskoslezsky.denik.cz/zpravy-region/prave-pred-700-lety-ziskali-olomoucti-biskupove-starodavny-hrad-hukvaldy-poprve/",
+  "https://www.oborahukvaldy.cz/o-obore/",
+  "https://www.msk.cz/cs/temata/kultura/muzeum-beskyd-frydek_mistek-1427/"
  ]
 }

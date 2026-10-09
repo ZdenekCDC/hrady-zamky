@@ -7628,7 +7628,7 @@
    {
     "place": "Q10857337",
     "from": 1879,
-    "to": 1945,
+    "to": 1948,
     "person": "Colloredo-Mannsfeldové",
     "how": "koupe",
     "from_approx": false,
@@ -7740,7 +7740,7 @@
    },
    {
     "place": "Q10857337",
-    "year": 1945,
+    "year": 1948,
     "from": "colloredove",
     "to": "stat",
     "how": "konfiskace"
@@ -9945,6 +9945,15 @@
   "coat_of_arms": "Arms of the house of Eggenberg (1647).svg",
   "places": [
    {
+    "place": "Q1011508",
+    "from": 1660,
+    "to": 1719,
+    "person": "Jan Oldřich z Eggenberku a jeho potomci",
+    "how": "dar",
+    "from_approx": true,
+    "to_approx": false
+   },
+   {
     "place": "Q1012297",
     "from": 1622,
     "to": 1719,
@@ -10009,6 +10018,20 @@
    }
   ],
   "transfers": [
+   {
+    "place": "Q1011508",
+    "year": 1660,
+    "from": "koruna",
+    "to": "eggenbergove",
+    "how": "dar"
+   },
+   {
+    "place": "Q1011508",
+    "year": 1719,
+    "from": "eggenbergove",
+    "to": "schwarzenbergove",
+    "how": "neznamo"
+   },
    {
     "place": "Q1012297",
     "year": 1622,
@@ -10094,7 +10117,7 @@
     "how": "dedictvi"
    }
   ],
-  "place_count": 6,
+  "place_count": 7,
   "color_slot": null
  },
  "eichendorffove": {
@@ -11734,7 +11757,7 @@
     "from": 1805,
     "to": 1824,
     "person": "Ferdinand III. Toskánský",
-    "how": "neznamo",
+    "how": "vymena",
     "from_approx": false,
     "to_approx": false
    },
@@ -11752,8 +11775,8 @@
     "from": 1847,
     "to": 1878,
     "person": "Ferdinand I. (V. Dobrotivý)",
-    "how": "neznamo",
-    "from_approx": true,
+    "how": "dedictvi",
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -11909,7 +11932,7 @@
     "year": 1805,
     "from": "wittelsbachove",
     "to": "habsburkove",
-    "how": "neznamo"
+    "how": "vymena"
    },
    {
     "place": "Q1752882",
@@ -42497,11 +42520,11 @@
    {
     "place": "Q1011508",
     "from": 1424,
-    "to": 1541,
+    "to": 1602,
     "person": "Oldřich II., Jan, Petr IV. a Petr V. z Rožmberka",
     "how": "jine",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q1012290",
@@ -42949,10 +42972,10 @@
    },
    {
     "place": "Q1011508",
-    "year": 1541,
+    "year": 1602,
     "from": "rozmberkove",
-    "to": "neznamo",
-    "how": "neznamo"
+    "to": "koruna",
+    "how": "koupe"
    },
    {
     "place": "Q1012290",
@@ -44501,7 +44524,7 @@
   "places": [
    {
     "place": "Q1011508",
-    "from": 1744,
+    "from": 1719,
     "to": 1947,
     "person": "Adolf Schwarzenberg",
     "how": "neznamo",
@@ -44728,8 +44751,8 @@
   "transfers": [
    {
     "place": "Q1011508",
-    "year": 1744,
-    "from": "neznamo",
+    "year": 1719,
+    "from": "eggenbergove",
     "to": "schwarzenbergove",
     "how": "neznamo"
    },
@@ -45209,11 +45232,11 @@
    {
     "place": "Q1013033",
     "from": 1724,
-    "to": null,
+    "to": 1875,
     "person": "Jan Fridrich ze Seilern-Aspangu",
     "how": "koupe",
     "from_approx": false,
-    "to_approx": false
+    "to_approx": true
    },
    {
     "place": "Q1752946",
@@ -45259,6 +45282,13 @@
     "from": "rottalove",
     "to": "seilern-und-aspang",
     "how": "koupe"
+   },
+   {
+    "place": "Q1013033",
+    "year": 1875,
+    "from": "seilern-und-aspang",
+    "to": "mesto",
+    "how": "neznamo"
    },
    {
     "place": "Q1752946",
@@ -58249,25 +58279,25 @@
    {
     "place": "Q1752882",
     "from": 1753,
-    "to": 1766,
+    "to": 1770,
     "person": "Klement František de Paula",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q1752882",
+    "from": 1770,
+    "to": 1782,
+    "person": "Maxmilián Josef Bavorský",
     "how": "dedictvi",
     "from_approx": false,
     "to_approx": true
    },
    {
     "place": "Q1752882",
-    "from": 1766,
-    "to": 1779,
-    "person": "Maxmilián Josef Bavorský",
-    "how": "dedictvi",
-    "from_approx": true,
-    "to_approx": true
-   },
-   {
-    "place": "Q1752882",
-    "from": 1779,
-    "to": 1792,
+    "from": 1782,
+    "to": 1793,
     "person": "Karel August Zweibrückenský",
     "how": "dedictvi",
     "from_approx": true,
@@ -58275,7 +58305,7 @@
    },
    {
     "place": "Q1752882",
-    "from": 1792,
+    "from": 1793,
     "to": 1805,
     "person": "Maxmilián Josef IV. Zweibrückenský",
     "how": "dedictvi",
@@ -58374,7 +58404,7 @@
     "year": 1805,
     "from": "wittelsbachove",
     "to": "habsburkove",
-    "how": "neznamo"
+    "how": "vymena"
    },
    {
     "place": "Q18164",
@@ -75757,7 +75787,7 @@
    {
     "place": "Q1012520",
     "from": 1553,
-    "to": null,
+    "to": 1948,
     "person": "Marek Khuen, Vilém Prusinovský z Víckova, Jan Mezon z Telče, Stanislav Pavlovský z Pavlovic, František z Dietrichsteina, další olomoučtí biskupové a od roku 1777 arcibiskupové (např. Bedřich z Fürstenberka, Theodor Kohn)",
     "how": "koupe",
     "from_approx": false,
@@ -77138,6 +77168,13 @@
     "from": "z-perkova",
     "to": "cirkev",
     "how": "koupe"
+   },
+   {
+    "place": "Q1012520",
+    "year": 1948,
+    "from": "cirkev",
+    "to": "stat",
+    "how": "konfiskace"
    },
    {
     "place": "Q1012715",
@@ -78523,15 +78560,6 @@
     "to_approx": false
    },
    {
-    "place": "Q1011508",
-    "from": 1541,
-    "to": 1744,
-    "person": null,
-    "how": "neznamo",
-    "from_approx": true,
-    "to_approx": true
-   },
-   {
     "place": "Q1012711",
     "from": 1620,
     "to": 1680,
@@ -79154,20 +79182,6 @@
     "year": 1755,
     "from": "neznamo",
     "to": "daunove",
-    "how": "neznamo"
-   },
-   {
-    "place": "Q1011508",
-    "year": 1541,
-    "from": "rozmberkove",
-    "to": "neznamo",
-    "how": "neznamo"
-   },
-   {
-    "place": "Q1011508",
-    "year": 1744,
-    "from": "neznamo",
-    "to": "schwarzenbergove",
     "how": "neznamo"
    },
    {
@@ -79927,7 +79941,7 @@
     "how": "koupe"
    }
   ],
-  "place_count": 60,
+  "place_count": 59,
   "color_slot": null
  },
  "stat": {
@@ -80016,6 +80030,15 @@
     "how": "neznamo",
     "from_approx": true,
     "to_approx": true
+   },
+   {
+    "place": "Q1012520",
+    "from": 1948,
+    "to": null,
+    "person": "Československo / Česká republika (správce Muzeum Beskyd Frýdek-Místek)",
+    "how": "konfiskace",
+    "from_approx": true,
+    "to_approx": false
    },
    {
     "place": "Q1012711",
@@ -80316,7 +80339,7 @@
    },
    {
     "place": "Q10857337",
-    "from": 1945,
+    "from": 1948,
     "to": 2004,
     "person": null,
     "how": "konfiskace",
@@ -83145,6 +83168,13 @@
     "how": "restituce"
    },
    {
+    "place": "Q1012520",
+    "year": 1948,
+    "from": "cirkev",
+    "to": "stat",
+    "how": "konfiskace"
+   },
+   {
     "place": "Q1012711",
     "year": 1951,
     "from": "soukromnik",
@@ -83496,7 +83526,7 @@
    },
    {
     "place": "Q10857337",
-    "year": 1945,
+    "year": 1948,
     "from": "colloredove",
     "to": "stat",
     "how": "konfiskace"
@@ -86708,7 +86738,7 @@
     "how": "restituce"
    }
   ],
-  "place_count": 306,
+  "place_count": 307,
   "color_slot": null
  },
  "koruna": {
@@ -86752,6 +86782,15 @@
     "how": "zalozeni",
     "from_approx": true,
     "to_approx": false
+   },
+   {
+    "place": "Q1011508",
+    "from": 1602,
+    "to": 1660,
+    "person": "Rudolf II.",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": true
    },
    {
     "place": "Q1012205",
@@ -89118,6 +89157,20 @@
     "from": "koruna",
     "to": "lichtenburkove",
     "how": "neznamo"
+   },
+   {
+    "place": "Q1011508",
+    "year": 1602,
+    "from": "rozmberkove",
+    "to": "koruna",
+    "how": "koupe"
+   },
+   {
+    "place": "Q1011508",
+    "year": 1660,
+    "from": "koruna",
+    "to": "eggenbergove",
+    "how": "dar"
    },
    {
     "place": "Q1012205",
@@ -92116,7 +92169,7 @@
     "how": "koupe"
    }
   ],
-  "place_count": 147,
+  "place_count": 148,
   "color_slot": null
  },
  "mesto": {
@@ -92301,6 +92354,15 @@
     "from": 1995,
     "to": null,
     "person": "Třemošnice",
+    "how": "neznamo",
+    "from_approx": true,
+    "to_approx": false
+   },
+   {
+    "place": "Q1013033",
+    "from": 1875,
+    "to": null,
+    "person": "obec Lukov",
     "how": "neznamo",
     "from_approx": true,
     "to_approx": false
@@ -93952,6 +94014,13 @@
     "how": "neznamo"
    },
    {
+    "place": "Q1013033",
+    "year": 1875,
+    "from": "seilern-und-aspang",
+    "to": "mesto",
+    "how": "neznamo"
+   },
+   {
     "place": "Q1013039",
     "year": 1562,
     "from": "plavensti-z-plavna",
@@ -95408,7 +95477,7 @@
     "how": "neznamo"
    }
   ],
-  "place_count": 159,
+  "place_count": 160,
   "color_slot": null
  },
  "soukromnik": {

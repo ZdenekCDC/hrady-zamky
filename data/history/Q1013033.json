@@ -6,7 +6,7 @@
   "approx": true,
   "text": "Doba vzniku ani zakladatel nejsou známi; nejstarší části hradu podle použité techniky zdění pocházejí z druhé čtvrtiny 13. století, první zmínky o markrabském hradě jsou z let 1219 a 1235."
  },
- "summary": "Lukov byl založen jako zeměpanský (markrabský) hrad nejspíše ve druhé čtvrtině 13. století. Od zástavy Šternberkům před rokem 1332 jej s krátkou přestávkou po vykoupení Karlem IV. držel šternberský rod (Zdeněk a Ješek, Albrecht, Jiřík a Lacek, později po výměně Matouš ze Šternberka a Holešova a Albrecht mladší) až do 1511, kdy připadl pánům z Kunštátu. Roku 1547 jej koupili Nekšové z Landeka a sňatkem Lukrécie Nekšovny 1609 přešel na Albrechta z Valdštejna, který jej 1624 prodal Štěpánu Šmídovi z Freyhofenu; poté patřil Minkvicům z Minkvicburku (od 1663), Rottalům (1710) a od 1724 Seilernům, kteří přesunuli správu panství do vsi. Hrad od konce 18. století chátral; dnes je zřícenina obnovovaná Spolkem přátel hradu Lukova.",
+ "summary": "Lukov byl založen jako zeměpanský (markrabský) hrad nejspíše ve druhé čtvrtině 13. století. Od zástavy Šternberkům před rokem 1332 jej s krátkou přestávkou po vykoupení Karlem IV. držel šternberský rod (Zdeněk a Ješek, Albrecht, Jiřík a Lacek, později po výměně Matouš ze Šternberka a Holešova a Albrecht mladší) až do 1511, kdy připadl pánům z Kunštátu. Roku 1547 jej koupili Nekšové z Landeka a sňatkem Lukrécie Nekšovny 1609 přešel na Albrechta z Valdštejna, který jej 1624 prodal Štěpánu Šmídovi z Freyhofenu; poté patřil Minkvicům z Minkvicburku (od 1663), Rottalům (1710) a od 1724 Seilernům, kteří přesunuli správu panství do vsi. Hrad od konce 18. století chátral; dnes je zřícenina ve vlastnictví obce Lukov, kterou obnovuje a provozuje Spolek přátel hradu Lukova.",
  "owners": [
   {
    "owner": "koruna",
@@ -50,7 +50,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "syn Zdeslava; koupil od Karla IV.; datum konce držby zdroje neuvádějí"
+   "note": "syn Zdeslava; koupil od Karla IV.; datum konce držby zdroje neuvádějí; podle cs.wiki (Šternberkové) zemřel 1371, založil lukovskou větev rodu"
   },
   {
    "owner": "sternberkove",
@@ -204,7 +204,18 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "vysoký dvorský úředník; přemístil vrchnostenské kanceláře z chátrajícího hradu do vsi (1773 podle mistopisy.cz); od 1793 hrad neobydlen, 1804 uváděn jako zřícenina; další vlastníci a dnešní vlastník hradu v dostupných zdrojích nejsou uvedeni (obnovu vede Spolek přátel hradu Lukova)"
+   "note": "vysoký dvorský úředník; přemístil vrchnostenské kanceláře z chátrajícího hradu do vsi (1773 podle mistopisy.cz); od 1793 hrad neobydlen, 1804 uváděn jako zřícenina; další vlastníci mezi Seilerny a obcí nejsou ve zdrojích uvedeni"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "obec Lukov",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "hradlukov.cz (Kontakty): majitel hradu je obec Lukov, provozovatelem je na základě nájemní smlouvy z 25. 10. 2019 Spolek přátel hradu Lukova (založen 1990); rok a způsob nabytí obcí zdroje neuvádějí"
   }
  ],
  "events": [
@@ -255,6 +266,12 @@
   "https://www.hradlukov.cz/historie (Spolek přátel hradu Lukova)",
   "https://www.lukov.cz/historie (obec Lukov)",
   "https://www.hrady.cz/hrad-lukov (komerční web, údaje o roce 1516 a 1721 se liší od cs.wiki)",
-  "https://en.wikipedia.org/wiki/Lukov_Castle"
+  "https://en.wikipedia.org/wiki/Lukov_Castle",
+  "https://www.hradlukov.cz/historie",
+  "http://www.hradlukov.cz/kontakty",
+  "http://www.hradlukov.cz/provozni-rad",
+  "https://www.mistopisy.cz/pruvodce/obec/10347/lukov/historie/",
+  "https://www.kamsevydat.cz/hrad-lukov-sidlo-stenberku/",
+  "https://cs.wikipedia.org/wiki/Šternberkové"
  ]
 }

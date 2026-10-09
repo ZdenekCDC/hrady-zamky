@@ -6,7 +6,7 @@
   "approx": true,
   "text": "Král Karel IV. roku 1349 povolil bratrům Joštovi, Petrovi, Janovi a Oldřichovi z Rožmberka stavbu hradu; ta proběhla v následujícím desetiletí, hrad je prokazatelně stál roku 1383 (pod německým jménem Maidstein)."
  },
- "summary": "Gotický hrad Dívčí kámen (Maidštejn) postavili od roku 1349 bratři z Rožmberka na ostrohu nad soutokem Křemžského potoka s Vltavou jako správní středisko panství; roku 1394 zde Jindřich III. z Rožmberka věznil zajatého krále Václava IV. a roku 1420 hrad odolal obléhání Jana Žižky. Rožmberkové jej drželi do poloviny 16. století, kdy jej Petr z Rožmberka přestal udržovat a roku 1541 je hrad připomínán jako pustý; zdroje neuvádějí vlastníka mezi touto dobou a přechodem na hlubocko-krumlovskou větev Schwarzenbergů zhruba v 18. století. Po znárodnění (Lex Schwarzenberg, 1947/1948) spravovaly zříceninu státní lesy, od roku 2005 patří městysu Křemže.",
+ "summary": "Gotický hrad Dívčí kámen (Maidštejn) postavili od roku 1349 bratři z Rožmberka na ostrohu nad soutokem Křemžského potoka s Vltavou jako správní středisko panství; roku 1394 zde Jindřich III. z Rožmberka věznil zajatého krále Václava IV. a roku 1420 hrad odolal obléhání Jana Žižky. Rožmberkové jej drželi do poloviny 16. století, kdy jej Petr z Rožmberka přestal udržovat a roku 1541 je hrad připomínán jako pustý; pustý hrad zůstal součástí krumlovského panství (Rožmberkové do 1602, Rudolf II., Eggenberkové, od 1719 Schwarzenbergové). Po znárodnění (Lex Schwarzenberg, 1947/1948) spravovaly zříceninu státní lesy, od roku 2005 patří městysu Křemže.",
  "owners": [
   {
    "owner": "rozmberkove",
@@ -35,33 +35,44 @@
    "owner_wiki": "Rožmberkové",
    "person": "Oldřich II., Jan, Petr IV. a Petr V. z Rožmberka",
    "from": 1424,
-   "to": 1541,
+   "to": 1602,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "jine",
-   "note": "Oldřich II. zde pobýval 1457-1461; po něm hrad zdědil syn Jan, poté Petr, jenž roku 1506 provedl poslední opravy, hrad přestal udržovat a vybavení odvezl do Českého Krumlova; roku 1541 se hrad připomíná jako pustý; Petr V. z Rožmberka zapsal v zemských deskách Meidštejn (pustý hrad) jako součást krumlovského panství (encyklopedie Českého Krumlova; ancient-history-sites.com, méně spolehlivý web, uvádí začlenění do krumlovského panství 1546)"
+   "note": "Oldřich II. zde pobýval 1457-1461; po něm hrad zdědil syn Jan, poté Petr, jenž roku 1506 provedl poslední opravy, hrad přestal udržovat a vybavení odvezl do Českého Krumlova; roku 1541 se hrad připomíná jako pustý; Petr V. z Rožmberka zapsal v zemských deskách Meidštejn (pustý hrad) jako součást krumlovského panství (encyklopedie Českého Krumlova; ancient-history-sites.com, méně spolehlivý web, uvádí začlenění do krumlovského panství 1546); zbořený hrad zůstal součástí krumlovského panství Rožmberků (1546 jsou všechny vsi panství Majdštejn již součástí panství Český Krumlov - divcikamen.cz), které roku 1602 koupil Rudolf II. (castle.ckrumlov.cz); samostatný záznam o držbě pustého hradu v tomto období se nedochoval, příslušnost vyplývá z příslušnosti ke krumlovskému panství"
   },
   {
-   "owner": "neznamo",
+   "owner": "koruna",
    "owner_wiki": null,
-   "person": null,
-   "from": 1541,
+   "person": "Rudolf II.",
+   "from": 1602,
    "to": null,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "ani cs.wiki, ani NPÚ, web hradu či encyklopedie Českého Krumlova neuvádějí držitele mezi pustnutím hradu a přechodem na Schwarzenbergy (hrad byl součástí krumlovského panství); ve třicetileté válce již zcela pustý"
+   "how": "koupe",
+   "note": "Rudolf II. koupil krumlovské panství, k němuž pustý hrad náležel (castle.ckrumlov.cz - historie zámku Český Krumlov; zmínka o Dívčím Kameni výslovně jen k 1541 a 1546, další příslušnost k panství je odvozena)"
+  },
+  {
+   "owner": "eggenbergove",
+   "owner_wiki": null,
+   "person": "Jan Oldřich z Eggenberku a jeho potomci",
+   "from": null,
+   "to": 1719,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dar",
+   "note": "císař Ferdinand II. věnoval krumlovské panství Janu Oldřichovi z Eggenberku (rok zdroj neuvádí); Eggenberkové vymřeli 1719 (castle.ckrumlov.cz); příslušnost zříceniny k panství odvozena"
   },
   {
    "owner": "schwarzenbergove",
    "owner_wiki": "Schwarzenbergové",
    "person": "Adolf Schwarzenberg",
-   "from": null,
+   "from": 1719,
    "to": 1947,
-   "from_approx": false,
+   "from_approx": true,
    "to_approx": false,
    "how": "neznamo",
-   "note": "hlubocko-krumlovská větev rodu vlastnila zříceninu \"zhruba od 18. století\" (cs.wiki, ancient-history-sites.com), přesný rok nabytí zdroje neuvádějí; roku 1936 Adolf Schwarzenberg zříceninu pronajal Klubu československých turistů v Českých Budějovicích; vlastnili ji jako součást okolních lesů"
+   "note": "na krumlovské panství přišli Schwarzenberkové po vymření Eggenberků 1719 (castle.ckrumlov.cz), cs.wiki uvádí držbu zříceniny jen zhruba od 18. století - rok 1719 je odvozen z toho; 1936 Adolf Schwarzenberg zříceninu pronajal Klubu československých turistů v Českých Budějovicích (divcikamen.cz); vlastnili ji jako součást okolních lesů"
   },
   {
    "owner": "stat",
@@ -134,6 +145,8 @@
   "https://kastelologie.cz/katalog/divci_kamen/divci_kamen.html",
   "https://www.npu.cz/cs/hrady-a-zamky/tipy-na-vylet/7002-zricenina-hradu-divci-kamen",
   "https://www.divcikamen.cz/o-hradu/historie/novoveka/",
-  "https://www.ancient-history-sites.com/sites/d-v-k-men/"
+  "https://www.ancient-history-sites.com/sites/d-v-k-men/",
+  "https://castle.ckrumlov.cz/cz/zamek_oinf_histor/",
+  "https://www.divcikamen.cz/o-hradu/historie/historicka-reserze/"
  ]
 }

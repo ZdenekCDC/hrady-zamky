@@ -1187,7 +1187,7 @@
    "approx": true,
    "text": "Král Karel IV. roku 1349 povolil bratrům Joštovi, Petrovi, Janovi a Oldřichovi z Rožmberka stavbu hradu; ta proběhla v následujícím desetiletí, hrad je prokazatelně stál roku 1383 (pod německým jménem Maidstein)."
   },
-  "summary": "Gotický hrad Dívčí kámen (Maidštejn) postavili od roku 1349 bratři z Rožmberka na ostrohu nad soutokem Křemžského potoka s Vltavou jako správní středisko panství; roku 1394 zde Jindřich III. z Rožmberka věznil zajatého krále Václava IV. a roku 1420 hrad odolal obléhání Jana Žižky. Rožmberkové jej drželi do poloviny 16. století, kdy jej Petr z Rožmberka přestal udržovat a roku 1541 je hrad připomínán jako pustý; zdroje neuvádějí vlastníka mezi touto dobou a přechodem na hlubocko-krumlovskou větev Schwarzenbergů zhruba v 18. století. Po znárodnění (Lex Schwarzenberg, 1947/1948) spravovaly zříceninu státní lesy, od roku 2005 patří městysu Křemže.",
+  "summary": "Gotický hrad Dívčí kámen (Maidštejn) postavili od roku 1349 bratři z Rožmberka na ostrohu nad soutokem Křemžského potoka s Vltavou jako správní středisko panství; roku 1394 zde Jindřich III. z Rožmberka věznil zajatého krále Václava IV. a roku 1420 hrad odolal obléhání Jana Žižky. Rožmberkové jej drželi do poloviny 16. století, kdy jej Petr z Rožmberka přestal udržovat a roku 1541 je hrad připomínán jako pustý; pustý hrad zůstal součástí krumlovského panství (Rožmberkové do 1602, Rudolf II., Eggenberkové, od 1719 Schwarzenbergové). Po znárodnění (Lex Schwarzenberg, 1947/1948) spravovaly zříceninu státní lesy, od roku 2005 patří městysu Křemže.",
   "owners": [
    {
     "owner": "rozmberkove",
@@ -1216,33 +1216,44 @@
     "owner_wiki": "Rožmberkové",
     "person": "Oldřich II., Jan, Petr IV. a Petr V. z Rožmberka",
     "from": 1424,
-    "to": 1541,
+    "to": 1602,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "jine",
-    "note": "Oldřich II. zde pobýval 1457-1461; po něm hrad zdědil syn Jan, poté Petr, jenž roku 1506 provedl poslední opravy, hrad přestal udržovat a vybavení odvezl do Českého Krumlova; roku 1541 se hrad připomíná jako pustý; Petr V. z Rožmberka zapsal v zemských deskách Meidštejn (pustý hrad) jako součást krumlovského panství (encyklopedie Českého Krumlova; ancient-history-sites.com, méně spolehlivý web, uvádí začlenění do krumlovského panství 1546)"
+    "note": "Oldřich II. zde pobýval 1457-1461; po něm hrad zdědil syn Jan, poté Petr, jenž roku 1506 provedl poslední opravy, hrad přestal udržovat a vybavení odvezl do Českého Krumlova; roku 1541 se hrad připomíná jako pustý; Petr V. z Rožmberka zapsal v zemských deskách Meidštejn (pustý hrad) jako součást krumlovského panství (encyklopedie Českého Krumlova; ancient-history-sites.com, méně spolehlivý web, uvádí začlenění do krumlovského panství 1546); zbořený hrad zůstal součástí krumlovského panství Rožmberků (1546 jsou všechny vsi panství Majdštejn již součástí panství Český Krumlov - divcikamen.cz), které roku 1602 koupil Rudolf II. (castle.ckrumlov.cz); samostatný záznam o držbě pustého hradu v tomto období se nedochoval, příslušnost vyplývá z příslušnosti ke krumlovskému panství"
    },
    {
-    "owner": "neznamo",
+    "owner": "koruna",
     "owner_wiki": null,
-    "person": null,
-    "from": 1541,
-    "to": 1744,
-    "from_approx": true,
+    "person": "Rudolf II.",
+    "from": 1602,
+    "to": 1660,
+    "from_approx": false,
     "to_approx": true,
-    "how": "neznamo",
-    "note": "ani cs.wiki, ani NPÚ, web hradu či encyklopedie Českého Krumlova neuvádějí držitele mezi pustnutím hradu a přechodem na Schwarzenbergy (hrad byl součástí krumlovského panství); ve třicetileté válce již zcela pustý"
+    "how": "koupe",
+    "note": "Rudolf II. koupil krumlovské panství, k němuž pustý hrad náležel (castle.ckrumlov.cz - historie zámku Český Krumlov; zmínka o Dívčím Kameni výslovně jen k 1541 a 1546, další příslušnost k panství je odvozena)"
+   },
+   {
+    "owner": "eggenbergove",
+    "owner_wiki": null,
+    "person": "Jan Oldřich z Eggenberku a jeho potomci",
+    "from": 1660,
+    "to": 1719,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "dar",
+    "note": "císař Ferdinand II. věnoval krumlovské panství Janu Oldřichovi z Eggenberku (rok zdroj neuvádí); Eggenberkové vymřeli 1719 (castle.ckrumlov.cz); příslušnost zříceniny k panství odvozena"
    },
    {
     "owner": "schwarzenbergove",
     "owner_wiki": "Schwarzenbergové",
     "person": "Adolf Schwarzenberg",
-    "from": 1744,
+    "from": 1719,
     "to": 1947,
     "from_approx": true,
     "to_approx": false,
     "how": "neznamo",
-    "note": "hlubocko-krumlovská větev rodu vlastnila zříceninu \"zhruba od 18. století\" (cs.wiki, ancient-history-sites.com), přesný rok nabytí zdroje neuvádějí; roku 1936 Adolf Schwarzenberg zříceninu pronajal Klubu československých turistů v Českých Budějovicích; vlastnili ji jako součást okolních lesů"
+    "note": "na krumlovské panství přišli Schwarzenberkové po vymření Eggenberků 1719 (castle.ckrumlov.cz), cs.wiki uvádí držbu zříceniny jen zhruba od 18. století - rok 1719 je odvozen z toho; 1936 Adolf Schwarzenberg zříceninu pronajal Klubu československých turistů v Českých Budějovicích (divcikamen.cz); vlastnili ji jako součást okolních lesů"
    },
    {
     "owner": "stat",
@@ -1315,7 +1326,9 @@
    "https://kastelologie.cz/katalog/divci_kamen/divci_kamen.html",
    "https://www.npu.cz/cs/hrady-a-zamky/tipy-na-vylet/7002-zricenina-hradu-divci-kamen",
    "https://www.divcikamen.cz/o-hradu/historie/novoveka/",
-   "https://www.ancient-history-sites.com/sites/d-v-k-men/"
+   "https://www.ancient-history-sites.com/sites/d-v-k-men/",
+   "https://castle.ckrumlov.cz/cz/zamek_oinf_histor/",
+   "https://www.divcikamen.cz/o-hradu/historie/historicka-reserze/"
   ]
  },
  "Q1012205": {
@@ -2524,7 +2537,7 @@
    "approx": true,
    "text": "Hrad postavili páni z Příbora (potomci Franka z Hückeswagenu) jako náhradu za ztracený hrad Jičín, nejspíše mezi lety 1260-1270; první písemná zmínka pochází z roku 1285."
   },
-  "summary": "Hukvaldy postavili ve 13. století páni z Příbora, od roku 1359 hrad s panstvím trvale vlastnilo olomoucké biskupství, s výjimkou opakovaných zástav a krátkodobých držav světských pánů během markraběcích a husitských válek (Rýzmburkové, Volfsberkové, Falkenberkové, Tovačovští z Cimburka, Lamberkové, Jan Čapek ze Sán aj.). V letech 1466-1511 hrad osobně vlastnil rod pánů z Boskovic, poté se natrvalo vrátil biskupství, které jej v 16. století přebudovalo na mohutnou pevnost proti tureckému nebezpečí (biskupové Thurzo, Khuen a další). Dnes je zříceninou a kulturní památkou. Roku 1760 byly úřady panství přeneseny do nového zámku v podhradí a hrad postupně zpustl na zříceninu; arcibiskupství jej v 19. stol. zajišťovalo a opravovalo, od 1969 jej obnovuje a spravuje muzeum (dnes Muzeum Beskyd Frýdek-Místek). Kdy přestal být majetkem arcibiskupství a kdo je dnešním vlastníkem, se z použitých zdrojů nepodařilo zjistit.",
+  "summary": "Hukvaldy postavili ve 13. století páni z Příbora, od roku 1359 hrad s panstvím trvale vlastnilo olomoucké biskupství, s výjimkou opakovaných zástav a krátkodobých držav světských pánů během markraběcích a husitských válek (Rýzmburkové, Volfsberkové, Falkenberkové, Tovačovští z Cimburka, Lamberkové, Jan Čapek ze Sán aj.). V letech 1466-1511 hrad osobně vlastnil rod pánů z Boskovic, poté se natrvalo vrátil biskupství, které jej v 16. století přebudovalo na mohutnou pevnost proti tureckému nebezpečí (biskupové Thurzo, Khuen a další). Dnes je zříceninou a kulturní památkou. Roku 1760 byly úřady panství přeneseny do nového zámku v podhradí a hrad postupně zpustl na zříceninu; arcibiskupství jej v 19. stol. zajišťovalo a opravovalo, od 1969 jej obnovuje a spravuje muzeum (dnes Muzeum Beskyd Frýdek-Místek). Arcibiskupství panství držel do roku 1948, kdy bylo zestátněno; hrad je dnes majetkem státu, spravuje jej Muzeum Beskyd Frýdek-Místek.",
   "owners": [
    {
     "owner": "z-pribora",
@@ -2712,11 +2725,22 @@
     "owner_wiki": null,
     "person": "Marek Khuen, Vilém Prusinovský z Víckova, Jan Mezon z Telče, Stanislav Pavlovský z Pavlovic, František z Dietrichsteina, další olomoučtí biskupové a od roku 1777 arcibiskupové (např. Bedřich z Fürstenberka, Theodor Kohn)",
     "from": 1553,
-    "to": null,
+    "to": 1948,
     "from_approx": false,
     "to_approx": true,
     "how": "koupe",
-    "note": "olomoucké biskupství (od 1777 arcibiskupství); podle Hukvaldského panství drželi biskupové panství nepřetržitě s výjimkou let 1593-1596 a 1617; 1617 biskup František z Ditrichštejna zastavil Hukvaldy na 6 let městu Příboru; arcibiskupství hrad opravovalo ještě v 19. stol. (1860-1862, od 1896 pravidelně). Zdroje neuvádějí, kdy a jak hrad přestal být majetkem arcibiskupství (od 1969 jej opravuje a spravuje Okresní vlastivědné muzeum, dnes Muzeum Beskyd Frýdek-Místek) ani kdo je dnešním vlastníkem - nepodařilo se ověřit, proto záznam zůstává otevřený (to null)"
+    "note": "olomoucké biskupství (od 1777 arcibiskupství); podle Hukvaldského panství drželi biskupové panství nepřetržitě s výjimkou let 1593-1596 a 1617; 1617 biskup František z Ditrichštejna zastavil Hukvaldy na 6 let městu Příboru; arcibiskupství hrad opravovalo ještě v 19. stol. (1860-1862, od 1896 pravidelně).; arcibiskupství vlastnilo hukvaldské panství a oboru kolem hradu do února 1948, kdy mu byl majetek zestátněn (oborahukvaldy.cz, cirkev.cz); rok převodu samotné zříceniny zdroje výslovně neuvádějí, 1948 je odvozen z převodu obory, jejíž součástí je památkově chráněný areál hradu"
+   },
+   {
+    "owner": "stat",
+    "owner_wiki": null,
+    "person": "Československo / Česká republika (správce Muzeum Beskyd Frýdek-Místek)",
+    "from": 1948,
+    "to": null,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "cs.wiki uvádí jako současného majitele stát, Moravskoslezský deník (2016): památkově chráněný hrad je majetkem státu; od 1969 jej obnovuje a spravuje muzeum (dnes příspěvková organizace Muzeum Beskyd Frýdek-Místek, pobočka Hrad Hukvaldy, zřizovatel Moravskoslezský kraj); obora kolem hradu přešla 1. 10. 2014 při majetkovém narovnání na Biskupství ostravsko-opavské"
    }
   ],
   "events": [
@@ -2777,6 +2801,10 @@
     "text": "olomoucké arcibiskupství začalo každoročně provádět opravy hradu"
    },
    {
+    "year": 1948,
+    "text": "po únoru 1948 zestátněn majetek olomouckého arcibiskupství na Hukvaldech včetně obory kolem hradu"
+   },
+   {
     "year": 1969,
     "text": "od roku 1969 postupná obnova a zpřístupnění hradu, kterou zajišťovalo Okresní vlastivědné muzeum ve Frýdku-Místku; opravy dnes zajišťuje Muzeum Beskyd Frýdek-Místek, které hrad spravuje"
    },
@@ -2790,7 +2818,10 @@
    "https://www.hradhukvaldy.eu/hrad-hukvaldy/historie-hradu/17-18-stoleti-knezske-vezeni/",
    "https://www.hradhukvaldy.eu/hrad-hukvaldy/historie-hradu/od-19-stoleti/",
    "https://www.hradhukvaldy.eu/",
-   "https://cs.wikipedia.org/wiki/Hukvaldské_panství"
+   "https://cs.wikipedia.org/wiki/Hukvaldské_panství",
+   "https://moravskoslezsky.denik.cz/zpravy-region/prave-pred-700-lety-ziskali-olomoucti-biskupove-starodavny-hrad-hukvaldy-poprve/",
+   "https://www.oborahukvaldy.cz/o-obore/",
+   "https://www.msk.cz/cs/temata/kultura/muzeum-beskyd-frydek_mistek-1427/"
   ]
  },
  "Q1012587": {
@@ -6187,7 +6218,7 @@
    "approx": true,
    "text": "Doba vzniku ani zakladatel nejsou známi; nejstarší části hradu podle použité techniky zdění pocházejí z druhé čtvrtiny 13. století, první zmínky o markrabském hradě jsou z let 1219 a 1235."
   },
-  "summary": "Lukov byl založen jako zeměpanský (markrabský) hrad nejspíše ve druhé čtvrtině 13. století. Od zástavy Šternberkům před rokem 1332 jej s krátkou přestávkou po vykoupení Karlem IV. držel šternberský rod (Zdeněk a Ješek, Albrecht, Jiřík a Lacek, později po výměně Matouš ze Šternberka a Holešova a Albrecht mladší) až do 1511, kdy připadl pánům z Kunštátu. Roku 1547 jej koupili Nekšové z Landeka a sňatkem Lukrécie Nekšovny 1609 přešel na Albrechta z Valdštejna, který jej 1624 prodal Štěpánu Šmídovi z Freyhofenu; poté patřil Minkvicům z Minkvicburku (od 1663), Rottalům (1710) a od 1724 Seilernům, kteří přesunuli správu panství do vsi. Hrad od konce 18. století chátral; dnes je zřícenina obnovovaná Spolkem přátel hradu Lukova.",
+  "summary": "Lukov byl založen jako zeměpanský (markrabský) hrad nejspíše ve druhé čtvrtině 13. století. Od zástavy Šternberkům před rokem 1332 jej s krátkou přestávkou po vykoupení Karlem IV. držel šternberský rod (Zdeněk a Ješek, Albrecht, Jiřík a Lacek, později po výměně Matouš ze Šternberka a Holešova a Albrecht mladší) až do 1511, kdy připadl pánům z Kunštátu. Roku 1547 jej koupili Nekšové z Landeka a sňatkem Lukrécie Nekšovny 1609 přešel na Albrechta z Valdštejna, který jej 1624 prodal Štěpánu Šmídovi z Freyhofenu; poté patřil Minkvicům z Minkvicburku (od 1663), Rottalům (1710) a od 1724 Seilernům, kteří přesunuli správu panství do vsi. Hrad od konce 18. století chátral; dnes je zřícenina ve vlastnictví obce Lukov, kterou obnovuje a provozuje Spolek přátel hradu Lukova.",
   "owners": [
    {
     "owner": "koruna",
@@ -6231,7 +6262,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "koupe",
-    "note": "syn Zdeslava; koupil od Karla IV.; datum konce držby zdroje neuvádějí"
+    "note": "syn Zdeslava; koupil od Karla IV.; datum konce držby zdroje neuvádějí; podle cs.wiki (Šternberkové) zemřel 1371, založil lukovskou větev rodu"
    },
    {
     "owner": "sternberkove",
@@ -6381,11 +6412,22 @@
     "owner_wiki": "Seilern und Aspang",
     "person": "Jan Fridrich ze Seilern-Aspangu",
     "from": 1724,
-    "to": null,
+    "to": 1875,
     "from_approx": false,
-    "to_approx": false,
+    "to_approx": true,
     "how": "koupe",
-    "note": "vysoký dvorský úředník; přemístil vrchnostenské kanceláře z chátrajícího hradu do vsi (1773 podle mistopisy.cz); od 1793 hrad neobydlen, 1804 uváděn jako zřícenina; další vlastníci a dnešní vlastník hradu v dostupných zdrojích nejsou uvedeni (obnovu vede Spolek přátel hradu Lukova)"
+    "note": "vysoký dvorský úředník; přemístil vrchnostenské kanceláře z chátrajícího hradu do vsi (1773 podle mistopisy.cz); od 1793 hrad neobydlen, 1804 uváděn jako zřícenina; další vlastníci mezi Seilerny a obcí nejsou ve zdrojích uvedeni"
+   },
+   {
+    "owner": "mesto",
+    "owner_wiki": null,
+    "person": "obec Lukov",
+    "from": 1875,
+    "to": null,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "hradlukov.cz (Kontakty): majitel hradu je obec Lukov, provozovatelem je na základě nájemní smlouvy z 25. 10. 2019 Spolek přátel hradu Lukova (založen 1990); rok a způsob nabytí obcí zdroje neuvádějí"
    }
   ],
   "events": [
@@ -6436,7 +6478,13 @@
    "https://www.hradlukov.cz/historie (Spolek přátel hradu Lukova)",
    "https://www.lukov.cz/historie (obec Lukov)",
    "https://www.hrady.cz/hrad-lukov (komerční web, údaje o roce 1516 a 1721 se liší od cs.wiki)",
-   "https://en.wikipedia.org/wiki/Lukov_Castle"
+   "https://en.wikipedia.org/wiki/Lukov_Castle",
+   "https://www.hradlukov.cz/historie",
+   "http://www.hradlukov.cz/kontakty",
+   "http://www.hradlukov.cz/provozni-rad",
+   "https://www.mistopisy.cz/pruvodce/obec/10347/lukov/historie/",
+   "https://www.kamsevydat.cz/hrad-lukov-sidlo-stenberku/",
+   "https://cs.wikipedia.org/wiki/Šternberkové"
   ]
  },
  "Q1013039": {
@@ -13525,7 +13573,7 @@
    "approx": true,
    "text": "Doba založení je nejasná; podle Tomáše Durdíka hrad vznikl ve 2. čtvrtině 13. století, za zakladatele bývá považován Břetislav ze Zbiroha, zmíněný roku 1247. Starší nepřímá zmínka o Chřenu ze Zbiroha (1230) se podle Dobroslavy Menclové vztahuje k jinému, blíže neznámému hradu Starý Zbiroh."
   },
-  "summary": "Hrad Zbiroh patří pravděpodobně k nejstarším šlechtickým hradům v Čechách, jeho vznik ve 2. čtvrtině 13. století je ale spojen s nejasnostmi kolem zakladatele. Postupně se v majetku vystřídali Drslavici, Přemysl Otakar II., Rožmberkové, král Zikmund, Kolovratové, Šternberkové a Lobkovicové, než jej získal Rudolf II. a přestavěl na renesanční zámek; po Bílé hoře sloužil jako královský žalář. Habsburkové jej roku 1868 prodali podnikateli Bethelu Heinrichu Strousbergovi, po jeho bankrotu 1879 koupili zámek Colloredo-Mansfeldové, za druhé světové války zde sídlil štáb SS a po roce 1945 zámek připadl státu a sloužil armádě (mj. jako radiotechnické stanoviště); od roku 2004 patří přes město Zbiroh firmě Gastro Žofín, která jej roku 2005 zpřístupnila veřejnosti.",
+  "summary": "Hrad Zbiroh patří pravděpodobně k nejstarším šlechtickým hradům v Čechách, jeho vznik ve 2. čtvrtině 13. století je ale spojen s nejasnostmi kolem zakladatele. Postupně se v majetku vystřídali Drslavici, Přemysl Otakar II., Rožmberkové, král Zikmund, Kolovratové, Šternberkové a Lobkovicové, než jej získal Rudolf II. a přestavěl na renesanční zámek; po Bílé hoře sloužil jako královský žalář. Habsburkové jej roku 1868 prodali podnikateli Bethelu Heinrichu Strousbergovi, po jeho bankrotu 1879 koupili zámek Colloredo-Mansfeldové, za druhé světové války zde sídlil štáb SS a po válce (1945/1948) zámek připadl státu a sloužil armádě (mj. jako radiotechnické stanoviště); od roku 2004 patří přes město Zbiroh firmě Gastro Žofín, která jej roku 2005 zpřístupnila veřejnosti.",
   "owners": [
    {
     "owner": "sulislavici",
@@ -13615,7 +13663,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "v rodu držen téměř sto let; po obvinění z velezrady (1593) bylo panství 1594 zabaveno a přivtěleno ke královské komoře (nszbiroh.estranky.cz, amatérský zdroj; kultura.cz uvádí konfiskaci 1609, stoplusjednicka.cz zmiňuje Ladislava z Lobkovic); po Bílé hoře zde byl vězněn Vilém Popel z Lobkovic (cs.wiki)"
+    "note": "v rodu držen téměř sto let; po obvinění z velezrady (1593) bylo panství 1594 zabaveno a přivtěleno ke královské komoře (nszbiroh.estranky.cz, amatérský zdroj; kultura.cz uvádí konfiskaci 1609, stoplusjednicka.cz zmiňuje Ladislava z Lobkovic); po Bílé hoře zde byl vězněn Vilém Popel z Lobkovic (cs.wiki); druhý nezávislý zdroj pro 1594 vs 1609 se nenašel"
    },
    {
     "owner": "koruna",
@@ -13637,28 +13685,28 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "koupil panství za 9,5 milionu zlatých (cs.wiki); 1869-1870 zámek přestavěl podle Augusta Ortha do novorenesanční podoby; po bankrotu zámek 1879 v dražbě koupili Colloredo-Mansfeldové (lesyzbiroh.cz: od Vídeňské hypoteční banky, největšího věřitele)"
+    "note": "koupil panství za 9,5 milionu zlatých (cs.wiki); 1869-1870 zámek přestavěl podle Augusta Ortha do novorenesanční podoby; po bankrotu zámek 1879 v dražbě koupili Colloredo-Mansfeldové (lesyzbiroh.cz: od Vídeňské hypoteční banky, největšího věřitele); rok 1868 potvrzuje i web města Zbiroh (zbiroh.cz); nszbiroh.estranky.cz uvádí 1865"
    },
    {
     "owner": "colloredove",
     "owner_wiki": "Colloredové",
     "person": "Colloredo-Mannsfeldové",
     "from": 1879,
-    "to": 1945,
+    "to": 1948,
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "koupě v dražbě 1879; 1912-1928 zde bydlel Alfons Mucha; 1943-1945 sídlo štábu SS; kultura.cz uvádí držbu 1879-1945, lesyzbiroh.cz říká, že Jeroným Colloredo-Mannsfeld hospodařil na majetku do znárodnění 1948"
+    "note": "koupě v dražbě 1879 od Vídeňské hypoteční banky, největšího věřitele Strousberga (lesyzbiroh.cz; město Zbiroh uvádí koupi knížetem Josefem Colloredo-Mannsfeldem); 1912-1928 zde bydlel Alfons Mucha; 1943-1945 sídlo štábu SS; po válce podle lesyzbiroh.cz Jeroným Colloredo-Mannsfeld majetek převzal a hospodařil na něm do znárodnění 1948 (cs.wiki a ČTK/ceskenoviny.cz 2004 uvádějí převzetí státem již 1945 podle Benešových dekretů, rozhodnutí ZNV o vrácení 1947; kultura.cz uvádí držbu do 1945)"
    },
    {
     "owner": "stat",
     "owner_wiki": null,
-    "from": 1945,
+    "from": 1948,
     "to": 2004,
     "from_approx": false,
     "to_approx": false,
     "how": "konfiskace",
-    "note": "po válce majetek Československého státu, využívala armáda (radiotechnické stanoviště), vojáci odcházeli od 1997; kultura.cz a stoplusjednicka.cz zmiňují restituci Colloredům počátkem 90. let a následný prodej armádě - nepotvrzeno v cs.wiki"
+    "note": "po znárodnění 1948 majetek státu (cs.wiki a ČTK uvádějí převzetí státem již 1945), využívala armáda (radiotechnické stanoviště), vojáci odcházeli od 1997; ČTK (ceskenoviny.cz 2004): zámek byl po 1989 vrácen restituentovi Jeronýmu Colloredo-Mannsfeldovi, ten se ho ale zřekl nebo ho podle některých pramenů prodal zpět armádě, v držení rodu nezůstal; lesyzbiroh.cz restituci uvádí pro panství (rok 1992/1993), ne pro zámek; držitele mezi restitucí a 2004 se nepodařilo doložit, proto zůstává stát"
    },
    {
     "owner": "mesto",
@@ -13709,8 +13757,8 @@
     "text": "1943-1945 sídlo štábu SS"
    },
    {
-    "year": 1945,
-    "text": "zámek připadá československému státu, později využíván armádou"
+    "year": 1948,
+    "text": "znárodnění zbirožského panství (cs.wiki uvádí převzetí státem 1945), zámek později využívá armáda"
    },
    {
     "year": 2005,
@@ -13724,7 +13772,8 @@
    "https://www.zbiroh.cz/mesto/nase-mesto/historie/",
    "http://www.kultura.cz/profile/5899-zamek-zbiroh",
    "https://nszbiroh.estranky.cz/clanky/zbiroh/dejiny-zbiroha--hradu-i-mesta-.html",
-   "https://www.stoplusjednicka.cz/historie-zamku-zbiroh-poznejte-osudy-hradu-tri-cisaru"
+   "https://www.stoplusjednicka.cz/historie-zamku-zbiroh-poznejte-osudy-hradu-tri-cisaru",
+   "https://www.ceskenoviny.cz/zpravy/46360"
   ]
  },
  "Q10938001": {
@@ -36149,29 +36198,29 @@
     "owner_wiki": "Wittelsbachové",
     "person": "Klement František de Paula",
     "from": 1753,
-    "to": 1766,
+    "to": 1770,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "dedictvi",
-    "note": "zemřel bezdětný; rok smrti zdroj neuvádí"
+    "note": "zemřel bezdětný; zamekploskovice.cz uvádí, že roku 1770 panství připadlo Maxmiliánu Josefu III. (méně spolehlivý web, cs.wiki rok neuvádí)"
    },
    {
     "owner": "wittelsbachove",
     "owner_wiki": "Wittelsbachové",
     "person": "Maxmilián Josef Bavorský",
-    "from": 1766,
-    "to": 1779,
-    "from_approx": true,
+    "from": 1770,
+    "to": 1782,
+    "from_approx": false,
     "to_approx": true,
     "how": "dedictvi",
-    "note": "bavorský kurfiřt, hlavní sídlo v Čechách měl v Zákupech, v Ploskovicích bydleli úředníci; 1775 velké selské povstání proti vrchnímu Antonínu Mölzerovi; zemřel bez dětí"
+    "note": "bavorský kurfiřt, hlavní sídlo v Čechách měl v Zákupech, v Ploskovicích bydleli úředníci; 1775 velké selské povstání proti vrchnímu Antonínu Mölzerovi; zemřel bez dětí; rok 1770 podle zamekploskovice.cz (méně spolehlivý web)"
    },
    {
     "owner": "wittelsbachove",
     "owner_wiki": "Wittelsbachové",
     "person": "Karel August Zweibrückenský",
-    "from": 1779,
-    "to": 1792,
+    "from": 1782,
+    "to": 1793,
     "from_approx": true,
     "to_approx": true,
     "how": "dedictvi",
@@ -36181,7 +36230,7 @@
     "owner": "wittelsbachove",
     "owner_wiki": "Wittelsbachové",
     "person": "Maxmilián Josef IV. Zweibrückenský",
-    "from": 1792,
+    "from": 1793,
     "to": 1805,
     "from_approx": true,
     "to_approx": false,
@@ -36196,8 +36245,8 @@
     "to": 1824,
     "from_approx": false,
     "to_approx": false,
-    "how": "neznamo",
-    "note": "zámek získal arcikníže Ferdinand III. Toskánský (způsob nabytí zdroje neuvádějí); 1807 připojeno zahořanské panství; starý zámek zchátral a 1816 byl zbořen"
+    "how": "vymena",
+    "note": "zámek získal arcikníže Ferdinand III. Toskánský výměnou (NPÚ, npu.cz); oficiální web zámku, cs.wiki a NPÚ uvádějí 1805, web obce Ploskovice a en.wiki uvádějí předání wittelsbašských statků v Čechách až 1813; 1807 připojeno zahořanské panství; starý zámek zchátral a 1816 byl zbořen"
    },
    {
     "owner": "habsburkove",
@@ -36216,10 +36265,10 @@
     "person": "Ferdinand I. (V. Dobrotivý)",
     "from": 1847,
     "to": 1878,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false,
-    "how": "neznamo",
-    "note": "po abdikaci 1848 letní sídlo (oficiální web: od 1849, cs.wiki: nastěhoval se 1854, kdy skončila Bělského přestavba); způsob a rok převzetí od Leopolda II. zdroje neuvádějí; zemřel 1878; en.wiki (obec) uvádí majetek Ferdinanda I. již od 1835, což odporuje cs.wiki"
+    "how": "dedictvi",
+    "note": "podle NPÚ přešla panství na císaře Ferdinanda I. 1847 (podle smluv Vídeňského kongresu), což navazuje na konec držby Leopolda II.; po abdikaci 1848 letní sídlo (oficiální web: od 1849, cs.wiki: nastěhoval se 1854, kdy skončila Bělského přestavba); web obce Ploskovice a en.wiki uvádějí jeho majetek již od 1835, což odporuje NPÚ; zemřel 1878"
    },
    {
     "owner": "habsburkove",
@@ -36278,6 +36327,10 @@
     "text": "dokončovací práce na novém vrcholně barokním zámku Anny Marie Františky Toskánské"
    },
    {
+    "year": 1770,
+    "text": "panství připadá Maxmiliánu Josefu III. Bavorskému (zamekploskovice.cz)"
+   },
+   {
     "year": 1775,
     "text": "velké selské povstání na ploskovickém panství proti vrchnostenskému útlaku"
    },
@@ -36308,7 +36361,9 @@
    "https://zamek-ploskovice.cz/cs/o-zamku/historie",
    "https://cs.wikipedia.org/wiki/Ploskovice_(okres_Litoměřice)",
    "https://en.wikipedia.org/wiki/Ploskovice",
-   "https://www.zamekploskovice.cz/historie-zamku/"
+   "https://www.zamekploskovice.cz/historie-zamku/",
+   "https://npu.cz/cs/e-shop/131698-zamek-ploskovice",
+   "https://www.ploskovice.cz/obec/historie-a-pamatky/historie-ploskovic/"
   ]
  },
  "Q1752946": {
@@ -68445,7 +68500,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "lenni",
-    "note": "Václav IV. zastavil hrad se Starým Plzencem za 1000 kop grošů; rod bez vlastního cs.wiki článku"
+    "note": "Václav IV. zastavil hrad se Starým Plzencem za 1000 kop grošů; rod bez vlastního cs.wiki článku; oshr.cz uvádí Zachaře ze Svinař (z Radyně) jako manského vlastníka hradu v letech 1404-1410"
    },
    {
     "owner": "koruna",
@@ -68511,7 +68566,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "lenni",
-    "note": "později hrad prodal a přestěhoval se nejspíše do Vlhav; noví majitelé mezi 1483-1496 nejsou v pramenech uvedeni"
+    "note": "později hrad prodal a přestěhoval se nejspíše do Vlhav; noví majitelé mezi 1483-1496 nejsou v pramenech uvedeni; oshr.cz uvádí jeho nástup kolem 1470 (cs.wiki a hrady.dejiny.cz po 1465)"
    },
    {
     "owner": "neznamo",
@@ -68522,7 +68577,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "Petr Kořenský hrad někdy po 1483 prodal, kupec není v pramenech uveden (cs.wiki, hrady.dejiny.cz)"
+    "note": "Petr Kořenský hrad někdy po 1483 prodal, kupec není v pramenech uveden (cs.wiki, hrady.dejiny.cz); oshr.cz uvádí k roku 1487 na hradě správce Oldřicha (vlastník nejmenován); hrady.dejiny.cz: kupec není znám a další zpráva je až z 1496"
    },
    {
     "owner": "sternberkove",

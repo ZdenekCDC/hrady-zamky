@@ -112,22 +112,22 @@
    "owner_wiki": "Wittelsbachové",
    "person": "Klement František de Paula",
    "from": 1753,
-   "to": null,
+   "to": 1770,
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "zemřel bezdětný; rok smrti zdroj neuvádí"
+   "note": "zemřel bezdětný; zamekploskovice.cz uvádí, že roku 1770 panství připadlo Maxmiliánu Josefu III. (méně spolehlivý web, cs.wiki rok neuvádí)"
   },
   {
    "owner": "wittelsbachove",
    "owner_wiki": "Wittelsbachové",
    "person": "Maxmilián Josef Bavorský",
-   "from": null,
+   "from": 1770,
    "to": null,
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "bavorský kurfiřt, hlavní sídlo v Čechách měl v Zákupech, v Ploskovicích bydleli úředníci; 1775 velké selské povstání proti vrchnímu Antonínu Mölzerovi; zemřel bez dětí"
+   "note": "bavorský kurfiřt, hlavní sídlo v Čechách měl v Zákupech, v Ploskovicích bydleli úředníci; 1775 velké selské povstání proti vrchnímu Antonínu Mölzerovi; zemřel bez dětí; rok 1770 podle zamekploskovice.cz (méně spolehlivý web)"
   },
   {
    "owner": "wittelsbachove",
@@ -159,8 +159,8 @@
    "to": 1824,
    "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "zámek získal arcikníže Ferdinand III. Toskánský (způsob nabytí zdroje neuvádějí); 1807 připojeno zahořanské panství; starý zámek zchátral a 1816 byl zbořen"
+   "how": "vymena",
+   "note": "zámek získal arcikníže Ferdinand III. Toskánský výměnou (NPÚ, npu.cz); oficiální web zámku, cs.wiki a NPÚ uvádějí 1805, web obce Ploskovice a en.wiki uvádějí předání wittelsbašských statků v Čechách až 1813; 1807 připojeno zahořanské panství; starý zámek zchátral a 1816 byl zbořen"
   },
   {
    "owner": "habsburkove",
@@ -177,12 +177,12 @@
    "owner": "habsburkove",
    "owner_wiki": "Habsburkové",
    "person": "Ferdinand I. (V. Dobrotivý)",
-   "from": null,
+   "from": 1847,
    "to": 1878,
    "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "po abdikaci 1848 letní sídlo (oficiální web: od 1849, cs.wiki: nastěhoval se 1854, kdy skončila Bělského přestavba); způsob a rok převzetí od Leopolda II. zdroje neuvádějí; zemřel 1878; en.wiki (obec) uvádí majetek Ferdinanda I. již od 1835, což odporuje cs.wiki"
+   "how": "dedictvi",
+   "note": "podle NPÚ přešla panství na císaře Ferdinanda I. 1847 (podle smluv Vídeňského kongresu), což navazuje na konec držby Leopolda II.; po abdikaci 1848 letní sídlo (oficiální web: od 1849, cs.wiki: nastěhoval se 1854, kdy skončila Bělského přestavba); web obce Ploskovice a en.wiki uvádějí jeho majetek již od 1835, což odporuje NPÚ; zemřel 1878"
   },
   {
    "owner": "habsburkove",
@@ -208,20 +208,66 @@
   }
  ],
  "events": [
-  {"year": 1188, "text": "Hroznata daruje Ploskovice řádu johanitů"},
-  {"year": 1278, "text": "poprvé se připomíná johanitská komenda"},
-  {"year": 1436, "text": "císař Zikmund zastavuje Ploskovice Jakoubkovi z Vřesovic"},
-  {"year": 1496, "text": "povstání poddaných proti Adamovi z Drahonic, poddaní se podřizují Daliborovi z Kozojed (popraven 1498)"},
-  {"year": 1545, "text": "johanité prodávají Ploskovice synům Václava Trčky z Vítence; Jan Habart z Vřesovic přestavuje tvrz na renesanční zámek (nejspíše 1545-1575)"},
-  {"year": 1650, "text": "smrt hraběte Jindřicha Šlika, panství dědí dcera Marie Sidonie"},
-  {"year": 1663, "text": "Marie Sidonie prodává panství vévodovi Juliu Jindřichovi Sasko-Lauenburskému"},
-  {"year": 1725, "text": "dokončovací práce na novém vrcholně barokním zámku Anny Marie Františky Toskánské"},
-  {"year": 1775, "text": "velké selské povstání na ploskovickém panství proti vrchnostenskému útlaku"},
-  {"year": 1805, "text": "zámek získává arcikníže Ferdinand III. Toskánský"},
-  {"year": 1816, "text": "zchátralý starý barokní zámek zbořen"},
-  {"year": 1848, "text": "zahájena velká přestavba zámku architektem Janem Bělským pro letní sídlo abdikovaného Ferdinanda I. (dokončena 1854)"},
-  {"year": 1918, "text": "zámek obsazen a poškozen litoměřickým Bürgerwehrem při pokusu o odtržení Sudet"},
-  {"year": 1960, "text": "zámek po poválečných opravách zpřístupněn veřejnosti (v 60. letech)"}
+  {
+   "year": 1188,
+   "text": "Hroznata daruje Ploskovice řádu johanitů"
+  },
+  {
+   "year": 1278,
+   "text": "poprvé se připomíná johanitská komenda"
+  },
+  {
+   "year": 1436,
+   "text": "císař Zikmund zastavuje Ploskovice Jakoubkovi z Vřesovic"
+  },
+  {
+   "year": 1496,
+   "text": "povstání poddaných proti Adamovi z Drahonic, poddaní se podřizují Daliborovi z Kozojed (popraven 1498)"
+  },
+  {
+   "year": 1545,
+   "text": "johanité prodávají Ploskovice synům Václava Trčky z Vítence; Jan Habart z Vřesovic přestavuje tvrz na renesanční zámek (nejspíše 1545-1575)"
+  },
+  {
+   "year": 1650,
+   "text": "smrt hraběte Jindřicha Šlika, panství dědí dcera Marie Sidonie"
+  },
+  {
+   "year": 1663,
+   "text": "Marie Sidonie prodává panství vévodovi Juliu Jindřichovi Sasko-Lauenburskému"
+  },
+  {
+   "year": 1725,
+   "text": "dokončovací práce na novém vrcholně barokním zámku Anny Marie Františky Toskánské"
+  },
+  {
+   "year": 1770,
+   "text": "panství připadá Maxmiliánu Josefu III. Bavorskému (zamekploskovice.cz)"
+  },
+  {
+   "year": 1775,
+   "text": "velké selské povstání na ploskovickém panství proti vrchnostenskému útlaku"
+  },
+  {
+   "year": 1805,
+   "text": "zámek získává arcikníže Ferdinand III. Toskánský"
+  },
+  {
+   "year": 1816,
+   "text": "zchátralý starý barokní zámek zbořen"
+  },
+  {
+   "year": 1848,
+   "text": "zahájena velká přestavba zámku architektem Janem Bělským pro letní sídlo abdikovaného Ferdinanda I. (dokončena 1854)"
+  },
+  {
+   "year": 1918,
+   "text": "zámek obsazen a poškozen litoměřickým Bürgerwehrem při pokusu o odtržení Sudet"
+  },
+  {
+   "year": 1960,
+   "text": "zámek po poválečných opravách zpřístupněn veřejnosti (v 60. letech)"
+  }
  ],
  "sources": [
   "https://cs.wikipedia.org/wiki/Ploskovice_(zámek)",
@@ -229,6 +275,8 @@
   "https://zamek-ploskovice.cz/cs/o-zamku/historie",
   "https://cs.wikipedia.org/wiki/Ploskovice_(okres_Litoměřice)",
   "https://en.wikipedia.org/wiki/Ploskovice",
-  "https://www.zamekploskovice.cz/historie-zamku/"
+  "https://www.zamekploskovice.cz/historie-zamku/",
+  "https://npu.cz/cs/e-shop/131698-zamek-ploskovice",
+  "https://www.ploskovice.cz/obec/historie-a-pamatky/historie-ploskovic/"
  ]
 }
