@@ -105,7 +105,18 @@
    "from_approx": false,
    "to_approx": false,
    "how": "lenni",
-   "note": "eurozpravy.cz: 1623 císař podstoupil moravskokrumlovské panství včetně hradu Gundakarovi z Lichtenštejna, jehož rodu patřilo do 1908; hrad byl 1625 uveden jako zcela pustý; druhý zdroj pro tuto držbu chybí"
+   "note": "templstejn.cz: 1623 císař podstoupil celé moravskokrumlovské panství včetně hradu knížeti Gundakarovi z Lichtenštejna (stav stvrzen zápisem do zemských desek 1625, hrad tehdy zcela pustý), Lichtenštejnům panství patřilo do 1908, kdy jejich moravskokrumlovská větev vymřela; cs.wiki (zámek Moravský Krumlov): Gundakar panství 1625 odkoupil od koruny"
+  },
+  {
+   "owner": "kinsti",
+   "owner_wiki": "Kinští",
+   "person": "Ferdinand Rudolf Kinský (†1916), poté syn Rudolf Antonín Kinský",
+   "from": 1908,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "templstejn.cz: po vymření moravskokrumlovské větve Lichtenštejnů 1908 panství přešlo na spřízněné Kinské, kterým patřilo do konfiskace 1945; jména podle cs.wiki (zámek Moravský Krumlov)"
   },
   {
    "owner": "stat",
@@ -113,10 +124,10 @@
    "person": "Lesy České republiky, s. p.",
    "from": 1945,
    "to": 2011,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "po 1945 se hrad dostal do majetku státu (eurozpravy.cz), později ve správě Lesů ČR; zdroje neuvádějí vlastníka v letech 1908-1945"
+   "note": "po konfiskaci Kinských 1945 se hrad dostal do majetku státu (templstejn.cz, eurozpravy.cz), později ve správě Lesů ČR"
   },
   {
    "owner": "soukromnik",
@@ -169,6 +180,7 @@
   "http://www.templstejn.cz/hrad-templstejn/historie-hradu/",
   "https://eurozpravy.cz/cestovani/hrad-templstejn-dodnes-udajne-skryva-podklad-radu-templaru.f797e765",
   "https://www.tourismato.cz/hrad-templstejn-znojmo-p172258",
-  "https://sk.wikipedia.org/wiki/Templ%C5%A1tejn_(okres_Znojmo)"
+  "https://sk.wikipedia.org/wiki/Templ%C5%A1tejn_(okres_Znojmo)",
+  "https://cs.wikipedia.org/wiki/Moravský_Krumlov_(zámek)"
  ]
 }

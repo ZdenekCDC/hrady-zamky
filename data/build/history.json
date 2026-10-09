@@ -23878,7 +23878,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "neznamo",
-    "note": "NPÚ (isad.npu.cz): hrad patrně po 1358 založil Petr z Janovic; poslední z rodiny Jan Jenec (purkrabí Pražského hradu 1470-1503) roku 1483 panství prodal Burianovi z Gutštejna"
+    "note": "NPÚ (isad.npu.cz): hrad patrně po 1358 založil Petr z Janovic; poslední z rodiny Jan Jenec (purkrabí Pražského hradu 1470-1503) roku 1483 panství prodal Burianovi z Gutštejna; hrady.cz (Sedláček) a databáze slechta.ff.cuni.cz: Petr z Janovic držel panství 1358-1371 a Petršpurk založil a pojmenoval po sobě; 1374 se synové rozdělili, od 1378 Jenec"
    },
    {
     "owner": "pani-z-gutstejna",
@@ -23940,11 +23940,22 @@
     "owner_wiki": null,
     "person": null,
     "from": 1945,
-    "to": null,
+    "to": 1986,
     "from_approx": false,
-    "to_approx": false,
+    "to_approx": true,
     "how": "konfiskace",
-    "note": "po konfiskaci majetku Černínů 1945 připadlo panství státu; zdroje o hradu neuvádějí současného vlastníka zříceniny, zámek využívala psychiatrická léčebna; zřícenina je kulturní památka"
+    "note": "po konfiskaci majetku Černínů 1945 připadlo panství státu; zdroje o hradu neuvádějí současného vlastníka zříceniny, zámek využívala psychiatrická léčebna; zřícenina je kulturní památka; kaple Všech svatých na místě hradu je dnes v majetku obce Petrohrad (e-chalupy.cz, PR Deník 2026), vlastník vlastní zříceniny zdroje neuvádějí"
+   },
+   {
+    "owner": "mesto",
+    "owner_wiki": null,
+    "person": "obec Petrohrad (vlastník kaple Všech svatých na místě hradu)",
+    "from": 1986,
+    "to": null,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "zdroje (e-chalupy.cz, pr.denik.cz 2026) uvádějí kapli jako majetek obce, rok nabytí neuveden; vlastník zbytků hradu zdroje výslovně neuvádějí"
    }
   ],
   "events": [
@@ -23986,7 +23997,11 @@
    "https://cs.wikipedia.org/wiki/Petrohrad_(zámek)",
    "https://isad.npu.cz/zricenina-hradu-petrohrad-5521",
    "https://www.hrady.cz/hrad-petrohrad-petrspurk",
-   "https://www.kudyznudy.cz/aktivity/zricenina-hradu-petrohrad"
+   "https://www.kudyznudy.cz/aktivity/zricenina-hradu-petrohrad",
+   "http://slechta.ff.cuni.cz/i-obd.php?id=1060",
+   "https://hrady-zriceniny.cz/hrad_petrohrad.htm",
+   "https://www.e-chalupy.cz/kaple-vsech-svatych-petrohrad-p180785",
+   "https://pr.denik.cz/doporucujeme/petrohrad-neni-jen-dalnice/"
   ]
  },
  "Q12045661": {
@@ -24512,7 +24527,7 @@
     "from_approx": true,
     "to_approx": false,
     "how": "zalozeni",
-    "note": "krátká zástava za Jana Lucemburského vykoupena roku 1333 Karlem IV.; roku 1419 získal hrad od Václava IV. Jan Hájek z Hodětína"
+    "note": "krátká zástava za Jana Lucemburského vykoupena roku 1333 Karlem IV.; roku 1419 získal hrad od Václava IV. Jan Hájek z Hodětína; hrady.cz: zástava neznámému věřiteli vyplacena markrabětem Karlem až 1334"
    },
    {
     "owner": "z-hodetina",
@@ -24556,7 +24571,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "lenni",
-    "note": "označován jako pán na Písku, naposledy doložen 1471; uvádí jen cs.wiki, druhý zdroj Lva z Rožmitálu nezmiňuje"
+    "note": "označován jako pán na Písku, naposledy doložen 1471; uvádí jen cs.wiki, druhý zdroj Lva z Rožmitálu nezmiňuje; hrady.cz Lva z Rožmitálu rovněž nezmiňuje (uvádí jen 1453 postoupení hradu Malovci)"
    },
    {
     "owner": "jenstejnove",
@@ -24633,7 +24648,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "lenni",
-    "note": "hrad s městem získali 21. června 1623 do zástavy za 110000 zlatých; Huerta na hradě příležitostně sídlil a roku 1632 nechal jižní křídlo přestavět na pivovar; po jeho smrti 1637 hrad ztratil sídelní funkci; oko.yin.cz uvádí zástavu 1621 (po dobytí města 1620), cs.wiki 21. června 1623 - zvolen přesnější údaj cs.wiki"
+    "note": "hrad s městem získali 21. června 1623 do zástavy za 110000 zlatých; Huerta na hradě příležitostně sídlil a roku 1632 nechal jižní křídlo přestavět na pivovar; po jeho smrti 1637 hrad ztratil sídelní funkci; rozpor: hrady.cz (Hrady, zámky a tvrze, 1988) a oko.yin.cz uvádějí konfiskaci a zástavu Huertovi a Arrizagovi 1621 (po dobytí města 1620), cs.wiki 21. června 1623 (Arizace svůj díl postoupil 28. 11. 1625, podle Třísky a hrady.cz už 1623); web města Písku uvádí zastavení 1623 - ponechán 1623"
    },
    {
     "owner": "mesto",
@@ -24654,7 +24669,7 @@
    },
    {
     "year": 1333,
-    "text": "Karel IV. vykupuje hrad ze zástavy"
+    "text": "Karel IV. vykupuje hrad ze zástavy (hrady.cz uvádí 1334)"
    },
    {
     "year": 1509,
@@ -24686,7 +24701,8 @@
    "https://www.hrady.cz/hrad-pisek/texty?pos=1000&tid=1701",
    "http://www.chko.cz/encyklopedie/objekty1.phtml?id=77177",
    "http://www.oko.yin.cz/103/hrad-pisek-prachenske-muzeum/",
-   "http://www.pruvodce.com/prachenskemuzeum/"
+   "http://www.pruvodce.com/prachenskemuzeum/",
+   "https://www.mesto-pisek.cz/historie-mesta/ds-1027"
   ]
  },
  "Q12047863": {
@@ -26545,7 +26561,18 @@
     "from_approx": false,
     "to_approx": false,
     "how": "lenni",
-    "note": "eurozpravy.cz: 1623 císař podstoupil moravskokrumlovské panství včetně hradu Gundakarovi z Lichtenštejna, jehož rodu patřilo do 1908; hrad byl 1625 uveden jako zcela pustý; druhý zdroj pro tuto držbu chybí"
+    "note": "templstejn.cz: 1623 císař podstoupil celé moravskokrumlovské panství včetně hradu knížeti Gundakarovi z Lichtenštejna (stav stvrzen zápisem do zemských desek 1625, hrad tehdy zcela pustý), Lichtenštejnům panství patřilo do 1908, kdy jejich moravskokrumlovská větev vymřela; cs.wiki (zámek Moravský Krumlov): Gundakar panství 1625 odkoupil od koruny"
+   },
+   {
+    "owner": "kinsti",
+    "owner_wiki": "Kinští",
+    "person": "Ferdinand Rudolf Kinský (†1916), poté syn Rudolf Antonín Kinský",
+    "from": 1908,
+    "to": 1945,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "templstejn.cz: po vymření moravskokrumlovské větve Lichtenštejnů 1908 panství přešlo na spřízněné Kinské, kterým patřilo do konfiskace 1945; jména podle cs.wiki (zámek Moravský Krumlov)"
    },
    {
     "owner": "stat",
@@ -26553,10 +26580,10 @@
     "person": "Lesy České republiky, s. p.",
     "from": 1945,
     "to": 2011,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false,
     "how": "konfiskace",
-    "note": "po 1945 se hrad dostal do majetku státu (eurozpravy.cz), později ve správě Lesů ČR; zdroje neuvádějí vlastníka v letech 1908-1945"
+    "note": "po konfiskaci Kinských 1945 se hrad dostal do majetku státu (templstejn.cz, eurozpravy.cz), později ve správě Lesů ČR"
    },
    {
     "owner": "soukromnik",
@@ -26609,7 +26636,8 @@
    "http://www.templstejn.cz/hrad-templstejn/historie-hradu/",
    "https://eurozpravy.cz/cestovani/hrad-templstejn-dodnes-udajne-skryva-podklad-radu-templaru.f797e765",
    "https://www.tourismato.cz/hrad-templstejn-znojmo-p172258",
-   "https://sk.wikipedia.org/wiki/Templ%C5%A1tejn_(okres_Znojmo)"
+   "https://sk.wikipedia.org/wiki/Templ%C5%A1tejn_(okres_Znojmo)",
+   "https://cs.wikipedia.org/wiki/Moravský_Krumlov_(zámek)"
   ]
  },
  "Q12060174": {
@@ -27548,33 +27576,44 @@
     "owner_wiki": "Lobkovicové",
     "person": "Jan Nepomuk Karel kníže z Lobkovic",
     "from": 1830,
-    "to": 1864,
+    "to": 1883,
     "from_approx": false,
     "to_approx": true,
     "how": "dedictvi",
-    "note": "zboží dostal odkazem 1830 (Ott; podle Plzeňského deníku si jej jako dědice vybral František Josef z Vrtby); přesný konec držby zdroje neuvádějí"
+    "note": "zboží dostal odkazem 1830 (Ott; zamek-zinkovy.cz: poslední hrabě z Vrtby František Josef si jej jako dědice vybral); přesný konec držby zdroje neuvádějí (Harrach koupil 1883)"
    },
    {
     "owner": "harrachove",
     "owner_wiki": "Harrachové",
-    "person": "Jan hrabě Harrach",
-    "from": 1864,
+    "person": "Jan Nepomuk hrabě Harrach",
+    "from": 1883,
     "to": 1897,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false,
     "how": "neznamo",
-    "note": "po Lobkovicích; od něj celé panství 1897 koupil Karel rytíř Wessely (Ott); přesný rok nabytí neuveden"
+    "note": "zámek koupil 1883 (zamek-zinkovy.cz, de.wikipedia, prazdnedomy.cz; cs.wiki rok neuvádí); od něj celé panství 1897 koupil Karel rytíř Wessely (Ott); turistika.cz mezi Lobkovice a Harrachy ještě řadí hraběte Filipa Schencka (rok neuveden, nepřevzato)"
    },
    {
     "owner": "soukromnik",
     "owner_wiki": null,
     "person": "Karl rytíř Wessely, vídeňský architekt a stavební rada",
     "from": 1897,
-    "to": 1916,
+    "to": 1906,
     "from_approx": false,
-    "to_approx": false,
+    "to_approx": true,
     "how": "koupe",
-    "note": "1897 koupil celé panství od Harracha; přestavbu do pseudorenesanční podoby provedl ateliér Fellner a Helmer (cs.wiki datuje 1897, AMHZ 1898-1899)"
+    "note": "1897 koupil celé panství od Harracha; přestavbu do pseudorenesanční podoby provedl ateliér Fellner a Helmer (cs.wiki datuje 1897, AMHZ 1898-1899); de.wikipedia uvádí úmrtí Wesselyho 1912; rok konce jeho držby zdroje neuvádějí"
+   },
+   {
+    "owner": "colloredove",
+    "owner_wiki": "Colloredové",
+    "person": "Jeroným hrabě Colloredo-Mannsfeld",
+    "from": 1906,
+    "to": 1916,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "poslední předchůdce Škody: v roce 1916 od něj panství koupil Karel Škoda (mistopisy.cz, cs.wiki Karel Škoda, dobová pohlednice); rok nabytí a od koho jej získal zdroje neuvádějí"
    },
    {
     "owner": "soukromnik",
@@ -27607,7 +27646,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "cs.wiki uvádí koupi 1999, Plzeňský deník 2007 (rekonstrukce zahájena 2008); mezi 1989 a Crown Estates zámek vystřídal několik soukromých majitelů (AMHZ); 1993-2007 byl zámek zcela zavřen"
+    "note": "cs.wiki a historickaslechta.cz uvádějí koupi 1999, Plzeňský deník (ČTK) 2007 - rozpor nevyřešen (rekonstrukce zahájena 2008); mezi 1989 a Crown Estates zámek vystřídal několik soukromých majitelů (AMHZ); 1993-2007 byl zámek zcela zavřen"
    },
    {
     "owner": "soukromnik",
@@ -27660,7 +27699,10 @@
    "https://www.amhz.cz/zamek/zinkovy",
    "https://www.historickaslechta.cz/mista/zinkovy/",
    "https://plzensky.denik.cz/zpravy-region/zinkovy-plzen-zamek-pamatka-karel-skoda-historie/",
-   "https://plzensky.denik.cz/zpravy-region/plzen-koupe-zinkovy-zamek/"
+   "https://plzensky.denik.cz/zpravy-region/plzen-koupe-zinkovy-zamek/",
+   "https://www.zamek-zinkovy.cz/historicke-zajimavosti",
+   "https://de.wikipedia.org/wiki/Schloss_%C5%BDinkovy",
+   "https://www.mistopisy.cz/pruvodce/obec/6504/zinkovy/historie/"
   ]
  },
  "Q1293926": {
@@ -29680,7 +29722,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "konfiskace",
-    "note": "podle časové osy muzea Řád zámek fakticky převzal 1622, ceskycestovatel.cz uvádí zaplacených 200 tisíc zlatých; od 1806 sídlo velmistra; po 1. sv. válce od března 1919 vnucená správa na velkostatek (zrušena 1924 podle muzea); 1766-1769 barokní přestavba"
+    "note": "císař panství daroval 17. 7. 1621 (nemeckyrad.cz, soupispamatek.com); podle časové osy muzea a soupispamatek.com Řád zámek fakticky převzal 1622 po dočasném obsazení Krnovským a Sasy, ceskycestovatel.cz uvádí zaplacených 200 tisíc zlatých; od 1806 sídlo velmistra; po 1. sv. válce od března 1919 vnucená správa na velkostatek (zrušena 1924 podle muzea); 1766-1769 barokní přestavba"
    },
    {
     "owner": "stat",
@@ -29731,7 +29773,9 @@
   "sources": [
    "https://cs.wikipedia.org/wiki/Bruntál_(zámek)",
    "https://web.archive.org/web/20041207155056/http://www.bruntal-zamek.cz/casosa.htm",
-   "http://www.ceskycestovatel.cz/zamek-bruntal/"
+   "http://www.ceskycestovatel.cz/zamek-bruntal/",
+   "https://nemeckyrad.cz/index.php/historie-radu/17-stoleti",
+   "https://www.soupispamatek.com/okres_bruntal/foto/bruntal/bruntal_historie.htm"
   ]
  },
  "Q1416121": {
@@ -32078,7 +32122,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "snatek",
-    "note": "Althann jako vdovec po dědičce Anně Elišce Cecílii Bruntálské z Vrbna; rok jeho smrti se liší (cs.wiki 1658, muzeum 1650); poručníci nezletilého syna Michaela Františka Ferdinanda statek 1660 prodali"
+    "note": "Althann jako vdovec po dědičce Anně Elišce Cecílii Bruntálské z Vrbna; rok jeho smrti se liší (cs.wiki 1658, muzeum Novojičínska 1650 - ověřeno na webu muzea); poručníci nezletilého syna Michaela Františka Ferdinanda statek 1660 prodali"
    },
    {
     "owner": "vetterove-z-lilie",
@@ -32132,7 +32176,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "po smrti Karla Josefa (1792) synové Josef Karel (starší větev na Nové Horce; cs.wiki 1741-1827, muzeum 1741-1826) a Ferdinand; dluhy, sekvestrace, správa baronů Baillou z Hustopečí; konsolidoval až Josefův vnuk Felix"
+    "note": "po smrti Karla Josefa (1792) synové Josef Karel (starší větev na Nové Horce; cs.wiki 1741-1827, web muzea 1741-1826) a Ferdinand; dluhy, sekvestrace, správa baronů Baillou z Hustopečí; konsolidoval až Josefův vnuk Felix"
    },
    {
     "owner": "vetterove-z-lilie",
@@ -32216,7 +32260,8 @@
   "sources": [
    "https://cs.wikipedia.org/wiki/Nová_Horka_(zámek)",
    "https://www.muzeumnj.cz/novahorka/cesta-zamkem/ve-znameni-lilie/rissky-rod-vetter-von-der-lilie",
-   "https://www.muzeumnovojicinska.cz/o-nas/marketing-a-pr/tiskove-zpravy/zamek-z-lilie"
+   "https://www.muzeumnovojicinska.cz/o-nas/marketing-a-pr/tiskove-zpravy/zamek-z-lilie",
+   "https://www.hrady.cz/zamek-nova-horka/texty?pos=300&tid=5845"
   ]
  },
  "Q14970110": {

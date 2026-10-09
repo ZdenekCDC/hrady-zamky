@@ -5,7 +5,7 @@
  "summary": "Pozdně gotický městský hrad v Bruntále drželi nejprve jako zástavní držitelé a poté jako majitelé panství Bruntálští z Vrbna, kteří jej od 50. let 16. století (renesanční úpravy od 1556, velká přestavba od 1582, dokončena kolem 1608) přestavěli na renesanční zámek s arkádovým nádvořím a věží. Po Bílé hoře jej jako konfiskát získal Řád německých rytířů (1621-1622), který v letech 1766-1769 provedl přestavbu do dnešní barokně-renesanční podoby a držel jej do 1945, kdy přešel do správy československého státu. Dnes zde sídlí Muzeum Bruntál.",
  "owners": [
   {"owner": "bruntalsti-z-vrbna", "owner_wiki": "Bruntálští z Vrbna", "person": "Bernard, Hynek a Mikuláš Bruntálští z Vrbna; později Jan starší, Hynek starší, Štěpán, Jan mladší, Hynek mladší, Karel", "from": null, "to": 1621, "from_approx": false, "to_approx": false, "how": "lenni", "note": "ve 2. polovině 15. stol. zástavní držitelé bruntálského panství od krnovských knížat, 1496 potvrzena zástava, 1506 majiteli panství (první písemná zmínka o hradu), 1516 panství vyvázáno z krnovského knížectví; konfiskace po Bílé hoře (Jan mladší z Vrbna uprchl); rok počátku držby zdroje neuvádějí"},
-  {"owner": "rad-nemeckych-rytiru", "owner_wiki": "Řád německých rytířů", "person": "velmistr arcivévoda Karel Habsburský a jeho nástupci", "from": 1621, "to": 1945, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "podle časové osy muzea Řád zámek fakticky převzal 1622, ceskycestovatel.cz uvádí zaplacených 200 tisíc zlatých; od 1806 sídlo velmistra; po 1. sv. válce od března 1919 vnucená správa na velkostatek (zrušena 1924 podle muzea); 1766-1769 barokní přestavba"},
+  {"owner": "rad-nemeckych-rytiru", "owner_wiki": "Řád německých rytířů", "person": "velmistr arcivévoda Karel Habsburský a jeho nástupci", "from": 1621, "to": 1945, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "císař panství daroval 17. 7. 1621 (nemeckyrad.cz, soupispamatek.com); podle časové osy muzea a soupispamatek.com Řád zámek fakticky převzal 1622 po dočasném obsazení Krnovským a Sasy, ceskycestovatel.cz uvádí zaplacených 200 tisíc zlatých; od 1806 sídlo velmistra; po 1. sv. válce od března 1919 vnucená správa na velkostatek (zrušena 1924 podle muzea); 1766-1769 barokní přestavba"},
   {"owner": "stat", "owner_wiki": null, "person": null, "from": 1945, "to": null, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "správa zámku přešla na československý stát; dnes sídlo regionálního muzea, Řád německých rytířů usiluje o navrácení"}
  ],
  "events": [
@@ -21,6 +21,8 @@
  "sources": [
   "https://cs.wikipedia.org/wiki/Bruntál_(zámek)",
   "https://web.archive.org/web/20041207155056/http://www.bruntal-zamek.cz/casosa.htm",
-  "http://www.ceskycestovatel.cz/zamek-bruntal/"
+  "http://www.ceskycestovatel.cz/zamek-bruntal/",
+  "https://nemeckyrad.cz/index.php/historie-radu/17-stoleti",
+  "https://www.soupispamatek.com/okres_bruntal/foto/bruntal/bruntal_historie.htm"
  ]
 }

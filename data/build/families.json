@@ -7720,6 +7720,15 @@
     "to_approx": false
    },
    {
+    "place": "Q1280844",
+    "from": 1906,
+    "to": 1916,
+    "person": "Jeroným hrabě Colloredo-Mannsfeld",
+    "how": "neznamo",
+    "from_approx": true,
+    "to_approx": false
+   },
+   {
     "place": "Q2244318",
     "from": 1784,
     "to": 1852,
@@ -7836,6 +7845,20 @@
     "how": "neznamo"
    },
    {
+    "place": "Q1280844",
+    "year": 1906,
+    "from": "soukromnik",
+    "to": "colloredove",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q1280844",
+    "year": 1916,
+    "from": "colloredove",
+    "to": "soukromnik",
+    "how": "koupe"
+   },
+   {
     "place": "Q2244318",
     "year": 1784,
     "from": "martinicove-a-clam-martinicove",
@@ -7941,7 +7964,7 @@
     "how": "koupe"
    }
   ],
-  "place_count": 9,
+  "place_count": 10,
   "color_slot": null
  },
  "colonnove-z-felsu": {
@@ -12487,11 +12510,11 @@
    },
    {
     "place": "Q1280844",
-    "from": 1864,
+    "from": 1883,
     "to": 1897,
-    "person": "Jan hrabě Harrach",
+    "person": "Jan Nepomuk hrabě Harrach",
     "how": "neznamo",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -12580,7 +12603,7 @@
    },
    {
     "place": "Q1280844",
-    "year": 1864,
+    "year": 1883,
     "from": "lobkovicove",
     "to": "harrachove",
     "how": "neznamo"
@@ -17015,6 +17038,15 @@
     "to_approx": true
    },
    {
+    "place": "Q12058615",
+    "from": 1908,
+    "to": 1945,
+    "person": "Ferdinand Rudolf Kinský (†1916), poté syn Rudolf Antonín Kinský",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
     "place": "Q1245405",
     "from": 1585,
     "to": 1634,
@@ -17287,6 +17319,20 @@
     "how": "koupe"
    },
    {
+    "place": "Q12058615",
+    "year": 1908,
+    "from": "lichtenstejnove",
+    "to": "kinsti",
+    "how": "dedictvi"
+   },
+   {
+    "place": "Q12058615",
+    "year": 1945,
+    "from": "kinsti",
+    "to": "stat",
+    "how": "konfiskace"
+   },
+   {
     "place": "Q1245405",
     "year": 1585,
     "from": "pani-z-vresovic",
@@ -17518,7 +17564,7 @@
     "how": "dedictvi"
    }
   ],
-  "place_count": 19,
+  "place_count": 20,
   "color_slot": null
  },
  "kladensti-z-kladna": {
@@ -23358,10 +23404,10 @@
    },
    {
     "place": "Q12058615",
-    "year": 1945,
+    "year": 1908,
     "from": "lichtenstejnove",
-    "to": "stat",
-    "how": "konfiskace"
+    "to": "kinsti",
+    "how": "dedictvi"
    },
    {
     "place": "Q1586560",
@@ -24008,7 +24054,7 @@
    {
     "place": "Q1280844",
     "from": 1830,
-    "to": 1864,
+    "to": 1883,
     "person": "Jan Nepomuk Karel kníže z Lobkovic",
     "how": "dedictvi",
     "from_approx": false,
@@ -24857,7 +24903,7 @@
    },
    {
     "place": "Q1280844",
-    "year": 1864,
+    "year": 1883,
     "from": "lobkovicove",
     "to": "harrachove",
     "how": "neznamo"
@@ -81477,11 +81523,11 @@
    {
     "place": "Q12045172",
     "from": 1945,
-    "to": null,
+    "to": 1986,
     "person": null,
     "how": "konfiskace",
     "from_approx": false,
-    "to_approx": false
+    "to_approx": true
    },
    {
     "place": "Q12045661",
@@ -81579,7 +81625,7 @@
     "to": 2011,
     "person": "Lesy České republiky, s. p.",
     "how": "konfiskace",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -84783,6 +84829,13 @@
     "how": "konfiskace"
    },
    {
+    "place": "Q12045172",
+    "year": 1986,
+    "from": "stat",
+    "to": "mesto",
+    "how": "neznamo"
+   },
+   {
     "place": "Q12045661",
     "year": 1931,
     "from": "lichtenstejnove",
@@ -84904,7 +84957,7 @@
    {
     "place": "Q12058615",
     "year": 1945,
-    "from": "lichtenstejnove",
+    "from": "kinsti",
     "to": "stat",
     "how": "konfiskace"
    },
@@ -93648,6 +93701,15 @@
     "to_approx": false
    },
    {
+    "place": "Q12045172",
+    "from": 1986,
+    "to": null,
+    "person": "obec Petrohrad (vlastník kaple Všech svatých na místě hradu)",
+    "how": "neznamo",
+    "from_approx": true,
+    "to_approx": false
+   },
+   {
     "place": "Q12045661",
     "from": 1994,
     "to": null,
@@ -95301,6 +95363,13 @@
     "how": "jine"
    },
    {
+    "place": "Q12045172",
+    "year": 1986,
+    "from": "stat",
+    "to": "mesto",
+    "how": "neznamo"
+   },
+   {
     "place": "Q12045661",
     "year": 1994,
     "from": "stat",
@@ -96344,7 +96413,7 @@
     "how": "neznamo"
    }
   ],
-  "place_count": 160,
+  "place_count": 161,
   "color_slot": null
  },
  "soukromnik": {
@@ -97886,11 +97955,11 @@
    {
     "place": "Q1280844",
     "from": 1897,
-    "to": 1916,
+    "to": 1906,
     "person": "Karl rytíř Wessely, vídeňský architekt a stavební rada",
     "how": "koupe",
     "from_approx": false,
-    "to_approx": false
+    "to_approx": true
    },
    {
     "place": "Q1280844",
@@ -101629,6 +101698,20 @@
     "place": "Q1280844",
     "year": 1897,
     "from": "harrachove",
+    "to": "soukromnik",
+    "how": "koupe"
+   },
+   {
+    "place": "Q1280844",
+    "year": 1906,
+    "from": "soukromnik",
+    "to": "colloredove",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q1280844",
+    "year": 1916,
+    "from": "colloredove",
     "to": "soukromnik",
     "how": "koupe"
    },
