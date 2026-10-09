@@ -28,7 +28,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "císařský rada a místokancléř; rok koupě 1562 podle oficiálního webu hradu a mikroreg.info, cs.wiki uvádí 1566 (začátek přestavby 1564-1566 podle zdroje), jiný zdroj 1569; přestavba na renesanční zámek, kaple sv. Barbory; pro dluhy a nemilost Rudolfa II. byl 27. října 1586 nucen panství prodat"
+   "note": "císařský rada a místokancléř; rok koupě 1562 podle oficiálního webu hradu a mikroreg.info, cs.wiki uvádí 1566 (začátek přestavby 1564-1566 podle zdroje), jiný zdroj 1569; přestavba na renesanční zámek, kaple sv. Barbory; pro dluhy a nemilost Rudolfa II. byl 27. října 1586 nucen panství prodat; rok 1562 potvrzuje i web hrad-zamek-tvrz.webnode.cz (koupě za 300 000 zl., přestavba 1564-1569)"
   },
   {
    "owner": "hofmannove",
@@ -72,7 +72,7 @@
    "from_approx": false,
    "to_approx": true,
    "how": "dedictvi",
-   "note": "v noci na 9. dubna 1622 vyhořela hradní věž (cs.wiki uvádí rok 1622); 1628 odešli z Čech jako nekatolíci, David Jindřich se vrátil 1631; rozsudkem komise z ledna 1634 byl majetek převeden Albrechtu z Valdštejna (diplomová práce TUL); amatérský web petanek.org uvádí zábor již 1628"
+   "note": "v noci na 9. dubna 1622 vyhořela hradní věž; David Jindřich z Černous byl 1628 vypovězen pro víru, 1631 se vrátil a rozsudkem komise z ledna 1634 byl jeho majetek převeden Albrechtu z Valdštejna (T. V. Bílek, Dějiny konfiskací, přes diplomovou práci TUL); rok 1628 jako počátek zásahu uvádějí petanek.org a webnode (Albrecht z Valdštejna se majetku zmocnil 1628, 1633 jej postoupil Maxmiliánovi) - rozpor 1628/1634, rok 1634 je doložen rozsudkem"
   },
   {
    "owner": "valdstejnove",
@@ -83,7 +83,7 @@
    "from_approx": true,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "konfiskát po účasti Černousů ve stavovském povstání; Albrecht z Valdštejna, po něm hrabě Maxmilián z Valdštejna (petanek.org: 1633-1638); císařské rozhodnutí z 9. 8. 1638 vrátilo hrad Černousům, Maxmilián dostal náhradou Milotice"
+   "note": "konfiskát po účasti Černousů ve stavovském povstání; Albrecht z Valdštejna, po něm hrabě Maxmilián z Valdštejna (petanek.org a webnode: Maxmilián od 1633); majetek byl Černousům vrácen: Bílek 16. května 1637 (diplomová práce TUL, Sedláček také 1637), císařské rozhodnutí z 9. 8. 1638 (petanek.org, webnode) - rozpor 1637/1638; Maxmilián dostal náhradou Milotice"
   },
   {
    "owner": "cernousove",
@@ -94,7 +94,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "restituce",
-   "note": "majetek vrácen Černousům (podle Sedláčka 1637, podle petanek.org rozhodnutí z 9. 8. 1638); 1645 hrad obsadila švédská posádka; 1651 Jiří Zikmund z Černous panství prodal Nosticům"
+   "note": "majetek vrácen Černousům (1637 podle Bílka a Sedláčka, 1638 podle webnode a petanek.org); 1645 hrad obsadila švédská posádka, opustila jej v červnu 1648 (webnode); 1651 Jiří Zikmund z Černous panství prodal Nosticům (web pruvodce.com, webnode shodně)"
   },
   {
    "owner": "nosticove",
@@ -110,13 +110,24 @@
   {
    "owner": "trauttmansdorffove",
    "owner_wiki": "Trauttmansdorffové",
-   "person": "Adam Matyáš z Trauttmansdorffu, později Rudolf Vilém a Jan Josef",
+   "person": "Adam Matyáš z Trauttmansdorffu",
    "from": 1651,
-   "to": 1704,
+   "to": 1684,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "koupil 16. 8. 1651; 1655 na příkaz císaře strženo opevnění (cs.wiki); Jan Josef pro dluhy hrad na příkaz královské komory prodal Janu Václavu Gallasovi (potvrzeno 18. 11. 1704); dělení mezi dědice Adama Matyáše (zemřel 1684) zdroje neuvádějí"
+   "note": "koupil 1651 (cs.wiki článek o Adamu Matyášovi, webnode, pruvodce.com); 1655 na příkaz císaře strženo opevnění (cs.wiki, web hradu); zemřel 2. listopadu 1684"
+  },
+  {
+   "owner": "trauttmansdorffove",
+   "owner_wiki": "Trauttmansdorffové",
+   "person": "dědicové Adama Matyáše z Trauttmansdorffu, naposledy Jan Josef z Trauttmansdorffu (vnuk)",
+   "from": 1684,
+   "to": 1704,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "rok 1684 je rok úmrtí Adama Matyáše, kdy a kdo konkrétně Grabštejn zdědil zdroje neuvádějí; Jan Josef pro dluhy hrad na příkaz královské komory prodal Janu Václavu Gallasovi (potvrzeno 18. 11. 1704; cs.wiki, webnode, pruvodce.com, TUL: 'potomci hraběte z Trauttmansdorffu')"
   },
   {
    "owner": "gallasove",
@@ -223,6 +234,10 @@
   "https://cs.wikipedia.org/wiki/Grabštejn",
   "https://hrad-grabstejn.cz/cs/o-hradu/historie",
   "http://www.mikroreg.info/index.aspx?rub=111",
-  "https://www.petanek.org/hrady/ZAMEK-GRABSTEJN.htm"
+  "https://www.petanek.org/hrady/ZAMEK-GRABSTEJN.htm",
+  "https://dspace.tul.cz/bitstreams/b3f6d727-393e-4a4e-afbd-515f30ba457d/download",
+  "https://hrad-zamek-tvrz.webnode.cz/hrady/grabstejn/",
+  "http://www.pruvodce.com/grabstejn/",
+  "https://cs.wikipedia.org/wiki/Adam_Matyáš_z_Trauttmansdorffu"
  ]
 }

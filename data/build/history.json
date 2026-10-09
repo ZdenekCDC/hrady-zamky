@@ -3832,7 +3832,7 @@
     "from_approx": true,
     "to_approx": false,
     "how": "neznamo",
-    "note": "atlasceska.cz: v devadesátých letech 20. stol. hrad převzala do péče obec Luže; cs.wiki: dnes ve správě města Luže; přesný rok a způsob nabytí zdroje neuvádějí"
+    "note": "atlasceska.cz: v devadesátých letech 20. stol. hrad převzala do péče obec Luže; cs.wiki: dnes ve správě města Luže; přesný rok a způsob nabytí zdroje neuvádějí; Sokolovský deník (2022) uvádí, že město má hrad ve správě od roku 2011 (rozpor s devadesátými lety, nejasné zda jde o správu či vlastnictví); oficiální web hradu uvádí město Luže jako majitele a provozovatele"
    }
   ],
   "events": [
@@ -3886,7 +3886,9 @@
    "https://www.hrady.cz/hrad-kosumberk-luze",
    "https://www.kamsevydat.cz/hrad-kosumberk/",
    "https://www.atlasceska.cz/pamatky/zricenina-hradu-kosumberk-17225",
-   "https://iispp.npu.cz/mis_public/documentDetail.htm?id=314491"
+   "https://iispp.npu.cz/mis_public/documentDetail.htm?id=314491",
+   "https://www.hradkosumberk.cz/",
+   "https://sokolovsky.denik.cz/zpravy_region/voda-podemlela-svah-hradu-kosumberk-narusena-statika-hrad-trapi-dlouhodobe-20220.html"
   ]
  },
  "Q1012726": {
@@ -5509,13 +5511,13 @@
    {
     "owner": "minsterberkove",
     "owner_wiki": "Minsterberkové",
-    "person": "Hynek, syn královny Johany",
+    "person": "Hynek Minsterberský (z Poděbrad)",
     "from": 1475,
-    "to": 1489,
+    "to": 1476,
     "from_approx": false,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "při dělení 2. února 1476 dostal Lichnici (cs.wiki jej nazývá Hynek z Rožmitálu, Ottův slovník kníže minsterberský); 6. února 1489 se zástavy vzdal ve prospěch krále Matyáše a Jana Korvína s výhradou doživotního užívání; totožnost rodu je podle dvou zdrojů nejistá"
+    "note": "po smrti královny Johany (1475) připadla Hynkovi; 2. února 1476 dělení s Lvem z Rožmitálu; Hynek hrad záhy zastavil Tetourovi; 6. února 1489 se zástavy vzdal ve prospěch krále Matyáše a Jana Korvína s výhradou doživotního užívání. Hynek byl nejmladší syn Jiřího z Poděbrad a Johany z Rožmitálu, tedy minsterberský kníže (cs.wiki jej nazývá Hynek z Rožmitálu, což je nepřesné; rod potvrzuje web města Třemošnice)"
    },
    {
     "owner": "tetourove-z-tetova",
@@ -5523,10 +5525,10 @@
     "person": "Vilém Tetour z Tetova",
     "from": 1476,
     "to": 1490,
-    "from_approx": true,
-    "to_approx": true,
+    "from_approx": false,
+    "to_approx": false,
     "how": "lenni",
-    "note": "po krátké době po 1476 mu Hynek hrad zastavil za 10 000 zlatých; Tetour byl ve službách krále Matyáše; konec zástavy v roce 1490 odvozen z vyplacení králem Vladislavem II. (cs.wiki přesný rok neuvádí)"
+    "note": "po 1476 mu Hynek hrad zastavil za 10 000 zlatých (rok 1476 podle hrady.cz: hrad získal do zástavy); Tetour byl ve službách krále Matyáše; 1490 jej od něho vykoupil Vladislav II. (web města Třemošnice, cs.wiki jen 'nejpozději prosinec 1490')"
    },
    {
     "owner": "trckove-z-lipy",
@@ -5579,9 +5581,9 @@
     "from": 1534,
     "to": 1539,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "jine",
-    "note": "vlastnil pět let, poté prodal Janovi mladšímu"
+    "note": "vlastnil 1534-1539, poté panství předal Janu mladšímu (cs.wiki: prodal; web města Třemošnice: od něho získal 1539); Jan starší zemřel 1540 podle webu města Třemošnice"
    },
    {
     "owner": "trckove-z-lipy",
@@ -5589,10 +5591,10 @@
     "person": "Jan mladší Trčka z Lípy",
     "from": 1539,
     "to": 1549,
-    "from_approx": true,
-    "to_approx": true,
+    "from_approx": false,
+    "to_approx": false,
     "how": "koupe",
-    "note": "zemřel bez dědiců okolo 1549 (cs.wiki to uvádí u Jana staršího, Ottův slovník u Jana mladšího - rozpor)"
+    "note": "1539 získal lichnické panství od Jana staršího; zemřel bez dědiců 1549 (hrady.cz a web města Třemošnice uvádějí 1549 u Jana mladšího, shodně s Ottovým slovníkem; cs.wiki úmrtí 1549 přisuzuje Janu staršímu - rozpor)"
    },
    {
     "owner": "trckove-z-lipy",
@@ -5600,7 +5602,7 @@
     "person": "Vilém Trčka z Lípy",
     "from": 1549,
     "to": 1555,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false,
     "how": "jine",
     "note": "král Ferdinand I. jej pověřil správou majetku; pro dluhy 1555 panství prodal"
@@ -5652,35 +5654,35 @@
    {
     "owner": "robmhapove-ze-suche",
     "owner_wiki": "Robmhapové ze Suché",
-    "person": "Ferdinand Robmhap ze Suché",
+    "person": "Ferdinand Robmhap ze Suché (+ 1659) a jeho potomci, naposledy Jan Antonín Robmhap ze Suché (+ 1755)",
     "from": 1637,
     "to": 1747,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "koupe",
-    "note": "11. května 1637 koupil statek od zbylých bratří a matky; po třicetileté válce nechal opevnění pobořit (nařízení Ferdinanda III.); 1717 popsán hrad jako většinou pustý; datum konce držby cs.wiki neuvádí"
+    "note": "11. května 1637 koupil statek od zbylých bratří a matky; po třicetileté válce nechal opevnění pobořit; Ferdinand zemřel 1659; vláda Robmhapů na Lichnici skončila 1747, kdy Jan Antonín Robmhap ze Suché prodal třemošnické panství Janu Václavu z Millesimo-Caretto (web města Třemošnice)"
    },
    {
     "owner": "carrettove",
     "owner_wiki": "Carrettové",
-    "person": "Millesimové (Caretto-Millesimo)",
+    "person": "Jan Václav z Millesimo-Caretto a jeho rod",
     "from": 1747,
-    "to": 1850,
+    "to": 1801,
     "from_approx": false,
     "to_approx": false,
-    "how": "neznamo",
-    "note": "podle egeon.cz se od 1747 jako majitelé uvádějí Millesimové a Ottův slovník uvádí připojení k ronovskému panství 1747 (cs.wiki přechod od Robmhapů neuvádí)"
+    "how": "koupe",
+    "note": "koupě třemošnického panství od Jana Antonína Robmhapa (web města Třemošnice); rok 1801 vymření millesimovského rodu"
    },
    {
     "owner": "carrettove",
     "owner_wiki": "Carrettové",
-    "person": "nadace Jana Josefa Caretto-Millesima",
-    "from": 1850,
+    "person": "nadace pro zchudlé šlechtice (nadace Jana Josefa Caretto-Millesima)",
+    "from": 1801,
     "to": 1933,
     "from_approx": false,
     "to_approx": false,
-    "how": "jine",
-    "note": "vlastnictví nadace od 1850 podle egeon.cz (méně spolehlivý zdroj); 1933 hrad při pozemkové reformě přešel na Klub českých turistů"
+    "how": "dedictvi",
+    "note": "nadace zřízena po vymření millesimovského rodu 1801 (už půl století před 1850 majitelem zříceniny; web města Třemošnice, dřívější datum 1850 podle egeon.cz bylo nepřesné); 1933 hrad při pozemkové reformě získal KČT"
    },
    {
     "owner": "soukromnik",
@@ -5702,7 +5704,7 @@
     "from_approx": true,
     "to_approx": true,
     "how": "neznamo",
-    "note": "cs.wiki a egeon.cz uvádějí jen, že byl správcem hradu ve 2. polovině 20. stol.; vlastnický titul není uveden"
+    "note": "cs.wiki a egeon.cz uvádějí jen, že byl správcem hradu ve 2. polovině 20. stol.; vlastnický titul ani rok přechodu z KČT na ONV a poté na město Třemošnice se v dostupných zdrojích (web města Třemošnice, NPÚ, hrady.cz) nepodařilo dohledat"
    },
    {
     "owner": "mesto",
@@ -5743,7 +5745,11 @@
    },
    {
     "year": 1747,
-    "text": "Lichnice připojena k ronovskému panství (Ottův slovník naučný)"
+    "text": "třemošnické panství s Lichnicí kupují Millesimo-Caretto (web města Třemošnice; Ottův slovník uvádí připojení k ronovskému panství)"
+   },
+   {
+    "year": 1801,
+    "text": "po vymření rodu Millesimo-Caretto zřízena nadace, jíž panství připadlo"
    },
    {
     "year": 1933,
@@ -5754,7 +5760,9 @@
    "https://cs.wikipedia.org/wiki/Lichnice",
    "https://cs.wikisource.org/wiki/Ottův_slovník_naučný/Lichnice",
    "https://egeon.cz/cile/2484/zricenina-hradu-lichnice",
-   "https://www.tremosnice.cz/zivot-ve-meste/lichnice/"
+   "https://www.tremosnice.cz/zivot-ve-meste/lichnice/",
+   "https://www.tremosnice.cz/e_download.php?file=%2Fdata%2Feditor%2F132cs_3.pdf&original=Historie+o+z%C5%99%C3%ADzenin%C4%9B+hradu+Lichnice.pdf",
+   "https://www.hrady.cz/hrad-lichnice"
   ]
  },
  "Q1012998": {
@@ -59743,7 +59751,7 @@
     "from_approx": true,
     "to_approx": true,
     "how": "koupe",
-    "note": "hrad nejspíše koupilo od Bořivoje z Lochovic (cs.wiki 'nejspíše'); roky neuvedeny, nejistý záznam"
+    "note": "hrad nejspíše koupilo od Bořivoje z Lochovic (cs.wiki 'nejspíše'); roky neuvedeny, nejistý záznam; druhý zdroj k držbě Lounů nenalezen, roky neznámé"
    },
    {
     "owner": "ze-slatiny",
@@ -59798,7 +59806,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "koupe",
-    "note": "14. října 1443 koupil spolu s Jaroslavem Plichtou ze Žerotína, jehož podíl 11. května 1445 odkoupil a stal se jediným majitelem; zakladatel větve Krakovských z Kolovrat; zemřel okolo 1470 (soupispamatek.cz uvádí držbu do 1510 - rozpor)"
+    "note": "14. října 1443 koupil spolu s Jaroslavem Plichtou ze Žerotína, jehož podíl 11. května 1445 odkoupil a stal se jediným majitelem; zakladatel větve Krakovských z Kolovrat; zemřel okolo 1470 (soupispamatek.cz uvádí držbu do 1510 - rozpor); hrady.cz a Historická šlechta potvrzují Albrechta od 1445, úmrtí cca 1470 (Historická šlechta), poručník Čeněk Berka z Dubé 1474-1477 (hrady.cz) tedy Albrecht zemřel před 1474; rok 1510 ze soupispamatek.cz je pravděpodobně chyba (1510 končí úřad Jindřicha Albrechta jako sudího)"
    },
    {
     "owner": "kolowrat-krakowsti",
@@ -59809,7 +59817,7 @@
     "from_approx": true,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "při Albrechtově smrti nezletilý, spravoval poručník Jindřich Berka z Dubé; 1497 dosáhl propuštění z manství do dědičného vlastnictví; zemřel 1530"
+    "note": "při Albrechtově smrti nezletilý, spravoval poručník Jindřich Berka z Dubé; 1497 dosáhl propuštění z manství do dědičného vlastnictví; zemřel 1530; hrady.cz: hrad převzal 1479 po konci poručnictví Berky z Dubé, jinde (cs.wiki) není rok uveden"
    },
    {
     "owner": "kolowrat-krakowsti",
@@ -59820,7 +59828,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "10. srpna 1530 se synové rozdělili na tři díly; Albrecht svůj díl hradu 23. května 1536 prodal Janovi; podíl Hynka zdědili synové Jiří a Vít; 9. června 1548 Jan, Jiří a Vít panství prodali Janu III. Popelovi z Lobkovic za 3 850 kop grošů"
+    "note": "10. srpna 1530 se synové rozdělili na tři díly; Albrecht svůj díl hradu 23. května 1536 prodal Janovi; podíl Hynka zdědili synové Jiří a Vít; 9. června 1548 Jan, Jiří a Vít panství prodali Janu III. Popelovi z Lobkovic za 3 850 kop grošů; Albrechtův díl koupil Jan 1536 (cs.wiki) nebo 1538 (Historická šlechta); hrady.cz uvádí prodej Lobkovicům 1548 Janem z Kolovrat"
    },
    {
     "owner": "lobkovicove",
@@ -59829,9 +59837,9 @@
     "from": 1548,
     "to": 1565,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "koupe",
-    "note": "zastavil za 3 850 kop snaše Anně z Roupova (manželce Jana V.); hrad v letech 1548-1565 opravili a upravili v renesančním slohu; Jan V. jej prodal, aby získal peníze na koupi Nového hradu; rok 1565 odvozen z doby oprav a z pětileté držby Újezdského"
+    "note": "1548 koupil Jan starší Popel z Lobkovic na Zbirohu za 3 850 kop grošů, od 1550 panství převzali Jan mladší s Annou z Roupova; hrad 1548-1565 opravován a renesančně upraven; 1565 prodali Janu Újezdskému z Červeného Újezda za 2 000 kop (hrady.cz)"
    },
    {
     "owner": "z-cerveneho-ujezdce",
@@ -59839,10 +59847,10 @@
     "person": "Jan Újezdský z Červeného Újezdce",
     "from": 1565,
     "to": 1570,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "koupil za 2 000 kop grošů, sídlil na hradě pět let; 24. května 1570 prodal Kryštofu Jindřichovi Krakovskému z Kolovrat za 1 050 kop (rok začátku odvozen z pěti let držby)"
+    "note": "koupil 1565 za 2 000 kop grošů (hrady.cz), sídlil na Modřejovicích; 1570 prodal Kryštofu Jindřichu Krakovskému z Kolovrat za 1 050 kop (hrady.cz, cs.wiki; kupní smlouva z roku 1568 podle diplomové práce ČVUT je s tím v rozporu)"
    },
    {
     "owner": "kolowrat-krakowsti",
@@ -59853,7 +59861,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "výrazně zmenšené panství; 11. února 1588 jej získal Radslav Vchynský ze Vchynic"
+    "note": "výrazně zmenšené panství; 11. února 1588 jej získal Radslav Vchynský ze Vchynic; hrady.cz potvrzuje koupi 1570 a prodej Radslavovi 1588"
    },
    {
     "owner": "kinsti",
@@ -59952,7 +59960,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "koupe",
-    "note": "nechal zámek opravit (novou střechu podle barvy zván Červený zámek, opravy do 1720); zadlužení dědicové o hrad přišli"
+    "note": "rok konce odvozen: hrady.cz uvádí Helversenovy držbu do 1715, cs.wiki prodej Hildprandtovi 1716"
    },
    {
     "owner": "z-helversenu",
@@ -59996,7 +60004,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "rok 1866 koupě slabeckého panství; Max Croy Düllmen zříceninu roku 1915 daroval KČT (cs.wiki, petanek.org, atlasceska.cz); soupispamatek.cz uvádí Croy-Dülmeny do 1924 a KČT 1924-1952 - rozpor"
+    "note": "rok 1866 koupě slabeckého panství (hrady.cz); Max Croy Düllmen zříceninu roku 1915 daroval KČT (cs.wiki, hrady.cz, obec Krakovec, Historická šlechta); rozpor: soupispamatek.cz uvádí Croy-Dülmeny do 1924, diplomová práce ČVUT (Spurná 2026) uvádí prodej KČT až 1918"
    },
    {
     "owner": "soukromnik",
@@ -60007,7 +60015,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "dar",
-    "note": "dar od Maxe Croy Düllmena; 1914 vznikl Komitét pro zachování zříceniny; atlasceska.cz a soupispamatek.cz uvádějí přechod na stát 1952"
+    "note": "dar od Maxe Croy Düllmena 1915 (hrady.cz, obec Krakovec); 1914/1916 komitét pro záchranu hradu; rozpor: dar/prodej 1918 (diplomová práce ČVUT) a 1924 (soupispamatek.cz)"
    },
    {
     "owner": "stat",
@@ -60017,7 +60025,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "jine",
-    "note": "od roku 1952 stát (soupispamatek.cz NPÚ, atlasceska.cz: přešel pod státní správu); způsob přechodu zdroje neuvádějí; dnes ve vlastnictví České republiky, správa NPÚ (SH Křivoklátska); 2000-2005 postaven dřevěný most"
+    "note": "od 1952 stát (soupispamatek.cz NPÚ, atlasceska.cz); diplomová práce ČVUT uvádí majetek státu od 1945 - rozpor; dnes ve vlastnictví České republiky, správa NPÚ (SH Křivoklátska); 2000-2005 postaven dřevěný most"
    }
   ],
   "events": [
@@ -60058,7 +60066,11 @@
    "https://cs.wikipedia.org/wiki/Krakovec_(hrad)",
    "https://www.soupispamatek.cz/arl-kcz/en/detail-kcz_un_auth-0000741-Castle-Krakovec/",
    "https://www.atlasceska.cz/pamatky/zricenina-hradu-krakovec-17607",
-   "https://petanek.org/hrady/hrad-krakovec.htm"
+   "https://petanek.org/hrady/hrad-krakovec.htm",
+   "https://www.hrady.cz/hrad-krakovec-rakovnik/texty?tid=22815",
+   "https://www.historickaslechta.cz/slechtic-vypravuje/hrad-krakovec-a-jeho-osud/",
+   "https://www.krakovec.cz/historie/",
+   "https://www.fa.cvut.cz/galerie/diplomove-prace/2026-1-spurna-regenerace-arealu-zriceniny-hradu-krakovec-8cef3b87-00fd-428a-a0d6-9e0ae78c91a9/f5-dp-2026-spurna-emilie-priloha-dsn_portfolio_spurna_web.pdf"
   ]
  },
  "Q366444": {
@@ -61028,7 +61040,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "koupe",
-    "note": "koupil od Ferdinanda I. za 8482 kop pražských grošů do dědičného vlastnictví (1539 podle cs.wiki a de.wiki, NPÚ okolo 1535); panství tvořilo 28 vesnic, dva dvory a pustý hrad Starý Herštejn; po požáru 1547 nechal hrad přestavět v renesančním slohu (NPÚ: o tři roky později, tj. 1550); rok jeho smrti zdroje neuvádějí"
+    "note": "koupil od Ferdinanda I. za 8482 kop pražských grošů do dědičného vlastnictví (1539 podle cs.wiki a de.wiki, NPÚ okolo 1535); panství tvořilo 28 vesnic, dva dvory a pustý hrad Starý Herštejn; po požáru 1547 nechal hrad přestavět v renesančním slohu (NPÚ: o tři roky později, tj. 1550); rok jeho smrti zdroje neuvádějí; 23. 5. 1539 slavnostní předání panství a slib poddaných novému pánovi Janu ml. z Lobkovic na hradním nádvoří (htyn.cz, potvrzuje 1539); web města Horšovský Týn uvádí 1542, NPÚ/zamek-horsovskytyn.cz okolo 1535"
    },
    {
     "owner": "lobkovicove",
@@ -61072,7 +61084,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "30. 3. 1622 koupil zabavená panství Horšovského Týna, Čečovic a Mířkova (cs.wiki; NPÚ uvádí koupi 1623 jako levný pobělohorský konfiskát)"
+    "note": "30. 3. 1622 koupil zabavená panství Horšovského Týna, Čečovic a Mířkova (cs.wiki; NPÚ uvádí koupi 1623 jako levný pobělohorský konfiskát); web města Horšovský Týn uvádí rovněž 1622, zamek-horsovskytyn.cz a atlasceska.cz 1623"
    },
    {
     "owner": "trauttmansdorffove",
@@ -61156,7 +61168,10 @@
    "https://cs.wikipedia.org/wiki/Horšovský_Týn_(zámek)",
    "https://de.wikipedia.org/wiki/Hor%C5%A1ovsk%C3%BD_T%C3%BDn",
    "https://en.wikipedia.org/wiki/Hor%C5%A1ovsk%C3%BD_T%C3%BDn",
-   "https://www.zamek-horsovskytyn.cz/cs/o-zamku/historie"
+   "https://www.zamek-horsovskytyn.cz/cs/o-zamku/historie",
+   "https://www.htyn.cz/index.php/pribeh-mesta/21-renesance/28-horsovsky-tyn-renesancni",
+   "https://www.horsovskytyn.cz/mesto/informace-o-meste/historie/",
+   "https://www.atlasceska.cz/pamatky/hrad-a-zamek-horsovsky-tyn-19917"
   ]
  },
  "Q367352": {
@@ -66589,7 +66604,7 @@
     "from_approx": true,
     "to_approx": false,
     "how": "neznamo",
-    "note": "dnes majetek obce Frýdštejn (cs.wiki, oficiální web hradu); rok převodu a předchozí vlastník (stát / spolek) zdroje neuvádějí"
+    "note": "dnes majetek obce Frýdštejn (cs.wiki, oficiální web hradu); rok převodu a předchozí vlastník (stát / spolek) zdroje neuvádějí; oficiální web hradu, cesky-raj.info a turistika.cz potvrzují současného majitele obec Frýdštejn, rok převodu žádný z nich neuvádí"
    }
   ],
   "events": [
@@ -66639,7 +66654,8 @@
    "https://www.frydstejn.cz/hrad/historie/",
    "https://www.obec-frydstejn.cz/obec/historie/",
    "https://www.mistopisy.cz/pruvodce/obec/10031/frydstejn/historie/",
-   "https://www.turistika.cz/mista/frydstejn--1/detail"
+   "https://www.turistika.cz/mista/frydstejn--1/detail",
+   "https://www.cesky-raj.info/cile/zricenina-hradu-frydstejn"
   ]
  },
  "Q603303": {
@@ -66672,7 +66688,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "císařský rada a místokancléř; rok koupě 1562 podle oficiálního webu hradu a mikroreg.info, cs.wiki uvádí 1566 (začátek přestavby 1564-1566 podle zdroje), jiný zdroj 1569; přestavba na renesanční zámek, kaple sv. Barbory; pro dluhy a nemilost Rudolfa II. byl 27. října 1586 nucen panství prodat"
+    "note": "císařský rada a místokancléř; rok koupě 1562 podle oficiálního webu hradu a mikroreg.info, cs.wiki uvádí 1566 (začátek přestavby 1564-1566 podle zdroje), jiný zdroj 1569; přestavba na renesanční zámek, kaple sv. Barbory; pro dluhy a nemilost Rudolfa II. byl 27. října 1586 nucen panství prodat; rok 1562 potvrzuje i web hrad-zamek-tvrz.webnode.cz (koupě za 300 000 zl., přestavba 1564-1569)"
    },
    {
     "owner": "hofmannove",
@@ -66716,7 +66732,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "dedictvi",
-    "note": "v noci na 9. dubna 1622 vyhořela hradní věž (cs.wiki uvádí rok 1622); 1628 odešli z Čech jako nekatolíci, David Jindřich se vrátil 1631; rozsudkem komise z ledna 1634 byl majetek převeden Albrechtu z Valdštejna (diplomová práce TUL); amatérský web petanek.org uvádí zábor již 1628"
+    "note": "v noci na 9. dubna 1622 vyhořela hradní věž; David Jindřich z Černous byl 1628 vypovězen pro víru, 1631 se vrátil a rozsudkem komise z ledna 1634 byl jeho majetek převeden Albrechtu z Valdštejna (T. V. Bílek, Dějiny konfiskací, přes diplomovou práci TUL); rok 1628 jako počátek zásahu uvádějí petanek.org a webnode (Albrecht z Valdštejna se majetku zmocnil 1628, 1633 jej postoupil Maxmiliánovi) - rozpor 1628/1634, rok 1634 je doložen rozsudkem"
    },
    {
     "owner": "valdstejnove",
@@ -66727,7 +66743,7 @@
     "from_approx": true,
     "to_approx": false,
     "how": "konfiskace",
-    "note": "konfiskát po účasti Černousů ve stavovském povstání; Albrecht z Valdštejna, po něm hrabě Maxmilián z Valdštejna (petanek.org: 1633-1638); císařské rozhodnutí z 9. 8. 1638 vrátilo hrad Černousům, Maxmilián dostal náhradou Milotice"
+    "note": "konfiskát po účasti Černousů ve stavovském povstání; Albrecht z Valdštejna, po něm hrabě Maxmilián z Valdštejna (petanek.org a webnode: Maxmilián od 1633); majetek byl Černousům vrácen: Bílek 16. května 1637 (diplomová práce TUL, Sedláček také 1637), císařské rozhodnutí z 9. 8. 1638 (petanek.org, webnode) - rozpor 1637/1638; Maxmilián dostal náhradou Milotice"
    },
    {
     "owner": "cernousove",
@@ -66738,7 +66754,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "restituce",
-    "note": "majetek vrácen Černousům (podle Sedláčka 1637, podle petanek.org rozhodnutí z 9. 8. 1638); 1645 hrad obsadila švédská posádka; 1651 Jiří Zikmund z Černous panství prodal Nosticům"
+    "note": "majetek vrácen Černousům (1637 podle Bílka a Sedláčka, 1638 podle webnode a petanek.org); 1645 hrad obsadila švédská posádka, opustila jej v červnu 1648 (webnode); 1651 Jiří Zikmund z Černous panství prodal Nosticům (web pruvodce.com, webnode shodně)"
    },
    {
     "owner": "nosticove",
@@ -66754,13 +66770,24 @@
    {
     "owner": "trauttmansdorffove",
     "owner_wiki": "Trauttmansdorffové",
-    "person": "Adam Matyáš z Trauttmansdorffu, později Rudolf Vilém a Jan Josef",
+    "person": "Adam Matyáš z Trauttmansdorffu",
     "from": 1651,
-    "to": 1704,
+    "to": 1684,
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "koupil 16. 8. 1651; 1655 na příkaz císaře strženo opevnění (cs.wiki); Jan Josef pro dluhy hrad na příkaz královské komory prodal Janu Václavu Gallasovi (potvrzeno 18. 11. 1704); dělení mezi dědice Adama Matyáše (zemřel 1684) zdroje neuvádějí"
+    "note": "koupil 1651 (cs.wiki článek o Adamu Matyášovi, webnode, pruvodce.com); 1655 na příkaz císaře strženo opevnění (cs.wiki, web hradu); zemřel 2. listopadu 1684"
+   },
+   {
+    "owner": "trauttmansdorffove",
+    "owner_wiki": "Trauttmansdorffové",
+    "person": "dědicové Adama Matyáše z Trauttmansdorffu, naposledy Jan Josef z Trauttmansdorffu (vnuk)",
+    "from": 1684,
+    "to": 1704,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "rok 1684 je rok úmrtí Adama Matyáše, kdy a kdo konkrétně Grabštejn zdědil zdroje neuvádějí; Jan Josef pro dluhy hrad na příkaz královské komory prodal Janu Václavu Gallasovi (potvrzeno 18. 11. 1704; cs.wiki, webnode, pruvodce.com, TUL: 'potomci hraběte z Trauttmansdorffu')"
    },
    {
     "owner": "gallasove",
@@ -66867,7 +66894,11 @@
    "https://cs.wikipedia.org/wiki/Grabštejn",
    "https://hrad-grabstejn.cz/cs/o-hradu/historie",
    "http://www.mikroreg.info/index.aspx?rub=111",
-   "https://www.petanek.org/hrady/ZAMEK-GRABSTEJN.htm"
+   "https://www.petanek.org/hrady/ZAMEK-GRABSTEJN.htm",
+   "https://dspace.tul.cz/bitstreams/b3f6d727-393e-4a4e-afbd-515f30ba457d/download",
+   "https://hrad-zamek-tvrz.webnode.cz/hrady/grabstejn/",
+   "http://www.pruvodce.com/grabstejn/",
+   "https://cs.wikipedia.org/wiki/Adam_Matyáš_z_Trauttmansdorffu"
   ]
  },
  "Q613416": {

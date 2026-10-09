@@ -5585,18 +5585,18 @@
    {
     "place": "Q1012914",
     "from": 1747,
-    "to": 1850,
-    "person": "Millesimové (Caretto-Millesimo)",
-    "how": "neznamo",
+    "to": 1801,
+    "person": "Jan Václav z Millesimo-Caretto a jeho rod",
+    "how": "koupe",
     "from_approx": false,
     "to_approx": false
    },
    {
     "place": "Q1012914",
-    "from": 1850,
+    "from": 1801,
     "to": 1933,
-    "person": "nadace Jana Josefa Caretto-Millesima",
-    "how": "jine",
+    "person": "nadace pro zchudlé šlechtice (nadace Jana Josefa Caretto-Millesima)",
+    "how": "dedictvi",
     "from_approx": false,
     "to_approx": false
    }
@@ -5607,7 +5607,7 @@
     "year": 1747,
     "from": "robmhapove-ze-suche",
     "to": "carrettove",
-    "how": "neznamo"
+    "how": "koupe"
    },
    {
     "place": "Q1012914",
@@ -24260,7 +24260,7 @@
     "person": "Jan III. Popel z Lobkovic",
     "how": "koupe",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q367343",
@@ -26820,8 +26820,8 @@
    {
     "place": "Q1012914",
     "from": 1475,
-    "to": 1489,
-    "person": "Hynek, syn královny Johany",
+    "to": 1476,
+    "person": "Hynek Minsterberský (z Poděbrad)",
     "how": "dedictvi",
     "from_approx": false,
     "to_approx": false
@@ -41916,10 +41916,10 @@
     "place": "Q1012914",
     "from": 1637,
     "to": 1747,
-    "person": "Ferdinand Robmhap ze Suché",
+    "person": "Ferdinand Robmhap ze Suché (+ 1659) a jeho potomci, naposledy Jan Antonín Robmhap ze Suché (+ 1755)",
     "how": "koupe",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    }
   ],
   "transfers": [
@@ -41935,7 +41935,7 @@
     "year": 1747,
     "from": "robmhapove-ze-suche",
     "to": "carrettove",
-    "how": "neznamo"
+    "how": "koupe"
    }
   ],
   "place_count": 1,
@@ -51257,8 +51257,8 @@
     "to": 1490,
     "person": "Vilém Tetour z Tetova",
     "how": "lenni",
-    "from_approx": true,
-    "to_approx": true
+    "from_approx": false,
+    "to_approx": false
    },
    {
     "place": "Q1013071",
@@ -52582,10 +52582,19 @@
    {
     "place": "Q603303",
     "from": 1651,
-    "to": 1704,
-    "person": "Adam Matyáš z Trauttmansdorffu, později Rudolf Vilém a Jan Josef",
+    "to": 1684,
+    "person": "Adam Matyáš z Trauttmansdorffu",
     "how": "koupe",
     "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q603303",
+    "from": 1684,
+    "to": 1704,
+    "person": "dědicové Adama Matyáše z Trauttmansdorffu, naposledy Jan Josef z Trauttmansdorffu (vnuk)",
+    "how": "dedictvi",
+    "from_approx": true,
     "to_approx": false
    },
    {
@@ -52873,7 +52882,7 @@
     "person": "Jan starší Trčka z Lípy",
     "how": "jine",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q1012914",
@@ -52881,8 +52890,8 @@
     "to": 1549,
     "person": "Jan mladší Trčka z Lípy",
     "how": "koupe",
-    "from_approx": true,
-    "to_approx": true
+    "from_approx": false,
+    "to_approx": false
    },
    {
     "place": "Q1012914",
@@ -52890,7 +52899,7 @@
     "to": 1555,
     "person": "Vilém Trčka z Lípy",
     "how": "jine",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -59997,7 +60006,7 @@
     "to": 1570,
     "person": "Jan Újezdský z Červeného Újezdce",
     "how": "koupe",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false
    }
   ],
