@@ -83,7 +83,7 @@ Požadavky: Python 3.12+ a venv: `python3 -m venv .venv && .venv/bin/pip install
 
 - Ruční opravy (párování NIPOS, chybné odkazy v seznamu NPÚ, vyřazené duplicity, typ, přístupnost) patří do `data/overrides.json`, ne do vygenerovaných souborů.
 - Typ objektu: bere se z Wikidat, ale „Hrad“ ze seznamu NPÚ má přednost (hrad se zastřešenými a zpřístupněnými částmi je hrad, ne zřícenina). Ostatní druhy: z NPÚ podle jeho typu objektu (`KIND_FROM_NPU` v `build_places.py`), z Wikidat podle `TYPES` ve `fetch_wikidata.py` (jeden dotaz na druh, společný dotaz vyprší); bez cs.wiki článku a bez zdroje návštěvnosti (NPÚ, NIPOS, muzea, `extra_qids`) se místo vynechá. Výjimky oběma směry (např. Vízmburk zůstává zřícenina, Kašperk je hrad) jsou v `overrides.json` u `places`.
-- Historii nového objektu přidáš jako `data/history/<QID>.json` podle `data/SCHEMA.md` (ručně nebo agentem z cs.wiki), pak `fetch_families.py` a `build_history.py`. Hromadné doplňování po dávkách: [docs/history-batches.md](history-batches.md), další dávku vypíše `scripts/next_history_batch.py`.
+- Historii nového objektu přidáš jako `data/history/<QID>.json` podle `data/SCHEMA.md` (ručně nebo agentem z cs.wiki), pak `fetch_families.py` a `build_history.py`. Hromadné doplňování po dávkách: [docs/history-batches.md](history-batches.md), další dávku vypíše `scripts/next_history_batch.py`. Co se automaticky nepodařilo dohledat (nejistoty v historiích, rody bez erbu nebo článku, místa bez fotografie), vypíše `python3 scripts/build_manual_review.py` do [docs/rucni-kontrola.md](rucni-kontrola.md) (generovaný soubor s odkazy, kde hledat dál; po opravě dat ho přegeneruj).
 - NIPOS vydává data jednou ročně; při novém ročníku uprav `NIPOS_YEAR` a URL v `scripts/fetch_access.py`.
 
 ## Test
