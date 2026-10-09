@@ -221,7 +221,7 @@
    "from_approx": false,
    "to_approx": true,
    "how": "dedictvi",
-   "note": "po dělení 1690 získal Kámen (odhad 25 600 zlatých); prodal jej Františku Karlu Kreslovi z Kvaltenberka, hradkamen.cz uvádí prodej na počátku 18. století, přesný rok zdroje neuvádí"
+   "note": "po dělení 1690 získal Kámen (odhad 25 600 zlatých); prodal jej Františku Karlu Kreslovi z Kvaltenberka - hradkamen.cz a hrady.cz uvádějí prodej na počátku 18. století bez přesného roku (přehled majitelů na hradkamen.cz řadí Kresla k roku 1690 bez upřesnění)"
   },
   {
    "owner": "kreslove-z-kvaltenberka",
@@ -232,7 +232,7 @@
    "from_approx": true,
    "to_approx": false,
    "how": "koupe",
-   "note": "koupil od Jana Kryštofa Malovce mladšího (rok zdroje neuvádí); zadlužený roku 1747 na naléhání věřitelů panství prodal Janu Františku Baulerovi z Hohenburka"
+   "note": "koupil od Jana Kryštofa Malovce mladšího na počátku 18. století (hradkamen.cz, hrady.cz), přesný rok zdroje neuvádějí; zadlužený roku 1747 na naléhání věřitelů panství prodal Janu Františkovi Baulerovi z Hohenburka"
   },
   {
    "owner": "soukromnik",
@@ -309,7 +309,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "zahájil novogotickou přestavbu (cs.wiki uvádí držbu 1860-1872, hradkamen.cz 1860-1870 a po něm Dombrowského od 1870)"
+   "note": "zahájil novogotickou přestavbu; rozpor v koncovém roce: cs.wiki a hrady.cz uvádějí 1860-1872, hradkamen.cz (přehled majitelů) a databanka.cz 1860-1870 (poté Dombrowski od 1870); ponechán rok 1870 podle přehledu majitelů"
   },
   {
    "owner": "soukromnik",
@@ -407,7 +407,7 @@
    "from": 1948,
    "to": 2003,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "konfiskace",
    "note": "1948 konfiskováno, za státní kulturní majetek prohlášen 13. 1. 1953; od 1951 užíváno Československou obcí sokolskou, od 1953 osvětovou besedou, 1964-2002 zřizován ONV a poté Okresním úřadem v Pelhřimově, od 1974 muzeum jednostopých vozidel; rok převodu vlastnictví na kraj zdroje neuvádějí výslovně, hrad je od 1. 1. 2003 příspěvkovou organizací Kraje Vysočina"
   },
@@ -416,10 +416,10 @@
    "person": "Kraj Vysočina",
    "from": 2003,
    "to": null,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "jine",
-   "note": "hrad byl od 1. 1. 2003 samostatnou příspěvkovou organizací Kraje Vysočina, od 2011 pobočka Muzea Vysočiny Pelhřimov; přesný rok převodu vlastnictví zdroje neuvádějí"
+   "note": "od 1. 1. 2003 příspěvková organizace Kraje Vysočina (kr-vysocina.cz), podle vysocinawest.cz je hrad od roku 2003 v majetku Kraje; od 2011 pobočka Muzea Vysočiny Pelhřimov"
   }
  ],
  "events": [
@@ -463,6 +463,9 @@
  "sources": [
   "https://cs.wikipedia.org/wiki/Kámen_(hrad)",
   "https://www.hradkamen.cz/majitele.html",
-  "https://www.hradkamen.cz/historie-hradu/"
+  "https://www.hradkamen.cz/historie-hradu/",
+  "https://www.kr-vysocina.cz/hrad-kamen-pobocka-muzea-vysociny-pelhrimov-prispevkove-organizace/d-997796",
+  "https://vysocinawest.cz/turisticke-cile/hrad-kamen/",
+  "https://www.hrady.cz/hrad-kamen-pacov"
  ]
 }

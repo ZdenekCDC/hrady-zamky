@@ -4494,7 +4494,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "dedictvi",
-    "note": "po dělení 1690 získal Kámen (odhad 25 600 zlatých); prodal jej Františku Karlu Kreslovi z Kvaltenberka, hradkamen.cz uvádí prodej na počátku 18. století, přesný rok zdroje neuvádí"
+    "note": "po dělení 1690 získal Kámen (odhad 25 600 zlatých); prodal jej Františku Karlu Kreslovi z Kvaltenberka - hradkamen.cz a hrady.cz uvádějí prodej na počátku 18. století bez přesného roku (přehled majitelů na hradkamen.cz řadí Kresla k roku 1690 bez upřesnění)"
    },
    {
     "owner": "kreslove-z-kvaltenberka",
@@ -4505,7 +4505,7 @@
     "from_approx": true,
     "to_approx": false,
     "how": "koupe",
-    "note": "koupil od Jana Kryštofa Malovce mladšího (rok zdroje neuvádí); zadlužený roku 1747 na naléhání věřitelů panství prodal Janu Františku Baulerovi z Hohenburka"
+    "note": "koupil od Jana Kryštofa Malovce mladšího na počátku 18. století (hradkamen.cz, hrady.cz), přesný rok zdroje neuvádějí; zadlužený roku 1747 na naléhání věřitelů panství prodal Janu Františkovi Baulerovi z Hohenburka"
    },
    {
     "owner": "soukromnik",
@@ -4582,7 +4582,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "zahájil novogotickou přestavbu (cs.wiki uvádí držbu 1860-1872, hradkamen.cz 1860-1870 a po něm Dombrowského od 1870)"
+    "note": "zahájil novogotickou přestavbu; rozpor v koncovém roce: cs.wiki a hrady.cz uvádějí 1860-1872, hradkamen.cz (přehled majitelů) a databanka.cz 1860-1870 (poté Dombrowski od 1870); ponechán rok 1870 podle přehledu majitelů"
    },
    {
     "owner": "soukromnik",
@@ -4680,7 +4680,7 @@
     "from": 1948,
     "to": 2003,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "konfiskace",
     "note": "1948 konfiskováno, za státní kulturní majetek prohlášen 13. 1. 1953; od 1951 užíváno Československou obcí sokolskou, od 1953 osvětovou besedou, 1964-2002 zřizován ONV a poté Okresním úřadem v Pelhřimově, od 1974 muzeum jednostopých vozidel; rok převodu vlastnictví na kraj zdroje neuvádějí výslovně, hrad je od 1. 1. 2003 příspěvkovou organizací Kraje Vysočina"
    },
@@ -4689,10 +4689,10 @@
     "person": "Kraj Vysočina",
     "from": 2003,
     "to": null,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false,
     "how": "jine",
-    "note": "hrad byl od 1. 1. 2003 samostatnou příspěvkovou organizací Kraje Vysočina, od 2011 pobočka Muzea Vysočiny Pelhřimov; přesný rok převodu vlastnictví zdroje neuvádějí"
+    "note": "od 1. 1. 2003 příspěvková organizace Kraje Vysočina (kr-vysocina.cz), podle vysocinawest.cz je hrad od roku 2003 v majetku Kraje; od 2011 pobočka Muzea Vysočiny Pelhřimov"
    }
   ],
   "events": [
@@ -4736,7 +4736,10 @@
   "sources": [
    "https://cs.wikipedia.org/wiki/Kámen_(hrad)",
    "https://www.hradkamen.cz/majitele.html",
-   "https://www.hradkamen.cz/historie-hradu/"
+   "https://www.hradkamen.cz/historie-hradu/",
+   "https://www.kr-vysocina.cz/hrad-kamen-pobocka-muzea-vysociny-pelhrimov-prispevkove-organizace/d-997796",
+   "https://vysocinawest.cz/turisticke-cile/hrad-kamen/",
+   "https://www.hrady.cz/hrad-kamen-pacov"
   ]
  },
  "Q1012808": {
@@ -9145,7 +9148,7 @@
     "from_approx": true,
     "to_approx": true,
     "how": "zalozeni",
-    "note": "rod zakladatelů hradu jej vlastnil do začátku 15. století, přesný rok konce zdroj neuvádí"
+    "note": "rod zakladatelů hradu jej vlastnil do začátku 15. století, přesný rok konce zdroj neuvádí; Euroregion Elbe/Labe uvádí přechod na Sulevické až 1418, ostatní zdroje 1414 (Hanuš ze Sulevic uveden jako majitel 1414)"
    },
    {
     "owner": "kaplirove-ze-sulevic",
@@ -9177,18 +9180,18 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "koupil hrad poté, co ztratil Žlutice; oficiální web zámku uvádí koupi od poručníků dětí Jiřího Vrše 1540, cs.wiki uvádí, že Jan sídlil na Skalce do 1544, kdy jej prodal zpět Kaplířům ze Sulevic a odstěhoval se neznámo kam"
+    "note": "koupil hrad poté, co ztratil Žlutice; 1540 koupě od poručníků dětí Jiřího Vrše (zamek-skalka.cz, obec Vlastislav, hrady.cz: 1540 drží Jan z Vřesovic); 1544 jej prodal Janu Kaplířovi ze Sulevic a na Košťálově (obec Vlastislav, hrady.cz, cs.wiki). Rozdílné roky 1540 a 1544 tedy vyjadřují začátek a konec držby Vřesovských (Euroregion Elbe/Labe: 1540-1544)"
    },
    {
     "owner": "kaplirove-ze-sulevic",
     "owner_wiki": null,
-    "person": "Kaplířové ze Sulevic (naposled Zdeslav Kaplíř, po něm vdova Eva Kunšovna z Lukavce)",
+    "person": "Jan Kaplíř ze Sulevic a na Košťálově, po 1558 jeho syn Zdeslav (†asi 1566), poté vdova Eva Kunšovna z Lukavce",
     "from": 1544,
     "to": 1578,
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "hrad vlastnili do 1578, kdy jej sňatkem s Annou Kaplířovou, dcerou Evy Kunšovny z Lukavce, získal Adam Hrzán z Harasova; 1579 Anna odkázala všechny majetky manželovi"
+    "note": "1544 koupil Skalku zpět od Jana z Vřesovic (obec Vlastislav, hrady.cz); Zdeslav zdědil po 1558, jeho dcera Anna se provdala za Adama Hrzána z Harasova - hrad získal sňatkem 1578, 1579 Anna odkázala majetek manželovi"
    },
    {
     "owner": "hrzanove-z-harasova",
@@ -9199,7 +9202,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "snatek",
-    "note": "Adam Hrzán z Harasova (†1619), poté Zdeslav Hrzán, který za třicetileté války lavíroval mezi stranami a uhájil Skalku před konfiskací; hrad zpustošen Švédy 1639, po 1650 postaven nový zámek, pravděpodobně za Jana Adama Hrzána z Harasova (†1681, od 1650 panský stav, od 1666 říšský hrabě); léta držby po 1681 až do 1719 zdroje neuvádějí"
+    "note": "Adam Hrzán z Harasova (†1619), poté Zdeslav Hrzán, který za třicetileté války lavíroval mezi stranami a uhájil Skalku před konfiskací; hrad zpustošen Švédy 1639, po 1650 postaven nový zámek, pravděpodobně za Jana Adama Hrzána z Harasova (†1681, od 1650 panský stav, od 1666 říšský hrabě); léta držby po 1681 až do 1719 zdroje neuvádějí (zdroje druhého ověření - hrady.cz, zamek-skalka.cz, Euroregion - mezeru 1681-1719 také nezaplňují)"
    },
    {
     "owner": "z-adlerthurnu",
@@ -9232,7 +9235,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "neznamo",
-    "note": "Schönbornové po 1796; podle turistického magazínu sídlili zámku do 1945 (22. 1. 1945 se na zámku narodil kardinál Christoph Schönborn); rok a způsob odnětí zdroje neuvádějí, patrně konfiskace po 1945"
+    "note": "Schönbornové po 1796; podle turistického magazínu sídlili na zámku do 1945 (22. 1. 1945 se na zámku narodil kardinál Christoph Schönborn); rok a způsob odnětí (patrně konfiskace po 1945) ani přechodu na stát žádný dohledaný zdroj (cs.wiki, hrady.cz, zamek-skalka.cz, obec Vlastislav, Euroregion Elbe/Labe) neuvádí"
    },
    {
     "owner": "stat",
@@ -9243,7 +9246,7 @@
     "from_approx": true,
     "to_approx": false,
     "how": "neznamo",
-    "note": "po válce zámek sloužil jako depozitář Státního oblastního archivu v Litoměřicích, podle webu obce Vlastislav a Kreativní.uk též jako sklady Ministerstva vnitra, od 1990 prázdný; rok a způsob přechodu na stát zdroje neuvádějí"
+    "note": "po válce zámek sloužil jako depozitář Státního oblastního archivu v Litoměřicích (cs.wiki), podle webu obce Vlastislav a Kreativní.uk též jako sklady Ministerstva vnitra, od 1990 prázdný; rok a způsob přechodu na stát zdroje neuvádějí"
    },
    {
     "owner": "mesto",
@@ -9291,7 +9294,9 @@
    "https://cs.wikipedia.org/wiki/Skalka_(hrad_a_zámek_ve_Vlastislavi)",
    "https://www.zamek-skalka.cz/o-zamku/",
    "https://www.obec-vlastislav.cz/zamek-skalka/",
-   "https://turisticky-magazin.cz/turistika.php?id_cl=425&title=skalka_u_vlastislavi"
+   "https://turisticky-magazin.cz/turistika.php?id_cl=425&title=skalka_u_vlastislavi",
+   "https://www.hrady.cz/hrad-skalka-vlastislav",
+   "https://www.elbelabe.eu/cz/poi/b/zricenina-hradu-a-zamek-skalka/"
   ]
  },
  "Q1014034": {
@@ -42539,7 +42544,7 @@
    "approx": false,
    "text": "Hrad (též Ronšperk) založil Dobrohost z Ronšperka, který Poběžovice získal roku 1459; ve městě, poprvé zmíněném 1359, předtím existovala tvrz nejasné lokalizace."
   },
-  "summary": "Hrad Poběžovice (Ronšperk) založil roku 1459 Dobrohost z Ronšperka, po roce 1510 se v jeho držení vystřídali Gutštejnové a Švamberkové, kteří jej po roce 1542 renesančně přestavěli. Po pobělohorské konfiskaci koupil majetek roku 1622 od královské komory Severin Táhlo z Horšteina; od roku 1682 patřil Vunšicům, kteří jej barokně přestavěli (1682-1695), v letech 1717-1805 se vystřídali Mulcové z Valdova, Königsfeldové a Linkerové a od roku 1805 Thun-Hohensteinové. Od roku 1864 do vyvlastnění v roce 1945 patřil zámek rodině Coudenhove-Kalergi, poté sloužil pohraniční stráži a roku 1989 jej převzalo město Poběžovice, které jej postupně opravuje a částečně zpřístupnilo veřejnosti od roku 2024.",
+  "summary": "Hrad Poběžovice (Ronšperk) založil roku 1459 Dobrohost z Ronšperka, po roce 1510 se v jeho držení vystřídali Gutštejnové a Švamberkové, kteří jej po roce 1542 renesančně přestavěli. Po pobělohorské konfiskaci koupil majetek roku 1622 (podle NPÚ 1623) od královské komory Severin Táhlo z Horšteina, po jeho smrti 1641 jej drželi zeť Jan Jindřich z Badenberka a od 1653 Daniel Norbert Pachta z Rájova; od roku 1682 patřil Vunšicům, kteří jej barokně přestavěli (1682-1695), v letech 1717-1805 se vystřídali Mulcové z Valdova, Königsfeldové a Linkerové a od roku 1805 Thun-Hohensteinové. Od roku 1864 do vyvlastnění v roce 1945 patřil zámek rodině Coudenhove-Kalergi, poté sloužil pohraniční stráži a roku 1989 jej převzalo město Poběžovice, které jej postupně opravuje a částečně zpřístupnilo veřejnosti od roku 2024.",
   "owners": [
    {
     "owner": "z-ronsperka",
@@ -42561,7 +42566,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "neznamo",
-    "note": "po 1510 panství rozdělili Zdeňkovi bratři; web města uvádí, že se v letech 1510-1548 v držení vystřídali různí šlechtici; přesné předání Gutštejnovi zdroj neuvádí"
+    "note": "po 1510 (NPÚ/Hinterholzinger: 1511) panství připadlo Zdeňkovým bratrům Volfovi a Václavovi, kteří je před 1526 prodali Albrechtovi z Gutštejna (web města Poběžovice, Historický vývoj města; NPÚ)"
    },
    {
     "owner": "pani-z-gutstejna",
@@ -42572,29 +42577,51 @@
     "from_approx": true,
     "to_approx": false,
     "how": "neznamo",
-    "note": "nejpozději 1526 (cs.wiki); zastavil jej Bernardovi Barchancovi z Baršov, 1537 podle webu města prodal Bohuslavovi Rochcovi z Otova; 1542 prodal bratrům ze Švamberka (cs.wiki), web města uvádí Švamberky od 1546"
+    "note": "nejpozději 1526 (cs.wiki; web města: kolem 1526); zastavil jej Bohuslavu Rochcovi z Otova, 1537 pronajal na 6 let Bernardovi Barchancovi z Baršov (web města jej uvádí i jako prodej); 1542 prodal bratrům Petrovi, Bartoloměji a Janovi ze Švamberka za 5400 kop grošů (cs.wiki, Historický vývoj města); dřívější záznam o 1546 u Švamberků nepotvrzen, zdroje uvádějí 1542"
    },
    {
     "owner": "pani-ze-svamberka",
     "owner_wiki": "Páni ze Švamberka",
-    "person": "Bartoloměj a Jan ze Švamberka; později Petr I., Jan Jiří a Petr II. ze Švamberka",
+    "person": "Petr, Bartoloměj a Jan ze Švamberka; od 1548 Petr ze Švamberka, od 1573 Jan Jiří, od 1617 Anna Maxmiliána z Oprsdorfu (manželka Petra)",
     "from": 1542,
     "to": 1622,
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "hrad renesančně přestavěli; Petr II. se účastnil stavovského povstání, zemřel 1621, majetek jeho manželce a dětem zkonfiskován (hrad obsazen vojskem dona Marradase již v říjnu 1620)"
+    "note": "1548 bratři se podělili a Poběžovice připadly Petrovi (†1575), 1573 je předal synovi Janu Jiřímu (†1617), poté Anna Maxmiliána, manželka Petra; Petr se účastnil stavovského povstání, zemřel 1620/1621, majetek zkonfiskován (hrad obsazen vojskem dona Marradase 1619/1620); konfiskát nejprve darován jezuitské koleji u sv. Klimenta"
    },
    {
     "owner": "z-horsteina",
     "owner_wiki": null,
-    "person": "Severin Táhlo z Horšteina",
+    "person": "Severin Táhlo z Horšteina (Thal z Horštejna)",
     "from": 1622,
-    "to": 1682,
+    "to": 1641,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "koupil konfiskát od královské komory 1622 (cs.wiki; NPÚ/Hinterholzinger uvádí 1623, jezuité se roku 1623 dohodli na směně a prodeji) za 30 045 kop míšeňských grošů; 1630 rytířský stav; zemřel 1641"
+   },
+   {
+    "owner": "z-badenberka",
+    "owner_wiki": null,
+    "person": "Jan Jindřich z Badenberka (Bedenberka), velitel císařského pluku, manžel dcery Severina Alžběty Kateřiny (†1642)",
+    "from": 1641,
+    "to": 1653,
     "from_approx": false,
     "to_approx": true,
-    "how": "koupe",
-    "note": "koupil konfiskát od královské komory 1622; po něm se vystřídala řada majitelů, které zdroje nejmenují"
+    "how": "dedictvi",
+    "note": "po smrti Severina 1641 zdědila jediná dcera Alžběta Kateřina, která 1642 zemřela a statek převzal manžel; 1645 rozšířil opevnění hradu; konec držby podle převodu na Pachtu 1653-1659 (Historický vývoj města; NPÚ/Hinterholzinger)"
+   },
+   {
+    "owner": "pachtove-z-rajova",
+    "owner_wiki": "Pachtové z Rájova",
+    "person": "Daniel Norbert Pachta z Rájova",
+    "from": 1653,
+    "to": 1682,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "příbuzný Alžběty Kateřiny; Poběžovice mu připadly v letech 1653-1659 (zdroje nerozlišují přesný rok), zemřel 1682 v Praze a statek přešel na dceru Annu Felicianu (Historický vývoj města; NPÚ/Hinterholzinger)"
    },
    {
     "owner": "z-vunsic",
@@ -42703,6 +42730,14 @@
     "text": "po pobělohorské konfiskaci prodala královská komora panství Severinu Táhlovi z Horšteina"
    },
    {
+    "year": 1641,
+    "text": "po smrti Severina Táhla statek zdědila dcera Alžběta Kateřina, po ní manžel Jan Jindřich z Badenberka"
+   },
+   {
+    "year": 1653,
+    "text": "statek přešel na Daniela Norberta Pachtu z Rájova (v letech 1653-1659)"
+   },
+   {
     "year": 1682,
     "text": "1682-1695 barokní přestavba zámku za Matyáše Bohumíra z Vunšic"
    },
@@ -42739,7 +42774,8 @@
    "https://cs.wikipedia.org/wiki/Poběžovice_(zámek)",
    "https://www.pobezovice.cz/mesto/informace-o-meste/historie/",
    "https://www.pobezovice.cz/e_download.php?file=data%2Feditor%2F53cs_1.pdf&original=Historicky+vy%CC%81voj+me%CC%8Csta.pdf",
-   "https://www.uur.cz/media/w5fdugx1/8-pobezovice.pdf"
+   "https://www.uur.cz/media/w5fdugx1/8-pobezovice.pdf",
+   "https://exa.ai/library/publication/xx6kdn20xq0"
   ]
  },
  "Q217968": {
@@ -48624,7 +48660,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "koupe",
-    "note": "plzeňský podnikatel a poslanec; nezaplatil státu převodní poplatky, prodej nebyl zapsán v majetkových knihách a zámek se stal majetkem státu; rok přechodu zdroje neuvádějí (zámek byl za protektorátu užíván německými vojáky)"
+    "note": "plzeňský podnikatel a poslanec; nezaplatil státu převodní poplatky, prodej nebyl zapsán v majetkových knihách a zámek se stal majetkem státu; rok přechodu zdroje neuvádějí (web zámku, nepomuk.cz: po roce 1938 / před 15. 3. 1939 obsazení vojáky; Koktejl 2025: \"po roce 1938\" v držení státu; zámek byl za protektorátu užíván německými vojáky)"
    },
    {
     "owner": "stat",
@@ -48714,7 +48750,8 @@
    "https://cs.wikipedia.org/wiki/Zelená_Hora_(zámek)",
    "https://www.zelenahora.cz/cs/historie/historie-zamku",
    "https://www.nepomuk.cz/mesto/o-meste/pamatky-a-muzea/pamatky/zamek-zelena-hora-565cs.html",
-   "https://plzensky.denik.cz/zpravy-region/nepomuk-plzen-zamek-pamatka-prodej-zelena-hora-majitel-klaus/"
+   "https://plzensky.denik.cz/zpravy-region/nepomuk-plzen-zamek-pamatka-prodej-zelena-hora-majitel-klaus/",
+   "https://www.koktejl.cz/zajimavosti/zamek-zelena-hora/"
   ]
  },
  "Q2244354": {
@@ -70644,7 +70681,8 @@
    "https://cs.wikipedia.org/wiki/Troja_(z%C3%A1mek)",
    "https://cs.wikipedia.org/wiki/Alois_Svoboda_(velkostatkář)",
    "https://www.npu.cz/cs/pamatkova-pece/sluzby-pro-verejnost/opravujete-pamatku/inspirujte-se/81012-celkova-obnova-zahradniho-schodiste-zamku-troja-v-praze",
-   "https://www.ghmp.cz/budovy/ghmp-zamek-troja/"
+   "https://www.ghmp.cz/budovy/ghmp-zamek-troja/",
+   "https://cesky.radio.cz/trojsky-zamek-8618669"
   ]
  },
  "Q847039": {
@@ -72971,7 +73009,7 @@
     "from_approx": true,
     "to_approx": true,
     "how": "jine",
-    "note": "po jeho smrti se majetek stal odúmrtí, o kterou se soudili Bohuslav v Košíně, jeho syn Baltazar a Bořivoj z Donína; přesný rok Bořivojovy smrti cs.wiki neuvádí; hrady.cz uvádí, že se Bořivoj z Lochovic soudil o dluhy ještě 1465 a statek odkázal vnukovi v 70. letech 15. stol. (rozpor s cs.wiki, kde odúmrť 1460)"
+    "note": "po jeho smrti se majetek stal odúmrtí, o kterou se soudili Bohuslav v Košíně, jeho syn Baltazar a Bořivoj z Donína; přesný rok Bořivojovy smrti cs.wiki neuvádí; obecokor.cz: Okoř získal jako věno své manželky za vlády Jiřího z Poděbrad; hrady.cz uvádí, že se Bořivoj z Lochovic soudil o dluhy ještě 1465 a statek odkázal vnukovi v 70. letech 15. stol. (rozpor s cs.wiki, kde odúmrť 1460)"
    },
    {
     "owner": "pani-z-donina",

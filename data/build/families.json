@@ -16453,7 +16453,7 @@
     "place": "Q1014003",
     "from": 1544,
     "to": 1578,
-    "person": "Kaplířové ze Sulevic (naposled Zdeslav Kaplíř, po něm vdova Eva Kunšovna z Lukavce)",
+    "person": "Jan Kaplíř ze Sulevic a na Košťálově, po 1558 jeho syn Zdeslav (†asi 1566), poté vdova Eva Kunšovna z Lukavce",
     "how": "koupe",
     "from_approx": false,
     "to_approx": false
@@ -29164,6 +29164,15 @@
     "how": "dedictvi",
     "from_approx": true,
     "to_approx": false
+   },
+   {
+    "place": "Q21758915",
+    "from": 1653,
+    "to": 1682,
+    "person": "Daniel Norbert Pachta z Rájova",
+    "how": "dedictvi",
+    "from_approx": true,
+    "to_approx": false
    }
   ],
   "transfers": [
@@ -29187,9 +29196,23 @@
     "from": "pachtove-z-rajova",
     "to": "schirndingerove-ze-schirndingu",
     "how": "neznamo"
+   },
+   {
+    "place": "Q21758915",
+    "year": 1653,
+    "from": "z-badenberka",
+    "to": "pachtove-z-rajova",
+    "how": "dedictvi"
+   },
+   {
+    "place": "Q21758915",
+    "year": 1682,
+    "from": "pachtove-z-rajova",
+    "to": "z-vunsic",
+    "how": "snatek"
    }
   ],
-  "place_count": 2,
+  "place_count": 3,
   "color_slot": null
  },
  "palffyove": {
@@ -37025,7 +37048,7 @@
     "place": "Q21758915",
     "from": 1542,
     "to": 1622,
-    "person": "Bartoloměj a Jan ze Švamberka; později Petr I., Jan Jiří a Petr II. ze Švamberka",
+    "person": "Petr, Bartoloměj a Jan ze Švamberka; od 1548 Petr ze Švamberka, od 1573 Jan Jiří, od 1617 Anna Maxmiliána z Oprsdorfu (manželka Petra)",
     "how": "koupe",
     "from_approx": false,
     "to_approx": false
@@ -59127,6 +59150,41 @@
   "place_count": 2,
   "color_slot": null
  },
+ "z-badenberka": {
+  "id": "z-badenberka",
+  "type": "rod",
+  "name": "z-badenberka",
+  "related": [],
+  "places": [
+   {
+    "place": "Q21758915",
+    "from": 1641,
+    "to": 1653,
+    "person": "Jan Jindřich z Badenberka (Bedenberka), velitel císařského pluku, manžel dcery Severina Alžběty Kateřiny (†1642)",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": true
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q21758915",
+    "year": 1641,
+    "from": "z-horsteina",
+    "to": "z-badenberka",
+    "how": "dedictvi"
+   },
+   {
+    "place": "Q21758915",
+    "year": 1653,
+    "from": "z-badenberka",
+    "to": "pachtove-z-rajova",
+    "how": "dedictvi"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
  "z-bayersburgu": {
   "id": "z-bayersburgu",
   "type": "rod",
@@ -62676,11 +62734,11 @@
    {
     "place": "Q21758915",
     "from": 1622,
-    "to": 1682,
-    "person": "Severin Táhlo z Horšteina",
+    "to": 1641,
+    "person": "Severin Táhlo z Horšteina (Thal z Horštejna)",
     "how": "koupe",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    }
   ],
   "transfers": [
@@ -62693,10 +62751,10 @@
    },
    {
     "place": "Q21758915",
-    "year": 1682,
+    "year": 1641,
     "from": "z-horsteina",
-    "to": "z-vunsic",
-    "how": "snatek"
+    "to": "z-badenberka",
+    "how": "dedictvi"
    }
   ],
   "place_count": 1,
@@ -73453,7 +73511,7 @@
    {
     "place": "Q21758915",
     "year": 1682,
-    "from": "z-horsteina",
+    "from": "pachtove-z-rajova",
     "to": "z-vunsic",
     "how": "snatek"
    },
@@ -80621,7 +80679,7 @@
     "person": null,
     "how": "konfiskace",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q1012808",
@@ -92955,7 +93013,7 @@
     "to": null,
     "person": "Kraj Vysočina",
     "how": "jine",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false
    },
    {

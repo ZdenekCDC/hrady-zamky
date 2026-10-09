@@ -6,7 +6,7 @@
   "approx": false,
   "text": "Hrad (též Ronšperk) založil Dobrohost z Ronšperka, který Poběžovice získal roku 1459; ve městě, poprvé zmíněném 1359, předtím existovala tvrz nejasné lokalizace."
  },
- "summary": "Hrad Poběžovice (Ronšperk) založil roku 1459 Dobrohost z Ronšperka, po roce 1510 se v jeho držení vystřídali Gutštejnové a Švamberkové, kteří jej po roce 1542 renesančně přestavěli. Po pobělohorské konfiskaci koupil majetek roku 1622 od královské komory Severin Táhlo z Horšteina; od roku 1682 patřil Vunšicům, kteří jej barokně přestavěli (1682-1695), v letech 1717-1805 se vystřídali Mulcové z Valdova, Königsfeldové a Linkerové a od roku 1805 Thun-Hohensteinové. Od roku 1864 do vyvlastnění v roce 1945 patřil zámek rodině Coudenhove-Kalergi, poté sloužil pohraniční stráži a roku 1989 jej převzalo město Poběžovice, které jej postupně opravuje a částečně zpřístupnilo veřejnosti od roku 2024.",
+ "summary": "Hrad Poběžovice (Ronšperk) založil roku 1459 Dobrohost z Ronšperka, po roce 1510 se v jeho držení vystřídali Gutštejnové a Švamberkové, kteří jej po roce 1542 renesančně přestavěli. Po pobělohorské konfiskaci koupil majetek roku 1622 (podle NPÚ 1623) od královské komory Severin Táhlo z Horšteina, po jeho smrti 1641 jej drželi zeť Jan Jindřich z Badenberka a od 1653 Daniel Norbert Pachta z Rájova; od roku 1682 patřil Vunšicům, kteří jej barokně přestavěli (1682-1695), v letech 1717-1805 se vystřídali Mulcové z Valdova, Königsfeldové a Linkerové a od roku 1805 Thun-Hohensteinové. Od roku 1864 do vyvlastnění v roce 1945 patřil zámek rodině Coudenhove-Kalergi, poté sloužil pohraniční stráži a roku 1989 jej převzalo město Poběžovice, které jej postupně opravuje a částečně zpřístupnilo veřejnosti od roku 2024.",
  "owners": [
   {
    "owner": "z-ronsperka",
@@ -24,11 +24,11 @@
    "owner_wiki": null,
    "person": "Volf a Václav Dobrohost z Ronšperka",
    "from": 1510,
-   "to": null,
+   "to": 1526,
    "from_approx": false,
    "to_approx": true,
    "how": "neznamo",
-   "note": "po 1510 panství rozdělili Zdeňkovi bratři; web města uvádí, že se v letech 1510-1548 v držení vystřídali různí šlechtici; přesné předání Gutštejnovi zdroj neuvádí"
+   "note": "po 1510 (NPÚ/Hinterholzinger: 1511) panství připadlo Zdeňkovým bratrům Volfovi a Václavovi, kteří je před 1526 prodali Albrechtovi z Gutštejna (web města Poběžovice, Historický vývoj města; NPÚ)"
   },
   {
    "owner": "pani-z-gutstejna",
@@ -39,29 +39,51 @@
    "from_approx": true,
    "to_approx": false,
    "how": "neznamo",
-   "note": "nejpozději 1526 (cs.wiki); zastavil jej Bernardovi Barchancovi z Baršov, 1537 podle webu města prodal Bohuslavovi Rochcovi z Otova; 1542 prodal bratrům ze Švamberka (cs.wiki), web města uvádí Švamberky od 1546"
+   "note": "nejpozději 1526 (cs.wiki; web města: kolem 1526); zastavil jej Bohuslavu Rochcovi z Otova, 1537 pronajal na 6 let Bernardovi Barchancovi z Baršov (web města jej uvádí i jako prodej); 1542 prodal bratrům Petrovi, Bartoloměji a Janovi ze Švamberka za 5400 kop grošů (cs.wiki, Historický vývoj města); dřívější záznam o 1546 u Švamberků nepotvrzen, zdroje uvádějí 1542"
   },
   {
    "owner": "pani-ze-svamberka",
    "owner_wiki": "Páni ze Švamberka",
-   "person": "Bartoloměj a Jan ze Švamberka; později Petr I., Jan Jiří a Petr II. ze Švamberka",
+   "person": "Petr, Bartoloměj a Jan ze Švamberka; od 1548 Petr ze Švamberka, od 1573 Jan Jiří, od 1617 Anna Maxmiliána z Oprsdorfu (manželka Petra)",
    "from": 1542,
    "to": 1622,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "hrad renesančně přestavěli; Petr II. se účastnil stavovského povstání, zemřel 1621, majetek jeho manželce a dětem zkonfiskován (hrad obsazen vojskem dona Marradase již v říjnu 1620)"
+   "note": "1548 bratři se podělili a Poběžovice připadly Petrovi (†1575), 1573 je předal synovi Janu Jiřímu (†1617), poté Anna Maxmiliána, manželka Petra; Petr se účastnil stavovského povstání, zemřel 1620/1621, majetek zkonfiskován (hrad obsazen vojskem dona Marradase 1619/1620); konfiskát nejprve darován jezuitské koleji u sv. Klimenta"
   },
   {
    "owner": "z-horsteina",
    "owner_wiki": null,
-   "person": "Severin Táhlo z Horšteina",
+   "person": "Severin Táhlo z Horšteina (Thal z Horštejna)",
    "from": 1622,
-   "to": null,
+   "to": 1641,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil konfiskát od královské komory 1622 (cs.wiki; NPÚ/Hinterholzinger uvádí 1623, jezuité se roku 1623 dohodli na směně a prodeji) za 30 045 kop míšeňských grošů; 1630 rytířský stav; zemřel 1641"
+  },
+  {
+   "owner": "z-badenberka",
+   "owner_wiki": null,
+   "person": "Jan Jindřich z Badenberka (Bedenberka), velitel císařského pluku, manžel dcery Severina Alžběty Kateřiny (†1642)",
+   "from": 1641,
+   "to": 1653,
    "from_approx": false,
    "to_approx": true,
-   "how": "koupe",
-   "note": "koupil konfiskát od královské komory 1622; po něm se vystřídala řada majitelů, které zdroje nejmenují"
+   "how": "dedictvi",
+   "note": "po smrti Severina 1641 zdědila jediná dcera Alžběta Kateřina, která 1642 zemřela a statek převzal manžel; 1645 rozšířil opevnění hradu; konec držby podle převodu na Pachtu 1653-1659 (Historický vývoj města; NPÚ/Hinterholzinger)"
+  },
+  {
+   "owner": "pachtove-z-rajova",
+   "owner_wiki": "Pachtové z Rájova",
+   "person": "Daniel Norbert Pachta z Rájova",
+   "from": 1653,
+   "to": 1682,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "příbuzný Alžběty Kateřiny; Poběžovice mu připadly v letech 1653-1659 (zdroje nerozlišují přesný rok), zemřel 1682 v Praze a statek přešel na dceru Annu Felicianu (Historický vývoj města; NPÚ/Hinterholzinger)"
   },
   {
    "owner": "z-vunsic",
@@ -170,6 +192,14 @@
    "text": "po pobělohorské konfiskaci prodala královská komora panství Severinu Táhlovi z Horšteina"
   },
   {
+   "year": 1641,
+   "text": "po smrti Severina Táhla statek zdědila dcera Alžběta Kateřina, po ní manžel Jan Jindřich z Badenberka"
+  },
+  {
+   "year": 1653,
+   "text": "statek přešel na Daniela Norberta Pachtu z Rájova (v letech 1653-1659)"
+  },
+  {
    "year": 1682,
    "text": "1682-1695 barokní přestavba zámku za Matyáše Bohumíra z Vunšic"
   },
@@ -206,6 +236,7 @@
   "https://cs.wikipedia.org/wiki/Poběžovice_(zámek)",
   "https://www.pobezovice.cz/mesto/informace-o-meste/historie/",
   "https://www.pobezovice.cz/e_download.php?file=data%2Feditor%2F53cs_1.pdf&original=Historicky+vy%CC%81voj+me%CC%8Csta.pdf",
-  "https://www.uur.cz/media/w5fdugx1/8-pobezovice.pdf"
+  "https://www.uur.cz/media/w5fdugx1/8-pobezovice.pdf",
+  "https://exa.ai/library/publication/xx6kdn20xq0"
  ]
 }
