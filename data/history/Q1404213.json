@@ -9,7 +9,7 @@
   {"owner": "valecovsti-z-valecova", "owner_wiki": null, "person": "Břeněk a Jan Valečovský (synové Machny)", "from": 1443, "to": 1462, "from_approx": true, "to_approx": false, "how": "jine", "note": "hrad dobyli zpět pravděpodobně v bojích 1443-1444; Břeněk brzy zemřel, Jan držel hrad a roku 1462 jej přenechal Vaňkovi (hrady.cz, komerční portál)"},
   {"owner": "valecovsti-z-valecova", "owner_wiki": null, "person": "Vaněk Valečovský z Kněžmostu", "from": 1462, "to": 1472, "from_approx": false, "to_approx": false, "how": "jine", "note": "podkomoří královských měst za Jiřího z Poděbrad; dal vystavět nový palác; zemřel 1472"},
   {"owner": "z-hradku", "owner_wiki": null, "person": "Samuel z Hrádku, poté syn Jiří Samuel z Hrádku", "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "jine", "note": "Samuel, Vaňkův švagr a nástupce v úřadu podkomořího (do 1486), se zmocnil hradu; roky držby zdroje neuvádějí"},
-  {"owner": "pani-z-donina", "owner_wiki": "Páni z Donína", "person": null, "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "na počátku 16. století se majitelé rychle střídali: Donínové, Šelmberkové, Berkové z Dubé; roky ani pořadí přesně neuvedeny (hrady.cz, komerční portál)"},
+  {"owner": "pani-z-donina", "owner_wiki": "Páni z Donína", "person": null, "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "na počátku 16. století se majitelé rychle střídali; pořadí Donínové, Šelmberkové (ti hrad prodali Berkům z Dubé), Berkové z Dubé shodně uvádí hrady.cz, hradvalecov.cz i interregion.cz, roky žádný zdroj neuvádí"},
   {"owner": "selmberkove", "owner_wiki": "Šelmberkové", "person": null, "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "viz předchozí záznam; roky nejsou uvedeny"},
   {"owner": "berkove-z-dube", "owner_wiki": "Berkové z Dubé", "person": null, "from": null, "to": null, "from_approx": true, "to_approx": true, "how": "neznamo", "note": "viz předchozí záznam; roky nejsou uvedeny"},
   {"owner": "vancurove-z-rehnic", "owner_wiki": "Vančurové z Řehnic", "person": "Jiří Vančura z Řehnic", "from": null, "to": 1554, "from_approx": true, "to_approx": false, "how": "neznamo", "note": "ve 2. polovině 16. století na delší dobu; zemřel 1554 (hrady.cz; obec Boseň uvádí 1555)"},
@@ -19,7 +19,7 @@
   {"owner": "valdstejnove", "owner_wiki": "Valdštejnové", "person": "Albrecht Eusebius z Valdštejna", "from": 1623, "to": 1625, "from_approx": false, "to_approx": false, "how": "konfiskace", "note": "koupil konfiskát; jako frýdlantské léno jej 1625 prodal hejtmanovi Gerhardovi Taxisovi z Hulstu"},
   {"owner": "soukromnik", "owner_wiki": null, "person": "Gerhard Taxis z Hulstu", "from": 1625, "to": 1646, "from_approx": false, "to_approx": false, "how": "koupe", "note": "hrad pendloval mezi Valdštejnovými důstojníky; 1646 jej prodal Danielovi Freislebenovi"},
   {"owner": "soukromnik", "owner_wiki": null, "person": "Daniel Freisleben z Buschhofenu, poté jeho vdova", "from": 1646, "to": 1652, "from_approx": false, "to_approx": false, "how": "koupe", "note": "vdova nemohla pro dluhy panství udržet a prodala jej prostřednictvím císařských komisařů"},
-  {"owner": "valdstejnove", "owner_wiki": "Valdštejnové", "person": "Ferdinand Arnošt z Valdštejna", "from": 1652, "to": null, "from_approx": false, "to_approx": true, "how": "koupe", "note": "majitel mnichovohradišťského panství, hrad se stal jeho součástí; hrad sloužil jako správní středisko a byl zpustlý; kdy a jak Valdštejnové hrad pozbyli, ani jeden zdroj neuvádí"},
+  {"owner": "valdstejnove", "owner_wiki": "Valdštejnové", "person": "Ferdinand Arnošt z Valdštejna", "from": 1652, "to": null, "from_approx": false, "to_approx": true, "how": "koupe", "note": "majitel mnichovohradišťského panství, hrad se stal jeho součástí; hrad sloužil jako správní středisko a byl zpustlý; kdy a jak Valdštejnové hrad pozbyli, ani jeden zdroj neuvádí; roku 1914 hrad bezplatně přenechal Klubu českých turistů Adolf z Valdštejna (zpravy.tiscali.cz) - tedy Valdštejnové zřejmě vlastnili ještě v roce 1914; kdy hrad pozbyli, zdroje neuvádějí (těžko ověřitelné, zda šlo o převod vlastnictví či užívání)"},
   {"owner": "mesto", "owner_wiki": null, "person": "obec Boseň", "from": 1994, "to": null, "from_approx": false, "to_approx": null, "how": "jine", "note": "od 1994 hrad vlastní obec Boseň (cs.wiki, obec Boseň); předchozí vlastník mezi Valdštejny a rokem 1994 není v žádném použitém zdroji uveden"}
  ],
  "events": [
@@ -30,13 +30,11 @@
   {"year": 1623, "text": "po konfiskaci Kapounům ze Svojkova hrad získal Albrecht z Valdštejna"},
   {"year": 1652, "text": "hrad uváděn jako zpustlý"},
   {"year": 1652, "text": "hrad kupuje Ferdinand Arnošt z Valdštejna"},
+  {"year": 1914, "text": "Klub českých turistů zajistil zříceninu a zabránil jejímu rozebírání na stavební materiál; hrad mu bezplatně přenechal majitel Adolf z Valdštejna"},
+  {"year": 1933, "text": "statické zajištění zříceniny"},
   {"year": 1892, "text": "obyvatelé skalních světniček byli 5. října násilně vystěhováni nařízením okresního hejtmanství"},
   {"year": 1967, "text": "zřícenina prohlášena kulturní památkou"},
   {"year": 1994, "text": "hrad přešel do vlastnictví obce Boseň"}
  ],
- "sources": [
-  "https://cs.wikipedia.org/wiki/Valečov",
-  "https://bosen-obec.cz/valecov/",
-  "https://www.hrady.cz/hrad-valecov/texty?tid=26891"
- ]
+ "sources": ["https://cs.wikipedia.org/wiki/Valečov", "https://bosen-obec.cz/valecov/", "https://www.hrady.cz/hrad-valecov/texty?tid=26891", "https://www.hrady.cz/hrad-valecov/", "https://hradvalecov.cz/historie/", "https://interregion.cz/turistika/hrady_zamky/valecov/valecov.htm", "https://zpravy.tiscali.cz/skalni-svetnicky-a-husitsky-hrad-valecov-ktery-prezil-jen-diky-nadsencum-280953"]
 }

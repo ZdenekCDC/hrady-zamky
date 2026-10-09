@@ -17,7 +17,7 @@
    "from_approx": false,
    "to_approx": true,
    "how": "neznamo",
-   "note": "první písemná zmínka o Valči 1358 (en.wiki: ves rozdělena mezi bratry Beneše a Ctibora); jde o majitele statku, tvrz ze 14. stol. se v zámeckém parku dochovala jen jako tvrziště; konec držby není doložen, rok 1368 je doložení dalšího majitele"
+   "note": "první písemná zmínka o Valči 1358 (en.wiki: ves rozdělena mezi bratry Beneše a Ctibora); jde o majitele statku, tvrz ze 14. stol. se v zámeckém parku dochovala jen jako tvrziště; konec držby není doložen, rok 1368 je doložení dalšího majitele; NPÚ potvrzuje 1358 (bratři Ctibor a Beneš z Valče)"
   },
   {
    "owner": "ze-stebna",
@@ -28,7 +28,7 @@
    "from_approx": true,
    "to_approx": true,
    "how": "neznamo",
-   "note": "en.wiki uvádí jako majitele statku k roku 1368; začátek a konec držby nejsou doloženy"
+   "note": "NPÚ a historickaslechta.cz: Jan Kladivo ze Stebna 1368 (držitel druhé části rozděleného zboží; před ním Ješek ze Stebna); začátek a konec držby nejsou doloženy"
   },
   {
    "owner": "z-oseka",
@@ -39,7 +39,7 @@
    "from_approx": true,
    "to_approx": true,
    "how": "neznamo",
-   "note": "en.wiki uvádí jako majitele statku k roku 1371; začátek a konec držby nejsou doloženy"
+   "note": "NPÚ: Boreš z Oseka 1371; začátek a konec držby nejsou doloženy (pamatkyaprirodakarlovarska.cz uvádí k 1371 koupi hradu Borešem z Rýzmburka, rozpor)"
   },
   {
    "owner": "z-buskovic",
@@ -50,7 +50,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "en.wiki: majitel statku 1377-1416"
+   "note": "NPÚ a historickaslechta.cz: Beneš z Buškovic 1377-1416 (držitel jednoho dílu rozděleného zboží)"
   },
   {
    "owner": "doupovcove-z-doupova",
@@ -61,7 +61,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "Valečští z Doupova; v 15. století za nich podle cs.wiki vznikl pozdně gotický hrad na místě dnešního zámku; přesné roky přechodů mezi členy rodu ani konec držby zdroje neuvádějí (nejpozději do 1526)"
+   "note": "Valečští z Doupova; v 15. století za nich podle cs.wiki vznikl pozdně gotický hrad na místě dnešního zámku; přesné roky přechodů mezi členy rodu ani konec držby zdroje neuvádějí (nejpozději do 1526); NPÚ: Nevlas a Jan 1416, Sezema 1454, Jan 1487 (za něj sjednoceno rozdělené zboží); pamatkyaprirodakarlovarska.cz uvádí koupi hradu Janem z Doupova od Rýzmburků už kolem 1406 a poslední z Doupovců Jana 1487; po 1487 do 1526 držitel neznámý (1505 sedí Jakub z Vřesovic)"
   },
   {
    "owner": "pani-z-vresovic",
@@ -72,7 +72,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "začátek držby není doložen; Jan Kyšperský zemřel 1526 v bitvě u Moháče a při vypořádání dědictví vznikla listina, která je první písemnou zmínkou o valečském sídle (Jakub Kyšperský je v ní uveden jako majitel)"
+   "note": "začátek držby není doložen; Jan Kyšperský zemřel 1526 v bitvě u Moháče a při vypořádání dědictví vznikla listina, která je první písemnou zmínkou o valečském sídle (Jakub Kyšperský je v ní uveden jako majitel); 1505 zde seděl Jakub z Vřesovic, 1514 vymohl povýšení Valče na městečko (hrady.cz, pamatkyaprirodakarlovarska.cz); Kyšperští sjednotili dříve rozdělené panství, stavitelem pozdně gotického hradu mohl být až Jakub (hrady.cz)"
   },
   {
    "owner": "z-leisnecku",
@@ -82,8 +82,8 @@
    "to": 1538,
    "from_approx": false,
    "to_approx": false,
-   "how": "dedictvi",
-   "note": "Valeč zdědil po Kyšperských z Vřesovic; roku 1538 ji sňatkem s jeho dcerou získal Vilém Hasištejnský z Lobkovic"
+   "how": "koupe",
+   "note": "Hugo z Leisnecku získal Valeč 1526: pamatkyaprirodakarlovarska.cz a historickaslechta.cz uvádějí prodej synů Jakuba z Vřesovic, cs.wiki dědictví; roku 1538 ji sňatkem s jeho dcerou získal Vilém Hasištejnský z Lobkovic"
   },
   {
    "owner": "lobkovicove",
@@ -94,7 +94,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "snatek",
-   "note": "roku 1570 panství odkoupil Kryštof Štampach ze Štampachu"
+   "note": "roku 1570 panství odkoupil Kryštof Štampach ze Štampachu; rozpor: pamatkyaprirodakarlovarska.cz uvádí prodej synem Arnoštem Kryštofovi (ze Steinbachu) 1571, Vilém zemřel před 1570 (historickaslechta.cz: †1565)"
   },
   {
    "owner": "stampachove-ze-stampachu",
@@ -233,6 +233,11 @@
  "sources": [
   "https://cs.wikipedia.org/wiki/Valeč_(zámek,_okres_Karlovy_Vary)",
   "https://cs.wikipedia.org/wiki/Valeč_(okres_Karlovy_Vary)",
-  "https://en.wikipedia.org/wiki/Valeč_(Karlovy_Vary_District)"
+  "https://en.wikipedia.org/wiki/Valeč_(Karlovy_Vary_District)",
+  "https://www.npu.cz/cs/hrady-a-zamky/tipy-na-vylet/6088-zamek-valec",
+  "https://www.hrady.cz/zamek-valec-karlovy-vary/texty?pos=1000&tid=32231",
+  "https://www.pamatkyaprirodakarlovarska.cz/valec-hrad",
+  "https://www.pamatkyaprirodakarlovarska.cz/valec-zamek",
+  "https://www.historickaslechta.cz/mista/valec-v-karlovarskem-kraji/"
  ]
 }

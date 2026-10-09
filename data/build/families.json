@@ -14534,7 +14534,7 @@
     "place": "Q1104565",
     "from": 1560,
     "to": 1617,
-    "person": "Jeroným Hrobčický z Hrobčic, syn Jeroným mladší, Zdislav Albrecht a Jan Vilém Hrobčický",
+    "person": "Jeroným Hrobčický z Hrobčic, syn Jeroným mladší (†1603 nebo 1604), poté synové Zdislav Albrecht (†1615) a Jan Vilém Hrobčický",
     "how": "koupe",
     "from_approx": false,
     "to_approx": false
@@ -29791,7 +29791,7 @@
    },
    {
     "place": "Q26868416",
-    "from": 1327,
+    "from": 1349,
     "to": 1502,
     "person": "Tovačovští z Cimburka, zejména Ctibor Tovačovský z Cimburka",
     "how": "neznamo",
@@ -29998,10 +29998,17 @@
    },
    {
     "place": "Q26868416",
-    "year": 1503,
+    "year": 1349,
+    "from": "z-lipnice",
+    "to": "pani-z-cimburka",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q26868416",
+    "year": 1502,
     "from": "pani-z-cimburka",
-    "to": "pernstejnove",
-    "how": "koupe"
+    "to": "selmberkove",
+    "how": "dedictvi"
    },
    {
     "place": "Q30729875",
@@ -33160,6 +33167,15 @@
     "to_approx": false
    },
    {
+    "place": "Q26868416",
+    "from": 1321,
+    "to": 1327,
+    "person": "Jindřich z Lipé",
+    "how": "neznamo",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
     "place": "Q28913094",
     "from": 1327,
     "to": 1533,
@@ -33415,6 +33431,20 @@
     "how": "konfiskace"
    },
    {
+    "place": "Q26868416",
+    "year": 1321,
+    "from": "koruna",
+    "to": "pani-z-lipe",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q26868416",
+    "year": 1327,
+    "from": "pani-z-lipe",
+    "to": "z-lipnice",
+    "how": "neznamo"
+   },
+   {
     "place": "Q28913094",
     "year": 1327,
     "from": "cirkev",
@@ -33464,7 +33494,7 @@
     "how": "neznamo"
    }
   ],
-  "place_count": 17,
+  "place_count": 18,
   "color_slot": null
  },
  "pani-z-lomnice": {
@@ -35947,7 +35977,7 @@
     "year": 1526,
     "from": "pani-z-vresovic",
     "to": "z-leisnecku",
-    "how": "dedictvi"
+    "how": "koupe"
    },
    {
     "place": "Q12032265",
@@ -38577,7 +38607,7 @@
    {
     "place": "Q26868416",
     "year": 1503,
-    "from": "pani-z-cimburka",
+    "from": "selmberkove",
     "to": "pernstejnove",
     "how": "koupe"
    },
@@ -38857,7 +38887,7 @@
    {
     "place": "Q26868416",
     "from": 1715,
-    "to": 1724,
+    "to": 1722,
     "person": "Jan Jetřich Gerhart z Petřvaldu",
     "how": "koupe",
     "from_approx": false,
@@ -38865,7 +38895,7 @@
    },
    {
     "place": "Q26868416",
-    "from": 1724,
+    "from": 1722,
     "to": 1762,
     "person": "Milota Antonín z Petřvaldu",
     "how": "dedictvi",
@@ -45506,6 +45536,15 @@
     "to_approx": false
    },
    {
+    "place": "Q26868416",
+    "from": 1502,
+    "to": 1503,
+    "person": "Jan ze Šelmberku a Kosti, Johana z Krajku a na Šelmberku",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
     "place": "Q366697",
     "from": 1516,
     "to": 1534,
@@ -45656,6 +45695,20 @@
     "how": "koupe"
    },
    {
+    "place": "Q26868416",
+    "year": 1502,
+    "from": "pani-z-cimburka",
+    "to": "selmberkove",
+    "how": "dedictvi"
+   },
+   {
+    "place": "Q26868416",
+    "year": 1503,
+    "from": "selmberkove",
+    "to": "pernstejnove",
+    "how": "koupe"
+   },
+   {
     "place": "Q366697",
     "year": 1516,
     "from": "krajirove-z-krajku",
@@ -45698,7 +45751,7 @@
     "how": "neznamo"
    }
   ],
-  "place_count": 11,
+  "place_count": 12,
   "color_slot": null
  },
  "serenyiove": {
@@ -64955,7 +65008,7 @@
     "from": 1526,
     "to": 1538,
     "person": "Hugo z Leisnecku",
-    "how": "dedictvi",
+    "how": "koupe",
     "from_approx": false,
     "to_approx": false
    }
@@ -64966,7 +65019,7 @@
     "year": 1526,
     "from": "pani-z-vresovic",
     "to": "z-leisnecku",
-    "how": "dedictvi"
+    "how": "koupe"
    },
    {
     "place": "Q11874519",
@@ -65499,6 +65552,41 @@
     "from": "z-lipky",
     "to": "pani-z-talmberka",
     "how": "lenni"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
+ "z-lipnice": {
+  "id": "z-lipnice",
+  "type": "rod",
+  "name": "z-lipnice",
+  "related": [],
+  "places": [
+   {
+    "place": "Q26868416",
+    "from": 1327,
+    "to": 1349,
+    "person": "Bernard z Lipnice",
+    "how": "neznamo",
+    "from_approx": false,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q26868416",
+    "year": 1327,
+    "from": "pani-z-lipe",
+    "to": "z-lipnice",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q26868416",
+    "year": 1349,
+    "from": "z-lipnice",
+    "to": "pani-z-cimburka",
+    "how": "neznamo"
    }
   ],
   "place_count": 1,
@@ -78986,7 +79074,7 @@
    },
    {
     "place": "Q26868416",
-    "from": 1941,
+    "from": 1939,
     "to": 1945,
     "person": "německá okupační správa (Říšská pracovní služba)",
     "how": "konfiskace",
@@ -79158,7 +79246,7 @@
    {
     "place": "Q631338",
     "from": 1514,
-    "to": 1953,
+    "to": 1731,
     "person": null,
     "how": "neznamo",
     "from_approx": true,
@@ -79708,7 +79796,7 @@
    },
    {
     "place": "Q26868416",
-    "year": 1941,
+    "year": 1939,
     "from": "soukromnik",
     "to": "neznamo",
     "how": "konfiskace"
@@ -79953,9 +80041,9 @@
    },
    {
     "place": "Q631338",
-    "year": 1953,
+    "year": 1731,
     "from": "neznamo",
-    "to": "mesto",
+    "to": "soukromnik",
     "how": "neznamo"
    },
    {
@@ -82961,6 +83049,15 @@
     "how": "konfiskace",
     "from_approx": false,
     "to_approx": false
+   },
+   {
+    "place": "Q631338",
+    "from": 1953,
+    "to": 1990,
+    "person": "Krajský úřad v Liberci",
+    "how": "jine",
+    "from_approx": false,
+    "to_approx": true
    },
    {
     "place": "Q655633",
@@ -86667,6 +86764,20 @@
     "how": "jine"
    },
    {
+    "place": "Q631338",
+    "year": 1953,
+    "from": "mesto",
+    "to": "stat",
+    "how": "jine"
+   },
+   {
+    "place": "Q631338",
+    "year": 1990,
+    "from": "stat",
+    "to": "mesto",
+    "how": "neznamo"
+   },
+   {
     "place": "Q655633",
     "year": 1945,
     "from": "mitrovsti-z-mitrovic-a-nemysle",
@@ -86884,7 +86995,7 @@
     "how": "restituce"
    }
   ],
-  "place_count": 308,
+  "place_count": 309,
   "color_slot": null
  },
  "koruna": {
@@ -88619,6 +88730,15 @@
     "person": null,
     "how": "jine",
     "from_approx": true,
+    "to_approx": false
+   },
+   {
+    "place": "Q26868416",
+    "from": null,
+    "to": 1321,
+    "person": "zeměpanské zboží (král Jan Lucemburský)",
+    "how": "neznamo",
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -91468,6 +91588,13 @@
     "how": "dar"
    },
    {
+    "place": "Q26868416",
+    "year": 1321,
+    "from": "koruna",
+    "to": "pani-z-lipe",
+    "how": "neznamo"
+   },
+   {
     "place": "Q280501",
     "year": 1594,
     "from": "lobkovicove",
@@ -92315,7 +92442,7 @@
     "how": "koupe"
    }
   ],
-  "place_count": 148,
+  "place_count": 149,
   "color_slot": null
  },
  "mesto": {
@@ -93874,12 +94001,21 @@
    },
    {
     "place": "Q631338",
-    "from": 1953,
+    "from": 1948,
+    "to": 1953,
+    "person": "obce Bělá a Klokočí",
+    "how": "konfiskace",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q631338",
+    "from": 1990,
     "to": null,
     "person": "obce Klokočí a Mírová pod Kozákovem",
     "how": "neznamo",
-    "from_approx": false,
-    "to_approx": false
+    "from_approx": true,
+    "to_approx": null
    },
    {
     "place": "Q6835949",
@@ -95512,8 +95648,22 @@
    },
    {
     "place": "Q631338",
+    "year": 1948,
+    "from": "soukromnik",
+    "to": "mesto",
+    "how": "konfiskace"
+   },
+   {
+    "place": "Q631338",
     "year": 1953,
-    "from": "neznamo",
+    "from": "mesto",
+    "to": "stat",
+    "how": "jine"
+   },
+   {
+    "place": "Q631338",
+    "year": 1990,
+    "from": "stat",
     "to": "mesto",
     "how": "neznamo"
    },
@@ -98092,11 +98242,11 @@
    {
     "place": "Q26868416",
     "from": 1887,
-    "to": 1941,
+    "to": 1939,
     "person": "David Gutmann, poté syn Wilhelm Hermann Gutmann",
     "how": "koupe",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q27733332",
@@ -99282,6 +99432,15 @@
     "from": 1986,
     "to": null,
     "person": "provozovatel penzionu Zámek Rudník",
+    "how": "neznamo",
+    "from_approx": true,
+    "to_approx": false
+   },
+   {
+    "place": "Q631338",
+    "from": 1731,
+    "to": 1948,
+    "person": "hrabě Aerethal (Aehrenthal)",
     "how": "neznamo",
     "from_approx": true,
     "to_approx": false
@@ -101610,7 +101769,7 @@
    },
    {
     "place": "Q26868416",
-    "year": 1941,
+    "year": 1939,
     "from": "soukromnik",
     "to": "neznamo",
     "how": "konfiskace"
@@ -102547,6 +102706,20 @@
     "how": "neznamo"
    },
    {
+    "place": "Q631338",
+    "year": 1731,
+    "from": "neznamo",
+    "to": "soukromnik",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q631338",
+    "year": 1948,
+    "from": "soukromnik",
+    "to": "mesto",
+    "how": "konfiskace"
+   },
+   {
     "place": "Q695042",
     "year": 1868,
     "from": "koruna",
@@ -102785,7 +102958,7 @@
     "how": "koupe"
    }
   ],
-  "place_count": 170,
+  "place_count": 171,
   "color_slot": null
  }
 }

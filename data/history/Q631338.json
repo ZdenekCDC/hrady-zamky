@@ -6,7 +6,7 @@
   "approx": true,
   "text": "Krátce po roce 1250 založil skalní hrad Jaroslav z Hrutvice (Hruštice) z rodu Markvarticů pro svého syna Voka."
  },
- "summary": "Skalní hrad Rotštejn založili krátce po roce 1250 Markvartici - Jaroslav z Hrutvice jej nechal postavit pro syna Voka, jehož potomci se psali z Rotštejna a drželi hrad do vymření rodu na počátku 15. století. Poté jej koupili Paldrové z Vařin, kteří jej vlastnili za husitských válek a po roce 1437 se přesídlili do Klokočí; roku 1514 je hrad ve zprávě o převodu panství od Jana z Boskovic uváděn jako pustý. Dnes jej podle regionálního zdroje vlastní obce Klokočí a Mírová pod Kozákovem a od roku 1988 se o zříceninu stará spolek Ochrana Klokočských skal.",
+ "summary": "Skalní hrad Rotštejn založili krátce po roce 1250 Markvartici - Jaroslav z Hrutvice jej nechal postavit pro syna Voka, jehož potomci se psali z Rotštejna a drželi hrad do vymření rodu na počátku 15. století. Poté jej koupili Paldrové z Vařin, kteří jej vlastnili za husitských válek a po roce 1437 se přesídlili do Klokočí; roku 1514 je hrad ve zprávě o převodu panství od Jana z Boskovic uváděn jako pustý. Po 1514 vlastníci nejsou doloženi, před 1948 hrad patřil hraběti Aehrenthalovi, poté jej získaly obce a krátce kraj; dnes jej vlastní obce Klokočí a Mírová pod Kozákovem a od roku 1988 se o zříceninu stará spolek Ochrana Klokočských skal.",
  "owners": [
   {
    "owner": "markvartici",
@@ -50,29 +50,62 @@
    "from_approx": true,
    "to_approx": true,
    "how": "neznamo",
-   "note": "majitel rotštejnského panství, které roku 1514 postoupil věřitelům (interregion.cz); v zápisu o převodu je hrad uváděn jako pustý; kdy a jak panství od Paldrů získal, zdroj neuvádí"
+   "note": "majitel rotštejnského panství, které roku 1514 postoupil věřitelům (interregion.cz); v zápisu o převodu je hrad uváděn jako pustý; kdy a jak panství od Paldrů získal, zdroj neuvádí; regionální web obce Klokočí (klokocicesky raj) uvádí, že od r. 1541 patřil Rotštejn k panství Hrubá Skála; neověřeno"
   },
   {
    "owner": "neznamo",
    "owner_wiki": null,
    "person": null,
    "from": 1514,
-   "to": 1953,
+   "to": null,
    "from_approx": true,
    "to_approx": true,
    "how": "neznamo",
-   "note": "další vlastníci hradu nejsou ve zdrojích doloženi; v 17. století zříceninu využívali vesničané k obydlí v dutinách skal, v 1. polovině 20. stol. se o ni starali Klub českých turistů a Okrašlovací spolek v Klokočí (bez vlastnictví)"
+   "note": "vlastníci mezi 1514 a první polovinou 20. stol. nejsou ve zdrojích doloženi; v 17. století zříceninu využívali vesničané k obydlí v dutinách skal; 1934 byl majitelem hrabě Aerethal (Aehrenthal) - zdroj hradrotstejn.info"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "hrabě Aerethal (Aehrenthal)",
+   "from": null,
+   "to": 1948,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "hradrotstejn.info: v roce 1934 odmítl prodat hrad Okrašlovacímu spolku Klokočí; 1948 hrad zkonfiskován; příslušnost k rodu Lexů z Aehrenthalu zdroj výslovně neuvádí"
+  },
+  {
+   "owner": "mesto",
+   "owner_wiki": null,
+   "person": "obce Bělá a Klokočí",
+   "from": 1948,
+   "to": 1953,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "hradrotstejn.info: výnosem neznámého úřadu přidělena obcím Bělá a Klokočí"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": "Krajský úřad v Liberci",
+   "from": 1953,
+   "to": null,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "jine",
+   "note": "hradrotstejn.info: 1953 majetkem Krajského úřadu v Liberci, 'a pak je opět uváděn v majetku obcí' (rok neuveden); interregion.cz naopak uvádí obce Klokočí a Mírová pod Kozákovem jako majitele již od 1953"
   },
   {
    "owner": "mesto",
    "owner_wiki": null,
    "person": "obce Klokočí a Mírová pod Kozákovem",
-   "from": 1953,
+   "from": null,
    "to": null,
-   "from_approx": false,
-   "to_approx": false,
+   "from_approx": true,
+   "to_approx": null,
    "how": "neznamo",
-   "note": "podle interregion.cz (regionální turistický web, méně spolehlivý zdroj) je od roku 1953 majetkem obcí Klokočí a Mírová pod Kozákovem; od roku 1988 se o zříceninu stará (bez vlastnictví) spolek Ochrana Klokočských skal; cs.wiki a hradrotstejn.info vlastníka neuvádějí"
+   "note": "dnešní vlastník podle interregion.cz (od 1953) a hradrotstejn.info (obce, od 1990 dohoda s obcemi Mírová pod Kozákovem a Klokočí o záchraně); od 1988 se o zříceninu stará spolek Ochrana Klokočských skal (bez vlastnictví)"
   }
  ],
  "events": [
@@ -93,8 +126,12 @@
    "text": "rotštejnské panství postupuje Jan z Boskovic věřitelům; v zápisu o převodu je hrad již uváděn jako pustý, se zdmi zborcenými do nádvoří"
   },
   {
+   "year": 1948,
+   "text": "hrad zkonfiskován a přidělen obcím Bělá a Klokočí (hradrotstejn.info)"
+  },
+  {
    "year": 1953,
-   "text": "hrad se stává majetkem obcí Klokočí a Mírová pod Kozákovem (podle interregion.cz)"
+   "text": "hrad majetkem Krajského úřadu v Liberci, později opět obcí (hradrotstejn.info); interregion.cz uvádí 1953 přímo obce Klokočí a Mírová pod Kozákovem"
   },
   {
    "year": 1988,
@@ -105,6 +142,7 @@
   "https://cs.wikipedia.org/wiki/Rotštejn",
   "https://www.hradrotstejn.info/cs/historie-hradu",
   "https://www.interregion.cz/turistika/hrady_zamky/rotstejn/rotstejn.htm",
-  "http://www.rajnet.cz/web/print.asp?id=414"
+  "http://www.rajnet.cz/web/print.asp?id=414",
+  "https://klokociceskyraj.cz/obec/historie-obce/"
  ]
 }

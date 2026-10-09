@@ -9,15 +9,59 @@
  "summary": "Tovačovský zámek vznikl přestavbou staršího vodního hradu, který od 14. století drželi páni z Cimburka; na renesanční sídlo jej koncem 15. století přestavěl Ctibor Tovačovský z Cimburka. Po vymření Cimburků (1502) se v držení vystřídali Pernštejnové (s mezidobím Juana Manrique de Lara), Illésházyové, Salmové, Petřvaldští z Petřvaldu a Küenburgové, na konci 19. století zámek koupil a novorenesančně přestavěl průmyslník David Gutmann. Po druhé světové válce a znárodnění majetku Gutmannů připadl zámek státu a od roku 1994 je majetkem města Tovačova.",
  "owners": [
   {
+   "owner": "koruna",
+   "owner_wiki": null,
+   "person": "zeměpanské zboží (král Jan Lucemburský)",
+   "from": null,
+   "to": 1321,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "tvrz poprvé zmíněna 1321 jako majetek krále; zeměpanské zboží od 1059 (zamek.tovacov.cz)"
+  },
+  {
+   "owner": "pani-z-lipe",
+   "owner_wiki": "Páni z Lipé",
+   "person": "Jindřich z Lipé",
+   "from": 1321,
+   "to": 1327,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "oficiální web zámku (zamek.tovacov.cz)"
+  },
+  {
+   "owner": "z-lipnice",
+   "owner_wiki": null,
+   "person": "Bernard z Lipnice",
+   "from": 1327,
+   "to": 1349,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "oficiální web zámku; de.wiki a ok-tourism.cz uvádějí od 1327 přímo Cimburky"
+  },
+  {
    "owner": "pani-z-cimburka",
    "owner_wiki": "Páni z Cimburka",
    "person": "Tovačovští z Cimburka, zejména Ctibor Tovačovský z Cimburka",
-   "from": 1327,
+   "from": 1349,
    "to": 1502,
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "de.wiki: páni z Cimburka drželi Tovačov 1327-1502 (od 1359 jako Tovačovští z Cimburka); cs.wiki uvádí jen 'od 14. století'; Ctibor Tovačovský z Cimburka (zemřel 1494) přestavěl hrad na renesanční zámek (Spanilá věž 1492); rod vymřel roku 1502; způsob nabytí hradu zdroje neuvádějí"
+   "note": "oficiální web zámku (zamek.tovacov.cz): Cimburkové od 1349 (Albrecht I. z Cimburka), de.wiki a ok-tourism.cz uvádějí 1327 jako začátek držby Cimburků; od 1359 Tovačovští z Cimburka; Ctibor II. Tovačovský z Cimburka (1464-1494, zemřel 1494) přestavěl hrad na renesanční zámek (Spanilá věž 1492); rod vymřel po meči 1502 (Adam z Cimburka); cs.wiki uvádí jen 'od 14. století'"
+  },
+  {
+   "owner": "selmberkove",
+   "owner_wiki": "Šelmberkové",
+   "person": "Jan ze Šelmberku a Kosti, Johana z Krajku a na Šelmberku",
+   "from": 1502,
+   "to": 1503,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "krátké meziobdobí podle oficiálního webu zámku (zamek.tovacov.cz); cs.wiki a de.wiki ho neuvádějí a Pernštejnové kupují 1503"
   },
   {
    "owner": "pernstejnove",
@@ -28,7 +72,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "koupě za 24000 kop grošů (cs.wiki, de.wiki); čtyři generace Pernštejnů se podílely na stavebních úpravách"
+   "note": "koupě za 24000 kop grošů (cs.wiki, de.wiki); čtyři generace Pernštejnů se podílely na stavebních úpravách; oficiální web zámku uvádí Viléma 1503-1515 a Jana Bohatého od 1515 (kultura.cz: po Vilémově smrti 1521) - rozpor v roce předání 1515 vs 1521, ponecháno 1521"
   },
   {
    "owner": "pernstejnove",
@@ -101,22 +145,22 @@
    "owner_wiki": "Petřvaldští z Petřvaldu",
    "person": "Jan Jetřich Gerhart z Petřvaldu",
    "from": 1715,
-   "to": 1724,
+   "to": 1722,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "koupil 1715, zemřel 1734; roku 1724 přenechal Tovačov synovi Milotovi Antonínovi (cs.wiki Petřvaldští z Petřvaldu); de.wiki uvádí držbu Petřvaldských 1715-1736, sídlili mimo město (Buchlovice), panství spravovali správci"
+   "note": "koupil 1715, zemřel 1734; oficiální web zámku (zamek.tovacov.cz) uvádí Jana Dětřicha 1715-1722 a Amanda Antonína (Milotu Antonína) 1722-1762, cs.wiki Petřvaldští uvádí předání synovi 1724; de.wiki uvádí držbu Petřvaldských 1715-1736, ale oficiální web, kultura.cz, ok-tourism.cz i cs.wiki uvádějí konec Petřvaldských 1763; sídlili mimo město (Buchlovice), panství spravovali správci"
   },
   {
    "owner": "petrvaldsti-z-petrvaldu",
    "owner_wiki": "Petřvaldští z Petřvaldu",
    "person": "Milota Antonín z Petřvaldu",
-   "from": 1724,
+   "from": 1722,
    "to": 1762,
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "od otce dostal Tovačov 1724 (už 1724 zdědil i po strýci Milotovi), 1745 koupil přerovské panství; zemřel 1762 bez potomků"
+   "note": "od otce dostal Tovačov 1722 (oficiální web zámku) resp. 1724 (cs.wiki Petřvaldští; téhož roku zdědil i po strýci Milotovi), 1745 koupil přerovské panství; zemřel 1762 bez potomků"
   },
   {
    "owner": "petrvaldsti-z-petrvaldu",
@@ -145,22 +189,22 @@
    "owner_wiki": null,
    "person": "David Gutmann, poté syn Wilhelm Hermann Gutmann",
    "from": 1887,
-   "to": 1941,
+   "to": 1939,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "koupe",
-   "note": "židovský průmyslník David Gutmann (1834-1912) koupil velkostatek za více než 2,5 milionu zlatých (cs.wiki; 1887-1902 přestavba podle de.wiki, architekt Max Fleischer); posledním soukromým majitelem Wilhelm Hermann Gutmann (1889-1966), který kvůli židovskému původu 1939 emigroval do Švýcarska; de.wiki: majetek vyvlastněn 1941 (rok je přibližný, cs.wiki udává jen německou správu po vyhlášení protektorátu); po válce se marně domáhal navrácení"
+   "note": "židovský průmyslník David Gutmann (1834-1912) koupil velkostatek za více než 2,5 milionu zlatých (cs.wiki; 1887-1902 přestavba podle de.wiki, architekt Max Fleischer); posledním soukromým majitelem Wilhelm Hermann Gutmann (1889-1966), který kvůli židovskému původu 1939 emigroval do Švýcarska; de.wiki: majetek vyvlastněn 1941 (rok je přibližný, cs.wiki udává jen německou správu po vyhlášení protektorátu); po válce se marně domáhal navrácení; oficiální web zámku: David Gutmann 1887-1912, Vilém Gutmann 1912-1939 (kultura.cz: 1887-1939 resp. 1938)"
   },
   {
    "owner": "neznamo",
    "owner_wiki": null,
    "person": "německá okupační správa (Říšská pracovní služba)",
-   "from": 1941,
+   "from": 1939,
    "to": 1945,
    "from_approx": true,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "za protektorátu centrum germanizace Hané a rekreační středisko; rok 1941 podle de.wiki, cs.wiki uvádí jen 'po vyhlášení protektorátu'"
+   "note": "za protektorátu centrum germanizace Hané a rekreační středisko; rok 1939 podle oficiálního webu zámku (konec Gutmannů), de.wiki uvádí vyvlastnění 1941, cs.wiki jen 'po vyhlášení protektorátu'"
   },
   {
    "owner": "stat",
@@ -234,6 +278,9 @@
  "sources": [
   "https://cs.wikipedia.org/wiki/Tovačov_(zámek)",
   "https://de.wikipedia.org/wiki/Tovačov",
-  "https://cs.wikipedia.org/wiki/Petřvaldští_z_Petřvaldu"
+  "https://cs.wikipedia.org/wiki/Petřvaldští_z_Petřvaldu",
+  "https://zamek.tovacov.cz/historie/",
+  "http://www.kultura.cz/profile/5792-zamek-tovacov",
+  "https://www.ok-tourism.cz/cil/zamek-tovacov/"
  ]
 }
