@@ -28,7 +28,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "lenni",
-   "note": "zvíkovský purkrabí Purkart z Janovic je roku 1264 uváděn s přídomkem z Vimperka; cs.wiki uvádí Janovice ve 13. a 14. stol., podle NPÚ spravovali panství nejpozději do roku 1370, kdy z neznámých důvodů propadl jejich majetek koruně (rozpor s Bavorem ze Strakonic do 1312 se nepodařilo vyřešit)"
+   "note": "zvíkovský purkrabí Purkart z Janovic je roku 1264 uváděn s přídomkem z Vimperka; hrad mu král propůjčil v léno (NPÚ, vimperk.cz); hrady.cz: počátkem 14. stol. se na hrad dostali Bavorové ze Strakonic a později Vimperk získali zpět Janovicové; NPÚ: Janovicové spravovali panství nejpozději do 1370, kdy majetek propadl koruně"
   },
   {
    "owner": "bavorove-ze-strakonic",
@@ -39,7 +39,18 @@
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "cs.wiki (přehled majitelů): ?-1312, způsob nabytí ani začátek držby neuvedeny"
+   "note": "cs.wiki: ?-1312; hrady.cz: Bavorové ze Strakonic se na hrad dostali neznámým způsobem počátkem 14. stol., později Vimperk získali zpět Janovicové; vimperk.cz: v manství byli Bavoři ve 14. stol. po Janovicích (pořadí zdroje neladí, rok začátku neuveden)"
+  },
+  {
+   "owner": "janovici",
+   "owner_wiki": "Janovici",
+   "person": "Janovicové (po Bavorech)",
+   "from": null,
+   "to": 1370,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "hrady.cz: po Bavorech Vimperk získali zpět Janovicové; NPÚ: spravovali jej nejpozději do 1370, kdy majetek z neznámých důvodů propadl koruně"
   },
   {
    "owner": "rotlevove",
@@ -49,8 +60,8 @@
    "to": null,
    "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "cs.wiki jej uvádí jen k roku 1375, přesné období držby neuvedeno; podle NPÚ byl hrad po roce 1370 několik let zástavním majetkem jednoho z pražských měšťanů (zda šlo o Rotleva, zdroj neuvádí)"
+   "how": "lenni",
+   "note": "pražský měšťan Jan Rotlev (Rotlöw) měl hrad v zástavě; cs.wiki a hrady.cz uvádějí rok 1375, NPÚ jen 'po několika letech' po 1370; konec zástavy zdroje neuvádějí"
   },
   {
    "owner": "kaplirove-ze-sulevic",
@@ -99,13 +110,13 @@
   {
    "owner": "rozmberkove",
    "owner_wiki": "Rožmberkové",
-   "person": null,
+   "person": "Vilém z Rožmberka, později Petr Vok z Rožmberka",
    "from": 1554,
    "to": 1601,
    "from_approx": false,
    "to_approx": false,
-   "how": "jine",
-   "note": "cs.wiki neuvádí přesný způsob nabytí od Jáchyma z Hradce"
+   "how": "koupe",
+   "note": "hrady.cz: Jáchym z Hradce držel Vimperk jen rok, pak jej koupil Vilém z Rožmberka; od Petra Voka z Rožmberka koupil 1601 Volf Novohradský z Kolovrat (hrady.cz, animod.cz)"
   },
   {
    "owner": "kolovratove",
@@ -116,18 +127,18 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "NPÚ: počátkem 17. stol. koupili panství Novohradští z Kolovrat (Volf s manželkou Juditou ze Šternberka a syn Jáchym) a proměnili zámek v rodové sídlo, rozsáhlé renesanční úpravy Horního zámku a nový renesanční Dolní zámek; stavební činnost vedla k zadlužení a ztrátě majetku; rok 1601 podle cs.wiki"
+   "note": "NPÚ: počátkem 17. stol. koupili panství Novohradští z Kolovrat (Volf s manželkou Juditou ze Šternberka a syn Jáchym) a proměnili zámek v rodové sídlo, rozsáhlé renesanční úpravy Horního zámku a nový renesanční Dolní zámek; stavební činnost vedla k zadlužení a ztrátě majetku; rok 1601 podle cs.wiki; hrady.cz: 1630 byl zadluženému Kolovratovi zámek odhadnut zvláštní komisí a prodán"
   },
   {
    "owner": "eggenbergove",
    "owner_wiki": "Eggenbergové",
-   "person": null,
+   "person": "Jan Oldřich z Eggenberku",
    "from": 1630,
    "to": 1719,
    "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "cs.wiki ani NPÚ neuvádějí způsob nabytí (NPÚ: Novohradští z Kolovrat přišli o majetek zadlužením); rok 1630 podle cs.wiki"
+   "how": "koupe",
+   "note": "hrady.cz: 1630 koupil zámek od zadluženého Kolovrata majitel krumlovského panství Jan Oldřich z Eggenberku; po výměně eggenberského rodu Janem Kristiánem (1710) převzal panství 1719 Adam František ze Schwarzenbergu"
   },
   {
    "owner": "schwarzenbergove",
@@ -138,7 +149,7 @@
    "from_approx": false,
    "to_approx": true,
    "how": "neznamo",
-   "note": "od roku 1719 zámek mezi majetky Schwarzenbergů, způsob nabytí zdroje neuvádějí; hrad poškozený požárem při obležení 1619 přestavěn 1622-1624 na renesanční zámek (za předchozích majitelů), v 18. stol. barokní úpravy, po požáru 20. 7. 1857 novorenesanční obnova; za první republiky pronajat armádě, později středisko správy panství; rod o zámek přišel po válce na základě lex Schwarzenberg"
+   "note": "od roku 1719 zámek mezi majetky Schwarzenbergů, způsob nabytí zdroje neuvádějí; hrad poškozený požárem při obležení 1619 přestavěn 1622-1624 na renesanční zámek (za předchozích majitelů), v 18. stol. barokní úpravy, po požáru 20. 7. 1857 novorenesanční obnova; za první republiky pronajat armádě, později středisko správy panství; rod o zámek přišel po válce na základě lex Schwarzenberg; zestátnění: 1948 (cs.wiki, hrady.cz), rok 1945 odpovídá tabulce majitelů cs.wiki"
   },
   {
    "owner": "stat",
@@ -149,29 +160,29 @@
    "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "cs.wiki: 1945-1992 Československý stát (zestátnění 1948; NPÚ: po válce lex Schwarzenberg, po roce 1947 kanceláře Jihočeských státních lesů, od 1961 část zámku městské muzeum); po roce 1990 zámek převzalo město, rok cs.wiki neuvádí"
+   "note": "cs.wiki: 1945-1992 Československý stát (zestátnění 1948; NPÚ: po válce lex Schwarzenberg, po roce 1947 kanceláře Jihočeských státních lesů, od 1961 část zámku městské muzeum); po roce 1990 zámek převzalo město, rok cs.wiki neuvádí; infocesko.cz uvádí 1948 přechod zámku do vlastnictví města (v rozporu s ostatními zdroji, které uvádějí stát)"
   },
   {
    "owner": "mesto",
    "owner_wiki": null,
    "person": "město Vimperk",
    "from": null,
-   "to": null,
+   "to": 1991,
    "from_approx": false,
    "to_approx": false,
    "how": "jine",
-   "note": "po roce 1990 připadl městu (NPÚ: po revoluci se zámku město zbavilo a odtrhlo od něj předsunuté opevnění Haselburg, které přešlo do soukromých rukou); rok přechodu ani způsob nabytí zdroje neuvádějí"
+   "note": "po roce 1990 připadl městu (NPÚ: po revoluci se zámku město zbavilo a odtrhlo od něj předsunuté opevnění Haselburg); vimperk.cz: roku 1991 zámek koupilo Ministerstvo životního prostředí (rok začátku držby města zdroje neuvádějí)"
   },
   {
    "owner": "stat",
    "owner_wiki": null,
    "person": "Správa Národního parku Šumava (Ministerstvo životního prostředí)",
-   "from": null,
+   "from": 1991,
    "to": 2014,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "město zámek za sedm milionů korun prodalo Správě NP Šumava (podle NPÚ správa NP a CHKO Šumava, plánované úpravy nakonec neprovedeny, objekt chátral); rok převodu neuveden, začátkem července 2014 potvrzen převod z ministerstva životního prostředí na ministerstvo kultury"
+   "note": "město zámek za sedm milionů korun prodalo (vimperk.cz: 1991 koupilo Ministerstvo životního prostředí, které sem umístilo správu NP a CHKO Šumava; plánované úpravy neprovedeny, objekt chátral); začátkem července 2014 potvrzen převod z MŽP na ministerstvo kultury"
   },
   {
    "owner": "stat",
@@ -225,6 +236,8 @@
  ],
  "sources": [
   "https://cs.wikipedia.org/wiki/Vimperk_(zámek)",
-  "https://www.zamek-vimperk.cz/cs/historie"
+  "https://www.zamek-vimperk.cz/cs/historie",
+  "https://www.vimperk.cz/statni-zamek-vimperk/d-11604",
+  "https://www.hrady.cz/zamek-vimperk-winterberg/"
  ]
 }

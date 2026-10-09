@@ -11969,7 +11969,7 @@
    "approx": true,
    "text": "Hrad založil po polovině 13. století Zdeslav ze Šternberka, odměněný titulem královského číšníka za zásluhy při odražení vpádu Kumánů roku 1253; první písemná zmínka je z roku 1269."
   },
-  "summary": "Hrad Šternberk založil po polovině 13. století Zdeslav ze Šternberka a Šternberkové jej drželi do roku 1397; Albrecht Aleš ze Šternberka, litomyšlský biskup, jej přestavěl na rezidenci. Roku 1397 jej získal Petr z Kravař, od jehož rodu jej vyženil Jan Berka z Dubé a Lipé, za jehož rodu proběhla renesanční přestavba po požáru. Roku 1570 hrad vyženila slezská knížata z Minsterberka, kteří vymřeli v polovině 17. století, a kolem roku 1699 jej koupil Jan Adam Ondřej z Lichtenštejna; rodu patřil do zestátnění roku 1945.",
+  "summary": "Hrad Šternberk založil po polovině 13. století Zdeslav ze Šternberka a Šternberkové jej drželi do roku 1397; Albrecht Aleš ze Šternberka, litomyšlský biskup, jej přestavěl na rezidenci. Od 1397 patřil Kravařům, po jejich vymření (1466) Kostkům z Postupic a od 1480 Berkům z Dubé, za nichž proběhla renesanční přestavba po požáru. Roku 1570 hrad vyženili Minsterberkové, po nich 1647 zdědili Württemberkové a 1695 jej koupil Jan Adam Ondřej z Lichtenštejna; rodu patřil do zestátnění roku 1945.",
   "owners": [
    {
     "owner": "sternberkove",
@@ -12020,44 +12020,66 @@
     "owner_wiki": "Páni z Kravař",
     "person": "Petr z Kravař",
     "from": 1397,
-    "to": 1484,
+    "to": 1466,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "neznamo",
-    "note": "roku 1397 hrad získal (způsob nabytí zdroje neuvádějí); roku 1430 hrad obsadili husité; de.wiki: škody z husitských válek odstranil Jiří z Kravař a Strážnice († 1466); rok přechodu na Berky z Dubé ani jméno Berky, který hrad vyženil, zdroje neuvádějí (cs.wiki: Jan Berka z Dubé a Lipé)"
+    "note": "roku 1397 hrad získal Petr z Kravař (po vymření moravské větve Šternberků, sternberk.eu); roku 1430 hrad obsadili husité; obnovu v polovině 15. stol. provedl Jiří z Kravař a Strážnice; po jeho smrti 1466 hrad zdědily dcery (sternberk.eu, hrady.dejiny.cz)"
+   },
+   {
+    "owner": "kostkove-z-postupic",
+    "owner_wiki": null,
+    "person": "Albrecht Kostka z Postupic (manžel Ludmily z Kravař)",
+    "from": 1466,
+    "to": 1480,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "snatek",
+    "note": "sternberk.eu: po smrti Jiřího z Kravař 1466 získala panství dcera Ludmila, provdaná za Albrechta Kostku z Postupic; hrady.dejiny.cz naopak uvádí, že už 1466 hrad s Ludmilou vyženil Jan Berka z Dubé a Lipé (Kostkové nezmiňuje)"
    },
    {
     "owner": "berkove-z-dube",
     "owner_wiki": "Berkové z Dubé",
     "person": "Jan Berka z Dubé a Lipé",
-    "from": 1484,
+    "from": 1480,
     "to": 1570,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false,
     "how": "snatek",
-    "note": "hrad od Kravařů vyženil; za rodu Berků proběhla po požáru renesanční přestavba s Vizitkovým sálem a hráňovými klenbami (16. stol.), vybudován systém budov v podhradí; konec držby 1570 podle cs.wiki (přechod na Minsterberky)"
+    "note": "sternberk.eu: po smrti Albrechta Kostky se Ludmila provdala za Jana Berku z Dubé a Lipé a panství přešlo na Berky (1480-1570); hrady.dejiny.cz uvádí vyženění již 1466; po požáru 1538 renesanční přestavba s Vizitkovým sálem a hráňovými klenbami, vybudován systém budov v podhradí; konec držby 1570 (sňatek Kateřiny Berkové s Karlem z Minsterberka)"
    },
    {
     "owner": "minsterberkove",
     "owner_wiki": "Minsterberkové",
     "person": "slezská knížata z Minsterberka, potomci Jiřího z Poděbrad",
     "from": 1570,
-    "to": 1650,
+    "to": 1647,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "snatek",
-    "note": "přestavěný hrad roku 1570 vyženili; za třicetileté války hrad značně utrpěl; držení trvalo do vymření rodu v polovině 17. století (rok 1650 je z formulace zdroje; přesný rok neuveden); následné držení do koupě Lichtenštejny zdroje neuvádějí"
+    "note": "1570 přestavěný hrad vyženil kníže Karel II. z Minsterberka s Kateřinou Berkovou; za třicetileté války hrad značně utrpěl (1626 dobyl Mansfeld, 1643-1650 švédská posádka); knížata drželi do smrti Karla II. Fridricha 1647 (sternberk.eu: Minsterberkové 1570-1647; cs.wiki: do vymření rodu v polovině 17. stol.)"
+   },
+   {
+    "owner": "wurttemberkove",
+    "owner_wiki": null,
+    "person": "Alžběta Marie z Minsterberka a Sylvius Nimrod, kníže württemberský (poté Württemberkové)",
+    "from": 1647,
+    "to": 1695,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "hrady.dejiny.cz: po smrti Karla II. Fridricha 1647 zdědila panství dcera Alžběta Marie, provdaná za Sylvia Nimroda Württemberského; hrad zpustošený a několikrát vyhořelý, rodu chyběly prostředky na obnovu (web hradu)"
    },
    {
     "owner": "lichtenstejnove",
     "owner_wiki": "Lichtenštejnové",
     "person": "kníže Jan Adam Ondřej z Lichtenštejna",
-    "from": 1699,
+    "from": 1695,
     "to": 1945,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "koupil kolem roku 1699 (web hradu NPÚ; cs.wiki: přelom 17. a 18. stol., de.wiki: kolem 1695); hrad po dlouhém chátrání po roce 1886 regotizován za Jana II. podle projektu Karla Gandolpha Kaysera, 1907-1909 založen lesopark (Albert Esche)"
+    "note": "web hradu: 1695 koupil od Württemberků hrad i panství Šternberk a Pňovice za 504 000 zlatých (kolem 1699 podle shrnutí webu NPÚ a cs.wiki, přelom 17. a 18. stol.; sternberk.eu uvádí 1693, de.wiki kolem 1695; hrady.dejiny.cz: části rozděleného panství skupoval 1695-1704); po dlouhém chátrání po roce 1886 regotizace za Jana II. podle projektu Karla Gandolpha Kaysera, 1907-1909 lesopark (Albert Esche)"
    },
    {
     "owner": "stat",
@@ -12093,12 +12115,20 @@
     "text": "hrad obsadili husité"
    },
    {
+    "year": 1466,
+    "text": "smrtí Jiřího z Kravař hrad přechází na jeho dceru Ludmilu a její manžele (Kostkové z Postupic, poté Berkové z Dubé)"
+   },
+   {
     "year": 1570,
     "text": "hrad sňatkem přechází na slezská knížata z Minsterberka"
    },
    {
-    "year": 1699,
-    "text": "hrad koupil kníže Jan Adam Ondřej z Lichtenštejna (kolem 1699; de.wiki kolem 1695)"
+    "year": 1647,
+    "text": "smrtí Karla II. Fridricha z Minsterberka panství zdědila dcera Alžběta Marie, provdaná za Württemberka"
+   },
+   {
+    "year": 1695,
+    "text": "hrad a panství koupil od Württemberků Jan Adam Ondřej z Lichtenštejna (kolem 1699 podle webu NPÚ, 1693 podle sternberk.eu)"
    },
    {
     "year": 1886,
@@ -12116,7 +12146,10 @@
   "sources": [
    "https://cs.wikipedia.org/wiki/Šternberk_(hrad)",
    "https://de.wikipedia.org/wiki/Burg_Šternberk",
-   "https://www.hrad-sternberk.cz/cs/o-hradu/historie"
+   "https://www.hrad-sternberk.cz/cs/o-hradu/historie",
+   "https://www.sternberk.eu/o-sternberku/historie-mesta/chronologicky-prehled-dejin/",
+   "http://hrady.dejiny.cz/sternberk/",
+   "https://www.hrad-sternberk.cz/cs/o-hradu/lichtenstejni-na-hradu-sternberk"
   ]
  },
  "Q10396968": {
@@ -27126,7 +27159,7 @@
     "from_approx": true,
     "to_approx": true,
     "how": "lenni",
-    "note": "zvíkovský purkrabí Purkart z Janovic je roku 1264 uváděn s přídomkem z Vimperka; cs.wiki uvádí Janovice ve 13. a 14. stol., podle NPÚ spravovali panství nejpozději do roku 1370, kdy z neznámých důvodů propadl jejich majetek koruně (rozpor s Bavorem ze Strakonic do 1312 se nepodařilo vyřešit)"
+    "note": "zvíkovský purkrabí Purkart z Janovic je roku 1264 uváděn s přídomkem z Vimperka; hrad mu král propůjčil v léno (NPÚ, vimperk.cz); hrady.cz: počátkem 14. stol. se na hrad dostali Bavorové ze Strakonic a později Vimperk získali zpět Janovicové; NPÚ: Janovicové spravovali panství nejpozději do 1370, kdy majetek propadl koruně"
    },
    {
     "owner": "bavorove-ze-strakonic",
@@ -27137,18 +27170,29 @@
     "from_approx": true,
     "to_approx": false,
     "how": "neznamo",
-    "note": "cs.wiki (přehled majitelů): ?-1312, způsob nabytí ani začátek držby neuvedeny"
+    "note": "cs.wiki: ?-1312; hrady.cz: Bavorové ze Strakonic se na hrad dostali neznámým způsobem počátkem 14. stol., později Vimperk získali zpět Janovicové; vimperk.cz: v manství byli Bavoři ve 14. stol. po Janovicích (pořadí zdroje neladí, rok začátku neuveden)"
+   },
+   {
+    "owner": "janovici",
+    "owner_wiki": "Janovici",
+    "person": "Janovicové (po Bavorech)",
+    "from": 1312,
+    "to": 1370,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "hrady.cz: po Bavorech Vimperk získali zpět Janovicové; NPÚ: spravovali jej nejpozději do 1370, kdy majetek z neznámých důvodů propadl koruně"
    },
    {
     "owner": "rotlevove",
     "owner_wiki": null,
     "person": "Jan Rotlev",
-    "from": 1312,
+    "from": 1370,
     "to": 1395,
     "from_approx": true,
     "to_approx": true,
-    "how": "neznamo",
-    "note": "cs.wiki jej uvádí jen k roku 1375, přesné období držby neuvedeno; podle NPÚ byl hrad po roce 1370 několik let zástavním majetkem jednoho z pražských měšťanů (zda šlo o Rotleva, zdroj neuvádí)"
+    "how": "lenni",
+    "note": "pražský měšťan Jan Rotlev (Rotlöw) měl hrad v zástavě; cs.wiki a hrady.cz uvádějí rok 1375, NPÚ jen 'po několika letech' po 1370; konec zástavy zdroje neuvádějí"
    },
    {
     "owner": "kaplirove-ze-sulevic",
@@ -27197,13 +27241,13 @@
    {
     "owner": "rozmberkove",
     "owner_wiki": "Rožmberkové",
-    "person": null,
+    "person": "Vilém z Rožmberka, později Petr Vok z Rožmberka",
     "from": 1554,
     "to": 1601,
     "from_approx": false,
     "to_approx": false,
-    "how": "jine",
-    "note": "cs.wiki neuvádí přesný způsob nabytí od Jáchyma z Hradce"
+    "how": "koupe",
+    "note": "hrady.cz: Jáchym z Hradce držel Vimperk jen rok, pak jej koupil Vilém z Rožmberka; od Petra Voka z Rožmberka koupil 1601 Volf Novohradský z Kolovrat (hrady.cz, animod.cz)"
    },
    {
     "owner": "kolovratove",
@@ -27214,18 +27258,18 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "NPÚ: počátkem 17. stol. koupili panství Novohradští z Kolovrat (Volf s manželkou Juditou ze Šternberka a syn Jáchym) a proměnili zámek v rodové sídlo, rozsáhlé renesanční úpravy Horního zámku a nový renesanční Dolní zámek; stavební činnost vedla k zadlužení a ztrátě majetku; rok 1601 podle cs.wiki"
+    "note": "NPÚ: počátkem 17. stol. koupili panství Novohradští z Kolovrat (Volf s manželkou Juditou ze Šternberka a syn Jáchym) a proměnili zámek v rodové sídlo, rozsáhlé renesanční úpravy Horního zámku a nový renesanční Dolní zámek; stavební činnost vedla k zadlužení a ztrátě majetku; rok 1601 podle cs.wiki; hrady.cz: 1630 byl zadluženému Kolovratovi zámek odhadnut zvláštní komisí a prodán"
    },
    {
     "owner": "eggenbergove",
     "owner_wiki": "Eggenbergové",
-    "person": null,
+    "person": "Jan Oldřich z Eggenberku",
     "from": 1630,
     "to": 1719,
     "from_approx": false,
     "to_approx": false,
-    "how": "neznamo",
-    "note": "cs.wiki ani NPÚ neuvádějí způsob nabytí (NPÚ: Novohradští z Kolovrat přišli o majetek zadlužením); rok 1630 podle cs.wiki"
+    "how": "koupe",
+    "note": "hrady.cz: 1630 koupil zámek od zadluženého Kolovrata majitel krumlovského panství Jan Oldřich z Eggenberku; po výměně eggenberského rodu Janem Kristiánem (1710) převzal panství 1719 Adam František ze Schwarzenbergu"
    },
    {
     "owner": "schwarzenbergove",
@@ -27236,7 +27280,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "neznamo",
-    "note": "od roku 1719 zámek mezi majetky Schwarzenbergů, způsob nabytí zdroje neuvádějí; hrad poškozený požárem při obležení 1619 přestavěn 1622-1624 na renesanční zámek (za předchozích majitelů), v 18. stol. barokní úpravy, po požáru 20. 7. 1857 novorenesanční obnova; za první republiky pronajat armádě, později středisko správy panství; rod o zámek přišel po válce na základě lex Schwarzenberg"
+    "note": "od roku 1719 zámek mezi majetky Schwarzenbergů, způsob nabytí zdroje neuvádějí; hrad poškozený požárem při obležení 1619 přestavěn 1622-1624 na renesanční zámek (za předchozích majitelů), v 18. stol. barokní úpravy, po požáru 20. 7. 1857 novorenesanční obnova; za první republiky pronajat armádě, později středisko správy panství; rod o zámek přišel po válce na základě lex Schwarzenberg; zestátnění: 1948 (cs.wiki, hrady.cz), rok 1945 odpovídá tabulce majitelů cs.wiki"
    },
    {
     "owner": "stat",
@@ -27247,29 +27291,29 @@
     "from_approx": false,
     "to_approx": true,
     "how": "konfiskace",
-    "note": "cs.wiki: 1945-1992 Československý stát (zestátnění 1948; NPÚ: po válce lex Schwarzenberg, po roce 1947 kanceláře Jihočeských státních lesů, od 1961 část zámku městské muzeum); po roce 1990 zámek převzalo město, rok cs.wiki neuvádí"
+    "note": "cs.wiki: 1945-1992 Československý stát (zestátnění 1948; NPÚ: po válce lex Schwarzenberg, po roce 1947 kanceláře Jihočeských státních lesů, od 1961 část zámku městské muzeum); po roce 1990 zámek převzalo město, rok cs.wiki neuvádí; infocesko.cz uvádí 1948 přechod zámku do vlastnictví města (v rozporu s ostatními zdroji, které uvádějí stát)"
    },
    {
     "owner": "mesto",
     "owner_wiki": null,
     "person": "město Vimperk",
     "from": 1968,
-    "to": 1992,
+    "to": 1991,
     "from_approx": true,
-    "to_approx": true,
+    "to_approx": false,
     "how": "jine",
-    "note": "po roce 1990 připadl městu (NPÚ: po revoluci se zámku město zbavilo a odtrhlo od něj předsunuté opevnění Haselburg, které přešlo do soukromých rukou); rok přechodu ani způsob nabytí zdroje neuvádějí"
+    "note": "po roce 1990 připadl městu (NPÚ: po revoluci se zámku město zbavilo a odtrhlo od něj předsunuté opevnění Haselburg); vimperk.cz: roku 1991 zámek koupilo Ministerstvo životního prostředí (rok začátku držby města zdroje neuvádějí)"
    },
    {
     "owner": "stat",
     "owner_wiki": null,
     "person": "Správa Národního parku Šumava (Ministerstvo životního prostředí)",
-    "from": 1992,
+    "from": 1991,
     "to": 2014,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "město zámek za sedm milionů korun prodalo Správě NP Šumava (podle NPÚ správa NP a CHKO Šumava, plánované úpravy nakonec neprovedeny, objekt chátral); rok převodu neuveden, začátkem července 2014 potvrzen převod z ministerstva životního prostředí na ministerstvo kultury"
+    "note": "město zámek za sedm milionů korun prodalo (vimperk.cz: 1991 koupilo Ministerstvo životního prostředí, které sem umístilo správu NP a CHKO Šumava; plánované úpravy neprovedeny, objekt chátral); začátkem července 2014 potvrzen převod z MŽP na ministerstvo kultury"
    },
    {
     "owner": "stat",
@@ -27323,7 +27367,9 @@
   ],
   "sources": [
    "https://cs.wikipedia.org/wiki/Vimperk_(zámek)",
-   "https://www.zamek-vimperk.cz/cs/historie"
+   "https://www.zamek-vimperk.cz/cs/historie",
+   "https://www.vimperk.cz/statni-zamek-vimperk/d-11604",
+   "https://www.hrady.cz/zamek-vimperk-winterberg/"
   ]
  },
  "Q1280844": {
@@ -31210,77 +31256,99 @@
     "owner_wiki": "Collaltové",
     "person": "Tomáš Vinciguerra Collalto a San Salvatore",
     "from": 1768,
-    "to": 1793,
+    "to": 1774,
     "from_approx": false,
     "to_approx": true,
     "how": "koupe",
-    "note": "koupil za 300 000 zlatých rýnských a připojil k fideikomisu rodu (Brtnice, Černá, Německý Rudolec); cs.wiki uvádí u Collaltů jen roky, kdy jsou jednotliví držitelé zmiňováni (1775, 1794, 1823, 1847, 1865, 1928), přesné nástupy neuvádí"
+    "note": "koupil 1768 za 300 000 zlatých rýnských a připojil k fideikomisu rodu (Brtnice, Černá, Německý Rudolec); jeho jediný syn Jan Nepomuk zemřel nezletilý 17. 11. 1772, rok smrti Tomáše zdroje neuvádějí (wikiknihy Dějiny Korolup)"
    },
    {
     "owner": "collaltove",
     "owner_wiki": "Collaltové",
-    "person": "František Collalto",
+    "person": "František Augustin Collalto",
+    "from": 1774,
+    "to": 1779,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "bratr Tomáše Vinciguerry; cs.wiki jej uvádí 1775; zemřel 1779 bez nástupce, začátek držby zdroje neuvádějí (wikiknihy Dějiny Korolup)"
+   },
+   {
+    "owner": "collaltove",
+    "owner_wiki": "Collaltové",
+    "person": "Antonín Oktavián I. Collalto",
+    "from": 1779,
+    "to": 1793,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "z mladší rodové linie, fideikomisní panství mu připadlo po Františku Augustinovi; 1781 obdržel knížecí titul; zemřel 29. 1. 1793 (wikiknihy Dějiny Korolup)"
+   },
+   {
+    "owner": "collaltove",
+    "owner_wiki": "Collaltové",
+    "person": "Eduard (Odoard) III. Collalto",
     "from": 1793,
-    "to": 1819,
-    "from_approx": true,
-    "to_approx": true,
+    "to": 1825,
+    "from_approx": false,
+    "to_approx": false,
     "how": "dedictvi",
-    "note": "uváděn 1775; přesné období držby zdroje neuvádějí"
+    "note": "syn Antonína Oktaviána I. (1748-1833; cs.wiki uvádí Odoarda 1794); 1822 povýšen do knížecího stavu (NPÚ); 4. 7. 1825 postoupil majetek synovi Antonínu Oktaviánovi (cs.wiki podle Volného, wikiknihy)"
    },
    {
     "owner": "collaltove",
     "owner_wiki": "Collaltové",
-    "person": "Odoard Collalto",
-    "from": 1819,
-    "to": 1844,
-    "from_approx": true,
-    "to_approx": true,
+    "person": "Antonín Oktavián Jan Collalto (kníže)",
+    "from": 1825,
+    "to": 1854,
+    "from_approx": false,
+    "to_approx": false,
     "how": "dedictvi",
-    "note": "uváděn 1794; přesné období držby zdroje neuvádějí"
+    "note": "1783-1854, cs.wiki jej uvádí 1823; fideikomis převzal od otce 4. 7. 1825; zemřel 23. 11. 1854 v Brtnici"
    },
    {
     "owner": "collaltove",
     "owner_wiki": "Collaltové",
-    "person": "Antonín Oktavián Collalto",
-    "from": 1844,
-    "to": 1869,
-    "from_approx": true,
-    "to_approx": true,
+    "person": "Eduard IV. Alfons Collalto (kníže)",
+    "from": 1854,
+    "to": 1862,
+    "from_approx": false,
+    "to_approx": false,
     "how": "dedictvi",
-    "note": "uváděn 1823; podle Volného 4. 7. 1825 mu majetek odstoupil otec Eduard (zdroj je nejasný, otec je uváděn jako zemřelý 1833)"
+    "note": "1810-1862, cs.wiki uvádí knížete Eduarda 1847; rok smrti wikiknihy uvádějí 1861 i 1862 (24. 3.)"
    },
    {
     "owner": "collaltove",
     "owner_wiki": "Collaltové",
-    "person": "Eduard Collalto (kníže)",
-    "from": 1869,
-    "to": 1894,
-    "from_approx": true,
-    "to_approx": true,
+    "person": "Emanuel Josef Antonín Collalto (kníže)",
+    "from": 1862,
+    "to": 1924,
+    "from_approx": false,
+    "to_approx": false,
     "how": "dedictvi",
-    "note": "uváděn 1847; knížecí titul (omezený na držitele moravských panství) obdržel Eduard III. 1822 (NPÚ)"
-   },
-   {
-    "owner": "collaltove",
-    "owner_wiki": "Collaltové",
-    "person": "Emanuel Collalto (kníže)",
-    "from": 1894,
-    "to": 1920,
-    "from_approx": true,
-    "to_approx": true,
-    "how": "dedictvi",
-    "note": "uváděn 1865; přesné období držby zdroje neuvádějí"
+    "note": "narozen 1854 v Uherčicích, do dospělosti panství řídila matka Karolína; bezdětný, zemřel 11. 12. 1924 (wikiknihy)"
    },
    {
     "owner": "collaltove",
     "owner_wiki": "Collaltové",
     "person": "Manfred Collalto (kníže)",
-    "from": 1920,
+    "from": 1925,
+    "to": 1935,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "dedictvi",
+    "note": "1870-1940 (zemřel v Uherčicích); roku 1925 převzal fideikomis po Emanuelovi; cs.wiki jej uvádí 1928"
+   },
+   {
+    "owner": "collaltove",
+    "owner_wiki": "Collaltové",
+    "person": "Oktavián Rombald Collalto",
+    "from": 1935,
     "to": 1945,
     "from_approx": true,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "uváděn 1928; majetek zkonfiskován 1945"
+    "note": "syn Manfreda, poslední majitel z rodu (NPÚ); rok nástupu zdroje neuvádějí (otec zemřel 1940); majetek zkonfiskován 1945-1946"
    },
    {
     "owner": "stat",
@@ -31334,7 +31402,8 @@
   ],
   "sources": [
    "https://cs.wikipedia.org/wiki/Uherčice_(zámek)",
-   "https://www.zamek-uhercice.cz/cs/o-zamku/historie"
+   "https://www.zamek-uhercice.cz/cs/o-zamku/historie",
+   "https://cs.wikibooks.org/wiki/Dějiny_Korolup/Fideikomisní_panství_a_velkostatek_Uherčice"
   ]
  },
  "Q14435327": {
@@ -33516,29 +33585,40 @@
    "approx": true,
    "text": "Kolem roku 1240 založil hrad Havel z Lemberka, příslušník rodu Markvarticů, a stal se tak zakladatelem rodu Lemberků; první listinné zmínky pocházejí z let 1241-1249."
   },
-  "summary": "Hrad Lemberk založil kolem roku 1240 Havel z Lemberka z rodu Markvarticů a jeho potomci jej drželi do konce 14. nebo počátku 15. století. Za husitských válek se majitelé rychle střídali, od roku 1430 panství držel rod Berků z Dubé a po nich Elsnicové (od 1471) a dále páni z Donína. Od roku 1518 patřil Ilburkům, poté Kurzbachům z Trachenberka, kteří kolem poloviny 16. století hrad přestavěli na renesanční zámek; po Berkovi z Dubé a pánech z Donína jej po roce 1620 získal Albrecht z Valdštejna a roku 1634 přešel na Jana Rudolfa z Bredy. Roku 1726 jej koupil Filip Josef z Gallasu, po něm jej zdědili Clam-Gallasové, od roku 1930 Auerspergové, a roku 1945 byl zestátněn.",
+  "summary": "Hrad Lemberk založil kolem roku 1240 Havel z Lemberka z rodu Markvarticů a jeho potomci jej drželi do konce 14. století (1398 nebo 1408). Po krátké držbě Jarka ze Železnice a Vartenberků jej od asi 1430 drželi Berkové z Dubé, od 1471 Elsnicové, od 1518 Ilburkové a po nich Kurzbachové z Trachenberka, kteří hrad přestavěli na renesanční zámek. Od 1581 patřil znovu Berkům, od 1599 pánům z Donína; po Bílé hoře jej 1623 koupil Albrecht z Valdštejna a od 1634 patřil Bredům, kteří jej raně barokně přestavěli. Roku 1726 jej koupil Filip Josef z Gallasu, po něm jej zdědili Clam-Gallasové, od roku 1930 Auerspergové, a roku 1945 byl zestátněn.",
   "owners": [
    {
     "owner": "lemberkove",
     "owner_wiki": "Lemberkové",
     "person": "Havel z Lemberka",
     "from": 1240,
-    "to": 1408,
+    "to": 1398,
     "from_approx": true,
-    "to_approx": true,
+    "to_approx": false,
     "how": "zalozeni",
-    "note": "založil hrad kolem 1240 (první listiny 1241-1249); rod Lemberků (větev Markvarticů) jej držel po několik generací; cs.wiki uvádí Gottfrieda Haugvice z Lemberka jako majitele ještě 1408, de.wiki a web zámku označují za konec držby rodu 1398 (Hasko z Lemberka † 1398, resp. konec 14. století)"
+    "note": "založil hrad kolem 1240 (první listiny 1241-1249); rod Lemberků (větev Markvarticů) jej držel do konce 14. stol.; poslední majitel Hašek z Lemberka zemřel 1398 v konfliktu s Janem z Vartemberka (zameklemberk.cz, de.wiki); cs.wiki uvádí ještě 1408 jako majitele Gottfrieda Haugvice z Lemberka - rozpor 1398 vs. 1408"
    },
    {
-    "owner": "neznamo",
+    "owner": "z-zeleznice",
     "owner_wiki": null,
+    "person": "Jarek ze Železnice",
+    "from": 1398,
+    "to": 1401,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "zameklemberk.cz: po Haškově smrti nepřešlo dědictví na dceru Kateřinu, ale získal je Jarek ze Železnice; užíval ho do 1401"
+   },
+   {
+    "owner": "vartenberkove",
+    "owner_wiki": "Vartenberkové",
     "person": null,
-    "from": 1408,
+    "from": 1401,
     "to": 1430,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": true,
     "how": "neznamo",
-    "note": "za husitských válek se majitelé rychle střídali, většinou z lužické a saské šlechty (de.wiki, web zámku); roku 1427 hrad obsadili husité pod Alešem ze Žemberka; konkrétní držitele zdroje nejmenují"
+    "note": "zameklemberk.cz: 1401 majetkem Vartenberků; pruvodce.com též uvádí Vartenberky po Markvarticích; v 15. stol. se podle zámku a de.wiki majitelé často střídali (lužická a saská šlechta); 1427 hrad dobyli husité (Aleš ze Žemberka); konec 1430 podle cs.wiki (převzali Berkové)"
    },
    {
     "owner": "berkove-z-dube",
@@ -33549,7 +33629,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "jine",
-    "note": "panství převzal rod Berků z Dubé; roku 1471 jeden z bratrů Lemberk prodal"
+    "note": "panství převzal rod Berků z Dubé (kolem 1430); roku 1471 jeden z bratrů Lemberk prodal (zameklemberk.cz uvádí 1470 Jana z Elsnic)"
    },
    {
     "owner": "elsnicove-z-elsnic",
@@ -33604,29 +33684,29 @@
     "from_approx": false,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "web zámku (NPÚ): roku 1550 zdědil panství Jindřich Kurzbach z Trachenberka; obnovil zaniklé vesnice, založil další, mlýny, pily, hamr a pivovar; kolem 1570 přestavěl hrad na renesanční zámek (de.wiki); de.wiki pozdější Annin údaj (Anna † 1554) a rok 1550 se liší, rok 1581 podle de.wiki"
+    "note": "web zámku (NPÚ): 1550 zdědil panství Jindřich Kurzbach z Trachenberka (manžel Anny, dcery Viléma z Ilburka; hrady.dejiny.cz); obnovil zpustlé vsi, mlýny, pily, hamr a pivovar; kolem 1570 přestavba na renesanční zámek (de.wiki); rok 1581 podle de.wiki a hrady.dejiny.cz"
    },
    {
     "owner": "berkove-z-dube",
     "owner_wiki": "Berkové z Dubé",
-    "person": null,
+    "person": "Jindřich Berka z Dubé (od 1597 Volf, poté Hynek)",
     "from": 1581,
-    "to": 1600,
+    "to": 1599,
     "from_approx": false,
     "to_approx": false,
-    "how": "neznamo",
-    "note": "de.wiki: 1581 získali Berkové z Dubé a Nového Falkenburku; cs.wiki uvádí po Kurzbachovi Jindřicha Berku z Dubé a přestavbu po roce 1550, což si s ostatními zdroji odporuje (přestavbu připisují Kurzbachovi)"
+    "how": "koupe",
+    "note": "hrady.dejiny.cz a zameklemberk.cz: 1581 koupil Jindřich Berka z Dubé (majitel poloviny Jablonného), † 1597; po něm druhý syn Volf († po dvou letech), Hynek pak 1599 Lemberk prodal; cs.wiki uvádí přestavbu po roce 1550, což si s ostatními zdroji odporuje"
    },
    {
     "owner": "pani-z-donina",
     "owner_wiki": "Páni z Donína",
-    "person": "Jan z Donína",
-    "from": 1600,
+    "person": "Vratislav z Donína (od 1599), od 1608 Jan z Donína",
+    "from": 1599,
     "to": 1623,
     "from_approx": false,
     "to_approx": false,
-    "how": "neznamo",
-    "note": "de.wiki: 1600 přešel na purkrabí z Donína; počátkem 17. století zvýšili zámecké křídlo o patro, kolem 1610 zhotoven Bajkový sál objednaný Janem z Donína"
+    "how": "koupe",
+    "note": "hrady.dejiny.cz: 1599 koupil Vratislav z Donína (johanita, † asi 1606), pak bratři Ferdinand, Jaroslav a Jan, kterému 1608 Lemberk postoupili; Jan se zapojil do stavovského povstání, majetek po Bílé hoře zkonfiskován; kolem 1610 Bajkový sál objednaný Janem z Donína; počátkem 17. stol. zvýšeno křídlo o patro"
    },
    {
     "owner": "valdstejnove",
@@ -33637,7 +33717,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "de.wiki: 1623 koupě; web zámku (NPÚ): panství získal po roce 1620; cs.wiki Valdštejna nezmiňuje"
+    "note": "hrady.dejiny.cz: Albrecht z Valdštejna jako hlavní věřitel 1623 koupil panství od císařské komory (web zámku: po roce 1620 získal) a začlenil do frýdlantského vévodství; 1627 jej udělil jako léno Adamu Vilémovi Schelhardovi z Doronuortu, po jeho smrti Janu Rudolfovi Bredovi; cs.wiki Valdštejna nezmiňuje"
    },
    {
     "owner": "bredove",
@@ -33647,8 +33727,8 @@
     "to": 1726,
     "from_approx": false,
     "to_approx": false,
-    "how": "koupe",
-    "note": "cs.wiki: sňatkem Jana Rudolfa z Bredy s Kateřinou z Donína; de.wiki: koupil krátce před svou smrtí od Valdštejna (Valdštejn † 1634), web zámku: po jeho smrti přešel majetek na Bredu - zdroje se rozcházejí v způsobu nabytí; v letech 1660-1680 za Bredů přestavba do raně barokní podoby"
+    "how": "lenni",
+    "note": "způsob nabytí sporný: cs.wiki - sňatek Jana Rudolfa z Bredy s Kateřinou z Donína roku 1634; de.wiki - koupě od Valdštejna; hrady.dejiny.cz - Breda držel panství jako léno frýdlantského vévodství po Schelhardovi a 1634 (po Valdštejnově pádu) je získal do dědičného vlastnictví (manželka Anna Kateřina z Donína); web zámku: po Valdštejnově smrti 1634 přešel majetek na Bredu; 1660-1680 raně barokní přestavba za Kryštofa Rudolfa; poslední Hartvík Mikuláš † 1723, dědicové prodali 1726"
    },
    {
     "owner": "gallasove",
@@ -33705,6 +33785,10 @@
     "text": "první jistý listinný doklad - Havel z Lemberka a Jablonného použil ve svém přídomku jméno hradu"
    },
    {
+    "year": 1398,
+    "text": "zemřel Hašek z Lemberka, poslední z rodu Lemberků; panství získal Jarek ze Železnice, od 1401 Vartenberkové"
+   },
+   {
     "year": 1427,
     "text": "hrad obsadili husité pod vedením Aleše ze Žemberka"
    },
@@ -33713,12 +33797,20 @@
     "text": "Jindřich Kurzbach z Trachenberka zdědil panství a v dalších desetiletích zámek přestavěl na renesanční (kolem 1570 podle de.wiki)"
    },
    {
+    "year": 1581,
+    "text": "panství koupil Jindřich Berka z Dubé"
+   },
+   {
     "year": 1623,
-    "text": "panství získal Albrecht z Valdštejna, roku 1634 přešlo na Jana Rudolfa z Bredy"
+    "text": "Albrecht z Valdštejna koupil panství od císařské komory; 1627 jej udělil jako léno Schelhardovi a poté Janu Rudolfovi Bredovi"
    },
    {
     "year": 1634,
-    "text": "zámek přešel na Jana Rudolfa z Bredy (podle cs.wiki sňatkem s Kateřinou z Donína, podle de.wiki koupí od Valdštejna)"
+    "text": "Jan Rudolf Breda získal panství do dědičného vlastnictví (podle cs.wiki sňatkem s Kateřinou z Donína, podle de.wiki koupí od Valdštejna, podle hrady.dejiny.cz jako dosavadní léník)"
+   },
+   {
+    "year": 1680,
+    "text": "Lembersko se připojilo k nevolnickému povstání"
    },
    {
     "year": 1726,
@@ -33740,7 +33832,10 @@
   "sources": [
    "https://cs.wikipedia.org/wiki/Lemberk",
    "https://de.wikipedia.org/wiki/Lemberk",
-   "https://www.zamek-lemberk.cz/cs/o-zamku/historie"
+   "https://www.zamek-lemberk.cz/cs/o-zamku/historie",
+   "https://zameklemberk.cz/historie/",
+   "http://hrady.dejiny.cz/lemberk/index.htm",
+   "http://www.pruvodce.com/lemberk/"
   ]
  },
  "Q16162067": {
@@ -47847,7 +47942,7 @@
     "from_approx": true,
     "to_approx": false,
     "how": "lenni",
-    "note": "páni z Cimburka přenechali zástavní právo příbuzným Jiřího z Poděbrad; páni z Kunštátu byli jen zástavními držiteli, ale nakládali s klášterními statky jako s vlastními; rok převzetí neuveden"
+    "note": "páni z Cimburka přenechali zástavní právo příbuzným Jiřího z Poděbrad; páni z Kunštátu byli jen zástavními držiteli, ale nakládali s klášterními statky jako s vlastními; rok převzetí neuveden; hrady.cz: před 1549 postoupil vizovické zboží Václavu z Boskovic Zikmund z Kunštátu; pidifrk.cz uvádí převzetí pány z Kunštátu 1483, en.wiki 1485 (klášter zrušen za jejich vlády)"
    },
    {
     "owner": "boskovicove",
@@ -47858,7 +47953,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "koupil panství od pánů z Kunštátu roku 1549; zemřel 1554; rok prodeje dalším majitelům 1568 podle cs.wiki"
+    "note": "koupil panství od pánů z Kunštátu roku 1549; zemřel 1554; rok prodeje dalším majitelům 1568 podle cs.wiki; hrady.cz: Václav z Boskovic koupil před 1549 (od Zikmunda z Kunštátu)"
    },
    {
     "owner": "pani-z-rican",
@@ -47869,29 +47964,29 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "hned po koupi zahájil stavbu renesančního zámku dokončeného 1570; zemřel 1582"
+    "note": "hned po koupi zahájil stavbu renesančního zámku dokončeného 1570; zemřel 1582; rok koupě zdroje neladí: 1568 (cs.wiki), 1567 (pidifrk.cz, en.wiki), 1569 (hrady.cz); prodej Anně 1578 (hrady.cz)"
    },
    {
     "owner": "zerotinove",
     "owner_wiki": "Žerotínové",
     "person": "Anna ze Žerotína, rozená Kropáčová z Nevědomí",
     "from": 1578,
-    "to": 1586,
+    "to": 1593,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "koupe",
-    "note": "roku 1578 koupila Vizovice; rok, kdy panství od jejích dětí získal Tetour, cs.wiki neuvádí"
+    "note": "roku 1578 koupila Vizovice od Zdeňka Kavky z Říčan (cs.wiki, hrady.cz; pidifrk.cz uvádí 1574); od jejích dětí získal panství Tetour, rok 1593 podle hrady.cz"
    },
    {
     "owner": "tetourove-z-tetova",
     "owner_wiki": "Tetourové z Tetova",
     "person": "Václav Tetour z Tetova",
-    "from": 1586,
+    "from": 1593,
     "to": 1594,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "panství získal od dětí Anny ze Žerotína (rok neuveden); v roce 1594 se novým majitelem stal Emerich Dóczy"
+    "note": "hrady.cz: 1593 získal zámek s panstvím Václav Tetour z Tetova a již 1594 byl pro zadlužení nucen Vizovice prodat Emerichu Dóczymu; pidifrk.cz uvádí Tetoury od 1584"
    },
    {
     "owner": "doczyove",
@@ -47924,7 +48019,7 @@
     "from_approx": true,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "sestra a dědička Melichara Dóczyho, zemřela 1682"
+    "note": "sestra a dědička Melichara Dóczyho, zemřela 1682; hrady.cz: poslední mužský Dóczy Ladislav zemřel 12. 5. 1660 a panství zdědila Zuzana (cs.wiki ji označuje za dědičku bratra Melichara); Zuzana panství postoupila Gollenovi s doživotním užíváním"
    },
    {
     "owner": "gollenove",
@@ -47935,7 +48030,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "sekretář dvorské komory, který zneužitím nejasných majetkových poměrů přiměl Zuzanu Majthényiovou přepsat závěť v jeho prospěch; zemřel 1686; zámecký web NPÚ uvádí, že Vizovice od císaře koupil už roku 1678 (rok 1682 vychází z úmrtí Zuzany podle cs.wiki)"
+    "note": "sekretář dvorské komory, který zneužitím nejasných majetkových poměrů přiměl Zuzanu Majthényiovou přepsat závěť v jeho prospěch; zemřel 1686; zámecký web NPÚ uvádí, že Vizovice od císaře koupil už roku 1678 (rok 1682 vychází z úmrtí Zuzany podle cs.wiki); NPÚ i pidifrk.cz uvádějí koupi Gollenem od císaře Leopolda 1678; hrady.cz: spor Gollenů se Zuzaniným příbuzenstvem trval do 1710"
    },
    {
     "owner": "gollenove",
@@ -48000,7 +48095,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "synovec Marie Františky Blümegenové; ve Vizovicích se narodily všechny jeho děti; zámecký web NPÚ uvádí přechod zámku na Stillfriedy až 1815"
+    "note": "synovec Marie Františky Blümegenové; ve Vizovicích se narodily všechny jeho děti; zámecký web NPÚ uvádí přechod zámku na Stillfriedy až 1815; pidifrk.cz také uvádí Stillfriedy od 1815; hrady.cz: Marie Františka Stillfriedová zdědila panství 1813 a Stillfriedové držely zámek do 1945"
    },
    {
     "owner": "stillfriedove-z-ratenic",
@@ -48086,7 +48181,9 @@
   ],
   "sources": [
    "https://cs.wikipedia.org/wiki/Vizovice_(zámek)",
-   "https://www.zamek-vizovice.cz/cs/o-zamku/historie"
+   "https://www.zamek-vizovice.cz/cs/o-zamku/historie",
+   "https://www.hrady.cz/zamek-vizovice-zlin/texty?tid=3531",
+   "https://www.pidifrk.cz/detail-pidifrku.php?p=508"
   ]
  },
  "Q2244318": {
@@ -62338,7 +62435,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "snatek",
-    "note": "cs.wiki (Mnichovo Hradiště): 1579 Budovcové; zámek cs.wiki: dědičně sňatkem v 16. století; Václav Budovec majitelem panství od 1602, 1603-1606 postavil renesanční zámek; popraven 1621"
+    "note": "cs.wiki (Mnichovo Hradiště): 1579 Budovcové; zámek cs.wiki: dědičně sňatkem v 16. století; Václav Budovec majitelem panství od 1602, 1603-1606 postavil renesanční zámek; popraven 1621; web zámku: Václav Budovec majitelem 1602-1621 (nar. 1551)"
    },
    {
     "owner": "koruna",
@@ -62349,7 +62446,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "konfiskace",
-    "note": "Václav Budovec popraven 1621 za účast na stavovském povstání, majetek zkonfiskován; cs.wiki (Mnichovo Hradiště) uvádí, že Albrecht z Valdštejna panství získal o rok později (1622), cs.wiki (zámek) rok 1623"
+    "note": "Václav Budovec popraven 1621 za účast na stavovském povstání, majetek zkonfiskován; web zámku uvádí královskou komoru 1621-1622 a Albrechta z Valdštejna od 1622 (stejně ospamet.cz: koupě 1622), cs.wiki (Mnichovo Hradiště) 1622, cs.wiki (zámek) a zemesveta.cz 1623"
    },
    {
     "owner": "valdstejnove",
@@ -62360,7 +62457,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "koupil panství (spolu s Klášterem Hradiště, Chocnějovicemi a Zásadkou) za 216 000 zlatých; cs.wiki (Mnichovo Hradiště) uvádí postoupení Maxmiliánovi roku 1624"
+    "note": "koupil panství (spolu s Klášterem Hradiště, Chocnějovicemi a Zásadkou) za 216 000 zlatých; rok koupě 1623 (cs.wiki zámek, zemesveta.cz) vs. 1622 (web zámku, ospamet.cz); 1627 je přenechal bratranci Maxmiliánovi (web zámku, ospamet.cz, cs.wiki)"
    },
    {
     "owner": "valdstejnove",
@@ -62369,31 +62466,42 @@
     "from": 1627,
     "to": 1655,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "jine",
-    "note": "bratranec Albrechta; cs.wiki: Albrecht mu Hradiště přenechal, de.wiki: prodal; po Albrechtově zavraždění (1634) byl nárok ohrožen, v roce 1635 získal panství do dědičného vlastnictví; konec 1655 podle jeho úmrtí (cs.wiki Valdštejnové)"
+    "note": "bratranec Albrechta; cs.wiki: Albrecht mu Hradiště přenechal, de.wiki: prodal, zemesveta.cz: dědičně postoupil; po Albrechtově zavraždění (1634) byl nárok ohrožen, 1635 získal panství do dědičného vlastnictví; majitelem do své smrti 1655 (web zámku)"
    },
    {
     "owner": "valdstejnove",
     "owner_wiki": "Valdštejnové",
-    "person": "Ferdinand Arnošt z Valdštejna",
+    "person": "Albrecht Leopold z Valdštejna",
     "from": 1655,
-    "to": 1657,
-    "from_approx": true,
-    "to_approx": true,
+    "to": 1656,
+    "from_approx": false,
+    "to_approx": false,
     "how": "dedictvi",
-    "note": "nejstarší syn Maxmiliána (1622-1656); po jeho smrti převzal Mnichovo Hradiště jeho bratr Karel Ferdinand (1657); roky přibližné, cs.wiki Valdštejnové"
+    "note": "seznam majitelů na webu zámku (zamek-mnichovohradiste.cz): 1655-1656; starší seznam (Ferdinand Arnošt 1655-1657) web zámku po dotazu diplomové práce (TUL) v květnu 2020 opravil; cs.wiki Valdštejnové uvádí jako nástupce Ferdinanda Arnošta"
+   },
+   {
+    "owner": "valdstejnove",
+    "owner_wiki": "Valdštejnové",
+    "person": "Jan Bedřich z Valdštejna",
+    "from": 1656,
+    "to": 1661,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "seznam majitelů na webu zámku (zamek-mnichovohradiste.cz): 1656-1661 (1644-1694)"
    },
    {
     "owner": "valdstejnove",
     "owner_wiki": "Valdštejnové",
     "person": "Karel Ferdinand z Valdštejna",
-    "from": 1657,
+    "from": 1661,
     "to": 1675,
     "from_approx": false,
-    "to_approx": true,
-    "how": "dedictvi",
-    "note": "převzal po bratru Ferdinandu Arnoštovi (1657); Arnošt Josef od něj Mnichovo Hradiště koupil (cs.wiki Valdštejnové: 1674, cs.wiki zámek: od 1675)"
+    "to_approx": false,
+    "how": "koupe",
+    "note": "seznam majitelů na webu zámku (zamek-mnichovohradiste.cz): 1661-1675 (1634-1702); koupil město od Jana Bedřicha (diplomová práce TUL), Valdštejnové cs.wiki uvádí nástupce po Ferdinandu Arnoštovi 1657"
    },
    {
     "owner": "valdstejnove",
@@ -62402,42 +62510,64 @@
     "from": 1675,
     "to": 1708,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "koupe",
-    "note": "koupil od strýce Karla Ferdinanda; dal zámek v letech 1697-1703 barokně přestavět podle projektu M. A. Canevalleho; konec držby podle jeho úmrtí 1708 (cs.wiki Valdštejnové)"
+    "note": "koupil od Karla Ferdinanda 1675 (web zámku, cs.wiki zámek, diplomová práce TUL: koupil až 1675; cs.wiki Valdštejnové uvádí 1674); 1675 vzniklo spojením statků panství Mnichovo Hradiště; zámek 1697-1703 přestavěn podle projektu M. A. Canevalleho; zemřel 1708 (1654-1708)"
    },
    {
     "owner": "valdstejnove",
     "owner_wiki": "Valdštejnové",
-    "person": "František Josef z Valdštejna (zemřel 1722), poté Jan Josef z Valdštejna (zemřel 1731)",
+    "person": "František Josef z Valdštejna",
     "from": 1708,
-    "to": 1731,
-    "from_approx": true,
-    "to_approx": true,
+    "to": 1722,
+    "from_approx": false,
+    "to_approx": false,
     "how": "dedictvi",
-    "note": "zdroje (cs.wiki Valdštejnové) výslovně neuvádějí, kdo držel Mnichovo Hradiště v letech 1708-1731; po Janu Josefovi je zdědili synovci; přiřazení odvozeno z pořadí dědiců, nejisté"
+    "note": "seznam majitelů na webu zámku (zamek-mnichovohradiste.cz): 1708-1722 (1680-1722), syn Arnošta Josefa; cs.wiki Františka Arnošta uvádí jeho otce Františka Josefa (1680-1722)"
    },
    {
     "owner": "valdstejnove",
     "owner_wiki": "Valdštejnové",
-    "person": "František Arnošt z Valdštejna",
-    "from": 1731,
+    "person": "Marie Markéta z Valdštejna, rozená Černínová (poručnice nezletilých synů)",
+    "from": 1722,
+    "to": 1727,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "seznam majitelů na webu zámku (zamek-mnichovohradiste.cz): majitelka 1722-1727, vdova po Františku Josefovi"
+   },
+   {
+    "owner": "valdstejnove",
+    "owner_wiki": "Valdštejnové",
+    "person": "František Arnošt (Jan František Arnošt Heřman) z Valdštejna",
+    "from": 1727,
     "to": 1748,
-    "from_approx": true,
-    "to_approx": true,
+    "from_approx": false,
+    "to_approx": false,
     "how": "dedictvi",
-    "note": "zakladatel mnichovohradištské větve (1706-1748), zdědil po strýci Janu Josefovi; rok přechodu dopočten z úmrtí předchůdce (cs.wiki Valdštejnové uvádí pořadí držitelů mnichovohradištské větve a roky narození a úmrtí)"
+    "note": "seznam majitelů na webu zámku (zamek-mnichovohradiste.cz): 1727-1748 (1706-1748), zakladatel mnichovohradišťské linie; cs.wiki o něm uvádí funkci majitele panství 1722-1748 (do 1727 vedla panství matka); zemřel 14. 9. 1748 na zámku"
    },
    {
     "owner": "valdstejnove",
     "owner_wiki": "Valdštejnové",
-    "person": "Vincenc z Valdštejna-Vartenberka",
+    "person": "Alžběta z Valdštejna, rozená z Fürstenberku (poručnice nezletilého syna)",
     "from": 1748,
-    "to": 1797,
-    "from_approx": true,
-    "to_approx": true,
+    "to": 1755,
+    "from_approx": false,
+    "to_approx": false,
     "how": "dedictvi",
-    "note": "syn Františka Arnošta (1731-1797); od 1755 panství spravoval (cs.wiki Mnichovo Hradiště), 1782 koupil zrušený kapucínský klášter a upravil jej na rodinnou hrobku (cs.wiki zámek jej jmenuje Jan Vincenc); rok přechodu dopočten z úmrtí předchůdce (cs.wiki Valdštejnové uvádí pořadí držitelů mnichovohradištské větve a roky narození a úmrtí)"
+    "note": "seznam majitelů na webu zámku (zamek-mnichovohradiste.cz): 1748-1755, vdova po Františku Arnoštovi"
+   },
+   {
+    "owner": "valdstejnove",
+    "owner_wiki": "Valdštejnové",
+    "person": "Vincenc Ferrerius z Valdštejna",
+    "from": 1755,
+    "to": 1797,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "seznam majitelů na webu zámku (zamek-mnichovohradiste.cz): 1755-1797 (1731-1797), do 1755 jako nezletilý pod poručnictvím matky; 1782 koupil zrušený kapucínský klášter a upravil jej na rodinnou hrobku (cs.wiki zámek jej jmenuje Jan Vincenc); 1797 potvrzeno, že majitelem se stal syn Arnošt Filip (dopis z 1828, TUL)"
    },
    {
     "owner": "valdstejnove",
@@ -62445,21 +62575,21 @@
     "person": "Arnošt Filip z Valdštejna",
     "from": 1797,
     "to": 1832,
-    "from_approx": true,
-    "to_approx": true,
+    "from_approx": false,
+    "to_approx": false,
     "how": "dedictvi",
-    "note": "(1764-1832); rok přechodu dopočten z úmrtí předchůdce (cs.wiki Valdštejnové uvádí pořadí držitelů mnichovohradištské větve a roky narození a úmrtí)"
+    "note": "seznam majitelů na webu zámku (zamek-mnichovohradiste.cz): 1797-1832 (1764-1832)"
    },
    {
     "owner": "valdstejnove",
     "owner_wiki": "Valdštejnové",
-    "person": "Kristián Vincenc z Valdštejna",
+    "person": "Kristián Arnošt z Valdštejna",
     "from": 1832,
     "to": 1858,
-    "from_approx": true,
-    "to_approx": true,
+    "from_approx": false,
+    "to_approx": false,
     "how": "dedictvi",
-    "note": "(1794-1858); za setkání panovníků (Svatá aliance) 1833 byl zámek upraven; rok přechodu dopočten z úmrtí předchůdce (cs.wiki Valdštejnové uvádí pořadí držitelů mnichovohradištské větve a roky narození a úmrtí)"
+    "note": "seznam majitelů na webu zámku (zamek-mnichovohradiste.cz): 1832-1858 (1794-1858); 1833 na zámku schůzka panovníků Svaté aliance"
    },
    {
     "owner": "valdstejnove",
@@ -62467,10 +62597,10 @@
     "person": "Arnošt František z Valdštejna",
     "from": 1858,
     "to": 1904,
-    "from_approx": true,
-    "to_approx": true,
+    "from_approx": false,
+    "to_approx": false,
     "how": "dedictvi",
-    "note": "(1821-1904), rytíř Řádu zlatého rouna; rok přechodu dopočten z úmrtí předchůdce (cs.wiki Valdštejnové uvádí pořadí držitelů mnichovohradištské větve a roky narození a úmrtí)"
+    "note": "seznam majitelů na webu zámku (zamek-mnichovohradiste.cz): 1858-1904; rytíř Řádu zlatého rouna, úspěšný podnikatel (ospamet.cz)"
    },
    {
     "owner": "valdstejnove",
@@ -62478,32 +62608,32 @@
     "person": "Arnošt Karel z Valdštejna",
     "from": 1904,
     "to": 1913,
-    "from_approx": true,
-    "to_approx": true,
+    "from_approx": false,
+    "to_approx": false,
     "how": "dedictvi",
-    "note": "(1849-1913), po vymření duchcovské linie (1901) převzal i její majetek; rok přechodu dopočten z úmrtí předchůdce (cs.wiki Valdštejnové uvádí pořadí držitelů mnichovohradištské větve a roky narození a úmrtí)"
+    "note": "seznam majitelů na webu zámku (zamek-mnichovohradiste.cz): 1904-1913 (1849-1913), po vymření duchcovské linie (1901) převzal i její majetek"
    },
    {
     "owner": "valdstejnove",
     "owner_wiki": "Valdštejnové",
     "person": "Adolf Arnošt z Valdštejna",
     "from": 1913,
-    "to": 1932,
-    "from_approx": true,
-    "to_approx": true,
+    "to": 1930,
+    "from_approx": false,
+    "to_approx": false,
     "how": "dedictvi",
-    "note": "(1868-1932), bezdětný bratr předchozího; za něj první pozemková reforma; rok přechodu dopočten z úmrtí předchůdce (cs.wiki Valdštejnové uvádí pořadí držitelů mnichovohradištské větve a roky narození a úmrtí)"
+    "note": "seznam majitelů na webu zámku (zamek-mnichovohradiste.cz): 1913-1930 (1868-1930; cs.wiki Valdštejnové uvádí úmrtí 1932), bezdětný bratr předchozího; za něj první pozemková reforma"
    },
    {
     "owner": "valdstejnove",
     "owner_wiki": "Valdštejnové",
     "person": "Karel Arnošt z Valdštejna",
-    "from": 1932,
+    "from": 1930,
     "to": 1945,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "(1897-1985), poslední držitel českých statků; 1934 pořídil náhrobek Albrechta z Valdštejna, 1941 oprava sala terrena; rok přechodu dopočten z úmrtí předchůdce (cs.wiki Valdštejnové uvádí pořadí držitelů mnichovohradištské větve a roky narození a úmrtí)"
+    "note": "seznam majitelů na webu zámku (zamek-mnichovohradiste.cz): 1930-1946 (1897-1985), poslední držitel českých statků; 1934 pořídil náhrobek Albrechta z Valdštejna, 1941 oprava sala terrena"
    },
    {
     "owner": "stat",
@@ -62514,7 +62644,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "konfiskace",
-    "note": "poslední generace Valdštejnů se hlásila k německé národnosti, majetek zkonfiskován na základě Benešových dekretů; od 1946 zde městské muzeum, dnes spravuje Národní památkový ústav"
+    "note": "poslední generace Valdštejnů se hlásila k německé národnosti, majetek zkonfiskován 1945 na základě Benešových dekretů (cs.wiki; web zámku uvádí převod na stát 1946); od 1946 zde městské muzeum, dnes spravuje Národní památkový ústav"
    }
   ],
   "events": [
@@ -62555,7 +62685,11 @@
    "https://cs.wikipedia.org/wiki/Mnichovo_Hradiště_(zámek)",
    "https://cs.wikipedia.org/wiki/Mnichovo_Hradiště",
    "https://cs.wikipedia.org/wiki/Valdštejnové",
-   "https://de.wikipedia.org/wiki/Schloss_Mnichovo_Hradiště"
+   "https://de.wikipedia.org/wiki/Schloss_Mnichovo_Hradiště",
+   "https://www.zamek-mnichovohradiste.cz/cs/o-zamku/majitele-mh",
+   "https://dspace.tul.cz/server/api/core/bitstreams/db74340c-cf69-4ea8-af6e-df7a0c7a320c/content",
+   "https://www.ospamet.cz/images/dokumenty/hradiste.pdf",
+   "https://zemesveta.cz/zamek-mnichovo-hradiste/"
   ]
  },
  "Q37001702": {

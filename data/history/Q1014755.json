@@ -6,7 +6,7 @@
   "approx": true,
   "text": "Hrad založil po polovině 13. století Zdeslav ze Šternberka, odměněný titulem královského číšníka za zásluhy při odražení vpádu Kumánů roku 1253; první písemná zmínka je z roku 1269."
  },
- "summary": "Hrad Šternberk založil po polovině 13. století Zdeslav ze Šternberka a Šternberkové jej drželi do roku 1397; Albrecht Aleš ze Šternberka, litomyšlský biskup, jej přestavěl na rezidenci. Roku 1397 jej získal Petr z Kravař, od jehož rodu jej vyženil Jan Berka z Dubé a Lipé, za jehož rodu proběhla renesanční přestavba po požáru. Roku 1570 hrad vyženila slezská knížata z Minsterberka, kteří vymřeli v polovině 17. století, a kolem roku 1699 jej koupil Jan Adam Ondřej z Lichtenštejna; rodu patřil do zestátnění roku 1945.",
+ "summary": "Hrad Šternberk založil po polovině 13. století Zdeslav ze Šternberka a Šternberkové jej drželi do roku 1397; Albrecht Aleš ze Šternberka, litomyšlský biskup, jej přestavěl na rezidenci. Od 1397 patřil Kravařům, po jejich vymření (1466) Kostkům z Postupic a od 1480 Berkům z Dubé, za nichž proběhla renesanční přestavba po požáru. Roku 1570 hrad vyženili Minsterberkové, po nich 1647 zdědili Württemberkové a 1695 jej koupil Jan Adam Ondřej z Lichtenštejna; rodu patřil do zestátnění roku 1945.",
  "owners": [
   {
    "owner": "sternberkove",
@@ -57,44 +57,66 @@
    "owner_wiki": "Páni z Kravař",
    "person": "Petr z Kravař",
    "from": 1397,
-   "to": null,
+   "to": 1466,
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "roku 1397 hrad získal (způsob nabytí zdroje neuvádějí); roku 1430 hrad obsadili husité; de.wiki: škody z husitských válek odstranil Jiří z Kravař a Strážnice († 1466); rok přechodu na Berky z Dubé ani jméno Berky, který hrad vyženil, zdroje neuvádějí (cs.wiki: Jan Berka z Dubé a Lipé)"
+   "note": "roku 1397 hrad získal Petr z Kravař (po vymření moravské větve Šternberků, sternberk.eu); roku 1430 hrad obsadili husité; obnovu v polovině 15. stol. provedl Jiří z Kravař a Strážnice; po jeho smrti 1466 hrad zdědily dcery (sternberk.eu, hrady.dejiny.cz)"
+  },
+  {
+   "owner": "kostkove-z-postupic",
+   "owner_wiki": null,
+   "person": "Albrecht Kostka z Postupic (manžel Ludmily z Kravař)",
+   "from": 1466,
+   "to": 1480,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "snatek",
+   "note": "sternberk.eu: po smrti Jiřího z Kravař 1466 získala panství dcera Ludmila, provdaná za Albrechta Kostku z Postupic; hrady.dejiny.cz naopak uvádí, že už 1466 hrad s Ludmilou vyženil Jan Berka z Dubé a Lipé (Kostkové nezmiňuje)"
   },
   {
    "owner": "berkove-z-dube",
    "owner_wiki": "Berkové z Dubé",
    "person": "Jan Berka z Dubé a Lipé",
-   "from": null,
+   "from": 1480,
    "to": 1570,
    "from_approx": false,
    "to_approx": false,
    "how": "snatek",
-   "note": "hrad od Kravařů vyženil; za rodu Berků proběhla po požáru renesanční přestavba s Vizitkovým sálem a hráňovými klenbami (16. stol.), vybudován systém budov v podhradí; konec držby 1570 podle cs.wiki (přechod na Minsterberky)"
+   "note": "sternberk.eu: po smrti Albrechta Kostky se Ludmila provdala za Jana Berku z Dubé a Lipé a panství přešlo na Berky (1480-1570); hrady.dejiny.cz uvádí vyženění již 1466; po požáru 1538 renesanční přestavba s Vizitkovým sálem a hráňovými klenbami, vybudován systém budov v podhradí; konec držby 1570 (sňatek Kateřiny Berkové s Karlem z Minsterberka)"
   },
   {
    "owner": "minsterberkove",
    "owner_wiki": "Minsterberkové",
    "person": "slezská knížata z Minsterberka, potomci Jiřího z Poděbrad",
    "from": 1570,
-   "to": 1650,
+   "to": 1647,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "snatek",
-   "note": "přestavěný hrad roku 1570 vyženili; za třicetileté války hrad značně utrpěl; držení trvalo do vymření rodu v polovině 17. století (rok 1650 je z formulace zdroje; přesný rok neuveden); následné držení do koupě Lichtenštejny zdroje neuvádějí"
+   "note": "1570 přestavěný hrad vyženil kníže Karel II. z Minsterberka s Kateřinou Berkovou; za třicetileté války hrad značně utrpěl (1626 dobyl Mansfeld, 1643-1650 švédská posádka); knížata drželi do smrti Karla II. Fridricha 1647 (sternberk.eu: Minsterberkové 1570-1647; cs.wiki: do vymření rodu v polovině 17. stol.)"
+  },
+  {
+   "owner": "wurttemberkove",
+   "owner_wiki": null,
+   "person": "Alžběta Marie z Minsterberka a Sylvius Nimrod, kníže württemberský (poté Württemberkové)",
+   "from": 1647,
+   "to": 1695,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "hrady.dejiny.cz: po smrti Karla II. Fridricha 1647 zdědila panství dcera Alžběta Marie, provdaná za Sylvia Nimroda Württemberského; hrad zpustošený a několikrát vyhořelý, rodu chyběly prostředky na obnovu (web hradu)"
   },
   {
    "owner": "lichtenstejnove",
    "owner_wiki": "Lichtenštejnové",
    "person": "kníže Jan Adam Ondřej z Lichtenštejna",
-   "from": 1699,
+   "from": 1695,
    "to": 1945,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "koupil kolem roku 1699 (web hradu NPÚ; cs.wiki: přelom 17. a 18. stol., de.wiki: kolem 1695); hrad po dlouhém chátrání po roce 1886 regotizován za Jana II. podle projektu Karla Gandolpha Kaysera, 1907-1909 založen lesopark (Albert Esche)"
+   "note": "web hradu: 1695 koupil od Württemberků hrad i panství Šternberk a Pňovice za 504 000 zlatých (kolem 1699 podle shrnutí webu NPÚ a cs.wiki, přelom 17. a 18. stol.; sternberk.eu uvádí 1693, de.wiki kolem 1695; hrady.dejiny.cz: části rozděleného panství skupoval 1695-1704); po dlouhém chátrání po roce 1886 regotizace za Jana II. podle projektu Karla Gandolpha Kaysera, 1907-1909 lesopark (Albert Esche)"
   },
   {
    "owner": "stat",
@@ -130,12 +152,20 @@
    "text": "hrad obsadili husité"
   },
   {
+   "year": 1466,
+   "text": "smrtí Jiřího z Kravař hrad přechází na jeho dceru Ludmilu a její manžele (Kostkové z Postupic, poté Berkové z Dubé)"
+  },
+  {
    "year": 1570,
    "text": "hrad sňatkem přechází na slezská knížata z Minsterberka"
   },
   {
-   "year": 1699,
-   "text": "hrad koupil kníže Jan Adam Ondřej z Lichtenštejna (kolem 1699; de.wiki kolem 1695)"
+   "year": 1647,
+   "text": "smrtí Karla II. Fridricha z Minsterberka panství zdědila dcera Alžběta Marie, provdaná za Württemberka"
+  },
+  {
+   "year": 1695,
+   "text": "hrad a panství koupil od Württemberků Jan Adam Ondřej z Lichtenštejna (kolem 1699 podle webu NPÚ, 1693 podle sternberk.eu)"
   },
   {
    "year": 1886,
@@ -153,6 +183,9 @@
  "sources": [
   "https://cs.wikipedia.org/wiki/Šternberk_(hrad)",
   "https://de.wikipedia.org/wiki/Burg_Šternberk",
-  "https://www.hrad-sternberk.cz/cs/o-hradu/historie"
+  "https://www.hrad-sternberk.cz/cs/o-hradu/historie",
+  "https://www.sternberk.eu/o-sternberku/historie-mesta/chronologicky-prehled-dejin/",
+  "http://hrady.dejiny.cz/sternberk/",
+  "https://www.hrad-sternberk.cz/cs/o-hradu/lichtenstejni-na-hradu-sternberk"
  ]
 }

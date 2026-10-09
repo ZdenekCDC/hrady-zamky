@@ -138,73 +138,95 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "koupil za 300 000 zlatých rýnských a připojil k fideikomisu rodu (Brtnice, Černá, Německý Rudolec); cs.wiki uvádí u Collaltů jen roky, kdy jsou jednotliví držitelé zmiňováni (1775, 1794, 1823, 1847, 1865, 1928), přesné nástupy neuvádí"
+   "note": "koupil 1768 za 300 000 zlatých rýnských a připojil k fideikomisu rodu (Brtnice, Černá, Německý Rudolec); jeho jediný syn Jan Nepomuk zemřel nezletilý 17. 11. 1772, rok smrti Tomáše zdroje neuvádějí (wikiknihy Dějiny Korolup)"
   },
   {
    "owner": "collaltove",
    "owner_wiki": "Collaltové",
-   "person": "František Collalto",
+   "person": "František Augustin Collalto",
    "from": null,
-   "to": null,
+   "to": 1779,
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "uváděn 1775; přesné období držby zdroje neuvádějí"
+   "note": "bratr Tomáše Vinciguerry; cs.wiki jej uvádí 1775; zemřel 1779 bez nástupce, začátek držby zdroje neuvádějí (wikiknihy Dějiny Korolup)"
   },
   {
    "owner": "collaltove",
    "owner_wiki": "Collaltové",
-   "person": "Odoard Collalto",
+   "person": "Antonín Oktavián I. Collalto",
    "from": null,
-   "to": null,
+   "to": 1793,
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "uváděn 1794; přesné období držby zdroje neuvádějí"
+   "note": "z mladší rodové linie, fideikomisní panství mu připadlo po Františku Augustinovi; 1781 obdržel knížecí titul; zemřel 29. 1. 1793 (wikiknihy Dějiny Korolup)"
   },
   {
    "owner": "collaltove",
    "owner_wiki": "Collaltové",
-   "person": "Antonín Oktavián Collalto",
-   "from": null,
-   "to": null,
+   "person": "Eduard (Odoard) III. Collalto",
+   "from": 1793,
+   "to": 1825,
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "uváděn 1823; podle Volného 4. 7. 1825 mu majetek odstoupil otec Eduard (zdroj je nejasný, otec je uváděn jako zemřelý 1833)"
+   "note": "syn Antonína Oktaviána I. (1748-1833; cs.wiki uvádí Odoarda 1794); 1822 povýšen do knížecího stavu (NPÚ); 4. 7. 1825 postoupil majetek synovi Antonínu Oktaviánovi (cs.wiki podle Volného, wikiknihy)"
   },
   {
    "owner": "collaltove",
    "owner_wiki": "Collaltové",
-   "person": "Eduard Collalto (kníže)",
-   "from": null,
-   "to": null,
+   "person": "Antonín Oktavián Jan Collalto (kníže)",
+   "from": 1825,
+   "to": 1854,
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "uváděn 1847; knížecí titul (omezený na držitele moravských panství) obdržel Eduard III. 1822 (NPÚ)"
+   "note": "1783-1854, cs.wiki jej uvádí 1823; fideikomis převzal od otce 4. 7. 1825; zemřel 23. 11. 1854 v Brtnici"
   },
   {
    "owner": "collaltove",
    "owner_wiki": "Collaltové",
-   "person": "Emanuel Collalto (kníže)",
-   "from": null,
-   "to": null,
+   "person": "Eduard IV. Alfons Collalto (kníže)",
+   "from": 1854,
+   "to": 1862,
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "uváděn 1865; přesné období držby zdroje neuvádějí"
+   "note": "1810-1862, cs.wiki uvádí knížete Eduarda 1847; rok smrti wikiknihy uvádějí 1861 i 1862 (24. 3.)"
+  },
+  {
+   "owner": "collaltove",
+   "owner_wiki": "Collaltové",
+   "person": "Emanuel Josef Antonín Collalto (kníže)",
+   "from": 1862,
+   "to": 1924,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "narozen 1854 v Uherčicích, do dospělosti panství řídila matka Karolína; bezdětný, zemřel 11. 12. 1924 (wikiknihy)"
   },
   {
    "owner": "collaltove",
    "owner_wiki": "Collaltové",
    "person": "Manfred Collalto (kníže)",
+   "from": 1925,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "1870-1940 (zemřel v Uherčicích); roku 1925 převzal fideikomis po Emanuelovi; cs.wiki jej uvádí 1928"
+  },
+  {
+   "owner": "collaltove",
+   "owner_wiki": "Collaltové",
+   "person": "Oktavián Rombald Collalto",
    "from": null,
    "to": 1945,
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "uváděn 1928; majetek zkonfiskován 1945"
+   "note": "syn Manfreda, poslední majitel z rodu (NPÚ); rok nástupu zdroje neuvádějí (otec zemřel 1940); majetek zkonfiskován 1945-1946"
   },
   {
    "owner": "stat",
@@ -258,6 +280,7 @@
  ],
  "sources": [
   "https://cs.wikipedia.org/wiki/Uherčice_(zámek)",
-  "https://www.zamek-uhercice.cz/cs/o-zamku/historie"
+  "https://www.zamek-uhercice.cz/cs/o-zamku/historie",
+  "https://cs.wikibooks.org/wiki/Dějiny_Korolup/Fideikomisní_panství_a_velkostatek_Uherčice"
  ]
 }

@@ -39,7 +39,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "lenni",
-   "note": "páni z Cimburka přenechali zástavní právo příbuzným Jiřího z Poděbrad; páni z Kunštátu byli jen zástavními držiteli, ale nakládali s klášterními statky jako s vlastními; rok převzetí neuveden"
+   "note": "páni z Cimburka přenechali zástavní právo příbuzným Jiřího z Poděbrad; páni z Kunštátu byli jen zástavními držiteli, ale nakládali s klášterními statky jako s vlastními; rok převzetí neuveden; hrady.cz: před 1549 postoupil vizovické zboží Václavu z Boskovic Zikmund z Kunštátu; pidifrk.cz uvádí převzetí pány z Kunštátu 1483, en.wiki 1485 (klášter zrušen za jejich vlády)"
   },
   {
    "owner": "boskovicove",
@@ -50,7 +50,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "koupil panství od pánů z Kunštátu roku 1549; zemřel 1554; rok prodeje dalším majitelům 1568 podle cs.wiki"
+   "note": "koupil panství od pánů z Kunštátu roku 1549; zemřel 1554; rok prodeje dalším majitelům 1568 podle cs.wiki; hrady.cz: Václav z Boskovic koupil před 1549 (od Zikmunda z Kunštátu)"
   },
   {
    "owner": "pani-z-rican",
@@ -61,29 +61,29 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "hned po koupi zahájil stavbu renesančního zámku dokončeného 1570; zemřel 1582"
+   "note": "hned po koupi zahájil stavbu renesančního zámku dokončeného 1570; zemřel 1582; rok koupě zdroje neladí: 1568 (cs.wiki), 1567 (pidifrk.cz, en.wiki), 1569 (hrady.cz); prodej Anně 1578 (hrady.cz)"
   },
   {
    "owner": "zerotinove",
    "owner_wiki": "Žerotínové",
    "person": "Anna ze Žerotína, rozená Kropáčová z Nevědomí",
    "from": 1578,
-   "to": null,
+   "to": 1593,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "roku 1578 koupila Vizovice; rok, kdy panství od jejích dětí získal Tetour, cs.wiki neuvádí"
+   "note": "roku 1578 koupila Vizovice od Zdeňka Kavky z Říčan (cs.wiki, hrady.cz; pidifrk.cz uvádí 1574); od jejích dětí získal panství Tetour, rok 1593 podle hrady.cz"
   },
   {
    "owner": "tetourove-z-tetova",
    "owner_wiki": "Tetourové z Tetova",
    "person": "Václav Tetour z Tetova",
-   "from": null,
+   "from": 1593,
    "to": 1594,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "panství získal od dětí Anny ze Žerotína (rok neuveden); v roce 1594 se novým majitelem stal Emerich Dóczy"
+   "note": "hrady.cz: 1593 získal zámek s panstvím Václav Tetour z Tetova a již 1594 byl pro zadlužení nucen Vizovice prodat Emerichu Dóczymu; pidifrk.cz uvádí Tetoury od 1584"
   },
   {
    "owner": "doczyove",
@@ -116,7 +116,7 @@
    "from_approx": true,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "sestra a dědička Melichara Dóczyho, zemřela 1682"
+   "note": "sestra a dědička Melichara Dóczyho, zemřela 1682; hrady.cz: poslední mužský Dóczy Ladislav zemřel 12. 5. 1660 a panství zdědila Zuzana (cs.wiki ji označuje za dědičku bratra Melichara); Zuzana panství postoupila Gollenovi s doživotním užíváním"
   },
   {
    "owner": "gollenove",
@@ -127,7 +127,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "sekretář dvorské komory, který zneužitím nejasných majetkových poměrů přiměl Zuzanu Majthényiovou přepsat závěť v jeho prospěch; zemřel 1686; zámecký web NPÚ uvádí, že Vizovice od císaře koupil už roku 1678 (rok 1682 vychází z úmrtí Zuzany podle cs.wiki)"
+   "note": "sekretář dvorské komory, který zneužitím nejasných majetkových poměrů přiměl Zuzanu Majthényiovou přepsat závěť v jeho prospěch; zemřel 1686; zámecký web NPÚ uvádí, že Vizovice od císaře koupil už roku 1678 (rok 1682 vychází z úmrtí Zuzany podle cs.wiki); NPÚ i pidifrk.cz uvádějí koupi Gollenem od císaře Leopolda 1678; hrady.cz: spor Gollenů se Zuzaniným příbuzenstvem trval do 1710"
   },
   {
    "owner": "gollenove",
@@ -192,7 +192,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "synovec Marie Františky Blümegenové; ve Vizovicích se narodily všechny jeho děti; zámecký web NPÚ uvádí přechod zámku na Stillfriedy až 1815"
+   "note": "synovec Marie Františky Blümegenové; ve Vizovicích se narodily všechny jeho děti; zámecký web NPÚ uvádí přechod zámku na Stillfriedy až 1815; pidifrk.cz také uvádí Stillfriedy od 1815; hrady.cz: Marie Františka Stillfriedová zdědila panství 1813 a Stillfriedové držely zámek do 1945"
   },
   {
    "owner": "stillfriedove-z-ratenic",
@@ -278,6 +278,8 @@
  ],
  "sources": [
   "https://cs.wikipedia.org/wiki/Vizovice_(zámek)",
-  "https://www.zamek-vizovice.cz/cs/o-zamku/historie"
+  "https://www.zamek-vizovice.cz/cs/o-zamku/historie",
+  "https://www.hrady.cz/zamek-vizovice-zlin/texty?tid=3531",
+  "https://www.pidifrk.cz/detail-pidifrku.php?p=508"
  ]
 }

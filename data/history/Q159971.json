@@ -6,29 +6,40 @@
   "approx": true,
   "text": "Kolem roku 1240 založil hrad Havel z Lemberka, příslušník rodu Markvarticů, a stal se tak zakladatelem rodu Lemberků; první listinné zmínky pocházejí z let 1241-1249."
  },
- "summary": "Hrad Lemberk založil kolem roku 1240 Havel z Lemberka z rodu Markvarticů a jeho potomci jej drželi do konce 14. nebo počátku 15. století. Za husitských válek se majitelé rychle střídali, od roku 1430 panství držel rod Berků z Dubé a po nich Elsnicové (od 1471) a dále páni z Donína. Od roku 1518 patřil Ilburkům, poté Kurzbachům z Trachenberka, kteří kolem poloviny 16. století hrad přestavěli na renesanční zámek; po Berkovi z Dubé a pánech z Donína jej po roce 1620 získal Albrecht z Valdštejna a roku 1634 přešel na Jana Rudolfa z Bredy. Roku 1726 jej koupil Filip Josef z Gallasu, po něm jej zdědili Clam-Gallasové, od roku 1930 Auerspergové, a roku 1945 byl zestátněn.",
+ "summary": "Hrad Lemberk založil kolem roku 1240 Havel z Lemberka z rodu Markvarticů a jeho potomci jej drželi do konce 14. století (1398 nebo 1408). Po krátké držbě Jarka ze Železnice a Vartenberků jej od asi 1430 drželi Berkové z Dubé, od 1471 Elsnicové, od 1518 Ilburkové a po nich Kurzbachové z Trachenberka, kteří hrad přestavěli na renesanční zámek. Od 1581 patřil znovu Berkům, od 1599 pánům z Donína; po Bílé hoře jej 1623 koupil Albrecht z Valdštejna a od 1634 patřil Bredům, kteří jej raně barokně přestavěli. Roku 1726 jej koupil Filip Josef z Gallasu, po něm jej zdědili Clam-Gallasové, od roku 1930 Auerspergové, a roku 1945 byl zestátněn.",
  "owners": [
   {
    "owner": "lemberkove",
    "owner_wiki": "Lemberkové",
    "person": "Havel z Lemberka",
    "from": 1240,
-   "to": 1408,
+   "to": 1398,
    "from_approx": true,
-   "to_approx": true,
+   "to_approx": false,
    "how": "zalozeni",
-   "note": "založil hrad kolem 1240 (první listiny 1241-1249); rod Lemberků (větev Markvarticů) jej držel po několik generací; cs.wiki uvádí Gottfrieda Haugvice z Lemberka jako majitele ještě 1408, de.wiki a web zámku označují za konec držby rodu 1398 (Hasko z Lemberka † 1398, resp. konec 14. století)"
+   "note": "založil hrad kolem 1240 (první listiny 1241-1249); rod Lemberků (větev Markvarticů) jej držel do konce 14. stol.; poslední majitel Hašek z Lemberka zemřel 1398 v konfliktu s Janem z Vartemberka (zameklemberk.cz, de.wiki); cs.wiki uvádí ještě 1408 jako majitele Gottfrieda Haugvice z Lemberka - rozpor 1398 vs. 1408"
   },
   {
-   "owner": "neznamo",
+   "owner": "z-zeleznice",
    "owner_wiki": null,
+   "person": "Jarek ze Železnice",
+   "from": 1398,
+   "to": 1401,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "zameklemberk.cz: po Haškově smrti nepřešlo dědictví na dceru Kateřinu, ale získal je Jarek ze Železnice; užíval ho do 1401"
+  },
+  {
+   "owner": "vartenberkove",
+   "owner_wiki": "Vartenberkové",
    "person": null,
-   "from": 1408,
+   "from": 1401,
    "to": 1430,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": true,
    "how": "neznamo",
-   "note": "za husitských válek se majitelé rychle střídali, většinou z lužické a saské šlechty (de.wiki, web zámku); roku 1427 hrad obsadili husité pod Alešem ze Žemberka; konkrétní držitele zdroje nejmenují"
+   "note": "zameklemberk.cz: 1401 majetkem Vartenberků; pruvodce.com též uvádí Vartenberky po Markvarticích; v 15. stol. se podle zámku a de.wiki majitelé často střídali (lužická a saská šlechta); 1427 hrad dobyli husité (Aleš ze Žemberka); konec 1430 podle cs.wiki (převzali Berkové)"
   },
   {
    "owner": "berkove-z-dube",
@@ -39,7 +50,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "jine",
-   "note": "panství převzal rod Berků z Dubé; roku 1471 jeden z bratrů Lemberk prodal"
+   "note": "panství převzal rod Berků z Dubé (kolem 1430); roku 1471 jeden z bratrů Lemberk prodal (zameklemberk.cz uvádí 1470 Jana z Elsnic)"
   },
   {
    "owner": "elsnicove-z-elsnic",
@@ -94,29 +105,29 @@
    "from_approx": false,
    "to_approx": false,
    "how": "dedictvi",
-   "note": "web zámku (NPÚ): roku 1550 zdědil panství Jindřich Kurzbach z Trachenberka; obnovil zaniklé vesnice, založil další, mlýny, pily, hamr a pivovar; kolem 1570 přestavěl hrad na renesanční zámek (de.wiki); de.wiki pozdější Annin údaj (Anna † 1554) a rok 1550 se liší, rok 1581 podle de.wiki"
+   "note": "web zámku (NPÚ): 1550 zdědil panství Jindřich Kurzbach z Trachenberka (manžel Anny, dcery Viléma z Ilburka; hrady.dejiny.cz); obnovil zpustlé vsi, mlýny, pily, hamr a pivovar; kolem 1570 přestavba na renesanční zámek (de.wiki); rok 1581 podle de.wiki a hrady.dejiny.cz"
   },
   {
    "owner": "berkove-z-dube",
    "owner_wiki": "Berkové z Dubé",
-   "person": null,
+   "person": "Jindřich Berka z Dubé (od 1597 Volf, poté Hynek)",
    "from": 1581,
-   "to": 1600,
+   "to": 1599,
    "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "de.wiki: 1581 získali Berkové z Dubé a Nového Falkenburku; cs.wiki uvádí po Kurzbachovi Jindřicha Berku z Dubé a přestavbu po roce 1550, což si s ostatními zdroji odporuje (přestavbu připisují Kurzbachovi)"
+   "how": "koupe",
+   "note": "hrady.dejiny.cz a zameklemberk.cz: 1581 koupil Jindřich Berka z Dubé (majitel poloviny Jablonného), † 1597; po něm druhý syn Volf († po dvou letech), Hynek pak 1599 Lemberk prodal; cs.wiki uvádí přestavbu po roce 1550, což si s ostatními zdroji odporuje"
   },
   {
    "owner": "pani-z-donina",
    "owner_wiki": "Páni z Donína",
-   "person": "Jan z Donína",
-   "from": 1600,
+   "person": "Vratislav z Donína (od 1599), od 1608 Jan z Donína",
+   "from": 1599,
    "to": 1623,
    "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "de.wiki: 1600 přešel na purkrabí z Donína; počátkem 17. století zvýšili zámecké křídlo o patro, kolem 1610 zhotoven Bajkový sál objednaný Janem z Donína"
+   "how": "koupe",
+   "note": "hrady.dejiny.cz: 1599 koupil Vratislav z Donína (johanita, † asi 1606), pak bratři Ferdinand, Jaroslav a Jan, kterému 1608 Lemberk postoupili; Jan se zapojil do stavovského povstání, majetek po Bílé hoře zkonfiskován; kolem 1610 Bajkový sál objednaný Janem z Donína; počátkem 17. stol. zvýšeno křídlo o patro"
   },
   {
    "owner": "valdstejnove",
@@ -127,7 +138,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "de.wiki: 1623 koupě; web zámku (NPÚ): panství získal po roce 1620; cs.wiki Valdštejna nezmiňuje"
+   "note": "hrady.dejiny.cz: Albrecht z Valdštejna jako hlavní věřitel 1623 koupil panství od císařské komory (web zámku: po roce 1620 získal) a začlenil do frýdlantského vévodství; 1627 jej udělil jako léno Adamu Vilémovi Schelhardovi z Doronuortu, po jeho smrti Janu Rudolfovi Bredovi; cs.wiki Valdštejna nezmiňuje"
   },
   {
    "owner": "bredove",
@@ -137,8 +148,8 @@
    "to": 1726,
    "from_approx": false,
    "to_approx": false,
-   "how": "koupe",
-   "note": "cs.wiki: sňatkem Jana Rudolfa z Bredy s Kateřinou z Donína; de.wiki: koupil krátce před svou smrtí od Valdštejna (Valdštejn † 1634), web zámku: po jeho smrti přešel majetek na Bredu - zdroje se rozcházejí v způsobu nabytí; v letech 1660-1680 za Bredů přestavba do raně barokní podoby"
+   "how": "lenni",
+   "note": "způsob nabytí sporný: cs.wiki - sňatek Jana Rudolfa z Bredy s Kateřinou z Donína roku 1634; de.wiki - koupě od Valdštejna; hrady.dejiny.cz - Breda držel panství jako léno frýdlantského vévodství po Schelhardovi a 1634 (po Valdštejnově pádu) je získal do dědičného vlastnictví (manželka Anna Kateřina z Donína); web zámku: po Valdštejnově smrti 1634 přešel majetek na Bredu; 1660-1680 raně barokní přestavba za Kryštofa Rudolfa; poslední Hartvík Mikuláš † 1723, dědicové prodali 1726"
   },
   {
    "owner": "gallasove",
@@ -195,6 +206,10 @@
    "text": "první jistý listinný doklad - Havel z Lemberka a Jablonného použil ve svém přídomku jméno hradu"
   },
   {
+   "year": 1398,
+   "text": "zemřel Hašek z Lemberka, poslední z rodu Lemberků; panství získal Jarek ze Železnice, od 1401 Vartenberkové"
+  },
+  {
    "year": 1427,
    "text": "hrad obsadili husité pod vedením Aleše ze Žemberka"
   },
@@ -203,12 +218,20 @@
    "text": "Jindřich Kurzbach z Trachenberka zdědil panství a v dalších desetiletích zámek přestavěl na renesanční (kolem 1570 podle de.wiki)"
   },
   {
+   "year": 1581,
+   "text": "panství koupil Jindřich Berka z Dubé"
+  },
+  {
    "year": 1623,
-   "text": "panství získal Albrecht z Valdštejna, roku 1634 přešlo na Jana Rudolfa z Bredy"
+   "text": "Albrecht z Valdštejna koupil panství od císařské komory; 1627 jej udělil jako léno Schelhardovi a poté Janu Rudolfovi Bredovi"
   },
   {
    "year": 1634,
-   "text": "zámek přešel na Jana Rudolfa z Bredy (podle cs.wiki sňatkem s Kateřinou z Donína, podle de.wiki koupí od Valdštejna)"
+   "text": "Jan Rudolf Breda získal panství do dědičného vlastnictví (podle cs.wiki sňatkem s Kateřinou z Donína, podle de.wiki koupí od Valdštejna, podle hrady.dejiny.cz jako dosavadní léník)"
+  },
+  {
+   "year": 1680,
+   "text": "Lembersko se připojilo k nevolnickému povstání"
   },
   {
    "year": 1726,
@@ -230,6 +253,9 @@
  "sources": [
   "https://cs.wikipedia.org/wiki/Lemberk",
   "https://de.wikipedia.org/wiki/Lemberk",
-  "https://www.zamek-lemberk.cz/cs/o-zamku/historie"
+  "https://www.zamek-lemberk.cz/cs/o-zamku/historie",
+  "https://zameklemberk.cz/historie/",
+  "http://hrady.dejiny.cz/lemberk/index.htm",
+  "http://www.pruvodce.com/lemberk/"
  ]
 }
