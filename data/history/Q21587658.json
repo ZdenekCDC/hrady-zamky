@@ -17,7 +17,7 @@
    "from_approx": true,
    "to_approx": true,
    "how": "zalozeni",
-   "note": "založen spolu s městem (1262-1265 podle hrady.cz, citujícího muzeum Chodska a Durdíka) jako sídlo královských purkrabí a chodského rychtáře; v 16. stol. byli purkrabími Švamberkové, kteří Chody drželi v zástavě a roku 1572 se jich vzdali (turistickyatlas.cz); přesný rok přechodu z koruny na město zdroje neuvádějí, rok 1592 (požár) je jen orientační"
+   "note": "založen spolu s městem (1262-1265 podle hrady.cz, citujícího muzeum Chodska a Durdíka) jako sídlo královských purkrabí a chodského rychtáře; v 16. stol. byli purkrabími Švamberkové, kteří Chody drželi v zástavě a roku 1572 se jich vzdali (turistickyatlas.cz); přesný rok přechodu z koruny na město zdroje neuvádějí, rok 1592 (požár) je jen orientační; AMCR (Archeologický informační systém) vede držbu 1526-1592 jako Habsburkové (tj. koruna); Chody (ne hrad) drželi Švamberkové v zástavě do 1572 a poté město Domažlice (1579-1621, cs.wiki Chodské povstání)"
   },
   {
    "owner": "mesto",
@@ -28,7 +28,7 @@
    "from_approx": true,
    "to_approx": false,
    "how": "neznamo",
-   "note": "po požáru 1592 hrad zpustl a podle webu Haus der Bayerischen Geschichte zůstal v majetku města; způsob ani přesný rok převzetí městem zdroje neuvádějí"
+   "note": "po požáru 1592 hrad zpustl a podle Haus der Bayerischen Geschichte 'zůstal v majetku města'; rok 1592 je tedy jen rokem požáru, rok převzetí městem žádný zdroj výslovně neuvádí (orientační); způsob převzetí neznámý"
   },
   {
    "owner": "lamingerove-z-albenreuthu",
@@ -36,10 +36,10 @@
    "person": "Wolf Vilém Laminger z Albenreuthu (Lomikar)",
    "from": 1621,
    "to": 1671,
-   "from_approx": false,
+   "from_approx": true,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "po Bílé hoře 1621 zkonfiskován měšťanům za účast na stavovském povstání a další majitelem se stal Laminger (turistickyatlas.cz, komerční zdroj; Chodsko jim bylo zastaveno 1621); po něm spor vedl jeho syn Volf Maxmilián Laminger; cs.wiki spor datuje obecně do 17. stol.; rod nemá článek na cs.wiki"
+   "note": "rok 1621 pochází z turistickyatlas.cz (komerční): po Bílé hoře zkonfiskován měšťanům a majitelem se stal Laminger; cs.wiki Chodské povstání uvádí k 1621 jen zástavu Chodska Wolfu Vilému Lamingerovi z Albenreuthu (ne hradu); Haus der Bayerischen Geschichte hovoří jen o sporu mezi městem a Lamingerem o hrad po 1620 a hrad vedle Lamingera dále označuje za majetek města - držba Lamingera tedy nemusela být plnou držbou, rozpor zdrojů; po něm spor vedl jeho syn Volf Maxmilián Laminger; rod nemá článek na cs.wiki"
   },
   {
    "owner": "mesto",
@@ -92,6 +92,7 @@
   "https://archiv.hdbg.de/boehmen/treffpunkte/treffpunkte-texte-cz/treffpunkt-taus.htm",
   "https://www.hrady.cz/hrad-chodsky-hrad/texty?pos=300&tid=1281",
   "https://turistickyatlas.cz/vse/misto/7798_chodsky-hrad-domazlice.html",
-  "https://www.domazlice.eu/o-domazlicich/pamatky/pamatky-v-domazlicich/chodsky-hrad-v-domazlicich-243cs.html"
+  "https://www.domazlice.eu/o-domazlicich/pamatky/pamatky-v-domazlicich/chodsky-hrad-v-domazlicich-243cs.html",
+  "https://cs.wikipedia.org/wiki/Chodské_povstání"
  ]
 }

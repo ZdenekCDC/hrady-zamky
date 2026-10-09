@@ -5,7 +5,7 @@
  "summary": "Starý zámek v Dačicích dal v letech 1572-1579 postavit Albrecht Krajíř z Krajku s manželkou Magdalénou z Vřesovic jako náhradu za tvrz. Už roku 1591 je zmíněn nový zámek a starý sloužil jako sídlo správy panství. Od roku 1939 v něm sídlí městská správa; dnes patří městu Dačice a je v něm též městské muzeum.",
  "owners": [
   {"owner": "krajirove-z-krajku", "owner_wiki": "Krajířové z Krajku", "person": "Albrecht Krajíř z Krajku", "from": 1572, "to": 1610, "from_approx": false, "to_approx": false, "how": "zalozeni", "note": "Krajířové dačické panství drželi od 1459; rod vymřel po meči roku 1600, roku 1610 Kateřina z Krajku panství prodala Vilému Dubskému z Třebomyslic"},
-  {"owner": "neznamo", "owner_wiki": null, "person": "majitelé dačického panství", "from": 1610, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "zdroje neuvádějí majitele samotné budovy; panství držel Dubský z Třebomyslic (1610), Berkové z Dubé (1623), Fürstenberkové (1644), Vrbnové (1714), Ostein (1728), Dalberg (1809). Datum přechodu na město zdroje neuvádějí (správa města zde od 1939)"},
+  {"owner": "neznamo", "owner_wiki": null, "person": "majitelé dačického panství", "from": 1610, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "zdroje neuvádějí majitele samotné budovy; panství držel (podle zamek-dacice.cz) Vilém Dubský z Třebomyslic 1610-1620, císař Ferdinand II. 1620-1622 (konfiskace), Berkové z Dubé 1623-1644, Fürstenberkové 1644-1673, Berkové 1673-1714, Vrbnové 1714-1728, Osteinové 1728-1809, Dalbergové 1809-1940 (Karl Maxmilian 1814-1859; zdroje se rozcházejí v zápisu jména, web zámku Karl Maximilian, dačické památky Karl Anton Maximilian), Franz Karl zu Salm-Salm 1940-1945 jako dědic po Johannu Dalbergovi (zemřel 1940), 1945 velkostatek zestátněn (web zámku; jiné zdroje uvádějí rod Salm-Salm bez jména). Žádný druhý zdroj nesděluje, kdy starý zámek přešel na město; zdroje uvádějí jen úpravu pro radnici 1939 (turistika.dacice.cz, hrady.cz)"},
   {"owner": "mesto", "owner_wiki": null, "person": "město Dačice", "from": null, "to": null, "from_approx": false, "to_approx": false, "how": "neznamo", "note": "současný majitel dle cs.wiki; rok převodu neuveden, městská správa sídlí v budově od 1939 (po přestávce 1960-1991 znovu od 1991)"}
  ],
  "events": [
@@ -16,5 +16,5 @@
   {"year": 1991, "text": "městský úřad se vrací do budovy zámku"},
   {"year": 1992, "text": "poslední celková oprava, obnova sgrafit"}
  ],
- "sources": ["https://cs.wikipedia.org/wiki/Dačice_(starý_zámek)", "https://www.hrady.cz/zamek-dacice-stary-zamek", "https://www.dacice.cz/mesto/historie/"]
+ "sources": ["https://cs.wikipedia.org/wiki/Dačice_(starý_zámek)", "https://www.hrady.cz/zamek-dacice-stary-zamek", "https://www.dacice.cz/mesto/historie/", "https://zamek-dacice.cz/cs/o-zamku/majitele-zamku", "https://turistika.dacice.cz/top-z-dacic/pamatky-a-muzea-1/pamatky/stary-zamek/"]
 }

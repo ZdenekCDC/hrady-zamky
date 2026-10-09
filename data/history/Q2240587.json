@@ -6,7 +6,7 @@
   "approx": true,
   "text": "První písemná zmínka o gotické tvrzi pochází z roku 1372, kdy ji od Gery Galmové koupil pražský měšťan Jan Zeiselmeister; přesná doba založení tvrze není v článku uvedena."
  },
- "summary": "Gotická tvrz ve Ctěnicích je poprvé doložena roku 1372, kdy ji koupil pražský měšťan Jan Zeiselmeister. Od roku 1502 ji přes sto let drželi Hrzánové z Harasova, kteří ji kolem poloviny 16. století přestavěli na renesanční zámek, po nich se majitelé (mj. Myškové ze Žlunic, Zajícové z Hazmburka, Valdštejnové) často střídali až do nástupu Windischgrätzů, kteří panství drželi do roku 1803 a nechali zámek ve 30. letech 18. století přestavět v klasicizujícím barokním stylu. Od roku 1849 patřil podnikatelské rodině Schoellerů, roku 1945 byl znárodněn a připadl Státnímu statku hl. m. Prahy; od roku 1993 je vlastníkem Hlavní město Praha, od roku 2012 areál spravuje Muzeum Prahy.",
+ "summary": "Gotická tvrz ve Ctěnicích je poprvé doložena roku 1372, kdy ji koupil pražský měšťan Jan Zeiselmeister. Od roku 1502 ji přes sto let drželi Hrzánové z Harasova, kteří ji kolem poloviny 16. století přestavěli na renesanční zámek, po nich se majitelé často střídali (Myška ze Žlunic 1572, Hostakovští z Arklebic, Zajícové z Hazmburka, Boryňové ze Lhoty 1604-1626, Valdštejnové 1626-1652, Losyové z Losinthalu 1652-1781) až do nástupu Windischgrätzů (1781-1803), za nichž byl zámek přestavěn v klasicizujícím barokním stylu; po 1803 se majitelé opět často měnili. Od roku 1849 patřil podnikatelské rodině Schoellerů, roku 1945 byl znárodněn a připadl Státnímu statku hl. m. Prahy; od roku 1993 je vlastníkem Hlavní město Praha, od roku 2012 areál spravuje Muzeum Prahy.",
  "owners": [
   {
    "owner": "soukromnik",
@@ -28,18 +28,18 @@
    "from_approx": false,
    "to_approx": true,
    "how": "koupe",
-   "note": "pražský měšťan, koupil 1372 od vdovy po Volflinu Galmovi; konec držby není uveden"
+   "note": "pražský měšťan, koupil 1372 od Gery, vdovy po Volflinu Galmovi; konec držby není uveden (tvrz byla ve 14. stol. v okruhu pražských měšťanů)"
   },
   {
    "owner": "mesto",
    "owner_wiki": null,
    "person": "pražská obec, poté Martin Zumberger",
-   "from": null,
+   "from": 1421,
    "to": null,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": true,
    "how": "konfiskace",
-   "note": "za husitských bouří tvrz zabrala pražská obec a přenechala ji Martinu Zumbergerovi (web Prague City Tourism / Muzeum Prahy); roky neuvedeny"
+   "note": "roku 1421 tvrz zabrala pražská obec a dala ji Martinu Zumbergerovi (Muzeum Prahy (kultura.cz)); roky držby po 1421 ani přesné datum nabytí Hrzánů neuvedeny, Hrzánové doloženi nejpozději 1502 (památkový katalog)"
   },
   {
    "owner": "hrzanove-z-harasova",
@@ -48,64 +48,119 @@
    "from": 1502,
    "to": 1572,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "koupe",
-   "note": "po Václavovi zdědil 1520 syn Adam, 1544 vnuk Mikuláš (kolem 1550 přestavěl tvrz na renesanční zámek); po Mikulášově smrti spravoval statek poručník Václav, syn Adam jej musel prodat před rokem 1572"
+   "note": "Hrzánové drželi 1502-1572 (památkový katalog, Muzeum Prahy); po Václavovi zdědil 1520 syn Adam, 1544 vnuk Mikuláš (kolem 1550 přestavěl tvrz na renesanční zámek); po Mikulášově smrti před 1565 spravoval statek poručník Václav, syn Adam jej musel prodat"
   },
   {
    "owner": "z-zlunic",
    "owner_wiki": null,
    "person": "Petr Myška ze Žlunic",
    "from": 1572,
-   "to": null,
+   "to": 1578,
    "from_approx": true,
    "to_approx": false,
    "how": "koupe",
-   "note": "koupil před rokem 1572; rod bez vlastního článku na cs.wiki"
+   "note": "koupil před rokem 1572 a roku 1578 prodal Oldřichu Hostakovskému z Arklebic (Muzeum Prahy (kultura.cz)); rod bez vlastního článku na cs.wiki"
+  },
+  {
+   "owner": "z-arklebic",
+   "owner_wiki": null,
+   "person": "Oldřich Hostakovský z Arklebic; poté syn Trystram",
+   "from": 1578,
+   "to": 1601,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "Oldřich zemřel 1585, zboží zdědil syn Trystram; po jeho smrti spor mezi bratrancem Trystramem a strýcem Jaroslavem Kaplířem ze Sulevic, 1600 vyhrál Trystram a 1601 statek prodal (Muzeum Prahy (kultura.cz)); rod bez vlastního článku"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Kateřina Smiřická z Házmburka",
+   "from": 1601,
+   "to": 1604,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupila 1601 od Trystrama Hostakovského, zemřela 1604 (Muzeum Prahy (kultura.cz)); příslušnost k rodu zde neuvedena"
   },
   {
    "owner": "zajicove-z-hazmburka",
    "owner_wiki": "Zajícové z Hazmburka",
-   "person": null,
-   "from": null,
-   "to": null,
-   "from_approx": true,
-   "to_approx": true,
-   "how": "neznamo",
-   "note": "článek na cs.wiki uvádí jen, že se po Myškovi ze Žlunic vystřídali i Hazmburkové, bez let; Muzeum Prahy a Žákova kniha (Karolinum) jmenují mezi dalšími majiteli Boryně ze Lhoty, Valdštejny a Losy z Losinthalu (Losyové drželi podle anotace přes 100 let), pořadí a roky nejsou ve zdrojích"
+   "person": "Jan Zbyněk Zajíc z Házmburka",
+   "from": 1604,
+   "to": 1604,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "dědic Kateřiny Smiřické; téhož roku statek prodal Václavu Boryňovi ze Lhoty (Muzeum Prahy (kultura.cz)); cs.wiki jen obecně uvádí Hazmburky mezi majiteli"
+  },
+  {
+   "owner": "borynove-ze-lhoty",
+   "owner_wiki": "Boryňové ze Lhoty",
+   "person": "Václav Boryně ze Lhoty; poté syn Jan",
+   "from": 1604,
+   "to": 1626,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "v rodě do 1626, kdy Jan Boryně vyměnil dědický díl s Adamem z Valdštejna za Budeničky (Muzeum Prahy; dvorak-rodopis.cz: Boryňové od 1604)"
   },
   {
    "owner": "valdstejnove",
    "owner_wiki": "Valdštejnové",
-   "person": null,
-   "from": null,
-   "to": null,
-   "from_approx": true,
-   "to_approx": true,
-   "how": "neznamo",
-   "note": "cs.wiki i Muzeum Prahy uvádějí Valdštejny mezi majiteli, roky neuvedeny"
+   "person": "Adam mladší z Valdštejna; poté Johana Emilie ze Žerotína, syn Rudolf Maxmilián",
+   "from": 1626,
+   "to": 1652,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "vymena",
+   "note": "výměna za Budeničky 1626; Adam zemřel 1638, 1647 dědila Johana Emilie, poté Rudolf Maxmilián, který statek 1652 prodal Losymu (dvorak-rodopis.cz, Muzeum Prahy)"
+  },
+  {
+   "owner": "losyove-z-losinthalu",
+   "owner_wiki": "Losyové z Losinthalu",
+   "person": "Jan Antonín Losy z Losinthalu; poté další členové rodu, naposledy Adam Filip",
+   "from": 1652,
+   "to": 1781,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil 1652 od Rudolfa Maxmiliána z Valdštejna (13 000 zl.), 1656 přikoupil Sluhy; v rodě do 1781 (památkový katalog: Losyové 1652-1781); barokní přestavba v 1. polovině 18. stol."
   },
   {
    "owner": "windischgratzove",
    "owner_wiki": "Windischgrätzové",
-   "person": null,
-   "from": null,
+   "person": "Josef Mikuláš Windischgrätz (zemřel 1802); poté vdova",
+   "from": 1781,
    "to": 1803,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "panství drželi do roku 1803, začátek držby zdroje neuvádějí; přestavba na klasicizující baroko: cs.wiki článek o zámku uvádí 30. léta 18. stol. (architekt Václav Špaček), článek o osadě 2. polovinu 18. stol., Muzeum Prahy 2. polovinu 18. stol."
+   "how": "dedictvi",
+   "note": "po vymření Losyů 1781 zdědili Windischgrätzové (Muzeum Prahy, mistopis.eu); vdova s povolením poručníka Josefa Schwarzenberga prodala 1. 11. 1803 Ctěnice manželům Donátovým z Prahy za 230 000 zl. (dvorak-rodopis.cz); přestavba na klasicizující baroko: cs.wiki článek o zámku uvádí 30. léta 18. stol. (architekt Václav Špaček), článek o osadě 2. polovinu 18. stol., památkový katalog 1. polovinu 18. stol."
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Františka a Jan Donátovi z Prahy; poté Antonín z Hochbergu (1804), od 1808 Jan Antonín Hartman z Klarštejna",
+   "from": 1803,
+   "to": 1820,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "po 1803 se majitelé často měnili, ze spekulativních důvodů; pořadí podle Muzea Prahy (kultura.cz): Donátovi, Antonín z Hochbergu (zvětšil statek o Goldberg 1804), 1808 Hartman z Klarštejna; jednotlivé přesné roky držby mimo uvedené nejsou známy"
   },
   {
    "owner": "desfoursove",
    "owner_wiki": "Desfoursové",
-   "person": "Aloisie hraběnka Desfoursová",
-   "from": null,
+   "person": "František Antonín Desfours; po něm dcera Aloisie hraběnka Desfoursová",
+   "from": 1820,
    "to": 1849,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "podle cs.wiki se po 1803 majitelé často měnili; poslední majitelkou před 1849 byla Aloisie hraběnka Desfoursová, po níž koupil zámek jako pozůstalost Alexander Schoeller; způsob a rok nabytí neuvedeny"
+   "how": "koupe",
+   "note": "1820 František Antonín Desfours (Muzeum Prahy, mistopis.eu); kultura.cz dále uvádí, že jeho dcera odkázala Ctěnice 1831 Josefíně ze Schwarzenberka a Gabriele z Ditrichštejna; jiné zdroje (cs.wiki, multimediaexpo.cz) uvádějí jako poslední majitelku Aloisii Desfoursovou, po jejíž pozůstalosti koupil 1849 Alexander Schoeller; rozpor nevyřešen"
   },
   {
    "owner": "soukromnik",
@@ -116,7 +171,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "velkoobchodník, povýšen do rakouského rytířského stavu 1863; zámek zůstal v rukou rodiny do konce druhé světové války; rodový majetek znárodněn dekretem prezidenta republiky z 24. 11. 1945 (komerční web turistik.cz)"
+   "note": "velkoobchodník, povýšen do rakouského rytířského stavu 1863; Schoellerové drželi zámek 1849-1945 (památkový katalog); 1892 přešel na Filipa Schoellera ml., 1910 majetek firmy v akciové společnosti (dvorak-rodopis.cz); rodový majetek znárodněn dekretem prezidenta republiky z 24. 11. 1945 (komerční web turistik.cz)"
   },
   {
    "owner": "stat",
@@ -127,7 +182,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "po válce připadl Státnímu statku hl. m. Prahy; od roku 1945 bez pravidelné údržby, areál zchátral; k zestátnění dekret z 24. 11. 1945 (komerční web turistik.cz), cs.wiki uvádí jen 'za druhé světové války'"
+   "note": "po válce připadl Státnímu statku hl. m. Prahy (památkový katalog, cs.wiki); Vltava/Český rozhlas uvádí hospodaření Československých státních statků asi od 1953; k zestátnění dekret z 24. 11. 1945 (komerční web turistik.cz), cs.wiki uvádí jen 'za druhé světové války'"
   },
   {
    "owner": "mesto",
@@ -182,6 +237,9 @@
  "sources": [
   "https://cs.wikipedia.org/wiki/Ctěnice_(zámek)",
   "https://prague.eu/cs/objevujte/muzeum-mesta-prahy-zamecky-areal-ctenice/",
+  "https://dvorak-rodopis.cz/mistopis/ctenice/",
+  "http://www.kultura.cz/profile/3095-muzeum-hlavniho-mesta-prahy-zamecky-areal-ctenice",
+  "https://www.pamatkovykatalog.cz/zamek-ctenice-14821309",
   "https://www.cupress.cuni.cz/ink2_ext/index.jsp?id=665550&include=podrobnosti",
   "https://www.turistik.cz/cz/kraje/hlavni-mesto-praha/okres-hlavni-mesto-praha/praha-okres-hlavni-mesto-praha/zamecky-areal-ctenice/"
  ]

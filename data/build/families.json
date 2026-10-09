@@ -3469,6 +3469,15 @@
     "to_approx": false
    },
    {
+    "place": "Q2240587",
+    "from": 1604,
+    "to": 1626,
+    "person": "Václav Boryně ze Lhoty; poté syn Jan",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
     "place": "Q33524525",
     "from": 1635,
     "to": 1644,
@@ -3494,6 +3503,20 @@
     "how": "koupe"
    },
    {
+    "place": "Q2240587",
+    "year": 1604,
+    "from": "zajicove-z-hazmburka",
+    "to": "borynove-ze-lhoty",
+    "how": "koupe"
+   },
+   {
+    "place": "Q2240587",
+    "year": 1626,
+    "from": "borynove-ze-lhoty",
+    "to": "valdstejnove",
+    "how": "vymena"
+   },
+   {
     "place": "Q33524525",
     "year": 1635,
     "from": "vratislavove-z-mitrovic",
@@ -3508,7 +3531,7 @@
     "how": "dedictvi"
    }
   ],
-  "place_count": 2,
+  "place_count": 3,
   "color_slot": null
  },
  "boskovicove": {
@@ -8345,11 +8368,11 @@
    },
    {
     "place": "Q2240587",
-    "from": 1803,
+    "from": 1820,
     "to": 1849,
-    "person": "Aloisie hraběnka Desfoursová",
-    "how": "neznamo",
-    "from_approx": true,
+    "person": "František Antonín Desfours; po něm dcera Aloisie hraběnka Desfoursová",
+    "how": "koupe",
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -8466,10 +8489,10 @@
    },
    {
     "place": "Q2240587",
-    "year": 1803,
-    "from": "windischgratzove",
+    "year": 1820,
+    "from": "soukromnik",
     "to": "desfoursove",
-    "how": "neznamo"
+    "how": "koupe"
    },
    {
     "place": "Q2240587",
@@ -11872,7 +11895,7 @@
     "place": "Q20057388",
     "from": 1822,
     "to": 1847,
-    "person": "arcivévoda Karel",
+    "person": "arcivévoda Karel Ludvík",
     "how": "dedictvi",
     "from_approx": false,
     "to_approx": false
@@ -11881,10 +11904,10 @@
     "place": "Q20057388",
     "from": 1847,
     "to": 1895,
-    "person": "arcivévoda Albrecht",
+    "person": "arcivévoda Albrecht Fridrich",
     "how": "dedictvi",
     "from_approx": true,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q20057388",
@@ -14797,7 +14820,7 @@
     "person": "Václav Hrzán z Harasova",
     "how": "koupe",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q31449010",
@@ -20541,7 +20564,7 @@
     "to": 1671,
     "person": "Wolf Vilém Laminger z Albenreuthu (Lomikar)",
     "how": "konfiskace",
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": false
    }
   ],
@@ -25368,6 +25391,15 @@
     "how": "dedictvi",
     "from_approx": false,
     "to_approx": false
+   },
+   {
+    "place": "Q2240587",
+    "from": 1652,
+    "to": 1781,
+    "person": "Jan Antonín Losy z Losinthalu; poté další členové rodu, naposledy Adam Filip",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
    }
   ],
   "transfers": [
@@ -25384,9 +25416,23 @@
     "from": "losyove-z-losinthalu",
     "to": "windischgratzove",
     "how": "dedictvi"
+   },
+   {
+    "place": "Q2240587",
+    "year": 1652,
+    "from": "valdstejnove",
+    "to": "losyove-z-losinthalu",
+    "how": "koupe"
+   },
+   {
+    "place": "Q2240587",
+    "year": 1781,
+    "from": "losyove-z-losinthalu",
+    "to": "windischgratzove",
+    "how": "dedictvi"
    }
   ],
-  "place_count": 1,
+  "place_count": 2,
   "color_slot": null
  },
  "loudonove": {
@@ -54799,12 +54845,12 @@
    },
    {
     "place": "Q2240587",
-    "from": 1688,
-    "to": 1745,
-    "person": null,
-    "how": "neznamo",
-    "from_approx": true,
-    "to_approx": true
+    "from": 1626,
+    "to": 1652,
+    "person": "Adam mladší z Valdštejna; poté Johana Emilie ze Žerotína, syn Rudolf Maxmilián",
+    "how": "vymena",
+    "from_approx": false,
+    "to_approx": false
    },
    {
     "place": "Q2241921",
@@ -55684,17 +55730,17 @@
    },
    {
     "place": "Q2240587",
-    "year": 1688,
-    "from": "zajicove-z-hazmburka",
+    "year": 1626,
+    "from": "borynove-ze-lhoty",
     "to": "valdstejnove",
-    "how": "neznamo"
+    "how": "vymena"
    },
    {
     "place": "Q2240587",
-    "year": 1745,
+    "year": 1652,
     "from": "valdstejnove",
-    "to": "windischgratzove",
-    "how": "neznamo"
+    "to": "losyove-z-losinthalu",
+    "how": "koupe"
    },
    {
     "place": "Q2241921",
@@ -58381,11 +58427,11 @@
    },
    {
     "place": "Q2240587",
-    "from": 1745,
+    "from": 1781,
     "to": 1803,
-    "person": null,
-    "how": "neznamo",
-    "from_approx": true,
+    "person": "Josef Mikuláš Windischgrätz (zemřel 1802); poté vdova",
+    "how": "dedictvi",
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -58517,17 +58563,17 @@
    },
    {
     "place": "Q2240587",
-    "year": 1745,
-    "from": "valdstejnove",
+    "year": 1781,
+    "from": "losyove-z-losinthalu",
     "to": "windischgratzove",
-    "how": "neznamo"
+    "how": "dedictvi"
    },
    {
     "place": "Q2240587",
     "year": 1803,
     "from": "windischgratzove",
-    "to": "desfoursove",
-    "how": "neznamo"
+    "to": "soukromnik",
+    "how": "koupe"
    },
    {
     "place": "Q2241754",
@@ -59082,6 +59128,41 @@
    }
   ],
   "place_count": 3,
+  "color_slot": null
+ },
+ "z-arklebic": {
+  "id": "z-arklebic",
+  "type": "rod",
+  "name": "z-arklebic",
+  "related": [],
+  "places": [
+   {
+    "place": "Q2240587",
+    "from": 1578,
+    "to": 1601,
+    "person": "Oldřich Hostakovský z Arklebic; poté syn Trystram",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q2240587",
+    "year": 1578,
+    "from": "z-zlunic",
+    "to": "z-arklebic",
+    "how": "koupe"
+   },
+   {
+    "place": "Q2240587",
+    "year": 1601,
+    "from": "z-arklebic",
+    "to": "soukromnik",
+    "how": "koupe"
+   }
+  ],
+  "place_count": 1,
   "color_slot": null
  },
  "z-armenruh": {
@@ -66095,7 +66176,7 @@
    {
     "place": "Q20057388",
     "from": 1573,
-    "to": 1580,
+    "to": 1581,
     "person": "Jiří a Matyáš z Lohova",
     "how": "koupe",
     "from_approx": false,
@@ -66112,7 +66193,7 @@
    },
    {
     "place": "Q20057388",
-    "year": 1580,
+    "year": 1581,
     "from": "z-lohova",
     "to": "cirkev",
     "how": "koupe"
@@ -74002,11 +74083,11 @@
    {
     "place": "Q2240587",
     "from": 1572,
-    "to": 1630,
+    "to": 1578,
     "person": "Petr Myška ze Žlunic",
     "how": "koupe",
     "from_approx": true,
-    "to_approx": true
+    "to_approx": false
    }
   ],
   "transfers": [
@@ -74019,10 +74100,10 @@
    },
    {
     "place": "Q2240587",
-    "year": 1630,
+    "year": 1578,
     "from": "z-zlunic",
-    "to": "zajicove-z-hazmburka",
-    "how": "neznamo"
+    "to": "z-arklebic",
+    "how": "koupe"
    }
   ],
   "place_count": 1,
@@ -74332,12 +74413,12 @@
    },
    {
     "place": "Q2240587",
-    "from": 1630,
-    "to": 1688,
-    "person": null,
-    "how": "neznamo",
-    "from_approx": true,
-    "to_approx": true
+    "from": 1604,
+    "to": 1604,
+    "person": "Jan Zbyněk Zajíc z Házmburka",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": false
    },
    {
     "place": "Q280501",
@@ -74516,17 +74597,17 @@
    },
    {
     "place": "Q2240587",
-    "year": 1630,
-    "from": "z-zlunic",
+    "year": 1604,
+    "from": "soukromnik",
     "to": "zajicove-z-hazmburka",
-    "how": "neznamo"
+    "how": "dedictvi"
    },
    {
     "place": "Q2240587",
-    "year": 1688,
+    "year": 1604,
     "from": "zajicove-z-hazmburka",
-    "to": "valdstejnove",
-    "how": "neznamo"
+    "to": "borynove-ze-lhoty",
+    "how": "koupe"
    },
    {
     "place": "Q280501",
@@ -77037,9 +77118,9 @@
    },
    {
     "place": "Q20057388",
-    "from": 1580,
+    "from": 1581,
     "to": 1584,
-    "person": "Stanislav Pavlovský, olomoucký biskup",
+    "person": "Stanislav II. Pavlovský z Pavlovic, olomoucký biskup",
     "how": "koupe",
     "from_approx": true,
     "to_approx": false
@@ -78498,7 +78579,7 @@
    },
    {
     "place": "Q20057388",
-    "year": 1580,
+    "year": 1581,
     "from": "z-lohova",
     "to": "cirkev",
     "how": "koupe"
@@ -93905,11 +93986,11 @@
    },
    {
     "place": "Q2240587",
-    "from": 1437,
+    "from": 1421,
     "to": 1502,
     "person": "pražská obec, poté Martin Zumberger",
     "how": "konfiskace",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": true
    },
    {
@@ -95569,7 +95650,7 @@
    },
    {
     "place": "Q2240587",
-    "year": 1437,
+    "year": 1421,
     "from": "soukromnik",
     "to": "mesto",
     "how": "konfiskace"
@@ -98367,11 +98448,29 @@
    {
     "place": "Q2240587",
     "from": 1372,
-    "to": 1437,
+    "to": 1421,
     "person": "Jan Zeiselmeister",
     "how": "koupe",
     "from_approx": false,
     "to_approx": true
+   },
+   {
+    "place": "Q2240587",
+    "from": 1601,
+    "to": 1604,
+    "person": "Kateřina Smiřická z Házmburka",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q2240587",
+    "from": 1803,
+    "to": 1820,
+    "person": "Františka a Jan Donátovi z Prahy; poté Antonín z Hochbergu (1804), od 1808 Jan Antonín Hartman z Klarštejna",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
    },
    {
     "place": "Q2240587",
@@ -102030,10 +102129,38 @@
    },
    {
     "place": "Q2240587",
-    "year": 1437,
+    "year": 1421,
     "from": "soukromnik",
     "to": "mesto",
     "how": "konfiskace"
+   },
+   {
+    "place": "Q2240587",
+    "year": 1601,
+    "from": "z-arklebic",
+    "to": "soukromnik",
+    "how": "koupe"
+   },
+   {
+    "place": "Q2240587",
+    "year": 1604,
+    "from": "soukromnik",
+    "to": "zajicove-z-hazmburka",
+    "how": "dedictvi"
+   },
+   {
+    "place": "Q2240587",
+    "year": 1803,
+    "from": "windischgratzove",
+    "to": "soukromnik",
+    "how": "koupe"
+   },
+   {
+    "place": "Q2240587",
+    "year": 1820,
+    "from": "soukromnik",
+    "to": "desfoursove",
+    "how": "koupe"
    },
    {
     "place": "Q2240587",
