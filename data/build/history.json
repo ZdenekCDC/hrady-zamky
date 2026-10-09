@@ -1528,7 +1528,7 @@
     "from_approx": true,
     "to_approx": false,
     "how": "koupe",
-    "note": "jeden z posledních majitelů Hladík zpustlý hrad prodal poštmistru Beerovi z Bochova, který z něj udělal kamenolom; roky zdroj neuvádí (Vyčichlo)"
+    "note": "jeden z posledních majitelů Hladík zpustlý hrad prodal poštmistru Beerovi z Bochova, který z něj udělal kamenolom; roky zdroj neuvádí (Vyčichlo, mesto-bochov.cz, novinky.cz 2017 - všechny shodně bez roků)"
    },
    {
     "owner": "mesto",
@@ -1575,7 +1575,8 @@
   "sources": [
    "https://cs.wikipedia.org/wiki/Hartenštejn",
    "https://www.mesto-bochov.cz/turista/pamatky/hrad-hartenstejn/",
-   "https://www.pamatkyaprirodakarlovarska.cz/bochov-hrad-hartenstejn"
+   "https://www.pamatkyaprirodakarlovarska.cz/bochov-hrad-hartenstejn",
+   "https://www.novinky.cz/clanek/vase-zpravy-mesto-bochov-zachranilo-hartenstejn-hrad-s-unikatni-delostreleckou-obranou-slouzici-jako-kamenolom-317013"
   ]
  },
  "Q1012290": {
@@ -24366,7 +24367,7 @@
     "from_approx": true,
     "to_approx": false,
     "how": "koupe",
-    "note": "rok koupě je nejistý: Rudolf Anděl a cs.wiki 1676, August Sedláček a oficiální web zámku (i hrady.cz) uvádějí koupi od Václava Vojtěcha ze Šternberka po 1679; Gundakar nechal starou tvrz zbořit; stavbu zámku podle Antonia della Porty zahájil 1690 (oficiální web: téhož roku zemřel) nebo až po jeho smrti 1693 (cs.wiki), dokončen 1697, hospodářské budovy do 1700; Ferdinand z Ditrichštejna ve stavbě pokračoval a 1710 statek prodal Strahovu"
+    "note": "rok koupě je nejistý: Rudolf Anděl a cs.wiki 1676, August Sedláček a oficiální web zámku (i hrady.cz) uvádějí koupi od Václava Vojtěcha ze Šternberka po 1679; Gundakar nechal starou tvrz zbořit; stavbu zámku podle Antonia della Porty zahájil 1690 (oficiální web: téhož roku zemřel) nebo až po jeho smrti 1693 (cs.wiki), dokončen 1697, hospodářské budovy do 1700; Ferdinand z Ditrichštejna ve stavbě pokračoval a 1710 statek prodal Strahovu; nasregion.cz a nacestu.cz uvádějí Ditrichštejny jako majitele až od 1690 (zřejmě start přestavby, ne koupě); zamekpatek.cz u koupě žádný rok neuvádí, jen pořadí 1679 Anna Františka -> Ludmila Benigna Šternberková -> její syn Václav Vojtěch -> Gundakar"
    },
    {
     "owner": "cirkev",
@@ -24451,7 +24452,9 @@
    "https://cs.wikipedia.org/wiki/Pátek_(zámek)",
    "https://www.zamekpatek.cz/historie.html",
    "https://www.peruc.cz/historie-obce-patek/d-10526",
-   "https://www.hrady.cz/zamek-patek-louny"
+   "https://www.hrady.cz/zamek-patek-louny",
+   "https://www.nacestu.cz/clanky-obsah/zamek-patek-nad-ohri",
+   "https://nasregion.cz/navstivte-zamecek-patek-v-jehoz-blizkosti-sve-detstvi-travil-i-vyznamny-cesky-cestovatel-doktor-emil-holub-177416/"
   ]
  },
  "Q12047776": {
@@ -27630,7 +27633,7 @@
    "approx": true,
    "text": "První zmínka o hradu pochází z roku 1281; gotický hrad patrně založil Markvart III. z Ostrého, či jeho syn Beneš z Vartemberka ve 13. století k ochraně obchodní žitavské záhvozdské cesty."
   },
-  "summary": "Renesanční zámek Vartenberk (Stráž) ve Stráži pod Ralskem vznikl přestavbou gotického hradu, který od 13. století držel rod pánů z Vartenberka. Od 1504 patřil Hyršpergárům, kteří jej 1563 přestavěli, po Bílé hoře 1623-1633 Albrechtu z Valdštejna, poté Lichtenštejnům-Kastelkornům a Hartigům (do 1922). Po 1945 jej využívala ČKD a sovětská armáda, 1987 vyhořel a od roku 2001 patří městu Stráž pod Ralskem, které jej obnovuje.",
+  "summary": "Renesanční zámek Vartenberk (Stráž) ve Stráži pod Ralskem vznikl přestavbou gotického hradu, který od 13. století držel rod pánů z Vartenberka. Od 1504 patřil Hyršpergárům, kteří jej 1563 přestavěli, po Bílé hoře 1623-1633 Albrechtu z Valdštejna, poté Lichtenštejnům-Kastelkornům a Hartigům (do 1922). Po 1945 jej využívala ČKD a sovětská armáda, 1987 vyhořel a patří městu Stráž pod Ralskem (rok získání je nejistý, 2001 nebo dříve), které jej obnovuje.",
   "owners": [
    {
     "owner": "vartenberkove",
@@ -27714,7 +27717,7 @@
     "owner_wiki": null,
     "person": null,
     "from": 1945,
-    "to": 1973,
+    "to": 1972,
     "from_approx": false,
     "to_approx": true,
     "how": "konfiskace",
@@ -27724,23 +27727,23 @@
     "owner": "soukromnik",
     "owner_wiki": null,
     "person": null,
-    "from": 1973,
-    "to": 2001,
+    "from": 1972,
+    "to": 1999,
     "from_approx": true,
-    "to_approx": false,
+    "to_approx": true,
     "how": "jine",
-    "note": "v 90. letech 20. stol. podle databáze prazdnedomy.cz (méně spolehlivý zdroj) v soukromých rukou, majitelé se o objekt nestarali; jména ani roky zdroj neuvádí"
+    "note": "v 90. letech 20. stol. podle databáze prazdnedomy.cz (méně spolehlivý zdroj) v soukromých rukou, majitelé se o objekt nestarali; jména ani roky zdroj neuvádí; rozpor: Českolipský deník 2009 uvádí, že zastupitelé města o prodeji zámku rozhodli již 1997 a zámek byl po několik let k mání za korunu, tedy město jej mělo nejpozději 1997, ne až od 2001"
    },
    {
     "owner": "mesto",
     "owner_wiki": null,
     "person": "Město Stráž pod Ralskem",
-    "from": 2001,
+    "from": 1999,
     "to": null,
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": false,
     "how": "koupe",
-    "note": "podle databáze prazdnedomy.cz (méně spolehlivý zdroj) odkoupilo 2001 zdevastovaný zámek; od 2004 postupná obnova, 2024 zpřístupněno sedm místností"
+    "note": "prazdnedomy.cz (méně spolehlivý zdroj) uvádí odkoupení 2001, ale Českolipský deník 2009 uvádí, že město zámek nabízelo k prodeji už od zastupitelstva 1997 (rok získání neuvádí); rok nabytí proto neznámý (2001 vs. nejpozději 1997); od 2003-2004 postupná obnova, 2024 zpřístupněno sedm místností"
    }
   ],
   "events": [
@@ -27777,8 +27780,8 @@
     "text": "11. září zámek vyhořel po devastaci sovětskými vojsky"
    },
    {
-    "year": 2001,
-    "text": "město Stráž pod Ralskem odkoupilo zdevastovaný zámek"
+    "year": 1997,
+    "text": "zastupitelstvo Stráže pod Ralskem (již majitele zámku) rozhodlo o jeho prodeji za symbolickou korunu (prazdnedomy.cz uvádí získání městem až 2001 - rozpor)"
    },
    {
     "year": 2024,
@@ -27790,6 +27793,7 @@
    "https://www.strazpr.cz/zamek-vartenberk/d-1226",
    "https://www.hrady.cz/zamek-vartenberk",
    "http://prazdnedomy.cz/domy/objekty/detail/2192",
+   "https://ceskolipsky.denik.cz/zpravy-region/vatenberkstrazprodej20090728/",
    "https://www.propamatky.cz/index.php/zpravodajstvi/58848-historie-ve-vrstvach-obnova-fasady-zamku-vartenberk"
   ]
  },
@@ -28217,7 +28221,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "restituce",
-    "note": "pravnučka F. L. Riegra; restituci uvádí cs.wiki a hrady.cz (komerční web) rokem 1995, historickaslechta.cz 1994; rok předání synovi zdroj neuvádí"
+    "note": "pravnučka F. L. Riegra; restituci uvádí cs.wiki a hrady.cz (komerční web) rokem 1995, historickaslechta.cz a Havlíčkobrodský deník 2019 1994 (týž článek na jiném místě uvádí 1992), cs.wiki o Věře Macháčkové-Riegerové rodinná restituce 1991 a amhz.cz 1995; rok předání synovi zdroj neuvádí"
    },
    {
     "owner": "soukromnik",
@@ -28226,8 +28230,8 @@
     "to": null,
     "from_approx": true,
     "to_approx": true,
-    "how": "neznamo",
-    "note": "dnešní majitel, syn Věry Macháčkové-Riegerové; zámek opravil a od července 2018 jej zpřístupnil; rok a způsob převodu zdroj neuvádí"
+    "how": "dedictvi",
+    "note": "dnešní majitel, syn Věry Macháčkové-Riegerové; podle Seznam Zpráv 2026 a CNN Prima 2021 majetek zdědil po matce (rok neuveden); z restituce rodina získala jen ideální polovinu zámku, druhou patřící Národní galerii později odkoupil od státu (rok neuveden); zámek opravil a od července 2018 jej zpřístupnil"
    }
   ],
   "events": [
@@ -28276,7 +28280,10 @@
    "https://cs.wikipedia.org/wiki/Maleč_(zámek)",
    "https://www.malec.cz/historie-malce",
    "https://dspace.cuni.cz/handle/20.500.11956/8658",
-   "https://www.hrady.cz/zamek-malec"
+   "https://www.hrady.cz/zamek-malec",
+   "https://www.amhz.cz/zamek/malec",
+   "https://www.seznamzpravy.cz/clanek/magazin-architektura-schazeli-se-tu-obrozenci-ted-potomek-riegra-a-palackeho-jejich-zamek-zrekonstruoval-307354",
+   "https://havlickobrodsky.denik.cz/volny-cas/zamecky-pamatnik-v-malci-zve-na-novou-expozici-20190902.html"
   ]
  },
  "Q13411246": {
@@ -50954,13 +50961,13 @@
    {
     "owner": "hodicti-z-hodic",
     "owner_wiki": "Hodičtí z Hodic",
-    "person": null,
+    "person": "Václav Hodický z Hodic (podle miroslavskakultura.cz získal 1569), poslední Hynek Hodický z Hodic",
     "from": 1569,
     "to": 1626,
     "from_approx": false,
     "to_approx": true,
     "how": "vymena",
-    "note": "získáno výměnou za panství Hostim; Hynek Hodický z Hodic pokračoval v renesančních úpravách (nové sály s výmalbou, sgrafitová bosáž); pro účast na stavovském povstání 1618-1620 mu byl statek zkonfiskován (přesný rok konfiskace zdroje neuvádějí)"
+    "note": "získáno výměnou za panství Hostim; Hynek Hodický z Hodic pokračoval v renesančních úpravách (nové sály s výmalbou, sgrafitová bosáž); pro účast na stavovském povstání 1618-1620 mu byl statek zkonfiskován (přesný rok konfiskace zdroje neuvádějí); miroslavskakultura.cz (web města) uvádí, že Hodičtí drželi zámek do počátku třicetileté války a Hynek Hodický o něj přišel po Bílé hoře (rok nepřesněji neuvádí; konec držby proto zůstává bez roku)"
    },
    {
     "owner": "pani-z-nachoda",
@@ -51037,7 +51044,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "konfiskace",
-    "note": "po zrušení louckého kláštera připadl zámek náboženskému fondu"
+    "note": "po zrušení louckého kláštera připadl zámek náboženskému fondu; miroslavskakultura.cz: po Josefu Hopfenovi (zemřel 1846) zdědil adoptivní vnuk František Xaver z Hopfenů"
    },
    {
     "owner": "soukromnik",
@@ -51115,7 +51122,8 @@
    "https://www.hrady.cz/zamek-miroslav",
    "http://www.kultura.cz/profile/5606-zamek-miroslav",
    "https://www.npu.cz/cs/ohrozene-pamatky/51353-zamek-miroslav",
-   "https://de.wikipedia.org/wiki/Miroslav_(Stadt)"
+   "https://de.wikipedia.org/wiki/Miroslav_(Stadt)",
+   "https://miroslavskakultura.cz/zamek-miroslav/o-zamku/"
   ]
  },
  "Q28048966": {
@@ -53694,7 +53702,7 @@
     "from_approx": true,
     "to_approx": false,
     "how": "lenni",
-    "note": "Paskov byl lenním statkem olomouckého biskupství; v držení leníků se vystřídaly mj. Černohorští z Boskovic, Žerotínové a Pernštejnové, přesná léta cs.wiki neuvádí; 1267 je první písemná zmínka, ne počátek lenní držby; tvrz poprvé zmíněna 1484 při sporu o léno"
+    "note": "Paskov byl lenním statkem olomouckého biskupství; v držení leníků se vystřídaly mj. Černohorští z Boskovic, Žerotínové a Pernštejnové, přesná léta cs.wiki neuvádí; 1267 je první písemná zmínka, ne počátek lenní držby; tvrz poprvé zmíněna 1484 při sporu o léno; mistopisy.cz: 1300 získal Paskov jako léno Jan Stange (listina biskupa Dětřicha), později po smrti Barbory Jemelné udělil biskup Stanislav léno Benešovi z Boskovic a Černé Hory (rok zdroj neuvádí), poté desítky let bez zpráv; v dalších záznamech 1518 Jan ze Žerotína a po něm vdova Anna Sedlnická z Choltic"
    },
    {
     "owner": "zerotinove",
@@ -53705,7 +53713,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "lenni",
-    "note": "majitel panství v letech 1507-1525, zasloužil se o vznik rybníků (infopaskov.cz, oficiální web infocentra)"
+    "note": "majitel panství v letech 1507-1525, zasloužil se o vznik rybníků (infopaskov.cz, oficiální web infocentra); mistopisy.cz uvádí Jana ze Žerotína až 1518 (po něm vdova Anna Sedlnická z Choltic) - rozpor s 1507 z infopaskov.cz"
    },
    {
     "owner": "z-kadane",
@@ -53716,7 +53724,7 @@
     "from_approx": true,
     "to_approx": true,
     "how": "lenni",
-    "note": "uváděn 1525 jako držitel; zemřel asi 1530, jeho synové (Bernard, Zikmund, Centurius a Jan) zděděné statky včetně Paskova udrželi jen krátce a pro dluhy je prodali věřitelům (mistopisy.cz, vychází z literatury o držitelích paskovského panství)"
+    "note": "uváděn 1525 jako držitel; zemřel asi 1530, jeho synové (Bernard, Zikmund, Centurius a Jan) zděděné statky včetně Paskova udrželi jen krátce a pro dluhy je prodali věřitelům (mistopisy.cz, vychází z literatury o držitelích paskovského panství); mistopisy.cz: Ladislav 1525 držitelem, zemřel asi 1530"
    },
    {
     "owner": "z-doubravky",
@@ -53760,7 +53768,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "slezský humanista, učenec a diplomat, bývalý biskup; panství koupil za 21000 zlatých, z Paskova učinil centrum svých společenských kontaktů, po roce jej za nevýhodných podmínek prodal a odešel do Vratislavi (cs.wiki uvádí 1577-1579)"
+    "note": "slezský humanista, učenec a diplomat, bývalý biskup; panství koupil za 21000 zlatých, z Paskova učinil centrum svých společenských kontaktů, po roce jej za nevýhodných podmínek prodal a odešel do Vratislavi (cs.wiki uvádí 1577-1579); mistopisy.cz: koupě 1578, prodej Ctiborovi Syrakovskému 1579"
    },
    {
     "owner": "z-perkova",
@@ -53771,7 +53779,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "Ctibor byl dlouholetým nejvyšším zemským písařem na Moravě; nechal rozšířit tvrz; zadlužení synové ji roku 1614 prodali; mistopisy.cz uvádí posloupnost Ctibor (zemřel 1600), jeho synové Hynek (zemřel bezdětný 1610-1614) a Jan, po nich Cedlarové - tato posloupnost se od cs.wiki částečně liší"
+    "note": "Ctibor byl dlouholetým nejvyšším zemským písařem na Moravě; nechal rozšířit tvrz; zadlužení synové ji roku 1614 prodali; mistopisy.cz uvádí posloupnost Ctibor (zemřel 1600), jeho synové Hynek (zemřel bezdětný 1610-1614) a Jan, po nich Cedlarové - tato posloupnost se od cs.wiki částečně liší; mistopisy.cz: Ctibor Syrakovský držel od 1579 (nejvyšší zemský písař), zemřel 1600, poté syn Hynek (bezdětný, zemřel asi 1610), pak bratr Jan, který zemřel asi 1622 - cs.wiki naopak uvádí prodej zadlužených synů Jana ml. a Ctibora ml. 1614; rozpor nevyřešen"
    },
    {
     "owner": "z-belkovic",
@@ -54044,7 +54052,8 @@
    "https://www.mesto-paskov.cz/mesto/historie/",
    "https://www.infopaskov.cz/poznejte-paskov/historie-a-soucasnost/",
    "https://www.mistopisy.cz/pruvodce/obec/7417/paskov/historie/",
-   "https://www.hrabova.info/2016/07/17/hrabova-soucasti-paskovskeho-panstvi-v-letech-1538-1850/"
+   "https://www.hrabova.info/2016/07/17/hrabova-soucasti-paskovskeho-panstvi-v-letech-1538-1850/",
+   "https://www.soupispamatek.com/okres_mistek/foto/paskov/paskov_historie.htm"
   ]
  },
  "Q31208247": {

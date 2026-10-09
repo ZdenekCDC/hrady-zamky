@@ -6,7 +6,7 @@
   "approx": true,
   "text": "První zmínka o hradu pochází z roku 1281; gotický hrad patrně založil Markvart III. z Ostrého, či jeho syn Beneš z Vartemberka ve 13. století k ochraně obchodní žitavské záhvozdské cesty."
  },
- "summary": "Renesanční zámek Vartenberk (Stráž) ve Stráži pod Ralskem vznikl přestavbou gotického hradu, který od 13. století držel rod pánů z Vartenberka. Od 1504 patřil Hyršpergárům, kteří jej 1563 přestavěli, po Bílé hoře 1623-1633 Albrechtu z Valdštejna, poté Lichtenštejnům-Kastelkornům a Hartigům (do 1922). Po 1945 jej využívala ČKD a sovětská armáda, 1987 vyhořel a od roku 2001 patří městu Stráž pod Ralskem, které jej obnovuje.",
+ "summary": "Renesanční zámek Vartenberk (Stráž) ve Stráži pod Ralskem vznikl přestavbou gotického hradu, který od 13. století držel rod pánů z Vartenberka. Od 1504 patřil Hyršpergárům, kteří jej 1563 přestavěli, po Bílé hoře 1623-1633 Albrechtu z Valdštejna, poté Lichtenštejnům-Kastelkornům a Hartigům (do 1922). Po 1945 jej využívala ČKD a sovětská armáda, 1987 vyhořel a patří městu Stráž pod Ralskem (rok získání je nejistý, 2001 nebo dříve), které jej obnovuje.",
  "owners": [
   {
    "owner": "vartenberkove",
@@ -101,22 +101,22 @@
    "owner_wiki": null,
    "person": null,
    "from": null,
-   "to": 2001,
+   "to": null,
    "from_approx": false,
    "to_approx": false,
    "how": "jine",
-   "note": "v 90. letech 20. stol. podle databáze prazdnedomy.cz (méně spolehlivý zdroj) v soukromých rukou, majitelé se o objekt nestarali; jména ani roky zdroj neuvádí"
+   "note": "v 90. letech 20. stol. podle databáze prazdnedomy.cz (méně spolehlivý zdroj) v soukromých rukou, majitelé se o objekt nestarali; jména ani roky zdroj neuvádí; rozpor: Českolipský deník 2009 uvádí, že zastupitelé města o prodeji zámku rozhodli již 1997 a zámek byl po několik let k mání za korunu, tedy město jej mělo nejpozději 1997, ne až od 2001"
   },
   {
    "owner": "mesto",
    "owner_wiki": null,
    "person": "Město Stráž pod Ralskem",
-   "from": 2001,
+   "from": null,
    "to": null,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "podle databáze prazdnedomy.cz (méně spolehlivý zdroj) odkoupilo 2001 zdevastovaný zámek; od 2004 postupná obnova, 2024 zpřístupněno sedm místností"
+   "note": "prazdnedomy.cz (méně spolehlivý zdroj) uvádí odkoupení 2001, ale Českolipský deník 2009 uvádí, že město zámek nabízelo k prodeji už od zastupitelstva 1997 (rok získání neuvádí); rok nabytí proto neznámý (2001 vs. nejpozději 1997); od 2003-2004 postupná obnova, 2024 zpřístupněno sedm místností"
   }
  ],
  "events": [
@@ -153,8 +153,8 @@
    "text": "11. září zámek vyhořel po devastaci sovětskými vojsky"
   },
   {
-   "year": 2001,
-   "text": "město Stráž pod Ralskem odkoupilo zdevastovaný zámek"
+   "year": 1997,
+   "text": "zastupitelstvo Stráže pod Ralskem (již majitele zámku) rozhodlo o jeho prodeji za symbolickou korunu (prazdnedomy.cz uvádí získání městem až 2001 - rozpor)"
   },
   {
    "year": 2024,
@@ -166,6 +166,7 @@
   "https://www.strazpr.cz/zamek-vartenberk/d-1226",
   "https://www.hrady.cz/zamek-vartenberk",
   "http://prazdnedomy.cz/domy/objekty/detail/2192",
+  "https://ceskolipsky.denik.cz/zpravy-region/vatenberkstrazprodej20090728/",
   "https://www.propamatky.cz/index.php/zpravodajstvi/58848-historie-ve-vrstvach-obnova-fasady-zamku-vartenberk"
  ]
 }
