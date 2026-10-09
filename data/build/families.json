@@ -699,37 +699,37 @@
    {
     "place": "Q884494",
     "from": 1746,
-    "to": 1794,
+    "to": 1795,
     "person": "Jan Adam z Auerspergu",
     "how": "snatek",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q884494",
-    "from": 1794,
-    "to": 1842,
+    "from": 1795,
+    "to": 1822,
     "person": "Karel z Auerspergu",
     "how": "dedictvi",
-    "from_approx": true,
-    "to_approx": true
+    "from_approx": false,
+    "to_approx": false
    },
    {
     "place": "Q884494",
-    "from": 1842,
-    "to": 1890,
+    "from": 1822,
+    "to": 1867,
     "person": "Vincenc Karel Auersperg",
     "how": "dedictvi",
-    "from_approx": true,
-    "to_approx": true
+    "from_approx": false,
+    "to_approx": false
    },
    {
     "place": "Q884494",
-    "from": 1890,
+    "from": 1867,
     "to": 1938,
     "person": "František Josef z Auerspergu",
     "how": "dedictvi",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -3213,7 +3213,7 @@
     "person": "Gebhard Bernhard Blücher von Wahlstatt",
     "how": "snatek",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q1375348",
@@ -10152,8 +10152,8 @@
     "place": "Q2241928",
     "from": 1636,
     "to": 1782,
-    "person": "Eichendorffové (Jan Rudolf z Eichendorffu)",
-    "how": "neznamo",
+    "person": "Eichendorffové (Jakub z Eichendorffu, Jan Rudolf z Eichendorffu)",
+    "how": "snatek",
     "from_approx": false,
     "to_approx": false
    },
@@ -10171,9 +10171,9 @@
    {
     "place": "Q2241928",
     "year": 1636,
-    "from": "neznamo",
+    "from": "soukromnik",
     "to": "eichendorffove",
-    "how": "neznamo"
+    "how": "snatek"
    },
    {
     "place": "Q2241928",
@@ -31720,6 +31720,15 @@
     "to_approx": false
    },
    {
+    "place": "Q2241928",
+    "from": null,
+    "to": 1420,
+    "person": "Benešovicové, větev pánů z Kravař (poslední Petr Strážnický z Kravař)",
+    "how": "neznamo",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
     "place": "Q545847",
     "from": 1381,
     "to": 1422,
@@ -31882,6 +31891,13 @@
     "how": "dedictvi"
    },
    {
+    "place": "Q2241928",
+    "year": 1420,
+    "from": "pani-z-kravar",
+    "to": "z-slevic",
+    "how": "koupe"
+   },
+   {
     "place": "Q545847",
     "year": 1381,
     "from": "sternberkove",
@@ -31924,7 +31940,7 @@
     "how": "dedictvi"
    }
   ],
-  "place_count": 12,
+  "place_count": 13,
   "color_slot": null
  },
  "pani-z-krumlova": {
@@ -68009,6 +68025,15 @@
     "how": "koupe",
     "from_approx": false,
     "to_approx": true
+   },
+   {
+    "place": "Q2241928",
+    "from": 1581,
+    "to": 1630,
+    "person": "Macákové z Otenburka",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": true
    }
   ],
   "transfers": [
@@ -68025,9 +68050,23 @@
     "from": "z-ottenburga",
     "to": "z-tybi",
     "how": "koupe"
+   },
+   {
+    "place": "Q2241928",
+    "year": 1581,
+    "from": "neznamo",
+    "to": "z-ottenburga",
+    "how": "koupe"
+   },
+   {
+    "place": "Q2241928",
+    "year": 1630,
+    "from": "z-ottenburga",
+    "to": "soukromnik",
+    "how": "konfiskace"
    }
   ],
-  "place_count": 1,
+  "place_count": 2,
   "color_slot": null
  },
  "z-pavlovic": {
@@ -70891,6 +70930,15 @@
   "related": [],
   "places": [
    {
+    "place": "Q2241928",
+    "from": 1420,
+    "to": 1575,
+    "person": "Mikuláš ze Šlevic a další Šlevicové (Bartoloměj Kravařský ze Šlevic)",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": true
+   },
+   {
     "place": "Q31432053",
     "from": 1578,
     "to": 1582,
@@ -70901,6 +70949,20 @@
    }
   ],
   "transfers": [
+   {
+    "place": "Q2241928",
+    "year": 1420,
+    "from": "pani-z-kravar",
+    "to": "z-slevic",
+    "how": "koupe"
+   },
+   {
+    "place": "Q2241928",
+    "year": 1575,
+    "from": "z-slevic",
+    "to": "neznamo",
+    "how": "neznamo"
+   },
    {
     "place": "Q31432053",
     "year": 1578,
@@ -70916,7 +70978,7 @@
     "how": "dedictvi"
    }
   ],
-  "place_count": 1,
+  "place_count": 2,
   "color_slot": null
  },
  "z-slovic": {
@@ -79177,12 +79239,12 @@
    },
    {
     "place": "Q2241928",
-    "from": null,
-    "to": 1636,
-    "person": null,
+    "from": 1575,
+    "to": 1581,
+    "person": "mj. Elblové z Hertmansdorfu",
     "how": "neznamo",
-    "from_approx": false,
-    "to_approx": false
+    "from_approx": true,
+    "to_approx": true
    },
    {
     "place": "Q2244402",
@@ -79896,10 +79958,17 @@
    },
    {
     "place": "Q2241928",
-    "year": 1636,
-    "from": "neznamo",
-    "to": "eichendorffove",
+    "year": 1575,
+    "from": "z-slevic",
+    "to": "neznamo",
     "how": "neznamo"
+   },
+   {
+    "place": "Q2241928",
+    "year": 1581,
+    "from": "neznamo",
+    "to": "z-ottenburga",
+    "how": "koupe"
    },
    {
     "place": "Q2244402",
@@ -83012,11 +83081,11 @@
    {
     "place": "Q376781",
     "from": 1923,
-    "to": 1999,
+    "to": 1995,
     "person": null,
     "how": "koupe",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q37806788",
@@ -86683,7 +86752,7 @@
    },
    {
     "place": "Q376781",
-    "year": 1999,
+    "year": 1995,
     "from": "stat",
     "to": "mesto",
     "how": "jine"
@@ -94055,11 +94124,11 @@
    },
    {
     "place": "Q376781",
-    "from": 1999,
+    "from": 1995,
     "to": null,
     "person": "obec Jiřetín pod Jedlovou",
     "how": "jine",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -95715,7 +95784,7 @@
    },
    {
     "place": "Q376781",
-    "year": 1999,
+    "year": 1995,
     "from": "stat",
     "to": "mesto",
     "how": "jine"
@@ -98067,6 +98136,15 @@
     "how": "konfiskace",
     "from_approx": false,
     "to_approx": true
+   },
+   {
+    "place": "Q2241928",
+    "from": 1630,
+    "to": 1636,
+    "person": "Michal Sendivoj ze Skorska (Michał Sędziwój), polský alchymista a diplomat",
+    "how": "konfiskace",
+    "from_approx": false,
+    "to_approx": false
    },
    {
     "place": "Q2241928",
@@ -101699,6 +101777,20 @@
     "from": "soukromnik",
     "to": "sternberkove",
     "how": "jine"
+   },
+   {
+    "place": "Q2241928",
+    "year": 1630,
+    "from": "z-ottenburga",
+    "to": "soukromnik",
+    "how": "konfiskace"
+   },
+   {
+    "place": "Q2241928",
+    "year": 1636,
+    "from": "soukromnik",
+    "to": "eichendorffove",
+    "how": "snatek"
    },
    {
     "place": "Q2241928",

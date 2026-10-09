@@ -29007,9 +29007,9 @@
     "from": 1832,
     "to": 1875,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "snatek",
-    "note": "Blücher von Wahlstatt (cs.wiki bez článku o rodu); zadal úpravy zámku (1838, oprava sýpky po požáru 1841); cs.wiki uvádí k roku 1875 úmrtí 'hraběte Larische' - Larisch-Mönnich zemřel 1820, jde tedy o chybu v cs.wiki a rok 1875 tak nelze potvrdit; dle de.wiki žila na zámku i jeho manželka Marie (†1889) a syn Gebhard Leberecht"
+    "note": "Blücher von Wahlstatt (cs.wiki bez článku o rodu); zadal úpravy zámku (1838, oprava sýpky po požáru 1841); zemřel 8. 3. 1875 na zámku v Raduni (de.wiki, genealogie ČVUT gis.fsv.cvut.cz); cs.wiki k roku 1875 chybně píše o úmrtí 'hraběte Larische' - šlo o Blüchera; dle de.wiki žila na zámku i jeho manželka Marie (†1889) a syn Gebhard Leberecht"
    },
    {
     "owner": "blucherove",
@@ -29020,7 +29020,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "dedictvi",
-    "note": "čestný rytíř řádu maltézských rytířů, na zámku pobýval jen občasně"
+    "note": "po otci 1875 (de.wiki); od 1894 předal správu rodového majetku stejnojmennému synovi (obec Raduň); čestný rytíř řádu maltézských rytířů, na zámku pobýval jen občasně"
    },
    {
     "owner": "blucherove",
@@ -29119,7 +29119,10 @@
   "sources": [
    "https://cs.wikipedia.org/wiki/Raduň_(zámek)",
    "https://de.wikipedia.org/wiki/Schloss_Raduň",
-   "https://www.zamek-radun.cz/cs/o-zamku/historie"
+   "https://www.zamek-radun.cz/cs/o-zamku/historie",
+   "https://de.wikipedia.org/wiki/Gebhard_Bl%C3%BCcher_von_Wahlstatt",
+   "http://gis.fsv.cvut.cz/zamky/genealogie/blucher/php/person.php?o=0",
+   "https://www.obec-radun.cz/obec-radun/o-obci/historie-1/"
   ]
  },
  "Q1383301": {
@@ -41348,7 +41351,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "sběratel umění a mecenáš, koupil zámek koncem 1999 (zamektynec.cz; cs.wiki uvádí rok 2000) a zahájil postupnou rekonstrukci; starý zámek zůstával nepovšimnut, než byl 2003 ztotožněn s renesanční tvrzí; údaje o prodejích po 1927 se týkají celého zámeckého areálu (nový i starý zámek)"
+    "note": "sběratel umění a mecenáš, koupil zámek koncem 1999 (zamektynec.cz; cs.wiki uvádí rok 2000) a zahájil postupnou rekonstrukci; starý zámek zůstával nepovšimnut, než byl 2003 ztotožněn s renesanční tvrzí; údaje o prodejích po 1927 se týkají celého zámeckého areálu (nový i starý zámek); rok koupě: zamektynec.cz koncem 1999, cs.wiki, historickaslechta.cz a kudyznudy.cz 2000"
    }
   ],
   "events": [
@@ -41390,7 +41393,9 @@
    "https://cs.wikipedia.org/wiki/Týnec_(nový_zámek)",
    "https://www.zamektynec.cz/cz/zamek-tynec-v-letech-1934-1999/",
    "https://hrady-zriceniny.cz/hrad_tynec_stary_zamek.htm",
-   "https://www.hrady.cz/zamek-tynec"
+   "https://www.hrady.cz/zamek-tynec",
+   "https://www.historickaslechta.cz/mista/tynec-u-klatov-zamek/",
+   "https://www.kudyznudy.cz/aktivity/barokni-zamek-tynec-u-klatov"
   ]
  },
  "Q20982290": {
@@ -45507,29 +45512,73 @@
    "approx": true,
    "text": "Tvrz na místě dnešního zámku je poprvé připomínána roku 1553; starší tvrz pánů z Kravař (obec zmiňována 1224) stála na neznámém místě."
   },
-  "summary": "Zámek v Kravařích navazuje na tvrz doloženou od roku 1553, jejíž majitelé nejsou známi. Od roku 1636 patřil Eichendorffům, kteří zde postavili raně barokní zámek radikálně přestavěný v letech 1721-1728; po jejich zadlužení koupili Kravaře roku 1782 Schaffgotschové, dále je držel Rudzinští, Renardovi, podle německé wikipedie 1856-1911 Fontainové a Felix Luschka (1911-1914). Po krátkém držení obchodníky s pozemky a Centrální hospodářskou společností převzal zámek roku 1921 československý stát, 1937 téměř vyhořel; od roku 1990 je majetkem města Kravaře.",
+  "summary": "Zámek v Kravařích navazuje na tvrz doloženou od roku 1553; starší tvrz pánů z Kravař, od 1420 Šlevických, stála na jiném místě. Po Macácích z Otenburka získal panství 1630 polský alchymista Michal Sendivoj ze Skorska a roku 1636 přešlo sňatkem jeho dcery na Eichendorffy, kteří zde postavili raně barokní zámek, radikálně přestavěný 1721-1728. Po jejich zadlužení koupili Kravaře 1782 Schaffgotschové, dále je držel Rudzinští, Renardovi, podle německé wikipedie 1856-1911 Fontainové a Felix Luschka (1911-1914). Po krátkém držení obchodníky s pozemky a Centrální hospodářskou společností převzal zámek 1921 československý stát, 1937 téměř vyhořel; od roku 1990 je majetkem města Kravaře.",
   "owners": [
    {
-    "owner": "neznamo",
-    "owner_wiki": null,
-    "person": null,
+    "owner": "pani-z-kravar",
+    "owner_wiki": "Páni z Kravař",
+    "person": "Benešovicové, větev pánů z Kravař (poslední Petr Strážnický z Kravař)",
     "from": null,
-    "to": 1636,
+    "to": 1420,
     "from_approx": false,
     "to_approx": false,
     "how": "neznamo",
-    "note": "majitelé tvrze doložené 1553 nejsou v cs.wiki ani de.wiki uvedeni"
+    "note": "původní vodní tvrz (zmiňovaná 1377) stála na neznámém místě, podle cz-milka.net v západní části zámeckého areálu; Petr z Kravař ji roku 1420 prodal (zamekkravare.cz, ziveobce.cz, cz-milka.net, de.wiki.li)"
+   },
+   {
+    "owner": "z-slevic",
+    "owner_wiki": null,
+    "person": "Mikuláš ze Šlevic a další Šlevicové (Bartoloměj Kravařský ze Šlevic)",
+    "from": 1420,
+    "to": 1575,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "koupě od Petra z Kravař (cz-milka.net, pidifrk.cz); tvrz ještě 1550 připomínána s dvorem a pivovarem; konec držení 1575 podle cz-milka.net, ostatní zdroje roky neuvádějí"
+   },
+   {
+    "owner": "neznamo",
+    "owner_wiki": null,
+    "person": "mj. Elblové z Hertmansdorfu",
+    "from": 1575,
+    "to": 1581,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "pidifrk.cz jmenuje mezi pozdějšími vlastníky Elbly z Hertmansdorfu bez roků; pořadí a roky nejisté"
+   },
+   {
+    "owner": "z-ottenburga",
+    "owner_wiki": null,
+    "person": "Macákové z Otenburka",
+    "from": 1581,
+    "to": 1630,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "1581 koupili panství (de.wiki.li, pidifrk.cz); protestantští šlechtici, majetek ztratili po stavovském povstání (de.wiki.li uvádí 1629)"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Michal Sendivoj ze Skorska (Michał Sędziwój), polský alchymista a diplomat",
+    "from": 1630,
+    "to": 1636,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "konfiskace",
+    "note": "zkonfiskované panství získal (zamekkravare.cz: jako dar) díky kontaktům s císařským dvorem; 1632 nechal sepsat urbář; zemřel 1636"
    },
    {
     "owner": "eichendorffove",
     "owner_wiki": "Eichendorffové",
-    "person": "Eichendorffové (Jan Rudolf z Eichendorffu)",
+    "person": "Eichendorffové (Jakub z Eichendorffu, Jan Rudolf z Eichendorffu)",
     "from": 1636,
     "to": 1782,
     "from_approx": false,
     "to_approx": false,
-    "how": "neznamo",
-    "note": "od 1636 majetek Eichendorffů (de.wiki: panství do 1781), krátce po třicetileté válce postavili raně barokní zámek, 1721-1728 radikální přestavba za Jana Rudolfa z Eichendorffu; rod se zadlužil a Kravaře roku 1782 prodal; způsob nabytí 1636 zdroje neuvádějí"
+    "how": "snatek",
+    "note": "od 1636 majetek Eichendorffů: Sendivojova dcera Marie Veronika se provdala za Jakuba z Eichendorffu a Kravaře mu přinesla jako věno (zamekkravare.cz, de.wiki.li); krátce po třicetileté válce postavili raně barokní zámek, 1721-1728 radikální přestavba za Jana Rudolfa z Eichendorffu; de.wiki: panství do 1781; rod se zadlužil a Kravaře roku 1782 prodal"
    },
    {
     "owner": "schaffgotschove",
@@ -45572,7 +45621,8 @@
     "from_approx": true,
     "to_approx": false,
     "how": "neznamo",
-    "note": "pouze de.wiki (Schloss Kravaře); cs.wiki majitele 1853-1911 neuvádí; způsob nabytí neuveden"
+    "note": "pouze de.wiki (Schloss Kravaře, 1856-1911); cs.wiki a zámecké weby majitele 1853-1911 neuvádějí; způsob nabytí neuveden",
+    "owner_wiki": null
    },
    {
     "owner": "soukromnik",
@@ -45665,7 +45715,11 @@
   ],
   "sources": [
    "https://cs.wikipedia.org/wiki/Kravaře_(zámek)",
-   "https://de.wikipedia.org/wiki/Schloss_Kravaře"
+   "https://de.wikipedia.org/wiki/Schloss_Kravaře",
+   "https://www.zamekkravare.cz/o-zamku/historie/",
+   "https://www.cz-milka.net/pamatky/03-zamky/kravare/",
+   "https://pidifrk.cz/detail-pidifrku.php?p=407",
+   "https://de.wiki.li/Krava%C5%99e_ve_Slezsku"
   ]
  },
  "Q2241942": {
@@ -50126,7 +50180,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "koupe",
-    "note": "1661 koupil Kunčice s Nechanicemi za 630 000 zlatých rýnských, od 1662 připojeno k panství Bílá Třemešná, 1678 spojeno v panství Sadová (od 1656 držel Sadovou a Bílou Třemešnou po manželce); cs.wiki Schaffgotschové uvádí prodej Sadové 1786 (Jan Arnošt), Žižka (Průzkumy památek 2023) uvádí prodej hrabětem Josefem Schaffgotschem 1788 za 240 000 zlatých - rozpor, rok přibližný"
+    "note": "1661 koupil Kunčice s Nechanicemi za 630 000 zlatých rýnských, od 1662 připojeno k panství Bílá Třemešná, 1678 spojeno v panství Sadová (od 1656 držel Sadovou a Bílou Třemešnou po manželce); cs.wiki Schaffgotschové uvádí prodej Sadové 1786 (Jan Arnošt), Žižka (Průzkumy památek 2023) uvádí prodej hrabětem Josefem Schaffgotschem 1788 za 240 000 zlatých - rozpor, rok přibližný; cs.wiki Schaffgotschové uvádí k Sadové/Bílé Třemešné držbu 1656-1786; Žižka k panství Sadová uvádí 1788 (druhý nezávislý zdroj k 1788 nenalezen)"
    },
    {
     "owner": "soukromnik",
@@ -63793,7 +63847,7 @@
    "approx": true,
    "text": "Gotický hrad byl postaven začátkem 14. století, nejstaršími doloženými majiteli byli Vartenberkové (první písemná zmínka 1337, prvním doloženým vlastníkem Vaněk z Vartenberka)."
   },
-  "summary": "Hrad Tolštejn na Šluknovsku postavili počátkem 14. století Vartenberkové, po nich jej od počátku 15. století drželi Berkové z Dubé, po jejich konfiskaci roku 1464 opět Vartenberkové a od roku 1471 saští vévodové Wettinové, kteří jej koncem 15. století prodali Šlejnicům. Od roku 1586 patřil Mehlům ze Střelic, od 1607 Kinským, po konfiskaci 1634 Löblům a od 1656 Pöttingům; roku 1642 jej za třicetileté války vypálili Švédové a od té doby zůstal zříceninou. Od roku 1681 patřil Lichtenštejnům, kteří jej roku 1923 prodali československému státu; dnes je volně přístupnou zříceninou ve vlastnictví obce Jiřetín pod Jedlovou.",
+  "summary": "Hrad Tolštejn na Šluknovsku postavili počátkem 14. století Vartenberkové, po nich jej od počátku 15. století drželi Berkové z Dubé, po jejich konfiskaci roku 1464 opět Vartenberkové a od roku 1471 saští vévodové Wettinové, kteří jej koncem 15. století prodali Šlejnicům. Od roku 1586 patřil Mehlům ze Střelic, od 1607 Kinským, po konfiskaci 1634 Löblům a od 1656 Pöttingům; roku 1642 jej za třicetileté války vypálili Švédové a od té doby zůstal zříceninou. Od roku 1681 patřil Lichtenštejnům, kteří jej roku 1923 prodali československému státu; od roku 1995 (podle luzicke-hory.cz) je ve vlastnictví obce Jiřetín pod Jedlovou a slouží jako volně přístupná zřícenina.",
   "owners": [
    {
     "owner": "vartenberkove",
@@ -63804,7 +63858,7 @@
     "from_approx": true,
     "to_approx": true,
     "how": "zalozeni",
-    "note": "první písemná zmínka 1337 (nedoložený Bohuslav z Vartenberka); prvním doloženým vlastníkem byl Vaněk z Vartenberka, po jeho smrti 1364 drželi hrad synové a vnukové, naposledy Václav řečený z Tolštejna; rok prodeje Berkům: hrady.cz a en.wiki 1402, cs.wiki jen \"nejpozději před květnem 1404\"; de.wiki uvádí jako prvního majitele Jindřicha z Lipé (nepodloženo ostatními zdroji)"
+    "note": "první písemná zmínka 1337 (nedoložený Bohuslav z Vartenberka); prvním doloženým vlastníkem byl Vaněk z Vartenberka, po jeho smrti 1364 drželi hrad synové a vnukové, naposledy Václav řečený z Tolštejna; rok prodeje Berkům: hrady.cz a en.wiki 1402, cs.wiki jen \"nejpozději před květnem 1404\"; de.wiki uvádí jako prvního majitele Jindřicha z Lipé (nepodloženo ostatními zdroji); hrady.dejiny.cz: Václav z Vartenberka je na Tolštejně zmiňován naposledy 1402, kdy jej prodal Hynku Berkovi"
    },
    {
     "owner": "berkove-z-dube",
@@ -63965,22 +64019,22 @@
     "owner_wiki": null,
     "person": null,
     "from": 1923,
-    "to": 1999,
+    "to": 1995,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "koupe",
-    "note": "koupě od Lichtenštejnů (cs.wiki, hrady.cz); hostinec ve zřícenině provozoval od 1866 rod Münzbergů do 1945, kdy jej předal státu; podle de.wiki přešel hrad po soudním sporu koncem 1990. let na obec"
+    "note": "koupě od Lichtenštejnů při pozemkové reformě (cs.wiki, hrady.cz, hrady.dejiny.cz); hostinec ve zřícenině provozoval od 1866 rod Münzbergů do 1945, kdy jim byl zabaven; od 1985 chatu užívala TJ Nohyb Praha; rok přechodu na obec: luzicke-hory.cz a hrady.dejiny.cz (nájemní smlouva TJ Nohyb s novým majitelem obcí 1995) uvádějí 1995, de.wiki jen \"koncem 1990. let\" po právním sporu"
    },
    {
     "owner": "mesto",
     "owner_wiki": null,
     "person": "obec Jiřetín pod Jedlovou",
-    "from": 1999,
+    "from": 1995,
     "to": null,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false,
     "how": "jine",
-    "note": "dnes je hrad ve vlastnictví obce Jiřetín pod Jedlovou (cs.wiki); de.wiki uvádí přechod hradu a hostince na obec \"koncem 1990. let\" po právním sporu; přesný rok zdroje neuvádějí; volně přístupná zřícenina, placená vyhlídka"
+    "note": "hrad s bývalou restaurací přepsán do vlastnictví obce Jiřetín roku 1995 (luzicke-hory.cz, hrady.dejiny.cz); de.wiki uvádí přechod \"koncem 1990. let\" po právním sporu; dnes ve vlastnictví obce Jiřetín pod Jedlovou (cs.wiki); volně přístupná zřícenina, placená vyhlídka"
    }
   ],
   "events": [
@@ -64035,6 +64089,10 @@
    {
     "year": 1923,
     "text": "Lichtenštejnové prodali Tolštejn československému státu"
+   },
+   {
+    "year": 1995,
+    "text": "hrad s bývalou restaurací přepsán do vlastnictví obce Jiřetín pod Jedlovou (luzicke-hory.cz; de.wiki: koncem 1990. let)"
    }
   ],
   "sources": [
@@ -64045,7 +64103,8 @@
    "https://en.wikipedia.org/wiki/Tolštejn_Castle",
    "https://cs.wikipedia.org/wiki/Pöttingové_z_Persingu",
    "https://cs.wikipedia.org/wiki/František_Eusebius_z_Pöttingu",
-   "https://www.cokolivokoli.cz/86528-zamek-rumburk/"
+   "https://www.cokolivokoli.cz/86528-zamek-rumburk/",
+   "http://www.luzicke-hory.cz/mista/index.php?pg=zmtolsc"
   ]
  },
  "Q37806788": {
@@ -71452,9 +71511,9 @@
     "owner_wiki": "Auerspergové",
     "person": "Jan Adam z Auerspergu",
     "from": 1746,
-    "to": 1794,
+    "to": 1795,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "snatek",
     "note": "sňatek 1746 s Marií Kateřinou, dcerou a univerzální dědičkou Josefa Schönfelda; roku 1773 po ní panství zdědil (obec Slatiňany)"
    },
@@ -71462,34 +71521,34 @@
     "owner": "auerspergove",
     "owner_wiki": "Auerspergové",
     "person": "Karel z Auerspergu",
-    "from": 1794,
-    "to": 1842,
-    "from_approx": true,
-    "to_approx": true,
+    "from": 1795,
+    "to": 1822,
+    "from_approx": false,
+    "to_approx": false,
     "how": "dedictvi",
-    "note": "synovec Jana Adama; počátkem 19. století klasicistní úpravy zámku a parku"
+    "note": "synovec Jana Adama; po Janu Adamovi zemřelém 1795 zdědil panství (zamek-slatinany.cz, mistopisy.cz); 1796 založil anglický park, počátkem 19. století klasicistní úpravy zámku; Vincenc Karel zdědil 1822 (zamek-slatinany.cz)"
    },
    {
     "owner": "auerspergove",
     "owner_wiki": "Auerspergové",
     "person": "Vincenc Karel Auersperg",
-    "from": 1842,
-    "to": 1890,
-    "from_approx": true,
-    "to_approx": true,
+    "from": 1822,
+    "to": 1867,
+    "from_approx": false,
+    "to_approx": false,
     "how": "dedictvi",
-    "note": "prasynovec Karla; koncem 50. let 19. stol. novogotická přestavba (B. Škvor, F. Schmoranz st.)"
+    "note": "adoptivní syn / prasynovec Karla, zdědil 1822 jako nezletilý; zemřel 7. 7. 1867 ve Vídni (NPÚ, cs.wiki; web zámku jen 'o dva roky později' po přestavbě 1857); koncem 50. let 19. stol. novogotická přestavba (B. Škvor, F. Schmoranz st.)"
    },
    {
     "owner": "auerspergove",
     "owner_wiki": "Auerspergové",
     "person": "František Josef z Auerspergu",
-    "from": 1890,
+    "from": 1867,
     "to": 1938,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "pokračoval v přestavbách do konce 19. stol.; zemřel 1938 (obec Slatiňany)"
+    "note": "po otci zdědil jako nezletilý (zamek-slatinany.cz); pokračoval v přestavbách do konce 19. stol.; zemřel 1938 (obec Slatiňany)"
    },
    {
     "owner": "auerspergove",
@@ -71570,6 +71629,8 @@
    "https://cs.wikipedia.org/wiki/Slatiňany_(zámek)",
    "https://cs.wikipedia.org/wiki/Slatiňany",
    "https://www.zamek-slatinany.cz/cs/o-zamku/historie",
+   "https://www.npu.cz/cs/novinky/23339-vyroci-umrti-knizete-vincence-karla-z-auerspergu",
+   "https://cs.wikipedia.org/wiki/Vincenc_Karel_z_Auerspergu",
    "https://dk.upce.cz/bitstreams/8c18b6dc-eb4d-4bc5-8258-3e541bd16ad4/download"
   ]
  },

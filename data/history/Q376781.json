@@ -6,7 +6,7 @@
   "approx": true,
   "text": "Gotický hrad byl postaven začátkem 14. století, nejstaršími doloženými majiteli byli Vartenberkové (první písemná zmínka 1337, prvním doloženým vlastníkem Vaněk z Vartenberka)."
  },
- "summary": "Hrad Tolštejn na Šluknovsku postavili počátkem 14. století Vartenberkové, po nich jej od počátku 15. století drželi Berkové z Dubé, po jejich konfiskaci roku 1464 opět Vartenberkové a od roku 1471 saští vévodové Wettinové, kteří jej koncem 15. století prodali Šlejnicům. Od roku 1586 patřil Mehlům ze Střelic, od 1607 Kinským, po konfiskaci 1634 Löblům a od 1656 Pöttingům; roku 1642 jej za třicetileté války vypálili Švédové a od té doby zůstal zříceninou. Od roku 1681 patřil Lichtenštejnům, kteří jej roku 1923 prodali československému státu; dnes je volně přístupnou zříceninou ve vlastnictví obce Jiřetín pod Jedlovou.",
+ "summary": "Hrad Tolštejn na Šluknovsku postavili počátkem 14. století Vartenberkové, po nich jej od počátku 15. století drželi Berkové z Dubé, po jejich konfiskaci roku 1464 opět Vartenberkové a od roku 1471 saští vévodové Wettinové, kteří jej koncem 15. století prodali Šlejnicům. Od roku 1586 patřil Mehlům ze Střelic, od 1607 Kinským, po konfiskaci 1634 Löblům a od 1656 Pöttingům; roku 1642 jej za třicetileté války vypálili Švédové a od té doby zůstal zříceninou. Od roku 1681 patřil Lichtenštejnům, kteří jej roku 1923 prodali československému státu; od roku 1995 (podle luzicke-hory.cz) je ve vlastnictví obce Jiřetín pod Jedlovou a slouží jako volně přístupná zřícenina.",
  "owners": [
   {
    "owner": "vartenberkove",
@@ -17,7 +17,7 @@
    "from_approx": true,
    "to_approx": true,
    "how": "zalozeni",
-   "note": "první písemná zmínka 1337 (nedoložený Bohuslav z Vartenberka); prvním doloženým vlastníkem byl Vaněk z Vartenberka, po jeho smrti 1364 drželi hrad synové a vnukové, naposledy Václav řečený z Tolštejna; rok prodeje Berkům: hrady.cz a en.wiki 1402, cs.wiki jen \"nejpozději před květnem 1404\"; de.wiki uvádí jako prvního majitele Jindřicha z Lipé (nepodloženo ostatními zdroji)"
+   "note": "první písemná zmínka 1337 (nedoložený Bohuslav z Vartenberka); prvním doloženým vlastníkem byl Vaněk z Vartenberka, po jeho smrti 1364 drželi hrad synové a vnukové, naposledy Václav řečený z Tolštejna; rok prodeje Berkům: hrady.cz a en.wiki 1402, cs.wiki jen \"nejpozději před květnem 1404\"; de.wiki uvádí jako prvního majitele Jindřicha z Lipé (nepodloženo ostatními zdroji); hrady.dejiny.cz: Václav z Vartenberka je na Tolštejně zmiňován naposledy 1402, kdy jej prodal Hynku Berkovi"
   },
   {
    "owner": "berkove-z-dube",
@@ -178,22 +178,22 @@
    "owner_wiki": null,
    "person": null,
    "from": 1923,
-   "to": 1999,
+   "to": 1995,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "koupe",
-   "note": "koupě od Lichtenštejnů (cs.wiki, hrady.cz); hostinec ve zřícenině provozoval od 1866 rod Münzbergů do 1945, kdy jej předal státu; podle de.wiki přešel hrad po soudním sporu koncem 1990. let na obec"
+   "note": "koupě od Lichtenštejnů při pozemkové reformě (cs.wiki, hrady.cz, hrady.dejiny.cz); hostinec ve zřícenině provozoval od 1866 rod Münzbergů do 1945, kdy jim byl zabaven; od 1985 chatu užívala TJ Nohyb Praha; rok přechodu na obec: luzicke-hory.cz a hrady.dejiny.cz (nájemní smlouva TJ Nohyb s novým majitelem obcí 1995) uvádějí 1995, de.wiki jen \"koncem 1990. let\" po právním sporu"
   },
   {
    "owner": "mesto",
    "owner_wiki": null,
    "person": "obec Jiřetín pod Jedlovou",
-   "from": 1999,
+   "from": 1995,
    "to": null,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "jine",
-   "note": "dnes je hrad ve vlastnictví obce Jiřetín pod Jedlovou (cs.wiki); de.wiki uvádí přechod hradu a hostince na obec \"koncem 1990. let\" po právním sporu; přesný rok zdroje neuvádějí; volně přístupná zřícenina, placená vyhlídka"
+   "note": "hrad s bývalou restaurací přepsán do vlastnictví obce Jiřetín roku 1995 (luzicke-hory.cz, hrady.dejiny.cz); de.wiki uvádí přechod \"koncem 1990. let\" po právním sporu; dnes ve vlastnictví obce Jiřetín pod Jedlovou (cs.wiki); volně přístupná zřícenina, placená vyhlídka"
   }
  ],
  "events": [
@@ -248,6 +248,10 @@
   {
    "year": 1923,
    "text": "Lichtenštejnové prodali Tolštejn československému státu"
+  },
+  {
+   "year": 1995,
+   "text": "hrad s bývalou restaurací přepsán do vlastnictví obce Jiřetín pod Jedlovou (luzicke-hory.cz; de.wiki: koncem 1990. let)"
   }
  ],
  "sources": [
@@ -258,6 +262,7 @@
   "https://en.wikipedia.org/wiki/Tolštejn_Castle",
   "https://cs.wikipedia.org/wiki/Pöttingové_z_Persingu",
   "https://cs.wikipedia.org/wiki/František_Eusebius_z_Pöttingu",
-  "https://www.cokolivokoli.cz/86528-zamek-rumburk/"
+  "https://www.cokolivokoli.cz/86528-zamek-rumburk/",
+  "http://www.luzicke-hory.cz/mista/index.php?pg=zmtolsc"
  ]
 }

@@ -6,29 +6,73 @@
   "approx": true,
   "text": "Tvrz na místě dnešního zámku je poprvé připomínána roku 1553; starší tvrz pánů z Kravař (obec zmiňována 1224) stála na neznámém místě."
  },
- "summary": "Zámek v Kravařích navazuje na tvrz doloženou od roku 1553, jejíž majitelé nejsou známi. Od roku 1636 patřil Eichendorffům, kteří zde postavili raně barokní zámek radikálně přestavěný v letech 1721-1728; po jejich zadlužení koupili Kravaře roku 1782 Schaffgotschové, dále je držel Rudzinští, Renardovi, podle německé wikipedie 1856-1911 Fontainové a Felix Luschka (1911-1914). Po krátkém držení obchodníky s pozemky a Centrální hospodářskou společností převzal zámek roku 1921 československý stát, 1937 téměř vyhořel; od roku 1990 je majetkem města Kravaře.",
+ "summary": "Zámek v Kravařích navazuje na tvrz doloženou od roku 1553; starší tvrz pánů z Kravař, od 1420 Šlevických, stála na jiném místě. Po Macácích z Otenburka získal panství 1630 polský alchymista Michal Sendivoj ze Skorska a roku 1636 přešlo sňatkem jeho dcery na Eichendorffy, kteří zde postavili raně barokní zámek, radikálně přestavěný 1721-1728. Po jejich zadlužení koupili Kravaře 1782 Schaffgotschové, dále je držel Rudzinští, Renardovi, podle německé wikipedie 1856-1911 Fontainové a Felix Luschka (1911-1914). Po krátkém držení obchodníky s pozemky a Centrální hospodářskou společností převzal zámek 1921 československý stát, 1937 téměř vyhořel; od roku 1990 je majetkem města Kravaře.",
  "owners": [
   {
-   "owner": "neznamo",
-   "owner_wiki": null,
-   "person": null,
+   "owner": "pani-z-kravar",
+   "owner_wiki": "Páni z Kravař",
+   "person": "Benešovicové, větev pánů z Kravař (poslední Petr Strážnický z Kravař)",
    "from": null,
-   "to": 1636,
+   "to": 1420,
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "majitelé tvrze doložené 1553 nejsou v cs.wiki ani de.wiki uvedeni"
+   "note": "původní vodní tvrz (zmiňovaná 1377) stála na neznámém místě, podle cz-milka.net v západní části zámeckého areálu; Petr z Kravař ji roku 1420 prodal (zamekkravare.cz, ziveobce.cz, cz-milka.net, de.wiki.li)"
+  },
+  {
+   "owner": "z-slevic",
+   "owner_wiki": null,
+   "person": "Mikuláš ze Šlevic a další Šlevicové (Bartoloměj Kravařský ze Šlevic)",
+   "from": 1420,
+   "to": 1575,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "koupě od Petra z Kravař (cz-milka.net, pidifrk.cz); tvrz ještě 1550 připomínána s dvorem a pivovarem; konec držení 1575 podle cz-milka.net, ostatní zdroje roky neuvádějí"
+  },
+  {
+   "owner": "neznamo",
+   "owner_wiki": null,
+   "person": "mj. Elblové z Hertmansdorfu",
+   "from": 1575,
+   "to": 1581,
+   "from_approx": true,
+   "to_approx": true,
+   "how": "neznamo",
+   "note": "pidifrk.cz jmenuje mezi pozdějšími vlastníky Elbly z Hertmansdorfu bez roků; pořadí a roky nejisté"
+  },
+  {
+   "owner": "z-ottenburga",
+   "owner_wiki": null,
+   "person": "Macákové z Otenburka",
+   "from": 1581,
+   "to": 1630,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "koupe",
+   "note": "1581 koupili panství (de.wiki.li, pidifrk.cz); protestantští šlechtici, majetek ztratili po stavovském povstání (de.wiki.li uvádí 1629)"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Michal Sendivoj ze Skorska (Michał Sędziwój), polský alchymista a diplomat",
+   "from": 1630,
+   "to": 1636,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "zkonfiskované panství získal (zamekkravare.cz: jako dar) díky kontaktům s císařským dvorem; 1632 nechal sepsat urbář; zemřel 1636"
   },
   {
    "owner": "eichendorffove",
    "owner_wiki": "Eichendorffové",
-   "person": "Eichendorffové (Jan Rudolf z Eichendorffu)",
+   "person": "Eichendorffové (Jakub z Eichendorffu, Jan Rudolf z Eichendorffu)",
    "from": 1636,
    "to": 1782,
    "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "od 1636 majetek Eichendorffů (de.wiki: panství do 1781), krátce po třicetileté válce postavili raně barokní zámek, 1721-1728 radikální přestavba za Jana Rudolfa z Eichendorffu; rod se zadlužil a Kravaře roku 1782 prodal; způsob nabytí 1636 zdroje neuvádějí"
+   "how": "snatek",
+   "note": "od 1636 majetek Eichendorffů: Sendivojova dcera Marie Veronika se provdala za Jakuba z Eichendorffu a Kravaře mu přinesla jako věno (zamekkravare.cz, de.wiki.li); krátce po třicetileté válce postavili raně barokní zámek, 1721-1728 radikální přestavba za Jana Rudolfa z Eichendorffu; de.wiki: panství do 1781; rod se zadlužil a Kravaře roku 1782 prodal"
   },
   {
    "owner": "schaffgotschove",
@@ -71,7 +115,8 @@
    "from_approx": true,
    "to_approx": false,
    "how": "neznamo",
-   "note": "pouze de.wiki (Schloss Kravaře); cs.wiki majitele 1853-1911 neuvádí; způsob nabytí neuveden"
+   "note": "pouze de.wiki (Schloss Kravaře, 1856-1911); cs.wiki a zámecké weby majitele 1853-1911 neuvádějí; způsob nabytí neuveden",
+   "owner_wiki": null
   },
   {
    "owner": "soukromnik",
@@ -164,6 +209,10 @@
  ],
  "sources": [
   "https://cs.wikipedia.org/wiki/Kravaře_(zámek)",
-  "https://de.wikipedia.org/wiki/Schloss_Kravaře"
+  "https://de.wikipedia.org/wiki/Schloss_Kravaře",
+  "https://www.zamekkravare.cz/o-zamku/historie/",
+  "https://www.cz-milka.net/pamatky/03-zamky/kravare/",
+  "https://pidifrk.cz/detail-pidifrku.php?p=407",
+  "https://de.wiki.li/Krava%C5%99e_ve_Slezsku"
  ]
 }

@@ -125,9 +125,9 @@
    "from": 1832,
    "to": 1875,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "snatek",
-   "note": "Blücher von Wahlstatt (cs.wiki bez článku o rodu); zadal úpravy zámku (1838, oprava sýpky po požáru 1841); cs.wiki uvádí k roku 1875 úmrtí 'hraběte Larische' - Larisch-Mönnich zemřel 1820, jde tedy o chybu v cs.wiki a rok 1875 tak nelze potvrdit; dle de.wiki žila na zámku i jeho manželka Marie (†1889) a syn Gebhard Leberecht"
+   "note": "Blücher von Wahlstatt (cs.wiki bez článku o rodu); zadal úpravy zámku (1838, oprava sýpky po požáru 1841); zemřel 8. 3. 1875 na zámku v Raduni (de.wiki, genealogie ČVUT gis.fsv.cvut.cz); cs.wiki k roku 1875 chybně píše o úmrtí 'hraběte Larische' - šlo o Blüchera; dle de.wiki žila na zámku i jeho manželka Marie (†1889) a syn Gebhard Leberecht"
   },
   {
    "owner": "blucherove",
@@ -138,7 +138,7 @@
    "from_approx": false,
    "to_approx": true,
    "how": "dedictvi",
-   "note": "čestný rytíř řádu maltézských rytířů, na zámku pobýval jen občasně"
+   "note": "po otci 1875 (de.wiki); od 1894 předal správu rodového majetku stejnojmennému synovi (obec Raduň); čestný rytíř řádu maltézských rytířů, na zámku pobýval jen občasně"
   },
   {
    "owner": "blucherove",
@@ -237,6 +237,9 @@
  "sources": [
   "https://cs.wikipedia.org/wiki/Raduň_(zámek)",
   "https://de.wikipedia.org/wiki/Schloss_Raduň",
-  "https://www.zamek-radun.cz/cs/o-zamku/historie"
+  "https://www.zamek-radun.cz/cs/o-zamku/historie",
+  "https://de.wikipedia.org/wiki/Gebhard_Bl%C3%BCcher_von_Wahlstatt",
+  "http://gis.fsv.cvut.cz/zamky/genealogie/blucher/php/person.php?o=0",
+  "https://www.obec-radun.cz/obec-radun/o-obci/historie-1/"
  ]
 }
