@@ -15,11 +15,11 @@
   "places": [
    {
     "place": "Q1014002",
-    "from": 1522,
+    "from": 1516,
     "to": 1528,
     "person": "Petr Adršpach z Dubé",
     "how": "jine",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -35,7 +35,7 @@
   "transfers": [
    {
     "place": "Q1014002",
-    "year": 1522,
+    "year": 1516,
     "from": "spetlove-z-janovic",
     "to": "adrspachove-z-dube",
     "how": "jine"
@@ -48134,11 +48134,11 @@
    {
     "place": "Q1014002",
     "from": 1515,
-    "to": 1522,
+    "to": 1516,
     "person": "Jan (Hynek) Špetle z Náchoda",
     "how": "jine",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q11816208",
@@ -48210,7 +48210,7 @@
    },
    {
     "place": "Q1014002",
-    "year": 1522,
+    "year": 1516,
     "from": "spetlove-z-janovic",
     "to": "adrspachove-z-dube",
     "how": "jine"
@@ -52766,7 +52766,7 @@
     "person": "hrabě Trauttmansdorff",
     "how": "koupe",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q11176339",
@@ -97155,7 +97155,7 @@
     "place": "Q10968666",
     "from": 1629,
     "to": 1636,
-    "person": "Magdalena Helena Puchmová z Valdštejna",
+    "person": "Magdalena Helena Puchmová z Valdštejna (hrady.cz: Puchámová)",
     "how": "koupe",
     "from_approx": false,
     "to_approx": true
@@ -97181,11 +97181,20 @@
    {
     "place": "Q10968666",
     "from": 1685,
-    "to": 1718,
+    "to": 1712,
     "person": "Jan Dětřich z Rummerskirchenu",
     "how": "koupe",
     "from_approx": false,
     "to_approx": true
+   },
+   {
+    "place": "Q10968666",
+    "from": 1712,
+    "to": 1718,
+    "person": "hraběnka Kornelie z Trauttmansdorfu",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
    },
    {
     "place": "Q11158655",
