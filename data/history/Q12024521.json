@@ -83,7 +83,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "jen podle turistického webu Via Ludmila (méně spolehlivý): těsně před vypuknutím husitských válek"
+   "note": "jen podle turistického webu Via Ludmila (méně spolehlivý): těsně před vypuknutím husitských válek; jiné zdroje (cs.wiki, Muzea a galerie na Vysočině) Beneše nezmiňují, nepotvrzeno"
   },
   {
    "owner": "pani-z-dube-ronovci",
@@ -94,7 +94,7 @@
    "from_approx": true,
    "to_approx": true,
    "how": "koupe",
-   "note": "koupil hrad někdy po roce 1426, jako jenštejnský pán poprvé označen 1431, zemřel nejpozději 1435 (purkrabím Petr Suda)"
+   "note": "koupil hrad někdy po roce 1426, jako jenštejnský pán poprvé označen 1431, zemřel nejpozději 1435 (purkrabím Petr Suda); Muzea a galerie na Vysočině: Jenštejn měl ve 30. letech 15. stol.; příslušnost k větvi (Škopkové z Dubé?) zdroje neuvádějí"
   },
   {
    "owner": "z-liblic",
@@ -115,7 +115,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "přesná léta držby obou zdroje neuvádějí"
+   "note": "přesná léta držby obou zdroje neuvádějí; Muzea a galerie na Vysočině: Baltazar z Košína 1465, Václav Holec z Květnice 1483"
   },
   {
    "owner": "ojirove-z-ocedelic",
@@ -236,7 +236,7 @@
    "from_approx": false,
    "to_approx": true,
    "how": "koupe",
-   "note": "koupil 1560 od Václava Hrzána (hrad-jenstejn.cz: Jan Dobřichovský držel 1544-1583, Via Ludmila: od 1561); 1568 jej chtěl prodat Ladislavu st. z Lobkovic, ale neměl jej zapsaný v zemských deskách a prodej nebyl naplněn; hrad prý propil a zadlužil; zemřel 1582 (muzeum Brandýs) / 1583 (obec Jenštejn, hrad-jenstejn.cz) / 1587 (obec Dehtáry); o majetek se hlásily sestra Dorota Lipská z Prahy a neteř Anna Dobřichovská z Dobřichova"
+   "note": "koupil 1560 od Václava Hrzána (hrad-jenstejn.cz: Jan Dobřichovský držel 1544-1583, Via Ludmila: od 1561); 1568 jej chtěl prodat Ladislavu st. z Lobkovic, ale neměl jej zapsaný v zemských deskách a prodej nebyl naplněn; hrad prý propil a zadlužil; 1583 podle Muzea a galerie na Vysočině (rejstřík) a webu obce Jenštejn; zemřel 1582 (muzeum Brandýs) / 1583 (obec Jenštejn, hrad-jenstejn.cz) / 1587 (obec Dehtáry); o majetek se hlásily sestra Dorota Lipská z Prahy a neteř Anna Dobřichovská z Dobřichova"
   },
   {
    "owner": "koruna",
@@ -247,7 +247,7 @@
    "from_approx": true,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "česká komora se hradu zmocnila pro nezaplacené dluhy a pokuty Jana Dobřichovského (cs.wiki chybně uvádí od 1568 brandýský hejtman), v 80. letech 16. stol. (obec: 1587) připojen ke komornímu panství brandýskému; nebyl obýván, 1597 pustý, 1608 zámek starý a zpustlý, 1639-1640 vypálen Švédy; zůstal komornímu panství až do zrušení poddanství; další majitelé v 17.-20. stol. v pramenech neuvedeni (muzeum Brandýs)"
+   "note": "česká komora se hradu zmocnila pro nezaplacené dluhy a pokuty Jana Dobřichovského (cs.wiki chybně uvádí od 1568 brandýský hejtman), v 80. letech 16. stol. (obec: 1587) připojen ke komornímu panství brandýskému; nebyl obýván, 1597 pustý, 1608 zámek starý a zpustlý, 1639-1640 vypálen Švédy; zůstal komornímu panství až do zrušení poddanství; další majitelé v 17.-20. stol. v pramenech neuvedeni (muzeum Brandýs); rok smrti Dobřichovského 1583 potvrzuje i rejstřík Muzea a galerie na Vysočině"
   },
   {
    "owner": "mesto",
@@ -302,6 +302,7 @@
  "sources": [
   "https://cs.wikipedia.org/wiki/Jenštejn_(hrad)",
   "https://www.hrad-jenstejn.cz/historie-hradu/",
+  "https://www.mgvysociny.cz/vismo/rejstrik.asp?id_org=450032&p1=904&rh=875",
   "https://www.jenstejn.cz/nase-obec/o-nasi-obci/historie-jenstejna/",
   "https://brandys.muzeumbrandys.cz/cz/kterak-jenstejn-pripojili-k-brandyskeho-panstvi",
   "https://www.vialudmila.cz/zastaveni/jenstejn/ (turistický web, méně spolehlivý)"
