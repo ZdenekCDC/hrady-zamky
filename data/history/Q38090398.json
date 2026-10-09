@@ -31,14 +31,25 @@
     },
     {
       "owner": "z-kralovic",
-      "owner_wiki": "z-kralovic",
+      "owner_wiki": null,
       "person": "Oldřich z Kralovic",
       "from": 1483,
-      "to": null,
+      "to": 1487,
       "from_approx": false,
       "to_approx": false,
       "how": "koupe",
-      "note": "Poté čtyři neznámí majitelé (cs.wiki), jména ani roky zdroje neuvádějí."
+      "note": "Roky 1483-1487 podle obce Radim a tourismato.cz."
+    },
+    {
+      "owner": "neznamo",
+      "owner_wiki": null,
+      "person": "čtyři neznámí majitelé",
+      "from": 1487,
+      "to": 1541,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "neznamo",
+      "note": "cs.wiki a hrady.cz: po Oldřichovi z Kralovic se vystřídali ještě čtyři (hrady.cz: několik dalších) majitelé; jména ani roky zdroje neuvádějí."
     },
     {
       "owner": "zarubove-z-hustiran",
@@ -168,7 +179,7 @@
       "from_approx": false,
       "to_approx": false,
       "how": "koupe",
-      "note": "Zámek sloužil správě statku; roky Lichtenštejnů cs.wiki 140 let / 1925, web zámku a cestyapamatky 144 let / prodej 1927 (použito 1927)."
+      "note": "Zámek sloužil správě statku; roky Lichtenštejnů cs.wiki 140 let / 1925, web zámku a cestyapamatky 144 let / prodej 1927 (použito 1927); poznejdomy.cz uvádí prodej 1925, Historický spolek Liechtenstein 1923."
     },
     {
       "owner": "soukromnik",
@@ -185,7 +196,7 @@
       "owner_wiki": null,
       "person": null,
       "from": 1948,
-      "to": 1990,
+      "to": 1994,
       "from_approx": false,
       "to_approx": false,
       "how": "konfiskace",
@@ -195,12 +206,12 @@
       "owner": "soukromnik",
       "owner_wiki": null,
       "person": "potomci Jaroslava Bukovského",
-      "from": 1990,
+      "from": 1994,
       "to": 2005,
       "from_approx": false,
       "to_approx": false,
       "how": "restituce",
-      "note": "Restituce 1990 podle cs.wiki a hrady.cz; web zámku a cestyapamatky uvádějí 1994 (konec užívání obecním úřadem)."
+      "note": "Restituce 1994 (web zámku, cestyapamatky, poznejdomy, Historický spolek Liechtenstein; konec užívání obecním úřadem); cs.wiki a hrady.cz uvádějí 1990."
     },
     {
       "owner": "soukromnik",
@@ -262,6 +273,9 @@
     "https://cs.wikipedia.org/wiki/Radim_(zámek)",
     "https://www.zamek-radim.cz/historie/",
     "https://www.cestyapamatky.cz/kolinsko/radim/zamek",
-    "https://www.hrady.cz/zamek-radim-kolin"
+    "https://www.hrady.cz/zamek-radim-kolin",
+    "https://www.obecradim.cz/nase-obec/historie/",
+    "https://poznejdomy.cz/domy/detail/1779-zamek-radim",
+    "https://www.hs-liechtenstein.cz/Radim---zamek.html"
   ]
 }

@@ -63318,9 +63318,9 @@
     "from": 1833,
     "to": 1867,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "dedictvi",
-    "note": "Dcery panství prodaly Fanny Fattonové; rok prodeje zdroje neuvádějí (nejpozději 1867)."
+    "note": "Dcery panství prodaly Fanny Fattonové; rok prodeje zdroje výslovně neuvádějí, konec zapsán k roku nákupu Fattonovou 1867 (Historie ke Kávě)."
    },
    {
     "owner": "soukromnik",
@@ -64671,14 +64671,25 @@
    },
    {
     "owner": "z-kralovic",
-    "owner_wiki": "z-kralovic",
+    "owner_wiki": null,
     "person": "Oldřich z Kralovic",
     "from": 1483,
+    "to": 1487,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "Roky 1483-1487 podle obce Radim a tourismato.cz."
+   },
+   {
+    "owner": "neznamo",
+    "owner_wiki": null,
+    "person": "čtyři neznámí majitelé",
+    "from": 1487,
     "to": 1541,
     "from_approx": false,
-    "to_approx": true,
-    "how": "koupe",
-    "note": "Poté čtyři neznámí majitelé (cs.wiki), jména ani roky zdroje neuvádějí."
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "cs.wiki a hrady.cz: po Oldřichovi z Kralovic se vystřídali ještě čtyři (hrady.cz: několik dalších) majitelé; jména ani roky zdroje neuvádějí."
    },
    {
     "owner": "zarubove-z-hustiran",
@@ -64808,7 +64819,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "Zámek sloužil správě statku; roky Lichtenštejnů cs.wiki 140 let / 1925, web zámku a cestyapamatky 144 let / prodej 1927 (použito 1927)."
+    "note": "Zámek sloužil správě statku; roky Lichtenštejnů cs.wiki 140 let / 1925, web zámku a cestyapamatky 144 let / prodej 1927 (použito 1927); poznejdomy.cz uvádí prodej 1925, Historický spolek Liechtenstein 1923."
    },
    {
     "owner": "soukromnik",
@@ -64825,7 +64836,7 @@
     "owner_wiki": null,
     "person": null,
     "from": 1948,
-    "to": 1990,
+    "to": 1994,
     "from_approx": false,
     "to_approx": false,
     "how": "konfiskace",
@@ -64835,12 +64846,12 @@
     "owner": "soukromnik",
     "owner_wiki": null,
     "person": "potomci Jaroslava Bukovského",
-    "from": 1990,
+    "from": 1994,
     "to": 2005,
     "from_approx": false,
     "to_approx": false,
     "how": "restituce",
-    "note": "Restituce 1990 podle cs.wiki a hrady.cz; web zámku a cestyapamatky uvádějí 1994 (konec užívání obecním úřadem)."
+    "note": "Restituce 1994 (web zámku, cestyapamatky, poznejdomy, Historický spolek Liechtenstein; konec užívání obecním úřadem); cs.wiki a hrady.cz uvádějí 1990."
    },
    {
     "owner": "soukromnik",
@@ -64902,7 +64913,10 @@
    "https://cs.wikipedia.org/wiki/Radim_(zámek)",
    "https://www.zamek-radim.cz/historie/",
    "https://www.cestyapamatky.cz/kolinsko/radim/zamek",
-   "https://www.hrady.cz/zamek-radim-kolin"
+   "https://www.hrady.cz/zamek-radim-kolin",
+   "https://www.obecradim.cz/nase-obec/historie/",
+   "https://poznejdomy.cz/domy/detail/1779-zamek-radim",
+   "https://www.hs-liechtenstein.cz/Radim---zamek.html"
   ]
  },
  "Q38094997": {
@@ -65402,7 +65416,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "Hrady.cz uvádí sjednocení panství Janem Ugarte až 1743; sňatkem s poslední dědičkou Gabrielou získal panství Karel Locatelli."
+    "note": "Rok 1736 podle MZM a cs.wiki; jevisovice.info (turistický web města) a cs.wiki Ugartové uvádějí přechod celého panství na Ugarty až 1743 (v 1735 Jan Nepomuk Ugarte vyplatil podíl sestry své manželky Vilemíny de Souches); sňatkem s poslední dědičkou Gabrielou získal panství Karel Locatelli."
    },
    {
     "owner": "soukromnik",
@@ -65413,7 +65427,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "snatek",
-    "note": "Rok konce odvozen od nástupu Biedermannů 1898 (MZM)."
+    "note": "Rok konce odvozen od nástupu Biedermannů 1898 (MZM); cs.wiki Ugartové uvádí, že panství skončilo v dražbě a Biedermann je koupil 1897, Ugartové (sestry Maxmiliána) je držely do té doby."
    },
    {
     "owner": "biedermannove",
@@ -65492,7 +65506,9 @@
    "https://cs.wikipedia.org/wiki/Jevišovice_(starý_zámek)",
    "https://mzm.cz/stary-zamek-v-jevisovicich",
    "https://www.hrady.cz/zamek-jevisovice/",
-   "http://www.kultura.cz/profile/2531-moravske-zemske-muzeum-stary-zamek-v-jevisovicich"
+   "http://www.kultura.cz/profile/2531-moravske-zemske-muzeum-stary-zamek-v-jevisovicich",
+   "https://www.jevisovice.info/aktivity/stary-zamek",
+   "https://cs.wikipedia.org/wiki/Ugartové"
   ]
  },
  "Q453713": {
@@ -66393,7 +66409,7 @@
     "owner_wiki": "Páni z Lipé",
     "person": "páni z Lipé",
     "from": 1346,
-    "to": 1364,
+    "to": 1376,
     "from_approx": false,
     "to_approx": true,
     "how": "neznamo"
@@ -66402,23 +66418,23 @@
     "owner": "sternberkove",
     "owner_wiki": "Šternberkové",
     "person": "páni ze Šternberka",
-    "from": 1364,
-    "to": 1381,
-    "from_approx": true,
+    "from": 1376,
+    "to": 1399,
+    "from_approx": false,
     "to_approx": false,
     "how": "neznamo",
-    "note": "E-Finance uvádí Šternberky 1376."
+    "note": "Hrady.cz uvádí Šternberky 1376 (Atlas české architektury 1375, e-Finance 1376); Markvart ze Šternberka předal hrad 1399 Petru z Kravař (hrady.cz, Atlas české architektury); cs.wiki uvádí příchod Petra z Kravař už 1381."
    },
    {
     "owner": "pani-z-kravar",
     "owner_wiki": "Páni z Kravař",
     "person": "Petr z Kravař",
-    "from": 1381,
+    "from": 1399,
     "to": 1422,
     "from_approx": false,
     "to_approx": false,
     "how": "neznamo",
-    "note": "Na husitské straně; hrad 1422 dobyt vojskem olomouckého biskupa Jana Železného (e-Finance: Petr Strážnický z Kravař zdědil 1420). Biskup hrad nedržel - záznam o církevním majiteli zrušen."
+    "note": "Rok 1399 podle hrady.cz a Atlasu české architektury (cs.wiki 1381); na husitské straně; hrad 1422 dobyt vojskem olomouckého biskupa Jana Železného (e-Finance: Petr Strážnický z Kravař zdědil 1420). Biskup hrad nedržel - záznam o církevním majiteli zrušen."
    },
    {
     "owner": "z-konice",
@@ -66435,7 +66451,7 @@
     "owner_wiki": "Páni z Holštejna",
     "person": "Vok V. z Holštejna",
     "from": 1448,
-    "to": 1488,
+    "to": 1464,
     "from_approx": false,
     "to_approx": true,
     "how": "neznamo"
@@ -66443,24 +66459,24 @@
    {
     "owner": "pani-z-kravar",
     "owner_wiki": "Páni z Kravař",
-    "person": "Jiří z Kravař",
-    "from": 1488,
-    "to": 1528,
+    "person": "Jiří Strážnický z Kravař",
+    "from": 1464,
+    "to": 1466,
     "from_approx": true,
-    "to_approx": true,
+    "to_approx": false,
     "how": "neznamo",
-    "note": "Po jeho smrti připadly Račice Boskovicům."
+    "note": "Po jeho smrti 1466 si majetek rozdělily dcery, Račice dostala Kunka (Atlas české architektury; hrady.cz uvádí dělení 1466 s manželem Václavem z Boskovic); Boskovicům připadly Račice."
    },
    {
     "owner": "boskovicove",
     "owner_wiki": "Boskovicové",
     "person": "Václav Černohorský z Boskovic, později další Boskovicové (1563 Jan Jetřich)",
-    "from": 1528,
+    "from": 1480,
     "to": 1568,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false,
     "how": "snatek",
-    "note": "Václav získal Račice sňatkem s dcerou Jiřího z Kravař; Boskovicové drželi do 1568."
+    "note": "Václav získal Račice sňatkem s dcerou Jiřího z Kravař (Atlas české architektury uvádí sňatek 1480, hrady.cz už dělení 1466); 1568 prodala Zuzana Černohorská z Boskovic panství Haugvicovi."
    },
    {
     "owner": "haugvicove-z-biskupic",
@@ -66482,7 +66498,7 @@
     "from_approx": true,
     "to_approx": false,
     "how": "koupe",
-    "note": "Hanuš po Bílé hoře uvězněn a majetek zkonfiskován."
+    "note": "Hanuš po Bílé hoře uvězněn a majetek zkonfiskován; zámek (pamětní deska) uvádí držbu Hanuše od 1590, do zemských desek zapsáno 1596, Atlas české architektury uvádí jeho smrt 1622."
    },
    {
     "owner": "soukromnik",
@@ -66493,7 +66509,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "Od tohoto bodu do 1830 podle cs.wiki článku o obci Račice (druhý zdroj uvádí jen 'střídání majitelů')."
+    "note": "Majitelé 1620-1830 podle cs.wiki článku o obci Račice, shodně Krajina příběhů (mas-moravsky-kras.cz); zámek uvádí jen 'střídání majitelů'."
    },
    {
     "owner": "soukromnik",
@@ -66518,13 +66534,46 @@
    {
     "owner": "braidove",
     "owner_wiki": null,
-    "person": "hrabě Julian Braida-Ronsecca et Corigliano",
+    "person": "hrabě Julian Braida-Ronsecca et Corigliano, poté další Braidové (Antonín Pavel Braida, syn Karel Antonín)",
     "from": 1670,
-    "to": 1830,
+    "to": 1800,
     "from_approx": false,
     "to_approx": true,
     "how": "koupe",
-    "note": "Pobělohorský majitel z Kalábrie; následující majitelé do 1830 neuvedeni."
+    "note": "Rod z Kalábrie držel Račice 1670-1800 (cs.wiki obce, Krajina příběhů); ilustrované dějiny zámku uvádějí navíc hrabata Magnisy 1735-1774 a návrat Braidů 1801 - zdroje se rozcházejí."
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Jan František Heinisch z Haydenburku",
+    "from": 1800,
+    "to": 1802,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "Koupil od Karla Antonína Braidy (Krajina příběhů: Drnovice-Račice); rok neuveden."
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Jan Huška z Račitzburku (Krajina příběhů uvádí Jana a Františka Huškovi z Ratschitzburgu)",
+    "from": 1802,
+    "to": 1816,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "Majitel k roku 1802."
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Antonín Hermann",
+    "from": 1816,
+    "to": 1830,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "Majitel k roku 1830 (cs.wiki obce, Krajina příběhů)."
    },
    {
     "owner": "soukromnik",
@@ -66535,7 +66584,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "Empírová přestavba; cs.wiki obce uvádí Mundyho nejdřív jako nájemce, prodej 1864."
+    "note": "Koupil 1830 (Encyklopedie Brna, zámek Račice), prodal 1864 Kramstovi (Encyklopedie Brna; Atlas české architektury 1865); empírová přestavba; cs.wiki obce a Krajina příběhů uvádějí Mundyho nejdřív jako nájemce panství."
    },
    {
     "owner": "soukromnik",
@@ -66566,7 +66615,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "Poslední předválečný majitel Philipp von Schoeller."
+    "note": "Paul Eduard von Schoeller koupil 1894 (Atlas české architektury: držel do 1920, Krajina příběhů: do 1912); poté synovec Philipp Alois von Schoeller, poslední majitel do 1945 (Atlas: 1948)."
    },
    {
     "owner": "stat",
@@ -66640,7 +66689,11 @@
    "https://cs.wikipedia.org/wiki/Račice_(zámek)",
    "https://www.zamekracice.cz/historie-zamku-racice",
    "https://www.e-finance.eu/blog/historie-zamku-racice-od-slechtickeho-sidla-po-moderni-resort-22896/",
-   "https://cs.wikipedia.org/wiki/Račice_(Račice-Pístovice)"
+   "https://cs.wikipedia.org/wiki/Račice_(Račice-Pístovice)",
+   "https://www.hrady.cz/zamek-racice-vyskov",
+   "https://www.archmap.cz/cs/objekt/10812",
+   "http://pribehy.mas-moravsky-kras.cz/2016/12/06/racice-pistovice/",
+   "https://encyklopedie.brna.cz/home-mmb/?acc=profil-osobnosti&load=21974"
   ]
  },
  "Q55974123": {
@@ -66744,7 +66797,7 @@
   "founded": {
    "year": null,
    "approx": false,
-   "text": "Hrad nechal postavit husitský hejtman Jakoubek z Vřesovic; datace nejistá (cs.wiki 1434-1438, jiné zdroje 1440-1450 nebo po 1426), první zmínka 1450"
+   "text": "Hrad nechal postavit husitský hejtman Jakoubek z Vřesovic; datace nejistá (cs.wiki 1434-1438, infobox 1437-1450; hrady.cz po 1426; ohradech.eu 1440-1450, popř. 1434-1438; hrady-ceskeho-stredohori.cz 40. léta 15. stol.), první zmínka 1450"
   },
   "summary": "Hrad Oltářík (Hrádek) nad Děkovkou nechal postavit husitský hejtman Jakoubek z Vřesovic, datace stavby je nejistá. Roku 1450 jej zastavil Janovi z Polenska, od jehož syna Mikuláše jej 1468 získali Zajícové z Hazmburka a poté páni z Illburka, kterým sloužil hlavně k vojenské ochraně. Po smrti Anežky z Helfenštejna se hrad již pustý dostal Vřesovcům; naposledy je připomínán jako poustka roku 1612, okolnosti zániku nejsou známy. Dnes je ve státním vlastnictví (správce Lesy ČR).",
   "owners": [
@@ -66812,7 +66865,18 @@
     "from_approx": true,
     "to_approx": false,
     "how": "neznamo",
-    "note": "Získal hrad po Anežce neznámým způsobem (kolem 1550); po jeho smrti spor dědiců."
+    "note": "Získal hrad po Anežce neznámým způsobem (kolem 1550, Anežka zemřela asi 1550 - ohradech.eu); Volf zemřel 1569 a hrad odkázal dcerám Anně, Magdaléně a bratru Bernartovi (ohradech.eu)."
+   },
+   {
+    "owner": "pani-z-vresovic",
+    "owner_wiki": "Páni z Vřesovic",
+    "person": "dcery Volfa z Vřesovic Anna a Magdaléna (a bratr Bernart)",
+    "from": 1569,
+    "to": 1576,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "Spor s dalšími Vřesovci (Šebestián, Václav, Jan Podsedický); 1576 Anna a Magdaléna pustý hrad s vesnicemi postoupily (ohradech.eu)."
    },
    {
     "owner": "pani-z-vresovic",
@@ -66868,7 +66932,8 @@
    "https://www.hrady.cz/hrad-oltarik-dekovka/",
    "https://www.ohradech.eu/oltarik.html",
    "https://www.hrady-ceskeho-stredohori.cz/pages/hrad-oltarik.html",
-   "https://ceskestredohori.cz/mista/oltarik.htm"
+   "https://ceskestredohori.cz/mista/oltarik.htm",
+   "https://www.hrady-zriceniny.cz/hrad_oltarik.htm"
   ]
  },
  "Q573922": {
@@ -70356,7 +70421,7 @@
     "from": 1092,
     "to": 1439,
     "from_approx": true,
-    "to_approx": true,
+    "to_approx": false,
     "how": "zalozeni",
     "note": "královský hrad; na počátku 15. století jej obsadili stoupenci markraběte Prokopa a roku 1404 úspěšně ubránili obléhání vévodou Albrechtem Rakouským a králem Zikmundem"
    },
@@ -70365,7 +70430,7 @@
     "owner_wiki": "Leskovcové z Leskovce",
     "person": "Albrecht z Leskovce",
     "from": 1439,
-    "to": 1550,
+    "to": 1536,
     "from_approx": false,
     "to_approx": true,
     "how": "lenni",
@@ -70374,24 +70439,24 @@
    {
     "owner": "meziricti-z-lomnice",
     "owner_wiki": null,
-    "person": "Václav Meziříčský z Lomnice (od 1554 spolu s Apolonií Meziříčskou)",
-    "from": 1550,
-    "to": 1566,
+    "person": "Václav Meziříčský z Lomnice",
+    "from": 1536,
+    "to": 1569,
     "from_approx": false,
     "to_approx": false,
     "how": "lenni",
-    "note": "držel hrad jako zástavu (hrady.cz)"
+    "note": "král Ferdinand I. mu hrad zastavil 1536 za půjčku 11 000 zlatých; zemřel 25. 1. 1569 (studie R. Paula, Dějiny a dějepis; dřívější údaje 1550-1566 z hrady.cz opraveny)"
    },
    {
     "owner": "meziricti-z-lomnice",
     "owner_wiki": null,
     "person": "Hojer Meziříčský z Lomnice",
-    "from": 1571,
+    "from": 1569,
     "to": 1579,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "lenni",
-    "note": "po jeho smrti připadl hrad zpět české koruně; rok konce odvozen z udělení lénem Kryštofu z Althanu 1579 (hrady.cz)"
+    "note": "syn Václava, hrad po otci získal 1569 a prodloužil zástavu; studie R. Paula uvádí držbu Meziříčských 1536-1579; po jeho smrti připadl hrad zpět koruně (hrady.cz)"
    },
    {
     "owner": "althannove",
@@ -70424,7 +70489,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "lenni",
-    "note": "krajský hejtman, předák odbojných moravských stavů; hrad mu byl 1621 konfiskován (hrady.cz, muzeum Znojmo); cs.wiki uvádí jako zástavního majitele Zdeňka z Roupova"
+    "note": "krajský hejtman, předák odbojných moravských stavů; hrad mu byl 1621 konfiskován (hrady.cz, muzeum Znojmo); cs.wiki a atlasceska.cz uvádějí jako zástavního majitele Zdeňka z Roupova; muzeum Znojmo a Okrašlovací spolek Vilému"
    },
    {
     "owner": "koruna",
@@ -70457,7 +70522,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "část areálu (předhradí s rotundou) připadla městu, které zde 1720 založilo pivovar; zdroje se liší, zda ji město získalo vyčleněním 1710 nebo koupí od Deblínů"
+    "note": "část areálu (předhradí s rotundou) připadla městu, které zde 1720 založilo pivovar; zdroje se liší: muzeum Znojmo a Okrašlovací spolek uvádějí koupi znojemskými měšťany (pivovar 1720), atlasceska.cz získání od pánů z Deblína; Okrašlovací spolek navíc uvádí, že pivovar město odkoupilo až 2010 (a celý areál tak vlastní až dnes) - rok 1865 u celého areálu zdroje neuvádějí shodně"
    },
    {
     "owner": "koruna",
@@ -70528,7 +70593,9 @@
    "https://cs.wikipedia.org/wiki/Znojmo_(zámek)",
    "https://www.hrady.cz/zamek-znojmo/texty?pos=1000&tid=3536",
    "https://www.muzeumznojmo.cz/Znojemsky-hrad",
-   "https://www.atlasceska.cz/pamatky/znojemsky-hrad-23589"
+   "https://www.atlasceska.cz/pamatky/znojemsky-hrad-23589",
+   "https://www.okraspol.cz/pages/pamet_mista_znojemsky_hrad_2011_cz.html",
+   "https://journals.muni.cz/dejinyadejepis/article/download/36527/31258/58897"
   ]
  },
  "Q80843": {

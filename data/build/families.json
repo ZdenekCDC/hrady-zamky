@@ -3856,11 +3856,11 @@
    },
    {
     "place": "Q545847",
-    "from": 1528,
+    "from": 1480,
     "to": 1568,
     "person": "Václav Černohorský z Boskovic, později další Boskovicové (1563 Jan Jetřich)",
     "how": "snatek",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -4132,7 +4132,7 @@
    },
    {
     "place": "Q545847",
-    "year": 1528,
+    "year": 1480,
     "from": "pani-z-kravar",
     "to": "boskovicove",
     "how": "snatek"
@@ -4303,8 +4303,8 @@
    {
     "place": "Q545847",
     "from": 1670,
-    "to": 1830,
-    "person": "hrabě Julian Braida-Ronsecca et Corigliano",
+    "to": 1800,
+    "person": "hrabě Julian Braida-Ronsecca et Corigliano, poté další Braidové (Antonín Pavel Braida, syn Karel Antonín)",
     "how": "koupe",
     "from_approx": false,
     "to_approx": true
@@ -4320,7 +4320,7 @@
    },
    {
     "place": "Q545847",
-    "year": 1830,
+    "year": 1800,
     "from": "braidove",
     "to": "soukromnik",
     "how": "koupe"
@@ -21553,7 +21553,7 @@
    {
     "place": "Q8073144",
     "from": 1439,
-    "to": 1550,
+    "to": 1536,
     "person": "Albrecht z Leskovce",
     "how": "lenni",
     "from_approx": false,
@@ -21626,7 +21626,7 @@
    },
    {
     "place": "Q8073144",
-    "year": 1550,
+    "year": 1536,
     "from": "leskovcove-z-leskovce",
     "to": "meziricti-z-lomnice",
     "how": "lenni"
@@ -26664,21 +26664,21 @@
    },
    {
     "place": "Q8073144",
-    "from": 1550,
-    "to": 1566,
-    "person": "Václav Meziříčský z Lomnice (od 1554 spolu s Apolonií Meziříčskou)",
+    "from": 1536,
+    "to": 1569,
+    "person": "Václav Meziříčský z Lomnice",
     "how": "lenni",
     "from_approx": false,
     "to_approx": false
    },
    {
     "place": "Q8073144",
-    "from": 1571,
+    "from": 1569,
     "to": 1579,
     "person": "Hojer Meziříčský z Lomnice",
     "how": "lenni",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q921344",
@@ -26707,7 +26707,7 @@
    },
    {
     "place": "Q8073144",
-    "year": 1550,
+    "year": 1536,
     "from": "leskovcove-z-leskovce",
     "to": "meziricti-z-lomnice",
     "how": "lenni"
@@ -31081,7 +31081,7 @@
    {
     "place": "Q545847",
     "from": 1448,
-    "to": 1488,
+    "to": 1464,
     "person": "Vok V. z Holštejna",
     "how": "neznamo",
     "from_approx": false,
@@ -31130,7 +31130,7 @@
    },
    {
     "place": "Q545847",
-    "year": 1488,
+    "year": 1464,
     "from": "pani-z-holstejna",
     "to": "pani-z-kravar",
     "how": "neznamo"
@@ -31797,7 +31797,7 @@
    },
    {
     "place": "Q545847",
-    "from": 1381,
+    "from": 1399,
     "to": 1422,
     "person": "Petr z Kravař",
     "how": "neznamo",
@@ -31806,12 +31806,12 @@
    },
    {
     "place": "Q545847",
-    "from": 1488,
-    "to": 1528,
-    "person": "Jiří z Kravař",
+    "from": 1464,
+    "to": 1466,
+    "person": "Jiří Strážnický z Kravař",
     "how": "neznamo",
     "from_approx": true,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q847039",
@@ -31966,7 +31966,7 @@
    },
    {
     "place": "Q545847",
-    "year": 1381,
+    "year": 1399,
     "from": "sternberkove",
     "to": "pani-z-kravar",
     "how": "neznamo"
@@ -31980,14 +31980,14 @@
    },
    {
     "place": "Q545847",
-    "year": 1488,
+    "year": 1464,
     "from": "pani-z-holstejna",
     "to": "pani-z-kravar",
     "how": "neznamo"
    },
    {
     "place": "Q545847",
-    "year": 1528,
+    "year": 1480,
     "from": "pani-z-kravar",
     "to": "boskovicove",
     "how": "snatek"
@@ -33324,7 +33324,7 @@
    {
     "place": "Q545847",
     "from": 1346,
-    "to": 1364,
+    "to": 1376,
     "person": "páni z Lipé",
     "how": "neznamo",
     "from_approx": false,
@@ -33602,7 +33602,7 @@
    },
    {
     "place": "Q545847",
-    "year": 1364,
+    "year": 1376,
     "from": "pani-z-lipe",
     "to": "sternberkove",
     "how": "neznamo"
@@ -36024,6 +36024,15 @@
     "person": "Volf z Vřesovic",
     "how": "neznamo",
     "from_approx": true,
+    "to_approx": false
+   },
+   {
+    "place": "Q573914",
+    "from": 1569,
+    "to": 1576,
+    "person": "dcery Volfa z Vřesovic Anna a Magdaléna (a bratr Bernart)",
+    "how": "dedictvi",
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -49371,11 +49380,11 @@
    },
    {
     "place": "Q545847",
-    "from": 1364,
-    "to": 1381,
+    "from": 1376,
+    "to": 1399,
     "person": "páni ze Šternberka",
     "how": "neznamo",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -50078,14 +50087,14 @@
    },
    {
     "place": "Q545847",
-    "year": 1364,
+    "year": 1376,
     "from": "pani-z-lipe",
     "to": "sternberkove",
     "how": "neznamo"
    },
    {
     "place": "Q545847",
-    "year": 1381,
+    "year": 1399,
     "from": "sternberkove",
     "to": "pani-z-kravar",
     "how": "neznamo"
@@ -64351,11 +64360,11 @@
    {
     "place": "Q38090398",
     "from": 1483,
-    "to": 1541,
+    "to": 1487,
     "person": "Oldřich z Kralovic",
     "how": "koupe",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    }
   ],
   "transfers": [
@@ -64410,10 +64419,10 @@
    },
    {
     "place": "Q38090398",
-    "year": 1541,
+    "year": 1487,
     "from": "z-kralovic",
-    "to": "zarubove-z-hustiran",
-    "how": "koupe"
+    "to": "neznamo",
+    "how": "neznamo"
    }
   ],
   "place_count": 4,
@@ -74714,7 +74723,7 @@
    {
     "place": "Q38090398",
     "year": 1541,
-    "from": "z-kralovic",
+    "from": "neznamo",
     "to": "zarubove-z-hustiran",
     "how": "koupe"
    },
@@ -79622,6 +79631,15 @@
     "to_approx": true
    },
    {
+    "place": "Q38090398",
+    "from": 1487,
+    "to": 1541,
+    "person": "čtyři neznámí majitelé",
+    "how": "neznamo",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
     "place": "Q62610248",
     "from": 1738,
     "to": 1749,
@@ -80413,6 +80431,20 @@
     "how": "koupe"
    },
    {
+    "place": "Q38090398",
+    "year": 1487,
+    "from": "z-kralovic",
+    "to": "neznamo",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q38090398",
+    "year": 1541,
+    "from": "neznamo",
+    "to": "zarubove-z-hustiran",
+    "how": "koupe"
+   },
+   {
     "place": "Q62610248",
     "year": 1738,
     "from": "gasinsti-z-gasina",
@@ -80546,7 +80578,7 @@
     "how": "koupe"
    }
   ],
-  "place_count": 57,
+  "place_count": 58,
   "color_slot": null
  },
  "stat": {
@@ -83294,7 +83326,7 @@
    {
     "place": "Q38090398",
     "from": 1948,
-    "to": 1990,
+    "to": 1994,
     "person": null,
     "how": "konfiskace",
     "from_approx": false,
@@ -86961,7 +86993,7 @@
    },
    {
     "place": "Q38090398",
-    "year": 1990,
+    "year": 1994,
     "from": "stat",
     "to": "soukromnik",
     "how": "restituce"
@@ -89641,7 +89673,7 @@
     "person": null,
     "how": "zalozeni",
     "from_approx": true,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q8073144",
@@ -99608,7 +99640,7 @@
     "person": "Hugo Meinert (nemanželský syn Josefíny), poté jeho dcery",
     "how": "dedictvi",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q37001702",
@@ -99693,7 +99725,7 @@
    },
    {
     "place": "Q38090398",
-    "from": 1990,
+    "from": 1994,
     "to": 2005,
     "person": "potomci Jaroslava Bukovského",
     "how": "restituce",
@@ -99815,6 +99847,33 @@
     "person": "Horacio Forno, poté syn Karel František",
     "how": "koupe",
     "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q545847",
+    "from": 1800,
+    "to": 1802,
+    "person": "Jan František Heinisch z Haydenburku",
+    "how": "koupe",
+    "from_approx": true,
+    "to_approx": true
+   },
+   {
+    "place": "Q545847",
+    "from": 1802,
+    "to": 1816,
+    "person": "Jan Huška z Račitzburku (Krajina příběhů uvádí Jana a Františka Huškovi z Ratschitzburgu)",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": true
+   },
+   {
+    "place": "Q545847",
+    "from": 1816,
+    "to": 1830,
+    "person": "Antonín Hermann",
+    "how": "neznamo",
+    "from_approx": true,
     "to_approx": false
    },
    {
@@ -103031,7 +103090,7 @@
    },
    {
     "place": "Q38090398",
-    "year": 1990,
+    "year": 1994,
     "from": "stat",
     "to": "soukromnik",
     "how": "restituce"
@@ -103122,7 +103181,7 @@
    },
    {
     "place": "Q545847",
-    "year": 1830,
+    "year": 1800,
     "from": "braidove",
     "to": "soukromnik",
     "how": "koupe"

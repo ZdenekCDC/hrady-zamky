@@ -13,7 +13,7 @@
    "owner_wiki": null,
    "person": null,
    "from": 1092,
-   "to": null,
+   "to": 1439,
    "from_approx": true,
    "to_approx": false,
    "how": "zalozeni",
@@ -33,24 +33,24 @@
   {
    "owner": "meziricti-z-lomnice",
    "owner_wiki": null,
-   "person": "Václav Meziříčský z Lomnice (od 1554 spolu s Apolonií Meziříčskou)",
-   "from": 1550,
-   "to": 1566,
+   "person": "Václav Meziříčský z Lomnice",
+   "from": 1536,
+   "to": 1569,
    "from_approx": false,
    "to_approx": false,
    "how": "lenni",
-   "note": "držel hrad jako zástavu (hrady.cz)"
+   "note": "král Ferdinand I. mu hrad zastavil 1536 za půjčku 11 000 zlatých; zemřel 25. 1. 1569 (studie R. Paula, Dějiny a dějepis; dřívější údaje 1550-1566 z hrady.cz opraveny)"
   },
   {
    "owner": "meziricti-z-lomnice",
    "owner_wiki": null,
    "person": "Hojer Meziříčský z Lomnice",
-   "from": 1571,
+   "from": 1569,
    "to": 1579,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "lenni",
-   "note": "po jeho smrti připadl hrad zpět české koruně; rok konce odvozen z udělení lénem Kryštofu z Althanu 1579 (hrady.cz)"
+   "note": "syn Václava, hrad po otci získal 1569 a prodloužil zástavu; studie R. Paula uvádí držbu Meziříčských 1536-1579; po jeho smrti připadl hrad zpět koruně (hrady.cz)"
   },
   {
    "owner": "althannove",
@@ -83,7 +83,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "lenni",
-   "note": "krajský hejtman, předák odbojných moravských stavů; hrad mu byl 1621 konfiskován (hrady.cz, muzeum Znojmo); cs.wiki uvádí jako zástavního majitele Zdeňka z Roupova"
+   "note": "krajský hejtman, předák odbojných moravských stavů; hrad mu byl 1621 konfiskován (hrady.cz, muzeum Znojmo); cs.wiki a atlasceska.cz uvádějí jako zástavního majitele Zdeňka z Roupova; muzeum Znojmo a Okrašlovací spolek Vilému"
   },
   {
    "owner": "koruna",
@@ -116,7 +116,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "část areálu (předhradí s rotundou) připadla městu, které zde 1720 založilo pivovar; zdroje se liší, zda ji město získalo vyčleněním 1710 nebo koupí od Deblínů"
+   "note": "část areálu (předhradí s rotundou) připadla městu, které zde 1720 založilo pivovar; zdroje se liší: muzeum Znojmo a Okrašlovací spolek uvádějí koupi znojemskými měšťany (pivovar 1720), atlasceska.cz získání od pánů z Deblína; Okrašlovací spolek navíc uvádí, že pivovar město odkoupilo až 2010 (a celý areál tak vlastní až dnes) - rok 1865 u celého areálu zdroje neuvádějí shodně"
   },
   {
    "owner": "koruna",
@@ -187,6 +187,8 @@
   "https://cs.wikipedia.org/wiki/Znojmo_(zámek)",
   "https://www.hrady.cz/zamek-znojmo/texty?pos=1000&tid=3536",
   "https://www.muzeumznojmo.cz/Znojemsky-hrad",
-  "https://www.atlasceska.cz/pamatky/znojemsky-hrad-23589"
+  "https://www.atlasceska.cz/pamatky/znojemsky-hrad-23589",
+  "https://www.okraspol.cz/pages/pamet_mista_znojemsky_hrad_2011_cz.html",
+  "https://journals.muni.cz/dejinyadejepis/article/download/36527/31258/58897"
  ]
 }

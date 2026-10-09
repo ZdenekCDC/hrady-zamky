@@ -44,23 +44,23 @@
       "owner": "sternberkove",
       "owner_wiki": "Šternberkové",
       "person": "páni ze Šternberka",
-      "from": null,
-      "to": 1381,
+      "from": 1376,
+      "to": 1399,
       "from_approx": false,
       "to_approx": false,
       "how": "neznamo",
-      "note": "E-Finance uvádí Šternberky 1376."
+      "note": "Hrady.cz uvádí Šternberky 1376 (Atlas české architektury 1375, e-Finance 1376); Markvart ze Šternberka předal hrad 1399 Petru z Kravař (hrady.cz, Atlas české architektury); cs.wiki uvádí příchod Petra z Kravař už 1381."
     },
     {
       "owner": "pani-z-kravar",
       "owner_wiki": "Páni z Kravař",
       "person": "Petr z Kravař",
-      "from": 1381,
+      "from": 1399,
       "to": 1422,
       "from_approx": false,
       "to_approx": false,
       "how": "neznamo",
-      "note": "Na husitské straně; hrad 1422 dobyt vojskem olomouckého biskupa Jana Železného (e-Finance: Petr Strážnický z Kravař zdědil 1420). Biskup hrad nedržel - záznam o církevním majiteli zrušen."
+      "note": "Rok 1399 podle hrady.cz a Atlasu české architektury (cs.wiki 1381); na husitské straně; hrad 1422 dobyt vojskem olomouckého biskupa Jana Železného (e-Finance: Petr Strážnický z Kravař zdědil 1420). Biskup hrad nedržel - záznam o církevním majiteli zrušen."
     },
     {
       "owner": "z-konice",
@@ -85,24 +85,24 @@
     {
       "owner": "pani-z-kravar",
       "owner_wiki": "Páni z Kravař",
-      "person": "Jiří z Kravař",
+      "person": "Jiří Strážnický z Kravař",
       "from": null,
-      "to": null,
+      "to": 1466,
       "from_approx": false,
       "to_approx": false,
       "how": "neznamo",
-      "note": "Po jeho smrti připadly Račice Boskovicům."
+      "note": "Po jeho smrti 1466 si majetek rozdělily dcery, Račice dostala Kunka (Atlas české architektury; hrady.cz uvádí dělení 1466 s manželem Václavem z Boskovic); Boskovicům připadly Račice."
     },
     {
       "owner": "boskovicove",
       "owner_wiki": "Boskovicové",
       "person": "Václav Černohorský z Boskovic, později další Boskovicové (1563 Jan Jetřich)",
-      "from": null,
+      "from": 1480,
       "to": 1568,
       "from_approx": false,
       "to_approx": false,
       "how": "snatek",
-      "note": "Václav získal Račice sňatkem s dcerou Jiřího z Kravař; Boskovicové drželi do 1568."
+      "note": "Václav získal Račice sňatkem s dcerou Jiřího z Kravař (Atlas české architektury uvádí sňatek 1480, hrady.cz už dělení 1466); 1568 prodala Zuzana Černohorská z Boskovic panství Haugvicovi."
     },
     {
       "owner": "haugvicove-z-biskupic",
@@ -124,7 +124,7 @@
       "from_approx": false,
       "to_approx": false,
       "how": "koupe",
-      "note": "Hanuš po Bílé hoře uvězněn a majetek zkonfiskován."
+      "note": "Hanuš po Bílé hoře uvězněn a majetek zkonfiskován; zámek (pamětní deska) uvádí držbu Hanuše od 1590, do zemských desek zapsáno 1596, Atlas české architektury uvádí jeho smrt 1622."
     },
     {
       "owner": "soukromnik",
@@ -135,7 +135,7 @@
       "from_approx": false,
       "to_approx": false,
       "how": "koupe",
-      "note": "Od tohoto bodu do 1830 podle cs.wiki článku o obci Račice (druhý zdroj uvádí jen 'střídání majitelů')."
+      "note": "Majitelé 1620-1830 podle cs.wiki článku o obci Račice, shodně Krajina příběhů (mas-moravsky-kras.cz); zámek uvádí jen 'střídání majitelů'."
     },
     {
       "owner": "soukromnik",
@@ -160,13 +160,46 @@
     {
       "owner": "braidove",
       "owner_wiki": null,
-      "person": "hrabě Julian Braida-Ronsecca et Corigliano",
+      "person": "hrabě Julian Braida-Ronsecca et Corigliano, poté další Braidové (Antonín Pavel Braida, syn Karel Antonín)",
       "from": 1670,
+      "to": 1800,
+      "from_approx": false,
+      "to_approx": true,
+      "how": "koupe",
+      "note": "Rod z Kalábrie držel Račice 1670-1800 (cs.wiki obce, Krajina příběhů); ilustrované dějiny zámku uvádějí navíc hrabata Magnisy 1735-1774 a návrat Braidů 1801 - zdroje se rozcházejí."
+    },
+    {
+      "owner": "soukromnik",
+      "owner_wiki": null,
+      "person": "Jan František Heinisch z Haydenburku",
+      "from": null,
       "to": null,
       "from_approx": false,
       "to_approx": false,
       "how": "koupe",
-      "note": "Pobělohorský majitel z Kalábrie; následující majitelé do 1830 neuvedeni."
+      "note": "Koupil od Karla Antonína Braidy (Krajina příběhů: Drnovice-Račice); rok neuveden."
+    },
+    {
+      "owner": "soukromnik",
+      "owner_wiki": null,
+      "person": "Jan Huška z Račitzburku (Krajina příběhů uvádí Jana a Františka Huškovi z Ratschitzburgu)",
+      "from": 1802,
+      "to": null,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "koupe",
+      "note": "Majitel k roku 1802."
+    },
+    {
+      "owner": "soukromnik",
+      "owner_wiki": null,
+      "person": "Antonín Hermann",
+      "from": null,
+      "to": 1830,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "neznamo",
+      "note": "Majitel k roku 1830 (cs.wiki obce, Krajina příběhů)."
     },
     {
       "owner": "soukromnik",
@@ -177,7 +210,7 @@
       "from_approx": false,
       "to_approx": false,
       "how": "koupe",
-      "note": "Empírová přestavba; cs.wiki obce uvádí Mundyho nejdřív jako nájemce, prodej 1864."
+      "note": "Koupil 1830 (Encyklopedie Brna, zámek Račice), prodal 1864 Kramstovi (Encyklopedie Brna; Atlas české architektury 1865); empírová přestavba; cs.wiki obce a Krajina příběhů uvádějí Mundyho nejdřív jako nájemce panství."
     },
     {
       "owner": "soukromnik",
@@ -208,7 +241,7 @@
       "from_approx": false,
       "to_approx": false,
       "how": "koupe",
-      "note": "Poslední předválečný majitel Philipp von Schoeller."
+      "note": "Paul Eduard von Schoeller koupil 1894 (Atlas české architektury: držel do 1920, Krajina příběhů: do 1912); poté synovec Philipp Alois von Schoeller, poslední majitel do 1945 (Atlas: 1948)."
     },
     {
       "owner": "stat",
@@ -282,6 +315,10 @@
     "https://cs.wikipedia.org/wiki/Račice_(zámek)",
     "https://www.zamekracice.cz/historie-zamku-racice",
     "https://www.e-finance.eu/blog/historie-zamku-racice-od-slechtickeho-sidla-po-moderni-resort-22896/",
-    "https://cs.wikipedia.org/wiki/Račice_(Račice-Pístovice)"
+    "https://cs.wikipedia.org/wiki/Račice_(Račice-Pístovice)",
+    "https://www.hrady.cz/zamek-racice-vyskov",
+    "https://www.archmap.cz/cs/objekt/10812",
+    "http://pribehy.mas-moravsky-kras.cz/2016/12/06/racice-pistovice/",
+    "https://encyklopedie.brna.cz/home-mmb/?acc=profil-osobnosti&load=21974"
   ]
 }

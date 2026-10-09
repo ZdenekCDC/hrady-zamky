@@ -4,7 +4,7 @@
   "founded": {
     "year": null,
     "approx": false,
-    "text": "Hrad nechal postavit husitský hejtman Jakoubek z Vřesovic; datace nejistá (cs.wiki 1434-1438, jiné zdroje 1440-1450 nebo po 1426), první zmínka 1450"
+    "text": "Hrad nechal postavit husitský hejtman Jakoubek z Vřesovic; datace nejistá (cs.wiki 1434-1438, infobox 1437-1450; hrady.cz po 1426; ohradech.eu 1440-1450, popř. 1434-1438; hrady-ceskeho-stredohori.cz 40. léta 15. stol.), první zmínka 1450"
   },
   "summary": "Hrad Oltářík (Hrádek) nad Děkovkou nechal postavit husitský hejtman Jakoubek z Vřesovic, datace stavby je nejistá. Roku 1450 jej zastavil Janovi z Polenska, od jehož syna Mikuláše jej 1468 získali Zajícové z Hazmburka a poté páni z Illburka, kterým sloužil hlavně k vojenské ochraně. Po smrti Anežky z Helfenštejna se hrad již pustý dostal Vřesovcům; naposledy je připomínán jako poustka roku 1612, okolnosti zániku nejsou známy. Dnes je ve státním vlastnictví (správce Lesy ČR).",
   "owners": [
@@ -72,7 +72,18 @@
       "from_approx": true,
       "to_approx": false,
       "how": "neznamo",
-      "note": "Získal hrad po Anežce neznámým způsobem (kolem 1550); po jeho smrti spor dědiců."
+      "note": "Získal hrad po Anežce neznámým způsobem (kolem 1550, Anežka zemřela asi 1550 - ohradech.eu); Volf zemřel 1569 a hrad odkázal dcerám Anně, Magdaléně a bratru Bernartovi (ohradech.eu)."
+    },
+    {
+      "owner": "pani-z-vresovic",
+      "owner_wiki": "Páni z Vřesovic",
+      "person": "dcery Volfa z Vřesovic Anna a Magdaléna (a bratr Bernart)",
+      "from": 1569,
+      "to": 1576,
+      "from_approx": false,
+      "to_approx": false,
+      "how": "dedictvi",
+      "note": "Spor s dalšími Vřesovci (Šebestián, Václav, Jan Podsedický); 1576 Anna a Magdaléna pustý hrad s vesnicemi postoupily (ohradech.eu)."
     },
     {
       "owner": "pani-z-vresovic",
@@ -128,6 +139,7 @@
     "https://www.hrady.cz/hrad-oltarik-dekovka/",
     "https://www.ohradech.eu/oltarik.html",
     "https://www.hrady-ceskeho-stredohori.cz/pages/hrad-oltarik.html",
-    "https://ceskestredohori.cz/mista/oltarik.htm"
+    "https://ceskestredohori.cz/mista/oltarik.htm",
+    "https://www.hrady-zriceniny.cz/hrad_oltarik.htm"
   ]
 }
