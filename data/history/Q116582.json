@@ -6,7 +6,7 @@
   "approx": true,
   "text": "Hrad byl postaven nejspíše ve dvacátých až třicátých letech 14. století, pravděpodobně z podnětu Fridricha IV. ze Šumburka jako léno k ochraně a kolonizaci severozápadní hranice a k dolování v Krušných horách; dendrochronologie datuje dřevo do let 1315-1331."
  },
- "summary": "Hrad Hasištejn nad obcí Místo v Krušných horách založili ve 14. století páni ze Šumburka. Po dobytí roku 1418 jej získali Lobkovicové, za Bohuslava Hasištejnského z Lobkovic byl na počátku 16. století rozšířen a stal se centrem humanismu s rozsáhlou knihovnou. Po rozdrobení dědictví přešel přes Štampachy ze Štampachu k Martinicům, kteří jej neudržovali, a hrad jako součást panství Prunéřov-Ahníkov postupně zchátral; koncem 19. století jej částečně opravil Emanuel Karsch a zřídil v něm hostinec. Dnes zřícenina patří obci Místo a je přístupná veřejnosti.",
+ "summary": "Hrad Hasištejn nad obcí Místo v Krušných horách založili ve 14. století páni ze Šumburka. Po dobytí roku 1418 jej získali Lobkovicové, za Bohuslava Hasištejnského z Lobkovic byl na počátku 16. století rozšířen a stal se centrem humanismu s rozsáhlou knihovnou. Po rozdrobení dědictví přešel přes Štampachy ze Štampachu k Martinicům, kteří jej neudržovali, a hrad jako součást panství Prunéřov-Ahníkov postupně zchátral; panství pak drželi Althannové, Firmianové a Wolkenstein-Trostburkové a od 1880 František Preidl a jeho dědic Emanuel Karsch, který hrad v letech 1891-1892 částečně opravil a zřídil v něm hostinec. Po 1945 patřil státu a kolem roku 2005 jej bezúplatně převzala obec Místo, jíž dnes zřícenina patří.",
  "owners": [
   {
    "owner": "sumburkove",
@@ -68,77 +68,88 @@
    "owner_wiki": "Martinicové a Clam-Martinicové",
    "person": "Jaroslav Bořita z Martinic",
    "from": 1623,
-   "to": null,
+   "to": 1791,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "zkonfiskovaný majetek Štampachů koupil (hrady.cz 1623, cs.wiki uvádí 1622); hrad byl už tehdy pustý, v době Martiniců chátral a roku 1678 sloužily už jen sklepy k uskladnění piva z prunéřovského pivovaru; hrad patřil k ahníkovskému (později prunéřovsko-ahníkovskému) panství, roky předání dalším majitelům zdroje neuvádějí"
+   "note": "zkonfiskovaný majetek Štampachů koupil (czregion.cz, hrady.cz: 1623; cs.wiki 1622); hrad byl už tehdy pustý, v době Martiniců chátral a roku 1678 sloužily už jen sklepy k uskladnění piva z prunéřovského pivovaru; hrad patřil k panství Ahníkov-Prunéřov, které Martinicové drželi do 1791 (czregion.cz, historiekekave.cz)"
   },
   {
    "owner": "althannove",
    "owner_wiki": "Althannové",
-   "person": "Marie Althanová",
-   "from": null,
-   "to": null,
-   "from_approx": true,
-   "to_approx": true,
-   "how": "neznamo",
-   "note": "majitelka panství Prunéřov-Ahníkov, k němuž hrad patřil (hrady.cz, bez roku)"
+   "person": "Marie Anna z Althanu, roz. Martinicová",
+   "from": 1791,
+   "to": 1810,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "zdědila panství Ahníkov-Prunéřov po vymření Martiniců po meči (smrt Františka Karla 1789); zemřela 1810 (Ottův slovník naučný, historiekekave.cz)"
   },
   {
    "owner": "firmianove",
    "owner_wiki": "Firmianové",
-   "person": null,
-   "from": null,
-   "to": null,
-   "from_approx": true,
-   "to_approx": true,
-   "how": "neznamo",
-   "note": "majitelé panství Prunéřov-Ahníkov, k němuž hrad patřil (hrady.cz, bez roku); rod Firmianů bez bližšího určení osoby"
+   "person": "Marie Anna hraběnka z Firmianu, roz. z Althanu",
+   "from": 1810,
+   "to": 1840,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "dcera předchozí majitelky; panství držela do své smrti 1840 (Ottův slovník naučný; czregion.cz uvádí přechod na Firmiany už 1791)"
   },
   {
    "owner": "wolkenstein-trostburkove",
    "owner_wiki": null,
-   "person": null,
-   "from": null,
-   "to": null,
-   "from_approx": true,
-   "to_approx": true,
-   "how": "neznamo",
-   "note": "majitelé panství Prunéřov-Ahníkov, k němuž hrad patřil (hrady.cz, bez roku)"
-  },
-  {
-   "owner": "soukromnik",
-   "owner_wiki": null,
-   "person": "František Preidl",
-   "from": null,
-   "to": null,
-   "from_approx": true,
-   "to_approx": true,
-   "how": "neznamo",
-   "note": "majitel velkostatku Prunéřov-Ahníkov (hrady.cz, bez roku); strýc Emanuela Karsche"
-  },
-  {
-   "owner": "soukromnik",
-   "owner_wiki": null,
-   "person": "Emanuel Karsch, majitel velkostatku Prunéřov-Ahníkov",
-   "from": 1891,
-   "to": null,
-   "from_approx": true,
-   "to_approx": true,
+   "person": "Karl Friedrich Otto z Wolkenstein-Trostburgu († 1875), poté Leopold Karl Otto",
+   "from": 1840,
+   "to": 1880,
+   "from_approx": false,
+   "to_approx": false,
    "how": "dedictvi",
-   "note": "synovec Františka Preidla a poslední soukromý majitel velkostatku; v letech 1891-1892 nechal hrad restaurovat a zřídil při něm hostinec (vyhořel 1976); rok převzetí velkostatku ani rok jeho konce zdroje neuvádějí (hrady.cz uvádí původ jako synovec majitele, způsob nabytí je tedy odvozen); rok 1891 je jen doložení držby (první zmíněná oprava), ne rok nabytí"
+   "note": "panství zdědil synovec/sestřenec Firmianové; Leopold Karl Otto panství 1880 prodal Františku Preidlovi (Ottův slovník, historiekekave.cz, cs.wiki o Prunéřovu)"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "František Preidl (Franz Preidl von Hassenbrunn)",
+   "from": 1880,
+   "to": 1889,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "průmyslník, koupil velkostatek Ahníkov-Prunéřov se zámky a zříceninou Hasištejn za 1,3 mil. zlatých; zemřel 28. 8. 1889 (cs.wiki o Preidlovi)"
+  },
+  {
+   "owner": "soukromnik",
+   "owner_wiki": null,
+   "person": "Emanuel Karsch, od 1911 jeho syn Franz Karsch",
+   "from": 1889,
+   "to": 1945,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "dedictvi",
+   "note": "synovec a univerzální dědic Františka Preidla; 1891-1892 restaurace zříceniny a hostinec; Emanuel zemřel 1911, poté syn Franz; velkostatek vlastnili do 1945 (czregion.cz, historiekekave.cz); 1927 pozemková reforma se týkala velkostatku Ahníkov"
+  },
+  {
+   "owner": "stat",
+   "owner_wiki": null,
+   "person": null,
+   "from": 1945,
+   "to": 2005,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "konfiskace",
+   "note": "po 1945 stát (majetek Karschů zabaven, de.wiki/cs.wiki o Prunéřově); hrad spravoval Úřad pro zastupování státu ve věcech majetkových; en.wiki tvrdí vrácení Lobkowiczům po 1989, což cs.wiki, web obce ani UZSVM nepotvrzují (stát bezúplatně převáděl hrad obci)"
   },
   {
    "owner": "mesto",
    "owner_wiki": null,
    "person": "obec Místo",
-   "from": null,
+   "from": 2005,
    "to": null,
    "from_approx": true,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "dnes zřícenina patří obci Místo (cs.wiki, oficiální web obce); rok přechodu do vlastnictví obce zdroje neuvádějí; en.wiki naopak tvrdí vrácení Lobkowiczům po 1989, což cs.wiki ani web obce nepotvrzují"
+   "how": "jine",
+   "note": "bezúplatný převod ze státu (UZSVM): v srpnu 2005 připraven, k schválení zastupitelstvem v září 2005; v roce 2007 už obec hrad získala (uzsvm.gov.cz); přesný rok převodu zdroje neuvádějí, 2005 je přibližné"
   }
  ],
  "events": [
@@ -174,6 +185,12 @@
  "sources": [
   "https://cs.wikipedia.org/wiki/Hasištejn",
   "https://www.hrady.cz/hrad-hasistejn-misto/texty?pos=300&tid=73",
-  "https://www.obec-misto.cz/obec/hrad-hasistejn/historie-hradu/"
+  "https://www.obec-misto.cz/obec/hrad-hasistejn/historie-hradu/",
+  "http://www.czregion.cz/ahnikov-zamek",
+  "https://historiekekave.cz/ahnikov/",
+  "https://cs.wikipedia.org/wiki/Franz_Preidl_von_Hassenbrunn",
+  "https://cs.wikisource.org/wiki/Ott%C5%AFv_slovn%C3%ADk_nau%C4%8Dn%C3%BD/Ahn%C3%ADkov",
+  "https://uzsvm.gov.cz/misto-zrejme-dostane-hasistejn",
+  "https://uzsvm.gov.cz/stat-prevedl-pamatky"
  ]
 }

@@ -6,7 +6,7 @@
   "approx": true,
   "text": "Kníže Měšek I. Těšínsko-Osvětimský (dříve Opolský) nechal na skalním návrší nad Olší postavit nový hrad, stavební práce začaly před rokem 1288 gotickou hradní kaplí."
  },
- "summary": "Goticko-renesanční Fryštátský hrad založil koncem 13. století slezský Piastovec Měšek I. Těšínsko-Osvětimský jako strážce obchodní stezky; od 15. století se stal rezidenčním sídlem těšínské a později samostatné fryštátské větve Piastovců, kteří zde vládli jako lenní držitelé českých králů až do vymření rodu roku 1571. Poté hrad krátce patřil habsburské komoře, od roku 1573 Cigánům ze Slupska a od 1637 Žampachům z Potštejna; od roku 1650 jej drželi Gašínové a po roce 1749 Taaffeové. Roku 1791 jej koupili Larisch-Mönnichové, kteří areál přestavěli klasicistně; roku 1945 byl na základě Benešových dekretů zabaven a rozdělen na státní zámek a farní kostel. Zámek s parkem je od roku 1990 majetkem města Karviné.",
+ "summary": "Goticko-renesanční Fryštátský hrad založil koncem 13. století slezský Piastovec Měšek I. Těšínsko-Osvětimský jako strážce obchodní stezky; od 15. století se stal rezidenčním sídlem těšínské a později samostatné fryštátské větve Piastovců, kteří zde vládli jako lenní držitelé českých králů až do vymření rodu roku 1571. Poté hrad krátce patřil habsburské komoře, od roku 1573 Cigánům ze Slupska a od 1637 Žampachům z Potštejna; od roku 1650 jej drželi Gašínové a po několika rychlých změnách majitelů od roku 1749 Taaffeové. Roku 1792 (podle cs.wiki 1791) jej koupili Larisch-Mönnichové, kteří areál přestavěli klasicistně; roku 1945 byl na základě Benešových dekretů zabaven a rozdělen na státní zámek a farní kostel. Zámek s parkem je od roku 1990 majetkem města Karviné.",
  "owners": [
   {
    "owner": "piastovci",
@@ -147,9 +147,9 @@
    "from": 1650,
    "to": 1738,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "neznamo",
-   "note": "od 1650 hrabata z Gašína (pl.wiki), udělali z něj rodové sídlo, barokní opravy; Georg Adam před rokem 1700 opravil interiéry hradního kostela; konec držby vychází z pl.wiki (1738-1749 čtyři změny majitele)"
+   "note": "od 1650 hrabata z Gašína (cs.wiki obec Fryštát: 1650-1738; zamek-frystat.cz: 1650 převzali, rodové sídlo, od 1738 rychlé střídání majitelů); Georg Adam před rokem 1700 opravil interiéry hradního kostela"
   },
   {
    "owner": "neznamo",
@@ -157,32 +157,32 @@
    "person": null,
    "from": 1738,
    "to": 1749,
-   "from_approx": true,
-   "to_approx": true,
+   "from_approx": false,
+   "to_approx": false,
    "how": "neznamo",
-   "note": "pl.wiki: v letech 1738-1749 zámek čtyřikrát změnil majitele, jména nejsou uvedena"
+   "note": "zamek-frystat.cz: od 1738 se během 11 let vystřídali čtyři noví majitelé, jména neuvedena (tajemník magistrátu Karviné mezi majiteli jmenuje i Haugvice, bez roků)"
   },
   {
    "owner": "taaffeove",
    "owner_wiki": null,
-   "person": "Rudolf Taaffe",
+   "person": "Mikuláš Taaffe z Carlingfordu, později hrabě Rudolf Taaffe",
    "from": 1749,
-   "to": 1791,
-   "from_approx": true,
+   "to": 1792,
+   "from_approx": false,
    "to_approx": false,
    "how": "neznamo",
-   "note": "hrabata Taaffe jako dlouhodobí majitelé po 1749 (pl.wiki); po roce 1781 Rudolf Taaffe postavil na farním nádvoří novou faru a hradní zeď; způsob nabytí zdroje neuvádějí"
+   "note": "1749 se zámek dostal do rukou irského šlechtice Mikuláše Taaffa z Carlingfordu (zamek-frystat.cz); po 1781 požáru Rudolf Taaffe postavil na farním nádvoří novou faru a hradní zeď; 1792 Rudolf Taaffe Fryštát prodal (cs.wiki obec Fryštát, zamek-frystat.cz, magistrát Karviná); cs.wiki hrad uvádí koupi Larischů 1791"
   },
   {
    "owner": "larischove",
    "owner_wiki": "Larischové",
    "person": "Larisch-Mönnichové (hrabě Jan Larisch von Mönnich)",
-   "from": 1791,
+   "from": 1792,
    "to": 1945,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "koupě 1791 podle cs.wiki (pl.wiki uvádí 1792); rozšířili zámek o Lottyhaus, klasicistní fasáda, 1804 anglický park; po 1873 sídlili hlavně v Solci a Fryštát sloužil spíše hospodářsky"
+   "note": "koupě 1792 podle zamek-frystat.cz, hrady.cz, cs.wiki (obec Fryštát) a magistrátu Karviné; cs.wiki (článek o hradu) uvádí 1791 (tehdy sňatek Jana Josefa Larische s Mönnichovou); rozšířili zámek o Lottyhaus, empírová přestavba dokončena 1800, 1804 anglický park; po 1873 sídlili hlavně v Solci"
   },
   {
    "owner": "cirkev",
@@ -204,7 +204,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "na základě Benešových dekretů zabaven Larisch-Mönnichům; zámecká část připadla státu, sídlil zde MNV a správa dolu"
+   "note": "na základě Benešových dekretů zkonfiskován Larisch-Mönnichům; zámek užíval OKD, poté MNV (zamek-frystat.cz); do 1990"
   },
   {
    "owner": "mesto",
@@ -214,8 +214,8 @@
    "to": null,
    "from_approx": false,
    "to_approx": null,
-   "how": "restituce",
-   "note": "podle pl.wiki přešel zámek s parkem roku 1990 do vlastnictví města Karviné, které provedlo rekonstrukci; zpřístupněn 1997"
+   "how": "jine",
+   "note": "od roku 1990 zámek s parkem ve vlastnictví města Karviné (zamek-frystat.cz, polar.cz); rekonstrukce 1994-1997, zpřístupněn 1997"
   }
  ],
  "events": [
@@ -244,8 +244,8 @@
    "text": "hrad kupuje Karel Zdeněk Žampach z Potštejna, natrvalo obnovuje katolickou víru"
   },
   {
-   "year": 1791,
-   "text": "areál kupují Larisch-Mönnichové, rozšiřují jej a dávají mu klasicistní podobu"
+   "year": 1792,
+   "text": "areál kupují Larisch-Mönnichové (cs.wiki hrad uvádí 1791), rozšiřují jej a dávají mu klasicistní podobu"
   },
   {
    "year": 1945,
@@ -261,6 +261,9 @@
   "https://cs.wikipedia.org/wiki/Měšek_I._Těšínský",
   "https://cs.wikipedia.org/wiki/Kazimír_II._Těšínský",
   "https://cs.wikipedia.org/wiki/Přemysl_I._Nošák",
-  "https://pl.wikipedia.org/wiki/Pałac_we_Frysztacie"
+  "https://pl.wikipedia.org/wiki/Pałac_we_Frysztacie",
+  "https://www.zamek-frystat.cz/index.php/historie-zamku/",
+  "https://cs.wikipedia.org/wiki/Fryštát",
+  "https://polar.cz/zpravy/karvinsko/karvina/11000035561/zamek-frystat-laka-verejnost-k-prohlidkam-uz-25-let"
  ]
 }

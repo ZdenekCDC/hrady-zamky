@@ -6,40 +6,29 @@
   "approx": true,
   "text": "Hrad byl založen koncem 13. století za posledních Přemyslovců v rámci kolonizace pohraničního pralesa severovýchodních Čech; vybudovali jej členové rodu Drslaviců, kteří sem přenesli i jména svých plzeňských rodových sídel (Litice, Potštejn)."
  },
- "summary": "Hrad Litice nad Orlicí založili koncem 13. století Drslavici v rámci kolonizace Podorlicka. Po nejasném období (možný vztah pražského rodu Pušů, poté král, zástava Jindřichovi z Lipé a výměna s Lichtenburky) patřil od nejpozději roku 1371 pánům z Kunštátu, včetně Jiřího z Poděbrad, který jej přestavěl. Od roku 1495 vlastnili Litice Pernštejnové, poté se panství rychle střídalo (Wittelsbachové, Okrouhličtí z Kněnic), až je roku 1562 získal rod z Bubna, který je držel do roku 1809. Poté hrad krátce patřil Windischgrätzům, od roku 1815 Parishům až do znárodnění velkostatků roku 1948, dnes je majetkem státu a spravuje jej Národní památkový ústav.",
+ "summary": "Hrad Litice nad Orlicí založili koncem 13. století Drslavici v rámci kolonizace Podorlicka. Po výměně s králem Václavem II. (1304; podle hrady.dejiny.cz) a zástavě Jindřichovi z Lipé (1316) a výměně s Lichtenburky patřil od nejpozději roku 1371 pánům z Kunštátu, včetně Jiřího z Poděbrad, který jej přestavěl. Od roku 1495 vlastnili Litice Pernštejnové, poté se panství rychle střídalo (Wittelsbachové, Okrouhličtí z Kněnic), až je roku 1562 získal rod z Bubna, který je držel do roku 1809. Poté hrad krátce patřil Windischgrätzům, od roku 1815 Parishům až do znárodnění velkostatků roku 1948, dnes je majetkem státu a spravuje jej Národní památkový ústav.",
  "owners": [
   {
    "owner": "drslavici",
    "owner_wiki": "Drslavici",
    "person": null,
    "from": 1290,
-   "to": null,
+   "to": 1304,
    "from_approx": true,
-   "to_approx": true,
+   "to_approx": false,
    "how": "zalozeni",
-   "note": "koncem 13. století, 'těsně před rokem 1300' (en.wiki); založili síť hradů v Podorlicku (Litice, Potštejn) podle plzeňských rodových sídel; konec jejich držby není doložen"
-  },
-  {
-   "owner": "pusove",
-   "owner_wiki": null,
-   "person": null,
-   "from": 1309,
-   "to": null,
-   "from_approx": true,
-   "to_approx": true,
-   "how": "neznamo",
-   "note": "jen dedukce: roku 1309 zde byli vězněni zemští šlechtici zajatí pražskými a kutnohorskými patricii vedenými Peregrinem Pušem, z čehož cs.wiki usuzuje na vlastnický vztah Pušů k hradu; rok 1309 je rok události, ne doložené držby; nedlouho poté hrad získal král"
+   "note": "koncem 13. století, 'těsně před rokem 1300' (en.wiki); založili síť hradů v Podorlicku (Litice, Potštejn) podle plzeňských rodových sídel; podle hrady.dejiny.cz a egeon.cz hrad roku 1304 Půta z Potštejna vyměnil s králem Václavem II. za panství Bor na Horažďovicku (egeon uvádí, že podle hradního průvodcovského textu je první zpráva až z 1316; hrad-litice.cz uvádí první zprávu 1316, cs.wiki výměnu 1304 neuvádí)"
   },
   {
    "owner": "koruna",
    "owner_wiki": null,
-   "person": null,
-   "from": null,
+   "person": "král Václav II.",
+   "from": 1304,
    "to": 1316,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "cs.wiki: nedlouho po 1309 se hrad stal královským majetkem; přesný rok neuveden"
+   "how": "vymena",
+   "note": "hrady.dejiny.cz a egeon.cz: 1304 výměna s Půtou z Potštejna za Bor; cs.wiki: na hradě 1309 vězněni zemští šlechtici zajatí pražskými patricii vedenými Peregrinem Pušem a z toho usuzuje na vlastnický vztah Pušů - jde jen o dedukci, proto Pušové nejsou v řetězci; nedlouho poté hrad podle cs.wiki král; 1316 zastaven Jindřichovi z Lipé"
   },
   {
    "owner": "pani-z-lipe",
@@ -66,13 +55,13 @@
   {
    "owner": "lichtenburkove",
    "owner_wiki": "Lichtenburkové",
-   "person": null,
+   "person": "Hynek z Lichtenburka, Jan (Ješek Pykna) z Lichtenburka",
    "from": null,
    "to": 1365,
    "from_approx": true,
    "to_approx": false,
    "how": "vymena",
-   "note": "připomínáni v 50. a 60. letech 14. století; roku 1365 Jan z Lichtenburka Litice prodal Jindřichovi z Lipé; rok počátku jejich držby cs.wiki neuvádí"
+   "note": "hrady.dejiny.cz, egeon.cz: král Jan Lucemburský hrad (po 1333, kdy jej markrabě Karel vyplatil ze zástavy) vyměnil s Lichtenburky za Lichnici; jako majitel poprvé 1353 Hynek (Jindřich) z Lichtenburka, 1361 Jan zvaný Ješek Pykna; 1365 Jan s synovcem Janem Litice prodal Jindřichovi z Lipé; rok počátku jejich držby zdroje neuvádějí"
   },
   {
    "owner": "pani-z-lipe",
@@ -101,19 +90,19 @@
    "owner_wiki": "Páni z Kunštátu a Poděbrad",
    "person": "Boček z Kunštátu",
    "from": 1472,
-   "to": null,
+   "to": 1483,
    "from_approx": false,
-   "to_approx": true,
+   "to_approx": false,
    "how": "dedictvi",
-   "note": "při dělení majetku po Jiřím z Poděbrad 1472 připadly Litice nesvéprávnému Bočkovi, který je ještě za života postoupil bratru a poručníkovi; rok postoupení cs.wiki neuvádí"
+   "note": "při dělení majetku po Jiřím z Poděbrad 1472 připadly Litice Bočkovi (nesvéprávný, podle cs.wiki); roku 1483 je postoupil bratru Jindřichovi Minsterberskému (hrady.cz, hrady.dejiny.cz, egeon.cz)"
   },
   {
    "owner": "minsterberkove",
    "owner_wiki": "Minsterberkové",
    "person": "Jindřich starší z Münsterberka",
-   "from": null,
+   "from": 1483,
    "to": 1495,
-   "from_approx": true,
+   "from_approx": false,
    "to_approx": false,
    "how": "jine",
    "note": "Boček mu Litice postoupil; roku 1491 je doložen jako vlastník litického panství; kvůli zadlužení (válka s Matyášem Korvínem) panství roku 1495 prodal Vilému z Pernštejna"
@@ -198,8 +187,12 @@
  ],
  "events": [
   {
+   "year": 1304,
+   "text": "Půta z Potštejna vyměnil hrad s králem Václavem II. za panství Bor (hrady.dejiny.cz, egeon.cz)"
+  },
+  {
    "year": 1309,
-   "text": "na hradě byli vězněni zajatí zemští šlechtici Jindřich z Lipé, Jan I. z Vartenberka a Jan z Klingenberka"
+   "text": "na hradě byli vězněni zajatí zemští šlechtici Jindřich z Lipé, Jan I. z Vartenberka a Jan z Klingenberka (cs.wiki z toho usuzuje na vztah k Pušům)"
   },
   {
    "year": 1421,
@@ -224,6 +217,10 @@
  ],
  "sources": [
   "https://cs.wikipedia.org/wiki/Litice_(hrad)",
-  "https://en.wikipedia.org/wiki/Litice_Castle"
+  "https://en.wikipedia.org/wiki/Litice_Castle",
+  "https://www.hrady.cz/hrad-litice-nad-orlici",
+  "http://hrady.dejiny.cz/litice/index.htm",
+  "http://hrad-litice.cz/cs/o-hradu/historie",
+  "https://egeon.cz/cile/2568/hrad-litice-nad-orlici"
  ]
 }

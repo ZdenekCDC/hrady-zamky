@@ -172,12 +172,12 @@
    },
    {
     "place": "Q116582",
-    "from": 1677,
-    "to": 1730,
-    "person": "Marie Althanová",
-    "how": "neznamo",
-    "from_approx": true,
-    "to_approx": true
+    "from": 1791,
+    "to": 1810,
+    "person": "Marie Anna z Althanu, roz. Martinicová",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": false
    },
    {
     "place": "Q1417125",
@@ -269,17 +269,17 @@
    },
    {
     "place": "Q116582",
-    "year": 1677,
+    "year": 1791,
     "from": "martinicove-a-clam-martinicove",
     "to": "althannove",
-    "how": "neznamo"
+    "how": "dedictvi"
    },
    {
     "place": "Q116582",
-    "year": 1730,
+    "year": 1810,
     "from": "althannove",
     "to": "firmianove",
-    "how": "neznamo"
+    "how": "dedictvi"
    },
    {
     "place": "Q1417125",
@@ -9449,11 +9449,11 @@
    {
     "place": "Q1013014",
     "from": 1290,
-    "to": 1309,
+    "to": 1304,
     "person": null,
     "how": "zalozeni",
     "from_approx": true,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q1013789",
@@ -9485,10 +9485,10 @@
    {
     "place": "Q18164",
     "from": 1429,
-    "to": 1442,
-    "person": "Půta nejmladší z Častolovic",
+    "to": 1435,
+    "person": "Půta mladší z Častolovic",
     "how": "lenni",
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": true
    },
    {
@@ -9572,10 +9572,10 @@
    },
    {
     "place": "Q1013014",
-    "year": 1309,
+    "year": 1304,
     "from": "drslavici",
-    "to": "pusove",
-    "how": "neznamo"
+    "to": "koruna",
+    "how": "vymena"
    },
    {
     "place": "Q1013789",
@@ -9621,7 +9621,7 @@
    },
    {
     "place": "Q18164",
-    "year": 1442,
+    "year": 1435,
     "from": "drslavici",
     "to": "lichtenburkove",
     "how": "lenni"
@@ -10550,28 +10550,28 @@
   "places": [
    {
     "place": "Q116582",
-    "from": 1730,
-    "to": 1784,
-    "person": null,
-    "how": "neznamo",
-    "from_approx": true,
-    "to_approx": true
+    "from": 1810,
+    "to": 1840,
+    "person": "Marie Anna hraběnka z Firmianu, roz. z Althanu",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": false
    }
   ],
   "transfers": [
    {
     "place": "Q116582",
-    "year": 1730,
+    "year": 1810,
     "from": "althannove",
     "to": "firmianove",
-    "how": "neznamo"
+    "how": "dedictvi"
    },
    {
     "place": "Q116582",
-    "year": 1784,
+    "year": 1840,
     "from": "firmianove",
     "to": "wolkenstein-trostburkove",
-    "how": "neznamo"
+    "how": "dedictvi"
    }
   ],
   "place_count": 1,
@@ -11150,7 +11150,7 @@
     "person": "Gašínové z Gašína (Georg Adam z Gašinu)",
     "how": "neznamo",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    }
   ],
   "transfers": [
@@ -14128,7 +14128,7 @@
     "place": "Q366448",
     "from": 1897,
     "to": 1918,
-    "person": "princezna z rodu Hohenlohe (jméno zdroje neuvádějí)",
+    "person": "princezna z rodu Hohenlohe (pravděpodobně Marie, roz. Kounicová, 1855-1918, manž. Egon Hohenlohe-Waldenburg-Schillingsfürst)",
     "how": "koupe",
     "from_approx": false,
     "to_approx": false
@@ -20991,7 +20991,7 @@
    },
    {
     "place": "Q62610248",
-    "from": 1791,
+    "from": 1792,
     "to": 1945,
     "person": "Larisch-Mönnichové (hrabě Jan Larisch von Mönnich)",
     "how": "koupe",
@@ -21086,7 +21086,7 @@
    },
    {
     "place": "Q62610248",
-    "year": 1791,
+    "year": 1792,
     "from": "taaffeove",
     "to": "larischove",
     "how": "koupe"
@@ -22097,7 +22097,7 @@
     "place": "Q1013014",
     "from": 1349,
     "to": 1365,
-    "person": null,
+    "person": "Hynek z Lichtenburka, Jan (Ješek Pykna) z Lichtenburka",
     "how": "vymena",
     "from_approx": true,
     "to_approx": false
@@ -22167,7 +22167,7 @@
    },
    {
     "place": "Q18164",
-    "from": 1442,
+    "from": 1435,
     "to": 1454,
     "person": "Hynek Krušina z Lichtenburka (podruhé), poté syn Vilém Krušina",
     "how": "lenni",
@@ -22377,7 +22377,7 @@
    },
    {
     "place": "Q18164",
-    "year": 1442,
+    "year": 1435,
     "from": "drslavici",
     "to": "lichtenburkove",
     "how": "lenni"
@@ -26105,11 +26105,11 @@
    {
     "place": "Q116582",
     "from": 1623,
-    "to": 1677,
+    "to": 1791,
     "person": "Jaroslav Bořita z Martinic",
     "how": "koupe",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q1171063",
@@ -26149,10 +26149,10 @@
    },
    {
     "place": "Q116582",
-    "year": 1677,
+    "year": 1791,
     "from": "martinicove-a-clam-martinicove",
     "to": "althannove",
-    "how": "neznamo"
+    "how": "dedictvi"
    },
    {
     "place": "Q1171063",
@@ -26828,11 +26828,11 @@
    },
    {
     "place": "Q1013014",
-    "from": 1484,
+    "from": 1483,
     "to": 1495,
     "person": "Jindřich starší z Münsterberka",
     "how": "jine",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -26882,7 +26882,7 @@
    },
    {
     "place": "Q18164",
-    "from": 1481,
+    "from": 1484,
     "to": 1495,
     "person": "Jindřich Minsterberský",
     "how": "dedictvi",
@@ -26934,7 +26934,7 @@
    },
    {
     "place": "Q1013014",
-    "year": 1484,
+    "year": 1483,
     "from": "pani-z-kunstatu-a-podebrad",
     "to": "minsterberkove",
     "how": "jine"
@@ -27018,7 +27018,7 @@
    },
    {
     "place": "Q18164",
-    "year": 1481,
+    "year": 1484,
     "from": "pani-z-kunstatu-a-podebrad",
     "to": "minsterberkove",
     "how": "dedictvi"
@@ -32114,11 +32114,11 @@
    {
     "place": "Q1013014",
     "from": 1472,
-    "to": 1484,
+    "to": 1483,
     "person": "Boček z Kunštátu",
     "how": "dedictvi",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q1013033",
@@ -32240,7 +32240,7 @@
    {
     "place": "Q18164",
     "from": 1454,
-    "to": 1468,
+    "to": 1472,
     "person": "Jiří z Poděbrad",
     "how": "lenni",
     "from_approx": false,
@@ -32248,11 +32248,11 @@
    },
    {
     "place": "Q18164",
-    "from": 1468,
-    "to": 1481,
+    "from": 1472,
+    "to": 1484,
     "person": "Boček z Poděbrad",
     "how": "dedictvi",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": true
    },
    {
@@ -32525,7 +32525,7 @@
    },
    {
     "place": "Q1013014",
-    "year": 1484,
+    "year": 1483,
     "from": "pani-z-kunstatu-a-podebrad",
     "to": "minsterberkove",
     "how": "jine"
@@ -32707,7 +32707,7 @@
    },
    {
     "place": "Q18164",
-    "year": 1481,
+    "year": 1484,
     "from": "pani-z-kunstatu-a-podebrad",
     "to": "minsterberkove",
     "how": "dedictvi"
@@ -40863,41 +40863,6 @@
     "year": 1856,
     "from": "pulpanove-z-feldsteina",
     "to": "tiegelove-z-lindenkronu",
-    "how": "neznamo"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
- "pusove": {
-  "id": "pusove",
-  "type": "rod",
-  "name": "pusove",
-  "related": [],
-  "places": [
-   {
-    "place": "Q1013014",
-    "from": 1309,
-    "to": 1312,
-    "person": null,
-    "how": "neznamo",
-    "from_approx": true,
-    "to_approx": true
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q1013014",
-    "year": 1309,
-    "from": "drslavici",
-    "to": "pusove",
-    "how": "neznamo"
-   },
-   {
-    "place": "Q1013014",
-    "year": 1312,
-    "from": "pusove",
-    "to": "koruna",
     "how": "neznamo"
    }
   ],
@@ -51166,10 +51131,10 @@
    {
     "place": "Q62610248",
     "from": 1749,
-    "to": 1791,
-    "person": "Rudolf Taaffe",
+    "to": 1792,
+    "person": "Mikuláš Taaffe z Carlingfordu, později hrabě Rudolf Taaffe",
     "how": "neznamo",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false
    }
   ],
@@ -51197,7 +51162,7 @@
    },
    {
     "place": "Q62610248",
-    "year": 1791,
+    "year": 1792,
     "from": "taaffeove",
     "to": "larischove",
     "how": "koupe"
@@ -58599,12 +58564,12 @@
    },
    {
     "place": "Q116582",
-    "from": 1784,
-    "to": 1837,
-    "person": null,
-    "how": "neznamo",
-    "from_approx": true,
-    "to_approx": true
+    "from": 1840,
+    "to": 1880,
+    "person": "Karl Friedrich Otto z Wolkenstein-Trostburgu († 1875), poté Leopold Karl Otto",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": false
    }
   ],
   "transfers": [
@@ -58624,17 +58589,17 @@
    },
    {
     "place": "Q116582",
-    "year": 1784,
+    "year": 1840,
     "from": "firmianove",
     "to": "wolkenstein-trostburkove",
-    "how": "neznamo"
+    "how": "dedictvi"
    },
    {
     "place": "Q116582",
-    "year": 1837,
+    "year": 1880,
     "from": "wolkenstein-trostburkove",
     "to": "soukromnik",
-    "how": "neznamo"
+    "how": "koupe"
    }
   ],
   "place_count": 2,
@@ -79187,8 +79152,8 @@
     "to": 1749,
     "person": null,
     "how": "neznamo",
-    "from_approx": true,
-    "to_approx": true
+    "from_approx": false,
+    "to_approx": false
    },
    {
     "place": "Q631338",
@@ -80598,6 +80563,15 @@
     "place": "Q11353489",
     "from": 1945,
     "to": 1989,
+    "person": null,
+    "how": "konfiskace",
+    "from_approx": false,
+    "to_approx": true
+   },
+   {
+    "place": "Q116582",
+    "from": 1945,
+    "to": 2005,
     "person": null,
     "how": "konfiskace",
     "from_approx": false,
@@ -83823,6 +83797,20 @@
     "how": "jine"
    },
    {
+    "place": "Q116582",
+    "year": 1945,
+    "from": "soukromnik",
+    "to": "stat",
+    "how": "konfiskace"
+   },
+   {
+    "place": "Q116582",
+    "year": 2005,
+    "from": "stat",
+    "to": "mesto",
+    "how": "jine"
+   },
+   {
     "place": "Q11706363",
     "year": 1934,
     "from": "loudonove",
@@ -86676,7 +86664,7 @@
     "year": 1990,
     "from": "stat",
     "to": "mesto",
-    "how": "restituce"
+    "how": "jine"
    },
    {
     "place": "Q655633",
@@ -86896,7 +86884,7 @@
     "how": "restituce"
    }
   ],
-  "place_count": 307,
+  "place_count": 308,
   "color_slot": null
  },
  "koruna": {
@@ -87195,11 +87183,11 @@
    },
    {
     "place": "Q1013014",
-    "from": 1312,
+    "from": 1304,
     "to": 1316,
-    "person": null,
-    "how": "neznamo",
-    "from_approx": true,
+    "person": "král Václav II.",
+    "how": "vymena",
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -89661,10 +89649,10 @@
    },
    {
     "place": "Q1013014",
-    "year": 1312,
-    "from": "pusove",
+    "year": 1304,
+    "from": "drslavici",
     "to": "koruna",
-    "how": "neznamo"
+    "how": "vymena"
    },
    {
     "place": "Q1013014",
@@ -92743,10 +92731,10 @@
    },
    {
     "place": "Q116582",
-    "from": 1958,
+    "from": 2005,
     "to": null,
     "person": "obec Místo",
-    "how": "neznamo",
+    "how": "jine",
     "from_approx": true,
     "to_approx": false
    },
@@ -93880,7 +93868,7 @@
     "from": 1990,
     "to": null,
     "person": "město Karviná",
-    "how": "restituce",
+    "how": "jine",
     "from_approx": false,
     "to_approx": null
    },
@@ -94376,10 +94364,10 @@
    },
    {
     "place": "Q116582",
-    "year": 1958,
-    "from": "soukromnik",
+    "year": 2005,
+    "from": "stat",
     "to": "mesto",
-    "how": "neznamo"
+    "how": "jine"
    },
    {
     "place": "Q11706363",
@@ -95520,7 +95508,7 @@
     "year": 1990,
     "from": "stat",
     "to": "mesto",
-    "how": "restituce"
+    "how": "jine"
    },
    {
     "place": "Q631338",
@@ -96537,21 +96525,21 @@
    },
    {
     "place": "Q116582",
-    "from": 1837,
-    "to": 1891,
-    "person": "František Preidl",
-    "how": "neznamo",
-    "from_approx": true,
-    "to_approx": true
+    "from": 1880,
+    "to": 1889,
+    "person": "František Preidl (Franz Preidl von Hassenbrunn)",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
    },
    {
     "place": "Q116582",
-    "from": 1891,
-    "to": 1958,
-    "person": "Emanuel Karsch, majitel velkostatku Prunéřov-Ahníkov",
+    "from": 1889,
+    "to": 1945,
+    "person": "Emanuel Karsch, od 1911 jeho syn Franz Karsch",
     "how": "dedictvi",
-    "from_approx": true,
-    "to_approx": true
+    "from_approx": false,
+    "to_approx": false
    },
    {
     "place": "Q11706363",
@@ -100362,17 +100350,17 @@
    },
    {
     "place": "Q116582",
-    "year": 1837,
+    "year": 1880,
     "from": "wolkenstein-trostburkove",
     "to": "soukromnik",
-    "how": "neznamo"
+    "how": "koupe"
    },
    {
     "place": "Q116582",
-    "year": 1958,
+    "year": 1945,
     "from": "soukromnik",
-    "to": "mesto",
-    "how": "neznamo"
+    "to": "stat",
+    "how": "konfiskace"
    },
    {
     "place": "Q11706363",
