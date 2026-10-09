@@ -8874,7 +8874,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "restituce",
-    "note": "hrad vrácen kdyňskému odboru KČT 1991 (plzenskykraj-kct.cz); cs.wiki: od 90. let opětovným vlastníkem"
+    "note": "hrad vrácen kdyňskému odboru KČT 1991 (plzenskykraj-kct.cz); cs.wiki: od 90. let opětovným vlastníkem; město Kdyně (2026) potvrzuje, že hrad je ve vlastnictví KČT Kdyně; vlastník 1947-1991 ani v dalších zdrojích (hrady.cz, infocentrum Kdyně, kct-kdyne.cz, pamatkovykatalog.cz) uveden není"
    }
   ],
   "events": [
@@ -8931,7 +8931,8 @@
    "https://cs.wikipedia.org/wiki/Rýzmberk",
    "https://hrady.cz/hrad-ryzmberk/texty?pos=300&tid=6649",
    "https://www.plzenskykraj-kct.cz/objekty/ryzmberk.htm",
-   "https://www.infocentrumkdyne.cz/evt_file.php?file=4569&original=r%C3%BDzmberk.pdf"
+   "https://www.infocentrumkdyne.cz/evt_file.php?file=4569&original=r%C3%BDzmberk.pdf",
+   "https://www.kdyne.cz/aktualni-informace/aktuality/zachrana-zriceniny-hradu-ryzmberk-2758cs.html"
   ]
  },
  "Q1014002": {
@@ -35377,7 +35378,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "dedictvi",
-    "note": "po vymření Fulštejnů zámek převzali (web zámku, de.wiki: 1570); po Bílé hoře zkonfiskován za účast na stavovském povstání; přesný rok konfiskace zdroje neuvádějí"
+    "note": "po vymření Fulštejnů zámek převzali (web zámku, de.wiki: 1570); po Bílé hoře zkonfiskován za účast na stavovském povstání; přesný rok konfiskace zdroje neuvádějí (de.wiki: majetek ztratili po bitvě na Bílé hoře 1620, tj. konfiskace až po 1620; pidifrk.cz: Ditrichštejn získal Rudoltice jako pobělohorskou konfiskaci); konec držby Sedlnických proto zůstává neznámý"
    },
    {
     "owner": "ditrichstejnove",
@@ -35476,7 +35477,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "koupe",
-    "note": "koňský handlíř z Rudoltic, poslední soukromý majitel (statek koupil 1942 podle webu obce, cs.wiki uvádí 'do roku 1942'); za 2. světové války v zámku sídlila část Goebbelsova ministerstva propagandy a cvičil zde Hitlerjugend; konec držby a způsob přechodu na stát zdroje výslovně neuvádějí"
+    "note": "koňský handlíř z Rudoltic, poslední soukromý majitel (statek koupil 1942 podle webu obce, cs.wiki, hrady.cz, pidifrk.cz a webu zámku uvádějí 'do roku 1942'; rozpor nerozřešen); za 2. světové války v zámku sídlila část Goebbelsova ministerstva propagandy a cvičil zde Hitlerjugend; konec držby a způsob přechodu na stát zdroje výslovně neuvádějí"
    },
    {
     "owner": "stat",
@@ -35487,7 +35488,7 @@
     "from_approx": true,
     "to_approx": false,
     "how": "neznamo",
-    "note": "po válce krátce sídlo místního národního výboru, pak prázdný a chátrající, v 70.-80. letech sklad zdravotnického materiálu; způsob nabytí státem a rok přechodu zdroje neuvádějí, ke 2008 předala objekt obci tato organizace"
+    "note": "po válce krátce sídlo místního národního výboru, pak prázdný a chátrající, v 70.-80. letech sklad zdravotnického materiálu; způsob nabytí státem a rok přechodu zdroje neuvádějí (ani web zámku, hrady.cz, turistika.cz ani de.wiki; hrady.cz: od 1975 sklad Ministerstva zdravotnictví, turistika.cz: 1945 válkou poškozen, poté sídlo MNV), ke 2008 předala objekt obci tato organizace"
    },
    {
     "owner": "mesto",
@@ -35539,6 +35540,8 @@
    "https://cs.wikipedia.org/wiki/Slezské_Rudoltice_(zámek)",
    "https://www.slezskerudoltice.cz/obec/historie/",
    "https://www.zamekslezskerudoltice.cz/kultura/",
+   "https://pidifrk.cz/detail-pidifrku.php?p=595",
+   "https://www.hrady.cz/zamek-slezske-rudoltice",
    "https://de.wikipedia.org/wiki/Slezské_Rudoltice"
   ]
  },
@@ -35691,11 +35694,22 @@
     "owner_wiki": null,
     "person": null,
     "from": 1254,
-    "to": 1361,
+    "to": 1354,
     "from_approx": true,
-    "to_approx": true,
+    "to_approx": false,
     "how": "neznamo",
-    "note": "ves a vladycké sídlo poprvé připomínány 1169-1192; rod Odolenoviců zde sídlil od roku 1254, žádný článek o rodu na cs.wiki neexistuje"
+    "note": "ves a vladycké sídlo poprvé připomínány 1169-1192; rod Odolenoviců zde sídlil od roku 1254, žádný článek o rodu na cs.wiki neexistuje; hrady.cz uvádí potomky Odolena (Pětipeští z Chyš a Egerberka) jako držitele do roku 1354"
+   },
+   {
+    "owner": "neznamo",
+    "owner_wiki": null,
+    "person": null,
+    "from": 1354,
+    "to": 1361,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "hrady.cz: roku 1358 si Chyše rozdělili Vilém ze Skály a Ahník (Hagen) a Oldřich Pluh z Rabštejna"
    },
    {
     "owner": "koruna",
@@ -35735,7 +35749,7 @@
     "owner_wiki": "Plavenští z Plavna",
     "person": "Jindřich z Plavna",
     "from": 1422,
-    "to": 1448,
+    "to": 1444,
     "from_approx": true,
     "to_approx": true,
     "how": "jine",
@@ -35745,8 +35759,8 @@
     "owner": "z-kamenne-hory",
     "owner_wiki": null,
     "person": "Jan Calta z Kamenné Hory",
-    "from": 1448,
-    "to": 1473,
+    "from": 1444,
+    "to": 1466,
     "from_approx": true,
     "to_approx": true,
     "how": "jine",
@@ -35756,12 +35770,12 @@
     "owner": "pani-z-gutstejna",
     "owner_wiki": "Páni z Gutštejna",
     "person": "Burian II. z Gutštejna",
-    "from": 1473,
+    "from": 1466,
     "to": 1566,
     "from_approx": false,
     "to_approx": false,
-    "how": "jine",
-    "note": "roku 1473 hrad král Vladislav Jagellonský propustil z manství Burianovi II. z Gutštejna; ten hrad opevnil a roku 1487 založil klášter; posledním mužským potomkem byl Viktorín z Gutštejna; de.wiki uvádí, že hrad a ves získal Burian z Gutštejna už 1466 a roku 1467 jej dobylo královské vojsko (rozpor s cs.wiki, ponecháno 1473 podle písemné zmínky)"
+    "how": "koupe",
+    "note": "hrady.cz a pamatkyaprirodakarlovarska.cz: roku 1466 získal Burian II. od Hilbranta Satanéře panství Rabštejn s Chyšemi; roku 1473 hrad král Vladislav Jagellonský propustil z manství (první písemná zmínka o hradu); roku 1473 hrad král Vladislav Jagellonský propustil z manství Burianovi II. z Gutštejna; ten hrad opevnil a roku 1487 založil klášter; posledním mužským potomkem byl Viktorín z Gutštejna; roku 1467 hrad dobyla a pobořila vojska Jiřího z Poděbrad (cs.wiki začátek držby neuvádí, rok 1473 je rok propuštění z manství)"
    },
    {
     "owner": "lobkovicove",
@@ -35789,22 +35803,22 @@
     "owner_wiki": "Páni ze Švamberka",
     "person": "Griselda ze Švamberka, rozená z Lobkovic, vdova po Adamovi I. ze Švamberka",
     "from": 1587,
-    "to": 1604,
+    "to": 1607,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "koupe",
-    "note": "rok jejího úmrtí článek neuvádí"
+    "note": "koupila za 48900 kop míšeňských grošů; roku 1607 panství přešlo na syna Bohuchvala Berku (pamatkyaprirodakarlovarska.cz)"
    },
    {
     "owner": "berkove-z-dube",
     "owner_wiki": "Berkové z Dubé",
     "person": "Bohuchval Berka z Dubé, na Bělé a Kuřívodách",
-    "from": 1604,
+    "from": 1607,
     "to": 1620,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": true,
     "how": "dedictvi",
-    "note": "zdědil po matce Griseldě; jako jeden ze strůjců stavovského povstání 1618-1620 po Bílé hoře uprchl ze země a byl odsouzen ke ztrátě cti a majetku; konec držby odhadnut na dobu po bitvě na Bílé hoře (1620), konfiskace zakončena 1622 prodejem"
+    "note": "zdědil po matce Griseldě (1607, pamatkyaprirodakarlovarska.cz); jako jeden ze strůjců stavovského povstání 1618-1620 po Bílé hoře uprchl ze země a byl odsouzen ke ztrátě cti a majetku; konec držby odhadnut na dobu po bitvě na Bílé hoře (1620), konfiskace zakončena 1622 prodejem"
    },
    {
     "owner": "koruna",
@@ -35815,7 +35829,7 @@
     "from_approx": true,
     "to_approx": false,
     "how": "konfiskace",
-    "note": "zkonfiskovaný majetek Bohuchvala Berky z Dubé, roku 1622 levně prodán bez odhadu"
+    "note": "zkonfiskovaný majetek Bohuchvala Berky z Dubé; pamatkyaprirodakarlovarska.cz: 1621 postoupen Jiřímu Vilému Michnovi, 1622 mu bylo zboží bez odhadu levně prodáno"
    },
    {
     "owner": "michnove-z-vacinova",
@@ -35881,7 +35895,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "koupě v dražbě za 110400 zlatých rýnských; Prokop III. dal 1856-1858 zámek přestavět architektem Ignácem Ullmannem; posledním předválečným majitelem byl Prokop (IV.) Lažanský (1925-1945); de.wiki uvádí konfiskaci až po únoru 1948 a využití jako škola v přírodě do 1979, cs.wiki zestátnění 1945 (Benešovy dekrety), ponecháno 1945"
+    "note": "koupě v dražbě za 110400 zlatých rýnských; Prokop III. dal 1856-1858 zámek přestavět architektem Ignácem Ullmannem; posledním předválečným majitelem byl Prokop (IV.) Lažanský (1925-1945); de.wiki uvádí konfiskaci až po únoru 1948 a využití jako škola v přírodě do 1979, cs.wiki a hrady.cz zestátnění 1945 (Benešovy dekrety), pamatkyaprirodakarlovarska.cz uvádí 1946 (Prokop IV. odešel do emigrace počátkem jara 1946), ponecháno 1945"
    },
    {
     "owner": "stat",
@@ -35953,7 +35967,10 @@
   ],
   "sources": [
    "https://cs.wikipedia.org/wiki/Chyše_(zámek)",
-   "https://de.wikipedia.org/wiki/Schloss_Chy%C5%A1e"
+   "https://de.wikipedia.org/wiki/Schloss_Chy%C5%A1e",
+   "https://www.hrady.cz/zamek-chyse/texty?tid=5481",
+   "https://www.pamatkyaprirodakarlovarska.cz/chyse-zamek",
+   "https://cesky.radio.cz/chyse-8061813"
   ]
  },
  "Q1749860": {
@@ -40494,7 +40511,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "koupe",
-    "note": "1628 koupil od Zdeslava Štampacha (ten jako evangelík odešel ze země; k panství patřily Dolany, Drahonice, Lomazice, Chotěnice a část Hořenic); Poláky dal jako věno dceři Marii Sidonii provdané za hraběte Ottu z Friedberku a Trauburku; ten statek spravoval a Marie Sidonie se s ním soudila - císař Leopold I., resp. 1662 soud, nařídil vrácení statku a úhradu škod; konec držby Šliků zdroje nevymezují; zdroj: cs.wiki Poláky (ves)"
+    "note": "1628 koupil od Zdeslava Štampacha (ten jako evangelík odešel ze země; k panství patřily Dolany, Drahonice, Lomazice, Chotěnice a část Hořenic); Poláky dal jako věno dceři Marii Sidonii provdané za hraběte Ottu z Friedberku a Trauburku; ten statek spravoval a Marie Sidonie se s ním soudila - císař Leopold I., resp. 1662 soud, nařídil vrácení statku a úhradu škod; konec držby Šliků zdroje nevymezují (zámek-polaky.cz ani cs.wiki roky neuvádějí; sloup Nejsvětější Trojice na návsi z roku 1683 nechala postavit Marie Sidonie z Varrenspachu, rozená Šliková, tehdejší majitelka - loudavymkrokem.cz); zdroj: cs.wiki Poláky (ves)"
    },
    {
     "owner": "strojeticti-ze-strojetic",
@@ -40505,7 +40522,7 @@
     "from_approx": true,
     "to_approx": true,
     "how": "neznamo",
-    "note": "wiki uvádí jen pořadí vlastníků po Šlicích: Strojetičtí, Gustav Adolf z Warmsbachu, Questenberkové (přesná léta ani způsob nabytí neuvedeny ani v cs.wiki o vsi a prehis.cz); tvrz těžce poškozena za třicetileté války, berní rula 1654 hodnotí ves dobře"
+    "note": "wiki uvádí jen pořadí vlastníků po Šlicích: Strojetičtí, Gustav Adolf z Warmsbachu, Questenberkové (přesná léta ani způsob nabytí neuvedeny ani v cs.wiki o vsi, prehis.cz a oficiálním webu zámku zamek-polaky.cz, který tytéž majitele jen vyjmenovává); tvrz těžce poškozena za třicetileté války, berní rula 1654 hodnotí ves dobře"
    },
    {
     "owner": "z-warmsbachu",
@@ -40538,7 +40555,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "Leopold von Pergen (1700-1749) koupil panství, po něm vdova, syn Johann Anton je vlastnil 1772-1811; nechal pravděpodobně koncem 18. století zbořit tvrz a postavit barokní zámek podle plánů žateckého stavitele Vavřince Rodta; synové Ferdinand a Josef (1766-1830) statky odprodali; cs.wiki o vsi Poláky a turisticky-magazin.cz uvádějí začátek držby Pergenů až 1745 (zámek: 1738); Poláky tehdy označovány jako allodiální panství Pohlig"
+    "note": "Leopold von Pergen (1700-1749) koupil panství, po něm vdova, syn Johann Anton je vlastnil 1772-1811; nechal pravděpodobně koncem 18. století zbořit tvrz a postavit barokní zámek podle plánů žateckého stavitele Vavřince Rodta; synové Ferdinand a Josef (1766-1830) statky odprodali; oficiální web zámku zamek-polaky.cz: Leopold koupil panství, 'někdy bývá uváděn i rok 1738', vdova Marie Johana +1772, Jan Antonín 1772-1811, jeho syn Josef panství roku 1815 prodal; cs.wiki o vsi Poláky, prazdnedomy.cz a turisticky-magazin.cz uvádějí začátek držby Pergenů až 1745 (zámek: 1738); Poláky tehdy označovány jako allodiální panství Pohlig"
    },
    {
     "owner": "windischgratzove",
@@ -40582,7 +40599,7 @@
     "from_approx": true,
     "to_approx": true,
     "how": "konfiskace",
-    "note": "po roce 1948 zámek získal státní statek (kanceláře, byty, archiv), 1958-1968 věznice, poté vojenská posádka; po roce 1990 restituce potomkům původního majitele (rok 'po 1990')"
+    "note": "po roce 1948 zámek získal státní statek (kanceláře, byty, archiv), 1958-1968 věznice, poté vojenská posádka; po roce 1990 restituce potomkům původního majitele (rok 'po 1990'); jiné zdroje: státní statek do roku 1988 (vladar.cz, MAS Vladař), zámek opuštěn po roce 1992 (ČTK, kudyznudy.cz)"
    },
    {
     "owner": "soukromnik",
@@ -40593,7 +40610,7 @@
     "from_approx": true,
     "to_approx": false,
     "how": "restituce",
-    "note": "po roce 1990 restituce potomkům původního majitele, kteří o zámek neměli zájem a nabídli jej k prodeji; za tři desetiletí se vystřídala řada právnických osob, areál byl vyrabován; zdroj: turisticky-magazin.cz (komerční); rok 1990 přibližný, 2020 je rok koupě Dempírem"
+    "note": "po roce 1990 restituce potomkům původního majitele, kteří o zámek neměli zájem a nabídli jej k prodeji; za tři desetiletí se vystřídala řada právnických osob, areál byl vyrabován; zdroj: turisticky-magazin.cz (komerční); rok 1990 přibližný (viz předchozí záznam: 1988 / 1992), 2020 je rok koupě Dempírem"
    },
    {
     "owner": "soukromnik",
@@ -40604,7 +40621,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "svojanovský kastelán, usiluje o záchranu a zpřístupnění zámku; od roku 2024 je zrekonstruovaná část v sezóně otevřena veřejnosti"
+    "note": "koupil od soukromé firmy (ČTK 2024); svojanovský kastelán, usiluje o záchranu a zpřístupnění zámku; od roku 2024 je zrekonstruovaná část v sezóně otevřena veřejnosti"
    }
   ],
   "events": [
@@ -40640,6 +40657,10 @@
   "sources": [
    "https://cs.wikipedia.org/wiki/Poláky_(zámek)",
    "https://cs.wikipedia.org/wiki/Poláky",
+   "https://www.zamek-polaky.cz/index.php/historie",
+   "https://zlatovna.cz/zpravy/kultura/barokni-zamek-polaky-na-chomutovsku-se-po-oprave-otevrel-verejnosti.fje7",
+   "https://www.vladar.cz/index.php/kontakt/13-novinky/soubory/clanky/clanek_00985/soubory/clanky/clanek_00738/zamek-polaky-barokni-poklad-u-nechranicke-prehrady-vypis-clanek-821.html",
+   "https://loudavymkrokem.cz/hrady/zamek-polaky/",
    "https://www.prehis.cz/en/turista/cechy/chomutov/p/polaky.html",
    "https://turisticky-magazin.cz/turistika.php?fchange=open&id_cl=705"
   ]
@@ -54016,7 +54037,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "po sporech získal landštejnské panství Ferdinand, vnuk Josefa Sebastiana von Wenzel-Sternbacha, který se hlásil o dědictví po Herbersteinovi (hrady.cz uvádí rok 1846, zamekdobrohor.cz jen po skončení sporů); asi 1847 přestavěl pivovar na zámek; rodina bydlela v Třešti; zamekdobrohor.cz uvádí držbu do 1938, hrady.cz do 1945; za 2. sv. války zde sídlila Deutsche Ansiedlungsgesellschaft"
+    "note": "po sporech získal landštejnské panství Ferdinand, vnuk Josefa Sebastiana von Wenzel-Sternbacha, který se hlásil o dědictví po Herbersteinovi (hrady.cz uvádí rok 1846, zamekdobrohor.cz jen po skončení sporů); asi 1847 přestavěl pivovar na zámek; rodina bydlela v Třešti; zamekdobrohor.cz uvádí držbu do 1938, hrady.cz do 1945 (rozpor nerozřešen; jcted.cz a poznejdomy.cz opakují 1938); za 2. sv. války zde sídlila Deutsche Ansiedlungsgesellschaft"
    },
    {
     "owner": "stat",
@@ -54027,7 +54048,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "konfiskace",
-    "note": "zestátnění velkostatku, zámek sloužil jako dílny, kanceláře a ubytování; po revoluci se dostal do soukromých rukou (rok zdroj neuvádí)"
+    "note": "zestátnění velkostatku, zámek sloužil jako dílny, kanceláře a ubytování; po revoluci se dostal do soukromých rukou (rok zdroj neuvádí; impuls.cz: předtím jej měl ve správě státní statek Nová Bystřice)"
    },
    {
     "owner": "soukromnik",
@@ -54038,7 +54059,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "hrady.cz (komerční web) uvádí od roku 2002 nového majitele; způsob nabytí neuveden; rok 2002 pochází z jediného zdroje"
+    "note": "hrady.cz (komerční web) uvádí od roku 2002 nového majitele; způsob nabytí neuveden; rok 2002 pochází z jediného zdroje (hrady.cz); impuls.cz (2022, citace J. Mužáka) potvrzuje, že předchozí majitel koupil budovu od státu za pár desítek tisíc Kč, jen málo ji opravoval a po propadnutí trámů ji prodal Mužákovým, ale rok nabytí neuvádí"
    },
    {
     "owner": "soukromnik",
@@ -54078,6 +54099,8 @@
    "https://cs.wikipedia.org/wiki/Dobrohoř",
    "https://www.zamekdobrohor.cz/historie-zamku/",
    "https://www.hrady.cz/zamek-dobrohor-egerber",
+   "https://www.impuls.cz/regiony/jihocesky-kraj/zamek-dobrohor-jindrichohradecko-jan-muzk-majitel-chatrajici-pivovar.A220528_100002_imp-jihocesky_kov/tisk",
+   "https://poznejdomy.cz/domy/detail/1859-zamek-dobrohor",
    "https://www.jcted.cz/zamek-dobrohor-zahajil-sezonu-pred-trinacti-lety-majitele-kupovali-ruinu-ted-nabizeji-kulturni-stanek/"
   ]
  },
@@ -55154,28 +55177,28 @@
     "owner_wiki": "Chanovští z Dlouhé Vsi",
     "person": "Jan Jindřich Chanovský z Dlouhé Vsi (nezletilý, za něj poručníci)",
     "from": 1600,
-    "to": 1619,
+    "to": 1620,
     "from_approx": false,
     "to_approx": true,
     "how": "dedictvi",
-    "note": "po otci Petrovi; poručníci koupili zpět dvorec v Chanovicích prodaný dědem Adamem"
+    "note": "po otci Petrovi; poručníci koupili zpět dvorec v Chanovicích prodaný dědem Adamem; majetku se ujal až roku 1606 (Smolík, cestyrodu.cz); Chanovice prodal kolem roku 1620 strýci Kryštofovi"
    },
    {
     "owner": "chanovsti-z-dlouhe-vsi",
     "owner_wiki": "Chanovští z Dlouhé Vsi",
     "person": "Kryštof Chanovský z Dlouhé Vsi",
-    "from": 1619,
-    "to": 1637,
+    "from": 1620,
+    "to": 1638,
     "from_approx": true,
     "to_approx": true,
-    "how": "neznamo",
-    "note": "strýc Jana Jindřicha, od Jana statek získal; rok ani způsob přesně zdroj neuvádí; rok jeho smrti zdroj neuvádí; 1618 zámek za stavovského povstání přepadl Zdeněk Ježovský z Lub"
+    "how": "koupe",
+    "note": "strýc Jana Jindřicha, od Jana statek získal (cestyrodu.cz: Jan Jindřich Chanovice prodal kolem roku 1620); roku 1627 sepsal kšaft o dělení majetku; rok jeho smrti zdroj neuvádí; 1618 zámek za stavovského povstání přepadl Zdeněk Ježovský z Lub"
    },
    {
     "owner": "chanovsti-z-dlouhe-vsi",
     "owner_wiki": "Chanovští z Dlouhé Vsi",
     "person": "Jan Jindřich Chanovský z Dlouhé Vsi",
-    "from": 1637,
+    "from": 1638,
     "to": 1656,
     "from_approx": true,
     "to_approx": false,
@@ -55262,11 +55285,22 @@
     "owner_wiki": null,
     "person": "rodina Becherů (plzeňský obchodník Franz Becher, poté syn Franz Gustav Becher, 1867 povýšen do šlechtického stavu)",
     "from": 1811,
-    "to": 1889,
+    "to": 1871,
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "poslední větší úpravy interiérů 1811-1838; rok konce držby 1889 podle mistopisy.cz (turistický portál, méně spolehlivý), cs.wiki konec neuvádí"
+    "note": "poslední větší úpravy interiérů 1811-1838; rok konce držby 1871 podle Luboše Smolíka (cestyrodu.cz, vydala obec Chanovice), mistopisy.cz uvádí Becherovu držbu do 1889 bez zmínky o Daubcích, cs.wiki konec neuvádí"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Daubkové",
+    "from": 1871,
+    "to": 1889,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "cestyrodu.cz (Smolík): vlastnili zámek v letech 1871-1889, vybavili ho mobiliářem a postavili školu; křestní jména zdroj neuvádí"
    },
    {
     "owner": "soukromnik",
@@ -55277,7 +55311,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "koupe",
-    "note": "podle mistopisy.cz (méně spolehlivý zdroj); rok konce držby neuveden"
+    "note": "podle mistopisy.cz; rok konce držby neuveden; cestyrodu.cz (Smolík) uvádí jako posledního majitele barona Františka Goldegga"
    },
    {
     "owner": "soukromnik",
@@ -55299,7 +55333,7 @@
     "from_approx": true,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "podle mistopisy.cz zastřelen 6. 5. 1945 samozvanými partyzány, následující den zemřel; zámek následně konfiskován (1945 uvádí i publikace Chanovičtí páni, obec Chanovice 2019)"
+    "note": "podle mistopisy.cz zastřelen 6. 5. 1945 samozvanými partyzány, následující den zemřel (cestyrodu.cz: 7. 5. 1945); zámek následně konfiskován (1945 uvádí i publikace Chanovičtí páni, obec Chanovice 2019)"
    },
    {
     "owner": "stat",
@@ -55321,7 +55355,7 @@
     "from_approx": true,
     "to_approx": false,
     "how": "jine",
-    "note": "od 90. let 20. století výlučný vlastník celého areálu (mistopisy.cz, cs.wiki: na konci 20. století areál získala a opravila); přesný rok ani způsob nabytí zdroje neuvádějí"
+    "note": "od 90. let 20. století výlučný vlastník celého areálu (mistopisy.cz, cs.wiki: na konci 20. století areál získala a opravila); přesný rok ani způsob nabytí zdroje neuvádějí; cestyrodu.cz (Smolík, vydala obec) naopak uvádí, že se zámek stal majetkem obce na základě Benešových dekretů už 1945 (rozpor, ponecháno 1990 podle mistopisy.cz a cs.wiki)"
    }
   ],
   "events": [
@@ -55364,7 +55398,8 @@
   ],
   "sources": [
    "https://cs.wikipedia.org/wiki/Chanovice_(zámek)",
-   "https://www.mistopisy.cz/pruvodce/obec/2186/chanovice/historie/"
+   "https://www.mistopisy.cz/pruvodce/obec/2186/chanovice/historie/",
+   "https://www.cestyrodu.cz/soubor/zamek-chanovice-pdf/"
   ]
  },
  "Q31698034": {

@@ -2144,11 +2144,11 @@
    },
    {
     "place": "Q1730217",
-    "from": 1604,
+    "from": 1607,
     "to": 1620,
     "person": "Bohuchval Berka z Dubé, na Bělé a Kuřívodách",
     "how": "dedictvi",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": true
    },
    {
@@ -2540,7 +2540,7 @@
    },
    {
     "place": "Q1730217",
-    "year": 1604,
+    "year": 1607,
     "from": "pani-ze-svamberka",
     "to": "berkove-z-dube",
     "how": "dedictvi"
@@ -6805,7 +6805,7 @@
    {
     "place": "Q31463897",
     "from": 1600,
-    "to": 1619,
+    "to": 1620,
     "person": "Jan Jindřich Chanovský z Dlouhé Vsi (nezletilý, za něj poručníci)",
     "how": "dedictvi",
     "from_approx": false,
@@ -6813,16 +6813,16 @@
    },
    {
     "place": "Q31463897",
-    "from": 1619,
-    "to": 1637,
+    "from": 1620,
+    "to": 1638,
     "person": "Kryštof Chanovský z Dlouhé Vsi",
-    "how": "neznamo",
+    "how": "koupe",
     "from_approx": true,
     "to_approx": true
    },
    {
     "place": "Q31463897",
-    "from": 1637,
+    "from": 1638,
     "to": 1656,
     "person": "Jan Jindřich Chanovský z Dlouhé Vsi",
     "how": "dedictvi",
@@ -28311,20 +28311,20 @@
    {
     "place": "Q1730217",
     "from": 1254,
-    "to": 1361,
+    "to": 1354,
     "person": null,
     "how": "neznamo",
     "from_approx": true,
-    "to_approx": true
+    "to_approx": false
    }
   ],
   "transfers": [
    {
     "place": "Q1730217",
-    "year": 1361,
+    "year": 1354,
     "from": "odolenovci",
-    "to": "koruna",
-    "how": "jine"
+    "to": "neznamo",
+    "how": "neznamo"
    }
   ],
   "place_count": 1,
@@ -30850,10 +30850,10 @@
    },
    {
     "place": "Q1730217",
-    "from": 1473,
+    "from": 1466,
     "to": 1566,
     "person": "Burian II. z Gutštejna",
-    "how": "jine",
+    "how": "koupe",
     "from_approx": false,
     "to_approx": false
    },
@@ -30979,10 +30979,10 @@
    },
    {
     "place": "Q1730217",
-    "year": 1473,
+    "year": 1466,
     "from": "z-kamenne-hory",
     "to": "pani-z-gutstejna",
-    "how": "jine"
+    "how": "koupe"
    },
    {
     "place": "Q1730217",
@@ -36853,11 +36853,11 @@
    {
     "place": "Q1730217",
     "from": 1587,
-    "to": 1604,
+    "to": 1607,
     "person": "Griselda ze Švamberka, rozená z Lobkovic, vdova po Adamovi I. ze Švamberka",
     "how": "koupe",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q1749860",
@@ -37370,7 +37370,7 @@
    },
    {
     "place": "Q1730217",
-    "year": 1604,
+    "year": 1607,
     "from": "pani-ze-svamberka",
     "to": "berkove-z-dube",
     "how": "dedictvi"
@@ -39763,7 +39763,7 @@
    {
     "place": "Q1730217",
     "from": 1422,
-    "to": 1448,
+    "to": 1444,
     "person": "Jindřich z Plavna",
     "how": "jine",
     "from_approx": true,
@@ -39927,7 +39927,7 @@
    },
    {
     "place": "Q1730217",
-    "year": 1448,
+    "year": 1444,
     "from": "plavensti-z-plavna",
     "to": "z-kamenne-hory",
     "how": "jine"
@@ -63315,8 +63315,8 @@
   "places": [
    {
     "place": "Q1730217",
-    "from": 1448,
-    "to": 1473,
+    "from": 1444,
+    "to": 1466,
     "person": "Jan Calta z Kamenné Hory",
     "how": "jine",
     "from_approx": true,
@@ -63326,17 +63326,17 @@
   "transfers": [
    {
     "place": "Q1730217",
-    "year": 1448,
+    "year": 1444,
     "from": "plavensti-z-plavna",
     "to": "z-kamenne-hory",
     "how": "jine"
    },
    {
     "place": "Q1730217",
-    "year": 1473,
+    "year": 1466,
     "from": "z-kamenne-hory",
     "to": "pani-z-gutstejna",
-    "how": "jine"
+    "how": "koupe"
    }
   ],
   "place_count": 1,
@@ -79234,6 +79234,15 @@
    },
    {
     "place": "Q1730217",
+    "from": 1354,
+    "to": 1361,
+    "person": null,
+    "how": "neznamo",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q1730217",
     "from": 1365,
     "to": 1397,
     "person": null,
@@ -79915,6 +79924,20 @@
     "from": "neznamo",
     "to": "vratislavove-z-mitrovic",
     "how": "koupe"
+   },
+   {
+    "place": "Q1730217",
+    "year": 1354,
+    "from": "odolenovci",
+    "to": "neznamo",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q1730217",
+    "year": 1361,
+    "from": "neznamo",
+    "to": "koruna",
+    "how": "jine"
    },
    {
     "place": "Q1730217",
@@ -91313,7 +91336,7 @@
    {
     "place": "Q1730217",
     "year": 1361,
-    "from": "odolenovci",
+    "from": "neznamo",
     "to": "koruna",
     "how": "jine"
    },
@@ -98796,9 +98819,18 @@
    {
     "place": "Q31463897",
     "from": 1811,
-    "to": 1889,
+    "to": 1871,
     "person": "rodina Becherů (plzeňský obchodník Franz Becher, poté syn Franz Gustav Becher, 1867 povýšen do šlechtického stavu)",
     "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q31463897",
+    "from": 1871,
+    "to": 1889,
+    "person": "Daubkové",
+    "how": "neznamo",
     "from_approx": false,
     "to_approx": false
    },
