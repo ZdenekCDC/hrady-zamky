@@ -138,7 +138,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "cs.wiki: koupě 2. 8. 1639 za 16866 zlatých; web hradu (hradkrasov.cz) uvádí Miseroniovce jako majitele od roku 1649, rozpor nevyřešen; František Miseroni se stal jediným majitelem, zemřel 1656; syn Norbert Adolf prodal roku 1676 svůj díl (Třímany) Vojtěchu Hynkovi Týřovskému z Ensidle, zbytek roku 1678 koupil plaský opat"
+   "note": "cs.wiki: koupě 2. 8. 1639 za 16866 zlatých; web hradu (hradkrasov.cz) uvádí Miseroniovce jako majitele od roku 1649, rozpor nevyřešen: 1639 uvádí i hrady.cz (A. Sedláček; 2. 8. 1639 Jan Gref z Grefenberka a František Miseroni, Gref práva postoupil Františkovi 1650), 1649 uvádí Městské muzeum Kožlany (prodej z komory za 18 866 zl. rýnských) i web hradu; František Miseroni se stal jediným majitelem, zemřel 1656; syn Norbert Adolf prodal roku 1676 svůj díl (Třímany) Vojtěchu Hynkovi Týřovskému z Ensidle, zbytek roku 1678 koupil plaský opat"
   },
   {
    "owner": "cirkev",
@@ -160,29 +160,29 @@
    "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "po zrušení plaského kláštera 1785 přešel hrad na náboženský fond, jehož administrátoři rozhodli o poboření hradu; část rozebrána na stavební materiál, kolem 1800 zřícenina; rok převodu na Metternichy zdroj neuvádí"
+   "note": "po zrušení plaského kláštera 1785 přešel hrad na náboženský fond, jehož administrátoři rozhodli o poboření hradu; část rozebrána na stavební materiál, kolem 1800 zřícenina; rok převodu na Metternichy zdroj neuvádí; Městské muzeum Kožlany: Náboženská matice převzala hrad 1785 a až po třiceti letech byl s plaským panstvím prodán Lotharu Metternichovi (přesný rok neuveden)"
   },
   {
    "owner": "metternichove",
    "owner_wiki": "Metternichové",
-   "person": "kníže Metternich (poslední šlechtický majitel)",
+   "person": "Klement Lothar kníže Metternich (prodej plaského panství asi 30 let po 1785), poté Metternichové do 1937",
    "from": null,
-   "to": null,
+   "to": 1937,
    "from_approx": false,
    "to_approx": false,
-   "how": "neznamo",
-   "note": "podle webu hradu (hradkrasov.cz, spolek jako vlastník, nepřímý zdroj) spolek odkoupil hrad od posledního šlechtického majitele knížete Metternicha; cs.wiki Metternicha neuvádí, roky nejsou známy"
+   "how": "koupe",
+   "note": "Městské muzeum Kožlany (muzeumkozlany.cz): po třiceti letech od 1785 prodán celý plaský velkostatek Lotharu Metternichovi za milion zlatých, ten o pustý hrad neměl zájem; rok nabytí zdroj neuvádí; roku 1937 spolek hrad s částí lesa od Metternichů vykoupil za 39 700 Kč"
   },
   {
    "owner": "soukromnik",
    "owner_wiki": null,
    "person": "Spolek pro záchranu hradu Krašova",
-   "from": null,
+   "from": 1937,
    "to": 1979,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "spolek vznikl 1931 a od té doby o zříceninu pečuje; rok koupě zdroj neuvádí; spolek byl 1979 zrušen pro údajný nesoulad se socialistickým režimem (rozhlas, web hradu)"
+   "note": "spolek vznikl 1931 v Kralovicích (V. Tomeš) a od té doby o zříceninu pečuje; roku 1937 vykoupil od Metternichů hrad s přilehlou částí lesa za 39 700 Kč (Městské muzeum Kožlany); 1979 zrušen pro údajný nesoulad se socialistickým režimem (rozhlas, web hradu)"
   },
   {
    "owner": "stat",
@@ -204,7 +204,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "jine",
-   "note": "nástupnický spolek (od 1991) získal hrad opět do majetku, rok zdroj neuvádí; podle Českého rozhlasu Plzeň (2024) a webu hradkrasov.cz hrad vlastní, provozuje a udržuje ve zříceném stavu"
+   "note": "nástupnický spolek (od 1991) získal hrad opět do majetku, rok zdroj neuvádí; podle Českého rozhlasu Plzeň (2024) a webu hradkrasov.cz hrad vlastní, provozuje a udržuje ve zříceném stavu; Český rozhlas: spolek navazuje od roku 1991, hrad získal do majetku později (rok neuveden)"
   }
  ],
  "events": [
@@ -233,6 +233,10 @@
    "text": "zrušení plaského kláštera, správu přebírá náboženský fond"
   },
   {
+   "year": 1937,
+   "text": "Spolek pro záchranu hradu Krašova vykupuje hrad s částí lesa od Metternichů za 39 700 Kč"
+  },
+  {
    "year": 1931,
    "text": "vzniká Spolek pro záchranu hradu Krašova, který od té doby o zříceninu pečuje"
   },
@@ -244,6 +248,8 @@
  "sources": [
   "https://cs.wikipedia.org/wiki/Krašov_(hrad)",
   "https://www.hradkrasov.cz/historie-hradu/ (web spolku, spolehlivost střední)",
-  "https://plzen.rozhlas.cz/hrad-krasov-spravuje-spolek-dobrovolniku-kteri-se-ho-snazi-zachovat-pro-dalsi-9216037"
+  "https://plzen.rozhlas.cz/hrad-krasov-spravuje-spolek-dobrovolniku-kteri-se-ho-snazi-zachovat-pro-dalsi-9216037",
+  "https://www.muzeumkozlany.cz/news/hrad-krasov/",
+  "https://www.hrady.cz/hrad-krasov-bohy/texty?tid=51824"
  ]
 }

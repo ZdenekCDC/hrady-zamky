@@ -436,6 +436,41 @@
   "place_count": 1,
   "color_slot": null
  },
+ "apponyiove": {
+  "id": "apponyiove",
+  "type": "rod",
+  "name": "apponyiove",
+  "related": [],
+  "places": [
+   {
+    "place": "Q11354311",
+    "from": 1622,
+    "to": 1626,
+    "person": "Pavel Apponyi, od 1624 bratr Petr Apponyi",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q11354311",
+    "year": 1622,
+    "from": "pani-z-rican",
+    "to": "apponyiove",
+    "how": "koupe"
+   },
+   {
+    "place": "Q11354311",
+    "year": 1626,
+    "from": "apponyiove",
+    "to": "z-gymese",
+    "how": "koupe"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
  "arco": {
   "id": "arco",
   "type": "rod",
@@ -4538,7 +4573,7 @@
    },
    {
     "place": "Q1171063",
-    "from": 1830,
+    "from": 1823,
     "to": 1848,
     "person": "Eugen Dominik Bruntálský z Vrbna (1786-1848)",
     "how": "dedictvi",
@@ -26397,12 +26432,12 @@
   "places": [
    {
     "place": "Q10816658",
-    "from": 1850,
-    "to": 1914,
-    "person": "kníže Metternich (poslední šlechtický majitel)",
-    "how": "neznamo",
+    "from": 1861,
+    "to": 1937,
+    "person": "Klement Lothar kníže Metternich (prodej plaského panství asi 30 let po 1785), poté Metternichové do 1937",
+    "how": "koupe",
     "from_approx": true,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q12032119",
@@ -26561,14 +26596,14 @@
   "transfers": [
    {
     "place": "Q10816658",
-    "year": 1850,
+    "year": 1861,
     "from": "stat",
     "to": "metternichove",
-    "how": "neznamo"
+    "how": "koupe"
    },
    {
     "place": "Q10816658",
-    "year": 1914,
+    "year": 1937,
     "from": "metternichove",
     "to": "soukromnik",
     "how": "koupe"
@@ -34785,7 +34820,7 @@
     "place": "Q11354311",
     "year": 1622,
     "from": "pani-z-rican",
-    "to": "neznamo",
+    "to": "apponyiove",
     "how": "koupe"
    },
    {
@@ -61935,7 +61970,7 @@
    {
     "place": "Q11354311",
     "year": 1626,
-    "from": "neznamo",
+    "from": "apponyiove",
     "to": "z-gymese",
     "how": "koupe"
    },
@@ -79085,15 +79120,6 @@
     "to_approx": true
    },
    {
-    "place": "Q11354311",
-    "from": 1622,
-    "to": 1626,
-    "person": null,
-    "how": "koupe",
-    "from_approx": false,
-    "to_approx": false
-   },
-   {
     "place": "Q114289232",
     "from": 1889,
     "to": null,
@@ -79749,20 +79775,6 @@
     "how": "koupe"
    },
    {
-    "place": "Q11354311",
-    "year": 1622,
-    "from": "pani-z-rican",
-    "to": "neznamo",
-    "how": "koupe"
-   },
-   {
-    "place": "Q11354311",
-    "year": 1626,
-    "from": "neznamo",
-    "to": "z-gymese",
-    "how": "koupe"
-   },
-   {
     "place": "Q114289232",
     "year": 1889,
     "from": "koruna",
@@ -80351,7 +80363,7 @@
     "how": "koupe"
    }
   ],
-  "place_count": 58,
+  "place_count": 57,
   "color_slot": null
  },
  "stat": {
@@ -80732,7 +80744,7 @@
    {
     "place": "Q10816658",
     "from": 1785,
-    "to": 1850,
+    "to": 1861,
     "person": "Náboženský fond",
     "how": "konfiskace",
     "from_approx": false,
@@ -83933,10 +83945,10 @@
    },
    {
     "place": "Q10816658",
-    "year": 1850,
+    "year": 1861,
     "from": "stat",
     "to": "metternichove",
-    "how": "neznamo"
+    "how": "koupe"
    },
    {
     "place": "Q10816658",
@@ -96659,11 +96671,11 @@
    },
    {
     "place": "Q10816658",
-    "from": 1914,
+    "from": 1937,
     "to": 1979,
     "person": "Spolek pro záchranu hradu Krašova",
     "how": "koupe",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -100575,7 +100587,7 @@
    },
    {
     "place": "Q10816658",
-    "year": 1914,
+    "year": 1937,
     "from": "metternichove",
     "to": "soukromnik",
     "how": "koupe"

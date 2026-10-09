@@ -6,7 +6,7 @@
   "approx": true,
   "text": "Hrad vznikl jako zemská pevnost střežící Vlárský průsmyk nejspíše v první polovině 13. století (některé zdroje uvádějí zakladatele olomouckého biskupa Bruna ze Schauenburku, nepotvrzeno); první písemná zmínka z roku 1255 uvádí purkrabího Smila ze Střílek a Brumova"
  },
- "summary": "Zemský hrad Brumov střežil Vlárský průsmyk do Uher; první zmínka je z roku 1255, spravovali jej purkrabí, v 15. století jej držela zástava Cimburků a poté Podmaničtí, kteří získali dědičné vlastnictví (1503). Roku 1519 jej koupil Jan z Lomnice (Meziříčští z Lomnice) a od 1574 patřil Kavkům z Říčan; po roce 1622 jej držela uherská šlechta (Forgáchové), po 1662 se panství dělilo mezi více majitelů a většinu roku 1727 získali Illésházyové. Po požárech 1760 a 1820 byl hrad opuštěn a rozebírán, roku 1835 panství koupil bankéř Sina, od 1894 patřilo pivovarníku Antonu Dreherovi a po konfiskaci 1945 přešlo na obec, dnešní město Brumov-Bylnice.",
+ "summary": "Zemský hrad Brumov střežil Vlárský průsmyk do Uher; první zmínka je z roku 1255, spravovali jej purkrabí, v 15. století jej držela zástava Cimburků a poté Podmaničtí, kteří získali dědičné vlastnictví (1503). Roku 1519 jej koupil Jan z Lomnice (Meziříčští z Lomnice) a od 1574 patřil Kavkům z Říčan; roku 1622 jej koupili Apponyiové a od 1626 jej držela uherská šlechta (Forgáchové), po 1662 se panství dělilo mezi více majitelů a většinu roku 1727 získali Illésházyové. Po požárech 1760 a 1820 byl hrad opuštěn a rozebírán, roku 1835 panství koupil bankéř Sina, od 1894 patřilo pivovarníku Antonu Dreherovi a po konfiskaci 1945 přešlo na obec, dnešní město Brumov-Bylnice.",
  "owners": [
   {
    "owner": "koruna",
@@ -86,15 +86,15 @@
    "note": "1604 vyplatil spolumajitele; 1608 mu byl hrad nakrátko zabrán, 1619-1621 konfiskace a správa moravské direktivy, 1621 hrad dobyli vzbouření Valaši a vojsko Bethlena Gábora; 23. 9. 1622 panství prodal"
   },
   {
-   "owner": "neznamo",
+   "owner": "apponyiove",
    "owner_wiki": null,
-   "person": null,
+   "person": "Pavel Apponyi, od 1624 bratr Petr Apponyi",
    "from": 1622,
    "to": 1626,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "kupec 1622 nejasný: hradbrumov.cz zmiňuje Kašpara Illésházyho, hrady.cz uherský rod Apponyiů; od 1626 Forgách"
+   "note": "koupil 23. 9. 1622 od Jana Kavky (hradbrumov.cz, hrady.dejiny.cz, pidifrk.cz); Kašpar Illésházy byl uherský vzbouřenec, který hrad opanoval, nikoli kupec; 1626 Petr odkázal panství Mikuláši Forgáchovi (testament 6. 1. 1626)"
   },
   {
    "owner": "z-gymese",
@@ -182,7 +182,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "po konfiskaci majetku Edeltrudy Dreherové 1945 předáno obci Brumov, později městu Brumov-Bylnice (hradbrumov.cz, treking.cz - sekundární zdroje); hrad je dnes zpřístupněn městem (od 2000), kulturní památka od 1964"
+   "note": "po konfiskaci majetku Edeltrudy Dreherové 1945 předáno obci Brumov, později městu Brumov-Bylnice (hradbrumov.cz, treking.cz); město jako současného majitele uvádí web města brumovbylnice.cz (uživatel Valašská nadace); hrad je dnes zpřístupněn městem (od 2000), kulturní památka od 1964"
   }
  ],
  "events": [
@@ -239,6 +239,8 @@
   "https://cs.wikipedia.org/wiki/Brumov_(hrad)",
   "https://www.hradbrumov.cz/hrad/historie-hradu/ (oficiální web hradu)",
   "https://www.hrady.cz/hrad-brumov-brumov-bylnice",
-  "https://www.treking.cz/regiony/brumov-hrad.htm (komerční web, přebírá text webu hradu)"
+  "https://www.treking.cz/regiony/brumov-hrad.htm (komerční web, přebírá text webu hradu)",
+  "http://hrady.dejiny.cz/brumov/index.htm",
+  "https://www.brumovbylnice.cz/pamatky/hrad-brumov/"
  ]
 }
