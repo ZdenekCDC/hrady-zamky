@@ -106,7 +106,9 @@
   "Q1104673",
   "Q38094997",
   "Q136749009",
-  "Q12030859"
+  "Q12030859",
+  "Q12030927",
+  "Q38186476"
  ],
  "exclude": {
   "Q136722727": "duplicate of Pražský hrad Q193369 (no article, generic coordinates)",
@@ -955,6 +957,14 @@
   },
   "Q16164793": {
    "access": "volne"
+  },
+  "Q12030927": {
+   "kind": "krypta",
+   "name": "Kostel sv. Mikuláše s kryptou (Jaroměř)"
+  },
+  "Q38186476": {
+   "kind": "krypta",
+   "name": "Kostel sv. Prokopa s kryptou (Vamberk)"
   }
  }
 }
