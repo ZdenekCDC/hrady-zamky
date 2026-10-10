@@ -1,0 +1,45 @@
+{
+ "id": "Q12030859",
+ "name": "Kostel svatého Klimenta (Levý Hradec)",
+ "founded": {
+  "year": 882,
+  "approx": true,
+  "text": "první polovina 80. let 9. století (882-884), založil kníže Bořivoj I."
+ },
+ "summary": "Kostel stojí na místě nejstaršího křesťanského kostela v Čechách, který podle Kristiánovy legendy založil kníže Bořivoj I. v první polovině 80. let 9. století v tehdejším přemyslovském sídle Levý Hradec. Z románské rotundy, která nahradila původní dřevěný kostel, se zachovaly základy pod dnešní barokní lodí ze 17. století (objeveny 1939). Roku 982 byl na Levém Hradci zvolen pražským biskupem Vojtěch; hradiště pak ztratilo význam a kostel dnes slouží jako filiální kostel roztocké farnosti.",
+ "owners": [
+  {
+   "owner": "premyslovci",
+   "owner_wiki": "Přemyslovci",
+   "person": "Bořivoj I.",
+   "from": 882,
+   "to": null,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "kostel zasvěcený sv. Klimentovi založil po návratu z Moravy; knížecí sídlo bylo koncem 9. století přeneseno do Prahy; další držitelé do novověku zdroje neuvádějí"
+  },
+  {
+   "owner": "cirkev",
+   "person": "římskokatolická farnost Roztoky",
+   "from": null,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "neznamo",
+   "note": "dnes filiální kostel roztocké farnosti; kdy a jak přešel do církevní správy, zdroje neuvádějí; formální vlastnictví zdroj výslovně nejmenuje"
+  }
+ ],
+ "events": [
+  {"year": 882, "text": "kníže Bořivoj I. zakládá první křesťanský kostel v Čechách (přesné datum není známo, 882-884)"},
+  {"year": 982, "text": "na Levém Hradci zvolen druhým pražským biskupem sv. Vojtěch"},
+  {"year": 1041, "text": "vnitřní hrad zničen při tažení císaře Jindřicha III. do Čech (podle Šlechty, ASÚ)"},
+  {"year": 1939, "text": "objeveny základy předrománské rotundy pod podlahou kostela"}
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Kostel_svatého_Klimenta_(Levý_Hradec)",
+  "https://prague.eu/cs/objevujte/kostel-sv-klimenta-v-levem-hradci/",
+  "https://www.hrady.cz/hradiste-levy-hradec/texty?pos=1000&tid=37646",
+  "https://stel.asu.cas.cz/~slechta/HISTORIE/lhradec/lhradec.html"
+ ]
+}

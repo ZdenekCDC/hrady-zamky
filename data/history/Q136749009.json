@@ -1,0 +1,88 @@
+{
+ "id": "Q136749009",
+ "name": "Klášter Hora Matky Boží (Králíky)",
+ "founded": {
+  "year": 1696,
+  "approx": false,
+  "text": "1696-1700 stavba poutního kostela, 1706-1710 zřízen klášter servitů"
+ },
+ "summary": "Poutní areál na Lysé hoře u Králík založil králický rodák, královéhradecký biskup Tobiáš Jan Becker: kostel postavil v letech 1696-1700, ambit 1701-1704 a klášter servitů 1706-1710. Servité zde působili do roku 1883, kdy je vystřídali redemptoristé. Roku 1950 byl klášter v rámci Akce K přeměněn na internační a centralizační klášter pro řeholníky, po roce 1960 sloužil Charitě jako ústav pro řeholnice. Po roce 1990 se vrátil redemptoristům a roku 2013 jej převzalo královéhradecké biskupství; roku 2018 byl areál prohlášen národní kulturní památkou.",
+ "owners": [
+  {
+   "owner": "cirkev",
+   "person": "Tobiáš Jan Becker, královéhradecký biskup",
+   "from": 1696,
+   "to": 1710,
+   "from_approx": false,
+   "to_approx": true,
+   "how": "zalozeni",
+   "note": "kostel 1696-1700, ambit 1701-1704, klášter 1706-1710; Becker zemřel 1710"
+  },
+  {
+   "owner": "cirkev",
+   "person": "řád servitů",
+   "from": 1710,
+   "to": 1883,
+   "from_approx": true,
+   "to_approx": false,
+   "how": "zalozeni",
+   "note": "klášter servitů zřízen 1706-1710; roku 1846 kostel vyhořel; 1883 byl klášter servitů zrušen"
+  },
+  {
+   "owner": "cirkev",
+   "person": "redemptoristé",
+   "from": 1883,
+   "to": 1950,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "nastěhovali se do uprázdněné klášterní budovy, obnovovali kostel po požáru; Poutní dům získali do majetku 1901"
+  },
+  {
+   "owner": "stat",
+   "from": 1950,
+   "to": 1990,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "konfiskace",
+   "note": "Akce K 13.-14. dubna 1950, internační a centralizační klášter pro řeholníky (zrušen 1960/1961); od ledna 1961 sociální ústav České katolické charity pro řeholnice; Poutní dům byl státní statek"
+  },
+  {
+   "owner": "cirkev",
+   "person": "redemptoristé",
+   "from": 1990,
+   "to": 2013,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "restituce",
+   "note": "areál vrácen kongregaci redemptoristů, generální oprava; řádoví kněží odešli pro nedostatek členů (cs.wiki 2013, duchovní správa 2009); pozemek pod Poutním domem získal řád zpět až 2015 po vyrovnání státu s církvemi"
+  },
+  {
+   "owner": "cirkev",
+   "person": "Biskupství královéhradecké",
+   "from": 2013,
+   "to": null,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "poutní areál předán královéhradecké diecézi; je v majetku církve, spravuje ho biskupství"
+  }
+ ],
+ "events": [
+  {"year": 1696, "text": "biskup Tobiáš Jan Becker začíná stavbu trojlodního poutního kostela Nanebevzetí Panny Marie na Lysé hoře"},
+  {"year": 1700, "text": "dokončen kostel a umístěn milostný obraz Panny Marie Sněžné, hora dostává jméno Hora Matky Boží"},
+  {"year": 1710, "text": "dokončen klášter servitů; na pouť přichází deset tisíc poutníků"},
+  {"year": 1846, "text": "blesk zapálil kostel, výzdoba z velké části zničena"},
+  {"year": 1883, "text": "zrušen klášter servitů, nastěhovali se redemptoristé"},
+  {"year": 1950, "text": "Akce K, klášter přeměněn na internační a centralizační klášter pro řeholníky"},
+  {"year": 1990, "text": "areál vrácen redemptoristům, zahájena oprava"},
+  {"year": 2013, "text": "redemptoristé odcházejí, duchovní správu přebírá biskupství královéhradecké"},
+  {"year": 2018, "text": "areál prohlášen národní kulturní památkou"}
+ ],
+ "sources": [
+  "https://cs.wikipedia.org/wiki/Hora_Matky_Boží",
+  "https://cs.wikipedia.org/wiki/Duchovní_správa_poutního_kostela_v_Králíkách_II",
+  "https://www.bihk.cz/aktuality/zpravy/kralicky-klaster-se-opet-zaskvi-v-cele-sve-krase-14706",
+  "https://regiony.rozhlas.cz/poutni-misto-na-hore-matky-bozi-u-kralik-byvalo-kdysi-internacnim-taborem-7437557"
+ ]
+}

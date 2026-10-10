@@ -40968,6 +40968,39 @@
   "place_count": 2,
   "color_slot": null
  },
+ "premyslovci": {
+  "id": "premyslovci",
+  "type": "rod",
+  "name": "Přemyslovci",
+  "wikidata": "Q287652",
+  "cswiki": "https://cs.wikipedia.org/wiki/Přemyslovci",
+  "coat_of_arms": "Přemyslovci erb.svg",
+  "period": "872 - 1306",
+  "summary": "Přemyslovci byli první česká knížecí a královská dynastie (tzv. odnepaměti až do 4. srpna 1306), dále vládli také v Rakouských zemích (1251-1278), Polsku (1300-1306) a Uhersku (1301-1305). Ve vedlejší (levobočné) opavské linii Přemyslovci vymřeli (po meči) až roku 1521. Přemyslovci byli jedinou původem českou panovnickou dynastií. Osobou krále Václava III.",
+  "related": [],
+  "places": [
+   {
+    "place": "Q12030859",
+    "from": 882,
+    "to": 1454,
+    "person": "Bořivoj I.",
+    "how": "zalozeni",
+    "from_approx": true,
+    "to_approx": true
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q12030859",
+    "year": 1454,
+    "from": "premyslovci",
+    "to": "cirkev",
+    "how": "neznamo"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
  "prichovsti-z-prichovic": {
   "id": "prichovsti-z-prichovic",
   "type": "rod",
@@ -77109,6 +77142,15 @@
     "to_approx": false
    },
    {
+    "place": "Q12030859",
+    "from": 1454,
+    "to": null,
+    "person": "římskokatolická farnost Roztoky",
+    "how": "neznamo",
+    "from_approx": true,
+    "to_approx": false
+   },
+   {
     "place": "Q12042566",
     "from": 1131,
     "to": null,
@@ -77213,6 +77255,51 @@
     "to": 1651,
     "person": "klášter premonstrátů na Strahově",
     "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q136749009",
+    "from": 1696,
+    "to": 1710,
+    "person": "Tobiáš Jan Becker, královéhradecký biskup",
+    "how": "zalozeni",
+    "from_approx": false,
+    "to_approx": true
+   },
+   {
+    "place": "Q136749009",
+    "from": 1710,
+    "to": 1883,
+    "person": "řád servitů",
+    "how": "zalozeni",
+    "from_approx": true,
+    "to_approx": false
+   },
+   {
+    "place": "Q136749009",
+    "from": 1883,
+    "to": 1950,
+    "person": "redemptoristé",
+    "how": "jine",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q136749009",
+    "from": 1990,
+    "to": 2013,
+    "person": "redemptoristé",
+    "how": "restituce",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q136749009",
+    "from": 2013,
+    "to": null,
+    "person": "Biskupství královéhradecké",
+    "how": "jine",
     "from_approx": false,
     "to_approx": false
    },
@@ -78559,6 +78646,13 @@
     "how": "neznamo"
    },
    {
+    "place": "Q12030859",
+    "year": 1454,
+    "from": "premyslovci",
+    "to": "cirkev",
+    "how": "neznamo"
+   },
+   {
     "place": "Q12042566",
     "year": 1131,
     "from": "koruna",
@@ -78683,6 +78777,20 @@
     "from": "cirkev",
     "to": "hohenzollernove",
     "how": "koupe"
+   },
+   {
+    "place": "Q136749009",
+    "year": 1950,
+    "from": "cirkev",
+    "to": "stat",
+    "how": "konfiskace"
+   },
+   {
+    "place": "Q136749009",
+    "year": 1990,
+    "from": "stat",
+    "to": "cirkev",
+    "how": "restituce"
    },
    {
     "place": "Q1383301",
@@ -79595,7 +79703,7 @@
     "how": "restituce"
    }
   ],
-  "place_count": 98,
+  "place_count": 100,
   "color_slot": null
  },
  "neznamo": {
@@ -82030,6 +82138,15 @@
     "place": "Q1362932",
     "from": 1947,
     "to": 2012,
+    "person": null,
+    "how": "konfiskace",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q136749009",
+    "from": 1950,
+    "to": 1990,
     "person": null,
     "how": "konfiskace",
     "from_approx": false,
@@ -85394,6 +85511,20 @@
     "how": "jine"
    },
    {
+    "place": "Q136749009",
+    "year": 1950,
+    "from": "cirkev",
+    "to": "stat",
+    "how": "konfiskace"
+   },
+   {
+    "place": "Q136749009",
+    "year": 1990,
+    "from": "stat",
+    "to": "cirkev",
+    "how": "restituce"
+   },
+   {
     "place": "Q1373051",
     "year": 1945,
     "from": "cerninove-z-chudenic",
@@ -87872,7 +88003,7 @@
     "how": "restituce"
    }
   ],
-  "place_count": 308,
+  "place_count": 309,
   "color_slot": null
  },
  "koruna": {
