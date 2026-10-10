@@ -3779,15 +3779,6 @@
     "to_approx": false
    },
    {
-    "place": "Q12049798",
-    "from": 1522,
-    "to": 1542,
-    "person": "Bohunka z Pernštejna (manžel Dobeš Černohorský z Boskovic, zemřel 1540 v Rosicích)",
-    "how": "koupe",
-    "from_approx": false,
-    "to_approx": true
-   },
-   {
     "place": "Q12049858",
     "from": 1471,
     "to": 1498,
@@ -4063,20 +4054,6 @@
     "how": "dedictvi"
    },
    {
-    "place": "Q12049798",
-    "year": 1522,
-    "from": "z-kukvic",
-    "to": "boskovicove",
-    "how": "koupe"
-   },
-   {
-    "place": "Q12049798",
-    "year": 1542,
-    "from": "boskovicove",
-    "to": "pani-z-lipe",
-    "how": "dedictvi"
-   },
-   {
     "place": "Q12049858",
     "year": 1471,
     "from": "sternberkove",
@@ -4210,7 +4187,7 @@
     "how": "neznamo"
    }
   ],
-  "place_count": 21,
+  "place_count": 20,
   "color_slot": null
  },
  "boubinsti-z-ujezda": {
@@ -33541,7 +33518,7 @@
    {
     "place": "Q12049798",
     "year": 1542,
-    "from": "boskovicove",
+    "from": "pernstejnove",
     "to": "pani-z-lipe",
     "how": "dedictvi"
    },
@@ -38279,6 +38256,15 @@
     "to_approx": false
    },
    {
+    "place": "Q12049798",
+    "from": 1522,
+    "to": 1542,
+    "person": "Bohunka z Pernštejna (manžel Dobeš Černohorský z Boskovic, zemřel 1540 v Rosicích)",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": true
+   },
+   {
     "place": "Q12049858",
     "from": 1592,
     "to": 1603,
@@ -38661,6 +38647,20 @@
     "how": "koupe"
    },
    {
+    "place": "Q12049798",
+    "year": 1522,
+    "from": "z-kukvic",
+    "to": "pernstejnove",
+    "how": "koupe"
+   },
+   {
+    "place": "Q12049798",
+    "year": 1542,
+    "from": "pernstejnove",
+    "to": "pani-z-lipe",
+    "how": "dedictvi"
+   },
+   {
     "place": "Q12049858",
     "year": 1592,
     "from": "rozmberkove",
@@ -38983,7 +38983,7 @@
     "how": "koupe"
    }
   ],
-  "place_count": 27,
+  "place_count": 28,
   "color_slot": 7
  },
  "petipesti-z-chys-a-egerberka": {
@@ -47212,7 +47212,7 @@
    {
     "place": "Q188015",
     "from": 1635,
-    "to": null,
+    "to": 1949,
     "person": "Jindřich Šlik z Holíce, od 1650 syn František Arnošt",
     "how": "koupe",
     "from_approx": false,
@@ -47466,6 +47466,13 @@
     "from": "valdstejnove",
     "to": "slikove",
     "how": "koupe"
+   },
+   {
+    "place": "Q188015",
+    "year": 1949,
+    "from": "slikove",
+    "to": "neznamo",
+    "how": "neznamo"
    },
    {
     "place": "Q19800602",
@@ -64804,7 +64811,7 @@
     "place": "Q12049798",
     "year": 1522,
     "from": "z-kukvic",
-    "to": "boskovicove",
+    "to": "pernstejnove",
     "how": "koupe"
    }
   ],
@@ -79583,6 +79590,15 @@
     "to_approx": false
    },
    {
+    "place": "Q188015",
+    "from": 1949,
+    "to": null,
+    "person": null,
+    "how": "neznamo",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
     "place": "Q20057388",
     "from": 1434,
     "to": 1490,
@@ -80298,6 +80314,13 @@
     "how": "neznamo"
    },
    {
+    "place": "Q188015",
+    "year": 1949,
+    "from": "slikove",
+    "to": "neznamo",
+    "how": "neznamo"
+   },
+   {
     "place": "Q20057388",
     "year": 1434,
     "from": "piastovci",
@@ -80746,7 +80769,7 @@
     "how": "koupe"
    }
   ],
-  "place_count": 58,
+  "place_count": 59,
   "color_slot": null
  },
  "stat": {
