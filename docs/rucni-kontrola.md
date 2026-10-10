@@ -528,14 +528,6 @@ Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q916931), [cs.wiki](https://cs.
 - [ ] 1742-? páni z Gillernu: chybí konec, přibližný rok
 - ... a dalších 1
 
-### Doksy (Doksy) - 27212 návštěv, `Q11814076`
-
-Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q11814076), [cs.wiki](https://cs.wikipedia.org/wiki/Doksy_(zámek)), [hledat majitele](https://duckduckgo.com/?q=Doksy%20Doksy%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 3.
-
-- [ ] 1638-? Kryštof Ferdinand z Heissensteinu: chybí konec, poznámka uvádí nejistotu
-- [ ] 1945-? stat: chybí konec
-- [ ] ?-2015 Liberecký kraj: chybí začátek
-
 ### Ploskovice (Ploskovice) - 23984 návštěv, `Q1752882`
 
 Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q1752882), [cs.wiki](https://cs.wikipedia.org/wiki/Ploskovice_(zámek)), [web](http://www.zamek-ploskovice.cz), [hledat majitele](https://duckduckgo.com/?q=Ploskovice%20Ploskovice%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 8.
@@ -822,11 +814,9 @@ Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q1012297), [cs.wiki](https://cs
 
 ### Rychmburk (Předhradí) - 16594 návštěv, `Q1013771`
 
-Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q1013771), [cs.wiki](https://cs.wikipedia.org/wiki/Rychmburk), [web](https://rychmburk.cz/cs), [hledat majitele](https://duckduckgo.com/?q=Rychmburk%20P%C5%99edhrad%C3%AD%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 5.
+Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q1013771), [cs.wiki](https://cs.wikipedia.org/wiki/Rychmburk), [web](https://rychmburk.cz/cs), [hledat majitele](https://duckduckgo.com/?q=Rychmburk%20P%C5%99edhrad%C3%AD%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 6.
 
 - [ ] 1349-1361 Beneš z Vartenberka: přibližný rok, poznámka uvádí nejistotu
-- [ ] 1945-? stat: chybí konec
-- [ ] ?-? Pardubický kraj: chybí začátek
 
 ### Náměšť nad Oslavou (Náměšť nad Oslavou) - 16395 návštěv, `Q12041603`
 
@@ -1050,7 +1040,7 @@ Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q10816658), [cs.wiki](https://c
 
 ### Červená Řečice (Červená Řečice) - 10018 návštěv, `Q11176080`
 
-Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q11176080), [cs.wiki](https://cs.wikipedia.org/wiki/Červená_Řečice_(zámek)), [web](https://cervenarecice.cz/), [hledat majitele](https://duckduckgo.com/?q=%C4%8Cerven%C3%A1%20%C5%98e%C4%8Dice%20%C4%8Cerven%C3%A1%20%C5%98e%C4%8Dice%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 5.
+Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q11176080), [cs.wiki](https://cs.wikipedia.org/wiki/Červená_Řečice_(zámek)), [web](https://cervenarecice.cz/), [hledat majitele](https://duckduckgo.com/?q=%C4%8Cerven%C3%A1%20%C5%98e%C4%8Dice%20%C4%8Cerven%C3%A1%20%C5%98e%C4%8Dice%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 7.
 
 - [ ] 1467-1474 Petr Břekovec z Ostromeče: poznámka uvádí nejistotu
 - [ ] 1497-1535 Bohuslav Leskovec z Leskovce (cs.wiki), podle NPÚ soupisu a ...: přibližný rok, poznámka uvádí nejistotu
@@ -1614,13 +1604,6 @@ Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q31872969), [cs.wiki](https://c
 - [ ] 1611-? pani-ze-svamberka: chybí konec
 - [ ] ?-1658 císař: chybí začátek, přibližný rok
 
-### Chebský hrad (Cheb) - 0 návštěv, `Q1068732`
-
-Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q1068732), [cs.wiki](https://cs.wikipedia.org/wiki/Cheb_(hrad)), [hledat majitele](https://duckduckgo.com/?q=Chebsk%C3%BD%20hrad%20Cheb%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 5.
-
-- [ ] 1322-? Jan Lucemburský (Koruna česká): chybí konec, přibližný rok
-- [ ] ?-? město Cheb: chybí začátek
-
 ### Chodovská tvrz (Chodov) - 0 návštěv, `Q11726127`
 
 Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q11726127), [cs.wiki](https://cs.wikipedia.org/wiki/Chodovská_tvrz), [hledat majitele](https://duckduckgo.com/?q=Chodovsk%C3%A1%20tvrz%20Chodov%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 3.
@@ -1661,7 +1644,7 @@ Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q2240587), [cs.wiki](https://cs
 
 ### Cvilín (Pod Cvilínem) - 0 návštěv, `Q11773788`
 
-Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q11773788), [cs.wiki](https://cs.wikipedia.org/wiki/Cvilín_(hrad)), [hledat majitele](https://duckduckgo.com/?q=Cvil%C3%ADn%20Pod%20Cvil%C3%ADnem%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 5.
+Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q11773788), [cs.wiki](https://cs.wikipedia.org/wiki/Cvilín_(hrad)), [hledat majitele](https://duckduckgo.com/?q=Cvil%C3%ADn%20Pod%20Cvil%C3%ADnem%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 6.
 
 - [ ] 1253-? Jindřich z Lobštejna: chybí konec, přibližný rok
 - [ ] ?-1280 Beneš z Benešova (ze Cvilína): chybí začátek, přibližný rok
@@ -1757,7 +1740,7 @@ Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q20057388), [cs.wiki](https://c
 
 ### Gutštejn (Okrouhlé Hradiště) - 0 návštěv, `Q12018569`
 
-Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q12018569), [cs.wiki](https://cs.wikipedia.org/wiki/Gutštejn), [web](https://www.hrad-gutstejn.cz/), [hledat majitele](https://duckduckgo.com/?q=Gut%C5%A1tejn%20Okrouhl%C3%A9%20Hradi%C5%A1t%C4%9B%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 4.
+Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q12018569), [cs.wiki](https://cs.wikipedia.org/wiki/Gutštejn), [web](https://www.hrad-gutstejn.cz/), [hledat majitele](https://duckduckgo.com/?q=Gut%C5%A1tejn%20Okrouhl%C3%A9%20Hradi%C5%A1t%C4%9B%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 5.
 
 - [ ] 1549-? Hanuš Elpognár z Dolního Šenfeldu: chybí konec, přibližný rok
 - [ ] ?-? stat: chybí začátek
@@ -1784,15 +1767,14 @@ Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q2244694), [cs.wiki](https://cs
 
 ### Helfenburk u Úštěka (Rašovice) - 0 návštěv, `Q1012290`
 
-Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q1012290), [cs.wiki](https://cs.wikipedia.org/wiki/Helfenburk_u_Úštěka), [hledat majitele](https://duckduckgo.com/?q=Helfenburk%20u%20%C3%9A%C5%A1t%C4%9Bka%20Ra%C5%A1ovice%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 3.
+Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q1012290), [cs.wiki](https://cs.wikipedia.org/wiki/Helfenburk_u_Úštěka), [hledat majitele](https://duckduckgo.com/?q=Helfenburk%20u%20%C3%9A%C5%A1t%C4%9Bka%20Ra%C5%A1ovice%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 5.
 
 - [ ] 1622-? jezuité (liběšické panství): chybí konec
-- [ ] 1887-? Josef von Schroll: chybí konec
-- [ ] ?-? město Úštěk: chybí začátek
+- [ ] ?-? město Úštěk: chybí začátek, poznámka uvádí nejistotu
 
 ### Helfštýn (Týn nad Bečvou) - 0 návštěv, `Q1012308`
 
-Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q1012308), [cs.wiki](https://cs.wikipedia.org/wiki/Helfštýn), [web](http://www.helfstyn.cz), [hledat majitele](https://duckduckgo.com/?q=Helf%C5%A1t%C3%BDn%20T%C3%BDn%20nad%20Be%C4%8Dvou%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 4.
+Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q1012308), [cs.wiki](https://cs.wikipedia.org/wiki/Helfštýn), [web](http://www.helfstyn.cz), [hledat majitele](https://duckduckgo.com/?q=Helf%C5%A1t%C3%BDn%20T%C3%BDn%20nad%20Be%C4%8Dvou%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 5.
 
 - [ ] 1622-1922 kardinál František z Ditrichštejna, později další členové ro...: přibližný rok, poznámka uvádí nejistotu
 - [ ] 1922-1930 stat: přibližný rok, poznámka uvádí nejistotu
@@ -1914,7 +1896,7 @@ Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q2241942), [cs.wiki](https://cs
 
 ### Kunín (Kunín) - 0 návštěv, `Q12031933`
 
-Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q12031933), [cs.wiki](https://cs.wikipedia.org/wiki/Kunín_(zámek)), [web](https://www.muzeumnj.cz/zamek-kunin/), [hledat majitele](https://duckduckgo.com/?q=Kun%C3%ADn%20Kun%C3%ADn%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 5.
+Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q12031933), [cs.wiki](https://cs.wikipedia.org/wiki/Kunín_(zámek)), [web](https://www.muzeumnj.cz/zamek-kunin/), [hledat majitele](https://duckduckgo.com/?q=Kun%C3%ADn%20Kun%C3%ADn%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 6.
 
 - [ ] ?-? Jan Cetryš z Kynšperka: chybí konec
 - [ ] ?-1661 polští příbuzní Cetryšů, Redernové: chybí začátek, poznámka uvádí nejistotu
@@ -1924,7 +1906,6 @@ Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q12031933), [cs.wiki](https://c
 - [ ] ?-1828 Marie Walburga hraběnka Truchsess-Waldburg-Zeil, rozená Harr...: chybí začátek, přibližný rok, poznámka uvádí nejistotu
 - [ ] 1828-1873 Friedrich Emil Schindler z Kunwaldu (1828-1870), po něm jeho...: přibližný rok, poznámka uvádí nejistotu
 - [ ] 1873-1895 lankrabě Ernst Egon Fürstenberg (1816-1889), poté syn Josef ...: přibližný rok, poznámka uvádí nejistotu
-- ... a dalších 1
 
 ### Kyjovice (Kyjovice) - 0 návštěv, `Q33405615`
 
@@ -2205,6 +2186,12 @@ Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q1807047), [cs.wiki](https://cs
 - [ ] ?-? Univerzita Karlova: chybí začátek, chybí konec
 - [ ] ?-? město Poděbrady: chybí začátek
 
+### Prostějov (Prostějov) - 0 návštěv, `Q31710208`
+
+Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q31710208), [cs.wiki](https://cs.wikipedia.org/wiki/Prostějov_(zámek)), [web](https://www.zamekpv.cz), [hledat majitele](https://duckduckgo.com/?q=Prost%C4%9Bjov%20Prost%C4%9Bjov%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 5.
+
+- [ ] 1851-1868 Fortunát Hoffman: přibližný rok, poznámka uvádí nejistotu
+
 ### Průhonice (Průhonice) - 0 návštěv, `Q10968666`
 
 Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q10968666), [cs.wiki](https://cs.wikipedia.org/wiki/Průhonice_(zámek)), [web](https://www.pruhonickypark.cz), [hledat majitele](https://duckduckgo.com/?q=Pr%C5%AFhonice%20Pr%C5%AFhonice%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 3.
@@ -2232,10 +2219,8 @@ Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q12047863), [cs.wiki](https://c
 
 ### Přimda (Přimda) - 0 návštěv, `Q1013542`
 
-Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q1013542), [cs.wiki](https://cs.wikipedia.org/wiki/Přimda_(hrad)), [web](https://www.hrad-primda.cz/), [hledat majitele](https://duckduckgo.com/?q=P%C5%99imda%20P%C5%99imda%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 4.
+Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q1013542), [cs.wiki](https://cs.wikipedia.org/wiki/Přimda_(hrad)), [web](https://www.hrad-primda.cz/), [hledat majitele](https://duckduckgo.com/?q=P%C5%99imda%20P%C5%99imda%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 6.
 
-- [ ] 1318-? Vilém Zajíc z Valdeka: chybí konec
-- [ ] ?-1341 Frenclin Jakubův z Prahy: chybí začátek
 - [ ] 1601-? Ondřej Lidl z Lidlova a Barbora ze Štamberka: chybí konec
 - [ ] ?-1621 Maxmilián Lidl z Lidlova: chybí začátek
 - [ ] 1675-? Jan Václav Novohradský z Kolovrat: chybí konec
@@ -2271,13 +2256,13 @@ Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q545847), [cs.wiki](https://cs.
 
 ### Rosice (Rosice) - 0 návštěv, `Q12049798`
 
-Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q12049798), [cs.wiki](https://cs.wikipedia.org/wiki/Rosice_(zámek,_okres_Brno-venkov)), [web](https://zamek-rosice.cz), [hledat majitele](https://duckduckgo.com/?q=Rosice%20Rosice%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 5.
+Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q12049798), [cs.wiki](https://cs.wikipedia.org/wiki/Rosice_(zámek,_okres_Brno-venkov)), [web](https://zamek-rosice.cz), [hledat majitele](https://duckduckgo.com/?q=Rosice%20Rosice%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 7.
 
 - [ ] 1522-? Bohunka z Pernštejna (manžel Dobeš Černohorský z Boskovic, z...: chybí konec
 - [ ] ?-1562 Pertold z Lipé: chybí začátek
 - [ ] 1881-? Mořic Hirsch z Gereuthu, poté vdova Klára: chybí konec
 - [ ] ?-1925 Mořic Arnold baron de Forest-Bischofsheim: chybí začátek
-- [ ] 1925-? stat: chybí konec
+- [ ] 1925-? stat: chybí konec, poznámka uvádí nejistotu
 - [ ] ?-? město Rosice: chybí začátek
 
 ### Roudnice nad Labem (Roudnice nad Labem) - 0 návštěv, `Q12049858`
@@ -2377,8 +2362,9 @@ Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q12056191), [cs.wiki](https://c
 
 ### Strakonice (Strakonice II) - 0 návštěv, `Q1014156`
 
-Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q1014156), [cs.wiki](https://cs.wikipedia.org/wiki/Strakonice_(hrad)), [hledat majitele](https://duckduckgo.com/?q=Strakonice%20Strakonice%20II%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 4.
+Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q1014156), [cs.wiki](https://cs.wikipedia.org/wiki/Strakonice_(hrad)), [hledat majitele](https://duckduckgo.com/?q=Strakonice%20Strakonice%20II%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 5.
 
+- [ ] 1243-2015 Řád maltézských rytířů (johanité, velkopřevorství): poznámka uvádí nejistotu
 - [ ] 2015-? Jihočeský kraj a město Strakonice: poznámka uvádí nejistotu
 
 ### Stvolínky (Stvolínky) - 0 návštěv, `Q12337603`
@@ -2392,11 +2378,12 @@ Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q12337603), [cs.wiki](https://c
 
 ### Střekov (Střekov) - 0 návštěv, `Q1014187`
 
-Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q1014187), [cs.wiki](https://cs.wikipedia.org/wiki/Střekov_(hrad)), [web](https://www.lobkowicz.cz/strekov), [hledat majitele](https://duckduckgo.com/?q=St%C5%99ekov%20St%C5%99ekov%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 4.
+Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q1014187), [cs.wiki](https://cs.wikipedia.org/wiki/Střekov_(hrad)), [web](https://www.lobkowicz.cz/strekov), [hledat majitele](https://duckduckgo.com/?q=St%C5%99ekov%20St%C5%99ekov%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 6.
 
 - [ ] 1403-1410 Vilém I., markrabě míšeňský (správci Dobuš a Ota z Bran): přibližný rok, poznámka uvádí nejistotu
 - [ ] 1510-? Jan a Bernart z Valdštejna: chybí konec
 - [ ] ?-1532 Jaroslav ze Šelmberka: chybí začátek
+- [ ] 1992-? William Lobkowicz: poznámka uvádí nejistotu
 
 ### Střela (Střela) - 0 návštěv, `Q15353952`
 
@@ -2474,19 +2461,25 @@ Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q1832099), [cs.wiki](https://cs
 - [ ] ?-1479 páni ze Šternberka: chybí začátek, přibližný rok
 - [ ] 1946-? Místní národní výbor v Třebíči; později muzeum (Západomoravs...: poznámka uvádí nejistotu
 
+### Veliš (Podhradí) - 0 návštěv, `Q188015`
+
+Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q188015), [cs.wiki](https://cs.wikipedia.org/wiki/Veliš_(hrad)), [hledat majitele](https://duckduckgo.com/?q=Veli%C5%A1%20Podhrad%C3%AD%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 7.
+
+- [ ] 1949-? neznamo: neznámý vlastník
+
 ### Velké Heraltice (Velké Heraltice) - 0 návštěv, `Q11878924`
 
-Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q11878924), [cs.wiki](https://cs.wikipedia.org/wiki/Velké_Heraltice_(zámek)), [hledat majitele](https://duckduckgo.com/?q=Velk%C3%A9%20Heraltice%20Velk%C3%A9%20Heraltice%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 5.
+Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q11878924), [cs.wiki](https://cs.wikipedia.org/wiki/Velké_Heraltice_(zámek)), [hledat majitele](https://duckduckgo.com/?q=Velk%C3%A9%20Heraltice%20Velk%C3%A9%20Heraltice%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 7.
 
 - [ ] 1260-? Vojslav z Lublic: chybí konec, přibližný rok
-- [ ] ?-? Hynčík Bírka z Násile: chybí začátek, chybí konec, přibližný rok
+- [ ] ?-1503 Hynčík Bírka z Násile (zemřel po 1502), poté jeho syn Jindři...: chybí začátek, přibližný rok
 - [ ] 1849-1899 knížecí linie Kinských: přibližný rok, poznámka uvádí nejistotu
 - [ ] 1945-? Československo: chybí konec, přibližný rok
 - [ ] ?-? Moravskoslezský kraj: chybí začátek
 
 ### Velké Hoštice (Velké Hoštice) - 0 návštěv, `Q11878928`
 
-Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q11878928), [cs.wiki](https://cs.wikipedia.org/wiki/Velké_Hoštice_(zámek)), [hledat majitele](https://duckduckgo.com/?q=Velk%C3%A9%20Ho%C5%A1tice%20Velk%C3%A9%20Ho%C5%A1tice%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 4.
+Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q11878928), [cs.wiki](https://cs.wikipedia.org/wiki/Velké_Hoštice_(zámek)), [hledat majitele](https://duckduckgo.com/?q=Velk%C3%A9%20Ho%C5%A1tice%20Velk%C3%A9%20Ho%C5%A1tice%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 5.
 
 - [ ] 1460-1579 Šlevičtí z Kravař: poznámka uvádí nejistotu
 - [ ] 1579-? Daniel Macák z Ottenburga, jeho syn Jiří a vnuk Jiří II.: chybí konec
@@ -2496,11 +2489,12 @@ Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q11878928), [cs.wiki](https://c
 
 ### Vikštejn (Radkov) - 0 návštěv, `Q1014388`
 
-Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q1014388), [cs.wiki](https://cs.wikipedia.org/wiki/Vikštejn), [hledat majitele](https://duckduckgo.com/?q=Vik%C5%A1tejn%20Radkov%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 5.
+Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q1014388), [cs.wiki](https://cs.wikipedia.org/wiki/Vikštejn), [hledat majitele](https://duckduckgo.com/?q=Vik%C5%A1tejn%20Radkov%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 7.
 
 - [ ] 1250-? Vítek z Kravař: chybí konec, přibližný rok
-- [ ] 1576-? Adam Oderský z Lidéřova (manžel Magdalény Planknarové), poté...: chybí konec, přibližný rok
-- [ ] ?-1650 Kryštof Egstein z Ehrenecku: chybí začátek
+- [ ] 1713-? Arnošt Matyáš Mitrovský (zemřel 1748, od 1716 svobodný pán),...: chybí konec, přibližný rok
+- [ ] ?-? Jan Julius Frobel: chybí začátek, chybí konec, přibližný rok
+- [ ] ?-1945 rod Razumovských (od 1892 říšští hrabata 'z Vikštejna'): chybí začátek, přibližný rok
 
 ### Vildštejn (Skalná) - 0 návštěv, `Q1014392`
 
@@ -2518,16 +2512,17 @@ Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q1749959), [cs.wiki](https://cs
 
 ### Vlčtejn (Vlčtejn) - 0 návštěv, `Q1014408`
 
-Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q1014408), [cs.wiki](https://cs.wikipedia.org/wiki/Vlčtejn_(hrad)), [hledat majitele](https://duckduckgo.com/?q=Vl%C4%8Dtejn%20Vl%C4%8Dtejn%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 5.
+Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q1014408), [cs.wiki](https://cs.wikipedia.org/wiki/Vlčtejn_(hrad)), [hledat majitele](https://duckduckgo.com/?q=Vl%C4%8Dtejn%20Vl%C4%8Dtejn%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 7.
 
 - [ ] ?-1362 Holen z Vildštejna: přibližný rok, poznámka uvádí nejistotu
+- [ ] 1362-1446 bratři Petr, Jošt, Jan a Oldřich z Rožmberka, poté Oldřichův...: přibližný rok, poznámka uvádí nejistotu
 - [ ] 1446-1500 Bedřich z Donína, od 1475-1477 syn Jan, poté vnuk Bedřich: přibližný rok, poznámka uvádí nejistotu
-- [ ] 1514-? Jan Varlejch z Bubna, poté bratr Václav: chybí konec, přibližný rok
+- [ ] 1500-? Jan Varlejch z Bubna, poté bratr Václav: chybí konec, přibližný rok
 - [ ] ?-1587 Jan z Roupova, od 1543 syn Kryštof z Roupova: chybí začátek, přibližný rok
 - [ ] 1663-? Kateřina Eleonora z Klenové (vdova po Kryštofu Rudolfu Karlo...: chybí konec, přibližný rok
 - [ ] ?-1690 Maxmilián Rudolf hrabě z Gutštejna: chybí začátek, přibližný rok
 - [ ] 1690-? Polyxena Kateřina Vratislavová z Mitrovic: chybí konec, přibližný rok
-- [ ] ?-1728 Jan Josef svobodný pán z Újezda na Březnici: chybí začátek, přibližný rok
+- ... a dalších 1
 
 ### Vrbičany (Vrbičany) - 0 návštěv, `Q19800624`
 
@@ -2585,7 +2580,7 @@ Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q11172097), [cs.wiki](https://c
 
 ### Červený hrádek (Červený Hrádek) - 0 návštěv, `Q11176339`
 
-Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q11176339), [cs.wiki](https://cs.wikipedia.org/wiki/Červený_hrádek_(zámek,_Jirkov)), [web](https://www.zamek-cerveny-hradek.cz/), [hledat majitele](https://duckduckgo.com/?q=%C4%8Cerven%C3%BD%20hr%C3%A1dek%20%C4%8Cerven%C3%BD%20Hr%C3%A1dek%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 4.
+Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q11176339), [cs.wiki](https://cs.wikipedia.org/wiki/Červený_hrádek_(zámek,_Jirkov)), [web](https://www.zamek-cerveny-hradek.cz/), [hledat majitele](https://duckduckgo.com/?q=%C4%8Cerven%C3%BD%20hr%C3%A1dek%20%C4%8Cerven%C3%BD%20Hr%C3%A1dek%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 5.
 
 - [ ] 1417-? Václav z Moravěvsi a Kopist: chybí konec
 - [ ] ?-1428 Markéta (vdova po Buškovi z Eisenberka) a synové Jan a Bohus...: chybí začátek
@@ -2599,9 +2594,8 @@ Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q11176339), [cs.wiki](https://c
 
 ### Český Rudolec (Český Rudolec) - 0 návštěv, `Q10938001`
 
-Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q10938001), [cs.wiki](https://cs.wikipedia.org/wiki/Český_Rudolec_(zámek)), [web](https://www.malahluboka.cz), [hledat majitele](https://duckduckgo.com/?q=%C4%8Cesk%C3%BD%20Rudolec%20%C4%8Cesk%C3%BD%20Rudolec%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 4.
+Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q10938001), [cs.wiki](https://cs.wikipedia.org/wiki/Český_Rudolec_(zámek)), [web](https://www.malahluboka.cz), [hledat majitele](https://duckduckgo.com/?q=%C4%8Cesk%C3%BD%20Rudolec%20%C4%8Cesk%C3%BD%20Rudolec%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 5.
 
-- [ ] ?-? Daunové: chybí začátek, chybí konec
 - [ ] 2007-? NMS a.s.: přibližný rok, poznámka uvádí nejistotu
 
 ### Říčany (Říčany) - 0 návštěv, `Q10531093`
@@ -2626,7 +2620,7 @@ Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q36334493), [cs.wiki](https://c
 
 ### Špilberk (Brno-město) - 0 návštěv, `Q118256`
 
-Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q118256), [cs.wiki](https://cs.wikipedia.org/wiki/Špilberk), [web](https://www.spilberk.cz/), [hledat majitele](https://duckduckgo.com/?q=%C5%A0pilberk%20Brno-m%C4%9Bsto%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 4.
+Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q118256), [cs.wiki](https://cs.wikipedia.org/wiki/Špilberk), [web](https://www.spilberk.cz/), [hledat majitele](https://duckduckgo.com/?q=%C5%A0pilberk%20Brno-m%C4%9Bsto%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 5.
 
 - [ ] 1621-? Ferdinand II. a další Habsburkové: chybí konec
 - [ ] ?-1960 stat: chybí začátek
@@ -2659,19 +2653,17 @@ Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q1280844), [cs.wiki](https://cs
 
 ## 2. Rody
 
-Rodů celkem 889: bez erbu 602, bez článku na cs.wiki 532 (ty nemají ani popis ani erb).
+Rodů celkem 892: bez erbu 598, bez článku na cs.wiki 535 (ty nemají ani popis ani erb).
 
-### 2a. Rod má článek na cs.wiki, ale chybí erb (70)
+### 2a. Rod má článek na cs.wiki, ale chybí erb (63)
 
 Erb doplň ručně: najdi soubor na Wikimedia Commons a název souboru zapiš do `coat_of_arms` v `data/families/<id>.json` (nebo doplň obrázek do Wikidat a spusť `fetch_families.py`).
 
 | Rod | Míst | Odkazy |
 |---|---|---|
-| Páni z Říčan (`pani-z-rican`) | 12 | [cs.wiki](https://cs.wikipedia.org/wiki/Páni_z_Říčan), [Wikidata](https://www.wikidata.org/wiki/Q12047732), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20P%C3%A1ni%20z%20%C5%98%C3%AD%C4%8Dan&ns6=1) |
 | Páni z Potštejna a Litic (`pani-z-potstejna-a-litic`) | 10 | [cs.wiki](https://cs.wikipedia.org/wiki/Páni_z_Potštejna_a_Litic), [Wikidata](https://www.wikidata.org/wiki/Q10270972), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20P%C3%A1ni%20z%20Pot%C5%A1tejna%20a%20Litic&ns6=1) |
 | Plavenští z Plavna (`plavensti-z-plavna`) | 7 | [cs.wiki](https://cs.wikipedia.org/wiki/Plavenští_z_Plavna), [Wikidata](https://www.wikidata.org/wiki/Q12045558), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20Plaven%C5%A1t%C3%AD%20z%20Plavna&ns6=1) |
 | Páni z Vrtby (`pani-z-vrtby`) | 7 | [cs.wiki](https://cs.wikipedia.org/wiki/Páni_z_Vrtby), [Wikidata](https://www.wikidata.org/wiki/Q1411640), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20P%C3%A1ni%20z%20Vrtby&ns6=1) |
-| Páni ze Zástřizl (`pani-ze-zastrizl`) | 7 | [cs.wiki](https://cs.wikipedia.org/wiki/Páni_ze_Zástřizl), [Wikidata](https://www.wikidata.org/wiki/Q246987), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20P%C3%A1ni%20ze%20Z%C3%A1st%C5%99izl&ns6=1) |
 | Černčičtí z Kácova (`cerncicti-z-kacova`) | 7 | [cs.wiki](https://cs.wikipedia.org/wiki/Černčičtí_z_Kácova), [Wikidata](https://www.wikidata.org/wiki/Q339592), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20%C4%8Cern%C4%8Di%C4%8Dt%C3%AD%20z%20K%C3%A1cova&ns6=1) |
 | Křinečtí z Ronova (`krinecti-z-ronova`) | 5 | [cs.wiki](https://cs.wikipedia.org/wiki/Křinečtí_z_Ronova), [Wikidata](https://www.wikidata.org/wiki/Q1545385), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20K%C5%99ine%C4%8Dt%C3%AD%20z%20Ronova&ns6=1) |
 | Opavští Přemyslovci (`opavsti-premyslovci`) | 5 | [cs.wiki](https://cs.wikipedia.org/wiki/Opavští_Přemyslovci), [Wikidata](https://www.wikidata.org/wiki/Q3511292), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20Opav%C5%A1t%C3%AD%20P%C5%99emyslovci&ns6=1) |
@@ -2682,10 +2674,8 @@ Erb doplň ručně: najdi soubor na Wikimedia Commons a název souboru zapiš do
 | Verdenberkové (`verdenberkove`) | 4 | [cs.wiki](https://cs.wikipedia.org/wiki/Verdenberkové), [Wikidata](https://www.wikidata.org/wiki/Q26258865), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20Verdenberkov%C3%A9&ns6=1) |
 | Švábenští ze Švábenic (`svabensti-ze-svabenic`) | 4 | [cs.wiki](https://cs.wikipedia.org/wiki/Švábenští_ze_Švábenic), [Wikidata](https://www.wikidata.org/wiki/Q2252585), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20%C5%A0v%C3%A1ben%C5%A1t%C3%AD%20ze%20%C5%A0v%C3%A1benic&ns6=1) |
 | Benešovici (`benesovici`) | 3 | [cs.wiki](https://cs.wikipedia.org/wiki/Benešovici), [Wikidata](https://www.wikidata.org/wiki/Q817120), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20Bene%C5%A1ovici&ns6=1) |
-| Bírkové z Násile (`birkove-z-nasile`) | 3 | [cs.wiki](https://cs.wikipedia.org/wiki/Bírkové_z_Násile), [Wikidata](https://www.wikidata.org/wiki/Q21704509), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20B%C3%ADrkov%C3%A9%20z%20N%C3%A1sile&ns6=1) |
 | Dohalští z Dohalic (`dohalsti-z-dohalic`) | 3 | [cs.wiki](https://cs.wikipedia.org/wiki/Dohalští_z_Dohalic), [Wikidata](https://www.wikidata.org/wiki/Q11813710), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20Dohal%C5%A1t%C3%AD%20z%20Dohalic&ns6=1) |
 | Hofmannové (`hofmannove`) | 3 | [cs.wiki](https://cs.wikipedia.org/wiki/Hofmannové), [Wikidata](https://www.wikidata.org/wiki/Q111154034), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20Hofmannov%C3%A9&ns6=1) |
-| Páni z Holštejna (`pani-z-holstejna`) | 3 | [cs.wiki](https://cs.wikipedia.org/wiki/Páni_z_Holštejna), [Wikidata](https://www.wikidata.org/wiki/Q1625823), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20P%C3%A1ni%20z%20Hol%C5%A1tejna&ns6=1) |
 | Zárubové z Hustířan (`zarubove-z-hustiran`) | 3 | [cs.wiki](https://cs.wikipedia.org/wiki/Zárubové_z_Hustířan), [Wikidata](https://www.wikidata.org/wiki/Q10941593), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20Z%C3%A1rubov%C3%A9%20z%20Hust%C3%AD%C5%99an&ns6=1) |
 | Adršpachové z Dubé (`adrspachove-z-dube`) | 2 | [cs.wiki](https://cs.wikipedia.org/wiki/Adršpachové_z_Dubé), [Wikidata](https://www.wikidata.org/wiki/Q10712308), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20Adr%C5%A1pachov%C3%A9%20z%20Dub%C3%A9&ns6=1) |
 | Aichelburgové (`aichelburgove`) | 2 | [cs.wiki](https://cs.wikipedia.org/wiki/Aichelburgové), [Wikidata](https://www.wikidata.org/wiki/Q403559), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20Aichelburgov%C3%A9&ns6=1) |
@@ -2698,7 +2688,6 @@ Erb doplň ručně: najdi soubor na Wikimedia Commons a název souboru zapiš do
 | Páni z Doubravice (`pani-z-doubravice`) | 2 | [cs.wiki](https://cs.wikipedia.org/wiki/Páni_z_Doubravice), [Wikidata](https://www.wikidata.org/wiki/Q12047707), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20P%C3%A1ni%20z%20Doubravice&ns6=1) |
 | Páni z Drahotuš (`pani-z-drahotus`) | 2 | [cs.wiki](https://cs.wikipedia.org/wiki/Páni_z_Drahotuš), [Wikidata](https://www.wikidata.org/wiki/Q12047709), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20P%C3%A1ni%20z%20Drahotu%C5%A1&ns6=1) |
 | Páni z Dubé (Benešovici) (`pani-z-dube-benesovici`) | 2 | [cs.wiki](https://cs.wikipedia.org/wiki/Páni_z_Dubé_(Benešovici)), [Wikidata](https://www.wikidata.org/wiki/Q12047710), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20P%C3%A1ni%20z%20Dub%C3%A9%20%28Bene%C5%A1ovici%29&ns6=1) |
-| Páni z Linavy (`pani-z-linavy`) | 2 | [cs.wiki](https://cs.wikipedia.org/wiki/Páni_z_Linavy), [Wikidata](https://www.wikidata.org/wiki/Q12047716), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20P%C3%A1ni%20z%20Linavy&ns6=1) |
 | Páni ze Sovince (`pani-ze-sovince`) | 2 | [cs.wiki](https://cs.wikipedia.org/wiki/Páni_ze_Sovince), [Wikidata](https://www.wikidata.org/wiki/Q2304908), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20P%C3%A1ni%20ze%20Sovince&ns6=1) |
 | Páni ze Zvířetic (`pani-ze-zviretic`) | 2 | [cs.wiki](https://cs.wikipedia.org/wiki/Páni_ze_Zvířetic), [Wikidata](https://www.wikidata.org/wiki/Q169292), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20P%C3%A1ni%20ze%20Zv%C3%AD%C5%99etic&ns6=1) |
 | Pöttingové z Persingu (`pottingove-z-persingu`) | 2 | [cs.wiki](https://cs.wikipedia.org/wiki/Pöttingové_z_Persingu), [Wikidata](https://www.wikidata.org/wiki/Q28536553), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20P%C3%B6ttingov%C3%A9%20z%20Persingu&ns6=1) |
@@ -2719,7 +2708,6 @@ Erb doplň ručně: najdi soubor na Wikimedia Commons a název souboru zapiš do
 | Hradišťští z Hořovic (`hradiststi-z-horovic`) | 1 | [cs.wiki](https://cs.wikipedia.org/wiki/Hradišťští_z_Hořovic), [Wikidata](https://www.wikidata.org/wiki/Q125518573), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20Hradi%C5%A1%C5%A5%C5%A1t%C3%AD%20z%20Ho%C5%99ovic&ns6=1) |
 | Jenšíkové z Ježova (`jensikove-z-jezova`) | 1 | [cs.wiki](https://cs.wikipedia.org/wiki/Jenšíkové_z_Ježova), [Wikidata](https://www.wikidata.org/wiki/Q12024520), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20Jen%C5%A1%C3%ADkov%C3%A9%20z%20Je%C5%BEova&ns6=1) |
 | Kalenicové z Kalenic (`kalenicove-z-kalenic`) | 1 | [cs.wiki](https://cs.wikipedia.org/wiki/Kalenicové_z_Kalenic), [Wikidata](https://www.wikidata.org/wiki/Q21716043), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20Kalenicov%C3%A9%20z%20Kalenic&ns6=1) |
-| Kočovští z Kočova (`kocovsti-z-kocova`) | 1 | [cs.wiki](https://cs.wikipedia.org/wiki/Kočovští_z_Kočova), [Wikidata](https://www.wikidata.org/wiki/Q135105833), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20Ko%C4%8Dov%C5%A1t%C3%AD%20z%20Ko%C4%8Dova&ns6=1) |
 | Kropáčové z Holštejna (`kropacove-z-holstejna`) | 1 | [cs.wiki](https://cs.wikipedia.org/wiki/Kropáčové_z_Holštejna), [Wikidata](https://www.wikidata.org/wiki/Q12031577), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20Krop%C3%A1%C4%8Dov%C3%A9%20z%20Hol%C5%A1tejna&ns6=1) |
 | Ledečtí z Říčan (`ledecti-z-rican`) | 1 | [cs.wiki](https://cs.wikipedia.org/wiki/Ledečtí_z_Říčan), [Wikidata](https://www.wikidata.org/wiki/Q1146783), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20Lede%C4%8Dt%C3%AD%20z%20%C5%98%C3%AD%C4%8Dan&ns6=1) |
 | Mošovští z Moravčína (`mosovsti-z-moravcina`) | 1 | [cs.wiki](https://cs.wikipedia.org/wiki/Mošovští_z_Moravčína), [Wikidata](https://www.wikidata.org/wiki/Q1948904), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20Mo%C5%A1ov%C5%A1t%C3%AD%20z%20Morav%C4%8D%C3%ADna&ns6=1) |
@@ -2735,10 +2723,9 @@ Erb doplň ručně: najdi soubor na Wikimedia Commons a název souboru zapiš do
 | Střelové z Rokyc (`strelove-z-rokyc`) | 1 | [cs.wiki](https://cs.wikipedia.org/wiki/Střelové_z_Rokyc), [Wikidata](https://www.wikidata.org/wiki/Q12057048), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20St%C5%99elov%C3%A9%20z%20Rokyc&ns6=1) |
 | Týřovští z Ensidle (`tyrovsti-z-ensidle`) | 1 | [cs.wiki](https://cs.wikipedia.org/wiki/Týřovští_z_Ensidle), [Wikidata](https://www.wikidata.org/wiki/Q125894375), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20T%C3%BD%C5%99ov%C5%A1t%C3%AD%20z%20Ensidle&ns6=1) |
 | Zásmučtí ze Zásmuk (`zasmucti-ze-zasmuk`) | 1 | [cs.wiki](https://cs.wikipedia.org/wiki/Zásmučtí_ze_Zásmuk), [Wikidata](https://www.wikidata.org/wiki/Q11080918), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20Z%C3%A1smu%C4%8Dt%C3%AD%20ze%20Z%C3%A1smuk&ns6=1) |
-| Čejkové z Badenfeldu (`cejkove-z-badenfeldu`) | 1 | [cs.wiki](https://cs.wikipedia.org/wiki/Čejkové_z_Badenfeldu), [Wikidata](https://www.wikidata.org/wiki/Q11170689), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20%C4%8Cejkov%C3%A9%20z%20Badenfeldu&ns6=1) |
 | Škopkové z Dubé (`skopkove-z-dube`) | 1 | [cs.wiki](https://cs.wikipedia.org/wiki/Škopkové_z_Dubé), [Wikidata](https://www.wikidata.org/wiki/Q10406246), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20%C5%A0kopkov%C3%A9%20z%20Dub%C3%A9&ns6=1) |
 
-### 2b. Rod bez článku na cs.wiki (532)
+### 2b. Rod bez článku na cs.wiki (535)
 
 Zkus najít, zda nepatří k existujícímu rodu (větev), případně popis a erb v jiných zdrojích (Historická šlechta, Wikipedie v jiných jazycích, Ottův slovník). Řazeno podle počtu míst, kde rod figuruje.
 
@@ -2753,6 +2740,7 @@ Zkus najít, zda nepatří k existujícímu rodu (větev), případně popis a e
 | `perglarove-z-perglasu` | 4 | Velhartice, Zruč nad Sázavou, Luhov (+1) | [hledat](https://duckduckgo.com/?q=Pergl%C3%A1rov%C3%A9%20z%20Perglasu%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `sasko-lauenburkove` | 4 | Ploskovice, Kácov, Zákupy (+1) | [hledat](https://duckduckgo.com/?q=Sasko-Lauenburkov%C3%A9%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `z-chotemic` | 4 | Červená Řečice, Bezděz, Vlašim (+1) | [hledat](https://duckduckgo.com/?q=z%20Chot%C4%9Bmic%20%C5%A1lechtick%C3%BD%20rod%20erb) |
+| `z-hartenberku` | 4 | Český Rudolec, Chvaly, Kynžvart (+1) | [hledat](https://duckduckgo.com/?q=z%20hartenberku%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `z-kralovic` | 4 | Říčany, Vlašim, Orlice (+1) | [hledat](https://duckduckgo.com/?q=z%20kralovic%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `z-lamberka` | 4 | Hukvaldy, Červená Řečice, Vartenberk (+1) | [hledat](https://duckduckgo.com/?q=z%20lamberka%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `z-ronsperka` | 4 | Krašov, Dršťka, Poběžovice (+1) | [hledat](https://duckduckgo.com/?q=z%20ronsperka%20%C5%A1lechtick%C3%BD%20rod%20erb) |
@@ -2762,7 +2750,6 @@ Zkus najít, zda nepatří k existujícímu rodu (větev), případně popis a e
 | `palmove` | 3 | Lipnice nad Sázavou, Pajrek, Růžkovy Lhotice | [hledat](https://duckduckgo.com/?q=palmove%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `thurn-valsassinove` | 3 | Valeč, Letovice, Veliš | [hledat](https://duckduckgo.com/?q=thurn%20valsassinove%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `z-aldringenu` | 3 | Nový Hrad, Stekník, Benešov nad Ploučnicí | [hledat](https://duckduckgo.com/?q=z%20aldringenu%20%C5%A1lechtick%C3%BD%20rod%20erb) |
-| `z-hartenberku` | 3 | Chvaly, Kynžvart, Hartenberg | [hledat](https://duckduckgo.com/?q=z%20hartenberku%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `z-lacemboka` | 3 | Křinec, Potštejn, Žleby | [hledat](https://duckduckgo.com/?q=z%20lacemboka%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `z-linkeru` | 3 | Poběžovice, Lnáře, Dub | [hledat](https://duckduckgo.com/?q=z%20linkeru%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `z-osecan` | 3 | Český Rudolec, Vrchotovy Janovice, Osečany | [hledat](https://duckduckgo.com/?q=z%20osecan%20%C5%A1lechtick%C3%BD%20rod%20erb) |
@@ -3108,6 +3095,7 @@ Zkus najít, zda nepatří k existujícímu rodu (větev), případně popis a e
 | `z-metelska` | 1 | Tachov | [hledat](https://duckduckgo.com/?q=z%20metelska%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `z-miletic` | 1 | Krakovec | [hledat](https://duckduckgo.com/?q=z%20miletic%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `z-milheimu` | 1 | Pardubice | [hledat](https://duckduckgo.com/?q=z%20milheimu%20%C5%A1lechtick%C3%BD%20rod%20erb) |
+| `z-milice-a-pencelina` | 1 | Helfenburk u Úštěka | [hledat](https://duckduckgo.com/?q=z%20milice%20a%20pencelina%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `z-milicina` | 1 | Český Rudolec | [hledat](https://duckduckgo.com/?q=z%20milicina%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `z-mirova` | 1 | Miroslav | [hledat](https://duckduckgo.com/?q=z%20mirova%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `z-moravan` | 1 | Milotice | [hledat](https://duckduckgo.com/?q=z%20moravan%20%C5%A1lechtick%C3%BD%20rod%20erb) |
@@ -3190,6 +3178,7 @@ Zkus najít, zda nepatří k existujícímu rodu (větev), případně popis a e
 | `z-schaumburgu` | 1 | Miroslav | [hledat](https://duckduckgo.com/?q=z%20schaumburgu%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `z-scheidleru` | 1 | Kácov | [hledat](https://duckduckgo.com/?q=z%20scheidleru%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `z-schmidlinu` | 1 | Kácov | [hledat](https://duckduckgo.com/?q=z%20schmidlinu%20%C5%A1lechtick%C3%BD%20rod%20erb) |
+| `z-seitendorfu` | 1 | Vikštejn | [hledat](https://duckduckgo.com/?q=z%20seitendorfu%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `z-semtese` | 1 | Věž tvrze | [hledat](https://duckduckgo.com/?q=z%20semtese%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `z-slatinan` | 1 | Slatiňany | [hledat](https://duckduckgo.com/?q=ze%20Slati%C5%88an%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `z-slavaty` | 1 | Chropyně | [hledat](https://duckduckgo.com/?q=z%20slavaty%20%C5%A1lechtick%C3%BD%20rod%20erb) |
@@ -3234,6 +3223,7 @@ Zkus najít, zda nepatří k existujícímu rodu (větev), případně popis a e
 | `z-vickova` | 1 | Litultovice | [hledat](https://duckduckgo.com/?q=z%20vickova%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `z-vidbachu` | 1 | Linhartovy | [hledat](https://duckduckgo.com/?q=z%20vidbachu%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `z-vidhostic` | 1 | Pajrek | [hledat](https://duckduckgo.com/?q=z%20vidhostic%20%C5%A1lechtick%C3%BD%20rod%20erb) |
+| `z-vikstejna` | 1 | Vikštejn | [hledat](https://duckduckgo.com/?q=z%20vikstejna%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `z-vitence` | 1 | Ploskovice | [hledat](https://duckduckgo.com/?q=z%20vitence%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `z-vizmburka` | 1 | Vízmburk | [hledat](https://duckduckgo.com/?q=z%20vizmburka%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `z-vlasimi` | 1 | Vlašim | [hledat](https://duckduckgo.com/?q=z%20vlasimi%20%C5%A1lechtick%C3%BD%20rod%20erb) |
