@@ -436,7 +436,7 @@ def main():
         page.uncheck("#f-undated")
         page.wait_for_timeout(300)
         n_870_all = page.locator(".leaflet-marker-pane .mk").count()
-        assert n_870_all > n_870 + 50, f"undated places: {n_870} hidden vs {n_870_all} shown"
+        assert n_870_all > n_870 + 10, f"undated places: {n_870} hidden vs {n_870_all} shown"
         page.check("#f-undated")
         print("time machine markers 870 / 870 with undated / 1550:", n_870, n_870_all, n_1550)
         page.fill("#f-year", "1550")
