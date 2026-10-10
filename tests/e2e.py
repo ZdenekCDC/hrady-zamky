@@ -344,12 +344,14 @@ def main():
         assert markers_with_visits("") == n_all, "resetting the visits filter did not restore all markers"
         print(f"visits filter: all {n_all} | visited {n_yes} | unvisited {n_no}")
 
-        def century_of(p):  # founding year, else the "14. stol." / "1920. léta" text
+        def century_of(p):  # founding year, else the "14. stol." / "1920. léta" text, else the first mention
             year = ((DATA_HISTORY.get(p["id"]) or {}).get("founded") or {}).get("year") or p["founded"]
             if year is not None:
                 return (year - 1) // 100 + 1
             m = re.match(r"(\d+)\. (stol|léta)", p["founded_text"] or "")
-            return None if not m else int(m[1]) if m[2] == "stol" else (int(m[1]) - 1) // 100 + 1
+            if not m:
+                return None if p.get("first_mention") is None else (p["first_mention"] - 1) // 100 + 1
+            return int(m[1]) if m[2] == "stol" else (int(m[1]) - 1) // 100 + 1
         want = sum(1 for p in DATA_PLACES if p["access"] != "neznamo" and century_of(p) == 14)
         page.select_option("#f-cfrom", "14")
         page.select_option("#f-cto", "14")

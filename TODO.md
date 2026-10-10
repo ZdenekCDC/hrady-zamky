@@ -149,7 +149,7 @@ Stav k 2026-10-04: web běží na GitHub Pages (<https://zdenekcdc.github.io/hra
 ## Stroj času a rody v mapě
 
 - [x] Barvoslepost ikon: čtyři hlavní druhy (hrad, zámek, hrad a zámek, zřícenina) v zemité paletě (výchozí) validátor prošel (2026-10-03). Ostatní témata (kámen, sytá, pastelová) a všech 17 druhů pohromadě barvami samotnými neprojdou, ale druh nese tvar piktogramu a při najetí ho jmenuje tooltip slovy (hlídá E2E test), takže barva není jediný nosič informace; přebarvování dalších témat se nevyplatí.
-- [ ] Stroj času: po `fetch_founded.py` (2026-10-03, odhad z textu cs.wiki: 241 vznik, 138 první zmínka; přesnost ~85 %, vzorek zkontrolován) zbývá 1480 míst bez data vzniku (836 zámků, 208 tvrzí, 137 hradů, 136 zřícenin) - u nich cs.wiki rok neuvádí. Volba "skrýt místa bez data vzniku" je tedy stále potřeba; další zdroje: NPÚ památkový katalog, hrady.cz. Odhad v `data/founded.json` je třeba občas vzorkově kontrolovat (regulární výrazy v `scripts/fetch_founded.py`).
+- [ ] Stroj času: po `fetch_founded.py` (2026-10-03, odhad z textu cs.wiki: 241 vznik, 138 první zmínka; přesnost ~85 %, vzorek zkontrolován) zbývá 1462 míst bez data vzniku i první zmínky (2026-10-10 `fetch_founded.py` doplnil z Wikidata P1249 18 prvních zmínek a už nepřepisuje dřívější odhady; u zbytku cs.wiki rok neuvádí). Volba "skrýt místa bez data vzniku" je tedy stále potřeba; další zdroje: NPÚ památkový katalog, hrady.cz. Odhad v `data/founded.json` je třeba občas vzorkově kontrolovat (regulární výrazy v `scripts/fetch_founded.py`).
 
 ## Návštěvy pro více uživatelů
 

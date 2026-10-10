@@ -10,7 +10,7 @@ import sys
 import time
 from urllib.parse import unquote
 
-from common import DATA, RAW, get, load, save
+from common import DATA, RAW, get, load, save, sparql
 
 CENTURY = re.compile(r"(\d{1,2})\. (?:století|stol\.)")
 BUILT = r"(?:postaven\w*|vybudován\w*|založen\w*|vystavěn\w*|vznikl\w*|zbudován\w*|vzniku|založení|výstavb\w+)"
@@ -100,17 +100,35 @@ def estimate(text):
     return None
 
 
+def wikidata_first_mention(qids):
+    """Earliest P1249 (time of earliest written record) year per QID, for places the cs.wiki text gave nothing."""
+    out = {}
+    for i in range(0, len(qids), 100):
+        values = " ".join(f"wd:{q}" for q in qids[i:i + 100])
+        rows = sparql(f"SELECT ?i ?t WHERE {{ VALUES ?i {{ {values} }} ?i p:P1249/psv:P1249 ?v . "
+                      f"?v wikibase:timeValue ?t ; wikibase:timePrecision ?pr . FILTER(?pr >= 9) }}")
+        for b in rows:
+            q, year = b["i"]["value"].rsplit("/", 1)[1], int(b["t"]["value"][:4])
+            out[q] = min(year, out.get(q, year))
+        time.sleep(3)
+    return out
+
+
 def main():
     places = load(DATA / "places.json")
     places = places if isinstance(places, list) else places["places"]
     todo = [p for p in places if p.get("founded") is None and not CENTURY.match(p.get("founded_text") or "")]
     want = titles(todo)
     cache = download(want)
-    out = {}
+    out = load(DATA / "founded.json") if (DATA / "founded.json").exists() else {}  # keep earlier estimates (delete the file to refresh)
     for qid, t in want.items():
         est = estimate(cache.get(t, ""))
         if est and (est.get("year") is None or 800 <= est["year"] <= 2025):
             out[qid] = est
+    rest = [p["id"] for p in todo if p["id"] not in out]
+    for qid, year in wikidata_first_mention(rest).items():
+        if 800 <= year <= 2025:
+            out[qid] = {"year": year, "kind": "first_mention", "text": "Wikidata P1249 (nejstarší písemná zmínka)"}
     save(DATA / "founded.json", out)
     print(f"{len(out)} of {len(todo)} undated places estimated "
           f"({sum(1 for v in out.values() if v['kind'] == 'built')} built, "
