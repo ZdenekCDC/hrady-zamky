@@ -24,22 +24,22 @@
    "owner_wiki": "Zajícové z Hazmburka",
    "person": "Vilém Zajíc z Valdeka",
    "from": 1318,
-   "to": null,
+   "to": 1320,
    "from_approx": false,
-   "to_approx": false,
+   "to_approx": true,
    "how": "lenni",
-   "note": "zástava od Jana Lucemburského (před 1318)"
+   "note": "zástava od Jana Lucemburského (před 1318; městská kronika uvádí 1318); Vilém zahynul 1319 při tažení do Bavor, král zástavu od jeho synů vyplatil kolem 1320 (hrady.cz)"
   },
   {
    "owner": "soukromnik",
    "owner_wiki": null,
    "person": "Frenclin Jakubův z Prahy",
-   "from": null,
+   "from": 1320,
    "to": 1341,
-   "from_approx": false,
+   "from_approx": true,
    "to_approx": false,
    "how": "lenni",
-   "note": "zástava; purkrabím nejméně do roku 1341"
+   "note": "zástava po Zajícovi (hrady.cz: Jakub Frenclín, staroměstský rychtář, 1331 podkomoří; po vyplacení Zajíců kolem 1320); purkrabím nejméně do roku 1341"
   },
   {
    "owner": "koruna",
@@ -90,17 +90,17 @@
    "owner_wiki": null,
    "person": "Mikuláš Chudý z Újezda",
    "from": 1418,
-   "to": 1421,
+   "to": 1420,
    "from_approx": false,
    "to_approx": false,
    "how": "lenni",
-   "note": "zástava s povinností vyplatit Rýzmburky"
+   "note": "hrady.cz uvádí Mikuláše Chudého z Lobkovic a vrácení králi Zikmundovi 1420 (dřívější záznam 1421); zástava s povinností vyplatit Rýzmburky"
   },
   {
    "owner": "z-jivjan",
    "owner_wiki": null,
    "person": "Jindřich Žito z Jivjan a synové Lvík a Petr",
-   "from": 1421,
+   "from": 1420,
    "to": 1454,
    "from_approx": false,
    "to_approx": false,
@@ -122,19 +122,19 @@
    "owner_wiki": "Páni z Rožmitálu",
    "person": "Lev a Protiva z Rožmitálu",
    "from": 1460,
-   "to": 1475,
+   "to": 1468,
    "from_approx": false,
-   "to_approx": false,
+   "to_approx": true,
    "how": "dedictvi",
-   "note": "jako poručníci nedospělého Zdeňka ze Švamberka"
+   "note": "asi 1468 hrad odevzdali Zdeňkovi (hrady.cz), držení potvrzeno 1475; jako poručníci nedospělého Zdeňka ze Švamberka"
   },
   {
    "owner": "pani-ze-svamberka",
    "owner_wiki": "Páni ze Švamberka",
    "person": "Zdeněk ze Švamberka",
-   "from": 1475,
+   "from": 1468,
    "to": 1518,
-   "from_approx": false,
+   "from_approx": true,
    "to_approx": true,
    "how": "dedictvi",
    "note": "držení potvrdil Vladislav II. 1475; roku 1518 ještě žil"
@@ -277,6 +277,6 @@
   "https://cs.wikipedia.org/wiki/Přimda_(hrad)",
   "https://hrad-primda.cz/en/about/history",
   "https://www.kolowrat.cz/cs/hrad-primda",
-  "https://exa.ai/library/publication/nndsvgwqrrw"
+  "https://exa.ai/library/publication/nndsvgwqrrw", "https://www.hrady.cz/hrad-primda/", "https://www.mestoprimda.cz/mesto/historie/historie-hradu-primda/"
  ]
 }

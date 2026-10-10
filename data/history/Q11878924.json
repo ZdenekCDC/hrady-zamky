@@ -22,24 +22,24 @@
     {
       "owner": "birkove-z-nasile",
       "owner_wiki": "Bírkové z Násile",
-      "person": "Hynčík Bírka z Násile",
+      "person": "Hynčík Bírka z Násile (zemřel po 1502), poté jeho syn Jindřich",
       "from": null,
-      "to": null,
+      "to": 1503,
       "from_approx": true,
-      "to_approx": true,
+      "to_approx": false,
       "how": "neznamo",
-      "note": "hrady.cz: ve 2. polovině 15. století rozšířil hrad o zděné předhradí a pozdně gotickou budovu 's největší pravděpodobností' Hynčík Bírka z Násile; roky držby neuvedeny"
+      "note": "hrady.cz: ve 2. polovině 15. století rozšířil hrad o zděné předhradí a pozdně gotickou budovu 's největší pravděpodobností' Hynčík Bírka z Násile; palaceslaska.pl: statek 1503 prodal syn Jindřich, který odešel do Dolního Slezska; počátek držby neuveden"
     },
     {
       "owner": "bruntalsti-z-vrbna",
       "owner_wiki": "Bruntálští z Vrbna",
-      "person": "Albrecht Bruntálský z Vrbna, poté bratr Štěpán",
-      "from": 1592,
+      "person": "Bernard z Vrbna (zemřel 1529), poté Albrecht (zemřel 1541), Jan a Albrecht (zemřel před 1595), poté bratr Štěpán",
+      "from": 1503,
       "to": 1595,
-      "from_approx": false,
+      "from_approx": true,
       "to_approx": false,
-      "how": "neznamo",
-      "note": "hrady.cz zmiňuje Vrbny již v polovině 16. stol. a Štěpánův prodej 1600 (jiná data než obec a cs.wiki obce)"
+      "how": "koupe",
+      "note": "palaceslaska.pl: po prodeji Bírků 1503 získali Heraltice Vrbnové a drželi je do konce 16. stol.; cs.wiki obce a mistopisy.cz uvádějí až rok 1592 (přechod na Albrechta); hrady.cz zmiňuje Štěpánův prodej 1600 (palaceslaska.pl: 1595 nebo 1600)"
     },
     {
       "owner": "sedlnicti-z-choltic",
@@ -66,13 +66,13 @@
     {
       "owner": "oppersdorfove",
       "owner_wiki": "Oppersdorfové",
-      "person": "Václav z Oppersdorfu, svobodný pán z Dubu a Frýdštejna",
+      "person": "Václav z Oppersdorfu, svobodný pán z Dubu a Frýdštejna (1590-1644), poté syn Jan Václav",
       "from": 1618,
       "to": 1668,
       "from_approx": false,
-      "to_approx": true,
+      "to_approx": false,
       "how": "koupe",
-      "note": "koupě 11. 12. 1618, dekret od Slezské dvorní komory až 1628; rok konce nepřesný (do 1668)"
+      "note": "koupě 11. 12. 1618, dekret od Slezské dvorní komory až 1628; palaceslaska.pl: 1668 prodal Jan Václav z Oppersdorfu Jiřímu Štěpánovi z Vrbna"
     },
     {
       "owner": "bruntalsti-z-vrbna",
@@ -127,12 +127,12 @@
       "from_approx": false,
       "to_approx": true,
       "how": "koupe",
-      "note": "rok konce odvozen z počátku držby Bellegardů"
+      "note": "rok konce odvozen z počátku držby Bellegardů; palaceslaska.pl a mistopisy.cz: první Bellegarde na panství František (1833-1912), manžel Rudolfiny rozené Kinské (1836-1899), přechod z Kinských nespecifikován"
     },
     {
       "owner": "bellegardove",
       "owner_wiki": null,
-      "person": "hrabata Bellegarde (August Bellegarde, po jeho smrti 1929 dcery Marie Karolina a Eliška)",
+      "person": "hrabata Bellegarde (František Bellegarde, poté syn August, po jeho smrti 1929 dcery Marie Karolina a Eliška)",
       "from": 1899,
       "to": 1945,
       "from_approx": false,
@@ -202,6 +202,8 @@
     "https://cs.wikipedia.org/wiki/Velké_Heraltice",
     "https://www.mistopisy.cz/pruvodce/obec/10449/velke-heraltice/historie/",
     "https://www.hrady.cz/zamek-velke-heraltice/",
-    "https://opavsky.denik.cz/zpravy-region/z-historie-regionu-heralticky-zamek-patri-na-opavsku-k-tem-nejvyznamnejsim/"
+    "https://opavsky.denik.cz/zpravy-region/z-historie-regionu-heralticky-zamek-patri-na-opavsku-k-tem-nejvyznamnejsim/",
+    "https://www.palaceslaska.pl/index.php/indeks-alfabetyczny/v/1566-velke-heraltice",
+    "https://www.atlasceska.cz/pamatky/zamek-velke-heraltice-20399"
   ]
 }

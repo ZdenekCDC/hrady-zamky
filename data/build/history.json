@@ -7934,22 +7934,22 @@
     "owner_wiki": "Zajícové z Hazmburka",
     "person": "Vilém Zajíc z Valdeka",
     "from": 1318,
-    "to": 1331,
+    "to": 1320,
     "from_approx": false,
     "to_approx": true,
     "how": "lenni",
-    "note": "zástava od Jana Lucemburského (před 1318)"
+    "note": "zástava od Jana Lucemburského (před 1318; městská kronika uvádí 1318); Vilém zahynul 1319 při tažení do Bavor, král zástavu od jeho synů vyplatil kolem 1320 (hrady.cz)"
    },
    {
     "owner": "soukromnik",
     "owner_wiki": null,
     "person": "Frenclin Jakubův z Prahy",
-    "from": 1331,
+    "from": 1320,
     "to": 1341,
     "from_approx": true,
     "to_approx": false,
     "how": "lenni",
-    "note": "zástava; purkrabím nejméně do roku 1341"
+    "note": "zástava po Zajícovi (hrady.cz: Jakub Frenclín, staroměstský rychtář, 1331 podkomoří; po vyplacení Zajíců kolem 1320); purkrabím nejméně do roku 1341"
    },
    {
     "owner": "koruna",
@@ -8000,17 +8000,17 @@
     "owner_wiki": null,
     "person": "Mikuláš Chudý z Újezda",
     "from": 1418,
-    "to": 1421,
+    "to": 1420,
     "from_approx": false,
     "to_approx": false,
     "how": "lenni",
-    "note": "zástava s povinností vyplatit Rýzmburky"
+    "note": "hrady.cz uvádí Mikuláše Chudého z Lobkovic a vrácení králi Zikmundovi 1420 (dřívější záznam 1421); zástava s povinností vyplatit Rýzmburky"
    },
    {
     "owner": "z-jivjan",
     "owner_wiki": null,
     "person": "Jindřich Žito z Jivjan a synové Lvík a Petr",
-    "from": 1421,
+    "from": 1420,
     "to": 1454,
     "from_approx": false,
     "to_approx": false,
@@ -8032,19 +8032,19 @@
     "owner_wiki": "Páni z Rožmitálu",
     "person": "Lev a Protiva z Rožmitálu",
     "from": 1460,
-    "to": 1475,
+    "to": 1468,
     "from_approx": false,
-    "to_approx": false,
+    "to_approx": true,
     "how": "dedictvi",
-    "note": "jako poručníci nedospělého Zdeňka ze Švamberka"
+    "note": "asi 1468 hrad odevzdali Zdeňkovi (hrady.cz), držení potvrzeno 1475; jako poručníci nedospělého Zdeňka ze Švamberka"
    },
    {
     "owner": "pani-ze-svamberka",
     "owner_wiki": "Páni ze Švamberka",
     "person": "Zdeněk ze Švamberka",
-    "from": 1475,
+    "from": 1468,
     "to": 1518,
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": true,
     "how": "dedictvi",
     "note": "držení potvrdil Vladislav II. 1475; roku 1518 ještě žil"
@@ -8187,7 +8187,9 @@
    "https://cs.wikipedia.org/wiki/Přimda_(hrad)",
    "https://hrad-primda.cz/en/about/history",
    "https://www.kolowrat.cz/cs/hrad-primda",
-   "https://exa.ai/library/publication/nndsvgwqrrw"
+   "https://exa.ai/library/publication/nndsvgwqrrw",
+   "https://www.hrady.cz/hrad-primda/",
+   "https://www.mestoprimda.cz/mesto/historie/historie-hradu-primda/"
   ]
  },
  "Q1013759": {
@@ -11076,44 +11078,55 @@
     "owner_wiki": "Páni z Kravař",
     "person": "Vítek z Kravař",
     "from": 1250,
-    "to": 1394,
+    "to": 1382,
     "from_approx": true,
     "to_approx": true,
     "how": "zalozeni",
     "note": "hrady.cz označuje Vítka za legendárního zakladatele; o nejstarších vlastnících chybějí zprávy, 1377 při dělení Opavska patřil hrad panu Adalbertovi (Bernardovi z Vikštejna)"
    },
    {
+    "owner": "z-vikstejna",
+    "owner_wiki": null,
+    "person": "Bernard (Adalbert) z Vikštejna",
+    "from": 1382,
+    "to": 1394,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "palaceslaska.pl: rytíř Bernard z Vikštejna držel hrad nejméně od 1382 do smrti 1394; hrady.dejiny.cz uvádí 1377 jako majitele Vítka ze Šostýna a jeho syna Bernarda; archeologický atlas: majitelé se psali 'z Vikštejna' do 1394; vztah k Vítkovcům/Kravařům není ve zdrojích jednoznačný"
+   },
+   {
     "owner": "opavsti-premyslovci",
     "owner_wiki": "Opavští Přemyslovci",
     "person": "kníže Přemek, od 1433 vdova Helena Bosenská, poté knížata Vilém a Arnošt",
     "from": 1394,
-    "to": 1464,
+    "to": 1461,
     "from_approx": false,
     "to_approx": false,
     "how": "jine",
-    "note": "Přemek se hradu zmocnil 1394 po smrti předchozího majitele; na hradě sídlili knížecí purkrabí, kteří se psali 'z Vikštejna'; 1464 koupil opavské knížectví Jiří z Poděbrad"
+    "note": "Přemek se hradu zmocnil (zkonfiskoval) 1394 po smrti Bernarda z Vikštejna; na hradě sídlili knížecí purkrabí; hrady.dejiny.cz a archeologický atlas: 1461 hrad postoupil vévoda Arnošt Budivoji z Moravice; palaceslaska.pl: Budivoj zástavou kolem poloviny 15. stol., 1464 koupil opavské knížectví Jiří z Poděbrad"
    },
    {
     "owner": "z-moravice",
     "owner_wiki": null,
     "person": "Budivoj z Moravice (a bratr Jindřich)",
-    "from": 1447,
-    "to": 1464,
-    "from_approx": true,
-    "to_approx": false,
+    "from": 1461,
+    "to": 1466,
+    "from_approx": false,
+    "to_approx": true,
     "how": "lenni",
-    "note": "1447 uvedeni na Vikštejně (nejistě jako purkrabí, nebo vlastníci); Budivoj byl pravděpodobně nejdřív purkrabí, pak zástavní držitel a vlastník, 1465 vložen do zemských desek; odpor proti králi Jiřímu z Poděbrad vedl ke ztrátě statků; atlasceska.cz uvádí zástavu 1464"
+    "note": "hrady.dejiny.cz a archeologický atlas: 1461 hrad získal purkrabí Budivoj z Moravice, po pěti letech (1466) mu panství zkonfiskoval král Jiří z Poděbrad; cs.wiki: 1447 přešel do vlastnictví vladyků z Moravice; palaceslaska.pl: 1462 uváděn jako vlastník, vyhnán po 1464; 1447 uvedeni na Vikštejně (nejistě jako purkrabí); 1465 vložen do zemských desek; atlasceska.cz uvádí zástavu 1464"
    },
    {
     "owner": "birkove-z-nasile",
     "owner_wiki": "Bírkové z Násile",
     "person": "Bernart Bírka z Násile, poté syn Hynčík Bírka a jeho synové",
-    "from": 1464,
+    "from": 1466,
     "to": 1518,
     "from_approx": true,
     "to_approx": false,
     "how": "lenni",
-    "note": "po 1474 dobyt a pobořen Matyášem Korvínem, Hynčík hrad opravil; po smrti Hynčíka (asi 1502) synové, od 1506 jen Bernart, který zemřel 1518; poté se držitelé rychle střídali"
+    "note": "král Jiří hrad předal 1466-1471 (archeologický atlas, hrady.dejiny.cz: Hynčíkovi Bírkovi, atlas: Bernardovi Bírkovi); po 1474 dobyt a pobořen Matyášem Korvínem, Hynčík hrad opravil; palaceslaska.pl: Bernard držel 1503-1518; po smrti Hynčíka (asi 1502) synové, od 1506 jen Bernart, který zemřel 1518; poté se držitelé rychle střídali"
    },
    {
     "owner": "planknarove",
@@ -11131,11 +11144,11 @@
     "owner_wiki": null,
     "person": "Adam Oderský z Lidéřova (manžel Magdalény Planknarové), poté Vilém Alexandr Oderský z Lidéřova",
     "from": 1576,
-    "to": 1591,
+    "to": 1629,
     "from_approx": true,
-    "to_approx": true,
+    "to_approx": false,
     "how": "snatek",
-    "note": "Magdaléna Planknarová získala 1576 polovinu panství; Oderští drželi hrad 'od konce 16. století'; za třicetileté války hrad 1626-1627 obsadili Dánové a Vilém Alexandr byl za spolupráci s nimi odsouzen ke konfiskaci"
+    "note": "Magdaléna Planknarová získala 1576 polovinu panství; palaceslaska.pl: po odsouzení Mikuláše Bravantského 1599 hrad 1600 císař Rudolf II. předal Adamu Oderskému, po něm synové Vilém Alexandr a Jiří Adam; za třicetileté války hrad 1626 předali bez boje Dánům, 1629 komise rozhodla o konfiskaci majetku"
    },
    {
     "owner": "z-chobran",
@@ -11149,15 +11162,26 @@
     "note": "Mikuláš byl prohlášen zemským škůdcem, hrad 1599 dobyt zemskou hotovostí a Mikuláš uprchl do Polska"
    },
    {
+    "owner": "z-seitendorfu",
+    "owner_wiki": null,
+    "person": "Hedvika ze Seitendorfu",
+    "from": 1629,
+    "to": 1639,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "koupe",
+    "note": "palaceslaska.pl: po konfiskaci Oderských nabyla panství od císaře Hedvika ze Seitendorfu (Jadwiga von Seitendorf); roky přibližné - rok koupě zdroj neuvádí, konec daný příchodem zástavního držitele 1639"
+   },
+   {
     "owner": "z-ehrenecku",
     "owner_wiki": null,
     "person": "Kryštof Egstein z Ehrenecku",
-    "from": 1599,
+    "from": 1639,
     "to": 1650,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false,
     "how": "lenni",
-    "note": "zástavní držitel od císařské komory po konfiskaci; zemřel 1650, poté se držitelé rychle střídali; 1648 hrad vyhozen do povětří císařským vojskem (jiné zdroje: úmyslně poškozen před Švédy)"
+    "note": "palaceslaska.pl: 1639 získal panství do zástavy; zástavní držitel od císařské komory po konfiskaci; zemřel 1650, poté se držitelé rychle střídali; 1648 hrad vyhozen do povětří císařským vojskem (jiné zdroje: úmyslně poškozen před Švédy)"
    },
    {
     "owner": "z-liderova",
@@ -11175,11 +11199,44 @@
     "owner_wiki": null,
     "person": "Marie Františka Apolena z Reichu",
     "from": 1708,
-    "to": null,
+    "to": 1767,
     "from_approx": false,
     "to_approx": true,
     "how": "koupe",
-    "note": "koupila hrad s Radkovem a Lhotkou; hrad již nesloužil k bydlení a chátral; 1774-1776 vystavěl Jan Julius Frobel nový zámek v Dubové (Horní Vikštejn) a hrad byl opuštěn; zdroje neuvádějí další vlastníky ani dnešního majitele"
+    "note": "koupila hrad s Radkovem a Lhotkou; hrad již nesloužil k bydlení a chátral; palaceslaska.pl: poté Ernst Matyáš Mitrovský (zemřel 1748)"
+   },
+   {
+    "owner": "z-nemysle",
+    "owner_wiki": null,
+    "person": "Ernst Matyáš Mitrovský (zemřel 1748, od 1716 český baron), poté jeho synové",
+    "from": 1767,
+    "to": 1826,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "palaceslaska.pl: po Reichových majitel panství; roky neuvedeny; příslušnost k rodu Mitrovských z Nemyšle není ve zdroji výslovně potvrzena"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Jan Julius Frobel",
+    "from": 1826,
+    "to": 1886,
+    "from_approx": true,
+    "to_approx": true,
+    "how": "neznamo",
+    "note": "1774-1776 vystavěl nový zámek v Dubové (Horní Vikštejn), hrad byl opuštěn; roky držby neuvedeny"
+   },
+   {
+    "owner": "razumovsti",
+    "owner_wiki": "Razumovští",
+    "person": "rod Razumovských (od 1892 říšští hrabata 'z Vikštejna')",
+    "from": 1886,
+    "to": 1945,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "archeologický atlas: poslední majitelé panství; počátek držby neuveden; 1945 jim panství zkonfiskováno; dnešního vlastníka hradu zdroje neuvádějí"
    }
   ],
   "events": [
@@ -11221,7 +11278,9 @@
    "https://www.hrady.cz/hrad-vikstejn-opava/texty?tid=26898",
    "https://www.atlasceska.cz/pamatky/zricenina-hradu-vikstejn-23893",
    "https://www.nizkyjesenik.cz/seznam/vikstejn/index.htm",
-   "https://www.archeologickyatlas.cz/cs/lokace/radkov_op_hrad_vikstejn"
+   "https://www.archeologickyatlas.cz/cs/lokace/radkov_op_hrad_vikstejn",
+   "http://www.hrady.dejiny.cz/vikstejn/",
+   "https://palaceslaska.pl/index.php/indeks-alfabetyczny/v/1570-vikstejn"
   ]
  },
  "Q1014392": {
@@ -11443,7 +11502,7 @@
     "from_approx": true,
     "to_approx": false,
     "how": "neznamo",
-    "note": "první nesporná zmínka o rožmberském vlastnictví 1369; hrad spravovali purkrabí; 1394-1396 krátce hrabě Sigost z Halsu (věno Elišky z Halsu), 1396 získán zpět výměnou; 1421 obsazen husity (cs.wiki: Janem Žižkou), posádky vedli Vilém Kostka z Postupic, Bohuslav ze Švamberka a Svojše ze Zahrádky, v letech 1438-1442 zástava Zbyňka z Kočova, 1444 opět Svojše; po smrti Elišky 1444 uplatňoval nárok Oldřich z Rožmberka"
+    "note": "NPÚ a hrady.cz: Rožmberkové (Petr z Rožmberka) hrad získali již před 1360 (rok 1362 z cs.wiki, rozpor nevyřešen); první nesporná zmínka o rožmberském vlastnictví 1369; hrad spravovali purkrabí; 1394-1396 krátce hrabě Sigost z Halsu (věno Elišky z Halsu), 1396 získán zpět výměnou; 1421 obsazen husity (cs.wiki: Janem Žižkou), posádky vedli Vilém Kostka z Postupic, Bohuslav ze Švamberka a Svojše ze Zahrádky, v letech 1438-1442 zástava Zbyňka z Kočova, 1444 opět Svojše; po smrti Elišky 1444 uplatňoval nárok Oldřich z Rožmberka"
    },
    {
     "owner": "pani-z-donina",
@@ -11460,23 +11519,23 @@
     "owner": "bubnove-z-litic",
     "owner_wiki": "Bubnové z Litic",
     "person": "Jan Varlejch z Bubna, poté bratr Václav",
-    "from": 1514,
-    "to": 1551,
+    "from": 1500,
+    "to": 1544,
     "from_approx": true,
     "to_approx": true,
     "how": "koupe",
-    "note": "Jan Varlejch uváděn zde poprvé 1514 (cs.wiki: 1514-1525 [ujasnit]), zemřel 1531-1533; bratr a dědic Václav prodal Vlčtejn Janu z Roupova"
+    "note": "NPÚ: Jan Varlejch koupil Vlčtejn asi 1500 od Bedřicha z Donína (vnuka) a zemřel 1531-1533; hrady.cz a cs.wiki: koupil 1514-1525 [ujasnit]; Jan Varlejch uváděn zde poprvé 1514 (cs.wiki: 1514-1525 [ujasnit]), zemřel 1531-1533; bratr a dědic Václav prodal Vlčtejn Janu z Roupova"
    },
    {
     "owner": "pani-z-roupova",
     "owner_wiki": "Páni z Roupova",
     "person": "Jan z Roupova, od 1543 syn Kryštof z Roupova",
-    "from": 1551,
+    "from": 1544,
     "to": 1587,
     "from_approx": true,
     "to_approx": true,
     "how": "koupe",
-    "note": "Jan z Roupova sídlil na Roupově, hrad spravoval purkrabí, zemřel 1540; při dělení 1543 připadl Vlčtejn Kryštofovi, který 1587 koupil Libochovany a plzeňské statky rozprodal"
+    "note": "NPÚ: hrad přešel k pánům z Roupova po smrti Jana Varlejcha z Bubna (1531-1533), Kryštof prodal Hradišťským mezi 1587-1589; Jan z Roupova sídlil na Roupově, hrad spravoval purkrabí, zemřel 1540; při dělení 1543 připadl Vlčtejn Kryštofovi, který 1587 koupil Libochovany a plzeňské statky rozprodal"
    },
    {
     "owner": "hradiststi-z-horovic",
@@ -11575,7 +11634,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "koupe",
-    "note": "koupil Vlčtejnský dvůr s hradem od Pálffyů; ve 40. letech Spolek pro záchranu hradu Vlčtejna (Jan Hejtmánek), konzervace 1946-1948, 1953 hrad převzaly státní instituce (okres, MNV, KNV Plzeň); hrady.dejiny.cz (stav 2001) uvádí majitele 'fyzická osoba'; dnešní vlastník a přesné převody nejsou ve zdrojích doloženy"
+    "note": "koupil Vlčtejnský dvůr s hradem od Pálffyů; ve 40. letech Spolek pro záchranu hradu Vlčtejna (Jan Hejtmánek), konzervace 1946-1948, 1953 hrad převzaly státní instituce (okres, MNV, KNV Plzeň); hrady.dejiny.cz (stav 2001) a hrady.cz uvádějí soukromého majitele; dnešní vlastník a přesné převody nejsou ve zdrojích doloženy"
    }
   ],
   "events": [
@@ -11619,6 +11678,8 @@
   "sources": [
    "https://cs.wikipedia.org/wiki/Vlčtejn_(hrad)",
    "http://hrady.dejiny.cz/vlctejn/",
+   "https://www.npu.cz/cs/hrady-a-zamky/tipy-na-vylet/6277-zricenina-hradu-vlctejn",
+   "https://www.hrady.cz/hrad-vlctejn-vildstejn",
    "https://www.vlctejn.cz/obec/hrad-vlctejn/historie/",
    "https://www.ohradech.eu/vlctejn.html",
    "https://www.mistopis.eu/mistopiscr/plzensko/blovicko-nepomucko/vlctejn/vlctejn.htm"
@@ -19620,7 +19681,7 @@
     "owner_wiki": null,
     "person": "Vojslav z Lublic",
     "from": 1260,
-    "to": 1426,
+    "to": 1382,
     "from_approx": true,
     "to_approx": true,
     "how": "zalozeni",
@@ -19629,24 +19690,24 @@
    {
     "owner": "birkove-z-nasile",
     "owner_wiki": "Bírkové z Násile",
-    "person": "Hynčík Bírka z Násile",
-    "from": 1426,
-    "to": 1592,
+    "person": "Hynčík Bírka z Násile (zemřel po 1502), poté jeho syn Jindřich",
+    "from": 1382,
+    "to": 1503,
     "from_approx": true,
-    "to_approx": true,
+    "to_approx": false,
     "how": "neznamo",
-    "note": "hrady.cz: ve 2. polovině 15. století rozšířil hrad o zděné předhradí a pozdně gotickou budovu 's největší pravděpodobností' Hynčík Bírka z Násile; roky držby neuvedeny"
+    "note": "hrady.cz: ve 2. polovině 15. století rozšířil hrad o zděné předhradí a pozdně gotickou budovu 's největší pravděpodobností' Hynčík Bírka z Násile; palaceslaska.pl: statek 1503 prodal syn Jindřich, který odešel do Dolního Slezska; počátek držby neuveden"
    },
    {
     "owner": "bruntalsti-z-vrbna",
     "owner_wiki": "Bruntálští z Vrbna",
-    "person": "Albrecht Bruntálský z Vrbna, poté bratr Štěpán",
-    "from": 1592,
+    "person": "Bernard z Vrbna (zemřel 1529), poté Albrecht (zemřel 1541), Jan a Albrecht (zemřel před 1595), poté bratr Štěpán",
+    "from": 1503,
     "to": 1595,
-    "from_approx": false,
+    "from_approx": true,
     "to_approx": false,
-    "how": "neznamo",
-    "note": "hrady.cz zmiňuje Vrbny již v polovině 16. stol. a Štěpánův prodej 1600 (jiná data než obec a cs.wiki obce)"
+    "how": "koupe",
+    "note": "palaceslaska.pl: po prodeji Bírků 1503 získali Heraltice Vrbnové a drželi je do konce 16. stol.; cs.wiki obce a mistopisy.cz uvádějí až rok 1592 (přechod na Albrechta); hrady.cz zmiňuje Štěpánův prodej 1600 (palaceslaska.pl: 1595 nebo 1600)"
    },
    {
     "owner": "sedlnicti-z-choltic",
@@ -19673,13 +19734,13 @@
    {
     "owner": "oppersdorfove",
     "owner_wiki": "Oppersdorfové",
-    "person": "Václav z Oppersdorfu, svobodný pán z Dubu a Frýdštejna",
+    "person": "Václav z Oppersdorfu, svobodný pán z Dubu a Frýdštejna (1590-1644), poté syn Jan Václav",
     "from": 1618,
     "to": 1668,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "koupe",
-    "note": "koupě 11. 12. 1618, dekret od Slezské dvorní komory až 1628; rok konce nepřesný (do 1668)"
+    "note": "koupě 11. 12. 1618, dekret od Slezské dvorní komory až 1628; palaceslaska.pl: 1668 prodal Jan Václav z Oppersdorfu Jiřímu Štěpánovi z Vrbna"
    },
    {
     "owner": "bruntalsti-z-vrbna",
@@ -19734,12 +19795,12 @@
     "from_approx": false,
     "to_approx": true,
     "how": "koupe",
-    "note": "rok konce odvozen z počátku držby Bellegardů"
+    "note": "rok konce odvozen z počátku držby Bellegardů; palaceslaska.pl a mistopisy.cz: první Bellegarde na panství František (1833-1912), manžel Rudolfiny rozené Kinské (1836-1899), přechod z Kinských nespecifikován"
    },
    {
     "owner": "bellegardove",
     "owner_wiki": null,
-    "person": "hrabata Bellegarde (August Bellegarde, po jeho smrti 1929 dcery Marie Karolina a Eliška)",
+    "person": "hrabata Bellegarde (František Bellegarde, poté syn August, po jeho smrti 1929 dcery Marie Karolina a Eliška)",
     "from": 1899,
     "to": 1945,
     "from_approx": false,
@@ -19809,7 +19870,9 @@
    "https://cs.wikipedia.org/wiki/Velké_Heraltice",
    "https://www.mistopisy.cz/pruvodce/obec/10449/velke-heraltice/historie/",
    "https://www.hrady.cz/zamek-velke-heraltice/",
-   "https://opavsky.denik.cz/zpravy-region/z-historie-regionu-heralticky-zamek-patri-na-opavsku-k-tem-nejvyznamnejsim/"
+   "https://opavsky.denik.cz/zpravy-region/z-historie-regionu-heralticky-zamek-patri-na-opavsku-k-tem-nejvyznamnejsim/",
+   "https://www.palaceslaska.pl/index.php/indeks-alfabetyczny/v/1566-velke-heraltice",
+   "https://www.atlasceska.cz/pamatky/zamek-velke-heraltice-20399"
   ]
  },
  "Q11878928": {
