@@ -142,6 +142,8 @@ const PICTOGRAMS = {
 
 // pictograms need more room than the old circles / squares to stay readable; sizes elsewhere stay as they were
 const PICTO_SCALE = 1.35;
+// light outline around every glyph (px added to the stroke) so it stays apart from the base map and its own icons
+const HALO = 3;
 
 /** Pixel size of the square SVG that glyph() draws for a style size. */
 export function glyphBox(size) {
@@ -156,6 +158,7 @@ export function glyph(kind, { size, fill, stroke, strokeWidth = 2, check = false
   const t = r * 0.42; // tick in the solid lower half of every pictogram
   const tick = check ? `<path d="M${-t} ${r * 0.42} l${t * 0.7} ${t * 0.7} l${t * 1.3} ${-t * 1.3}" fill="none" stroke="#fff" stroke-width="${Math.max(1.6, r * 0.24)}" stroke-linecap="round" stroke-linejoin="round"/>` : "";
   return `<svg width="${box}" height="${box}" viewBox="${-c} ${-c} ${box} ${box}" style="opacity:${opacity}">
+    <path d="${d}" transform="scale(${r})" fill="var(--mk-bg)" stroke="var(--mk-bg)" stroke-width="${strokeWidth + HALO}" vector-effect="non-scaling-stroke" stroke-linejoin="round" fill-rule="evenodd" opacity=".85"/>
     <path d="${d}" transform="scale(${r})" fill="${fill}" stroke="${stroke}" stroke-width="${strokeWidth}" vector-effect="non-scaling-stroke" stroke-linejoin="round" fill-rule="evenodd"/>${tick}</svg>`;
 }
 
