@@ -22928,6 +22928,15 @@
     "to_approx": false
    },
    {
+    "place": "Q31710208",
+    "from": 1599,
+    "to": 1848,
+    "person": "Karel I. z Lichtenštejna",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": true
+   },
+   {
     "place": "Q33317426",
     "from": 1699,
     "to": 1945,
@@ -23476,6 +23485,20 @@
     "how": "koupe"
    },
    {
+    "place": "Q31710208",
+    "year": 1599,
+    "from": "pernstejnove",
+    "to": "lichtenstejnove",
+    "how": "koupe"
+   },
+   {
+    "place": "Q31710208",
+    "year": 1851,
+    "from": "lichtenstejnove",
+    "to": "soukromnik",
+    "how": "koupe"
+   },
+   {
     "place": "Q33317426",
     "year": 1945,
     "from": "lichtenstejnove",
@@ -23602,7 +23625,7 @@
     "how": "konfiskace"
    }
   ],
-  "place_count": 30,
+  "place_count": 31,
   "color_slot": 5
  },
  "lindelove": {
@@ -38517,6 +38540,51 @@
     "to_approx": false
    },
    {
+    "place": "Q31710208",
+    "from": 1522,
+    "to": 1548,
+    "person": "Jan IV. z Pernštejna",
+    "how": "zalozeni",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q31710208",
+    "from": 1548,
+    "to": 1561,
+    "person": "synové Jana IV. z Pernštejna (Vojtěch II., Vratislav II. aj.)",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q31710208",
+    "from": 1561,
+    "to": 1582,
+    "person": "Vratislav II. z Pernštejna",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q31710208",
+    "from": 1582,
+    "to": 1597,
+    "person": "Jan V. z Pernštejna",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q31710208",
+    "from": 1597,
+    "to": 1599,
+    "person": "Marie Manrique de Lara a děti Jana V.",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
     "place": "Q33417123",
     "from": 1532,
     "to": 1548,
@@ -38885,6 +38953,13 @@
     "how": "koupe"
    },
    {
+    "place": "Q31710208",
+    "year": 1599,
+    "from": "pernstejnove",
+    "to": "lichtenstejnove",
+    "how": "koupe"
+   },
+   {
     "place": "Q33417123",
     "year": 1548,
     "from": "pernstejnove",
@@ -38983,8 +39058,8 @@
     "how": "koupe"
    }
   ],
-  "place_count": 28,
-  "color_slot": 7
+  "place_count": 29,
+  "color_slot": 6
  },
  "petipesti-z-chys-a-egerberka": {
   "id": "petipesti-z-chys-a-egerberka",
@@ -57127,7 +57202,7 @@
    }
   ],
   "place_count": 29,
-  "color_slot": 6
+  "color_slot": 7
  },
  "vasovci": {
   "id": "vasovci",
@@ -94558,6 +94633,15 @@
     "to_approx": false
    },
    {
+    "place": "Q31710208",
+    "from": 1948,
+    "to": null,
+    "person": "Statutární město Prostějov",
+    "how": "jine",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
     "place": "Q31731738",
     "from": 2002,
     "to": null,
@@ -96223,6 +96307,13 @@
     "how": "koupe"
    },
    {
+    "place": "Q31710208",
+    "year": 1948,
+    "from": "soukromnik",
+    "to": "mesto",
+    "how": "jine"
+   },
+   {
     "place": "Q31731738",
     "year": 2002,
     "from": "stat",
@@ -96622,7 +96713,7 @@
     "how": "neznamo"
    }
   ],
-  "place_count": 161,
+  "place_count": 162,
   "color_slot": null
  },
  "soukromnik": {
@@ -99526,6 +99617,33 @@
     "to": 1662,
     "person": "Alena Eliška Solmsová, Rozina Kateřina Chuchelská a Anna Žofie Mulcerová",
     "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q31710208",
+    "from": 1851,
+    "to": 1868,
+    "person": "Fortunát Hoffman",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": true
+   },
+   {
+    "place": "Q31710208",
+    "from": 1868,
+    "to": 1893,
+    "person": "Josefína a Eduard Chmelařovi",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q31710208",
+    "from": 1893,
+    "to": 1948,
+    "person": "Úvěrní spolek Záložna a zastavárna v Prostějově",
+    "how": "koupe",
     "from_approx": false,
     "to_approx": false
    },
@@ -103148,6 +103266,20 @@
     "how": "koupe"
    },
    {
+    "place": "Q31710208",
+    "year": 1851,
+    "from": "lichtenstejnove",
+    "to": "soukromnik",
+    "how": "koupe"
+   },
+   {
+    "place": "Q31710208",
+    "year": 1948,
+    "from": "soukromnik",
+    "to": "mesto",
+    "how": "jine"
+   },
+   {
     "place": "Q31876033",
     "year": 1799,
     "from": "zadubsti-ze-schonthalu",
@@ -104044,7 +104176,7 @@
     "how": "koupe"
    }
   ],
-  "place_count": 172,
+  "place_count": 173,
   "color_slot": null
  }
 }
