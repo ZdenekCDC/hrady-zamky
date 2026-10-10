@@ -153,7 +153,7 @@ Stav k 2026-10-04: web běží na GitHub Pages (<https://zdenekcdc.github.io/hra
 
 ## Zpětná vazba a návštěvnost webu
 
-Grilling hotov 2026-10-10, rozhodnutí jsou v `docs/zadani-analytika-a-zpetna-vazba.md`. Dvě nezávislé úlohy, pořadí podle toho:
+Grilling hotov 2026-10-10, obě úlohy jsou implementovány, zbývá ověřit na živém webu po pushi (zadání s rozhodnutími je jen lokálně mimo git a po ověření se smaže):
 
 - [x] Zpětná vazba (2026-10-10, hotovo včetně e-mailu v `FEEDBACK_EMAIL_B64`; ověřit živý formulář po pushi): odkaz "Navrhni vylepšení / chybu" v patičce a tlačítko "Opravit údaj o tomto místě" v detailu místa s předvyplněným QID (GitHub Issues se šablonou, plus `mailto:` na soukromou Gmail adresu s `+hrady` skládanou skriptem). Adresu zadat až v kódu. E2E test na QID v odkazu.
 - [x] Analytika (2026-10-10, kód `zdenekcdc`, ověřit data v dashboardu po pushi): GoatCounter (jeden vyjmutelný `<script>`, jen zobrazení stránky a případně země, věta o soukromí v patičce). Před nasazením znovu ověřit podmínky.
