@@ -27307,6 +27307,15 @@
   "related": [],
   "places": [
    {
+    "place": "Q1014388",
+    "from": 1713,
+    "to": 1790,
+    "person": "Arnošt Matyáš Mitrovský (zemřel 1748, od 1716 svobodný pán), poté jeho synové",
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": true
+   },
+   {
     "place": "Q1104565",
     "from": 1622,
     "to": 1639,
@@ -27362,6 +27371,20 @@
    }
   ],
   "transfers": [
+   {
+    "place": "Q1014388",
+    "year": 1713,
+    "from": "reichove",
+    "to": "mitrovsti-z-mitrovic-a-nemysle",
+    "how": "koupe"
+   },
+   {
+    "place": "Q1014388",
+    "year": 1790,
+    "from": "mitrovsti-z-mitrovic-a-nemysle",
+    "to": "soukromnik",
+    "how": "neznamo"
+   },
    {
     "place": "Q1104565",
     "year": 1622,
@@ -27426,7 +27449,7 @@
     "how": "konfiskace"
    }
   ],
-  "place_count": 5,
+  "place_count": 6,
   "color_slot": null
  },
  "mladotove-ze-solopisk": {
@@ -41760,7 +41783,7 @@
   "places": [
    {
     "place": "Q1014388",
-    "from": 1886,
+    "from": 1868,
     "to": 1945,
     "person": "rod Razumovských (od 1892 říšští hrabata 'z Vikštejna')",
     "how": "neznamo",
@@ -41798,7 +41821,7 @@
   "transfers": [
    {
     "place": "Q1014388",
-    "year": 1886,
+    "year": 1868,
     "from": "soukromnik",
     "to": "razumovsti",
     "how": "neznamo"
@@ -41973,11 +41996,11 @@
    {
     "place": "Q1014388",
     "from": 1708,
-    "to": 1767,
+    "to": 1713,
     "person": "Marie Františka Apolena z Reichu",
     "how": "koupe",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    }
   ],
   "transfers": [
@@ -41990,10 +42013,10 @@
    },
    {
     "place": "Q1014388",
-    "year": 1767,
+    "year": 1713,
     "from": "reichove",
-    "to": "z-nemysle",
-    "how": "neznamo"
+    "to": "mitrovsti-z-mitrovic-a-nemysle",
+    "how": "koupe"
    }
   ],
   "place_count": 1,
@@ -67558,41 +67581,6 @@
     "from": "z-nemosic",
     "to": "trckove-z-lipy",
     "how": "jine"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
- "z-nemysle": {
-  "id": "z-nemysle",
-  "type": "rod",
-  "name": "z-nemysle",
-  "related": [],
-  "places": [
-   {
-    "place": "Q1014388",
-    "from": 1767,
-    "to": 1826,
-    "person": "Ernst Matyáš Mitrovský (zemřel 1748, od 1716 český baron), poté jeho synové",
-    "how": "neznamo",
-    "from_approx": true,
-    "to_approx": true
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q1014388",
-    "year": 1767,
-    "from": "reichove",
-    "to": "z-nemysle",
-    "how": "neznamo"
-   },
-   {
-    "place": "Q1014388",
-    "year": 1826,
-    "from": "z-nemysle",
-    "to": "soukromnik",
-    "how": "neznamo"
    }
   ],
   "place_count": 1,
@@ -97327,8 +97315,8 @@
    },
    {
     "place": "Q1014388",
-    "from": 1826,
-    "to": 1886,
+    "from": 1790,
+    "to": 1868,
     "person": "Jan Julius Frobel",
     "how": "neznamo",
     "from_approx": true,
@@ -101377,14 +101365,14 @@
    },
    {
     "place": "Q1014388",
-    "year": 1826,
-    "from": "z-nemysle",
+    "year": 1790,
+    "from": "mitrovsti-z-mitrovic-a-nemysle",
     "to": "soukromnik",
     "how": "neznamo"
    },
    {
     "place": "Q1014388",
-    "year": 1886,
+    "year": 1868,
     "from": "soukromnik",
     "to": "razumovsti",
     "how": "neznamo"
