@@ -151,6 +151,14 @@ Stav k 2026-10-04: web běží na GitHub Pages (<https://zdenekcdc.github.io/hra
 - [x] Barvoslepost ikon: čtyři hlavní druhy (hrad, zámek, hrad a zámek, zřícenina) v zemité paletě (výchozí) validátor prošel (2026-10-03). Ostatní témata (kámen, sytá, pastelová) a všech 17 druhů pohromadě barvami samotnými neprojdou, ale druh nese tvar piktogramu a při najetí ho jmenuje tooltip slovy (hlídá E2E test), takže barva není jediný nosič informace; přebarvování dalších témat se nevyplatí.
 - [ ] Stroj času: po `fetch_founded.py` (2026-10-03, odhad z textu cs.wiki: 241 vznik, 138 první zmínka; přesnost ~85 %, vzorek zkontrolován) zbývalo 1462 míst bez data vzniku i první zmínky (2026-10-10 oprava: v cache článků zůstalo `&nbsp;` a regexy na "v roce" / "14. století" nesedly, po opravě 598 odhadů místo 397, zbývá ~1270 míst bez data (2026-10-10 dále 196 přístupných míst doplněno z cs.wiki, hrady.cz a ověřených historií: jen u vstupne a volne, zbývá ~17 přístupných bez zdroje a ~950 neznamo); zkoušený zpětný vzor ("roku 1780 nechal postavit") dával přes 40 % chyb (kaple, zvonice, "nový zámek"), použit jen rozsah "mezi lety / v letech"; `fetch_founded.py` doplnil z Wikidata P1249 18 prvních zmínek a už nepřepisuje dřívější odhady; u zbytku cs.wiki rok neuvádí). Volba "skrýt místa bez data vzniku" je tedy stále potřeba; další zdroje: NPÚ památkový katalog, hrady.cz. Odhad v `data/founded.json` je třeba občas vzorkově kontrolovat (regulární výrazy v `scripts/fetch_founded.py`).
 
+## Zpětná vazba a návštěvnost webu
+
+- [ ] Sběr návštěvnosti (analytika bez cookies, např. GoatCounter / Plausible / Umami) a zpětná vazba od uživatelů (odkaz "Navrhni vylepšení / chybu", tlačítko "Opravit údaj o tomto místě" s předvyplněným QID, GitHub Issues nebo formulář). **Před implementací je nutný grilling** (skill `grilling`), zadání s výchozím návrhem a otázkami je v `docs/zadani-analytika-a-zpetna-vazba.md`. Ověřit aktuální podmínky a limity vybrané služby a GDPR.
+
+## Další zdroje dat
+
+- [ ] Ověřit, zda lze k doplnění informací (data vzniku, první zmínky, přístupnost, majitelé) použít <https://www.hrady.cz/> nebo dílo Augusta Sedláčka, *Hrady, zámky a tvrze Království českého* (14 dílů). Zjistit: podmínky použití a autorská práva (Sedláček zemřel 1926, text bude pravděpodobně volné dílo, ověřit konkrétní vydání a digitalizaci), zda je text strojově dostupný, jak široké pokrytí mají (Sedláček jen Čechy, ne Morava a Slezsko) a zda se hodí jako druhý zdroj k ověření historií a dat vzniku. Teprve potom rozhodnout o stahování; nic se zatím nestahuje.
+
 ## Návštěvy pro více uživatelů
 
 - [ ] Volitelně později, pokud to bude používat víc lidí napříč zařízeními i ve Firefoxu / Safari: hostovaný backend (Supabase / Firebase) s přihlášením; stávající režimy nechat jako variantu bez účtu. Ověřit aktuální limity bezplatných tarifů a GDPR (ukládání e-mailů).
