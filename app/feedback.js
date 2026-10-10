@@ -18,10 +18,11 @@ function mailtoUrl() {
   return `mailto:${user}${FEEDBACK_TAG ? "+" + FEEDBACK_TAG : ""}@${domain}?subject=${encodeURIComponent("Hrady a zámky: návrh")}`;
 }
 
-export function initFooter() {
+export function initFooter(analytics) {
   const mail = mailtoUrl();
   document.getElementById("foot").innerHTML =
     `<a href="${esc(issueUrl("napad.yml", {}))}" target="_blank" rel="noopener">Navrhni vylepšení / chybu</a>` +
     ` · <a href="${esc(issueUrl("chybejici-misto.yml", {}))}" target="_blank" rel="noopener">Chybí místo?</a>` +
-    (mail ? ` · <a href="${esc(mail)}">napsat e-mailem (bez účtu GitHub)</a>` : "");
+    (mail ? ` · <a href="${esc(mail)}">napsat e-mailem (bez účtu GitHub)</a>` : "") +
+    (analytics ? ` · <span class="privacy">Web nepoužívá cookies a měří jen anonymní počet návštěv (<a href="https://www.goatcounter.com/help/gdpr" target="_blank" rel="noopener">GoatCounter</a>).</span>` : "");
 }

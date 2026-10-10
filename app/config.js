@@ -9,3 +9,7 @@ export const MAPY_API_KEY = "6cwwWh-9nAvPhDp8n7-xxgHGcdV-6CA3B6RwBevANqM";
 export const FEEDBACK_REPO = "ZdenekCDC/hrady-zamky";
 export const FEEDBACK_EMAIL_B64 = "emRlbmVrLmNkY0BnbWFpbC5jb20=";
 export const FEEDBACK_TAG = "hrady";
+
+// Analytics: GoatCounter site code (https://CODE.goatcounter.com). Empty = no analytics script is loaded
+// and the privacy note in the footer is hidden. Counts page loads only (hash navigation is not counted).
+export const GOATCOUNTER_CODE = "zdenekcdc";

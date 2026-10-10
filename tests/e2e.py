@@ -392,6 +392,8 @@ def main():
         assert (ROOT / ".github" / "ISSUE_TEMPLATE" / fix_q["template"][0]).exists(), "issue template missing for the correction link"
         foot = page.inner_text("#foot")
         assert "Navrhni vylepšení / chybu" in foot and page.locator("#foot a[href*='napad.yml']").count() == 1, f"footer feedback link missing: {foot}"
+        assert page.locator("#foot .privacy a[href*='goatcounter']").count() == 1, "privacy note about GoatCounter missing in the footer"
+        assert page.locator("script[data-goatcounter='https://zdenekcdc.goatcounter.com/count']").count() == 1, "GoatCounter script not loaded"
         mail = page.get_attribute("#foot a[href^='mailto:']", "href")
         assert mail.startswith("mailto:zdenek.cdc+hrady@gmail.com?"), f"footer e-mail link not composed from the config: {mail}"
         assert all("gmail" not in (ROOT / f).read_text() for f in ("index.html", "app/config.js", "app/feedback.js")), \
