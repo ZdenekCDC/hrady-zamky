@@ -1711,6 +1711,17 @@
     "note": "dcera Viléma II. Anna obhájila dědictví u komorního soudu; po smrti Viléma 1575 Jindřich získal dědičné potvrzení od Maxmiliána II., zemřel 1590; dědicové majetek rozprodávali"
    },
    {
+    "owner": "z-milice-a-pencelina",
+    "owner_wiki": null,
+    "person": "Joachym Malcan z Milíče a Pencelína",
+    "from": 1591,
+    "to": 1592,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "jine",
+    "note": "po rozprodávání Kurzpachova dědictví; kvůli dluhům hrad 1592 prodal Janu Sezimovi (de8.cz, cz-milka.net uvádějí 1591 pro získání)"
+   },
+   {
     "owner": "sezimove-z-usti",
     "owner_wiki": "Sezimové z Ústí",
     "person": "Jan Sezima ze Sezimova Ústí",
@@ -1726,33 +1737,44 @@
     "owner_wiki": null,
     "person": "jezuité (liběšické panství)",
     "from": 1622,
-    "to": 1887,
+    "to": 1838,
     "from_approx": false,
     "to_approx": true,
     "how": "konfiskace",
-    "note": "hrad připojen k panství s centrem v Liběšicích a upadl v zapomnění; doba držení neuvedena"
+    "note": "hrad připojen k liběšickému panství a upadl v zapomnění; de8.cz uvádí panství v majetku jezuitů až do 1838 (nepřesné, řád zrušen 1773 - rok držení jezuitů ověřen není)"
+   },
+   {
+    "owner": "lobkovicove",
+    "owner_wiki": "Lobkovicové",
+    "person": "kníže Ferdinand Lobkovic",
+    "from": 1838,
+    "to": 1871,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "koupe",
+    "note": "koupil liběšické panství; 1871 jej prodal Josefu Schrollovi (de8.cz)"
    },
    {
     "owner": "soukromnik",
     "owner_wiki": null,
-    "person": "Josef von Schroll",
-    "from": 1887,
-    "to": 1956,
+    "person": "Josef von Schroll (a jeho potomci)",
+    "from": 1871,
+    "to": 1945,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "koupe",
-    "note": "majitel panství, 1887-1890 opravil věž a využil ji jako letní sídlo; konec držení zdroje neuvádějí"
+    "note": "textilní průmyslník z Broumova, 1871 koupil liběšické panství i s hradem; 1887-1890 opravil věž a využil ji jako letní sídlo (de8.cz: 1889), zemřel 1901; potomci drželi do 1945 (cs.wiki: zříceninu koupil 1887)"
    },
    {
     "owner": "mesto",
     "owner_wiki": null,
     "person": "město Úštěk",
-    "from": 1956,
+    "from": 1945,
     "to": null,
     "from_approx": true,
     "to_approx": false,
     "how": "jine",
-    "note": "dnešní vlastník; rok přechodu zdroje neuvádějí; péči od 60. let 20. stol. zajišťoval Český svaz ochránců přírody, od 1978 dobrovolníci (dnes Spolek Hrádek Helfenburk)"
+    "note": "dnešní vlastník; rok přechodu na město zdroje výslovně neuvádějí (1945 je jen konec držení Schrollů, mezitím neznámo); rok přechodu zdroje neuvádějí; péči od 60. let 20. stol. zajišťoval Český svaz ochránců přírody, od 1978 dobrovolníci (dnes Spolek Hrádek Helfenburk)"
    }
   ],
   "events": [
@@ -1792,7 +1814,9 @@
   "sources": [
    "https://cs.wikipedia.org/wiki/Helfenburk_u_Úštěka",
    "https://www.hrady.cz/hrad-helfenburk-u-usteka/texty?pos=1000&tid=9379",
-   "https://www.mesto-ustek.cz/helfenburk/d-144141"
+   "https://www.mesto-ustek.cz/helfenburk/d-144141",
+   "https://de8.cz/D8/turistika/helfenburk.htm",
+   "https://www.cz-milka.net/pamatky/01-zriceniny/helfenburk/"
   ]
  },
  "Q1012297": {
@@ -13188,22 +13212,22 @@
     "owner_wiki": null,
     "person": "Jan Lucemburský (Koruna česká)",
     "from": 1322,
-    "to": 1674,
+    "to": 1895,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "lenni",
-    "note": "Chebsko získáno do trvalé zástavy české koruny listinou z 23. 10. 1322 (cs.wiki uvádí 'připojení'); falc se stala královským hradem, na konci 14. stol. začleněna do městského opevnění"
+    "note": "Chebsko získáno do trvalé zástavy české koruny listinou z 23. 10. 1322 (cs.wiki uvádí 'připojení'); falc se stala královským hradem, na konci 14. stol. začleněna do městského opevnění; rok 1895 (připadl městu) podle encyklopedie.cheb.cz; předchozího držitele zdroj nejmenuje"
    },
    {
     "owner": "mesto",
     "owner_wiki": null,
     "person": "město Cheb",
-    "from": 1674,
+    "from": 1895,
     "to": null,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false,
     "how": "neznamo",
-    "note": "dnešní vlastník a provozovatel (město financuje opravy, kastelán, projekt Obnova Chebského hradu od 2018); rok převodu zdroje neuvádějí"
+    "note": "dnešní vlastník a provozovatel (město financuje opravy, kastelán, projekt Obnova Chebského hradu od 2018); rok 1895 uvádí encyklopedie.cheb.cz (\"kdy připadl hrad městu\"); způsob nabytí neuveden; podle téhož zdroje falc přešla k Přemyslu Otakarovi II. až 1267, cs.wiki/TIC dávají 1266 (ponecháno)"
    }
   ],
   "events": [
@@ -13239,6 +13263,7 @@
   "sources": [
    "https://cs.wikipedia.org/wiki/Cheb_(hrad)",
    "https://tic.cheb.cz/o-chebu/historie-chebu/",
+   "http://encyklopedie.cheb.cz/cz/encyklopedie/chebsky-hrad-2194",
    "https://exa.ai/library/publication/jnn6pms68fb",
    "https://www.mestocheb.cz/chebsky-hrad/d-988762",
    "https://www.idnes.cz/karlovy-vary/zpravy/chebsky-hrad-kasematy-hradby-falce-oprava-dotace.A170318_2313150_vary-zpravy_ba"
@@ -15339,13 +15364,13 @@
    {
     "owner": "soukromnik",
     "owner_wiki": null,
-    "person": "stavební družstvo Unimax Praha; provozovatelem je družstvo Nový Unimax",
+    "person": "stavební družstvo Unimax Praha (od 2008 současní vlastníci, družstvo Zámek Šebestián; provozovatel Nový Unimax)",
     "from": 1989,
     "to": null,
     "from_approx": false,
     "to_approx": false,
     "how": "jine",
-    "note": "koncem 1989 (NPÚ uvádí 1990) převedeno hospodářskou smlouvou, družstvo na rekonstrukci zámek nevyužilo a bylo v konkursu; dnešní vlastník je uváděn jen jako soukromý, přesné jméno zdroje neuvádějí; od 2011 opravy, 2013 zpřístupněn, 2020 rozsáhlá rekonstrukce"
+    "note": "koncem 1989 (NPÚ uvádí 1990) převedeno hospodářskou smlouvou, družstvo na rekonstrukci zámek nevyužilo a bylo v konkursu; 1996 konkurz Unimaxu, 2008 do původního družstva vstoupili současní vlastníci (Castrum); NPÚ a Deník 2023 uvádějí dnešního vlastníka jako družstvo Zámek Šebestián (majitel Daniel David), přesné jméno zdroje neuvádějí; od 2011 opravy, 2013 zpřístupněn, 2020 rozsáhlá rekonstrukce"
    }
   ],
   "events": [
@@ -15387,7 +15412,9 @@
    "https://www.soupispamatek.cz/arl-kcz/en/detail-kcz_un_auth-0000260-Chateau-cervena-recice/",
    "https://www.hrady.cz/zamek-cervena-recice",
    "https://www.npu.cz/cs/generalni-reditelstvi-npu/inspirujte-se/5183-zamek-v-cervene-recici",
-   "https://www.cervenarecice.cz/popis-objektu/"
+   "https://www.cervenarecice.cz/popis-objektu/",
+   "https://www.castrum.cz/region/pamatky-v-regionu/zamek-cervena-recice/",
+   "https://www.npu.cz/cs/uop-telc/pro-media/69304-na-zamku-v-cervene-recici-probiha-rozsahla-obnova"
   ]
  },
  "Q11176339": {
@@ -15617,7 +15644,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "konfiskace",
-    "note": "majetek ve správě královské komory, v Chomutově a na Červeném hrádku ji zastupoval Jan Cetlpergár"
+    "note": "hrady.cz uvádí správu komory do 1606 (cs.wiki 1605 / 1606); majetek ve správě královské komory, v Chomutově a na Červeném hrádku ji zastupoval Jan Cetlpergár"
    },
    {
     "owner": "hrzanove-z-harasova",
@@ -15886,6 +15913,7 @@
    "https://cs.wikipedia.org/wiki/Červený_hrádek_(zámek,_Jirkov)",
    "https://www.zamek-cerveny-hradek.cz/prohlidky/historie-zamku/",
    "https://www.prehis.cz/turista/cechy/chomutov/p/chzamek.html",
+   "https://www.hrady.cz/zamek-cerveny-hradek",
    "https://www.jirkov.cz/volny-cas/kulturni-a-spolecenska-zarizeni/zamek-cerveny-hradek/"
   ]
  },

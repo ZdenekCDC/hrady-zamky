@@ -130,6 +130,17 @@
    "note": "dcera Viléma II. Anna obhájila dědictví u komorního soudu; po smrti Viléma 1575 Jindřich získal dědičné potvrzení od Maxmiliána II., zemřel 1590; dědicové majetek rozprodávali"
   },
   {
+   "owner": "z-milice-a-pencelina",
+   "owner_wiki": null,
+   "person": "Joachym Malcan z Milíče a Pencelína",
+   "from": 1591,
+   "to": 1592,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "jine",
+   "note": "po rozprodávání Kurzpachova dědictví; kvůli dluhům hrad 1592 prodal Janu Sezimovi (de8.cz, cz-milka.net uvádějí 1591 pro získání)"
+  },
+  {
    "owner": "sezimove-z-usti",
    "owner_wiki": "Sezimové z Ústí",
    "person": "Jan Sezima ze Sezimova Ústí",
@@ -149,18 +160,29 @@
    "from_approx": false,
    "to_approx": false,
    "how": "konfiskace",
-   "note": "hrad připojen k panství s centrem v Liběšicích a upadl v zapomnění; doba držení neuvedena"
+   "note": "hrad připojen k liběšickému panství a upadl v zapomnění; de8.cz uvádí panství v majetku jezuitů až do 1838 (nepřesné, řád zrušen 1773 - rok držení jezuitů ověřen není)"
+  },
+  {
+   "owner": "lobkovicove",
+   "owner_wiki": "Lobkovicové",
+   "person": "kníže Ferdinand Lobkovic",
+   "from": 1838,
+   "to": 1871,
+   "from_approx": false,
+   "to_approx": false,
+   "how": "koupe",
+   "note": "koupil liběšické panství; 1871 jej prodal Josefu Schrollovi (de8.cz)"
   },
   {
    "owner": "soukromnik",
    "owner_wiki": null,
-   "person": "Josef von Schroll",
-   "from": 1887,
-   "to": null,
+   "person": "Josef von Schroll (a jeho potomci)",
+   "from": 1871,
+   "to": 1945,
    "from_approx": false,
    "to_approx": false,
    "how": "koupe",
-   "note": "majitel panství, 1887-1890 opravil věž a využil ji jako letní sídlo; konec držení zdroje neuvádějí"
+   "note": "textilní průmyslník z Broumova, 1871 koupil liběšické panství i s hradem; 1887-1890 opravil věž a využil ji jako letní sídlo (de8.cz: 1889), zemřel 1901; potomci drželi do 1945 (cs.wiki: zříceninu koupil 1887)"
   },
   {
    "owner": "mesto",
@@ -171,7 +193,7 @@
    "from_approx": false,
    "to_approx": false,
    "how": "jine",
-   "note": "dnešní vlastník; rok přechodu zdroje neuvádějí; péči od 60. let 20. stol. zajišťoval Český svaz ochránců přírody, od 1978 dobrovolníci (dnes Spolek Hrádek Helfenburk)"
+   "note": "dnešní vlastník; rok přechodu na město zdroje výslovně neuvádějí (1945 je jen konec držení Schrollů, mezitím neznámo); rok přechodu zdroje neuvádějí; péči od 60. let 20. stol. zajišťoval Český svaz ochránců přírody, od 1978 dobrovolníci (dnes Spolek Hrádek Helfenburk)"
   }
  ],
  "events": [
@@ -211,6 +233,8 @@
  "sources": [
   "https://cs.wikipedia.org/wiki/Helfenburk_u_Úštěka",
   "https://www.hrady.cz/hrad-helfenburk-u-usteka/texty?pos=1000&tid=9379",
-  "https://www.mesto-ustek.cz/helfenburk/d-144141"
+  "https://www.mesto-ustek.cz/helfenburk/d-144141",
+  "https://de8.cz/D8/turistika/helfenburk.htm",
+  "https://www.cz-milka.net/pamatky/01-zriceniny/helfenburk/"
  ]
 }
