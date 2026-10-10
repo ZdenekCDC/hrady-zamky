@@ -1,5 +1,6 @@
 // Entry point: load data, hash routing, search, stats.
 import { KIND, esc, loadAll, norm } from "./data.js";
+import { initFooter } from "./feedback.js";
 import { initFamilies, showFamilies } from "./families.js";
 import { initMap, invalidate, showMapHome, showPlace } from "./map.js";
 import { initStats, showStats } from "./stats.js";
@@ -79,6 +80,7 @@ async function main() {
   initFamilies(D);
   initStats(D);
   initSearch();
+  initFooter();
   renderStats();
   window.addEventListener("hashchange", route);
   window.addEventListener("visits-changed", renderStats);

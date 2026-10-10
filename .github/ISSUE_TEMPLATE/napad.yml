@@ -1,0 +1,11 @@
+name: Návrh vylepšení nebo chyba webu
+description: Obecný nápad, chyba v zobrazení nebo něco, co na webu chybí
+title: "Návrh: "
+body:
+  - type: textarea
+    id: popis
+    attributes:
+      label: Co navrhuješ nebo co nefunguje
+      description: Pokud jde o chybu, napiš prohlížeč a zařízení.
+    validations:
+      required: true

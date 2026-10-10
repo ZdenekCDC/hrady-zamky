@@ -1,0 +1,22 @@
+name: Chybějící místo
+description: Hrad, zámek nebo jiná památka, která na mapě chybí
+title: "Chybí: "
+body:
+  - type: input
+    id: nazev
+    attributes:
+      label: Název místa
+    validations:
+      required: true
+  - type: input
+    id: obec
+    attributes:
+      label: Obec nebo poloha
+      description: Obec, okres nebo souřadnice.
+    validations:
+      required: true
+  - type: textarea
+    id: zdroj
+    attributes:
+      label: Zdroj
+      description: Odkaz na Wikipedii, Wikidata (QID) nebo web objektu.

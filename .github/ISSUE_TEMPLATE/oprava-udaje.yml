@@ -1,0 +1,38 @@
+name: Oprava údaje o místě
+description: Špatná přístupnost, rok vzniku, majitel nebo jiný údaj u konkrétního místa
+title: "Oprava: "
+body:
+  - type: input
+    id: misto
+    attributes:
+      label: Místo
+      description: Vyplní se samo z tlačítka "Opravit údaj o tomto místě" v detailu místa (název a QID z Wikidat).
+    validations:
+      required: true
+  - type: input
+    id: odkaz
+    attributes:
+      label: Odkaz na místo na webu
+  - type: dropdown
+    id: udaj
+    attributes:
+      label: Co je špatně
+      options:
+        - Přístupnost (volně / za vstupné / nepřístupné)
+        - Rok vzniku nebo první zmínka
+        - Majitel nebo správce
+        - Jiný údaj
+    validations:
+      required: true
+  - type: textarea
+    id: spravne
+    attributes:
+      label: Jak to má být
+      description: Správná hodnota a v čem je současná špatně.
+    validations:
+      required: true
+  - type: textarea
+    id: zdroj
+    attributes:
+      label: Zdroj
+      description: Odkaz nebo popis, kde se to dá ověřit (web objektu, Wikipedie, vlastní návštěva).

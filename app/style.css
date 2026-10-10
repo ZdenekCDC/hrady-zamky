@@ -258,6 +258,9 @@ select, input[type=search], input[type=number] {
 .stats { margin-left: auto; color: var(--text-secondary); white-space: nowrap; }
 .stats b { color: var(--text-primary); }
 
+.foot { flex: none; padding: 4px 16px; font-size: 12px; color: var(--text-muted); background: var(--surface-1); border-top: 1px solid var(--border); }
+.fix { margin: 0 0 8px; font-size: 12px; }
+
 main { flex: 1; min-height: 0; display: flex; }
 .view { flex: 1; min-height: 0; }
 #view-map { display: flex; }

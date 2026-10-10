@@ -14,7 +14,7 @@ import sys
 import tempfile
 import threading
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import parse_qs, urlparse
 
 from playwright.sync_api import sync_playwright
 
@@ -384,6 +384,18 @@ def main():
         assert credit.startswith("Foto: ") and credit.count(",") >= 2 and "Wikimedia Commons" in credit, \
             f"photo credit without author and license: {credit}"
         print("photo credit:", credit)
+        fix = urlparse(page.get_attribute("#d-fix", "href"))
+        fix_q = parse_qs(fix.query)
+        assert fix.path.endswith("/issues/new") and fix_q["template"] == ["oprava-udaje.yml"], f"bad correction link: {fix}"
+        assert fix_q["misto"] == [f"{kunet['name']} ({kunet['id']})"] and fix_q["odkaz"][0].endswith(f"#/misto/{kunet['id']}"), \
+            f"correction link does not carry the place: {fix_q}"
+        assert (ROOT / ".github" / "ISSUE_TEMPLATE" / fix_q["template"][0]).exists(), "issue template missing for the correction link"
+        foot = page.inner_text("#foot")
+        assert "Navrhni vylepšení / chybu" in foot and page.locator("#foot a[href*='napad.yml']").count() == 1, f"footer feedback link missing: {foot}"
+        mail = page.get_attribute("#foot a[href^='mailto:']", "href")
+        assert mail.startswith("mailto:zdenek.cdc+hrady@gmail.com?"), f"footer e-mail link not composed from the config: {mail}"
+        assert all("gmail" not in (ROOT / f).read_text() for f in ("index.html", "app/config.js", "app/feedback.js")), \
+            "the address must be encoded and assembled by the script, not written out in the sources"
         shot("02-detail")
         sel = page.locator(".leaflet-marker-pane .mk.sel")
         assert sel.count() == 1, f"expected one highlighted marker, got {sel.count()}"

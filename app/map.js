@@ -4,6 +4,7 @@ import {
   ownerAt, ownerColor, photoCredit, placeThumb, yearRange,
 } from "./data.js";
 import { attachBaseLayers } from "./basemaps.js";
+import { placeIssueUrl } from "./feedback.js";
 import { hideTooltip, renderGantt } from "./gantt.js";
 import {
   canConnect, createFile, disconnectFile, exportVisits, getIconTheme, importVisits, openFile, restoreAccess, saveVisit, setIconTheme,
@@ -668,6 +669,7 @@ function renderDetail(p, pan = true) {
       <a href="${gmaps}" target="_blank" rel="noopener">navigovat (Google)</a>
       <a href="https://www.wikidata.org/wiki/${p.id}" target="_blank" rel="noopener">Wikidata</a>
     </div>
+    <p class="fix"><a id="d-fix" href="${esc(placeIssueUrl(p))}" target="_blank" rel="noopener">Opravit údaj o tomto místě</a></p>
 
     <h4>Vlastníci${h?.owners?.length ? ` <span class="seg" role="group" aria-label="zobrazení vlastníků"><button type="button" data-view="gantt">osa</button><button type="button" data-view="table">tabulka</button></span>` : ""}</h4>
     ${h?.owners?.length ? `<div id="d-gantt"></div><div id="d-owners" class="table-wrap" hidden>${ownerTableHtml(p)}</div>` : `<p class="empty">Historie vlastníků zatím není zpracovaná.</p>`}
