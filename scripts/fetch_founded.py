@@ -18,6 +18,7 @@ BUILT = r"(?:postaven\w*|vybudován\w*|založen\w*|vystavěn\w*|vznikl\w*|zbudov
 APPROX = r"(?:(?:kolem|okolo|asi|zřejmě|pravděpodobně|přibližně|nejspíše|snad)\s+)?"
 BUILT_YEAR = re.compile(rf"\b{BUILT}\b[^.;]{{0,60}}?{APPROX}(?:roku|v roce|r\.)\s+(\d{{4}})\b", re.I)
 BUILT_CENT = re.compile(rf"\b{BUILT}\b[^.;]{{0,60}}?(?:v|ve|na počátku|na konci|koncem|počátkem|v první polovině|v druhé polovině|v polovině|na přelomu)\s+(\d{{1,2}})\. (?:století|stol\.)", re.I)
+BUILT_RANGE = re.compile(rf"\b{BUILT}\b[^.;,]{{0,25}}?{APPROX}(?:v letech|mezi lety)\s+(\d{{4}})\b", re.I)
 FIRST_MENTION = re.compile(r"(?:poprvé|první (?:písemn\w+ )?(?:zmínk\w+|doložen\w+)|písemn\w+ zmínk\w+)[^.;]{0,80}?(?:roku|v roce|z roku|r\.)\s+(\d{4})\b", re.I)
 FIRST_MENTION2 = re.compile(r"(?:zmiňován\w*|zmíněn\w*|připomín\w+|doložen\w*)\s+(?:poprvé\s+)?(?:již\s+)?(?:roku|v roce|r\.)\s+(\d{4})\b", re.I)
 
@@ -88,7 +89,7 @@ def plausible(sent, m):
 def estimate(text):
     text = html.unescape(text).replace("\xa0", " ")  # cache entries from before plain() unescaped entities
     sents = [x for x in re.split(r"(?<=[.!?])\s+(?=[A-ZÁČĎÉĚÍŇÓŘŠŤÚŮÝŽ])", text)]
-    for kind, rxs in (("built", (BUILT_YEAR, BUILT_CENT, WORD_CENT)), ("first_mention", (FIRST_MENTION, FIRST_MENTION2))):
+    for kind, rxs in (("built", (BUILT_YEAR, BUILT_RANGE, BUILT_CENT, WORD_CENT)), ("first_mention", (FIRST_MENTION, FIRST_MENTION2))):
         for sent in sents:
             if kind == "first_mention" and re.match(r"\s*(?:další|druh|poslední|následující|nov)", sent, re.I):
                 continue
