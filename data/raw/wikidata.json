@@ -3147,6 +3147,12 @@
   ],
   "owners": [
    {
+    "qid": "Q360863",
+    "name": "Jan Kubelík",
+    "start": "1904-01-01T00:00:00Z",
+    "end": "1916-01-01T00:00:00Z"
+   },
+   {
     "qid": "Q1447320",
     "name": "František Horský",
     "start": "1860-01-01T00:00:00Z",
@@ -3169,12 +3175,6 @@
     "name": "Inter Finanzpartner",
     "start": "2022-01-01T00:00:00Z",
     "end": null
-   },
-   {
-    "qid": "Q360863",
-    "name": "Jan Kubelík",
-    "start": "1904-01-01T00:00:00Z",
-    "end": "1916-01-01T00:00:00Z"
    }
   ]
  },
@@ -4484,30 +4484,6 @@
   ]
  },
  {
-  "qid": "Q10815830",
-  "name": "Cimburk",
-  "types": [
-   "hrad",
-   "zricenina"
-  ],
-  "lat": 49.7083,
-  "lon": 16.7325,
-  "inception": "1300-01-01T00:00:00Z",
-  "inception_precision": 9,
-  "part_of": [],
-  "cswiki": "https://cs.wikipedia.org/wiki/Cimburk_(hrad,_okres_Svitavy)",
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Z%C3%A1padn%C3%AD%20st%C4%9Bna%20pal%C3%A1ce.jpg",
-  "website": null,
-  "obec": "Městečko Trnávka",
-  "kraj": "Pardubický kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "36448/6-3128",
-  "states": [],
-  "owners": []
- },
- {
   "qid": "Q916931",
   "name": "Cimburk",
   "types": [
@@ -4528,6 +4504,30 @@
    "kulturní památka (Česko)"
   ],
   "monument_id": "26920/7-5995",
+  "states": [],
+  "owners": []
+ },
+ {
+  "qid": "Q10815830",
+  "name": "Cimburk",
+  "types": [
+   "hrad",
+   "zricenina"
+  ],
+  "lat": 49.7083,
+  "lon": 16.7325,
+  "inception": "1300-01-01T00:00:00Z",
+  "inception_precision": 9,
+  "part_of": [],
+  "cswiki": "https://cs.wikipedia.org/wiki/Cimburk_(hrad,_okres_Svitavy)",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Z%C3%A1padn%C3%AD%20st%C4%9Bna%20pal%C3%A1ce.jpg",
+  "website": null,
+  "obec": "Městečko Trnávka",
+  "kraj": "Pardubický kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "36448/6-3128",
   "states": [],
   "owners": []
  },
@@ -5719,29 +5719,6 @@
   "owners": []
  },
  {
-  "qid": "Q17115643",
-  "name": "Dominikánský klášter",
-  "types": [
-   "klaster"
-  ],
-  "lat": 48.97538,
-  "lon": 14.47156,
-  "inception": "1300-01-01T00:00:00Z",
-  "inception_precision": 7,
-  "part_of": [],
-  "cswiki": "https://cs.wikipedia.org/wiki/Dominik%C3%A1nsk%C3%BD_kl%C3%A1%C5%A1ter_(%C4%8Cesk%C3%A9_Bud%C4%9Bjovice)",
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Monasterio%20con%20la%20iglesia.JPG",
-  "website": null,
-  "obec": "České Budějovice 1",
-  "kraj": "Jihočeský kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "16597/3-808",
-  "states": [],
-  "owners": []
- },
- {
   "qid": "Q31765885",
   "name": "Dominikánský klášter",
   "types": [
@@ -5812,6 +5789,29 @@
   "kraj": "Olomoucký kraj",
   "heritage": [],
   "monument_id": null,
+  "states": [],
+  "owners": []
+ },
+ {
+  "qid": "Q17115643",
+  "name": "Dominikánský klášter",
+  "types": [
+   "klaster"
+  ],
+  "lat": 48.97538,
+  "lon": 14.47156,
+  "inception": "1300-01-01T00:00:00Z",
+  "inception_precision": 7,
+  "part_of": [],
+  "cswiki": "https://cs.wikipedia.org/wiki/Dominik%C3%A1nsk%C3%BD_kl%C3%A1%C5%A1ter_(%C4%8Cesk%C3%A9_Bud%C4%9Bjovice)",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Monasterio%20con%20la%20iglesia.JPG",
+  "website": null,
+  "obec": "České Budějovice 1",
+  "kraj": "Jihočeský kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "16597/3-808",
   "states": [],
   "owners": []
  },
@@ -11530,29 +11530,6 @@
   "owners": []
  },
  {
-  "qid": "Q37990741",
-  "name": "Hrádek",
-  "types": [
-   "tvrz"
-  ],
-  "lat": 50.2646007,
-  "lon": 14.0275774,
-  "inception": null,
-  "inception_precision": null,
-  "part_of": [],
-  "cswiki": "https://cs.wikipedia.org/wiki/Hr%C3%A1dek_(tvrz,_Neprobylice)",
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Neprobylice%202019-04-18%20Tvrz.jpg",
-  "website": null,
-  "obec": "Neprobylice",
-  "kraj": "Středočeský kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "34635/2-540",
-  "states": [],
-  "owners": []
- },
- {
   "qid": "Q37460206",
   "name": "Hrádek",
   "types": [
@@ -11572,6 +11549,29 @@
    "kulturní památka (Česko)"
   ],
   "monument_id": "22171/2-429",
+  "states": [],
+  "owners": []
+ },
+ {
+  "qid": "Q37990741",
+  "name": "Hrádek",
+  "types": [
+   "tvrz"
+  ],
+  "lat": 50.2646007,
+  "lon": 14.0275774,
+  "inception": null,
+  "inception_precision": null,
+  "part_of": [],
+  "cswiki": "https://cs.wikipedia.org/wiki/Hr%C3%A1dek_(tvrz,_Neprobylice)",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Neprobylice%202019-04-18%20Tvrz.jpg",
+  "website": null,
+  "obec": "Neprobylice",
+  "kraj": "Středočeský kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "34635/2-540",
   "states": [],
   "owners": []
  },
@@ -13997,27 +13997,6 @@
   "owners": []
  },
  {
-  "qid": "Q29348865",
-  "name": "Kapucínský klášter",
-  "types": [
-   "klaster"
-  ],
-  "lat": 49.4667867,
-  "lon": 17.1122119,
-  "inception": "1759-01-01T00:00:00Z",
-  "inception_precision": 9,
-  "part_of": [],
-  "cswiki": "https://cs.wikipedia.org/wiki/Kapuc%C3%ADnsk%C3%BD_kl%C3%A1%C5%A1ter_(Prost%C4%9Bjov)",
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kostel%20sv.%20Cyrila%20a%20Metod%C4%9Bje%20%28Prost%C4%9Bjov%29%202.jpg",
-  "website": null,
-  "obec": "Prostějov",
-  "kraj": "Olomoucký kraj",
-  "heritage": [],
-  "monument_id": null,
-  "states": [],
-  "owners": []
- },
- {
   "qid": "Q24282906",
   "name": "Kapucínský klášter",
   "types": [
@@ -14067,6 +14046,27 @@
     "end": null
    }
   ]
+ },
+ {
+  "qid": "Q29348865",
+  "name": "Kapucínský klášter",
+  "types": [
+   "klaster"
+  ],
+  "lat": 49.4667867,
+  "lon": 17.1122119,
+  "inception": "1759-01-01T00:00:00Z",
+  "inception_precision": 9,
+  "part_of": [],
+  "cswiki": "https://cs.wikipedia.org/wiki/Kapuc%C3%ADnsk%C3%BD_kl%C3%A1%C5%A1ter_(Prost%C4%9Bjov)",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kostel%20sv.%20Cyrila%20a%20Metod%C4%9Bje%20%28Prost%C4%9Bjov%29%202.jpg",
+  "website": null,
+  "obec": "Prostějov",
+  "kraj": "Olomoucký kraj",
+  "heritage": [],
+  "monument_id": null,
+  "states": [],
+  "owners": []
  },
  {
   "qid": "Q31786121",
@@ -16167,6 +16167,29 @@
   "owners": []
  },
  {
+  "qid": "Q12029528",
+  "name": "Klášter augustiniánů",
+  "types": [
+   "klaster"
+  ],
+  "lat": 50.62837,
+  "lon": 15.60555,
+  "inception": "1705-01-01T00:00:00Z",
+  "inception_precision": 9,
+  "part_of": [],
+  "cswiki": "https://cs.wikipedia.org/wiki/Augustini%C3%A1nsk%C3%BD_kl%C3%A1%C5%A1ter_ve_Vrchlab%C3%AD",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vrchlab%C3%AD%20kl%C3%A1%C5%A1ter%20celek.jpg",
+  "website": null,
+  "obec": "Vrchlabí",
+  "kraj": "Královéhradecký kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "36468/6-3731",
+  "states": [],
+  "owners": []
+ },
+ {
   "qid": "Q12029526",
   "name": "Klášter augustiniánů",
   "types": [
@@ -16197,50 +16220,6 @@
   ]
  },
  {
-  "qid": "Q12029528",
-  "name": "Klášter augustiniánů",
-  "types": [
-   "klaster"
-  ],
-  "lat": 50.62837,
-  "lon": 15.60555,
-  "inception": "1705-01-01T00:00:00Z",
-  "inception_precision": 9,
-  "part_of": [],
-  "cswiki": "https://cs.wikipedia.org/wiki/Augustini%C3%A1nsk%C3%BD_kl%C3%A1%C5%A1ter_ve_Vrchlab%C3%AD",
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vrchlab%C3%AD%20kl%C3%A1%C5%A1ter%20celek.jpg",
-  "website": null,
-  "obec": "Vrchlabí",
-  "kraj": "Královéhradecký kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "36468/6-3731",
-  "states": [],
-  "owners": []
- },
- {
-  "qid": "Q29269953",
-  "name": "Klášter augustiniánů kanovníků",
-  "types": [
-   "klaster"
-  ],
-  "lat": 49.4717622,
-  "lon": 17.1121872,
-  "inception": "1391-01-01T00:00:00Z",
-  "inception_precision": 9,
-  "part_of": [],
-  "cswiki": "https://cs.wikipedia.org/wiki/Augustini%C3%A1nsk%C3%BD_kl%C3%A1%C5%A1ter_v_Prost%C4%9Bjov%C4%9B",
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Farn%C3%AD%20kostel%20%28Prost%C4%9Bjov-%20czech%20republic%29.JPG",
-  "website": null,
-  "obec": "Prostějov",
-  "kraj": "Olomoucký kraj",
-  "heritage": [],
-  "monument_id": null,
-  "states": [],
-  "owners": []
- },
- {
   "qid": "Q12029529",
   "name": "Klášter augustiniánů kanovníků",
   "types": [
@@ -16263,6 +16242,27 @@
   "states": [
    "Q55555088"
   ],
+  "owners": []
+ },
+ {
+  "qid": "Q29269953",
+  "name": "Klášter augustiniánů kanovníků",
+  "types": [
+   "klaster"
+  ],
+  "lat": 49.4717622,
+  "lon": 17.1121872,
+  "inception": "1391-01-01T00:00:00Z",
+  "inception_precision": 9,
+  "part_of": [],
+  "cswiki": "https://cs.wikipedia.org/wiki/Augustini%C3%A1nsk%C3%BD_kl%C3%A1%C5%A1ter_v_Prost%C4%9Bjov%C4%9B",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Farn%C3%AD%20kostel%20%28Prost%C4%9Bjov-%20czech%20republic%29.JPG",
+  "website": null,
+  "obec": "Prostějov",
+  "kraj": "Olomoucký kraj",
+  "heritage": [],
+  "monument_id": null,
+  "states": [],
   "owners": []
  },
  {
@@ -16649,29 +16649,6 @@
   "owners": []
  },
  {
-  "qid": "Q30134768",
-  "name": "Klášter dominikánů",
-  "types": [
-   "klaster"
-  ],
-  "lat": 49.7361736,
-  "lon": 13.3924994,
-  "inception": null,
-  "inception_precision": null,
-  "part_of": [],
-  "cswiki": null,
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mikul%20nam%202.zm.jpg",
-  "website": null,
-  "obec": "Východní Předměstí",
-  "kraj": "Plzeňský kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "49719/4-5157",
-  "states": [],
-  "owners": []
- },
- {
   "qid": "Q12029538",
   "name": "Klášter dominikánů",
   "types": [
@@ -16736,6 +16713,29 @@
   "states": [
    "Q56556915"
   ],
+  "owners": []
+ },
+ {
+  "qid": "Q30134768",
+  "name": "Klášter dominikánů",
+  "types": [
+   "klaster"
+  ],
+  "lat": 49.7361736,
+  "lon": 13.3924994,
+  "inception": null,
+  "inception_precision": null,
+  "part_of": [],
+  "cswiki": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mikul%20nam%202.zm.jpg",
+  "website": null,
+  "obec": "Východní Předměstí",
+  "kraj": "Plzeňský kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "49719/4-5157",
+  "states": [],
   "owners": []
  },
  {
@@ -17168,27 +17168,6 @@
   "owners": []
  },
  {
-  "qid": "Q29268414",
-  "name": "Klášter milosrdných bratří",
-  "types": [
-   "klaster"
-  ],
-  "lat": 49.4732617,
-  "lon": 17.1171064,
-  "inception": "1727-01-01T00:00:00Z",
-  "inception_precision": 9,
-  "part_of": [],
-  "cswiki": "https://cs.wikipedia.org/wiki/Kl%C3%A1%C5%A1ter_milosrdn%C3%BDch_brat%C5%99%C3%AD_(Prost%C4%9Bjov)",
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kostel%20u%20Milosrdn%C3%BDch.JPG",
-  "website": null,
-  "obec": "Prostějov",
-  "kraj": "Olomoucký kraj",
-  "heritage": [],
-  "monument_id": null,
-  "states": [],
-  "owners": []
- },
- {
   "qid": "Q58005623",
   "name": "Klášter milosrdných bratří",
   "types": [
@@ -17208,6 +17187,27 @@
    "kulturní památka (Česko)"
   ],
   "monument_id": "38201/1-31",
+  "states": [],
+  "owners": []
+ },
+ {
+  "qid": "Q29268414",
+  "name": "Klášter milosrdných bratří",
+  "types": [
+   "klaster"
+  ],
+  "lat": 49.4732617,
+  "lon": 17.1171064,
+  "inception": "1727-01-01T00:00:00Z",
+  "inception_precision": 9,
+  "part_of": [],
+  "cswiki": "https://cs.wikipedia.org/wiki/Kl%C3%A1%C5%A1ter_milosrdn%C3%BDch_brat%C5%99%C3%AD_(Prost%C4%9Bjov)",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kostel%20u%20Milosrdn%C3%BDch.JPG",
+  "website": null,
+  "obec": "Prostějov",
+  "kraj": "Olomoucký kraj",
+  "heritage": [],
+  "monument_id": null,
   "states": [],
   "owners": []
  },
@@ -17300,29 +17300,6 @@
   "owners": []
  },
  {
-  "qid": "Q37004041",
-  "name": "Klášter minoritů",
-  "types": [
-   "klaster"
-  ],
-  "lat": 49.7846087,
-  "lon": 14.6914435,
-  "inception": null,
-  "inception_precision": null,
-  "part_of": [],
-  "cswiki": "https://cs.wikipedia.org/wiki/Kl%C3%A1%C5%A1ter_minorit%C5%AF_(Bene%C5%A1ov)",
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Remains%20of%20monastery%20church%20in%20Bene%C5%A1ov%2C%20177395.jpg",
-  "website": null,
-  "obec": "Benešov",
-  "kraj": "Středočeský kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "46069/2-8",
-  "states": [],
-  "owners": []
- },
- {
   "qid": "Q12029554",
   "name": "Klášter minoritů",
   "types": [
@@ -17343,6 +17320,29 @@
   "states": [
    "Q56556915"
   ],
+  "owners": []
+ },
+ {
+  "qid": "Q37004041",
+  "name": "Klášter minoritů",
+  "types": [
+   "klaster"
+  ],
+  "lat": 49.7846087,
+  "lon": 14.6914435,
+  "inception": null,
+  "inception_precision": null,
+  "part_of": [],
+  "cswiki": "https://cs.wikipedia.org/wiki/Kl%C3%A1%C5%A1ter_minorit%C5%AF_(Bene%C5%A1ov)",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Remains%20of%20monastery%20church%20in%20Bene%C5%A1ov%2C%20177395.jpg",
+  "website": null,
+  "obec": "Benešov",
+  "kraj": "Středočeský kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "46069/2-8",
+  "states": [],
   "owners": []
  },
  {
@@ -18779,6 +18779,29 @@
   ]
  },
  {
+  "qid": "Q12030859",
+  "name": "Kostel svatého Klimenta",
+  "types": [],
+  "lat": 50.1694,
+  "lon": 14.3742,
+  "inception": "1300-01-01T00:00:00Z",
+  "inception_precision": 7,
+  "part_of": [
+   "Q1430970"
+  ],
+  "cswiki": "https://cs.wikipedia.org/wiki/Kostel_svat%C3%A9ho_Klimenta_(Lev%C3%BD_Hradec)",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hradi%C5%A1t%C4%9B%20Lev%C3%BD%20Hradec.jpg",
+  "website": null,
+  "obec": "Roztoky",
+  "kraj": "Středočeský kraj",
+  "heritage": [
+   "část národní kulturní památky České republiky"
+  ],
+  "monument_id": null,
+  "states": [],
+  "owners": []
+ },
+ {
   "qid": "Q18113883",
   "name": "Kostel svatého Víta v Zahrádce",
   "types": [],
@@ -19298,29 +19321,6 @@
   "owners": []
  },
  {
-  "qid": "Q12031244",
-  "name": "Kozlov",
-  "types": [
-   "zricenina"
-  ],
-  "lat": 49.1754,
-  "lon": 16.0483,
-  "inception": "1500-01-01T00:00:00Z",
-  "inception_precision": 7,
-  "part_of": [],
-  "cswiki": "https://cs.wikipedia.org/wiki/Kozlov_(hrad,_okres_T%C5%99eb%C3%AD%C4%8D)",
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ruins%20of%20Kozlov%20Castle%20on%20Kozlov%20island%20near%20Kozlany%2C%20T%C5%99eb%C3%AD%C4%8D%20District.jpg",
-  "website": null,
-  "obec": "Kozlany",
-  "kraj": "Kraj Vysočina",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "33363/7-2805",
-  "states": [],
-  "owners": []
- },
- {
   "qid": "Q22035524",
   "name": "Kozlov",
   "types": [
@@ -19340,6 +19340,29 @@
    "kulturní památka (Česko)"
   ],
   "monument_id": "24551/6-2639",
+  "states": [],
+  "owners": []
+ },
+ {
+  "qid": "Q12031244",
+  "name": "Kozlov",
+  "types": [
+   "zricenina"
+  ],
+  "lat": 49.1754,
+  "lon": 16.0483,
+  "inception": "1500-01-01T00:00:00Z",
+  "inception_precision": 7,
+  "part_of": [],
+  "cswiki": "https://cs.wikipedia.org/wiki/Kozlov_(hrad,_okres_T%C5%99eb%C3%AD%C4%8D)",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ruins%20of%20Kozlov%20Castle%20on%20Kozlov%20island%20near%20Kozlany%2C%20T%C5%99eb%C3%AD%C4%8D%20District.jpg",
+  "website": null,
+  "obec": "Kozlany",
+  "kraj": "Kraj Vysočina",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "33363/7-2805",
   "states": [],
   "owners": []
  },
@@ -19515,6 +19538,30 @@
   "owners": []
  },
  {
+  "qid": "Q12031348",
+  "name": "Košťálov",
+  "types": [
+   "hrad",
+   "zricenina"
+  ],
+  "lat": 50.4905,
+  "lon": 13.9845,
+  "inception": "1276-01-01T00:00:00Z",
+  "inception_precision": 9,
+  "part_of": [],
+  "cswiki": "https://cs.wikipedia.org/wiki/Ko%C5%A1%C5%A5%C3%A1lov_(hrad,_okres_Litom%C4%9B%C5%99ice)",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ko%C5%A1%C5%A5%C3%A1lov.jpg",
+  "website": null,
+  "obec": "Jenčice",
+  "kraj": "Ústecký kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "42777/5-2076",
+  "states": [],
+  "owners": []
+ },
+ {
   "qid": "Q12031349",
   "name": "Košťálov",
   "types": [
@@ -19538,30 +19585,6 @@
   "states": [
    "Q56556915"
   ],
-  "owners": []
- },
- {
-  "qid": "Q12031348",
-  "name": "Košťálov",
-  "types": [
-   "hrad",
-   "zricenina"
-  ],
-  "lat": 50.4905,
-  "lon": 13.9845,
-  "inception": "1276-01-01T00:00:00Z",
-  "inception_precision": 9,
-  "part_of": [],
-  "cswiki": "https://cs.wikipedia.org/wiki/Ko%C5%A1%C5%A5%C3%A1lov_(hrad,_okres_Litom%C4%9B%C5%99ice)",
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ko%C5%A1%C5%A5%C3%A1lov.jpg",
-  "website": null,
-  "obec": "Jenčice",
-  "kraj": "Ústecký kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "42777/5-2076",
-  "states": [],
   "owners": []
  },
  {
@@ -23768,36 +23791,6 @@
   "owners": []
  },
  {
-  "qid": "Q16162067",
-  "name": "Mníšek pod Brdy",
-  "types": [
-   "zamek"
-  ],
-  "lat": 49.8681,
-  "lon": 14.2583,
-  "inception": null,
-  "inception_precision": null,
-  "part_of": [],
-  "cswiki": "https://cs.wikipedia.org/wiki/Mn%C3%AD%C5%A1ek_pod_Brdy_(z%C3%A1mek)",
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mn%C3%AD%C5%A1ek%20pod%20Brdy%2C%20z%C3%A1mek%20od%20b%C5%99ehu%20Z%C3%A1meck%C3%A9ho%20rybn%C3%ADka.JPG",
-  "website": "http://www.zamek-mnisek.cz/",
-  "obec": "Mníšek pod Brdy",
-  "kraj": "Středočeský kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "18201/2-2468",
-  "states": [],
-  "owners": [
-   {
-    "qid": "Q213",
-    "name": "Česko",
-    "start": null,
-    "end": null
-   }
-  ]
- },
- {
   "qid": "Q21490604",
   "name": "Modliškovice",
   "types": [
@@ -24600,144 +24593,6 @@
   "owners": []
  },
  {
-  "qid": "Q37450507",
-  "name": "Městské opevnění",
-  "types": [
-   "hradby"
-  ],
-  "lat": 49.949984,
-  "lon": 15.2617151,
-  "inception": null,
-  "inception_precision": null,
-  "part_of": [],
-  "cswiki": null,
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/M%C4%9Bstsk%C3%A9%20opevn%C4%9Bn%C3%AD%20%28Kutn%C3%A1%20Hora%29.JPG",
-  "website": null,
-  "obec": "Kutná Hora-Vnitřní Město",
-  "kraj": "Středočeský kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "36927/2-1043",
-  "states": [],
-  "owners": []
- },
- {
-  "qid": "Q38044627",
-  "name": "Městské opevnění",
-  "types": [
-   "hradby"
-  ],
-  "lat": 50.3045988,
-  "lon": 12.9380739,
-  "inception": null,
-  "inception_precision": null,
-  "part_of": [],
-  "cswiki": null,
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ostrov%20m%C4%9Bstsk%C3%A9%20opevn%C4%9Bn%C3%AD%20b%C5%99ezen%202025%20%281%29.jpg",
-  "website": null,
-  "obec": "Ostrov",
-  "kraj": "Karlovarský kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "38859/4-992",
-  "states": [],
-  "owners": []
- },
- {
-  "qid": "Q38091057",
-  "name": "Městské opevnění",
-  "types": [
-   "hradby"
-  ],
-  "lat": 50.1035615,
-  "lon": 13.7342366,
-  "inception": null,
-  "inception_precision": null,
-  "part_of": [],
-  "cswiki": null,
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rakovn%C3%ADk%2C%20m%C4%9Bstsk%C3%A9%20opevn%C4%9Bn%C3%AD.jpg",
-  "website": null,
-  "obec": "Rakovník",
-  "kraj": "Středočeský kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "18511/2-2707",
-  "states": [],
-  "owners": []
- },
- {
-  "qid": "Q15975134",
-  "name": "Městské opevnění",
-  "types": [
-   "hradby"
-  ],
-  "lat": 49.0044094,
-  "lon": 14.7724972,
-  "inception": "1400-01-01T00:00:00Z",
-  "inception_precision": 7,
-  "part_of": [],
-  "cswiki": "https://cs.wikipedia.org/wiki/M%C4%9Bstsk%C3%A9_opevn%C4%9Bn%C3%AD_(T%C5%99ebo%C5%88)",
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/T%C5%99ebo%C5%88%2C%20ul.%20Novohradsk%C3%A1%2C%20opevn%C4%9Bn%C3%AD%20%282020-07-08%3B%2003%29.jpg",
-  "website": null,
-  "obec": "Třeboň I",
-  "kraj": "Jihočeský kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "19251/3-2262",
-  "states": [],
-  "owners": []
- },
- {
-  "qid": "Q37161384",
-  "name": "Městské opevnění",
-  "types": [
-   "hradby"
-  ],
-  "lat": 49.9524219,
-  "lon": 15.7969724,
-  "inception": null,
-  "inception_precision": null,
-  "part_of": [],
-  "cswiki": null,
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Na-Pu%C5%A1i-z-n%C3%A1m%C4%9Bst%C3%AD-uVod%C3%A1rny-Chrudim2011a.jpg",
-  "website": null,
-  "obec": "Chrudim II",
-  "kraj": "Pardubický kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "46977/6-731",
-  "states": [],
-  "owners": []
- },
- {
-  "qid": "Q38035720",
-  "name": "Městské opevnění",
-  "types": [
-   "hradby"
-  ],
-  "lat": 49.0183378,
-  "lon": 15.1044946,
-  "inception": null,
-  "inception_precision": null,
-  "part_of": [],
-  "cswiki": null,
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nov%C3%A1%20Byst%C5%99ice%20-%20poz%C5%AFstatky%20m%C4%9Bstsk%C3%A9ho%20opevn%C4%9Bn%C3%AD%20%28kv%C4%9Bten%202023%29%20%281%29.jpg",
-  "website": null,
-  "obec": "Nová Bystřice",
-  "kraj": "Jihočeský kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "39758/3-2039",
-  "states": [],
-  "owners": []
- },
- {
   "qid": "Q38047244",
   "name": "Městské opevnění",
   "types": [
@@ -24947,6 +24802,144 @@
   "states": [
    "Q56556915"
   ],
+  "owners": []
+ },
+ {
+  "qid": "Q37450507",
+  "name": "Městské opevnění",
+  "types": [
+   "hradby"
+  ],
+  "lat": 49.949984,
+  "lon": 15.2617151,
+  "inception": null,
+  "inception_precision": null,
+  "part_of": [],
+  "cswiki": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/M%C4%9Bstsk%C3%A9%20opevn%C4%9Bn%C3%AD%20%28Kutn%C3%A1%20Hora%29.JPG",
+  "website": null,
+  "obec": "Kutná Hora-Vnitřní Město",
+  "kraj": "Středočeský kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "36927/2-1043",
+  "states": [],
+  "owners": []
+ },
+ {
+  "qid": "Q38044627",
+  "name": "Městské opevnění",
+  "types": [
+   "hradby"
+  ],
+  "lat": 50.3045988,
+  "lon": 12.9380739,
+  "inception": null,
+  "inception_precision": null,
+  "part_of": [],
+  "cswiki": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ostrov%20m%C4%9Bstsk%C3%A9%20opevn%C4%9Bn%C3%AD%20b%C5%99ezen%202025%20%281%29.jpg",
+  "website": null,
+  "obec": "Ostrov",
+  "kraj": "Karlovarský kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "38859/4-992",
+  "states": [],
+  "owners": []
+ },
+ {
+  "qid": "Q15975134",
+  "name": "Městské opevnění",
+  "types": [
+   "hradby"
+  ],
+  "lat": 49.0044094,
+  "lon": 14.7724972,
+  "inception": "1400-01-01T00:00:00Z",
+  "inception_precision": 7,
+  "part_of": [],
+  "cswiki": "https://cs.wikipedia.org/wiki/M%C4%9Bstsk%C3%A9_opevn%C4%9Bn%C3%AD_(T%C5%99ebo%C5%88)",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/T%C5%99ebo%C5%88%2C%20ul.%20Novohradsk%C3%A1%2C%20opevn%C4%9Bn%C3%AD%20%282020-07-08%3B%2003%29.jpg",
+  "website": null,
+  "obec": "Třeboň I",
+  "kraj": "Jihočeský kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "19251/3-2262",
+  "states": [],
+  "owners": []
+ },
+ {
+  "qid": "Q37161384",
+  "name": "Městské opevnění",
+  "types": [
+   "hradby"
+  ],
+  "lat": 49.9524219,
+  "lon": 15.7969724,
+  "inception": null,
+  "inception_precision": null,
+  "part_of": [],
+  "cswiki": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Na-Pu%C5%A1i-z-n%C3%A1m%C4%9Bst%C3%AD-uVod%C3%A1rny-Chrudim2011a.jpg",
+  "website": null,
+  "obec": "Chrudim II",
+  "kraj": "Pardubický kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "46977/6-731",
+  "states": [],
+  "owners": []
+ },
+ {
+  "qid": "Q38035720",
+  "name": "Městské opevnění",
+  "types": [
+   "hradby"
+  ],
+  "lat": 49.0183378,
+  "lon": 15.1044946,
+  "inception": null,
+  "inception_precision": null,
+  "part_of": [],
+  "cswiki": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nov%C3%A1%20Byst%C5%99ice%20-%20poz%C5%AFstatky%20m%C4%9Bstsk%C3%A9ho%20opevn%C4%9Bn%C3%AD%20%28kv%C4%9Bten%202023%29%20%281%29.jpg",
+  "website": null,
+  "obec": "Nová Bystřice",
+  "kraj": "Jihočeský kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "39758/3-2039",
+  "states": [],
+  "owners": []
+ },
+ {
+  "qid": "Q38091057",
+  "name": "Městské opevnění",
+  "types": [
+   "hradby"
+  ],
+  "lat": 50.1035615,
+  "lon": 13.7342366,
+  "inception": null,
+  "inception_precision": null,
+  "part_of": [],
+  "cswiki": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rakovn%C3%ADk%2C%20m%C4%9Bstsk%C3%A9%20opevn%C4%9Bn%C3%AD.jpg",
+  "website": null,
+  "obec": "Rakovník",
+  "kraj": "Středočeský kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "18511/2-2707",
+  "states": [],
   "owners": []
  },
  {
@@ -27458,26 +27451,26 @@
   "owners": []
  },
  {
-  "qid": "Q1685345",
+  "qid": "Q12056262",
   "name": "Nový hrad",
   "types": [
    "hrad",
    "zricenina"
   ],
-  "lat": 50.04055556,
-  "lon": 16.91944444,
+  "lat": 49.324144444,
+  "lon": 16.641872222,
   "inception": "1400-01-01T00:00:00Z",
-  "inception_precision": 7,
+  "inception_precision": 9,
   "part_of": [],
-  "cswiki": "https://cs.wikipedia.org/wiki/Nov%C3%BD_hrad_(okres_%C5%A0umperk)",
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Novy%20Hrad%20Hanusovice%2004.jpg",
-  "website": null,
-  "obec": "Lužná",
-  "kraj": "Olomoucký kraj",
+  "cswiki": "https://cs.wikipedia.org/wiki/Nov%C3%BD_hrad_(okres_Blansko)",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nov%C3%BD%20hrad%20u%20Adamova.JPG",
+  "website": "http://www.novyhrad.eu/",
+  "obec": "Olomučany",
+  "kraj": "Jihomoravský kraj",
   "heritage": [
    "kulturní památka (Česko)"
   ],
-  "monument_id": "21067/8-963",
+  "monument_id": "11457/7-563",
   "states": [],
   "owners": []
  },
@@ -27508,26 +27501,26 @@
   "owners": []
  },
  {
-  "qid": "Q12056262",
+  "qid": "Q1685345",
   "name": "Nový hrad",
   "types": [
    "hrad",
    "zricenina"
   ],
-  "lat": 49.324144444,
-  "lon": 16.641872222,
+  "lat": 50.04055556,
+  "lon": 16.91944444,
   "inception": "1400-01-01T00:00:00Z",
-  "inception_precision": 9,
+  "inception_precision": 7,
   "part_of": [],
-  "cswiki": "https://cs.wikipedia.org/wiki/Nov%C3%BD_hrad_(okres_Blansko)",
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nov%C3%BD%20hrad%20u%20Adamova.JPG",
-  "website": "http://www.novyhrad.eu/",
-  "obec": "Olomučany",
-  "kraj": "Jihomoravský kraj",
+  "cswiki": "https://cs.wikipedia.org/wiki/Nov%C3%BD_hrad_(okres_%C5%A0umperk)",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Novy%20Hrad%20Hanusovice%2004.jpg",
+  "website": null,
+  "obec": "Lužná",
+  "kraj": "Olomoucký kraj",
   "heritage": [
    "kulturní památka (Česko)"
   ],
-  "monument_id": "11457/7-563",
+  "monument_id": "21067/8-963",
   "states": [],
   "owners": []
  },
@@ -30602,29 +30595,6 @@
   "owners": []
  },
  {
-  "qid": "Q38041132",
-  "name": "Polní opevnění",
-  "types": [
-   "hradby"
-  ],
-  "lat": 49.9320493,
-  "lon": 15.8497095,
-  "inception": "1778-01-01T00:00:00Z",
-  "inception_precision": 9,
-  "part_of": [],
-  "cswiki": "https://cs.wikipedia.org/wiki/Poln%C3%AD_opevn%C4%9Bn%C3%AD_(Orel)",
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Poln%C3%AD%20opevn%C4%9Bn%C3%AD%2C%20pobl%C3%AD%C5%BE%20kostela%20sv.%20Ji%C5%99%C3%AD%20u%20obce%20Orel%2001.jpg",
-  "website": null,
-  "obec": "Orel",
-  "kraj": "Pardubický kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "44356/6-932",
-  "states": [],
-  "owners": []
- },
- {
   "qid": "Q38193282",
   "name": "Polní opevnění",
   "types": [
@@ -30644,6 +30614,29 @@
    "kulturní památka (Česko)"
   ],
   "monument_id": "27181/7-5408",
+  "states": [],
+  "owners": []
+ },
+ {
+  "qid": "Q38041132",
+  "name": "Polní opevnění",
+  "types": [
+   "hradby"
+  ],
+  "lat": 49.9320493,
+  "lon": 15.8497095,
+  "inception": "1778-01-01T00:00:00Z",
+  "inception_precision": 9,
+  "part_of": [],
+  "cswiki": "https://cs.wikipedia.org/wiki/Poln%C3%AD_opevn%C4%9Bn%C3%AD_(Orel)",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Poln%C3%AD%20opevn%C4%9Bn%C3%AD%2C%20pobl%C3%AD%C5%BE%20kostela%20sv.%20Ji%C5%99%C3%AD%20u%20obce%20Orel%2001.jpg",
+  "website": null,
+  "obec": "Orel",
+  "kraj": "Pardubický kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "44356/6-932",
   "states": [],
   "owners": []
  },
@@ -30968,6 +30961,27 @@
   "obec": "Teplá",
   "kraj": "Karlovarský kraj",
   "heritage": [],
+  "monument_id": null,
+  "states": [],
+  "owners": []
+ },
+ {
+  "qid": "Q136749009",
+  "name": "Poutní areál Hora Matky Boží u Králík",
+  "types": [],
+  "lat": 50.075,
+  "lon": 16.7819,
+  "inception": null,
+  "inception_precision": null,
+  "part_of": [],
+  "cswiki": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hora%20Matky%20Bo%C5%BE%C3%AD%20od%20JV.jpg",
+  "website": null,
+  "obec": "Kopeček",
+  "kraj": "Pardubický kraj",
+  "heritage": [
+   "národní kulturní památka České republiky"
+  ],
   "monument_id": null,
   "states": [],
   "owners": []
@@ -31562,36 +31576,6 @@
   "owners": []
  },
  {
-  "qid": "Q12047653",
-  "name": "Pustý zámek",
-  "types": [
-   "zricenina"
-  ],
-  "lat": 50.5119,
-  "lon": 14.4986,
-  "inception": "1319-01-01T00:00:00Z",
-  "inception_precision": 9,
-  "part_of": [],
-  "cswiki": "https://cs.wikipedia.org/wiki/Pust%C3%BD_z%C3%A1mek_(hrad,_okres_%C4%8Cesk%C3%A1_L%C3%ADpa)",
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Koko%C5%99%C3%ADnsko%20Pust%C3%BD%20z%C3%A1mek%20%282%29.jpg",
-  "website": null,
-  "obec": "Bukovec",
-  "kraj": "Liberecký kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "44894/5-3418",
-  "states": [],
-  "owners": [
-   {
-    "qid": "Q213",
-    "name": "Česko",
-    "start": null,
-    "end": null
-   }
-  ]
- },
- {
   "qid": "Q140301923",
   "name": "Pustý zámek",
   "types": [
@@ -31632,6 +31616,36 @@
   "monument_id": null,
   "states": [],
   "owners": []
+ },
+ {
+  "qid": "Q12047653",
+  "name": "Pustý zámek",
+  "types": [
+   "zricenina"
+  ],
+  "lat": 50.5119,
+  "lon": 14.4986,
+  "inception": "1319-01-01T00:00:00Z",
+  "inception_precision": 9,
+  "part_of": [],
+  "cswiki": "https://cs.wikipedia.org/wiki/Pust%C3%BD_z%C3%A1mek_(hrad,_okres_%C4%8Cesk%C3%A1_L%C3%ADpa)",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Koko%C5%99%C3%ADnsko%20Pust%C3%BD%20z%C3%A1mek%20%282%29.jpg",
+  "website": null,
+  "obec": "Bukovec",
+  "kraj": "Liberecký kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "44894/5-3418",
+  "states": [],
+  "owners": [
+   {
+    "qid": "Q213",
+    "name": "Česko",
+    "start": null,
+    "end": null
+   }
+  ]
  },
  {
   "qid": "Q12047668",
@@ -36378,6 +36392,12 @@
   "states": [],
   "owners": [
    {
+    "qid": "Q12026853",
+    "name": "Josef Šimonek",
+    "start": null,
+    "end": null
+   },
+   {
     "qid": "Q112402416",
     "name": "Jaromír Šimonek",
     "start": null,
@@ -36386,12 +36406,6 @@
    {
     "qid": "Q134353097",
     "name": "Zuzana Pavlíková Šimonková",
-    "start": null,
-    "end": null
-   },
-   {
-    "qid": "Q12026853",
-    "name": "Josef Šimonek",
     "start": null,
     "end": null
    }
@@ -36941,7 +36955,7 @@
   "inception_precision": 9,
   "part_of": [],
   "cswiki": "https://cs.wikipedia.org/wiki/Svojanov_(hrad)",
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Svojanov%20%28F%C3%BCrstenstein%29%20-%20by%20Pudelek.JPG",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Svojanov%2C%202024%20%2836%29.jpg",
   "website": "http://www.svojanov.cz",
   "obec": "Svojanov",
   "kraj": "Pardubický kraj",
@@ -38251,278 +38265,437 @@
   "owners": []
  },
  {
-  "qid": "Q33323831",
+  "qid": "Q37302095",
   "name": "Tvrz",
   "types": [
    "tvrz"
   ],
-  "lat": 50.1695517,
-  "lon": 14.6303565,
-  "inception": null,
-  "inception_precision": null,
-  "part_of": [],
-  "cswiki": "https://cs.wikipedia.org/wiki/D%C5%99ev%C4%8Dice_(tvrz)",
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/D%C5%99ev%C4%8Dice%2C%20tvrz.jpg",
-  "website": null,
-  "obec": "Dřevčice",
-  "kraj": "Středočeský kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "44865/2-2052",
-  "states": [],
-  "owners": []
- },
- {
-  "qid": "Q37008830",
-  "name": "Tvrz",
-  "types": [
-   "tvrz"
-  ],
-  "lat": 49.9762026,
-  "lon": 15.9233424,
+  "lat": 49.154904,
+  "lon": 14.5595069,
   "inception": null,
   "inception_precision": null,
   "part_of": [],
   "cswiki": null,
   "image": null,
   "website": null,
-  "obec": "Bořice",
+  "obec": "Hvozdno",
+  "kraj": "Jihočeský kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "28305/3-5602",
+  "states": [],
+  "owners": []
+ },
+ {
+  "qid": "Q37323887",
+  "name": "Tvrz",
+  "types": [
+   "tvrz"
+  ],
+  "lat": 50.3180989,
+  "lon": 13.7452097,
+  "inception": null,
+  "inception_precision": null,
+  "part_of": [],
+  "cswiki": "https://cs.wikipedia.org/wiki/Jiml%C3%ADn_(tvrz)",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jiml%C3%ADn%20tvrzi%C5%A1t%C4%9B.JPG",
+  "website": null,
+  "obec": "Jimlín",
+  "kraj": "Ústecký kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "43548/5-1159",
+  "states": [],
+  "owners": [
+   {
+    "qid": "Q127785298",
+    "name": "Chotibor z Jimlína",
+    "start": null,
+    "end": null
+   },
+   {
+    "qid": "Q127785317",
+    "name": "Slavibor of Jimlín",
+    "start": null,
+    "end": null
+   },
+   {
+    "qid": "Q127785392",
+    "name": "Předota z Jimlína",
+    "start": null,
+    "end": null
+   }
+  ]
+ },
+ {
+  "qid": "Q37337603",
+  "name": "Tvrz",
+  "types": [
+   "tvrz"
+  ],
+  "lat": 50.264126,
+  "lon": 13.4266741,
+  "inception": null,
+  "inception_precision": null,
+  "part_of": [],
+  "cswiki": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ka%C5%A1tice%20%C3%BAdajn%C3%A1%20tvrz.JPG",
+  "website": null,
+  "obec": "Kaštice",
+  "kraj": "Ústecký kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "42947/5-1167",
+  "states": [],
+  "owners": []
+ },
+ {
+  "qid": "Q37448368",
+  "name": "Tvrz",
+  "types": [
+   "tvrz"
+  ],
+  "lat": 50.5850339,
+  "lon": 15.4379107,
+  "inception": null,
+  "inception_precision": null,
+  "part_of": [],
+  "cswiki": "https://cs.wikipedia.org/wiki/Kundratice_(tvrz,_okres_Semily)",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kundratice%20%28u%20Ko%C5%A1%C5%A5%C3%A1lova%29%20-%20tvrzi%C5%A1t%C4%9B%20%28stav%20z%C3%A1%C5%99%C3%AD%202023%29%20%283%29.jpg",
+  "website": null,
+  "obec": "Kundratice",
+  "kraj": "Liberecký kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "26252/6-2649",
+  "states": [],
+  "owners": []
+ },
+ {
+  "qid": "Q37461027",
+  "name": "Tvrz",
+  "types": [
+   "tvrz"
+  ],
+  "lat": 49.9360322,
+  "lon": 15.5980339,
+  "inception": null,
+  "inception_precision": null,
+  "part_of": [],
+  "cswiki": null,
+  "image": null,
+  "website": null,
+  "obec": "Licomělice",
   "kraj": "Pardubický kraj",
   "heritage": [
    "kulturní památka (Česko)"
   ],
-  "monument_id": "45098/6-4965",
+  "monument_id": "33667/6-4973",
   "states": [],
   "owners": []
  },
  {
-  "qid": "Q37024912",
+  "qid": "Q37466308",
   "name": "Tvrz",
   "types": [
    "tvrz"
   ],
-  "lat": 49.0707089,
-  "lon": 14.0114058,
+  "lat": 49.9989269,
+  "lon": 15.123867,
   "inception": null,
   "inception_precision": null,
   "part_of": [],
   "cswiki": null,
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TvrzBudkov.JPG",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lo%C5%A1any%20-%20v%C4%9B%C5%BE%20tvrze.jpg",
   "website": null,
-  "obec": "Budkov",
-  "kraj": "Jihočeský kraj",
+  "obec": "Lošany",
+  "kraj": "Středočeský kraj",
   "heritage": [
    "kulturní památka (Česko)"
   ],
-  "monument_id": "39080/3-3521",
-  "states": [],
+  "monument_id": "34082/2-819",
+  "states": [
+   "Q55555088"
+  ],
   "owners": []
  },
  {
-  "qid": "Q37172617",
+  "qid": "Q37817239",
   "name": "Tvrz",
   "types": [
    "tvrz"
   ],
-  "lat": 49.9419711,
-  "lon": 16.4251535,
+  "lat": 49.9109438,
+  "lon": 15.2213483,
+  "inception": null,
+  "inception_precision": null,
+  "part_of": [],
+  "cswiki": "https://cs.wikipedia.org/wiki/Male%C5%A1ov_(tvrz)",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tvrz%20Male%C5%A1ov.jpg",
+  "website": null,
+  "obec": "Malešov",
+  "kraj": "Středočeský kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "36533/2-1089",
+  "states": [],
+  "owners": []
+ },
+ {
+  "qid": "Q37818556",
+  "name": "Tvrz",
+  "types": [
+   "tvrz"
+  ],
+  "lat": 49.1120548,
+  "lon": 15.4804265,
   "inception": null,
   "inception_precision": null,
   "part_of": [],
   "cswiki": null,
   "image": null,
   "website": null,
-  "obec": "Dlouhá Třebová",
+  "obec": "Malý Pěčín",
+  "kraj": "Jihočeský kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "33309/3-2022",
+  "states": [],
+  "owners": []
+ },
+ {
+  "qid": "Q37821409",
+  "name": "Tvrz",
+  "types": [
+   "tvrz"
+  ],
+  "lat": 49.77794,
+  "lon": 14.5157683,
+  "inception": null,
+  "inception_precision": null,
+  "part_of": [],
+  "cswiki": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tvrz%20Ml%C3%A9kovice%2C%201.JPG",
+  "website": null,
+  "obec": "Mlékovice",
+  "kraj": "Středočeský kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "29359/2-3955",
+  "states": [],
+  "owners": []
+ },
+ {
+  "qid": "Q37851725",
+  "name": "Tvrz",
+  "types": [
+   "tvrz"
+  ],
+  "lat": 49.9339775,
+  "lon": 15.7113167,
+  "inception": null,
+  "inception_precision": null,
+  "part_of": [],
+  "cswiki": null,
+  "image": null,
+  "website": null,
+  "obec": "Morašice",
   "kraj": "Pardubický kraj",
   "heritage": [
    "kulturní památka (Česko)"
   ],
-  "monument_id": "47299/6-4547",
+  "monument_id": "23985/6-4971",
   "states": [],
   "owners": []
  },
  {
-  "qid": "Q37173636",
+  "qid": "Q37853668",
   "name": "Tvrz",
   "types": [
    "tvrz"
   ],
-  "lat": 49.2184793,
-  "lon": 14.4725898,
+  "lat": 49.4350225,
+  "lon": 13.428859,
+  "inception": null,
+  "inception_precision": null,
+  "part_of": [],
+  "cswiki": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nemcice8.jpg",
+  "website": null,
+  "obec": "Němčice",
+  "kraj": "Plzeňský kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "19669/4-3164",
+  "states": [],
+  "owners": []
+ },
+ {
+  "qid": "Q37990636",
+  "name": "Tvrz",
+  "types": [
+   "tvrz"
+  ],
+  "lat": 49.39533,
+  "lon": 15.2628683,
+  "inception": null,
+  "inception_precision": null,
+  "part_of": [],
+  "cswiki": "https://cs.wikipedia.org/wiki/Nemojov_(tvrz)",
+  "image": null,
+  "website": null,
+  "obec": "Nemojov",
+  "kraj": "Kraj Vysočina",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "36032/3-3158",
+  "states": [],
+  "owners": []
+ },
+ {
+  "qid": "Q38035779",
+  "name": "Tvrz",
+  "types": [
+   "tvrz"
+  ],
+  "lat": 50.2556891,
+  "lon": 12.9871253,
+  "inception": null,
+  "inception_precision": null,
+  "part_of": [],
+  "cswiki": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nov%C3%A1%20Kyselka%20%C3%BAdajn%C3%A1%20tvrz%20%282%29.jpg",
+  "website": null,
+  "obec": "Nová Kyselka",
+  "kraj": "Karlovarský kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "44707/4-962",
+  "states": [],
+  "owners": []
+ },
+ {
+  "qid": "Q38092056",
+  "name": "Tvrz",
+  "types": [
+   "tvrz"
+  ],
+  "lat": 49.9195941,
+  "lon": 15.9506185,
   "inception": null,
   "inception_precision": null,
   "part_of": [],
   "cswiki": null,
   "image": null,
   "website": null,
-  "obec": "Dobšice",
+  "obec": "Rosice",
+  "kraj": "Pardubický kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "41496/6-4979",
+  "states": [],
+  "owners": []
+ },
+ {
+  "qid": "Q38094601",
+  "name": "Tvrz",
+  "types": [
+   "tvrz"
+  ],
+  "lat": 49.0721422,
+  "lon": 14.2842038,
+  "inception": null,
+  "inception_precision": null,
+  "part_of": [],
+  "cswiki": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sedlec%20%28CB%29%2C%20hrbitov%2007.jpg",
+  "website": null,
+  "obec": "Sedlec",
   "kraj": "Jihočeský kraj",
   "heritage": [
    "kulturní památka (Česko)"
   ],
-  "monument_id": "30435/3-5598",
+  "monument_id": "36630/3-5604",
   "states": [],
   "owners": []
  },
  {
-  "qid": "Q30869990",
+  "qid": "Q38135121",
   "name": "Tvrz",
   "types": [
    "tvrz"
   ],
-  "lat": 50.36807,
-  "lon": 15.90962,
+  "lat": 49.5716044,
+  "lon": 15.2853845,
   "inception": null,
   "inception_precision": null,
   "part_of": [],
   "cswiki": null,
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ho%C5%99enice%20%28tvrz%29.JPG",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torzo%20tvrze%20u%20%C4%8Dp.%2013%20ve%20Spe%C5%99ic%C3%ADch.jpg",
   "website": null,
-  "obec": "Hořenice",
-  "kraj": "Královéhradecký kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "27556/6-1602",
-  "states": [],
-  "owners": []
- },
- {
-  "qid": "Q30896394",
-  "name": "Tvrz",
-  "types": [
-   "tvrz"
-  ],
-  "lat": 50.441,
-  "lon": 16.02005,
-  "inception": null,
-  "inception_precision": null,
-  "part_of": [],
-  "cswiki": null,
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Litobo%C5%99%20Tury%C5%88.jpg",
-  "website": null,
-  "obec": "Litoboř",
-  "kraj": "Královéhradecký kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "18766/6-1609",
-  "states": [],
-  "owners": []
- },
- {
-  "qid": "Q31031612",
-  "name": "Tvrz",
-  "types": [
-   "tvrz"
-  ],
-  "lat": 49.0395139,
-  "lon": 15.6514833,
-  "inception": "1400-01-01T00:00:00Z",
-  "inception_precision": 7,
-  "part_of": [],
-  "cswiki": "https://cs.wikipedia.org/wiki/Opone%C5%A1ice_(tvrz)",
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Opone%C5%A1ice%20-%20tvrz%202.JPG",
-  "website": null,
-  "obec": "Oponešice",
+  "obec": "Speřice",
   "kraj": "Kraj Vysočina",
   "heritage": [
    "kulturní památka (Česko)"
   ],
-  "monument_id": "31632/7-2949",
+  "monument_id": "26336/3-3288",
   "states": [],
   "owners": []
  },
  {
-  "qid": "Q31031624",
+  "qid": "Q38150633",
   "name": "Tvrz",
   "types": [
    "tvrz"
   ],
-  "lat": 49.2646125,
-  "lon": 15.9773986,
-  "inception": "1379-01-01T00:00:00Z",
-  "inception_precision": 9,
-  "part_of": [],
-  "cswiki": "https://cs.wikipedia.org/wiki/N%C3%A1rame%C4%8D_(tvrz)",
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Overview%20of%20former%20castle%20in%20N%C3%A1rame%C4%8D%2C%20T%C5%99eb%C3%AD%C4%8D%20District.jpg",
-  "website": null,
-  "obec": "Nárameč",
-  "kraj": "Kraj Vysočina",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "22765/7-2935",
-  "states": [],
-  "owners": []
- },
- {
-  "qid": "Q31212598",
-  "name": "Tvrz",
-  "types": [
-   "tvrz"
-  ],
-  "lat": 49.99754,
-  "lon": 15.18667,
+  "lat": 50.1918966,
+  "lon": 16.1612049,
   "inception": null,
   "inception_precision": null,
   "part_of": [],
   "cswiki": null,
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pa%C5%A1inka%20-%20tvrz%20v%20obci.jpg",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Uh%C5%99%C3%ADnovice%20u%20Vod%C4%9Brad%20-%20%C4%8Dp.%201.jpg",
   "website": null,
-  "obec": "Pašinka",
-  "kraj": "Středočeský kraj",
+  "obec": "Uhřínovice",
+  "kraj": "Královéhradecký kraj",
   "heritage": [
    "kulturní památka (Česko)"
   ],
-  "monument_id": "47073/2-830",
+  "monument_id": "25416/6-2463",
   "states": [],
   "owners": []
  },
  {
-  "qid": "Q31459811",
+  "qid": "Q38191193",
   "name": "Tvrz",
   "types": [
    "tvrz"
   ],
-  "lat": 49.98509,
-  "lon": 15.25436,
-  "inception": null,
-  "inception_precision": null,
-  "part_of": [],
-  "cswiki": null,
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Libenice%201.JPG",
-  "website": null,
-  "obec": "Libenice",
-  "kraj": "Středočeský kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "23394/2-817",
-  "states": [],
-  "owners": []
- },
- {
-  "qid": "Q31954877",
-  "name": "Tvrz",
-  "types": [
-   "tvrz"
-  ],
-  "lat": 48.94758,
-  "lon": 14.33325,
+  "lat": 49.1290721,
+  "lon": 17.9352798,
   "inception": null,
   "inception_precision": null,
   "part_of": [],
   "cswiki": null,
   "image": null,
   "website": null,
-  "obec": "Habří",
-  "kraj": "Jihočeský kraj",
+  "obec": "Vlachovice",
+  "kraj": "Zlínský kraj",
   "heritage": [
    "kulturní památka (Česko)"
   ],
-  "monument_id": "19237/3-229",
+  "monument_id": "27149/7-8071",
   "states": [],
   "owners": []
  },
@@ -38825,6 +38998,305 @@
   "states": [
    "Q56556915"
   ],
+  "owners": []
+ },
+ {
+  "qid": "Q30869990",
+  "name": "Tvrz",
+  "types": [
+   "tvrz"
+  ],
+  "lat": 50.36807,
+  "lon": 15.90962,
+  "inception": null,
+  "inception_precision": null,
+  "part_of": [],
+  "cswiki": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ho%C5%99enice%20%28tvrz%29.JPG",
+  "website": null,
+  "obec": "Hořenice",
+  "kraj": "Královéhradecký kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "27556/6-1602",
+  "states": [],
+  "owners": []
+ },
+ {
+  "qid": "Q30896394",
+  "name": "Tvrz",
+  "types": [
+   "tvrz"
+  ],
+  "lat": 50.441,
+  "lon": 16.02005,
+  "inception": null,
+  "inception_precision": null,
+  "part_of": [],
+  "cswiki": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Litobo%C5%99%20Tury%C5%88.jpg",
+  "website": null,
+  "obec": "Litoboř",
+  "kraj": "Královéhradecký kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "18766/6-1609",
+  "states": [],
+  "owners": []
+ },
+ {
+  "qid": "Q31031612",
+  "name": "Tvrz",
+  "types": [
+   "tvrz"
+  ],
+  "lat": 49.0395139,
+  "lon": 15.6514833,
+  "inception": "1400-01-01T00:00:00Z",
+  "inception_precision": 7,
+  "part_of": [],
+  "cswiki": "https://cs.wikipedia.org/wiki/Opone%C5%A1ice_(tvrz)",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Opone%C5%A1ice%20-%20tvrz%202.JPG",
+  "website": null,
+  "obec": "Oponešice",
+  "kraj": "Kraj Vysočina",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "31632/7-2949",
+  "states": [],
+  "owners": []
+ },
+ {
+  "qid": "Q31031624",
+  "name": "Tvrz",
+  "types": [
+   "tvrz"
+  ],
+  "lat": 49.2646125,
+  "lon": 15.9773986,
+  "inception": "1379-01-01T00:00:00Z",
+  "inception_precision": 9,
+  "part_of": [],
+  "cswiki": "https://cs.wikipedia.org/wiki/N%C3%A1rame%C4%8D_(tvrz)",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Overview%20of%20former%20castle%20in%20N%C3%A1rame%C4%8D%2C%20T%C5%99eb%C3%AD%C4%8D%20District.jpg",
+  "website": null,
+  "obec": "Nárameč",
+  "kraj": "Kraj Vysočina",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "22765/7-2935",
+  "states": [],
+  "owners": []
+ },
+ {
+  "qid": "Q31212598",
+  "name": "Tvrz",
+  "types": [
+   "tvrz"
+  ],
+  "lat": 49.99754,
+  "lon": 15.18667,
+  "inception": null,
+  "inception_precision": null,
+  "part_of": [],
+  "cswiki": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pa%C5%A1inka%20-%20tvrz%20v%20obci.jpg",
+  "website": null,
+  "obec": "Pašinka",
+  "kraj": "Středočeský kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "47073/2-830",
+  "states": [],
+  "owners": []
+ },
+ {
+  "qid": "Q31459811",
+  "name": "Tvrz",
+  "types": [
+   "tvrz"
+  ],
+  "lat": 49.98509,
+  "lon": 15.25436,
+  "inception": null,
+  "inception_precision": null,
+  "part_of": [],
+  "cswiki": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Libenice%201.JPG",
+  "website": null,
+  "obec": "Libenice",
+  "kraj": "Středočeský kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "23394/2-817",
+  "states": [],
+  "owners": []
+ },
+ {
+  "qid": "Q31954877",
+  "name": "Tvrz",
+  "types": [
+   "tvrz"
+  ],
+  "lat": 48.94758,
+  "lon": 14.33325,
+  "inception": null,
+  "inception_precision": null,
+  "part_of": [],
+  "cswiki": null,
+  "image": null,
+  "website": null,
+  "obec": "Habří",
+  "kraj": "Jihočeský kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "19237/3-229",
+  "states": [],
+  "owners": []
+ },
+ {
+  "qid": "Q38045195",
+  "name": "Tvrz",
+  "types": [
+   "tvrz"
+  ],
+  "lat": 49.274887,
+  "lon": 15.916924,
+  "inception": "1360-01-01T00:00:00Z",
+  "inception_precision": 9,
+  "part_of": [],
+  "cswiki": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Old%20part%20of%20castle%20near%20house%20no%201%20in%20P%C5%99eckov%2C%20T%C5%99eb%C3%AD%C4%8D%20District.JPG",
+  "website": null,
+  "obec": "Přeckov",
+  "kraj": "Kraj Vysočina",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "17168/7-2981",
+  "states": [],
+  "owners": []
+ },
+ {
+  "qid": "Q33323831",
+  "name": "Tvrz",
+  "types": [
+   "tvrz"
+  ],
+  "lat": 50.1695517,
+  "lon": 14.6303565,
+  "inception": null,
+  "inception_precision": null,
+  "part_of": [],
+  "cswiki": "https://cs.wikipedia.org/wiki/D%C5%99ev%C4%8Dice_(tvrz)",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/D%C5%99ev%C4%8Dice%2C%20tvrz.jpg",
+  "website": null,
+  "obec": "Dřevčice",
+  "kraj": "Středočeský kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "44865/2-2052",
+  "states": [],
+  "owners": []
+ },
+ {
+  "qid": "Q37008830",
+  "name": "Tvrz",
+  "types": [
+   "tvrz"
+  ],
+  "lat": 49.9762026,
+  "lon": 15.9233424,
+  "inception": null,
+  "inception_precision": null,
+  "part_of": [],
+  "cswiki": null,
+  "image": null,
+  "website": null,
+  "obec": "Bořice",
+  "kraj": "Pardubický kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "45098/6-4965",
+  "states": [],
+  "owners": []
+ },
+ {
+  "qid": "Q37024912",
+  "name": "Tvrz",
+  "types": [
+   "tvrz"
+  ],
+  "lat": 49.0707089,
+  "lon": 14.0114058,
+  "inception": null,
+  "inception_precision": null,
+  "part_of": [],
+  "cswiki": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TvrzBudkov.JPG",
+  "website": null,
+  "obec": "Budkov",
+  "kraj": "Jihočeský kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "39080/3-3521",
+  "states": [],
+  "owners": []
+ },
+ {
+  "qid": "Q37172617",
+  "name": "Tvrz",
+  "types": [
+   "tvrz"
+  ],
+  "lat": 49.9419711,
+  "lon": 16.4251535,
+  "inception": null,
+  "inception_precision": null,
+  "part_of": [],
+  "cswiki": null,
+  "image": null,
+  "website": null,
+  "obec": "Dlouhá Třebová",
+  "kraj": "Pardubický kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "47299/6-4547",
+  "states": [],
+  "owners": []
+ },
+ {
+  "qid": "Q37173636",
+  "name": "Tvrz",
+  "types": [
+   "tvrz"
+  ],
+  "lat": 49.2184793,
+  "lon": 14.4725898,
+  "inception": null,
+  "inception_precision": null,
+  "part_of": [],
+  "cswiki": null,
+  "image": null,
+  "website": null,
+  "obec": "Dobšice",
+  "kraj": "Jihočeský kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "30435/3-5598",
+  "states": [],
   "owners": []
  },
  {
@@ -39541,441 +40013,6 @@
   "owners": []
  },
  {
-  "qid": "Q37302095",
-  "name": "Tvrz",
-  "types": [
-   "tvrz"
-  ],
-  "lat": 49.154904,
-  "lon": 14.5595069,
-  "inception": null,
-  "inception_precision": null,
-  "part_of": [],
-  "cswiki": null,
-  "image": null,
-  "website": null,
-  "obec": "Hvozdno",
-  "kraj": "Jihočeský kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "28305/3-5602",
-  "states": [],
-  "owners": []
- },
- {
-  "qid": "Q37323887",
-  "name": "Tvrz",
-  "types": [
-   "tvrz"
-  ],
-  "lat": 50.3180989,
-  "lon": 13.7452097,
-  "inception": null,
-  "inception_precision": null,
-  "part_of": [],
-  "cswiki": "https://cs.wikipedia.org/wiki/Jiml%C3%ADn_(tvrz)",
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jiml%C3%ADn%20tvrzi%C5%A1t%C4%9B.JPG",
-  "website": null,
-  "obec": "Jimlín",
-  "kraj": "Ústecký kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "43548/5-1159",
-  "states": [],
-  "owners": [
-   {
-    "qid": "Q127785298",
-    "name": "Chotibor z Jimlína",
-    "start": null,
-    "end": null
-   },
-   {
-    "qid": "Q127785317",
-    "name": "Slavibor of Jimlín",
-    "start": null,
-    "end": null
-   },
-   {
-    "qid": "Q127785392",
-    "name": "Předota z Jimlína",
-    "start": null,
-    "end": null
-   }
-  ]
- },
- {
-  "qid": "Q37337603",
-  "name": "Tvrz",
-  "types": [
-   "tvrz"
-  ],
-  "lat": 50.264126,
-  "lon": 13.4266741,
-  "inception": null,
-  "inception_precision": null,
-  "part_of": [],
-  "cswiki": null,
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ka%C5%A1tice%20%C3%BAdajn%C3%A1%20tvrz.JPG",
-  "website": null,
-  "obec": "Kaštice",
-  "kraj": "Ústecký kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "42947/5-1167",
-  "states": [],
-  "owners": []
- },
- {
-  "qid": "Q37448368",
-  "name": "Tvrz",
-  "types": [
-   "tvrz"
-  ],
-  "lat": 50.5850339,
-  "lon": 15.4379107,
-  "inception": null,
-  "inception_precision": null,
-  "part_of": [],
-  "cswiki": "https://cs.wikipedia.org/wiki/Kundratice_(tvrz,_okres_Semily)",
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kundratice%20%28u%20Ko%C5%A1%C5%A5%C3%A1lova%29%20-%20tvrzi%C5%A1t%C4%9B%20%28stav%20z%C3%A1%C5%99%C3%AD%202023%29%20%283%29.jpg",
-  "website": null,
-  "obec": "Kundratice",
-  "kraj": "Liberecký kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "26252/6-2649",
-  "states": [],
-  "owners": []
- },
- {
-  "qid": "Q37461027",
-  "name": "Tvrz",
-  "types": [
-   "tvrz"
-  ],
-  "lat": 49.9360322,
-  "lon": 15.5980339,
-  "inception": null,
-  "inception_precision": null,
-  "part_of": [],
-  "cswiki": null,
-  "image": null,
-  "website": null,
-  "obec": "Licomělice",
-  "kraj": "Pardubický kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "33667/6-4973",
-  "states": [],
-  "owners": []
- },
- {
-  "qid": "Q37466308",
-  "name": "Tvrz",
-  "types": [
-   "tvrz"
-  ],
-  "lat": 49.9989269,
-  "lon": 15.123867,
-  "inception": null,
-  "inception_precision": null,
-  "part_of": [],
-  "cswiki": null,
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lo%C5%A1any%20-%20v%C4%9B%C5%BE%20tvrze.jpg",
-  "website": null,
-  "obec": "Lošany",
-  "kraj": "Středočeský kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "34082/2-819",
-  "states": [
-   "Q55555088"
-  ],
-  "owners": []
- },
- {
-  "qid": "Q37817239",
-  "name": "Tvrz",
-  "types": [
-   "tvrz"
-  ],
-  "lat": 49.9109438,
-  "lon": 15.2213483,
-  "inception": null,
-  "inception_precision": null,
-  "part_of": [],
-  "cswiki": "https://cs.wikipedia.org/wiki/Male%C5%A1ov_(tvrz)",
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tvrz%20Male%C5%A1ov.jpg",
-  "website": null,
-  "obec": "Malešov",
-  "kraj": "Středočeský kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "36533/2-1089",
-  "states": [],
-  "owners": []
- },
- {
-  "qid": "Q37818556",
-  "name": "Tvrz",
-  "types": [
-   "tvrz"
-  ],
-  "lat": 49.1120548,
-  "lon": 15.4804265,
-  "inception": null,
-  "inception_precision": null,
-  "part_of": [],
-  "cswiki": null,
-  "image": null,
-  "website": null,
-  "obec": "Malý Pěčín",
-  "kraj": "Jihočeský kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "33309/3-2022",
-  "states": [],
-  "owners": []
- },
- {
-  "qid": "Q37821409",
-  "name": "Tvrz",
-  "types": [
-   "tvrz"
-  ],
-  "lat": 49.77794,
-  "lon": 14.5157683,
-  "inception": null,
-  "inception_precision": null,
-  "part_of": [],
-  "cswiki": null,
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tvrz%20Ml%C3%A9kovice%2C%201.JPG",
-  "website": null,
-  "obec": "Mlékovice",
-  "kraj": "Středočeský kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "29359/2-3955",
-  "states": [],
-  "owners": []
- },
- {
-  "qid": "Q37851725",
-  "name": "Tvrz",
-  "types": [
-   "tvrz"
-  ],
-  "lat": 49.9339775,
-  "lon": 15.7113167,
-  "inception": null,
-  "inception_precision": null,
-  "part_of": [],
-  "cswiki": null,
-  "image": null,
-  "website": null,
-  "obec": "Morašice",
-  "kraj": "Pardubický kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "23985/6-4971",
-  "states": [],
-  "owners": []
- },
- {
-  "qid": "Q37853668",
-  "name": "Tvrz",
-  "types": [
-   "tvrz"
-  ],
-  "lat": 49.4350225,
-  "lon": 13.428859,
-  "inception": null,
-  "inception_precision": null,
-  "part_of": [],
-  "cswiki": null,
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nemcice8.jpg",
-  "website": null,
-  "obec": "Němčice",
-  "kraj": "Plzeňský kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "19669/4-3164",
-  "states": [],
-  "owners": []
- },
- {
-  "qid": "Q37990636",
-  "name": "Tvrz",
-  "types": [
-   "tvrz"
-  ],
-  "lat": 49.39533,
-  "lon": 15.2628683,
-  "inception": null,
-  "inception_precision": null,
-  "part_of": [],
-  "cswiki": "https://cs.wikipedia.org/wiki/Nemojov_(tvrz)",
-  "image": null,
-  "website": null,
-  "obec": "Nemojov",
-  "kraj": "Kraj Vysočina",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "36032/3-3158",
-  "states": [],
-  "owners": []
- },
- {
-  "qid": "Q38035779",
-  "name": "Tvrz",
-  "types": [
-   "tvrz"
-  ],
-  "lat": 50.2556891,
-  "lon": 12.9871253,
-  "inception": null,
-  "inception_precision": null,
-  "part_of": [],
-  "cswiki": null,
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nov%C3%A1%20Kyselka%20%C3%BAdajn%C3%A1%20tvrz%20%282%29.jpg",
-  "website": null,
-  "obec": "Nová Kyselka",
-  "kraj": "Karlovarský kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "44707/4-962",
-  "states": [],
-  "owners": []
- },
- {
-  "qid": "Q38092056",
-  "name": "Tvrz",
-  "types": [
-   "tvrz"
-  ],
-  "lat": 49.9195941,
-  "lon": 15.9506185,
-  "inception": null,
-  "inception_precision": null,
-  "part_of": [],
-  "cswiki": null,
-  "image": null,
-  "website": null,
-  "obec": "Rosice",
-  "kraj": "Pardubický kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "41496/6-4979",
-  "states": [],
-  "owners": []
- },
- {
-  "qid": "Q38094601",
-  "name": "Tvrz",
-  "types": [
-   "tvrz"
-  ],
-  "lat": 49.0721422,
-  "lon": 14.2842038,
-  "inception": null,
-  "inception_precision": null,
-  "part_of": [],
-  "cswiki": null,
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sedlec%20%28CB%29%2C%20hrbitov%2007.jpg",
-  "website": null,
-  "obec": "Sedlec",
-  "kraj": "Jihočeský kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "36630/3-5604",
-  "states": [],
-  "owners": []
- },
- {
-  "qid": "Q38135121",
-  "name": "Tvrz",
-  "types": [
-   "tvrz"
-  ],
-  "lat": 49.5716044,
-  "lon": 15.2853845,
-  "inception": null,
-  "inception_precision": null,
-  "part_of": [],
-  "cswiki": null,
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Torzo%20tvrze%20u%20%C4%8Dp.%2013%20ve%20Spe%C5%99ic%C3%ADch.jpg",
-  "website": null,
-  "obec": "Speřice",
-  "kraj": "Kraj Vysočina",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "26336/3-3288",
-  "states": [],
-  "owners": []
- },
- {
-  "qid": "Q38150633",
-  "name": "Tvrz",
-  "types": [
-   "tvrz"
-  ],
-  "lat": 50.1918966,
-  "lon": 16.1612049,
-  "inception": null,
-  "inception_precision": null,
-  "part_of": [],
-  "cswiki": null,
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Uh%C5%99%C3%ADnovice%20u%20Vod%C4%9Brad%20-%20%C4%8Dp.%201.jpg",
-  "website": null,
-  "obec": "Uhřínovice",
-  "kraj": "Královéhradecký kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "25416/6-2463",
-  "states": [],
-  "owners": []
- },
- {
-  "qid": "Q38191193",
-  "name": "Tvrz",
-  "types": [
-   "tvrz"
-  ],
-  "lat": 49.1290721,
-  "lon": 17.9352798,
-  "inception": null,
-  "inception_precision": null,
-  "part_of": [],
-  "cswiki": null,
-  "image": null,
-  "website": null,
-  "obec": "Vlachovice",
-  "kraj": "Zlínský kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "27149/7-8071",
-  "states": [],
-  "owners": []
- },
- {
   "qid": "Q38227705",
   "name": "Tvrz",
   "types": [
@@ -40133,29 +40170,6 @@
    "kulturní památka (Česko)"
   ],
   "monument_id": "27401/2-3749",
-  "states": [],
-  "owners": []
- },
- {
-  "qid": "Q38045195",
-  "name": "Tvrz",
-  "types": [
-   "tvrz"
-  ],
-  "lat": 49.274887,
-  "lon": 15.916924,
-  "inception": "1360-01-01T00:00:00Z",
-  "inception_precision": 9,
-  "part_of": [],
-  "cswiki": null,
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Old%20part%20of%20castle%20near%20house%20no%201%20in%20P%C5%99eckov%2C%20T%C5%99eb%C3%AD%C4%8D%20District.JPG",
-  "website": null,
-  "obec": "Přeckov",
-  "kraj": "Kraj Vysočina",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "17168/7-2981",
   "states": [],
   "owners": []
  },
@@ -41604,29 +41618,6 @@
   "owners": []
  },
  {
-  "qid": "Q37171277",
-  "name": "Tvrz Zámčisko",
-  "types": [
-   "tvrz"
-  ],
-  "lat": 49.5825047,
-  "lon": 17.4605913,
-  "inception": null,
-  "inception_precision": null,
-  "part_of": [],
-  "cswiki": null,
-  "image": null,
-  "website": null,
-  "obec": "Daskabát",
-  "kraj": "Olomoucký kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "10254/8-3847",
-  "states": [],
-  "owners": []
- },
- {
   "qid": "Q37423486",
   "name": "Tvrz Zámčisko",
   "types": [
@@ -41649,6 +41640,29 @@
   "states": [
    "Q56556915"
   ],
+  "owners": []
+ },
+ {
+  "qid": "Q37171277",
+  "name": "Tvrz Zámčisko",
+  "types": [
+   "tvrz"
+  ],
+  "lat": 49.5825047,
+  "lon": 17.4605913,
+  "inception": null,
+  "inception_precision": null,
+  "part_of": [],
+  "cswiki": null,
+  "image": null,
+  "website": null,
+  "obec": "Daskabát",
+  "kraj": "Olomoucký kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "10254/8-3847",
+  "states": [],
   "owners": []
  },
  {
@@ -43306,30 +43320,6 @@
   "owners": []
  },
  {
-  "qid": "Q11899048",
-  "name": "Vildštejn",
-  "types": [
-   "hrad",
-   "zricenina"
-  ],
-  "lat": 49.8369,
-  "lon": 15.6536,
-  "inception": "1300-01-01T00:00:00Z",
-  "inception_precision": 9,
-  "part_of": [],
-  "cswiki": "https://cs.wikipedia.org/wiki/Vild%C5%A1tejn_(hrad,_okres_Chrudim)",
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Se%C4%8D%20hrad%20Vild%C5%A1tejn.JPG",
-  "website": null,
-  "obec": "Seč",
-  "kraj": "Pardubický kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "28637/6-969",
-  "states": [],
-  "owners": []
- },
- {
   "qid": "Q1014392",
   "name": "Vildštejn",
   "types": [
@@ -43350,6 +43340,30 @@
    "kulturní památka (Česko)"
   ],
   "monument_id": "39688/4-119",
+  "states": [],
+  "owners": []
+ },
+ {
+  "qid": "Q11899048",
+  "name": "Vildštejn",
+  "types": [
+   "hrad",
+   "zricenina"
+  ],
+  "lat": 49.8369,
+  "lon": 15.6536,
+  "inception": "1300-01-01T00:00:00Z",
+  "inception_precision": 9,
+  "part_of": [],
+  "cswiki": "https://cs.wikipedia.org/wiki/Vild%C5%A1tejn_(hrad,_okres_Chrudim)",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Se%C4%8D%20hrad%20Vild%C5%A1tejn.JPG",
+  "website": null,
+  "obec": "Seč",
+  "kraj": "Pardubický kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "28637/6-969",
   "states": [],
   "owners": []
  },
@@ -43702,6 +43716,29 @@
   ]
  },
  {
+  "qid": "Q38191198",
+  "name": "Vodní tvrz",
+  "types": [
+   "tvrz"
+  ],
+  "lat": 49.1226632,
+  "lon": 17.9374423,
+  "inception": null,
+  "inception_precision": null,
+  "part_of": [],
+  "cswiki": "https://cs.wikipedia.org/wiki/Tvrz_Vlachovice",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vlachovice%20%28ZL%29%2C%20Ka%C5%A1t%C3%BDl.jpg",
+  "website": null,
+  "obec": "Vlachovice",
+  "kraj": "Zlínský kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "19698/7-2139",
+  "states": [],
+  "owners": []
+ },
+ {
   "qid": "Q37178829",
   "name": "Vodní tvrz",
   "types": [
@@ -43744,29 +43781,6 @@
    "kulturní památka (Česko)"
   ],
   "monument_id": "18689/4-2087",
-  "states": [],
-  "owners": []
- },
- {
-  "qid": "Q38191198",
-  "name": "Vodní tvrz",
-  "types": [
-   "tvrz"
-  ],
-  "lat": 49.1226632,
-  "lon": 17.9374423,
-  "inception": null,
-  "inception_precision": null,
-  "part_of": [],
-  "cswiki": "https://cs.wikipedia.org/wiki/Tvrz_Vlachovice",
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vlachovice%20%28ZL%29%2C%20Ka%C5%A1t%C3%BDl.jpg",
-  "website": null,
-  "obec": "Vlachovice",
-  "kraj": "Zlínský kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "19698/7-2139",
   "states": [],
   "owners": []
  },
@@ -51524,7 +51538,6 @@
   "qid": "Q33406347",
   "name": "Zámek Rozsochatec",
   "types": [
-   "tvrz",
    "zamek"
   ],
   "lat": 49.67485,
@@ -51743,29 +51756,6 @@
   ]
  },
  {
-  "qid": "Q33405492",
-  "name": "Zámek Slatina",
-  "types": [
-   "zamek"
-  ],
-  "lat": 49.7919225,
-  "lon": 17.9803864,
-  "inception": null,
-  "inception_precision": null,
-  "part_of": [],
-  "cswiki": null,
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Slatina1-914820561.jpg",
-  "website": null,
-  "obec": "Slatina",
-  "kraj": "Moravskoslezský kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "100002",
-  "states": [],
-  "owners": []
- },
- {
   "qid": "Q33323475",
   "name": "Zámek Slatina",
   "types": [
@@ -51785,6 +51775,29 @@
    "kulturní památka (Česko)"
   ],
   "monument_id": "19110/7-6726",
+  "states": [],
+  "owners": []
+ },
+ {
+  "qid": "Q33405492",
+  "name": "Zámek Slatina",
+  "types": [
+   "zamek"
+  ],
+  "lat": 49.7919225,
+  "lon": 17.9803864,
+  "inception": null,
+  "inception_precision": null,
+  "part_of": [],
+  "cswiki": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Slatina1-914820561.jpg",
+  "website": null,
+  "obec": "Slatina",
+  "kraj": "Moravskoslezský kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "100002",
   "states": [],
   "owners": []
  },
@@ -55745,6 +55758,12 @@
   "states": [],
   "owners": [
    {
+    "qid": "Q213",
+    "name": "Česko",
+    "start": "1945-01-01T00:00:00Z",
+    "end": null
+   },
+   {
     "qid": "Q140796953",
     "name": "Haasové z Hasenfelsu",
     "start": "1912-01-01T00:00:00Z",
@@ -55779,12 +55798,6 @@
     "name": "Přemyslovci",
     "start": "1046-01-01T00:00:00Z",
     "end": "1307-01-01T00:00:00Z"
-   },
-   {
-    "qid": "Q213",
-    "name": "Česko",
-    "start": "1945-01-01T00:00:00Z",
-    "end": null
    }
   ]
  },
@@ -57323,29 +57336,6 @@
   "owners": []
  },
  {
-  "qid": "Q30103100",
-  "name": "klášter milosrdných bratří",
-  "types": [
-   "klaster"
-  ],
-  "lat": 48.7432069,
-  "lon": 16.758935,
-  "inception": "1605-01-01T00:00:00Z",
-  "inception_precision": 9,
-  "part_of": [],
-  "cswiki": "https://cs.wikipedia.org/wiki/Kl%C3%A1%C5%A1ter_milosrdn%C3%BDch_brat%C5%99%C3%AD_(Valtice)",
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Valtice%2C%20kl%C3%A1%C5%A1ter%20Milosrdn%C3%BDch%20brat%C5%99%C3%AD.jpg",
-  "website": null,
-  "obec": "Valtice",
-  "kraj": "Jihomoravský kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "47005/7-1762",
-  "states": [],
-  "owners": []
- },
- {
   "qid": "Q12029515",
   "name": "klášter milosrdných bratří",
   "types": [
@@ -57367,6 +57357,29 @@
    "kulturní památka (Česko)"
   ],
   "monument_id": "46052/7-507",
+  "states": [],
+  "owners": []
+ },
+ {
+  "qid": "Q30103100",
+  "name": "klášter milosrdných bratří",
+  "types": [
+   "klaster"
+  ],
+  "lat": 48.7432069,
+  "lon": 16.758935,
+  "inception": "1605-01-01T00:00:00Z",
+  "inception_precision": 9,
+  "part_of": [],
+  "cswiki": "https://cs.wikipedia.org/wiki/Kl%C3%A1%C5%A1ter_milosrdn%C3%BDch_brat%C5%99%C3%AD_(Valtice)",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Valtice%2C%20kl%C3%A1%C5%A1ter%20Milosrdn%C3%BDch%20brat%C5%99%C3%AD.jpg",
+  "website": null,
+  "obec": "Valtice",
+  "kraj": "Jihomoravský kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "47005/7-1762",
   "states": [],
   "owners": []
  },
@@ -58839,7 +58852,7 @@
   "inception_precision": 9,
   "part_of": [],
   "cswiki": "https://cs.wikipedia.org/wiki/M%C4%9Bstsk%C3%A9_opevn%C4%9Bn%C3%AD_(T%C5%99eb%C3%AD%C4%8D)",
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/City%20walls%20%28near%20%C4%8Cern%C3%BD%20d%C5%AFm%29%20of%20T%C5%99eb%C3%AD%C4%8D%2C%20T%C5%99eb%C3%AD%C4%8D%20District.jpg",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Overview%20of%20former%20walls%20by%20weir%20repair%20in%202026%20in%20T%C5%99eb%C3%AD%C4%8D%2C%20T%C5%99eb%C3%AD%C4%8D%20District.jpg",
   "website": null,
   "obec": "Vnitřní Město",
   "kraj": "Kraj Vysočina",
@@ -63108,7 +63121,7 @@
   "part_of": [],
   "cswiki": "https://cs.wikipedia.org/wiki/C%C3%ADtoliby_(z%C3%A1mek)",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%ADtoliby%202019-04-18%20Pr%C5%AF%C4%8Del%C3%AD.jpg",
-  "website": null,
+  "website": "https://www.zamek-citoliby.cz/",
   "obec": "Cítoliby",
   "kraj": "Ústecký kraj",
   "heritage": [
@@ -67489,29 +67502,6 @@
   "owners": []
  },
  {
-  "qid": "Q1656585",
-  "name": "zámek Lešná",
-  "types": [
-   "zamek"
-  ],
-  "lat": 49.273285,
-  "lon": 17.7178225,
-  "inception": "1900-01-01T00:00:00Z",
-  "inception_precision": 7,
-  "part_of": [],
-  "cswiki": "https://cs.wikipedia.org/wiki/Le%C5%A1n%C3%A1_(z%C3%A1mek,_Zl%C3%ADn)",
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lesna%20castle4.jpg",
-  "website": null,
-  "obec": "Štípa",
-  "kraj": "Zlínský kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "22230/7-1943",
-  "states": [],
-  "owners": []
- },
- {
   "qid": "Q2242161",
   "name": "zámek Lešná",
   "types": [
@@ -67540,6 +67530,29 @@
     "end": null
    }
   ]
+ },
+ {
+  "qid": "Q1656585",
+  "name": "zámek Lešná",
+  "types": [
+   "zamek"
+  ],
+  "lat": 49.273285,
+  "lon": 17.7178225,
+  "inception": "1900-01-01T00:00:00Z",
+  "inception_precision": 7,
+  "part_of": [],
+  "cswiki": "https://cs.wikipedia.org/wiki/Le%C5%A1n%C3%A1_(z%C3%A1mek,_Zl%C3%ADn)",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lesna%20castle4.jpg",
+  "website": null,
+  "obec": "Štípa",
+  "kraj": "Zlínský kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "22230/7-1943",
+  "states": [],
+  "owners": []
  },
  {
   "qid": "Q12033246",
@@ -68993,6 +69006,36 @@
   "monument_id": "43299/5-1127",
   "states": [],
   "owners": []
+ },
+ {
+  "qid": "Q16162067",
+  "name": "zámek Mníšek pod Brdy",
+  "types": [
+   "zamek"
+  ],
+  "lat": 49.8681,
+  "lon": 14.2583,
+  "inception": null,
+  "inception_precision": null,
+  "part_of": [],
+  "cswiki": "https://cs.wikipedia.org/wiki/Mn%C3%AD%C5%A1ek_pod_Brdy_(z%C3%A1mek)",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mn%C3%AD%C5%A1ek%20pod%20Brdy%2C%20z%C3%A1mek%20od%20b%C5%99ehu%20Z%C3%A1meck%C3%A9ho%20rybn%C3%ADka.JPG",
+  "website": "http://www.zamek-mnisek.cz/",
+  "obec": "Mníšek pod Brdy",
+  "kraj": "Středočeský kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "18201/2-2468",
+  "states": [],
+  "owners": [
+   {
+    "qid": "Q213",
+    "name": "Česko",
+    "start": null,
+    "end": null
+   }
+  ]
  },
  {
   "qid": "Q17166272",
@@ -73675,36 +73718,6 @@
   "owners": []
  },
  {
-  "qid": "Q11874519",
-  "name": "zámek Valeč",
-  "types": [
-   "zamek"
-  ],
-  "lat": 50.1748,
-  "lon": 13.252,
-  "inception": "1600-01-01T00:00:00Z",
-  "inception_precision": 7,
-  "part_of": [],
-  "cswiki": "https://cs.wikipedia.org/wiki/Vale%C4%8D_(z%C3%A1mek,_okres_Karlovy_Vary)",
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vale%C4%8D%20z%C3%A1mek%202.jpg",
-  "website": "http://www.zamek-valec.cz/",
-  "obec": "Valeč",
-  "kraj": "Karlovarský kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "45085/4-1109",
-  "states": [],
-  "owners": [
-   {
-    "qid": "Q213",
-    "name": "Česko",
-    "start": null,
-    "end": null
-   }
-  ]
- },
- {
   "qid": "Q11874559",
   "name": "zámek Valeč",
   "types": [
@@ -73729,6 +73742,36 @@
    {
     "qid": "Q113134598",
     "name": "Bronislav Vala",
+    "start": null,
+    "end": null
+   }
+  ]
+ },
+ {
+  "qid": "Q11874519",
+  "name": "zámek Valeč",
+  "types": [
+   "zamek"
+  ],
+  "lat": 50.1748,
+  "lon": 13.252,
+  "inception": "1600-01-01T00:00:00Z",
+  "inception_precision": 7,
+  "part_of": [],
+  "cswiki": "https://cs.wikipedia.org/wiki/Vale%C4%8D_(z%C3%A1mek,_okres_Karlovy_Vary)",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vale%C4%8D%20z%C3%A1mek%202.jpg",
+  "website": "http://www.zamek-valec.cz/",
+  "obec": "Valeč",
+  "kraj": "Karlovarský kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "45085/4-1109",
+  "states": [],
+  "owners": [
+   {
+    "qid": "Q213",
+    "name": "Česko",
     "start": null,
     "end": null
    }
@@ -74455,7 +74498,7 @@
   "part_of": [],
   "cswiki": "https://cs.wikipedia.org/wiki/Vrchotovy_Janovice_(z%C3%A1mek)",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vrchotovy%20Janovice%2C%20z%C3%A1mek%2C%20od%20jihov%C3%BDchodu.jpg",
-  "website": "http://www.nm.cz/Hlavni-strana/Navstivte-nas/Zamek-Vrchotovy-Janovice.html",
+  "website": "https://www.nm.cz/navstivte-nas/objekty/zamek-vrchotovy-janovice",
   "obec": "Vrchotovy Janovice",
   "kraj": "Středočeský kraj",
   "heritage": [
@@ -78143,6 +78186,75 @@
   "owners": []
  },
  {
+  "qid": "Q30724780",
+  "name": "Špitál",
+  "types": [
+   "hospital"
+  ],
+  "lat": 50.0015586,
+  "lon": 16.2229092,
+  "inception": null,
+  "inception_precision": null,
+  "part_of": [],
+  "cswiki": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Choce%C5%88%2C%20Z%C3%A1m%C4%9Bst%C3%AD%20217%2C%20b%C3%BDval%C3%BD%20%C5%A1pit%C3%A1l.jpg",
+  "website": null,
+  "obec": "Choceň",
+  "kraj": "Pardubický kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "26028/6-3908",
+  "states": [],
+  "owners": []
+ },
+ {
+  "qid": "Q30871783",
+  "name": "Špitál",
+  "types": [
+   "hospital"
+  ],
+  "lat": 50.7793756,
+  "lon": 14.2149606,
+  "inception": null,
+  "inception_precision": null,
+  "part_of": [],
+  "cswiki": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/D%C4%9B%C4%8D%C3%ADn%2C%20K%C5%99%C3%AD%C5%BEov%C3%A1%2C%20od%20Z%C3%A1meck%C3%A9ho%20n%C3%A1m%C4%9Bst%C3%AD.jpg",
+  "website": null,
+  "obec": "Děčín I-Děčín",
+  "kraj": "Ústecký kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "19897/5-4091",
+  "states": [],
+  "owners": []
+ },
+ {
+  "qid": "Q33525551",
+  "name": "Špitál",
+  "types": [
+   "hospital"
+  ],
+  "lat": 49.9527676,
+  "lon": 16.158976,
+  "inception": null,
+  "inception_precision": null,
+  "part_of": [],
+  "cswiki": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/B%C3%BDval%C3%BD%20%C5%A1pit%C3%A1l%2C%20v%2015.%20st.%20slou%C5%BEil%20jako%20v%C4%9Bznice.JPG",
+  "website": null,
+  "obec": "Vysoké Mýto-Město",
+  "kraj": "Pardubický kraj",
+  "heritage": [
+   "kulturní památka (Česko)"
+  ],
+  "monument_id": "14363/6-4128",
+  "states": [],
+  "owners": []
+ },
+ {
   "qid": "Q29398137",
   "name": "Špitál",
   "types": [
@@ -78484,75 +78596,6 @@
    "kulturní památka (Česko)"
   ],
   "monument_id": "105756",
-  "states": [],
-  "owners": []
- },
- {
-  "qid": "Q30724780",
-  "name": "Špitál",
-  "types": [
-   "hospital"
-  ],
-  "lat": 50.0015586,
-  "lon": 16.2229092,
-  "inception": null,
-  "inception_precision": null,
-  "part_of": [],
-  "cswiki": null,
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Choce%C5%88%2C%20Z%C3%A1m%C4%9Bst%C3%AD%20217%2C%20b%C3%BDval%C3%BD%20%C5%A1pit%C3%A1l.jpg",
-  "website": null,
-  "obec": "Choceň",
-  "kraj": "Pardubický kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "26028/6-3908",
-  "states": [],
-  "owners": []
- },
- {
-  "qid": "Q30871783",
-  "name": "Špitál",
-  "types": [
-   "hospital"
-  ],
-  "lat": 50.7793756,
-  "lon": 14.2149606,
-  "inception": null,
-  "inception_precision": null,
-  "part_of": [],
-  "cswiki": null,
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/D%C4%9B%C4%8D%C3%ADn%2C%20K%C5%99%C3%AD%C5%BEov%C3%A1%2C%20od%20Z%C3%A1meck%C3%A9ho%20n%C3%A1m%C4%9Bst%C3%AD.jpg",
-  "website": null,
-  "obec": "Děčín I-Děčín",
-  "kraj": "Ústecký kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "19897/5-4091",
-  "states": [],
-  "owners": []
- },
- {
-  "qid": "Q33525551",
-  "name": "Špitál",
-  "types": [
-   "hospital"
-  ],
-  "lat": 49.9527676,
-  "lon": 16.158976,
-  "inception": null,
-  "inception_precision": null,
-  "part_of": [],
-  "cswiki": null,
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/B%C3%BDval%C3%BD%20%C5%A1pit%C3%A1l%2C%20v%2015.%20st.%20slou%C5%BEil%20jako%20v%C4%9Bznice.JPG",
-  "website": null,
-  "obec": "Vysoké Mýto-Město",
-  "kraj": "Pardubický kraj",
-  "heritage": [
-   "kulturní památka (Česko)"
-  ],
-  "monument_id": "14363/6-4128",
   "states": [],
   "owners": []
  },

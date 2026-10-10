@@ -86,6 +86,12 @@
   ],
   "Tvrz Nemile u Zábřeha": [
    "Q12040644"
+  ],
+  "Klášter Hora Matky Boží, Králíky": [
+   "Q136749009"
+  ],
+  "Kostel sv. Klimenta na Levém Hradci, Roztoky": [
+   "Q12030859"
   ]
  },
  "npu_qid": {
@@ -98,7 +104,9 @@
   "Q513821",
   "Q4971773",
   "Q1104673",
-  "Q38094997"
+  "Q38094997",
+  "Q136749009",
+  "Q12030859"
  ],
  "exclude": {
   "Q136722727": "duplicate of Pražský hrad Q193369 (no article, generic coordinates)",
@@ -330,6 +338,14 @@
   },
   "Q31710208": {
    "access": "vstupne"
+  },
+  "Q136749009": {
+   "kind": "klaster",
+   "name": "Klášter Hora Matky Boží"
+  },
+  "Q12030859": {
+   "kind": "kostel",
+   "name": "Kostel sv. Klimenta na Levém Hradci"
   }
  }
 }
