@@ -5,6 +5,7 @@ Downloads the beginning of each article (plain text from wikitext, max 12000 cha
 {QID: {"year"|"century": ..., "kind": "built"|"first_mention", "text": sentence}} for places where a pattern matched.
 build_places.py uses it only when Wikidata has no inception.
 """
+import html
 import re
 import sys
 import time
@@ -37,6 +38,7 @@ def plain(wikitext):
     t = re.sub(r"\[\[(?:Soubor|File|Kategorie|Category|Obrázek):[^\]]*(?:\[\[[^\]]*\]\][^\]]*)*\]\]", "", t, flags=re.I)
     t = re.sub(r"\[\[(?:[^|\]]*\|)?([^\]]*)\]\]", r"\1", t)
     t = re.sub(r"'{2,}|<[^>]+>", "", t)
+    t = html.unescape(t).replace("\xa0", " ")
     t = re.sub(r"==+\s*([^=\n]+?)\s*==+", r"\n\1.\n", t)
     t = re.sub(r"\s+", " ", t)
     return t.strip()[:12000]
@@ -84,6 +86,7 @@ def plausible(sent, m):
 
 
 def estimate(text):
+    text = html.unescape(text).replace("\xa0", " ")  # cache entries from before plain() unescaped entities
     sents = [x for x in re.split(r"(?<=[.!?])\s+(?=[A-ZÁČĎÉĚÍŇÓŘŠŤÚŮÝŽ])", text)]
     for kind, rxs in (("built", (BUILT_YEAR, BUILT_CENT, WORD_CENT)), ("first_mention", (FIRST_MENTION, FIRST_MENTION2))):
         for sent in sents:
