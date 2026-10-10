@@ -12,10 +12,15 @@ export function placeIssueUrl(p) {
   return issueUrl("oprava-udaje.yml", { title: `Oprava: ${p.name} (${p.id})`, misto: `${p.name} (${p.id})`, odkaz });
 }
 
-function mailtoUrl() {
+function mailtoUrl(subject = "Hrady a zámky: návrh", body = "") {
   if (!FEEDBACK_EMAIL_B64) return null;
   const [user, domain] = atob(FEEDBACK_EMAIL_B64).split("@");
-  return `mailto:${user}${FEEDBACK_TAG ? "+" + FEEDBACK_TAG : ""}@${domain}?subject=${encodeURIComponent("Hrady a zámky: návrh")}`;
+  return `mailto:${user}${FEEDBACK_TAG ? "+" + FEEDBACK_TAG : ""}@${domain}?subject=${encodeURIComponent(subject)}${body ? `&body=${encodeURIComponent(body)}` : ""}`;
+}
+
+export function placeMailUrl(p) {
+  const odkaz = `${location.origin}${location.pathname}#/misto/${p.id}`;
+  return mailtoUrl(`Oprava: ${p.name} (${p.id})`, `Místo: ${p.name} (${p.id})\nOdkaz: ${odkaz}\n\nCo je špatně a jak to má být (a zdroj):\n`);
 }
 
 export function initFooter(analytics) {

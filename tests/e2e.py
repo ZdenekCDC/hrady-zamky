@@ -398,6 +398,8 @@ def main():
         assert mail.startswith("mailto:zdenek.cdc+hrady@gmail.com?"), f"footer e-mail link not composed from the config: {mail}"
         assert all("gmail" not in (ROOT / f).read_text() for f in ("index.html", "app/config.js", "app/feedback.js")), \
             "the address must be encoded and assembled by the script, not written out in the sources"
+        dmail = page.get_attribute("#d-fix-mail", "href")
+        assert dmail.startswith("mailto:zdenek.cdc+hrady@gmail.com?") and kunet["id"] in dmail, f"detail e-mail link does not carry the place: {dmail}"
         shot("02-detail")
         sel = page.locator(".leaflet-marker-pane .mk.sel")
         assert sel.count() == 1, f"expected one highlighted marker, got {sel.count()}"
