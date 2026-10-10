@@ -16863,6 +16863,47 @@
   "place_count": 4,
   "color_slot": null
  },
+ "kestransti-z-kestran": {
+  "id": "kestransti-z-kestran",
+  "type": "rod",
+  "name": "Kestřanští z Kestřan",
+  "wikidata": "Q12029179",
+  "cswiki": "https://cs.wikipedia.org/wiki/Kestřanští_z_Kestřan",
+  "coat_of_arms": "Páni z Kestřan - coat of arms.png",
+  "summary": "Kestřanští z Kestřan byl starý český významný šlechtický rod, jehož význam klesal po Bílé hoře (1620). Dosud stojí tvrz v Kestřanech u Písku.",
+  "related": [],
+  "places": [
+   {
+    "place": "Q86813414",
+    "from": null,
+    "to": 1396,
+    "person": "Albert z Kestřan a synové Michal, Šimon, Bartoloměj; později další členové rodu",
+    "how": "zalozeni",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q86813414",
+    "from": 1396,
+    "to": 1446,
+    "person": "Arnošt z Kestřan (potomci Údražští z Kestřan)",
+    "how": "dedictvi",
+    "from_approx": false,
+    "to_approx": true
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q86813414",
+    "year": 1446,
+    "from": "kestransti-z-kestran",
+    "to": "soukromnik",
+    "how": "koupe"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
  "khuen-belasi": {
   "id": "khuen-belasi",
   "type": "rod",
@@ -50281,7 +50322,7 @@
     "place": "Q33325199",
     "year": 1887,
     "from": "sternberkove",
-    "to": "z-kunvaldu",
+    "to": "vrazdove-z-kunvaldu",
     "how": "koupe"
    },
    {
@@ -58211,6 +58252,45 @@
   "place_count": 9,
   "color_slot": null
  },
+ "vrazdove-z-kunvaldu": {
+  "id": "vrazdove-z-kunvaldu",
+  "type": "rod",
+  "name": "Vraždové z Kunvaldu",
+  "wikidata": "Q11939364",
+  "cswiki": "https://cs.wikipedia.org/wiki/Vraždové_z_Kunvaldu",
+  "coat_of_arms": "Erb Vraždů z Kunvaldu.png",
+  "summary": "Vraždové z Kunvaldu (též Wražda z Kunwaldu) byli starý český vladycký rod. Přídomek z Kunvaldu i stejný erb používalo více českých rodů, například Dražičtí či Berbekové.",
+  "related": [],
+  "places": [
+   {
+    "place": "Q33325199",
+    "from": 1887,
+    "to": 1945,
+    "person": null,
+    "how": "koupe",
+    "from_approx": false,
+    "to_approx": false
+   }
+  ],
+  "transfers": [
+   {
+    "place": "Q33325199",
+    "year": 1887,
+    "from": "sternberkove",
+    "to": "vrazdove-z-kunvaldu",
+    "how": "koupe"
+   },
+   {
+    "place": "Q33325199",
+    "year": 1945,
+    "from": "vrazdove-z-kunvaldu",
+    "to": "stat",
+    "how": "konfiskace"
+   }
+  ],
+  "place_count": 1,
+  "color_slot": null
+ },
  "vyntirove-z-vlckovic": {
   "id": "vyntirove-z-vlckovic",
   "type": "rod",
@@ -63896,43 +63976,6 @@
   "place_count": 1,
   "color_slot": null
  },
- "z-kestran": {
-  "id": "z-kestran",
-  "type": "rod",
-  "name": "z-kestran",
-  "related": [],
-  "places": [
-   {
-    "place": "Q86813414",
-    "from": null,
-    "to": 1396,
-    "person": "Albert z Kestřan a synové Michal, Šimon, Bartoloměj; později další členové rodu",
-    "how": "zalozeni",
-    "from_approx": false,
-    "to_approx": false
-   },
-   {
-    "place": "Q86813414",
-    "from": 1396,
-    "to": 1446,
-    "person": "Arnošt z Kestřan (potomci Údražští z Kestřan)",
-    "how": "dedictvi",
-    "from_approx": false,
-    "to_approx": true
-   }
-  ],
-  "transfers": [
-   {
-    "place": "Q86813414",
-    "year": 1446,
-    "from": "z-kestran",
-    "to": "soukromnik",
-    "how": "koupe"
-   }
-  ],
-  "place_count": 1,
-  "color_slot": null
- },
  "z-kettenburgu": {
   "id": "z-kettenburgu",
   "type": "rod",
@@ -65053,15 +65096,6 @@
     "how": "dedictvi",
     "from_approx": true,
     "to_approx": false
-   },
-   {
-    "place": "Q33325199",
-    "from": 1887,
-    "to": 1945,
-    "person": null,
-    "how": "koupe",
-    "from_approx": false,
-    "to_approx": false
    }
   ],
   "transfers": [
@@ -65078,23 +65112,9 @@
     "from": "z-kunvaldu",
     "to": "furstenbergove",
     "how": "koupe"
-   },
-   {
-    "place": "Q33325199",
-    "year": 1887,
-    "from": "sternberkove",
-    "to": "z-kunvaldu",
-    "how": "koupe"
-   },
-   {
-    "place": "Q33325199",
-    "year": 1945,
-    "from": "z-kunvaldu",
-    "to": "stat",
-    "how": "konfiskace"
    }
   ],
-  "place_count": 2,
+  "place_count": 1,
   "color_slot": null
  },
  "z-kvitkova": {
@@ -87049,7 +87069,7 @@
    {
     "place": "Q33325199",
     "year": 1945,
-    "from": "z-kunvaldu",
+    "from": "vrazdove-z-kunvaldu",
     "to": "stat",
     "how": "konfiskace"
    },
@@ -103991,7 +104011,7 @@
    {
     "place": "Q86813414",
     "year": 1446,
-    "from": "z-kestran",
+    "from": "kestransti-z-kestran",
     "to": "soukromnik",
     "how": "koupe"
    },
