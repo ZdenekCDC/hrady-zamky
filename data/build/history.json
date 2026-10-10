@@ -17795,7 +17795,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "neznamo",
-    "note": "první doložený majitel (1253); přesný rok konce držby neuveden"
+    "note": "první doložený majitel (1253, cs.wiki); atlasceska.cz uvádí k 1253 jako držitele v léně Beneše z Lobenštejna; přesný rok konce držby neuveden"
    },
    {
     "owner": "benesovici",
@@ -17838,7 +17838,7 @@
     "from_approx": true,
     "to_approx": false,
     "how": "neznamo",
-    "note": "cs.wiki: koncem 13. stol.; jiné zdroje: 1284 správa Mikuláše Opavského, nejpozději 1318 (hrady.dejiny.cz); od 1440 sídlo krnovských knížat, v 15. stol. v držení různých členů rodu včetně opolských knížat; konec držby 1474 dobytím Matyášem Korvínem"
+    "note": "cs.wiki: koncem 13. stol.; jiné zdroje: 1284 správa Mikuláše Opavského, nejpozději 1318 (hrady.dejiny.cz), atlasceska.cz: od počátku 14. stol.; od 1440 sídlo krnovských knížat, v 15. stol. v držení různých členů rodu včetně opolských knížat; konec držby 1474 dobytím Matyášem Korvínem"
    },
    {
     "owner": "koruna",
@@ -17951,6 +17951,7 @@
   "sources": [
    "https://cs.wikipedia.org/wiki/Cvilín_(hrad)",
    "http://hrady.dejiny.cz/cvilin/",
+   "https://www.atlasceska.cz/pamatky/zricenina-hradu-selenburk-21500",
    "https://www.infokrnov.cz/zricenina-hradu-selenburk/d-1114",
    "http://www.jeseniky.net/index.php?kat=1&obl=1&pol=2660&sluz=48",
    "https://isad.npu.cz/cvilin-hradiste-zricenina-hradu-15318"
@@ -18270,7 +18271,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "podle hrady.cz koupil panství od Buriana Žabky; Hynek a Jan ze Zástřizl je roku 1578 prodali dál (web města)"
+    "note": "podle hrady.cz koupil panství od Buriana Žabky; Hynek a Jan ze Zástřizl je roku 1578 prodali dál (web města); jiná stránka webu města (Historie města) uvádí Zástřizly 1562-1579"
    },
    {
     "owner": "pani-z-rozmitalu",
@@ -18281,7 +18282,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "hejtman; zdroj: web města Dolní Kounice (cs.wiki toto období nezmiňuje)"
+    "note": "hejtman; zdroj: web města Dolní Kounice (cs.wiki toto období nezmiňuje); stránka Historie města uvádí 1579-1588"
    },
    {
     "owner": "drnovsti-z-drnovic",
@@ -18314,7 +18315,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "snatek",
-    "note": "podle webu města a hrady.cz panství získali sňatkem (cs.wiki uvádí koupi); zámek využívali k hospodářským účelům"
+    "note": "podle webu města a hrady.cz panství získali sňatkem (cs.wiki uvádí koupi); zámek využívali k hospodářským účelům; stránka Historie města uvádí konec držby 1919"
    },
    {
     "owner": "soukromnik",
@@ -18325,7 +18326,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "koupe",
-    "note": "bývalý správce panství hraběte Herbersteina, koupě po první pozemkové reformě; kolem 1935 zemřel"
+    "note": "bývalý správce panství hraběte Herbersteina, koupě po první pozemkové reformě (1927, web města); stránka Historie města uvádí držbu 1919-1937; kolem 1935 zemřel"
    },
    {
     "owner": "soukromnik",
@@ -18428,6 +18429,7 @@
    "https://cs.wikipedia.org/wiki/Dolní_Kounice_(zámek)",
    "https://www.dolnikounice.cz/historie-hradu-a-zamku/d-82075",
    "https://www.hrady.cz/zamek-dolni-kounice/texty?pos=1000&tid=17838",
+   "https://dolnikounice.cz/historie-mesta/d-87045/p1=14833",
    "https://cs.wikipedia.org/wiki/Klášter_Rosa_coeli"
   ]
  },
@@ -20118,7 +20120,7 @@
    },
    {
     "year": 1422,
-    "text": "hrad obléhal Jan Žižka z Trocnova, dobytí je sporné (cs.wiki uvádí 1420)"
+    "text": "hrad obléhal Jan Žižka z Trocnova, dobytí je sporné (cs.wiki uvádí 1420, NPÚ duben 1422 s dendrochronologií 1421-1422, web obce Konstantinovy Lázně 1421)"
    },
    {
     "year": 1507,
@@ -20137,7 +20139,8 @@
    "https://cs.wikipedia.org/wiki/Gutštejn",
    "https://www.hrad-gutstejn.cz/cs/o-hradu/historie",
    "https://update.npu.cz/uop/plzen/pdf/publikacni%20cinnost/pzc-2012/pzc-ii-2012-sep.-07---zricenina-gutstejn.pdf",
-   "http://hrady.dejiny.cz/gutstejn/index.htm"
+   "http://hrady.dejiny.cz/gutstejn/index.htm",
+   "https://www.konst-lazne.cz/turistika-1/pro-historiky/stopy-minulosti-v-okoli/gutstejn-historie-hradu/"
   ]
  },
  "Q12019713": {
@@ -20258,7 +20261,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "vojenský rotmistr, koupil velkostatek za 112 000 zlatých; zemřel 12. 2. 1912 (cs.wiki a jiná stránka obce uvádějí 1913); majetek zdědila manželka Helena a syn František"
+    "note": "vojenský rotmistr, koupil velkostatek za 112 000 zlatých; zemřel 12. 2. 1912 (cs.wiki a jedna stránka obce uvádějí 1913, druhá stránka obce přímo 12. 2. 1912); majetek zdědila manželka Helena a syn František"
    },
    {
     "owner": "z-bayersburgu",
@@ -20324,6 +20327,7 @@
    "https://cs.wikipedia.org/wiki/Hlavnice_(zámek)",
    "https://obechlavnice.cz/zamek/d-13388/p1=2568",
    "https://www.obechlavnice.cz/2007-historie-kaplice-doplnena/d-36433/p1=2442",
+   "https://www.obechlavnice.cz/historie-a-sprava-obce/d-17769/p1=51",
    "https://www.hrady.cz/zamek-hlavnice-opava",
    "https://www.seznam-obci.cz/hlavnice/"
   ]
@@ -20667,14 +20671,16 @@
    },
    {
     "year": 1686,
-    "text": "při převodu křivoklátského panství ze Schwarzenbergů na Valdštejna je hrad v soupisu popsán jako starý a pustý"
+    "text": "při převodu křivoklátského panství ze Schwarzenbergů na Valdštejna je hrad v soupisu popsán jako starý a pustý (turistika.cz uvádí soupis z roku 1685; 1606 se po Jenčově psal křivoklátský polesní písař Julian Albín, hrad byl tehdy již zříceninou)"
    }
   ],
   "sources": [
    "https://cs.wikipedia.org/wiki/Jenčov",
    "https://www.hrady.cz/hrad-jencov-belec/texty?pos=1000&tid=9399",
    "http://hrady.dejiny.cz/jencov/index.htm",
-   "https://plus.rozhlas.cz/jencov-kapesni-hrad-6664305"
+   "https://plus.rozhlas.cz/jencov-kapesni-hrad-6664305",
+   "https://www.turistika.cz/mista/zricenina-jencov/detail",
+   "https://www.hrady-zriceniny.cz/hrad_jencov.htm"
   ]
  },
  "Q12029311": {
