@@ -72,3 +72,17 @@ Druhý průchod už hotových historií: agent najde druhý zdroj mimo cs.wiki a
 - Kandidáty vybrat podle návštěvnosti NIPOS (`places.json`) mezi historiemi, jejichž `sources` jsou jen cs.wiki. Pozor na zaměněné objekty se stejným názvem (Nové Hrady, Kynžvart hrad / zámek, Boskovice hrad / zámek) - QID v zadání ověřit v `places.json`.
 - Po doběhnutí: `fetch_families.py` (potřebuje síť na cs.wikipedia.org a Wikidata), `build_history.py`, E2E, commit, nejistoty do `TODO.md`.
 - Co agenti rádi pokazí (ověřovací dávky): příslušnost osoby k rodu odvozená jen z jména (vrátit na `z-<predikat>` bez článku), roky odvozené z věku dědiců nebo z obecné znalosti, klíč `approx` v události (schéma ho nezná), id rodu s pomlčkou uprostřed (`radziwi-ove` místo `radziwiove`), překrývající se nebo nechronologické záznamy `owners`.
+
+## Přístupnost a data vzniku po dávkách (2026-10-10)
+
+Stejný režim jako ověřovací dávky (2 agenti Sonnet, jen čtou a hlásí, nic nezapisují, žádné vnořené agenty, Exa místo curl). Zapisuje hlavní relace. Cena: ~1-2 % pětihodinového okna na 25 objektů u přístupnosti, 100 objektů na data vzniku ~4 %.
+
+- **Přístupnost** (`data/overrides.json`, `places.<QID>.access`): agent vrací řádek `QID | vstupne / volne / neznamo / zanikly | URL | důvod`.
+  - `vstupne` = pravidelné prohlídky, muzeum nebo vstupné s dobou (aktuální zdroj 2024-2026); jen dobrovolné vstupné, volný vstup nebo pár dní v roce se nepočítá.
+  - `volne` = stojící zdivo / zřícenina / úsek hradeb volně přístupný nebo viditelný z veřejného prostoru; jen terénní stopy (valy, příkopy) se nepřepisují.
+  - `zanikly` = nic nezbylo; zapisuje se do `exclude` s důvodem (zbořené, zatopené, zastavěné, nikdy nepostavené). Zůstává, když z kláštera zbyl kostel nebo když jsou vidět základy.
+  - Pozor na zaměnu stejnojmenných objektů (hrad vs. zámek, stará vs. nová tvrz): agent dostává titulek článku z cs.wiki a mapování se hlásí jako nejisté (Karlštejn zámek Q1505765 zaměněn s hradem, nezapsáno).
+  - Výtěžnost podle pořadí podle délky článku: kláštery 40 % -> 5 %, zámky 20 % -> 4 %, hrady 10 %, tvrze 10 % -> 5 %, hradby (`volne`) ~50 %. Řazení podle délky článku na cs.wiki funguje jako náhrada významu.
+- **Data vzniku** (`data/founded.json`, záznam `{year|century, kind: built|first_mention, text}`): agent otevře článek na cs.wiki (infobox "Výstavba" a historie), řádek `QID | year N / century N | built / first_mention | approx / exact | URL | citace`. Pravidla: jen výslovně uvedené, u rozsahu první rok, u století `century N`, přestavba není vznik. Nejdřív se bere `founded.year` z ověřených `data/history/<QID>.json` (bez agentů), `fetch_founded.py` už zapsané odhady nepřepisuje.
+- Zápis: `data/overrides.json` má odsazení 1 mezera (`json.dumps(indent=1, ensure_ascii=False)`, jinak diff přes stovky řádků). V zsh se seznam QID v proměnné nerozdělí na slova (`for q in $V` bere jeden argument), seznamy dávat jako pole nebo přímo do Pythonu.
+- Po dávce: `build_places.py`, `tests/e2e.py`, řádek do `TODO.md` (bod "Nové druhy míst" a "Stroj času"), commit.
