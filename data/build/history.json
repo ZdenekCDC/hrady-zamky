@@ -2883,7 +2883,7 @@
     "from_approx": false,
     "to_approx": false,
     "how": "koupe",
-    "note": "císař Rudolf II. hrad postoupil/odprodal městu bez panství, s podmínkou údržby a dání k dispozici panovníkovi (hrady.cz, pamatkovykatalog.cz: odprodej); cs.wiki píše 'majetkem města'; po 1750 kasárna (1811 požár, obnova 1816-1818), dnes hrad zůstává městu a slouží muzeu, knihovně a obřadní síni; zdroje neuvádějí případné vlastnictví armády/státu v 19.-20. století"
+    "note": "císař Rudolf II. hrad postoupil/odprodal městu bez panství, s podmínkou údržby a dání k dispozici panovníkovi (hrady.cz, pamatkovykatalog.cz: odprodej); cs.wiki píše 'majetkem města'; po 1750 kasárna (1811 požár, obnova 1816-1818), dnes hrad zůstává městu a slouží muzeu, knihovně a obřadní síni; mistopisy.cz uvádí, že koncem 19. stol. hrad patřil městu a armádnímu eráru (kasárna; 1905 schváleno nové kasárenské křídlo)"
    }
   ],
   "events": [
@@ -2928,7 +2928,8 @@
    "https://cs.wikipedia.org/wiki/Kadaň_(hrad)",
    "https://www.hrady.cz/hrad-kadan-mestske-muzeum/texty?tid=9786",
    "https://pamatkovykatalog.cz/kadan-mestska-pamatkova-rezervace-7663598",
-   "https://www.turistika.cz/mista/kadan--1/detail"
+   "https://www.turistika.cz/mista/kadan--1/detail",
+   "https://www.mistopisy.cz/pruvodce/body-zajmu/448/hrad-kadan/"
   ]
  },
  "Q1012637": {
@@ -8620,22 +8621,22 @@
     "owner_wiki": null,
     "person": null,
     "from": 1945,
-    "to": 1986,
+    "to": 2008,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "konfiskace",
-    "note": "znárodněn velkostatek i hrad; po 1945 státní lesní správa, 1952-2007 domov důchodců (mistopisy.cz); rok převodu na Pardubický kraj zdroje neuvádějí; dnešní vlastník Pardubický kraj"
+    "note": "znárodněn velkostatek i hrad; po 1945 státní lesní správa, 1952-2007 domov důchodců (mistopisy.cz); převod na Pardubický kraj 2008 podle novinky.cz (2025)"
    },
    {
     "owner": "mesto",
     "owner_wiki": null,
     "person": "Pardubický kraj",
-    "from": 1986,
+    "from": 2008,
     "to": null,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false,
     "how": "jine",
-    "note": "dnešní vlastník dle cs.wiki; rok převodu zdroje neuvádějí"
+    "note": "dnešní vlastník; rok 2008 podle novinky.cz (2025), cs.wiki rok neuvádí; od 2021 spravuje Regionální muzeum v Chrudimi"
    }
   ],
   "events": [
@@ -8681,7 +8682,8 @@
    "https://rychmburk.cz/cs/o-hradu-a-pivovaru/historie",
    "https://www.hrady.cz/hrad-rychmburk",
    "https://www.mistopisy.cz/pruvodce/body-zajmu/420/hrad-rychmburk/",
-   "https://www.turistika.cz/mista/rychmburk/detail"
+   "https://www.turistika.cz/mista/rychmburk/detail",
+   "https://www.novinky.cz/clanek/domaci-zpravy-pardubicky-kraj-hrad-rychmburk-slavi-700-let-a-laka-k-nocovani-mazlicci-jsou-vitani-40525872"
   ]
  },
  "Q1013789": {
@@ -18115,9 +18117,9 @@
     "from": 1638,
     "to": 1680,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "snatek",
-    "note": "získal panství sňatkem s vdovou Annou Marií z Donína; rok konce držby žádný zdroj neuvádí (před 1680)"
+    "note": "získal panství sňatkem s vdovou Annou Marií z Donína; konec držby 1680 podle zamekdoksy.cz (seznam majitelů)"
    },
    {
     "owner": "valdstejnove",
@@ -18135,19 +18137,19 @@
     "owner_wiki": null,
     "person": null,
     "from": 1945,
-    "to": 1980,
+    "to": 2000,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "konfiskace",
-    "note": "armáda 1952-1962, od 1963 ministerstvo zemědělství (učiliště); roky přechodu na kraj zdroje neuvádějí"
+    "note": "armáda 1952-1963, od 1963 ministerstvo zemědělství (učiliště) do 2000; přechod na kraj 2000 podle zamekdoksy.cz (seznam majitelů)"
    },
    {
     "owner": "mesto",
     "owner_wiki": null,
     "person": "Liberecký kraj",
-    "from": 1980,
+    "from": 2000,
     "to": 2015,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false,
     "how": "neznamo",
     "note": "kraj zámek nabízel k prodeji (2012), nakonec jej předal městu"
@@ -18201,7 +18203,8 @@
   "sources": [
    "https://cs.wikipedia.org/wiki/Doksy_(zámek)",
    "http://www.zamekdoksy.cz/od-16-stoleti-do-roku-1945/ms-1010",
-   "https://mesto-doksy.cz/z-historie-mesta"
+   "https://mesto-doksy.cz/z-historie-mesta",
+   "http://www.zamekdoksy.cz/majitele-zamku/ms-1013/p1=1009"
   ]
  },
  "Q11816103": {
@@ -21201,7 +21204,7 @@
     "from_approx": true,
     "to_approx": false,
     "how": "koupe",
-    "note": "zámek koupil pro lankraběte jeho bratr olomoucký arcibiskup Bedřich Fürstenberg; letní sídlo; Fritz jej 1895 prodal pro dluhy; rok nákupu 1873 odvozen z prodeje Schindlerů"
+    "note": "zámek koupil pro lankraběte jeho bratr olomoucký arcibiskup Bedřich Fürstenberg; letní sídlo; Fritz jej 1895 prodal pro dluhy; rok nákupu 1873 odvozen z prodeje Schindlerů (cs.wiki: děti prodaly tři roky po smrti 1870, tj. 1873); zamek-kunin.cz/historie uvádí, že dědicové zámek odkoupil Ernst Egon Fürstenberg již 1870 - rozpor neodstraněn"
    },
    {
     "owner": "bauerove",
@@ -21210,9 +21213,9 @@
     "from": 1895,
     "to": 1945,
     "from_approx": false,
-    "to_approx": true,
+    "to_approx": false,
     "how": "koupe",
-    "note": "podnikatelská rodina, zámek byl letním sídlem; poslední majitel JUDr. Viktor Bauer zemřel v Kuníně v srpnu 1939; rok konfiskace po 2. světové válce zdroj přesně neuvádí"
+    "note": "Victor Bauer st. + Marie Chlumecká-Bauerová, po jejich smrti 1911 synové (1912), 1918 dělením zámek připadl Dr. Victoru Bauerovi; dědicům konfiskován 1945 (zamek-kunin.cz); podnikatelská rodina, zámek byl letním sídlem; poslední majitel JUDr. Viktor Bauer zemřel v Kuníně v srpnu 1939; rok konfiskace po 2. světové válce zdroj přesně neuvádí"
    },
    {
     "owner": "stat",
@@ -21271,6 +21274,7 @@
    "https://cs.wikipedia.org/wiki/Kunín_(zámek)",
    "https://zamek.kunin.cz/o-zamku/historie/",
    "https://zamek.kunin.cz/o-zamku/",
+   "https://www.zamek-kunin.cz/historie",
    "https://www.kunin.cz/obec/turisticke-zajimavosti/zamek-kunin-357cs.html",
    "https://baroqueart.museumwnf.org/database_item.php?id=monument%3BBAR%3Bcz%3BMon11_F%3B34%3Bcs"
   ]

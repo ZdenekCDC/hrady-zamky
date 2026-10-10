@@ -1142,7 +1142,7 @@
     "person": "rytíři Bauerové z Brna (Viktor Bauer 1847-1911, poté JUDr. Viktor Bauer 1876-1939)",
     "how": "koupe",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    }
   ],
   "transfers": [
@@ -62462,7 +62462,7 @@
     "person": "Kryštof Ferdinand z Heissensteinu",
     "how": "snatek",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    }
   ],
   "transfers": [
@@ -81015,11 +81015,11 @@
    {
     "place": "Q1013771",
     "from": 1945,
-    "to": 1986,
+    "to": 2008,
     "person": null,
     "how": "konfiskace",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q1014003",
@@ -81339,11 +81339,11 @@
    {
     "place": "Q11814076",
     "from": 1945,
-    "to": 1980,
+    "to": 2000,
     "person": null,
     "how": "konfiskace",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q11816103",
@@ -84195,7 +84195,7 @@
    },
    {
     "place": "Q1013771",
-    "year": 1986,
+    "year": 2008,
     "from": "stat",
     "to": "mesto",
     "how": "jine"
@@ -84594,7 +84594,7 @@
    },
    {
     "place": "Q11814076",
-    "year": 1980,
+    "year": 2000,
     "from": "stat",
     "to": "mesto",
     "how": "neznamo"
@@ -93338,11 +93338,11 @@
    },
    {
     "place": "Q1013771",
-    "from": 1986,
+    "from": 2008,
     "to": null,
     "person": "Pardubický kraj",
     "how": "jine",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -93554,11 +93554,11 @@
    },
    {
     "place": "Q11814076",
-    "from": 1980,
+    "from": 2000,
     "to": 2015,
     "person": "Liberecký kraj",
     "how": "neznamo",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -95009,7 +95009,7 @@
    },
    {
     "place": "Q1013771",
-    "year": 1986,
+    "year": 2008,
     "from": "stat",
     "to": "mesto",
     "how": "jine"
@@ -95219,7 +95219,7 @@
    },
    {
     "place": "Q11814076",
-    "year": 1980,
+    "year": 2000,
     "from": "stat",
     "to": "mesto",
     "how": "neznamo"
