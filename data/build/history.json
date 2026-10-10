@@ -7023,11 +7023,11 @@
     "owner_wiki": "Janovští z Janovic",
     "person": "Racek Janovský z Janovic",
     "from": 1461,
-    "to": 1472,
+    "to": 1470,
     "from_approx": false,
-    "to_approx": false,
+    "to_approx": true,
     "how": "koupe",
-    "note": "klatovský hejtman, stoupenec Jiřího z Poděbrad; po jeho smrti koupil roku 1470 polovinu hradu od jeho vdovy Mikuláš z Běšin"
+    "note": "klatovský hejtman, stoupenec Jiřího z Poděbrad; zemřel před 1470, kdy polovinu hradu od jeho vdovy koupil Mikuláš z Běšin (pajrek.cz); hrad dobyli Bavoři 1472"
    },
    {
     "owner": "besinove-z-besin",
@@ -12576,7 +12576,7 @@
     "from_approx": true,
     "to_approx": false,
     "how": "dedictvi",
-    "note": "roku 1421 jej na Švamberku zajal Jan Žižka z Trocnova"
+    "note": "roku 1421 jej na Švamberku zajal Jan Žižka z Trocnova; hrady.cz: v zajetí změnil postoj, bojoval po boku husitů a zemřel 1425 u Retzu, hrad tehdy zůstal v rukou táborů"
    },
    {
     "owner": "neznamo",
@@ -14058,26 +14058,48 @@
     "note": "Markéta 1673-1720 (přestavba na renesanční zámek, 1712 poštovní stanice), Marie Terezie 1720-1741 (největší rozsah panství); 1741 úmrtí a první inventář; barokní přestavba koncem 17. stol."
    },
    {
-    "owner": "daunove",
-    "owner_wiki": "Daunové",
-    "person": "Daunové",
+    "owner": "z-hartenberku",
+    "owner_wiki": null,
+    "person": "Dr. František Alexandr Hartl z Hartenberka",
     "from": 1741,
-    "to": 1807,
-    "from_approx": true,
-    "to_approx": true,
+    "to": 1762,
+    "from_approx": false,
+    "to_approx": false,
     "how": "neznamo",
-    "note": "uvádí pouze pidifrk.cz (Daunové mezi Trautsony a Colloredo-Mansfeldy); roky neuvedeny"
+    "note": "web obce; 1761 postavil kapli sv. Kříže"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Marie Kateřina von Stettner",
+    "from": 1762,
+    "to": 1789,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "web obce; 1778 zavedeno pěstování brambor"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Jan Josef Madrovský, hraběnka Antonie Daunová, paní Stillfriedová, Václav Ubelli, František Ignác Hafenbrandl, hrabě Karel Buttler",
+    "from": 1789,
+    "to": 1807,
+    "from_approx": false,
+    "to_approx": false,
+    "how": "neznamo",
+    "note": "web obce uvádí Madrovského s obdobím 1789-1807 a pod ním bez let další majitele v tomto pořadí; jednotlivá období nejsou známa; Daunovou (Daunové) zmiňuje i pidifrk.cz"
    },
    {
     "owner": "colloredove",
     "owner_wiki": "Colloredové",
-    "person": "Colloredo-Mansfeldové (Ferdinand)",
+    "person": "hrabě Ferdinand Colloredo-Mansfeld",
     "from": 1807,
     "to": 1810,
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false,
     "how": "neznamo",
-    "note": "web obce uvádí hraběte Ferdinanda Colloredo-Mansfelda do 1810 (začátek letopočtu poškozen ve zdroji)"
+    "note": "web obce: 1807-1810"
    },
    {
     "owner": "razumovsti",
@@ -14143,7 +14165,7 @@
     "from_approx": true,
     "to_approx": false,
     "how": "jine",
-    "note": "odštěpená společnost; od 2010 postupná rekonstrukce, 2011 zpřístupněno; podle cs.wiki také Malá Hluboká a.s. (nepotvrzeno druhým zdrojem)"
+    "note": "web obce a Český rozhlas (2012) uvádějí koupi akciovou společností (PENA Plus a.s., Brno) až 2009, cs.wiki převod 2007 - rozpor v letech; odštěpená společnost; od 2010 postupná rekonstrukce, 2011 zpřístupněno; podle cs.wiki také Malá Hluboká a.s. (nepotvrzeno druhým zdrojem)"
    }
   ],
   "events": [
@@ -14184,7 +14206,8 @@
    "https://cs.wikipedia.org/wiki/Český_Rudolec_(zámek)",
    "https://www.ceskyrudolec.cz/majitele-zamku",
    "https://www.ceskyrudolec.cz/historie-cesky-rudolec",
-   "https://pidifrk.cz/detail-pidifrku.php?p=708"
+   "https://pidifrk.cz/detail-pidifrku.php?p=708",
+   "https://cesky.radio.cz/zamek-cesky-rudolec-vstava-z-popela-8552995"
   ]
  },
  "Q10968666": {
@@ -14998,7 +15021,29 @@
     "from_approx": false,
     "to_approx": true,
     "how": "koupe",
-    "note": "koupil panství v dražbě a zámek částečně opravil (hrady.cz); poté jeho manželka Josefa rozená Nebelová z Türkheimu, 1845 předáno dětem"
+    "note": "koupil panství v dražbě a zámek částečně opravil (hrady.cz)"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "Josefa z Geisslernu, rozená Nebelová z Türkheimu",
+    "from": 1837,
+    "to": 1845,
+    "from_approx": true,
+    "to_approx": false,
+    "how": "dedictvi",
+    "note": "vdova po Janu Nepomukovi z Geisslernu; 1845 panství i zámek předala dětem (hrady.cz)"
+   },
+   {
+    "owner": "soukromnik",
+    "owner_wiki": null,
+    "person": "děti Josefy z Geisslernu",
+    "from": 1845,
+    "to": 1857,
+    "from_approx": false,
+    "to_approx": true,
+    "how": "dar",
+    "note": "1848 zámek podle hrady.cz zcela obnoven; konec držby 1857 (cs.wiki, koupě Henriettou Pereira-Arnstein) nebo 1859 (hrady.cz, Flora Friessová)"
    },
    {
     "owner": "soukromnik",
@@ -19960,7 +20005,7 @@
     "from_approx": false,
     "to_approx": true,
     "how": "konfiskace",
-    "note": "po roce 1945 československý stát (sídlo MNV, správní a školské účely); rok převodu na obec zdroje neuvádějí"
+    "note": "po roce 1945 československý stát (sídlo MNV, správní a školské účely); rok převodu na obec zdroje neuvádějí (hrady-zriceniny.cz: po 1945 v majetku obce)"
    },
    {
     "owner": "mesto",
@@ -20004,7 +20049,8 @@
    "https://cs.wikipedia.org/wiki/Velké_Hoštice_(zámek)",
    "https://www.hostice.cz/obec/historie/",
    "https://www.hostice.cz/obec/historie/historie-zamku-velke-hostice/historie-zamku-velke-hostice-85cs.html",
-   "https://www.hrady.cz/zamek-velke-hostice/texty?pos=550&tid=5135"
+   "https://www.hrady.cz/zamek-velke-hostice/texty?pos=550&tid=5135",
+   "https://hrady-zriceniny.cz/hrad_velke_hostice.htm"
   ]
  },
  "Q11997003": {

@@ -7691,9 +7691,9 @@
     "place": "Q10938001",
     "from": 1807,
     "to": 1810,
-    "person": "Colloredo-Mansfeldové (Ferdinand)",
+    "person": "hrabě Ferdinand Colloredo-Mansfeld",
     "how": "neznamo",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false
    },
    {
@@ -7810,7 +7810,7 @@
    {
     "place": "Q10938001",
     "year": 1807,
-    "from": "daunove",
+    "from": "soukromnik",
     "to": "colloredove",
     "how": "neznamo"
    },
@@ -8171,15 +8171,6 @@
     "how": "neznamo",
     "from_approx": false,
     "to_approx": true
-   },
-   {
-    "place": "Q10938001",
-    "from": 1741,
-    "to": 1807,
-    "person": "Daunové",
-    "how": "neznamo",
-    "from_approx": true,
-    "to_approx": true
    }
   ],
   "transfers": [
@@ -8196,23 +8187,9 @@
     "from": "daunove",
     "to": "haugvicove-z-biskupic",
     "how": "dedictvi"
-   },
-   {
-    "place": "Q10938001",
-    "year": 1741,
-    "from": "trautsonove",
-    "to": "daunove",
-    "how": "neznamo"
-   },
-   {
-    "place": "Q10938001",
-    "year": 1807,
-    "from": "daunove",
-    "to": "colloredove",
-    "how": "neznamo"
    }
   ],
-  "place_count": 2,
+  "place_count": 1,
   "color_slot": null
  },
  "de-forest-bischofsheim": {
@@ -15698,11 +15675,11 @@
    {
     "place": "Q1013457",
     "from": 1461,
-    "to": 1472,
+    "to": 1470,
     "person": "Racek Janovský z Janovic",
     "how": "koupe",
     "from_approx": false,
-    "to_approx": false
+    "to_approx": true
    },
    {
     "place": "Q1013457",
@@ -52735,7 +52712,7 @@
     "place": "Q10938001",
     "year": 1741,
     "from": "trautsonove",
-    "to": "daunove",
+    "to": "z-hartenberku",
     "how": "neznamo"
    },
    {
@@ -62338,6 +62315,15 @@
   "related": [],
   "places": [
    {
+    "place": "Q10938001",
+    "from": 1741,
+    "to": 1762,
+    "person": "Dr. František Alexandr Hartl z Hartenberka",
+    "how": "neznamo",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
     "place": "Q11730719",
     "from": 1436,
     "to": 1462,
@@ -62375,6 +62361,20 @@
    }
   ],
   "transfers": [
+   {
+    "place": "Q10938001",
+    "year": 1741,
+    "from": "trautsonove",
+    "to": "z-hartenberku",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q10938001",
+    "year": 1762,
+    "from": "z-hartenberku",
+    "to": "soukromnik",
+    "how": "neznamo"
+   },
    {
     "place": "Q11730719",
     "year": 1436,
@@ -62425,7 +62425,7 @@
     "how": "koupe"
    }
   ],
-  "place_count": 3,
+  "place_count": 4,
   "color_slot": null
  },
  "z-haubenu": {
@@ -97268,6 +97268,24 @@
    },
    {
     "place": "Q10938001",
+    "from": 1762,
+    "to": 1789,
+    "person": "Marie Kateřina von Stettner",
+    "how": "neznamo",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q10938001",
+    "from": 1789,
+    "to": 1807,
+    "person": "Jan Josef Madrovský, hraběnka Antonie Daunová, paní Stillfriedová, Václav Ubelli, František Ignác Hafenbrandl, hrabě Karel Buttler",
+    "how": "neznamo",
+    "from_approx": false,
+    "to_approx": false
+   },
+   {
+    "place": "Q10938001",
     "from": 1856,
     "to": 1946,
     "person": "Angelo (Michael Angelo) Ritter von Picchioni, od 1891 Ludvík, od 1908 Arnošt",
@@ -97371,6 +97389,24 @@
     "to": 1837,
     "person": "Jan Nepomuk z Geisslernu",
     "how": "koupe",
+    "from_approx": false,
+    "to_approx": true
+   },
+   {
+    "place": "Q11172097",
+    "from": 1837,
+    "to": 1845,
+    "person": "Josefa z Geisslernu, rozená Nebelová z Türkheimu",
+    "how": "dedictvi",
+    "from_approx": true,
+    "to_approx": false
+   },
+   {
+    "place": "Q11172097",
+    "from": 1845,
+    "to": 1857,
+    "person": "děti Josefy z Geisslernu",
+    "how": "dar",
     "from_approx": false,
     "to_approx": true
    },
@@ -101259,6 +101295,20 @@
     "year": 1673,
     "from": "soukromnik",
     "to": "trautsonove",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q10938001",
+    "year": 1762,
+    "from": "z-hartenberku",
+    "to": "soukromnik",
+    "how": "neznamo"
+   },
+   {
+    "place": "Q10938001",
+    "year": 1807,
+    "from": "soukromnik",
+    "to": "colloredove",
     "how": "neznamo"
    },
    {
