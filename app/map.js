@@ -44,6 +44,7 @@ let state;
 let selected = null;
 const markers = new Map(); // id -> {marker, key}
 let layer;
+let leaders;
 
 function loadState() {
   try {
@@ -195,6 +196,16 @@ function markerStyle(p) {
   return { size: 9, fill: "var(--mk-muted)", stroke: "var(--mk-bg)", strokeWidth: 1, opacity: dim ? 0.15 : 0.8 };
 }
 
+// markers grow with the zoom: the overview keeps the small glyphs, close up they get bigger (and stay legible)
+const ZOOM_GROW_FROM = 9;
+const ZOOM_GROW_SPAN = 5;
+const ZOOM_GROW_MAX = 0.7;
+
+function zoomScale() {
+  const t = Math.min(1, Math.max(0, (map.getZoom() - ZOOM_GROW_FROM) / ZOOM_GROW_SPAN));
+  return 1 + ZOOM_GROW_MAX * t;
+}
+
 /* ---------- filtering ---------- */
 
 function passes(p) {
@@ -224,6 +235,8 @@ function refresh() {
   requestAnimationFrame(() => {
     pending = false;
     const counts = { vstupne: 0, volne: 0, neznamo: 0 };
+    const scale = zoomScale();
+    const shown = [];
     for (const p of D.places) {
       const m = markers.get(p.id);
       const show = passes(p);
@@ -234,6 +247,7 @@ function refresh() {
       }
       const sel = selected === p.id;
       const base = markerStyle(p);
+      base.size = Math.round(base.size * scale);
       const st = sel ? { ...base, size: Math.max(24, Math.round(base.size * 1.3)), opacity: 1 } : base;
       const key = JSON.stringify(st) + sel;
       if (m.key !== key) {
@@ -242,7 +256,9 @@ function refresh() {
       }
       m.marker.setZIndexOffset(sel ? 5000 : p.visited ? 1000 : p.access === "vstupne" ? 500 : 0);
       if (!layer.hasLayer(m.marker)) layer.addLayer(m.marker);
+      shown.push({ p, m, box: glyphBox(st.size) });
     }
+    declutter(shown);
     for (const [k, n] of Object.entries(counts)) {
       const el = document.querySelector(`[data-count="${k}"]`);
       if (el) el.textContent = n;
@@ -250,6 +266,54 @@ function refresh() {
     renderLegend();
     updateSummaries();
   });
+}
+
+// Close up (zoom >= DECLUTTER_ZOOM) places whose glyphs overlap (several objects in one town) are fanned out
+// on a circle around their common centre; a thin line leads from each glyph back to the real position.
+const DECLUTTER_ZOOM = 15;
+
+function declutter(shown) {
+  leaders.clearLayers();
+  const z = map.getZoom();
+  const at = (p) => L.latLng(p.lat, p.lon);
+  if (z < DECLUTTER_ZOOM) {
+    for (const { p, m } of shown) if (m.moved) { m.marker.setLatLng(at(p)); m.moved = false; }
+    return;
+  }
+  const pts = shown.map((s) => ({ ...s, xy: map.project(at(s.p), z), group: null }))
+    .sort((a, b) => (a.p.id < b.p.id ? -1 : 1)); // stable order: the same place always gets the same slot
+  const groups = [];
+  for (const a of pts) {
+    for (const b of pts) {
+      if (b === a) break; // only earlier points: a joins (merges) the groups of everything it touches
+      if (a.xy.distanceTo(b.xy) >= (a.box + b.box) / 2) continue;
+      if (!a.group) { a.group = b.group; b.group.push(a); }
+      else if (a.group !== b.group) {
+        for (const x of b.group) { x.group = a.group; a.group.push(x); }
+        groups.splice(groups.indexOf(b.group), 1);
+      }
+    }
+    if (!a.group) { a.group = [a]; groups.push(a.group); }
+  }
+  for (const g of groups) {
+    if (g.length < 2) {
+      const { p, m } = g[0];
+      if (m.moved) { m.marker.setLatLng(at(p)); m.moved = false; }
+      continue;
+    }
+    const cx = g.reduce((s, x) => s + x.xy.x, 0) / g.length;
+    const cy = g.reduce((s, x) => s + x.xy.y, 0) / g.length;
+    const box = Math.max(...g.map((x) => x.box));
+    const r = (box * 0.55) / Math.sin(Math.PI / g.length); // neighbours on the circle end up ~1.1 glyphs apart
+    g.forEach((x, i) => {
+      const a = -Math.PI / 2 + (2 * Math.PI * i) / g.length;
+      const to = map.unproject(L.point(cx + r * Math.cos(a), cy + r * Math.sin(a)), z);
+      x.m.marker.setLatLng(to);
+      x.m.moved = true;
+      leaders.addLayer(L.polyline([at(x.p), to], { color: "#555", weight: 1, opacity: 0.7, interactive: false }));
+      leaders.addLayer(L.circleMarker(at(x.p), { radius: 2, color: "#555", weight: 1, fillOpacity: 1, interactive: false }));
+    });
+  }
 }
 
 /** Leaflet icon of a place glyph, anchored at its centre. */
@@ -760,6 +824,8 @@ export function initMap(data) {
   attachBaseLayers(map);
   L.control.scale({ imperial: false }).addTo(map);
   layer = L.layerGroup().addTo(map);
+  leaders = L.layerGroup().addTo(map);
+  map.on("zoomend", refresh);
   for (const p of D.places) {
     const m = L.marker([p.lat, p.lon], { keyboard: false });
     m.on("click", () => { location.hash = `#/misto/${p.id}`; });

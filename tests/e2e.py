@@ -542,6 +542,39 @@ def main():
         page.wait_for_function("fetch('api/visited').then(r => r.json()).then(d => d.iconTheme === null)")
         print("icon theme: server ok")
 
+        # close up the glyphs grow with the zoom and overlapping ones (Jaromer: two castles ~35 m apart) are fanned out
+        zoomed = browser.new_page(viewport={"width": 1200, "height": 800})
+        zoomed.on("pageerror", lambda e: errors.append(f"pageerror (zoom): {e}"))
+        zoomed.goto(base + "#/misto/Q12023712")
+        zoomed.wait_for_selector("#panel-detail h2")
+        zoomed.click("#d-close")
+        zoomed.check("input[data-layer=neznamo]")  # the new castle of Jaromer has unknown access
+
+        def centre_glyphs():  # glyph boxes within 120 px of the map centre
+            return zoomed.evaluate("""() => {
+                const m = document.getElementById('map').getBoundingClientRect();
+                const cx = m.x + m.width / 2, cy = m.y + m.height / 2;
+                return [...document.querySelectorAll('.leaflet-marker-pane .mk')].map((e) => e.getBoundingClientRect())
+                    .filter((r) => Math.hypot(r.x + r.width / 2 - cx, r.y + r.height / 2 - cy) < 120)
+                    .map((r) => ({ x: r.x, y: r.y, w: r.width, h: r.height }));
+            }""")
+        zoomed.wait_for_timeout(500)
+        width_far = max(g["w"] for g in centre_glyphs())
+        for _ in range(12):
+            zoomed.click(".leaflet-control-zoom-in")
+            zoomed.wait_for_timeout(150)
+        zoomed.wait_for_timeout(600)
+        near = centre_glyphs()
+        assert len(near) >= 2, f"expected both castles of Jaromer near the centre, got {len(near)}"
+        assert max(g["w"] for g in near) > width_far * 1.2, f"glyphs did not grow with the zoom: {width_far} -> {max(g['w'] for g in near)}"
+        for i, a in enumerate(near):
+            for b in near[i + 1:]:
+                assert a["x"] + a["w"] <= b["x"] + 1 or b["x"] + b["w"] <= a["x"] + 1 or a["y"] + a["h"] <= b["y"] + 1 or b["y"] + b["h"] <= a["y"] + 1, \
+                    f"glyphs still overlap close up: {a} {b}"
+        assert zoomed.locator(".leaflet-overlay-pane path").count() >= 2, "no leader lines from the fanned glyphs to their real positions"
+        zoomed.screenshot(path=str(OUT / "09-zoom-fan.png"))
+        print(f"zoomed glyphs: {width_far:.0f} -> {max(g['w'] for g in near):.0f} px, {len(near)} fanned apart")
+
         dark = browser.new_page(viewport={"width": 1200, "height": 800}, color_scheme="dark")
         dark.on("pageerror", lambda e: errors.append(f"pageerror (dark): {e}"))
         dark.goto(base + "#/misto/Q1701829")
