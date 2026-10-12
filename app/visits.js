@@ -151,9 +151,11 @@ async function useHandle(handle, first) {
 /** Call once after data load: picks the storage and applies the visits to D.places. */
 export async function initVisits(data) {
   D = data;
+  // api/visited exists only behind scripts/serve.py; elsewhere probing it just logs a 404 in the console
+  const local = ["localhost", "127.0.0.1", "[::1]"].includes(location.hostname);
   try {
-    const r = await fetch("api/visited", { cache: "no-store" });
-    if (r.ok) {
+    const r = local ? await fetch("api/visited", { cache: "no-store" }) : null;
+    if (r?.ok) {
       mode = "server";
       const doc = await r.json();
       replaceAll(doc.visits.map(norm).filter(Boolean));
