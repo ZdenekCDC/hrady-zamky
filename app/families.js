@@ -177,4 +177,5 @@ export function showFamilies(id) {
   root.querySelector("#fam-inst").addEventListener("change", (e) => { filter.showInst = e.target.checked; rerender(); });
   if (f) renderFamilyCharts(f);
   else renderOverview();
+  if (id && matchMedia("(max-width: 900px)").matches) root.querySelector(".family-detail").scrollIntoView(); // stacked layout: bring the picked family into view
 }

@@ -276,9 +276,9 @@ main { flex: 1; min-height: 0; display: flex; }
 @media (max-width: 800px) {
   .wide-toggle { display: none; }
   #sidebar.wide { width: auto; }
-  #view-map { flex-direction: column; }
-  #map { min-height: 55vh; }
-  #sidebar { width: auto; border-left: 0; border-top: 1px solid var(--border); }
+  #view-map { flex-direction: column; overflow-y: auto; } /* map + filters scroll together, the footer stays below */
+  #map { flex: none; height: 55vh; }
+  #sidebar { width: auto; overflow-y: visible; border-left: 0; border-top: 1px solid var(--border); }
   .stats { display: none; }
   .search { order: 3; flex-basis: 100%; max-width: none; }
 }
@@ -408,7 +408,8 @@ main { flex: 1; min-height: 0; display: flex; }
   .families-layout, .family-grid { grid-template-columns: 1fr; }
   #view-families { overflow-y: auto; }
   .families-layout { height: auto; }
-  .family-list, .family-detail { overflow-y: visible; }
+  .family-detail { overflow-y: visible; }
+  .family-list { max-height: 45vh; border-right: 0; border-bottom: 1px solid var(--border); } /* the detail is not pushed far below the list */
   .family-grid > :last-child { position: static; }
   #family-map { aspect-ratio: auto; height: 340px; }
 }
