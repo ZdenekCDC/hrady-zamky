@@ -110,7 +110,12 @@
   "Q12030927",
   "Q38186476",
   "Q12056248",
-  "Q27555509"
+  "Q27555509",
+  "Q42753432",
+  "Q115730871",
+  "Q31444028",
+  "Q37455106",
+  "Q12059432"
  ],
  "exclude": {
   "Q136722727": "duplicate of Pražský hrad Q193369 (no article, generic coordinates)",
@@ -984,6 +989,23 @@
   },
   "Q27555509": {
    "kind": "zamek"
+  },
+  "Q42753432": {
+   "kind": "zricenina"
+  },
+  "Q115730871": {
+   "kind": "zamek",
+   "name": "Kostelní Bříza"
+  },
+  "Q31444028": {
+   "kind": "zamek",
+   "name": "Semín"
+  },
+  "Q37455106": {
+   "kind": "zricenina"
+  },
+  "Q12059432": {
+   "kind": "tvrz"
   }
  }
 }
