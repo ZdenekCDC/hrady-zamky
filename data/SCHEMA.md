@@ -5,7 +5,7 @@
 | `raw/wikidata.json` | `scripts/fetch_wikidata.py` | surová data z Wikidata |
 | `raw/access_sources.json`, `raw/nipos/*.xlsx` | `scripts/fetch_access.py` | NPÚ seznam, NIPOS statistika návštěvnosti, OSM |
 | `overrides.json` | ručně | ruční opravy párování a polí míst |
-| `extra_places.json` | ručně | místa z OpenStreetMap bez položky na Wikidata: `{id: "osm-n123", osm: "node/123", name, kind, lat, lon, kraj}`; `build_places.py` je přidá do `places.json` (obec, přístupnost a historie nemají) |
+| `extra_places.json` | ručně | místa z OpenStreetMap bez položky na Wikidata: `{id: "osm-n123", osm: "node/123", name, kind, lat, lon, kraj}`; `build_places.py` je přidá do `places.json` (obec a historie nemají; přístupnost `volne` u zřícenin, jinak `neznamo`) |
 | `places.json` | `scripts/build_places.py` | všechna místa pro mapu |
 | `history/<QID>.json` | ručně / agent (z cs.wiki) | historie vlastníků jednoho místa |
 | `families/<id>.json` | ručně / agent | detail rodu (erb, popis, původ) |

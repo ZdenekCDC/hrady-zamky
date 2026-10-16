@@ -33,8 +33,15 @@ def search(q):
     return f"https://duckduckgo.com/?q={quote(q)}"
 
 
+def source_link(p):
+    """Wikidata for places with a QID, OpenStreetMap for the hand-picked osm-... places."""
+    if p.get("osm"):
+        return f"[OpenStreetMap](https://www.openstreetmap.org/{p['osm']})"
+    return f"[Wikidata](https://www.wikidata.org/wiki/{p['id']})"
+
+
 def place_links(p):
-    links = [f"[Wikidata](https://www.wikidata.org/wiki/{p['id']})"]
+    links = [source_link(p)]
     if p.get("cswiki"):
         links.append(f"[cs.wiki]({p['cswiki']})")
     if p.get("website"):
@@ -174,7 +181,7 @@ def photo_section(places):
         for p in items:
             name = p["name"].split(" (")[0]
             commons = f"https://commons.wikimedia.org/w/index.php?search={quote(f'{name} {p.get('obec') or ''}')}&ns6=1&ns14=1"
-            links = [f"[Wikidata](https://www.wikidata.org/wiki/{p['id']})"]
+            links = [source_link(p)]
             if p.get("cswiki"):
                 links.append(f"[cs.wiki]({p['cswiki']})")
             links.append(f"[Commons]({commons})")

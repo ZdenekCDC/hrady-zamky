@@ -4,7 +4,7 @@ Generováno skriptem `scripts/build_manual_review.py` z dat v `data/`. Obsahuje 
 
 ## 1. Historie vlastníků
 
-309 míst s nejistotou (neznámý vlastník, chybějící rok, rozpor nebo nejistota v poznámce; samotné přibližné roky se nepočítají). Seřazeno podle návštěvnosti NIPOS (poslední rok s údajem). Plné rozpory jsou v poznámkách u jednotlivých záznamů v `data/history/<QID>.json`, souhrn po vlnách ověřování v `docs/open-questions.md`. Po doplnění dat spusť `scripts/build_history.py` a tento soubor znovu vygeneruj.
+310 míst s nejistotou (neznámý vlastník, chybějící rok, rozpor nebo nejistota v poznámce; samotné přibližné roky se nepočítají). Seřazeno podle návštěvnosti NIPOS (poslední rok s údajem). Plné rozpory jsou v poznámkách u jednotlivých záznamů v `data/history/<QID>.json`, souhrn po vlnách ověřování v `docs/open-questions.md`. Po doplnění dat spusť `scripts/build_history.py` a tento soubor znovu vygeneruj.
 
 ### Lednice (Lednice) - 328477 návštěv, `Q370990`
 
@@ -41,6 +41,7 @@ Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q12034021), [cs.wiki](https://c
 Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q2240326), [cs.wiki](https://cs.wikipedia.org/wiki/Blatná_(zámek)), [web](https://www.zamek-blatna.cz/), [hledat majitele](https://duckduckgo.com/?q=Blatn%C3%A1%20Blatn%C3%A1%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 8.
 
 - [ ] 1391-1541 Jan z Rožmitálu, synové Jaroslav Lev a Protiva (od 1430), Zd...: přibližný rok, poznámka uvádí nejistotu
+- [ ] 1541-1555 Adam ze Šternberka: přibližný rok, poznámka uvádí nejistotu
 - [ ] 1577-1691 Jan z Rozdražova, poté syn Václav (zemřel 1625), poté Anna M...: přibližný rok, poznámka uvádí nejistotu
 - [ ] 1798-1948 Václav Karel (Karel) Hildprandt, František, Robert: poznámka uvádí nejistotu
 - [ ] 1992-? Kornelie (zemřela 2014), Josefina (zemřela 2020) a Jana Hild...: poznámka uvádí nejistotu
@@ -141,6 +142,7 @@ Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q2164885), [cs.wiki](https://cs
 
 Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q13217210), [cs.wiki](https://cs.wikipedia.org/wiki/Bečov_nad_Teplou_(hrad)), [web](https://www.zamek-becov.cz/), [hledat majitele](https://duckduckgo.com/?q=Be%C4%8Dov%20nad%20Teplou%20Be%C4%8Dov%20nad%20Teplou%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 8.
 
+- [ ] 1450-1485 Jindřich II. z Plavna: přibližný rok, poznámka uvádí nejistotu
 - [ ] 1597-1623 mesto: poznámka uvádí nejistotu
 
 ### Český Šternberk (Český Šternberk) - 69442 návštěv, `Q1014747`
@@ -202,7 +204,7 @@ Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q1969206), [cs.wiki](https://cs
 Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q366087), [cs.wiki](https://cs.wikipedia.org/wiki/Rabí_(hrad)), [web](https://www.hrad-rabi.eu/), [hledat majitele](https://duckduckgo.com/?q=Rab%C3%AD%20Rab%C3%AD%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 6.
 
 - [ ] 1230-1273 wittelsbachove: přibližný rok, poznámka uvádí nejistotu
-- [ ] 1380-1544 Půta Švihovský z Rýzmberka: poznámka uvádí nejistotu
+- [ ] 1380-1549 Půta Švihovský z Rýzmberka: poznámka uvádí nejistotu
 
 ### Hukvaldy (Hukvaldy) - 49578 návštěv, `Q1012520`
 
@@ -226,6 +228,7 @@ Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q1014368), [cs.wiki](https://cs
 - [ ] 1371-1390 Jan z Velhartic: přibližný rok, poznámka uvádí nejistotu
 - [ ] 1653-? Johanka Františka Račínová z Račína: chybí konec, přibližný rok
 - [ ] ?-1708 Jiří Václav Račín z Račína: chybí začátek, přibližný rok
+- [ ] 1743-1813 Jan Ferdinand Desfours z Mont a Athienville: přibližný rok, poznámka uvádí nejistotu
 
 ### Žleby (Žleby) - 47326 návštěv, `Q2244402`
 
@@ -254,13 +257,13 @@ Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q28872964), [cs.wiki](https://c
 
 - [ ] 1335-? Heřman ze Zruče: chybí konec, přibližný rok
 - [ ] 1355-1547 Petr z Kolovrat, Ješek z Kolovrat, Mikuláš Kolovrat ze Zruče...: poznámka uvádí nejistotu
-- [ ] 1657-? Albrecht Kryštof Hložek ze Žampachu: chybí konec, přibližný rok
-- [ ] ?-? Lambert František Hřevenář z Hrachu: chybí začátek, chybí konec, přibližný rok
-- [ ] ?-? Vít de Nathermann: chybí začátek, chybí konec, přibližný rok
-- [ ] ?-? Johanka Eusebie Millesimová ze Žďáru: chybí začátek, chybí konec, přibližný rok
+- [ ] 1671-? Johanka Eusebie Millesimová ze Žďáru: chybí konec, přibližný rok
 - [ ] ?-1693 Cecilie Eleonora hraběnka Breunerová a Maxmilián Ludvík Breu...: chybí začátek, přibližný rok
 - [ ] 1700-? Jan Václav Valkoun z Adlaru: chybí konec, přibližný rok
-- ... a dalších 7
+- [ ] ?-1749 Jan Ludvík a Ferdinand Bohuslav Serinsové z Eichenau: chybí začátek, přibližný rok
+- [ ] 1749-? Rausové z Rausenbachu: chybí konec, přibližný rok
+- [ ] ?-? Macneven O'Kelly: chybí začátek, chybí konec, přibližný rok
+- ... a dalších 4
 
 ### Kokořín (Kokořínský Důl) - 42951 návštěv, `Q1012711`
 
@@ -1866,6 +1869,13 @@ Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q15735166), [cs.wiki](https://c
 - [ ] 1655-? neznamo: neznámý vlastník, chybí konec
 - [ ] ?-1699 Anna Alžběta, hraběnka z Hoffmannu a Kochersbergu, rozená z ...: chybí začátek
 
+### Kostel sv. Klimenta na Levém Hradci (Roztoky) - 0 návštěv, `Q12030859`
+
+Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q12030859), [cs.wiki](https://cs.wikipedia.org/wiki/Kostel_svatého_Klimenta_(Levý_Hradec)), [hledat majitele](https://duckduckgo.com/?q=Kostel%20sv.%20Klimenta%20na%20Lev%C3%A9m%20Hradci%20Roztoky%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 4.
+
+- [ ] 882-? Bořivoj I.: chybí konec, přibližný rok
+- [ ] ?-? římskokatolická farnost Roztoky: chybí začátek
+
 ### Kotnov (Tábor) - 0 návštěv, `Q12031169`
 
 Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q12031169), [cs.wiki](https://cs.wikipedia.org/wiki/Kotnov), [hledat majitele](https://duckduckgo.com/?q=Kotnov%20T%C3%A1bor%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 4.
@@ -2126,8 +2136,8 @@ Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q1013457), [cs.wiki](https://cs
 - [ ] ?-1512 Jindřich Pajrek z Janovic a další členové rodu: chybí začátek
 - [ ] ?-? Kateřina Kocová z Dobrše: chybí začátek, chybí konec
 - [ ] ?-? Bohuslav a Podivín z Vidhostic: chybí začátek, chybí konec
-- [ ] ?-1541 Eva z Vidhostic: chybí začátek
-- ... a dalších 4
+- [ ] 1554-? Jan Koc z Dobrše: chybí konec
+- ... a dalších 3
 
 ### Pardubice (Zámek) - 0 návštěv, `Q369694`
 
@@ -2144,14 +2154,11 @@ Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q369694), [cs.wiki](https://cs.
 Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q1013464), [cs.wiki](https://cs.wikipedia.org/wiki/Pecka_(hrad)), [web](https://www.hradpecka.cz/), [hledat majitele](https://duckduckgo.com/?q=Pecka%20Pecka%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 4.
 
 - [ ] 1322-? Budivoj z Pecky: chybí konec
-- [ ] ?-? tři bratři z Pecky, nakonec Jan Pecka: chybí začátek, chybí konec
-- [ ] ?-? Jarek z Železnice: chybí začátek, chybí konec
-- [ ] ?-? Vaněk z Pecky: chybí začátek, chybí konec
+- [ ] 1365-? tři bratři z Pecky, nakonec Jan Pecka: chybí konec, přibližný rok
 - [ ] ?-? Protiva: chybí začátek, chybí konec
 - [ ] ?-? Lev z Rožmitálu: chybí začátek, chybí konec
-- [ ] ?-? Mikuláš Hořický z Hořic: chybí začátek, chybí konec
-- [ ] ?-? Jindřich Škopek z Bílých Otradovic: chybí začátek, chybí konec
-- ... a dalších 2
+- [ ] ?-1515 Mikuláš Hořický z Hořic: chybí začátek
+- [ ] ?-1621 Kryštof Harant z Polžic a Bezdružic: chybí začátek
 
 ### Peruc (Peruc) - 0 návštěv, `Q20982290`
 
@@ -2535,7 +2542,7 @@ Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q19800624), [cs.wiki](https://c
 
 ### Vrchotovy Janovice (Vrchotovy Janovice) - 0 návštěv, `Q1632404`
 
-Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q1632404), [cs.wiki](https://cs.wikipedia.org/wiki/Vrchotovy_Janovice_(zámek)), [web](http://www.nm.cz/Hlavni-strana/Navstivte-nas/Zamek-Vrchotovy-Janovice.html), [hledat majitele](https://duckduckgo.com/?q=Vrchotovy%20Janovice%20Vrchotovy%20Janovice%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 8.
+Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q1632404), [cs.wiki](https://cs.wikipedia.org/wiki/Vrchotovy_Janovice_(zámek)), [web](https://www.nm.cz/navstivte-nas/objekty/zamek-vrchotovy-janovice), [hledat majitele](https://duckduckgo.com/?q=Vrchotovy%20Janovice%20Vrchotovy%20Janovice%20majitel%C3%A9%20historie%20z%C3%A1mek%20hrad). Zdrojů v datech: 8.
 
 - [ ] 1350-1433 Herbard z Janovic: přibližný rok, poznámka uvádí nejistotu
 - [ ] 1433-1532 Bohuněk Vrchota z Vrchotic, další Vrchotové (naposledy Jan V...: přibližný rok, poznámka uvádí nejistotu
@@ -2653,9 +2660,9 @@ Odkazy: [Wikidata](https://www.wikidata.org/wiki/Q1280844), [cs.wiki](https://cs
 
 ## 2. Rody
 
-Rodů celkem 892: bez erbu 598, bez článku na cs.wiki 535 (ty nemají ani popis ani erb).
+Rodů celkem 894: bez erbu 584, bez článku na cs.wiki 534 (ty nemají ani popis ani erb).
 
-### 2a. Rod má článek na cs.wiki, ale chybí erb (63)
+### 2a. Rod má článek na cs.wiki, ale chybí erb (60)
 
 Erb doplň ručně: najdi soubor na Wikimedia Commons a název souboru zapiš do `coat_of_arms` v `data/families/<id>.json` (nebo doplň obrázek do Wikidat a spusť `fetch_families.py`).
 
@@ -2676,11 +2683,9 @@ Erb doplň ručně: najdi soubor na Wikimedia Commons a název souboru zapiš do
 | Benešovici (`benesovici`) | 3 | [cs.wiki](https://cs.wikipedia.org/wiki/Benešovici), [Wikidata](https://www.wikidata.org/wiki/Q817120), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20Bene%C5%A1ovici&ns6=1) |
 | Dohalští z Dohalic (`dohalsti-z-dohalic`) | 3 | [cs.wiki](https://cs.wikipedia.org/wiki/Dohalští_z_Dohalic), [Wikidata](https://www.wikidata.org/wiki/Q11813710), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20Dohal%C5%A1t%C3%AD%20z%20Dohalic&ns6=1) |
 | Hofmannové (`hofmannove`) | 3 | [cs.wiki](https://cs.wikipedia.org/wiki/Hofmannové), [Wikidata](https://www.wikidata.org/wiki/Q111154034), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20Hofmannov%C3%A9&ns6=1) |
-| Zárubové z Hustířan (`zarubove-z-hustiran`) | 3 | [cs.wiki](https://cs.wikipedia.org/wiki/Zárubové_z_Hustířan), [Wikidata](https://www.wikidata.org/wiki/Q10941593), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20Z%C3%A1rubov%C3%A9%20z%20Hust%C3%AD%C5%99an&ns6=1) |
 | Adršpachové z Dubé (`adrspachove-z-dube`) | 2 | [cs.wiki](https://cs.wikipedia.org/wiki/Adršpachové_z_Dubé), [Wikidata](https://www.wikidata.org/wiki/Q10712308), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20Adr%C5%A1pachov%C3%A9%20z%20Dub%C3%A9&ns6=1) |
 | Aichelburgové (`aichelburgove`) | 2 | [cs.wiki](https://cs.wikipedia.org/wiki/Aichelburgové), [Wikidata](https://www.wikidata.org/wiki/Q403559), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20Aichelburgov%C3%A9&ns6=1) |
 | Bartoňové z Dobenína (`bartonove-z-dobenina`) | 2 | [cs.wiki](https://cs.wikipedia.org/wiki/Bartoňové_z_Dobenína), [Wikidata](https://www.wikidata.org/wiki/Q42414007), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20Barto%C5%88ov%C3%A9%20z%20Doben%C3%ADna&ns6=1) |
-| Bohdanečtí z Hodkova (`bohdanecti-z-hodkova`) | 2 | [cs.wiki](https://cs.wikipedia.org/wiki/Bohdanečtí_z_Hodkova), [Wikidata](https://www.wikidata.org/wiki/Q11217395), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20Bohdane%C4%8Dt%C3%AD%20z%20Hodkova&ns6=1) |
 | Drnovští z Drnovic (`drnovsti-z-drnovic`) | 2 | [cs.wiki](https://cs.wikipedia.org/wiki/Drnovští_z_Drnovic), [Wikidata](https://www.wikidata.org/wiki/Q11828424), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20Drnov%C5%A1t%C3%AD%20z%20Drnovic&ns6=1) |
 | Hulerové z Orlíka (`hulerove-z-orlika`) | 2 | [cs.wiki](https://cs.wikipedia.org/wiki/Hulerové_z_Orlíka), [Wikidata](https://www.wikidata.org/wiki/Q12020910), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20Hulerov%C3%A9%20z%20Orl%C3%ADka&ns6=1) |
 | Nádherní z Borutína (`nadherni-z-borutina`) | 2 | [cs.wiki](https://cs.wikipedia.org/wiki/Nádherní_z_Borutína), [Wikidata](https://www.wikidata.org/wiki/Q2006271), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20N%C3%A1dhern%C3%AD%20z%20Borut%C3%ADna&ns6=1) |
@@ -2690,7 +2695,6 @@ Erb doplň ručně: najdi soubor na Wikimedia Commons a název souboru zapiš do
 | Páni z Dubé (Benešovici) (`pani-z-dube-benesovici`) | 2 | [cs.wiki](https://cs.wikipedia.org/wiki/Páni_z_Dubé_(Benešovici)), [Wikidata](https://www.wikidata.org/wiki/Q12047710), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20P%C3%A1ni%20z%20Dub%C3%A9%20%28Bene%C5%A1ovici%29&ns6=1) |
 | Páni ze Sovince (`pani-ze-sovince`) | 2 | [cs.wiki](https://cs.wikipedia.org/wiki/Páni_ze_Sovince), [Wikidata](https://www.wikidata.org/wiki/Q2304908), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20P%C3%A1ni%20ze%20Sovince&ns6=1) |
 | Páni ze Zvířetic (`pani-ze-zviretic`) | 2 | [cs.wiki](https://cs.wikipedia.org/wiki/Páni_ze_Zvířetic), [Wikidata](https://www.wikidata.org/wiki/Q169292), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20P%C3%A1ni%20ze%20Zv%C3%AD%C5%99etic&ns6=1) |
-| Pöttingové z Persingu (`pottingove-z-persingu`) | 2 | [cs.wiki](https://cs.wikipedia.org/wiki/Pöttingové_z_Persingu), [Wikidata](https://www.wikidata.org/wiki/Q28536553), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20P%C3%B6ttingov%C3%A9%20z%20Persingu&ns6=1) |
 | Přehořovští z Kvasejovic (`prehorovsti-z-kvasejovic`) | 2 | [cs.wiki](https://cs.wikipedia.org/wiki/Přehořovští_z_Kvasejovic), [Wikidata](https://www.wikidata.org/wiki/Q12047989), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20P%C5%99eho%C5%99ov%C5%A1t%C3%AD%20z%20Kvasejovic&ns6=1) |
 | Rendlové z Oušavy (`rendlove-z-ousavy`) | 2 | [cs.wiki](https://cs.wikipedia.org/wiki/Rendlové_z_Oušavy), [Wikidata](https://www.wikidata.org/wiki/Q15735378), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20Rendlov%C3%A9%20z%20Ou%C5%A1avy&ns6=1) |
 | Salmové (Pustinná a porýnská hrabata) (`salmove-pustinna-a-porynska-hrabata`) | 2 | [cs.wiki](https://cs.wikipedia.org/wiki/Salmové_(Pustinná_a_porýnská_hrabata)), [Wikidata](https://www.wikidata.org/wiki/Q20851821), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20Salmov%C3%A9%20%28Pustinn%C3%A1%20a%20por%C3%BDnsk%C3%A1%20hrabata%29&ns6=1) |
@@ -2725,7 +2729,7 @@ Erb doplň ručně: najdi soubor na Wikimedia Commons a název souboru zapiš do
 | Zásmučtí ze Zásmuk (`zasmucti-ze-zasmuk`) | 1 | [cs.wiki](https://cs.wikipedia.org/wiki/Zásmučtí_ze_Zásmuk), [Wikidata](https://www.wikidata.org/wiki/Q11080918), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20Z%C3%A1smu%C4%8Dt%C3%AD%20ze%20Z%C3%A1smuk&ns6=1) |
 | Škopkové z Dubé (`skopkove-z-dube`) | 1 | [cs.wiki](https://cs.wikipedia.org/wiki/Škopkové_z_Dubé), [Wikidata](https://www.wikidata.org/wiki/Q10406246), [Commons](https://commons.wikimedia.org/w/index.php?search=erb%20%C5%A0kopkov%C3%A9%20z%20Dub%C3%A9&ns6=1) |
 
-### 2b. Rod bez článku na cs.wiki (535)
+### 2b. Rod bez článku na cs.wiki (534)
 
 Zkus najít, zda nepatří k existujícímu rodu (větev), případně popis a erb v jiných zdrojích (Historická šlechta, Wikipedie v jiných jazycích, Ottův slovník). Řazeno podle počtu míst, kde rod figuruje.
 
@@ -2794,7 +2798,6 @@ Zkus najít, zda nepatří k existujícímu rodu (větev), případně popis a e
 | `z-hustopec` | 2 | Bystřice pod Hostýnem, Nová Horka | [hledat](https://duckduckgo.com/?q=z%20hustopec%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `z-janovic` | 2 | Náchod, Opočno | [hledat](https://duckduckgo.com/?q=z%20janovic%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `z-konic` | 2 | Pátek, Konice | [hledat](https://duckduckgo.com/?q=z%20konic%20%C5%A1lechtick%C3%BD%20rod%20erb) |
-| `z-kunvaldu` | 2 | Kunín, Police | [hledat](https://duckduckgo.com/?q=z%20kunvaldu%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `z-ledec` | 2 | Kovanice, Frýdštejn | [hledat](https://duckduckgo.com/?q=z%20ledec%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `z-letovic` | 2 | Letovice, Cimburk | [hledat](https://duckduckgo.com/?q=z%20letovic%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `z-malcaunu` | 2 | Týřov, Teplice | [hledat](https://duckduckgo.com/?q=z%20malcaunu%20%C5%A1lechtick%C3%BD%20rod%20erb) |
@@ -3027,7 +3030,6 @@ Zkus najít, zda nepatří k existujícímu rodu (větev), případně popis a e
 | `z-kastu-z-ebelsberku` | 1 | Mníšek pod Brdy | [hledat](https://duckduckgo.com/?q=z%20kastu%20z%20ebelsberku%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `z-kataru` | 1 | Pernštejn | [hledat](https://duckduckgo.com/?q=z%20Kataru%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `z-kaufunku` | 1 | Jezeří | [hledat](https://duckduckgo.com/?q=z%20kaufunku%20%C5%A1lechtick%C3%BD%20rod%20erb) |
-| `z-kestran` | 1 | Horní tvrz Kestřany | [hledat](https://duckduckgo.com/?q=z%20kestran%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `z-kettenburgu` | 1 | Paskov | [hledat](https://duckduckgo.com/?q=z%20kettenburgu%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `z-klaudensteina` | 1 | Stekník | [hledat](https://duckduckgo.com/?q=z%20klaudensteina%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `z-klenove` | 1 | Bon Repos | [hledat](https://duckduckgo.com/?q=z%20klenove%20%C5%A1lechtick%C3%BD%20rod%20erb) |
@@ -3055,6 +3057,7 @@ Zkus najít, zda nepatří k existujícímu rodu (větev), případně popis a e
 | `z-kukvic` | 1 | Rosice | [hledat](https://duckduckgo.com/?q=z%20kukvic%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `z-kunovic` | 1 | Konopiště | [hledat](https://duckduckgo.com/?q=z%20kunovic%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `z-kunstatu` | 1 | Malenovice | [hledat](https://duckduckgo.com/?q=z%20kunstatu%20%C5%A1lechtick%C3%BD%20rod%20erb) |
+| `z-kunvaldu` | 1 | Kunín | [hledat](https://duckduckgo.com/?q=z%20kunvaldu%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `z-kvitkova` | 1 | Zvířetice | [hledat](https://duckduckgo.com/?q=z%20kvitkova%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `z-kynsperka` | 1 | Sokolov | [hledat](https://duckduckgo.com/?q=z%20kynsperka%20%C5%A1lechtick%C3%BD%20rod%20erb) |
 | `z-kytlic` | 1 | Hukvaldy | [hledat](https://duckduckgo.com/?q=z%20kytlic%20%C5%A1lechtick%C3%BD%20rod%20erb) |
@@ -3269,13 +3272,14 @@ Zkus najít, zda nepatří k existujícímu rodu (větev), případně popis a e
 
 ## 3. Místa bez fotografie
 
-317 z 2902 míst nemá ve Wikidatech obrázek (P18), proto nemají fotku v detailu ani miniaturu. Fotku přidáš nahráním na Wikimedia Commons a doplněním P18 do položky na Wikidatech; pak `fetch_wikidata.py`, `build_places.py`, `fetch_thumbs.py`.
+341 z 2942 míst nemá ve Wikidatech obrázek (P18), proto nemají fotku v detailu ani miniaturu. Fotku přidáš nahráním na Wikimedia Commons a doplněním P18 do položky na Wikidatech; pak `fetch_wikidata.py`, `build_places.py`, `fetch_thumbs.py`.
 
-### Jihomoravský kraj (17)
+### Jihomoravský kraj (20)
 
 | Místo | Typ | Obec | Přístup | Odkazy |
 |---|---|---|---|---|
 | Brněnský hrad | hrad | Staré Brno | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q11341490), [cs.wiki](https://cs.wikipedia.org/wiki/Brněnský_hrad), [Commons](https://commons.wikimedia.org/w/index.php?search=Brn%C4%9Bnsk%C3%BD%20hrad%20Star%C3%A9%20Brno&ns6=1&ns14=1) |
+| Chvalkovice na Hané | zamek |  | neznamo | [OpenStreetMap](https://www.openstreetmap.org/node/2915871327), [Commons](https://commons.wikimedia.org/w/index.php?search=Chvalkovice%20na%20Han%C3%A9%20&ns6=1&ns14=1) |
 | Chvalovice | zamek | Chvalovice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q37168018), [Commons](https://commons.wikimedia.org/w/index.php?search=Chvalovice%20Chvalovice&ns6=1&ns14=1) |
 | Dyjákovice | zamek | Dyjákovice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q62796430), [Commons](https://commons.wikimedia.org/w/index.php?search=Dyj%C3%A1kovice%20Dyj%C3%A1kovice&ns6=1&ns14=1) |
 | Horní Dunajovice | zamek | Horní Dunajovice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q33324393), [Commons](https://commons.wikimedia.org/w/index.php?search=Horn%C3%AD%20Dunajovice%20Horn%C3%AD%20Dunajovice&ns6=1&ns14=1) |
@@ -3288,70 +3292,76 @@ Zkus najít, zda nepatří k existujícímu rodu (větev), případně popis a e
 | Modřice | hrad | Modřice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12038461), [cs.wiki](https://cs.wikipedia.org/wiki/Modřice_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=Mod%C5%99ice%20Mod%C5%99ice&ns6=1&ns14=1) |
 | Myslejovice | hrad | vojenský újezd Březina | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12039095), [cs.wiki](https://cs.wikipedia.org/wiki/Myslejovice_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=Myslejovice%20vojensk%C3%BD%20%C3%BAjezd%20B%C5%99ezina&ns6=1&ns14=1) |
 | Neuhäusel | hrad | Perná | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q38047391), [Commons](https://commons.wikimedia.org/w/index.php?search=Neuh%C3%A4usel%20Pern%C3%A1&ns6=1&ns14=1) |
+| Ranšperk | zricenina |  | volne | [OpenStreetMap](https://www.openstreetmap.org/node/1403269180), [Commons](https://commons.wikimedia.org/w/index.php?search=Ran%C5%A1perk%20&ns6=1&ns14=1) |
 | Týnec | tvrz | Týnec | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12060173), [cs.wiki](https://cs.wikipedia.org/wiki/Týnec_(tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=T%C3%BDnec%20T%C3%BDnec&ns6=1&ns14=1) |
 | U Vratěnína | tvrz | Vratěnín | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q11774830), [cs.wiki](https://cs.wikipedia.org/wiki/Vratěnín_(tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=U%20Vrat%C4%9Bn%C3%ADna%20Vrat%C4%9Bn%C3%ADn&ns6=1&ns14=1) |
 | Čechyně | zamek | Rousínov | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q110947240), [Commons](https://commons.wikimedia.org/w/index.php?search=%C4%8Cechyn%C4%9B%20Rous%C3%ADnov&ns6=1&ns14=1) |
+| Žleb | tvrz |  | neznamo | [OpenStreetMap](https://www.openstreetmap.org/node/1267910853), [Commons](https://commons.wikimedia.org/w/index.php?search=%C5%BDleb%20&ns6=1&ns14=1) |
 | Žďárec | hrad | Rojetín | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q10296655), [cs.wiki](https://cs.wikipedia.org/wiki/Žďárec_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=%C5%BD%C4%8F%C3%A1rec%20Rojet%C3%ADn&ns6=1&ns14=1) |
 
-### Jihočeský kraj (29)
+### Jihočeský kraj (34)
 
 | Místo | Typ | Obec | Přístup | Odkazy |
 |---|---|---|---|---|
 | Bavorov | hrad | Bavorov | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q11061698), [cs.wiki](https://cs.wikipedia.org/wiki/Bavorov_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=Bavorov%20Bavorov&ns6=1&ns14=1) |
 | Beistein | zricenina | Číměř | volne | [Wikidata](https://www.wikidata.org/wiki/Q11067086), [cs.wiki](https://cs.wikipedia.org/wiki/Beistein), [Commons](https://commons.wikimedia.org/w/index.php?search=Beistein%20%C4%8C%C3%ADm%C4%9B%C5%99&ns6=1&ns14=1) |
 | Budeč | hrad | Budeč | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q14435174), [cs.wiki](https://cs.wikipedia.org/wiki/Budeč_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=Bude%C4%8D%20Bude%C4%8D&ns6=1&ns14=1) |
+| Budislav | zamek |  | neznamo | [OpenStreetMap](https://www.openstreetmap.org/relation/5615839), [Commons](https://commons.wikimedia.org/w/index.php?search=Budislav%20&ns6=1&ns14=1) |
+| Chata ve Staré oboře | zamek | Hluboká nad Vltavou | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q8552712), [cs.wiki](https://cs.wikipedia.org/wiki/Chata_ve_Staré_oboře), [Commons](https://commons.wikimedia.org/w/index.php?search=Chata%20ve%20Star%C3%A9%20obo%C5%99e%20Hlubok%C3%A1%20nad%20Vltavou&ns6=1&ns14=1) |
 | Chvalkovice | zamek | Chvalkovice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q43388127), [Commons](https://commons.wikimedia.org/w/index.php?search=Chvalkovice%20Chvalkovice&ns6=1&ns14=1) |
 | Dolní Hořice | tvrz | Dolní Hořice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q11815915), [cs.wiki](https://cs.wikipedia.org/wiki/Dolní_Hořice_(tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=Doln%C3%AD%20Ho%C5%99ice%20Doln%C3%AD%20Ho%C5%99ice&ns6=1&ns14=1) |
 | Dřešínek | zamek | Dřešínek | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q109528327), [Commons](https://commons.wikimedia.org/w/index.php?search=D%C5%99e%C5%A1%C3%ADnek%20D%C5%99e%C5%A1%C3%ADnek&ns6=1&ns14=1) |
 | Hausberk | zricenina | Horní Planá | volne | [Wikidata](https://www.wikidata.org/wiki/Q12019284), [cs.wiki](https://cs.wikipedia.org/wiki/Hausberk_(okres_Český_Krumlov)), [Commons](https://commons.wikimedia.org/w/index.php?search=Hausberk%20Horn%C3%AD%20Plan%C3%A1&ns6=1&ns14=1) |
 | Hodějov | tvrz | Hoslovice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12019930), [cs.wiki](https://cs.wikipedia.org/wiki/Hodějov_(tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=Hod%C4%9Bjov%20Hoslovice&ns6=1&ns14=1) |
 | Holešice | tvrz | Chrást | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12019985), [cs.wiki](https://cs.wikipedia.org/wiki/Holešice_(severní_tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=Hole%C5%A1ice%20Chr%C3%A1st&ns6=1&ns14=1) |
-| Houžná | tvrz | České Budějovice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q8311011), [cs.wiki](https://cs.wikipedia.org/wiki/Houžná_(Haklovy_Dvory)), [Commons](https://commons.wikimedia.org/w/index.php?search=Hou%C5%BEn%C3%A1%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice&ns6=1&ns14=1) |
 | Hrádek nad Podedvorským mlýnem | hrad | Dvory | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12020826), [cs.wiki](https://cs.wikipedia.org/wiki/Hrádek_nad_Podedvorským_mlýnem), [Commons](https://commons.wikimedia.org/w/index.php?search=Hr%C3%A1dek%20nad%20Podedvorsk%C3%BDm%20ml%C3%BDnem%20Dvory&ns6=1&ns14=1) |
 | Jistebnice | zamek | Jistebnice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q33407490), [Commons](https://commons.wikimedia.org/w/index.php?search=Jistebnice%20Jistebnice&ns6=1&ns14=1) |
+| Jůžov | zamek | Buzice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q20851661), [cs.wiki](https://cs.wikipedia.org/wiki/Jůžov), [Commons](https://commons.wikimedia.org/w/index.php?search=J%C5%AF%C5%BEov%20Buzice&ns6=1&ns14=1) |
 | Kostelní Vydří | zamek | Kostelní Vydří | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q31148708), [cs.wiki](https://cs.wikipedia.org/wiki/Kostelní_Vydří_(zámek)), [Commons](https://commons.wikimedia.org/w/index.php?search=Kosteln%C3%AD%20Vyd%C5%99%C3%AD%20Kosteln%C3%AD%20Vyd%C5%99%C3%AD&ns6=1&ns14=1) |
 | Krčohrad | tvrz | Štěchovice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q38231125), [cs.wiki](https://cs.wikipedia.org/wiki/Krčohrad), [Commons](https://commons.wikimedia.org/w/index.php?search=Kr%C4%8Dohrad%20%C5%A0t%C4%9Bchovice&ns6=1&ns14=1) |
+| Kříženec | tvrz |  | neznamo | [OpenStreetMap](https://www.openstreetmap.org/node/519744571), [Commons](https://commons.wikimedia.org/w/index.php?search=K%C5%99%C3%AD%C5%BEenec%20&ns6=1&ns14=1) |
 | Ledenice | hrad | Ledenice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q21534318), [cs.wiki](https://cs.wikipedia.org/wiki/Ledenice_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=Ledenice%20Ledenice&ns6=1&ns14=1) |
 | Modliškovice | tvrz | Skály | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q21490604), [cs.wiki](https://cs.wikipedia.org/wiki/Modliškovice), [Commons](https://commons.wikimedia.org/w/index.php?search=Modli%C5%A1kovice%20Sk%C3%A1ly&ns6=1&ns14=1) |
 | Mostky | zamek | Mostky | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12038762), [cs.wiki](https://cs.wikipedia.org/wiki/Mostky_(zámek)), [Commons](https://commons.wikimedia.org/w/index.php?search=Mostky%20Mostky&ns6=1&ns14=1) |
-| Na Stožecké skále | hrad | České Žleby | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12020553), [cs.wiki](https://cs.wikipedia.org/wiki/Hrad_na_Stožecké_skále), [Commons](https://commons.wikimedia.org/w/index.php?search=Na%20Sto%C5%BEeck%C3%A9%20sk%C3%A1le%20%C4%8Cesk%C3%A9%20%C5%BDleby&ns6=1&ns14=1) |
+| Na Stožecké skále | hrad | České Žleby | volne | [Wikidata](https://www.wikidata.org/wiki/Q12020553), [cs.wiki](https://cs.wikipedia.org/wiki/Hrad_na_Stožecké_skále), [Commons](https://commons.wikimedia.org/w/index.php?search=Na%20Sto%C5%BEeck%C3%A9%20sk%C3%A1le%20%C4%8Cesk%C3%A9%20%C5%BDleby&ns6=1&ns14=1) |
 | Ohrazenice | zamek | Ratibořské Hory | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q33324747), [Commons](https://commons.wikimedia.org/w/index.php?search=Ohrazenice%20Ratibo%C5%99sk%C3%A9%20Hory&ns6=1&ns14=1) |
+| Radomilice | tvrz |  | neznamo | [OpenStreetMap](https://www.openstreetmap.org/node/2427882912), [Commons](https://commons.wikimedia.org/w/index.php?search=Radomilice%20&ns6=1&ns14=1) |
+| Rakovice | zamek |  | neznamo | [OpenStreetMap](https://www.openstreetmap.org/way/117702588), [Commons](https://commons.wikimedia.org/w/index.php?search=Rakovice%20&ns6=1&ns14=1) |
 | Rybník | zamek | Rybník | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12050416), [cs.wiki](https://cs.wikipedia.org/wiki/Rybník_(zámek)), [Commons](https://commons.wikimedia.org/w/index.php?search=Rybn%C3%ADk%20Rybn%C3%ADk&ns6=1&ns14=1) |
 | Skalice (Sepekov) | tvrz | Sepekov | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q38095209), [cs.wiki](https://cs.wikipedia.org/wiki/Skalice_(tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=Skalice%20Sepekov&ns6=1&ns14=1) |
+| Slavoňov | zamek |  | neznamo | [OpenStreetMap](https://www.openstreetmap.org/node/8289482605), [Commons](https://commons.wikimedia.org/w/index.php?search=Slavo%C5%88ov%20&ns6=1&ns14=1) |
 | Srdov | tvrz | Štěkeň | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q38231172), [cs.wiki](https://cs.wikipedia.org/wiki/Srdov_(tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=Srdov%20%C5%A0t%C4%9Bke%C5%88&ns6=1&ns14=1) |
 | Terezínov | zamek | Albeř | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q36865123), [Commons](https://commons.wikimedia.org/w/index.php?search=Terez%C3%ADnov%20Albe%C5%99&ns6=1&ns14=1) |
-| Trhové Sviny | hrad | Trhové Sviny | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q18565498), [cs.wiki](https://cs.wikipedia.org/wiki/Trhové_Sviny_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=Trhov%C3%A9%20Sviny%20Trhov%C3%A9%20Sviny&ns6=1&ns14=1) |
 | U Smrkovic | tvrz | Smrkovice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q38096916), [cs.wiki](https://cs.wikipedia.org/wiki/Zámek_u_Smrkovic), [Commons](https://commons.wikimedia.org/w/index.php?search=U%20Smrkovic%20Smrkovice&ns6=1&ns14=1) |
 | Vitějovice | tvrz | Vitějovice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q21704588), [cs.wiki](https://cs.wikipedia.org/wiki/Vitějovice_(tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=Vit%C4%9Bjovice%20Vit%C4%9Bjovice&ns6=1&ns14=1) |
-| Vztuhy | tvrz | Zvíkov | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q23072083), [cs.wiki](https://cs.wikipedia.org/wiki/Vztuhy), [Commons](https://commons.wikimedia.org/w/index.php?search=Vztuhy%20Zv%C3%ADkov&ns6=1&ns14=1) |
 | Údolský hrádek | zricenina | Dolní Hořice | volne | [Wikidata](https://www.wikidata.org/wiki/Q21405451), [cs.wiki](https://cs.wikipedia.org/wiki/Údolský_hrádek), [Commons](https://commons.wikimedia.org/w/index.php?search=%C3%9Adolsk%C3%BD%20hr%C3%A1dek%20Doln%C3%AD%20Ho%C5%99ice&ns6=1&ns14=1) |
+| Čartův hrádek | zricenina |  | volne | [OpenStreetMap](https://www.openstreetmap.org/node/9881569935), [Commons](https://commons.wikimedia.org/w/index.php?search=%C4%8Cart%C5%AFv%20hr%C3%A1dek%20&ns6=1&ns14=1) |
 | Čestice | zricenina | Čestice | volne | [Wikidata](https://www.wikidata.org/wiki/Q109589870), [Commons](https://commons.wikimedia.org/w/index.php?search=%C4%8Cestice%20%C4%8Cestice&ns6=1&ns14=1) |
 
-### Karlovarský kraj (19)
+### Karlovarský kraj (18)
 
 | Místo | Typ | Obec | Přístup | Odkazy |
 |---|---|---|---|---|
 | Brložec | zamek | Brložec | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q11341415), [cs.wiki](https://cs.wikipedia.org/wiki/Brložec_(zámek)), [Commons](https://commons.wikimedia.org/w/index.php?search=Brlo%C5%BEec%20Brlo%C5%BEec&ns6=1&ns14=1) |
-| Bürgles | tvrz | Skalka | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q29977102), [cs.wiki](https://cs.wikipedia.org/wiki/Bürgles), [Commons](https://commons.wikimedia.org/w/index.php?search=B%C3%BCrgles%20Skalka&ns6=1&ns14=1) |
 | Dolní zámek Skalná | zamek | Skalná | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12054397), [cs.wiki](https://cs.wikipedia.org/wiki/Skalná_(dolní_zámek)), [Commons](https://commons.wikimedia.org/w/index.php?search=Doln%C3%AD%20z%C3%A1mek%20Skaln%C3%A1%20Skaln%C3%A1&ns6=1&ns14=1) |
-| Doupov | zamek | vojenský újezd Hradiště | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q21874928), [cs.wiki](https://cs.wikipedia.org/wiki/Doupov_(zámek)), [Commons](https://commons.wikimedia.org/w/index.php?search=Doupov%20vojensk%C3%BD%20%C3%BAjezd%20Hradi%C5%A1t%C4%9B&ns6=1&ns14=1) |
 | Horní Hraničná | zamek | Cheb | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q110948428), [Commons](https://commons.wikimedia.org/w/index.php?search=Horn%C3%AD%20Hrani%C4%8Dn%C3%A1%20Cheb&ns6=1&ns14=1) |
 | Hradiště | zricenina | vojenský újezd Hradiště | volne | [Wikidata](https://www.wikidata.org/wiki/Q21874923), [cs.wiki](https://cs.wikipedia.org/wiki/Hradiště_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=Hradi%C5%A1t%C4%9B%20vojensk%C3%BD%20%C3%BAjezd%20Hradi%C5%A1t%C4%9B&ns6=1&ns14=1) |
 | Kotviny (hrad) | hrad | vojenský újezd Hradiště | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12031178), [cs.wiki](https://cs.wikipedia.org/wiki/Kotviny_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=Kotviny%20vojensk%C3%BD%20%C3%BAjezd%20Hradi%C5%A1t%C4%9B&ns6=1&ns14=1) |
 | Kozlov | zamek | Bochov | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q56032369), [cs.wiki](https://cs.wikipedia.org/wiki/Kozlov_(zámek)), [Commons](https://commons.wikimedia.org/w/index.php?search=Kozlov%20Bochov&ns6=1&ns14=1) |
+| Květnová | tvrz |  | neznamo | [OpenStreetMap](https://www.openstreetmap.org/node/4853106903), [Commons](https://commons.wikimedia.org/w/index.php?search=Kv%C4%9Btnov%C3%A1%20&ns6=1&ns14=1) |
+| Lovecký zámeček Liščí kámen | zamek | Krásný Les | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q114056981), [cs.wiki](https://cs.wikipedia.org/wiki/Lovecký_zámeček_Liščí_kámen), [Commons](https://commons.wikimedia.org/w/index.php?search=Loveck%C3%BD%20z%C3%A1me%C4%8Dek%20Li%C5%A1%C4%8D%C3%AD%20k%C3%A1men%20Kr%C3%A1sn%C3%BD%20Les&ns6=1&ns14=1) |
+| Lítov | zamek |  | neznamo | [OpenStreetMap](https://www.openstreetmap.org/way/247063781), [Commons](https://commons.wikimedia.org/w/index.php?search=L%C3%ADtov%20&ns6=1&ns14=1) |
 | Maleš | zricenina | vojenský újezd Hradiště | volne | [Wikidata](https://www.wikidata.org/wiki/Q21693743), [cs.wiki](https://cs.wikipedia.org/wiki/Maleš_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=Male%C5%A1%20vojensk%C3%BD%20%C3%BAjezd%20Hradi%C5%A1t%C4%9B&ns6=1&ns14=1) |
-| Mirotice | tvrz | Bochov | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q28101053), [cs.wiki](https://cs.wikipedia.org/wiki/Mirotice_(tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=Mirotice%20Bochov&ns6=1&ns14=1) |
+| Mirotice | tvrz | Bochov | volne | [Wikidata](https://www.wikidata.org/wiki/Q28101053), [cs.wiki](https://cs.wikipedia.org/wiki/Mirotice_(tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=Mirotice%20Bochov&ns6=1&ns14=1) |
 | Nový zámek | zamek | Dasnice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q102395580), [Commons](https://commons.wikimedia.org/w/index.php?search=Nov%C3%BD%20z%C3%A1mek%20Dasnice&ns6=1&ns14=1) |
 | Palič | zamek | Palič | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q84228478), [Commons](https://commons.wikimedia.org/w/index.php?search=Pali%C4%8D%20Pali%C4%8D&ns6=1&ns14=1) |
 | Rusov | hrad | Chlum Svaté Maří | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q21809701), [cs.wiki](https://cs.wikipedia.org/wiki/Rusov), [Commons](https://commons.wikimedia.org/w/index.php?search=Rusov%20Chlum%20Svat%C3%A9%20Ma%C5%99%C3%AD&ns6=1&ns14=1) |
 | Skalka | hrad | Skalka | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12054373), [cs.wiki](https://cs.wikipedia.org/wiki/Skalka_(hrad,_okres_Cheb)), [Commons](https://commons.wikimedia.org/w/index.php?search=Skalka%20Skalka&ns6=1&ns14=1) |
-| Skalka | tvrz | Skalka | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q29977072), [cs.wiki](https://cs.wikipedia.org/wiki/Skalka_(tvrz,_okres_Cheb)), [Commons](https://commons.wikimedia.org/w/index.php?search=Skalka%20Skalka&ns6=1&ns14=1) |
 | Smrčina | zamek | Aš | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q110947225), [Commons](https://commons.wikimedia.org/w/index.php?search=Smr%C4%8Dina%20A%C5%A1&ns6=1&ns14=1) |
+| Těšovice | tvrz |  | neznamo | [OpenStreetMap](https://www.openstreetmap.org/way/62119379), [Commons](https://commons.wikimedia.org/w/index.php?search=T%C4%9B%C5%A1ovice%20&ns6=1&ns14=1) |
 | Valdov | zamek | Hrzín | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q11871655), [cs.wiki](https://cs.wikipedia.org/wiki/Valdov_(zámek)), [Commons](https://commons.wikimedia.org/w/index.php?search=Valdov%20Hrz%C3%ADn&ns6=1&ns14=1) |
-| Zakšov | tvrz | vojenský újezd Hradiště | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q10857235), [cs.wiki](https://cs.wikipedia.org/wiki/Zakšov_(tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=Zak%C5%A1ov%20vojensk%C3%BD%20%C3%BAjezd%20Hradi%C5%A1t%C4%9B&ns6=1&ns14=1) |
-| Žďár | zamek | vojenský újezd Hradiště | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q104354164), [cs.wiki](https://cs.wikipedia.org/wiki/Žďár_(zámek)), [Commons](https://commons.wikimedia.org/w/index.php?search=%C5%BD%C4%8F%C3%A1r%20vojensk%C3%BD%20%C3%BAjezd%20Hradi%C5%A1t%C4%9B&ns6=1&ns14=1) |
 
-### Kraj Vysočina (27)
+### Kraj Vysočina (29)
 
 | Místo | Typ | Obec | Přístup | Odkazy |
 |---|---|---|---|---|
@@ -3360,10 +3370,11 @@ Zkus najít, zda nepatří k existujícímu rodu (větev), případně popis a e
 | Bobrová | hrad | Bobrová | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q11216223), [cs.wiki](https://cs.wikipedia.org/wiki/Bobrová_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=Bobrov%C3%A1%20Bobrov%C3%A1&ns6=1&ns14=1) |
 | Bohumilice (Kožlí) | tvrz | Kožlí | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q11219962), [cs.wiki](https://cs.wikipedia.org/wiki/Bohumilice_(tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=Bohumilice%20Ko%C5%BEl%C3%AD&ns6=1&ns14=1) |
 | Hacpurek | tvrz | Velká Černá | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q13433936), [cs.wiki](https://cs.wikipedia.org/wiki/Hacpurek_(tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=Hacpurek%20Velk%C3%A1%20%C4%8Cern%C3%A1&ns6=1&ns14=1) |
-| Horní hrádek | tvrz | Horní Lhotice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q106795859), [cs.wiki](https://cs.wikipedia.org/wiki/Horní_hrádek), [Commons](https://commons.wikimedia.org/w/index.php?search=Horn%C3%AD%20hr%C3%A1dek%20Horn%C3%AD%20Lhotice&ns6=1&ns14=1) |
 | Hrad | hrad | Svojkovice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q38142084), [Commons](https://commons.wikimedia.org/w/index.php?search=Hrad%20Svojkovice&ns6=1&ns14=1) |
+| Hrádek Oslavice | zricenina |  | volne | [OpenStreetMap](https://www.openstreetmap.org/node/7438223613), [Commons](https://commons.wikimedia.org/w/index.php?search=Hr%C3%A1dek%20Oslavice%20&ns6=1&ns14=1) |
 | Hrádek u Podmok | zricenina | Podmoky | volne | [Wikidata](https://www.wikidata.org/wiki/Q12020828), [cs.wiki](https://cs.wikipedia.org/wiki/Hrádek_u_Podmok), [Commons](https://commons.wikimedia.org/w/index.php?search=Hr%C3%A1dek%20u%20Podmok%20Podmoky&ns6=1&ns14=1) |
 | Jedov | tvrz | Jedov | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12024419), [cs.wiki](https://cs.wikipedia.org/wiki/Jedov_(tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=Jedov%20Jedov&ns6=1&ns14=1) |
+| Karlův zámeček | zamek | Pávov | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12028747), [cs.wiki](https://cs.wikipedia.org/wiki/Karlův_zámeček), [Commons](https://commons.wikimedia.org/w/index.php?search=Karl%C5%AFv%20z%C3%A1me%C4%8Dek%20P%C3%A1vov&ns6=1&ns14=1) |
 | Klášter Nížkov | klaster | Nížkov | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q18042727), [cs.wiki](https://cs.wikipedia.org/wiki/Klášter_Nížkov), [Commons](https://commons.wikimedia.org/w/index.php?search=Kl%C3%A1%C5%A1ter%20N%C3%AD%C5%BEkov%20N%C3%AD%C5%BEkov&ns6=1&ns14=1) |
 | Kojatín | tvrz | Kojatín | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12029744), [cs.wiki](https://cs.wikipedia.org/wiki/Kojatín_(tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=Kojat%C3%ADn%20Kojat%C3%ADn&ns6=1&ns14=1) |
 | Kostelec u Jihlavy | hrad | Kostelec | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12031119), [cs.wiki](https://cs.wikipedia.org/wiki/Kostelec_u_Jihlavy_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=Kostelec%20u%20Jihlavy%20Kostelec&ns6=1&ns14=1) |
@@ -3371,6 +3382,7 @@ Zkus najít, zda nepatří k existujícímu rodu (větev), případně popis a e
 | Kroměšín | zamek | Libice nad Doubravou | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12031571), [cs.wiki](https://cs.wikipedia.org/wiki/Kroměšín_(zámek)), [Commons](https://commons.wikimedia.org/w/index.php?search=Krom%C4%9B%C5%A1%C3%ADn%20Libice%20nad%20Doubravou&ns6=1&ns14=1) |
 | Lacembok | zricenina | Ledeč nad Sázavou | volne | [Wikidata](https://www.wikidata.org/wiki/Q12032437), [cs.wiki](https://cs.wikipedia.org/wiki/Lacembok_(okres_Havlíčkův_Brod)), [Commons](https://commons.wikimedia.org/w/index.php?search=Lacembok%20Lede%C4%8D%20nad%20S%C3%A1zavou&ns6=1&ns14=1) |
 | Letohrádek | zamek | Kralice nad Oslavou | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q123907278), [Commons](https://commons.wikimedia.org/w/index.php?search=Letohr%C3%A1dek%20Kralice%20nad%20Oslavou&ns6=1&ns14=1) |
+| Mnich | tvrz |  | neznamo | [OpenStreetMap](https://www.openstreetmap.org/node/7404438686), [Commons](https://commons.wikimedia.org/w/index.php?search=Mnich%20&ns6=1&ns14=1) |
 | Pechmburk | hrad | Velká Chyška | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12044509), [cs.wiki](https://cs.wikipedia.org/wiki/Pechmburk), [Commons](https://commons.wikimedia.org/w/index.php?search=Pechmburk%20Velk%C3%A1%20Chy%C5%A1ka&ns6=1&ns14=1) |
 | Rochňovec | zamek | Chotěboř | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q62755117), [Commons](https://commons.wikimedia.org/w/index.php?search=Roch%C5%88ovec%20Chot%C4%9Bbo%C5%99&ns6=1&ns14=1) |
 | Rožná | zricenina | Rožná | volne | [Wikidata](https://www.wikidata.org/wiki/Q12050072), [cs.wiki](https://cs.wikipedia.org/wiki/Rožná_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=Ro%C5%BEn%C3%A1%20Ro%C5%BEn%C3%A1&ns6=1&ns14=1) |
@@ -3383,24 +3395,26 @@ Zkus najít, zda nepatří k existujícímu rodu (větev), případně popis a e
 | Červenice | hrad | Vilémov | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q11175753), [cs.wiki](https://cs.wikipedia.org/wiki/Červenice_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=%C4%8Cervenice%20Vil%C3%A9mov&ns6=1&ns14=1) |
 | Čížov | tvrz | Stará Říše | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q11388271), [cs.wiki](https://cs.wikipedia.org/wiki/Čížov_(tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=%C4%8C%C3%AD%C5%BEov%20Star%C3%A1%20%C5%98%C3%AD%C5%A1e&ns6=1&ns14=1) |
 
-### Královéhradecký kraj (30)
+### Královéhradecký kraj (36)
 
 | Místo | Typ | Obec | Přístup | Odkazy |
 |---|---|---|---|---|
 | Albrechtice nad Orlicí | hrad | Albrechtice nad Orlicí | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q10767577), [cs.wiki](https://cs.wikipedia.org/wiki/Albrechtice_nad_Orlicí_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=Albrechtice%20nad%20Orlic%C3%AD%20Albrechtice%20nad%20Orlic%C3%AD&ns6=1&ns14=1) |
 | Barchůvek | zamek | Měník | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q11054762), [cs.wiki](https://cs.wikipedia.org/wiki/Barchůvek_(zámek)), [Commons](https://commons.wikimedia.org/w/index.php?search=Barch%C5%AFvek%20M%C4%9Bn%C3%ADk&ns6=1&ns14=1) |
 | Bolkov | hrad | Zlatá Olešnice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q11225857), [cs.wiki](https://cs.wikipedia.org/wiki/Bolkov_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=Bolkov%20Zlat%C3%A1%20Ole%C5%A1nice&ns6=1&ns14=1) |
-| Borovnice | tvrz | Borovnice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q11232847), [cs.wiki](https://cs.wikipedia.org/wiki/Borovnice_(tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=Borovnice%20Borovnice&ns6=1&ns14=1) |
-| Borovnice | zamek | Borovnice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q11232878), [cs.wiki](https://cs.wikipedia.org/wiki/Borovnice_(zámek)), [Commons](https://commons.wikimedia.org/w/index.php?search=Borovnice%20Borovnice&ns6=1&ns14=1) |
+| Chotělice | zamek |  | neznamo | [OpenStreetMap](https://www.openstreetmap.org/way/291550169), [Commons](https://commons.wikimedia.org/w/index.php?search=Chot%C4%9Blice%20&ns6=1&ns14=1) |
 | Hlodný | hrad | Uhřínov | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12019772), [cs.wiki](https://cs.wikipedia.org/wiki/Hlodný), [Commons](https://commons.wikimedia.org/w/index.php?search=Hlodn%C3%BD%20Uh%C5%99%C3%ADnov&ns6=1&ns14=1) |
 | Hluky | zricenina | Hluky | volne | [Wikidata](https://www.wikidata.org/wiki/Q12019811), [cs.wiki](https://cs.wikipedia.org/wiki/Hluky_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=Hluky%20Hluky&ns6=1&ns14=1) |
 | Hoděčín | zamek | Týniště nad Orlicí | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q110947425), [Commons](https://commons.wikimedia.org/w/index.php?search=Hod%C4%9B%C4%8D%C3%ADn%20T%C3%BDni%C5%A1t%C4%9B%20nad%20Orlic%C3%AD&ns6=1&ns14=1) |
+| Homole | tvrz |  | neznamo | [OpenStreetMap](https://www.openstreetmap.org/node/3114208876), [Commons](https://commons.wikimedia.org/w/index.php?search=Homole%20&ns6=1&ns14=1) |
 | Horní Vlčice | zricenina | Vlčice | volne | [Wikidata](https://www.wikidata.org/wiki/Q30068317), [cs.wiki](https://cs.wikipedia.org/wiki/Horní_Vlčice_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=Horn%C3%AD%20Vl%C4%8Dice%20Vl%C4%8Dice&ns6=1&ns14=1) |
 | Horní zámek Teplice nad Metují | zamek | Teplice nad Metují | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q31466842), [Commons](https://commons.wikimedia.org/w/index.php?search=Horn%C3%AD%20z%C3%A1mek%20Teplice%20nad%20Metuj%C3%AD%20Teplice%20nad%20Metuj%C3%AD&ns6=1&ns14=1) |
 | Hradišťko (Ostroměř) | tvrz | Ostroměř | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q109310730), [cs.wiki](https://cs.wikipedia.org/wiki/Hradišťko_(Ostroměř)), [Commons](https://commons.wikimedia.org/w/index.php?search=Hradi%C5%A1%C5%A5ko%20Ostrom%C4%9B%C5%99&ns6=1&ns14=1) |
 | Jeřice | zamek | Jeřice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q37306737), [cs.wiki](https://cs.wikipedia.org/wiki/Jeřice_(zámek)), [Commons](https://commons.wikimedia.org/w/index.php?search=Je%C5%99ice%20Je%C5%99ice&ns6=1&ns14=1) |
+| Kamenice | zamek |  | neznamo | [OpenStreetMap](https://www.openstreetmap.org/way/172640336), [Commons](https://commons.wikimedia.org/w/index.php?search=Kamenice%20&ns6=1&ns14=1) |
 | Klášter Svaté Pole | klaster | Ledce | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q1776136), [cs.wiki](https://cs.wikipedia.org/wiki/Klášter_Svaté_Pole), [Commons](https://commons.wikimedia.org/w/index.php?search=Kl%C3%A1%C5%A1ter%20Svat%C3%A9%20Pole%20Ledce&ns6=1&ns14=1) |
 | Lovecký pavilon Ratibořice | zamek | Česká Skalice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q110948223), [Commons](https://commons.wikimedia.org/w/index.php?search=Loveck%C3%BD%20pavilon%20Ratibo%C5%99ice%20%C4%8Cesk%C3%A1%20Skalice&ns6=1&ns14=1) |
+| Lovecký zámeček Hájek | zamek | Hájek | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q38488213), [Commons](https://commons.wikimedia.org/w/index.php?search=Loveck%C3%BD%20z%C3%A1me%C4%8Dek%20H%C3%A1jek%20H%C3%A1jek&ns6=1&ns14=1) |
 | Lískovice | zamek | Lískovice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q55948141), [Commons](https://commons.wikimedia.org/w/index.php?search=L%C3%ADskovice%20L%C3%ADskovice&ns6=1&ns14=1) |
 | Miletínek | tvrz | Červená Třemešná | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q105686932), [cs.wiki](https://cs.wikipedia.org/wiki/Miletínek_(tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=Milet%C3%ADnek%20%C4%8Cerven%C3%A1%20T%C5%99eme%C5%A1n%C3%A1&ns6=1&ns14=1) |
 | Městské opevnění Hradce Králové | hradby | Hradec Králové | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q105000428), [cs.wiki](https://cs.wikipedia.org/wiki/Městské_opevnění_(Hradec_Králové)), [Commons](https://commons.wikimedia.org/w/index.php?search=M%C4%9Bstsk%C3%A9%20opevn%C4%9Bn%C3%AD%20Hradce%20Kr%C3%A1lov%C3%A9%20Hradec%20Kr%C3%A1lov%C3%A9&ns6=1&ns14=1) |
@@ -3410,35 +3424,40 @@ Zkus najít, zda nepatří k existujícímu rodu (větev), případně popis a e
 | Pustohrad | zricenina | Hořice | volne | [Wikidata](https://www.wikidata.org/wiki/Q123753592), [cs.wiki](https://cs.wikipedia.org/wiki/Pustohrad), [Commons](https://commons.wikimedia.org/w/index.php?search=Pustohrad%20Ho%C5%99ice&ns6=1&ns14=1) |
 | Radvanice | hrad | Radvanice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q38090781), [cs.wiki](https://cs.wikipedia.org/wiki/Radvanice_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=Radvanice%20Radvanice&ns6=1&ns14=1) |
 | Raubeschloss | zricenina | Božanov | volne | [Wikidata](https://www.wikidata.org/wiki/Q107552264), [cs.wiki](https://cs.wikipedia.org/wiki/Hrad_u_Božanova), [Commons](https://commons.wikimedia.org/w/index.php?search=Raubeschloss%20Bo%C5%BEanov&ns6=1&ns14=1) |
+| Rodov | tvrz |  | neznamo | [OpenStreetMap](https://www.openstreetmap.org/node/6547120972), [Commons](https://commons.wikimedia.org/w/index.php?search=Rodov%20&ns6=1&ns14=1) |
+| Sadová | zamek |  | neznamo | [OpenStreetMap](https://www.openstreetmap.org/node/12625664045), [Commons](https://commons.wikimedia.org/w/index.php?search=Sadov%C3%A1%20&ns6=1&ns14=1) |
 | Sendraž | tvrz | Sendraž | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12051386), [cs.wiki](https://cs.wikipedia.org/wiki/Sendraž_(tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=Sendra%C5%BE%20Sendra%C5%BE&ns6=1&ns14=1) |
 | Starý Vřešťov | zricenina | Velký Vřešťov | volne | [Wikidata](https://www.wikidata.org/wiki/Q28870248), [cs.wiki](https://cs.wikipedia.org/wiki/Starý_Vřešťov), [Commons](https://commons.wikimedia.org/w/index.php?search=Star%C3%BD%20V%C5%99e%C5%A1%C5%A5ov%20Velk%C3%BD%20V%C5%99e%C5%A1%C5%A5ov&ns6=1&ns14=1) |
 | Suchá (hrad) | hrad | Pěčín | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12057167), [cs.wiki](https://cs.wikipedia.org/wiki/Suchá_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=Such%C3%A1%20P%C4%9B%C4%8D%C3%ADn&ns6=1&ns14=1) |
+| Tuř | zamek |  | neznamo | [OpenStreetMap](https://www.openstreetmap.org/way/387386335), [Commons](https://commons.wikimedia.org/w/index.php?search=Tu%C5%99%20&ns6=1&ns14=1) |
 | U Bezníka | zricenina | Borek | volne | [Wikidata](https://www.wikidata.org/wiki/Q108241968), [cs.wiki](https://cs.wikipedia.org/wiki/Hrad_u_Bezníka), [Commons](https://commons.wikimedia.org/w/index.php?search=U%20Bezn%C3%ADka%20Borek&ns6=1&ns14=1) |
 | Vražba | zricenina | Habřina | volne | [Wikidata](https://www.wikidata.org/wiki/Q27847758), [cs.wiki](https://cs.wikipedia.org/wiki/Vražba_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=Vra%C5%BEba%20Hab%C5%99ina&ns6=1&ns14=1) |
+| Vysoké Veselí | zamek |  | neznamo | [OpenStreetMap](https://www.openstreetmap.org/way/201282672), [Commons](https://commons.wikimedia.org/w/index.php?search=Vysok%C3%A9%20Vesel%C3%AD%20&ns6=1&ns14=1) |
 | Zapeč | zamek | Chlumec nad Cidlinou II | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q126616837), [Commons](https://commons.wikimedia.org/w/index.php?search=Zape%C4%8D%20Chlumec%20nad%20Cidlinou%20II&ns6=1&ns14=1) |
 | Železnice | zricenina | Železnice | volne | [Wikidata](https://www.wikidata.org/wiki/Q123758150), [cs.wiki](https://cs.wikipedia.org/wiki/Železnice_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=%C5%BDeleznice%20%C5%BDeleznice&ns6=1&ns14=1) |
 
-### Liberecký kraj (15)
+### Liberecký kraj (16)
 
 | Místo | Typ | Obec | Přístup | Odkazy |
 |---|---|---|---|---|
 | Dolní Oldřiš | tvrz | Bulovka | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q11816659), [cs.wiki](https://cs.wikipedia.org/wiki/Dolní_Oldřiš_(tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=Doln%C3%AD%20Old%C5%99i%C5%A1%20Bulovka&ns6=1&ns14=1) |
 | Dolánky u Turnova | zricenina | Dolánky u Turnova | volne | [Wikidata](https://www.wikidata.org/wiki/Q11818559), [cs.wiki](https://cs.wikipedia.org/wiki/Dolánky_u_Turnova_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=Dol%C3%A1nky%20u%20Turnova%20Dol%C3%A1nky%20u%20Turnova&ns6=1&ns14=1) |
-| Dubá | hrad | Dubá | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q11834675), [cs.wiki](https://cs.wikipedia.org/wiki/Dubá_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=Dub%C3%A1%20Dub%C3%A1&ns6=1&ns14=1) |
 | Frýdlant | hrad | Kvítkov | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12017881), [cs.wiki](https://cs.wikipedia.org/wiki/Frýdlant_(hrad,_okres_Česká_Lípa)), [Commons](https://commons.wikimedia.org/w/index.php?search=Fr%C3%BDdlant%20Kv%C3%ADtkov&ns6=1&ns14=1) |
 | Haléřova tvrz | tvrz | Liberec | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12018912), [cs.wiki](https://cs.wikipedia.org/wiki/Haléřova_tvrz), [Commons](https://commons.wikimedia.org/w/index.php?search=Hal%C3%A9%C5%99ova%20tvrz%20Liberec&ns6=1&ns14=1) |
 | Klokočský hrádek | hrad | Klokočí | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12029428), [cs.wiki](https://cs.wikipedia.org/wiki/Klokočský_hrádek), [Commons](https://commons.wikimedia.org/w/index.php?search=Kloko%C4%8Dsk%C3%BD%20hr%C3%A1dek%20Kloko%C4%8D%C3%AD&ns6=1&ns14=1) |
 | Kláštenec | hrad | Lomnice nad Popelkou | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q13583921), [cs.wiki](https://cs.wikipedia.org/wiki/Kláštenec), [Commons](https://commons.wikimedia.org/w/index.php?search=Kl%C3%A1%C5%A1tenec%20Lomnice%20nad%20Popelkou&ns6=1&ns14=1) |
 | Klášter dominikánů (Turnov) | klaster | Turnov | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12029541), [cs.wiki](https://cs.wikipedia.org/wiki/Klášter_dominikánů_(Turnov)), [Commons](https://commons.wikimedia.org/w/index.php?search=Kl%C3%A1%C5%A1ter%20dominik%C3%A1n%C5%AF%20Turnov&ns6=1&ns14=1) |
 | Mladkovský hrádek | zricenina | Víchová nad Jizerou | volne | [Wikidata](https://www.wikidata.org/wiki/Q99642286), [cs.wiki](https://cs.wikipedia.org/wiki/Mladkovský_hrádek), [Commons](https://commons.wikimedia.org/w/index.php?search=Mladkovsk%C3%BD%20hr%C3%A1dek%20V%C3%ADchov%C3%A1%20nad%20Jizerou&ns6=1&ns14=1) |
+| Robečský hrádek | zricenina |  | volne | [OpenStreetMap](https://www.openstreetmap.org/node/3651057136), [Commons](https://commons.wikimedia.org/w/index.php?search=Robe%C4%8Dsk%C3%BD%20hr%C3%A1dek%20&ns6=1&ns14=1) |
 | Rychlovský hrádek | hrad | Horní Štěpanice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12050468), [cs.wiki](https://cs.wikipedia.org/wiki/Rychlovský_hrádek), [Commons](https://commons.wikimedia.org/w/index.php?search=Rychlovsk%C3%BD%20hr%C3%A1dek%20Horn%C3%AD%20%C5%A0t%C4%9Bpanice&ns6=1&ns14=1) |
 | Sytový | zricenina | Dolní Sytová | volne | [Wikidata](https://www.wikidata.org/wiki/Q99296587), [cs.wiki](https://cs.wikipedia.org/wiki/Sytový), [Commons](https://commons.wikimedia.org/w/index.php?search=Sytov%C3%BD%20Doln%C3%AD%20Sytov%C3%A1&ns6=1&ns14=1) |
 | U Kluku | hrad | Kluk | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12020559), [cs.wiki](https://cs.wikipedia.org/wiki/Hrad_u_Kluku), [Commons](https://commons.wikimedia.org/w/index.php?search=U%20Kluku%20Kluk&ns6=1&ns14=1) |
 | U Loubí | hrad | Loubí | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12033969), [cs.wiki](https://cs.wikipedia.org/wiki/Loubí_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=U%20Loub%C3%AD%20Loub%C3%AD&ns6=1&ns14=1) |
+| Vranovský hrádek | zricenina |  | volne | [OpenStreetMap](https://www.openstreetmap.org/node/3253402615), [Commons](https://commons.wikimedia.org/w/index.php?search=Vranovsk%C3%BD%20hr%C3%A1dek%20&ns6=1&ns14=1) |
 | Vřísek | zricenina | Hradiště | volne | [Wikidata](https://www.wikidata.org/wiki/Q12005573), [cs.wiki](https://cs.wikipedia.org/wiki/Vřísek_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=V%C5%99%C3%ADsek%20Hradi%C5%A1t%C4%9B&ns6=1&ns14=1) |
 | Zahrádky | hrad | Zahrádky | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q10857178), [cs.wiki](https://cs.wikipedia.org/wiki/Zahrádky_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=Zahr%C3%A1dky%20Zahr%C3%A1dky&ns6=1&ns14=1) |
 
-### Moravskoslezský kraj (34)
+### Moravskoslezský kraj (36)
 
 | Místo | Typ | Obec | Přístup | Odkazy |
 |---|---|---|---|---|
@@ -3447,7 +3466,7 @@ Zkus najít, zda nepatří k existujícímu rodu (větev), případně popis a e
 | Brandýs | zamek | Český Těšín | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q11244563), [cs.wiki](https://cs.wikipedia.org/wiki/Brandýs_(zámek)), [Commons](https://commons.wikimedia.org/w/index.php?search=Brand%C3%BDs%20%C4%8Cesk%C3%BD%20T%C4%9B%C5%A1%C3%ADn&ns6=1&ns14=1) |
 | Burkvíz | zricenina | Vraclávek | volne | [Wikidata](https://www.wikidata.org/wiki/Q11450977), [cs.wiki](https://cs.wikipedia.org/wiki/Burkvíz_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=Burkv%C3%ADz%20Vracl%C3%A1vek&ns6=1&ns14=1) |
 | Bílá | hrad | Bílá | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q10856852), [cs.wiki](https://cs.wikipedia.org/wiki/Bílá_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=B%C3%ADl%C3%A1%20B%C3%ADl%C3%A1&ns6=1&ns14=1) |
-| Bělá | tvrz | Bělá | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q11706806), [cs.wiki](https://cs.wikipedia.org/wiki/Bělá_(tvrz,_okres_Opava)), [Commons](https://commons.wikimedia.org/w/index.php?search=B%C4%9Bl%C3%A1%20B%C4%9Bl%C3%A1&ns6=1&ns14=1) |
+| Dobratice | zamek | Dobratice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q11812725), [cs.wiki](https://cs.wikipedia.org/wiki/Dobratice_(zámek)), [Commons](https://commons.wikimedia.org/w/index.php?search=Dobratice%20Dobratice&ns6=1&ns14=1) |
 | Dolní Domaslavice | zamek | Dolní Domaslavice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q11815627), [cs.wiki](https://cs.wikipedia.org/wiki/Dolní_Domaslavice_(zámek)), [Commons](https://commons.wikimedia.org/w/index.php?search=Doln%C3%AD%20Domaslavice%20Doln%C3%AD%20Domaslavice&ns6=1&ns14=1) |
 | Dolní Líštná | zamek | Třinec | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q28819545), [cs.wiki](https://cs.wikipedia.org/wiki/Dolní_Líštná_(zámek)), [Commons](https://commons.wikimedia.org/w/index.php?search=Doln%C3%AD%20L%C3%AD%C5%A1tn%C3%A1%20T%C5%99inec&ns6=1&ns14=1) |
 | Dolní Suchá | zamek | Havířov | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q11817302), [cs.wiki](https://cs.wikipedia.org/wiki/Dolní_Suchá_(zámek)), [Commons](https://commons.wikimedia.org/w/index.php?search=Doln%C3%AD%20Such%C3%A1%20Hav%C3%AD%C5%99ov&ns6=1&ns14=1) |
@@ -3464,20 +3483,22 @@ Zkus najít, zda nepatří k existujícímu rodu (větev), případně popis a e
 | Kunčice | zamek | Kunčice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q38044476), [Commons](https://commons.wikimedia.org/w/index.php?search=Kun%C4%8Dice%20Kun%C4%8Dice&ns6=1&ns14=1) |
 | Kunčičky | zamek | Kunčičky | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12031937), [cs.wiki](https://cs.wikipedia.org/wiki/Kunčičky_(zámek)), [Commons](https://commons.wikimedia.org/w/index.php?search=Kun%C4%8Di%C4%8Dky%20Kun%C4%8Di%C4%8Dky&ns6=1&ns14=1) |
 | Medlice | zricenina | Hořejší Kunčice | volne | [Wikidata](https://www.wikidata.org/wiki/Q12036298), [cs.wiki](https://cs.wikipedia.org/wiki/Medlice_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=Medlice%20Ho%C5%99ej%C5%A1%C3%AD%20Kun%C4%8Dice&ns6=1&ns14=1) |
-| Moravskoostravský hrad | hrad | Moravská Ostrava | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q10856855), [cs.wiki](https://cs.wikipedia.org/wiki/Moravskoostravský_hrad), [Commons](https://commons.wikimedia.org/w/index.php?search=Moravskoostravsk%C3%BD%20hrad%20Moravsk%C3%A1%20Ostrava&ns6=1&ns14=1) |
 | Město Albrechtice (starý zámek) | zamek | Město Albrechtice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12039337), [cs.wiki](https://cs.wikipedia.org/wiki/Město_Albrechtice_(starý_zámek)), [Commons](https://commons.wikimedia.org/w/index.php?search=M%C4%9Bsto%20Albrechtice%20M%C4%9Bsto%20Albrechtice&ns6=1&ns14=1) |
+| Nový Dvůr | zamek |  | neznamo | [OpenStreetMap](https://www.openstreetmap.org/way/54037241), [Commons](https://commons.wikimedia.org/w/index.php?search=Nov%C3%BD%20Dv%C5%AFr%20&ns6=1&ns14=1) |
 | Návsí | hrad | Návsí | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q62066209), [Commons](https://commons.wikimedia.org/w/index.php?search=N%C3%A1vs%C3%AD%20N%C3%A1vs%C3%AD&ns6=1&ns14=1) |
 | Pustý zámek | zricenina | Horní Město | volne | [Wikidata](https://www.wikidata.org/wiki/Q140301923), [cs.wiki](https://cs.wikipedia.org/wiki/Pustý_zámek_(hrad,_okres_Bruntál)), [Commons](https://commons.wikimedia.org/w/index.php?search=Pust%C3%BD%20z%C3%A1mek%20Horn%C3%AD%20M%C4%9Bsto&ns6=1&ns14=1) |
 | Quinburk | hrad | Heřmanovice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q11866117), [cs.wiki](https://cs.wikipedia.org/wiki/Quinburk), [Commons](https://commons.wikimedia.org/w/index.php?search=Quinburk%20He%C5%99manovice&ns6=1&ns14=1) |
 | Rabenštejn | zricenina | Mnichov | volne | [Wikidata](https://www.wikidata.org/wiki/Q12048445), [cs.wiki](https://cs.wikipedia.org/wiki/Rabenštejn), [Commons](https://commons.wikimedia.org/w/index.php?search=Raben%C5%A1tejn%20Mnichov&ns6=1&ns14=1) |
+| Smolkov | zamek |  | neznamo | [OpenStreetMap](https://www.openstreetmap.org/way/53355569), [Commons](https://commons.wikimedia.org/w/index.php?search=Smolkov%20&ns6=1&ns14=1) |
 | Solca - Karviná-Doly | zamek | okres Karviná | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q110948238), [Commons](https://commons.wikimedia.org/w/index.php?search=Solca%20-%20Karvin%C3%A1-Doly%20okres%20Karvin%C3%A1&ns6=1&ns14=1) |
 | Spálov | zamek | Spálov | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q50285105), [cs.wiki](https://cs.wikipedia.org/wiki/Spálov_(zámek)), [Commons](https://commons.wikimedia.org/w/index.php?search=Sp%C3%A1lov%20Sp%C3%A1lov&ns6=1&ns14=1) |
 | Třebovice | zamek | Třebovice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q105754979), [Commons](https://commons.wikimedia.org/w/index.php?search=T%C5%99ebovice%20T%C5%99ebovice&ns6=1&ns14=1) |
 | Třinec | zamek | Třinec | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q28816007), [cs.wiki](https://cs.wikipedia.org/wiki/Třinec_(zámek)), [Commons](https://commons.wikimedia.org/w/index.php?search=T%C5%99inec%20T%C5%99inec&ns6=1&ns14=1) |
+| Wallhubel | tvrz |  | neznamo | [OpenStreetMap](https://www.openstreetmap.org/node/9386118093), [Commons](https://commons.wikimedia.org/w/index.php?search=Wallhubel%20&ns6=1&ns14=1) |
 | Čeladná | hrad | Čeladná | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q13403156), [cs.wiki](https://cs.wikipedia.org/wiki/Čeladná_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=%C4%8Celadn%C3%A1%20%C4%8Celadn%C3%A1&ns6=1&ns14=1) |
 | Šternek | zricenina | Bílčice | volne | [Wikidata](https://www.wikidata.org/wiki/Q29975796), [cs.wiki](https://cs.wikipedia.org/wiki/Šternek), [Commons](https://commons.wikimedia.org/w/index.php?search=%C5%A0ternek%20B%C3%ADl%C4%8Dice&ns6=1&ns14=1) |
 
-### Olomoucký kraj (19)
+### Olomoucký kraj (20)
 
 | Místo | Typ | Obec | Přístup | Odkazy |
 |---|---|---|---|---|
@@ -3485,7 +3506,6 @@ Zkus najít, zda nepatří k existujícímu rodu (větev), případně popis a e
 | Doubravice | zamek | Moravičany | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q11823536), [cs.wiki](https://cs.wikipedia.org/wiki/Doubravice_(zámek,_okres_Šumperk)), [Commons](https://commons.wikimedia.org/w/index.php?search=Doubravice%20Moravi%C4%8Dany&ns6=1&ns14=1) |
 | Fort XX Křelov | pevnost | Křelov | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q37335821), [cs.wiki](https://cs.wikipedia.org/wiki/Fort_XX_Křelov), [Commons](https://commons.wikimedia.org/w/index.php?search=Fort%20XX%20K%C5%99elov%20K%C5%99elov&ns6=1&ns14=1) |
 | Frankštát | hrad | Třemešek | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12016862), [cs.wiki](https://cs.wikipedia.org/wiki/Frankštát_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=Frank%C5%A1t%C3%A1t%20T%C5%99eme%C5%A1ek&ns6=1&ns14=1) |
-| Horní Hoštice | tvrz | Javorník | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12020180), [cs.wiki](https://cs.wikipedia.org/wiki/Horní_Hoštice_(tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=Horn%C3%AD%20Ho%C5%A1tice%20Javorn%C3%ADk&ns6=1&ns14=1) |
 | Hukovice | zamek | Velká Kraš | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q50415399), [cs.wiki](https://cs.wikipedia.org/wiki/Hukovice_(zámek,_okres_Jeseník)), [Commons](https://commons.wikimedia.org/w/index.php?search=Hukovice%20Velk%C3%A1%20Kra%C5%A1&ns6=1&ns14=1) |
 | Huzová | hrad | Huzová | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12021020), [cs.wiki](https://cs.wikipedia.org/wiki/Huzová_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=Huzov%C3%A1%20Huzov%C3%A1&ns6=1&ns14=1) |
 | Jestřabí | tvrz | vojenský újezd Libavá | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q110270735), [cs.wiki](https://cs.wikipedia.org/wiki/Jestřabí_(tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=Jest%C5%99ab%C3%AD%20vojensk%C3%BD%20%C3%BAjezd%20Libav%C3%A1&ns6=1&ns14=1) |
@@ -3494,14 +3514,16 @@ Zkus najít, zda nepatří k existujícímu rodu (větev), případně popis a e
 | Kralice na Hané | zamek | Kralice na Hané | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q115556271), [Commons](https://commons.wikimedia.org/w/index.php?search=Kralice%20na%20Han%C3%A9%20Kralice%20na%20Han%C3%A9&ns6=1&ns14=1) |
 | Krchleby | zamek | Krchleby | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q115901306), [Commons](https://commons.wikimedia.org/w/index.php?search=Krchleby%20Krchleby&ns6=1&ns14=1) |
 | Maršíkov | zamek | Velké Losiny | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q50208901), [cs.wiki](https://cs.wikipedia.org/wiki/Maršíkov_(zámek)), [Commons](https://commons.wikimedia.org/w/index.php?search=Mar%C5%A1%C3%ADkov%20Velk%C3%A9%20Losiny&ns6=1&ns14=1) |
+| Moravský Beroun | zricenina |  | volne | [OpenStreetMap](https://www.openstreetmap.org/node/3615191084), [Commons](https://commons.wikimedia.org/w/index.php?search=Moravsk%C3%BD%20Beroun%20&ns6=1&ns14=1) |
 | Pleče | zricenina | Jindřichov | volne | [Wikidata](https://www.wikidata.org/wiki/Q25603428), [cs.wiki](https://cs.wikipedia.org/wiki/Pleče), [Commons](https://commons.wikimedia.org/w/index.php?search=Ple%C4%8De%20Jind%C5%99ichov&ns6=1&ns14=1) |
 | Přemyslovice | zamek | Přemyslovice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q63136122), [Commons](https://commons.wikimedia.org/w/index.php?search=P%C5%99emyslovice%20P%C5%99emyslovice&ns6=1&ns14=1) |
 | Rittnerův zámeček | zamek | Bílý Potok | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q33524982), [cs.wiki](https://cs.wikipedia.org/wiki/Rittnerův_zámeček), [Commons](https://commons.wikimedia.org/w/index.php?search=Rittner%C5%AFv%20z%C3%A1me%C4%8Dek%20B%C3%ADl%C3%BD%20Potok&ns6=1&ns14=1) |
 | Tepenec | hrad | Jívová | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q1014222), [cs.wiki](https://cs.wikipedia.org/wiki/Tepenec), [Commons](https://commons.wikimedia.org/w/index.php?search=Tepenec%20J%C3%ADvov%C3%A1&ns6=1&ns14=1) |
 | Tomíkovice | zamek | Tomíkovice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q62796332), [Commons](https://commons.wikimedia.org/w/index.php?search=Tom%C3%ADkovice%20Tom%C3%ADkovice&ns6=1&ns14=1) |
 | Vlčice | zamek | Vlčice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q115901415), [Commons](https://commons.wikimedia.org/w/index.php?search=Vl%C4%8Dice%20Vl%C4%8Dice&ns6=1&ns14=1) |
+| Řimice | tvrz |  | neznamo | [OpenStreetMap](https://www.openstreetmap.org/way/259996180), [Commons](https://commons.wikimedia.org/w/index.php?search=%C5%98imice%20&ns6=1&ns14=1) |
 
-### Pardubický kraj (23)
+### Pardubický kraj (25)
 
 | Místo | Typ | Obec | Přístup | Odkazy |
 |---|---|---|---|---|
@@ -3511,6 +3533,7 @@ Zkus najít, zda nepatří k existujícímu rodu (větev), případně popis a e
 | Chvojenec | tvrz | Chvojenec | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q37168103), [cs.wiki](https://cs.wikipedia.org/wiki/Chvojenec_(tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=Chvojenec%20Chvojenec&ns6=1&ns14=1) |
 | Dlouhá Loučka | zricenina | Dlouhá Loučka | volne | [Wikidata](https://www.wikidata.org/wiki/Q37172579), [cs.wiki](https://cs.wikipedia.org/wiki/Dlouhá_Loučka_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=Dlouh%C3%A1%20Lou%C4%8Dka%20Dlouh%C3%A1%20Lou%C4%8Dka&ns6=1&ns14=1) |
 | Dřel | zricenina | Koldín | volne | [Wikidata](https://www.wikidata.org/wiki/Q28869449), [cs.wiki](https://cs.wikipedia.org/wiki/Dřel), [Commons](https://commons.wikimedia.org/w/index.php?search=D%C5%99el%20Kold%C3%ADn&ns6=1&ns14=1) |
+| Hlinsko | tvrz |  | neznamo | [OpenStreetMap](https://www.openstreetmap.org/way/216547917), [Commons](https://commons.wikimedia.org/w/index.php?search=Hlinsko%20&ns6=1&ns14=1) |
 | Hradiště nad Semtěší | zricenina | Sovolusky | volne | [Wikidata](https://www.wikidata.org/wiki/Q34201887), [cs.wiki](https://cs.wikipedia.org/wiki/Hradiště_nad_Semtěší), [Commons](https://commons.wikimedia.org/w/index.php?search=Hradi%C5%A1t%C4%9B%20nad%20Semt%C4%9B%C5%A1%C3%AD%20Sovolusky&ns6=1&ns14=1) |
 | Hrádek Cejřov | hrad | Leštinka | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q115925559), [Commons](https://commons.wikimedia.org/w/index.php?search=Hr%C3%A1dek%20Cej%C5%99ov%20Le%C5%A1tinka&ns6=1&ns14=1) |
 | Karle | hrad | Karle | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12028706), [cs.wiki](https://cs.wikipedia.org/wiki/Karle_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=Karle%20Karle&ns6=1&ns14=1) |
@@ -3521,6 +3544,7 @@ Zkus najít, zda nepatří k existujícímu rodu (větev), případně popis a e
 | Mostek | zamek | Mostek | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12038753), [cs.wiki](https://cs.wikipedia.org/wiki/Mostek_(zámek)), [Commons](https://commons.wikimedia.org/w/index.php?search=Mostek%20Mostek&ns6=1&ns14=1) |
 | Popovec | tvrz | Popovec | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q38050309), [cs.wiki](https://cs.wikipedia.org/wiki/Popovec_(tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=Popovec%20Popovec&ns6=1&ns14=1) |
 | Pěšice | tvrz | Pěšice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q38045020), [cs.wiki](https://cs.wikipedia.org/wiki/Pěšice_(tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=P%C4%9B%C5%A1ice%20P%C4%9B%C5%A1ice&ns6=1&ns14=1) |
+| Přestavlky | zamek |  | neznamo | [OpenStreetMap](https://www.openstreetmap.org/node/352738780), [Commons](https://commons.wikimedia.org/w/index.php?search=P%C5%99estavlky%20&ns6=1&ns14=1) |
 | Rozpakov | zricenina | Úherčice | volne | [Wikidata](https://www.wikidata.org/wiki/Q56022381), [cs.wiki](https://cs.wikipedia.org/wiki/Rozpakov), [Commons](https://commons.wikimedia.org/w/index.php?search=Rozpakov%20%C3%9Aher%C4%8Dice&ns6=1&ns14=1) |
 | Skalka (tvrz) | tvrz | České Libchavy | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12054378), [cs.wiki](https://cs.wikipedia.org/wiki/Skalka_(tvrz,_okres_Ústí_nad_Orlicí)), [Commons](https://commons.wikimedia.org/w/index.php?search=Skalka%20%C4%8Cesk%C3%A9%20Libchavy&ns6=1&ns14=1) |
 | Stoupec | zricenina | Březinka | volne | [Wikidata](https://www.wikidata.org/wiki/Q31839019), [Commons](https://commons.wikimedia.org/w/index.php?search=Stoupec%20B%C5%99ezinka&ns6=1&ns14=1) |
@@ -3529,11 +3553,11 @@ Zkus najít, zda nepatří k existujícímu rodu (větev), případně popis a e
 | Vranov | hrad | Choceň | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q11937501), [cs.wiki](https://cs.wikipedia.org/wiki/Vranov_(tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=Vranov%20Choce%C5%88&ns6=1&ns14=1) |
 | Zámek, Podhořany u Ronova, č.p. 1 | zamek | Podhořany u Ronova | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q115925557), [Commons](https://commons.wikimedia.org/w/index.php?search=Z%C3%A1mek%2C%20Podho%C5%99any%20u%20Ronova%2C%20%C4%8D.p.%201%20Podho%C5%99any%20u%20Ronova&ns6=1&ns14=1) |
 
-### Plzeňský kraj (36)
+### Plzeňský kraj (40)
 
 | Místo | Typ | Obec | Přístup | Odkazy |
 |---|---|---|---|---|
-| Březín | hrad | Březín | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q11707011), [cs.wiki](https://cs.wikipedia.org/wiki/Březín_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=B%C5%99ez%C3%ADn%20B%C5%99ez%C3%ADn&ns6=1&ns14=1) |
+| Annaburg | zamek | Horšov | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q10853496), [cs.wiki](https://cs.wikipedia.org/wiki/Annaburg), [Commons](https://commons.wikimedia.org/w/index.php?search=Annaburg%20Hor%C5%A1ov&ns6=1&ns14=1) |
 | Chlukov | hrad | Strašice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q11725105), [cs.wiki](https://cs.wikipedia.org/wiki/Chlukov), [Commons](https://commons.wikimedia.org/w/index.php?search=Chlukov%20Stra%C5%A1ice&ns6=1&ns14=1) |
 | Chlum | zamek | Chlum | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q30769803), [cs.wiki](https://cs.wikipedia.org/wiki/Chlum_(zámek,_Hartmanice)), [Commons](https://commons.wikimedia.org/w/index.php?search=Chlum%20Chlum&ns6=1&ns14=1) |
 | Darmyšl | zamek | Staré Sedlo | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q11774299), [cs.wiki](https://cs.wikipedia.org/wiki/Darmyšl_(zámek)), [Commons](https://commons.wikimedia.org/w/index.php?search=Darmy%C5%A1l%20Star%C3%A9%20Sedlo&ns6=1&ns14=1) |
@@ -3544,6 +3568,7 @@ Zkus najít, zda nepatří k existujícímu rodu (větev), případně popis a e
 | Hradiště | zamek | Hradiště | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q33248731), [cs.wiki](https://cs.wikipedia.org/wiki/Hradiště_(zámek,_okres_Klatovy)), [Commons](https://commons.wikimedia.org/w/index.php?search=Hradi%C5%A1t%C4%9B%20Hradi%C5%A1t%C4%9B&ns6=1&ns14=1) |
 | Hrádek u České Břízy | zricenina | Česká Bříza | volne | [Wikidata](https://www.wikidata.org/wiki/Q18745986), [cs.wiki](https://cs.wikipedia.org/wiki/Hrádek_u_České_Břízy), [Commons](https://commons.wikimedia.org/w/index.php?search=Hr%C3%A1dek%20u%20%C4%8Cesk%C3%A9%20B%C5%99%C3%ADzy%20%C4%8Cesk%C3%A1%20B%C5%99%C3%ADza&ns6=1&ns14=1) |
 | Kolínec | zamek | Kolinec | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q116036629), [Commons](https://commons.wikimedia.org/w/index.php?search=Kol%C3%ADnec%20Kolinec&ns6=1&ns14=1) |
+| Kořen | zamek |  | neznamo | [OpenStreetMap](https://www.openstreetmap.org/way/538809796), [Commons](https://commons.wikimedia.org/w/index.php?search=Ko%C5%99en%20&ns6=1&ns14=1) |
 | Liběšov | tvrz | Bezvěrov | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q37006333), [cs.wiki](https://cs.wikipedia.org/wiki/Liběšov), [Commons](https://commons.wikimedia.org/w/index.php?search=Lib%C4%9B%C5%A1ov%20Bezv%C4%9Brov&ns6=1&ns14=1) |
 | Loučová | zamek | Loučová | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q116697556), [Commons](https://commons.wikimedia.org/w/index.php?search=Lou%C4%8Dov%C3%A1%20Lou%C4%8Dov%C3%A1&ns6=1&ns14=1) |
 | Milkov | zricenina | Lestkov | volne | [Wikidata](https://www.wikidata.org/wiki/Q21665154), [cs.wiki](https://cs.wikipedia.org/wiki/Milkov_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=Milkov%20Lestkov&ns6=1&ns14=1) |
@@ -3551,18 +3576,21 @@ Zkus najít, zda nepatří k existujícímu rodu (větev), případně popis a e
 | Na Babské skále | hrad | Pajzov | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q14970586), [cs.wiki](https://cs.wikipedia.org/wiki/Hrad_na_Babské_skále), [Commons](https://commons.wikimedia.org/w/index.php?search=Na%20Babsk%C3%A9%20sk%C3%A1le%20Pajzov&ns6=1&ns14=1) |
 | Nové Sedliště | tvrz | Nové Sedliště | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q38037388), [cs.wiki](https://cs.wikipedia.org/wiki/Nové_Sedliště_(tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=Nov%C3%A9%20Sedli%C5%A1t%C4%9B%20Nov%C3%A9%20Sedli%C5%A1t%C4%9B&ns6=1&ns14=1) |
 | Nový Dvůr | zamek | Nový Dvůr | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q55498888), [Commons](https://commons.wikimedia.org/w/index.php?search=Nov%C3%BD%20Dv%C5%AFr%20Nov%C3%BD%20Dv%C5%AFr&ns6=1&ns14=1) |
+| Němčice | tvrz |  | neznamo | [OpenStreetMap](https://www.openstreetmap.org/node/8554449378), [Commons](https://commons.wikimedia.org/w/index.php?search=N%C4%9Bm%C4%8Dice%20&ns6=1&ns14=1) |
+| Olešná | tvrz |  | neznamo | [OpenStreetMap](https://www.openstreetmap.org/node/11580213787), [Commons](https://commons.wikimedia.org/w/index.php?search=Ole%C5%A1n%C3%A1%20&ns6=1&ns14=1) |
 | Palvinov | zamek | Hartmanice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q55109601), [Commons](https://commons.wikimedia.org/w/index.php?search=Palvinov%20Hartmanice&ns6=1&ns14=1) |
 | Petrovice nad Úhlavou | tvrz | Petrovice nad Úhlavou | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q33254564), [cs.wiki](https://cs.wikipedia.org/wiki/Petrovice_nad_Úhlavou_(tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=Petrovice%20nad%20%C3%9Ahlavou%20Petrovice%20nad%20%C3%9Ahlavou&ns6=1&ns14=1) |
 | Pořejov | zamek | Pořejov | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12046683), [cs.wiki](https://cs.wikipedia.org/wiki/Pořejov_(zámek)), [Commons](https://commons.wikimedia.org/w/index.php?search=Po%C5%99ejov%20Po%C5%99ejov&ns6=1&ns14=1) |
 | Přívozec | zamek | Blížejov | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q28949676), [cs.wiki](https://cs.wikipedia.org/wiki/Přívozec_(zámek)), [Commons](https://commons.wikimedia.org/w/index.php?search=P%C5%99%C3%ADvozec%20Bl%C3%AD%C5%BEejov&ns6=1&ns14=1) |
-| Q126478128 | hrad | Klenová | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q126478128), [Commons](https://commons.wikimedia.org/w/index.php?search=Q126478128%20Klenov%C3%A1&ns6=1&ns14=1) |
 | Radčice | zamek | Plzeň | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q110947321), [Commons](https://commons.wikimedia.org/w/index.php?search=Rad%C4%8Dice%20Plze%C5%88&ns6=1&ns14=1) |
+| Starý zámek | tvrz |  | neznamo | [OpenStreetMap](https://www.openstreetmap.org/node/11580213788), [Commons](https://commons.wikimedia.org/w/index.php?search=Star%C3%BD%20z%C3%A1mek%20&ns6=1&ns14=1) |
 | Strašná skála | zricenina | Přešín | volne | [Wikidata](https://www.wikidata.org/wiki/Q12056552), [cs.wiki](https://cs.wikipedia.org/wiki/Strašná_skála), [Commons](https://commons.wikimedia.org/w/index.php?search=Stra%C5%A1n%C3%A1%20sk%C3%A1la%20P%C5%99e%C5%A1%C3%ADn&ns6=1&ns14=1) |
 | U Královky | hrad | Cheznovice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12020561), [cs.wiki](https://cs.wikipedia.org/wiki/Hrad_u_Královky), [Commons](https://commons.wikimedia.org/w/index.php?search=U%20Kr%C3%A1lovky%20Cheznovice&ns6=1&ns14=1) |
-| Venkovský rodinný dům Gustava Helmhackera | hrad | Hradiště | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q33248753), [cs.wiki](https://cs.wikipedia.org/wiki/Venkovský_dům_Gustava_Helmhackera), [Commons](https://commons.wikimedia.org/w/index.php?search=Venkovsk%C3%BD%20rodinn%C3%BD%20d%C5%AFm%20Gustava%20Helmhackera%20Hradi%C5%A1t%C4%9B&ns6=1&ns14=1) |
+| Vidice | tvrz |  | neznamo | [OpenStreetMap](https://www.openstreetmap.org/node/11877076629), [Commons](https://commons.wikimedia.org/w/index.php?search=Vidice%20&ns6=1&ns14=1) |
 | Vlkýš | zamek | Vlkýš I | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q124414164), [Commons](https://commons.wikimedia.org/w/index.php?search=Vlk%C3%BD%C5%A1%20Vlk%C3%BD%C5%A1%20I&ns6=1&ns14=1) |
 | Vydřiduch | zricenina | Svojkovice | volne | [Wikidata](https://www.wikidata.org/wiki/Q11944420), [cs.wiki](https://cs.wikipedia.org/wiki/Vydřiduch), [Commons](https://commons.wikimedia.org/w/index.php?search=Vyd%C5%99iduch%20Svojkovice&ns6=1&ns14=1) |
 | Vysoká Libyně | zamek | Kralovice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q110948564), [Commons](https://commons.wikimedia.org/w/index.php?search=Vysok%C3%A1%20Libyn%C4%9B%20Kralovice&ns6=1&ns14=1) |
+| Vížka | tvrz |  | neznamo | [OpenStreetMap](https://www.openstreetmap.org/way/1339818777), [Commons](https://commons.wikimedia.org/w/index.php?search=V%C3%AD%C5%BEka%20&ns6=1&ns14=1) |
 | Walddorf | zamek | Bělá nad Radbuzou | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q14602142), [Commons](https://commons.wikimedia.org/w/index.php?search=Walddorf%20B%C4%9Bl%C3%A1%20nad%20Radbuzou&ns6=1&ns14=1) |
 | Zahájí | zamek | Stará Knížecí Huť | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q105046748), [Commons](https://commons.wikimedia.org/w/index.php?search=Zah%C3%A1j%C3%AD%20Star%C3%A1%20Kn%C3%AD%C5%BEec%C3%AD%20Hu%C5%A5&ns6=1&ns14=1) |
 | Zborovy | hrad | Zborovy | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q38227416), [Commons](https://commons.wikimedia.org/w/index.php?search=Zborovy%20Zborovy&ns6=1&ns14=1) |
@@ -3570,31 +3598,24 @@ Zkus najít, zda nepatří k existujícímu rodu (větev), případně popis a e
 | Zámek | zamek | Staré Sedliště | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q38137914), [Commons](https://commons.wikimedia.org/w/index.php?search=Z%C3%A1mek%20Star%C3%A9%20Sedli%C5%A1t%C4%9B&ns6=1&ns14=1) |
 | Újezd u Plánice | zamek | Újezd u Plánice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q116036592), [Commons](https://commons.wikimedia.org/w/index.php?search=%C3%9Ajezd%20u%20Pl%C3%A1nice%20%C3%9Ajezd%20u%20Pl%C3%A1nice&ns6=1&ns14=1) |
 
-### Praha (11)
+### Praha (3)
 
 | Místo | Typ | Obec | Přístup | Odkazy |
 |---|---|---|---|---|
-| Benická tvrz | tvrz | Benice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q56561899), [cs.wiki](https://cs.wikipedia.org/wiki/Benická_tvrz_(Praha)), [Commons](https://commons.wikimedia.org/w/index.php?search=Benick%C3%A1%20tvrz%20Benice&ns6=1&ns14=1) |
-| Bohnice (Praha 8) | tvrz | Praha 8 | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q56570044), [cs.wiki](https://cs.wikipedia.org/wiki/Bohnice_(tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=Bohnice%20Praha%208&ns6=1&ns14=1) |
-| Běchovice | tvrz | Běchovice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q56991201), [cs.wiki](https://cs.wikipedia.org/wiki/Běchovice_(druhá_tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=B%C4%9Bchovice%20B%C4%9Bchovice&ns6=1&ns14=1) |
-| Cholupice | tvrz | Praha | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q56703263), [cs.wiki](https://cs.wikipedia.org/wiki/Cholupice_(tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=Cholupice%20Praha&ns6=1&ns14=1) |
-| Dubeček | tvrz | Praha | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q56761399), [cs.wiki](https://cs.wikipedia.org/wiki/Dubeček_(tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=Dube%C4%8Dek%20Praha&ns6=1&ns14=1) |
-| Hodkovičky | tvrz | Praha 4 | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q56478282), [cs.wiki](https://cs.wikipedia.org/wiki/Hodkovičky_(tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=Hodkovi%C4%8Dky%20Praha%204&ns6=1&ns14=1) |
-| Kolovraty | tvrz | Praha | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q56703241), [cs.wiki](https://cs.wikipedia.org/wiki/Kolovraty_(tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=Kolovraty%20Praha&ns6=1&ns14=1) |
-| První strašnická tvrz | tvrz | Strašnice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q57170264), [cs.wiki](https://cs.wikipedia.org/wiki/Elingovská_tvrz), [Commons](https://commons.wikimedia.org/w/index.php?search=Prvn%C3%AD%20stra%C5%A1nick%C3%A1%20tvrz%20Stra%C5%A1nice&ns6=1&ns14=1) |
-| Uhříněves (Praha) | tvrz | Praha | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q56243008), [cs.wiki](https://cs.wikipedia.org/wiki/Uhříněves_(tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=Uh%C5%99%C3%ADn%C4%9Bves%20Praha&ns6=1&ns14=1) |
+| Bořekovka | zamek | Praha | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q106783347), [cs.wiki](https://cs.wikipedia.org/wiki/Bořekovka), [Commons](https://commons.wikimedia.org/w/index.php?search=Bo%C5%99ekovka%20Praha&ns6=1&ns14=1) |
 | Vysočany | zamek | Vysočany | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q115862720), [cs.wiki](https://cs.wikipedia.org/wiki/Vysočany_(zámek)), [Commons](https://commons.wikimedia.org/w/index.php?search=Vyso%C4%8Dany%20Vyso%C4%8Dany&ns6=1&ns14=1) |
 | Zahradní pavilon Zapova 20 | hrad | Smíchov | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q31954108), [cs.wiki](https://cs.wikipedia.org/wiki/Zahradní_pavilon_Zapova_(Smíchov)), [Commons](https://commons.wikimedia.org/w/index.php?search=Zahradn%C3%AD%20pavilon%20Zapova%2020%20Sm%C3%ADchov&ns6=1&ns14=1) |
 
-### Středočeský kraj (28)
+### Středočeský kraj (30)
 
 | Místo | Typ | Obec | Přístup | Odkazy |
 |---|---|---|---|---|
 | A zaniklá středověká ves Bolice | tvrz | Opočnice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q38236896), [cs.wiki](https://cs.wikipedia.org/wiki/Bolice), [Commons](https://commons.wikimedia.org/w/index.php?search=A%20zanikl%C3%A1%20st%C5%99edov%C4%9Bk%C3%A1%20ves%20Bolice%20Opo%C4%8Dnice&ns6=1&ns14=1) |
 | Belvín | zamek | Žehrov | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q11068604), [cs.wiki](https://cs.wikipedia.org/wiki/Belvín), [Commons](https://commons.wikimedia.org/w/index.php?search=Belv%C3%ADn%20%C5%BDehrov&ns6=1&ns14=1) |
 | Bečváry | zamek | Bečváry | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q11143719), [cs.wiki](https://cs.wikipedia.org/wiki/Bečváry_(nový_zámek)), [Commons](https://commons.wikimedia.org/w/index.php?search=Be%C4%8Dv%C3%A1ry%20Be%C4%8Dv%C3%A1ry&ns6=1&ns14=1) |
+| Božešice | tvrz |  | neznamo | [OpenStreetMap](https://www.openstreetmap.org/node/11407119461), [Commons](https://commons.wikimedia.org/w/index.php?search=Bo%C5%BEe%C5%A1ice%20&ns6=1&ns14=1) |
 | Býchory | tvrz | Býchory | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q37027571), [cs.wiki](https://cs.wikipedia.org/wiki/Býchory_(tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=B%C3%BDchory%20B%C3%BDchory&ns6=1&ns14=1) |
-| Havraň | tvrz | Vestec | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q56055229), [cs.wiki](https://cs.wikipedia.org/wiki/Havraň_(hradiště)), [Commons](https://commons.wikimedia.org/w/index.php?search=Havra%C5%88%20Vestec&ns6=1&ns14=1) |
+| Dobrohošť | zamek |  | neznamo | [OpenStreetMap](https://www.openstreetmap.org/node/733024526), [Commons](https://commons.wikimedia.org/w/index.php?search=Dobroho%C5%A1%C5%A5%20&ns6=1&ns14=1) |
 | Hlaváčova Lhota | zamek | Třebovle | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12019729), [cs.wiki](https://cs.wikipedia.org/wiki/Hlaváčova_Lhota_(zámek)), [Commons](https://commons.wikimedia.org/w/index.php?search=Hlav%C3%A1%C4%8Dova%20Lhota%20T%C5%99ebovle&ns6=1&ns14=1) |
 | Hradišťko | hrad | Žiželice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q33505595), [cs.wiki](https://cs.wikipedia.org/wiki/Hradišťko_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=Hradi%C5%A1%C5%A5ko%20%C5%BDi%C5%BEelice&ns6=1&ns14=1) |
 | Hrádek Hradecká skála | hrad | Otryby | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q38044920), [Commons](https://commons.wikimedia.org/w/index.php?search=Hr%C3%A1dek%20Hradeck%C3%A1%20sk%C3%A1la%20Otryby&ns6=1&ns14=1) |
@@ -3604,55 +3625,61 @@ Zkus najít, zda nepatří k existujícímu rodu (větev), případně popis a e
 | Košík | zricenina | Neumětely | volne | [Wikidata](https://www.wikidata.org/wiki/Q56692030), [cs.wiki](https://cs.wikipedia.org/wiki/Košík_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=Ko%C5%A1%C3%ADk%20Neum%C4%9Btely&ns6=1&ns14=1) |
 | Libodřice | zamek | Libodřice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q55586782), [Commons](https://commons.wikimedia.org/w/index.php?search=Libod%C5%99ice%20Libod%C5%99ice&ns6=1&ns14=1) |
 | Malé Kolo | tvrz | Nalžovické Podhájí | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q38236821), [cs.wiki](https://cs.wikipedia.org/wiki/Malé_Kolo), [Commons](https://commons.wikimedia.org/w/index.php?search=Mal%C3%A9%20Kolo%20Nal%C5%BEovick%C3%A9%20Podh%C3%A1j%C3%AD&ns6=1&ns14=1) |
-| Mnichovice | tvrz | Mnichovice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q37821559), [cs.wiki](https://cs.wikipedia.org/wiki/Mnichovice_(tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=Mnichovice%20Mnichovice&ns6=1&ns14=1) |
 | Měšetice | tvrz | Měšetice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q37813434), [cs.wiki](https://cs.wikipedia.org/wiki/Měšetice_(tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=M%C4%9B%C5%A1etice%20M%C4%9B%C5%A1etice&ns6=1&ns14=1) |
 | Na hrádku | tvrz | Páleč | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q38089642), [cs.wiki](https://cs.wikipedia.org/wiki/Na_Hrádku_(Páleč)), [Commons](https://commons.wikimedia.org/w/index.php?search=Na%20hr%C3%A1dku%20P%C3%A1le%C4%8D&ns6=1&ns14=1) |
 | Nebřenice | zamek | Nebřenice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q33253240), [cs.wiki](https://cs.wikipedia.org/wiki/Nebřenice_(zámek)), [Commons](https://commons.wikimedia.org/w/index.php?search=Neb%C5%99enice%20Neb%C5%99enice&ns6=1&ns14=1) |
 | Neumětely | tvrz | Neumětely | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q56692129), [cs.wiki](https://cs.wikipedia.org/wiki/Neumětely_(tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=Neum%C4%9Btely%20Neum%C4%9Btely&ns6=1&ns14=1) |
 | Nový Ronov | zamek | Oskořínek | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12041409), [cs.wiki](https://cs.wikipedia.org/wiki/Nový_Ronov), [Commons](https://commons.wikimedia.org/w/index.php?search=Nov%C3%BD%20Ronov%20Osko%C5%99%C3%ADnek&ns6=1&ns14=1) |
-| Odranec | hrad | Onšovec | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q38040689), [cs.wiki](https://cs.wikipedia.org/wiki/Odranec_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=Odranec%20On%C5%A1ovec&ns6=1&ns14=1) |
+| Olešovice | zamek |  | neznamo | [OpenStreetMap](https://www.openstreetmap.org/node/1432814532), [Commons](https://commons.wikimedia.org/w/index.php?search=Ole%C5%A1ovice%20&ns6=1&ns14=1) |
 | Stará Báň | tvrz | Hradčany | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q37290874), [cs.wiki](https://cs.wikipedia.org/wiki/Stará_Báň), [Commons](https://commons.wikimedia.org/w/index.php?search=Star%C3%A1%20B%C3%A1%C5%88%20Hrad%C4%8Dany&ns6=1&ns14=1) |
 | Staré Hrady | hrad | Příhrazy | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q14970453), [cs.wiki](https://cs.wikipedia.org/wiki/Staré_Hrady_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=Star%C3%A9%20Hrady%20P%C5%99%C3%ADhrazy&ns6=1&ns14=1) |
 | Strančice | zamek | Strančice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q55425058), [Commons](https://commons.wikimedia.org/w/index.php?search=Stran%C4%8Dice%20Stran%C4%8Dice&ns6=1&ns14=1) |
 | Střížkov | zamek | Střížkov | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q33257452), [Commons](https://commons.wikimedia.org/w/index.php?search=St%C5%99%C3%AD%C5%BEkov%20St%C5%99%C3%AD%C5%BEkov&ns6=1&ns14=1) |
 | U Neumětel | zricenina | Neumětely | volne | [Wikidata](https://www.wikidata.org/wiki/Q14970566), [cs.wiki](https://cs.wikipedia.org/wiki/Starý_zámek_u_Neumětel), [Commons](https://commons.wikimedia.org/w/index.php?search=U%20Neum%C4%9Btel%20Neum%C4%9Btely&ns6=1&ns14=1) |
 | Velké Kolo | tvrz | Nalžovické Podhájí | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q37990197), [cs.wiki](https://cs.wikipedia.org/wiki/Velké_Kolo), [Commons](https://commons.wikimedia.org/w/index.php?search=Velk%C3%A9%20Kolo%20Nal%C5%BEovick%C3%A9%20Podh%C3%A1j%C3%AD&ns6=1&ns14=1) |
+| Vřesek | tvrz |  | neznamo | [OpenStreetMap](https://www.openstreetmap.org/node/14155977202), [Commons](https://commons.wikimedia.org/w/index.php?search=V%C5%99esek%20&ns6=1&ns14=1) |
+| Zrůbek | tvrz |  | neznamo | [OpenStreetMap](https://www.openstreetmap.org/node/9631912539), [Commons](https://commons.wikimedia.org/w/index.php?search=Zr%C5%AFbek%20&ns6=1&ns14=1) |
 | Čím | zamek | Čím | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q15127886), [Commons](https://commons.wikimedia.org/w/index.php?search=%C4%8C%C3%ADm%20%C4%8C%C3%ADm&ns6=1&ns14=1) |
 
-### Zlínský kraj (6)
+### Zlínský kraj (12)
 
 | Místo | Typ | Obec | Přístup | Odkazy |
 |---|---|---|---|---|
+| Bánov | zricenina |  | volne | [OpenStreetMap](https://www.openstreetmap.org/node/4861764459), [Commons](https://commons.wikimedia.org/w/index.php?search=B%C3%A1nov%20&ns6=1&ns14=1) |
 | Engelsberk | hrad | Horní Lhota | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q11878944), [cs.wiki](https://cs.wikipedia.org/wiki/Engelsberk), [Commons](https://commons.wikimedia.org/w/index.php?search=Engelsberk%20Horn%C3%AD%20Lhota&ns6=1&ns14=1) |
+| Hovězí | zamek |  | neznamo | [OpenStreetMap](https://www.openstreetmap.org/way/255258442), [Commons](https://commons.wikimedia.org/w/index.php?search=Hov%C4%9Bz%C3%AD%20&ns6=1&ns14=1) |
 | Hrádek | zricenina | Pohořelice | volne | [Wikidata](https://www.wikidata.org/wiki/Q38049215), [Commons](https://commons.wikimedia.org/w/index.php?search=Hr%C3%A1dek%20Poho%C5%99elice&ns6=1&ns14=1) |
+| Hulín | zricenina |  | volne | [OpenStreetMap](https://www.openstreetmap.org/node/4863712521), [Commons](https://commons.wikimedia.org/w/index.php?search=Hul%C3%ADn%20&ns6=1&ns14=1) |
+| Janův hrad | zricenina |  | volne | [OpenStreetMap](https://www.openstreetmap.org/node/6567288705), [Commons](https://commons.wikimedia.org/w/index.php?search=Jan%C5%AFv%20hrad%20&ns6=1&ns14=1) |
 | Manský zámek | zamek | Valašské Meziříčí | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q50208810), [cs.wiki](https://cs.wikipedia.org/wiki/Manský_zámek), [Commons](https://commons.wikimedia.org/w/index.php?search=Mansk%C3%BD%20z%C3%A1mek%20Vala%C5%A1sk%C3%A9%20Mezi%C5%99%C3%AD%C4%8D%C3%AD&ns6=1&ns14=1) |
+| Nezdenice | zamek |  | neznamo | [OpenStreetMap](https://www.openstreetmap.org/way/50251188), [Commons](https://commons.wikimedia.org/w/index.php?search=Nezdenice%20&ns6=1&ns14=1) |
+| Návojná | zamek |  | neznamo | [OpenStreetMap](https://www.openstreetmap.org/way/254880934), [Commons](https://commons.wikimedia.org/w/index.php?search=N%C3%A1vojn%C3%A1%20&ns6=1&ns14=1) |
 | Rýsov | hrad | Provodov | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12050580), [cs.wiki](https://cs.wikipedia.org/wiki/Rýsov_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=R%C3%BDsov%20Provodov&ns6=1&ns14=1) |
 | Thonetův zámeček | zamek | Halenkov | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q110947287), [Commons](https://commons.wikimedia.org/w/index.php?search=Thonet%C5%AFv%20z%C3%A1me%C4%8Dek%20Halenkov&ns6=1&ns14=1) |
 | Šarovy | zricenina | Březolupy | volne | [Wikidata](https://www.wikidata.org/wiki/Q30764249), [cs.wiki](https://cs.wikipedia.org/wiki/Šarovy_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=%C5%A0arovy%20B%C5%99ezolupy&ns6=1&ns14=1) |
 
-### Ústecký kraj (23)
+### Ústecký kraj (22)
 
 | Místo | Typ | Obec | Přístup | Odkazy |
 |---|---|---|---|---|
 | Bergrutsch | zricenina | Chomutov | volne | [Wikidata](https://www.wikidata.org/wiki/Q23562385), [cs.wiki](https://cs.wikipedia.org/wiki/Bergrutsch), [Commons](https://commons.wikimedia.org/w/index.php?search=Bergrutsch%20Chomutov&ns6=1&ns14=1) |
 | Chlumec | zamek | Chlumec | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q11725359), [cs.wiki](https://cs.wikipedia.org/wiki/Chlumec_(starý_zámek)), [Commons](https://commons.wikimedia.org/w/index.php?search=Chlumec%20Chlumec&ns6=1&ns14=1) |
 | Hrušovany | zamek | Hrušovany | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q114356971), [cs.wiki](https://cs.wikipedia.org/wiki/Hrušovany_(zámek)), [Commons](https://commons.wikimedia.org/w/index.php?search=Hru%C5%A1ovany%20Hru%C5%A1ovany&ns6=1&ns14=1) |
+| Jelení | zamek |  | neznamo | [OpenStreetMap](https://www.openstreetmap.org/way/371199723), [Commons](https://commons.wikimedia.org/w/index.php?search=Jelen%C3%AD%20&ns6=1&ns14=1) |
 | Jezuitský exerciční dům | klaster | Děčín | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12024655), [cs.wiki](https://cs.wikipedia.org/wiki/Jezuitský_exerciční_dům_(Podmokly)), [Commons](https://commons.wikimedia.org/w/index.php?search=Jezuitsk%C3%BD%20exerci%C4%8Dn%C3%AD%20d%C5%AFm%20D%C4%9B%C4%8D%C3%ADn&ns6=1&ns14=1) |
 | Klášter dehoniánů | klaster | Dubí | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12029532), [cs.wiki](https://cs.wikipedia.org/wiki/Klášter_dehoniánů_(Dubí)), [Commons](https://commons.wikimedia.org/w/index.php?search=Kl%C3%A1%C5%A1ter%20dehoni%C3%A1n%C5%AF%20Dub%C3%AD&ns6=1&ns14=1) |
-| Klášter dominikánů (Louny) | klaster | Louny | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12029538), [cs.wiki](https://cs.wikipedia.org/wiki/Klášter_dominikánů_(Louny)), [Commons](https://commons.wikimedia.org/w/index.php?search=Kl%C3%A1%C5%A1ter%20dominik%C3%A1n%C5%AF%20Louny&ns6=1&ns14=1) |
 | Klášter premonstrátů | klaster | Žatec | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12029555), [cs.wiki](https://cs.wikipedia.org/wiki/Klášter_premonstrátů_(Žatec)), [Commons](https://commons.wikimedia.org/w/index.php?search=Kl%C3%A1%C5%A1ter%20premonstr%C3%A1t%C5%AF%20%C5%BDatec&ns6=1&ns14=1) |
 | Klášter salesiánů | klaster | Děčín | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12029557), [cs.wiki](https://cs.wikipedia.org/wiki/Komunita_salesiánů_(Podmokly)), [Commons](https://commons.wikimedia.org/w/index.php?search=Kl%C3%A1%C5%A1ter%20salesi%C3%A1n%C5%AF%20D%C4%9B%C4%8D%C3%ADn&ns6=1&ns14=1) |
 | Komenda Býčkovice | klaster | Býčkovice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12029893), [cs.wiki](https://cs.wikipedia.org/wiki/Komenda_Býčkovice), [Commons](https://commons.wikimedia.org/w/index.php?search=Komenda%20B%C3%BD%C4%8Dkovice%20B%C3%BD%C4%8Dkovice&ns6=1&ns14=1) |
 | Komenda Kadaň | klaster | Kadaň | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12029894), [cs.wiki](https://cs.wikipedia.org/wiki/Komenda_Kadaň), [Commons](https://commons.wikimedia.org/w/index.php?search=Komenda%20Kada%C5%88%20Kada%C5%88&ns6=1&ns14=1) |
 | Komenda Ploskovice | klaster | Ploskovice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12029896), [cs.wiki](https://cs.wikipedia.org/wiki/Komenda_Ploskovice), [Commons](https://commons.wikimedia.org/w/index.php?search=Komenda%20Ploskovice%20Ploskovice&ns6=1&ns14=1) |
 | Krbice | zamek | Spořice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q23906464), [cs.wiki](https://cs.wikipedia.org/wiki/Krbice_(zámek)), [Commons](https://commons.wikimedia.org/w/index.php?search=Krbice%20Spo%C5%99ice&ns6=1&ns14=1) |
-| Kundratice (Vysoká Pec) | tvrz | Vysoká Pec | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q23902683), [cs.wiki](https://cs.wikipedia.org/wiki/Kundratice_(tvrz,_okres_Chomutov)), [Commons](https://commons.wikimedia.org/w/index.php?search=Kundratice%20Vysok%C3%A1%20Pec&ns6=1&ns14=1) |
+| Ledebour | zamek | Telnice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12032851), [cs.wiki](https://cs.wikipedia.org/wiki/Ledebour), [Commons](https://commons.wikimedia.org/w/index.php?search=Ledebour%20Telnice&ns6=1&ns14=1) |
 | Loupežný hrádek | zricenina | Cínovec | volne | [Wikidata](https://www.wikidata.org/wiki/Q37169001), [cs.wiki](https://cs.wikipedia.org/wiki/Loupežný), [Commons](https://commons.wikimedia.org/w/index.php?search=Loupe%C5%BEn%C3%BD%20hr%C3%A1dek%20C%C3%ADnovec&ns6=1&ns14=1) |
-| Měděnec (tvrz) | tvrz | Měděnec | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q13407940), [cs.wiki](https://cs.wikipedia.org/wiki/Měděnec_(tvrz)), [Commons](https://commons.wikimedia.org/w/index.php?search=M%C4%9Bd%C4%9Bnec%20M%C4%9Bd%C4%9Bnec&ns6=1&ns14=1) |
 | Nosticů s barokní sýpkou | zamek | Droužkovice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q110947687), [Commons](https://commons.wikimedia.org/w/index.php?search=Nostic%C5%AF%20s%20barokn%C3%AD%20s%C3%BDpkou%20Drou%C5%BEkovice&ns6=1&ns14=1) |
 | Okna | zamek | Polepy | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q28860558), [cs.wiki](https://cs.wikipedia.org/wiki/Okna_(zámek)), [Commons](https://commons.wikimedia.org/w/index.php?search=Okna%20Polepy&ns6=1&ns14=1) |
 | Pařidla | zamek | Pařidla | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q131301289), [Commons](https://commons.wikimedia.org/w/index.php?search=Pa%C5%99idla%20Pa%C5%99idla&ns6=1&ns14=1) |
-| Piaristická kolej (Kadaň) | klaster | Kadaň | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12045276), [cs.wiki](https://cs.wikipedia.org/wiki/Piaristická_kolej_(Kadaň)), [Commons](https://commons.wikimedia.org/w/index.php?search=Piaristick%C3%A1%20kolej%20Kada%C5%88&ns6=1&ns14=1) |
+| Piaristická kolej | klaster | Kadaň | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12045276), [cs.wiki](https://cs.wikipedia.org/wiki/Piaristická_kolej_(Kadaň)), [Commons](https://commons.wikimedia.org/w/index.php?search=Piaristick%C3%A1%20kolej%20Kada%C5%88&ns6=1&ns14=1) |
 | Soběsuky | zamek | Soběsuky | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q12055193), [cs.wiki](https://cs.wikipedia.org/wiki/Soběsuky_(zámek)), [Commons](https://commons.wikimedia.org/w/index.php?search=Sob%C4%9Bsuky%20Sob%C4%9Bsuky&ns6=1&ns14=1) |
 | Stránce | zamek | Zaječice | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q118645218), [Commons](https://commons.wikimedia.org/w/index.php?search=Str%C3%A1nce%20Zaje%C4%8Dice&ns6=1&ns14=1) |
 | Ústí nad Labem | hrad | Ústí nad Labem | neznamo | [Wikidata](https://www.wikidata.org/wiki/Q23555941), [cs.wiki](https://cs.wikipedia.org/wiki/Ústí_nad_Labem_(hrad)), [Commons](https://commons.wikimedia.org/w/index.php?search=%C3%9Ast%C3%AD%20nad%20Labem%20%C3%9Ast%C3%AD%20nad%20Labem&ns6=1&ns14=1) |

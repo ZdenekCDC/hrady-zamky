@@ -23,7 +23,7 @@ python3 scripts/serve.py        # otevři http://localhost:8000
 
 ## Místa bez Wikidata
 
-Výjimečně se do mapy dávají ručně vybrané objekty z OpenStreetMap, které nemají položku na Wikidata: `data/extra_places.json` (`id` `osm-n123` / `osm-w123` / `osm-r123`, `osm` = `node/123`, `name`, `kind`, `lat`, `lon`, `kraj`). `scripts/build_places.py` je přidá do `places.json` s přístupností `neznamo` (ve výchozím stavu skryté), bez obce, historie a data vzniku; v detailu mají odkaz na OpenStreetMap místo Wikidata. Údaje pocházejí z OpenStreetMap (© přispěvatelé OpenStreetMap, ODbL). Návštěvy je přijímají (`app/visits.js`, `scripts/serve.py`). Ke kontrole a výběru kandidátů viz `TODO.md`; objekty s QID se přidávají přes `extra_qids` v `data/overrides.json`.
+Výjimečně se do mapy dávají ručně vybrané objekty z OpenStreetMap, které nemají položku na Wikidata: `data/extra_places.json` (`id` `osm-n123` / `osm-w123` / `osm-r123`, `osm` = `node/123`, `name`, `kind`, `lat`, `lon`, `kraj`). `scripts/build_places.py` je přidá do `places.json` s přístupností `volne` u zřícenin (stejně jako u Wikidata) a `neznamo` u ostatních (ve výchozím stavu skryté), bez obce, historie a data vzniku; v detailu mají odkaz na OpenStreetMap místo Wikidata. Údaje pocházejí z OpenStreetMap (© přispěvatelé OpenStreetMap, ODbL). Návštěvy je přijímají (`app/visits.js`, `scripts/serve.py`). Ke kontrole a výběru kandidátů viz `TODO.md`; objekty s QID se přidávají přes `extra_qids` v `data/overrides.json`.
 
 ## Podkladové mapy
 
