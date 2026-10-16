@@ -1,5 +1,7 @@
 # TODO
 
+Stav k 2026-10-16: mapa 2895 míst (2026-10-16 přidáno 79 z Wikidata podtypů lovecký zámeček, skalní hrad, letohrádek a nových záznamů; `fetch_wikidata.py` je pomalý, trvá kolem 20 minut kvůli dotazu na hospitály; veřejný endpoint občas vyprší, `common.get` teď při timeoutu opakuje).
+
 Stav k 2026-10-04: web běží na GitHub Pages (<https://zdenekcdc.github.io/hrady-zamky/>), mapa 2902 objektů, historie vlastníků 392 objektů (všechna zpřístupněná místa hotova), 898 rodů. Web má záložky Mapa / Rody / Statistiky, detail má přepínač osa / tabulka vlastníků.
 
 ## Priorita 1 - data

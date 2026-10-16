@@ -5,6 +5,9 @@ TYPES = {
     "Q23413": "hrad",
     "Q751876": "zamek",
     "Q17715832": "zricenina",
+    "Q1424449": "zamek",  # hunting lodge
+    "Q1436181": "zamek",  # summer palace
+    "Q1404207": "hrad",  # rock castle
     "Q1408475": "tvrz",
     "Q44613": "klaster",
     "Q160742": "klaster",  # abbey

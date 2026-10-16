@@ -19,7 +19,13 @@ session.headers["User-Agent"] = UA
 
 def get(url, retries=5, **kw):
     for attempt in range(retries):
-        r = session.get(url, timeout=120, **kw)
+        try:
+            r = session.get(url, timeout=120, **kw)
+        except requests.Timeout:  # the public Wikidata endpoint times out on heavy queries now and then
+            if attempt == retries - 1:
+                raise
+            time.sleep(15 * (attempt + 1))
+            continue
         if r.status_code == 200:
             return r
         if r.status_code in (429, 500, 502, 503, 504):
