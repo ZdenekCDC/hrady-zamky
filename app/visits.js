@@ -23,7 +23,7 @@ let writing = Promise.resolve();
 
 /** Normalized visit or null for an invalid record. */
 function norm(v) {
-  if (!v || typeof v !== "object" || !/^Q\d+$/.test(String(v.id))) return null;
+  if (!v || typeof v !== "object" || !/^(Q\d+|osm-[nwr]\d+)$/.test(String(v.id))) return null;
   const rating = Number.isInteger(v.rating) && v.rating >= 1 && v.rating <= 5 ? v.rating : null;
   const date = typeof v.date === "string" && v.date.trim() ? v.date.trim() : null;
   return { id: v.id, name: String(v.name ?? D.byId.get(v.id)?.name ?? ""), date, rating, note: typeof v.note === "string" ? v.note : "" };

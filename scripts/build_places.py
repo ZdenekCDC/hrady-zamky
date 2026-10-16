@@ -239,6 +239,13 @@ def main():
                 p["founded_text"] = f"{e['century']}. stol."
         p.update(overrides["places"].get(q, {}))
         places.append(p)
+    for x in load(DATA / "extra_places.json"):  # hand-picked OpenStreetMap objects without a Wikidata item
+        places.append({
+            "id": x["id"], "name": x["name"], "wd_label": x["name"], "kind": x["kind"], "lat": x["lat"], "lon": x["lon"],
+            "kraj": x["kraj"], "obec": None, "founded": None, "founded_text": None, "access": "neznamo", "access_sources": [],
+            "manager": None, "website": None, "cswiki": None, "image": None, "visitors": None, "nkp": False, "unesco": False,
+            "osm": x["osm"], **overrides["places"].get(x["id"], {}),
+        })
     names = Counter(p["name"] for p in places)
     for p in places:
         if names[p["name"]] > 1 and p["kind"] not in CASTLE_KINDS and p["obec"] and p["obec"] not in p["name"]:

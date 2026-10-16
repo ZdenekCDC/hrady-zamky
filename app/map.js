@@ -734,7 +734,7 @@ function renderDetail(p, pan = true) {
       ${p.cswiki ? `<a href="${esc(p.cswiki)}" target="_blank" rel="noopener">Wikipedie</a>` : ""}
       <a href="${mapy}" target="_blank" rel="noopener">Mapy.com</a>
       <a href="${gmaps}" target="_blank" rel="noopener">navigovat (Google)</a>
-      <a href="https://www.wikidata.org/wiki/${p.id}" target="_blank" rel="noopener">Wikidata</a>
+      ${p.osm ? `<a href="https://www.openstreetmap.org/${p.osm}" target="_blank" rel="noopener">OpenStreetMap</a>` : `<a href="https://www.wikidata.org/wiki/${p.id}" target="_blank" rel="noopener">Wikidata</a>`}
     </div>
     <p class="fix"><a id="d-fix" href="${esc(placeIssueUrl(p))}" target="_blank" rel="noopener">Opravit údaj o tomto místě</a>${placeMailUrl(p) ? ` <span class="muted">(<a id="d-fix-mail" href="${esc(placeMailUrl(p))}">e-mailem</a>)</span>` : ""}</p>
 

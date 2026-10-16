@@ -11,6 +11,7 @@ then stores visits in the browser or in a file the visitor connects (see app/vis
 import functools
 import http.server
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -29,8 +30,8 @@ def validate(doc):
         raise ValueError("visits must be a JSON list")
     out = []
     for i, v in enumerate(items):
-        if not isinstance(v, dict) or not str(v.get("id", "")).startswith("Q"):
-            raise ValueError(f"item {i}: missing Wikidata id (Q...)")
+        if not isinstance(v, dict) or not re.fullmatch(r"Q\d+|osm-[nwr]\d+", str(v.get("id", ""))):
+            raise ValueError(f"item {i}: missing place id (Wikidata Q... or osm-n123)")
         r = v.get("rating")
         if r is not None and (not isinstance(r, int) or not 1 <= r <= 5):
             raise ValueError(f"item {i} ({v['id']}): rating must be 1-5 or null")

@@ -120,6 +120,11 @@ def static_visits(pw, opts, errors):
     assert visited() == 0, f"public site must start with an empty map, got {visited()} visited"
     assert "uložené jen v prohlížeči" in store(), store()
 
+    page.goto(base + "#/misto/osm-n352738780")  # Přestavlky, a place from OpenStreetMap without a Wikidata item
+    page.wait_for_selector("#d-visit-form")
+    assert "Přestavlky" in page.inner_text("#sidebar"), "OSM place detail missing"
+    assert page.locator('a[href="https://www.openstreetmap.org/node/352738780"]').count() == 1, "OSM link missing"
+    assert page.locator('a[href*="wikidata.org"]').count() == 0, "OSM place must not link to Wikidata"
     page.goto(base + "#/misto/Q655633")  # Pernštejn
     page.wait_for_selector("#d-visit-form")
     page.click("[data-star='5']")

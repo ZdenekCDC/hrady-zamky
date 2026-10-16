@@ -5,6 +5,7 @@
 | `raw/wikidata.json` | `scripts/fetch_wikidata.py` | surová data z Wikidata |
 | `raw/access_sources.json`, `raw/nipos/*.xlsx` | `scripts/fetch_access.py` | NPÚ seznam, NIPOS statistika návštěvnosti, OSM |
 | `overrides.json` | ručně | ruční opravy párování a polí míst |
+| `extra_places.json` | ručně | místa z OpenStreetMap bez položky na Wikidata: `{id: "osm-n123", osm: "node/123", name, kind, lat, lon, kraj}`; `build_places.py` je přidá do `places.json` (obec, přístupnost a historie nemají) |
 | `places.json` | `scripts/build_places.py` | všechna místa pro mapu |
 | `history/<QID>.json` | ručně / agent (z cs.wiki) | historie vlastníků jednoho místa |
 | `families/<id>.json` | ručně / agent | detail rodu (erb, popis, původ) |
@@ -14,7 +15,7 @@
 
 ## places.json - položka
 
-`id` (Wikidata QID), `name`, `kind` (`hrad` / `zamek` / `hradozamek` / `zricenina` / `tvrz` / `klaster` / `kostel` / `usedlost` / `hospital` / `dul` / `vila` / `areal` / `zahrada` / `pevnost` / `hradby` / `kostnice` / `krypta`), `lat`, `lon`, `kraj`, `obec`,
+`id` (Wikidata QID, u míst z `extra_places.json` `osm-n123` / `osm-w123` / `osm-r123` podle typu prvku OSM; jen ta mají `osm`), `name`, `kind` (`hrad` / `zamek` / `hradozamek` / `zricenina` / `tvrz` / `klaster` / `kostel` / `usedlost` / `hospital` / `dul` / `vila` / `areal` / `zahrada` / `pevnost` / `hradby` / `kostnice` / `krypta`), `lat`, `lon`, `kraj`, `obec`,
 `founded` (rok nebo null), `founded_text` (např. „13. stol.“), `first_mention` (rok první písemné zmínky, jen když chybí vznik; odhad z textu cs.wiki ve `founded.json`, tamtéž i `founded` / `founded_text` tam, kde Wikidata vznik nemají), `access` (`vstupne` / `volne` / `neznamo`),
 `access_sources` (`npu`, `nipos`, `osm`), `manager`, `website`, `cswiki`, `image` (soubor na Commons),
 `visitors` (NIPOS, podle roku), `nkp`, `unesco`.
