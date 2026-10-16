@@ -1,6 +1,6 @@
 # TODO
 
-Stav k 2026-10-16: mapa 2895 míst (2026-10-16 přidáno 79 z Wikidata podtypů lovecký zámeček, skalní hrad, letohrádek a nových záznamů; `fetch_wikidata.py` je pomalý, trvá kolem 20 minut kvůli dotazu na hospitály; veřejný endpoint občas vyprší, `common.get` teď při timeoutu opakuje).
+Stav k 2026-10-16: mapa 2895 míst (2026-10-16 přidáno 79 z Wikidata podtypů lovecký zámeček, skalní hrad, letohrádek a nových záznamů; `fetch_wikidata.py` je pomalý, trvá kolem 20 minut kvůli dotazu na hospitály; veřejný endpoint občas vyprší, `common.get` teď při timeoutu opakuje). Zbylé OSM objekty s QID, které na mapě chybí, mají na Wikidata typ hradiště, sýpka, tvrziště, usedlost nebo budova (mimo rozsah); přidat přes `extra_qids` při dalším plném `fetch_wikidata.py` jen Starý Plumlov Q12056248 (typ hradiště), Pustý hrádek Q12047649 (typ bašta) a Zámek Ratměřice Q27555509 (typ stavba). Dalších ~100 hradů a tvrzí z OSM bez QID a ~110 kandidátů z katalogu NPÚ (hradiště a tvrziště vyloučena) čeká na ruční kontrolu, zda nejde jen o terénní stopy; NPÚ CSV nemá souřadnice.
 
 Stav k 2026-10-04: web běží na GitHub Pages (<https://zdenekcdc.github.io/hrady-zamky/>), mapa 2902 objektů, historie vlastníků 392 objektů (všechna zpřístupněná místa hotova), 898 rodů. Web má záložky Mapa / Rody / Statistiky, detail má přepínač osa / tabulka vlastníků.
 
