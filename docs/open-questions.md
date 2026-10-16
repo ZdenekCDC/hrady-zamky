@@ -163,3 +163,14 @@ Do dat šly jen poznámky se zdrojem (Sedláček díl a strana), čísla se nezm
 - Loučeň: Sedláček díl X, s. 345 za hranicí 1 000 000 znaků archive.org (nepřečteno); hrady.cz 1756 a odkaz Thurn-Taxisovi bez roku.
 - Metoda: Sedláčkova čísla stran jsou z OCR hlaviček, orientační; archive.org fetch vrací max ~1 000 000 znaků na díl (díl X a V mají kapitoly za hranicí - hledat jinou cestou, např. Kramerius).
 
+### Chybějící roky: dávky C a D (2026-10-16, Zruč, Pecka, Chanovice, Kovanice, Jezeří, Pajrek)
+
+Cíl: doplnit roky `null` v `data/history/` ze Sedláčka a hrady.cz. Ze 70 míst se našlo výslovně ~15 let (zapsáno: Zruč 4 záznamy, Pecka 6, Pajrek 1), zbytek zdroj neuvádí. Výtěžnost ~20 %, takže další dávky proti prázdným rokům mají nízký přínos.
+
+- Zruč: Heřman ze Zruče 1328 (Sedláček, daroval podací právo) x 1335 (cs.wiki, hrady.cz podle Svobody 1984) - v datech zůstává 1335; mezi Windischgrätzy a Löwenthaly vkládá Sedláček ještě Nováky (v datech chybí); Rausové, O'Kelly, Rumerskirchové, Windischgrätzové, Löwenthalové bez roků.
+- Pecka: Sedláček = hrady.cz doslova (jeden zdroj); Budivoj 1322, Protiva † 1473 / 147? (OCR useknuté), Lev z Rožmitálu a Horický bez roků nástupu, Harant od 1612 přes manželku.
+- Chanovice: Sedláček díl 11, s. 270 za hranicí archive.org fetch (nepřečteno); roky z cs.wiki, cestyrodu.cz a sumava.cz zůstávají beze změny.
+- Kovanice: Sedláček díl 12, s. 24-25: Sudomír 1266 jen zmínka, Eliška 1376 jen zmínka, 1548 Chvalovští z Ledec, 1594 Adam z Biberštejna prodal Anně Hlavničové, 1630 Kaplíř, Morzin † 1697 "do 18. stol.", Bubnové a Lažanský v textu chybí (rod Larisch), od poloviny 19. stol. Podběrady; nic nového k zápisu.
+- Jezeří: Sedláček díl 14, s. 231-235 a hrady.cz (přebírá); Mikuláš x Václav z Hochhazu zahynul 1596 (Sedláček Mikuláš, hrady.cz Václav mladší) - rozpor; Zikmund ze Slavic ještě 1451, Kunc z Kaufungu popraven 1455; nic nového k zápisu.
+- Pajrek: Sedláček díl 9, s. 131-135; hrady.cz stránka neexistuje (404), druhým zdrojem pajrek.cz/historie; odtržení Bohuslava od Něpra před 1356; Eva z Vidhostic léno 1528 (zapsáno); 1930 koupilo zříceninu město Nýrsko podle klub-augusta-sedlacka.cz (Hláška 2017-4).
+

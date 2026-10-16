@@ -14474,25 +14474,25 @@
   "places": [
    {
     "place": "Q1013464",
-    "from": 1515,
-    "to": 1548,
+    "from": 1498,
+    "to": 1515,
     "person": "Mikuláš Hořický z Hořic",
     "how": "koupe",
     "from_approx": true,
-    "to_approx": true
+    "to_approx": false
    }
   ],
   "transfers": [
    {
     "place": "Q1013464",
-    "year": 1515,
+    "year": 1498,
     "from": "pani-z-rozmitalu",
     "to": "horicti-z-horic",
     "how": "koupe"
    },
    {
     "place": "Q1013464",
-    "year": 1548,
+    "year": 1543,
     "from": "horicti-z-horic",
     "to": "skopkove-z-dube",
     "how": "neznamo"
@@ -17731,7 +17731,7 @@
    {
     "place": "Q1013457",
     "from": 1519,
-    "to": 1526,
+    "to": 1524,
     "person": "Kateřina Kocová z Dobrše",
     "how": "jine",
     "from_approx": true,
@@ -17784,7 +17784,7 @@
    },
    {
     "place": "Q1013457",
-    "year": 1526,
+    "year": 1524,
     "from": "kocove-z-dobrse",
     "to": "z-vidhostic",
     "how": "dedictvi"
@@ -34624,7 +34624,7 @@
     "person": "Albrecht Kryštof Hložek ze Žampachu",
     "how": "neznamo",
     "from_approx": false,
-    "to_approx": true
+    "to_approx": false
    },
    {
     "place": "Q369704",
@@ -35263,8 +35263,8 @@
   "places": [
    {
     "place": "Q1013464",
-    "from": 1483,
-    "to": 1515,
+    "from": 1490,
+    "to": 1498,
     "person": "Lev z Rožmitálu",
     "how": "neznamo",
     "from_approx": true,
@@ -35427,14 +35427,14 @@
   "transfers": [
    {
     "place": "Q1013464",
-    "year": 1483,
+    "year": 1490,
     "from": "soukromnik",
     "to": "pani-z-rozmitalu",
     "how": "neznamo"
    },
    {
     "place": "Q1013464",
-    "year": 1515,
+    "year": 1498,
     "from": "pani-z-rozmitalu",
     "to": "horicti-z-horic",
     "how": "koupe"
@@ -46693,27 +46693,27 @@
   "places": [
    {
     "place": "Q1013464",
-    "from": 1548,
-    "to": 1580,
+    "from": 1543,
+    "to": 1583,
     "person": "Jindřich Škopek z Bílých Otradovic",
     "how": "neznamo",
-    "from_approx": true,
-    "to_approx": true
+    "from_approx": false,
+    "to_approx": false
    },
    {
     "place": "Q1013464",
-    "from": 1580,
+    "from": 1583,
     "to": 1612,
     "person": "Karel a Adam Škopkové z Bílých Otradovic",
     "how": "dedictvi",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false
    }
   ],
   "transfers": [
    {
     "place": "Q1013464",
-    "year": 1548,
+    "year": 1543,
     "from": "horicti-z-horic",
     "to": "skopkove-z-dube",
     "how": "neznamo"
@@ -60085,7 +60085,7 @@
   "places": [
    {
     "place": "Q28872964",
-    "from": 1686,
+    "from": 1682,
     "to": 1693,
     "person": "Cecilie Eleonora hraběnka Breunerová a Maxmilián Ludvík Breuner",
     "how": "neznamo",
@@ -60096,7 +60096,7 @@
   "transfers": [
    {
     "place": "Q28872964",
-    "year": 1686,
+    "year": 1682,
     "from": "zdarsti-ze-zdaru",
     "to": "z-breuneru",
     "how": "neznamo"
@@ -63257,10 +63257,10 @@
    {
     "place": "Q28872964",
     "from": 1664,
-    "to": 1671,
+    "to": 1666,
     "person": "Lambert František Hřevenář z Hrachu",
     "how": "neznamo",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": true
    }
   ],
@@ -63274,7 +63274,7 @@
    },
    {
     "place": "Q28872964",
-    "year": 1671,
+    "year": 1666,
     "from": "z-hrachu",
     "to": "z-nathermannu",
     "how": "neznamo"
@@ -67549,25 +67549,25 @@
   "places": [
    {
     "place": "Q28872964",
-    "from": 1671,
-    "to": 1679,
+    "from": 1666,
+    "to": 1671,
     "person": "Vít de Nathermann",
     "how": "neznamo",
     "from_approx": true,
-    "to_approx": true
+    "to_approx": false
    }
   ],
   "transfers": [
    {
     "place": "Q28872964",
-    "year": 1671,
+    "year": 1666,
     "from": "z-hrachu",
     "to": "z-nathermannu",
     "how": "neznamo"
    },
    {
     "place": "Q28872964",
-    "year": 1679,
+    "year": 1671,
     "from": "z-nathermannu",
     "to": "zdarsti-ze-zdaru",
     "how": "neznamo"
@@ -68682,7 +68682,7 @@
    {
     "place": "Q1013464",
     "from": 1322,
-    "to": 1354,
+    "to": 1365,
     "person": "Budivoj z Pecky",
     "how": "zalozeni",
     "from_approx": false,
@@ -68690,8 +68690,8 @@
    },
    {
     "place": "Q1013464",
-    "from": 1354,
-    "to": 1386,
+    "from": 1365,
+    "to": 1407,
     "person": "tři bratři z Pecky, nakonec Jan Pecka",
     "how": "dedictvi",
     "from_approx": true,
@@ -68699,32 +68699,32 @@
    },
    {
     "place": "Q1013464",
-    "from": 1419,
-    "to": 1451,
+    "from": 1434,
+    "to": 1463,
     "person": "Vaněk z Pecky",
     "how": "dedictvi",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": true
    }
   ],
   "transfers": [
    {
     "place": "Q1013464",
-    "year": 1386,
+    "year": 1407,
     "from": "z-pecky",
     "to": "z-zeleznice",
     "how": "neznamo"
    },
    {
     "place": "Q1013464",
-    "year": 1419,
+    "year": 1434,
     "from": "z-zeleznice",
     "to": "z-pecky",
     "how": "dedictvi"
    },
    {
     "place": "Q1013464",
-    "year": 1451,
+    "year": 1463,
     "from": "z-pecky",
     "to": "soukromnik",
     "how": "neznamo"
@@ -73387,8 +73387,8 @@
   "places": [
    {
     "place": "Q1013457",
-    "from": 1526,
-    "to": 1534,
+    "from": 1524,
+    "to": 1528,
     "person": "Bohuslav a Podivín z Vidhostic",
     "how": "dedictvi",
     "from_approx": true,
@@ -73396,18 +73396,18 @@
    },
    {
     "place": "Q1013457",
-    "from": 1534,
+    "from": 1528,
     "to": 1541,
     "person": "Eva z Vidhostic",
     "how": "dedictvi",
-    "from_approx": true,
+    "from_approx": false,
     "to_approx": false
    }
   ],
   "transfers": [
    {
     "place": "Q1013457",
-    "year": 1526,
+    "year": 1524,
     "from": "kocove-z-dobrse",
     "to": "z-vidhostic",
     "how": "dedictvi"
@@ -74386,12 +74386,12 @@
   "places": [
    {
     "place": "Q1013464",
-    "from": 1386,
-    "to": 1419,
+    "from": 1407,
+    "to": 1434,
     "person": "Jarek z Železnice",
     "how": "neznamo",
-    "from_approx": true,
-    "to_approx": true
+    "from_approx": false,
+    "to_approx": false
    },
    {
     "place": "Q159971",
@@ -74415,14 +74415,14 @@
   "transfers": [
    {
     "place": "Q1013464",
-    "year": 1386,
+    "year": 1407,
     "from": "z-pecky",
     "to": "z-zeleznice",
     "how": "neznamo"
    },
    {
     "place": "Q1013464",
-    "year": 1419,
+    "year": 1434,
     "from": "z-zeleznice",
     "to": "z-pecky",
     "how": "dedictvi"
@@ -75306,8 +75306,8 @@
    },
    {
     "place": "Q28872964",
-    "from": 1679,
-    "to": 1686,
+    "from": 1671,
+    "to": 1682,
     "person": "Johanka Eusebie Millesimová ze Žďáru",
     "how": "neznamo",
     "from_approx": true,
@@ -75354,14 +75354,14 @@
    },
    {
     "place": "Q28872964",
-    "year": 1679,
+    "year": 1671,
     "from": "z-nathermannu",
     "to": "zdarsti-ze-zdaru",
     "how": "neznamo"
    },
    {
     "place": "Q28872964",
-    "year": 1686,
+    "year": 1682,
     "from": "zdarsti-ze-zdaru",
     "to": "z-breuneru",
     "how": "neznamo"
@@ -97293,8 +97293,8 @@
    },
    {
     "place": "Q1013464",
-    "from": 1451,
-    "to": 1483,
+    "from": 1463,
+    "to": 1490,
     "person": "Protiva",
     "how": "neznamo",
     "from_approx": true,
@@ -101320,14 +101320,14 @@
    },
    {
     "place": "Q1013464",
-    "year": 1451,
+    "year": 1463,
     "from": "z-pecky",
     "to": "soukromnik",
     "how": "neznamo"
    },
    {
     "place": "Q1013464",
-    "year": 1483,
+    "year": 1490,
     "from": "soukromnik",
     "to": "pani-z-rozmitalu",
     "how": "neznamo"
