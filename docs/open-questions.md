@@ -147,3 +147,19 @@ Jedna dávka, 5 objektů (Rabí, Švihov, Velhartice, Žleby, Karlova Koruna), 1
 - Velhartice - 1813 Sturmfederové jen hrady.cz (Sedláček "70 let" bez roku, 1825 jen diplomová práce); držitelé 1653-1743 s roky jen v Sedláčkovi (díl 11, s. 119-120: Račínové 1653, Kolovrat † 1686, Bechyně z Lažan 1710, Perglar 1729, Desfours 1743; v datech zčásti už je).
 - Žleby - 1289 první zmínka (oba), 1356 prodej Karlu IV. (Sedláček, web zámku), 1370 nikde.
 - Karlova Koruna - 1393 prodej Štěpánovi z Opočna a Landštejn 1488-1493 jen hrady.cz; Kostkovo nabytí neuvádí; zbývá Sedláček díl V, s. 283-292 (hledat jinou cestou než archive.org fetch, např. po stránkách nebo přes Kramerius).
+
+### Dávky A a B (2026-10-16, 10 objektů, 2 agenti souběžně, ~5 min)
+
+Do dat šly jen poznámky se zdrojem (Sedláček díl a strana), čísla se nezměnila, protože `data/history/` už rozpory vedlo.
+
+- Křivoklát: zástava 1658 potvrzena oběma zdroji (Sedláček 14. 2. 1658), konec: Sedláček 6. 6. 1685, hrady.cz leden 1686 (rozpor zůstává; v datech 1685); 1655 nikdo neuvádí.
+- Konopiště: Šternberkové do 1587 (smrt Adama), zápisy Arklebovi 1588 a 1590; komisaři prodali Hodějovské 18. 10. 1602 (v datech 1603 podle cs.wiki); Valdštejn 19. 12. 1622, vklad Michnovi 22. 2. 1623 (obojí platí).
+- Blatná: Rožmitálové vs. Šternberk 1541 - hrady.cz klade přechod na 1541, Sedláček odevzdání nedatuje; Rozdražov "před 1579" (1577 nikdo neuvádí); konfiskace 1948 jen hrady.cz.
+- Hazmburk: Báthory zápis 2. 8. 1606 (1602 jen hazmburk.cz a hrady.cz), Šternberk zápis 1610, pánem 1613; Ditrichštejn, Herberstein a zestátnění žádný zdroj.
+- Bečov: 1411 Plavenští shodně; Šternberkové 1447-1453 (Sedláček), Plavenští od 1453; Horní Slavkov 1597 zástava / 1615 dědičný nákup (dvě události, ne rozpor); konec Plavenských 1495 jen hrady.cz.
+- Karlštejn a Dobříš: hrady.cz přebírá Sedláčka doslova (není nezávislý zdroj); zástava Kavkovi 17. 10. 1626 potvrzena, Ungnadové a roky Porciů žádný zdroj; Dobříš Švihovský 1534 doživotně potvrzeno, konec Štěpána z Tetína bez roku. Pozor: Karlštejn hrad je Q266698, zámek Q1505765 nemá `data/history/` soubor.
+- Opočno: pořadí 1431-1451 se zdroje liší (Sedláček Suchan, Svojše, Jiřík z Poděbrad bez Jiřího z Dubé; hrady.cz Jiří z Dubé, Svojše, Suchan); roky nikdo neuvádí.
+- Žebrák / Točník: Strousberg 1868 (Sedláček; hrady.cz 1864 / 1865), Vídeňská hypoteční pokladna koupila v dražbě 5. 4. 1877, Colloredo 27. 2. 1879 (vlastovka 29. 3.); starší zástavní držitelé 1421-1557 a 1705-1723 s roky shodně v obou zdrojích (hrady.cz přebírá Sedláčka).
+- Loučeň: Sedláček díl X, s. 345 za hranicí 1 000 000 znaků archive.org (nepřečteno); hrady.cz 1756 a odkaz Thurn-Taxisovi bez roku.
+- Metoda: Sedláčkova čísla stran jsou z OCR hlaviček, orientační; archive.org fetch vrací max ~1 000 000 znaků na díl (díl X a V mají kapitoly za hranicí - hledat jinou cestou, např. Kramerius).
+
