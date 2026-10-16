@@ -1770,7 +1770,7 @@
   "kraj": "Plzeňský kraj",
   "obec": "Blížejov",
   "founded": null,
-  "founded_text": "19. stol.",
+  "founded_text": "18. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -3668,7 +3668,7 @@
   "kraj": "Středočeský kraj",
   "obec": "Bukovany",
   "founded": null,
-  "founded_text": "20. stol.",
+  "founded_text": "14. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -7921,8 +7921,8 @@
   "lon": 14.57915,
   "kraj": "Praha",
   "obec": "Dolní Počernice",
-  "founded": 1401,
-  "founded_text": "1401",
+  "founded": null,
+  "founded_text": null,
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -7931,7 +7931,8 @@
   "image": "Dolní Počernice zámek jih 1.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1401
  },
  {
   "id": "Q11816973",
@@ -31424,8 +31425,8 @@
   "lon": 16.2186,
   "kraj": "Kraj Vysočina",
   "obec": "Strážek",
-  "founded": 1779,
-  "founded_text": "1779",
+  "founded": null,
+  "founded_text": null,
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -35025,8 +35026,8 @@
   "lon": 14.60561,
   "kraj": "Středočeský kraj",
   "obec": "Nebřenice",
-  "founded": 1437,
-  "founded_text": "1437",
+  "founded": null,
+  "founded_text": null,
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -39375,8 +39376,8 @@
   "lon": 13.44174,
   "kraj": "Plzeňský kraj",
   "obec": "Petrovice u Sušice",
-  "founded": 1121,
-  "founded_text": "1121",
+  "founded": null,
+  "founded_text": "12. stol.",
   "access": "volne",
   "access_sources": [],
   "manager": null,
@@ -39964,8 +39965,8 @@
   "lon": 13.44829,
   "kraj": "Plzeňský kraj",
   "obec": "Petrovice u Sušice",
-  "founded": 1121,
-  "founded_text": "1121",
+  "founded": null,
+  "founded_text": "12. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -41012,8 +41013,7 @@
   "image": "Ostrovačice 13.JPG",
   "visitors": null,
   "nkp": false,
-  "unesco": false,
-  "first_mention": 1683
+  "unesco": false
  },
  {
   "id": "Q30106698",
@@ -43084,6 +43084,27 @@
    "2024": 36223,
    "2023": 41986
   },
+  "nkp": false,
+  "unesco": false
+ },
+ {
+  "id": "Q27555509",
+  "name": "Ratměřice",
+  "wd_label": "Zámek Ratměřice",
+  "kind": "zamek",
+  "lat": 49.64443,
+  "lon": 14.75839,
+  "kraj": "Středočeský kraj",
+  "obec": "Ratměřice",
+  "founded": null,
+  "founded_text": null,
+  "access": "neznamo",
+  "access_sources": [],
+  "manager": null,
+  "website": "https://www.zamek-ratmerice.cz/",
+  "cswiki": "https://cs.wikipedia.org/wiki/Ratměřice_(zámek)",
+  "image": "Ratmerice chateau.jpg",
+  "visitors": null,
   "nkp": false,
   "unesco": false
  },
@@ -46354,8 +46375,7 @@
   "image": "Tvrz Smrčná.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false,
-  "first_mention": 1381
+  "unesco": false
  },
  {
   "id": "Q28605371",
@@ -47269,6 +47289,27 @@
   "website": null,
   "cswiki": "https://cs.wikipedia.org/wiki/Starý_Jičín_(zámek)",
   "image": "Starý Jičín, bývalá škola.jpg",
+  "visitors": null,
+  "nkp": false,
+  "unesco": false
+ },
+ {
+  "id": "Q12056248",
+  "name": "Starý Plumlov",
+  "wd_label": "Starý Plumlov",
+  "kind": "zricenina",
+  "lat": 49.4427,
+  "lon": 16.9301,
+  "kraj": "Jihomoravský kraj",
+  "obec": "vojenský újezd Březina",
+  "founded": null,
+  "founded_text": null,
+  "access": "neznamo",
+  "access_sources": [],
+  "manager": null,
+  "website": null,
+  "cswiki": "https://cs.wikipedia.org/wiki/Starý_Plumlov",
+  "image": "Starý Plumlov - terénní zbytky hradu 2.jpg",
   "visitors": null,
   "nkp": false,
   "unesco": false
@@ -49708,8 +49749,7 @@
   "image": "Telč, náměstí Zachariáše z Hradce, kostel sv. Ducha.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false,
-  "first_mention": 1315
+  "unesco": false
  },
  {
   "id": "Q2243703",
@@ -50778,8 +50818,8 @@
   "lon": 14.8053,
   "kraj": "Jihočeský kraj",
   "obec": "Tučapy",
-  "founded": 1407,
-  "founded_text": "1407",
+  "founded": null,
+  "founded_text": null,
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -50788,7 +50828,8 @@
   "image": "Tučapy - zámek.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false
+  "unesco": false,
+  "first_mention": 1407
  },
  {
   "id": "Q38150170",
@@ -56541,8 +56582,7 @@
   "image": "Všeradice, zámek, hlavní budova.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false,
-  "first_mention": 1381
+  "unesco": false
  },
  {
   "id": "Q19305590",
@@ -57721,7 +57761,7 @@
   "kraj": "Středočeský kraj",
   "obec": "Zvoleněves",
   "founded": null,
-  "founded_text": null,
+  "founded_text": "14. stol.",
   "access": "neznamo",
   "access_sources": [],
   "manager": null,
@@ -57730,8 +57770,7 @@
   "image": "Zvoleneves KL CZ chateau 020.jpg",
   "visitors": null,
   "nkp": false,
-  "unesco": false,
-  "first_mention": 1318
+  "unesco": false
  },
  {
   "id": "Q769690",

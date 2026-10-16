@@ -108,7 +108,9 @@
   "Q136749009",
   "Q12030859",
   "Q12030927",
-  "Q38186476"
+  "Q38186476",
+  "Q12056248",
+  "Q27555509"
  ],
  "exclude": {
   "Q136722727": "duplicate of Pražský hrad Q193369 (no article, generic coordinates)",
@@ -976,6 +978,12 @@
   "Q38186476": {
    "kind": "krypta",
    "name": "Kostel sv. Prokopa s kryptou (Vamberk)"
+  },
+  "Q12056248": {
+   "kind": "zricenina"
+  },
+  "Q27555509": {
+   "kind": "zamek"
   }
  }
 }
