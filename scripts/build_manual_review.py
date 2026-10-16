@@ -86,7 +86,7 @@ def history_section(places):
         "",
         f"{len(rows)} míst s nejistotou (neznámý vlastník, chybějící rok, rozpor nebo nejistota v poznámce; samotné přibližné roky se nepočítají). "
         "Seřazeno podle návštěvnosti NIPOS (poslední rok s údajem). Plné rozpory jsou v poznámkách u jednotlivých "
-        "záznamů v `data/history/<QID>.json`, souhrn po vlnách ověřování v `TODO.md`. "
+        "záznamů v `data/history/<QID>.json`, souhrn po vlnách ověřování v `docs/open-questions.md`. "
         "Po doplnění dat spusť `scripts/build_history.py` a tento soubor znovu vygeneruj.",
         "",
     ]

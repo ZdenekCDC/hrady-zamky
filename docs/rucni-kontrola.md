@@ -4,7 +4,7 @@ Generováno skriptem `scripts/build_manual_review.py` z dat v `data/`. Obsahuje 
 
 ## 1. Historie vlastníků
 
-309 míst s nejistotou (neznámý vlastník, chybějící rok, rozpor nebo nejistota v poznámce; samotné přibližné roky se nepočítají). Seřazeno podle návštěvnosti NIPOS (poslední rok s údajem). Plné rozpory jsou v poznámkách u jednotlivých záznamů v `data/history/<QID>.json`, souhrn po vlnách ověřování v `TODO.md`. Po doplnění dat spusť `scripts/build_history.py` a tento soubor znovu vygeneruj.
+309 míst s nejistotou (neznámý vlastník, chybějící rok, rozpor nebo nejistota v poznámce; samotné přibližné roky se nepočítají). Seřazeno podle návštěvnosti NIPOS (poslední rok s údajem). Plné rozpory jsou v poznámkách u jednotlivých záznamů v `data/history/<QID>.json`, souhrn po vlnách ověřování v `docs/open-questions.md`. Po doplnění dat spusť `scripts/build_history.py` a tento soubor znovu vygeneruj.
 
 ### Lednice (Lednice) - 328477 návštěv, `Q370990`
 
