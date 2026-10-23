@@ -1,0 +1,10 @@
+#!/bin/sh
+# ruff + fast data checks. Install once per clone: git config core.hooksPath scripts/hooks
+set -e
+cd "$(git rev-parse --show-toplevel)"
+if [ ! -x .venv/bin/ruff ]; then
+  echo "pre-commit: .venv/bin/ruff missing. Run: .venv/bin/pip install ruff" >&2
+  exit 1
+fi
+.venv/bin/ruff check .
+python3 -I tests/test_data.py

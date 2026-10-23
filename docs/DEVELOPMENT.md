@@ -27,11 +27,11 @@ Výjimečně se do mapy dávají ručně vybrané objekty z OpenStreetMap, kter�
 
 ## Podkladové mapy
 
-„Krajina + města“ (výchozí) - terén bez popisků a silnic (lesy, reliéf, řeky; Stadia Maps / Stamen Terrain Background) a nad ním vlastní vrstva hranic a měst; okolí ČR je ztlumené. Na `localhost` funguje bez účtu. **Na GitHub Pages** je potřeba zdarma účet na https://stadiamaps.com a v něm zaregistrovat doménu (Manage Properties -> Authentication, domain-based) - klíč do kódu se nedává. Tarif zdarma = nekomerční použití, 200 000 kreditů měsíčně.
+„Krajina + města“ (výchozí) - terén bez popisků a silnic (lesy, reliéf, řeky; Stadia Maps / Stamen Terrain Background) a nad ním vlastní vrstva hranic a měst; okolí ČR je ztlumené. Na `localhost` funguje bez účtu. **Na GitHub Pages** je potřeba zdarma účet na <https://stadiamaps.com> a v něm zaregistrovat doménu (Manage Properties -> Authentication, domain-based) - klíč do kódu se nedává. Tarif zdarma = nekomerční použití, 200 000 kreditů měsíčně.
 
 „Jen města“ - totéž bez terénu, kreslené čistě z `data/basemap/` (hranice ČR a krajů z ČÚZK, města nad 5 000 obyvatel z Wikidat, popisky podle přiblížení); nepotřebuje žádný mapový server a funguje i offline.
 
-Dále OpenStreetMap a turistická OpenTopoMap, obě bez API klíče; volba se pamatuje. Volitelně Mapy.com: vlož klíč do `MAPY_API_KEY` v `app/config.js` (zdarma na https://developer.mapy.com, 250 000 dlaždic měsíčně; na veřejném webu klíč omez na svou doménu).
+Dále OpenStreetMap a turistická OpenTopoMap, obě bez API klíče; volba se pamatuje. Volitelně Mapy.com: vlož klíč do `MAPY_API_KEY` v `app/config.js` (zdarma na <https://developer.mapy.com>, 250 000 dlaždic měsíčně; na veřejném webu klíč omez na svou doménu).
 
 ## Navštívená místa
 
@@ -91,9 +91,13 @@ Požadavky: Python 3.12+ a venv: `python3 -m venv .venv && .venv/bin/pip install
 - Historii nového objektu přidáš jako `data/history/<QID>.json` podle `data/SCHEMA.md` (ručně nebo agentem z cs.wiki), pak `fetch_families.py` a `build_history.py`. Hromadné doplňování po dávkách: [docs/history-batches.md](history-batches.md), další dávku vypíše `scripts/next_history_batch.py`. Co se automaticky nepodařilo dohledat (nejistoty v historiích, rody bez erbu nebo článku, místa bez fotografie), vypíše `python3 scripts/build_manual_review.py` do [docs/rucni-kontrola.md](rucni-kontrola.md) (generovaný soubor s odkazy, kde hledat dál; po opravě dat ho přegeneruj).
 - NIPOS vydává data jednou ročně; při novém ročníku uprav `NIPOS_YEAR` a URL v `scripts/fetch_access.py`.
 
-## Test
+## Test a kontroly
 
 ```sh
-.venv/bin/pip install playwright && .venv/bin/playwright install chromium
+.venv/bin/pip install ruff==0.17.2 playwright && .venv/bin/playwright install chromium
+.venv/bin/ruff check .           # lint (pravidla v pyproject.toml)
+python3 -I tests/test_data.py    # rychlá kontrola dat bez prohlížeče: pole a typy v places.json, jedinečná id, odkazy mezi místy, historií a rody, aktuálnost data/build/
 .venv/bin/python tests/e2e.py    # projde mapu, detail, stroj času, rody, statistiky, návštěvy, porovná obsah s daty (počty rodů a míst, vlastníci, souhrn); screenshoty do $TMPDIR/hz-e2e
 ```
+
+`e2e.py` spustí vlastní server a Playwright Chromium; jiný prohlížeč zadá `CHROMIUM=/cesta/k/chrome`, bez sítě v prohlížeči `E2E_FETCH_EXTERNAL=1` (viz hlavička souboru). Jednorázově po klonu `git config core.hooksPath scripts/hooks`: pre-commit spustí ruff a `test_data.py`, commit-msg odmítne trailer `Co-Authored-By`. Stejné dvě kontroly běží v GitHub Actions (`.github/workflows/check.yml`).

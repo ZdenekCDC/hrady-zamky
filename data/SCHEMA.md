@@ -20,6 +20,8 @@
 `access_sources` (`npu`, `nipos`, `osm`), `manager`, `website`, `cswiki`, `image` (soubor na Commons),
 `visitors` (NIPOS, podle roku), `nkp`, `unesco`.
 
+Všechna pole kromě `first_mention` a `osm` jsou v každé položce vždy přítomná. Hodnota `null` je povolená u `kraj`, `obec`, `founded`, `founded_text`, `manager`, `website`, `cswiki`, `image`, `visitors` (ve skriptech je pak potřeba `if x is not None`, ne `x > 0` nebo `x[...]`); `lat`, `lon`, `kind`, `access`, `access_sources`, `nkp`, `unesco` `null` nikdy nejsou. Hlídá to `tests/test_data.py`.
+
 ## history/&lt;QID&gt;.json
 
 ```json

@@ -72,7 +72,7 @@ def rings(geojson):
 
 def fetch_borders():
     def finish(lines):
-        return [[[round(y, 4), round(x, 4)] for y, x in simplify(l, TOLERANCE)] for l in lines]
+        return [[[round(y, 4), round(x, 4)] for y, x in simplify(line, TOLERANCE)] for line in lines]
     country = rings(get(GEOJSON.format("czech_republic")).json())
     kraje = rings(get(GEOJSON.format("kraje")).json())  # shared kraj edges are drawn twice; harmless
     return {"country": finish(country), "kraje": finish(kraje)}
@@ -84,7 +84,7 @@ def main():
     borders = fetch_borders()
     path = DATA / "basemap" / "borders.json"
     path.write_text(json.dumps(borders, separators=(",", ":")) + "\n", encoding="utf-8")  # compact: ~30k points
-    pts = sum(len(l) for l in borders["country"] + borders["kraje"])
+    pts = sum(len(line) for line in borders["country"] + borders["kraje"])
     print(f"cities {len(cities)}; border lines country {len(borders['country'])}, kraje {len(borders['kraje'])}, points {pts}")
 
 
