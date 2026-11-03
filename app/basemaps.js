@@ -1,11 +1,11 @@
 // Base map layers shared by the main map and the family mini-map.
 // "Jen města" is drawn locally from data/basemap (no tile server, works offline) so castle glyphs stand out;
 // "Krajina + města" adds Stadia's label-free terrain (forests, relief, rivers) underneath;
-// OSM and OpenTopoMap need no API key; Mapy.com appears only when MAPY_API_KEY is set in config.js.
+// OSM, OpenTopoMap and ČÚZK (basic map, orthophoto) need no API key; Mapy.com appears only when MAPY_API_KEY is set in config.js.
 import { MAPY_API_KEY } from "./config.js";
 
 const OSM_ATTR = "© přispěvatelé <a href='https://www.openstreetmap.org/copyright'>OpenStreetMap</a>";
-const DEFAULT = "Krajina + města";
+const DEFAULT = "ČÚZK ortofoto";
 const STADIA_ATTR = "© <a href='https://stadiamaps.com/'>Stadia Maps</a> © <a href='https://stamen.com/'>Stamen Design</a> © <a href='https://openmaptiles.org/'>OpenMapTiles</a> " + "© OpenStreetMap";
 const STORE = "hz-basemap";
 
@@ -88,11 +88,21 @@ function citiesLayer({ terrain = false } = {}) {
   return group;
 }
 
+// ČÚZK open data (CC BY 4.0), public WMTS in Web Mercator, no key needed; zoom 0-19 verified, Czechia only.
+function cuzk(service, title) {
+  return L.tileLayer(`https://ags.cuzk.gov.cz/arcgis1/rest/services/${service}/MapServer/WMTS/tile/1.0.0/${service}/default/GoogleMapsCompatible/{z}/{y}/{x}`, {
+    maxZoom: 19, bounds: [[48.4, 11.9], [51.2, 19.0]],
+    attribution: `${title} © <a href="https://www.cuzk.cz">ČÚZK</a> (CC BY 4.0)`,
+  });
+}
+
 export function baseLayers() {
   const layers = {
-    [DEFAULT]: citiesLayer({ terrain: true }),
+    "Krajina + města": citiesLayer({ terrain: true }),
     "Jen města": citiesLayer(),
     "OpenStreetMap": L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", { maxZoom: 19, attribution: OSM_ATTR }),
+    "ČÚZK základní mapa": cuzk("ZTM_WM", "Základní topografická mapa"),
+    "ČÚZK ortofoto": cuzk("ORTOFOTO_WM", "Ortofoto"),
     "Turistická (OpenTopoMap)": L.tileLayer("https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png", {
       maxZoom: 17, subdomains: "abc", attribution: `${OSM_ATTR}, SRTM | styl © <a href="https://opentopomap.org">OpenTopoMap</a> (CC-BY-SA)`,
     }),

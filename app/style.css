@@ -475,3 +475,7 @@ button.link:hover { text-decoration: underline; }
 .sec .sum { text-transform: none; letter-spacing: 0; font-variant-numeric: tabular-nums; }
 .sec .quick { display: flex; gap: 12px; margin-top: 4px; }
 .info { color: var(--text-muted); font-size: 12px; cursor: help; margin-left: 2px; }
+
+/* "Moje poloha" button and its status line */
+.locate-ctl a { font-size: 20px; line-height: 30px; text-align: center; text-decoration: none; }
+.locate-msg { background: #fff; padding: 4px 8px; font-size: 12px; max-width: 220px; border-top: 1px solid #ccc; }

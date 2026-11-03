@@ -27,7 +27,9 @@ Výjimečně se do mapy dávají ručně vybrané objekty z OpenStreetMap, kter�
 
 ## Podkladové mapy
 
-„Krajina + města“ (výchozí) - terén bez popisků a silnic (lesy, reliéf, řeky; Stadia Maps / Stamen Terrain Background) a nad ním vlastní vrstva hranic a měst; okolí ČR je ztlumené. Na `localhost` funguje bez účtu. **Na GitHub Pages** je potřeba zdarma účet na <https://stadiamaps.com> a v něm zaregistrovat doménu (Manage Properties -> Authentication, domain-based) - klíč do kódu se nedává. Tarif zdarma = nekomerční použití, 200 000 kreditů měsíčně.
+Výchozí podklad je „ČÚZK ortofoto“ (letecké snímky ČR, open data ČÚZK, CC BY 4.0, bez klíče a účtu; mimo ČR se nenačte); volba v přepínači se pamatuje v prohlížeči a přebíjí výchozí.
+
+„Krajina + města“ - terén bez popisků a silnic (lesy, reliéf, řeky; Stadia Maps / Stamen Terrain Background) a nad ním vlastní vrstva hranic a měst; okolí ČR je ztlumené. Na `localhost` funguje bez účtu. **Na GitHub Pages** je potřeba zdarma účet na <https://stadiamaps.com> a v něm zaregistrovat doménu (Manage Properties -> Authentication, domain-based) - klíč do kódu se nedává. Tarif zdarma = nekomerční použití, 200 000 kreditů měsíčně.
 
 „Jen města“ - totéž bez terénu, kreslené čistě z `data/basemap/` (hranice ČR a krajů z ČÚZK, města nad 5 000 obyvatel z Wikidat, popisky podle přiblížení); nepotřebuje žádný mapový server a funguje i offline.
 

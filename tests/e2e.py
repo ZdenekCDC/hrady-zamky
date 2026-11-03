@@ -289,10 +289,28 @@ def main():
             print("screenshot", OUT / f"{name}.png")
 
         page.goto(base)
-        page.evaluate("localStorage.clear()")
+        page.evaluate("localStorage.clear(); localStorage.setItem('hz-basemap', 'Jen města')")  # default is the ČÚZK orthophoto
         page.reload()
         page.wait_for_selector(".mk")
         page.wait_for_selector(".city-label", state="attached")
+
+        # "Moje poloha": mocked position (Prague) centres the map and draws the marker; a denied permission shows a message
+        geo = browser.new_context(geolocation={"latitude": 50.0875, "longitude": 14.4214}, permissions=["geolocation"],
+                              viewport={"width": 1440, "height": 900})
+        gp = geo.new_page()
+        gp.goto(base)
+        gp.wait_for_selector(".locate-ctl a")
+        gp.click(".locate-ctl a")
+        gp.wait_for_selector(".leaflet-overlay-pane path", state="attached")
+        assert gp.locator(".locate-msg").is_hidden(), "locate message should hide after a fix"
+        geo.close()
+        nogeo = browser.new_context(viewport={"width": 1440, "height": 900})
+        np_ = nogeo.new_page()
+        np_.goto(base)
+        np_.click(".locate-ctl a")
+        np_.wait_for_selector(".locate-msg:not([hidden])")
+        assert "zakázaná" in np_.inner_text(".locate-msg"), np_.inner_text(".locate-msg")
+        nogeo.close()
 
         # defaults: only hrad / zámek / hrad a zámek / zřícenina are on, the other kinds stay off until switched on
         castles = {"hrad", "zamek", "hradozamek", "zricenina"}

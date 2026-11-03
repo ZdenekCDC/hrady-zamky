@@ -819,6 +819,45 @@ function closeDetail() {
 
 /* ---------- public ---------- */
 
+/** "Moje poloha" button: centres the map on the device position (browser only, nothing is sent or stored). */
+function addLocateControl(map) {
+  const Locate = L.Control.extend({
+    onAdd() {
+      const box = L.DomUtil.create("div", "leaflet-bar locate-ctl");
+      const btn = L.DomUtil.create("a", "", box);
+      btn.href = "#";
+      btn.role = "button";
+      btn.title = btn.ariaLabel = "Moje poloha";
+      btn.textContent = "◎";
+      const msg = L.DomUtil.create("div", "locate-msg", box);
+      msg.hidden = true;
+      L.DomEvent.disableClickPropagation(box);
+      L.DomEvent.on(btn, "click", (e) => {
+        L.DomEvent.preventDefault(e);
+        if (!navigator.geolocation) { msg.textContent = "Prohlížeč neumí zjistit polohu."; msg.hidden = false; return; }
+        msg.textContent = "Zjišťuji polohu...";
+        msg.hidden = false;
+        map.locate({ setView: true, maxZoom: 12, timeout: 15000 });
+      });
+      let dot = null;
+      map.on("locationfound", (e) => {
+        dot?.remove();
+        dot = L.layerGroup([
+          L.circle(e.latlng, { radius: e.accuracy, interactive: false, weight: 1, color: "#2b6cb0", fillOpacity: 0.1 }),
+          L.circleMarker(e.latlng, { radius: 6, interactive: false, weight: 2, color: "#fff", fillColor: "#2b6cb0", fillOpacity: 1 }),
+        ]).addTo(map);
+        msg.hidden = true;
+      });
+      map.on("locationerror", (e) => {
+        msg.textContent = e.code === 1 ? "Poloha je zakázaná - povol ji u adresního řádku prohlížeče." : `Polohu se nepodařilo zjistit (${e.message}).`;
+        msg.hidden = false;
+      });
+      return box;
+    },
+  });
+  new Locate({ position: "topleft" }).addTo(map);
+}
+
 export function initMap(data) {
   D = data;
   state = loadState();
@@ -826,6 +865,7 @@ export function initMap(data) {
   map = L.map("map", { zoomSnap: 0.25, zoomDelta: 0.5, wheelPxPerZoomLevel: 90 }).fitBounds([[48.55, 12.09], [51.06, 18.86]]);
   attachBaseLayers(map);
   L.control.scale({ imperial: false }).addTo(map);
+  addLocateControl(map);
   layer = L.layerGroup().addTo(map);
   leaders = L.layerGroup().addTo(map);
   map.on("zoomend", refresh);
