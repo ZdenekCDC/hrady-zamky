@@ -73,6 +73,12 @@
   --mk-kind-hradby-soft: #c4b9ae;
   --mk-kind-kostnice-soft: #dad8ce;
   --mk-kind-krypta-soft: #b6aec0;
+  --mk-kind-jeskyne: #7a5a43;
+  --mk-kind-propast: #4a4e69;
+  --mk-kind-ferrata: #2f6f8f;
+  --mk-kind-jeskyne-soft: #c4b1a3;
+  --mk-kind-propast-soft: #a6a8b9;
+  --mk-kind-ferrata-soft: #9cc0d2;
   --mk-free: #5f5e59;
   font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
 }
@@ -112,6 +118,12 @@
   --mk-kind-hradby-soft: #ccc8c2;
   --mk-kind-kostnice-soft: #eeece6;
   --mk-kind-krypta-soft: #b5b3b7;
+  --mk-kind-jeskyne: #857565;
+  --mk-kind-propast: #5f6b75;
+  --mk-kind-ferrata: #a3876a;
+  --mk-kind-jeskyne-soft: #c9c0b7;
+  --mk-kind-propast-soft: #b4bac0;
+  --mk-kind-ferrata-soft: #d6c9bb;
 }
 /* icon theme: saturated; the default (earthy) one is in :root */
 :root[data-icon-theme="syta"] {
@@ -149,6 +161,12 @@
   --mk-kind-hradby-soft: #d2baaa;
   --mk-kind-kostnice-soft: #cbceda;
   --mk-kind-krypta-soft: #c5b0e2;
+  --mk-kind-jeskyne: #8d5524;
+  --mk-kind-propast: #2a4d9b;
+  --mk-kind-ferrata: #ff7f11;
+  --mk-kind-jeskyne-soft: #d0b090;
+  --mk-kind-propast-soft: #9aaad6;
+  --mk-kind-ferrata-soft: #ffc189;
 }
 /* icon theme: pastel (the original light fills); the default (earthy) one is in :root */
 :root[data-icon-theme="pastel"] {
@@ -186,6 +204,12 @@
   --mk-kind-hradby-soft: #e0d6ce;
   --mk-kind-kostnice-soft: #e2e2e8;
   --mk-kind-krypta-soft: #dad0ea;
+  --mk-kind-jeskyne: #c9a98c;
+  --mk-kind-propast: #9aa3c9;
+  --mk-kind-ferrata: #8fcde0;
+  --mk-kind-jeskyne-soft: #e6d6c8;
+  --mk-kind-propast-soft: #ccd1e6;
+  --mk-kind-ferrata-soft: #c6e6ef;
 }
 @media (prefers-color-scheme: dark) {
   :root {

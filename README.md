@@ -7,6 +7,7 @@ Interaktivní mapa českých hradů, zámků, zřícenin a dalších památek (t
 ## Co na mapě najdeš
 
 - **Přes 2 900 míst** z celé republiky: hrady, zámky, zříceniny, tvrze, kláštery, pevnosti, městské opevnění, kostnice a katakomby (nové druhy jsou jen s článkem na cs.wiki nebo ve zdroji návštěvnosti). Zvlášť jsou vidět místa se vstupným (prohlídky, expozice) a volně přístupné zříceniny; typ poznáš podle piktogramu a barvy; barevné téma ikon (zemitá, kámen, sytá, pastelová) si zvolíš v panelu filtrů.
+- **Příroda:** samostatná vrstva s jeskyněmi a propastmi přístupnými veřejnosti (prohlídkové jeskyně, vyhlídky nad Macochou a Hranickou propastí) a via ferratami s obtížností. Jeskyně, kam se bez povolení nesmí, na mapě záměrně nejsou.
 - **Filtry a hledání:** typ, kraj, správce (NPÚ / ostatní), století vzniku, navštívená / nenavštívená; hledat jde místa i šlechtické rody.
 - **Detail místa:** fotka, vznik, stručná historie, časová osa vlastníků, důležité události, návštěvnost, odkazy na web, Wikipedii a navigaci a „Co je poblíž“ - nenavštívená místa do zvolené vzdálenosti.
 - **Stroj času:** posuneš rok (od 9. století) a mapa se obarví podle toho, který rod tehdy místa vlastnil; místa, která ještě nestála, se skryjí.
@@ -32,7 +33,7 @@ Mapa stojí na otevřených datech. Díky všem, kdo je tvoří.
 | [Wikipedie](https://cs.wikipedia.org) | historie vlastníků, události, popisy rodů | CC BY-SA |
 | [Wikimedia Commons](https://commons.wikimedia.org) | fotky a erby; autor a licence jsou uvedeny u každé fotky | podle souboru (hlavně CC BY-SA) |
 | [NPÚ](https://www.npu.cz), [NIPOS](https://www.nipos.cz) | místa se vstupným, návštěvnost 2025 | veřejná statistika |
-| [OpenStreetMap](https://www.openstreetmap.org) | podkladové mapy, doplňující údaje o otevření | ODbL |
+| [OpenStreetMap](https://www.openstreetmap.org) | podkladové mapy, doplňující údaje o otevření, via ferraty, kraj a obec bodů vrstvy Příroda (Nominatim) | ODbL |
 | [Stadia Maps](https://stadiamaps.com) / Stamen | terén výchozí mapy | © Stadia Maps, Stamen, OpenMapTiles, OSM |
 | [ČÚZK](https://cuzk.gov.cz) | hranice ČR a krajů | CC BY 4.0 |
 

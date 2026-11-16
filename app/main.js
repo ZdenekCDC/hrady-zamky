@@ -27,7 +27,7 @@ function route() {
 }
 
 function renderStats() {
-  const open = D.places.filter((p) => p.access === "vstupne");
+  const open = D.places.filter((p) => p.access === "vstupne" && !p.nature);
   const visitedOpen = open.filter((p) => p.visited).length;
   const visited = D.places.filter((p) => p.visited).length;
   document.getElementById("stats").innerHTML =

@@ -1,6 +1,6 @@
 // Map view: markers, filters, time machine, legend and place detail.
 import {
-  ACCESS, HOW, KIND, NOW, commonsThumb, distanceKm, esc, familyName, fuzzyRank, isInstitution, norm,
+  ACCESS, HOW, KIND, NATURE_KINDS, NOW, commonsThumb, distanceKm, esc, familyName, fuzzyRank, isInstitution, norm,
   ownerAt, ownerColor, photoCredit, placeThumb, yearRange,
 } from "./data.js";
 import { attachBaseLayers } from "./basemaps.js";
@@ -19,12 +19,13 @@ const ICON_THEMES = { zemita: "Zemitá", kamen: "Kámen", syta: "Sytá", pastel:
 const DEFAULT_ICON_THEME = "zemita";
 // castles first; the other kinds (towers, monasteries, fortifications...) are switched on in the filters
 const DEFAULT_KINDS = ["hrad", "zamek", "hradozamek", "zricenina"];
+const CASTLE_KINDS = Object.keys(KIND).filter((k) => !NATURE_KINDS.includes(k)); // the "Typ" section; nature has its own
 const DEFAULTS = {
   layers: { vstupne: true, volne: true, neznamo: false },
   kinds: Object.fromEntries(Object.keys(KIND).map((k) => [k, DEFAULT_KINDS.includes(k)])),
   kindsV: 2, // bumps when the default kinds change, see loadState()
   openV: 2, // same for the default open sections
-  open: { layers: true, kinds: false, more: true, fams: true, visits: false, legend: true }, // sidebar sections
+  open: { layers: true, kinds: false, nature: false, more: true, fams: true, visits: false, legend: true }, // sidebar sections
   kraj: "",
   manager: "",
   cFrom: "",
@@ -138,6 +139,12 @@ const PICTOGRAMS = {
   kostnice: "M-.7-.1C-.7-.7 -.4-1 0-1C.4-1 .7-.7 .7-.1C.7 .15 .55 .3 .4 .4V.75H.25V1H-.25V.75H-.4V.4C-.55 .3 -.7 .15 -.7-.1ZM-.45-.1A.17 .17 0 1 0 -.11-.1A.17 .17 0 1 0 -.45-.1ZM.11-.1A.17 .17 0 1 0 .45-.1A.17 .17 0 1 0 .11-.1ZM0 .12L.09 .32H-.09Z",
   // vault with a cross
   krypta: "M-.9 1V-.1A.9 .9 0 0 1 .9-.1V1ZM-.45 1V.1A.45 .45 0 0 1 .45 .1V1ZM-.07 0H.07V.15H.2V.28H.07V.75H-.07V.28H-.2V.15H-.07Z",
+  // rocky hill with a cave mouth and a stalactite
+  jeskyne: "M-1 1V.3L-.6-.45L-.3-.4L0-1L.45-.55L.7-.6L1 .1V1ZM-.5 1V.45A.5 .5 0 0 1 .5 .45V1H.12V.2L0 .5L-.12 .2V1Z",
+  // two cliff edges above a narrowing chasm
+  propast: "M-1-.6L-.6-.75L-.3-.6L-.08 1H-1ZM1-.6L.6-.75L.3-.6L.08 1H1Z",
+  // ladder with rungs on a steep wall (via ferrata)
+  ferrata: "M-.75-1H-.4V1H-.75ZM.4-1H.75V1H.4ZM-.4-.72H.4V-.48H-.4ZM-.4-.12H.4V.12H-.4ZM-.4 .48H.4V.72H-.4Z",
 };
 
 // pictograms need more room than the old circles / squares to stay readable; sizes elsewhere stay as they were
@@ -224,6 +231,7 @@ function passes(p) {
   if (state.cFrom && (c == null || c < +state.cFrom)) return false;
   if (state.cTo && (c == null || c > +state.cTo)) return false;
   if (state.tm) {
+    if (p.nature) return false; // nature has no owners or founding date
     if (p.startYear != null && p.startYear > state.year) return false; // not built yet
     if (p.startYear == null && state.tmHideUndated && !p.visited) return false;
     if (!p.history && !state.onlyHistory && p.access === "neznamo") return false;
@@ -340,7 +348,8 @@ const section = (key, title, body) => `<details class="sec" data-sec="${key}" ${
 
 function sectionSummary(key) {
   if (key === "layers") return `${Object.values(state.layers).filter(Boolean).length} z ${Object.keys(ACCESS).length}`;
-  if (key === "kinds") return `${Object.values(state.kinds).filter(Boolean).length} z ${Object.keys(KIND).length}`;
+  if (key === "kinds") return `${CASTLE_KINDS.filter((k) => state.kinds[k]).length} z ${CASTLE_KINDS.length}`;
+  if (key === "nature") return `${NATURE_KINDS.filter((k) => state.kinds[k]).length} z ${NATURE_KINDS.length}`;
   if (key === "fams") return state.families.length ? String(state.families.length) : "";
   if (key === "more") {
     const n = [state.kraj, state.manager, state.cFrom, state.cTo, state.visits, state.onlyHistory].filter(Boolean).length;
@@ -352,6 +361,13 @@ function sectionSummary(key) {
 function updateSummaries() {
   document.querySelectorAll("#panel-filters [data-sum]").forEach((e) => { e.textContent = sectionSummary(e.dataset.sum); });
 }
+
+const kindCheck = (k) => `
+  <label class="check"><input type="checkbox" data-kind="${k}" ${state.kinds[k] ? "checked" : ""}>
+  ${glyph(k, { size: 12, fill: kindFill(k), stroke: "var(--mk-ink)", strokeWidth: 1.5 })}${KIND[k]}</label>`;
+
+const NATURE_HINT = "Zpřístupněné jeskyně s prohlídkami, volně přístupné jeskyně a vyhlídky nad propastmi (Wikidata), "
+  + "via ferraty z OpenStreetMap. Ostatní jeskyně na mapě nejsou: jsou chráněné zákonem a vstup do nich je bez povolení zakázaný.";
 
 function renderFilters() {
   const kraje = [...new Set(D.places.map((p) => p.kraj).filter(Boolean))].sort((a, b) => a.localeCompare(b, "cs"));
@@ -366,10 +382,11 @@ function renderFilters() {
         <label class="check" title="${esc(a.hint)}"><input type="checkbox" data-layer="${k}" ${state.layers[k] ? "checked" : ""}>
         ${a.label}${info(a.hint)}<span class="count" data-count="${k}"></span></label>`).join("")}`)}
     ${section("kinds", "Typ", `
-      <div class="row">${Object.entries(KIND).map(([k, label]) => `
-        <label class="check"><input type="checkbox" data-kind="${k}" ${state.kinds[k] ? "checked" : ""}>
-        ${glyph(k, { size: 12, fill: kindFill(k), stroke: "var(--mk-ink)", strokeWidth: 1.5 })}${label}</label>`).join("")}</div>
+      <div class="row">${CASTLE_KINDS.map(kindCheck).join("")}</div>
       <div class="quick"><button class="link" data-kinds="castles">jen hrady a zámky</button><button class="link" data-kinds="all">vše</button></div>`)}
+    ${section("nature", "Příroda", `
+      <div class="row">${NATURE_KINDS.map(kindCheck).join("")}</div>
+      <div class="muted" style="font-size:12px">${info(NATURE_HINT)} jen místa přístupná veřejnosti</div>`)}
     ${section("more", "Další filtry", `
       <div class="row">
         <select id="f-kraj"><option value="">všechny kraje</option>${kraje.map((k) => `<option ${state.kraj === k ? "selected" : ""}>${esc(k)}</option>`).join("")}</select>
@@ -418,7 +435,7 @@ function renderFilters() {
   el.querySelectorAll("[data-layer]").forEach((i) => i.addEventListener("change", () => { state.layers[i.dataset.layer] = i.checked; saveState(); refresh(); }));
   el.querySelectorAll("[data-kind]").forEach((i) => i.addEventListener("change", () => { state.kinds[i.dataset.kind] = i.checked; saveState(); refresh(); }));
   el.querySelectorAll("[data-kinds]").forEach((b) => b.addEventListener("click", () => {
-    for (const k of Object.keys(KIND)) state.kinds[k] = b.dataset.kinds === "all" || DEFAULT_KINDS.includes(k);
+    for (const k of CASTLE_KINDS) state.kinds[k] = b.dataset.kinds === "all" || DEFAULT_KINDS.includes(k);
     saveState(); renderFilters(); refresh();
   }));
   el.querySelectorAll("details[data-sec]").forEach((d) => d.addEventListener("toggle", () => { state.open[d.dataset.sec] = d.open; saveState(); }));
@@ -569,7 +586,7 @@ function hoverHtml(p) {
     ${img ? `<img src="${img}" alt="" onerror="this.remove()">` : ""}
     <div class="hov-body">
       <div class="t">${esc(p.name)}${p.visited ? ' <span class="badge visited">navštíveno</span>' : ""}</div>
-      <div class="muted">${KIND[p.kind]} · ${esc(p.obec || "")}${founded ? " · vznik " + esc(founded) : ""}</div>
+      <div class="muted">${KIND[p.kind]} · ${esc(p.obec || "")}${founded ? " · vznik " + esc(founded) : ""}${p.difficulty ? " · obtížnost " + esc(p.difficulty) : ""}</div>
       <div class="muted">${ACCESS[p.access].short}${p.manager ? " · " + esc(p.manager) : ""}${p.visit?.rating ? " · " + "★".repeat(p.visit.rating) : ""}</div>
       ${o ? `<div>V roce ${state.year}: <b>${esc(familyName(D.families, o.owner))}</b></div>` : ""}
       ${fams.length ? `<div class="secondary">${fams.slice(0, 4).map((f) => esc(familyName(D.families, f))).join(", ")}${fams.length > 4 ? " a další" : ""}</div>` : ""}
@@ -688,7 +705,7 @@ function visitSaved(p, info) {
 
 function nearby(p) {
   return D.places
-    .filter((q) => q.id !== p.id && !q.visited && q.access !== "neznamo")
+    .filter((q) => q.id !== p.id && !q.visited && q.access !== "neznamo" && (!q.nature || state.kinds[q.kind]))
     .map((q) => ({ q, d: distanceKm(p, q) }))
     .filter((x) => x.d <= state.radius)
     .sort((a, b) => a.d - b.d)
@@ -725,6 +742,7 @@ function renderDetail(p, pan = true) {
     <dl class="facts">
       <dt>Obec</dt><dd>${esc(p.obec || "?")}${p.kraj ? ", " + esc(p.kraj) : ""}</dd>
       ${founded ? `<dt>Vznik</dt><dd>${esc(founded)}</dd>` : p.first_mention ? `<dt>První zmínka</dt><dd>${p.first_mention}</dd>` : ""}
+      ${p.difficulty ? `<dt>Obtížnost</dt><dd>${esc(p.difficulty)} <span class="muted">(stupnice 0-6, nejtěžší úsek)</span></dd>` : ""}
       ${visitors ? `<dt>Návštěvnost</dt><dd>${visitors[1].toLocaleString("cs")} (${visitors[0]}, NIPOS)</dd>` : ""}
       ${tmOwner ? `<dt>V roce ${state.year}</dt><dd>${esc(familyName(D.families, tmOwner.owner))}${tmOwner.person ? " (" + esc(tmOwner.person) + ")" : ""}</dd>` : ""}
     </dl>
@@ -738,10 +756,10 @@ function renderDetail(p, pan = true) {
     </div>
     <p class="fix"><a id="d-fix" href="${esc(placeIssueUrl(p))}" target="_blank" rel="noopener">Opravit údaj o tomto místě</a>${placeMailUrl(p) ? ` <span class="muted">(<a id="d-fix-mail" href="${esc(placeMailUrl(p))}">e-mailem</a>)</span>` : ""}</p>
 
-    <h4>Vlastníci${h?.owners?.length ? ` <span class="seg" role="group" aria-label="zobrazení vlastníků"><button type="button" data-view="gantt">osa</button><button type="button" data-view="table">tabulka</button></span>` : ""}</h4>
+    ${p.nature ? "" : `<h4>Vlastníci${h?.owners?.length ? ` <span class="seg" role="group" aria-label="zobrazení vlastníků"><button type="button" data-view="gantt">osa</button><button type="button" data-view="table">tabulka</button></span>` : ""}</h4>
     ${h?.owners?.length ? `<div id="d-gantt"></div><div id="d-owners" class="table-wrap" hidden>${ownerTableHtml(p)}</div>` : `<p class="empty">Historie vlastníků zatím není zpracovaná.</p>`}
     ${h?.events?.length ? `<h4>Události</h4><ul class="events">${h.events.map((e) => `<li><span class="y">${e.year ?? ""}</span><span>${esc(e.text)}</span></li>`).join("")}</ul>` : ""}
-    ${h?.sources?.length ? `<p class="muted" style="font-size:12px">Zdroje: ${h.sources.map((s) => `<a href="${esc(s)}" target="_blank" rel="noopener">${esc(decodeURIComponent(s.replace(/^https?:\/\//, "")).slice(0, 48))}</a>`).join(", ")}</p>` : ""}
+    ${h?.sources?.length ? `<p class="muted" style="font-size:12px">Zdroje: ${h.sources.map((s) => `<a href="${esc(s)}" target="_blank" rel="noopener">${esc(decodeURIComponent(s.replace(/^https?:\/\//, "")).slice(0, 48))}</a>`).join(", ")}</p>` : ""}`}
 
     <h4>Co je poblíž</h4>
     <div class="row"><span class="secondary">nenavštívené do</span>

@@ -27,6 +27,7 @@ sys.path.insert(0, str(ROOT / "scripts"))
 import serve as app_server  # noqa: E402  (the real server, with its write API)
 
 DATA_PLACES = json.loads((ROOT / "data" / "places.json").read_text(encoding="utf-8"))
+DATA_NATURE = json.loads((ROOT / "data" / "priroda.json").read_text(encoding="utf-8"))
 DATA_HISTORY = json.loads((ROOT / "data" / "build" / "history.json").read_text(encoding="utf-8"))
 DATA_FAMILIES = json.loads((ROOT / "data" / "build" / "families.json").read_text(encoding="utf-8"))
 KIND_LABELS = set(re.findall(r'^\s+\w+: "([^"]+)",?$', (ROOT / "app" / "data.js").read_text(encoding="utf-8").split("export const KIND = {")[1].split("};")[0], re.M))
@@ -241,6 +242,68 @@ def static_visits(pw, opts, errors):
     ctx.close()
     shutil.rmtree(profile)
     srv.shutdown()
+
+
+def nature_layer(browser, base, errors):
+    """Caves, abysses and via ferratas: their own sidebar section, off by default, detail without owners."""
+    page = browser.new_page(viewport={"width": 1440, "height": 900})
+    page.on("pageerror", lambda e: errors.append(f"pageerror (nature): {e}"))
+    page.goto(base)
+    page.evaluate("localStorage.clear(); localStorage.setItem('hz-basemap', 'Jen města')")
+    page.reload()
+    page.wait_for_selector(".mk")
+    frame = "new Promise((r) => requestAnimationFrame(() => requestAnimationFrame(r)))"
+    base_n = page.locator(".mk").count()
+    assert not page.locator("input[data-kind=jeskyne]").is_checked(), "nature layer should start switched off"
+    page.locator("details[data-sec=nature] summary").click()
+    want = {k: sum(1 for p in DATA_NATURE if p["kind"] == k) for k in ("jeskyne", "propast", "ferrata")}
+    assert all(want.values()), f"data/priroda.json lacks a kind: {want}"
+    total = base_n
+    for kind, n in want.items():
+        page.check(f"input[data-kind={kind}]")
+        page.evaluate(frame)
+        total += n
+        assert page.locator(".mk").count() == total, f"switching on {kind} shows {page.locator('.mk').count() - total + n}, data has {n}"
+    print("nature markers:", want)
+    page.locator("details[data-sec=kinds] summary").click()
+    page.click("[data-kinds=all]")  # "vše" in the Typ section switches castle kinds only
+    page.click("[data-kinds=castles]")
+    assert page.locator("input[data-kind=ferrata]").is_checked(), "castle quick buttons must not touch the nature kinds"
+
+    macocha = next(p for p in DATA_NATURE if p["name"] == "Macocha")
+    page.fill("#search", "macocha")
+    page.wait_for_selector("#search-results li")
+    page.keyboard.press("Enter")
+    page.wait_for_selector("#panel-detail h2")
+    assert macocha["id"] in page.url and page.inner_text("#panel-detail h2").strip() == "Macocha", page.url
+    detail = page.inner_text("#panel-detail")
+    assert "propast" in detail and "Vlastníci" not in detail, "nature detail should name the kind and skip the owners"
+    page.evaluate("window.scrollTo(0, 0)")
+    page.wait_for_timeout(1000)
+    page.screenshot(path=str(OUT / "09-nature-detail.png"))
+
+    ferrata = next(p for p in DATA_NATURE if p["kind"] == "ferrata" and p["difficulty"])
+    page.goto(base + f"#/misto/{ferrata['id']}")
+    page.wait_for_selector(f"#panel-detail a[href='https://www.openstreetmap.org/{ferrata['osm']}']")
+    assert f"Obtížnost{ferrata['difficulty']}" in page.inner_text("#panel-detail .facts").replace("\n", "").replace("\t", ""), \
+        "via ferrata detail without its difficulty"
+    page.goto(base + "#/")
+    page.check("#f-tm")  # the time machine colours owners: nature has none and disappears
+    page.evaluate(frame)
+    tm_with = page.locator(".mk").count()
+    for kind in want:
+        page.uncheck(f"input[data-kind={kind}]")
+    page.evaluate(frame)
+    assert page.locator(".mk").count() == tm_with, "nature markers shown in the time machine"
+    for kind in want:
+        page.check(f"input[data-kind={kind}]")
+    page.uncheck("#f-tm")
+    page.evaluate(frame)
+    assert page.locator(".mk").count() == total, "leaving the time machine did not bring the nature markers back"
+    page.goto(base + "#/statistiky")
+    page.wait_for_selector(".stats-page")
+    assert f"/ {len(DATA_NATURE)}" in page.inner_text(".tiles"), "statistics miss the nature tile"
+    page.close()
 
 
 def main():
@@ -610,6 +673,7 @@ def main():
         page.goto(base + "#/misto/Q2164885")
         page.wait_for_selector("#panel-detail h2")
         shot("06-mobile-detail")
+        nature_layer(browser, base, errors)
         browser.close()
         static_visits(pw, opts, errors)
     srv.shutdown()

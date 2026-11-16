@@ -7,11 +7,13 @@
 | `overrides.json` | ručně | ruční opravy párování a polí míst |
 | `extra_places.json` | ručně | místa z OpenStreetMap bez položky na Wikidata: `{id: "osm-n123", osm: "node/123", name, kind, lat, lon, kraj}`; `build_places.py` je přidá do `places.json` (obec a historie nemají; přístupnost `volne` u zřícenin, jinak `neznamo`) |
 | `places.json` | `scripts/build_places.py` | všechna místa pro mapu |
+| `priroda.json` | `scripts/fetch_priroda.py` | vrstva Příroda: veřejně přístupné jeskyně a propasti (ručně vybrané položky Wikidata v `PLACES` ve skriptu) a via ferraty z OpenStreetMap; `[{id, osm?, name, kind, lat, lon, kraj, obec, access, difficulty, website, cswiki, image}]`. `id` je QID nebo `osm-r123` / `osm-w123` (pak i `osm` = `relation/123`), `kind` `jeskyne` / `propast` / `ferrata` (`NATURE_KINDS` v `app/data.js`), `access` jen `vstupne` (prohlídky, u ferrat `fee=yes` v OSM) nebo `volne`, `difficulty` nejtěžší úsek ferraty podle `via_ferrata_scale` (0-6, jinak `null`); `obec`, `website`, `cswiki`, `image` můžou být `null`. Web je přidá k místům s příznakem `nature` a chybějícími poli `places.json` (`null` / `false`) |
+| `raw/nominatim.json` | `scripts/fetch_priroda.py` | cache reverzního geokódování (kraj, obec) |
 | `history/<QID>.json` | ručně / agent (z cs.wiki) | historie vlastníků jednoho místa |
 | `families/<id>.json` | ručně / agent | detail rodu (erb, popis, původ) |
 | `visited.json` | `serve.py` / ručně | tvoje navštívená místa (jen lokálně, v `.gitignore`) |
 | `build/history.json`, `build/families.json` | `scripts/build_history.py` | agregace pro web (historie, rody, vazby) |
-| `thumbs/<QID>.webp`, `build/thumbs.json` | `scripts/fetch_thumbs.py` | miniatura fotky pro náhled (360x195) a `{QID: {file, artist, license, license_url}}` pro popisek fotky |
+| `thumbs/<QID>.webp`, `build/thumbs.json` | `scripts/fetch_thumbs.py` | miniatura fotky pro náhled (360x195) a `{QID: {file, artist, license, license_url}}` pro popisek fotky (místa z `places.json` i `priroda.json`) |
 
 ## places.json - položka
 

@@ -20,7 +20,13 @@ export const KIND = {
   hradby: "opevnění",
   kostnice: "kostnice",
   krypta: "krypta, katakomby",
+  jeskyne: "jeskyně",
+  propast: "propast",
+  ferrata: "via ferrata",
 };
+
+// nature layer (data/priroda.json): its own section in the filters, off by default, outside the castle statistics
+export const NATURE_KINDS = ["jeskyne", "propast", "ferrata"];
 
 // label = layer switch in the filters, hint = its tooltip, legend = map legend, short = badges and hover
 export const ACCESS = {
@@ -74,12 +80,18 @@ function foundedCentury(p) {
 }
 
 export async function loadAll() {
-  const [places, history, families, thumbs] = await Promise.all([
+  const [castles, nature, history, families, thumbs] = await Promise.all([
     json("data/places.json"),
+    json("data/priroda.json", []),
     json("data/build/history.json", {}),
     json("data/build/families.json", {}),
     json("data/build/thumbs.json", {}),
   ]);
+  // nature places get the fields of places.json they lack, so markers, search, detail and visits treat them alike
+  const places = [...castles, ...nature.map((p) => ({
+    wd_label: p.name, founded: null, founded_text: null, access_sources: [], manager: null, visitors: null,
+    nkp: false, unesco: false, ...p, nature: true,
+  }))];
   const byId = new Map(places.map((p) => [p.id, p]));
   for (const p of places) {
     p.visited = false; // filled in by initVisits()

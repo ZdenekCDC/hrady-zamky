@@ -82,6 +82,8 @@ def download(qid, f, info):
 def main():
     limit = int(sys.argv[1]) if len(sys.argv) > 1 else None
     places = load(DATA / "places.json")
+    if (DATA / "priroda.json").exists():  # caves and abysses from scripts/fetch_priroda.py
+        places += load(DATA / "priroda.json")
     meta = load(META) if META.exists() else {}
     OUT.mkdir(parents=True, exist_ok=True)
 

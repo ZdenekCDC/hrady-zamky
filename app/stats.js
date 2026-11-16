@@ -27,7 +27,9 @@ function barRows(rows, label) {
 }
 
 function html() {
-  const places = D.places;
+  const places = D.places.filter((p) => !p.nature); // castles and monuments; nature has its own tile
+  const nature = D.places.filter((p) => p.nature);
+  const natureVisited = nature.filter((p) => p.visited).length;
   const visited = places.filter((p) => p.visited);
   const open = places.filter((p) => p.access === "vstupne");
   const openVisited = open.filter((p) => p.visited).length;
@@ -55,6 +57,7 @@ function html() {
     <div class="tiles">
       ${tile(`${visited.length} / ${places.length}`, `všech míst (${pct(visited.length, places.length)} %)`)}
       ${tile(`${openVisited} / ${open.length}`, `míst se vstupným (${pct(openVisited, open.length)} %)`)}
+      ${nature.length ? tile(`${natureVisited} / ${nature.length}`, "jeskyní, propastí a ferrat") : ""}
       ${tile(avg, `průměrné hodnocení (${rated.length} hodnocených)`)}
     </div>
     ${visited.length ? "" : `<p class="empty">Zatím žádná navštívená místa - označ je v detailu na mapě.</p>`}

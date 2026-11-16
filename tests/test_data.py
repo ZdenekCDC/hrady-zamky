@@ -94,6 +94,31 @@ class DataTest(unittest.TestCase):
         missing = [f"{q}: {o['owner']}" for q, h in load(DATA / "build" / "history.json").items()
                    for o in h["owners"] if o["owner"] not in families]
         self.assertFalse(missing, f"owners missing in build/families.json: {missing[:10]}")
+
+    def test_nature_places(self):
+        """data/priroda.json (scripts/fetch_priroda.py): only places the public may enter, ids apart from places.json."""
+        nature = load(DATA / "priroda.json")
+        src = (ROOT / "app" / "data.js").read_text(encoding="utf-8")
+        kinds = set(re.findall(r'"(\w+)"', src.split("export const NATURE_KINDS = [")[1].split("]")[0]))
+        required = {"id", "name", "kind", "lat", "lon", "kraj", "obec", "access", "difficulty", "website", "cswiki", "image"}
+        problems = []
+        for p in nature:
+            if required - p.keys():
+                problems.append(f"{p.get('id')}: missing {sorted(required - p.keys())}")
+            if not ID_RE.match(p["id"]) or p["id"] in self.by_id:
+                problems.append(f"{p['id']}: malformed or also in places.json")
+            if p["kind"] not in kinds or p["kind"] not in self.kinds:
+                problems.append(f"{p['id']}: kind {p['kind']!r} not in NATURE_KINDS and KIND (app/data.js)")
+            if p["access"] not in {"vstupne", "volne"}:
+                problems.append(f"{p['id']}: access {p['access']!r}, nature lists only places open to the public")
+            if not p["kraj"] or not (LAT[0] <= p["lat"] <= LAT[1] and LON[0] <= p["lon"] <= LON[1]):
+                problems.append(f"{p['id']}: no kraj or outside the Czech Republic")
+            if p["id"].startswith("osm-") != ("osm" in p):
+                problems.append(f"{p['id']}: osm-... ids carry the osm element, Wikidata ids do not")
+        ids = [p["id"] for p in nature]
+        self.assertEqual(len(ids), len(set(ids)), "duplicate ids in priroda.json")
+        self.assertFalse(problems, "\n".join(problems[:20]))
+
     def test_build_is_current(self):
         build = load(DATA / "build" / "history.json")
         self.assertEqual(set(build), set(self.history), "data/build/history.json is stale: run scripts/build_history.py")
