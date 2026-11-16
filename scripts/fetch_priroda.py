@@ -67,6 +67,15 @@ RENAME = {
     "osm-r17865367": "Via ferrata Vodní brána",  # Modrá, Červená and Fialová routes
     "osm-w1565266783": "Via ferrata Frýdštejn",  # routes B and S, skab.cz
 }
+# hand-picked Commons photos: OSM and Wikidata have none for the Czech via ferratas (searched near each site, 2026-11)
+PHOTOS = {
+    "osm-r10583796": "Ferrata v Bechyni nad řekou Lužnicí.jpg",
+    "osm-w767935377": "Bečovská botanická zahrada Bioferrata (3285).jpg",
+    "osm-r10592815": "Kočičí kameny, Via ferrata (3).jpg",
+    "osm-r10601614": "20134PastFerataW.jpg",
+    "osm-r10588000": "Výlez z ferraty na Slánské hoře.jpg",
+    "osm-r17865367": "Lanový mostek na ferratě Vodní brána.jpg",
+}
 SKIP = {
     "osm-w1558610818",  # part C of Via ferrata Hluboká (osm-r17248977), 1 km away
 }
@@ -167,7 +176,7 @@ def ferratas(cache):
             "id": sid, "osm": f"{head['type']}/{head['id']}", "name": name, "kind": "ferrata", "lat": lat, "lon": lon,
             "kraj": kraj, "obec": obec, "access": "vstupne" if any(t.get("fee") == "yes" for t in tags) else "volne",
             "website": next((t.get("website") or t.get("url") for t in tags if t.get("website") or t.get("url")), None),
-            "cswiki": None, "image": None, "difficulty": max_scale(c),
+            "cswiki": None, "image": PHOTOS.get(sid), "difficulty": max_scale(c),
         })
     return out
 
